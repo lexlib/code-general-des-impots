@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1981-01-01
+Version Consolidée au 1981-01-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -37201,7 +37201,16 @@ Tout employeur occupant au minimum dix salariés [*effectif*], à l'exception de
 participant, chaque année, au financement d'actions de formation du type de celles définies à l'article L 900-2 du code du
 travail.
 
+Pour l'appréciation de la condition d'effectif, les salariés à temps partiel sont pris en compte dans les conditions fixées
+par l'article L. 212-4-4 du code du travail (1).
+
+(1) Annexe II, art. 163 nonies.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
 
 _Cité par_:
 
@@ -37215,11 +37224,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail - art. L900-2 (M)
+  - Code du travail - art. L212-4-4 (M)
+  - Code du travail L900-2 CGIAN2 163 nonies
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°83-899 1983-10-06
 
 
 ###### Article 235 ter HB
