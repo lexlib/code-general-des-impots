@@ -2,13 +2,13 @@
 
 I. 1. Les salariés d'une entreprise qui souscrivent en numéraire au capital initial ou aux augmentations de capital
 intervenant dans les trois ans qui suivent la date de constitution d'une société nouvelle ayant pour objet exclusif de
-racheter tout ou partie du capital de leur entreprise peuvent bénéficier d'une réduction d'impôt égale à 25 p. 100 des
-versements afférents à leurs souscriptions. Ces versements doivent intervenir dans les trois ans suivant la date de
-constitution de la société et sont retenus dans une limite qui ne peut excéder pendant cette période 40 000 F pour les
-contribuables célibataires, veufs ou divorcés, et 80 000 F pour les contribuables mariés soumis à imposition commune. Les
-dispositions du 5 du I de l'article 197 sont applicables.
+racheter tout ou partie du capital de leur entreprise peuvent bénéficier d'une réduction d'impôt égale à 25 % des versements
+afférents à leurs souscriptions. Ces versements doivent intervenir dans les trois ans suivant la date de constitution de la
+société et sont retenus dans une limite qui ne peut excéder pendant cette période 40 000 F pour les contribuables
+célibataires, veufs ou divorcés, et 80 000 F pour les contribuables mariés soumis à imposition commune. Les dispositions du 5
+du I de l'article 197 sont applicables.
 
-Un salarié ne peut bénéficier que de l'un des avantages mentionnés à l'alinéa précédent ou à l'article 83 ter et pour les
+Un salarié ne peut bénéficier que de l'un des avantages mentionnés au premier alinéa ou à l'article 83 ter et pour les
 souscriptions au capital d'une seule société.
 
 2. L'avantage prévu au 1 est maintenu en cas d'apports des titres de la société nouvelle effectués dans les conditions
@@ -40,10 +40,14 @@ _Cite_:
   - CGI 199 terdecies, 83 ter, 197
   - CGIAN3 46 AM à 46 AO
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 11 avril 1997
+  - Décret n°2002-923 2002-06-06
 
 _Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 83 () JORF 31 décembre 1996
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
