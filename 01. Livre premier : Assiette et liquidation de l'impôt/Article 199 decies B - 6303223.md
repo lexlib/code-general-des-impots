@@ -8,8 +8,7 @@ portée à 400.000 F et celle de 600.000 F à 800.000 F lorsque la location est 
 2° La location prend effet dans les six mois qui suivent l'achèvement de l'immeuble ou son acquisition si elle est
 postérieure ;
 
-3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par le décret prévu au troisième alinéa du 3° du
-I de l'article 156.
+3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret.
 
 Ces dispositions s'appliquent également aux souscriptions au capital de sociétés civiles régies par la loi n° 70-1300 du 31
 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées à faire publiquement appel à l'épargne, réalisées à
@@ -31,13 +30,17 @@ bénéfice de la réduction d'impôt est demandé.
 
 _Cite_:
 
-  - CGI 156, 199 decies A
+  - CGI 199 decies A
   - Loi n°70-1300 1970-12-31
   - Code de l'urbanisme - art. R421-40 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 5 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi n°93-859 1993-06-22 art. 24 Finances rectificative pour 1993 JORF 23 juin 1993
+
+_Codifié par_:
+
+  - Décret n°93-1127 1993-09-24
 
 _Cité par_:
 
@@ -45,4 +48,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - TXT_ASSOCIE: Instruction 1993-12-22 5B-1-94
