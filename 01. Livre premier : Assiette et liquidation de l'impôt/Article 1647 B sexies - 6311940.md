@@ -50,11 +50,11 @@ l'établissement public de coopération intercommunale et de la commune sont dif
 chacune de ces collectivités est calculée en appliquant le taux qu'elle ont voté pour 1995 ou pour l'année d'imposition si la
 somme de leurs taux pour cette même année est inférieure à celle de 1995 ; lorsqu'un établissement public de coopération
 intercommunale à fiscalité additionnelle perçoit, pour la première fois à compter de 1996, la taxe professionnelle, en
-application des articles 1609 bis, 1609 quinquies et du I de l'article 1609 quinquies C, le taux retenu pour le calcul de la
-part de la cotisation revenant au établissement public de coopération intercommunale est égal, dans la limite du taux du
-établissement public de coopération intercommunale pour l'année d'imposition, à la différence si elle est positive entre le
-taux de la commune pour 1995 et le taux de cette collectivité pour l'année d'imposition, ou au taux de l'établissement public
-de coopération intercommunale pour l'année d'imposition si la somme des taux de la commune et de l'établissement public de
+application de l'article 1609 bis et du I de l'article 1609 quinquies C, le taux retenu pour le calcul de la part de la
+cotisation revenant au établissement public de coopération intercommunale est égal, dans la limite du taux du établissement
+public de coopération intercommunale pour l'année d'imposition, à la différence si elle est positive entre le taux de la
+commune pour 1995 et le taux de cette collectivité pour l'année d'imposition, ou au taux de l'établissement public de
+coopération intercommunale pour l'année d'imposition si la somme des taux de la commune et de l'établissement public de
 coopération intercommunale pour cette même année est inférieure au taux de la commune pour 1995.
 
 2. Pour l'application du premier alinéa du 1, lorsqu'un établissement public de coopération intercommunale perçoit, pour la
@@ -147,7 +147,7 @@ impositions établies au titre de 1995 et des années suivantes.
 
 _Cite_:
 
-  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609, 1467, 39, 50-0, 102 ter
+  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1609 bis, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609, 1467, 39, 50-0, 102 ter
 
 _Cité par_:
 
@@ -172,12 +172,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 61 (V) JORF 31 décembre 2003
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 7 () JORF 27 mars 2004
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 61 III
   - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2001-02-20 6E-4-01
-  - TXT_ASSOCIE: Instruction 2001-09-10 6A-4-01
-  - TXT_ASSOCIE: Instruction 2003-02-20 6D-1-03
