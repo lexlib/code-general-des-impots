@@ -1,7 +1,7 @@
 # Article 1609 nonies C
 
 I. Les communautés de villes sont substituées aux communes membres pour l'application des dispositions relatives à la taxe
-professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA ainsi que des 1° et 3° du II de l'article 1648 B.
+professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA ((ainsi que du 3° du II de l'article 1648 B)) (M).
 Elles perçoivent le produit de cette taxe.
 
 Il est créé une commission locale chargée d'évaluer les transferts de charges entre la communauté de villes et les communes
@@ -43,14 +43,12 @@ lorsqu'il était supérieur à 10 p. 100 et inférieur à 20 p. 100, par dixièm
 2° Au titre des années suivant la première année d'application des dispositions du 1° ci-dessus, le taux de taxe
 professionnelle est fixé par le conseil de communauté dans les conditions prévues au II de l'article 1636 B decies.
 
-((3° En cas de rattachement d'une commune à un groupement faisant application du présent article, les dispositions des I et
-II de l'article 1638 quater sont applicables)) (1').
+3° En cas de rattachement d'une commune à un groupement faisant application du présent article, les dispositions des I et II
+de l'article 1638 quater sont applicables.
 
 III. 1° La communauté verse à chaque commune membre une attribution de compensation égale au produit de taxe professionnelle
 perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût net des charges
 transférées calculé dans les conditions définies au I ci-dessus.
-
-(Abrogé).
 
 Les reversements de taxe professionnelle prévus à l'alinéa précédent constituent une dépense obligatoire pour la communauté.
 Le conseil de communauté communique aux communes membres avant le 15 février le montant prévisionnel des sommes leur revenant
@@ -60,7 +58,7 @@ Dans le cas où une diminution des bases imposables de taxe professionnelle réd
 compensation sont réduites dans la même proportion.
 
 2° Le conseil de communauté prélève sur le produit de la taxe professionnelle le montant nécessaire à la couverture des
-charges transférées dans les conditions prévues au I ci-desus.
+charges transférées dans les conditions prévues au I ci-dessus.
 
 Les charges correspondant aux compétences communautaires financées par la taxe professionnelle perçue par la communauté sont
 fixées lors de l'examen du budget annuel de celle-ci.
@@ -77,13 +75,13 @@ tiers.
 A défaut de réunion de la majorité requise dans les trois mois suivant la mise en application du présent article, la dotation
 de solidarité communautaire est répartie selon les règles suivantes :
 
-- 30 p. 100 selon le supplément de bases de taxe professionnelle constaté dans chaque commune ;
+30 p. 100 selon le supplément de bases de taxe professionnelle constaté dans chaque commune ;
 
-- 30 p. 100 selon les bases de taxe professionnelle par habitant de chaque commune ;
+30 p. 100 selon les bases de taxe professionnelle par habitant de chaque commune ;
 
-- 30 p. 100 selon la population communale totale ;
+30 p. 100 selon la population communale totale ;
 
-- 10 p. 100 selon le nombre d'établissements soumis à la législation sur les installations classées implantées dans chaque
+10 p. 100 selon le nombre d'établissements soumis à la législation sur les installations classées implantées dans chaque
 commune.
 
 IV. Lorsqu'il est fait application à un groupement doté d'une fiscalité propre des dispositions du présent article,
@@ -112,11 +110,8 @@ calcul de la compensation visée au deuxième alinéa de l'article 21 de la loi 
 prévu au présent article ou, lorsqu'il s'agit d'une communauté de villes, par le groupement dont celle-ci est issue ou auquel
 elle s'est substituée.
 
-VI. 1. Les sommes versées aux communes en application du IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
-décembre 1986), modifié par l'article 46 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991), l'article 124 de
-la loi n° 92-125 du 6 février 1992 d'orientation relative à l'administration territoriale de la République ((et l'article 54
-de la loi de finances pour 1994 (n° 93-1352 du 30 décembre 1993) )) (1') leur restent acquises lorsqu'elles deviennent
-membres d'une communauté de villes.
+VI 1. ((Les sommes versées aux communes en application du IV modifié de l'article 6 de la loi de finances pour 1987 (n°
+86-1317 du 30 décembre 1986) leur restent acquises lorsqu'elles deviennent membres d'une communauté de villes)) (M).
 
 2. Les groupements de communes soumis aux dispositions du prése article bénéficient de la compensation prévue au IV bis de
 l'article 6 précité de la loi de finances pour 1987 au lieu et place de leurs communes membres.
@@ -137,26 +132,19 @@ s'agit d'une communauté de villes, par le groupement dont celle-ci est issue ou
 
 (1) Voir décret 93-220 du 16 février 1993, JO du 18).
 
-(1') Modifications de la loi.
+(M) Modifications de la loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1609 nonies D, 1648 A, 1648 AA, 1648 B, 1636 B decies, 1609 nonies C, 1390, 1391, 1414, 6, 1638 quater
-  - Loi n°86-1317 du 30 décembre 1986 - art. 6, v. init.
-  - Loi n°91-1322 1991-12-30 art. 21, art. 46
-  - Loi n°92-125 1992-02-06 art. 124
-  - Loi n°92-1376 1992-12-30 Finances pour 1993
+  - CGI 1648 A, 1648 AA, 1648 B, 1636 B decies, 1638 quater, 1609 nonies C, 1390, 1391, 1414, 6
+  - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
+  - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992
   - Décret n°93-220 1993-02-16
   - CODE DES COMMUNES. - art. L168-1 (Ab)
   - CODE DES COMMUNES. - art. L168-5 (Ab)
   - CODE DES COMMUNES. - art. L168-7 (Ab)
-  - Loi n°93-1352 1993-12-29 art. 54 Finances pour 1994
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
 
 _Cité par_:
 
@@ -251,9 +239,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-1352 1993-12-30 art. 93 I II, art. 54 JORF 31 décembre 1993 Finances pour 1994
-  - Loi n°93-1352 du 30 décembre 1993 - art. 93 (V) JORF 31 décembre 1993 Finances pour 1994
+  - Loi n°95-115 du 4 février 1995 - art. 70 () JORF 5 février 1995
 
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1281 1995-12-11
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
