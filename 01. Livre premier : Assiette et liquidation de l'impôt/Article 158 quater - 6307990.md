@@ -5,8 +5,8 @@ Les dispositions des articles 158 bis et 158 ter ne sont pas applicables aux pro
 1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion ;
 
 2° Par les sociétés d'investissement régies par le titre II de l'ordonnance n° 45-2710 du 2 novembre 1945 et remplissant les
-conditions prévues à l'article 208 A, par les sociétés d'investissement à capital variable [*SICAV*] régies par la loi n°
-88-1201 du 23 décembre 1988 et par les sociétés visées au 1° ter de l'article 208 ;
+conditions prévues à l'article 208 A, par les sociétés d'investissement à capital variable [*SICAV*] régies par ((la loi n°
+88-1201 du 23 décembre 1988 modifiée)) (M) et par les sociétés visées au 1° ter de l'article 208 ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie visés au cinquième alinéa du 3° quater de l'article 208 et
 prélevés sur les bénéfices exonérés visés au quatrième alinéa du 3° quater du même article ;
@@ -27,6 +27,8 @@ produits nets exonérés en application de l'article 208 quinquies.
 
 8° Par les sociétés exonérées de précompte dans les conditions prévues au 8° du 3 de l'article 223 sexies.
 
+(M) Modification de la loi 96-597.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -38,14 +40,13 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
-  - SPEC_APPLI: Loi n°92-1476 1992-12-31 art. 78 III Finances rectificative pour 1992
+  - HISTO: Edition du 11 avril 1997
 
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 16 I III Finances pour 1990 JORF 30 décembre 1989
-  - Loi - art. 78 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+  - Loi n°96-597 du 2 juillet 1996 - art. 91 () JORF 4 juillet 1996
+  - Loi n°96-597 du 2 juillet 1996 - art. 92 () JORF 4 juillet 1996
 
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°97-661 1997-05-28

@@ -21,12 +21,11 @@ l'alinéa précédent, sans que le total des souscriptions effectuées jusqu'au 
 date de création de la première société au capital de laquelle le contribuable a souscrit puisse excéder respectivement
 40.000 F et 80.000 F.
 
-III. Les souscriptions donnant lieu aux déductions prévues au dernier alinéa de l'article 62, au 2° quater de l'article 83,
-aux articles 163 quindecies et 163 septdecies ou ((à la réduction d'impôt prévue à l'article 199 undecies)) (M) ne peuvent
-ouvrir droit à la réduction d'impôt mentionnée au I.
+III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de l'article 83, aux articles 163 quindecies et 163
+septdecies ou à la réduction d'impôt prévue à l'article 199 undecies ne peuvent ouvrir droit à la réduction d'impôt
+mentionnée au I.
 
-IV. La réduction d'impôt s'applique sur l'impôt calculé dans les conditions fixées par l'article 197 ; elle ne peut donner
-lieu à remboursement.
+IV. ((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
 
 Lorsque tout ou partie des actions ou parts ayant donné lieu, directement ou indirectement, à la réduction d'impôt est cédé
 ou racheté, il est pratiqué une reprise égale au quart du montant de la cession ou du rachat dans la limite des réductions
@@ -50,7 +49,7 @@ contribuables et aux sociétés nouvelles (2).
 
 (1) Le bénéfice de la réduction d'impôt prévue au I est supprimé à compter de l'imposition des revenus de 1994.
 
-(M) Modification du décret.
+(M) Modification de la loi 96-1181.
 
 (2) Voir Annexe III art. 46 AI.
 
@@ -64,11 +63,7 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
-
-_Modifié par_:
-
-  - Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994 : Conséquences de la péremption des articles 199 quinquies à 199 quinquies G et 163 octodecies
+  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 
@@ -76,4 +71,9 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
+  - HISTO: Edition du 11 avril 1997
+
+_Modifié par_:
+
+  - Loi n°96-1181 du 30 décembre 1996 - art. 14 (V) JORF 31 décembre 1996
+  - Loi n°96-1181 du 30 décembre 1996 - art. 83 () JORF 31 décembre 1996
