@@ -10,19 +10,26 @@ exceptionnel est réintégré au bénéfice imposable de l'exercice au cours duq
 égale au produit de ce montant par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué
 dans les conditions mentionnées à l'article 1727 A.
 
-Un décret fixe les obligations déclaratives (1).
+Un décret fixe les obligations déclaratives (1) (2).
 
 **Nota:**
 
 (1) Ces dispositions s'appliquent pour l'établissement de l'impôt sur les sociétés dû à raison des résultats des exercices
 ouverts à compter du 1er janvier 2002.
 
+(2) Voir l'article 46 quater-0 ZZ sexies de l'annexe III.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1727, 1727 A
+  - CGIAN3 46 quater-0 ZZ sexies
   - Loi n°2000-1208 du 13 décembre 2000 - art. 89 (V)
+
+_Modifié par_:
+
+  - Décret n°2002-574 du 18 avril 2002 - art. 1 () JORF 25 avril 2002
 
 _Cité par_:
 
@@ -30,9 +37,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 33 II
-
-_Créé par_:
-
-  - Loi - art. 33 (V) JORF 29 décembre 2001
+  - HISTO: Edition du 31 août 2002
+  - TXT_ASSOCIE: Instruction 2002-10-08 4D-5-02
