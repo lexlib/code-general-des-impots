@@ -6,7 +6,7 @@ conditions définies par la loi n° 92-666 du 16 juillet 1992 modifiée.
 Chaque contribuable ou chacun des époux soumis à imposition commune ne peut être titulaire que d'un plan. Un plan ne peut
 avoir qu'un titulaire.
 
-Le titulaire d'un plan effectue des versements en numéraire dans une limite de 600 000 F.
+Le titulaire d'un plan effectue des versements en numéraire dans une limite de 120 000 euros (1).
 
 II. 1. Les parts des fonds mentionnés au 3 du III de l'article 150-0 A ne peuvent figurer dans le plan d'épargne en actions.
 
@@ -14,9 +14,9 @@ Les sommes versées sur un plan d'épargne en actions ne peuvent être employée
 conditions mentionnées à l'article 80 bis.
 
 2. Les titres ou parts dont la souscription a permis au titulaire du plan de bénéficier des avantages fiscaux résultant des
-dispositions des 2° quater et 2° quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 quinquies B, 163
-septdecies, 199 undecies, 199 undecies A et 199 terdecies A, du I bis de l'article 163 bis C, du deuxième alinéa du II de
-l'article 726 ainsi que du III ter de l'article 810 ne peuvent figurer dans le plan.
+dispositions des 2° quater et 2° quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 septdecies, 199 undecies,
+199 undecies A et 199 terdecies A, du I bis de l'article 163 bis C, du deuxième alinéa du II de l'article 726 ainsi que du
+III ter de l'article 810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne doivent pas, pendant la durée du plan, détenir
 ensemble, directement ou indirectement, plus de 25 p. 100 des droits dans les bénéfices de sociétés dont les titres figurent
@@ -33,17 +33,26 @@ la clôture du plan.
 IV. Les avoirs fiscaux et crédits d'impôt attachés aux produits encaissés dans le cadre du plan sont restitués dans des
 conditions fixées par décret.
 
+**Nota:**
+
+(1) Ces dispositions s'appliquent à compter du 1er janvier 2002.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 150-0 A, 80 bis, 83, 83 ter, 726, 810, 150 U, 150 V, 163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies, 199 terdecies A, 163 bis C
+  - CGI 150-0 A, 80 bis, 83, 83 ter, 726, 810, 150 U, 150 V, 163 septdecies, 199 undecies, 199 terdecies, 199 terdecies A, 163 bis C
   - Loi n°92-666 1992-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 79 IV, V
 
 _Modifié par_:
 
-  - Loi - art. 19 (V) JORF 31 décembre 2000
-  - Loi n°2000-1352 2000-12-30 art. 19 I, D, 4 Finances pour 2001 JORF 31 décembre 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 79 (V) JORF 29 décembre 2001
 
 _Cité par_:
 
@@ -62,7 +71,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 885-0 V bis (MMN)
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E bis (V)
   - Livre des procédures fiscales - art. R96 D-1 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
