@@ -1,18 +1,20 @@
 # Article 208 quater
 
-I 1. En vue de favoriser le développement économique et social des départements d'outre-mer et la création d'emplois nouveaux
-dans le cadre des directives du plan de modernisation et d'équipement, peuvent être affranchis, en totalité ou en partie, de
-l'impôt sur les sociétés pendant une durée de dix ans à compter de la mise en marche effective de leurs installations :
+I 1. En vue de favoriser le développement économique et social des départements d'outre-mer et la création d'emplois
+nouveaux, peuvent être affranchis, en totalité ou en partie, de l'impôt sur les sociétés pendant une durée de dix ans à
+compter de la mise en marche effective de leurs installations :
 
 a. Le bénéfices réalisés par les sociétés passibles de l'impôt sur les sociétés qui auront été constituées postérieurement à
-l'entrée en vigueur de la loi n° 60-1368 du 21 décembre 1960 mais avant le 31 décembre 2001, à la condition que l'objet de
+l'entrée en vigueur de la loi n° 60-1368 du 21 décembre 1960 mais avant le 31 décembre 2006, à la condition que l'objet de
 ces sociétés et leur programme d'activité aient reçu l'agrément du ministre du budget après avis des commissions locale et
-centrale instituées par l'article 18 du décret n° 52-152 du 13 février 1952 (1) ;
+centrale instituées par l'article 18 du décret n° 52-152 du 13 février 1952 ;
 
 b. Sous la même condition, les bénéfices réalisés par des sociétés anciennes passibles de l'impôt sur les sociétés au titre
 d'une activité nouvelle, entreprise postérieurement à l'entrée en vigueur de la loi du 21 décembre 1960 précitée mais avant
-le 31 décembre 2001. Les dispositions du présent paragraphe ne s'appliquent pas aux plus-values provenant de la cession de
-tout ou partie du portefeuille ou de l'actif immobilisé.
+le 31 décembre 2006.
+
+Les dispositions du présent paragraphe ne s'appliquent pas aux plus-values provenant de la cession de tout ou partie du
+portefeuille ou de l'actif immobilisé.
 
 2. (Abrogé).
 
@@ -25,25 +27,17 @@ II. Les dispositions du I sont applicables, pour une durée de cinq ans, aux bé
 industrielles métropolitaines des opérations de franchisage réalisées à compter du 1er janvier 1983 avec des entreprises
 nouvelles à caractère industriel exploitées dans les départements d'outre-mer.
 
-(1) Voir Annexe IV, art. 121 V bis et 121 V ter.
-
 **Liens relatifs à cet article**
 
-_Cite_:
+**Liens**:
 
-  - CGIAN4 121 V bis, 121 V ter
-  - Décret n°52-152 du 13 février 1952 - art. 18, v. init.
-  - Loi n°60-1368 1960-12-21
+  - HISTO: Edition du 31 mars 2002
+
+_Modifié par_:
+
+  - Loi n°2001-1275 du 28 décembre 2001 - art. 86
 
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 V octies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 V quinquies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-
-_Modifié par_:
-
-  - Loi n°96-1182 du 30 décembre 1996 - art. 40 () JORF 31 décembre 1996

@@ -1,12 +1,11 @@
 # Article 238 bis AB
 
-Les entreprises qui achètent, à compter du 1er juillet 1987 des oeuvres originales d'artistes vivants et les inscrivent à un
-compte d'actif immobilisé peuvent déduire du résultat imposable de l'exercice d'acquisition et des dix-neuf années suivantes,
-par fractions égales, une somme égale au prix d'acquisition ; pour les oeuvres achetées à compter du 1er janvier 1994, cette
-déduction est pratiquée, par fractions égales, sur l'exercice d'acquisition et les neuf années suivantes .
+Les entreprises qui achètent, à compter du 1er janvier 2002, des oeuvres originales d'artistes vivants et les inscrivent à un
+compte d'actif immobilisé peuvent déduire du résultat de l'exercice d'acquisition et des quatre années suivantes, par
+fractions égales, une somme égale au prix d'acquisition.
 
 La déduction ainsi effectuée au titre de chaque exercice ne peut excéder la limite mentionnée au premier alinéa du 2 de
-l'article 238 bis, minorée du total des déductions mentionnées à l'article 238 bis AA du code général des impôts.
+l'article 238 bis, minorée du total des déductions mentionnées à l'article 238 bis AA.
 
 Pour bénéficier de la déduction prévue au premier alinéa, l'entreprise doit exposer au public le bien qu'elle a acquis.
 
@@ -15,23 +14,30 @@ application du premier alinéa. Cette somme est réintégrée au résultat impos
 cession de l'oeuvre ou de prélèvement sur le compte de réserve.
 
 L'entreprise peut constituer une provision pour dépréciation lorsque la dépréciation de l'oeuvre excède le montant des
-déductions déjà opérées au titre des alinéas qui précèdent.
+déductions déjà opérées au titre des premier à quatrième alinéas.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 238 bis AA
+  - CGI 238 bis AA, 238 bis
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-5 2002-01-04 art. 22 II, art. 28
+  - SPEC_APPLI: Loi n°2002-5 du 4 janvier 2002 - art. 28, v. init.
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2002-10-24 4C-6-02
 
 _Modifié par_:
 
-  - Loi n°96-559 du 24 juin 1996 - art. 6 () JORF 25 juin 1996
+  - Loi n°2002-5 du 4 janvier 2002 - art. 22 (Ab) JORF 5 janvier 2002
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
 
 _Cité par_:
 
   - Code du patrimoine. - art. L122-8 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1994-02-08 4C-3-94
