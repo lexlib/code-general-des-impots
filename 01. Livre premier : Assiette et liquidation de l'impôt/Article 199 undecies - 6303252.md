@@ -2,7 +2,7 @@
 
 1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la
 Guadeloupe, de la Guyane, de la Martinique et de la Réunion, dans les territoires d'outre-mer et les collectivités
-territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31 décembre 2002.
+territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31 décembre 2000.
 
 Elle s'applique :
 
@@ -55,7 +55,7 @@ Les souscripteurs de parts ou actions des sociétés mentionnées au présent 1 
 ans à compter de la date de la souscription.
 
 2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1 et
-dont le montant est supérieur à 30.000.000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du
+dont le montant est supérieur à 30 000 000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du
 ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. Il en est de
 même de la construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de construire dont le prix de revient
 est supérieur à 30 000 000 F ou de l'acquisition de logements situés dans de tels immeubles.
@@ -66,7 +66,7 @@ la base de la réduction est égale à 20 p. 100 des sommes effectivement payée
 né.
 
 Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la réduction d'impôt est égale à 50 p. 100 de la base
-définie au premier alinéa. Pour les revenus des années 1990 à 2006, elle est égale à 25 p. 100.
+définie au premier alinéa. Pour les revenus des années 1990 à 2004, elle est égale à 25 p. 100.
 
 Toutefois, pour les acquisitions ou constructions de logements neufs à usage locatif ou à usage d'habitation principale ou
 les souscriptions au capital de sociétés ayant pour objet de construire ou d'acquérir de tels logements, qui sont visées au
@@ -125,11 +125,8 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°93-1352 du 30 décembre 1993 - art. 20 (V) JORF 31 décembre 1993
-
-_Codifié par_:
-
-  - Décret n°2000-477 2000-06-02
+  - Loi - art. 19 (V) JORF 31 décembre 2000
+  - Loi n°2000-1352 2000-12-30 art. 19 I, D, 5 Finances pour 2001 JORF 31 décembre 2000
 
 _Cité par_:
 
@@ -146,10 +143,11 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 1999-01-25 5B-5-99
   - TXT_ASSOCIE: Instruction 1999-01-29 4A-1-99
   - TXT_ASSOCIE: Instruction 1999-06-17 5B-14-99
   - TXT_ASSOCIE: Instruction 2000-02-21 5B-11-00
   - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
   - TXT_ASSOCIE: Instruction 2000-03-06 5B-13-00
+  - TXT_ASSOCIE: Instruction 2001-02-16 4A-2-01
+  - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
