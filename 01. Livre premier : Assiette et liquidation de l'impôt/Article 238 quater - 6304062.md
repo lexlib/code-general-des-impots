@@ -26,7 +26,7 @@ II. Le bénéfice des dispositions du I est subordonné aux conditions suivantes
 ou morale auteur de l'apport depuis une date antérieure au 1er janvier 1962 ou y être entrés depuis cette date par succession
 ou par donation ; toutefois, aucune condition de date d'entrée dans le patrimoine n'est exigée pour les apports effectués par
 les sociétés d'aménagement foncier et d'établissement rural constituées et fonctionnant conformément aux dispositions des
-articles 15 à 18 de la loi n° 60-808 du 5 août 1960 modifiée ;
+articles L141-1 à L142-6, L142-8, L144-2 et L144-3 du code rural ;
 
 3° La transformation ou l'apport ne doit pas comporter de transmission de biens meubles ou immeubles entre les membres du
 groupement ou d'autres personnes.
@@ -35,15 +35,18 @@ groupement ou d'autres personnes.
 
 _Cite_:
 
-  - Loi n°60-808 1960-08-05 art. 15 à 18
+  - Code rural L141-1 à L142-6, L142-8, L144-2, L144-3
 
 _Modifié par_:
 
-  - Loi n°63-810 1963-08-06 art. 12 JORF 8 août 1963
+  - Loi n°92-1283 1992-12-11 art. 2, art. 3, art. 5, annexe JORF 12 décembre 1992
+  - Loi n°92-1283 du 11 décembre 1992 - art. 2 (V) JORF 12 décembre 1992
+  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
+  - Décret n°93-1127 1993-09-24
 
 _Cité par_:
 
