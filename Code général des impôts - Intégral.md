@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-07-19
+Version Consolidée au 1992-12-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -81334,8 +81334,8 @@ _Cite_:
 1. En cas de récidive de l'infraction définie à l'article 1737, le tribunal peut, outre l'amende fiscale prévue audit
 article, prononcer une peine de six jours à six mois de prison.
 
-2. S'il y a opposition collective à l'établissement de l'assiette de l'impôt, il sera fait application des peines prévues à
-l'article 224 du code pénal.
+2. L'opposition collective à l'établissement de l'assiette de l'impôt est punie de six mois d'emprisonnement et de 50.000 F
+d'amende.
 
 **Liens relatifs à cet article**
 
@@ -81344,9 +81344,9 @@ _Cite_:
   - CGI 1737
   - Code pénal 224
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°92-1336 du 16 décembre 1992 - art. 167 () JORF 23 décembre 1992
 
 _Cité par_:
 
@@ -84436,18 +84436,19 @@ _Codifié par_:
 
 ###### Article 1837
 
-Celui qui a formulé frauduleusement les affirmations prescrites par les dispositions du livre Ier, 1ere partie, titre IV,
-chapitre Ier [*art. 634 à art. 885*] et les textes pris pour leur exécution, est puni des peines portées à l'article 366 du
-code pénal.
+I. – Celui qui a formulé frauduleusement les affirmations prescrites par les dispositions du livre Ier, 1ere partie, titre
+IV, chapitre Ier [*art. 634 à art. 885*] et les textes pris pour leur exécution, est puni de trois ans d'emprisonnement et de
+300.000 F d'amende. Le tribunal peut également prononcer l'interdiction des droits civiques, civils et de famille prévue par
+l'article 131-26 du code pénal pour une durée de cinq ans au plus.
 
 Lorsque l'affirmation jugée frauduleuse émane d'un ou de plusieurs des cohéritiers solidaires, ou que la déclaration a été
 souscrite par un mandataire, les autres héritiers solidaires, ou le mandant, sont passibles des mêmes peines, s'il est établi
 qu'ils ont eu connaissance de la fraude, et s'ils n'ont pas complété la déclaration dans un délai de six mois.
 
-Les peines correctionnelles édictées par le paragraphe qui précède se cumulent avec les peines dont les lois fiscales
+II. – Les peines correctionnelles édictées par le paragraphe qui précède se cumulent avec les peines dont les lois fiscales
 frappent les omissions et les dissimulations.
 
-Les articles 59, 60 et 463 du code pénal sont applicables au délit spécifié au présent article (1).
+III. – Les articles 59, 60 et 463 du code pénal sont applicables au délit spécifié au présent article (1).
 
 (1) En ce qui concerne les poursuites et la compétence du tribunal, voir livre des procédures fiscales, art. L 230 et L 231.
 
@@ -84455,9 +84456,13 @@ Les articles 59, 60 et 463 du code pénal sont applicables au délit spécifié 
 
 _Cite_:
 
-  - CGI L230
-  - CGI L231
-  - Code pénal 366
+  - CGI Livre des procédures fiscales L230, L231
+  - Code pénal - art. 131-26 (V)
+  - Code pénal 131-26, 59, 60, 463
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 168 () JORF 23 décembre 1992
 
 _Cité par_:
 
