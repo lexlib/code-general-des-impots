@@ -19,9 +19,9 @@ conditions suivantes sont remplies :
 2. Le capital de la société doit être détenu directement et de manière continue pour 25 % au moins par des personnes
 physiques ou par des personnes morales détenues par des personnes physiques. Pour la détermination de ce pourcentage, les
 participations des sociétés de capital-risque, des sociétés de développement régional et des sociétés financières
-d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 1 bis de
-l'article 39 terdecies entre la société bénéficiaire de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient
-pas compte des participations des fonds communs de placement à risques ou des fonds communs de placement dans l'innovation ;
+d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
+39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas compte des
+participations des fonds communs de placement à risques ou des fonds communs de placement dans l'innovation ;
 
 3. La société n'a pas été créée dans le cadre d'une concentration, d'une restructuration, d'une extension ou d'une reprise
 d'activités préexistantes, sauf si elle répond aux conditions prévues par le I de l'article 39 quinquies H.
@@ -38,29 +38,29 @@ attributaires desdits bons et le nombre de titres attribués à chacun d'eux.
 IV. - Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 titulaires des bons et aux sociétés émettrices.
 
-V. - Abrogé (1).
-
-(1) Ces dispositions s'appliquent à compter du 27 avril 2000.
+V. (Abrogé à compter du 27 avril 2000).
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 200 A, 39 terdecies, 39 quinquies H, 150-0 A
+  - CGI 200 A, 39, 39 quinquies H, 150-0 A
   - Code de commerce. - art. L228-95 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 1999-04-27 5F-11-99
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 133 IV, art. 134 II
 
 _Modifié par_:
 
   - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
+  - Loi n°2001-420 du 15 mai 2001 - art. 133 (V) JORF 16 mai 2001
+  - Loi n°2001-420 du 15 mai 2001 - art. 134 (V) JORF 16 mai 2001
   - Loi n°2001-420 du 15 mai 2001 - art. 137 () JORF 16 mai 2001
-  - Loi n°2001-420 du 15 mai 2001 - art. 133 (V)
-  - Loi n°2001-420 du 15 mai 2001 - art. 134 (V)
+  - Loi - art. 54 (V) JORF 29 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 133 IV, art. 134 II
+  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 1999-04-27 5F-11-99
 
 _Cité par_:
 
@@ -68,7 +68,6 @@ _Cité par_:
   - Décret n°2012-131 du 30 janvier 2012 (V)
   - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
   - Décret n°2015-966 du 31 juillet 2015 (V)
-  - Loi n°2019-486 du 22 mai 2019 - art. 103 (V)
   - Code de commerce - art. L225-44 (V)
   - Code de commerce - art. L225-85 (VD)
   - Code général des impôts, CGI. - art. 150-0 D (VD)
@@ -80,3 +79,4 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 V bis (V)
   - Code monétaire et financier - art. L212-17 (V)
   - Code monétaire et financier - art. L221-32-5 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 103 (V)

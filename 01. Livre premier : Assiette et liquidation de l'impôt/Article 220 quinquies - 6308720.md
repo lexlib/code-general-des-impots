@@ -29,16 +29,23 @@ II. L'option visée au I ne peut pas être exercée au titre d'un exercice au co
 cessation totale d'entreprise, une fusion de sociétés ou une opération assimilée, ou un jugement prononçant la liquidation
 des biens ou la liquidation judiciaire de la société.
 
-En cas de fusion ou opération assimilée, intervenant au cours des cinq années suivant celle de la clôture de l'exercice au
-titre duquel l'option visée au I a été exercée, le transfert de tout ou partie de la créance de la société apporteuse ou
-absorbée à la société bénéficiant de l'apport ou absorbante, peut être autorisé sur agrément délivré dans les conditions
-prévues à l'article 1649 nonies.
+En cas de fusion, de scission ou d'opération assimilée intervenant au cours des cinq années suivant celle de la cl<cb>ture de
+l'exercice au titre duquel l'option visée au I a été exercée, la créance de la société absorbée, scindée ou apporteuse peut
+être transférée à la ou les sociétés bénéficiaires des apports. Le transfert de la créance est effectué pour sa valeur
+nominale.
+
+En cas de scission ou d'apport partiel d'actif, la créance est transmise au prorata du montant de l'actif net réel apporté à
+la ou aux sociétés bénéficiaires des apports apprécié à la date d'effet de l'opération.
+
+Un décret précise les modalités de transfert de la créance.
 
 III. (Abrogé).
 
 IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises
 ainsi que les modalités et limites dans lesquelles les dispositions du I sont applicables aux sociétés agréées visées aux
 articles 209 quinquies et 209 sexies.
+
+</cb>
 
 **Liens relatifs à cet article**
 
@@ -49,17 +56,13 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 66° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-  - Loi - art. 7 (V) JORF 31 décembre 2000
+  - Loi - art. 85 (V) JORF 29 décembre 2001
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2000-1352 2000-12-30 art. 7 VII
-  - HISTO: Edition du 31 mars 2001
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 85 II H
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2002-10-11 4H-4-02
 
 _Cité par_:
 

@@ -2,7 +2,7 @@
 
 I. - Les déclarations d'impôt sur les sociétés et leurs annexes relatives à des exercices clos à compter du 31 décembre 2000
 sont souscrites par voie électronique lorsque le chiffre d'affaires réalisé par l'entreprise au titre de l'exercice précédent
-est supérieur à 100 millions de francs hors taxes.
+est supérieur à 15 000 000 d'euros hors taxes.
 
 A compter du 1er janvier 2002, cette obligation est étendue aux entreprises qui, quel que soit leur chiffre d'affaires,
 appartiennent à l'une des catégories suivantes :
@@ -24,21 +24,45 @@ en France faisant partie du périmètre de consolidation ;
 5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A lorsque celui-ci
 comprend au moins une personne mentionnée aux 1°, 2°, 3° et 4°.
 
+Pour les entreprises mentionnées aux 1° à 4°, cette obligation s'applique aux déclarations qui doivent être souscrites à
+compter du début du deuxième exercice suivant celui à la clôture duquel l'une au moins des conditions prévues aux 1° à 4° est
+remplie. Pour les entreprises mentionnées au 5°, cette obligation s'applique à compter du début de l'exercice suivant celui
+de leur entrée dans le groupe. Pour les entreprises mentionnées aux 1° à 5°, cette obligation continue à s'appliquer pendant
+les trois exercices suivant celui à la clôture duquel les conditions ont cessé d'être remplies. Par dérogation à la première
+phrase, si, à la clôture de l'un de ces exercices, les conditions sont à nouveau remplies, cette obligation continue de
+s'appliquer à compter du début du premier exercice suivant. Cette obligation s'applique en outre aux personnes morales ou
+groupements de personnes de droit ou de fait qui, à partir du 1er janvier 2002, ont opté pour le dépôt de leurs déclarations
+fiscales auprès du service chargé des grandes entreprises dans des conditions fixées par décret.
+
 II. - A compter du 1er janvier 2002, les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux
-et de bénéfices agricoles ainsi que leurs annexes sont souscrites par voie électronique par les entreprises définies aux six
-derniers alinéas du I.
+et de bénéfices agricoles ainsi que leurs annexes sont souscrites par voie électronique par les entreprises définies aux
+deuxième à huitième alinéas du I.
 
 III. - A compter du 1er mai 2001, les déclarations de taxe sur la valeur ajoutée et leurs annexes, ainsi que celles des taxes
 assimilées aux taxes sur le chiffre d'affaires sont souscrites par voie électronique, lorsque le chiffre d'affaires ou les
-recettes réalisés par le redevable au titre de l'exercice précédent est supérieur à 100 millions de francs hors taxes.
+recettes réalisés par le redevable au titre de l'exercice précédent est supérieur à 15 000 000 d'euros hors taxes.
 
-A compter du 1er janvier 2002, cette obligation est étendue aux redevables définis aux six derniers alinéas du I.
+A compter du 1er janvier 2002, cette obligation est étendue aux redevables définis aux deuxième à huitième alinéas du I.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2000-12-21 13K-11-00
+  - TXT_ASSOCIE: Instruction 2001-04-14 13K-5-01
+  - TXT_ASSOCIE: Instruction 2001-07-09 13K-9-01
+
 _Modifié par_:
 
-  - Loi - art. 32 () JORF 31 décembre 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 32 () JORF 29 décembre 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
 
 _Cité par_:
 
@@ -62,10 +86,3 @@ _Cité par_:
 _Cite_:
 
   - CGI 209 quinquies, 223 A
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 2000-12-21 13K-11-00
-  - TXT_ASSOCIE: Instruction 2001-04-14 13K-5-01
-  - TXT_ASSOCIE: Instruction 2001-07-09 13K-9-01

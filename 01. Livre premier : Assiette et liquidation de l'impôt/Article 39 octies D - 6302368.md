@@ -55,7 +55,7 @@ quatre premiers alinéas du I et dont l'objet exclusif est la réalisation de pr
 L'agrément mentionné au premier alinéa est délivré aux entreprises à raison des implantations à l'étranger qui ont pour objet
 de favoriser une exportation durable et significative de services.
 
-Le montant de l'investissement ouvrant droit à provision est limité à vingt millions de francs.
+Le montant de l'investissement ouvrant droit à provision est limité à 3 000 000 euros.
 
 Pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1995, les dispositions du présent IV
 s'appliquent, dans les mêmes conditions et limites, aux entreprises françaises qui exercent une activité professionnelle au
@@ -67,25 +67,27 @@ les conditions et limites prévues par cet agrément, aux établissements de cr�
 l'article 39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises.
 
 VI. Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1992,
-sous réserve des dispositions du cinquième alinéa du I quater et du deuxième alinéa du V de l'article 39 octies B et du
-quatrième alinéa du IV du présent article.
+sous réserve des dispositions du cinquième alinéa du I quater et du deuxième alinéa du II bis de l'article 39 octies A, du
+deuxième alinéa du V de l'article 39 octies B et du quatrième alinéa du IV du présent article (1).
 
-(1) Voir les articles 10 GA quinquies et 10 GA sexies de l'annexe III.
+**Nota:**
+
+(1) Voir 10 GA quinquies et 10 GA sexies de l'annexe III.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 223 A, 201, 221, 34, 39 octies A, 39 octies B, 86
-  - Loi n°91-1322 1991-12-30 art. 86 C Finances pour 1992
+  - CGI 223 A, 201, 221, 34, 92, 39 octies A, 39 octies B
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Modifié par_:
 
-  - Loi n°94-1162 du 29 décembre 1994 - art. 62 () JORF 30 décembre 1994
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -95,8 +97,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quinquies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA sexies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA ter (V)
-
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995
-  - TXT_ASSOCIE: Instruction 1995-07-24 4H-12-95

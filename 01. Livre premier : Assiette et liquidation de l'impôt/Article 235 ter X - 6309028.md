@@ -12,7 +12,11 @@ constituées à la clôture du même exercice en vue de faire face à l'aggravat
 d'autres exercices antérieurs. Chaque excédent de provision, après application de la franchise, et chaque dotation
 complémentaire sont rattachés à l'exercice au titre duquel la provision initiale a été constituée. La taxe est calculée au
 taux de 0,75 p. 100 par mois écoulé depuis la constitution de la provision en faisant abstraction du nombre d'années
-correspondant au nombre d'exercices au titre desquels il n'était pas dû d'impôt sur les sociétés (1).
+correspondant au nombre d'exercices au titre desquels il n'était pas dû d'impôt sur les sociétés (1). Pour le calcul de la
+taxe due au titre de l'exercice clos le 31 décembre 2001, le taux de la franchise est fixé à 6 %. Si la différence entre la
+taxe qui aurait été due au titre de 2001 en la liquidant avec un taux de franchise fixé à 3 % et la taxe effectivement due au
+titre de cette même année excède la moitié du montant moyen de la taxe acquittée par l'entreprise considérée en 2000 et 1999,
+la taxe due est majorée de cet excédent.
 
 Toutefois, dans le cas où le montant des provisions constituées pour faire face aux sinistres d'un exercice déterminé a été
 augmenté à la clôture d'un exercice ultérieur, les sommes réintégrées sont réputées provenir par priorité de la dotation la
@@ -25,6 +29,8 @@ Ces dispositions s'appliquent aux provisions pour sinistres à régler rapporté
 du 1er janvier 1982. Elles ne s'appliquent pas aux provisions constituées à raison des opérations de réassurance par les
 entreprises pratiquant la réassurance de dommages.
 
+**Nota:**
+
 (1) Taux applicable aux excédents de provisions réintégrés aux résultats imposables des exercices ouverts à compter du 1er
 janvier 1988. Pour les exercices ouverts antérieurement, le taux était de 1 %.
 
@@ -32,11 +38,11 @@ janvier 1988. Pour les exercices ouverts antérieurement, le taux était de 1 %.
 
 **Liens**:
 
-  - HISTO: Edition du 15 juin 1990
+  - HISTO: Edition du 31 mars 2002
 
 _Modifié par_:
 
-  - Loi n°89-936 1989-12-29 art. 17 Finances rectificative pour 1989 JORF 30 décembre 1989
+  - Loi - art. 28 () JORF 29 décembre 2001
 
 _Cité par_:
 

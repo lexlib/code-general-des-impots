@@ -56,13 +56,13 @@ conditions et selon les mêmes modalités, du bénéfice de la réduction prévu
 courir à la date du décès.
 
 4. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 2 dont
-le montant est supérieur à 30 000 000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du ministre
-chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
+le montant est supérieur à 4 600 000 euros (1) doit avoir été portée, préalablement à sa réalisation, à la connaissance du
+ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour
-les investissements mentionnés au a du 2, dans la limite de 10 000 F par mètre carré de surface habitable.
+les investissements mentionnés au a du 2, dans la limite de 1 525 euros (1) par mètre carré de surface habitable.
 
-6. La réduction d'impôt s'applique pour le calcul de l'impôt d^ u au titre de l'année d'achèvement de l'immeuble ou de son
+6. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble ou de son
 acquisition si elle est postérieure, ou de la souscription des parts ou actions, et des quatre années suivantes. Chaque
 année, la base de la réduction est égale à 20 % des sommes effectivement payées au 31 décembre de l'année au cours de
 laquelle le droit à réduction d'impôt est né.
@@ -94,6 +94,10 @@ Le décès du contribuable ou de l'un des époux soumis à imposition commune au
 La location d'un logement neuf consentie dans les conditions fixées par décret à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt.
 
+**Nota:**
+
+(1) Ces dispositions s'appliquent à l'impôt sur le revenu établi au titre de l'année 2001.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -101,9 +105,17 @@ _Cite_:
   - CGI 4 B, 199 undecies B, 217 undecies, 210 B, 210 A
   - Loi n°70-1300 1970-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 19 (V) JORF 31 décembre 2000
+  - Loi - art. 51 (V) JORF 29 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 51 XI
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2002-05-21 4A-5-02
+  - TXT_ASSOCIE: Instruction 2002-05-21 5B-11-02
+  - TXT_ASSOCIE: Instruction 2003-03-24 4A-4-03
 
 _Cité par_:
 
@@ -163,7 +175,3 @@ _Cité par_:
   - Code monétaire et financier - art. L221-31 (V)
   - Code monétaire et financier - art. L221-32-5 (V)
   - Livre des procédures fiscales - art. L45 F (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
