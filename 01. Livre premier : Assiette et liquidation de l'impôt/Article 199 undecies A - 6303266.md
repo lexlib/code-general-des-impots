@@ -80,9 +80,11 @@ le montant est supérieur à 4 600 000 euros doit avoir été portée, préalabl
 ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour
-les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 1 750 Euros hors taxes par mètre carré de surface
-habitable. Cette limite est relevée par arrêté chaque année, au 1er janvier, dans la même proportion que la variation de
-l'index de la construction publié par l'institut de la statistique de chaque collectivité, lorsqu'il existe.
+les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 1 800 Euros hors taxes par mètre carré de surface
+habitable. Cette limite est relevée chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur
+quatre trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique
+et des études économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui
+précède la date de référence (1).
 
 6. La réduction d'impôt est effectuée, pour les investissements mentionnés au a du 2, pour le calcul de l'impôt dû au titre
 de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, et des neuf années suivantes. Pour les
@@ -132,6 +134,10 @@ Le décès du contribuable ou de l'un des époux soumis à imposition commune au
 La location d'un logement neuf consentie dans les conditions fixées par décret à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt.
 
+**Nota:**
+
+NOTA (1) : Ces dispositions s'appliquent aux investissements réalisés outre-mer à compter du 1er janvier 2005.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -143,7 +149,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2003-660 du 21 juillet 2003 - art. 20 () JORF 22 juillet 2003
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 58 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -203,10 +209,3 @@ _Cité par_:
   - Code monétaire et financier - art. L221-31 (V)
   - Code monétaire et financier - art. L221-32-5 (V)
   - Livre des procédures fiscales - art. L45 F (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2003
-  - TXT_ASSOCIE: Instruction 2002-05-21 4A-5-02
-  - TXT_ASSOCIE: Instruction 2002-05-21 5B-11-02
-  - TXT_ASSOCIE: Instruction 2003-03-24 4A-4-03

@@ -1,8 +1,8 @@
 # Article 244 quater B
 
 I. -  Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en
-application des articles 44 sexies, 44 sexies A, 44 octies et 44 decies qui exposent des dépenses de recherche peuvent
-bénéficier d'un crédit d'impôt égal à la somme :
+application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 decies et 44 undecies qui exposent des dépenses de
+recherche peuvent bénéficier d'un crédit d'impôt égal à la somme :
 
 a. D'une part égale à 5 % des dépenses de recherche exposées au cours de l'année, dite part en volume ;
 
@@ -49,10 +49,9 @@ La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
 a) Les dotations aux amortissements des immobilisations, créées ou acquises à l'état neuf et affectées directement à la
-réalisation en France d'opérations de recherche scientifique et technique, y compris la réalisation de prototypes ou
-d'installations pilotes. Toutefois, les dotations aux amortissements des immeubles acquis ou achevés avant le 1er janvier
-1991 ainsi que celles des immeubles dont le permis de construire a été délivré avant le 1er janvier 1991 ne sont pas prises
-en compte ;
+réalisation d'opérations de recherche scientifique et technique, y compris la réalisation de prototypes ou d'installations
+pilotes. Toutefois, les dotations aux amortissements des immeubles acquis ou achevés avant le 1er janvier 1991 ainsi que
+celles des immeubles dont le permis de construire a été délivré avant le 1er janvier 1991 ne sont pas prises en compte ;
 
 b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à
 ces opérations ; 
@@ -68,15 +67,22 @@ Ce pourcentage est fixé à :
 pendant les douze premiers mois suivant leur recrutement à la condition que le contrat de travail de ces personnes soit à
 durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
 
-d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics, à
-des universités ou à des centres techniques exerçant une mission d'intérêt général. Ces dépenses sont retenues pour le double
-de leur montant à la condition qu'il n'existe pas de liens de dépendance au sens des deuxième à quatrième alinéas du 12 de
-l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et l'organisme, l'université ou le centre technique exerçant
-une mission d'intérêt général ;
+d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou à
+des universités. Ces dépenses sont retenues pour le double de leur montant à la condition qu'il n'existe pas de liens de
+dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt
+et l'organisme ou l'université.
 
 d bis) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés
-agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes
-conditions ;
+agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions.
+Pour les organismes de recherche établis dans un Etat membre de la Communauté européenne, ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale contenant une clause
+d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, l'agrément peut être délivré par le
+ministre français chargé de la recherche ou, lorsqu'il existe un dispositif similaire dans le pays d'implantation de
+l'organisme auquel sont confiées les opérations de recherche, par l'entité compétente pour délivrer l'agrément équivalent à
+celui du crédit d'impôt recherche français ;
+
+d ter) Les dépenses mentionnées aux d et d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite
+globale de deux millions d'euros par an ;
 
 e) Les frais de prise et de maintenance de brevets ;
 
@@ -118,6 +124,13 @@ habillement-cuir à des stylistes ou bureaux de style agréés selon des modalit
 
 j) Les dépenses de veille technologique exposées lors de la réalisation d'opérations de recherche, dans la limite de 60 000
 Euros par an.
+
+Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à j du présent II doivent
+être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés
+dans les conditions de droit commun et, à l'exception des dépenses prévues aux e bis et j, correspondre à des opérations
+localisées au sein de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'espace économique européen ayant
+conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la
+fraude ou l'évasion fiscale.
 
 Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les
 immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies.
@@ -190,15 +203,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 87 (V) JORF 31 décembre 2003
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 45 (V) JORF 31 décembre 2004
+  - Loi n°2004-1484 2004-12-30 art. 24 II G Finances pour 2005 JORF 31 décembre 2004
 
 _Cite_:
 
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 223 O, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 39, 151 nonies, 220 septies
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2001-02-06 4A-1-01
-  - TXT_ASSOCIE: Instruction 2002-02-12 4A-2-02
-  - TXT_ASSOCIE: Instruction 2003-02-17 4A-2-03
+  - CGI 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 decies, 44 undecies, 223 O, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 39, 151 nonies, 220 septies

@@ -6,15 +6,15 @@ des taxes foncières et de la taxe d'habitation, conformément aux dispositions 
 
 II. - La communauté ou le syndicat d'agglomération nouvelle visés à l'article 1609 nonies B ou les établissements publics de
 coopération intercommunale visés soit au I de l'article 1609 nonies C, soit au II de l'article 1609 quinquies C votent le
-taux de la taxe professionnelle dans les limites définies au b du 1, ainsi qu'aux 2 et 3, au premier alinéa du 4 et au 5 du I
-de l'article 1636 B sexies et à l'article 1636 B septies.
+taux de la taxe professionnelle dans les limites définies au b du 1, ainsi qu'aux 2 et 3, au premier alinéa du a du 4 et au 5
+du I de l'article 1636 B sexies et à l'article 1636 B septies.
 
 Toutefois, l'obligation de diminuer le taux de taxe professionnelle dans une proportion au moins égale soit à la diminution
 du taux de la taxe d'habitation ou à celle du taux moyen pondéré de la taxe d'habitation et des taxes foncières, soit à la
 plus importante de ces diminutions lorsque ces deux taux sont en baisse, prévue au b du 1 du I de l'article 1636 B sexies, ne
 s'applique pas.
 
-Pour l'application du b du 1, ainsi que des 2 et 3, du premier alinéa du 4 et du 5 du I de l'article 1636 B sexies :
+Pour l'application du b du 1, ainsi que des 2 et 3, du premier alinéa du a du 4 et du 5 du I de l'article 1636 B sexies :
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté dans l'ensemble des communes membres de
 l'établissement public de coopération intercommunale. Pour les établissements publics de coopération intercommunale qui font
@@ -49,22 +49,35 @@ réserve des dispositions de l'article 1636 B septies, ajoutée, partiellement o
 voté par l'établissement public de coopération intercommunale au titre de l'une des trois années suivantes.
 
 La majoration du taux de taxe professionnelle dans les conditions visées au premier alinéa n'est pas applicable l'année au
-titre de laquelle l'établissement public de coopération intercommunale fait application des dispositions du 3 ou du 4 du I de
-l'article 1636 B sexies, du deuxième alinéa ou du dernier alinéa du II du présent article.
+titre de laquelle l'établissement public de coopération intercommunale fait application des dispositions du 3 ou du a du 4 du
+I de l'article 1636 B sexies, du deuxième alinéa ou du dernier alinéa du II du présent article.
 
 Les décisions relatives aux taux transmises aux services fiscaux dans les conditions prévues au I de l'article 1639 A doivent
 indiquer le montant à reporter conformément au premier alinéa ainsi que les modalités selon lesquelles le taux de l'année est
 majoré dans les conditions prévues audit alinéa.
+
+V. - En 2005 et par exception aux dispositions du premier alinéa du II, les syndicats d'agglomération nouvelle visés à
+l'article L. 5311-1 du code général des collectivités territoriales qui ont bénéficié, au titre de 2004, d'une dotation en
+capital non remboursable attribuée en vertu du 1° de l'article L. 5334-19 du même code supérieure à un million d'euros
+peuvent fixer leur taux de taxe professionnelle dans la limite de 93 % du taux moyen de cette taxe constaté l'année
+précédente au niveau national pour l'ensemble des syndicats d'agglomération nouvelle.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1609 nonies B, 1609 nonies C, 1609 quinquies C, 1636 B sexies, 1636 B septies, 1639 A
+  - Code général des collectivités territoriales - art. L5311-1 (V)
+  - Code général des collectivités territoriales - art. L5334-19 (V)
 
 _Modifié par_:
 
-  - Loi - art. 112 () JORF 31 décembre 2003
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 103 () JORF 31 décembre 2004
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 99 (V) JORF 31 décembre 2004
+
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
 
 _Cité par_:
 
@@ -82,6 +95,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2003-04-04 6A-2-03
-  - TXT_ASSOCIE: Instruction 2003-06-30 6A-4-03
+  - HISTO: Edition du 1er janvier 2005
