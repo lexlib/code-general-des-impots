@@ -7,7 +7,7 @@ France au sens de l'article 4 B.
 
 La réduction d'impôt est égale à 25 % du montant des versements effectués conformément à la convention de divorce homologuée
 par le juge ou fixé par le jugement de divorce, en application de l'article 274 du code civil. Les sommes ouvrant droit à
-réduction d'impôt sont retenues dans la limite de 200 000 F sur la période mentionnée à l'alinéa précédent.
+réduction d'impôt sont retenues dans la limite de 200 000 F sur la période mentionnée au premier alinéa.
 
 Lorsque les versements sont répartis sur l'année au cours de laquelle le jugement de divorce est passé en force de chose
 jugée et l'année suivante, le montant ouvrant droit à réduction d'impôt au titre de la première année ne peut excéder le
@@ -27,11 +27,12 @@ _Cite_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°2000-596 2000-06-30 art. 18 III
+  - HISTO: Edition du 31 mars 2001
   - TXT_ASSOCIE: Instruction 2001-01-19 5B-3-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-596 du 30 juin 2000 - art. 18 (V) JORF 1er juillet 2000
+  - Décret n°2001-435 du 21 mai 2001 - art. 1 () JORF 23 mai 2001
 
 _Cité par_:
 
