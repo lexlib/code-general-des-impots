@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-07-03
+Version Consolidée au 1980-07-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -15910,30 +15910,28 @@ Par dérogation aux dispositions de l'article 773-2°, l'existence et la sincér
 articles 63 et suivants du décret du 29 juillet 1939 relatif à la famille et à la natalité française sont suffisamment
 prouvées à l'égard de l'administration, par tous actes et écrits, même postérieurs au décès d'un exploitant agricole,
 susceptibles de faire preuve en justice entre les cohéritiers ou représentants de l'exploitant. L'héritier créancier de la
-succession est toutefois tenu de fournir [*formalités obligatoires*] :
+succession est toutefois tenu de fournir [*formalités obligatoires, documents*] :
 
-1° Dans les formes et suivant les règles déterminées par l'article 772, une attestation, datée et signée par lui, mentionnant
-le montant de sa créance sur la succession de l'exploitant;
+1° Dans les formes et suivant les règles déterminées par l'article L20 du livre des procédures fiscales, une attestation,
+datée et signée par lui, mentionnant le montant de sa créance sur la succession de l'exploitant ;
 
-2° Un certificat du maire indiquant soit qu'il travaillait habituellement sur un fonds rural et précisant qu'il participait
-encore au travail agricole à la date du décès de l'exploitant, soit qu'il avait cessé toute participation pour accomplir son
-service militaire légal ou par suite de maladie ou d'infirmité physique le mettant dans l'impossibilité de se livrer aux
-travaux agricoles.
-
-Le maire compétent pour délivrer le certificat est celui de la commune dans laquelle l'héritier créancier avait son domicile
-à la date du décès de l'exploitant.
+2° (abrogé)
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 772
   - CGI 773 2°
-  - Décret n°1939-07-29 ART. 63
+  - CGI L20
+  - Décret n°1939-07-29 ART. 63 ET S.
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°82-881 1982-10-15
+
+_Modifié par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 38 () JORF 5 JUILLET 1980
 
 
 ##### Frais funéraires<a id=478></a>
@@ -45618,87 +45616,99 @@ cumuler avec un autre abattement. Il est subordonné à un agrément préalable 
 
 ###### Article 793
 
-Sont exonérés des droits de mutation à titre gratuit :
+Sont exonérés des droits de mutation à titre gratuit:
 
-1  1° (Périmé);
+1. 1° (Périmé) ;
 
-2° Lors de leur première transmission à titre gratuit, les actions des sociétés immobilières d'investissement souscrites en
-numéraire et libérées avant le 20 septembre 1973 ou à l'occasion d'augmentations de capital autorisées par le ministre de
-l'économie et des finances avant cette date ou reçues avant la même date en rémunération de l'apport d'immeubles dont la
-construction a été achevée postérieurement au 31 décembre 1947, sous réserve qu'elles aient été constamment détenues par le
-souscripteur sous la forme nominative.
+2° Sous réserve des dispositions de l'article 793 A, lors de leur première transmission à titre gratuit, les actions des
+sociétés immobilières d'investissement souscrites en numéraire et libérées avant le 20 septembre 1973 ou à l'occasion
+d'augmentations de capital autorisées par le ministre de l'économie et des finances avant cette date ou reçues avant la même
+date en rémunération de l'apport d'immeubles dont la construction a été achevée postérieurement au 31 décembre 1947, sous
+réserve qu'elles aient été constamment détenues par le souscripteur sous la forme nominative.
 
 Cette exonération bénéficie également, à concurrence de 200.000 F pour l'ensemble des actions transmises par une même
 personne, aux actions des sociétés immobilières d'investissement acquises en bourse entre le 1er janvier 1965 et le 19
 septembre 1973 inclus et conservées par le défunt ou le donateur pendant deux ans, sous réserve qu'elles aient été
 constamment détenues par lui sous la forme nominative. Un décret détermine la nature et la forme des justifications exigées
-pour l'octroi de cette exonération (1);
+pour l'octroi de cette exonération (1) ;
 
 3° Les parts d'intérêts détenues dans un groupement forestier à concurrence des trois-quarts de leur valeur vénale, à
 condition :
 
-a  Que l'acte constatant la donation ou la déclaration de la succession soit appuyé d'un certificat délivré sans frais par le
+a. Que l'acte constatant la donation ou la déclaration de la succession soit appuyé d'un certificat délivré sans frais par le
 directeur départemental de l'agriculture attestant que :
 
-- les bois et forêts du groupement sont susceptibles d'aménagement ou d'exploitation régulière;
+- les bois et forêts du groupement sont susceptibles d'aménagement ou d'exploitation régulière ;
 
-- les friches et landes appartenant au groupement sont susceptibles de reboisement et présentent une vocation forestière;
+- les friches et landes appartenant au groupement sont susceptibles de reboisement et présentent une vocation forestière ;
 
-- les terrains pastoraux appartenant au groupement sont susceptibles d'un régime d'exploitation normale;
+- les terrains pastoraux appartenant au groupement sont susceptibles d'un régime d'exploitation normale ;
 
-b  Que le groupement forestier prenne, selon le cas, l'un des engagements prévus à l'article 703.
+b. Que le groupement forestier prenne, selon le cas, l'un des engagements prévus à l'article 703.
 
 Ce groupement doit s'engager en outre :
 
 - à reboiser ses friches et landes dans un délai de cinq ans à compter de la délivrance du certificat et à les soumettre
-ensuite au régime défini à l'article 703;
+ensuite au régime défini à l'article 703 ;
 
-- à soumettre pendant trente ans ses terrains pastoraux à un régime d'exploitation normale ou, à défaut, à les reboiser;
+- à soumettre pendant trente ans ses terrains pastoraux à un régime d'exploitation normale ou, à défaut, à les reboiser ;
+
+c. Que les parts aient été détenues depuis plus de deux ans par le donateur ou le défunt, lorsqu'elles ont été acquises à
+titre onéreux à compter du 5 septembre 1979 ;
 
 4° Lors de leur première transmission à titre gratuit et à concurrence des trois-quarts de leur valeur, les parts des
 groupements fonciers agricoles et celles des groupements agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août
 1962 et répondant aux diverses caractéristiques de la loi n° 70-1299 du 31 décembre 1970, à condition :
 
-- que les statuts du groupement lui interdisent l'exploitation en faire-valoir direct;
+- que les statuts du groupement lui interdisent l'exploitation en faire-valoir direct ;
 
 - que les fonds agricoles constituant le patrimoine du groupement aient été donnés à bail à long terme dans les conditions
-prévues par les articles 870-24 à 870-26 et 870-29 du code rural;
+prévues par les articles 870-24 à 870-26 et 870-29 du code rural ;
 
 - que les parts aient été détenues depuis deux ans au moins par le donateur ou le défunt.
 
 Ce délai n'est pas exigé lorsque le donateur ou le défunt ont été parties au contrat de constitution du groupement foncier
 agricole et, à ce titre ont effectué des apports constitués exclusivement par des immeubles ou des droits immobiliers à
-destination agricole (2)
+destination agricole (2).
 
-5° Les reversions de rentes viagères entre époux ou entre parents en ligne directe;
+Cette exonération s'applique pour les parts de groupements fonciers agricoles dans la limite d'une superficie égale à trois
+fois la superficie minimum d'installation prévue à l'article 188-4 du code rural, quel que soit le nombre des transmissions
+successives intervenues du chef d'une même personne, lorsque le bail a été consenti au bénéficiaire de la transmission des
+parts, à son conjoint, à un de leurs descendants ou à une société contrôlée par une ou plusieurs de ces personnes.
+
+L'exonération ne s'applique pas aux parts de groupements fonciers agricoles qui sont détenues ou qui ont été détenues par une
+société civile régie par la loi n° 70-1300 du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées à
+faire publiquement appel à l'épargne ou par une entreprise d'assurance ou de capitalisation ;
+
+5° Les reversions de rentes viagères entre époux ou entre parents en ligne directe ;
 
 6° La transmission par décès du bénéfice du contrat de travail à salaire différé dont la dévolution est régie par l'article
 64 du décret du 29 juillet 1939 relatif à la famille et à la natalité françaises.
 
-2  1° Lors de leur première transmission à titre gratuit :
+2. 1° Sous réserve des dispositions de l'article 793 A, lors de leur première transmission à titre gratuit :
 
-- les immeubles construits par l'Etat en application de l'ordonnance n° 45-2064 du 8 septembre 1945;
+- les immeubles construits par l'Etat en application de l'ordonnance n° 45-2064 du 8 septembre 1945 ;
 
 - les constructions, reconstructions ou additions de constructions, à condition :
 
-a  Que les trois quarts au moins de la superficie totale soient affectés à l'habitation;
+a. Que les trois quarts au moins de la superficie totale soient affectés à l'habitation ;
 
-b  Que l'immeuble ait été achevé postérieurement au 31 décembre 1947.
+b. Que l'immeuble ait été achevé postérieurement au 31 décembre 1947.
 
 Un immeuble est considéré comme achevé à la date du dépôt à la mairie de la déclaration prévue par la réglementation relative
 au permis de construire.
 
-c  Que l'immeuble ait été :
+c. Que l'immeuble ait été :
 
 - soit acquis par un acte authentique avant le 20 septembre 1973 ou qu'il ait fait l'objet, dans les conditions fixées à
-l'article L 261-15 du code de la construction et de l'habitation, d'un contrat préliminaire enregistré avant le 20 septembre
-1973;
+l'article L261-15 du code de la construction et de l'habitation, d'un contrat préliminaire enregistré avant le 20 septembre
+1973 ;
 
 - soit attribué à un associé en exécution d'une souscription ou acquisition de parts ou actions ayant acquis date certaine
-avant le 20 septembre 1973 ou qu'il ait fait l'objet, dans les conditions fixées à l'article L 212-11 du code précité, d'un
+avant le 20 septembre 1973 ou qu'il ait fait l'objet, dans les conditions fixées à l'article L212-11 du code précité, d'un
 contrat préliminaire enregistré avant le 20 septembre 1973 ;
 
-d  Que les fondations de l'immeuble aient été terminées avant cette même date, les constatations de l'homme de l'art en
+d. Que les fondations de l'immeuble aient été terminées avant cette même date, les constatations de l'homme de l'art en
 faisant foi. Toutefois, cette condition n'est pas exigée dans le cas de vente à terme ou en l'état futur d'achèvement,
 lorsque le financement des immeubles est garanti par un établissement bancaire ou financier dans les conditions prévues par
 la réglementation en vigueur.
@@ -45710,24 +45720,46 @@ immeubles, il suffit que le chantier ait été effectivement ouvert, par l'auteu
 
 2° Les successions et donations entre vifs, à concurrence des trois-quarts de leur montant, intéressant les propriétés en
 nature de bois et forêts, à condition que soient appliquées les dispositions prévues aux articles 703, 1840 G bis-II et III,
-et 1929-3;
+et 1929-3 ;
 
 3° A concurrence des trois-quarts de leur valeur, les biens donnés à bail dans les conditions prévues aux articles 870-24 à
 870-26 et 870-29 du code rural, lors de leur première transmission à titre gratuit durant le bail et ses renouvellements
 successifs. Toutefois, lorsque le bail a été consenti, par un acte n'ayant pas acquis date certaine avant le 1er novembre
 1973, au bénéficiaire de la transmission, à son conjoint, à un de leurs descendants ou à une société contrôlée par une ou
 plusieurs de ces personnes, l'exonération s'applique seulement dans la limite d'une superficie au plus égale à une fois et
-demie la superficie minimum d'installation prévue à l'article 188-3 du code rural, quel que soit le nombre des transmissions
+demie la superficie minimum d'installation prévue à l'article 188-4 du code rural, quel que soit le nombre des transmissions
 successives intervenues du chef d'une même personne. Ces dispositions peuvent être étendues et adaptées par décret en Conseil
 d'Etat aux départements d'outre-mer, après avis de leurs conseils généraux (3).
 
-1)  Annexe III, art. 281.
+(1) Annexe III, art. 281.
 
-2)  Pour l'application du 4° dans les départements d'outre-mer, se reporter à l'article 822-IV.
+(2) Pour l'application du 4° dans les départements d'outre-mer, se reporter à l'article 822-IV.
 
-3)  Décret n° 79-145 du 14 février 1979 (J.O. du 22).
+(3) Décret n° 79-145 du 14 février 1979 (J.O. du 22).
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1840 G bis II, III
+  - CGI 1929 3
+  - CGI 703
+  - CGI 793 A
+  - CGI 822 IV
+  - CGIAN3 281
+  - Code de la construction L212-11
+  - Code de la construction L261-15
+  - Code rural 188-4
+  - Code rural 870-24
+  - Code rural 870-26
+  - Code rural 870-29
+  - Décret n°1939-07-29 ART. 64
+  - Ordonnance 45-2064 1945-09-08
+  - Loi n°62-933 1962-08-08
+  - Loi n°70-1299 1970-12-31
+  - Loi n°70-1300 1970-12-31
+  - Décret n°79-145 1979-02-14
+  - Code rural 870-25
 
 _Cité par_:
 
@@ -45773,29 +45805,16 @@ _Cité par_:
   - Code rural - art. L322-17 (V)
   - Code rural - art. L371-11 (VD)
 
-_Cite_:
+_Modifié par_:
 
-  - Ordonnance 45-2064 1945-09-08
-  - Loi n°62-933 1962-08-08
-  - Loi n°70-1299 1970-12-31
-  - Décret n°79-145 1979-02-14
-  - CGI 1840 G bis II, III
-  - CGI 1929 3
-  - CGI 703
-  - CGI 822 IV
-  - CGIAN3 281
-  - Code de la construction L212-11
-  - Code de la construction L261-15
-  - Code rural 188-3
-  - Code rural 870-24
-  - Code rural 870-25
-  - Code rural 870-26
-  - Code rural 870-29
-  - Décret n°1939-07-29 ART. 64
+  - Loi n°80-30 1980-01-18 ART. 19 I, II, III, IV FINANCES POUR 1980 JORF 19 JANVIER 1980
+  - Loi n°80-30 du 18 janvier 1980 - art. 19 (P) JORF 19 JANVIER 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 39 () JORF 5 JUILLET 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 49 () JORF 5 JUILLET 1980
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 793 A
