@@ -41,16 +41,13 @@ p. 100 des dépenses de personnel mentionnées au b.
 
 Ce pourcentage est fixé à :
 
-1° 65 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et techniciens de recherche qui exercent tout ou
-partie de leur activité dans la région d'Ile-de-France ;
+1° (abrogé).
 
-2° 100 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et techniciens de recherche affectés exclusivement
-dans les territoires ruraux de développement prioritaire et dans les zones d'aménagement du territoire mentionnés à la
-dernière phrase du premier alinéa de l'article 1465.
+2° (abrogé).
 
-((3° 100 p. 100 des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat ou d'un diplôme équivalent
+3° 100 p. 100 des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat ou d'un diplôme équivalent
 pendant les douze premiers mois suivant leur recrutement à la condition que le contrat de travail de ces personnes soit à
-durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente)) (M) (1).
+durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
 
 d. Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou à
 des universités ;
@@ -129,11 +126,6 @@ V. (Périmé).
 VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercice de durée
 inégale ou ne coïncidant pas avec l'année civile.
 
-(M) Modification.
-
-(1) Cette modification s'applique pour la détermination du crédit d'impôt calculé sur les dépenses de recherche exposées à
-compter du 1er janvier 1999.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -188,15 +180,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-587 du 12 juillet 1999 - art. 8 () JORF 13 juillet 1999
+  - Loi - art. 16 (V) JORF 31 décembre 1999
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-1173 1999-12-30 art. 16 II Finances rectificative pour 1999
+  - TXT_ASSOCIE: Instruction 1997-03-07 4A-3-97
+  - TXT_ASSOCIE: Instruction 1998-02-02 4A-2-98
+  - TXT_ASSOCIE: Instruction 1999-02-04 4A-2-99
+  - TXT_ASSOCIE: Instruction 2000-01-21 4A-1-00
 
 _Cite_:
 
   - CGI 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 199 ter B, 1465, 151 nonies, 220 septies
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1997-03-07 4A-3-97
-  - TXT_ASSOCIE: Instruction 1998-02-02 4A-2-98
-  - TXT_ASSOCIE: Instruction 1999-02-04 4A-2-99
-  - TXT_ASSOCIE: Instruction 2000-02-10 4A-2-00
