@@ -24,9 +24,13 @@ Le propriétaire doit s'engager à louer le logement nu à l'usage de résidence
 celle au titre de laquelle la réduction est effectuée.
 
 En cas de non-respect de l'engagement ou de cession du logement, la réduction pratiquée fait l'objet d'une reprise au titre
-de l'année de la rupture de l'engagement ou de celle de la cession. 
+de l'année de la rupture de l'engagement ou de celle de la cession. Il en est de même en cas de violation des conditions de
+la location.
 
-Les dispositions de l'article 199 sexies A-II s'appliquent à cette réduction d'impôt. 
+Les dispositions du 7° de l'article 199 undecies s'appliquent à cette réduction d'impôt. 
+
+Les locations conclues à compter du 1er janvier 1993 avec des membres du foyer fiscal du contribuable, ses ascendants ou
+descendants n'ouvrent pas droit au bénéfice de la réduction d'impôt.
 
 II. Le taux de la réduction d'impôt prévue au I est porté à 10 p. 100 et la durée de l'engagement de location est ramenée à
 six années pour les logements neufs que le contribuable acquiert ou fait construire à partir du 1er juin 1986.
@@ -51,13 +55,10 @@ _Cite_:
   - CGIAN3 46 AG
   - Code de l'urbanisme *R421-40
 
-_Codifié par_:
-
-  - Décret n°92-836 1992-08-27
-
 _Modifié par_:
 
-  - Décret n°92-836 1992-08-27 en vigueur le 4 juillet 1992
+  - Loi - art. 5 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
