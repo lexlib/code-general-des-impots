@@ -65,8 +65,8 @@ années suivantes un état conforme au modèle fourni par l'administration faisa
 suivi des plus-values dont l'imposition est reportée conformément au premier alinéa du a du I. Un décret précise le contenu
 de cet état.
 
-III. Les dispositions de l'article 41 et du II de l'article 93 quater ne s'appliquent pas aux plus-values constatées à
-l'occasion d'apports en sociétés visées aux I et II du présent article.
+III. Les dispositions du II de l'article 93 quater ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en
+sociétés visées aux I et II du présent article.
 
 IV. (Abrogé à compter du 1er janvier 2000).
 
@@ -74,16 +74,12 @@ IV. (Abrogé à compter du 1er janvier 2000).
 
 _Cite_:
 
-  - CGI 39 duodecies à 39 quindecies, 210 A, 41, 93 quater, 151 octies A
+  - CGI 39 duodecies à 39 quindecies, 151 octies A, 210 A, 170, 93 quater
   - Code rural L411-1, L411-2, L416-1
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Loi - art. 52 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -117,7 +113,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2001-06-07 4B-1-01
   - TXT_ASSOCIE: Instruction 2002-01-17 4I-1-02
   - TXT_ASSOCIE: Instruction 2003-04-15 4B-1-03
