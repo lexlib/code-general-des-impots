@@ -1,31 +1,39 @@
 # Article 42 septies
 
-1  Les subventions d'équipement accordées aux entreprises par l'Etat ou les collectivités publiques (( à raison de la
-création ou de l'acquisition d'immobilisations déterminées )) (1) ne sont pas comprises dans les résultats de l'exercice en
-cours à la date de leur versement.
+1 Les subventions d'équipement accordées à une entreprise par l'Etat, les collectivités publiques ou tout autre organisme
+public à raison de la création ou de l'acquisition d'immobilisations déterminées ne sont pas comprises, sur option de
+l'entreprise, dans les résultats de l'exercice en cours à la date de leur attribution ; dans ce cas, elles sont imposables
+dans les conditions définies au présent article.
 
-Lorsqu'elles ont été utilisées à la création ou à l'acquisition d'immobilisations amortissables, ces subventions doivent être
-rapportées aux bénéfices imposables de chacun des exercices suivants, à concurrence du montant des amortissements pratiqués à
-la clôture desdits exercices sur le prix de revient de ces immobilisations.
+Lorsqu'elles ont été utilisées à la création ou à l'acquisition d'une immobilisation amortissable, ces subventions sont
+rapportées aux bénéfices imposables en même temps et au même rythme que celui auquel l'immobilisation en cause est amortie.
+Ce rythme est déterminé, pour chaque exercice, par le rapport existant entre la dotation annuelle aux amortissements
+pratiquée à la clôture de l'exercice concerné sur le prix de revient de cette immobilisation et ce même prix de revient.
 
-Les subventions affectées à la création ou à l'acquisition d'immobilisations non amortissables doivent être rapportées, par
-fractions égales, au bénéfice imposable des années pendant lesquelles lesdites immobilisations sont inaliénables aux termes
-du contrat accordant la subvention ou, à défaut de clause d'inaliénabilité, au bénéfice des dix années suivant celle du
-versement de la subvention.
+Les subventions affectées à la création ou à l'acquisition d'une immobilisation non amortissable sont rapportées par
+fractions égales au bénéfice imposable des années pendant lesquelles cette immobilisation est inaliénable aux termes du
+contrat accordant la subvention ou, à défaut de clause d'inaliénabilité, au bénéfice des dix années suivant celle de
+l'attribution de la subvention)) ;
 
-((En cas de cession des immobilisations visées aux deuxième et troisième alinéas, la fraction de la subvention non encore
+La subvention attribuée par l'intermédiaire d'une entreprise de crédit-bail est répartie, par parts égales, sur les exercices
+clos au cours de la période couverte par le contrat de crédit-bail, à la condition que la décision accordant cette subvention
+prévoie son reversement immédiat au crédit-preneur.
+
+En cas de cession des immobilisations visées aux deuxième et troisième alinéas, la fraction de la subvention non encore
 rapportée aux bases de l'impôt est comprise dans le bénéfice imposable de l'exercice au cours duquel cette cession est
 intervenue. Toutefois, pour les opérations mentionnées au I de l'article 151 octies ou placées sous le régime prévu à
 l'article 210 A, sur option exercée dans l'acte d'apport ou le traité de fusion, cette fraction est rapportée aux résultats
 de la société bénéficiaire de l'apport, par parts égales, sur la période mentionnée au troisième alinéa restant à courir à la
 date de cette opération pour les biens non amortissables, et sur la durée d'amortissement pour les biens amortissables. En
 cas de cession ultérieure des biens en cause, la fraction de la subvention non encore rapportée au résultat imposable de la
-société bénéficiaire de l'apport sera comprise dans son bénéfice imposable de l'exercice de cession)) (M).
+société bénéficiaire de l'apport sera comprise dans son bénéfice imposable de l'exercice de cession (1). Ces dispositions
+s'appliquent en cas de cession ou de résiliation d'un contrat de crédit-bail ; la période mentionnée à la deuxième phrase
+s'entend alors de celle restant à courir à la date de l'opération concernée jusqu'à l'échéance de ce contrat.
 
-2  Les dispositions du 1 sont applicables aux subventions d'équipement versées à leurs adhérents par les groupements
+2 Les dispositions du 1 sont applicables aux subventions d'équipement versées à leurs adhérents par les groupements
 professionnels agréés prévus par le décret n° 55-877 du 30 juin 1955.
 
-(M) Modification de la loi 96-1181. Ces dispositions s'appliquent aux apports réalisés à compter du 1er janvier 1997.
+(1) Ces dispositions s'appliquent aux apports réalisés à compter du 1er janvier 1997.
 
 **Liens relatifs à cet article**
 
@@ -33,14 +41,6 @@ _Cite_:
 
   - CGI 151 octies, 210 A
   - Décret n°55-877 1955-06-30
-
-_Modifié par_:
-
-  - Loi n°96-1181 du 30 décembre 1996 - art. 111 (V) JORF 31 décembre 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 
@@ -52,8 +52,17 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 K (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies OD (V)
 
+_Codifié par_:
+
+  - Décret n°98-400 1998-05-22
+
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 22 avril 1998
   - TXT_ASSOCIE: Instruction 1995-04-25 4A-4-95
   - TXT_ASSOCIE: Instruction 1997-04-23 4A-8-97
+  - TXT_ASSOCIE: Instruction 1998-04-10 4A-6-98
+
+_Modifié par_:
+
+  - Loi - art. 33 (V) JORF 30 décembre 1997

@@ -31,9 +31,7 @@ II. Les plus-values visées au I peuvent bénéficier des dispositions de l'arti
 Elles peuvent également être placées sous le régime d'exonération prévu à l'article 210, en cas de fusion de sociétés ou
 d'opérations assimilées remplissant les conditions prévues au 2 dudit article 210.
 
-III. Les profits que les entreprises relevant de l'impôt sur le revenu ont placés sous le régime de l'exonération
-conditionnelle prévue au I sont soumis à cet impôt au taux de 30 % lorsqu'ils sont dégagés du 1er janvier 1972 au 31 décembre
-1981 à l'occasion de l'aliénation d'un bien acquis en remploi.
+III. (Périmé) (M).
 
 (1) Annexe III, art. 10 H bis et 46 quater-0 R.
 
@@ -45,11 +43,17 @@ conditionnelle prévue au I sont soumis à cet impôt au taux de 30 % lorsqu'ils
 
 (5) Annexe II, art. 166, 167 et 169.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 40, 266, 269, 285, 290, 691, 41, 210
+
+_Codifié par_:
+
+  - Décret n°98-400 1998-05-22
 
 _Cité par_:
 
@@ -65,3 +69,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 H bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 R (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 J (V)
+
+_Modifié par_:
+
+  - Décret n°98-400 1997-05-22 art. 1 JORF 24 mai 1998
+
+**Liens**:
+
+  - HISTO: Edition du 22 avril 1998
