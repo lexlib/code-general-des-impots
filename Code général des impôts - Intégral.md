@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1990-01-02
+Version Consolidée au 1990-01-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -734,7 +734,7 @@ Version Consolidée au 1990-01-02
                 - [3 : Scissions et apports partiels d'actif (art. 817)](#731)
                 - [4 : Conditions d'application du régime spécial des fusions, scissions et apports partiels d'actif (art. 817 A)](#732)
               - [C : Régimes spéciaux et exonérations (art. 820 à 834 bis)](#733)
-                - [1 : Sociétés à objet agricole (art. 820 à 820 A)](#734)
+                - [1 : Sociétés à objet agricole (art. 820 à 820 B)](#734)
                 - [2 : Groupements divers (art. 821 à 824 A)](#735)
                 - [3 : Sociétés à capital variable (art. 825)](#736)
                 - [3 bis : Sociétés centrales d'assurances (art. 825 A)](#737)
@@ -48377,6 +48377,33 @@ _Modifié par_:
   - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
+###### Article 820 B
+
+L'apport des stocks est exonéré de tout droit proportionnel d'enregistrement, à condition que ces biens soient destinés à la
+vente et qu'ils soient compris dans l'apport de l'ensemble de l'actif immobilisé d'une exploitation agricole effectué à une
+société à objet agricole redevable de la taxe sur la valeur ajoutée ou effectué par un exploitant agricole redevable de la
+taxe sur la valeur ajoutée à une société à objet agricole non redevable de cette taxe.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1992-06-01 7H-1-92
+  - HISTO: article créé directement et incorporé dans l'édition du 15 juin 1990)
+
+_Créé par_:
+
+  - Loi n°90-85 du 23 janvier 1990 - art. 39 () JORF 25 janvier 1990
+
+_Abrogé par_:
+
+  - Loi - art. 12 () JORF 31 décembre 1991
+
+_Modifié par_:
+
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
+
+
 ##### 2 : Groupements divers<a id=735></a>
 
 ###### Article 821
@@ -65367,9 +65394,9 @@ _Cité par_:
 
 ###### Article 1618 octies
 
-I. Il est institué au profit du budget annexe des prestations sociales agricoles une taxe sur les céréales livrées par les
-producteurs [*redevables*] aux collecteurs agréés. Toutefois, sont exclues les céréales de consommation courante échangées
-contre les céréales de semences certifiées dans la limite d'un plafond fixé par décret.
+I. Il est institué au profit du budget annexe des prestations sociales agricoles [*BAPSA*] une taxe sur les céréales livrées
+par les producteurs [*redevables*] aux collecteurs agréés. Toutefois, sont exclues les céréales de consommation courante
+échangées contre les céréales de semences certifiées dans la limite d'un plafond fixé par décret.
 
 Les montants de cette taxe s'établissent comme suit, en francs par tonne :
 
@@ -65377,7 +65404,7 @@ pour le blé tendre : 19,75 F ;
 
 pour le blé dur : 33,00 F ;
 
-pour l'orge : 18,80 F ;
+pour l'orge : 18,75 F ;
 
 pour le seigle : 19,75 F ;
 
@@ -65385,11 +65412,12 @@ pour le maïs : 17,70 F ;
 
 pour l'avoine : 21,70 F ;
 
-pour le sorgho : 18,80 F ;
+pour le sorgho : 18,75 F ;
 
-pour le triticale : 19,75 F [*(1)*]    La taxe est perçue par la direction générale des impôts auprès des collecteurs agrées.
-Elle est constatée, recouvrée, contrôlée et poursuivie selon les règles et sous les garanties et sûretés prévues en matière
-de contributions indirectes.
+pour le triticale : 19,75 F (1).
+
+La taxe est perçue par la direction générale des impôts auprès des collecteurs agrées. Elle est constatée, recouvrée,
+contrôlée et poursuivie selon les règles et sous les garanties et sûretés prévues en matière de contributions indirectes.
 
 II. Les éleveurs producteurs de céréales peuvent obtenir la restitution de la taxe visée au I correspondant aux quantités de
 céréales contenues dans les aliments qu'ils acquièrent pour la nourriture animale.
@@ -65397,13 +65425,13 @@ céréales contenues dans les aliments qu'ils acquièrent pour la nourriture ani
 Le droit à restitution ne peut s'exercer qu'auprès d'un seul collecteur agréé, dans la limite globale de 300 tonnes par
 campagne et à concurrence des quantités de céréales équivalentes produites par l'éleveur et livrées audit collecteur agréé.
 
-[*(1)*] : ces montants s'appliquent à compter de la campagne 1989-1990.
+(1) : ces montants s'appliquent à compter de la campagne 1989-1990.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°89-474 du 10 juillet 1989 - art. 1 (V) JORF 12 juillet 1989
+  - Loi n°90-85 du 23 janvier 1990 - art. 66 (V) JORF 25 janvier 1990, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### L : Colza, navette, tournesol.<a id=1103></a>
@@ -65411,20 +65439,25 @@ _Modifié par_:
 ###### Article 1618 nonies
 
 Il est institué au profit du budget annexe des prestations sociales agricoles une taxe, à la charge des producteurs de colza,
-navette et tournesol [*redevables*], portant sur les quantités livrées aux intermédiaires agréés.
+navette et tournesol [*redevables*], portant sur les quantités livrées aux intermédiaires agréés (Voir annexe III, art. 333
+1).
 
-Le montant de cette taxe est fixé à 41,85 F par tonne de colza et de navette et à 50,25 F par tonne de tournesol (1).
+Le montant de cette taxe est fixé à 41,85 F par tonne de colza et de navette et à 50,20 F par tonne de tournesol (1).
 
 La taxe est perçue par la direction générale des impôts auprès des intermédiaires agréés. Elle est constatée, recouvrée,
 contrôlée et poursuivie selon les règles et sous les garanties et sûretés prévues en matière de contributions indirectes.
 
-(1) : ces montants s'appliquent à compter de la campagne 1989-1990.
+(1) Ces montants s'appliquent à compter de la campagne 1989-1990.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGIAN3 333 1
+
 _Modifié par_:
 
-  - Loi n°89-474 1989-07-10 art. 10 JORF 12 juillet 1989
+  - Loi n°90-85 du 23 janvier 1990 - art. 66 (V) JORF 25 janvier 1990, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### Section VII : Aide aux spectacles<a id=1104></a>
