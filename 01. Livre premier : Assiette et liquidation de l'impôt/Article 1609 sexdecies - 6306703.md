@@ -29,7 +29,7 @@ c) Emballages industriels :
 
 44 15 20 90. - Caisses-palettes ;
 
-2° ((1,65 p. 100 de la valeur des produits suivants, énumérés selon la même référence)) (1) :
+2° ((1,30 p. 100 de la valeur des produits suivants, énumérés selon la même référence)) (1) :
 
 a) Sciages :
 
@@ -50,14 +50,14 @@ c) Bois contre-plaqués :
 
 44 12 11 00, 44 12 12 00, 44 12 19 00. - Bois contre-plaqués ;
 
-((2° bis. 0,85 p. 100 de la valeur des produits suivants énumérés selon la même référence :
+2° bis. ((0,68 p. 100)) (1) de la valeur des produits suivants énumérés selon la même référence :
 
-((44-10-10-10, 44-10-10-30, 44-10-10-50, 44-10-10-90.  Panneaux de particules, à l'exclusion des panneaux revêtus d'autres
+44-10-10-10, 44-10-10-30, 44-10-10-50, 44-10-10-90.  Panneaux de particules, à l'exclusion des panneaux revêtus d'autres
 matières que le bois ;
 
-((44-11.  Panneaux en fibre de bois ou d'autres matières ligneuses ;
+44-11.  Panneaux en fibre de bois ou d'autres matières ligneuses ;
 
-((44-12.  Panneaux plaqués, exclusivement de bois ou d'autres matières ligneuses ;)) (1)
+44-12.  Panneaux plaqués, exclusivement de bois ou d'autres matières ligneuses ;
 
 3° 0,50 p. 100 de la valeur des produits suivants, énumérés selon la même référence :
 
@@ -73,9 +73,9 @@ b) Emballages légers :
 
 44 15 10 10. - Emballages, caisses, caissettes, cageots en bois ;
 
-c) ((Supprimé)) (1) ;
+c) Supprimé ;
 
-4° ((0,15 p. 100)) (1) de la valeur des produits suivants, énumérés selon la même référence :
+4° ((0,12 p. 100)) (1) de la valeur des produits suivants, énumérés selon la même référence :
 
 48 01. - Papier journal en rouleaux ou en feuilles ;
 
@@ -94,10 +94,10 @@ l'état non plié ;
 
 48 05. - Autres papiers et cartons, non couchés ni enduits, en rouleaux ou en feuilles ;
 
-48 06. - Papiers et cartons sulfurisés, papiers ingraissables, papiers-calques et papier dit " cristal " et autres papiers
+48 06. - Papiers et cartons sulfurisés, papiers ingraissables, papiers-calques et papier dit "cristal" et autres papiers
 calandrés transparents ou translucides, en rouleaux ou en feuilles ;
 
-48 09 20. - Papiers dits " autocopiants " ;
+48 09 20. - Papiers dits "autocopiants" ;
 
 48 10. - Papiers et cartons couchés au kaolin ou à d'autres substances inorganiques sur une ou sur les deux faces, avec ou
 sans liants, à l'exclusion de tout autre couchage ou enduction, même coloriés en surface, décorés en surface ou imprimés, en
@@ -109,7 +109,7 @@ tubes ou en rouleaux d'une largeur n'excédant pas 5 cm ;
 48 23 59 90. - Autres papiers et cartons des types utilisés pour l'écriture, l'impression ou d'autres fins graphiques autres,
 autres.
 
-III Le produit de cette taxe est versé au compte spécial du Trésor intitulé : " Fonds forestier national ".
+III Le produit de cette taxe est versé au compte spécial du Trésor intitulé : "Fonds forestier national".
 
 IV 1. La taxe forestière est due en France métropolitaine par les entreprises qui fabriquent et par les personnes qui
 importent un des produits énumérés au I ou qui réalisent des acquisitions intracommunautaires portant sur ces mêmes produits.
@@ -124,12 +124,12 @@ les besoins de la fabrication de produits non taxables.
 
 Toutefois, les livraisons de produits énumérés au I faites en France à des exportateurs ou à des personnes qui effectuent des
 livraisons exonérées en vertu du I de l'article 262 ter ou des livraisons dans un lieu situé dans un autre Etat membre de la
-Communauté économique européenne en application de l'article 258 A, ne sont pas à comprendre dans l'assiette. Les
-importations et les acquisitions destinées à ces mêmes exportateurs ou expéditeurs ne sont pas imposables. Le fabricant,
-l'importateur ou la personne qui réalise les acquisitions intracommunautaires justifie le non-paiement de la taxe en
-produisant l'attestation visée à l'article 275. Cette attestation doit comporter l'engagement d'acquitter la taxe dans le cas
-où les produits ne recevraient pas la destination ayant motivé l'exclusion de l'assiette ou l'exonération, sans préjudice des
-pénalités prévues aux articles 1725 à 1740.
+Communauté européenne en application de l'article 258 A, ne sont pas à comprendre dans l'assiette. Les importations et les
+acquisitions destinées à ces mêmes exportateurs ou expéditeurs ne sont pas imposables. Le fabricant, l'importateur ou la
+personne qui réalise les acquisitions intracommunautaires justifie le non-paiement de la taxe en produisant l'attestation
+visée à l'article 275. Cette attestation doit comporter l'engagement d'acquitter la taxe dans le cas où les produits ne
+recevraient pas la destination ayant motivé l'exclusion de l'assiette ou l'exonération, sans préjudice des pénalités prévues
+aux articles 1725 à 1740.
 
 Pour les acquisitions intracommunautaires, l'assiette de la taxe est constituée par toutes les sommes, valeurs, biens ou
 services reçus ou à recevoir par le vendeur de la part de l'acheteur. La taxe est due lors de l'acquisition.
@@ -142,7 +142,9 @@ par le service des douanes selon les mêmes règles, sous les mêmes garanties e
 La base d'imposition est constituée par la valeur définie par la législation douanière conformément aux règlements
 communautaires en vigueur.
 
-(1) Modification de la loi 93-1352 art. 50 II.
+**Nota:**
+
+(1) Modification de la loi. [*Cf. Instruction 1995-02-03 3P-1-95.*]
 
 **Liens relatifs à cet article**
 
@@ -154,10 +156,19 @@ _Cite_:
 
   - CGI 262 ter, 258 A, 275, 1725 à 1740, 287, 1697
 
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+  - TXT_ASSOCIE: Instruction 1995-02-03 3P-1-95
+
 _Modifié par_:
 
-  - Loi n°93-1352 du 30 décembre 1993 - art. 50 () JORF 31 décembre 1993
-  - Modification directe incorporée dans l'édition du 2 septembre 1994
+  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+  - Loi n°94-1162 du 29 décembre 1994 - art. 30 () JORF 30 décembre 1994
 
 _Cité par_:
 
