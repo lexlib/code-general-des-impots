@@ -18,30 +18,32 @@ de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce 
 L'infraction peut être constatée par la direction générale des impôts ou la direction générale des douanes et droits
 indirects.
 
-L'amende est prononcée par l'administration qui constate l'infraction. Elle est recouvrée par le comptable de cette
-administration suivant les mêmes procédures et sous les mêmes garanties, sûretés et privilèges que celles prévues pour la
-taxe sur la valeur ajoutée. Les recours contre les décisions prises par l'administration sont portés devant le tribunal
-administratif.
+((L'amende est prononcée, dans le même délai de reprise qu'en matière de taxe sur la valeur ajoutée, par l'administration qui
+constate l'infraction. Le recouvrement et le contentieux de cette amende sont assurés et suivis par l'administration qui
+prononce l'amende suivant les mêmes procédures, et sous les mêmes garanties, sûretés et privilèges que ceux prévus pour cette
+taxe)) (M).
 
 Lorsqu'une infraction prévue au présent article a fait l'objet d'une amende prononcée par l'une des deux administrations,
 elle ne peut plus être sanctionnée par l'autre.
 
+(M) Modification de la loi 97-1269.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: ) Edition du 12 mai 1996
 
 _Cite_:
 
   - CGI 277 A
-  - CGI Livre des procédures fiscales L80 K, L80 L
-
-_Créé par_:
-
-  - Loi - art. 19 (V) JORF 31 décembre 1995, en vigueur le 1er janvier 1996
-  - Loi n°95-1347 1995-12-30 art. 19 VIII C, XIX Finances rectificative pour 1995, JORF 31 décembre 1995, en vigueur le 1er janvier 1996
+  - Livre des procédures fiscales - art. L80 K (V)
+  - Livre des procédures fiscales - art. L80 L (P)
 
 _Cité par_:
 
   - Décret n°97-1195 du 24 décembre 1997 - art. 6 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 22 avril 1998
+
+_Modifié par_:
+
+  - Loi - art. 84 () JORF 31 décembre 1997
