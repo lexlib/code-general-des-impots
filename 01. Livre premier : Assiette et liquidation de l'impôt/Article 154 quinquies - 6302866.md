@@ -6,21 +6,25 @@ de 5,1 points ou de 3,8 points pour les revenus visés aux II et III de l'articl
 admise en déduction du montant brut des sommes payées et des avantages en nature ou en argent accordés, ou du bénéfice
 imposable, au titre desquels la contribution a été acquittée.
 
-II. La contribution afférente aux revenus mentionnés aux a, b, c, f et g du premier alinéa du I de l'article 1600-0 C  et au
-II du même article réalisés à compter du 1er janvier 1997 est admise en déduction du revenu imposable de l'année de son
-paiement, à hauteur de 5,1 points.
+II. La contribution afférente aux revenus mentionnés aux a, b, c et f du premier alinéa du I de l'article L. 136-6 du code de
+la sécurité sociale et au II du même article réalisés à compter du 1er janvier 1997 est admise en déduction du revenu
+imposable de l'année de son paiement, à hauteur de 5,1 points.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 1600-0 C
-  - Code de la sécurité sociale. - art. L136-1 (M)
-  - Code de la sécurité sociale. - art. L136-8 (M)
+  - Décret n°2004-304 2004-03-26
 
 _Modifié par_:
 
-  - Loi - art. 10 (V) JORF 31 décembre 2003
+  - Décret n°2004-304 du 26 mars 2004 - art. 1 () JORF 30 mars 2004
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L136-1 (M)
+  - Code de la sécurité sociale. - art. L136-6 (M)
+  - Code de la sécurité sociale. - art. L136-8 (M)
 
 **Liens**:
 
