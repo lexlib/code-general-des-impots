@@ -2,20 +2,20 @@
 
 I. - Les redevables de l'impôt sur les sociétés sont assujettis à une contribution sociale égale à une fraction de cet impôt
 calculé sur leurs résultats imposables aux taux mentionnés au I de l'article 219 et diminué d'un abattement qui ne peut
-excéder 5 000 000 F par période de douze mois. Lorsqu'un exercice ou une période d'imposition est inférieur ou supérieur à
+excéder 763 000 euros par période de douze mois. Lorsqu'un exercice ou une période d'imposition est inférieur ou supérieur à
 douze mois, l'abattement est ajusté à due proportion.
 
 La fraction mentionnée au premier alinéa est égale à 3,3 % pour les exercices clos à compter du 1er janvier 2000.
 
-Sont exonérés les redevables ayant réalisé un chiffre d'affaires de moins de 50 millions de francs. Le chiffre d'affaires à
-prendre en compte s'entend du chiffre d'affaires réalisé par le redevable au cours de l'exercice ou période d'imposition,
-ramené à douze mois le cas échéant et, pour la société mère d'un groupe mentionné à l'article 223 A, de la somme des chiffres
+Sont exonérés les redevables ayant réalisé un chiffre d'affaires de moins de 7 630 000 euros. Le chiffre d'affaires à prendre
+en compte s'entend du chiffre d'affaires réalisé par le redevable au cours de l'exercice ou période d'imposition, ramené à
+douze mois le cas échéant et, pour la société mère d'un groupe mentionné à l'article 223 A, de la somme des chiffres
 d'affaires de chacune des sociétés membres de ce groupe. Le capital des sociétés, entièrement libéré, doit être détenu de
 manière continue, pour 75 % au moins, par des personnes physiques ou par une société répondant aux mêmes conditions dont le
 capital est détenu, pour 75 % au moins, par des personnes physiques. Pour la détermination de ce pourcentage, les
 participations des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement
 régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de
-dépendance au sens du 1 bis de l'article 39 terdecies entre la société en cause et ces dernières sociétés ou ces fonds.
+dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds.
 
 II. - Pour les entreprises placées sous le régime prévu à l'article 223 A, la contribution est due par la société mère. Elle
 est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble définis aux
@@ -36,15 +36,19 @@ VI. - Les modalités d'application du présent article sont fixées par décret.
 
 _Cite_:
 
-  - CGI 219, 223 A, 39 terdecies, 223 B, 223 D, 209 quinquies, 220 quinquies, 223 septies
+  - CGI 219, 223 A, 39, 223 B, 223 D, 209 quinquies, 220 quinquies, 223 septies
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2002-06-26 4L-2-02
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 54 III
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°99-1140 du 29 décembre 1999 - art. 6 () JORF 30 décembre 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 54 (V) JORF 29 décembre 2001
 
 _Cité par_:
 

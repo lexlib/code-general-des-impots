@@ -3,15 +3,15 @@
 Une taxe sur la publicité télévisée est due par les personnes qui assurent la régie des messages de publicité reçus en France
 sur les écrans de télévision.
 
-Elle est assise sur le message publicitaire selon les tarifs suivants : (1)
+Elle est assise sur le message publicitaire selon les tarifs suivants :
 
-10 F par message dont le prix est au plus égal à 1.000 F ;
+a) 1,5 euro par message dont le prix est au plus égal à 150 euros ;
 
-25 F par message dont le prix est supérieur à 1.000 F et au plus égal à 10 000 F ;
+b) 3,80 euros par message dont le prix est supérieur à 150 euros et au plus égal à 1 520 euros ;
 
-135 F par message dont le prix est supérieur à 10.000 F et au plus égal à 60 000 F ;
+c) 20,60 euros par message dont le prix est supérieur à 1 520 euros et au plus égal à 9 150 euros ;
 
-225 F par message dont le prix est supérieur à 60.000 F.
+d) 34,30 euros par message dont le prix est supérieur à 9 150 euros.
 
 Ces prix s'entendent hors taxes.
 
@@ -25,8 +25,6 @@ l'administration indiquant pour chaque tranche du barème le nombre de messages 
 La taxe est établie et recouvrée au vu de ce relevé selon les règles, conditions, garanties et sanctions prévues en matière
 de taxe sur la valeur ajoutée.
 
-(1) Ces montants s'appliquent à compter du 1er janvier 1995.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -35,8 +33,10 @@ _Anciens textes_:
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Modifié par_:
 
-  - Loi n°94-1163 du 29 décembre 1994 - art. 29 (P) JORF 30 décembre 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
