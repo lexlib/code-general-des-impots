@@ -3,13 +3,21 @@
 I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 3,5 % [*pourcentage*]
 de la valeur ajoutée produite au cours de l'année au titre de laquelle l'imposition est établie ou au cours du dernier
 exercice de douze mois clos au cours de cette même année lorsque cet exercice ne coïncide pas avec l'année civile. La valeur
-ajoutée est définie selon les modalités prévues au II.
+ajoutée est définie selon les modalités prévues au II (1).
+
+((Par exception, pour les impositions établies au titre de 1995, le taux prévu au premier alinéa est porté à 3,8 p. 100 pour
+les entreprises dont le chiffre d'affaires de cette même année est compris entre 140 millions de francs et 500 millions de
+francs, et à 4 p. 100 pour celles dont le chiffre d'affaires excède cette dernière limite)) (1').
 
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de
 l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet.
 
 Il ne s'applique pas aux taxes visées aux articles 1600 et 1601 ni aux prélèvements opérés par l'Etat sur ces taxes en
 application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
+
+((Par exception, pour les impositions établies au titre de 1995 , le taux prévu à l'alinéa précédent est porté à 3,8 p. 100
+pour les entreprises dont le chiffre d'affaires de cette même année est compris entre 140 millions de francs et 500 millions
+de francs, et à 4 p. 100 pour celles dont le chiffre d'affaires excède cette dernière limite)) (1').
 
 II. 1. La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de la production sur les consommations de biens et
 services en provenance de tiers constaté pour la période définie au I.
@@ -56,11 +64,17 @@ III. (Abrogé pour les impositions établies au titre de 1993 et des années sui
 IV. Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du dépôt
 de la demande.
 
-((V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour
-les impositions établies au titre de 1994 et des années suivantes)) (1').
+V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour les
+impositions établies au titre de 1994 (2) ((et 500 millions de francs au titre de 1995)) (1').
 
 (1) Taux applicable pour les impositions établies au titre de 1991 et des années suivantes. Précédemment le taux était de 4
-%.    (1') Modification de la loi.
+%.
+
+(1') Modification de la loi.
+
+[*Cf. Instruction 1995-07-18 6E-8-95.*]
+
+(2) Cf. Instruction 1994-02-08 6E-2-94.
 
 **Liens relatifs à cet article**
 
@@ -91,12 +105,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-1352 du 30 décembre 1993 - art. 55 (V) JORF 31 décembre 1993
+  - Loi n°94-1162 du 29 décembre 1994 - art. 17 () JORF 30 décembre 1994
 
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1281 1995-12-11
 
 **Liens**:
 
+  - HISTO: Edition du 27 octobre 1995
   - TXT_ASSOCIE: Instruction 1994-02-08 6E-2-94
+  - TXT_ASSOCIE: Instruction 1995-07-18 6E-8-95

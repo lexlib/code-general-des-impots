@@ -1,6 +1,6 @@
 # Article 15 quater
 
-A compter du 1er janvier 1993, les propriétaires d'un logement conforme aux normes minimales définies pour l'application de
+I A compter du 1er janvier 1993, les propriétaires d'un logement conforme aux normes minimales définies pour l'application de
 l'article 15 bis, vacant depuis plus d'un an au 31 décembre 1992, sont exonérés de l'impôt sur le revenu pour les produits
 des deux premières années de cette location s'ils s'engagent à le louer nu à usage de résidence principale du locataire
 pendant une durée de six ans.
@@ -9,11 +9,17 @@ La location doit prendre effet avant le 31 décembre 1993.
 
 Le revenu global de l'année au cours de laquelle l'engagement n'est pas respecté est majoré du revenu indûment exonéré.
 
-Un même contribuable ne peut pour un même logement bénéficier de cette disposition et des dispositions relatives aux
-opérations groupées de restauration immobilière mentionnées au 3° du I de l'article 156 et au b du 1° du I de l'article 31.
+((Un même contribuable ne peut pour un même logement bénéficier de cette disposition et des dispositions relatives aux
+opérations de restauration immobilière mentionnées au 3° du I de l'article 156 et au b du 1° du I de l'article 31)) (M).
 
 Les modalités d'établissement de la preuve de la vacance des locaux par le contribuable ainsi que les obligations
 déclaratives de celui-ci sont celles qui sont définies pour l'application de l'article 15 ter.
+
+((II Les dispositions du I s'appliquent dans les mêmes conditions et sous les mêmes sanctions aux produits des deux premières
+années de location d'un logement vacant depuis plus d'un an entre le 30 juin 1994 et le 31 décembre 1994 et dont la location
+a pris effet avant le 31 décembre 1995)) (M).
+
+(M) Modification de la loi.
 
 **Liens relatifs à cet article**
 
@@ -21,10 +27,14 @@ _Cite_:
 
   - CGI 15 bis, 15 ter, 156, 31
 
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
+
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 27 octobre 1995
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 91 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi n°94-1162 du 29 décembre 1994 - art. 11 () JORF 30 décembre 1994
