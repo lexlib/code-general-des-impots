@@ -17,9 +17,9 @@ sociétés qui remplissent les conditions mentionnées à l'article 44 sexies.
 
 Ne peuvent ouvrir droit à déduction :
 
-1° Les souscriptions qui ont donné droit à l'une des déductions prévues à l'article 62, au 2° quater de l'article 83 et aux
-articles 83 bis, 83 ter, 163 quinquies A, 163 septdecies, ou à l'une des réductions d'impôt prévues aux articles 199 undecies
-et 199 terdecies A ;
+1° Les souscriptions qui ont donné droit à l'une des déductions prévues au 2° quater de l'article 83 et aux articles 83 bis,
+83 ter, 163 quinquies A, 163 septdecies, ou à l'une des réductions d'impôt prévues aux articles 199 undecies et 199 terdecies
+A ;
 
 2° Les souscriptions effectuées par les personnes appartenant à un foyer fiscal qui bénéficie ou a bénéficié de la déduction
 du revenu imposable des sommes versées au titre de l'exécution d'un engagement de caution souscrit au profit de la société
@@ -38,19 +38,20 @@ Sous réserve des exclusions visées aux 1°, 2° et 3° du II, la déduction in
 paiement dans les cinq ans suivant la date du plan de redressement visé au premier alinéa.
 
 La société en difficulté doit être soumise à l'impôt sur les sociétés et exercer une activité industrielle, commerciale ou
-artisanale au sens du I de l'article 44 sexies ((ou une activité agricole)) (1).
+artisanale au sens du I de l'article 44 sexies ou une activité agricole (1).
 
 III Un décret en Conseil d'Etat précise les modalités d'application du présent article ainsi que les obligations mises à la
-charge des sociétés ou de leurs représentants légaux et des souscripteurs.
+charge des sociétés ou de leurs représentants légaux et des souscripteurs (2).
 
-(1) Modification de la loi. Ces dispositions s'appliquent aux versements des souscriptions au capital effectuées à compter du
-1er janvier 1995.
+(1) Ces dispositions s'appliquent aux versements des souscriptions au capital effectuées à compter du 1er janvier 1995.
+
+(2) Voir l'article 75-0 Y de l'annexe II.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 44 sexies, 62, 83, 83 bis, 83 ter, 163 quinquies, 163 septdecies, 199 undecies, 199 terdecies
+  - CGI 44 sexies, 83, 83 bis, 83 ter, 163 quinquies, 163 septdecies, 199 undecies, 199 terdecies
   - Loi n°85-98 1985-01-25 art. 69, art. 81, art. 180, art. 181, art. 182, art. 188, art. 189, art. 190, art. 192, art. 197, art. 201, art. 61
   - Loi n°85-98 du 25 janvier 1985 - art. 180 (M)
   - Loi n°85-98 du 25 janvier 1985 - art. 182 (M)
@@ -61,15 +62,15 @@ _Cite_:
   - Loi n°85-98 du 25 janvier 1985 - art. 197 (M)
   - Loi n°85-98 du 25 janvier 1985 - art. 201 (Ab)
 
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
-
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
-  - SPEC_APPLI: Loi n°95-95 1995-02-01 art. 26 II
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1997-04-30 5B-13-97
 
 _Modifié par_:
 
-  - Loi n°95-95 du 1 février 1995 - art. 26 (V) JORF 2 février 1995
+  - Loi n°96-1181 du 30 décembre 1996 - art. 14 (V) JORF 31 décembre 1996
+
+_Codifié par_:
+
+  - Décret n°97-661 1997-05-28
