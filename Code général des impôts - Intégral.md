@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-01-15
+Version Consolidée au 1985-03-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -47774,9 +47774,9 @@ annexes, des taxes sur le chiffre d'affaires et des taxes annexes, et des contri
 2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes.
 
 4. La publicité est obligatoire lorsque les sommes dues par un redevable à un même poste comptable ou service assimilé et
-susceptibles d'être inscrites dépassent au dernier jour d'un e semestre civil un montant minimum déterminé par arrêté du
-ministre de l'économie et des finances pris après avis du garde des sceaux, ministre de la justice (1). Les sommes qui ne
-dépassent pas le montant minimum peuvent également être inscrites.
+susceptibles d'être inscrites dépassent au dernier jour d'un e trimestre civil un montant minimum déterminé par arrêté du
+ministre de l'économie et du ministre du budget pris après avis du garde des sceaux, ministre de la justice (1). Les sommes
+qui ne dépassent pas le montant minimum peuvent également être inscrites.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le
 présent article à la charge de l'administration, quel que soit le montant du paiement.
@@ -47800,9 +47800,9 @@ prescription*].
 sont fixées par un décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et du garde des
 sceaux, ministre de la justice (2).
 
-1) Annexe IV, art. 207 quinquies.
+(1) Annexe IV, art. 207 quinquies.
 
-2) Annexe II, art. 396 bis.
+(2) Annexe II, art. 396 bis.
 
 **Liens relatifs à cet article**
 
@@ -47810,6 +47810,11 @@ _Cite_:
 
   - CGIAN2 396 bis
   - CGIAN4 207 quinquies
+
+_Modifié par_:
+
+  - Loi n°84-148 du 1 mars 1984 - art. 46 () JORF 2 mars 1984, en vigueur le 1er mars 1985
+  - Loi n°84-148 du 1 mars 1984 - art. 62 (Ab) JORF 2 mars 1984, en vigueur le 1er mars 1985
 
 _Cité par_:
 
@@ -47821,10 +47826,6 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 416 bis (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 396 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 416 ter (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=1047></a>
