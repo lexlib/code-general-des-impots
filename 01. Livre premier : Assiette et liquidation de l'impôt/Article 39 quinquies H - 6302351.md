@@ -21,7 +21,7 @@ d. (Abrogé pour les prêts consentis au cours des exercices ouverts à compter 
 
 Ces dispositions sont également applicables lorsque les bénéficiaires sont des travailleurs non salariés relevant des groupes
 de professions mentionnés au 1° de l'article L615-1 du code de la sécurité sociale et répondent aux conditions définies aux
-b, et c ci-dessus sous réserve de leur adaptation par un décret en Conseil d'Etat.
+b, et c sous réserve de leur adaptation par un décret en Conseil d'Etat.
 
 Les créateurs de l'entreprise nouvelle ou de la société nouvelle ne doivent pas exercer ou avoir exercé des fonctions de
 dirigeant de droit ou de fait dans l'entreprise qui les employait ou dans une des sociétés visées au III, ni être conjoint,
@@ -76,9 +76,13 @@ _Cite_:
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
   - Code de la sécurité sociale. - art. L615-1 (M)
 
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
+
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Cité par_:
 
@@ -86,3 +90,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 163 bis G (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G bis (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G ter (P)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

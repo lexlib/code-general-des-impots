@@ -1,9 +1,10 @@
 # Article 1681 quinquies
 
-1. Le prélèvement prévu à l'article 125 A et les prélèvements établis, liquidés et recouvrés selon les mêmes règles ainsi que
-la retenue à la source prévue à l'article 119 bis et les retenues liquidées et recouvrées selon les mêmes règles sont
-acquittés par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque
-leur montant excède 1 500 euros.
+1. Le prélèvement prévu à l'article 125 A et les prélèvements établis, liquidés et recouvrés selon les mêmes règles, à
+l'exception de ceux dus à raison des revenus, produits et gains mentionnés aux I et II de l'article 125 D, ainsi que la
+retenue à la source prévue à l'article 119 bis et les retenues liquidées et recouvrées selon les mêmes règles sont acquittés
+par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant
+excède 1 500 euros.
 
 2. Les dispositions visées au 1 entrent en vigueur à des dates fixées par décret et au plus tard le 31 décembre 1992.
 
@@ -14,25 +15,19 @@ l'exercice précédent par l'entreprise est supérieur à 760 000 euros.
 4. Les paiements afférents à la taxe sur les salaires mentionnée à l'article 231 sont effectués par virement directement
 opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant excède 50 000 euros.
 
-**Nota:**
-
-NOTA : Ces dispositions entrent en vigueur à des dates fixées par décret et au plus tard le 1er janvier 2005.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 125 A, 119 bis, 1668, 231
-  - Décret n°92-659 1992-07-09
+  - CGI 125 A, 119 bis, 125 D, 1668, 231
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
-  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 37 B
+  - HISTO: Edition du 1er janvier 2005
 
 _Modifié par_:
 
-  - Loi - art. 37 (V)
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 40 (V) JORF 31 décembre 2004
 
 _Cité par_:
 

@@ -1,8 +1,7 @@
 # Article 302 bis K
 
-I. 1. A compter du 1er janvier 1999, une taxe de l'aviation civile au profit du budget annexe de l'aviation civile et du
-compte d'affectation spéciale intitulé : "Fonds d'intervention pour les aéroports et le transport aérien" est due par les
-entreprises de transport aérien public.
+I. 1. A compter du 1er janvier 2005, une taxe de l'aviation civile au profit du budget annexe de l'aviation civile et du
+budget général de l'Etat est due par les entreprises de transport aérien public.
 
 La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués en France, quelles que soient les
 conditions tarifaires accordées par le transporteur, à l'exception :
@@ -44,13 +43,11 @@ France.
 
 Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe de l'aviation civile.
 
-III. - Les quotités du produit de la taxe affectées respectivement au budget annexe de l'aviation civile et au compte
-d'affectation spéciale intitulé "Fonds d'intervention pour les aéroports et le transport aérien" sont déterminées par la loi
-de finances.
+III. - Les quotités du produit de la taxe affectées respectivement au budget annexe de l'aviation civile et au budget général
+sont déterminées par la loi de finances.
 
-Les sommes encaissées au titre du fonds d'intervention pour les aéroports et le transport aérien par les comptables du budget
-annexe de l'aviation civile sont transférées mensuellement au comptable du fonds d'intervention pour les aéroports et le
-transport aérien.
+Les sommes encaissées au titre du budget général par les comptables du budget annexe de l'aviation civile sont transférées
+mensuellement aux comptables publics assignataires.
 
 IV. - 1. - La déclaration visée au II est contrôlée par les services de la direction générale de l'aviation civile. A cette
 fin, les agents assermentés peuvent examiner sur place les documents utiles.
@@ -94,7 +91,7 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 _Modifié par_:
 
-  - Loi - art. 44 () JORF 31 décembre 2003
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 58 () JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -130,4 +127,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2005
