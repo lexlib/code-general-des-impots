@@ -3,15 +3,15 @@
 Une taxe sur la publicité télévisée est due par les personnes qui assurent la régie des messages de publicité reçus en France
 sur les écrans de télévision.
 
-Elle est assise sur le message publicitaire selon les tarifs suivants :
+Elle est assise sur le message publicitaire selon les tarifs suivants : (1)
 
 10 F par message dont le prix est au plus égal à 1.000 F ;
 
-30 F par message dont le prix est supérieur à 1.000 F et au p lus égal à 10 000 F ;
+25 F par message dont le prix est supérieur à 1.000 F et au plus égal à 10 000 F ;
 
-220 F par message dont le prix est supérieur à 10.000 F et au plus égal à 60 000 F ;
+135 F par message dont le prix est supérieur à 10.000 F et au plus égal à 60 000 F ;
 
-420 F par message dont le prix est supérieur à 60.000 F.
+225 F par message dont le prix est supérieur à 60.000 F.
 
 Ces prix s'entendent hors taxes.
 
@@ -25,17 +25,18 @@ l'administration indiquant pour chaque tranche du barème le nombre de messages 
 La taxe est établie et recouvrée au vu de ce relevé selon les règles, conditions, garanties et sanctions prévues en matière
 de taxe sur la valeur ajoutée.
 
+(1) Ces montants s'appliquent à compter du 1er janvier 1995.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - CGI 564 nonies
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 45 () JORF 19 juillet 1992
+  - HISTO: Edition du 27 octobre 1995
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Loi n°94-1163 du 29 décembre 1994 - art. 29 (P) JORF 30 décembre 1994
