@@ -80,12 +80,12 @@ Les réclamations et les recours contentieux relatifs aux décisions d'inscripti
 département de l'intérieur.
 
 1 bis C bis. Les entreprises de presse ne bénéficient pas du régime prévu aux 1 bis A et 1 bis A bis pour la partie des
-publications qu'elles impriment hors d'un état membre de la ((Communauté européenne)) (M).
+publications qu'elles impriment hors d'un état membre de la Communauté européenne.
 
 1 ter. Les éléments d'actif acquis au moyen des bénéfices ou des provisions mentionnés au présent article sont amortis pour
 un montant égal à la fraction du prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou provisions.
 
-Sans préjudice de l'application des dispositions du dixième alinéa du 5° du 1 de l'article 39, les provisions non utilisées
+Sans préjudice de l'application des dispositions du treizième alinéa du 5° du 1 de l'article 39, les provisions non utilisées
 conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices
 soumis à l'impôt au titre de ladite année.
 
@@ -100,8 +100,6 @@ qu'elles doivent verser en cas de licenciement de ces derniers.
 
 (1) Annexe IV, art. 4 octies.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -111,6 +109,11 @@ _Cite_:
   - Loi n°54-782 1954-08-02 art. 9, art. 20 1°, 2°
   - Loi n°54-782 du 2 août 1954 - art. 9 (V)
   - Ordonnance 1944-09-30
+
+**Liens**:
+
+  - HISTO: Edition du 22 avril 1998
+  - TXT_ASSOCIE: Instruction 1996-10-21 4E-4-96
 
 _Cité par_:
 
@@ -127,12 +130,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+  - Loi - art. 6 () JORF 31 décembre 1997
 
 _Codifié par_:
 
-  - Décret n°95-1281 1995-12-11
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1996-10-21 4E-4-96
+  - Décret n°98-400 1998-05-22

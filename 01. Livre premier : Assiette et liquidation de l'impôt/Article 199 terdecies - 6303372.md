@@ -21,11 +21,10 @@ l'alinéa précédent, sans que le total des souscriptions effectuées jusqu'au 
 date de création de la première société au capital de laquelle le contribuable a souscrit puisse excéder respectivement
 40.000 F et 80.000 F.
 
-III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de l'article 83, aux articles 163 quindecies et 163
-septdecies ou à la réduction d'impôt prévue à l'article 199 undecies ne peuvent ouvrir droit à la réduction d'impôt
-mentionnée au I.
+III. Les souscriptions donnant lieu aux déductions prévues au ((2° quater de l'article 83, et à l'article 163 septdecies))
+(M) ou à la réduction d'impôt prévue à l'article 199 undecies ne peuvent ouvrir droit à la réduction d'impôt mentionnée au I.
 
-IV. ((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
+IV. Les dispositions du 5 du I de l'article 197 sont applicables.
 
 Lorsque tout ou partie des actions ou parts ayant donné lieu, directement ou indirectement, à la réduction d'impôt est cédé
 ou racheté, il est pratiqué une reprise égale au quart du montant de la cession ou du rachat dans la limite des réductions
@@ -49,7 +48,7 @@ contribuables et aux sociétés nouvelles (2).
 
 (1) Le bénéfice de la réduction d'impôt prévue au I est supprimé à compter de l'imposition des revenus de 1994.
 
-(M) Modification de la loi 96-1181.
+(M) Modification.
 
 (2) Voir Annexe III art. 46 AI.
 
@@ -61,19 +60,22 @@ _Cite_:
   - CGIAN3 46 AI
   - Code de la sécurité sociale. - art. L341-4 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Conséquence de la péremption de l'article 163 quindecies
+  - PEREMPTION: Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 mars 2000
+
 _Codifié par_:
 
-  - Décret n°97-661 1997-05-28
+  - Décret n°98-400 1998-05-22
+  - Décret n°2000-477 2000-06-02
+
+_Modifié par_:
+
+  - Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-
-_Modifié par_:
-
-  - Loi n°96-1181 du 30 décembre 1996 - art. 14 (V) JORF 31 décembre 1996
-  - Loi n°96-1181 du 30 décembre 1996 - art. 83 () JORF 31 décembre 1996
