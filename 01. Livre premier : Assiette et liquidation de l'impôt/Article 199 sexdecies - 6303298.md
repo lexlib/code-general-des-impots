@@ -12,12 +12,17 @@ Dans le cas où le contribuable bénéficie de la réduction prévue au premier 
 résidence d'un ascendant, il renonce au bénéfice des dispositions de l'article 156 relatives aux pensions alimentaires, pour
 la pension versée à ce même ascendant.
 
-La réduction d'impôt est égale à 50 % du montant des dépenses effectivement supportées, retenues dans la limite de 7 400
-euros et de 10 000 euros pour les dépenses engagées à compter du 1er janvier 2003. Ce plafond est porté à 13 800 euros pour
-les contribuables mentionnés au 3° de l'article L. 341-4 du code de la sécurité sociale, ainsi que pour les contribuables
-ayant à leur charge une personne, vivant sous leur toit, mentionnée au 3° dudit article, ou un enfant donnant droit au
-complément d'allocation d'éducation spéciale prévu par le deuxième alinéa de l'article L. 541-1 du code de la sécurité
-sociale.
+La réduction d'impôt est égale à 50 % du montant des dépenses effectivement supportées, retenues dans la limite d'un plafond
+de 10 000 euros pour les dépenses engagées en 2004 et de 12 000 euros pour les dépenses engagées à compter du 1er janvier
+2005. Ce plafond est porté à 13 800 euros pour les dépenses engagées en 2004 et à 20 000 euros pour les dépenses engagées à
+compter du 1er janvier 2005 pour les contribuables mentionnés au 3° de l'article L. 341-4 du code de la sécurité sociale,
+ainsi que pour les contribuables ayant à leur charge une personne, vivant sous leur toit, mentionnée au 3° dudit article, ou
+un enfant donnant droit au complément d'allocation d'éducation spéciale prévu par le deuxième alinéa de l'article L. 541-1 du
+code de la sécurité sociale. Le plafond de 12 000 euros est majoré de 1 500 euros par enfant à charge au sens des articles
+196 et 196 B et au titre de chacun des membres du foyer fiscal âgé de plus de soixante-cinq ans. La majoration s'applique
+également aux ascendants visés au premier alinéa du 1° remplissant la même condition d'âge. Le montant de 1 500 euros est
+divisé par deux pour les enfants réputés à charge égale de l'un et l'autre de leurs parents. Le plafond de 12 000 euros
+augmenté de ces majorations ne peut excéder 15 000 euros.
 
 Ainsi qu'il est dit au premier alinéa de l'article L. 129-3 du code du travail, l'aide financière mentionnée à cet article
 n'est pas déduite du montant des dépenses à retenir pour l'assiette de la réduction d'impôt mentionnée au présent article.
@@ -40,20 +45,18 @@ Les dispositions du 5 du I de l'article 197 sont applicables.
 
 _Cite_:
 
-  - CGI 156, 197
+  - CGI 156, 196, 197
+  - CGIAN3 46 AO bis
   - Code du travail - art. L129-1 (M)
   - Code du travail - art. L129-3 (M)
+  - Code du travail L129-1, L129-3, D129-7 à D129-12
   - Code de la sécurité sociale. - art. L341-4 (V)
   - Code de la sécurité sociale. - art. L541-1 (M)
   - Code de l'action sociale et des familles - art. L232-2 (M)
 
-_Codifié par_:
-
-  - Décret n°2003-298 2003-03-31
-
 _Modifié par_:
 
-  - Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 87 () JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -77,9 +80,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 193 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AO bis (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Conséquence de l'application du 1er alinéa de l'article L. 129-3 du code du travail
-  - HISTO: Edition du 1er janvier 2003
-  - TXT_ASSOCIE: Instruction 2003-02-21 5B-8-03
