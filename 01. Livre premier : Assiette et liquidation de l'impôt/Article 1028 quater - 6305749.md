@@ -1,21 +1,23 @@
 # Article 1028 quater
 
-Les conventions conclues en application de l'article 18-1 de la loi n° 60-808 du 5 août 1960 d'orientation agricole modifiée
-sont exonérées des droits de timbre et d'enregistrement.
+Les conventions conclues en application du premier alinéa de l'article L. 142-6 du code rural sont exonérées des droits de
+timbre et d'enregistrement.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°60-808 du 5 août 1960 - art. 18-1 (Ab)
+  - Code rural L142-6
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°90-85 du 23 janvier 1990 - art. 29 (Ab) JORF 25 janvier 1990
+  - Loi n°92-1283 du 11 décembre 1992 - art. 2 (V) JORF 12 décembre 1992
+  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 _Codifié par_:
 
-  - Décret n°90-798 1990-09-10
+  - Décret n°93-1127 1993-09-24
 
 **Liens**:
 
