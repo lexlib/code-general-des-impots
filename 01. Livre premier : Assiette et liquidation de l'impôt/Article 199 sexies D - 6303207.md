@@ -1,10 +1,10 @@
 # Article 199 sexies D
 
 I. 1. Les dépenses de grosses réparations et d'amélioration afférentes à la résidence principale du contribuable dont il est
-propriétaire et qui sont payées entre le 1er janvier  1997 et le 31 décembre 2001 ouvrent droit à une réduction d'impôt sur
-le revenu lorsque l'immeuble est situé en France et est achevé depuis plus de dix ans. La réduction n'est pas accordée pour
-les dépenses de construction, de reconstruction, d'agrandissement, de décoration, d'équipement ménager ou d'entretien. Elle
-est accordée pour les dépenses de ravalement.
+propriétaire et qui sont payées entre le 1er janvier 1997 et le 31 décembre 2001 ouvrent droit à une réduction d'impôt sur le
+revenu lorsque l'immeuble est situé en France et est achevé depuis plus de dix ans. La réduction n'est pas accordée pour les
+dépenses de construction, de reconstruction, d'agrandissement, de décoration, d'équipement ménager ou d'entretien. Elle est
+accordée pour les dépenses de ravalement.
 
 Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne peut excéder au cours de la période définie au
 premier alinéa la somme de 20 000 F pour une personne célibataire, veuve ou divorcée et de 40 000 F pour un couple marié
@@ -29,7 +29,8 @@ dépenses ont été payées.
 personnes handicapées et à adapter leur logement. Il en est de même lorsque les immeubles sont situés dans une zone classée
 en état de catastrophe naturelle et que les dépenses sont effectuées dans l'année qui suit la date de constatation de cet
 état par arrêté ministériel, par un contribuable qui a déposé un dossier d'indemnisation auprès de la préfecture ou d'un
-organisme régi par le code des assurances.
+organisme régi par le code des assurances. Il en est de même pour les travaux initiaux de prévention et de lutte contre les
+termites et les autres insectes xylophages, ainsi que pour leur renouvellement.
 
 II. Pour une même opération, les dispositions du I sont exclusives de l'application des dispositions de l'article 199 sexies.
 
@@ -44,11 +45,11 @@ _Cite_:
   - CGI 196 à 196 B, 197, 199 sexies
   - Code de la construction et de l'habitation. - art. R317-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 85 () JORF 31 décembre 1996
+  - Loi n°99-471 du 8 juin 1999 - art. 10 () JORF 9 juin 1999
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
   - TXT_ASSOCIE: Instruction 1997-04-28 5B-15-97
+  - TXT_ASSOCIE: Instruction 1999-08-03 5B-16-99
