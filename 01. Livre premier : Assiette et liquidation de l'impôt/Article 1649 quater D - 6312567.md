@@ -15,7 +15,9 @@ gestion et l'ordre des experts comptables et des comptables agréés. Ils font a
 vérification par sondages de ces documents.
 
 III. Les dispositions du II sont applicables à l'ensemble des des centres de gestion en ce qui concerne leurs adhérents
-industriels, commerçants et artisans soumis sur option au régime simplifié d'imposition prévu à l'article 302 septies A bis.
+industriels, commerçants et artisans soumis sur option au régime simplifié d'imposition prévu à l'article 302 septies A bis
+ou soumis de plein droit à ce régime lorsque leur chiffre d'affaires ne dépasse pas le double des limites du régime du
+forfait.
 
 IV. Les centres de gestion agréés et habilités peuvent tenir ou centraliser, dans des conditions fixées par décret, les
 documents comptables de leurs adhérents dont le chiffre d'affaires n'excède pas les limites du régime simplifié d'imposition.
@@ -43,7 +45,7 @@ _Cite_:
   - CGIAN3 344 IB
   - CGIAN3 344 IC
   - CGIAN3 344 ID
-  - CGIAN4 164 F unvicies A A CGIAN4 164 F unvicies F
+  - CGIAN4 164 F unvicies A à CGIAN4 164 F unvicies F
   - Ordonnance n°45-2138 du 19 septembre 1945 - art. 2 (M)
   - Ordonnance n°45-2138 du 19 septembre 1945 - art. 8 (M)
   - Loi n°68-946 1968-10-31
@@ -59,4 +61,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-936 du 29 décembre 1989 - art. 100 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi - art. 100 () JORF 30 décembre 1990
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
