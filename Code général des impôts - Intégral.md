@@ -1,28 +1,73 @@
 # Code général des impôts  
-Version Consolidée au 1959-01-09
+Version Consolidée au 1965-07-14
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 1043 A)](#1)
-    - [Première Partie : Impôts d'État (art. 1043 A)](#2)
-      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 1043 A)](#3)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#4)
-          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#5)
-            - [9° : Départements d'outre-mer (art. 1043 A)](#6)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563)](#7)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#8)
-      - [IMPOSITIONS COMMUNALES (art. 1563)](#9)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#10)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#11)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 850 à 1043 A)](#1)
+    - [Première Partie : Impôts d'État (art. 850 à 1043 A)](#2)
+      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 850 à 1043 A)](#3)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 850)](#4)
+          - [Section III : Obligations diverses (art. 850)](#5)
+            - [I : Obligations des redevables et des officiers publics et ministériels (art. 850)](#6)
+              - [A : Obligations des redevables (art. 850)](#7)
+                - [Affirmation de sincérité. (art. 850)](#8)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#9)
+          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#10)
+            - [9° : Départements d'outre-mer (art. 1043 A)](#11)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563)](#12)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#13)
+      - [IMPOSITIONS COMMUNALES (art. 1563)](#14)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#15)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#16)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
 
 ### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre<a id=3></a>
 
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=4></a>
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=4></a>
 
-##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=5></a>
+##### Section III : Obligations diverses<a id=5></a>
 
-##### 9° : Départements d'outre-mer<a id=6></a>
+##### I : Obligations des redevables et des officiers publics et ministériels<a id=6></a>
+
+##### A : Obligations des redevables<a id=7></a>
+
+##### Affirmation de sincérité.<a id=8></a>
+
+###### Article 850
+
+Dans tout acte ou déclaration ayant pour objet, soit une vente d'immeubles, soit une cession de fonds de commerce ou du droit
+à un bail ou du bénéfice d'une promesse de bail portant sur tout ou partie d'un immeuble, soit un échange ou un partage
+comprenant des immeubles ou un fonds de commerce, les vendeurs, acquéreurs, échangistes, copartageants, leurs tuteurs ou
+administrateurs légaux sont tenus de terminer l'acte ou la déclaration par une mention ainsi conçue :
+
+"Les parties affirment, sous les peines édictées par l'article 8 de la loi du 18 avril 1918 (art. 1837 du code général des
+impôts) que le présent acte (ou la présente déclaration) exprime l'intégralité du prix ou de la soulte convenue".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1837
+  - Loi n°1918-04-18 ART. 8
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 863 (V)
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°570 DU 13 JUILLET 1965 CODIFIEE SOUS L'ARTICLE 216 DU CODE CIVIL
+
+
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=9></a>
+
+##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=10></a>
+
+##### 9° : Départements d'outre-mer<a id=11></a>
 
 ###### Article 1043 A
 
@@ -45,15 +90,15 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=7></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=12></a>
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=8></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=13></a>
 
-### IMPOSITIONS COMMUNALES<a id=9></a>
+### IMPOSITIONS COMMUNALES<a id=14></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=10></a>
+#### CONTRIBUTIONS INDIRECTES<a id=15></a>
 
-##### TAXES OBLIGATOIRES.<a id=11></a>
+##### TAXES OBLIGATOIRES.<a id=16></a>
 
 ###### Article 1563
 
