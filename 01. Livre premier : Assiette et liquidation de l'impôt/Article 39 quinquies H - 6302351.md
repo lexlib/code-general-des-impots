@@ -14,10 +14,10 @@ remplissent les conditions du II du même article ou créées dans les condition
 septies et, s'il s'agit de sociétés, ne sont pas détenues à plus de 50 p. 100 par une entreprise individuelle ;
 
 c. Réalisent à la clôture de l'exercice de création ou de reprise et des deux exercices suivants un chiffre d'affaires qui
-n'excède pas 30 millions de francs lorsque l'activité principale est de vendre des marchandises, objets, fournitures et
-denrées à emporter ou à consommer sur place ou de fournir le logement, ou 10 millions s'il s'agit d'autres entreprises ;
+n'excède pas 4 600 000 euros lorsque l'activité principale est de vendre des marchandises, objets, fournitures et denrées à
+emporter ou à consommer sur place ou de fournir le logement, ou 1 530 000 euros s'il s'agit d'autres entreprises ;
 
-d. (Abrogé) ;
+d. (Abrogé pour les prêts consentis au cours des exercices ouverts à compter du 1er janvier 1996).
 
 Ces dispositions sont également applicables lorsque les bénéficiaires sont des travailleurs non salariés relevant des groupes
 de professions mentionnés au 1° de l'article L615-1 du code de la sécurité sociale et répondent aux conditions définies aux
@@ -35,10 +35,10 @@ durée de vie moyenne d'au moins cinq ans, moyennant un taux de rémunération n
 premier alinéa du 3° du 1 de l'article 39.
 
 Les dispositions du présent I ne s'appliquent pas lorsque l'entreprise nouvelle ou reprise exerce une activité bancaire,
-financière, d'assurance, de gestion ou de location d'immeubles (1).
+financière, d'assurance, de gestion ou de location d'immeubles.
 
 II. La provision spéciale constituée en franchise d'impôt est égale à la moitié des sommes effectivement versées au titre du
-prêt ou à 75 p. 100 du montant effectivement souscrit en capital ; elle ne peut excéder 300 000 F pour un même salarié.
+prêt ou à 75 p. 100 du montant effectivement souscrit en capital ; elle ne peut excéder 46 000 euros pour un même salarié.
 
 Les sommes déduites du bénéfice d'un exercice, au titre de la provision spéciale, ne peuvent excéder 25 % du bénéfice net
 imposable de l'exercice précédent.
@@ -61,11 +61,11 @@ le capital est détenu pour plus de 50 p. 100 par cette société ;
 b. les sociétés dont le capital est détenu pour plus de 50 p. 100 par une société détenant plus de 50 p. 100 du capital de la
 société qui employait les créateurs de l'entreprise.
 
-IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives (2).
+IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives (1).
 
-(1) Dispositions applicables aux prêts consentis à compter du 1er octobre 1993.
+**Nota:**
 
-(2) Voir les articles 10 G bis et 10 G ter de l'annexe III.
+(1) Voir les articles 10 G bis et 10 G ter de l'annexe III.
 
 **Liens relatifs à cet article**
 
@@ -73,16 +73,18 @@ _Cite_:
 
   - CGI 34, 44 sexies, 44 septies, 39
   - CGIAN3 10 G bis, 10 G ter
-  - Code de la sécurité sociale. - art. L615-1 (M)
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+  - Code de la sécurité sociale. - art. L615-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 mars 2002
 
 _Modifié par_:
 
-  - Loi - art. 27 () JORF 31 décembre 1995
-
-_Codifié par_:
-
-  - Décret n°96-556 1996-06-21
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -90,9 +92,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 163 bis G (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G ter (V)
-
-**Liens**:
-
-  - HISTO: Edition du 12 mai 1996
-  - TXT_ASSOCIE: Instruction 1994-04-18 4E-2-94
-  - TXT_ASSOCIE: Instruction 1997-02-21 4E-3-97

@@ -8,14 +8,14 @@ Les dispositions des articles 158 bis et 158 ter ne sont pas applicables aux pro
 conditions prévues à l'article 208 A, par les sociétés d'investissement à capital variable régies par les articles L. 214-2
 et suivants du code monétaire et financier et par les sociétés visées au 1° ter de l'article 208 ;
 
-3° Par les sociétés immobilières pour le commerce et l'industrie visés au cinquième alinéa du 3° quater de l'article 208 et
-prélevés sur les bénéfices exonérés visés au quatrième alinéa du 3° quater du même article ;
+3° Par les sociétés immobilières pour le commerce et l'industrie visés au dixième alinéa du 3° quater de l'article 208 et
+prélevés sur les bénéfices exonérés visés au neuvième alinéa du 3° quater du même article ;
 
 4° Par les sociétés agréées pour le financement des télécommunications lorsqu'ils sont prélevés sur des résultats exonérés en
 application des premier et deuxième alinéas du 3° quinquies de l'article 208 ou lorsqu'ils sont distribués en application du
-quatrième alinéa du même article ;
+huitième alinéa du 3° quinquies du même article ;
 
-5° (abrogé)
+5° (Abrogé pour les exercices ouverts à compter du 1er janvier 2000) ;
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de produits et plus-values nets exonérés en
 application du 3° septies de l'article 208 ;
@@ -31,19 +31,19 @@ produits nets exonérés en application de l'article 208 quinquies ;
 _Cite_:
 
   - CGI 158 bis, 158 ter, 208 A, 208, 223 sexies
-  - Code monétaire et financier - art. L214-2 (M)
   - Ordonnance 45-2710 1945-11-02
   - Loi n°86-793 du 2 juillet 1986 - art. 2, v. init.
+  - Code monétaire et financier - art. L214-2 (M)
 
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
+  - Décret n°2002-923 2002-06-06
 
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 81° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00

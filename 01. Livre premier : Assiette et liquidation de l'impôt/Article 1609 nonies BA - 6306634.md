@@ -28,6 +28,12 @@ située hors de l'agglomération nouvelle est le taux de référence de la commu
 c. les dispositions des articles 1648 A et 1648 AA ne s'appliquent pas à la partie de la zone d'activités située hors de
 l'agglomération nouvelle, mais qui fait l'objet de la convention.
 
+3. Lorsqu'une commune fait application des dispositions du présent article, l'établissement public de coopération
+intercommunale soumis au régime de l'article 1609 nonies C auquel elle adhère lui est substitué dans les délibérations
+qu'elle a prises en application du I. L'agglomération nouvelle se substitue à cet établissement public de coopération
+intercommunale pour l'application de l'ensemble des dispositions relatives à la taxe professionnelle et perçoit le produit de
+la taxe acquittée dans la zone pour la période de la convention restant à courir. Les dispositions du 2 sont applicables.
+
 III. Toutefois, l'organisme délibérant de l'agglomération nouvelle et le conseil municipal de la commune peuvent décider, par
 délibérations concordantes, de réduire progressivement dans la partie de la zone d'activités située hors de l'agglomération
 nouvelle, l'écart entre le taux de la taxe professionnelle de la commune limitrophe et celui de l'agglomération nouvelle.
@@ -44,16 +50,9 @@ _Cite_:
   - Loi n°97-1269 1997-12-30 art. 95 Finances pour 1998
   - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-
 _Modifié par_:
 
-  - Loi n°2000-656 du 13 juillet 2000 - art. 37 () JORF 14 juillet 2000
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 86 () JORF 14 décembre 2000
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 87 () JORF 14 décembre 2000
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 92 () JORF 14 décembre 2000
+  - Loi - art. 67 () JORF 29 décembre 2001
 
 _Cité par_:
 
@@ -62,3 +61,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5334-5 (VT)
   - Code général des collectivités territoriales - art. L5334-7 (V)
   - Code général des collectivités territoriales - art. L5334-9 (VT)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
