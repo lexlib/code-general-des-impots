@@ -18,7 +18,7 @@ a) Au cours des cinq années précédant la cession, le cédant doit avoir été
 ou y avoir exercé l'une des fonctions énumérées au 1° de l'article 885 O bis ;
 
 b) Le produit de la cession doit être investi dans la souscription en numéraire au capital initial ou dans l'augmentation de
-capital en numéraire d'une société créée depuis moins de sept ans à la date de l'apport. Les droits sociaux émis en
+capital en numéraire d'une société créée depuis moins de ((quinze ans)) (M) à la date de l'apport. Les droits sociaux émis en
 contrepartie de l'apport doivent être intégralement libérés lors de leur souscription ;
 
 c) La société bénéficiaire de l'apport doit exercer une activité autre que celles mentionnées au deuxième alinéa du 2 du I de
@@ -65,6 +65,8 @@ elle-même reportée.
 7. Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives des
 contribuables.
 
+(M) Modification. Cette modification s'applique à compter du 1er septembre 1998.
+
 **Liens relatifs à cet article**
 
 _Nouveaux textes_:
@@ -75,15 +77,17 @@ _Cite_:
 
   - CGI 92 B, 97, 885 O bis, 44 sexies, 39 quinquies H, 39 terdecies, 199 terdecies-0 A, 1727, 160
 
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1998-07-22 5G-8-98
+  - TXT_ASSOCIE: Instruction 1999-04-23 5G-2-99
+
+_Modifié par_:
+
+  - Loi - art. 5 (V) JORF 31 décembre 1998
+  - Loi n°98-1266 1998-12-30 art. 5 I, III 1 Finances pour 1999 JORF 31 décembre 1998
+
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 167 bis (V)
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1998-07-22 5G-8-98
-
-_Créé par_:
-
-  - Loi - art. 79 () JORF 31 décembre 1997
