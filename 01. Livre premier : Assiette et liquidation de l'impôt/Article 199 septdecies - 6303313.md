@@ -19,22 +19,30 @@ bien meuble corporel d'une valeur unitaire au moins égale à 3 000 F ou à des 
 
 La réduction d'impôt prévue au premier alinéa est égale à 25 p. 100 du montant annuel des intérêts payés au prêteur.
 
+((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
+
 II. Les modalités d'application du présent article et notamment les obligations des prêteurs et des contribuables sont fixées
-par décret.
+par décret.    (M) Modification de la loi 96-1181.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 199 sexies, 199 sexies C
+  - CGI 199 sexies, 199 sexies C, 197
   - Code de la consommation - art. L311-1 (V)
   - Code de la consommation - art. L311-3 (M)
 
+_Modifié par_:
+
+  - Loi n°96-1181 du 30 décembre 1996 - art. 83 () JORF 31 décembre 1996
+
 _Codifié par_:
 
-  - Décret n°96-556 1996-06-21
+  - Décret n°2001-435 2001-05-21
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
+  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 1 () JORF 23 mai 2001
+  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 31 mars 2001
   - TXT_ASSOCIE: Instruction 1996-06-25 5B-12-96

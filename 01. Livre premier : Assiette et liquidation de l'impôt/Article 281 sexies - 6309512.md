@@ -1,6 +1,6 @@
 # Article 281 sexies
 
-Jusqu'au 31 décembre 1996, la taxe sur la valeur ajoutée est perçue au taux de 2,10 % en ce qui concerne les ventes d'animaux
+Jusqu'au 31 décembre 2000, la taxe sur la valeur ajoutée est perçue au taux de 2,10 % en ce qui concerne les ventes d'animaux
 vivants de boucherie et de charcuterie faites à des personnes non assujetties à cette taxe (1).
 
 (1) Taux applicable à compter du 1er juillet 1986.
@@ -9,7 +9,7 @@ vivants de boucherie et de charcuterie faites à des personnes non assujetties �
 
 _Modifié par_:
 
-  - Loi - art. 10 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi n°96-1181 du 30 décembre 1996 - art. 18 () JORF 31 décembre 1996
 
 _Cité par_:
 
@@ -18,4 +18,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1997-02-17 3I-1-97
