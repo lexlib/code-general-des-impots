@@ -5,26 +5,29 @@ d'achèvement faisant partie d'une résidence de tourisme classée dans une zone
 une location dont le produit est imposé dans la catégorie des revenus fonciers bénéficie d'une réduction d'impôt sur le
 revenu.
 
-Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 45 760 euros pour une personne
-célibataire, veuve ou divorcée et de 91 520 euros pour un couple marié. Son taux est de 15 %. Il ne peut être opéré qu'une
+Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 50 000 euros pour une personne
+célibataire, veuve ou divorcée et de 100 000 euros pour un couple marié. Son taux est de 25 %. Il ne peut être opéré qu'une
 seule réduction d'impôt à la fois et elle est répartie sur quatre années au maximum. Elle est accordée au titre de l'année
 d'achèvement du logement ou de son acquisition si elle est postérieure et imputée sur l'impôt dû au titre de cette même année
-à raison du quart des limites de 6 864 euros ou 13 728 euros puis, le cas échéant, pour le solde les trois années suivantes
-dans les mêmes conditions (1).
+à raison du quart des limites de 12 500 euros ou 25 000 euros puis, le cas échéant, pour le solde les trois années suivantes
+dans les mêmes conditions.
 
 Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, les logements faisant partie d'une résidence de
 tourisme classée dans une zone rurale, autre qu'une zone de revitalisation rurale précitée, inscrite sur la liste pour la
 France des zones concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260/1999 du Conseil du 21 juin
-1999 portant dispositions générales sur les fonds structurels (1).
+1999 portant dispositions générales sur les fonds structurels.
 
 Le propriétaire doit s'engager à louer le logement nu pendant au moins neuf ans à l'exploitant de la résidence de tourisme.
 Cette location doit prendre effet dans le mois qui suit la date d'achèvement de l'immeuble ou de son acquisition, si elle est
-postérieure. En cas de non-respect de l'engagement ou de cession du logement, la réduction pratiquée fait l'objet d'une
-reprise au titre de l'année de la rupture de l'engagement ou de celle de la cession. Le paiement d'une partie du loyer par
-compensation avec le prix des prestations d'hébergement facturées par l'exploitant au propriétaire, lorsque le logement est
-mis à la disposition de ce dernier pour une durée totale n'excédant pas huit semaines par an, ne fait pas obstacle au
-bénéfice de la réduction à condition que le revenu brut foncier déclaré par le bailleur corresponde au loyer annuel
-normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire.
+postérieure. Dès lors que la commune et les services de l'Etat dans le département auront identifié un déficit de logements
+pour les travailleurs saisonniers dans la station, l'exploitant de la résidence de tourisme devra s'engager à réserver une
+proportion significative de son parc immobilier pour le logement des saisonniers, proportion au moins équivalente au nombre
+de salariés de la résidence. En cas de non-respect de l'engagement ou de cession du logement, la réduction pratiquée fait
+l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou de celle de la cession. Le paiement d'une partie
+du loyer par compensation avec le prix des prestations d'hébergement facturées par l'exploitant au propriétaire, lorsque le
+logement est mis à la disposition de ce dernier pour une durée totale n'excédant pas huit semaines par an, ne fait pas
+obstacle au bénéfice de la réduction à condition que le revenu brut foncier déclaré par le bailleur corresponde au loyer
+annuel normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire.
 
 Les dispositions du 5 du I de l'article 197 sont applicables.
 
@@ -36,7 +39,7 @@ restant à courir à la date du décès.
 
 **Nota:**
 
-(1) Limites applicables aux logements achevés ou acquis à compter du 1er janvier 2001.
+NOTA : Ces dispositions sont applicables aux logements acquis ou achevés à compter du 1er janvier 2004.
 
 **Liens relatifs à cet article**
 
@@ -46,15 +49,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 51 (V) JORF 29 décembre 2001
-  - Loi - art. 80 () JORF 29 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 1999-10-04 5B-18-99
-  - TXT_ASSOCIE: Instruction 2002-02-15 5B-6-02
+  - Loi - art. 9 (V) JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -73,3 +68,8 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGD (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGF (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGG bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+  - TXT_ASSOCIE: Instruction 2002-02-15 5B-6-02

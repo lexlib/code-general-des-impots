@@ -18,7 +18,7 @@ déposée après le 31 décembre 1987.
 
 I bis. Les entreprises françaises qui effectuent dans un Etat étranger une première implantation commerciale sous la forme
 d'un établissement ou d'une filiale dont elles détiennent au moins un quart du capital peuvent, lorsque l'investissement
-réalisé est inférieur à 5 millions de francs (1) constituer en franchise d'impôt une provision d'un montant égal aux pertes
+réalisé est inférieur à 5 millions de francs constituer en franchise d'impôt une provision d'un montant égal aux pertes
 subies au cours des cinq premières années d'exploitation de l'établissement ou de la filiale, dans la limite du montant de
 l'investissement.
 
@@ -32,8 +32,8 @@ limite des dépenses effectivement engagées pour les besoins de l'activité dé
 Les dispositions du présent I bis ne s'appliquent pas aux investissements qui sont réalisés pour des activités bancaires,
 financières, d'assurances et des activités définies à l'article 35.
 
-Lorsque l'implantation est réalisée dans un Etat qui est mentionné sur la liste établie par un arrêté du ministre chargé  des
-finances (2), la provision peut être égale au montant de l'investissement.
+Lorsque l'implantation est réalisée dans un Etat qui est mentionné sur la liste établie par un arrêté du ministre chargé des
+finances , la provision peut être égale au montant de l'investissement.
 
 Les dispositions du présent I bis ne sont plus applicables aux investissements réalisés dans le cadre d'une première
 implantation commerciale effectuée après le 31 décembre 1987.
@@ -67,6 +67,9 @@ agrément du ministre de l'économie et des finances donné après avis du minis
 constituer une provision en franchise d'impôt égale à la moitié des sommes investies en capital au cours des cinq premières
 années d'exploitation.
 
+Les dispositions du premier alinéa ne sont plus applicables aux investissements qui n'ont pas fait l'objet d'une demande
+d'agrément déposée avant le 1er janvier 2004.
+
 II bis. Les dispositions du II s'appliquent également et dans les mêmes conditions aux investissements réalisés à l'étranger
 par une entreprise française, à compter du 1er janvier 1988, par l'intermédiaire d'une filiale dont elle détient 25 p. 100 au
 moins du capital et qui a pour objet principal d'assurer un service nécessaire à une activité de commercialisation de biens
@@ -87,18 +90,12 @@ par cet agrément.
 
 V. Le bénéfice des dispositions prévues aux I, I quater, II, II bis, III et IV peut être accordé, sur agrément du ministre
 chargé du budget et dans les conditions et limites prévues par cet agrément, aux établissements de crédit dont la liste est
-fixée par décret (3) et aux entreprises industrielles et commerciales ou agricoles qui, dans l'intérêt d'une entreprise
-française et en vue d'accompagner l'investissement à l'étranger de cette dernière, participent au capital de la société
-étrangère constituée à cet effet par l'entreprise ou à laquelle celle-ci se trouve elle-même associée.
+fixée par décret et aux entreprises industrielles et commerciales ou agricoles qui, dans l'intérêt d'une entreprise française
+et en vue d'accompagner l'investissement à l'étranger de cette dernière, participent au capital de la société étrangère
+constituée à cet effet par l'entreprise ou à laquelle celle-ci se trouve elle-même associée.
 
 En cas de non-respect par l'entreprise française ou par l'établissement de crédit des engagements ou conditions auxquels
 l'agrément est subordonné, les dispositions de l'article 1756 sont applicables à l'établissement de crédit.
-
-(1) Montant périmé au 1er janvier 2002.
-
-(2) Annexe IV, art. 4 D.
-
-(3) Annexe III, art. 10 GA.
 
 **Liens relatifs à cet article**
 
@@ -111,12 +108,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-  - Loi n°95-95 du 1 février 1995 - art. 19 () JORF 2 février 1995
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - Loi - art. 31 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -130,4 +122,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 1er janvier 2004

@@ -32,20 +32,15 @@ démembrés à compter du 1er janvier 1993 ou qui font l'objet d'émissions succ
 partie de ces emprunts a été émise à compter de la même date.
 
 IV. - Les dispositions du présent article cessent de s'appliquer aux titres ou droits émis à compter du 1er janvier 1993 et
-détenus par les contribuables autres que ceux mentionnés au V de l'article 238 septies E.
+détenus par les contribuables autres que ceux mentionnés au V de l'article 238 septies E. 
 
 V. - Lorsque les titres ou droits mentionnés au II et au III ont été reçus, à compter du 1er janvier 2000, dans le cadre
-d'une opération d'échange dans les conditions prévues à l'article 150-0 B, la prime de remboursement mentionnée au II est
-calculée à partir du prix ou de la valeur d'acquisition des titres ou droits remis à l'échange, diminué de la soulte reçue ou
-majoré de la soulte versée.
+d'une opération d'échange dans les conditions prévues à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en
+vigueur avant la date de promulgation de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) ou au II de
+l'article 150 UB, la prime de remboursement mentionnée au II est calculée à partir du prix ou de la valeur d'acquisition des
+titres ou droits remis à l'échange, diminué de la soulte reçue ou majoré de la soulte versée.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 118, 120, 124 B, 238 septies E, 150-0 B
-  - Instruction 1999-06-24 5G-5-99
-  - Instruction 1999-06-24 5I-4-99
 
 _Cité par_:
 
@@ -59,8 +54,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
+  - Loi - art. 10 (V) JORF 31 décembre 2003
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 118 (V)
+  - Code général des impôts, CGI. - art. 120 (V)
+  - Code général des impôts, CGI. - art. 124 (V)
+  - Code général des impôts, CGI. - art. 124 B (V)
+  - Code général des impôts, CGI. - art. 150 A bis (V)
+  - Code général des impôts, CGI. - art. 150 UB (V)
+  - Code général des impôts, CGI. - art. 150-0 B (V)
+  - Code général des impôts, CGI. - art. 238 septies E (V)
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 1er janvier 2004

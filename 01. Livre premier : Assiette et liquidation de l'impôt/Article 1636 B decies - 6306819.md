@@ -42,19 +42,29 @@ III. - Pour l'application du 3 du I de l'article 1636 B sexies, le taux de taxe 
 correspond au taux moyen national constaté pour cette taxe l'année précédente pour les communes et leurs établissements
 publics de coopération intercommunale.
 
+IV. - A compter de 2004, pour les établissements publics de coopération intercommunale visés au II, la différence constatée
+au titre d'une année entre le taux maximum de taxe professionnelle résultant des dispositions du deuxième alinéa du b du 1 du
+I de l'article 1636 B sexies et le taux de taxe professionnelle voté conformément à ces mêmes dispositions peut être, sous
+réserve des dispositions de l'article 1636 B septies, ajoutée, partiellement ou totalement, au taux de taxe professionnelle
+voté par l'établissement public de coopération intercommunale au titre de l'une des trois années suivantes.
+
+La majoration du taux de taxe professionnelle dans les conditions visées au premier alinéa n'est pas applicable l'année au
+titre de laquelle l'établissement public de coopération intercommunale fait application des dispositions du 3 ou du 4 du I de
+l'article 1636 B sexies, du deuxième alinéa ou du dernier alinéa du II du présent article.
+
+Les décisions relatives aux taux transmises aux services fiscaux dans les conditions prévues au I de l'article 1639 A doivent
+indiquer le montant à reporter conformément au premier alinéa ainsi que les modalités selon lesquelles le taux de l'année est
+majoré dans les conditions prévues audit alinéa.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1609 nonies B, 1609 nonies C, 1609 quinquies C, 1636 B sexies, 1636 B septies
-
-_Codifié par_:
-
-  - Décret n°2003-298 2003-03-31
+  - CGI 1609 nonies B, 1609 nonies C, 1609 quinquies C, 1636 B sexies, 1636 B septies, 1639 A
 
 _Modifié par_:
 
-  - Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+  - Loi - art. 112 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -72,6 +82,6 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2003-04-04 6A-2-03
   - TXT_ASSOCIE: Instruction 2003-06-30 6A-4-03

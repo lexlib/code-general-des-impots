@@ -6,7 +6,8 @@ ouvrent droit à un crédit d'impôt sur le revenu lorsque ces travaux sont aff�
 située en France et sont éligibles au taux réduit de la taxe sur la valeur ajoutée en application de l'article 279-0 bis.
 Ouvrent également droit au crédit d'impôt sur le revenu, dans les mêmes conditions, les dépenses payées entre le 1er octobre
 2001 et le 31 décembre 2005 pour l'acquisition de matériaux d'isolation thermique et d'appareils de régulation de chauffage
-définis par arrêté du ministre chargé du budget.
+définis par arrêté du ministre chargé du budget ainsi que les dépenses payées, entre le 1er janvier 2004 et le 31 décembre
+2005, pour l'acquisition de chaudières à condensation utilisant les combustibles gazeux.
 
 Ouvre également droit au crédit d'impôt le coût des équipements de production d'énergie utilisant une source d'énergie
 renouvelable intégrés à un logement situé en France acquis neuf ou en l'état futur d'achèvement entre le 1er janvier 2001 et
@@ -15,7 +16,10 @@ habitation principale. Cet avantage est également applicable, dans les mêmes c
 intégrés dans un logement que le contribuable fait construire et qui a fait l'objet, entre les mêmes dates, de la déclaration
 d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Il en est de même des dépenses payées entre le
 1er janvier 2001 et le 31 décembre 2005 au titre de l'acquisition des mêmes équipements fournis dans le cadre de travaux
-d'installation réalisés dans l'habitation principale du contribuable.
+d'installation réalisés dans l'habitation principale du contribuable. Ouvrent également droit au crédit d'impôt, dans les
+conditions prévues pour les équipements de production d'énergie utilisant une source d'énergie renouvelable, les dépenses
+réalisées entre le 1er janvier 2004 et le 31 décembre 2005 pour l'installation ou le remplacement d'équipements spécialement
+conçus pour les personnes âgées ou handicapées définis par arrêté du ministre chargé du budget.
 
 Ouvre également droit au crédit d'impôt le coût des dépenses payées avant le 31 décembre 2010 pour la réalisation de travaux
 prescrits aux propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement lorsque ces travaux
@@ -33,20 +37,21 @@ Pour l'application de ces dispositions, les enfants réputés à charge égale d
 
 Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement du logement auquel s'intègrent les
 équipements ou de son acquisition si elle est postérieure, ou du paiement de la dépense par le contribuable dans les cas
-prévus aux premier et troisième alinéas et à la dernière phrase du deuxième alinéa du 1.
+prévus aux premier et troisième alinéas et à l'avant-dernière phrase du deuxième alinéa du 1.
 
-Le crédit d'impôt est égal à 15 % du montant des équipements, matériaux et appareils et du montant des travaux mentionnés au
-troisième alinéa du 1 figurant sur la facture de l'entreprise ayant réalisé les travaux ou, le cas échéant, pour les
-équipements de production d'énergie utilisant une source d'énergie renouvelable, du coût de ces équipements figurant sur une
-attestation fournie par le vendeur du logement.
+Le crédit d'impôt est égal à 15 % du montant des équipements, matériaux et appareils et du montant des travaux mentionnés à
+la dernière phrase du deuxième alinéa et au troisième alinéa du 1 figurant sur la facture de l'entreprise ayant réalisé les
+travaux ou, le cas échéant, pour les équipements de production d'énergie utilisant une source d'énergie renouvelable, du coût
+de ces équipements figurant sur une attestation fournie par le vendeur du logement. Ce taux est porté à 25 % pour les travaux
+mentionnés à la dernière phrase du deuxième alinéa du 1.
 
 Il est accordé sur présentation de l'attestation mentionnée au troisième alinéa ou des factures, autres que les factures
 d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289, l'adresse de
 réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements, matériaux et appareils.
 
-Le crédit d'impôt est imputé sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle les dépenses ont été
-payées, après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200, de l'avoir fiscal, des crédits
-d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199
+quater B à 200, de l'avoir fiscal, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt
+dû, l'excédent est restitué.
 
 3. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des
 dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement, d'une reprise égale à 15
@@ -59,8 +64,7 @@ dépenses ont été payées.
 
 _Modifié par_:
 
-  - Loi n°2003-699 du 30 juillet 2003 - art. 34 () JORF 31 juillet 2003
-  - Loi n°2003-699 du 30 juillet 2003 - art. 36 () JORF 31 juillet 2003
+  - Loi - art. 86 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -91,41 +95,41 @@ _Cité par_:
   - Arrêté du 16 juillet 2014 - art. 3 (VT)
   - Arrêté du 16 juillet 2014 - art. 4 (VT)
   - Arrêté du 16 juillet 2014 - art. Annexe II (VT)
-  - Décret n°2014-812 du 16 juillet 2014 (V)
-  - Décret n°2014-812 du 16 juillet 2014 - art. 1 (VD)
   - Arrêté du 9 septembre 2014 (V)
-  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
   - Arrêté du 2 décembre 2014 (V)
   - Arrêté du 22 décembre 2014 - art. 5 (V)
   - Arrêté du 27 février 2015 (V)
   - Arrêté du 23 juillet 2015 (V)
-  - Décret n°2015-1262 du 9 octobre 2015 (V)
   - Arrêté du 1er décembre 2015 (V)
   - Arrêté du 1er décembre 2015 - art. (VD)
-  - Arrêté du 1er décembre 2015 - art. 1 (VD)
   - Arrêté du 1er décembre 2015 - art. 2 (VD)
   - Arrêté du 1er décembre 2015 - art. 3 (VD)
   - Arrêté du 1er décembre 2015 - art. 4 (VD)
+  - Arrêté du 30 décembre 2017 - art. 1
+  - Arrêté du 1er mars 2019 - art. 1
+  - Arrêté du 19 août 2019 - art. 4
+  - Arrêté du 14 janvier 2020 (V)
+  - Décret n°2014-812 du 16 juillet 2014 (V)
+  - Décret n°2014-812 du 16 juillet 2014 - art. 1 (VD)
+  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
+  - Décret n°2015-1262 du 9 octobre 2015 (V)
+  - Arrêté du 1er décembre 2015 - art. 1 (VD)
   - Décret n°2016-235 du 1er mars 2016 (V)
   - Décret n°2016-555 du 6 mai 2016 - art. 1
   - Loi n°2016-1917 du 29 décembre 2016 - art. 23
   - Arrêté du 30 décembre 2016 (V)
   - Arrêté du 30 décembre 2017 (V)
-  - Arrêté du 30 décembre 2017 - art. 1
   - Décret n°2018-416 du 30 mai 2018 (V)
   - Décret n°2018-416 du 30 mai 2018 - art. 1 (VD)
   - Décret n°2019-88 du 11 février 2019 (V)
   - Décret n°2019-88 du 11 février 2019 - art. 1
   - Arrêté du 1er mars 2019 (V)
-  - Arrêté du 1er mars 2019 - art. 1
   - Arrêté du 19 août 2019 - art. 11
-  - Arrêté du 19 août 2019 - art. 4
   - Arrêté du 19 août 2019 - art. 5
   - Arrêté du 19 août 2019 - art. 8
   - Décret n°2019-839 du 19 août 2019 (V)
   - Décret n°2019-839 du 19 août 2019 - art. 1
   - Arrêté du 6 janvier 2020 (V)
-  - Arrêté du 14 janvier 2020 (V)
   - Décret n°2020-26 du 14 janvier 2020 (V)
   - Décret n°2020-26 du 14 janvier 2020 - art. 2 (VD)
   - Décret n°2020-26 du 14 janvier 2020 - art. 3 (V)
@@ -157,15 +161,12 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 279-0 bis, 196 à 196 B, 289, 199 quater B à 200
+  - CGI 279-0 bis, 196 à 196 B, 289
   - Code de l'urbanisme - art. R421-40 (Ab)
   - Code de l'environnement - art. L515-16 (V)
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
-  - TXT_ASSOCIE: Instruction 2000-05-03 5B-15-00
-  - TXT_ASSOCIE: Instruction 2001-07-13 5B-15-01
-  - TXT_ASSOCIE: Instruction 2001-09-25 5B-16-01
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2002-06-06 5B-13-02
   - TXT_ASSOCIE: Instruction 2003-01-31 5B-7-03

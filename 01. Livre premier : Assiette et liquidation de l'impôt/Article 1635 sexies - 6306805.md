@@ -44,10 +44,7 @@ taxes mentionnées aux articles 1520 et 1528, est perçu, en 1994, par l'Etat qu
 des pertes de recettes résultant de l'application de l'article 6 modifié de la loi de finances pour 1987 (n° 86-1317 du 30
 décembre 1986).
 
-Pour les années suivantes, le produit ainsi utilisé évolue en fonction de l'indice de variation du prix de la consommation
-des ménages tel qu'il ressort des hypothèses économiques associées au projet de loi de finances. Lorsque le produit des
-impositions visées au I est supérieur au montant ainsi obtenu, la différence est versée au Fonds national de péréquation de
-la taxe professionnelle visé à l'article 1648 A bis ;
+A compter de 2004, ce produit est affecté au budget général de l'Etat.
 
 La fraction du produit des impositions visées au I afférente aux taxes mentionnées aux articles 1520 et 1528 est répartie,
 selon des critères fixés par le comité des finances locales, entre les communes ou leurs établissements publics de
@@ -84,9 +81,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-1575 2002-12-30 art. 29 I 2 Finances pour 2003 JORF 31 décembre 2002
+  - Loi n°2003-1311 2003-12-30 art. 53 III 2° Finances pour 2004 JORF 31 décembre 2003
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2003-08-18 6A-5-03
