@@ -34,12 +34,13 @@ de la réalisation de l'investissement. A défaut, ils doivent ajouter à leur r
 montant des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la proportion de leurs droits dans la société ou
 le groupement des sommes déjà réintégrées en application des dispositions du quatrième alinéa.
 
-II. - 1. Les investissements mentionnés au I et dont le montant total par programme est supérieur à 10 000 000 F ne peuvent
-ouvrir droit à déduction que s'ils ont été portés, préalablement à leur réalisation, à la connaissance du ministre chargé du
-budget et que ce dernier, dans un délai de trois mois, ne s'y est pas opposé.
+II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 5 000 000 F
+ne peuvent ouvrir droit à déduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions
+prévues au deuxième alinéa du III de l'article 217 undecies.
 
-Pour les investissements dont le montant total par programme est compris entre 10 000 000 F et 30 000 000 F, les dispositions
-du premier alinéa sont applicables à ceux réalisés à compter du 1er janvier 1998 .
+Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
+par programme et par exercice est supérieur à 2 000 000 F, lorsque les résultats provenant de leur exploitation sont
+susceptibles de relever des dispositions du 1° bis du I de l'article 156.
 
 2. Ceux des investissements mentionnés au I qui concernent les secteurs des transports, de la navigation de plaisance, de la
 pêche maritime, de la production et de la diffusion audiovisuelles et cinématographiques, qui comportent la construction
@@ -64,21 +65,20 @@ cette date ;
 3° Des biens meubles corporels commandés, mais non encore livrés au 15 septembre 1997, si la commande a été accompagnée du
 versement d'acomptes égaux à 50 % au moins de leur prix.
 
+Elles ne sont applicables qu'aux investissements neufs réalisés au plus tard le 31 décembre 2002.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 8, 239 quater, 41, 151 octies, 239 quater C, 217 undecies
+  - CGI 8, 239 quater, 239 quater C, 41, 151 octies, 217 undecies, 156
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1999-07-20 5B-15-99
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 18 (V) JORF 31 décembre 1997
-  - Loi n°97-1269 1997-12-30 art. 18 I, VI, VII Finances pour 1998 JORF 31 décembre 1997
-
-_Codifié par_:
-
-  - Décret n°98-400 1998-05-22
+  - Loi - art. 89 (V) JORF 31 décembre 1998
+  - Loi n°98-1266 1998-12-30 art. 88 2°, art. 89 I 1°, II Finances pour 1999 JORF 31 décembre 1998

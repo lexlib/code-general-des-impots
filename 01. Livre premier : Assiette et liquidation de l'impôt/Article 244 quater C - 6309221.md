@@ -1,7 +1,7 @@
 # Article 244 quater C
 
 I. Les entreprises imposées d'après leur bénéfice réel peuvent bénéficier d'un crédit d'impôt au titre de leurs dépenses de
-formation professionnelle. Pour les entreprises soumises aux obligations prévues aux articles  235 ter D et 235 ter KA, les
+formation professionnelle. Pour les entreprises soumises aux obligations prévues aux articles 235 ter D et 235 ter KA, les
 dépenses retenues sont celles exposées en sus de ces obligations.
 
 Ce crédit d'impôt est égal à 25 p. 100 :
@@ -10,7 +10,7 @@ a) De la différence entre le montant des dépenses de formation mentionnées au
 de l'année, et celui des dépenses de même nature exposées au cours de l'année précédente, revalorisées en fonction de
 l'évolution des rémunérations, au sens du 1 de l'article 231, versées par l'entreprise ;
 
-b) (Abrogé par la loi 96-314.
+b) (Abrogé).
 
 c) Et du produit de la somme de 3.000 F par la différence entre le nombre d'élèves accueillis dans l'entreprise au cours de
 l'année et celui de l'année précédente en application de l'article 7 de la loi n° 89-486 du 10 juillet 1989 d'orientation sur
@@ -57,44 +57,34 @@ IV. Les dispositions du présent article s'appliquent aux dépenses de formation
 les entreprises qui ont fait application du crédit d'impôt formation au titre de l'année 1993 ou par celles qui n'en ont
 jamais bénéficié, sur option irrévocable jusq'au terme de cette période. L'option doit être exercée au titre de 1994, au
 titre de l'année de création de l'entreprise, ou au titre de la première année au cours de laquelle elle réalise ses
-premières dépenses de formation éligibles au crédit d'impôt formation (1).
+premières dépenses de formation éligibles au crédit d'impôt formation.
 
 IV bis. Les entreprises doivent joindre à leur déclaration de résultats une attestation visée par l'inspection de l'éducation
 nationale ou l'inspection de l'enseignement agricole qui précise pour chaque élève accueilli l'établissement scolaire et la
 durée de la formation au cours de l'année.
 
-V. Un décret fixe les conditions d'application du présent article (2).
+((IV 0 bis. Les dispositions du présent article s'appliquent également aux dépenses de formation exposées au cours des années
+1999 à 2001 par les entreprises qui ont fait application du crédit d'impôt formation au titre de l'année 1998 ou par celles
+qui n'en ont jamais bénéficié, sur option irrévocable jusqu'au terme de cette période. L'option doit être exercée au titre de
+1999 ou au titre de la première année au cours de laquelle l'entreprise réalise ses premières dépenses de formation éligibles
+au crédit d'impôt formation.)) (M)
 
-(1) Voir CGI, législation applicable au 15 juin 1990.
+V. Un décret fixe les conditions d'application du présent article.
 
-(2) Voir annexe 3, art. 49 septies P à 49 septies U.
-
-**Nota:**
-
-NOTA : les modifications de la loi 96-314 sont applicables au calcul du crédit d'impôt formation au titre des années 1995 et
-suivantes.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 235 ter D, 235 ter KA, 231, 8, 238 bis L, 238 ter, 239 quater A, 239 quater B, 239 quater C, 239 quinquies
+  - CGI 235 ter D, 235 ter KA, 231, 8, 238 bis L, 238 ter, 239 ter, 239 quater A, 239 quater B, 239 quater C, 239 quinquies
   - Décret n°59-57 1959-01-06 art. 35
-  - Loi n°79-575 du 10 juillet 1979 - art. 9, v. init.
-  - Loi n°87-1060 du 30 décembre 1987 - art. 69, v. init.
   - Loi n°89-486 du 10 juillet 1989 - art. 7 (Ab)
-  - Code du travail L117-1 à L117-18
-
-**Liens**:
-
-  - HISTO: Edition du 12 mai 1996
-  - TXT_ASSOCIE: Instruction 1993-01-27 4A-2-93
-  - TXT_ASSOCIE: Instruction 1996-05-22 4A-4-96
-  - SPEC_APPLI: Loi n°96-314 1996-04-12 art. 79 III
+  - Loi n°96-314 1996-04-12
 
 _Modifié par_:
 
-  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 79 I, III JORF 13 avril 1996
+  - Loi - art. 93 () JORF 31 décembre 1998
 
 _Cité par_:
 
@@ -118,3 +108,8 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies S (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies T (V)
   - Livre des procédures fiscales - art. L172 G (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1999-02-19 4A-4-99
