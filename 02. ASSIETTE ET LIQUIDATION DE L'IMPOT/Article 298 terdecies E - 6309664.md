@@ -1,9 +1,8 @@
 # Article 298 terdecies E
 
 Le régime fiscal prévu à l'article 298 terdecies A s'applique à compter du premier jour du mois qui suit celui de la décision
-d'admission à ce régime ou à compter de la date d'effet de l'option pour l'assujettissement à la taxe sur la valeur ajoutée
-si cette date est postérieure à la date précédente. Il cesse de s'appliquer, s'il y a lieu, le premier jour du mois qui suit
-celui de la décision de retrait.
+d'admission à ce régime. Il cesse de s'appliquer, s'il y a lieu, le premier jour du mois qui suit celui de la décision de
+retrait.
 
 **Liens relatifs à cet article**
 
@@ -11,10 +10,10 @@ _Cite_:
 
   - CGI 298 terdecies A
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°81-1160 du 30 décembre 1981 - art. 28 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°77-1421 1977-12-27 ART. 5
+  - Loi n°87-1060 du 30 décembre 1987 - art. 88 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1988

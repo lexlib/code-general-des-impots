@@ -17,16 +17,24 @@ II  Constituent du point de vue fiscal, un élément du prix de revient de l'ens
 
 - comme il est dit à l'article L 142-2 du code de l'urbanisme, la taxe départementale d'espaces verts.
 
+- la taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement prevue par
+l'article 1599 B.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1585 A
+  - CGI 1599 B
   - Code de l'urbanisme - art. L112-2 (M)
   - Code de l'urbanisme - art. L142-2 (M)
   - Code de l'urbanisme - art. L332-1 (M)
   - Code de l'urbanisme - art. L333-12 (Ab)
   - Code de l'urbanisme L520-1 A Code de l'urbanisme L520-9
+
+_Modifié par_:
+
+  - Loi n°81-1179 du 31 décembre 1981 - art. 14 (P) JORF 1 JANVIER 1982
 
 _Cité par_:
 
@@ -35,6 +43,6 @@ _Cité par_:
   - Code de l'urbanisme - art. L331-36 (VD)
   - Code de l'urbanisme - art. L520-10 (V)
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°82-881 1982-10-15
