@@ -31,6 +31,18 @@ inférieure, l'investissement ayant ouvert droit à déduction est cédé ou ces
 utilisatrice ou si l'acquéreur cesse son activité, les sommes déduites sont rapportées au résultat imposable de l'entreprise
 ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise.
 
+((Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis
+dans le cadre des opérations mentionnées aux articles 41, 151 octies, 210 A ou 210 B si le bénéficiaire de la transmission
+s'engage à maintenir l'exploitation des biens outre-mer dans le cadre d'une activité mentionnée au premier alinéa pendant la
+fraction du délai de conservation restant à courir.
+
+((L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous seing privé ayant date
+certaine, établi à cette occasion.
+
+((En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter à ses résultats imposables, au
+titre de l'exercice au cours duquel l'engagement cesse d'être respecté, une somme égale au montant de la déduction fiscale à
+laquelle les biens transmis ont ouvert droit.)) (Modification art. 20 I A de la loi) (1').
+
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur revenu imposable une somme égale au montant total
 des souscriptions au capital des sociétés de développement régional des départements d'outre-mer ou des sociétés effectuant
 dans les douze mois de la clôture de la souscription dans les mêmes départements des investissements productifs dans les
@@ -41,7 +53,12 @@ en achever les fondations dans les deux ans qui suivent la clôture de la souscr
 l'affectation des biens à l'activité dans les secteurs mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition
 ou pendant leur durée normale d'utilisation si elle est inférieure. En cas de non-respect de cet engagement, les sommes
 déduites sont rapportées aux résultats imposables de l'entreprise ayant opéré la déduction au titre de l'exercice au cours
-duquel le non-respect de l'engagement est constaté.
+duquel le non-respect de l'engagement est constaté ; ((ces dispositions ne sont pas applicables si les immobilisations en
+cause sont comprises dans un apport partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui en est
+propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la société bénéficiaire
+de l'apport, ou la société absorbante selon le cas, réponde aux conditions d'activité prévues au présent alinéa et reprenne,
+sous les mêmes conditions et sanctions, l'engagement mentionné à la phrase qui précède pour la fraction du délai restant à
+courir.)) (Modification de la loi art. 20 I B) (1').
 
 Pour ouvrir droit à déduction, la constitution ou l'augmentation du capital des sociétés mentionnées à l'alinéa précédent et
 dont le montant est supérieur à 30 000 000 F doit être portée, préalablement à sa réalisation, à la connaissance du ministre
@@ -130,6 +147,20 @@ IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits so
 par les entreprises avec le bénéfice des déductions prévues aux II et II bis , les sommes déduites sont rapportées
 [*réintégration*] au résultat imposable de l'année de cession, dans la limite, de la totalité du prix de cession.
 
+((Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le délai de cinq ans, l'entreprise propriétaire
+des titres ayant ouvert droit à la déduction prévue au II ou au II bis fait l'objet d'une transmission dans le cadre des
+dispositions prévues aux articles 41, 151 octies, 210 A ou 210 B si l'entreprise qui devient propriétaire des titres remplit
+les conditions nécessaires pour bénéficier de cette déduction et s'engage à conserver les titres pendant la fraction du délai
+de conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par acte sous
+seing privé ayant date certaine, établi à cette occasion.
+
+((En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter à ses résultats imposables, au
+titre de l'exercice au cours duquel l'engagement cesse d'être respecté, une somme égale au montant de la déduction fiscale à
+laquelle les titres transmis ont ouvert droit, dans la limite de la totalité du prix de cession. Il en est de même dans le
+cas où les titres souscrits avec le bénéfice de la déduction prévue au II ou au II bis sont apportés ou échangés dans le
+cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes conditions
+et sanctions, les titres nouveaux qui se sont substitués aux titres d'origine.)) (Modification art. 20 I C de la loi) (1').
+
 IV bis. La déduction opérée en application du I est limitée à 75 p. 100 du montant de l'investissement lorsqu'elle s'impute
 sur les résultats d'une entreprise non soumise à l'impôt sur les sociétés.
 
@@ -152,6 +183,8 @@ Un décret précise, en tant que de besoin, les modalités de leur application (
 
 (1) Annexe III, art. 46 quaterdecies B et 46 quaterdecies BA.
 
+(1') Ces dispositions s'appliquent aux opérations intervenues à compter du 1er janvier 1994.
+
 (2) Annexe IV, art. 170 nonies.
 
 (3) Annexe III, art. 46 quaterdecies A à 46 quaterdecies I.
@@ -166,23 +199,15 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 156, 209, 199 undecies, 44 septies
+  - CGI 156, 209, 199 undecies, 41, 151 octies, 210 A, 210 B, 20 I B, 44 septies
   - CGIAN3 46 quaterdecies A à CGIAN3 46 quaterdecies I
   - CGIAN4 170 nonies
 
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
-
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 2 septembre 1994
   - TXT_ASSOCIE: Instruction 1994-02-04 4A-5-94
 
 _Modifié par_:
 
-  - Loi - art. 115 () JORF 31 décembre 1191
-  - Loi - art. 120 (V) JORF 31 décembre 1191
-  - Loi - art. 122 () JORF 31 décembre 1191
-  - Loi - art. 53 () JORF 5 janvier 1993
-  - Loi n°93-859 1993-06-22 art. 30 II III IV V VI Finances rectificative pour 1993 JORF 23 juin 1993
+  - Loi n°93-1352 du 30 décembre 1993 - art. 20 (V) JORF 31 décembre 1993
