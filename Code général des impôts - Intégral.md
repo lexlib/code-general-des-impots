@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1952-02-14
+Version Consolidée au 1954-08-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1043 A)](#1)
     - [Première Partie : Impôts d'État (art. 1043 A)](#2)
