@@ -1,9 +1,9 @@
 # Article 302 septies A
 
 I. Il est institué par décret en conseil d'Etat (1) un régime simplifié de liquidation des taxes sur le chiffre d'affaires
-dues par les personnes qui ne sont pas placées sous le régime du forfait et dont le chiffre d'affaires n'excède pas 3.000.000
+dues par les personnes qui ne sont pas placées sous le régime du forfait et dont le chiffre d'affaires n'excède pas 3.500.000
 F, s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à
-emporter ou à consommer sur place ou de fournir le logement, ou 900.000 F, s'il s'agit d'autres entreprises. Ces limites
+emporter ou à consommer sur place ou de fournir le logement, ou 1.000.000 F, s'il s'agit d'autres entreprises. Ces limites
 s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des taxes assimilées.
 
 II. Le régime simplifié prévu au I demeure applicable pour l'établissement de l'imposition due au titre de la première année
@@ -17,9 +17,9 @@ suivent la clôture de cet exercice [*délai*]. Un décret en Conseil d'Etat (2)
 présent paragraphe; il procède aux adaptations nécessaires de la législation en vigueur, notamment pour les entreprises qui
 bénéficient de la franchise et de la décote et pour celles qui n'ont clôturé aucun exercice au cours d'une année civile.
 
-(1)  Annexe II, art. 204 ter, 204 quater, 242 quater à 242 septies 267 quinquies à 267 septies.
+(1) Annexe II, art. 204 ter, 204 quater, 242-0 C I 2, II 2, 242-0 D, 242 quater à 242 septies, 267 quinquies à 267 septies.
 
-(2)  Annexe II, art. 242 septies A à 242 septies L.
+(2) Annexe II, art. 242 septies A à 242 septies L.
 
 **Liens relatifs à cet article**
 
@@ -32,13 +32,14 @@ _Cite_:
   - CGIAN2 242 septies
   - CGIAN2 242 septies A à CGIAN2 242 septies L
   - CGIAN2 242 sexies
+  - CGIAN2 242-0 C, 242-0 D
   - CGIAN2 267 quinquies
   - CGIAN2 267 septies
   - CGIAN2 267 sexies
 
 _Modifié par_:
 
-  - Loi n°85-1403 du 30 décembre 1985 - art. 60 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
+  - Loi - art. 99 () JORF 30 décembre 1990
 
 _Cité par_:
 
@@ -73,3 +74,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater U (V)
   - Livre des procédures fiscales - art. L16 D (V)
   - Livre des procédures fiscales - art. L52 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
