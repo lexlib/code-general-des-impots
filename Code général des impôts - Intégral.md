@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-07-15
+Version Consolidée au 1987-07-19
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -1082,7 +1082,7 @@ Version Consolidée au 1987-07-15
         - [II : Obligations des agents (art. 1703 à 1704)](#1079)
         - [III : Obligation au paiement (art. 1705 à 1710)](#1080)
         - [IV : Contribution au paiement (art. 1711 à 1712)](#1081)
-        - [V : Paiement en valeurs du Trésor ou en créances sur l'État (art. 1715 à 1716)](#1082)
+        - [V : Paiement en valeurs du Trésor ou en créances sur l'État (art. 1715 à 1716 A)](#1082)
         - [V bis : Paiement par remise d'oeuvres d'art. (art. 1716 bis)](#1083)
         - [VI : Paiement fractionné ou différé des droits (art. 1717 à 1722 ter)](#1084)
         - [VII : Modes particuliers de perception des droits (art. 1723 ter)](#1085)
@@ -1146,13 +1146,12 @@ Version Consolidée au 1987-07-15
         - [9 : Dispositions particulières aux contributions indirectes (art. 1965 FA)](#1143)
       - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis à 1965 A)](#1144)
   - [RECOUVREMENT DE L'IMPOT (art. 1658 à 1840 W bis)](#1145)
-    - [PAIEMENT DE L'IMPOT (art. 1658 à 1716 A)](#1146)
+    - [PAIEMENT DE L'IMPOT (art. 1658 à 1668 A)](#1146)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1658 à 1679 quater B)](#1147)
       - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#1148)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A)](#1149)
-    - [PENALITES (art. 1731 A à 1840 W bis)](#1150)
-      - [DISPOSITIONS COMMUNES. (art. 1731 A à 1739)](#1151)
-      - [DISPOSITIONS PARTICULIERES. (art. 1759 bis à 1840 W bis)](#1152)
+    - [PENALITES (art. 1731 A à 1840 W bis)](#1149)
+      - [DISPOSITIONS COMMUNES. (art. 1731 A à 1739)](#1150)
+      - [DISPOSITIONS PARTICULIERES. (art. 1759 bis à 1840 W bis)](#1151)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -53803,6 +53802,42 @@ _Cite_:
   - Loi n°48-2389 1948-08-26 art. 1
 
 
+###### Article 1716 A
+
+Lorsque leur auteur a acquis, en application de la loi n° 78-1 du 2 janvier 1978 relative à l'indemnisation des rapatriés
+d'outre-mer dépossédés de leurs biens et de la loi n° 87-549 du 16 juillet 1987 relative au règlement de l'indemnisation des
+rapatriés, une créance sur l'Etat, les droits de mutation par décès exigibles sur la créance revenant à chaque ayant droit
+peuvent ^etre acquittés par imputation sur cette créance.
+
+(1) Disposition applicable aux titres remis aux créanciers mentionnés au chapitre Ier du titre IV de la loi du 15 juillet
+1970 qui ont formé opposition conformément aux prescriptions de l'article 50 de la même loi et dont l'opposition a été
+validée dans les conditions prévues par le décret n° 70-813 du 11 septembre 1970 (Voir décret n° 78-231 du 2 mars 1978,
+article 3).
+
+**Nota:**
+
+Nota : Voir aussi annexe III, art. 391, 392 et 394 et annexe IV, 198 bis et 198 ter
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 391
+  - CGIAN3 392
+  - CGIAN3 394
+  - CGIAN4 198 bis
+  - CGIAN4 198 ter
+  - Décret n°70-813 1970-09-11
+  - Décret n°78-231 1978-03-02 art. 3
+  - Loi n°1970-07-15 art. 50
+  - Loi n°78-1 1978-01-02
+  - Loi n°87-549 1987-07-16
+
+_Modifié par_:
+
+  - Loi n°87-549 du 16 juillet 1987 - art. 6 (V) JORF 19 juillet 1987
+
+
 #### V bis : Paiement par remise d'oeuvres d'art.<a id=1083></a>
 
 ###### Article 1716 bis
@@ -60543,41 +60578,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=1149></a>
+## PENALITES<a id=1149></a>
 
-###### Article 1716 A
-
-Lorsque leur auteur a acquis, en application de la loi n° 78-1 du 2 janvier 1978 relative à l'indemnisation des rapatriés
-d'outre-mer dépossédés de leurs biens, une créance sur l'Etat, les droits de mutation par décès exigibles sur la créance
-revenant à chaque ayant droit en application de l'article 12 de la loi précitée peuvent être acquittés par imputation sur
-cette créance (1).
-
-1) Disposition applicable aux titres remis aux créanciers mentionnés au chapitre Ier du titre IV de la loi du 15 juillet 1970
-qui ont formé opposition conformément aux prescriptions de l'article 50 de la même loi et dont l'opposition a été validée
-dans les conditions prévues par le décret n° 70-813 du 11 septembre 1970 (Voir décret n° 78-231 du 2 mars 1978, article 3).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 391
-  - CGIAN3 392
-  - CGIAN3 394
-  - CGIAN4 198 bis
-  - CGIAN4 198 ter
-  - Loi n°70-632 1970-07-15 ART. 50
-  - Décret n°70-813 1970-09-11
-  - Loi n°78-1 du 2 janvier 1978 - art. 12 (V)
-  - Décret n°78-231 1978-03-02 ART. 3
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-## PENALITES<a id=1150></a>
-
-### DISPOSITIONS COMMUNES.<a id=1151></a>
+### DISPOSITIONS COMMUNES.<a id=1150></a>
 
 ###### Article 1731 A
 
@@ -60691,7 +60694,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L26
 
 
-### DISPOSITIONS PARTICULIERES.<a id=1152></a>
+### DISPOSITIONS PARTICULIERES.<a id=1151></a>
 
 ###### Article 1759 bis
 
