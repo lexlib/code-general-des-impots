@@ -8,7 +8,9 @@ prévues à l'article 53 A. Le capital de la société créée ne doit pas être
 personnes qui ont été associées ou exploitantes de l'entreprise en difficulté pendant l'année précédant la reprise.
 
 Cette exonération peut être accordée sur agrément du ministre chargé du budget si la procédure de redressement judiciaire
-n'est pas mise en oeuvre.
+n'est pas mise en oeuvre ou si la reprise concerne des branches complètes et autonomes d'activité et est effectuée dans le
+cadre de cessions ordonnées par le juge-commissaire en application de l'article 155 de la loi n° 85-98 du 25 janvier 1985
+précitée.
 
 Lorsqu'une société créée dans les conditions prévues aux deux alinéas ci-dessus interrompt, au cours des trois premières
 années d'exploitation, l'activité reprise ou est affectée au cours de la même période par l'un des événements mentionnés au
@@ -20,13 +22,13 @@ partir de la date à laquelle il aurait dû être acquitté.
 
 _Cite_:
 
-  - CGI 221 2
-  - CGI 53 A
-  - Loi n°85-98 1985-01-25 art. 81 et s.
+  - CGI 53 A, 221 2 al. 1, 1727
+  - Loi n°85-98 1985-01-25 art. 81, art. 155
+  - Loi n°85-98 du 25 janvier 1985 - art. 155 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 14 (P) JORF 28 décembre 1988
+  - Loi n°90-1169 du 29 décembre 1990 - art. 18 () JORF 30 décembre 1990
 
 _Cité par_:
 
@@ -53,3 +55,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZU (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies F (V)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
