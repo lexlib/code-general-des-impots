@@ -42,6 +42,20 @@ membre, le conseil municipal de cette dernière peut, pour l'application de la m
 foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit de la commune et les taux respectifs des
 mêmes taxes, votés l'année précédente par la communauté urbaine.
 
+4 a) Dans les communes remplissant les conditions fixées au b ci-après, le conseil municipal peut, en 1992, majorer le taux
+de la taxe professionnelle d'un point au maximum sans que cette majoration soit prise en compte pour l'application du b du 1.
+
+Cette majoration ne peut se cumuler avec celle prévue au 3 ;
+
+b) Ces dispositions s'appliquent aux communes visées aux II et III de l'article L. 234-19-1 du code des communes ou soumises
+au prélèvement prévu à l'article L. 263-14 du même code et dans lesquelles, au titre de l'année précédente :
+
+1° Le taux communal de taxe professionnelle n'excède pas la moitié du taux moyen de cette taxe constaté la même année pour
+l'ensemble des communes ;
+
+2° Le taux communal de taxe d'habitation est supérieur à la moitié du taux moyen de cette taxe constaté la même année pour
+l'ensemble des communes.
+
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle étaient nuls l'année précédente, le conseil
 municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la
 taxe professionnelle l'année précédente dans l'ensemble des communes ne doit pas excéder le rapport entre d'une part, le taux
@@ -62,9 +76,10 @@ professionnelle et le taux de la taxe foncière sur les propriétés non bâties
 d'habitation est, préalablement ou simultanément, majoré dans une proportion supérieure à la réduction effectuée en
 application de l'alinéa précédent. Dans ce cas, la variation du taux de taxe d'habitation à prendre en considération pour
 l'application du b du 1 du I est celle qui excède l'augmentation due à la suppression de la réduction (Ces dispositions ne
-sont pas applicables aux communes qui recourent aux dispositions du 1er alinéa du 2 du I).    Lorsqu'il a été fait
-application des dispositions prévues au premier alinéa, une nouvelle réduction ne peut être opérée qu'à compter de la sixième
-année suivante.
+sont pas applicables aux communes qui recourent aux dispositions du 1er alinéa du 2 du I).
+
+Lorsqu'il a été fait application des dispositions prévues au premier alinéa, une nouvelle réduction ne peut être opérée qu'à
+compter de la sixième année suivante.
 
 Ces dispositions ne font pas obstacle à l'application du 3 du I.
 
@@ -80,15 +95,13 @@ _Anciens textes_:
 
 _Cite_:
 
-  - CGI 1636 B septies, 1636 B decies, 1609 bis
+  - CGI 1609 bis
+  - CGI 1636 B decies
+  - CGI 1636 B septies
 
 _Modifié par_:
 
-  - Loi n°89-936 1989-12-29 art. 32 Finances rectificative pour 1989 JORF 30 décembre 1989
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
+  - Loi - art. 110 (V) JORF 31 décembre 1991
 
 _Cité par_:
 
@@ -109,6 +122,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1649 (VD)
   - Code général des impôts, CGI. - art. 1656 bis (V)
 
+_Codifié par_:
+
+  - Décret n°92-836 1992-08-27
+
 **Liens**:
 
-  - HISTO: Edition du 15 juin 1990
+  - HISTO: Edition du 4 juillet 1992

@@ -13,8 +13,8 @@ l'expiration de ce délai.
 
 I bis. L'échange sans soulte d'actions résultant d'une opération d'offre publique, de fusion, de scission, de division ou de
 regroupement réalisée conformément à la réglementation en vigueur, ou de l'apport à une société créée conformément aux
-dispositions de l'article 220 quater ne fait pas perdre le bénéfice des dispositions du premier alinéa du I. Les conditions
-mentionnées à cet alinéa continuent à être applicables aux actions reçues en échange.
+dispositions des articles 83 ter, 199 terdecies A et 220 quater ne fait pas perdre le bénéfice des dispositions du premier
+alinéa du I. Les conditions mentionnées à cet alinéa continuent à être applicables aux actions reçues en échange.
 
 II. - Si les conditions prévues au I ne sont pas remplies, l'avantage mentionné à l'article 80 bis est ajouté au revenu
 imposable de l'année au cours de laquelle le salarié aura converti les actions au porteur ou en aura disposé.
@@ -37,15 +37,15 @@ Les dispositions de l'article 163 ne sont pas applicables.
 
 _Cite_:
 
-  - CGI 80 bis, 92 B, 150 A bis, 160, 220 quater, 163
+  - CGI 80 bis, 92 B, 83 ter, 150 A bis, 199 terdecies A, 220 quater, 160, 163
 
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 11 Finances pour 1990 JORF 30 décembre 1989
+  - Loi n°91-1322 1991-12-30 art. 90 Finances pour 1992 JORF 31 décembre 1991
 
 _Codifié par_:
 
-  - Décret n°90-798 1990-09-10
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 

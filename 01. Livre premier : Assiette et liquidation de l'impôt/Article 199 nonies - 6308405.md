@@ -15,7 +15,7 @@ La réduction s'applique aux logements qui, quelle que soit la date de leur ach�
 suivantes :
 
 1° La construction doit avoir fait l'objet, avant le 1er octobre 1989, de la déclaration d'ouverture de chantier prévue à
-l'article R. 421-40 du code de l'urbanisme. Ce document, accompagné d'une pièce attestant de sa réception par la mairie, doit
+l'article R421-40 du code de l'urbanisme. Ce document, accompagné d'une pièce attestant de sa réception par la mairie, doit
 être joint à la déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction est demandé.
 
 2° Les fondations doivent être achevées avant le 31 décembre  1989.
@@ -49,15 +49,15 @@ _Cite_:
   - CGI 199 sexies A II
   - CGIAN3 46 AA
   - CGIAN3 46 AG
-  - Code de l'urbanisme - art. R421-40 (Ab)
-
-_Modifié par_:
-
-  - Loi n°87-1060 du 30 décembre 1987 - art. 89 () JORF 31 décembre 1987
+  - Code de l'urbanisme *R421-40
 
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°92-836 1992-08-27
+
+_Modifié par_:
+
+  - Décret n°92-836 1992-08-27 en vigueur le 4 juillet 1992
 
 _Cité par_:
 

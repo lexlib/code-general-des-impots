@@ -1,6 +1,6 @@
 # Article 1599 nonies
 
-Une taxe différentielle sur les véhicules à moteur est perçue au profit de la région de Corse.
+Une taxe différentielle sur les véhicules à moteur est perçue au profit de la collectivité territoriale de Corse.
 
 Les dispositions des articles 1599 C à 1599 F, 1599 I et 1599 J sont applicables à cette taxe (1).
 
@@ -18,10 +18,16 @@ _Cite_:
   - CGIAN2 318
   - CGIAN2 318 A
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°88-1001 1988-10-20
+  - HISTO: Edition du 4 juillet 1992
 
 _Modifié par_:
 
-  - Décret n°88-1001 1988-10-20 art. 1, JORF 22 octobre 1988, en vigueur le 15 juillet 1988
+  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
+  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
+  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
+
+_Codifié par_:
+
+  - Décret n°92-836 1992-08-27
