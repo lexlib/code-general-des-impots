@@ -3,19 +3,18 @@
 I. - Le gain net réalisé lors de la cession des titres souscrits en exercice des bons attribués dans les conditions définies
 aux II et III est imposé dans les conditions et aux taux prévus à l'article 150-0 A ou au 2 de l'article 200 A.
 
-Par dérogation aux dispositions du premier alinéa, le taux prévu au 6 de l'article 200 A s'applique lorsque le bénéficiaire
-exerce son activité dans la société depuis moins de trois ans à la date de la cession.
+Par dérogation aux dispositions du premier alinéa, le taux est porté à 30 % lorsque le bénéficiaire exerce son activité dans
+la société depuis moins de trois ans à la date de la cession.
 
 II. - Les sociétés par actions dont les titres ne sont pas admis aux négociations sur un marché réglementé autre que les
 marchés réglementés de valeurs de croissance de l'Espace économique européen, ou les compartiments de valeurs de croissance
 de ces marchés, dont la liste est fixée par arrêté du ministre chargé de l'économie peuvent, à condition d'avoir été
 immatriculées au registre du commerce et des sociétés depuis moins de quinze ans, attribuer aux membres de leur personnel
 salarié, ainsi qu'à leurs dirigeants soumis au régime fiscal des salariés, des bons de souscription de parts de créateur
-d'entreprise, incessibles, et émis dans les conditions prévues à l'article 339-5 de la loi n° 66-537 du 24 juillet 1966
-modifiée sur les sociétés commerciales, lorsque les conditions suivantes sont remplies :
+d'entreprise, incessibles, et émis dans les conditions prévues à l'article L. 228-95 du code de commerce, lorsque les
+conditions suivantes sont remplies :
 
-1. La société doit exercer une activité autre que celles mentionnées au quatrième alinéa du I de l'article 44 sexies et être
-passible en France de l'impôt sur les sociétés ;
+1. La société doit être passible en France de l'impôt sur les sociétés ;
 
 2. Le capital de la société doit être détenu directement et de manière continue pour 25 % au moins par des personnes
 physiques ou par des personnes morales détenues par des personnes physiques. Pour la détermination de ce pourcentage, les
@@ -32,27 +31,36 @@ extraordinaire, sur le rapport du conseil d'administration ou du directoire et s
 comptes. Il est au moins égal, lorsque la société émettrice a procédé dans les six mois précédant l'attribution du bon à une
 augmentation de capital, au prix d'émission des titres alors fixé.
 
+L'assemblée générale extraordinaire peut déléguer au conseil d'administration le soin de fixer la liste des bénéficiaires de
+bons de souscription de parts de créateurs d'entreprise. Dans ce cas, le conseil d'administration indique le nom des
+attributaires desdits bons et le nombre de titres attribués à chacun d'eux.
+
 IV. - Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 titulaires des bons et aux sociétés émettrices.
 
-V. - Les bons de souscription de parts de créateur d'entreprise mentionnés au II peuvent être attribués à compter du 1er
-janvier 1998 et jusqu'au 31 décembre 2001, ou jusqu'à l'expiration du délai de quinze ans prévu au II si celle-ci est
-antérieure.
+V. - Abrogé (1).
+
+(1) Ces dispositions s'appliquent à compter du 27 avril 2000.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 200 A, 44 sexies, 39 terdecies, 39 quinquies H, 150-0 A
-  - Loi n°66-537 1966-07-24 art. 339-5
+  - CGI 200 A, 39 terdecies, 39 quinquies H, 150-0 A
+  - Code de commerce. - art. L228-95 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+  - TXT_ASSOCIE: Instruction 1999-04-27 5F-11-99
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 133 IV, art. 134 II
 
 _Modifié par_:
 
-  - Loi - art. 92 () JORF 31 décembre 1999
-
-_Codifié par_:
-
-  - Décret n°2000-477 2000-06-02
+  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
+  - Loi n°2001-420 du 15 mai 2001 - art. 137 () JORF 16 mai 2001
+  - Loi n°2001-420 du 15 mai 2001 - art. 133 (V)
+  - Loi n°2001-420 du 15 mai 2001 - art. 134 (V)
 
 _Cité par_:
 
@@ -72,9 +80,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 V bis (V)
   - Code monétaire et financier - art. L212-17 (V)
   - Code monétaire et financier - art. L221-32-5 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 1998-07-06 5F-13-98
-  - TXT_ASSOCIE: Instruction 1999-04-27 5F-11-99
