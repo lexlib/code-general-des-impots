@@ -68,6 +68,13 @@ Pour l'application de cette disposition, la réduction des écarts de taux s'op�
 cas où le dispositif de réduction des écarts de taux est déjà en cours, l'écart est réduit chaque année, par parts égales en
 proportion du nombre d'années restant à courir conformément à la durée fixée par la délibération.
 
+Lorsqu'un établissement public de coopération intercommunale faisant application du régime prévu au II de l'article 1609
+quinquies C opte pour le régime prévu au présent article ou devient soumis à ce régime, le taux constaté dans une commune
+l'année précédente est le taux appliqué en dehors des zones d'activités économiques existant sur son territoire
+antérieurement au changement de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de zone si celle-çi
+est implantée sur le territoire de plusieurs communes est alors assimilé à celui d'une commune membre supplémentaire pour
+l'application des dispositions du présent III.
+
 2° Au titre des années suivant la première année d'application des dispositions du 1°, le taux de taxe professionnelle est
 fixé par le conseil de l'établissement public de coopération intercommunale dans les conditions prévues au II de l'article
 1636 B decies lorsqu'il est fait application du I du présent article.
@@ -120,6 +127,11 @@ compensation qu'après accord des conseils municipaux des communes intéressées
 Toutefois, dans le cas où une diminution des bases imposables de taxe professionnelle réduit le produit disponible, le
 conseil de l'établissement public de coopération intercommunale peut décider de réduire les attributions de compensation dans
 la même proportion.
+
+Lorsque, avant la publication de la loi n° 99-586 du 12 juillet 1999 précitée, l'attribution de compensation était calculée
+en tenant compte de la contribution des communes à un syndicat, l'organe délibérant de l'établissement public de coopération
+intercommunale réduit le montant de l'attribution de compensation à due concurrence de la diminution du montant de la
+contribution demandée aux communes par le syndicat.
 
 2° L'attribution de compensation est égale au produit de taxe professionnelle, y compris la compensation prévue au I du D de
 l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les compensations prévues
@@ -339,10 +351,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 1999-07-12 art. 86 I, II JORF 13 juillet 1999
-  - Loi n°99-586 du 12 juillet 1999 - art. 86 () JORF 13 juillet 1999
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
-  - TXT_ASSOCIE: Instruction 1997-06-04 6IDL Numéro spécial
+  - Loi n°99-1126 du 28 décembre 1999 - art. 13 () JORF 29 décembre 1999
