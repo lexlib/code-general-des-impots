@@ -1,26 +1,29 @@
 # Article 564 undecies
 
-Les dispositions du a et du b du II de l'article 57 et des articles 61 et 62 de la loi n° 92-677 du 17 juillet 1992 ne sont
-pas applicables en France continentale aux produits désignés à l'article 564 decies.
+Les dispositions du a et du b du II de l'article 302 D et des articles 302 H et 302 I ne sont pas applicables en France
+métropolitaine aux produits désignés à l'article 564 decies.
+
+(1) Modifications.
 
 **Liens relatifs à cet article**
 
-_Abrogé par_:
-
-  - Article incorporé dans l'édition du 18 août 1993
-
 _Cite_:
 
-  - CGI 564 decies
-  - Loi n°92-677 1992-07-17 art. 57, art. 61, art. 62
+  - CGI 302 D, 302 H, 302 I, 564 decies
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 88 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+  - HISTO: Edition du 2 septembre 1994
 
 _Modifié par_:
 
-  - Loi - art. 36 (V)
+  - Loi n°92-677 du 17 juillet 1992 - art. 57 (V) JORF 19 juillet 1992
+  - Loi n°92-677 du 17 juillet 1992 - art. 61 (V) JORF 19 juillet 1992
+  - Loi n°92-677 du 17 juillet 1992 - art. 62 (V) JORF 19 juillet 1992
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
 
 _Cité par_:
 
