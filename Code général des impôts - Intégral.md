@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-12-15
+Version Consolidée au 1983-12-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -965,34 +965,35 @@ Version Consolidée au 1983-12-15
         - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 1918)](#962)
     - [Chapitre IV : Sûretés et privilèges (art. 1923 à 1929 sexies)](#963)
       - [Section I : Impôts directs et taxes assimilées (art. 1923 à 1924)](#964)
-      - [Section V : Dispositions communes (art. 1929 sexies)](#965)
-    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1960 à 1961 bis)](#966)
-      - [Section II : Juridiction contentieuse (art. 1960 à 1965 E)](#967)
-        - [7 : Dispositions particulières aux impôts directs et taxes assimilées (art. 1960)](#968)
-        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#969)
-      - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis)](#970)
-  - [RECOUVREMENT DE L'IMPOT (art. 1657 à 1960 bis)](#971)
-    - [PAIEMENT DE L'IMPOT (art. 1657 à 1724 bis)](#972)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1657 à 1681 D)](#973)
-      - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#974)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1693 bis)](#975)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A à 1723 quater)](#976)
-      - [IMPOT SUR LES GRANDES FORTUNES *IGF*. (art. 1723 ter-00 A à 1723 ter-00 B)](#977)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204). (art. 1723 ter A à 1723 undecies)](#978)
-      - [DISPOSITIONS COMMUNES. (art. 1724 bis)](#979)
-    - [PENALITES (art. 1726 à 1840 W bis)](#980)
-      - [DISPOSITIONS COMMUNES. (art. 1726 à 1756 ter)](#981)
-      - [DISPOSITIONS PARTICULIERES. (art. 1757 à 1840 W bis)](#982)
-    - [PROCEDURES (art. 1912)](#983)
-      - [DISPOSITIONS COMMUNES. (art. 1912)](#984)
-    - [SURETES ET PRIVILEGES (art. 1920 à 1929 ter)](#985)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1920 à 1925)](#986)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1926 à 1926 bis)](#987)
-      - [CONTRIBUTIONS INDIRECTES. (art. 1927 à 1928)](#988)
-      - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT. (art. 1929)](#989)
-      - [DISPOSITIONS COMMUNES. (art. 1929 quater à 1929 ter)](#990)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 1960 ter à 1960 bis)](#991)
-      - [JURIDICTION CONTENTIEUSE. (art. 1960 A à 1960 bis)](#992)
+      - [Section III : Contributions indirectes (art. 1928)](#965)
+      - [Section V : Dispositions communes (art. 1929 sexies)](#966)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1960 à 1961 bis)](#967)
+      - [Section II : Juridiction contentieuse (art. 1960 à 1965 E)](#968)
+        - [7 : Dispositions particulières aux impôts directs et taxes assimilées (art. 1960)](#969)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#970)
+      - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis)](#971)
+  - [RECOUVREMENT DE L'IMPOT (art. 1657 à 1960 bis)](#972)
+    - [PAIEMENT DE L'IMPOT (art. 1657 à 1724 bis)](#973)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1657 à 1681 D)](#974)
+      - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#975)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1693 bis)](#976)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A à 1723 quater)](#977)
+      - [IMPOT SUR LES GRANDES FORTUNES *IGF*. (art. 1723 ter-00 A à 1723 ter-00 B)](#978)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204). (art. 1723 ter A à 1723 undecies)](#979)
+      - [DISPOSITIONS COMMUNES. (art. 1724 bis)](#980)
+    - [PENALITES (art. 1726 à 1840 W bis)](#981)
+      - [DISPOSITIONS COMMUNES. (art. 1726 à 1756 ter)](#982)
+      - [DISPOSITIONS PARTICULIERES. (art. 1757 à 1840 W bis)](#983)
+    - [PROCEDURES (art. 1912)](#984)
+      - [DISPOSITIONS COMMUNES. (art. 1912)](#985)
+    - [SURETES ET PRIVILEGES (art. 1920 à 1929 ter)](#986)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1920 à 1925)](#987)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1926 à 1926 bis)](#988)
+      - [CONTRIBUTIONS INDIRECTES. (art. 1927)](#989)
+      - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT. (art. 1929)](#990)
+      - [DISPOSITIONS COMMUNES. (art. 1929 quater à 1929 ter)](#991)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 1960 ter à 1960 bis)](#992)
+      - [JURIDICTION CONTENTIEUSE. (art. 1960 A à 1960 bis)](#993)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -38016,7 +38017,28 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1923 (V)
 
 
-### Section V : Dispositions communes<a id=965></a>
+### Section III : Contributions indirectes<a id=965></a>
+
+###### Article 1928
+
+Les fournisseurs de tabacs visés à l'article 565, les fabricants de spiritueux composés, de boissons à base de céréales, de
+produits médicamenteux et de parfumerie ainsi que les expéditeurs de boissons sont, en ce qui concerne les droits de
+fabrication, de consommation et de circulation, subrogés au privilège conféré à l'administration par l'article 1927 pour le
+recouvrement des droits qu'ils ont payés pour le compte de leurs clients, sans toutefois que cette subrogation puisse
+préjudicier aux droits et privilèges de l'administration.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1927, 565
+
+_Modifié par_:
+
+  - Loi n°83-1159 du 24 décembre 1983 - art. 16 () JORF 28 décembre 1983
+
+
+### Section V : Dispositions communes<a id=966></a>
 
 ###### Article 1929 sexies
 
@@ -38043,11 +38065,11 @@ _Créé par_:
   - Loi n°81-1179 du 31 décembre 1981 - art. 8 (P) JORF 1er janvier 1981
 
 
-## Chapitre V : Dégrèvements et restitutions d'impôts<a id=966></a>
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=967></a>
 
-### Section II : Juridiction contentieuse<a id=967></a>
+### Section II : Juridiction contentieuse<a id=968></a>
 
-#### 7 : Dispositions particulières aux impôts directs et taxes assimilées<a id=968></a>
+#### 7 : Dispositions particulières aux impôts directs et taxes assimilées<a id=969></a>
 
 ###### Article 1960
 
@@ -38070,7 +38092,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
 
 
-#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=969></a>
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=970></a>
 
 ###### Article 1961
 
@@ -38259,7 +38281,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances.<a id=970></a>
+### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances.<a id=971></a>
 
 ###### Article 1961 bis
 
@@ -38289,11 +38311,11 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-# RECOUVREMENT DE L'IMPOT<a id=971></a>
+# RECOUVREMENT DE L'IMPOT<a id=972></a>
 
-## PAIEMENT DE L'IMPOT<a id=972></a>
+## PAIEMENT DE L'IMPOT<a id=973></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=973></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=974></a>
 
 ###### Article 1657
 
@@ -38752,7 +38774,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### IMPOTS DIRECTS.<a id=974></a>
+### IMPOTS DIRECTS.<a id=975></a>
 
 ###### Article 1664
 
@@ -38893,7 +38915,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=975></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=976></a>
 
 ###### Article 1693 bis
 
@@ -38937,7 +38959,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=976></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=977></a>
 
 ###### Article 1716 A
 
@@ -39037,7 +39059,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### IMPOT SUR LES GRANDES FORTUNES *IGF*.<a id=977></a>
+### IMPOT SUR LES GRANDES FORTUNES *IGF*.<a id=978></a>
 
 ###### Article 1723 ter-00 A
 
@@ -39091,7 +39113,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1691 bis (V)
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204).<a id=978></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204).<a id=979></a>
 
 ###### Article 1723 ter A
 
@@ -39166,7 +39188,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### DISPOSITIONS COMMUNES.<a id=979></a>
+### DISPOSITIONS COMMUNES.<a id=980></a>
 
 ###### Article 1724 bis
 
@@ -39206,9 +39228,9 @@ _Abrogé par_:
   - Loi n°85-1403 du 30 décembre 1985 - art. 65 ()
 
 
-## PENALITES<a id=980></a>
+## PENALITES<a id=981></a>
 
-### DISPOSITIONS COMMUNES.<a id=981></a>
+### DISPOSITIONS COMMUNES.<a id=982></a>
 
 ###### Article 1726
 
@@ -40126,7 +40148,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS PARTICULIERES.<a id=982></a>
+### DISPOSITIONS PARTICULIERES.<a id=983></a>
 
 ###### Article 1757
 
@@ -41360,9 +41382,9 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-## PROCEDURES<a id=983></a>
+## PROCEDURES<a id=984></a>
 
-### DISPOSITIONS COMMUNES.<a id=984></a>
+### DISPOSITIONS COMMUNES.<a id=985></a>
 
 ###### Article 1912
 
@@ -41432,9 +41454,9 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## SURETES ET PRIVILEGES<a id=985></a>
+## SURETES ET PRIVILEGES<a id=986></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=986></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=987></a>
 
 ###### Article 1920
 
@@ -41543,7 +41565,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°84-1208 du 29 décembre 1984 - art. 103 (V) JORF 30 décembre 1984 : l'article 1925 devient sans objet
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=987></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=988></a>
 
 ###### Article 1926
 
@@ -41609,7 +41631,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°84-1208 du 29 décembre 1984 - art. 103 (V) JORF 30 décembre 1984 : l'article 1926 bis devient sans objet
 
 
-### CONTRIBUTIONS INDIRECTES.<a id=988></a>
+### CONTRIBUTIONS INDIRECTES.<a id=989></a>
 
 ###### Article 1927
 
@@ -41632,25 +41654,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 1928
-
-Les fabricants de spiritueux composés, de boissons à base de céréales, de produits médicamenteux et de parfumerie ainsi que
-les expéditeurs de boissons sont, en ce qui concerne les droits de fabrication, de consommation et de circulation, subrogés
-au privilège conféré à l'administration par l'article 1927 pour le recouvrement des droits qu'ils ont payés pour le compte de
-leurs clients, sans toutefois que cette subrogation puisse préjudicier aux droits et privilèges de l'administration.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1927
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT.<a id=989></a>
+### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT.<a id=990></a>
 
 ###### Article 1929
 
@@ -41719,7 +41723,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 ter (VT)
 
 
-### DISPOSITIONS COMMUNES.<a id=990></a>
+### DISPOSITIONS COMMUNES.<a id=991></a>
 
 ###### Article 1929 quater
 
@@ -41826,7 +41830,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1018 A (V)
 
 
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=991></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=992></a>
 
 ###### Article 1960 ter
 
@@ -41903,7 +41907,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### JURIDICTION CONTENTIEUSE.<a id=992></a>
+### JURIDICTION CONTENTIEUSE.<a id=993></a>
 
 ###### Article 1960 A
 
