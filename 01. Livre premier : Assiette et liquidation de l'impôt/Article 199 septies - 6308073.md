@@ -7,10 +7,11 @@ effectuées par un contribuable ouvrent droit à une réduction d'impôt sur le 
 comportent la garantie d'un capital en cas de vie et sont d'une durée effective au moins égale à six ans, ou bien comportent
 la garantie d'une rente viagère avec jouissance effectivement différée d'au moins six ans, quelle que soit la date de la
 souscription. Ces primes ouvrent droit à réduction d'impôt dans la limite de 610 euros, majorée de 150 euros par enfant à
-charge ; ces limites s'appliquent à l'ensemble des contrats souscrits par les membres d'un même foyer fiscal.
+charge et de 75 euros lorsque l'enfant est réputé à charge égale de l'un et l'autre de ses parents (1) ; ces limites
+s'appliquent à l'ensemble des contrats souscrits par les membres d'un même foyer fiscal.
 
 A compter de l'imposition de 1984, la réduction d'impôt est calculée sur la fraction de la prime représentative de
-l'opération d'épargne. Un décret fixe les modalités de détermination de cette fraction de prime (1) ;
+l'opération d'épargne. Un décret fixe les modalités de détermination de cette fraction de prime ;
 
 La réduction d'impôt ne s'applique ni aux primes payées à compter du 20 septembre 1995 au titre des contrats à versements
 libres ni aux primes payées au titre des contrats à primes périodiques et à primes uniques conclus ou prorogés à compter du
@@ -26,22 +27,19 @@ instruction ou une formation professionnelle d'un niveau normal ;
 
 Primes définies aux premier et deuxième alinéas du 1°, lorsqu'elles sont afférentes à des contrats destinés à garantir le
 versement d'un capital ou d'une rente viagère à l'assuré atteint, lors de la conclusion du contrat, d'une infirmité qui
-l'empêche de se livrer, dans des conditions normales de rentabilité, à une activité professionnelle (2).
+l'empêche de se livrer, dans des conditions normales de rentabilité, à une activité professionnelle.
 
 Les conditions d'application de ces dispositions sont, en tant que de besoin, fixées par décret. Ces primes ouvrent droit à
-réduction d'impôt dans la limite de 1 070 euros, majorée de 230 euros par enfant à charge ; ces limites s'appliquent à
-l'ensemble des contrats souscrits par les membres d'un même foyer fiscal ;
+réduction d'impôt dans la limite de 1 070 euros, majorée de 230 euros par enfant à charge et de 115 euros lorsque l'enfant
+est réputé à charge égale de l'un et l'autre de ses parents (1) ; ces limites s'appliquent à l'ensemble des contrats
+souscrits par les membres d'un même foyer fiscal ;
 
 3° Un arrêté du ministre de l'économie et des finances définit les justifications auxquelles est subordonné le bénéfice de la
-réduction d'impôt (3).
+réduction d'impôt.
 
 **Nota:**
 
-(1) Décret n° 84-269 du 11 avril 1984 (J.O. du 13).
-
-(2) Cette disposition s'applique à compter de l'imposition des revenus de 1988.
-
-(3) Voir l'article 17 E de l'annexe IV.
+(1) Ces dispositions s'appliquent pour l'imposition des revenus des années 2003 et suivantes.
 
 **Liens relatifs à cet article**
 
@@ -51,14 +49,14 @@ _Cite_:
   - CGIAN4 17 E
   - Décret n°84-269 1984-04-11
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - HISTO: Edition du 31 mars 2002
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 30 (V) JORF 31 décembre 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 30 VIII
+  - HISTO: Edition du 1er janvier 2003
 
 _Cité par_:
 
