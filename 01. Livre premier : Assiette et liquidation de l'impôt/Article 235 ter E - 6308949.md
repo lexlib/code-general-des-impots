@@ -16,8 +16,12 @@ d. Les bénéficiaires des contrats initiative-emploi prévus à l'article L. 32
 compte jusqu'à l'expiration d'une période de deux ans à compter de la date d'embauche ou pendant toute la durée du contrat de
 travail à durée déterminée ;
 
-Il en est de même, pendant une durée de deux ans, pour les bénéficiaires de contrats d'accès à l'emploi prévus à l'article L.
-832-2 du code du travail, dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon.
+Conformément au V de l'article L832-2 du code du travail, dans les départements d'outre-mer et la collectivité territoriale
+de Saint-Pierre-et-Miquelon, les salariés bénéficiaires d'un contrat d'accès à l'emploi ne sont pas pris en compte, pendant
+une durée de deux ans, dans le calcul de l'effectif du personnel des entreprises dont ils relèvent pour l'application des
+dispositions législatives et réglementaires qui se réfèrent à une condition d'effectif minimum de salariés, exception faite
+de celles qui concernent la tarification des risques d'accidents du travail et de maladies professionnelles. Toutefois, cette
+durée est portée à trente mois pour les bénéficiaires du revenu minimum d'insertion ;
 
 e) Les titulaires des contrats emploi-solidarité définis aux articles L. 322-4-7 et suivants du code du travail et des
 emplois visé visés à l'article L. 322-4-8-1 du même code ainsi que les titulaires dans les départements d'outre-mer des
@@ -45,13 +49,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Rapport au Président de la République relatif à l' - art. 1 (V) JORF 23 décembre 2000
-  - Rapport au Président de la République relatif à l' - art. 3 (V) JORF 23 décembre 2000
-  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+  - Loi n°2003-660 du 21 juillet 2003 - art. 10 () JORF 22 juillet 2003
 
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2003-933 2003-09-30
 
 _Cité par_:
 
@@ -59,4 +61,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 août 2003
