@@ -27,8 +27,29 @@ provoqué la création ;
 
 - par une société coopérative de construction mentionnée à l'article L 432-2 du code de la construction et de l'habitation.
 
+III. - La résiliation d'un contrat de location-attribution ou de location-vente entrant dans les prévisions des I et II rend
+exigibles les droits dus à raison de la mutation de jouissance qui est résultée de la convention.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi - art. 12 (V) JORF 31 décembre 1998
+  - Loi n°98-1267 1998-12-30 art. 12 E 10°, F Finances rectificative pour 1998 JORF 31 décembre 1998
+
+_Abrogé par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 70
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 261 (VD)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L411-2
+  - Code de la construction et de l'habitation. - art. L432-2
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999

@@ -7,10 +7,10 @@ Par dérogation aux dispositions du premier alinéa, le taux prévu au 6 de l'ar
 exerce son activité dans la société depuis moins de trois ans à la date de la cession.
 
 II. - Les sociétés par actions dont les titres ne sont pas admis aux négociations sur un marché réglementé peuvent, à
-condition d'avoir été immatriculées au registre du commerce et des sociétés depuis moins de sept ans, attribuer aux membres
-de leur personnel salarié, ainsi qu'à leurs dirigeants soumis au régime fiscal des salariés, des bons de souscription de
-parts de créateur d'entreprise, incessibles, et émis dans les conditions prévues à l'article 339-5 de la loi n° 66-537 du 24
-juillet 1966 sur les sociétés commerciales, lorsque les conditions suivantes sont remplies :
+condition d'avoir été immatriculées au registre du commerce et des sociétés depuis moins de ((quinze ans)) (M), attribuer aux
+membres de leur personnel salarié, ainsi qu'à leurs dirigeants soumis au régime fiscal des salariés, des bons de souscription
+de parts de créateur d'entreprise, incessibles, et émis dans les conditions prévues à l'article 339-5 de la loi n° 66-537 du
+24 juillet 1966 ((modifiée)) (M) sur les sociétés commerciales, lorsque les conditions suivantes sont remplies :
 
 1. La société doit exercer une activité autre que celles mentionnées au deuxième alinéa du 2 du I de l'article 44 sexies et
 être passible en France de l'impôt sur les sociétés ;
@@ -34,13 +34,11 @@ IV. - Un décret précise les modalités d'application du présent article, nota
 titulaires des bons et aux sociétés émettrices.
 
 V. - Les bons de souscription de parts de créateur d'entreprise mentionnés au II peuvent être attribués à compter du 1er
-janvier 1998 et jusqu'au 31 décembre 1999, ou jusqu'à l'expiration du délai de sept ans prévu au II si celle-ci est
+janvier 1998 et jusqu'au 31 décembre 1999, ou jusqu'à l'expiration du délai de ((quinze ans)) (M) prévu au II si celle-ci est
 antérieure.
 
-**Nota:**
-
-NOTA : Les gains mentionnés ne sont pas pris en compte pour l'application de l'article L. 242-1 du code de la sécurité
-sociale et pour l'application de la législation du travail.
+(M) Modification. Ces modifications s'appliquent aux bons de souscription de parts de créateur d'entreprise attribués à
+compter du 1er septembre 1998.
 
 **Liens relatifs à cet article**
 
@@ -49,19 +47,14 @@ _Cite_:
   - CGI 92 B, 92 J, 160, 200 A, 44 sexies, 39 terdecies, 39 quinquies H
   - Loi n°66-537 1966-07-24 art. 339-5
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1998-07-06 5F-13-98
-  - SPEC_APPLI: Loi n°97-1269 1997-12-30 art. 76 II
-
-_Créé par_:
-
-  - Loi - art. 76 (V) JORF 31 décembre 1997
+  - Loi n°98-261 du 6 avril 1998 - art. 6 () JORF 7 avril 1999
+  - Loi - art. 5 (V) JORF 31 décembre 1998
 
 _Codifié par_:
 
-  - Décret n°98-400 1998-05-22
+  - Décret n°99-382 1999-05-18
 
 _Cité par_:
 
@@ -80,3 +73,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 V bis (V)
   - Code monétaire et financier - art. L212-17 (V)
   - Code monétaire et financier - art. L221-32-5 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1998-07-06 5F-13-98
+  - TXT_ASSOCIE: Instruction 1999-04-27 5F-11-99
