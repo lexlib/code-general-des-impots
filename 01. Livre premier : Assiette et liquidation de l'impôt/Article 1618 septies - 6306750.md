@@ -19,14 +19,24 @@ déclaratives des assujettis (1).
 La taxe est recouvrée et les infractions sont recherchées, constatées, poursuivies et sanctionnées selon les règles et sous
 les garanties prévues en matière de contributions indirectes.
 
+((Toutefois, à l'importation en provenance de pays non membres de la Communauté européenne, la taxe est recouvrée et les
+infractions sont recherchées, constatées, poursuivies et sanctionnées selon les règles, privilèges et garanties prévus en
+matière de douane.)) (2)
+
 (1) Voir annexe III art. 333 H bis à 333 H quinquies.
+
+(2) Ces dispositions, modifications de la loi 93-1353, sont applicables à compter du 1er janvier 1994.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-1353 1993-12-30 art. 25 II
+
 _Modifié par_:
 
-  - Loi - art. 39 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-  - Modifications directes incorporées dans l'édition du 18 août 1993
+  - Loi n°93-1353 du 30 décembre 1993 - art. 25 (P) JORF 31 décembre 1993
+  - Modifications directes incorporées dans l'édition du 2 septembre 1994
 
 _Cité par_:
 

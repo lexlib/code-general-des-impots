@@ -56,8 +56,11 @@ III. (Abrogé pour les impositions établies au titre de 1993 et des années sui
 IV. Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du dépôt
 de la demande.
 
+((V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour
+les impositions établies au titre de 1994 et des années suivantes)) (1').
+
 (1) Taux applicable pour les impositions établies au titre de 1991 et des années suivantes. Précédemment le taux était de 4
-%.
+%.    (1') Modification de la loi.
 
 **Liens relatifs à cet article**
 
@@ -88,8 +91,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 27 (V) JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-  - Modifications directes incorporées dans l'édition du 18 août 1993
+  - Loi n°93-1352 du 30 décembre 1993 - art. 55 (V) JORF 31 décembre 1993
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
 
 **Liens**:
 
