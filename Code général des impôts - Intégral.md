@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-01-15
+Version Consolidée au 1988-01-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -185,7 +185,7 @@ Version Consolidée au 1988-01-15
           - [Section I : Généralités (art. 205)](#182)
           - [Section II : Champ d'application de l'impôt (art. 206 à 208 ter B)](#183)
             - [I : Sociétés et collectivités imposables. (art. 206)](#184)
-            - [II : Exonérations et régimes particuliers. (art. 208 B à 208 ter B)](#185)
+            - [II : Exonérations et régimes particuliers. (art. 207 à 208 ter B)](#185)
           - [Section III : Détermination du bénéfice imposable (art. 209 B à 217 sexies)](#186)
           - [Section IV : Personnes imposables - Lieu d'imposition (art. 218 à 218 bis)](#187)
           - [Section V : Calcul de l'impôt (art. 219 bis à 220 quinquies)](#188)
@@ -692,7 +692,7 @@ Version Consolidée au 1988-01-15
                 - [2 : Dispositions spéciales aux successions (art. 800 à 808)](#689)
                   - [1° : Immeubles et fonds de commerce situés en France et dévolus à des personnes domiciliées à l'étranger - Obligations imposées à l'acquéreur (art. 803)](#690)
                   - [2° : Polices d'assurances contre l'incendie souscrites par les personnes décédées - Avis à donner par les assureurs (art. 805)](#691)
-                  - [3° : Titres, sommes ou valeurs en dépôt. Sommes dues à raison du décès. Obligations des dépositaires ou débiteurs (art. 807 à 808)](#692)
+                  - [3° : Titres, sommes ou valeurs en dépôt. Sommes dues à raison du décès. Obligations des dépositaires ou débiteurs (art. 806 à 808)](#692)
             - [VII : Actes et conventions concernant les sociétés, personnes morales et groupements (art. 808 A à 834 bis)](#693)
               - [A : Dispositions générales (art. 808 A à 811)](#694)
                 - [1° : Règles de territorialité (art. 808 A)](#695)
@@ -1147,7 +1147,7 @@ Version Consolidée au 1988-01-15
         - [VIII : Taxe locale d'équipement (art. 1723 quater à 1723 sexies)](#1144)
         - [IX : Versement pour dépassement du plafond légal de densité (1) (art. 1723 decies à 1723 terdecies)](#1145)
       - [Section V : Dispositions communes (art. 1724 à 1724 quater)](#1146)
-    - [Chapitre II : Pénalités (art. 1725 à 1840 T ter)](#1147)
+    - [Chapitre II : Pénalités (art. 1725 à 1840 V)](#1147)
       - [Section I : Dispositions communes (art. 1725 à 1756 ter)](#1148)
         - [A : Sanctions fiscales. (art. 1725 à 1740 ter)](#1149)
         - [B : Sanctions fiscales (art. 1731)](#1150)
@@ -1155,7 +1155,7 @@ Version Consolidée au 1988-01-15
             - [b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts (art. 1731)](#1152)
         - [B : Sanctions pénales. (art. 1741 à 1753 bis A)](#1153)
         - [C : Autres sanctions et mesures diverses. (art. 1755 à 1756 ter)](#1154)
-      - [Section II : Dispositions particulières (art. 1757 à 1840 T ter)](#1155)
+      - [Section II : Dispositions particulières (art. 1757 à 1840 V)](#1155)
         - [A : Impôts directs et taxes assimilées (art. 1757 à 1783 bis A)](#1156)
           - [1 : Majorations de droits (art. 1757 à 1762 A)](#1157)
             - [(MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT) (art. 1762 A)](#1158)
@@ -1175,10 +1175,10 @@ Version Consolidée au 1988-01-15
           - [1 : Sanctions fiscales (art. 1826 à 1836)](#1172)
           - [2 : Sanctions pénales (art. 1837 à 1839)](#1173)
           - [3 : Autres sanctions et mesures diverses (art. 1840 à 1840 G ter)](#1174)
-        - [E : Droits de timbre, autres droits et taxes (art. 1840 H à 1840 T ter)](#1175)
+        - [E : Droits de timbre, autres droits et taxes (art. 1840 H à 1840 V)](#1175)
           - [1 : Sanctions fiscales (art. 1840 H à 1840 N ter)](#1176)
           - [2 : Sanctions pénales (art. 1840 O à 1840 Q)](#1177)
-          - [3 : Autres sanctions et mesures diverses (art. 1840 R à 1840 T ter)](#1178)
+          - [3 : Autres sanctions et mesures diverses (art. 1840 R à 1840 V)](#1178)
     - [Chapitre III : Procédures (art. 1849 à 1918)](#1179)
       - [Section I : Impôts directs et taxes assimilées (art. 1849 à 1851)](#1180)
       - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes (art. 1881 à 1894)](#1181)
@@ -15836,6 +15836,179 @@ _Cité par_:
 
 
 ##### II : Exonérations et régimes particuliers.<a id=185></a>
+
+###### Article 207
+
+1. Sont exonérés de l'impôt sur les sociétés :
+
+1° (Disposition devenue sans objet).
+
+2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition qu'elle fonctionnent conformément aux
+dispositions qui les régissent :
+
+- les sociétés coopératives agricoles d'approvisionnement et d'achat ;
+
+- les unions de sociétés coopératives agricoles d'approvisionnement et d'achat ;
+
+2° bis. Les syndicats agricoles, à condition qu'ils fonctionnent conformément aux dispositions qui les régissent ;
+
+3° A condition qu'elles fonctionnent conformément aux dispositions qui les régissent, les sociétés coopératives de
+production, de transformation, conservation et vente de produits agricoles ainsi que les unions de sociétés coopératives de
+production, transformation, conservation et vente de produits agricoles, sauf pour les opérations ci-après désignées :
+
+a. Ventes effectuées dans un magasin de détail distinct de leur établissement principal ;
+
+b. Opérations de transformation portant sur les produits ou sous-produits autres que ceux destinés à l'alimentation de
+l'homme et des animaux ou pouvant être utilisés à titre de matières premières dans l'agriculture ou l'industrie ;
+
+c. Opérations effectuées par les sociétés coopératives ou unions susvisées avec des non-sociétaires.
+
+Cette exonération est applicable aux opérations effectuées par les coopératives de céréales et leurs unions avec l'Office
+national interprofessionnel des céréales relativement à l'achat, la vente, la transformation ou le transport de céréales ; il
+en est de même pour les opérations effectuées par des coopératives de céréales avec d'autres coopératives de céréales dans le
+cadre de programmes élaborés par l'office ou avec l'autorisation de cet établissement.
+
+Les sociétés coopératives agricoles et leurs unions sont tenues de produire, à toute réquisition de l'administration, leur
+comptabilité et les justifications nécessaires tendant à prouver qu'elles fonctionnent conformément aux dispositions
+législatives et réglementaires relatives au statut juridique de la coopération agricole ;
+
+3° bis Lorsqu'elles fonctionnent conformément aux dispositions de la loi n° 83-657 du 20 juillet 1983 relative au
+développement de certaines activités d'économie sociale, les coopératives artisanales et leurs unions, les coopératives
+d'entreprises de transports, les coopératives artisanales de transport fluvial ainsi que les coopératives maritimes et leurs
+unions, visées au chapitre Ier du titre III de la même loi, sauf pour les affaires effectuées avec des non-sociétaires ;
+
+4° Les offices publics d'habitations à loyer modéré, les sociétés d'habitations à loyer modéré et les sociétés anonymes de
+crédit immobilier régis par les articles L 411-1 et suivants du code de la construction et de l'habitation, ainsi que les
+unions de ces offices et sociétés ;
+
+4° bis. Les offices publics d'aménagement et de construction visés à l'article L 421-1 du code de la construction et de
+l'habitation pour les opérations faites en application de la législation sur les habitations à loyer modéré ;
+
+5° Les bénéfices réalisés par des associations sans but lucratif régies par la loi du 1er juillet 1901 organisant, avec le
+concours des communes ou des départements, des foires, expositions, réunions sportives et autres manifestations publiques,
+correspondant à l'objet défini par leurs statuts et présentant, du point de vue économique, un intérêt certain pour la
+commune ou la région ;
+
+5° bis. Les organismes sans but lucratif mentionnés à l'article 261-7-1°, pour les opérations à raison desquelles ils sont
+exonérés de la taxe sur la valeur ajoutée ;
+
+6° Les régions, départements, communes et syndicats de communes, ainsi que leurs régies de services publics ;
+
+6° bis. Dans les conditions fixées par décret (1), les établissements publics et sociétés d'économie mixte concessionnaires
+d'opérations d'aménagement, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme, pour les
+résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
+
+- zone d'aménagement concerté ;
+
+- lotissements ;
+
+- zone de restauration immobilière ;
+
+- zone de résorption de l'habitat insalubre.
+
+7° Les sociétés coopératives de construction qui procèdent, sans but lucratif, au lotissement et à la vente de terrains leur
+appartenant. Cette exonération est également applicable sous les mêmes conditions aux sociétés d'économie mixte dont les
+statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, ainsi qu'aux groupements dits de
+"Castors" dont les membres effectuent des apports de travail ;
+
+8° Les sociétés coopératives de construction désignées à l'article 1378 sexies (3).
+
+2. Les sociétés anonymes françaises de financement de recherches et d'exploitation des gisements d'hydrocarbures liquides ou
+gazeux, dont la constitution est approuvée par arrêté du ministre de l'économie et des finances et du ministre de
+l'industrie, sont exonérées de l'impôt sur les sociétés pour la partie des bénéfices provenant des produits nets de leur
+portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce
+portefeuille, lorsqu'elles se conforment aux dispositions ci-après :
+
+a. Ces sociétés doivent avoir pour objet exclusif toutes opérations se rattachant à la gestion d'un portefeuille de valeurs
+mobilières et de parts sociales émises par les sociétés qui se livrent à la recherche et à l'exploitation des gisements
+d'hydrocarbures liquides ou gazeux, au raffinage, au stockage, au transport ou à la distribution des hydrocarbures liquides
+ou gazeux ainsi qu'à la pétroléo-chimie.
+
+Chaque société ne peut consacrer au financement des sociétés autres que celles qui se livrent à la recherche ou à
+l'exploitation des gisements d'hydrocarbures dans les pays faisant partie de la zone franc à la date de publication du décret
+n° 62-1025 du 18 août 1962 plus de 25 % du total des sommes placées et des sommes disponibles pour le placement.
+
+b. Leur capital social doit s'élever au minimum à 7.500.000 F entièrement versés. La dispense cessera de s'appliquer si les
+actions de la société n'ont pas été introduites à la cote officielle ou à la cote du second marché d'une bourse de valeurs
+avant l'expiration d'un délai de trois ans à compter de la date à partir de laquelle la société remplit les conditions
+requises pour en bénéficier.
+
+c. Lesdites sociétés ne peuvent posséder plus de 10 % des titres ou parts sociales, évalués à leur valeur nominale, ou du
+nombre des titres sans valeur nominale, émis par une même société, ni disposer de plus d'un dixième des droits de vote dans
+une même société, ni employer en titres d'une même société plus de 15 % du total des sommes placées et des sommes disponibles
+pour le placement. A cet égard, les placements sont évalués à leur prix de revient d'acquisition ou à leur valeur d'apport.
+
+Le ministre de l'économie et des finances et le ministre de l'industrie peuvent, par des décisions particulières prises
+conjointement, accorder des dérogations temporaires à l'application des pourcentages maximaux fixés à l'alinéa précédent.
+
+d. Elles doivent, dans les six mois suivant la clôture de chaque exercice, publier au bulletin des annonces légales
+obligatoires et insérer dans le rapport annuel du conseil d'administration la composition intégrale des valeurs de l'actif à
+la date de clôture de l'exercice avec l'indication du prix d'acquisition et, en outre, pour les valeurs du portefeuille, du
+cours du jour de l'inventaire. La publication au bulletin des annonces légales obligatoires doit comprendre également le
+bilan annuel et le compte de pertes et profits.
+
+e. Leurs administrateurs doivent être de nationalité française, ainsi que le directeur général. Il en est de même de toutes
+personnes ayant la signature sociale.
+
+f. Leurs statuts doivent prévoir que, dans les assemblées générales ordinaires ou extraordinaires, aucun actionnaire ne peut
+disposer, tant en son nom personnel que comme mandataire, d'un nombre de voix supérieur à 5 % du nombre total des voix
+attachées aux actions effectivement représentées à ladite assemblée.
+
+3. (Abrogé).
+
+(1) Annexe III, art. 46 bis et 46 ter.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1378 sexies
+  - CGI 206 6
+  - CGI 261 7 1°
+  - CGIAN3 46 bis
+  - CGIAN3 46 ter
+  - Code de la construction L411-1 ET S.
+  - Code de la construction L421-1
+  - Décret n°62-1025 1962-08-18
+  - Décret n°69-295 1969-03-24
+  - Loi n°83-657 1983-07-20
+  - Code de l'urbanisme - art. L300-4 (M)
+  - Code de l'urbanisme L321-1 AL. 1
+  - Loi n°1901-07-01
+
+_Modifié par_:
+
+  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Décret n°2013-1236 du 23 décembre 2013 (V)
+  - Décret n°2015-965 du 31 juillet 2015 (V)
+  - Décret n°2015-1763 du 24 décembre 2015 (V)
+  - Décret n°2016-935 du 7 juillet 2016 - art. 21 (V)
+  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 6 (V)
+  - Code général des impôts, CGI. - art. 1451 (V)
+  - Code général des impôts, CGI. - art. 1454 (V)
+  - Code général des impôts, CGI. - art. 1455 (V)
+  - Code général des impôts, CGI. - art. 1456 (V)
+  - Code général des impôts, CGI. - art. 1461 (VD)
+  - Code général des impôts, CGI. - art. 1468 (V)
+  - Code général des impôts, CGI. - art. 1654 (V)
+  - Code général des impôts, CGI. - art. 206 (V)
+  - Code général des impôts, CGI. - art. 210 E (M)
+  - Code général des impôts, CGI. - art. 214 (V)
+  - Code général des impôts, CGI. - art. 220 quinquies (V)
+  - Code général des impôts, CGI. - art. 237 bis A (V)
+  - Code général des impôts, CGI. - art. 244 quater C (V)
+  - Code général des impôts, CGI. - art. 279-0 bis A (VD)
+  - Code général des impôts, CGI. - art. 39 decies (V)
+  - Code rural - art. L666-9 (V)
+  - Code rural et  de la pêche maritime - art. L621-34 (T)
+
 
 ###### Article 208 B
 
@@ -40998,6 +41171,58 @@ _Cité par_:
 
 ##### 3° : Titres, sommes ou valeurs en dépôt. Sommes dues à raison du décès. Obligations des dépositaires ou débiteurs<a id=692></a>
 
+###### Article 806
+
+I. – Les administrations publiques, les établissements ou organismes quelconques soumis au contrôle de l'autorité
+administrative, les sociétés ou compagnies, sociétés de bourse, changeurs, banquiers, escompteurs, officiers publics ou
+ministériels ou agents d'affaires qui seraient dépositaires, détenteurs ou débiteurs de titres, sommes ou valeurs dépendant
+d'une succession qu'ils sauraient ouverte doivent adresser, soit avant le paiement, la remise ou le transfert, soit dans la
+quinzaine qui suit ces opérations, à la direction des services fiscaux du département de leur résidence, la liste de ces
+titres, sommes ou valeurs. Il en est donné récépissé.
+
+II. – Ces listes sont établies sur des formules imprimées, délivrées sans frais par le service des impôts.
+
+III. – Les sociétés, compagnies, caisses ou organismes d'assurances et tous autres assureurs français, ainsi que les
+établissements, agences et succursales en France des sociétés, compagnies, caisses, organismes ou assureurs étrangers, ne
+peuvent se libérer des sommes, rentes ou émoluments quelconques dus par eux, à raison ou à l'occasion du décès de l'assuré à
+tout bénéficiaire domicilié en France ou à l'étranger, si ce n'est sur la présentation d'un certificat délivré sans frais par
+le comptable des impôts et constatant soit l'acquittement, soit la non exigibilité de l'impôt de mutation par décès.
+
+Ils peuvent, toutefois, sur la demande écrite des bénéficiaires, établie sur papier non timbré, verser tout ou partie des
+sommes dues par eux en l'acquit des droits de mutation par décès, à la recette des impôts où doit être déposée la déclaration
+de succession.
+
+Les dispositions du présent paragraphe ne sont pas applicables lorsque l'ensemble des sommes, rentes ou émoluments
+quelconques dus par un ou plusieurs assureurs, à raison ou à l'occasion du décès de l'assuré, n'excèdent pas 50.000 F et
+reviennent au conjoint survivant ou à des successibles en ligne directe n'ayant pas à l'étranger un domicile de fait ou de
+droit. Cette mesure est subordonnée à la condition que le bénéficiaire de l'assurance dépose une demande écrite renfermant la
+déclaration que l'ensemble desdites indemnités n'excède pas 50.000 F.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1826 (V)
+  - Code général des impôts, CGI. - art. 753 (V)
+  - Code général des impôts, CGI. - art. 807 (M)
+  - Code général des impôts, CGI. - art. 808 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 292 B (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 306-0 F (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 280 A (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 807
 
 Les prescriptions des deux premiers alinéas du III de l'article 806 sont applicables aux administrations publiques, aux
@@ -43734,6 +43959,37 @@ _Abrogé par_:
   - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
 
 
+###### Article 914
+
+Le chèque ne peut être tiré que sur un établissement de crédit, une société de bourse, le caissier général de la caisse des
+dépôts et consignations, les trésoriers-payeurs généraux ou les receveurs particuliers des finances, les établissements de
+crédit municipal et les caisses de crédit agricole.
+
+Les titres tirés et payables en France sous forme de chèques sur toute autre personne que celles visées à l'alinéa précédent
+ne sont pas valables comme chèques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+  - Décret n°97-661 1997-05-28
+
+**Liens**:
+
+  - DISJONCTION: Décret n°97-661 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
+  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 15 juillet 1988
+
+_Cite_:
+
+  - Loi n°1941-06-14 art. 1, art. 7
+
+_Modifié par_:
+
+  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+
 ###### Article 915
 
 En matière de timbre, toutes les dispositions législatives concernant les chèques tirés en France sont applicables aux
@@ -45060,6 +45316,46 @@ Le tarif de ce droit est fixé à 3 o/oo pour la fraction de chaque opération i
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 979
+
+Les sociétés de bourse sont seules chargées de la négociation des valeurs mobilières admises aux négociations par le conseil
+des bourses de valeurs mentionné à l'article 5 de la loi n° 88-70 du 22 janvier 1988 sur les bourses de valeurs. Elles sont
+seules chargées des cessions directes ou indirectes de valeurs mobilières, à l'exception :
+
+1° Des cessions effectuées entre deux personnes physiques ;
+
+2° Des cessions effectuées entre deux sociétés lorsque l'une d'elles possède au moins 20 p. 100 du capital de l'autre ;
+
+3° Des cessions effectuées entre une personne morale autre qu'une société et une société lorsque la personne morale possède
+au moins 20 p. 100 du capital de la société ;
+
+4° Des cessions effectuées entre sociétés d'assurances appartenant au même groupe ;
+
+5° Des cessions effectuées entre personnes morales et organismes de retraite ou de prévoyance dont elles assurent la
+gestion ;
+
+6° Des cessions qui, incluses dans une convention autre qu'une vente pure et simple, en constituent un élément nécessaire.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+_Modifié par_:
+
+  - Loi n°88-70 1988-01-22 art. 1, art. 27 JORF 23 janvier 1988
+  - Loi n°88-70 du 22 janvier 1988 - art. 27 (Ab) JORF 23 janvier 1988
+
+_Cite_:
+
+  - Loi n°88-70 1988-01-22 art. 5
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 980
@@ -66194,6 +66490,36 @@ _Codifié par_:
   - Décret n°88-1001 1988-10-20
 
 
+###### Article 1840 N bis
+
+Sans préjudice de la nullité édictée par l'article 1840 V, les auteurs de négociations et de cessions de valeurs mobilières
+effectuées en contravention des dispositions de l'article 979 sont passibles d'une amende fiscale égale au double de la
+valeur des titres. Cette amende est recouvrée et les instances sont introduites et jugées comme en matière d'enregistrement.
+
+**Nota:**
+
+NOTA : Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont applicables à compter de la date d'entrée
+en vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1840 V, 979
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+
+_Modifié par_:
+
+  - Loi n°88-70 1988-01-22 art. 2 JORF 23 janvier 1988
+
+_Abrogé par_:
+
+  - Loi - art. 27 (V) JORF 31 décembre 1998
+
+
 ###### Article 1840 N quater
 
 I. Sous réserve de l'application des pénalités prévues à l'article 1731 en cas de retard dans le paiement de la taxe
@@ -66556,6 +66882,37 @@ _Cite_:
 _Abrogé par_:
 
   - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
+
+
+###### Article 1840 V
+
+Sans préjudice de l'amende fiscale prévue à l'article 1840 N bis, les négociations et les cessions de valeurs mobilières
+effectuées en contravention des dispositions de l'article 979 sont nulles. Toutefois la nullité reste sans effet sur les
+impositions établies à raison des cessions.
+
+**Nota:**
+
+NOTA : Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont applicables à compter de la date d'entrée
+en vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1840 N bis, 979
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 31 mars 1999
+
+_Modifié par_:
+
+  - Loi n°88-70 1988-01-22 art. 2 JORF 23 janvier 1988
+
+_Abrogé par_:
+
+  - Loi - art. 27 (V) JORF 31 décembre 1998
 
 
 ## Chapitre III : Procédures<a id=1179></a>
@@ -68040,45 +68397,6 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 N bis
-
-Sans préjudice de la nullité édictée par l'article 1840 V pour les cessions de valeurs mobilières effectuées en contravention
-des dispositions de l'article 979, le vendeur est passible d'une amende fiscale égale à la valeur des titres. L'amende est
-recouvrée et les instances sont introduites et jugées comme en matière d'enregistrement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1840 V
-  - CGI 979
-
-_Modifié par_:
-
-  - Loi n°87-502 1987-07-08 art. 5 VI JORF 9 juillet 1987
-
-
-###### Article 1840 V
-
-Sans préjudice de l'amende fiscale prévue à l'article 1840 N bis, les cessions de valeurs mobilières effectuées en
-contravention des dispositions de l'article 979 sont nulles. Toutefois, la nullité reste sans effet sur les impositions
-établies à raison desdites cessions.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: "compartiment spécial du hors-cote" sont remplacés, dans toutes les dispositions législatives existantes, par les mots : "second marché" et après les mots : "cote officielle", sont insérés les mots : "ou à la cote du second marché" aux articles 200,
-  - HISTO: EDITION 1979-07-01
-  - SPEC_APPLI: Les mots :
-  - SPEC_APPLI: Loi n°83-1 du 3 janvier 1983 - art. 47, v. init.
-
-_Cite_:
-
-  - CGI 1840 N
-  - CGI 979
 
 
 ###### Article 1840 W bis
