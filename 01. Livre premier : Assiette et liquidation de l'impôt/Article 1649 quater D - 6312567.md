@@ -1,8 +1,8 @@
 # Article 1649 quater D
 
 I. La comptabilité des adhérents des centres de gestion doit être tenue, centralisée ou surveillée par un expert comptable,
-un comptable agréé ou une société membre de l'ordre qui vise les documents fiscaux après s'être assuré de leur régularité
-formelle et de leur concordance avec la comptabilité.
+un comptable agréé ou une société membre de l'ordre, qui vise les documents fiscaux après s'être assuré de leur régularité et
+avoir demandé tous renseignements utiles de nature à établir la concordance entre les résultats fiscaux et la comptabilité.
 
 II. Toutefois, les centres créés à l'initiative des organisations et organismes mentionnés à l'article 1649 quater C et dont
 l'activité concerne la comptabilité des exploitants agricoles imposés selon le régime du bénéfice réel sont admis, après
@@ -21,8 +21,9 @@ IV. Les centres de gestion agréés et habilités peuvent tenir ou centraliser, 
 documents comptables de leurs adhérents dont le chiffre d'affaires n'excède pas les limites du régime simplifié d'imposition.
 
 Ils peuvent également, dans les mêmes conditions, continuer de tenir ou de centraliser les documents comptables des
-entreprises adhérentes tant que le chiffre d'affaires réalisé par celles-ci n'excède pas une fois et demie ces limites. Les
-experts-comptables, les comptables agréés, les sociétés membres de l'ordre et les experts-comptables stagiaires autorisés
+entreprises adhérentes tant que le chiffre d'affaires réalisé par celles-ci n'excède pas une fois et demie ces limites.
+
+Les experts-comptables, les comptables agréés, les sociétés membres de l'ordre et les experts-comptables stagiaires autorisés
 exercent, sous leur responsabilité, une mission de surveillance sur chaque dossier et délivrent le visa mentionné au I, dans
 des conditions fixées par arrêté du ministre chargé du budget. Ils peuvent refuser d'accomplir cette formalité si leurs
 observations n'ont pas été suivies d'effet avant la clôture des comptes de l'exercice. Dans ce cas, l'administration fiscale
@@ -58,4 +59,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 18 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-936 du 29 décembre 1989 - art. 100 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990

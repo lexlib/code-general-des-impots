@@ -1,6 +1,6 @@
 # Article 1647 B sexies
 
-I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4,5 % de la valeur
+I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4 % de la valeur
 ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les modalités
 prévues aux II et III (1).
 
@@ -69,27 +69,12 @@ entre cet élément et le montant total des bases.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1449 2°
-  - CGI 1467 A
-  - CGI 1478
-  - CGI 1600
-  - CGI 1601
-  - CGI 1641
-  - Loi n°80-10 1980-01-10 ART. 7, ART. 33
-  - Loi n°80-10 du 10 janvier 1980 - art. 7 (V)
-
-_Modifié par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 31 (V) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-
 _Cité par_:
 
+  - Arrêté du 25 octobre 2006 - art. 1 (V)
   - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
   - Loi n°2005-781 du 13 juillet 2005 - art. 67 (VT)
   - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
-  - Arrêté du 25 octobre 2006 - art. 1 (V)
   - Décret n°2013-426 du 24 mai 2013 (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, CGI. - art. 1647 E (Ab)
@@ -104,3 +89,18 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C sexies (VD)
   - Livre des procédures fiscales - art. L135 B (VD)
   - Livre des procédures fiscales - art. R*190-1 (V)
+
+_Cite_:
+
+  - CGI 1449 2°
+  - CGI 1467 A
+  - CGI 1478
+  - CGI 1600
+  - CGI 1601
+  - CGI 1641
+  - Loi n°80-10 1980-01-10 ART. 7, ART. 33
+  - Loi n°80-10 du 10 janvier 1980 - art. 7 (V)
+
+_Modifié par_:
+
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 7

@@ -30,7 +30,14 @@ exonérées en application du 3° sexies de l'article 208 ;    6° Par les soci�
 proviennent de produits et plus-values nets exonérés en application du 3° septies de l'article 208.    7° Par les personnes
 morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le
 Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de produits nets
-exonérés en application de l'article 208 quinquies.
+exonérés en application de l'article 208 quinquies.    8° Par les sociétés qui, à la date de la distribution ainsi qu'à la
+clôture de l'exercice dont les résultats sont distribués, ont pour activité exclusive la gestion d'un portefeuille de titres
+de participations, ont deux tiers au moins de leur actif immobilisé composé de participations dans des sociétés dont le siège
+social est situé hors de France qui ouvrent droit au régime prévu aux articles 145 et 216 et retirent de ces participations
+deux tiers au moins de leur bénéfice comptable hors plus-values.
+
+Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces
+participations (Ces dispositions s'appliquent aux distributions effectuées à compter du 1er janvier 1990.
 
 (1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
 
@@ -38,13 +45,15 @@ exonérés en application de l'article 208 quinquies.
 
 _Cite_:
 
+  - CGI 145
   - CGI 158 bis
   - CGI 207 2
-  - CGI 208 1° ter quater, 1° ter, 1° quater, 1° quinquies, 3° quater, 3° quinquies, 3° sexies, 3° septies
+  - CGI 208 1° ter quater, 1° ter, 1° quater, 1° quinquies, 3° quinquies, 3° sexies, 3° septies
   - CGI 208 A
   - CGI 208 quinquies
   - CGI 209 quinquies
   - CGI 209 sexies
+  - CGI 216
   - CGI 219 I al. 2
   - CGI 220 quinquies I
   - CGIAN3 381 T
@@ -54,9 +63,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 74 () JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
-  - Loi n°88-1149 du 23 décembre 1988 - art. 75 (V) JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
+  - Loi n°89-936 1989-12-29 art. 28 I Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°89-801 1989-10-27
+  - SPEC_APPLI: Loi n°89-936 1989-12-29 art. 28 III, V Finances rectificative pour 1989
