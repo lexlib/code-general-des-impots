@@ -55,30 +55,29 @@ régime prévu aux articles 145 et 216 et retirent de ces participations deux ti
 plus-values.
 
 Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces
-participations.
+participations ;
+
+9° par les sociétés d'investissements immobiliers cotées et leurs filiales visées à l'article 208 C et prélevés sur les
+bénéfices exonérés en application du premier alinéa du II de cet article.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 209 quinquies, 223 H, 219, 158 bis, 220 quinquies I, 208 A, 207 2, 208 ter, 208, 208 quinquies
+  - CGI 209 quinquies, 223 H, 219, 158 bis, 220 quinquies I, 208 A, 207 2, 208 ter, 208, 208 quinquies, 208 C
   - Loi n°86-793 du 2 juillet 1986 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
-_Modifié par_:
-
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2003
   - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
   - TXT_ASSOCIE: Instruction 2001-03-21 4J-1-01
   - TXT_ASSOCIE: Instruction 2001-12-14 4J-2-01
   - TXT_ASSOCIE: Instruction 2002-01-03 4J-1-02
   - TXT_ASSOCIE: Instruction 2002-02-18 4J-2-02
   - TXT_ASSOCIE: Instruction 2002-10-11 4H-4-02
-  - SPEC_APPLI: Loi n°2000-1352 2000-12-30 art. 7 VII
+  - TXT_ASSOCIE: Instruction 2003-05-06 4J-3-03
+
+_Modifié par_:
+
+  - Loi - art. 11 () JORF 31 décembre 2002
