@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1972-12-17
+Version Consolidée au 1972-12-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 564 sexies à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 564 sexies à 1090 A)](#2)
