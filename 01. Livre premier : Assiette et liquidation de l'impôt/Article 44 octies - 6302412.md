@@ -27,6 +27,11 @@ du transfert, des dispositions de l'article 44 sexies dans les zones de revitali
 dans les zones de redynamisation urbaine définies aux I bis et I ter de l'article 1466 A, ou de la prime d'aménagement du
 territoire.
 
+Lorsqu'un contribuable dont l'activité, non sédentaire, est implantée dans une zone franche urbaine mais exercée en tout ou
+partie en dehors des zones franches urbaines, l'exonération s'applique si ce contribuable emploie au moins un salarié
+sédentaire à temps plein, ou équivalent, exerçant ses fonctions dans les locaux affectés à l'activité ou si ce contribuable
+réalise au moins 25 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines.
+
 II. Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux
 articles 50-0, 53 A, 96 à 100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions
 de droit commun :
@@ -57,7 +62,7 @@ Par exception aux dispositions du sixième alinéa, le contribuable exerçant un
 qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition s'applique,
 quel que soit le lieu d'établissement du bailleur.
 
-En aucun cas, le bénéfice exonéré ne peut excéder 61 000 euros par période de douze mois.
+En aucun cas, le bénéfice exonéré ne peut excéder 61 000 euros par contribuable et par période de douze mois.
 
 III. Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice
 exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article et au 4 de l'article 223 I.
@@ -87,29 +92,59 @@ janvier 2004 et le 31 décembre 2008 inclus dans les zones franches urbaines dé
 95-115 du 4 février 1995 précitée et dont la liste figure au I bis de l'annexe à la loi n° 96-987 du 14 novembre 1996
 précitée.
 
+Toutefois, pour bénéficier de l'exonération, l'entreprise doit répondre cumulativement aux conditions suivantes :
+
+a. Elle emploie moins de cinquante salariés et soit a réalisé un chiffre d'affaires inférieur à 7 millions d'euros au cours
+de l'exercice, soit a un total de bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005, les seuils de chiffre
+d'affaires et de total du bilan sont portés à 10 millions d'euros ;
+
+b. Son capital ou ses droits de vote ne sont pas détenus, directement ou indirectement, à hauteur de 25 % ou plus par une
+entreprise ou conjointement par plusieurs entreprises ne répondant pas aux conditions du a. Pour la détermination de ce
+pourcentage, les participations des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de
+développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne
+sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
+société en cause et ces dernières sociétés ou ces fonds ;
+
+c. Son activité principale, définie selon la nomenclature d'activités française de l'Institut national de la statistique et
+des études économiques, ne relève pas des secteurs de la construction automobile, de la construction navale, de la
+fabrication de fibres textiles artificielles ou synthétiques, de la sidérurgie ou des transports routiers de marchandises.
+
+Pour l'application du a et du b, le chiffre d'affaires doit être ramené ou porté le cas échéant à douze mois. L'effectif de
+l'entreprise est apprécié par référence au nombre moyen de salariés employés au cours de cet exercice. Pour la société mère
+d'un groupe mentionné à l'article 223 A, le chiffre d'affaires est apprécié en faisant la somme des chiffres d'affaires de
+chacune des sociétés membres de ce groupe.
+
 L'exonération s'applique à l'exercice ou la création d'activités résultant d'une reprise, d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes. Toutefois, lorsque celles-ci bénéficient ou ont bénéficié du régime prévu
 au présent article, l'exonération ne s'applique que pour sa durée restant à courir.
+
+Pour les contribuables qui exercent ou qui créent des activités dans les zones franches urbaines visées au présent VI avant
+le 1er janvier 2004, l'exonération s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission du
+12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 34, 35, 92, 44 sexies, 1465, 1466, 50-0, 53, 96 à 100, 102 ter, 103, 8, 1467, 223
+  - CGI 34, 35, 92, 44 sexies, 1465, 1466, 50-0, 53, 96 à 100, 102 ter, 103, 8, 1467, 223, 39
+  - Code monétaire et financier - art. L511-1 (V)
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
   - Loi n°96-987 1996-11-14 annexe
-  - Code monétaire et financier - art. L511-1 (V)
+
+_Modifié par_:
+
+  - Loi - art. 53 (V) JORF 31 décembre 2003
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 53 C
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2002-07-10 4A-6-02
   - TXT_ASSOCIE: Instruction 2002-07-26 4A-7-02
   - TXT_ASSOCIE: Instruction 2003-04-23 4A-6-03
 
 _Cité par_:
 
-  - Loi n°96-987 du 14 novembre 1996 - art. 12 (V)
   - Loi n°2006-1771 du 30 décembre 2006 - art. 130 (V)
   - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
@@ -136,7 +171,4 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 M (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 N (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 P (V)
-
-_Modifié par_:
-
-  - Loi n°2003-710 du 1 août 2003 - art. 26 () JORF 2 août 2003 rectificatif JORF 20 septembre 2003
+  - Loi n°96-987 du 14 novembre 1996 - art. 12 (V)
