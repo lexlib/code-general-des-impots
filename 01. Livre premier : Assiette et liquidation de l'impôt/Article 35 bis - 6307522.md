@@ -8,7 +8,7 @@ II. A compter du 1er janvier 1984, les personnes qui mettent de façon habituell
 pièces de leur habitation principale sont exonérées de l'impôt sur le revenu sur le produit de ces locations lorsque celui-ci
 n'excède pas 5.000 F par an.
 
-Cette exonération ne peut se cumuler avec les dispositions de l'article 52 ter.
+Cette exonération ne peut se cumuler avec les dispositions de l'article 50-0.
 
 III Les personnes qui concluent un contrat de location en meublé d'un logement, conforme aux normes minimales définies par
 décret en Conseil d'Etat (1), avec un organisme sans but lucratif qui met ce logement à la disposition de personnes
@@ -20,18 +20,16 @@ inférieur à un plafond fixé par décret (2).
 Ces dispositions sont également applicables aux loueurs non professionnels qui concluent un contrat de location ou de sous-
 location avec des bénéficiaires du revenu minimum d'insertion ou des étudiants bénéficiant d'une bourse à caractère social.
 
-((Les exonérations prévues au premier et au deuxième alinéa sont prorogées par périodes de trois ans si les conditions
-prévues aux premier et deuxième alinéas sont toujours remplies au début de chaque période. Il en est de même en cas de
-reconduction ou de renouvellement du contrat de location ou de sous-location)) (2').
+Les exonérations prévues au premier et au deuxième alinéa sont prorogées par périodes de trois ans si les conditions prévues
+aux premier et deuxième alinéas sont toujours remplies au début de chaque période. Il en est de même en cas de reconduction
+ou de renouvellement du contrat de location ou de sous-location.
 
 Les modalités d'agrément ainsi que le contenu des déclarations à souscrire par les personnes et organismes mentionnés au
 présent article sont fixés par décret (3).
 
 (1) Voir Annexe II, art. 74 T.
 
-(2) Voir Annexe III, art. 41 DC. [*Cf Instructions 1996-01-04 4F-1-96, 1996-12-19 4F-4-96, 1997-12-09 4F-2-97.*]
-
-(2') Modification.
+(2) Voir Annexe III, art. 41 DC.
 
 (3) Voir Annexe III, art. 41 DD à 41 DG.
 
@@ -39,23 +37,20 @@ présent article sont fixés par décret (3).
 
 _Cite_:
 
-  - CGI 52 ter
+  - CGI 50-0
   - CGIAN2 74 T
   - CGIAN3 41 DC, 41 DD à 41 DG
   - Loi n°90-449 1990-05-31 art. 1
 
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
-
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
-  - TXT_ASSOCIE: Instruction 1996-01-04 4F-1-96
-  - TXT_ASSOCIE: Instruction 1996-12-19 4F-4-96
+  - HISTO: Edition du 31 mars 1999
   - TXT_ASSOCIE: Instruction 1997-12-09 4F-2-97
   - TXT_ASSOCIE: Instruction 1998-04-10 4F-2-98
+  - TXT_ASSOCIE: Instruction 1998-12-17 4F-4-98
+  - TXT_ASSOCIE: Instruction 2000-11-23 4F-3-00
+  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV
 
 _Modifié par_:
 
-  - Loi n°94-624 du 21 juillet 1994 - art. 26 () JORF 24 juillet 1994
+  - Loi - art. 7 (V) JORF 31 décembre 1998

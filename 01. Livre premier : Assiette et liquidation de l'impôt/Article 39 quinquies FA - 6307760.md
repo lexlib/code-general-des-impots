@@ -2,26 +2,12 @@
 
 La base de calcul de l'amortissement des immobilisations acquises ou créées au moyen de primes de développement régional ou
 d'aménagement du territoire, d'orientation pour les entreprises de produits agricoles et alimentaires, d'installation et de
-développement artisanal, d'équipement dans les départements d'outre-mer, accordées au cours des années 1979 à ((1998)) (M),
-est majorée, pour la détermination du bénéfice imposable, de la moitié du montant de la prime.
+développement artisanal, d'équipement dans les départements d'outre-mer, accordées au cours des années antérieures à 2003 est
+majorée, pour la détermination du bénéfice imposable, de la moitié du montant de la prime.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article (1).
-
-(M) Modification.
-
-(1) Annexe II, art. 32 C.
-
-[*Cf. Instruction 1996-02-16 4D-1-96.*]
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 32 C
-
-_Modifié par_:
-
-  - Loi - art. 78 () JORF 31 décembre 1995
 
 _Cité par_:
 
@@ -30,5 +16,9 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
-  - TXT_ASSOCIE: Instruction 1996-02-16 4D-1-96
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1999-05-14 4D-1-99
+
+_Modifié par_:
+
+  - Loi - art. 97 () JORF 31 décembre 1998
