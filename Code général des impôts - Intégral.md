@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-12-30
+Version Consolidée au 1984-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -116,7 +116,7 @@ Version Consolidée au 1983-12-30
                   - [2° : Régime applicable du 1er janvier au 31 décembre 1982. (art. 163 quaterdecies)](#113)
                 - [Détaxation du revenu investi en actions (art. 163 quindecies)](#114)
                   - [Régime applicable aux contribuables nés avant le 1er janvier 1932. (art. 163 quindecies)](#115)
-              - [II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France (art. 164 C à 165 bis)](#116)
+              - [II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France (art. 164 A à 165 bis)](#116)
               - [III : Revenus de l'année de l'acquisition d'un domicile en France (art. 166)](#117)
               - [IV : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile hors de France (art. 167)](#118)
             - [2eme Sous-section : Revenu global (art. 160 bis à 164 B)](#119)
@@ -547,7 +547,7 @@ Version Consolidée au 1983-12-30
             - [VI : Mutations à titre gratuit (art. 750 ter à 808)](#544)
               - [A : Champ d'application des droits de mutation à titre gratuit (art. 750 ter à 757 B)](#545)
                 - [01 : Territorialité (art. 750 ter)](#546)
-                - [1 : Présomptions de propriété (art. 751 à 754 A)](#547)
+                - [1 : Présomptions de propriété (art. 751 à 754 B)](#547)
                 - [3 : Dons manuels (art. 757)](#548)
                 - [4 : Divorce - Versements en capital (art. 757 A)](#549)
                 - [5 : Sommes versées en vertu de contrats d'assurances en cas de décès (art. 757 B)](#550)
@@ -1009,10 +1009,9 @@ Version Consolidée au 1983-12-30
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1920 à 1925)](#1006)
       - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1926 à 1926 bis)](#1007)
       - [CONTRIBUTIONS INDIRECTES. (art. 1927)](#1008)
-      - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT. (art. 1929)](#1009)
-      - [DISPOSITIONS COMMUNES. (art. 1929 quater à 1929 ter)](#1010)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 1960 ter à 1960 bis)](#1011)
-      - [JURIDICTION CONTENTIEUSE. (art. 1960 A à 1960 bis)](#1012)
+      - [DISPOSITIONS COMMUNES. (art. 1929 quater à 1929 ter)](#1009)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 1960 ter à 1960 bis)](#1010)
+      - [JURIDICTION CONTENTIEUSE. (art. 1960 A à 1960 bis)](#1011)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -6666,6 +6665,27 @@ _Créé par_:
 
 ##### II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France<a id=116></a>
 
+###### Article 164 A
+
+Les revenus de source française des personnes qui n'ont pas leur domicile fiscal en France sont déterminés selon les règles
+applicables aux revenus de même nature perçus par les personnes qui ont leur domicile fiscal en France. Toutefois, aucune des
+charges déductibles du revenu global en application des dispositions du présent code ne peut être déduite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+**Liens**:
+
+  - HISTO: Edition du 10 août 1987
+
+_Modifié par_:
+
+  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
+
+
 ###### Article 164 C
 
 Les personnes qui n'ont pas leur domicile fiscal en France mais qui y disposent d'une ou plusieurs habitations, à quelque
@@ -8400,6 +8420,37 @@ _Cite_:
 _Cité par_:
 
   - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
+
+
+###### Article 210 ter
+
+Sous réserve des dispositions de l'article 207-1-4°, les sociétés et autres personnes morales sont exonérées de l'impôt sur
+les sociétés pour la fraction de leur bénéfice net qui correspond au revenu net provenant de la gestion des immeubles dont la
+construction a été commencée postérieurement au 31 mars 1950 [*date*] et qui ont fait l'objet d'un permis de construire
+délivré antérieurement à la publication de la loi n° 63-254 du 15 mars 1963. Cette exonération est accordée pendant la durée
+de l'exonération de quinze ans ou de vingt-cinq ans dont prévue à l'article 1385-II bis dont ces immeubles bénéficient en ce
+qui concerne la taxe foncière sur les propriétés bâties.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1385 II bis
+  - Loi n°63-254 1963-03-15
+
+_Modifié par_:
+
+  - Loi n°83-1179 du 29 décembre 1983 - art. 14 (V) JORF 30 décembre 1983 en vigueur le 1er janvier 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+  - Décret n°95-1281 1995-12-11
+
+**Liens**:
+
+  - PEREMPTION: Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 211
@@ -22494,6 +22545,43 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°81-866 1981-09-15
+
+
+###### Article 754 B
+
+I. Lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer l'application effective des dispositions du
+premier alinéa de l'article 1649 quater-0 A et des premier à quatrième alinéas du I de l'article 94, complété de la loi n°
+81-1160 du 30 30 décembre 1981, les gérants, le président du conseil d'administration ou du directoire de la société
+émettrice sont présumés, sauf preuve contraire, être les propriétaires des actions qui ne revêtiraient pas la forme
+nominative ou qui n'auraient pas été vendues dans les conditions prévues au I de l'article 94 précité.
+
+II. Lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer l'application effective des dispositions de
+l'article 1649 quater-0 B et du quatrième alinéa du II de l'article 94, de la loi n° 81-1160 du 30 décembre 1981, les
+gérants, le président du conseil d'administration ou du directoire des sociétés visées au deuxième alinéa de l'article 1649
+quater-0 B hors cote, sont présumés, sauf preuve contraire, être les propriétaires des valeurs mobilières non présentées pour
+inscription en compte ou qui n'auraient pas été vendues dans les conditions prévues au quatrième alinéa du II de l'article 94
+précité (1).
+
+(1) Voir renvoi sous l'article 1649 quater-0 B.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1649 quater-0 B
+  - Loi n°81-1160 1981-12-30 art. 94 I, II Finances pour 1982
+
+_Modifié par_:
+
+  - Loi n°83-1179 du 29 décembre 1983 - art. 111 () JORF 30 décembre 1983 en vigueur le 1er janvier 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 885 C (Ab)
 
 
 ##### 3 : Dons manuels<a id=548></a>
@@ -43614,76 +43702,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT.<a id=1009></a>
-
-###### Article 1929
-
-1. Pour les recouvrements confiés au service des impôts en vertu de la présente codification, l'Etat a, lorsque les
-dispositions prévues aux articles 1920, 1923 à 1928 et aux articles L 262 à L 265 du livre des procédures fiscales ne leur
-sont pas applicables, un privilège sur tous les meubles et effets mobiliers des redevables.
-
-Ce privilège s'exerce immédiatement après celui de l'impôt sur le chiffre d'affaires et des taxes instituées en remplacement
-de cet impôt.
-
-2. Indépendamment du privilège visé au 1, le Trésor dispose, pour le recouvrement des droits de mutation par décès, d'une
-hypothèque légale sur les immeubles de la succession qui prend rang du jour de son inscription à la conservation des
-hypothèques dans la forme et de la manière prescrite par la loi.
-
-3. Pour la garantie du paiement des droits complémentaires et supplémentaires éventuellement exigibles en vertu de l'article
-1840 G bis, le Trésor possède sur les immeubles du groupement forestier ou sur l'immeuble objet de la mutation une hypothèque
-légale qui prend rang du jour de son inscription à la conservation des hypothèques dans la forme et de la manière prescrite
-par la loi.
-
-4. Sont tenus solidairement au paiement de la taxe locale d'équipement :
-
-a. Les banques, établissements financiers ou sociétés de caution mutuelle qui sont garants de l'achèvement de la
-construction ;
-
-b. Les titulaires successifs de l'autorisation de construire ainsi que leurs ayants cause autres que les personnes qui ont
-acquis les droits sur l'immeuble à construire en vertu d'un contrat régi par le titre VI du livre II de la première partie du
-code de la construction et de l'habitation [*art. L.261-1 à L.261-22 et art. R.261-1 à R.261-33*] relatif aux ventes
-d'immeubles à construire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1840 G bis
-  - CGI 1920
-  - CGI 1923
-  - CGI 1924
-  - CGI 1925
-  - CGI 1926
-  - CGI 1927
-  - CGI 1928
-  - CGI L262
-  - CGI L263
-  - CGI L264
-  - CGI L265
-
-_Codifié par_:
-
-  - Décret n°82-881 1982-10-15
-
-_Modifié par_:
-
-  - Loi n°81-1179 du 31 décembre 1981 - art. 8 (P) JORF 1 JANVIER 1982
-
-_Cité par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
-  - Code de l'urbanisme - art. L331-27 (V)
-  - Code du patrimoine - art. L524-8 (V)
-  - Code du patrimoine. - art. L524-10 (Ab)
-  - Code général des impôts, CGI. - art. 1723 decies (Ab)
-  - Code général des impôts, CGI. - art. 1723 quater (VT)
-  - Code général des impôts, CGI. - art. 1723 ter-00 A (MMN)
-  - Code général des impôts, CGI. - art. 644 (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 406 ter (VT)
-
-
-### DISPOSITIONS COMMUNES.<a id=1010></a>
+### DISPOSITIONS COMMUNES.<a id=1009></a>
 
 ###### Article 1929 quater
 
@@ -43790,7 +43809,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1018 A (V)
 
 
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=1011></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=1010></a>
 
 ###### Article 1960 ter
 
@@ -43867,7 +43886,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### JURIDICTION CONTENTIEUSE.<a id=1012></a>
+### JURIDICTION CONTENTIEUSE.<a id=1011></a>
 
 ###### Article 1960 A
 
