@@ -9,8 +9,9 @@ de police et gendarmes, ainsi que par les agents des impôts, du contrôle et de
 fraudes.
 
 2  La justification exigée des personnes désignées au 1 consiste dans la production d'un titre, valable pour une année
-civile, délivré par le préfet ou le sous-préfet dans les conditions prévues par l'article 2 du décret n° 53-876 du 22
-septembre 1953 et par l'arrêté interministériel visé à l'article 3 de ce décret (1).
+civile, délivré par le commissaire de la République ou le commissaire adjoint de la République dans les conditions prévues
+par l'article 2 du décret n° 53-876 du 22 septembre 1953 et par l'arrêté interministériel visé à l'article 3 de ce décret
+(1).
 
 3  Le rattachement à une commune prévu pour toute personne qui sollicite la délivrance du titre de circulation institué par
 la loi n° 69-3 du 3 janvier 1969 relative à l'ensemble des activités ambulantes et au régime applicable aux personnes
@@ -30,10 +31,18 @@ _Cite_:
   - Décret n°53-876 1953-09-22 ART. 2, ART. 3
   - Loi n°69-3 1969-01-03
 
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Modifié par_:
+
+  - Décret n°82-389 1982-05-10 ART. 1, ART. 4 JORF 11 MAI 1982
+
+_Abrogé par_:
+
+  - Loi n°85-1403 du 30 décembre 1985 - art. 65 () JORF 31 décembre 1985 en vigueur le 1er janvier 1986
+
 _Cité par_:
 
   - Arrêté du 6 juin 2008 - art. 44 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
