@@ -14,6 +14,11 @@ premier alinéa est reportée dans les mêmes conditions que celles qui sont pr�
 disposition est également applicable aux échanges avec soulte lorsque celle-ci n'excède pas 10 p. 100 de la valeur nominale
 des titres reçus. Toutefois, la partie de la plus-value correspondant à la soulte reçue est imposée immédiatement (2).
 
+En cas de cession de titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur
+retrait au-delà de la huitième année, le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a cessé de
+bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter de l'article 157 et au IV de l'article 163 quinquies
+D.
+
 (1) Voir Annexe II, art. 74 A bis.
 
 (2) Voir Annexe III, art. 41 quatervicies à 41 sexvicies.
@@ -22,13 +27,17 @@ des titres reçus. Toutefois, la partie de la plus-value correspondant à la sou
 
 _Cite_:
 
-  - CGI 160 I ter
-  - CGI 92 C
+  - CGI 92 C, 160, 163 quinquies D, 157
   - CGIAN2 74 A bis
+  - CGIAN3 41 quatervicies à 41 sexvicies
 
 _Modifié par_:
 
-  - Loi n°91-716 du 26 juillet 1991 - art. 24 (V) JORF 27 juillet 1991
+  - Loi n°92-666 1992-07-16 art. 6 JORF 18 juillet 1992
+
+_Codifié par_:
+
+  - Décret n°93-1127 1993-09-24
 
 _Cité par_:
 
@@ -37,3 +46,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 150-0 D (V)
   - Code général des impôts, CGI. - art. 161 (V)
   - Code général des impôts, CGI. - art. 238 septies A (V)
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
