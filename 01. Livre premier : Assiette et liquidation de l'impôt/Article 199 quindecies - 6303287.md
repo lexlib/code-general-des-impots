@@ -2,41 +2,36 @@
 
 Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, les sommes versées par les
 contribuables à raison des dépenses nécessitées par l'hébergement dans un établissement de long séjour ou une section de cure
-médicale ouvrent droit à une réduction d'impôt égale à 25 p. 100 du montant des sommes versées, retenues dans la limite de 15
-000 F par personne hébergée.
+médicale ouvrent droit à une réduction d'impôt égale à 25 p. 100 du montant des sommes versées, retenues dans la limite de 2
+300 euros par personne hébergée.
 
 La réduction d'impôt prévue à l'alinéa précédent s'applique dans les mêmes conditions aux dépenses afférentes à la dépendance
 effectivement supportées à raison de l'accueil dans un établissement ayant conclu la convention pluriannuelle visée à
-l'article 5-1 de la loi n° 75-535 du 30 juin 1975 (2) relative aux institutions sociales et médico-sociales (1).
+l'article L. 312-8 du code de l'action sociale et des familles (1).
 
 Les personnes qui n'ont pas leur domicile fiscal en France au sens de l'article 4 B ne bénéficient pas de cette réduction
 d'impôt. Les dispositions du 5 du I de l'article 197 sont applicables.
 
 (1) Ces dispositions s'appliquent à compter de l'imposition des revenus de 2000.
 
-(2) Cette référence est remplacée par la référence à l'article L312-8 du code de l'action sociale et des familles à compter
-de l'entrée en vigueur de l'ordonnance relative à la partie Législative de ce code.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 4 B, 197
-  - Loi n°75-535 du 30 juin 1975 - art. 5-1 (M)
   - Code de l'action sociale et des familles - art. L312-8 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 2000-01-17 5B-6-00
-  - TXT_ASSOCIE: Instruction 2001-06-21 5B-13-01
-  - SPEC_APPLI: Loi n°2000-1353 2000-12-30 art. 20 II, III
-
-_Modifié par_:
-
-  - Loi - art. 20 (V) JORF 31 décembre 2000
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R441-1 (V)
   - Code général des impôts, CGI. - art. 200-0 A (VD)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 2000-01-17 5B-6-00
+  - TXT_ASSOCIE: Instruction 2001-06-21 5B-13-01
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
