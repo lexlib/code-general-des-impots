@@ -1,18 +1,18 @@
 # Article 1647 B sexies
 
-I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 3,5 % de la valeur
-ajoutée produite au cours de l'année au titre de laquelle l'imposition est établie ou au cours du dernier exercice de douze
-mois clos au cours de cette même année lorsque cet exercice ne coïncide pas avec l'année civile. La valeur ajoutée est
-définie selon les modalités prévues au II (1).
+I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est ((plafonnée en fonction)) (M) de
+la valeur ajoutée produite au cours de l'année au titre de laquelle l'imposition est établie ou au cours du dernier exercice
+de douze mois clos au cours de cette même année lorsque cet exercice ne coïncide pas avec l'année civile. La valeur ajoutée
+est définie selon les modalités prévues au II.
 
-Par dérogation, pour les impositions établies au titre des années 1995 à 1998, le taux prévu au premier alinéa est porté à
-3,8 p. 100 pour les entreprises dont le chiffre d'affaires de l'année au titre de laquelle le plafonnement est demandé est
-compris entre 140 millions de francs et 500 millions de francs, et à 4 p. 100 pour celles dont le chiffre d'affaires excède
-cette dernière limite.
+((Pour les impositions établies au titre de 1999 et des années suivantes, le taux de plafonnement est fixé à 3,5 % pour les
+entreprises dont le chiffre d'affaires de l'année au titre de laquelle le plafonnement est demandé est inférieur à 140
+millions de francs, à 3,8 % pour celles dont le chiffre d'affaires est compris entre 140 millions de francs et 500 millions
+de francs et à 4 % pour celles dont le chiffre d'affaires excède cette dernière limite (M). 
 
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de
-l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet, ((à l'exception du dégrèvement prévu à
-l'article 1647 C)) (M).
+l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet, à l'exception du dégrèvement prévu à
+l'article 1647 C.
 
 Il ne s'applique pas aux taxes visées aux articles 1600 et 1601 ni aux prélèvements opérés par l'Etat sur ces taxes en
 application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
@@ -70,16 +70,18 @@ Et, d'autre part, les achats de matières et marchandises, droits de douane comp
 au début de l'exercice.
 
 Les consommations de biens et services en provenance de tiers comprennent : les travaux, fournitures et services extérieurs,
-à l'exception des loyers afférents aux biens pris en crédit-bail, les frais de transports et déplacements, les frais divers
-de gestion.    Les loyers ou toute somme qui en tient lieu, afférents à des biens visés au a du 1° de l'article 1467, sont
-exclus des consommations de biens et services en provenance de tiers, déterminées conformément au deuxième alinéa, de
-l'entreprise qui les verse lorsque ce versement est effectué au profit de personnes qui la contrôlent directement ou
-indirectement ou d'entreprises que ces personnes contrôlent directement ou indirectement ou au profit de personnes qu'elle
-contrôle directement ou indirectement.
+à l'exception des loyers afférents aux biens pris en crédit-bail, ((ou des loyers afférents à des biens, visés au a du 1° de
+l'article 1467, pris en location par un assujetti à la taxe professionnelle pour une durée de plus de six mois ou des
+redevances afférentes à ces biens résultant d'une convention de location-gérance,)) (M) les frais de transports et
+déplacements, les frais divers de gestion.
 
-Lorsqu'en application du deuxième ou troisième alinéa , les loyers sont exclus des consommations de biens et services en
+((Lorsqu'en application du deuxième alinéa sont exclus des consommations de biens et services en provenance de tiers les
+loyers ou redevances que verse le preneur, les amortissements visés au 2° du 1 de l'article 39, autres que ceux comptabilisés
+en amortissements dérogatoires et se rapportant aux biens loués, sont déduits de la valeur ajoutée du bailleur)) (M).
+
+Lorsqu'en application du deuxième ou troisième alinéa, les loyers sont exclus des consommations de biens et services en
 provenance de tiers du contribuable qui les verse, les provisions et les amortissements se rapportant aux biens loués sont
-déduits de la valeur ajoutée du bailleur .
+déduits de la valeur ajoutée du bailleur.
 
 3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs
 mobilières est égale à la différence entre :
@@ -100,8 +102,9 @@ Et, d'autre part, les prestations ; les réductions et ristournes de primes ; le
 
 Les consommations intermédiaires comprennent également les commissions versées aux courtiers, agents et autres mandataires.
 
-5. En ce qui concerne les contribuables soumis à un régime forfaitaire d'imposition, la valeur ajoutée est égale à 80 % de la
-différence entre le montant des recettes et, le cas échéant, celui des achats corrigés de la variation des stocks.
+((5. En ce qui concerne les contribuables soumis à un régime d'imposition défini au 1 de l'article 50-0 ou à l'article 102
+ter, la valeur ajoutée est égale à 80 % de la différence entre le montant des recettes et, le cas échéant, celui des achats))
+(M).
 
 6. Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'application du présent paragraphe.
 
@@ -111,14 +114,9 @@ IV. Les dégrèvements résultant de l'application du présent article sont ordo
 de la demande.
 
 V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour les
-impositions établies au titre de 1994 (2) et 500 millions de francs au titre de 1995.
-
-(1) Taux applicable pour les impositions établies au titre de 1991 et des années suivantes. Pour 1990 le taux était de 4 % et
-4,5 % pour 1989.
+impositions établies au titre de 1994 et 500 millions de francs au titre de 1995.
 
 (M) Modification.
-
-(2).
 
 **Liens relatifs à cet article**
 
@@ -149,12 +147,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 20 () JORF 30 décembre 1997
+  - Loi - art. 2 () JORF 31 décembre 1998
+  - Loi - art. 7 (V) JORF 31 décembre 1998
+  - Loi n°98-1266 1998-12-30 art. 7 II 37, art. 44 A VII 1, 2, 3 a b c Finances pour 1999 JORF 31 décembre 1998
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1994-02-08 6E-2-94
-  - TXT_ASSOCIE: Instruction 1996-11-12 6E-7-96
+  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV
+  - HISTO: Edition du 31 mars 1999
   - TXT_ASSOCIE: Instruction 1997-07-31 6E-14-97
   - TXT_ASSOCIE: Instruction 1998-02-12 6E-4-98
+
+_Codifié par_:
+
+  - Décret n°99-382 1999-05-18
