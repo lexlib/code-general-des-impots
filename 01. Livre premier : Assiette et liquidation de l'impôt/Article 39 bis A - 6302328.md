@@ -43,7 +43,7 @@ Les sommes déduites en application du 1 et affectées à l'acquisition d'élém
 par parts égales, au bénéfice imposable de l'exercice au cours duquel ces éléments sont acquis et des quatre exercices
 suivants.
 
-7. Sans préjudice de l'application des dispositions du dixième alinéa du 5° du 1 de l'article 39, les provisions non
+7. Sans préjudice de l'application des dispositions du treizième alinéa du 5° du 1 de l'article 39, les provisions non
 utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux
 bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant égal au produit de ces provisions par le taux de
 l'intérêt de retard prévu au troisième alinéa de l'article 1727, appliqué dans les conditions mentionnées à l'article 1727 A.
@@ -56,7 +56,8 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 22 avril 1998
+  - TXT_ASSOCIE: Instruction 1998-09-23 4E-4-98
 
 _Cité par_:
 
@@ -70,10 +71,10 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G-0 bis (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 octies (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 118 () JORF 31 décembre 1996
+  - Loi - art. 6 () JORF 31 décembre 1997
 
 _Codifié par_:
 
-  - Décret n°97-661 1997-05-28
+  - Décret n°98-400 1998-05-22

@@ -13,11 +13,11 @@ montant fixé à :
 
 25 000 F pour les personnes morales dont le chiffre d'affaires est compris entre 10 000 000 F et 50 000 000 F ;
 
-35 000 F pour les personnes morales dont le chiffre d'affaires est compris entre 50 000 000 F et 100 000 000 F ;
+((50 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est compris entre 50 000 000 F et 100 000 000 F ;
 
-50 000 F pour les personnes morales dont le chiffre d'affaires est compris entre 100 000 000 F et 500 000 000 F ;
+((75 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est compris entre 100 000 000 F et 500 000 000 F ;
 
-100 000 F pour les personnes morales dont le chiffre d'affaires est égal ou supérieur à 500 000 000 F.
+((150 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est égal ou supérieur à 500 000 000 F.
 
 Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaires, tous droits et taxes compris, du dernier
 exercice clos.
@@ -31,6 +31,8 @@ premières années d'activité, exonérées de cette imposition.
 Les sociétés en liquidation judiciaire sont exonérées de l'imposition forfaitaire annuelle pour la période postérieure au
 jugement déclaratif de liquidation.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -39,7 +41,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 44 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi - art. 32 () JORF 31 décembre 1997
 
 _Cité par_:
 
@@ -54,4 +56,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 22 avril 1998
+  - TXT_ASSOCIE: Instruction 1998-01-14 4L-1-98
