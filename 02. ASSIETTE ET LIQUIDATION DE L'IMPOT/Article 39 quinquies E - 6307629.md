@@ -2,19 +2,27 @@
 
 Les entreprises qui construisent ou font construire des immeubles destinés à l'épuration des eaux industrielles, en
 conformité des dispositions de la loi n° 64-1245 du 16 décembre 1964, peuvent pratiquer, dès achèvement de ces constructions,
-un amortissement exceptionnel égal à 50 % [*pourcentage*] de leur prix de revient.
+un amortissement exceptionnel égal à 50 % [*taux*] de leur prix de revient.
 
 La valeur résiduelle des immeubles est amortissable sur leur durée normale d'utilisation.
 
-Les dispositions du présent article s'appliquent aux constructions achevées avant le 1er janvier 1976. Elles sont reconduites
-pour les constructions achevées avant le 31 décembre 1980 [*date limite*], à la condition que ces dernières s'incorporent à
-des installations de production existant au 1er janvier 1976.
+Les dispositions du présent article s'appliquent aux constructions achevées avant le 1er janvier 1976 [*date*]. Elles sont
+reconduites pour les constructions achevées avant le 31 décembre 1981, à la condition que ces dernières s'incorporent à des
+installations de production existant au 1er janvier 1976.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°64-1245 1964-12-16
+
+_Modifié par_:
+
+  - Loi n°80-1094 du 30 décembre 1980 - art. 57 (P) JORF 31 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 _Cité par_:
 
@@ -23,7 +31,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1518 A (V)
   - Code général des impôts, CGI. - art. 39 quinquies FC (V)
   - Livre des procédures fiscales - art. L80 B (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
