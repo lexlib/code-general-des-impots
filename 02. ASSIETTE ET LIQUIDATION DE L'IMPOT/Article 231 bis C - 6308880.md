@@ -1,11 +1,15 @@
 # Article 231 bis C
 
-1  Dans la mesure où elles sont admises en déduction des bénéfices imposables de l'entreprise versante, en vertu de l'article
+1. Dans la mesure où elles sont admises en déduction des bénéfices imposables de l'entreprise versante, en vertu de l'article
 39 undecies, les participations versées en espèces aux travailleurs en application d'un contrat d'intéressement ou
 d'association sont exonérées de la taxe sur les salaires prévue à l'article 231.
 
-2  L'attribution gratuite par une société d'actions ou parts sociales de son capital à l'ensemble de son personnel, dans les
+2. L'attribution gratuite par une société d'actions ou parts sociales de son capital à l'ensemble de son personnel, dans les
 conditions prévues à l'article 220 bis, est également exonérée de la taxe sur les salaires.
+
+3. Les sommes correspondant aux actions distribuées aux salariés en application de la loi n° 80-834 du 24 octobre 1980 créant
+une distribution d'actions en faveur des salariés des entreprises industrielles et commerciales sont exonérées de la taxe sur
+les salaires.
 
 **Liens relatifs à cet article**
 
@@ -14,7 +18,12 @@ _Cite_:
   - CGI 220 bis
   - CGI 231
   - CGI 39 undecies
+  - Loi n°80-834 1980-10-24
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°80-834 1980-10-24 ART. 12 JORF 25 OCTOBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
