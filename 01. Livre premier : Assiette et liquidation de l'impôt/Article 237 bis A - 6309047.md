@@ -66,11 +66,11 @@ développement.
 La provision visée au cinquième alinéa du 1 peut également être utilisée au titre des dépenses de formation prévues à
 l'article L. 444-1 du code du travail.
 
-5. Lorsqu'un accord est conclu au sein d'un groupe de sociétés et aboutit à dégager une réserve globale de participation, la
-provision pour investissement est constituée par chacune des sociétés intéressées dans la limite de sa contribution effective
-à la participation globale. Toutefois, chacune de ces sociétés peut, sur autorisation du ministre chargé des finances,
-transférer tout ou partie de son droit à constitution de ladite provision à l'une des autres sociétés du groupe dont il
-s'agit, ou à plusieurs d'entre elles.
+5. Lorsqu'un accord est conclu au sein d'un groupe de sociétés soumis au régime défini aux articles 223 A et suivants et
+aboutit à dégager une réserve globale de participation, la provision pour investissement est constituée par chacune des
+sociétés intéressées dans la limite de sa contribution effective à la participation globale. Toutefois, chacune de ces
+sociétés peut transférer tout ou partie de son droit à constitution de ladite provision à l'une des autres sociétés du groupe
+dont il s'agit, ou à plusieurs d'entre elles.
 
 6. Lorsqu'un plan d'épargne pour la retraite collectif défini à l'article L. 443-1-2 du code du travail est créé par un
 accord de groupe prévu par l'article L. 444-3 du même code, la provision pour investissement est constituée par chacune des
@@ -85,7 +85,7 @@ le 23 octobre 1986.
 
 _Cite_:
 
-  - CGI 207
+  - CGI 207, 223 A
   - Loi n°78-763 du 19 juillet 1978 - art. 25 (V)
   - Loi n°2001-152 2001-02-19
   - Code monétaire et financier - art. L214-39 (M)
@@ -96,16 +96,20 @@ _Cite_:
   - Code du travail - art. L444-1 (M)
   - Code du travail - art. L444-3 (M)
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
 _Modifié par_:
 
-  - Loi - art. 82 (V) JORF 31 décembre 2003
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 20 () JORF 27 mars 2004
+
+_Codifié par_:
+
+  - Décret n°2004-304 2004-03-26
 
 _Cité par_:
 
   - Décret n°2014-1758 du 31 décembre 2014 (V)
   - Code du travail - art. D3325-5 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
