@@ -7,7 +7,9 @@ réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de
 A compter du 1er janvier 1992, les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent,
 pour la première fois, l'effectif de dix salariés restent soumis pour l'année en cours et les deux suivantes à l'obligation
 visée à l'article L. 952-1. Le montant de leur participation en qualité d'employeurs occupant au moins dix salariés est
-réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de 25 p. 100 la sixième année.
+réduit de 75 p. 100, 50 p. 100 et 25 p. 100, respectivement au titre de chacune des trois années suivantes. Les employeurs
+soumis en 1996 à l'obligation visée à l'article 235 ter KA en application du présent alinéa conservent le bénéfice de cet
+avantage jusqu'au 31 décembre 1999.
 
 Les dispositions qui précèdent ne sont pas applicables lorsque l'accroissement de l'effectif résulte de la reprise ou de
 l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes.
@@ -19,12 +21,18 @@ l'année au cours de laquelle l'effectif de dix salariés est atteint ou dépass
 
 _Cite_:
 
-  - CGI 235 ter D, 235 ter H bis
+  - CGI 235 ter KA, 235 ter D, 235 ter H bis
+
+**Liens**:
+
+  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 1er janvier 2006
+  - TXT_ASSOCIE: Instruction 1996-07-16 5L-5-96
 
 _Modifié par_:
 
-  - Loi n°91-1405 du 31 décembre 1991 - art. 30 (V) JORF 4 janvier 1992
+  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 11 I, II JORF 13 avril 1996
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°92-836 1992-08-27
+  - Ordonnance n°2005-895 du 2 août 2005 - art. 3 (V) JORF 3 août 2005
