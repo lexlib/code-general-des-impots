@@ -1,6 +1,6 @@
 # Article 1647 B sexies
 
-I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4 % [*pourcentage*]
+I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 3,5 % [*pourcentage*]
 de la valeur ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les
 modalités prévues aux II et III (1).
 
@@ -64,17 +64,23 @@ pour les autres établissements entre ces éléments et le montant total des bas
 l'année de la création, ajusté pour correspondre à une année pleine, par le rapport constaté pour les autres établissements
 entre cet élément et le montant total des bases.
 
-(1) Taux applicable pour les impositions établies au titre de 1989 et des années suivantes. Précédemment le taux était de 5
+(1) Taux applicable pour les impositions établies au titre de 1991 et des années suivantes. Précédemment le taux était de 4
 %.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 1449 2°, 1467 A, 1478, 1600, 1601, 1641
+  - Loi n°80-10 1980-01-10 ART. 7, ART. 33
+  - Loi n°80-10 du 10 janvier 1980 - art. 7 (V)
+
 _Cité par_:
 
-  - Arrêté du 25 octobre 2006 - art. 1 (V)
   - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
   - Loi n°2005-781 du 13 juillet 2005 - art. 67 (VT)
   - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+  - Arrêté du 25 octobre 2006 - art. 1 (V)
   - Décret n°2013-426 du 24 mai 2013 (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, CGI. - art. 1647 E (Ab)
@@ -90,17 +96,10 @@ _Cité par_:
   - Livre des procédures fiscales - art. L135 B (VT)
   - Livre des procédures fiscales - art. R*190-1 (V)
 
-_Cite_:
-
-  - CGI 1449 2°
-  - CGI 1467 A
-  - CGI 1478
-  - CGI 1600
-  - CGI 1601
-  - CGI 1641
-  - Loi n°80-10 1980-01-10 ART. 7, ART. 33
-  - Loi n°80-10 du 10 janvier 1980 - art. 7 (V)
-
 _Modifié par_:
 
-  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 7
+  - Loi - art. 5 () JORF 30 décembre 1990
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
