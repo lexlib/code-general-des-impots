@@ -94,16 +94,18 @@ précitée.
 
 Toutefois, pour bénéficier de l'exonération, l'entreprise doit répondre cumulativement aux conditions suivantes :
 
-a. Elle emploie moins de cinquante salariés et soit a réalisé un chiffre d'affaires inférieur à 7 millions d'euros au cours
-de l'exercice, soit a un total de bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005, les seuils de chiffre
-d'affaires et de total du bilan sont portés à 10 millions d'euros ;
+a. Elle emploie au plus cinquante salariés au 1er janvier 2004 ou à la date de sa création ou de son implantation si elle est
+postérieure et soit a réalisé un chiffre d'affaires inférieur à 7 millions d'euros au cours de l'exercice, soit a un total de
+bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005, les seuils de chiffre d'affaires et de total du bilan
+sont portés à 10 millions d'euros ;
 
 b. Son capital ou ses droits de vote ne sont pas détenus, directement ou indirectement, à hauteur de 25 % ou plus par une
-entreprise ou conjointement par plusieurs entreprises ne répondant pas aux conditions du a. Pour la détermination de ce
-pourcentage, les participations des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de
-développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne
-sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
-société en cause et ces dernières sociétés ou ces fonds ;
+entreprise ou conjointement par plusieurs entreprises dont l'effectif salarié dépasse 250 salariés et dont le chiffre
+d'affaires annuel hors taxes excède 50 millions d'euros ou le total du bilan annuel excède 43 millions d'euros. Pour la
+détermination de ce pourcentage, les participations des sociétés de capital-risque, des fonds communs de placement à risques,
+des sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles
+d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12
+de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ;
 
 c. Son activité principale, définie selon la nomenclature d'activités française de l'Institut national de la statistique et
 des études économiques, ne relève pas des secteurs de la construction automobile, de la construction navale, de la
@@ -126,18 +128,14 @@ le 1er janvier 2004, l'exonération s'applique dans les limites prévues par le 
 
 _Cite_:
 
-  - CGI 34, 35, 92, 44 sexies, 1465, 1466, 50-0, 53, 96 à 100, 102 ter, 103, 8, 1467, 223, 39
+  - Code général des impôts, CGI 34, 35, 92, 44 sexies, 1465, 1466, 50-0, 53, 96 à 100, 102 ter, 103, 8, 1467, 223, 39
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
   - Loi n°96-987 1996-11-14 annexe
   - Code monétaire et financier - art. L511-1 (V)
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2002-07-10 4A-6-02
-  - TXT_ASSOCIE: Instruction 2002-07-26 4A-7-02
-  - TXT_ASSOCIE: Instruction 2003-04-23 4A-6-03
-  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 53 C
+  - HISTO: Edition du 1er janvier 2005
 
 _Cité par_:
 
@@ -172,4 +170,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 53 (V) JORF 31 décembre 2003
+  - Loi n°2005-32 du 18 janvier 2005 - art. 141 () JORF 19 janvier 2005

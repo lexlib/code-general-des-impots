@@ -1,7 +1,7 @@
 # Article 199 ter A
 
-Les porteurs de parts d'un fonds commun de placement (1) peuvent effectuer l'imputation de tout ou partie des crédits
-d'impôts et avoirs fiscaux attachés aux produits des actifs compris dans ce fonds.
+Les porteurs de parts d'un fonds commun de placement peuvent effectuer l'imputation de tout ou partie des crédits d'impôts
+attachés aux produits des actifs compris dans ce fonds.
 
 Pour chaque année, le gérant du fonds calcule la somme totale à l'imputation de laquelle les produits encaissés par le fonds
 donnent droit.
@@ -14,28 +14,15 @@ sa quote-part des mêmes produits.
 Le montant à imputer est ajouté pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés au revenu net perçu
 par les porteurs de parts.
 
-Un décret adapte les dispositions du présent code relatives à la restitution des sommes correspondant aux crédits d'impôt et
-aux avoirs fiscaux qui n'ont pu être imputés (2).
-
-(1) Loi n° 79-594 du 13 juillet 1979.
-
-(2) Annexe III, art. 41 sexdecies C à 41 sexdecies F.
+Un décret adapte les dispositions du présent code relatives à la restitution des sommes correspondant aux crédits d'impôt qui
+n'ont pu être imputés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGIAN3 41 sexdecies C à 41 sexdecies F
-  - Loi n°79-594 1979-07-13
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
 **Liens**:
 
-  - HISTO: Edition du 10 juillet 1983
+  - HISTO: Edition du 1er janvier 2005
 
 _Modifié par_:
 
-  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 janvier 1983
+  - Loi - art. 93 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005

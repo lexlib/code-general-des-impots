@@ -5,7 +5,7 @@ le tribunal en application des articles L. 621-83 et suivants du code de commerc
 les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments
 d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités
 prévues à l'article 53 A. Le montant de cette exonération est déterminé dans les conditions prévues par les dispositions des
-II à IX du présent article.
+II à IX.
 
 Cette exonération peut être également accordée lorsque la procédure de redressement judiciaire n'est pas mise en oeuvre, ou
 lorsque la reprise concerne des branches complètes et autonomes d'activité industrielle et est effectuée dans le cadre de
@@ -79,10 +79,10 @@ petites entreprises.
 les projets industriels peuvent bénéficier de l'exonération prévue au I dans les conditions prévues au II. Dans ce cas, le
 montant du bénéfice exonéré ne peut dépasser les limites fixées au 1 du II majorées de 28 points de pourcentage.
 
-4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ci-dessus ne peut dépasser 42 000 000 Euros.
+4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ne peut dépasser 42 000 000 Euros.
 
 Par ailleurs, lorsque les coûts éligibles sont égaux ou supérieurs à 25 000 000 Euros, le bénéfice exonéré ne peut dépasser
-50 % des limites déterminées en application des 2 et 3 ci-dessus.
+50 % des limites déterminées en application des 2 et 3.
 
 IV. - Pour l'application du III, est considérée comme moyenne entreprise une société qui répond cumulativement aux conditions
 suivantes :
@@ -170,9 +170,13 @@ _Cite_:
   - Règlement CE 69-2001 2001-01-12
   - Règlement CE 70-2001 2001-01-12
 
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
+
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Cité par_:
 
@@ -199,3 +203,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZU (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies F (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

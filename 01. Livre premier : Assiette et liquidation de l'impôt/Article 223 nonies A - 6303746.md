@@ -7,7 +7,7 @@ annuelle prévue à l'article 223 septies.
 participent à un projet de recherche et de développement mentionné au I de l'article 24 de la loi de finances pour 2005 (n°
 2004-1484 du 30 décembre 2004), et dont le siège social ainsi que l'ensemble de l'activité et des moyens d'exploitation
 afférents à ce projet sont implantés dans une zone de recherche et de développement telle que mentionnée au I de l'article 24
-de la loi de finances pour 2005 précitée et qui bénéficient du régime prévu à l'article 44 undecies.
+précité et qui bénéficient du régime prévu à l'article 44 undecies.
 
 3. L'entreprise mentionnée au 1 est redevable de l'imposition forfaitaire annuelle prévue à l'article 223 septies le 1er
 janvier de l'année suivant celle au cours de laquelle elle ne satisfait plus à l'une des conditions requises pour bénéficier
@@ -29,10 +29,18 @@ _Cite_:
   - CGI 44 sexies-0 A, 223 septies, 44 undecies
   - Loi n°2004-1484 2004-12-30 art. 24 Finances pour 2005
 
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
+
 _Modifié par_:
 
-  - Loi n°2004-1484 2004-12-30 art. 24 II E Finances pour 2005 JORF 31 décembre 2004
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005
