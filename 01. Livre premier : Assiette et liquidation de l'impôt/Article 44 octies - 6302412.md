@@ -7,8 +7,13 @@ implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celu
 contribuables qui y exercent déjà leur activité ou, dans le cas contraire, celui de leur début d'activité dans l'une de ces
 zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80 % de
 leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de
-douze mois suivant cette période d'exonération. La date de délimitation des zones franches urbaines visée au présent article
-est réputée correspondre, dans tous les cas, au 1er janvier 1997.
+douze mois suivant cette période d'exonération. Cependant pour les entreprises de moins de cinq salariés, ces bénéfices sont
+soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils
+sont réalisés respectivement au cours des cinq premières, de la sixième et septième ou de la huitième et neuvième périodes de
+douze mois suivant cette période d'exonération. L'effectif salarié s'apprécie au cours de la dernière période d'imposition au
+titre de laquelle l'exonération au taux de 100 % s'applique. Les salariés saisonniers ou à temps incomplet sont pris en
+compte au prorata de la durée du temps de travail prévue à leur contrat. La date de délimitation des zones franches urbaines
+visée au présent article est réputée correspondre, dans tous les cas, au 1er janvier 1997.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
@@ -67,6 +72,16 @@ d'activité. L'option est irrévocable.
 
 IV. Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
+V. - Les dispositions des I à IV sont applicables aux contribuables qui créent des activités entre le 1er janvier 2002 et le
+31 décembre 2007 dans les zones franches urbaines visées au premier alinéa du I. Toutefois, pour les contribuables qui créent
+des activités dans ces zones en 2002, le point de départ de la période d'application des allégements est fixé au 1er janvier
+2003.
+
+L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
+ou d'une restructuration d'activités préexistantes exercées dans les zones franches urbaines ou qui reprennent de telles
+activités, sauf pour la durée restant à courir, si l'activité reprise ou transférée bénéficie ou a bénéficié du régime
+d'exonération prévu au présent article.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -107,20 +122,12 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 N (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 P (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2002-07-10 4A-6-02
-  - TXT_ASSOCIE: Instruction 2002-07-26 4A-7-02
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 17 (V) JORF 29 décembre 2001
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Loi - art. 79 (V) JORF 31 décembre 2002
+  - Loi n°2002-1576 2002-12-30 art. 79 II 1°, V Finances rectificative pour 2002 JORF 31 décembre 2002
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2002-923 2002-06-06
+  - TXT_ASSOCIE: Instruction 2002-07-10 4A-6-02
+  - TXT_ASSOCIE: Instruction 2002-07-26 4A-7-02
