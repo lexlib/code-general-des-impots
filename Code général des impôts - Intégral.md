@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-07-10
+Version Consolidée au 1983-07-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -839,9 +839,9 @@ Version Consolidée au 1983-07-10
         - [Chapitre IV : Dispositions communes (art. 1635 ter)](#836)
       - [Titre V : Dispositions communes aux Titres I à III bis (art. 1635 quinquies à 1649)](#837)
         - [Chapitre 0I : Champ d'application (art. 1635 quinquies)](#838)
-        - [Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales (art. 1636 B nonies à 1639 B)](#839)
-          - [Section I : Dispositions générales (art. 1636 B nonies à 1636 B septies)](#840)
-          - [Section II : Dispositions particulières (art. 1639 B)](#841)
+        - [Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales (art. 1636 B decies à 1639 B)](#839)
+          - [Section I : Dispositions générales (art. 1636 B decies à 1636 B septies)](#840)
+          - [Section II : Dispositions particulières (art. 1638 bis à 1639 B)](#841)
         - [Chapitre II : Frais d'assiette, de non-valeurs et de recouvrement (art. 1644)](#842)
           - [Section I : Taxes établies et recouvrées comme en matière de contributions directes au profit des collectivités locales et organismes divers (art. 1644)](#843)
         - [Chapitre II bis : Dégrèvements de taxe professionnelle (art. 1647 bis à 1647 B septies)](#844)
@@ -26747,15 +26747,19 @@ II. Elles peuvent, en outre, instituer les taxes suivantes :
 3° Taxe de balayage, lorsqu'elles assurent le balayage de la superficie des voies livrées à la circulation publique qui
 incombe aux propriétaires riverains.
 
+III. Les communes membres d'une communauté ou d'un syndicat d'agglomération nouvelle visés à l'article 1609 nonies B
+perçoivent le produit des taxes foncières, de la taxe d'habitation et des autres droits et taxes, à l'exclusion de la taxe
+professionnelle, conformément aux dispositions applicables aux communes.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1609 nonies B
 
 _Modifié par_:
 
-  - Loi n°80-10 du 10 janvier 1980 - art. 28 (V) JORF 11 JANVIER 1980
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
+  - Loi n°83-636 1983-07-13 art. 25 JORF 14 juillet 1983
 
 _Cité par_:
 
@@ -31101,6 +31105,56 @@ _Cite_:
 
 ##### Section I : Dispositions générales<a id=840></a>
 
+###### Article 1636 B decies
+
+I. – Les communes membres d'une communauté ou d'un syndicat d'agglomération nouvelle visés à l'article 1609 nonies B votent
+les taux des taxes foncières, de la taxe d'habitation, à l'exclusion de la taxe professionnelle, conformément aux
+dispositions applicables aux communes.
+
+II. – La communauté ou le syndicat d'agglomération nouvelle visés à l'article 1609 nonies B vote le taux de la taxe
+professionnelle dans les limites définies aux troisième et quatrième alinéas du I de l'article 1636 B sexies et à l'article
+1636 B septies.
+
+Pour l'application des troisième et quatrième alinéas du I de l'article 1636 B sexies précité :
+
+1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté dans l'ensemble des communes membres de la
+communauté ou du syndicat d'agglomération nouvelle ;
+
+2° Le taux moyen pondéré de la taxe d'habitation et des taxes foncières est égal à la somme des taux moyens constatés pour
+chacune de ces taxes dans l'ensemble des communes membres de la communauté ou du syndicat d'agglomération nouvelle, pondérés
+par l'importance relative des bases de ces trois taxes pour l'année visée au 3° ;
+
+3° La variation des taux définis aux 1° et 2° est celle constatée l'année précédant celle au titre de laquelle la communauté
+ou le syndicat d'agglomération nouvelle vote son taux de taxe professionnelle. A titre transitoire, elle est calculée, la
+première année d'application des dispositions du présent paragraphe, à partir des taux de la taxe d'habitation et des taxes
+foncières votés les deux années précédentes par le syndicat communautaire d'aménagement auquel la communauté ou le syndicat
+d'agglomération nouvelle s'est substitué.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1609 nonies B, 1636 B sexies I, 1636 B septies
+
+_Créé par_:
+
+  - Loi n°83-636 1983-07-13 art. 26, art. 25 JORF 14 juillet 1983
+
+_Cité par_:
+
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 39 (V)
+  - Loi n°2015-991 du 7 août 2015 - art. 59
+  - Code général des impôts, CGI. - art. 1407 ter (V)
+  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+  - Code général des impôts, CGI. - art. 1609 quinquies C (V)
+  - Code général des impôts, CGI. - art. 1636 B sexies (V)
+  - Code général des impôts, CGI. - art. 1638 quater (V)
+  - Code général des impôts, CGI. - art. 1638-0 bis (V)
+  - Code général des impôts, CGI. - art. 1640 C (V)
+  - Code général des impôts, CGI. - art. 1656 (V)
+  - Code général des impôts, CGI. - art. 1656 bis (V)
+
+
 ###### Article 1636 B nonies
 
 Dans les communautés urbaines et les districts à fiscalité propre, les conseils délibérants peuvent décider, à la majorité
@@ -31169,6 +31223,41 @@ _Codifié par_:
 
 
 ##### Section II : Dispositions particulières<a id=841></a>
+
+###### Article 1638 bis
+
+I. Chaque commune membre d'une communauté ou d'un syndicat d'agglomération nouvelle visés à l'article 1609 nonies B peut
+décider d'appliquer la procédure d'intégration fiscale progressive prévue à l'article 1638, afin de réduire les écarts de
+taux de taxe d'habitation ou de l'une des taxes foncières constatés l'année précédant la constitution de la communauté ou du
+nouveau syndicat entre la zone d'agglomération nouvelle et la portion de son territoire située hors de cette zone.
+
+Toutefois, cette procédure doit être précédée d'une homogénéisation des abattements pratiqués en matière de calcul de la taxe
+d'habitation.
+
+Par dérogation aux dispositions de l'article 1638, des taux d'imposition différents peuvent être appliqués pour
+l'établissement des dix premiers budgets. Les différences qui affectent les taux d'imposition appliqués sont réduites chaque
+année d'un onzième et supprimées à partir de la onzième année.
+
+II. La communauté ou le syndicat d'agglomération nouvelle visés à l'article 1609 nonies B peut décider de réduire
+progressivement les écarts de taux de taxe professionnelle constatés l'année précédant la mise en application de l'article
+1609 nonies B entre d'une part, le taux pratiqué en zone d'agglomération nouvelle et les taux des territoires des communes
+membres situés hors zone d'agglomération nouvelle et, d'autre part, le taux moyen pondéré de référence qui aurait été
+applicable à l'organisme d'agglomération nouvelle compte tenu notamment des dotations de référence visées à l'article 27 de
+la loi n° 83-636 du 13 juillet 1983. Cette réduction des écarts de taux s'effectue à raison d'un onzième par année pendant
+dix ans. Dans ce cas les dispositions de l'article 1638 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1609 nonies B
+  - CGI 1638
+  - Loi n°83-636 1983-07-13 art. 27
+
+_Créé par_:
+
+  - Loi n°83-636 du 13 juillet 1983 - art. 30 (Ab) JORF 14 juillet 1983
+
 
 ###### Article 1639 B
 
