@@ -2,13 +2,13 @@
 
 I. - Le remboursement forfaitaire institué par l'article 298 quater bénéficie :
 
-a Aux exploitants agricoles qui vendent des animaux de boucherie et de charcuterie définis par décret (1), soit à une
+a) Aux exploitants agricoles qui vendent des animaux de boucherie et de charcuterie définis par décret (1), soit à une
 personne redevable de la taxe sur la valeur ajoutée au titre de ces mêmes animaux, soit, en vue de l'abattage, à une personne
-redevable de la taxe sur la valeur ajoutée au titre de la vente des viandes provenant des animaux susvisés, soit à
-l'exportation ;
-
-b Aux exploitants agricoles qui vendent les mêmes animaux à des exploitants agricoles bénéficiaires du remboursement
-forfaitaire en vertu des dispositions du a.
+redevable de la taxe sur la valeur ajoutée au titre de la vente des viandes provenant des animaux susvisés, soit à des
+personnes morales non assujetties qui réalisent des acquisitions intracommunautaires imposables dans l'Etat membre de la
+Communauté économique européenne où arrive le bien expédié ou transporté, soit à l'exportation ; b) Aux exploitants agricoles
+qui vendent les mêmes animaux à des exploitants agricoles bénéficiaires du remboursement forfaitaire en vertu des
+dispositions du a.
 
 II. - Le remboursement forfaitaire alloué au revendeur est liquidé sur la différence entre le prix de vente et le prix
 d'achat de l'animal vivant.
@@ -25,16 +25,16 @@ Le montant global du remboursement forfaitaire alloué au vendeur et au revendeu
 vivants réalisées par le revendeur;
 
 Dans la limite de ces ventes, celui-ci délivre à ses fournisseurs des attestations concernant les achats d'animaux effectués
-au cours de la même année ou au cours de l'année précédente ;
+au cours de la même année ou au cours de l'année précédente;
 
 Le remboursement forfaitaire est versé aux fournisseurs sur la base des attestations qu'ils ont reçues; il est versé au
 revendeur sur la différence entre le montant de ses ventes et celui des attestations qu'il a délivrées.
 
-1) Annexe III, art. 65 A.
+(1) Annexe III, art. 65 A.
 
-2) Annexe II, art. 267 ter.
+(2) Annexe II, art. 267 ter.
 
-3) Annexe II, art. 267 bis-7.
+(3) Annexe II, art. 267 bis-7.
 
 **Liens relatifs à cet article**
 
@@ -45,6 +45,11 @@ _Cite_:
   - CGIAN2 267 ter
   - CGIAN3 65 A
 
+_Modifié par_:
+
+  - Loi n°92-677 du 17 juillet 1992 - art. 41 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
+
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 256 bis (V)
@@ -53,7 +58,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 302 bis MB (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 96 O (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 98 bis (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01

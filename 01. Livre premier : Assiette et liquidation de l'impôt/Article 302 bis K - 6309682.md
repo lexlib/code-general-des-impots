@@ -6,7 +6,7 @@ par les entreprises de transport public aérien. Elle est ajoutée aux prix dema
 La taxe est exigible pour chaque vol commercial. Elle est assise sur le nombre de passagers embarquant en France selon le
 tarif suivant :
 
-15 F par passager embarqué à destination d'un territoire étranger ;
+17 F par passager embarqué à destination d'un territoire étranger ;
 
 10 F par passager embarqué vers d'autres destinations.
 
@@ -49,12 +49,21 @@ jugées comme pour les taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi - art. 55 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
+
 _Cité par_:
 
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
   - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
   - Arrêté du 22 février 2013 (V)
   - Arrêté du 25 mars 2014 (V)
   - Arrêté du 25 mars 2014 - art. 1 (V)
+  - Décret n°2017-640 du 26 avril 2017 (V)
   - Arrêté du 6 juin 2017 (Ab)
   - Arrêté du 6 juin 2017 (V)
   - Arrêté du 6 juin 2017 - art. 1 (Ab)
@@ -66,10 +75,6 @@ _Cité par_:
   - Arrêté du 17 septembre 2018 - art. 4 (V)
   - Arrêté du 23 mars 2020 (V)
   - Arrêté du 23 mars 2020 - art. 1
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
-  - Décret n°2017-640 du 26 avril 2017 (V)
   - Code général des impôts, CGI. - art. 1609 quatervicies (VD)
   - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
   - Code général des impôts, CGI. - art. 1647 (M)
@@ -80,8 +85,3 @@ _Cité par_:
 _Cite_:
 
   - CGI 1729, 1728
-
-_Modifié par_:
-
-  - Loi - art. 54 () JORF 31 décembre 1991
-  - Modification directe incorporée dans l'édition du 4 juillet 1992

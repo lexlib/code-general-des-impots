@@ -14,6 +14,10 @@ Des programmes d'information, des débats d'actualité et des émissions sportiv
 
 De tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
 
+Toutefois, dans la limite de 20 p. 100 des financements annuels visés à l'article 238 bis HE, l'agrément prévu au même
+article peut être délivré aux oeuvres de coproduction réalisées dans une langue du pays du coproducteur majoritaire établi
+dans un Etat membre de la Communauté économique européenne.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -23,13 +27,10 @@ _Cite_:
   - Loi n°75-1278 1975-12-30 art. 12 finances pour 1976
   - Loi n°83-1179 1983-12-29 art. 61 finances pour 1984
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - Loi - art. 123 (V) JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
