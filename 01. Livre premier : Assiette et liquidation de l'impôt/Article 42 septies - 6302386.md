@@ -13,11 +13,12 @@ pratiquée à la clôture de l'exercice concerné sur le prix de revient de cett
 Les subventions affectées à la création ou à l'acquisition d'une immobilisation non amortissable sont rapportées par
 fractions égales au bénéfice imposable des années pendant lesquelles cette immobilisation est inaliénable aux termes du
 contrat accordant la subvention ou, à défaut de clause d'inaliénabilité, au bénéfice des dix années suivant celle de
-l'attribution de la subvention)) ;
+l'attribution de la subvention ;
 
-La subvention attribuée par l'intermédiaire d'une entreprise de crédit-bail est répartie, par parts égales, sur les exercices
-clos au cours de la période couverte par le contrat de crédit-bail, à la condition que la décision accordant cette subvention
-prévoie son reversement immédiat au crédit-preneur.
+Lorsque la subvention est attribuée au crédit-preneur directement ou lorsqu'elle l'est par l'intermédiaire d'une entreprise
+de crédit-bail et que la décision accordant cette subvention prévoit son reversement immédiat au crédit-preneur, cette
+dernière est répartie, par parts égales, sur les exercices clos au cours de la période couverte par le contrat de crédit-
+bail.
 
 En cas de cession des immobilisations visées aux deuxième et troisième alinéas, la fraction de la subvention non encore
 rapportée aux bases de l'impôt est comprise dans le bénéfice imposable de l'exercice au cours duquel cette cession est
@@ -26,14 +27,12 @@ l'article 210 A, sur option exercée dans l'acte d'apport ou le traité de fusio
 de la société bénéficiaire de l'apport, par parts égales, sur la période mentionnée au troisième alinéa restant à courir à la
 date de cette opération pour les biens non amortissables, et sur la durée d'amortissement pour les biens amortissables. En
 cas de cession ultérieure des biens en cause, la fraction de la subvention non encore rapportée au résultat imposable de la
-société bénéficiaire de l'apport sera comprise dans son bénéfice imposable de l'exercice de cession (1). Ces dispositions
+société bénéficiaire de l'apport sera comprise dans son bénéfice imposable de l'exercice de cession. Ces dispositions
 s'appliquent en cas de cession ou de résiliation d'un contrat de crédit-bail ; la période mentionnée à la deuxième phrase
 s'entend alors de celle restant à courir à la date de l'opération concernée jusqu'à l'échéance de ce contrat.
 
 2 Les dispositions du 1 sont applicables aux subventions d'équipement versées à leurs adhérents par les groupements
 professionnels agréés prévus par le décret n° 55-877 du 30 juin 1955.
-
-(1) Ces dispositions s'appliquent aux apports réalisés à compter du 1er janvier 1997.
 
 **Liens relatifs à cet article**
 
@@ -54,15 +53,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 33 (V) JORF 30 décembre 1997
-
-_Codifié par_:
-
-  - Décret n°98-400 1998-05-22
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 17 () JORF 27 mars 2004
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1995-04-25 4A-4-95
-  - TXT_ASSOCIE: Instruction 1997-04-23 4A-8-97
-  - TXT_ASSOCIE: Instruction 1998-04-10 4A-6-98
+  - HISTO: Edition du 1er janvier 2004
