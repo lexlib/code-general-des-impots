@@ -6,10 +6,35 @@ réels, des bénéfices industriels ou commerciaux ou des bénéfices non commer
 considérés notamment pour l'application des articles 38, 72 et 93, comme des éléments d'actif affectés à l'exercice de la
 profession.
 
-II. En cas de transmission à titre gratuit à une personne physique de droits sociaux considérés, en application du I, comme
-des éléments d'actif affectés à l'exercice de la profession, la plus-value n'est pas immédiatement imposée si le bénéficiaire
-de la transmission prend l'engagement de calculer la plus-value réalisée à l'occasion de la cession ou de la transmission
-ultérieure de ces droits par rapport à leur valeur d'acquisition par le précédent associé.
+II. - 1. En cas de transmission à titre gratuit à une personne physique de droits sociaux considérés, en application du I,
+comme des éléments d'actif affectés à l'exercice de la profession, l'imposition de la plus-value constatée peut faire l'objet
+d'un report jusqu'à la date de cession, de rachat, d'annulation ou de transmission ultérieure de ces droits.
+
+L'imposition de cette plus-value est effectuée à la date à laquelle il est mis fin au report au nom du ou des bénéficiaires
+de la transmission des droits sociaux.
+
+Lorsqu'un des événements mettant fin au report d'imposition cités au premier alinéa survient, l'imposition de la plus-value
+est effectuée au nom du bénéficiaire de la transmission.
+
+En cas de nouvelle transmission à titre gratuit par l'un des bénéficiaires de la transmission visée au premier alinéa, le
+report est maintenu si le bénéficiaire de la nouvelle transmission prend l'engagement d'acquitter l'impôt sur la plus-value à
+la date où l'un des événements cités au premier alinéa survient. A défaut, l'imposition de la plus-value afférente aux droits
+transmis est effectuée au nom du donateur ou du défunt.
+
+Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de la date de la transmission à titre gratuit visée au
+premier alinéa, la plus-value en report est définitivement exonérée.
+
+2. Le régime défini au 1 s'applique sur option exercée par le ou les bénéficiaires lors de l'acceptation de la transmission
+par ces derniers.
+
+Le ou les bénéficiaires ayant opté pour le régime défini au 1 communiquent à l'administration un état faisant apparaître le
+montant des plus-values réalisées lors de la transmission et dont l'imposition est reportée conformément au 1.
+
+Le ou les bénéficiaires mentionnés au premier alinéa du présent 2 doivent joindre à la déclaration prévue à l'article 170 au
+titre de l'année en cours à la date de la transmission et des années suivantes un état faisant apparaître les renseignements
+nécessaires au suivi des plus-values dont l'imposition est reportée conformément au 1.
+
+3. Un décret précise le contenu des obligations déclaratives mentionnées au 2.
 
 III. En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au paragraphe I ou de sa transformation en
 société passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou
@@ -23,13 +48,11 @@ IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activ
 value constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou
 d'annulation de ces parts. Ce report est maintenu dans les conditions prévues au paragraphe III.
 
-Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janvier 1989.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 8, 8 ter, 38, 72, 93
+  - CGI 8, 8 ter, 38, 72, 93, 170
 
 _Cité par_:
 
@@ -46,10 +69,11 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A ter (V)
 
-_Modifié par_:
-
-  - Loi n°89-935 1989-12-29 art. 27 IV Finances pour 1990 JORF 30 décembre 1989, Edition du 15 juin 1990
-
 **Liens**:
 
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2003-03-20 4F-3-03
+
+_Modifié par_:
+
+  - Loi - art. 52 () JORF 31 décembre 2003
