@@ -1,6 +1,6 @@
 # Article 238 septies B
 
-I - Quand la prime de remboursement prévue à l'émission ou lors de l'acquisition originelle du droit excède 10 p. 100 du
+I Quand la prime de remboursement prévue à l'émission ou lors de l'acquisition originelle du droit excède 10 p. 100 du
 nominal ou du prix d'acquisition de ce droit, ou encore quand le contrat d'émission d'un emprunt obligataire prévoit une
 capitalisation partielle ou totale des intérêts, la prime ou l'intérêt sont imposés après une répartition par annuités.
 
@@ -13,12 +13,12 @@ montant des intérêts perçus et non encore imposés, et le cas échéant de la
 Ces règles ne s'appliquent pas aux titres émis par l'Etat dont le porteur à la possibilité d'obtenir la conversion dans les
 trois ans suivant l'émission.
 
-II - Les primes de remboursement ou intérêts mentionnés au I, afférents aux titres et droits détenus par les sociétés
-d'investissement à capital variable (SICAV) et fonds communs de placement, sont, pour le calcul de l'impôt, réputés
-distribués, chaque année entre les actionnaires ou porteurs de parts pour un montant défini selon les modalités prévues à ce
-I.
+II (Abrogé pour les exercices clos à compter du 29 septembre 1989. Ancienne rédaction : Les primes de remboursement ou
+intérêts mentionnés au I, afférents aux titres et droits détenus par les sociétés d'investissement à capital variable (SICAV)
+et fonds communs de placement, sont, pour le calcul de l'impôt, réputés distribués, chaque année entre les actionnaires ou
+porteurs de parts pour un montant défini selon les modalités prévues à ce I).
 
-III - Les dispositions du présent article ne s'appliquent qu'aux titres émis à compter du 1er juin 1985 [*date*].
+III Les dispositions des I et II ne s'appliquent qu'aux titres émis à compter du 1er juin 1985 [*date*].
 
 IV 1. Pour les emprunts ou titres ainsi que pour les opérations de démembrement visés au II de l'article 238 septies A, la
 prime de remboursement et les intérêts versés chaque année sont imposés après une répartition par annuités quand la prime
@@ -48,10 +48,6 @@ d'imposition, correspond à celle qui est prévue pour le remboursement.
 personne chez laquelle le titre ou le droit est déposé ou inscrit en compte, ou, dans les autres cas, par le débiteur sur le
 compte approvisionné par le contribuable à cet effet (1).
 
-**Nota:**
-
-NOTA : Le II est abrogé pour les exercices clos à compter du 29 septembre 1989.
-
 (1) Ces dispositions sont applicables à un emprunt qui fait l'objet d'émissions successives et d'une cotation en bourse
 unique si une partie de cet emprunt a été émise après le 1er janvier 1992.
 
@@ -65,9 +61,9 @@ _Modifié par_:
 
   - Loi - art. 57 (V) JORF 31 décembre 1991
 
-**Liens**:
+_Codifié par_:
 
-  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 57 VII
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
