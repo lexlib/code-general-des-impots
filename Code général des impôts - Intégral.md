@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1991-01-01
+Version Consolidée au 1991-01-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -1136,7 +1136,7 @@ Version Consolidée au 1991-01-01
           - [Section II : Fonds nationaux de péréquation (art. 1648 D)](#1133)
             - [Sous-section II : Fonds national de péréquation. (art. 1648 D)](#1134)
         - [Chapitre III : Fonds de péréquation de la taxe professionnelle (art. 1648 A à 1648 B bis)](#1135)
-          - [Section I : Fonds départementaux de péréquation de la taxe professionnelle. (art. 1648 A)](#1136)
+          - [Section I : Fonds départementaux de péréquation de la taxe professionnelle. (art. 1648 A à 1648 AA)](#1136)
           - [Section II : Fonds national de péréquation de la taxe professionnelle. (art. 1648 A bis à 1648 B bis)](#1137)
         - [Chapitre IV : Départements d'outre-mer (art. 1649 à 1649-0)](#1138)
     - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 1649 A à 1656)](#1139)
@@ -12864,22 +12864,24 @@ I. Les plus-values soumises au régime des articles 39 duodecies à 39 quindecie
 l'occasion de l'apport à une société de l'ensemble des éléments de l'actif immobilisé affectés à l'exercice d'une activité
 professionnelle peuvent bénéficier des dispositions suivantes :
 
-- L'imposition des plus-values afférentes aux immobilisations non amortissables fait l'objet d'un report jusqu'à la date de
-la cession à titre onéreux ou du rachat des droits sociaux reçus en rémunération de l'apport de l'entreprise ou jusqu'à la
+L'imposition des plus-values afférentes aux immobilisations non amortissables fait l'objet d'un report jusqu'à la date de la
+cession à titre onéreux ou du rachat des droits sociaux reçus en rémunération de l'apport de l'entreprise ou jusqu'à la
 cession de ces immobilisations par la société si elle est antérieure. En cas de transmission à titre gratuit à une personne
 physique des droits sociaux rémunérant l'apport, le report d'imposition est maintenu si le bénéficiaire de la transmission
 prend l'engagement d'acquitter l'impôt sur la plus-value à la date où l'un des événements prévus à la phrase précédente se
 réalise ;
 
-- L'imposition des plus-values afférentes aux autres immobilisations est effectuée au nom de la société bénéficiaire de
-l'apport selon les modalités prévues au d du 3 de l'article 210 A pour les fusions de sociétés.    Sous les conditions fixées
-au a du 3 de l'article 210 A, les provisions afférentes aux éléments transférés ne sont rapportées au résultat imposable de
-l'entreprise apporteuse que si elles deviennent sans objet.    Ces dispositions sont applicables à l'apport à une société,
-par un exploitant individuel, de l'ensemble des éléments de l'actif immobilisé à l'exception des immeubles, si les immeubles
-sont immédiatement donnés à bail rural dans les conditions visées au 2° de l'article 743 du code général des impôts à la
-société bénéficiaire de l'apport.
+L'imposition des plus-values afférentes aux autres immobilisations est effectuée au nom de la société bénéficiaire de
+l'apport selon les modalités prévues au d du 3 de l'article 210 A pour les fusions de sociétés.
 
-La résiliation du bail avant son terme entraîne l'établissement de l'impôt sur les plus-values afférentes aux éléments
+Sous les conditions fixées au a du 3 de l'article 210 A, les provisions afférentes aux éléments transférés ne sont rapportées
+au résultat imposable de l'entreprise apporteuse que si elles deviennent sans objet.
+
+Ces dispositions sont applicables à l'apport à une société, par un exploitant individuel, de l'ensemble des éléments de
+l'actif immobilisé à l'exception des immeubles, si les immeubles sont immédiatement donnés à bail rural dans les conditions
+visées au 2° de l'article 743 du code général des impôts à la société bénéficiaire de l'apport.
+
+La résiliation du bail avant son terme entraîne l'établissement d l'impôt sur les plus-values afférentes aux éléments
 amortissables, au nom de la société bénéficiaire de l'apport au titre de l'exercice au cours duquel l'apport est intervenu.
 
 Les articles 1728 et 1729 s'appliquent. Le résultat de l'exercice suivant est diminué le cas échéant de la fraction de la
@@ -12906,7 +12908,11 @@ III. Les dispositions des I et II ci-dessus s'appliquent aux plus-values constat
 réalisés à compter du 1er avril 1981 [*date, point de départ*] ; les dispositions des articles 41 et 93 quater-II cessent
 d'être applicables à ces plus-values à compter de la même date.
 
-(1) Voir Annexe IV, art. 170 septies B et 170 octies.
+IV. Les dispositions des I et II ci-dessus s'appliquent aux plus-values dégagées à raison des éléments d'actif immobilisé
+apportés dans le cadre d'une fusion par des sociétés civiles professionnelles ainsi qu'aux plus-values résultant pour les
+associés de ces sociétés de l'attribution qui leur est faite des parts de la société absorbante.
+
+(1) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art. 170 septies B et 170 octies.
 
 **Liens relatifs à cet article**
 
@@ -12926,12 +12932,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 33 () JORF 28 décembre 1988
-  - Loi n°89-936 1989-12-29 art. 16 Finances rectificative pour 1989 JORF 30 décembre 1989
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
+  - Loi n°90-1258 1990-12-31 art. 31, art. 33 JORF 5 janvier 1991
+  - Loi n°90-1258 du 31 décembre 1990 - art. 31 () JORF 5 janvier 1991
 
 _Cité par_:
 
@@ -12962,6 +12964,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 809 (V)
   - Code général des impôts, CGI. - art. 93 quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
 
 
 ##### 1 sexies : Contribuables exerçant leur activité professionnelle dans le cadre d'une société de personnes<a id=119></a>
@@ -70101,6 +70107,110 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°90-798 1990-09-10
+
+
+###### Article 1648 AA
+
+I. La taxe professionnelle afférente aux magasins de commerce de détail qui sont créés ou qui font l'objet d'une extension en
+exécution d'autorisations délivrées à compter du 1er janvier 1991 en application des dispositions des 1°, 2° et 3° de
+l'article 29 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat est soumise à une
+répartition intercommunale dans les conditions définies aux II, III et IV du présent article. Cette répartition ne s'applique
+qu'aux établissements dont l'autorisation au titre de la loi n° 73-1193 du 27 décembre 1973 précitée et, s'il y a lieu, le
+permis de construire sont devenus définitifs.
+
+La répartition prévue au premier alinéa s'effectue entre les communes dont tout ou partie du territoire se trouve à une
+distance de 5 kilomètres d'un point quelconque de l'ensemble commercial. Cette distance est portée à 10 kilomètres lorsque la
+surface de vente des magasins concernés est égale ou supérieure à 5 000 mètres carrés.
+
+Les dispositions des deux alinéas précédents ne sont applicables ni dans les départements dont la densité de population
+excède 1 000 habitants au kilomètre carré, ni aux magasins d'une surface de vente inférieure à 5 000 mètres carrés lorsqu'ils
+sont situés en tout ou partie dans une commune de plus de 40 000 habitants ou dans un canton d'une densité de population
+supérieure à 400 habitants au kilomètre carré.
+
+II. Les bases communales de taxe professionnelle correspondant aux créations et extensions d'établissements résultant soit
+d'une construction nouvelle, soit de la transformation d'un immeuble déjà existant sont, après application s'il y a lieu des
+dispositions des premier et troisième alinéas du I de l'article 1648 A taxées directement, à concurrence de 80 p. 100 de leur
+montant, au profit du fonds départemental de la taxe professionnelle prévu au premier alinéa du I du même article, selon le
+taux communal de taxe professionnelle.
+
+Lorsque les communes bénéficiaires au titre du I ci-dessus sont situées dans des départements distincts, les sommes perçues
+selon les modalités prévues au précédent alinéa sont réparties entre les fonds de chacun des départements concernés en
+proportion de la population de ces mêmes communes.
+
+Le pourcentage fixé au premier alinéa du II s'applique :
+
+a) Dans le cas d'une création d'établissement, à la totalité des bases de l'établissement imposables au profit de la
+commune ;
+
+b) Dans le cas d'une extension d'établissement, à la fraction des bases d'imposition de l'ensemble de l'établissement qui
+correspond à l'augmentation de la surface de vente autorisée depuis le 1er janvier 1991.
+
+Les dispositions des alinéas qui précèdent ne peuvent entraîner, au titre de chacun des établissements imposables, une
+diminution, par rapport à l'année précédente, des bases taxées au profit de la commune intéressée, sauf lorsque l'application
+de ces dispositions résulte d'une décision de justice.
+
+III. Les sommes que le ou les fonds départementaux de la taxe professionnelle perçoivent en application des dispositions du
+II sont :
+
+1° A concurrence de 85 p. 100 de leur montant, réparties, conformément aux dispositions du IV entre les communes
+bénéficiaires au titre du I ;
+
+2° Pour le surplus, versées à un fonds régional dont les ressources sont réparties entre des fonds départementaux
+d'adaptation du commerce rural en raison inverse du potentiel fiscal par kilomètre carré.
+
+IV. La répartition prévue au 1° du III est faite en proportion des populations des communes intéressées, sans que le
+versement puisse excéder, pour chacune des communes autres que la commune ou les communes du lieu d'implantation de
+l'ensemble commercial, 50 p. 100 des sommes à répartir.
+
+Lorsque les communes concernées sont membres d'un groupement à fiscalité propre, la population communale est affectée d'un
+coefficient multiplicateur égal à 1,50. Dans ce cas, les sommes correspondantes sont directement versées au groupement
+concerné.
+
+Sont toutefois exclues de la répartition visée au premier alinéa du I, à l'exception de la commune d'implantation, la ou les
+communes dont les bases de taxe professionnelle par habitant excèdent le double de la moyenne des bases de taxe
+professionnelle par habitant des communes appartenant au même groupe démographique.
+
+Lorsque la somme qui doit résulter de la répartition pour une commune est inférieure à 3 000 francs, le versement de cette
+somme n'est pas effectué.
+
+Les sommes non distribuées en application des dispositions des quatre alinéas précédents viennent en augmentation des sommes
+à répartir entre les communes qui peuvent encore bénéficier de la répartition.
+
+V. Les sommes perçues au profit du fonds départemental d'adaptation du commerce rural sont réparties par une commission
+départementale d'adaptation du commerce rural en fonction d'un programme qu'elle établit.
+
+Cette commission est coprésidée par le représentant de l'Etat dans le département et par le président du conseil général ;
+elle comprend en outre :
+
+- trois maires désignés par l'association départementale des maires ;
+
+- quatre représentants du conseil général désignés en son sein par celui-ci ;
+
+- trois représentants de la chambre de commerce et d'industrie ;
+
+- un représentant de la chambre des métiers ;
+
+- deux personnalités qualifiées désignées par les co-présidents.
+
+La répartition prévue au premier alinéa du V doit avoir pour objectif le maintien d'une présence commerciale harmonieuse en
+zone rurale.
+
+VI. Les modalités d'application des dispositions qui précèdent sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1648 A I
+  - Loi n°73-1193 1973-12-27 art. 29
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
+
+_Créé par_:
+
+  - Loi n°90-1260 du 31 décembre 1990 - art. 8 () JORF 5 janvier 1991
 
 
 ##### Section II : Fonds national de péréquation de la taxe professionnelle.<a id=1137></a>
