@@ -10,10 +10,16 @@ Les dispositions du présent article s'appliquent aux constructions achevées av
 s'incorporent à des installations de production existant au 31 décembre 1980.
 
 Les constructions répondant aux critères définis au premier alinéa et achevées entre le 1er janvier 1990 et le 31 décembre
-1994 peuvent faire l'objet d'un amortissement exceptionnel sur douze mois à condition qu'elles s'incorporent à des
+(( 1995 )) (M) peuvent faire l'objet d'un amortissement exceptionnel sur douze mois à condition qu'elles s'incorporent à des
 installations de production.
 
+(M) Modification de la loi.
+
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
 
 _Cite_:
 
@@ -21,8 +27,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 21 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-  - Modification directe incorporée dans l'édition du 18 août 1993
+  - Loi n°94-1162 du 29 décembre 1994 - art. 67 () JORF 30 décembre 1994
 
 _Cité par_:
 

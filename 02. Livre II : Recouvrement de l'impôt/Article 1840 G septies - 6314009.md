@@ -1,20 +1,26 @@
 # Article 1840 G septies
 
-Le remboursement de la dotation prévue à l'article 22 du décret n° 81-246 du 17 mars 1981, modifié, entraîne déchéance du
-bénéfice du régime de faveur prévu à l'article 1594 F. L'acquéreur est tenu d'acquitter, à première réquisition, le
-complément de taxe ou de droit dont les acquisitions ont été dispensées et, en outre, une taxe supplémentaire de 6 %.
+Le remboursement ((des aides à l'installation des jeunes agriculteurs prévues aux articles 7 et 12 du décret n° 88-176 du 23
+février 1988  modifié)), entraîne déchéance du bénéfice du régime de faveur prévu à l'article 1594 F. L'acquéreur est tenu
+d'acquitter, à première réquisition, le complément ((de droits et taxes)) dont les acquisitions ont été dispensées et, en
+outre, une taxe supplémentaire de 6 %. ((Cette dernière disposition s'applique également à défaut du respect de l'engagement
+prévu au III de l'article 1594 F ou lorsque le bail n'atteint pas son terme de dix-huit ans)) (1).
+
+(1) Modification de la loi. Cf. Instruction 1995-04-18 7C-8-95.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1594 F
-  - Décret n°81-246 1981-03-17 art. 22
+  - Décret n°88-176 du 23 février 1988 - art. 12 (M)
+  - Décret n°88-176 du 23 février 1988 - art. 7 (M)
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°84-1208 1984-12-29 art. 36 II Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+  - HISTO: Edition du 27 octobre 1995
+  - TXT_ASSOCIE: Instruction 1995-04-18 7C-8-95
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°85-1007 1985-09-24
+  - Loi n°95-95 du 1 février 1995 - art. 38 (V) JORF 2 février 1995

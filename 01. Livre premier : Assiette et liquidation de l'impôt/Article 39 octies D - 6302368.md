@@ -15,9 +15,9 @@ dividende, ainsi acquis, et la valeur nominale de l'ensemble des titres ouvrant 
 pertes sont retenues dans la limite du montant de l'investissement.
 
 L'investissement est égal au montant net des capitaux transférés au profit de l'établissement depuis sa création et pour
-chacun des exercices mentionnés à l'alinéa précédent, ou au montant des sommes versées au titre de chaque acquisition de
-titres représentatifs du capital de la filiale, dans la limite des dépenses effectivement engagées pour les besoins de
-l'activité commerciale définie ci-après.
+chacun des exercices mentionnés au deuxième alinéa, ou au montant des sommes versées au titre de chaque acquisition de titres
+représentatifs du capital de la filiale, dans la limite des dépenses effectivement engagées pour les besoins de l'activité
+commerciale définie ci-après.
 
 La filiale, qui doit revêtir la forme d'une société de capitaux, ou l'établissement doit être soumis à l'étranger à une
 imposition de ses bénéfices comparable à celle qui résulterait de l'application de l'impôt sur les sociétés.
@@ -26,7 +26,7 @@ La filiale ou l'établissement doit avoir pour activité la commercialisation à
 l'entreprise qui constitue la provision dans l'un de ses établissements dont les résultats sont soumis à l'impôt sur les
 sociétés ou par les sociétés membres d'un groupe mentionné à l'article 223 A dont elle fait également partie.
 
-II La dotation aux provisions, déduite du résultat d'un exercice en application du présent article, est rapportée
+II. La dotation aux provisions, déduite du résultat d'un exercice en application du présent article, est rapportée
 successivement aux résultats imposables des exercices suivants, à hauteur des bénéfices réalisés au titre de chacun de ces
 exercices par l'établissement ou la filiale situé à l'étranger et, au plus tard, au résultat de l'exercice ou de la période
 d'imposition arrêté au cours de la dixième année qui suit celle de l'investissement qui a ouvert droit à la provision. Ces
@@ -35,39 +35,42 @@ réalisée par l'intermédiaire d'une filiale, dans la même proportion que cell
 base au calcul de la dotation.
 
 Si le taux de détention du capital de la filiale, qui résulte d'une acquisition de titres ayant donné lieu à la provision
-mentionnée au présent article, est réduit au cours de la période de dix ans mentionnée à l'alinéa précédent, la ou les
-dotations constituées à raison de cette acquisition et qui figurent au bilan de l'entreprise sont rapportées au résultat de
-l'exercice ou de la période d'imposition au cours duquel ce taux a diminué. Il en est de même si l'une des conditions prévues
-au I cesse d'être satisfaite ou si l'établissement ou la filiale est affecté par l'un des événements mentionnés au premier
-alinéa du 1 de l'article 201 et aux 2 et 5 de l'article 221.
+mentionnée au présent article, est réduit au cours de la période de dix ans mentionnée au premier alinéa, la ou les dotations
+constituées à raison de cette acquisition et qui figurent au bilan de l'entreprise sont rapportées au résultat de l'exercice
+ou de la période d'imposition au cours duquel ce taux a diminué. Il en est de même si l'une des conditions prévues au I cesse
+d'être satisfaite ou si l'établissement ou la filiale est affecté par l'un des événements mentionnés au premier alinéa du 1
+de l'article 201 et aux 2 et 5 de l'article 221.
 
-III Pour l'application des dispositions du présent article, les résultats de l'établissement ou de la filiale étranger sont
+III. Pour l'application des dispositions du présent article, les résultats de l'établissement ou de la filiale étranger sont
 déterminés selon les règles fixées par le présent code à partir du bilan de départ établi dans les conditions fixées par
 décret. Toutefois, les dispositions légales particulières qui autorisent des provisions ou des déductions spéciales ou des
-amortissements exceptionnels ne sont pas applicables.
+amortissements exceptionnels ne sont pas applicables (1).
 
-IV Le bénéfice des dispositions du présent article peut être accordé sur agrément préalable du ministre chargé du budget dans
-les conditions et limites prévues par cet agrément, aux entreprises françaises exerçant une activité mentionnée à l'article
-34 et dont les résultats sont soumis à l'impôt sur les sociétés dans les conditions de droit commun, qui effectuent dans un
-Etat étranger une implantation sous la forme d'un établissement ou d'une filiale, qui satisfait aux conditions des quatre
-premiers alinéas du I et dont l'objet exclusif est la réalisation de prestations de services.
+IV. Le bénéfice des dispositions du présent article peut être accordé sur agrément préalable du ministre chargé du budget
+dans les conditions et limites prévues par cet agrément, aux entreprises françaises exerçant une activité mentionnée à
+l'article 34 et dont les résultats sont soumis à l'impôt sur les sociétés dans les conditions de droit commun, qui effectuent
+dans un Etat étranger une implantation sous la forme d'un établissement ou d'une filiale, qui satisfait aux conditions des
+quatre premiers alinéas du I et dont l'objet exclusif est la réalisation de prestations de services.
 
-L'agrément mentionné à l'alinéa précédent est délivré aux entreprises à raison des implantations à l'étranger qui ont pour
-objet de favoriser une exportation durable et significative de services.
+L'agrément mentionné au premier alinéa est délivré aux entreprises à raison des implantations à l'étranger qui ont pour objet
+de favoriser une exportation durable et significative de services.
 
-Le montant de l'investissement ouvrant droit à provision est limité à dix millions de francs.
+Le montant de l'investissement ouvrant droit à provision est limité à vingt millions de francs.
 
-V Le bénéfice des dispositions du présent article peut également être accordé sur agrément du ministre chargé du budget dans
+Pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1995, les dispositions du présent IV
+s'appliquent, dans les mêmes conditions et limites, aux entreprises françaises qui exercent une activité professionnelle au
+sens du 1 de l'article 92 et sont soumises à l'impôt sur les sociétés dans les conditions de droit commun, lorsque
+l'implantation réalisée à l'étranger, mentionnée au premier alinéa, a pour objet exclusif l'exercice de ces activités.
+
+V. Le bénéfice des dispositions du présent article peut également être accordé sur agrément du ministre chargé du budget dans
 les conditions et limites prévues par cet agrément, aux établissements de crédit et aux entreprises mentionnées au V de
 l'article 39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises.
 
-VI Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1992, sous
-réserve des dispositions du cinquième alinéa du I quater et du deuxième alinéa du II bis de l'article 39 octies A et du
-deuxième alinéa du V de l'article 39 octies B.
+VI. Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1992,
+sous réserve des dispositions du cinquième alinéa du I quater et du deuxième alinéa du V de l'article 39 octies B et du
+quatrième alinéa du IV du présent article.
 
-(1) Loi 91-1322 1991-12-30 art. 86 E : "Un décret fixe les modalités d'application du présent article, et notamment la liste
-des documents justificatifs des résultats des exploitations étrangères mentionnées à l'article 39 octies D du code général
-des impôts, qui doivent être produits par l'entreprise."
+(1) Voir les articles 10 GA quinquies et 10 GA sexies de l'annexe III.
 
 **Liens relatifs à cet article**
 
@@ -76,13 +79,13 @@ _Cite_:
   - CGI 223 A, 201, 221, 34, 39 octies A, 39 octies B, 86
   - Loi n°91-1322 1991-12-30 art. 86 C Finances pour 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 86 () JORF 31 décembre 1991
+  - Loi n°94-1162 du 29 décembre 1994 - art. 62 () JORF 30 décembre 1994
 
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
+  - Décret n°95-1281 1995-12-11
 
 _Cité par_:
 
@@ -92,3 +95,8 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quinquies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA sexies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA ter (V)
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+  - TXT_ASSOCIE: Instruction 1995-07-24 4H-12-95
