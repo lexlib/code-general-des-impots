@@ -3,7 +3,7 @@
 I. - Dans le cadre de l'obligation définie à l'article 235 ter D, les employeurs effectuent un versement au moins égal à 0,15
 p. 100 des salaires de l'année de référence à un organisme paritaire agréé par l'Etat au titre du congé individuel de
 formation. Ce pourcentage est porté à 0,20 p. 100 à compter du 1er janvier 1993 ; pour les entreprises de travail temporaire,
-le taux est fixé à 0,25 p. 100.
+le taux est porté à 0,30 p. 100 à compter du 1er janvier 1992.
 
 II. - Lorsqu'un employeur n'a pas effectué le versement mentionné au I avant le 1er mars de l'année suivant celle au titre de
 laquelle est due cette participation, ou a effectué un versement insuffisant, le montant de sa participation au financement
@@ -27,9 +27,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
-  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
+  - Loi n°92-675 du 17 juillet 1992 - art. 25 () JORF 19 juillet 1992
 
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
+  - Décret n°93-1127 1993-09-24
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
