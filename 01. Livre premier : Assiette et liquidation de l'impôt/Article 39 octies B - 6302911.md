@@ -45,16 +45,18 @@ conditions et limites prévues par cet agrément, aux établissements de crédit
 V. - Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1988,
 sous réserve du dernier alinéa des I et I bis de l'article 39 octies A.
 
+Elles cessent de s'appliquer aux investissements réalisés après le 31 décembre 1991.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 39 octies A I, I bis, V
 
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
-
 _Modifié par_:
 
-  - Loi n°90-1169 du 29 décembre 1990 - art. 19 () JORF 30 décembre 1990
+  - Loi - art. 86 () JORF 31 décembre 1991
+
+_Codifié par_:
+
+  - Décret n°92-836 1992-08-27

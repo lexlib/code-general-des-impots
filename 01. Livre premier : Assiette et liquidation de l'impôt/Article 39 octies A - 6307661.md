@@ -58,6 +58,9 @@ précédent.
 Les dispositions du présent I quater s'appliquent aux premières implantations commerciales effectuées à compter du 1er
 janvier 1988 (2).
 
+Les dispositions du présent I quater ne sont plus applicables aux investissements réalisés dans le cadre d'une première
+implantation commerciale effectuée après le 31 décembre 1991.
+
 II. Les entreprises françaises qui réalisent un investissement industriel dans l'un des pays figurant sur une liste établie
 par le ministre de l'économie et des finances et par le ministre du développement industriel et scientifique, soit
 directement, soit par l'intermédiaire d'une société dont elles détiennent au moins 10 % du capital, peuvent, sur agrément du
@@ -71,7 +74,10 @@ moins du capital et qui a pour objet principal d'assurer un service nécessaire 
 produits par des entreprises ou établissements dont les résultats sont soumis à l'impôt sur les sociétés. Toutefois, lorsque
 l'investissement est réalisé dans un Etat membre de la Communauté économique européenne, la provision est égale aux pertes
 subies au cours des cinq premières années d'exploitation dans la proportion définie au deuxième alinéa du I de l'article 39
-octies B, et dans la limite de la moitié de l'investissement (3).
+octies B, et dans la limite de la moitié de l'investissement.
+
+Les dispositions du premier alinéa ne sont plus applicables aux investissements qui font l'objet d'une demande d'agrément
+déposée après le 31 décembre 1991.
 
 III. Les provisions déduites par application des I à II bis sont rapportées par fractions égales aux bénéfices imposables des
 cinq exercices consécutifs, à partir du sixième suivant celui du premier investissement.
@@ -82,7 +88,7 @@ par cet agrément.
 
 Le bénéfice des dispositions prévues aux I, I quater, II, II bis, III et IV peut être accordé, sur agrément du ministre
 chargé du budget et dans les conditions et limites prévues par cet agrément, aux établissements de crédit dont la liste est
-fixée par décret (4) et aux entreprises industrielles et commerciales qui, dans l'intérêt d'une entreprise française et en
+fixée par décret (2) et aux entreprises industrielles et commerciales qui, dans l'intérêt d'une entreprise française et en
 vue d'accompagner l'investissement à l'étranger de cette dernière, participent au capital de la société étrangère constituée
 à cet effet par l'entreprise ou à laquelle celle-ci se trouve elle-même associée.
 
@@ -91,13 +97,7 @@ l'agrément est subordonné, les dispositions de l'article 1756 sont applicables
 
 (1) Annexe IV, art. 4 D.
 
-(2) Ces dispositions ne sont plus applicables aux investissements réalisés dans le cadre d'une première implantation
-commerciale effectuée après le 31 décembre 1991.
-
-(3) Ces dispositions ne sont plus applicables aux investissements qui font l'objet d'une demande d'agrément déposée après le
-31 décembre 1991.
-
-(4) Annexe III, art. 10 GA.
+(2) Annexe III, art. 10 GA.
 
 **Liens relatifs à cet article**
 
@@ -110,12 +110,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-1061 1987-12-30 art. 27 B, C, D, F Finances rectificative pour 1987 JORF 31 décembre 1987
-  - Loi n°87-1061 du 30 décembre 1987 - art. 27 (V) JORF 31 décembre 1987
+  - Loi - art. 86 () JORF 31 décembre 1991
 
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
