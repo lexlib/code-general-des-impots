@@ -13,8 +13,8 @@ IV. - La redevance n'est pas perçue :
 n'excédant pas celle prévue à l'article 3 du règlement (CEE) n° 3703/85 de la Commission du 23 décembre 1985 établissant les
 modalités d'application relatives aux normes communes de commercialisation pour certains poissons frais ou réfrigérés ;
 
-2. En cas de retrait définitif dans le cadre de l'organisation commune des marchés instituée par le règlement (CEE) n°
-3759/92 du Conseil, du 17 décembre 1992, portant organisation commune des marchés dans le secteur des produits de la pêche et
+2. En cas de retrait définitif dans le cadre de l'organisation commune des marchés instituée par le règlement (CE) n°
+104/2000 du Conseil du 17 décembre 1999, portant organisation commune des marchés dans le secteur des produits de la pêche et
 de l'aquaculture ;
 
 3. En cas de débarquement direct de poissons frais par un navire de pêche battant pavillon d'un pays tiers à la Communauté
@@ -52,13 +52,13 @@ _Cite_:
 
   - CGIAN2 267 quater F
   - CGIAN4 50 quaterdecies-0 A
+  - Règlement CE 104-2000 1999-12-17
   - Règlement CEE 2406-96 1996-11-26
   - Règlement CEE 3703-85 1985-12-23 art. 3
-  - Règlement CEE 3759-92 1992-12-17
 
 _Codifié par_:
 
-  - Décret n°2002-923 2002-06-06
+  - Décret n°2003-933 2003-09-30
 
 _Cité par_:
 
@@ -67,10 +67,8 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 31 août 2003
 
 _Modifié par_:
 
-  - Règlement CE 1103-97 1997-06-17 art. 5 JOCE 19 juin 1997 en vigueur le 1er janvier 2002
-  - Règlement CE 2866-98 1998-12-31 art. 1, art. 2 JOCE 31 décembre 1998 en vigueur le 1er janvier 2002
-  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 en vigueur le 1er janvier 2002
+  - Règlement CE 104-2000 1999-12-17 art. 42 JOCE 19 février 2000

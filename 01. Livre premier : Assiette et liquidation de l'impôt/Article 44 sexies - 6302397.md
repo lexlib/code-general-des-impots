@@ -4,15 +4,17 @@ I. Les entreprises soumises de plein droit ou sur option à un régime réel d'i
 activité industrielle, commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur le revenu ou d'impôt sur
 les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments
 d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues à
-l'article 53 A. Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, le bénéfice des dispositions du
-présent article est également accordé aux contribuables visés au 5° du I de l'article 35. Le contribuable exerçant une
-activité de location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone
-de revitalisation rurale. Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le
-quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la
-seconde ou de la troisième période de douze mois suivant cette période d'exonération.
+l'article 53 A ou, pour les entreprises qui se sont créées dans les zones de redynamisation urbaine entre le 31 juillet 1998
+et le 31 juillet 2003, jusqu'au terme du quarante-septième mois suivant celui de leur création et déclarés suivant les
+modalités prévues à l'article 53A. Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, le bénéfice des
+dispositions du présent article est également accordé aux contribuables visés au 5° du I de l'article 35. Le contribuable
+exerçant une activité de location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés
+dans une zone de revitalisation rurale. Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés
+que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la
+première, de la seconde ou de la troisième période de douze mois suivant cette période d'exonération.
 
 Le bénéfice des dispositions du présent article est réservé aux entreprises qui se créent à compter du 1er janvier 1995
-jusqu'au 31 décembre 2004 dans les zones d'aménagement du territoire et dans les territoires ruraux de développement
+jusqu'au 31 décembre 2008 inclus dans les zones d'aménagement du territoire et dans les territoires ruraux de développement
 prioritaire définis au premier alinéa de l'article 1465 et dans les zones de redynamisation urbaine définies au I bis et, à
 compter du 1er janvier 1997, au I ter de l'article 1466 A, à la condition que le siège social ainsi que l'ensemble de
 l'activité et des moyens d'exploitation soient implantés dans l'une de ces zones ;
@@ -57,13 +59,9 @@ _Cite_:
 
   - CGI 34, 53 A, 1465 A, 35, 1466 A, 92, 1465
 
-_Codifié par_:
-
-  - Décret n°2000-477 2000-06-02
-
 _Modifié par_:
 
-  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+  - Loi n°2003-710 du 1 août 2003 - art. 25 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -126,6 +124,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 août 2003
   - TXT_ASSOCIE: Instruction 2001-11-05 4A-6-01
   - TXT_ASSOCIE: Instruction 2003-04-23 4A-6-03
+  - TXT_ASSOCIE: Réponse ministérielle 2003-07-28 4A-9-03
