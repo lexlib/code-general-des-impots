@@ -6,7 +6,7 @@ résidus.
 Cette redevance est due par :
 
 1 Toute personne qui fait abattre un animal dans un abattoir ou fait traiter du gibier sauvage par un atelier ayant reçu
-l'agrément prévu à l'article 260 du code rural.
+l'agrément prévu à l'article L233-2 du code rural.
 
 Toutefois, en cas d'abattage ou de traitement à façon, la redevance est acquittée par le tiers abatteur ou l'atelier agréé
 pour le compte du propriétaire.
@@ -23,13 +23,14 @@ La redevance est assise sur le poids des produits commercialisés.
 Le fait générateur est constitué par la vente des produits ;
 
 3 Les centres de collecte ou les établissements de transformation recevant du lait cru titulaires de l'agrément prévu à
-l'article 260 du code rural.
+l'article  L233-2 du code rural.
 
 La redevance est assise sur le volume de lait cru introduit dans le centre ou l'établissement.
 
 Le fait générateur est constitué par l'introduction du lait cru dans le centre ou l'établissement ;
 
-4 Les établissements de fabrication ou de traitement d'ovoproduits ayant reçu l'agrément prévu à l'article 260 du code rural.
+4 Les établissements de fabrication ou de traitement d'ovoproduits ayant reçu l'agrément prévu à l'article L233-2 du code
+rural.
 
 La redevance est assise sur le poids d'oeufs de poule en coquille introduits dans ces établissements.
 
@@ -37,7 +38,7 @@ Le fait générateur est constitué par l'introduction des oeufs en coquille dan
 
 II. - Les taux de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus applicables aux
 viandes, aux produits de l'aquaculture et au lait sont fixés par produit dans la limite de 150 % du niveau forfaitaire défini
-en euros par décision du Conseil de l'Union européenne.
+en euro par décision du Conseil de l'Union européenne.
 
 Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie, du ministre de l'agriculture et de la pêche et
 du secrétaire d'Etat au budget fixe les taux de la redevance à partir des taux de conversion en francs de l'euro.
@@ -53,24 +54,17 @@ Les réclamations sont présentées, instruites et jugées selon les règles app
 
 IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
-**Nota:**
-
-NOTA : Ces dispositions s'appliquent à compter du 1er janvier 1999 : Loi 98-1267 du 30 décembre 1998 art. 32 II.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 32 (V) JORF 31 décembre 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 32 II Finances rectificative pour 1998
-  - HISTO: Edition du 31 mars 1999
+  - Rapport - art. 2 (V) JORF 22 juin 2000
+  - Rapport - art. 7 (V) JORF 22 juin 2000
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
 
 _Codifié par_:
 
-  - Décret n°99-382 1999-05-18
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -78,8 +72,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural 260
+  - Code rural L233-2
 
-_Modifié par_:
+**Liens**:
 
-  - Règlement CEE 2866-98 1998-12-31 art. 1, art. 2 JOCE 31 décembre 1998
+  - HISTO: Edition du 31 mars 2001

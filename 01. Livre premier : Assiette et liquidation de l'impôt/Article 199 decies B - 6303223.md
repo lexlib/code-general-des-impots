@@ -1,7 +1,8 @@
 # Article 199 decies B
 
-Le taux de la réduction d'impôt mentionnée à l'article 199 decies A est porté à 15 p. 100 et la limite de 300.000 F est
-portée à 400.000 F et celle de 600.000 F à 800.000 F lorsque la location est effectuée dans les conditions suivantes :
+Le taux de la réduction d'impôt mentionnée à l'article 199 decies A est porté à 15 p. 100 et la limite de 300 000 F (3) est
+portée à 400 000 F (3) et celle de 600 000 F (3) à 800 000 F (3) lorsque la location est effectuée dans les conditions
+suivantes :
 
 1° Le propriétaire s'engage à louer le logement nu à usage de résidence principale du locataire pendant six ans ;
 
@@ -16,16 +17,16 @@ territoire.
 
 4° La location n'est pas conclue avec un membre du foyer fiscal, un ascendant ou un descendant du contribuable (2).
 
-Ces dispositions s'appliquent également aux souscriptions au capital de sociétés civiles régies par la loi n° 70-1300 du 31
-décembre 1970 modifiée fixant le régime applicable aux sociétés civiles autorisées à faire publiquement appel à l'épargne,
-réalisées à compter du 1er janvier 1993 lorsque la société s'engage à affecter intégralement le produit de la souscription
-annuelle, dans les six mois qui suivent la clôture de celle-ci, à l'acquisition de logements neufs loués dans les mêmes
-conditions. Le souscripteur doit s'engager à conserver les parts pendant une durée de six ans à compter de la date de
-l'achèvement des immeubles ou de leur acquisition par la société si elle est postérieure.
+Ces dispositions s'appliquent également aux souscriptions au capital de sociétés civiles régies par la section 3 du chapitre
+IV du titre Ier du livre II du code monétaire et financier, réalisées à compter du 1er janvier 1993 lorsque la société
+s'engage à affecter intégralement le produit de la souscription annuelle, dans les six mois qui suivent la clôture de celle-
+ci, à l'acquisition de logements neufs loués dans les mêmes conditions. Le souscripteur doit s'engager à conserver les parts
+pendant une durée de six ans à compter de la date de l'achèvement des immeubles ou de leur acquisition par la société si elle
+est postérieure.
 
 La réduction d'impôt ne peut être opérée qu'une fois et est répartie sur quatre années au maximum. Elle est imputée la
-première année à raison du quart des limites de 60.000 F ou de 120.000 F, puis, le cas échéant, pour le solde les trois
-années suivantes dans les mêmes conditions.
+première année à raison du quart des limites de 60 000 F (3) ou de 120 000 F (3), puis, le cas échéant, pour le solde les
+trois années suivantes dans les mêmes conditions.
 
 Les dispositions du présent article s'appliquent aux logements dont la construction a fait l'objet, après le 15 mars 1992, de
 la déclaration d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Ce document accompagné d'une
@@ -40,32 +41,34 @@ zones franches urbaines telles que définies au B du 3 de l'article 42 modifié 
 
 (2) Ces dispositions sont applicables aux locations conclues à compter du 1er janvier 1994.
 
+(3) Montant périmé au 1er janvier 2002.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 199 decies A, 199 decies B
-  - CGIAN3 46
-  - Code de l'urbanisme - art. R421-40 (Ab)
-  - Loi n°70-1300 1970-12-31
+  - CGIAN3 46 AGA
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+  - Code de l'urbanisme - art. R421-40 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I 58° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
+  - Décret n°2002-923 2002-06-06
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
+  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 1999-11-26 5B-21-99
+  - TXT_ASSOCIE: Instruction 2000-11-23 5G-21-00
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 793 (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1996-12-19 5B-16-96
-  - TXT_ASSOCIE: Instruction 1997-03-14 5B-12-97
-  - TXT_ASSOCIE: Instruction 1997-12-09 5B-20-97
-  - TXT_ASSOCIE: Instruction 1998-12-17 5B-18-98
-  - TXT_ASSOCIE: Instruction 1999-11-26 5B-21-99
-  - TXT_ASSOCIE: Instruction 2000-11-23 5G-21-00
-  - SPEC_APPLI: Loi n°96-987 1996-11-14 art. 11 II III
-
-_Modifié par_:
-
-  - Loi n°96-987 du 14 novembre 1996 - art. 11 () JORF 15 novembre 1996
-  - Loi n°96-987 du 14 novembre 1996 - art. 2 () JORF 15 novembre 1996

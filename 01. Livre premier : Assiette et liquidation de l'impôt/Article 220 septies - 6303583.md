@@ -3,22 +3,21 @@
 I. - Les personnes morales soumises de plein droit ou sur option à l'impôt sur les sociétés dans les conditions de droit
 commun qui, dans les cinq ans de l'institution de l'une des zones prévues au I de l'article 51 de la loi de finances
 rectificative pour 1992 n° 92-1476 du 31 décembre 1992, se seront créées pour y exploiter une entreprise, peuvent, dans les
-conditions prévues au présent article, bénéficier d'un crédit d'impôt égal à 22 p. 100 :
+conditions prévues au présent article, bénéficier d'un crédit d'impôt égal à 22 % :
 
-a) Du prix de revient hors taxes des investissements qu'elles réalisent jusqu'au terme du trente-sixième mois suivant celui
+a) du prix de revient hors taxes des investissements qu'elles réalisent jusqu'au terme du trente-sixième mois suivant celui
 de leur constitution ;
 
-b) Ou du prix de revient hors taxes dans les écritures du bailleur des biens qu'elles prennent en location dans le délai
-prévu au a auprès d'une société de crédit-bail régie par la loi n° 66-455 du 2 juillet 1966 relative aux entreprises
-pratiquant le crédit-bail.
+b) ou du prix de revient hors taxes dans les écritures du bailleur des biens qu'elles prennent en location dans le délai
+prévu au a auprès d'une société de crédit-bail régie par les articles L. 313-7 à L. 313-11 du code monétaire et financier.
 
 Pour le calcul du crédit d'impôt, le prix de revient des investissements est diminué du montant des subventions attribuées à
 raison de ces investissements.
 
 Les investissements ouvrant droit au crédit d'impôt s'entendent des acquisitions ou des locations en crédit-bail, dans le
-cadre des opérations de crédit-bail visées à l'article 1er de la loi n° 66-455 du 2 juillet 1966 précitée, de bâtiments
-industriels et de biens d'équipements amortissables selon le mode dégressif en vertu du 1 de l'article 39 A. Le crédit
-d'impôt ne s'applique pas aux biens reçus par apport.
+cadre des opérations de crédit-bail visées à l'article L. 313-7 du code précité, de bâtiments industriels et de biens
+d'équipement amortissables selon le mode dégressif en vertu du 1 de l'article 39 A. Le crédit d'impôt ne s'applique pas aux
+biens reçus par apport.
 
 Les personnes morales créées dans le cadre d'une concentration ou d'une restructuration d'activités préexistant dans les
 zones ou qui reprennent de telles activités ne peuvent pas bénéficier de ce crédit d'impôt.
@@ -28,20 +27,20 @@ des exercices clos dans les dix ans de sa constitution. Il ne peut être restitu
 
 L'imputation du crédit d'impôt ne peut être appliquée sur l'impôt sur les sociétés résultant de l'imposition :
 
-1° Des produits des actions ou parts de sociétés, et des résultats de participations dans des organismes mentionnés aux
+1° des produits des actions ou parts de société, et des résultats de participations dans des organismes mentionnés aux
 articles 8, 8 quater, 239 quater, 239 quater B et 239 quater C ;
 
-2° Des subventions, libéralités et abandons de créances ;
+2° des subventions, libéralités et abandons de créances ;
 
-3° Des produits de créances et d'opérations financières pour le montant qui excède celui des frais financiers engagés au
+3° des produits de créances et d'opérations financières pour le montant qui excède celui des frais financiers engagés au
 cours du même exercice ;
 
-4° Des produits tirés des droits de la propriété industrielle et commerciale, lorsque ces droits n'ont pas leur origine dans
+4° des produits tirés des droits de la propriété industrielle et commerciale, lorsque ces droits n'ont pas leur origine dans
 l'activité créée dans la zone ;
 
-5° Des résultats qui ne sont pas déclarés dans les conditions prévues à l'article 223 ;
+5° des résultats qui ne sont pas déclarés dans les conditions prévues à l'article 223 ;
 
-6° Des plus-values de cession d'immobilisations non amortissables qui ont fait l'objet d'un apport ayant bénéficié des
+6° des plus-values de cession d'immobilisations non amortissables qui ont fait l'objet d'un apport ayant bénéficié des
 dispositions de l'article 210 A ainsi que des plus-values réintégrées en application du d du 3 du même article.
 
 III. En cas de cession, pendant la période prévue au premier alinéa du II, ou pendant sa durée normale d'utilisation si elle
@@ -66,22 +65,22 @@ période, une des conditions visées au présent article n'est plus remplie.
 
 IV. Pour bénéficier du crédit d'impôt prévu au I, la personne morale doit remplir les conditions suivantes :
 
-1° Son siège social, ses activités et ses moyens d'exploitation doivent être implantés dans l'une des zones créées en
+1° son siège social, ses activités et ses moyens d'exploitation doivent être implantés dans l'une des zones créées en
 application du I de l'article 51 de la loi n° 92-1476 du 31 décembre 1992 ;
 
-2° Ses activités doivent être industrielles ou commerciales au sens de l'article 34 ; toutefois, le dispositif prévu au I ne
+2° ses activités doivent être industrielles ou commerciales au sens de l'article 34 ; toutefois, le dispositif prévu au I ne
 s'applique pas si l'entreprise exerce à titre principal ou accessoire :
 
-a) Une activité de stockage ou de distribution indépendante des unités de production industrielle situées dans les zones ;
+a) une activité de stockage ou de distribution indépendante des unités de production industrielle situées dans les zones ;
 
-b) Une activité de services qui n'est pas directement nécessaire à une activité de fabrication ou de transformation de biens
+b) une activité de services qui n'est pas directement nécessaire à une activité de fabrication ou de transformation de biens
 corporels mobiliers ;
 
-c) Une activité bancaire, financière, d'assurances, de location ou de gestion d'immeubles ou de travaux immobiliers ;
+c) une activité bancaire, financière, d'assurances, de location ou de gestion d'immeubles ou de travaux immobiliers ;
 
-3° Elle ne doit pas être soumise aux dispositions des articles 44 sexies, 44 septies et 223 A ;
+3° elle ne doit pas être soumise aux dispositions des articles 44 sexies, 44 septies et 223 A ;
 
-4° Son effectif de salariés, bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée de six mois au moins,
+4° son effectif de salariés, bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée de six mois au moins,
 doit être égal ou supérieur à dix au cours de chaque exercice de la période définie au premier alinéa du II : si l'effectif
 varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
 
@@ -97,19 +96,23 @@ de crédit-bail.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: 4H5420 n°154 à n°214
-  - HISTO: Edition du 18 août 1993
-  - TXT_ASSOCIE: Instruction 1993-10-28 4H-16-93
-  - TXT_ASSOCIE: Instruction 1994-08-22 4H-5-94
-  - TXT_ASSOCIE: Instruction 1995-08-25 4H-13-95
-
 _Cite_:
 
   - CGI 39 A, 8, 8 quater, 239 quater, 239 quater B, 239 quater C, 223, 210 A, 1727, 221, 34, 44 sexies, 44 septies, 223 A
-  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
   - Loi n°92-1476 1992-12-31 art. 51
+  - Code monétaire et financier L313-7 à L313-11
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+_Modifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -120,7 +123,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YH (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YI (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YJ (P)
-
-_Créé par_:
-
-  - Loi - art. 51 (V) JORF 5 janvier 1993
