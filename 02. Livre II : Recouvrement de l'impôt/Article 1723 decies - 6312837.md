@@ -12,8 +12,7 @@ constructions.
 
 Sont tenus solidairement au versement prévu à l'article L 112-2 du code de l'urbanisme :
 
-a° Les banques, établissements financiers ou sociétés de caution mutuelle qui sont garants de l'achèvement de la
-construction ;
+a° Les établissements de crédit ou sociétés de caution mutuelle qui sont garants de l'achèvement de la construction ;
 
 b° Les titulaires successifs de l'autorisation de construire ainsi que leurs ayants cause autres que les personnes qui ont
 acquis les droits sur l'immeuble à construire en vertu d'un contrat régi par les articles L 261-9 à L 261-22 du code de la
@@ -33,12 +32,12 @@ _Cite_:
   - CGIAN4 204
   - Code de l'urbanisme - art. L112-2 (M)
   - Code de l'urbanisme - art. L333-11 (Ab)
-  - Code de la construction L261-9 A Code de la construction L261-22
+  - Code de la construction L261-9 à Code de la construction L261-22
 
 _Modifié par_:
 
-  - Décret n°78-621 1978-05-31 ART. 2 JORF 8 JUIN 1978
+  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 _Codifié par_:
 
-  - Décret n°82-881 1982-10-15
+  - Décret n°84-875 1984-10-01
