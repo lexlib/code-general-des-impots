@@ -1,30 +1,23 @@
 # Article 235 ter D
 
-Conformément au premier alinéa de l'article L951-1 du code du travail, les employeurs occupant au minimum dix salariés
-doivent consacrer au financement des actions définies à l'article 235 ter C un pourcentage minimal de 1,2 p. 100 du montant,
-entendu au sens des règles prévues aux chapitres Ier et II du titre IV du livre II du code de la sécurité sociale ou au titre
-IV du livre VII du code rural, pour les employeurs de salariés visés à l'article L. 722-20 dudit code, des rémunérations
-versées pendant l'année en cours. Ce pourcentage est porté à 1,4 p. 100 à compter du 1er janvier 1992 et à 1,5 p. 100 à
-compter du 1er janvier 1993. Pour les entreprises de travail temporaire, le taux est fixé à 2 p. 100 ; dans ce dernier cas il
-s'applique, à compter du 1er janvier 1992, aux rémunérations versées pendant l'année en cours, quelles que soient la nature
-et la date de la conclusion des contrats de travail.
+Cet article reproduit les dispositions du premier alinéa de l'article L. 951-1 du code du travail :
+
+"A compter du 1er janvier 2004, les employeurs occupant au moins dix salariés doivent consacrer au financement des actions
+définies à l'article L. 950-1 une part minimale de 1,60 % du montant des rémunérations versées pendant l'année en cours
+entendues au sens des règles prévues aux chapitres Ier et II du titre IV du livre II du code de la sécurité sociale ou au
+chapitre II du titre II et au chapitre Ier du titre IV du livre VII du code rural pour les employeurs des salariés visés à
+l'article L. 722-20 dudit code. Pour les entreprises de travail temporaire, ce taux est fixé à 2 % des rémunérations versées
+pendant l'année en cours, quelles que soient la nature et la date de la conclusion des contrats de travail."
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 235 ter C
-  - Code du travail - art. L951-1 (M)
-  - Code rural L722-20
+  - Décret n°2005-330 2005-04-06
 
 _Modifié par_:
 
-  - Rapport - art. 1 (V) JORF 22 juin 2000
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Cité par_:
 
@@ -40,6 +33,12 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 undecies A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZB (V)
 
+_Cite_:
+
+  - Code du travail - art. L950-1 (M)
+  - Code du travail - art. L951-1 (M)
+  - Code rural L722-20
+
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 1er janvier 2005
