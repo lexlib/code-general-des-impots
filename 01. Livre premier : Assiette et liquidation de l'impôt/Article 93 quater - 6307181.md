@@ -6,8 +6,6 @@ Ce régime est également applicable aux produits de la propriété industrielle
 la qualité de leur bénéficiaire ainsi qu'aux produits des cessions de droits portant sur des logiciels originaux par leur
 auteur, personne physique.
 
-(Supprimé) ;
-
 I bis. Lorsqu'un inventeur, personne physique, concède une licence exclusive d'exploitation de brevets qu'il a déposés à une
 entreprise créée à cet effet à compter du 1er janvier 1984, les dispositions du 1 bis de l'article 39 terdecies ne
 s'appliquent pas l'année de la création de cette entreprise et les deux années suivantes à condition que, pendant cette
@@ -20,8 +18,8 @@ report jusqu'à la cinquième année suivant celle au cours de laquelle l'apport
 ou du rachat des droits sociaux reçus en rémunération de l'apport, si cette cession ou ce rachat intervient avant
 l'expiration de ce délai de report.
 
-Les dispositions du dernier alinéa (4) du II de l'article 151 octies sont applicables aux plus-values dont l'imposition est
-reportée en application du premier alinéa (1).
+Les dispositions du quatrième alinéa du II de l'article 151 octies sont applicables aux plus-values dont l'imposition est
+reportée en application du premier alinéa.
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de la clientèle ou des éléments d'actif affectés
 à l'exercice de sa profession, à une société civile professionnelle, constituée conformément aux dispositions de la loi n°
@@ -31,17 +29,16 @@ ans à compter de la publication du décret en Conseil d'Etat propre à la profe
 
 Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas d'opérations soumises aux dispositions du I de
 l'article 151 octies A ou de transformation de la société civile professionnelle en société d'exercice libéral jusqu'à la
-date de transmission, de rachat ou d'annulation des parts ou actions de l'associé. Les dispositions du dernier alinéa (4) du
-II de l'article 151 octies sont applicables à l'associé à compter de la réalisation des opérations soumises aux dispositions
-du I de l'article 151 octies A ou de la transformation de la société civile professionnelle en société d'exercice libéral ;
+date de transmission, de rachat ou d'annulation des parts ou actions de l'associé. Les dispositions du quatrième alinéa du II
+de l'article 151 octies sont applicables à l'associé à compter de la réalisation des opérations soumises aux dispositions du
+I de l'article 151 octies A ou de la transformation de la société civile professionnelle en société d'exercice libéral ;
 
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visés
 aux I et II de l'article 151 octies.
 
 III. Pour l'application des dispositions du premier alinéa du I, les contrats de crédit-bail conclus dans les conditions
-prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-
-bail sont considérés comme des immobilisations lorsque les loyers versés ont été déduits pour la détermination du bénéfice
-non commercial.
+prévues aux 1 et 2 de l'article L. 313-7 du code monétaire et financier sont considérés comme des immobilisations lorsque les
+loyers versés ont été déduits pour la détermination du bénéfice non commercial.
 
 IV. 1. Pour l'application des dispositions du premier alinéa du I aux immeubles acquis dans les conditions prévues au 6 de
 l'article 93 et précédemment donnés en sous-location, l'imposition de la plus-value consécutive au changement de régime
@@ -61,29 +58,28 @@ V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à la
 sociaux résultant d'une fusion ou d'une scission de sociétés bénéficiant du régime prévu à l'article 210 B, lorsque ces
 droits sont affectés à l'exercice de la profession au sens de l'article 93.
 
-Les personnes placées sous le régime prévu à l'alinéa précédent sont soumises aux obligations définies à l'article 54
-septies.(4)
-
-(1) La disposition s'applique aux apports réalisés à compter du 1er janvier 1997.
-
-(2) Ces dispositions s'appliquent aux apports et aux transformations réalisés à compter du 1er janvier 1994.
-
-(3) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er janvier 1997.
-
-(4) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er janvier 2000.
+Les personnes placées sous le régime prévu au premier alinéa sont soumises aux obligations définies à l'article 54 septies.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39 duodecies, 39 terdecies 1 bis, 39 quaterdecies, 39 quindecies, 151 octies, 93, 151 octies A, 54 septies
-  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
+  - CGI 39 duodecies, 39 terdecies, 39 quaterdecies, 39 quindecies, 151 octies, 93, 151 octies A, 54 septies, 93, 38
   - Loi n°66-879 1966-11-29
+  - Code monétaire et financier - art. L313-7 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+  - TXT_ASSOCIE: Instruction 1998-06-17 5G-3-98
 
 _Modifié par_:
 
-  - Loi - art. 19 (V) JORF 31 décembre 1999
-  - Loi - art. 20 (V) JORF 31 décembre 1999
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -99,9 +95,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 quindecies (V)
   - Code général des impôts, CGI. - art. 93 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 novovicies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 1997-08-14 5G-14-97
-  - TXT_ASSOCIE: Instruction 1998-06-17 5G-3-98
