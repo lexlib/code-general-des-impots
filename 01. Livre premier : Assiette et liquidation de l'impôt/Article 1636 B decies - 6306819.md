@@ -5,10 +5,10 @@ taux des taxes foncières, de la taxe d'habitation, à l'exclusion de la taxe pr
 applicables aux communes.
 
 II. La communauté ou le syndicat d'agglomération nouvelle visés à l'article 1609 nonies B vote le taux de la taxe
-professionnelle dans les limites définies aux troisième et quatrième alinéas du I de l'article 1636 B sexies et à l'article
-1636 B septies.
+professionnelle dans les limites définies au b du 1, ainsi qu'aux 2 et 3 du I de l'article 1636 B sexies et à l'article 1636
+B septies.
 
-Pour l'application des troisième et quatrième alinéas du I de l'article 1636 B sexies précité :
+Pour l'application du b du 1, ainsi que des 2 et 3 du I de l'article 1636 B sexies précité :
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté dans l'ensemble des communes membres de la
 communauté ou du syndicat d'agglomération nouvelle ;
@@ -29,9 +29,13 @@ _Cite_:
 
   - CGI 1609 nonies B, 1636 B sexies I, 1636 B septies
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°83-636 1983-07-13 art. 26, art. 25 JORF 14 juillet 1983
+  - Loi n°88-1193 du 29 décembre 1988 - art. 17 (V) JORF 30 décembre 1988 incorporé au code le 14 juillet 1989
+
+_Codifié par_:
+
+  - Décret n°89-801 1989-10-27
 
 _Cité par_:
 
