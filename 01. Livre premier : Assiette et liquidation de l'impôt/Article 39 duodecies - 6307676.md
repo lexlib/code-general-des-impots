@@ -29,6 +29,12 @@ de ceux qui ont été différés en contravention aux dispositions de l'article 
 6  Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par
 priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
+Pour l'application des dispositions de l'alinéa précédent, les titres reçus en rémunération d'un apport partiel d'actif
+soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport
+constituent deux catégories distinctes de titres jusqu'à la fin du délai de cinq ans prévu à l'article 210 B. Les cessions de
+titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de
+l'opération d'apport.
+
 7  Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-
 values réalisées par les sociétés de crédit-bail ou plus généralement les sociétés qui ont pour objet social la location
 d'équipements, sur la vente des éléments de l'actif immobilisé faisant l'objet d'une location dans le cadre de leur activité.
@@ -41,14 +47,12 @@ la date de la première inscription à son bilan des titres prêtés.
 
 _Cite_:
 
-  - CGI 244 quinquies
-  - CGI 244 septies
-  - CGI 39 B
+  - CGI 38, 39 B, 210 B
   - Loi n°87-416 1987-06-17 art. 31
 
 _Modifié par_:
 
-  - Loi n°88-1201 du 23 décembre 1988 - art. 43 () JORF 31 décembre 1988
+  - Loi - art. 25 (V) JORF 31 décembre 1991, modification directe incorporée dans l'édition du 4 juillet 1992
 
 _Cité par_:
 
@@ -86,3 +90,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 N (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 29 A (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 46 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1992-03-18 4B-1-92
