@@ -11,16 +11,38 @@ n'excède pas 5.000 F par an.
 
 Cette exonération ne peut se cumuler avec les dispositions de l'article 52 ter.
 
+III Les personnes qui concluent un contrat de location en meublé d'un logement, conforme aux normes minimales définies par
+décret en Conseil d'Etat (1), avec un organisme sans but lucratif qui met ce logement à la disposition de personnes
+défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement
+et qui est agréé à cet effet par le représentant de l'Etat dans le département sont exonérées, pendant les trois premières
+années de location, de l'impôt sur le revenu pour les produits de cette location, sous réserve que le prix de celle-ci soit
+inférieur à un plafond fixé par décret (2).
+
+Ces dispositions sont également applicables aux loueurs non professionnels qui concluent un contrat de location ou de sous-
+location avec des bénéficiaires du revenu minimum d'insertion ou des étudiants bénéficiant d'une bourse à caractère social.
+
+Les modalités d'agrément ainsi que le contenu des déclarations à souscrire par les personnes et organismes mentionnés au
+présent article sont fixés par décret (3).
+
+---(1) Voir Annexe II, art. 74 T.
+
+---(2) Voir Annexe III, art. 41 DC.
+
+---(3) Voir Annexe III, art. 41 DD à 41 DG.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 52 ter
+  - CGIAN2 74 T
+  - CGIAN3 41 DC, 41 DD à 41 DG
+  - Loi n°90-449 1990-05-31 art. 1
 
 _Modifié par_:
 
-  - Loi n°85-1403 1985-12-30 art. 6 II finances pour 1986 JORF 31 décembre 1985
+  - Loi n°90-449 du 31 mai 1990 - art. 9 () JORF 2 juin 1990
 
 _Codifié par_:
 
-  - Décret n°86-1086 1986-10-07
+  - Décret n°91-883 1991-09-09
