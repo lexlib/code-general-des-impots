@@ -27,24 +27,39 @@ prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 
 bail sont considérés comme des immobilisations lorsque les loyers versés ont été déduits pour la détermination du bénéfice
 non commercial.
 
+((IV. 1. Pour l'application des dispositions du premier alinéa du I aux immeubles acquis dans les conditions prévues au 6 de
+l'article 93 et précédemment donnés en sous-location, l'imposition de la plus-value consécutive au changement de régime
+fiscal peut, sur demande expresse du contribuable, être reportée au moment où s'opérera la transmission de l'immeuble ou, le
+cas échéant, la transmission ou le rachat de tout ou partie des titres de la société propriétaire de l'immeuble ou sa
+dissolution.
+
+((2. Cette disposition s'applique aux plus-values réalisées à compter du 1er janvier 1990.
+
+((3. L'acte qui constate le transfert de propriété des immeubles mentionnés au 1 consécutivement à l'acceptation de la
+promesse unilatérale de vente doit indiquer si le nouveau propriétaire, ou les associés s'il s'agit d'une société, demandent
+le report de l'imposition de la plus-value dans les conditions prévues au 1. A défaut, les dispositions du 1 ne sont pas
+applicables.
+
+((4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables))
+(M).
+
+(M) Modification de la loi.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39 duodecies, 39 terdecies 1 bis, 39 quaterdecies, 39 quindecies, 151 octies
+  - CGI 39 duodecies, 39 terdecies 1 bis, 39 quaterdecies, 39 quindecies, 151 octies, 93
   - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
   - Loi n°66-879 1966-11-29
 
 _Modifié par_:
 
-  - Loi n°88-15 du 5 janvier 1988 - art. 43 () JORF 6 janvier 1988
-  - Loi n°88-1149 du 23 décembre 1988 - art. 33 () JORF 28 décembre 1988
-  - Loi n°89-935 1989-12-29 art. 26 Finances pour 1990 JORF 30 décembre 1990
-  - Loi n°91-1322 1991-12-30 art. 18-I-1°, 2°, II Finances pour 1992 JORF 31 décembre 1991
+  - Loi n°94-126 du 11 février 1994 - art. 31 (V) JORF 13 février 1994
 
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
+  - Décret n°94-899 1994-10-17
 
 _Cité par_:
 
@@ -60,7 +75,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 quindecies (V)
   - Code général des impôts, CGI. - art. 93 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 novovicies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 4 juillet 1992

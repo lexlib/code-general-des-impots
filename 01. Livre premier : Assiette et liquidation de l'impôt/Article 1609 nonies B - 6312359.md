@@ -25,6 +25,11 @@ liées à leur perception.
 En cas de dénonciation de l'accord par une des communes membres, la perception de ces droits et taxes par la communauté ou le
 syndicat d'agglomération nouvelle prend fin sur le territoire de cette commune.
 
+V. ((En cas de rattachement à une communauté ou à un syndicat d'agglomération nouvelle, les dispositions des I et II de
+l'article 1638 quater sont applicables)) (1).
+
+(1) Modification de la loi.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -34,7 +39,7 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
+  - Décret n°94-899 1994-10-17
 
 _Cité par_:
 
@@ -44,10 +49,9 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
+  - HISTO: Edition du 2 septembre 1994
   - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
 
 _Modifié par_:
 
-  - Loi n°91-1256 du 17 décembre 1991 - art. 1 () JORF 19 décembre 1991
-  - Loi - art. 62 () JORF 31 décembre 1991
+  - Loi n°93-1352 du 30 décembre 1993 - art. 93 (V) JORF 31 décembre 1993

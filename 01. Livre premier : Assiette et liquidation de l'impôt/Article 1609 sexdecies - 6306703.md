@@ -29,7 +29,7 @@ c) Emballages industriels :
 
 44 15 20 90. - Caisses-palettes ;
 
-2° 1 p. 100 de la valeur des produits suivants, énumérés selon la même référence :
+2° ((1,65 p. 100 de la valeur des produits suivants, énumérés selon la même référence)) (1) :
 
 a) Sciages :
 
@@ -50,6 +50,15 @@ c) Bois contre-plaqués :
 
 44 12 11 00, 44 12 12 00, 44 12 19 00. - Bois contre-plaqués ;
 
+((2° bis. 0,85 p. 100 de la valeur des produits suivants énumérés selon la même référence :
+
+((44-10-10-10, 44-10-10-30, 44-10-10-50, 44-10-10-90.  Panneaux de particules, à l'exclusion des panneaux revêtus d'autres
+matières que le bois ;
+
+((44-11.  Panneaux en fibre de bois ou d'autres matières ligneuses ;
+
+((44-12.  Panneaux plaqués, exclusivement de bois ou d'autres matières ligneuses ;)) (1)
+
 3° 0,50 p. 100 de la valeur des produits suivants, énumérés selon la même référence :
 
 a) Menuiseries industrielles du bâtiment :
@@ -64,16 +73,9 @@ b) Emballages légers :
 
 44 15 10 10. - Emballages, caisses, caissettes, cageots en bois ;
 
-c) Panneaux :
+c) ((Supprimé)) (1) ;
 
-44 10 10 10, 44 10 10 30, 44 10 10 50, 44 10 10 90. - Panneaux de particules, à l'exclusion des panneaux revêtus d'autres
-matières que le bois ;
-
-44 11. - Panneaux en fibre de bois ou d'autres matières ligneuses ;
-
-44 12. - Panneaux plaqués, exclusivement de bois ou d'autres matières ligneuses ;
-
-4° 0,10 p. 100 de la valeur des produits suivants, énumérés selon la même référence :
+4° ((0,15 p. 100)) (1) de la valeur des produits suivants, énumérés selon la même référence :
 
 48 01. - Papier journal en rouleaux ou en feuilles ;
 
@@ -140,6 +142,8 @@ par le service des douanes selon les mêmes règles, sous les mêmes garanties e
 La base d'imposition est constituée par la valeur définie par la législation douanière conformément aux règlements
 communautaires en vigueur.
 
+(1) Modification de la loi 93-1352 art. 50 II.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -150,14 +154,10 @@ _Cite_:
 
   - CGI 262 ter, 258 A, 275, 1725 à 1740, 287, 1697
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 47 () JORF 19 juillet 1992
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Loi n°93-1352 du 30 décembre 1993 - art. 50 () JORF 31 décembre 1993
+  - Modification directe incorporée dans l'édition du 2 septembre 1994
 
 _Cité par_:
 

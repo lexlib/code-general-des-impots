@@ -10,7 +10,7 @@ sexies, soit à l'article 44 septies ;
 
 Ou créées avant le 31 décembre 1995 et dont la situation nette comptable est représentée à hauteur de 60 p. 100 au moins de
 titres souscrits en numéraire jusqu'au 31 décembre de la quatrième année qui suit la constitution de sociétés mentionnées à
-l'alinéa précédent.
+l'alinéa précédent. (1)
 
 II. Les versements, qui sont retenus dans la limite annuelle de 10.000 F pour les contribuables célibataires, veufs ou
 divorcés, et de 20.000 F pour les contribuables mariés soumis à imposition commune, doivent intervenir jusqu'au 31 décembre
@@ -22,9 +22,8 @@ date de création de la première société au capital de laquelle le contribuab
 40.000 F et 80.000 F.
 
 III. Les souscriptions donnant lieu aux déductions prévues au dernier alinéa de l'article 62, au 2° quater de l'article 83,
-aux articles 163 quindecies et 163 septdecies ou aux réductions d'impôt prévues aux articles 199 quinquies et 199 undecies ne
-peuvent ouvrir droit à la réduction d'impôt mentionnée au I. Cette réduction d'impôt est exclusive du bénéfice des
-dispositions de l'article 163 octodecies.
+aux articles 163 quindecies et 163 septdecies ou ((à la réduction d'impôt prévue à l'article 199 undecies)) (M) ne peuvent
+ouvrir droit à la réduction d'impôt mentionnée au I.
 
 IV. La réduction d'impôt s'applique sur l'impôt calculé dans les conditions fixées par l'article 197 ; elle ne peut donner
 lieu à remboursement.
@@ -47,9 +46,13 @@ Pour l'application des dispositions du I de l'article 1733, la base sur laquelle
 au I est assimilée à une insuffisance de déclaration lorsque la réduction a été pratiquée indûment.
 
 Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
-contribuables et aux sociétés nouvelles (1).
+contribuables et aux sociétés nouvelles (2).
 
-(1) Voir Annexe III art. 46 AI.
+(1) Le bénéfice de la réduction d'impôt prévue au I est supprimé à compter de l'imposition des revenus de 1994.
+
+(M) Modification du décret.
+
+(2) Voir Annexe III art. 46 AI.
 
 **Liens relatifs à cet article**
 
@@ -59,14 +62,18 @@ _Cite_:
   - CGIAN3 46 AI
   - Code de la sécurité sociale. - art. L341-4 (V)
 
-_Modifié par_:
-
-  - Loi - art. 16 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°94-899 1994-10-17
+
+_Modifié par_:
+
+  - Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994 : Conséquences de la péremption des articles 199 quinquies à 199 quinquies G et 163 octodecies
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
+
+**Liens**:
+
+  - HISTO: Edition du 2 septembre 1994

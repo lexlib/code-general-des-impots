@@ -1,9 +1,11 @@
 # Article 750 bis A
 
 Les actes de partage de succession et les licitations de biens héréditaires répondant aux conditions prévues au II de
-l'article 750 établis entre le 1er janvier 1986 et le 31 décembre 1993 sont exonérés du droit de 1 % à hauteur de la valeur
-des immeubles situés en Corse. Ces exonérations s'appliquent à condition que l'acte soit authentique et précise qu'il est
-établi dans le cadre du IV de l'article 11 de la loi n° 85-1403 du 30 décembre 1985.
+l'article 750 établis entre le 1er janvier 1986 et le 31 décembre ((1994)) (1) sont exonérés du droit de 1 % à hauteur de la
+valeur des immeubles situés en Corse. Ces exonérations s'appliquent à condition que l'acte soit authentique et précise qu'il
+est établi dans le cadre du IV de l'article 11 de la loi n° 85-1403 du 30 décembre 1985.
+
+(1) Modification de la loi 93-1353.
 
 **Liens relatifs à cet article**
 
@@ -14,5 +16,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 50 () JORF 5 janvier 1993
-  - Modifications directes incorporées dans l'édition du 18 août 1993
+  - Loi n°93-1353 du 30 décembre 1993 - art. 33 () JORF 31 décembre 1993
+  - Modifications directes incorporées dans l'édition du 2 septembre 1994
