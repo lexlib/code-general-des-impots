@@ -16,21 +16,21 @@ c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 
 II. ((Les taux de la taxe sont fixés comme suit :
 
-((Huile d'olive, 0,936 F/Kg, 0,843 F/litre
+((Huile d'olive, 0,948 F/Kg, 0,854 F/litre
 
-((Huiles d'arachide et de maïs, 0,843 F/Kg, 0,768 F/Litre
+((Huiles d'arachide et de maïs, 0,854 F/Kg, 0,778 F/Litre
 
-((Huiles de colza et de pépins de raisin, 0,432 F/Kg, 0,393 F/litre
+((Huiles de colza et de pépins de raisin, 0,438 F/Kg, 0,398 F/litre
 
 ((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
-internationales ou nationales relatives aux espèces protégées, 0,735 F/Kg, 0,642 F/litre
+internationales ou nationales relatives aux espèces protégées, 0,745 F/Kg, 0,650 F/litre
 
-((Huiles de coprah et de palmiste, 0,562F/Kg
+((Huiles de coprah et de palmiste, 0,569F/Kg
 
-((Huile de palme, 0,514 F/Kg
+((Huile de palme, 0,521 F/Kg
 
 ((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives
-aux espèces protégées, 0,936F F/Kg)) (M).
+aux espèces protégées, 0,948 F/Kg)) (M).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition intracommunautaire incorporant des huiles
 imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition.
@@ -53,13 +53,23 @@ qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, 
 l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de
 l'article 258 A.
 
-(M) Modification de la loi. [*Cf. Instruction 1996-06-20 3P-5-96*].
+[*Cf. Instruction 1996-06-20 3P-5-96*].
+
+(M) Modification de la loi.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1997-01-27 JO du 20 mars 1997
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1995-03-23 3P-6-95
+  - TXT_ASSOCIE: Instruction 1996-06-20 3P-5-96
+  - TXT_ASSOCIE: Instruction 1997-04-17 3P-6-97
+
 _Modifié par_:
 
-  - Loi - art. 40 (P) JORF 31 décembre 1995
+  - Loi n°96-1181 du 30 décembre 1996 - art. 50 () JORF 31 décembre 1996
 
 _Cité par_:
 
@@ -88,9 +98,3 @@ _Anciens textes_:
 _Cite_:
 
   - CGI 262 ter, 258 A, 1609 sexdecies
-
-**Liens**:
-
-  - HISTO: Edition du 12 mai 1996
-  - TXT_ASSOCIE: Instruction 1995-03-23 3P-6-95
-  - TXT_ASSOCIE: Instruction 1996-06-20 3P-5-96

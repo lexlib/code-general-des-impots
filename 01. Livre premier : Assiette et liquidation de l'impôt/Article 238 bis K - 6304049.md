@@ -1,10 +1,10 @@
 # Article 238 bis K
 
-I. Lorsque des droits dans une société ou un groupement mentionnés aux articles 8, 239 quater, 239 quater B ou 239 quater C
-sont inscrits à l'actif d'une personne morale passible de l'impôt sur les sociétés dans les conditions de droit commun ou
-d'une entreprise industrielle, commerciale, artisanale ou agricole imposable à l'impôt sur le revenu de plein droit selon un
-régime de bénéfice réel, la part de bénéfice correspondant à ces droits est déterminée selon les règles applicables au
-bénéfice réalisé par la personne ou l'entreprise qui détient ces droits.
+I. Lorsque des droits dans une société ou un groupement mentionnés aux articles 8, ((8 quinquies)) (M), 239 quater, 239
+quater B ou 239 quater C sont inscrits à l'actif d'une personne morale passible de l'impôt sur les sociétés dans les
+conditions de droit commun ou d'une entreprise industrielle, commerciale, artisanale ou agricole imposable à l'impôt sur le
+revenu de plein droit selon un régime de bénéfice réel, la part de bénéfice correspondant à ces droits est déterminée selon
+les règles applicables au bénéfice réalisé par la personne ou l'entreprise qui détient ces droits.
 
 Si les droits en cause sont détenus par une société ou un groupement mentionnés aux articles visés à l'alinéa précédent et
 qui, exerçant une activité industrielle, commerciale, artisanale ou agricole, relèvent de l'impôt sur le revenu selon le
@@ -21,18 +21,16 @@ Un décret fixe les conditions d'application du deuxième alinéa, notamment en 
 II. Dans tous les autres cas, la part de bénéfice ainsi que les profits résultant de la cession des droits sociaux sont
 déterminés et imposés en tenant compte de la nature de l'activité et du montant des recettes de la société ou du groupement.
 
+(M) Modification de la loi.
+
 (1) Voir Annexe III, art. 46 terdecies E.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 8, 239 quater, 239 quater B, 239 quater C
+  - CGI 8, 8 quinquies, 239 quater, 239 quater B, 239 quater C
   - CGIAN3 46 terdecies E
-
-_Codifié par_:
-
-  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
@@ -40,8 +38,9 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1997-05-28 4A-11-97
 
 _Modifié par_:
 
-  - Loi n°91-716 du 26 juillet 1991 - art. 27 (V) JORF 27 juillet 1991
+  - Loi n°96-1182 du 30 décembre 1996 - art. 26 () JORF 31 décembre 1996

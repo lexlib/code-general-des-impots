@@ -5,13 +5,14 @@ Les titulaires de revenus passibles de l'impôt sur le revenu dans la catégorie
 inférieurs aux limites du forfait ou de l'évaluation administrative et qui ont opté pour un mode réel de détermination du
 résultat et adhéré à un centre de gestion ou à une association agréés bénéficient d'une réduction de la cotisation d'impôt
 sur le revenu égale aux dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de
-gestion ou à une association agréés. Cette réduction, plafonnée à ((6.000 F)) (1) par an, s'applique sur le montant de
-l'impôt sur le revenu calculé dans les conditions fixées par l'article 197 et dans la limite de ce montant.
+gestion ou à une association agréés. Cette réduction, plafonnée à 6.000 F par an, s'applique sur le montant de l'impôt sur le
+revenu calculé dans les conditions fixées par l'article 197 et dans la limite de ce montant. ((Les dispositions du 5 du I de
+l'article 197 sont applicables)) (M).
 
-((Cette réduction d'impôt est maintenue également pour la première année d'application de plein droit du régime réel normal
-ou simplifié d'imposition des bénéfices agricoles)) (1).
+Cette réduction d'impôt est maintenue également pour la première année d'application de plein droit du régime réel normal ou
+simplifié d'imposition des bénéfices agricoles.
 
-(1) Modification de la loi 94-126.
+(1) Modification de la loi 96-1181.
 
 **Liens relatifs à cet article**
 
@@ -21,12 +22,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°94-126 du 11 février 1994 - art. 27 () JORF 13 février 1994
-  - Loi n°93-1352 1993-12-29 art. 2 I Finances pour 1994
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
+  - Loi n°96-1181 du 30 décembre 1996 - art. 83 () JORF 31 décembre 1996
 
 _Cité par_:
 
@@ -50,4 +46,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
+  - HISTO: Edition du 11 avril 1997
