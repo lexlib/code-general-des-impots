@@ -9,8 +9,7 @@ dans celles des trois exercices suivants.
 
 La réévaluation est obligatoire pour les sociétés cotées en Bourse, pour les sociétés dans lesquelles une société cotée
 détient une participation entrant dans le champ de l'établissement de comptes consolidés, ainsi que pour les autres sociétés
-commerciales faisant publiquement appel à l'épargne au sens de l'article 72 ((modifié)) (M) de la loi n° 66-537 du 24 juillet
-1966.
+commerciales faisant publiquement appel à l'épargne au sens de l'article L. 224-3 du code de commerce.
 
 Les immobilisations non amortissables sont réévaluées, en fonction de l'utilité que leur possession présente pour
 l'entreprise le 31 décembre 1976, à leur coût estimé d'acquisition ou de reconstitution en l'état.
@@ -25,8 +24,6 @@ IV. - Un décret en Conseil d'Etat pris après avis du conseil national de la co
 présent article, notamment les techniques de réévaluation, et la nature des obligations incombant aux entreprises. Il adapte
 les dispositions des I à III au cas des professions libérales (1).
 
-(M) Modification.
-
 (1) Annexe II, art. 171 quinquies à 171 quaterdecies.
 
 **Liens relatifs à cet article**
@@ -34,11 +31,15 @@ les dispositions des I à III au cas des professions libérales (1).
 _Cite_:
 
   - CGIAN2 171 quinquies à 171 quaterdecies
-  - Loi n°66-537 1966-07-24 art. 72
+  - Code de commerce. - art. L224-3 (M)
 
 _Modifié par_:
 
-  - Loi n°96-597 du 2 juillet 1996 - art. 96 (V) JORF 4 juillet 1996
+  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -50,4 +51,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 31 mars 2001

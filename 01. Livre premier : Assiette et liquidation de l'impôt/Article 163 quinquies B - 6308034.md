@@ -14,8 +14,8 @@ actifs doivent être constitués de façon constante et pour 40 % au moins de ti
 émis.
 
 a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par des sociétés soumises à l'impôt
-sur les sociétés exerçant une activité visée à l'article 34 et dont les actions ne sont pas admises ((aux négociations sur un
-marché réglementé)) (M) (1).
+sur les sociétés exerçant une activité visée à l'article 34 et dont les actions ne sont pas admises aux négociations sur un
+marché réglementé.
 
 b. Ou aux fins de constitution du capital de sociétés définies au a, réalisée par apport en numéraire après le 1er janvier
 1984 ;
@@ -26,6 +26,9 @@ modifié de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d
 
 Toutefois, jusqu'au 31 décembre 1992, l'exonération s'applique si toute augmentation de l'actif des fonds est investie pour
 50 p. 100 au moins en titres visés au premier alinéa du I de l'article 1er de la loi précitée.
+
+1° ter Les fonds doivent avoir 50 % de leurs actifs constitués par des titres remplissant les conditions prévues aux
+quatrième à neuvième alinéas de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée ;
 
 2° Les sommes ou valeurs réparties doivent être immédiatement réinvesties dans le fonds et demeurer indisponibles pendant la
 période visée au I, premier alinéa ;
@@ -45,33 +48,27 @@ ou licenciement.
 
 IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds mentionnés
 au titre II bis de la loi n° 79-594 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de ceux
-remplissant les conditions prévues au II 2°.
-
-(M) Modification.
-
-(1) Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont applicables à compter de la date d'entrée en
-vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
+remplissant les conditions prévues au II 1°.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 34
-  - CGIAN3 41 W à 41 X, 39 quater, 39 quinquies, 41 sexdecies G, 280 A
   - Loi n°79-594 1979-07-13
   - Loi n°83-1 1983-01-03 art. 23
   - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
-  - Livre des procédures fiscales - art. R87-1 (M)
+  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
   - Code de la sécurité sociale. - art. L341-4 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 27 XV Finances rectificative pour 1998
 
 _Modifié par_:
 
-  - Loi - art. 27 (V) JORF 31 décembre 1998
+  - Loi - art. 8 (V) JORF 31 décembre 2000
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2000-1352 2000-12-30 art. 8 IV, V
+  - HISTO: Edition du 31 mars 2001
 
 _Cité par_:
 

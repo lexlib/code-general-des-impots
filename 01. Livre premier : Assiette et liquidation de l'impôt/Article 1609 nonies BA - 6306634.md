@@ -6,9 +6,27 @@ public d'aménagement de villes nouvelles, l'organe délibérant de l'aggloméra
 commune concernée peuvent, par délibérations concordantes, décider que le taux de la taxe professionnelle acquittée dans
 cette zone sera celui s'appliquant chaque année sur le territoire de l'agglomération nouvelle, convenir de la répartition du
 produit de cette taxe afférent à ladite zone et fixer, en tant que de besoin, leurs obligations réciproques. Ces
-délibérations déterminent également le périmètre de la zone d'activité concernée.
+délibérations déterminent également le périmètre de la zone d'activités concernée.
 
-II. L'agglomération nouvelle se substitue à la commune pour la perception de la taxe professionnelle acquittée dans la zone.
+II. - 1. L'agglomération nouvelle se substitue à la commune pour l'application de l'ensemble des dispositions relatives à la
+taxe professionnelle et perçoit le produit de la taxe acquittée dans la zone.
+
+2. Lorsque les modalités de répartition du produit de la taxe professionnelle entre l'agglomération nouvelle et la commune
+sont fixées par convention, et pour la durée de cette convention :
+
+a. les délibérations applicables sont celles prises par l'agglomération nouvelle. Toutefois, les dispositions du premier
+alinéa du III de l'article 1639 A ter sont applicables ;
+
+b. les allocations compensatrices, prévues au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
+décembre 1986), au III de l'article 52 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire, au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 modifiée relative à la mise en
+oeuvre du pacte de relance pour la ville, au III de l'article 95 de la loi de finances pour 1998 (n° 97-1269 du 30 décembre
+1997), ainsi qu'au D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), sont versées à
+l'agglomération nouvelle. Toutefois, le taux retenu pour le calcul de celles perçues dans la partie de la zone d'activités
+située hors de l'agglomération nouvelle est le taux de référence de la commune ;
+
+c. les dispositions des articles 1648 A et 1648 AA ne s'appliquent pas à la partie de la zone d'activités située hors de
+l'agglomération nouvelle, mais qui fait l'objet de la convention.
 
 III. Toutefois, l'organisme délibérant de l'agglomération nouvelle et le conseil municipal de la commune peuvent décider, par
 délibérations concordantes, de réduire progressivement dans la partie de la zone d'activités située hors de l'agglomération
@@ -17,17 +35,25 @@ Cette réduction de l'écart de taux s'effectue à raison du cinquième par ann�
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°91-1256 du 17 décembre 1991 - art. 3 () JORF 19 décembre 1991
+  - CGI 1639 A ter, 1648 A, 1648 AA
+  - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
+  - Loi n°95-115 du 4 février 1995 - art. 52 (M)
+  - Loi n°96-987 du 14 novembre 1996 - art. 4 ()
+  - Loi n°97-1269 1997-12-30 art. 95 Finances pour 1998
+  - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
 
 _Modifié par_:
 
-  - Loi n°92-125 du 6 février 1992 - art. 102 () JORF 8 février 1992
-
-_Codifié par_:
-
-  - Décret n°92-836 1992-08-27
+  - Loi n°2000-656 du 13 juillet 2000 - art. 37 () JORF 14 juillet 2000
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 86 () JORF 14 décembre 2000
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 87 () JORF 14 décembre 2000
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 92 () JORF 14 décembre 2000
 
 _Cité par_:
 
@@ -36,7 +62,3 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5334-5 (VT)
   - Code général des collectivités territoriales - art. L5334-7 (V)
   - Code général des collectivités territoriales - art. L5334-9 (VT)
-
-**Liens**:
-
-  - HISTO: Edition du 4 juillet 1992

@@ -17,26 +17,7 @@ c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 II. – Les taux de la taxe sont révisés chaque année au mois de décembre, par arrêté du ministre chargé du budget publié au
 Journal officiel, en fonction de l'évolution prévisionnelle en moyenne annuelle pour l'année suivante des prix à la
 consommation de tous les ménages hors les prix du tabac. Les évolutions prévisionnelles prises en compte sont celles qui
-figurent au rapport économique, social et financier annexé au dernier projet de loi de finances. Ces taux sont fixés comme
-suit :
-
-Huile d'olive, 0,981 F/Kg, 0,883 F/litre
-
-Huiles d'arachide et de maïs, 0,883 F/Kg, 0,804 F/Litre
-
-Huiles de colza et de pépins de raisin, 0,453 F/Kg, 0,412 F/litre
-
-Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
-internationales ou nationales relatives aux espèces protégées, 0,771 F/Kg, 0,672 F/litre
-
-Huiles de coprah et de palmiste, 0,588 F/Kg
-
-Huile de palme, 0,539 F/Kg
-
-Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux
-espèces protégées, 0,981 F/Kg.
-
-Ces taux sont applicables à compter du 1er janvier 2000.
+figurent au rapport économique, social et financier annexé au dernier projet de loi de finances.
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition intracommunautaire incorporant des huiles
 imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition.
@@ -59,15 +40,23 @@ qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, 
 l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de
 l'article 258 A.
 
+**Nota:**
+
+NOTA : Dans les dispositions de nature réglementaire, les références au "budget annexe des prestations sociales agricoles"
+sont remplacées par les références à "l'établissement de gestion du fonds de financement des prestations sociales des non-
+salariés agricoles", cf décret 2004-1428 du 23 décembre 2004 article 14.
+
+Ces dispositions entrent en vigueur le 1er janvier 2005.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi - art. 53 () JORF 31 décembre 1999
 
 _Codifié par_:
 
-  - Décret n°2000-477 2000-06-02
+  - Décret n°2001-435 2001-05-21
+
+_Modifié par_:
+
+  - Décret n°2001-435 du 21 mai 2001 - art. 1 () JORF 23 mai 2001
 
 _Cité par_:
 
@@ -97,9 +86,9 @@ _Anciens textes_:
 _Cite_:
 
   - CGI 262 ter, 258 A
+  - Instruction 2002-12-26 3P-4-02
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 2000-03-13 3P-5-00
-  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01
+  - HISTO: Edition du 31 mars 2001
+  - TXT_ASSOCIE: Instruction 2003-06-06 3P-3-03

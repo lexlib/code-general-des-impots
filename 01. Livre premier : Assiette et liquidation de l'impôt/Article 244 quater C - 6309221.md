@@ -7,21 +7,20 @@ dépenses retenues sont celles exposées en sus de ces obligations.
 Ce crédit d'impôt est égal à 35 p. 100 :
 
 a) De la différence entre le montant des dépenses de formation mentionnées au livre IX du code du travail, exposées au cours
-de l'année, et celui des dépenses de même nature exposées au cours de l'année précédente, revalorisées en fonction de
+de l'année, et celui des dépenses de même nature exposées au cours de l'année précédente revalorisées en fonction de
 l'évolution des rémunérations, au sens du 1 de l'article 231, versées par l'entreprise ;
 
 b) (Abrogé).
 
 c) Et du produit de la somme de 3 000 F par la différence entre le nombre d'élèves accueillis dans l'entreprise au cours de
-l'année et celui de l'année précédente en application de l'article 7 de la loi n° 89-486 du 10 juillet 1989 d'orientation sur
-l'éducation ou en vue de la préparation du brevet de technicien supérieur prévu à l'article 35 du décret n° 59-57 du 6
-janvier 1959 portant réforme de l'enseignement public. Pour le décompte du nombre d'élèves, sont pris en compte les élèves
-des établissements d'enseignement public ou sous contrat d'association ayant conclu une convention avec une entreprise, qui
-sont accueillis pour une période de formation dans l'entreprise d'une durée au moins égale à huit semaines au cours de
-l'année considérée.
+l'année et celui de l'année précédente en application de l'article L. 331-4 du code de l'éducation ou en vue de la
+préparation du brevet de technicien supérieur prévu à l'article 35 du décret n° 59-57 du 6 janvier 1959 portant réforme de
+l'enseignement public. Pour le décompte du nombre d'élèves, sont pris en compte les élèves des établissements d'enseignement
+public ou sous contrat d'association ayant conclu une convention avec une entreprise, qui sont accueillis pour une période de
+formation dans l'entreprise d'une durée au moins égale à huit semaines au cours de l'année considérée.
 
 Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de leur création ou aux entreprises qui exposent pour
-la première fois des dépenses de formation définies à l'alinéa précédent est égal à 25 p. 100 de ces dépenses exposées au
+la première fois des dépenses de formation définies à l'alinéa précédent est égal à 35 p. 100 de ces dépenses exposées au
 cours de l'année en cause.
 
 II. Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à un million de francs. Il
@@ -29,7 +28,7 @@ s'apprécie en prenant en compte la fraction du crédit d'impôt correspondant a
 mentionnées aux articles 8, 238 bis L, 238 ter et 239 ter, et aux droits des membres de groupements mentionnés aux articles
 239 quater, 239 quater A, 239 quater B, 239 quater C et 239 quinquies.
 
-Ce plafond est majoré, dans la limite globale de 5 millions de francs, de la part du crédit d'impôt qui provient de
+Ce plafond est majoré, dans la limite globale de 5 millions de francs de la part du crédit d'impôt qui provient de
 l'augmentation des dépenses suivantes :
 
 a. Les dépenses exposées au profit des salariés occupant les emplois les moins qualifiés. Ces emplois sont ceux qui ne
@@ -65,18 +64,16 @@ _Cite_:
 
   - CGI 235 ter D, 235 ter KA, 231, 8, 238 bis L, 238 ter, 239 ter, 239 quater, 239 quater A, 239 quater B, 239 quater C, 239 quinquies
   - Décret n°59-57 1959-01-06 art. 35
-  - Loi n°89-486 du 10 juillet 1989 - art. 7 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-1173 1999-12-30 art. 35 II Finances rectificative pour 1999
-  - TXT_ASSOCIE: Instruction 2000-03-22 4A-4-00
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 1999-02-19 4A-4-99
+  - Code de l'éducation - art. L331-4 (V)
 
 _Modifié par_:
 
-  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+  - Ordonnance 2000-549 2000-06-15 art. 3 I, art. 7 96° JORF 16 juin 2000
+  - Rapport - art. 3 (V) JORF 16 juin 2000
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -100,3 +97,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies S (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies T (V)
   - Livre des procédures fiscales - art. L172 G (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+  - TXT_ASSOCIE: Instruction 1999-02-19 4A-4-99
+  - TXT_ASSOCIE: Instruction 2000-03-22 4A-4-00

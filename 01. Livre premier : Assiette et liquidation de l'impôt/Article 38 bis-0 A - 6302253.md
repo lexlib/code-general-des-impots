@@ -1,9 +1,8 @@
 # Article 38 bis-0 A
 
-I. - 1. Les valeurs, titres ou effets mis en pension par une personne morale dans les conditions prévues à l'article 12 de la
-loi n° 93-1444 du 31 décembre 1993 portant diverses dispositions relatives à la Banque de France, à l'assurance, au crédit et
-aux marchés financiers sont, pour l'application des dispositions du présent code, réputés ne pas avoir été cédés sous réserve
-des dispositions de l'article 12 mentionné ci-dessus.
+I. - 1. Les valeurs, titres ou effets mis en pension par une personne morale dans les conditions prévues aux articles L.
+432-12 à L. 432-19 du code monétaire et financier sont, pour l'application des dispositions du présent code, réputés ne pas
+avoir été cédés sous réserve des dispositions des articles précités.
 
 2. Les valeurs, titres ou effets mis en pension sont maintenus à l'actif du bilan du cédant ; le montant de la dette vis-à-
 vis du cessionnaire est inscrit au passif du bilan. Les valeurs, titres ou effets et cette dette sont individualisés à une
@@ -35,19 +34,23 @@ souscrits à la date la plus récente antérieure à la défaillance.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Loi n°93-1444 1993-12-31 art. 12
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I 91° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°93-1444 1993-12-31 art. 12 VI à VIII X JORF 5 janvier 1994
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
   - Code général des impôts, CGI. - art. 39 duodecies (V)
 
+_Cite_:
+
+  - Code monétaire et financier L432-12 à L432-19
+
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 1995-04-18 4H-7-95
+  - HISTO: Edition du 31 mars 2001
