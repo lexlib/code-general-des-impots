@@ -32,35 +32,37 @@ modalités prévues au 1 jusqu'à leur cession ou leur restitution au prêteur i
 la plus ancienne. Les achats ultérieurs de titres de même nature sont affectés par priorité au remplacement des titres
 empruntés. 
 
-((II bis. Les dispositions des I et II s'appliquent sous les mêmes conditions aux remises en pleine propriété, à titre de
-garantie, de valeurs, titres ou effets, prévues au quatrième alinéa de l'article 52 de la loi n° 96-597 du 2 juillet 1996 de
-modernisation des activités financières effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de
-gré à gré ainsi qu'aux remises de titres prévues au c de l'article 31 de la loi mentionnée au I)) (M).
+((II bis. Les dispositions du chapitre V de la loi citée au I s'appliquent sous les mêmes conditions aux remises en pleine
+propriété, à titre de garantie, de valeurs, titres ou effets prévues au quatrième alinéa de l'article 52 de la loi n° 96-597
+du 2 juillet 1996 de modernisation des activités financières effectuées dans le cadre d'opérations à terme d'instruments
+financiers réalisées de gré à gré, aux remises de titres prévues au c de l'article 31 de la loi n° 87-416 du 17 juin 1987
+précitée, ainsi qu'aux remises prévues à l'article 93-2 de la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité
+et au contrôle des établissements de crédit)) (M).
 
-III. 1 ((A défaut de restitution des espèces, des valeurs, titres ou effets remis en garantie ou des titres prêtés
+III. 1 A défaut de restitution des espèces, des valeurs, titres ou effets remis en garantie ou des titres prêtés
 correspondant à ces remises, leur cession est réalisée d'un point de vue fiscal, à la date de la défaillance.
 
-((2 Pour l'application des dispositions de l'article 39 duodecies, les valeurs, titres ou effets transférés sont censés avoir
-été détenus jusqu'à la date de leur remise en garantie ou, pour les titre prêtés mentionnés au I, jusqu'à la date du prêt))
-(M).
+2 Pour l'application des dispositions de l'article 39 duodecies, les valeurs, titres ou effets transférés sont censés avoir
+été détenus jusqu'à la date de leur remise en garantie ou, pour les titre prêtés mentionnés au I, jusqu'à la date du prêt.
 
-(M) Modification de la loi 96-597.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 39 duodecies
+  - Loi n°84-46 du 24 janvier 1984 - art. 93-2 (Ab)
   - Loi n°87-416 1987-06-17 art. 31
   - Loi n°96-597 du 2 juillet 1996 - art. 52 (M)
 
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+
 _Modifié par_:
 
-  - Loi n°96-597 du 2 juillet 1996 - art. 53 () JORF 4 juillet 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - Loi n°98-261 du 6 avril 1998 - art. 7 () JORF 7 avril 1998
 
 _Cité par_:
 
@@ -69,8 +71,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 (M)
   - Code général des impôts, CGI. - art. 38 bis A (VD)
   - Code monétaire et financier - art. L211-23 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1993-03-26 4A-10-93

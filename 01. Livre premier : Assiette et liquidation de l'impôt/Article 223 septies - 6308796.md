@@ -13,16 +13,16 @@ montant fixé à :
 
 25 000 F pour les personnes morales dont le chiffre d'affaires est compris entre 10 000 000 F et 50 000 000 F ;
 
-((50 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est compris entre 50 000 000 F et 100 000 000 F ;
+((100 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est compris entre 50 000 000 F et 100 000 000 F ;
 
-((75 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est compris entre 100 000 000 F et 500 000 000 F ;
+((125 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est compris entre 100 000 000 F et 500 000 000 F ;
 
-((150 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est égal ou supérieur à 500 000 000 F.
+((200 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est égal ou supérieur à 500 000 000 F.
 
 Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaires, tous droits et taxes compris, du dernier
 exercice clos.
 
-Cette imposition n'est pas applicable aux organismes sans but lucratif visés à l'article 206-5 ainsi qu'aux personnes morales
+Cette imposition n'est pas applicable aux organismes sans but lucratif visés à l'article 206 5 ainsi qu'aux personnes morales
 exonérées de l'impôt sur les sociétés en vertu des articles 207 et 208.
 
 Les sociétés dont le capital est constitué pour la moitié au moins par des apports en numéraire sont, pour leurs trois
@@ -41,7 +41,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 32 () JORF 31 décembre 1997
+  - Loi - art. 8 () JORF 31 décembre 1998
 
 _Cité par_:
 
@@ -56,5 +56,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 mars 1999
   - TXT_ASSOCIE: Instruction 1998-01-14 4L-1-98
+  - TXT_ASSOCIE: Instruction 1999-01-18 4L-1-99
+  - TXT_ASSOCIE: Instruction 1999-02-16 4H-1-99
