@@ -5,13 +5,12 @@ territoriales ou issues de la transformation d'un syndicat d'agglomération nouv
 nouvelle conformément aux dispositions de l'article L. 5341-2 du code général des collectivités territoriales, les
 communautés urbaines soumises de plein droit ou après option aux dispositions du présent article sont substituées aux
 communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des I et II des
-articles 1648 A et 1648 AA ainsi que du 3° du II de l'article 1648 B, et perçoivent le produit de cette taxe.
+articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
 
 2° Les communautés de communes faisant application des dispositions fiscales prévues au III de l'article 1609 quinquies C et,
 jusqu'au 1er janvier 2002, les districts faisant application des dispositions de l'article 1609 quinquies A et les
 communautés de villes sont substitués aux communes membres pour l'application des dispositions relatives à la taxe
-professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA ainsi que du 3° du II de l'article 1648 B, et
-perçoivent le produit de cette taxe.
+professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
 
 II. 1° Les établissements publics de coopération intercommunale visés au I peuvent décider, par délibération du conseil de
 l'établissement public de coopération intercommunale statuant à la majorité simple de ses membres, de percevoir la taxe
@@ -88,7 +87,7 @@ fixé par le conseil de l'établissement public de coopération intercommunale d
 1636 B decies lorsqu'il est fait application du I du présent article.
 
 3° En cas de rattachement d'une commune à un établissement public de coopération intercommunale faisant application du
-présent article, les dispositions des I, II et V de l'article 1638 quater sont applicables.
+présent article, les dispositions des I, II, II bis et V de l'article 1638 quater sont applicables.
 
 Pour le rattachement de toute nouvelle commune à une communauté d'agglomération issue de la transformation d'un syndicat
 d'agglomération nouvelle, les dispositions de l'article 1638 quater sont applicables.
@@ -142,15 +141,22 @@ intercommunale réduit le montant de l'attribution de compensation à due concur
 contribution demandée aux communes par le syndicat.
 
 2° L'attribution de compensation est égale au produit de taxe professionnelle, y compris la compensation prévue au I du D de
-l'article 44 modifié de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les compensations
-prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 modifiée relative à la mise en oeuvre du pacte de relance
-pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées
-antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n°
-86-1317 du 30 décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire
-diminué du coût net des charges transférées calculé dans les conditions définies au IV. L'attribution de compensation est
-majorée d'une fraction de la contribution d'une commune définie à l'article L302-8 du code de la construction et de
-l'habitation. Cette fraction est égale à la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal de
-la commune. Cette attribution est recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+l'article 44 modifié de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), celle prévue au B de l'article 26 de
+la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002), et, le cas échéant, les compensations prévues au B de
+l'article 4 de la loi n° 96-987 du 14 novembre 1996 modifiée relative à la mise en oeuvre du pacte de relance pour la ville
+ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées antérieurement
+aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
+décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût
+net des charges transférées calculé dans les conditions définies au IV. L'attribution de compensation est majorée d'une
+fraction de la contribution d'une commune définie à l'article L302-8 du code de la construction et de l'habitation. Cette
+fraction est égale à la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal de la commune. Cette
+attribution est recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+
+2° bis Le montant de l'attribution de compensation, les conditions et la date d'effet de sa révision peuvent être fixés
+librement par délibérations concordantes des neuf dixièmes au moins des conseils municipaux des communes membres représentant
+plus des quatre cinquièmes de la population de celles-ci, ou des quatre cinquièmes au moins des conseils municipaux de ces
+communes représentant plus des neuf dixièmes de la population, en tenant compte notamment du rapport de la commission
+consultative d'évaluation des transferts de charges.
 
 3° Lorsqu'il est fait application à un établissement public de coopération intercommunale doté d'une fiscalité propre des
 dispositions du présent article, l'attribution de compensation versée chaque année aux communes membres est égale à la
@@ -257,12 +263,13 @@ pour le régime fiscal prévu au présent article ou dont la communauté de comm
 
 _Cite_:
 
-  - CGI 1648 A, 1648 AA, 1648 B, 1609 quinquies C, 1609 quinquies A, 1639 A, 1636 B decies, 1638 quater, 1390, 1391, 1414, 1383 B
+  - CGI 1648 A, 1648 AA, 1609 quinquies C, 1609 quinquies A, 1639 A, 1636 B decies, 1638 quater, 1383 B, 1390, 1391, 1414
   - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
   - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992
   - Loi n°96-987 du 14 novembre 1996 - art. 4 ()
   - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
   - Loi n°99-586 1999-07-12
+  - Loi n°2002-1575 2002-12-30 art. 26 Finances pour 2003
   - Code général des collectivités territoriales - art. L5211-41-1 (M)
   - Code général des collectivités territoriales - art. L5211-5 (M)
   - Code général des collectivités territoriales - art. L5215-40-1 (M)
@@ -365,16 +372,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-276 du 27 février 2002 - art. 51 () JORF 28 février 2002
-  - Loi n°2002-276 du 27 février 2002 - art. 59 () JORF 28 février 2002
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
+  - Loi - art. 61 (V) JORF 31 décembre 2003
+  - Loi - art. 62 () JORF 31 décembre 2003
+  - Loi - art. 63 () JORF 31 décembre 2003
+  - Loi n°2003-1311 2003-12-30 art. 53 VI 4 Finances pour 2003 JORF 31 décembre 2003
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 61 III
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
   - TXT_ASSOCIE: Instruction 2002-07-03 6A-4-02

@@ -29,11 +29,11 @@ licences des transporteurs aériens.
 
 II. - Le tarif de la taxe est le suivant :
 
-3,92 euros par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
+4,48 euros par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
 
-6,66 euros par passager embarqué vers d'autres destinations ;
+7,60 euros par passager embarqué vers d'autres destinations ;
 
-1,02 euro par tonne de courrier ou de fret embarquée.
+1,17 euro par tonne de courrier ou de fret embarquée.
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois
 considéré, arrondi à la tonne inférieure.
@@ -94,12 +94,7 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 _Modifié par_:
 
-  - Loi - art. 30 () JORF 29 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
-  - HISTO: Edition du 31 mars 2002
+  - Loi - art. 44 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -127,3 +122,7 @@ _Cite_:
 
   - CGI 1729, 1728
   - Règlement CEE 2407/92 1992-07-23 art. 1er (Conseil)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
