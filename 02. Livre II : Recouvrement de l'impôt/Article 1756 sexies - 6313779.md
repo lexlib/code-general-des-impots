@@ -8,23 +8,26 @@ comportent les déclarations.
 2. Le bénéfice de cette mesure est subordonné à la double condition :
 
 a. Que ces insuffisances, inexactitudes ou omissions n'aient fait l'objet, antérieurement à la date d'expédition de la lettre
-recommandée mentionnée au 1, de l'engagement d'aucune procédure administrative ou judiciaire ni d'aucune notification de
-redressement ; 
+recommandée mentionnée au 1, de l'engagement d'aucune procédure administrative ou judiciaire ni d'aucune proposition de
+rectification ; 
 
-b. Que l'impôt en principal soit acquitté dans les délais impartis (1). 
-
-(1) Dispositions applicables à compter du 1er janvier 1983.
+b. Que l'impôt en principal soit acquitté dans les délais impartis.
 
 **Liens relatifs à cet article**
 
+_Abrogé par_:
+
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 16 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
 _Codifié par_:
 
-  - Décret n°83-899 1983-10-06
+  - Décret n°2006-356 2006-03-24
 
 **Liens**:
 
-  - HISTO: Edition du 10 juillet 1983
+  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 31 août 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
