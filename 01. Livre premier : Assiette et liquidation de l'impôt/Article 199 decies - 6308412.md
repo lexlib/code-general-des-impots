@@ -2,11 +2,10 @@
 
 I. La réduction d'impôt prévue à l'article 199 nonies est accordé aux contribuables qui, pour la gestion de leur patrimoine
 personnel, souscrivent entre le 1er janvier 1985 et le 31 décembre 1989 à la constitution ou à l'augmentation du capital des
-sociétés immobilières d'investissement [*SII*] visées aux I de l'article 33 de la loi n° 63-254 du 15 mars 1963 ou des
-sociétés civiles de placement immobilier [*SCPI*], régies par la loi n° 70-1300 du 31 décembre 1970 ((modifiée)) (M) lorsque
-le produit de cette souscription est exclusivement destiné à financer la construction ou l'acquisition d'immeubles locatifs
-neufs situés en France et affectés pour les trois quarts au moins de leur superficie à usage d'habitation. Les titres acquis
-dans le cadre d'un plan d'épargne en vue de la retraite ne sont pas pris en compte.
+sociétés immobilières d'investissement visées aux I de l'article 33 de la loi n° 63-254 du 15 mars 1963 ou des sociétés
+civiles de placement immobilier, régies par la loi n° 70-1300 du 31 décembre 1970 modifiée lorsque le produit de cette
+souscription est exclusivement destiné à financer la construction ou l'acquisition d'immeubles locatifs neufs situés en
+France et affectés pour les trois quarts au moins de leur superficie à usage d'habitation.
 
 La réduction d'impôt est calculée sur les trois quarts du montant de la souscription. Elle s'applique à l'impôt dû au titre
 de l'année de la souscription à condition que le contribuable s'engage à conserver les titres pendant la période définie au
@@ -29,30 +28,21 @@ Cette réduction peut être pratiquée chaque année en cas de souscriptions suc
 
 III. Un décret fixe les obligations incombant aux contribuables et aux sociétés mentionnés au présent article.
 
-(M) Modification de la loi.
-
-(1) Annexe III, art. 46 AB à 46 AG.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 199 nonies
-  - CGIAN4 46 AB à 46 AG
   - Loi n°63-254 1963-03-15 art. 33 I
   - Loi n°70-1300 1970-12-31
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
+  - HISTO: Edition du 31 mars 2000
 
 _Modifié par_:
 
-  - Loi n°93-6 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
+  - Loi - art. 12 (V) JORF 31 décembre 1999
 
 _Cité par_:
 

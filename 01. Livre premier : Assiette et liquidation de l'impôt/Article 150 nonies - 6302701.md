@@ -13,7 +13,7 @@ prix moyen pondéré.
 Les opérations qui ne sont pas dénouées au 31 décembre sont prises en compte pour la détermination du profit de l'année au
 cours de laquelle elles sont dénouées.
 
-3. Le 6 de l'article 94 A, l'article 96 A et le 2 de l'article 200 A sont applicables.
+3. Le 11 de l'article 150-0 D, l'article 96 A et le 2 de l'article 200 A sont applicables.
 
 4. Un décret fixe les obligations déclaratives incombant aux intermédiaires (1).
 
@@ -24,15 +24,12 @@ fiscales.
 
 _Cite_:
 
-  - CGI 94 A 6, 96 A, 200 A
+  - CGI 150-0 D, 96 A, 200 A
+  - Livre des procédures fiscales R96 C, 41 septdecies L à 41 septdecies O
 
 _Modifié par_:
 
-  - Loi n°92-666 1992-07-16 art. 6 JORF 18 juillet 1992
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Loi - art. 94 (V) JORF 31 décembre 1999
 
 _Cité par_:
 
@@ -42,4 +39,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 mars 2000
