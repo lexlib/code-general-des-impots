@@ -75,19 +75,19 @@ définie au premier alinéa pour les années 1993 à 1996 lorsque le contribuabl
 dans les six mois de son achèvement ou de son acquisition si elle est postérieure pendant cinq ans au moins à des personnes
 qui en font leur habitation principale, ou si le bénéficiaire en fait lui-même son habitation principale.
 
-((La réduction d'impôt est portée à 50 p. 100 de la base définie au premier alinéa pour les années 1996 à 2001 si les
+La réduction d'impôt est portée à 50 p. 100 de la base définie au premier alinéa pour les années 1996 à 2001 si les
 conditions suivantes sont réunies :
 
-((1° Les investissements sont réalisés à compter du 1er juillet 1996 et consistent en l'acquisition ou la construction de
+1° Les investissements sont réalisés à compter du 1er juillet 1996 et consistent en l'acquisition ou la construction de
 logements neufs à usage locatif ou la souscription au capital de sociétés visées aux b et c du deuxième alinéa du 1 et qui
 ont pour objet de construire ou d'acquérir de tels logements ;
 
-((2° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition
-si elle est postérieure et pendant six ans au moins à des personnes qui en font leur habitation principale. En cas de
+2° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si
+elle est postérieure et pendant six ans au moins à des personnes qui en font leur habitation principale. En cas de
 souscription au capital de sociétés visées aux b et c du 1, le contribuable s'engage à conserver ses parts ou actions pendant
 au moins six ans ;
 
-((3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret) (M).
+3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret.
 
 4. En cas de non-respect des engagements mentionnés au 1, de cession de l'immeuble ou des parts et titres ou de non-respect
 de leur objet exclusif par les sociétés concernées, ou de dissolution de ces sociétés, la réduction d'impôt pratiquée fait
@@ -98,8 +98,8 @@ l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une f
 s'engage dans l'acte d'apport ou de fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour la fraction du
 délai restant à courir (1).
 
-Quand un contribuable pratique la réduction d'impôt définie au présent article, les dispositions du a du 1° de l'article 199
-sexies et des articles 199 nonies à 199 decies B ne sont pas applicables.
+Quand un contribuable pratique la réduction d'impôt définie au présent article, ((les dispositions du a du 1° du I de
+l'article 199 sexies)) (M) et des articles 199 nonies à 199 decies B ne sont pas applicables.
 
 La location d'un logement neuf consentie dans des conditions fixées par décret à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt.
@@ -110,37 +110,42 @@ immeubles acquis en l'état futur d'achèvement avant le 1er janvier 1986.
 6. Les dispositions du présent article sont applicables, dans les mêmes conditions, aux territoires d'outre-mer et aux
 collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
 
-7. La réduction s'applique sur l'impôt calculé dans les conditions fixées à l'article 197 et avant imputation de l'avoir
-fiscal, des crédits d'impôts et des prélèvements ou retenues non libératoires ; elle ne peut donner lieu à remboursement.
-
-(M) Modification de la loi 96-314.
+7. ((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
 
 (1) Ces dispositions s'appliquent aux opérations intervenues à compter du 1er janvier 1994.
 
+(M) Modification de la loi 96-1181.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 238 bis HA, 210 A, 210 B, 199 sexies, 199 nonies à 199 decies B, 197
+  - Loi n°70-1300 1970-12-31
 
 _Anciens textes_:
 
   - CGI 238 bis HD
 
-_Cite_:
-
-  - CGI 238 bis, 210 A, 210 B, 199 sexies, 199 nonies à 199 decies, 197, 11, 20
-  - Loi n°70-1300 1970-12-31
-
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
+  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 12 I, art. 16, JO du 31 mars, en vigueur le 1er mai 1996
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 16 (M)
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1996-02-07 4A-3-96
   - TXT_ASSOCIE: Instruction 1997-02-07 4A-2-97
   - TXT_ASSOCIE: Instruction 1997-02-07 5B-6-97
   - TXT_ASSOCIE: Instruction 1997-03-07 4A-6-97
   - TXT_ASSOCIE: Instruction 1997-03-07 5B-11-97
-  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 12 I, art. 16, JO du 31 mars, en vigueur le 1er mai 1996
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 16 (M)
+
+_Modifié par_:
+
+  - Loi n°96-1181 du 30 décembre 1996 - art. 83 () JORF 31 décembre 1996
+  - Loi n°96-1181 du 30 décembre 1996 - art. 89 () JORF 31 décembre 1996
 
 _Codifié par_:
 
-  - Décret n°96-556 1996-06-21
+  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 

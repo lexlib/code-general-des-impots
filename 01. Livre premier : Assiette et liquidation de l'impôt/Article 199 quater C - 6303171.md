@@ -11,7 +11,7 @@ brut désigné à l'article 83, après déduction des cotisations et des contrib
 La réduction d'impôt ne s'applique pas aux bénéficiaires de traitements et salaires admis à justifier du montant de leurs
 frais réels.
 
-Les dispositions du II de l'article 199 sexies A sont applicables.
+((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
 
 Le bénéfice de la réduction d'impôt est subordonné à la condition que soit joint à la déclaration des revenus un reçu du
 syndicat mentionnant le montant et la date du versement. A défaut, la réduction d'impôt est refusée sans notification de
@@ -19,11 +19,14 @@ redressement préalables.
 
 (1) Pour l'imposition des revenus de 1989 et 1990, le taux de la réduction était fixé à 20 %.
 
+(M) Modification de la loi 96-1181.
+
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Cite_:
 
-  - Loi - art. 110 () JORF 30 décembre 1990
+  - CGI 83, 197
+  - Code du travail - art. L133-2 (M)
 
 _Cité par_:
 
@@ -35,4 +38,8 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 24 juin 1991
+  - HISTO: Edition du 11 avril 1997
+
+_Modifié par_:
+
+  - Loi n°96-1181 du 30 décembre 1996 - art. 89 () JORF 31 décembre 1996

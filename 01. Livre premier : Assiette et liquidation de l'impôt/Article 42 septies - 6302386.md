@@ -13,20 +13,19 @@ fractions égales, au bénéfice imposable des années pendant lesquelles lesdit
 du contrat accordant la subvention ou, à défaut de clause d'inaliénabilité, au bénéfice des dix années suivant celle du
 versement de la subvention.
 
-((En cas de cession des immobilisations visées aux deux alinéas qui précèdent, la fraction de la subvention non encore
+((En cas de cession des immobilisations visées aux deuxième et troisième alinéas, la fraction de la subvention non encore
 rapportée aux bases de l'impôt est comprise dans le bénéfice imposable de l'exercice au cours duquel cette cession est
-intervenue. Toutefois, pour les opérations placées sous les régimes prévus aux articles 151 octies ou 210 A, sur option
-exercée dans l'acte d'apport ou le traité de fusion, cette fraction est rapportée aux résultats de la société bénéficiaire de
-l'apport, par parts égales, sur la période mentionnée au troisième alinéa restant à courir à la date de cette opération pour
-les biens non amortissables, et sur la durée d'amortissement pour les biens amortissables. En cas de cession ultérieure des
-biens en cause, la fraction de la subvention non encore rapportée au résultat imposable de la société bénéficiaire de
-l'apport sera comprise dans son bénéfice imposable de l'exercice de cession)) (1).
+intervenue. Toutefois, pour les opérations mentionnées au I de l'article 151 octies ou placées sous le régime prévu à
+l'article 210 A, sur option exercée dans l'acte d'apport ou le traité de fusion, cette fraction est rapportée aux résultats
+de la société bénéficiaire de l'apport, par parts égales, sur la période mentionnée au troisième alinéa restant à courir à la
+date de cette opération pour les biens non amortissables, et sur la durée d'amortissement pour les biens amortissables. En
+cas de cession ultérieure des biens en cause, la fraction de la subvention non encore rapportée au résultat imposable de la
+société bénéficiaire de l'apport sera comprise dans son bénéfice imposable de l'exercice de cession)) (M).
 
 2  Les dispositions du 1 sont applicables aux subventions d'équipement versées à leurs adhérents par les groupements
 professionnels agréés prévus par le décret n° 55-877 du 30 juin 1955.
 
-(1) Modification. Ces dispositions s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er
-janvier 1995.
+(M) Modification de la loi 96-1181. Ces dispositions s'appliquent aux apports réalisés à compter du 1er janvier 1997.
 
 **Liens relatifs à cet article**
 
@@ -35,18 +34,13 @@ _Cite_:
   - CGI 151 octies, 210 A
   - Décret n°55-877 1955-06-30
 
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995
-  - TXT_ASSOCIE: Instruction 1995-04-25 4A-4-95
-
 _Modifié par_:
 
-  - Loi n°94-1162 du 29 décembre 1994 - art. 61 (V) JORF 30 décembre 1994
+  - Loi n°96-1181 du 30 décembre 1996 - art. 111 (V) JORF 31 décembre 1996
 
 _Codifié par_:
 
-  - Décret n°95-1281 1995-12-11
+  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 
@@ -57,3 +51,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 93 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 K (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies OD (V)
+
+**Liens**:
+
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1995-04-25 4A-4-95
+  - TXT_ASSOCIE: Instruction 1997-04-23 4A-8-97
