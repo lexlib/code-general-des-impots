@@ -8,19 +8,25 @@ prestations sanitaires visé en application de l'article L. 314-1 du code de la 
 équipements spéciaux, dénommés aides techniques, dont la liste est fixée par arrêté du ministre chargé du budget et qui sont
 conçus exclusivement pour les personnes handicapées en vue de la compensation d'incapacités graves.
 
-((Le taux réduit de 5,50 p. 100 s'applique également aux opérations d'importation, d'acquisition intracommunautaire ou de
+La taxe sur la valeur ajoutée est perçue au taux de 5,5 % en ce qui concerne les opérations d'importation, d'acquisition
+intracommunautaire ou de livraison portant sur :
+
+a. Les autopiqueurs, les appareils pour lecture automatique chiffrée de la glycémie, les seringues pour insuline, les stylos
+injecteurs d'insuline et les bandelettes et comprimés pour l'autocontrôle du diabète ;
+
+b. Les appareillages de recueil pour incontinents et stomisés digestifs ou urinaires, les appareillages d'irrigation pour
+colostomisés, les sondes d'urétérostomie cutanée pour stomisés urinaires, les solutions d'irrigation vésicale et les sondes
+vésicales pour incontinents urinaires.
+
+Le taux réduit de 5,50 p. 100 s'applique également aux opérations d'importation, d'acquisition intracommunautaire ou de
 livraison portant sur les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les
-caractéristiques sont fixées par arrêté du ministre de l'économie et des finances.)) (M)
-
-(M) Modification.
-
-[*Cf. Instruction 1996-05-22 3C-2-96*].
+caractéristiques sont fixées par arrêté du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi - art. 23 () JORF 31 décembre 1995
+  - Loi - art. 30 () JORF 31 décembre 1998
 
 _Cité par_:
 
@@ -38,5 +44,6 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
-  - TXT_ASSOCIE: Instruction 1996-05-22 3C-2-96
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1999-02-08 3C-2-99
+  - TXT_ASSOCIE: Instruction 1999-06-14 3C-4-99
