@@ -1,10 +1,9 @@
 # Article 1594 F quater
 
-I. Les conseils généraux peuvent, sur délibération, réduire à 3,60 p. 100 le taux de la taxe départementale de publicité
-foncière ou du droit départemental d'enregistrement applicable aux acquisitions d'immeubles ou de fractions d'immeubles
-mentionnés aux articles 710 et 711, situés dans les zones d'aménagement du territoire, dans les territoires ruraux de
-développement prioritaire et dans les zones de redynamisation urbaine, définis au premier alinéa de l'article 1465 et au I
-bis de l'article 1466 A, à la condition :
+I. Les conseils généraux peuvent, sur délibération, réduire à 3,60 p. 100 le taux de la taxe de publicité foncière ou du
+droit d'enregistrement applicable aux acquisitions de biens visés aux a et b du premier alinéa de l'article 1594 F ter situés
+dans les zones d'aménagement du territoire, dans les territoires ruraux de développement prioritaire et dans les zones de
+redynamisation urbaine, définis au premier alinéa de l'article 1465 et au I bis de l'article 1466 A, à la condition :
 
 1) Que l'acquisition résulte d'un changement de domicile ou de résidence de l'acquéreur, consécutif au déplacement de
 l'entreprise avec laquelle il est lié par un contrat de travail à durée indéterminée vers une zone d'aménagement du
@@ -28,16 +27,17 @@ III. Un décret détermine les modalités d'application du présent article.
 
 _Cite_:
 
-  - CGI 710, 711, 1465, 1466 A, 1594 E
+  - CGI 1594 F ter, 1465, 1466 A, 1594 E
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 31 mars 1999
+  - HISTO: Edition du 31 mars 2000
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 49 () JORF 5 février 1995
+  - Loi n°98-1266 1998-12-30 art. 39 I 15 Finances pour 1999 JORF 31 décembre 1998
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°95-1281 1995-12-11
+  - Loi - art. 9 (P) JORF 31 décembre 1999 en vigueur le 15 septembre 1999
