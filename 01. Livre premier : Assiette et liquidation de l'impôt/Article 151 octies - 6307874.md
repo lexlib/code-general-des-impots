@@ -1,8 +1,9 @@
 # Article 151 octies
 
 I. Les plus-values soumises au régime des articles 39 duodecies à 39 quindecies et réalisées par une personne physique à
-l'occasion de l'apport à une société de l'ensemble des éléments de l'actif immobilisé affectés à l'exercice d'une activité
-professionnelle peuvent bénéficier des dispositions suivantes :
+l'occasion de l'apport à une société soumise à un régime réel d'imposition de l'ensemble des éléments de l'actif immobilisé
+affectés à l'exercice d'une activité professionnelle ou de l'apport d'une branche complète d'activité peuvent bénéficier des
+dispositions suivantes :
 
 L'imposition des plus-values afférentes aux immobilisations non amortissables fait l'objet d'un report jusqu'à la date de la
 cession à titre onéreux ou du rachat des droits sociaux reçus en rémunération de l'apport de l'entreprise ou jusqu'à la
@@ -33,7 +34,7 @@ II. Le régime défini au I s'applique :
 effectué à une société en nom collectif, une société en commandite simple, une société à responsabilité limitée dans laquelle
 la gérance est majoritaire ou à une société civile exerçant une activité professionnelle ;
 
-- sur agrément (1), lorsque l'apport est consenti à une société par actions, à une société à responsabilité limitée dans
+- sur agrément (2), lorsque l'apport est consenti à une société par actions, à une société à responsabilité limitée dans
 laquelle la gérance est minoritaire ou à une société préexistante ; l'agrément est supprimé pour les apports réalisés à
 compter du 1er janvier 1988.
 
@@ -44,36 +45,30 @@ Si la société cesse de remplir les conditions permettant de bénéficier sur s
 d'imposition des plus-values d'apport peut, sur agrément préalable, être maintenu. A défaut, ces plus-values deviennent
 immédiatement taxables.
 
-III. Les dispositions des I et II ci-dessus s'appliquent aux plus-values constatées à l'occasion d'apports en sociétés
-réalisés à compter du 1er avril 1981 ; les dispositions des articles 41 et 93 quater-II cessent d'être applicables à ces
-plus-values à compter de la même date.
+III. Les dispositions de l'article 41 et du II de l'article 93 quater ne s'appliquent pas aux plus-values constatées à
+l'occasion d'apports en sociétés visées aux I et II du présent article.
 
 IV. Les dispositions des I et II ci-dessus s'appliquent aux plus-values dégagées à raison des éléments d'actif immobilisé
 apportés dans le cadre d'une fusion par des sociétés civiles professionnelles ainsi qu'aux plus-values résultant pour les
-associés de ces sociétés de l'attribution qui leur est faite des parts de la société absorbante.
+associés de ces sociétés de l'attribution qui leur est faite des parts de la
 
-(1) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art. 170 septies B et 170 octies.
+(1) Ces dispositions s'appliquent aux opérations d'apport réalisées à compter du 18 septembre 1991.
+
+(2) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art. 170 septies B et 170 octies.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1728
-  - CGI 1729
-  - CGI 210 A 3 a, d
-  - CGI 39 duodecies
-  - CGI 39 quaterdecies
-  - CGI 39 quindecies
-  - CGI 39 terdecies
-  - CGI 41
-  - CGI 93 quater II CGI 743 2 °
+  - CGI 39 duodecies à 39 quindecies, 210 A, 743, 1728, 1729, 41, 93 quater II
   - CGIAN4 170 octies
   - CGIAN4 170 septies B
 
 _Modifié par_:
 
-  - Loi n°90-1258 1990-12-31 art. 31, art. 33 JORF 5 janvier 1991
-  - Loi n°90-1258 du 31 décembre 1990 - art. 31 () JORF 5 janvier 1991
+  - Loi - art. 18 (V) JORF 31 décembre 1991
+  - Loi n°91-1322 1991-12-30 art. 18 I 1°, II Finances pour 1992 JORF 31 décembre 1991
+  - Modification directe intégrée dans l'édition du 4 juillet 1992
 
 _Cité par_:
 
@@ -104,7 +99,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 809 (V)
   - Code général des impôts, CGI. - art. 93 quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A bis (V)
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
