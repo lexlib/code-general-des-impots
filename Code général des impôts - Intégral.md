@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-03-31
+Version Consolidée au 1982-04-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -65784,13 +65784,13 @@ _Abrogé par_:
 
 ###### Article 1756 bis
 
-Nonobstant toutes dispositions contraires, mais sans préjudice des règles particulières concernant les caisses d'épargne, les
-entreprises, établissements ou organismes qui reçoivent du public, sous forme de dépôt ou autrement, des fonds remboursables
-à vue ou à moins de trois ans ne peuvent, sans contrevenir à l'interdiction faite par l'article 17 de la loi n° 56-760 du 2
-août 1956, directement ou indirectement, par quelque moyen que ce soit, payer sur les sommes ainsi reçues des intérêts à des
-taux supérieurs à ceux qui résultent des décisions du conseil national du crédit en ce qui concerne les organismes relevant
-de la compétence de celui-ci, ou qui sont fixés par le ministre de l'économie et des finances après avis du conseil national
-du crédit.
+I. Nonobstant toutes dispositions contraires, mais sans préjudice des règles particulières concernant les caisses d'épargne,
+les entreprises, établissements ou organismes qui reçoivent du public, sous forme de dépôt ou autrement, des fonds
+remboursables à vue ou à moins de trois ans ne peuvent, sans contrevenir à l'interdiction faite par l'article 17 de la loi n°
+56-760 du 2 août 1956, directement ou indirectement, par quelque moyen que ce soit, payer sur les sommes ainsi reçues des
+intérêts à des taux supérieurs à ceux qui résultent des décisions du conseil national du crédit en ce qui concerne les
+organismes relevant de la compétence de celui-ci, ou qui sont fixés par le ministre de l'économie et des finances après avis
+du conseil national du crédit.
 
 Sans préjudice, le cas échéant, des sanctions disciplinaires prévues par les textes régissant les entreprises, établissements
 ou organismes intéressés, les infractions aux dispositions du présent article sont punies d'une amende fiscale dont le taux
@@ -65800,6 +65800,9 @@ minimum*].
 Un décret pris sur le rapport du ministre de l'économie et des finances fixe les modalités d'application du présent article,
 et notamment les conditions dans lesquelles seront constatées et poursuivies les infractions (1).
 
+II. Les dispositions du I s'appliquent, quels que soient les entreprises, établissements ou organismes dépositaires, au
+régime de l'épargne populaire créé par la loi n° 82-357 du 27 avril 1982 portant création d'un régime d'épargne populaire.
+
 (1) Annexe III, art. 406 A 16 A à 406 A 16 F.
 
 **Liens relatifs à cet article**
@@ -65808,10 +65811,15 @@ _Cite_:
 
   - CGIAN3 406 A 16 A A CGIAN3 406 A 16 F
   - Loi n°56-760 du 2 août 1956 - art. 17, v. init.
+  - Loi n°82-357 1982-04-27
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°82-881 1982-10-15
+
+_Modifié par_:
+
+  - Loi n°82-357 du 27 avril 1982 - art. 7 (Ab) JORF 28 AVRIL 1982
 
 
 ###### Article 1756 quater
