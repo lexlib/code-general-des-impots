@@ -5,29 +5,33 @@ activité industrielle, commerciale ou artisanale au sens de l'article 34 sont e
 les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments
 d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues à
 l'article 53 A. Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, le bénéfice des dispositions du
-présent article est également accordé aux contribuables visés au 5° du I de l'article 35. Le contribuable exerçant une
-activité de location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone
-de revitalisation rurale. Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le
-quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la
-seconde ou de la troisième période de douze mois suivant cette période d'exonération.
+présent article est également accordé aux entreprises qui exercent une activité professionnelle au sens du 1 de l'article 92,
+ainsi qu'aux contribuables visés au 5° du I de l'article 35 (1). Le contribuable exerçant une activité de location
+d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone de revitalisation
+rurale. Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou
+les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la seconde ou de la
+troisième période de douze mois suivant cette période d'exonération.
 
 Le bénéfice des dispositions du présent article est réservé aux entreprises qui se créent à compter du 1er janvier 1995
-jusqu'au 31 décembre 2009 dans les zones d'aménagement du territoire ou dans les territoires ruraux de développement
-prioritaire définis au premier alinéa de l'article 1465 ou dans les zones de redynamisation urbaine définies au I bis et, à
-compter du 1er janvier 1997, au I ter de l'article 1466 A, à la condition que le siège social ainsi que l'ensemble de
-l'activité et des moyens d'exploitation soient implantés dans l'une de ces zones. Lorsqu'une entreprise exerce une activité
-non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation est réputée satisfaite dès lors
-qu'elle réalise au plus 15 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 15 %, les bénéfices réalisés sont
-soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun en proportion du chiffre
-d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires s'apprécie exercice par exercice.
+jusqu'au 31 décembre 2009 dans les zones d'aménagement du territoire ou dans les zones de revitalisation rurale mentionnées à
+l'article 1465 A ou dans les zones de redynamisation urbaine définies au I bis et, à compter du 1er janvier 1997, au I ter de
+l'article 1466 A et aux entreprises qui se créent à compter du 1er janvier 1995 jusqu'au 31 décembre 2006 dans les
+territoires ruraux de développement prioritaire définis au premier alinéa de l'article 1465, à la condition que le siège
+social ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés dans l'une de ces zones. Lorsqu'une
+entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation
+est réputée satisfaite dès lors qu'elle réalise au plus 15 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 15
+%, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit
+commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires
+s'apprécie exercice par exercice.
 
-Toutefois, les entreprises qui se créent à compter du 1er janvier 2004 jusqu'au 31 décembre 2009 dans les zones de
-revitalisation rurale mentionnées à l'article 1465 A sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à
-raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif,
-jusqu'au terme du quarante-septième mois suivant celui de leur création et déclarés selon les modalités prévues à l'article
-53 A. Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les
-trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la
-troisième période de douze mois suivant cette période d'exonération.
+Toutefois, les entreprises qui se sont créées à compter du 1er janvier 2004 jusqu'au 31 décembre 2009 dans les zones de
+revitalisation rurale mentionnées à l'article 1465 A, et à la condition que le siège social ainsi que l'ensemble de
+l'activité et des moyens d'exploitation soient implantés dans ces zones, sont exonérées d'impôt sur le revenu ou d'impôt sur
+les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments
+d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création et déclarés selon les modalités prévues à
+l'article 53 A. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80
+% de leur montant selon qu'ils sont réalisés respectivement au cours des cinq premières, des sixième et septième ou des
+huitième et neuvième périodes de douze mois suivant cette période d'exonération.
 
 Les zones d'aménagement du territoire visées au deuxième alinéa s'entendent des zones éligibles à la prime d'aménagement du
 territoire classées pour les projets industriels.
@@ -66,29 +70,24 @@ telles que cette entreprise est placée dans une situation de dépendance.
 IV. Pour les entreprises créées à compter du 1er janvier 2000, le bénéfice exonéré ne peut en aucun cas excéder 225 000 euros
 par période de trente-six mois.
 
+**Nota:**
+
+Nota : (1) Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2004.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 34, 53 A, 1465 A, 35, 1466 A, 92, 1465
-
-_Modifié par_:
-
-  - Loi - art. 53 (V) JORF 31 décembre 2003
-  - Loi - art. 92 () JORF 31 décembre 2003
 
 _Cité par_:
 
+  - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
+  - Code de la sécurité sociale. - art. L131-6 (V)
+  - Code du travail - art. L3324-1 (VD)
   - Décret n°2007-94 du 24 janvier 2007 - art. 2 (V)
   - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (V)
   - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
   - Décret n°2012-114 du 27 janvier 2012 (V)
   - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
-  - Code de la sécurité sociale. - art. L131-6 (V)
   - Code de la sécurité sociale. - art. L136-4 (V)
-  - Code du travail - art. L3324-1 (VD)
   - Code général des impôts, CGI. - art. 1383 A (V)
   - Code général des impôts, CGI. - art. 1417 (VD)
   - Code général des impôts, CGI. - art. 1464 B (V)
@@ -136,9 +135,16 @@ _Cité par_:
   - Code monétaire et financier - art. L221-32-2 (V)
   - Livre des procédures fiscales - art. L80 B (V)
 
+_Cite_:
+
+  - Code général des impôts, CGI 34, 53, 1465, 92, 35, 1466
+
+_Modifié par_:
+
+  - Loi n°2005-157 2005-02-23 art. 2 III, art. 7 IV, art. 8 JORF 24 février 2005
+  - Loi n°2005-157 du 23 février 2005 - art. 7 (V) JORF 24 février 2005
+  - Loi n°2005-157 du 23 février 2005 - art. 8 () JORF 24 février 2005
+
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2001-11-05 4A-6-01
-  - TXT_ASSOCIE: Instruction 2003-04-23 4A-6-03
-  - TXT_ASSOCIE: Réponse ministérielle 2003-07-28 4A-9-03
+  - HISTO: Edition du 1er janvier 2005

@@ -54,8 +54,8 @@ période de vingt-quatre mois mentionnée au IV. Ce montant est porté à 80 000
 1er juillet 1901 relative au contrat d'association, les associations régies par la loi locale maintenue en vigueur dans les
 départements de la Moselle, du Bas-Rhin et du Haut-Rhin lorsqu'elles sont soumises à l'impôt sur les sociétés en vertu des
 dispositions du 1 de l'article 206, et les groupements mentionnés à l'article 239 quater répondant aux conditions mentionnées
-au I et ayant pour membres des petites et moyennes entreprises définies à ce même paragraphe lorsqu'ils exposent des dépenses
-de prospection commerciale pour le compte de leurs membres afin d'exporter des services, des biens et des marchandises. Ces
+au I et ayant pour membres des petites et moyennes entreprises définies au même I lorsqu'ils exposent des dépenses de
+prospection commerciale pour le compte de leurs membres afin d'exporter des services, des biens et des marchandises. Ces
 plafonds s'apprécient en prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés de
 personnes mentionnées aux articles 8, 238 bis L, aux parts des associés de sociétés de professions libérales mentionnées au I
 et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C.
@@ -67,11 +67,6 @@ l'article 156.
 
 Le crédit d'impôt ne peut être obtenu qu'une fois par l'entreprise.
 
-**Nota:**
-
-NOTA : Un décret fixe les conditions d'application de ces dispositions, et notamment les obligations déclaratives incombant
-aux entreprises concernées. Ces dispositions s'appliquent aux dépenses exposées à compter du 1er janvier 2005.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -82,9 +77,13 @@ _Cite_:
   - Code du service national - art. L122-7 (M)
   - Loi n°1901-07-01
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 23 (V) JORF 31 décembre 2004
+  - Décret n°2005-330 2005-04-06
+
+_Modifié par_:
+
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Cité par_:
 
@@ -94,3 +93,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 93-0 A (Ab)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YU (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

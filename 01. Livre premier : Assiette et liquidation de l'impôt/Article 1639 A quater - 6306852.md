@@ -25,20 +25,20 @@ a. Pour leur durée et leur quotité lorsqu'elles sont prises en application des
 1388 ter, 1395 A, 1395 B et 1647-00 bis et que les dispositions prévues par ces articles sont en cours d'application ou sont
 applicables pour la première fois l'année suivant celle de la fusion ;
 
-b. Pour la première année suivant celle de la fusion lorsqu'elle sont prises en application des articles 1382 B, 1395 C,
-1396, 1411 et 1518 A.
+b. Pour la première année suivant celle de la fusion lorsqu'elle sont prises en application des articles 1382 B, 1382 C, 1395
+C, 1396, 1411 et 1518 A.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1639 A bis, 1609 nonies C, 1383, 1383 A, 1383 B, 1383 C, 1384 B, 1388 ter, 1395 A, 1395 B, 1647-00 bis, 1382 B, 1395 C, 1396, 1411, 1518 A
+  - CGI 1639 A bis, 1609 nonies C, 1383, 1383 A, 1383 B, 1383 C, 1384 B, 1388 ter, 1395 A, 1395 B, 1647-00 bis, 1382 B, 1395 C, 1396, 1411, 1518 A, 1382 C
   - Code général des collectivités territoriales - art. L5211-41-3 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2004
 
 _Modifié par_:
 
-  - Loi n°2004-809 2004-08-13 art. 154 I D JORF 17 août 2004
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 55 (V) JORF 31 décembre 2004
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005
