@@ -1,16 +1,19 @@
 # Article 235 ter C
 
-Tout employeur occupant au minimum dix salariés, à l'exception de l'Etat, des collectivités locales et de leurs
-établissements publics à caractère administratif, doit concourir au développement de la formation professionnelle continue en
-participant, chaque année, au financement des actions de formation mentionnées à l'article L. 900-2 du code du travail.
-
-.
+Tout employeur, à l'exception de l'Etat, des collectivités locales et de leurs établissements publics à caractère
+administratif, doit concourir au développement de la formation professionnelle continue en participant, chaque année, au
+financement des actions mentionnées à l'article L. 900-2 du code du travail.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°91-1405 du 31 décembre 1991 - art. 19 () JORF 4 janvier 1992
+  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
+
 _Codifié par_:
 
-  - Décret n°86-1086 1986-10-07
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
@@ -25,6 +28,10 @@ _Cité par_:
 _Nouveaux textes_:
 
   - CGI 235 ter D b (2è al. du CGI 235 ter C)
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
 
 _Cite_:
 

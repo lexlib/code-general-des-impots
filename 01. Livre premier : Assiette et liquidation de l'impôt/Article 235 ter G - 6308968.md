@@ -1,7 +1,7 @@
 # Article 235 ter G
 
-I. Lorsque les dépenses justifiées par l'employeur en application de l'article L 950-2 du code du travail sont inférieures à
-la participation fixée par l'article 235 ter E, l'employeur est tenu d'effectuer au Trésor un versement égal à la différence
+I. Lorsque les dépenses justifiées par l'employeur en application de l'article L 950-1 du code du travail sont inférieures à
+la participation fixée par l'article 235 ter D, l'employeur est tenu d'effectuer au Trésor un versement égal à la différence
 constatée.
 
 Les sommes engagées par un employeur au titre d'une convention passée avec un organisme formateur n'ont de caractère
@@ -22,18 +22,22 @@ opéré en même temps que le dépôt de la déclaration de l'année de la régu
 
 _Cite_:
 
-  - CGI 235 ter E
-  - CGI 235 ter F
-  - CGI 235 ter J
-  - Loi n°78-653 1978-06-22 ART. 3 II
-  - Loi n°78-1239 du 29 décembre 1978 - art. 33, v. init.
-  - Code du travail - art. L950-2 (M)
+  - CGI 235 ter D, 235 ter F, 235 ter J
+  - Code du travail - art. L951-1 (M)
+
+_Modifié par_:
+
+  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
 
 _Codifié par_:
 
-  - Décret n°84-875 1984-10-01
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1679 bis B (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 quaterdecies A (P)
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
