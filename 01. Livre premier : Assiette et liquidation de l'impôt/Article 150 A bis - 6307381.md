@@ -9,8 +9,8 @@ l'exercice d'une profession non commerciale (1).
 Toutefois les titres des sociétés immobilières pour le commerce et l'industrie [*SICOMI*] non cotées sont assimilés à des
 titres cotés et imposés conformément aux dispositions de l'article 92 C.
 
-En cas d'échange de titres résultant d'une fusion ou d'une scission, l'imposition des gains nets mentionnés au premier alinéa
-est reportée dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160.
+En cas d'échange de titres résultant d'une fusion, d'une scission ou d'un apport, l'imposition des gains nets mentionnés au
+premier alinéa est reportée dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160.
 
 1)  Voir Annexe II, art. 74 A bis.
 
@@ -24,11 +24,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°86-1317 du 30 décembre 1986 - art. 26 (P) JORF 31 décembre 1986
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
+  - Loi n°89-936 1989-12-29 art. 15  Finances rectificative pour 1989 JOR 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
