@@ -31,7 +31,7 @@ Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaire
 exercice clos.
 
 Cette imposition n'est pas applicable aux organismes sans but lucratif visés au 5 de l'article 206 ainsi qu'aux personnes
-morales exonérées de l'impôt sur les sociétés en vertu des articles 207 et 208.
+morales exonérées de l'impôt sur les sociétés en vertu des articles 207, 208 et 208 D.
 
 Les sociétés dont le capital est constitué pour la moitié au moins par des apports en numéraire sont, pour leurs trois
 premières années d'activité, exonérées de cette imposition.
@@ -43,22 +43,11 @@ jugement déclaratif de liquidation.
 
 _Cite_:
 
-  - CGI 206 5, 207, 208
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 1999-01-18 4L-1-99
-  - TXT_ASSOCIE: Instruction 1999-02-16 4H-1-99
-  - TXT_ASSOCIE: Instruction 2000-02-21 4L-2-00
-  - TXT_ASSOCIE: Instruction 2000-08-03 4I-2-00
-  - TXT_ASSOCIE: Instruction 2002-01-17 4L-1-02
+  - CGI 206 5, 207, 208, 208 D
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 91 (V) JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -70,3 +59,8 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 235 ter ZCA (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 366 A bis (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+  - TXT_ASSOCIE: Instruction 2002-01-17 4L-1-02
