@@ -2,7 +2,7 @@
 
 I. En vue de favoriser le développement économique et social de la Corse, les sociétés soumises à l'impôt sur les sociétés
 dans les conditions de droit commun peuvent être exonérées de cet impôt au titre d'une activité nouvelle entreprise, après le
-1er janvier 1991 et avant le 1er janvier 1993, en Corse, dans les secteurs de l'industrie, du bâtiment, de l'agriculture et
+1er janvier 1991 et avant le 1er janvier 1994, en Corse, dans les secteurs de l'industrie, du bâtiment, de l'agriculture et
 de l'artisanat à raison des bénéfices qu'elles réalisent à compter du début effectif de cette activité jusqu'au terme du
 quatre-vingt-quinzième mois suivant celui au cours duquel intervient cet événement, à la condition que l'objet de ces
 sociétés et leur programme d'activité aient reçu l'agrément préalable du ministre de l'économie, des finances et du budget
@@ -22,24 +22,18 @@ en produisant pour celle-ci les documents prévus à l'article 53 A.
 
 V. Un décret précise les conditions d'application du présent article (1).
 
-(1) Décret 91-629 1991-07-04.
+(1) Voir Annexe III qart. 46 quater-00 A à 46 quater-00 A quater.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 53 A, 39 duodecies à 39 quindecies
-  - Décret n°91-629 1991-07-04
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
-
-_Codifié par_:
-
-  - Décret n°92-836 1992-08-27
+  - Loi - art. 50 () JORF 5 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
