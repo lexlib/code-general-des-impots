@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-01-19
+Version Consolidée au 1980-05-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -154,10 +154,10 @@ Version Consolidée au 1980-01-19
           - [Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III (art. 246 à 248)](#151)
             - [I : Entreprises de navigation maritime ou aérienne (art. 246 à 247)](#152)
             - [III : Présentation et contenu des déclarations fiscales (art. 248)](#153)
-      - [Titre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 256 A à 302 bis H)](#154)
-        - [Chapitre premier : Taxe sur la valeur ajoutée (art. 256 A à 298 septdecies)](#155)
-          - [Section I : Champ d'application (art. 256 A à 261 F)](#156)
-            - [I : Opérations obligatoirement imposables (art. 256 A à 259 C)](#157)
+      - [Titre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 256 à 302 bis H)](#154)
+        - [Chapitre premier : Taxe sur la valeur ajoutée (art. 256 à 298 septdecies)](#155)
+          - [Section I : Champ d'application (art. 256 à 261 F)](#156)
+            - [I : Opérations obligatoirement imposables (art. 256 à 259 C)](#157)
             - [II : Opérations imposables sur option (art. 260 A à 260 B)](#158)
             - [III : Opérations exonérées (art. 261 A à 261 F)](#159)
           - [Section II : Assiette de la taxe (art. 267 bis à 268 bis)](#160)
@@ -795,7 +795,7 @@ Version Consolidée au 1980-01-19
           - [REVENUS IMPOSABLES. (art. 13 à 162)](#792)
             - [DETERMINATION DES REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 15 à 31)](#793)
             - [DETERMINATION DES BENEFICES NETS INDUSTRIELS ET COMMERCIAUX. (art. 35 à 60)](#794)
-            - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 39 bis à 151 septies)](#795)
+            - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 38 à 151 septies)](#795)
             - [REVENU GLOBAL. (art. 156 à 162)](#796)
           - [DECLARATIONS DES CONTRIBUABLES. (art. 173 A)](#797)
           - [DECLARATION DES CONTRIBUABLES. (art. 175)](#798)
@@ -843,9 +843,9 @@ Version Consolidée au 1980-01-19
           - [IMPOT SUR LE REVENU, IMPOT SUR LES SOCIETES ET TAXES VISEES AU CHAPITRE III. (art. 247 bis)](#840)
         - [DISPOSITIONS COMMUNES AUX IMPOTS ET TAXES, REVENUS ET BENEFICES VISES AUX CHAPITRES I A III *ART. 1 A ART. 235 ter S* (art. 238 bis HA à 242 ter A)](#841)
           - [IMPOT SUR LE REVENU *IR* ET IMPOT SUR LES SOCIETES *IS*. (art. 238 bis HA à 242 ter A)](#842)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 256 à 302 bis A)](#843)
-        - [TAXE SUR LA VALEUR AJOUTEE (art. 256 à 298 undecies)](#844)
-          - [CHAMP D'APPLICATION. (art. 256 à 261 G)](#845)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 256 B à 302 bis A)](#843)
+        - [TAXE SUR LA VALEUR AJOUTEE (art. 256 B à 298 undecies)](#844)
+          - [CHAMP D'APPLICATION. (art. 256 B à 261 G)](#845)
             - [OPERATIONS EXONEREES (art. 261 G)](#846)
           - [ASSIETTE DE LA TAXE. (art. 265 à 268 ter)](#847)
           - [FAIT GENERATEUR. (art. 269)](#848)
@@ -7721,6 +7721,63 @@ d'exemplaires de ces déclarations que doit fournir chaque contribuable.
 ##### Section I : Champ d'application<a id=156></a>
 
 ##### I : Opérations obligatoirement imposables<a id=157></a>
+
+###### Article 256
+
+I° Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens meubles et les prestations de services effectuées à
+titre onéreux par un assujetti agissant en tant que tel (1).
+
+II° La livraison d'un bien meuble s'entend du transfert de propriété d'un bien meuble corporel même si ce transfert est opéré
+en vertu d'une réquisition de l'autorité publique. L'électricité, le gaz, la chaleur, le froid et les biens similaires sont
+considérés comme des biens meubles corporels.
+
+Est assimilée à une livraison de bien meuble la délivrance d'un bien meuble corporel faite :
+
+- en exécution d'un contrat qui prévoit la vente à tempérament ou la location de ce bien pendant une période et qui est
+assorti d'une clause selon laquelle la propriété du bien est normalement acquise au détenteur ou à ses ayants droit au plus
+tard lors du paiement de la dernière échéance ;
+
+- ou en vertu d'un contrat de vente qui comporte une clause de réserve de propriété, la délivrance s'entendant de la remise
+matérielle des biens.
+
+III° Les opérations autres que celles définies au II et, notamment, la livraison de biens meubles incorporels, les travaux
+immobiliers et les opérations de commission et de façon, sont considérées comme des prestations de services.
+
+(1) Pour l'imposition des affaires en cours concernant des prestations de services qui deviennent imposables à compter du 1er
+janvier 1979, voir décret n° 79-40 du 17 janvier 1979 (J.O. du 18).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-1240 1978-12-29 ART. 24, ART. 49 FINANCES RECTIFICATIVE POUR 1978
+  - Loi n°78-1240 du 29 décembre 1978 - art. 24, v. init.
+
+_Cite_:
+
+  - Décret n°79-40 1979-01-17
+
+_Modifié par_:
+
+  - Loi n°80-335 du 12 mai 1980 - art. 3 (V) JORF 13 MAI 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Loi n°2004-809 du 13 août 2004 - art. 108 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 2 (V)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 1 (V)
+  - Code général des impôts, CGI. - art. 262 ter (V)
+  - Code général des impôts, CGI. - art. 266 (V)
+  - Code général des impôts, CGI. - art. 269 (V)
+  - Code général des impôts, CGI. - art. 286 quater (V)
+  - Code général des impôts, CGI. - art. 297 A (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 206 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 41 bis (V)
+
 
 ###### Article 256 A
 
@@ -28304,104 +28361,6 @@ le sous-locataire en meublé sa résidence principale et que le prix de location
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 38
-
-1 Sous réserve des dispositions des articles 33 ter, 40 à 43 bis et 151 sexies, le bénéfice imposable est le bénéfice net,
-déterminé d'après les résultats d'ensemble des opérations de toute nature effectuées par les entreprises, y compris notamment
-les cessions d'éléments quelconques de l'actif, soit en cours, soit en fin d'exploitation.
-
-2 Le bénéfice net est constitué par la différence entre les valeurs de l'actif net à la clôture et à l'ouverture de la
-période dont les résultats doivent servir de base à l'impôt diminuée des suppléments d'apport et augmentée des prélèvements
-effectués au cours de cette période par l'exploitant ou par les associés. L'actif net s'entend de l'excédent des valeurs
-d'actif sur le total formé au passif par les créances des tiers, les amortissements et les provisions justifiés.
-
-2 bis Pour l'application des 1 et 2, les produits correspondant à des créances sur la clientèle ou à des versements reçus à
-l'avance en paiement du prix sont rattachés à l'exercice au cours duquel intervient la livraison des biens pour les ventes ou
-opérations assimilées et l'achèvement des prestations pour les fournitures de services.
-
-Toutefois, ces produits doivent être pris en compte :
-
-- pour les prestations continues rémunérées notamment par des intérêts ou des loyers et pour les prestations discontinues
-mais à échéances successives échelonnées sur plusieurs exercices, au fur et à mesure de l'exécution ;
-
-- pour les travaux d'entreprise donnant lieu à réception complète ou partielle, à la date de cette réception, même si elle
-est seulement provisoire ou faite avec réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si elle est
-antérieure.
-
-Ces dispositions s'appliquent à la détermination des résultats imposables des exercices clos à compter du 31 décembre 1978.
-Les produits qui, en application de la législation précédemment en vigueur, ont déjà servi à la détermination des résultats
-d'exercices antérieurs sont déduits pour la détermination des résultats des exercices auxquels les sommes correspondantes
-doivent désormais être rattachées.
-
-3 Pour l'application des 1 et 2, les stocks sont évalués au prix de revient ou au cours du jour de la clôture de l'exercice,
-si ce cours est inférieur au prix de revient.
-
-Les travaux en cours sont évalués au prix de revient.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 151 SEXIES
-  - CGI 33 TER
-  - CGI 40
-  - CGI 40 B
-  - CGI 40 QUINQUIES
-  - CGI 40 SEXIES
-  - CGI 41
-  - CGI 41 BIS
-  - CGI 42
-  - CGI 42 NONIES
-  - CGI 42 OCTIES
-  - CGI 42 SEPTIES
-  - CGI 43 BIS
-
-_Cité par_:
-
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 80
-  - Code de la sécurité sociale. - art. L131-6 (VT)
-  - Code de la sécurité sociale. - art. L131-6-3 (Ab)
-  - Code forestier (nouveau) - art. L232-3 (VD)
-  - Code forestier (nouveau) - art. L233-9 (VD)
-  - Code général des impôts annexe 1, CGIAN1. - art. 37 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 41 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 52 (V)
-  - Code général des impôts, CGI. - art. 145 (VD)
-  - Code général des impôts, CGI. - art. 151 nonies (V)
-  - Code général des impôts, CGI. - art. 155 (VD)
-  - Code général des impôts, CGI. - art. 1763 B (V)
-  - Code général des impôts, CGI. - art. 1763 C (V)
-  - Code général des impôts, CGI. - art. 202 quater (V)
-  - Code général des impôts, CGI. - art. 210 B (V)
-  - Code général des impôts, CGI. - art. 210-0 A (V)
-  - Code général des impôts, CGI. - art. 219 (VT)
-  - Code général des impôts, CGI. - art. 235 ter XA (V)
-  - Code général des impôts, CGI. - art. 239 quinquies (V)
-  - Code général des impôts, CGI. - art. 242 quinquies (V)
-  - Code général des impôts, CGI. - art. 38 bis A (VD)
-  - Code général des impôts, CGI. - art. 38 bis B bis (V)
-  - Code général des impôts, CGI. - art. 38 bis C (VD)
-  - Code général des impôts, CGI. - art. 38 quater (V)
-  - Code général des impôts, CGI. - art. 38 quinquies A (V)
-  - Code général des impôts, CGI. - art. 39 (V)
-  - Code général des impôts, CGI. - art. 39 duodecies (VD)
-  - Code général des impôts, CGI. - art. 40 (V)
-  - Code général des impôts, CGI. - art. 54 septies (M)
-  - Code général des impôts, CGI. - art. 69 (V)
-  - Code général des impôts, CGI. - art. 73 E (V)
-  - Code général des impôts, CGI. - art. 93 quater (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 B (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 C (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 B (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies F (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 39
 
 1 Le bénéfice net est établi sous déduction de toutes charges, celles-ci comprenant, sous réserve des dispositions du 5,
@@ -29820,6 +29779,111 @@ _Nouveaux textes_:
 
 
 ##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.<a id=795></a>
+
+###### Article 38
+
+1. Sous réserve des dispositions des articles 33 ter, 40 à 43 bis et 151 sexies, le bénéfice imposable est le bénéfice net,
+déterminé d'après les résultats d'ensemble des opérations de toute nature effectuées par les entreprises, y compris notamment
+les cessions d'éléments quelconques de l'actif, soit en cours, soit en fin d'exploitation.
+
+2. Le bénéfice net est constitué par la différence entre les valeurs de l'actif net à la clôture et à l'ouverture de la
+période dont les résultats doivent servir de base à l'impôt diminuée des suppléments d'apport et augmentée des prélèvements
+effectués au cours de cette période par l'exploitant ou par les associés. L'actif net s'entend de l'excédent des valeurs
+d'actif sur le total formé au passif par les créances des tiers, les amortissements et les provisions justifiés.
+
+2 bis. Pour l'application des 1 et 2, les produits correspondant à des créances sur la clientèle ou à des versements reçus à
+l'avance en paiement du prix sont rattachés à l'exercice au cours duquel intervient la livraison des biens pour les ventes ou
+opérations assimilées et l'achèvement des prestations pour les fournitures de services.
+
+Toutefois, ces produits doivent être pris en compte :
+
+- pour les prestations continues rémunérées notamment par des intérêts ou des loyers et pour les prestations discontinues
+mais à échéances successives échelonnées sur plusieurs exercices, au fur et à mesure de l'exécution ;
+
+- pour les travaux d'entreprise donnant lieu à réception complète ou partielle, à la date de cette réception, même si elle
+est seulement provisoire ou faite avec réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si elle est
+antérieure.
+
+La livraison au sens du premier alinéa s'entend de la remise matérielle du bien lorsque le contrat de vente comporte une
+clause de réserve de propriété.
+
+Ces dispositions s'appliquent à la détermination des résultats imposables des exercices clos à compter du 31 décembre 1978.
+Les produits qui, en application de la législation précédemment en vigueur, ont déjà servi à la détermination des résultats
+d'exercices antérieurs sont déduits pour la détermination des résultats des exercices auxquels les sommes correspondantes
+doivent désormais être rattachées.
+
+3. Pour l'application des 1 et 2, les stocks sont évalués au prix de revient ou au cours du jour de la clôture de l'exercice,
+si ce cours est inférieur au prix de revient.
+
+Les travaux en cours sont évalués au prix de revient.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 151 sexies
+  - CGI 33 ter
+  - CGI 40
+  - CGI 40 B
+  - CGI 40 quinquies
+  - CGI 40 sexies
+  - CGI 41
+  - CGI 41 bis
+  - CGI 42
+  - CGI 42 octies
+  - CGI 42 septies
+  - CGI 43
+  - CGI 43 bis
+
+_Modifié par_:
+
+  - Loi n°80-335 du 12 mai 1980 - art. 3 (V) JORF 13 MAI 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 80
+  - Code de la sécurité sociale. - art. L131-6 (VT)
+  - Code de la sécurité sociale. - art. L131-6-3 (Ab)
+  - Code forestier (nouveau) - art. L232-3 (VD)
+  - Code forestier (nouveau) - art. L233-9 (VD)
+  - Code général des impôts annexe 1, CGIAN1. - art. 37 (V)
+  - Code général des impôts annexe 1, CGIAN1. - art. 41 (V)
+  - Code général des impôts annexe 1, CGIAN1. - art. 52 (V)
+  - Code général des impôts, CGI. - art. 145 (VD)
+  - Code général des impôts, CGI. - art. 151 nonies (V)
+  - Code général des impôts, CGI. - art. 155 (VD)
+  - Code général des impôts, CGI. - art. 1763 B (V)
+  - Code général des impôts, CGI. - art. 1763 C (V)
+  - Code général des impôts, CGI. - art. 202 quater (V)
+  - Code général des impôts, CGI. - art. 210 B (V)
+  - Code général des impôts, CGI. - art. 210-0 A (V)
+  - Code général des impôts, CGI. - art. 219 (VT)
+  - Code général des impôts, CGI. - art. 235 ter XA (V)
+  - Code général des impôts, CGI. - art. 239 quinquies (V)
+  - Code général des impôts, CGI. - art. 242 quinquies (V)
+  - Code général des impôts, CGI. - art. 38 bis A (VD)
+  - Code général des impôts, CGI. - art. 38 bis B bis (V)
+  - Code général des impôts, CGI. - art. 38 bis C (VD)
+  - Code général des impôts, CGI. - art. 38 quater (V)
+  - Code général des impôts, CGI. - art. 38 quinquies A (V)
+  - Code général des impôts, CGI. - art. 39 (V)
+  - Code général des impôts, CGI. - art. 39 duodecies (VD)
+  - Code général des impôts, CGI. - art. 40 (V)
+  - Code général des impôts, CGI. - art. 54 septies (M)
+  - Code général des impôts, CGI. - art. 69 (V)
+  - Code général des impôts, CGI. - art. 73 E (V)
+  - Code général des impôts, CGI. - art. 93 quater (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 B (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 C (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 B (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies F (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
+
 
 ###### Article 39 bis
 
@@ -37680,55 +37744,6 @@ _Codifié par_:
 #### TAXE SUR LA VALEUR AJOUTEE<a id=844></a>
 
 ##### CHAMP D'APPLICATION.<a id=845></a>
-
-###### Article 256
-
-I  Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens meubles et les prestations de services effectuées à
-titre onéreux par un assujetti agissant en tant que tel (1).
-
-II  La livraison d'un bien meuble s'entend du transfert de propriété d'un bien meuble corporel même si ce transfert est opéré
-en vertu d'une réquisition de l'autorité publique. L'électricité, le gaz, la chaleur, le froid et les biens similaires sont
-considérés comme des biens meubles corporels.
-
-Est assimilée à une livraison de bien meuble la délivrance d'un bien meuble corporel lorsqu'elle est faite en exécution d'un
-contrat qui prévoit la vente à tempérament ou la location de ce bien pendant une période et qui est assorti d'une clause
-selon laquelle la propriété du bien est normalement acquise au détenteur ou à ses ayants droit au plus tard lors du paiement
-de la dernière échéance.
-
-III  Les opérations autres que celles définies au II et, notamment, la livraison de biens meubles incorporels, les travaux
-immobiliers et les opérations de commission et de façon, sont considérées comme des prestations de services.
-
-1)  Pour l'imposition des affaires en cours concernant des prestations de services qui deviennent imposables à compter du 1er
-juin 1979, voir décret n° 79-40 du 17 janvier 1979 (J.O. du 18).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°78-1240 1978-12-29 ART. 24, ART. 49 FINANCES RECTIFICATIVE POUR 1978
-  - Loi n°78-1240 du 29 décembre 1978 - art. 24, v. init.
-
-_Cite_:
-
-  - Décret n°79-40 1979-01-17
-
-_Cité par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 108 (V)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 2 (V)
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 1 (V)
-  - Code général des impôts, CGI. - art. 262 ter (V)
-  - Code général des impôts, CGI. - art. 266 (V)
-  - Code général des impôts, CGI. - art. 269 (V)
-  - Code général des impôts, CGI. - art. 286 quater (V)
-  - Code général des impôts, CGI. - art. 297 A (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 206 (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 41 bis (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 256 B
 
