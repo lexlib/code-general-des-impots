@@ -1,12 +1,11 @@
 # Article 44 septies
 
 Les société créées à compter du 1er octobre 1988 pour reprendre une entreprise industrielle en difficulté qui fait l'objet
-d'une cession ordonnée par le tribunal en application des articles 81 et suivants ((modifiés)) (1) de la loi n° 85-98 du 25
-janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises sont exonérées d'impôt sur les sociétés
-à raison des bénéfices réalisés jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les
-modalités prévues à l'article 53 A. Le capital de la société créée ne doit pas être détenu directement ou indirectement par
-les personnes qui ont été associées ou exploitantes ou qui ont détenu indirectement plus de 50 p. 100 du capital de
-l'entreprise en difficulté pendant l'année précédant la reprise.
+d'une cession ordonnée par le tribunal en application des articles L. 621-83 et suivants du code de commerce sont exonérées
+d'impôt sur les sociétés à raison des bénéfices réalisés jusqu'au terme du vingt-troisième mois suivant celui de leur
+création et déclarés selon les modalités prévues à l'article 53 A. Le capital de la société créée ne doit pas être détenu
+directement ou indirectement par les personnes qui ont été associées ou exploitantes ou qui ont détenu indirectement plus de
+50 p. 100 du capital de l'entreprise en difficulté pendant l'année précédant la reprise.
 
 Les droits de vote ou les droits à dividendes dans la société créée ou l'entreprise en difficulté sont détenus indirectement
 par une personne lorsqu'ils appartiennent :
@@ -16,35 +15,37 @@ a) Aux membres du foyer fiscal de cette personne ;
 b) A une entreprise dans laquelle cette personne détient plus de 50 p. 100 des droits sociaux y compris, s'il s'agit d'une
 personne physique, ceux appartenant aux membres de son foyer fiscal ;
 
-c) A une société dans laquelle cette personne exerce en droit ou en fait la fonction de gérant ou de président-directeur
+c) A une société dans laquelle cette personne exerce en droit ou en fait la fonction de gérant ou de président, directeur
 général, président du conseil du surveillance ou membre du directoire.
 
 Cette exonération peut être accordée sur agrément du ministre chargé du budget si la procédure de redressement judiciaire
 n'est pas mise en oeuvre ou si la reprise concerne des branches complètes et autonomes d'activité industrielle et est
-effectuée dans le cadre de cessions ordonnées par le juge-commissaire en application de l'article 155 ((modifiée)) (1) de la
-loi n° 85-98 du 25 janvier 1985 précitée. Il en est de même si la reprise porte sur un ou plusieurs établissements
-industriels en difficulté d'une entreprise industrielle et dans la mesure où la société créée pour cette reprise est
-indépendante juridiquement et économiquement de l'entreprise cédante.
+effectuée dans le cadre de cessions ordonnées par le juge-commissaire en application de l'article L. 622-17 du code de
+commerce. Il en est de même si la reprise porte sur un ou plusieurs établissements industriels en difficulté d'une entreprise
+industrielle et dans la mesure où la société créée pour cette reprise est indépendante juridiquement et économiquement de
+l'entreprise cédante.
 
 Lorsqu'une société créée dans les conditions prévues aux trois alinéas ci-dessus interrompt, au cours des trois premières
 années d'exploitation, l'activité reprise ou est affectée au cours de la même période par l'un des événements mentionnés au
-premier alinéa du 2 de l'article 221 du présent code, l'impôt sur les sociétés dont elle a été dispensée en application du
-présent article devient immédiatement exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et compté à
-partir de la date à laquelle il aurait dû être acquitté.
-
-(1) Modification de la loi.
+premier alinéa du 2 de l'article 221, l'impôt sur les sociétés dont elle a été dispensée en application du présent article
+devient immédiatement exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et compté à partir de la date à
+laquelle il aurait dû être acquitté.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 53, 221, 1727
-  - Loi n°85-98 1985-01-25 art. 81, art. 155
-  - Loi n°85-98 du 25 janvier 1985 - art. 155 (M)
+  - CGI 53 A, 221, 1727
+  - Code de commerce. - art. L621-83 (Ab)
+  - Code de commerce. - art. L622-17 (M)
 
 _Modifié par_:
 
-  - Loi n°94-475 du 10 juin 1994 - art. 49 () JORF 11 juin 1994 en vigueur au plus tard le 1er octobre 1994
+  - Ordonnance 2000-912 2000-09-18 art. 4 I 33° JORF 21 septembre 2000
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -74,5 +75,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
-  - TXT_ASSOCIE: Instruction 1995-07-18 4H-11-95
+  - HISTO: Edition du 31 mars 2001
