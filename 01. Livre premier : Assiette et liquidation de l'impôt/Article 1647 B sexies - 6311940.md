@@ -15,7 +15,7 @@ suivantes, le taux de plafonnement est fixé à 1 % pour les entreprises de trav
 
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de
 l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet, à l'exception du dégrèvement prévu à
-l'article 1647 C.
+l'article 1647 C et du crédit d'impôt prévu à l'article 1647 C sexies.
 
 Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 B ni aux prélèvements opérés par l'Etat sur ces taxes en
 application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
@@ -140,14 +140,14 @@ III. (Abrogé pour les impositions établies au titre de 1993 et des années sui
 IV. Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du dépôt
 de la demande.
 
-V. - Le montant total des dégrèvements accordés à un contribuable en application du présent article et de l'article 1647 C
-quinquies ne peut excéder 76 225 000 euros.
+V. - Le montant total des dégrèvements accordés à un contribuable en application du présent article et des articles 1647 B
+octies et 1647 C quinquies ne peut excéder 76 225 000 euros.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1609 bis, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609, 1467, 39, 50-0, 102 ter, 1647 C quinquies
+  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1609 bis, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609, 1467, 39, 50-0, 102 ter, 1647 C quinquies, 1647 B octies
 
 _Cité par_:
 
@@ -172,8 +172,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-804 du 9 août 2004 - art. 11 () JORF 11 août 2004
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 100 (V) JORF 31 décembre 2004
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 28 (V) JORF 31 décembre 2004
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2005

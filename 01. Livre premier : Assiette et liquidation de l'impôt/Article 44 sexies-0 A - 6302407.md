@@ -24,7 +24,7 @@ physiques ;
 c. ou par des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional,
 des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe
 pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces
-dernières sociétés ou ces fonds ;
+dernières sociétés ou ces fonds ou auprès d'entreprises bénéficiant du régime prévu à l'article 44 undecies ;
 
 d. ou par des fondations ou associations reconnues d'utilité publique à caractère scientifique ;
 
@@ -37,11 +37,7 @@ ou d'une reprise de telles activités au sens du III de l'article 44 sexies.
 
 _Cite_:
 
-  - CGI 244 quater, 39, 44 sexies
-
-_Créé par_:
-
-  - Loi - art. 13 (V) JORF 31 décembre 2003
+  - CGI 244 quater, 39, 44 sexies, 44 undecies
 
 _Cité par_:
 
@@ -66,6 +62,10 @@ _Cité par_:
   - Livre des procédures fiscales - art. L80 B (M)
   - Livre des procédures fiscales - art. R152-2 (V)
 
+_Modifié par_:
+
+  - Loi n°2004-1484 2004-12-30 art. 24 II A Finances pour 2005 JORF 31 décembre 2004
+
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2005
