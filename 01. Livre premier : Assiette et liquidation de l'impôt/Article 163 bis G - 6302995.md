@@ -6,16 +6,18 @@ aux II et III est imposé dans les conditions et aux taux prévus aux articles 9
 Par dérogation aux dispositions du premier alinéa, le taux prévu au 6 de l'article 200 A s'applique lorsque le bénéficiaire
 exerce son activité dans la société depuis moins de trois ans à la date de la cession.
 
-II. - Les sociétés par actions dont les titres ne sont pas admis aux négociations sur un marché réglementé peuvent, à
-condition d'avoir été immatriculées au registre du commerce et des sociétés depuis moins de ((quinze ans)) (M), attribuer aux
-membres de leur personnel salarié, ainsi qu'à leurs dirigeants soumis au régime fiscal des salariés, des bons de souscription
-de parts de créateur d'entreprise, incessibles, et émis dans les conditions prévues à l'article 339-5 de la loi n° 66-537 du
-24 juillet 1966 ((modifiée)) (M) sur les sociétés commerciales, lorsque les conditions suivantes sont remplies :
+II. - Les sociétés par actions dont les titres ne sont pas admis aux négociations sur un marché réglementé ((autre que les
+marchés réglementés de valeurs de croissance de l'Espace économique européen, ou les compartiments de valeurs de croissance
+de ces marchés, dont la liste est fixée par arrêté du ministre chargé de l'économie)) (M) peuvent, à condition d'avoir été
+immatriculées au registre du commerce et des sociétés depuis moins de quinze ans, attribuer aux membres de leur personnel
+salarié, ainsi qu'à leurs dirigeants soumis au régime fiscal des salariés, des bons de souscription de parts de créateur
+d'entreprise, incessibles, et émis dans les conditions prévues à l'article 339-5 de la loi n° 66-537 du 24 juillet 1966
+modifiée sur les sociétés commerciales, lorsque les conditions suivantes sont remplies :
 
 1. La société doit exercer une activité autre que celles mentionnées au deuxième alinéa du 2 du I de l'article 44 sexies et
 être passible en France de l'impôt sur les sociétés ;
 
-2. Le capital de la société doit être détenu directement et de manière continue pour 75 % au moins par des personnes
+2. Le capital de la société doit être détenu directement et de manière continue pour ((25 %)) (M) au moins par des personnes
 physiques ou par des personnes morales détenues par des personnes physiques. Pour la détermination de ce pourcentage, les
 participations des sociétés de capital-risque, des sociétés de développement régional et des sociétés financières
 d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 1 bis de
@@ -34,11 +36,10 @@ IV. - Un décret précise les modalités d'application du présent article, nota
 titulaires des bons et aux sociétés émettrices.
 
 V. - Les bons de souscription de parts de créateur d'entreprise mentionnés au II peuvent être attribués à compter du 1er
-janvier 1998 et jusqu'au 31 décembre 1999, ou jusqu'à l'expiration du délai de ((quinze ans)) (M) prévu au II si celle-ci est
+janvier 1998 et jusqu'au ((31 décembre 2001)) (M), ou jusqu'à l'expiration du délai de quinze ans prévu au II si celle-ci est
 antérieure.
 
-(M) Modification. Ces modifications s'appliquent aux bons de souscription de parts de créateur d'entreprise attribués à
-compter du 1er septembre 1998.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -49,12 +50,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°98-261 du 6 avril 1998 - art. 6 () JORF 7 avril 1999
-  - Loi - art. 5 (V) JORF 31 décembre 1998
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
+  - Loi n°99-587 du 12 juillet 1999 - art. 4 () JORF 13 juillet 1999
 
 _Cité par_:
 
@@ -77,6 +73,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
   - TXT_ASSOCIE: Instruction 1998-07-06 5F-13-98
   - TXT_ASSOCIE: Instruction 1999-04-27 5F-11-99
