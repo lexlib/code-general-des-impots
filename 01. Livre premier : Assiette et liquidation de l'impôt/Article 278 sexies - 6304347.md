@@ -10,7 +10,7 @@ l'article R. 331-1 du même code pour la construction de logements visés aux 3�
 Le taux réduit de 5,5 % s'applique également aux indemnités de toute nature perçues par les personnes qui exercent sur ces
 immeubles un droit de propriété ou de jouissance.
 
-2. Les livraisons à soi-même mentionnées au dernier alinéa du c du 1 du 7° de l'article 257 de logements sociaux à usage
+2. Les livraisons à soi-même mentionnées au quatrième alinéa du c du 1 du 7° de l'article 257 de logements sociaux à usage
 locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation dont la construction a
 été financée au moyen d'un prêt prévu à l'article R. 331-1 du même code qui bénéficient de la décision favorable prise dans
 les conditions prévues aux articles R. 331-3 et R. 331-6 du même code.
@@ -23,7 +23,7 @@ conclu avec l'Etat une convention en application du 3° et du 5° de l'article L
 
 4. Les livraisons à soi-même mentionnées au 7° bis de l'article 257.
 
-II. Abrogé.
+II. (Abrogé pour les ventes ayant acquis date certaine à compter du 22 octobre 1998).
 
 **Liens relatifs à cet article**
 
@@ -59,16 +59,13 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 70 quinquies B (P)
   - Livre des procédures fiscales - art. L176 (VD)
 
-_Modifié par_:
-
-  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 15, art. 111 III, IV JORF 3 juillet 1998
-  - Loi n°98-546 du 2 juillet 1998 - art. 111 () JORF 3 juillet 1998
-  - Loi - art. 40 (V) JORF 31 décembre 1998
-  - Loi n°98-1266 1998-12-30 art. 39 I 23, art. 40 II, IV, V Finances pour 1999 JORF 31 décembre 1998
-
 _Codifié par_:
 
-  - Décret n°99-382 1999-05-18
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cite_:
 
@@ -81,11 +78,7 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1998-01-18 8A-1-99
-  - TXT_ASSOCIE: Instruction 1998-05-18 8A-1-98
-  - TXT_ASSOCIE: Instruction 1998-06-05 8A-2-98
-  - TXT_ASSOCIE: Instruction 1998-06-30 8A-3-98
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 1999-01-18 8A-2-99
   - TXT_ASSOCIE: Instruction 1999-06-10 8A-5-99
   - TXT_ASSOCIE: Instruction 1999-09-14 8A-7-99
