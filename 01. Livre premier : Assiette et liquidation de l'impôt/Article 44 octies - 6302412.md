@@ -50,8 +50,7 @@ afférents à l'activité exercée dans les zones franches urbaines et relatifs 
 d'autre part, la somme des éléments d'imposition à la taxe professionnelle du contribuable définis au même article pour
 ladite période. Pour la fixation de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est
 celle déterminée conformément à l'article 1467, au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er
-janvier de l'année d'imposition des bénéfices et, par dérogation aux dispositions du b du 1° de l'article 1467, les salaires
-afférents à l'activité exercée dans les zones franches urbaines sont pris en compte pour 36 p. 100 de leur montant.
+janvier de l'année d'imposition des bénéfices.
 
 Par exception aux dispositions du sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré
 qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition s'applique,
@@ -123,10 +122,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 79 (V) JORF 31 décembre 2002
-  - Loi n°2002-1576 2002-12-30 art. 79 II 1°, V Finances rectificative pour 2002 JORF 31 décembre 2002
+  - Loi n°98-1266 1998-12-30 art. 44 A I 1 Finances pour 1999 JORF 31 décembre 1998
+
+_Codifié par_:
+
+  - Décret n°2003-298 2003-03-31
 
 **Liens**:
 
+  - HISTO: Edition du 1er janvier 2003
   - TXT_ASSOCIE: Instruction 2002-07-10 4A-6-02
   - TXT_ASSOCIE: Instruction 2002-07-26 4A-7-02
+  - TXT_ASSOCIE: Instruction 2003-04-23 4A-6-03

@@ -26,7 +26,7 @@ III. - Les dispositions des I et II s'appliquent sur option conjointe du contrib
 au II.
 
 IV. - Les dispositions du I s'appliquent pour l'imposition des revenus des contribuables pour lesquels l'application de
-l'article 202 résulte d'un événement intervenu entre le 1er janvier 2000 et le 31 décembre 2002.
+l'article 202 résulte d'un événement intervenu entre le 1er janvier 2000 et le 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -37,9 +37,8 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 2001-06-13 5G-4-01
+  - HISTO: Edition du 1er janvier 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 19 (V) JORF 31 décembre 1999
+  - Loi - art. 77 () JORF 31 décembre 2002

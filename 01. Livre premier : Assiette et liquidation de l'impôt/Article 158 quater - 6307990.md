@@ -26,24 +26,30 @@ produits nets exonérés en application de l'article 208 quinquies ;
 
 8° Par les sociétés exonérées de précompte dans les conditions prévues au 8° du 3 de l'article 223 sexies.
 
+9° par les sociétés d'investissements immobiliers cotées et leurs filiales visées à l'article 208 C et prélevés sur les
+bénéfices exonérés en application du premier alinéa du II de cet article et sur les bénéfices ayant été soumis à l'imposition
+prévue au IV de l'article 219.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 158 bis, 158 ter, 208 A, 208, 223 sexies
+  - CGI 158 bis, 158 ter, 208 A, 208, 223 sexies, 208 C, 219
   - Ordonnance 45-2710 1945-11-02
   - Loi n°86-793 du 2 juillet 1986 - art. 2, v. init.
   - Code monétaire et financier - art. L214-2 (M)
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2002-923 2002-06-06
+  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 1er janvier 2004
+  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Loi - art. 11 () JORF 31 décembre 2002
+  - Loi - art. 25 (V) JORF 31 décembre 2003
 
-**Liens**:
+_Abrogé par_:
 
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
+  - Loi - art. 93 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
