@@ -13,11 +13,11 @@ transfert. En cas de cession de ces valeurs mobilières, le délai de deux ans m
 à partir de la date du transfert.
 
 Les valeurs mobilières inscrites au compte de titres de transaction ne peuvent faire l'objet d'un prêt dans les conditions
-prévues à l'article 31 de la loi n° 87-416 du 17 juin 1987 sur l'épargne que si son échéance n'intervient pas plus de six
-mois après l'acquisition de ces titres. Par dérogation à l'article 38 bis, la créance représentative des titres prêtés est
-inscrite au cours le plus récent des titres à la date du prêt ; elle est évaluée au cours le plus récent des titres prêtés à
-la clôture de l'exercice. Lors de leur restitution, les titres sont repris au compte de titres de transaction pour la valeur
-de la créance à cette date.
+prévues ((à l'article 31 modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne)) (M) que si son échéance n'intervient pas
+plus de six mois après l'acquisition de ces titres. Par dérogation à l'article 38 bis, la créance représentative des titres
+prêtés est inscrite au cours le plus récent des titres à la date du prêt ; elle est évaluée au cours le plus récent des
+titres prêtés à la clôture de l'exercice. Lors de leur restitution, les titres sont repris au compte de titres de transaction
+pour la valeur de la créance à cette date.
 
 Les dispositions du premier et du troisième alinéa du présent article s'appliquent aux titres de créances négociables sur un
 marché réglementé ainsi qu'aux instruments du marché interbancaire. Si les titres n'ont pas été cédés dans un délai de six
@@ -25,6 +25,8 @@ mois, les dispositions du premier alinéa cessent de s'appliquer (1).
 
 (1) Ces dispositions s'appliquent pour la détermination des résultats imposables des exercices clos à compter du 31 décembre
 1990.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -34,13 +36,13 @@ _Cite_:
   - Loi n°84-46 1984-01-24 art. 18, art. 99
   - Loi n°87-416 1987-06-17 art. 31
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 18 août 1993
+  - Loi n°96-597 1996-07-02 art. 104 1° 2° JORF 4 juillet 1997
 
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 
@@ -50,6 +52,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 bis B (VD)
   - Code général des impôts, CGI. - art. 38 bis C (VD)
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°92-655 1992-07-16 art. 44 JORF 17 juillet 1992
+  - HISTO: Edition du 11 avril 1997

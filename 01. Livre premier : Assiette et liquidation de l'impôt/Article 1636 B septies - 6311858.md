@@ -10,13 +10,15 @@ IV. – Le taux de la taxe professionnelle voté par une commune ne peut excéde
 l'année précédente au niveau national pour l'ensemble des communes.
 
 V. – Pour les communes membres d'un groupement doté d'une fiscalité propre, les taux-plafonds prévus aux I et IV sont réduits
-du taux appliqué l'année précédente au profit du groupement.
+du taux appliqué l'année précédente au profit du groupement. VI. Le taux de la taxe professionnelle voté par un département
+ou une région ne peut excéder deux fois le taux moyen de cette taxe constaté l'année précédente au niveau national pour
+l'ensemble des collectivités de même nature.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°82-540 1982-06-28 art. 18 I JORF 29 juin 1982
+  - Loi n°96-1181 du 30 décembre 1996 - art. 99 () JORF 31 décembre 1996
 
 _Cité par_:
 
@@ -37,10 +39,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1656 (V)
   - Code général des impôts, CGI. - art. 1656 bis (VD)
 
-_Codifié par_:
-
-  - Décret n°82-881 1982-10-15
-
 **Liens**:
 
-  - HISTO: Edition du 1er septembre 1982
+  - HISTO: Edition du 11 avril 1997
