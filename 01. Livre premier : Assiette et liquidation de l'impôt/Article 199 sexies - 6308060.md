@@ -18,7 +18,9 @@ conclus et les dépenses payées à compter du 1er janvier 1985.
 Pour les prêts contractés à compter du 1er juin 1986 par les personnes citées au second alinéa du 1 de l'article 6 pour la
 construction ou l'acquisition de logements neufs, le montant de 2 287 euros est porté à 4 573 euros. Il est augmenté de 305
 euros par personne à charge au sens des articles 196 à 196 B. En outre, il est appliqué une majoration complémentaire de 76
-euros pour le deuxième enfant et de 152 euros par enfant à partir du troisième.
+euros pour le deuxième enfant et de 152 euros par enfant à partir du troisième. Les sommes de 305 euros, 76 euros et 152
+euros sont divisées par deux pour les enfants réputés à charge égale de l'un et l'autre des parents. Pour l'application de
+ces dispositions, les enfants réputés à charge égale de chacun des parents sont décomptés en premier (1).
 
 Pour les prêts contractés à compter du 18 septembre 1991 pour la construction ou l'acquisition de logements neufs, le montant
 des intérêts à prendre en compte pour le calcul de la réduction est porté à 3 049 euros pour une personne célibataire, veuve
@@ -58,6 +60,10 @@ l'acquisition de logements neufs à compter du 1er janvier 1997 et aux dépenses
 date. Pour les autres logements, ces dispositions ne s'appliquent pas aux intérêts afférents aux prêts contractés à compter
 du 1er janvier 1998.
 
+**Nota:**
+
+(1) Ces dispositions s'appliquent pour l'imposition des revenus des années 2003 et suivantes.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -67,10 +73,14 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 1er janvier 2004
+  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 30 VIII
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 30 (V) JORF 31 décembre 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 2 (V) JORF 27 mars 2004 en vigueur le 1er janvier 2005
