@@ -25,6 +25,10 @@ III. - Pour les entreprises placées sous le régime prévu à l'article 209 qui
 montant de l'impôt sur les sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en l'absence d'application
 de ce régime. Elle n'est ni imputable ni remboursable.
 
+III bis - Les sociétés d'investissements immobiliers cotées visées au I de l'article 208 C et leurs filiales détenues à 95 %
+au moins, directement ou indirectement, de manière continue au cours de l'exercice ne sont pas assujetties à la présente
+contribution sur les plus-values imposées en application du IV de l'article 219.
+
 IV. - Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et
 l'imposition forfaitaire annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution.
 
@@ -36,19 +40,11 @@ VI. - Les modalités d'application du présent article sont fixées par décret.
 
 _Cite_:
 
-  - CGI 219, 223 A, 39, 223 B, 223 D, 209 quinquies, 220 quinquies, 223 septies
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2002-06-26 4L-2-02
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 54 III
+  - CGI 219, 223 A, 39, 223 B, 223 D, 209 quinquies, 220 quinquies, 223 septies, 208 C
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 54 (V) JORF 29 décembre 2001
+  - Loi - art. 11 () JORF 31 décembre 2002
 
 _Cité par_:
 
@@ -59,3 +55,8 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 213 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 366 L (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2003
+  - TXT_ASSOCIE: Instruction 2002-06-26 4L-2-02
