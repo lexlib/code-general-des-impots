@@ -11,7 +11,8 @@ compris entre 140 millions de francs et 500 millions de francs, et à 4 p. 100 p
 cette dernière limite.
 
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de
-l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet.
+l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet, ((à l'exception du dégrèvement prévu à
+l'article 1647 C)) (M).
 
 Il ne s'applique pas aux taxes visées aux articles 1600 et 1601 ni aux prélèvements opérés par l'Etat sur ces taxes en
 application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
@@ -40,7 +41,7 @@ effectivement appliqué dans la commune. Lorsqu'un groupement perçoit, pour la 
 professionnelle au lieu et place des communes en application de l'article 1609 nonies C ou du II de l'article 1609 quinquies
 C, le taux de 1995 est celui de la ou des collectivités auxquelles le groupement s'est substitué.
 
-((Pour les communes membres d'un groupement à fiscalité propre, la cotisation afférente à la part de la commune et du
+Pour les communes membres d'un groupement à fiscalité propre, la cotisation afférente à la part de la commune et du
 groupement est calculée en retenant la somme des taux votés par la commune et par le groupement en 1995, ou la somme des taux
 votés par ces collectivités pour l'année d'imposition, si elle est inférieure. Lorsque les bases imposables au profit du
 groupement et de la commune sont différentes, la cotisation afférente à la part de chacune de ces collectivités est calculée
@@ -50,7 +51,7 @@ taxe professionnelle, en application des articles 1609 bis, 1609 quinquies et du
 retenu pour le calcul de la part de la cotisation revenant au groupement est égal, dans la limite du taux du groupement pour
 l'année d'imposition, à la différence si elle est positive entre le taux de la commune pour 1995 et le taux de cette
 collectivité pour l'année d'imposition, ou au taux du groupement pour l'année d'imposition si la somme des taux de la commune
-et du groupement pour cette même année est inférieure au taux de la commune pour 1995)) (M).
+et du groupement pour cette même année est inférieure au taux de la commune pour 1995.
 
 La cotisation de chaque établissement est majorée du montant de la cotisation prévue à l'article 1648 D et des taxes
 spéciales d'équipement prévues aux articles 1599 quinquies, 1607 bis, 1608, 1609 et 1609 A, calculées dans les mêmes
@@ -70,15 +71,15 @@ au début de l'exercice.
 
 Les consommations de biens et services en provenance de tiers comprennent : les travaux, fournitures et services extérieurs,
 à l'exception des loyers afférents aux biens pris en crédit-bail, les frais de transports et déplacements, les frais divers
-de gestion.    ((Les loyers ou toute somme qui en tient lieu, afférents à des biens visés au a du 1° de l'article 1467, sont
+de gestion.    Les loyers ou toute somme qui en tient lieu, afférents à des biens visés au a du 1° de l'article 1467, sont
 exclus des consommations de biens et services en provenance de tiers, déterminées conformément au deuxième alinéa, de
 l'entreprise qui les verse lorsque ce versement est effectué au profit de personnes qui la contrôlent directement ou
 indirectement ou d'entreprises que ces personnes contrôlent directement ou indirectement ou au profit de personnes qu'elle
 contrôle directement ou indirectement.
 
-((Lorsqu'en application du deuxième ou troisième alinéa , les loyers sont exclus des consommations de biens et services en
+Lorsqu'en application du deuxième ou troisième alinéa , les loyers sont exclus des consommations de biens et services en
 provenance de tiers du contribuable qui les verse, les provisions et les amortissements se rapportant aux biens loués sont
-déduits de la valeur ajoutée du bailleur)) (M).
+déduits de la valeur ajoutée du bailleur .
 
 3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs
 mobilières est égale à la différence entre :
@@ -112,12 +113,10 @@ de la demande.
 V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour les
 impositions établies au titre de 1994 (2) et 500 millions de francs au titre de 1995.
 
-(1) Taux applicable pour les impositions établies au titre de 1991 et des années suivantes. Précédemment le taux était de 4
-%.
+(1) Taux applicable pour les impositions établies au titre de 1991 et des années suivantes. Pour 1990 le taux était de 4 % et
+4,5 % pour 1989.
 
-[*Cf. Instruction 1995-07-18 6E-8-95.*]
-
-(M) Modification des lois.
+(M) Modification.
 
 (2) [*Cf. Instruction 1994-02-08 6E-2-94*].
 
@@ -125,7 +124,7 @@ impositions établies au titre de 1994 (2) et 500 millions de francs au titre de
 
 _Cite_:
 
-  - CGI 1600, 1601, 1641, 1647, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609, 1467
+  - CGI 1600, 1601, 1641, 1647 C, 1647 D, 1609 nonies BA, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609, 1467
 
 _Cité par_:
 
@@ -150,16 +149,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 24 () JORF 31 décembre 1996
-  - Loi n°96-1182 du 30 décembre 1996 - art. 34 () JORF 31 décembre 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - Loi - art. 20 () JORF 30 décembre 1997
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 22 avril 1998
   - TXT_ASSOCIE: Instruction 1994-02-08 6E-2-94
   - TXT_ASSOCIE: Instruction 1996-11-12 6E-7-96
   - TXT_ASSOCIE: Instruction 1997-07-31 6E-14-97
+  - TXT_ASSOCIE: Instruction 1998-02-12 6E-4-98
