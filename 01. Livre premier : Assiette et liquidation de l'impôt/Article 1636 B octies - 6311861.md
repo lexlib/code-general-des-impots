@@ -2,10 +2,11 @@
 
 I. – (Abrogé).
 
-II. – Les produits des taxes spéciales d'équipement perçues au profit de l'établissement public d'aménagement de la Basse-
-Seine et de l'établissement public de la métropole lorraine sont répartis entre les taxes foncières, la taxe d'habitation et
-la taxe professionnelle proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble
-des communes et de leurs groupements situés dans le ressort de ces établissements.
+II. – Les produits des taxes spéciales d'équipement perçues au profit des établissements publics fonciers visés à l'article
+L. 324-1 du code de l'urbanisme, de l'établissement public d'aménagement de la Basse-Seine, de l'établissement public de la
+métropole lorraine et de l'établissement public foncier du Nord - Pas-de-Calais sont sont répartis entre les taxes foncières,
+la taxe d'habitation et la taxe professionnelle proportionnellement aux recettes que chacune de ces taxes a procurées l'année
+précédente à l'ensemble des communes et de leurs groupements situés dans le ressort de ces établissements.
 
 III. – Pour l'application du II, les recettes s'entendent de celles figurant dans les rôles généraux.
 
@@ -21,15 +22,16 @@ V. – Les dispositions du présent article entreront en vigueur à compter de 1
 _Cite_:
 
   - CGI 1609 quater
+  - Code de l'urbanisme - art. L324-1 (M)
 
 _Modifié par_:
 
-  - Loi n°87-1060 1987-12-30 art. 81 IV, VI, [*art. 83*] Finances pour 1988 JORF 31 décembre 1987, en vigueur le 1er janvier 1989
-  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987, en vigueur le 1er janvier 1989
+  - Loi - art. 28 () JORF 19 juillet 1991
+  - Loi - art. 105 () JORF 31 décembre 1991
 
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
@@ -40,3 +42,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 B (VD)
   - Code général des impôts, CGI. - art. 1609 quater (VT)
   - Code général des impôts, CGI. - art. 1636 C (V)
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992

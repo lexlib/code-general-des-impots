@@ -4,23 +4,25 @@ En cas d'irrégularités affectant la détermination du montant de la créance d
 ou son remboursement, l'intérêt de retard et, s'il y a lieu, les majorations prévus à l'article 1729 sont applicables au
 titre de l'exercice d'imputation ou de remboursement.
 
-(La modification édictée par la loi 87-502 n'a pas été codifiée et le texte inclut le second paragraphe jusqu'à l'édition du
-4 juillet 1992).
-
-En cas de remboursement indu, les seuils d'application des majorations prévues à l'article 1729 sont appréciés en comparant
-le montant du remboursement indu au montant du remboursement auquel avait droit le redevable.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1729
-  - CGI 220 quinquies
+  - CGI 220 quinquies, 1729
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 4 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+  - Loi n°87-502 1987-07-08 art. 2 III VI JORF 9 juillet 1991
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°2006-356 2006-03-24
