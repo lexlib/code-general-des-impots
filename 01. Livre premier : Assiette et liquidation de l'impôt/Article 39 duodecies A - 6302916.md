@@ -2,27 +2,26 @@
 
 1. DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS JUSQU'AU 31 DECEMBRE 1995.
 
-La plus-value réalisée lors de la cession d'un contrat de crédit-bail conclu dans les conditions prévues aux 1° et 2° de
-l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail est soumise au régime
-défini aux articles 39 duodecies et suivants. Elle est considérée comme une plus-value à court terme à concurrence de la
-fraction des loyers qui correspond aux amortissements que l'entreprise cédante aurait pu pratiquer selon le mode linéaire si
-elle avait été propriétaire du bien qui fait l'objet du contrat ; ces amortissements sont calculés sur le prix d'acquisition
-du bien par le bailleur diminué du prix prévu au contrat pour l'acceptation de la promesse unilatérale de vente en retenant
-une durée d'utilisation égale à celle du contrat.
+La plus-value réalisée lors de la cession d'un contrat de crédit-bail conclu dans les conditions prévues aux 1 et 2 de
+l'article L. 313-7 du code monétaire et financier est soumise au régime défini aux articles 39 duodecies et suivants. Elle
+est considérée comme une plus-value à court terme à concurrence de la fraction des loyers qui correspond aux amortissements
+que l'entreprise cédante aurait pu pratiquer selon le mode linéaire si elle avait été propriétaire du bien qui fait l'objet
+du contrat ; ces amortissements sont calculés sur le prix d'acquisition du bien par le bailleur diminué du prix prévu au
+contrat pour l'acceptation de la promesse unilatérale de vente en retenant une durée d'utilisation égale à celle du contrat.
 
 DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A COMPTER DU 1er JANVIER 1996.
 
-La plus-value réalisée lors de la cession d'un contrat de crédit-bail conclu dans les conditions prévues aux 1° et 2° de
-l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail est soumise au régime
-défini aux articles 39 duodecies et suivants. Lorsque le contrat a été conclu dans les conditions du 1° de l'article 1er de
-la loi susvisée, elle est considérée comme une plus-value à court terme à concurrence de la fraction des loyers qui
-correspond aux amortissements que l'entreprise cédante aurait pu pratiquer selon le mode linéaire si elle avait été
-propriétaire du bien qui fait l'objet du contrat ; ces amortissements sont calculés sur le prix d'acquisition du bien par le
-bailleur diminué du prix prévu au contrat pour l'acceptation de la promesse unilatérale de vente en retenant une durée
-d'utilisation égale à celle du contrat. Lorsque le contrat a été conclu dans les conditions du 2° de l'article 1er de la loi
-susvisée, la plus-value est considérée comme une plus-value à court terme à concurrence de la fraction déduite, pour
-l'assiette de l'impôt, de la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour la cession
-éventuelle de l'immeuble à l'issue du contrat diminuée du montant des frais d'acquisition compris dans ces loyers.
+La plus-value réalisée lors de la cession d'un contrat de crédit-bail conclu dans les conditions prévues aux 1 et 2 de
+l'article L. 313-7 du code monétaire et financier est soumise au régime défini aux articles 39 duodecies et suivants. Lorsque
+le contrat a été conclu dans les conditions du 1 de l'article L. 313-7 précité, elle est considérée comme une plus-value à
+court terme à concurrence de la fraction des loyers qui correspond aux amortissements que l'entreprise cédante aurait pu
+pratiquer selon le mode linéaire si elle avait été propriétaire du bien qui fait l'objet du contrat ; ces amortissements sont
+calculés sur le prix d'acquisition du bien par le bailleur diminué du prix prévu au contrat pour l'acceptation de la promesse
+unilatérale de vente en retenant une durée d'utilisation égale à celle du contrat. Lorsque le contrat a été conclu dans les
+conditions du 2 de l'article L. 313-7 précité, la plus-value est considérée comme une plus-value à court terme à concurrence
+de la fraction déduite, pour l'assiette de l'impôt, de la quote-part de loyers prise en compte pour la fixation du prix de
+vente convenu pour la cession éventuelle de l'immeuble à l'issue du contrat diminuée du montant des frais d'acquisition
+compris dans ces loyers.
 
 2. Le prix d'acquisition des droits mentionnés au 1 réduit, le cas échéant, de la fraction définie au 6, est amorti selon le
 mode linéaire sur la durée normale d'utilisation du bien à cette date. Si ces droits sont à nouveau cédés, la fraction de la
@@ -75,22 +74,22 @@ la date du transfert du contrat, diminuée de la valeur du terrain à la signatu
 7. Les dispositions des 1 à 5 s'appliquent aux droits afférents aux contrats de crédit-bail portant sur des éléments
 incorporels amortissables d'un fonds de commerce ou d'un fonds artisanal.
 
-Un décret fixe les modalités d'application des dispositions du présent article ainsi que les obligations déclaratives.
+Un décret fixe les modalités d'application du présent article ainsi que les obligations déclaratives.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 39 duodecies, 239 sexies C, 239 sexies, 239 sexies B, 39
-  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
+  - Code monétaire et financier - art. L313-7 (M)
 
 _Modifié par_:
 
-  - Loi - art. 29 (V) JORF 31 décembre 1999
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -101,3 +100,7 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
   - Code général des impôts, CGI. - art. 210 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 quindecies G (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
