@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-07-19
+Version Consolidée au 1987-07-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -2044,6 +2044,145 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 J (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 39 C (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH (V)
+
+
+###### Article 39 bis
+
+1. Dans les entreprises exploitant soit un journal, soit une revue mensuelle ou bimensuelle consacrée pour une large part à
+l'information politique, les provisions constituées au moyen des bénéfices réalisés au cours des exercices 1951 à 1969, en
+vue d'acquérir des matériels, mobiliers et autres éléments d'actif nécessaires à l'exploitation du journal, ou de couvrir des
+dépenses susceptibles d'être portées à un compte de frais de premier établissement, sont admises en déduction pour
+l'établissement de l'impôt.
+
+Il en est de même des dépenses effectuées en vue des objets indiqués ci-dessus par prélèvement sur les bénéfices de la même
+période.
+
+1 bis. Les entreprises désignées au 1 sont autorisées, à la clôture de chacun des exercices 1970 à 1975, à constituer une
+provision pour acquisition d'éléments d'actif nécessaires à l'exploitation du journal, qui est admise en franchise d'impôt
+dans la limite de :
+
+90 % du bénéfice de l'exercice 1970,    80 % du bénéfice de l'exercice 1971,    60 % pour la généralité des publications et
+80 % pour les quotidiens, du bénéfice des exercices 1972 à 1975.
+
+Les éléments d'actif désignés à l'alinéa précédent s'entendent uniquement des matériels, terrains, constructions et prises de
+participations dans des entreprises d'imprimerie, dans la mesure où ils sont nécessaires à l'exploitation du journal. Un
+décret fixe, en tant que de besoin, les conditions d'application du présent alinéa.
+
+1 bis A. Les entreprises désignées au 1 sont autorisées à constituer en franchise d'impôt, par prélèvement sur les résultats
+des exercices 1976 à 1979, une provision pour acquisition d'éléments d'actif strictement nécessaires à l'exploitation du
+journal, dans la limite de :
+
+60 % pour la généralité des publications et 80 % pour les quotidiens, du bénéfice des exercices 1976 et 1977.
+
+50 % pour la généralité des publications et 70 % pour les quotidiens, du bénéfice des exercices 1978 et 1979.
+
+Les éléments d'actif [*définition*] désignés à l'alinéa précédent s'entendent uniquement des matériels, terrains,
+constructions et prises de participations dans des entreprises d'imprimerie, dans la mesure où ils sont strictement
+nécessaires à l'exploitation du journal.
+
+L'exclusion des terrains et participations prévue à la dernière phrase du premier alinéa du 1 bis A bis est applicable pour
+l'utilisation de la provision constituée en vertu du premier alinéa.
+
+1 bis A bis. Les entreprises de presse mentionnées au 1 sont autorisées à constituer en franchise d'impôt, par prélèvement
+sur les résultats imposables des exercices 1980 à 1991, une provision exclusivement affectée à l'acquisition de matériels et
+constructions strictement nécessaires à l'exploitation du journal ou à déduire de ces résultats les dépenses exposées en vue
+du même objet. Sont notamment exclues de la présente provision les acquisitions de terrains et les participations dans les
+entreprises.
+
+Les sommes prélevées ou déduites en vertu de l'alinéa précédent sont limitées à :
+
+- 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980,    - 30 % pour la
+généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 à 1991.
+
+1 bis B. Pour l'application des 1 bis, 1 bis A et 1 bis A bis, sont assimilées à des quotidiens [*définition*], les
+publications à diffusion départementale ou régionale consacrées principalement à l'information politique et générale,
+paraissant au moins une fois par semaine et dont le prix de vente n'excède pas de 75 % celui de la majorité des quotidiens.
+Un arrêté du ministre de l'économie et des finances fixe les conditions de cette assimilation (1).
+
+Les provisions indiquées aux 1 bis et 1 bis A ne peuvent être utilisées qu'au financement des deux tiers du prix de revient
+des éléments qui y sont définis.
+
+Les entreprises désignées au 1 peuvent, dans les mêmes limites que celles prévues aux 1 bis et 1 bis A, déduire les dépenses
+d'équipement exposées en vue du même objet.
+
+La limite des deux tiers prévue aux deux alinéas précédents ne s'applique ni aux quotidiens ni aux publications cités au
+premier alinéa.
+
+1 bis B bis. Les sommes prélevées ou déduites des résultats imposables en vertu du 1 bis A bis ne peuvent être utilisées
+qu'au financement d'une fraction du prix de revient des matériels et constructions qui y sont définis. Pour les éléments
+acquis au moyen des sommes prélevées ou déduites des bénéfices de l'exercice 1980, cette fraction est égale à 55 % pour la
+généralité des publications et à 90 % pour les quotidiens et les publications assimilées définies au 1 bis B, premier alinéa.
+Ces pourcentages sont ramenés respectivement à 40 % et à 80 % pour les éléments acquis au moyen des sommes prélevées ou
+déduites des bénéfices des exercices 1981 à 1991.
+
+1 bis C. Pour la détermination des résultats des exercices 1975 et suivants, sont exclues du bénéfice du régime prévu aux 1
+bis, 1 bis A et 1 bis A bis les publications pornographiques, perverses ou de violence figurant sur une liste établie, après
+avis de la commission de surveillance et de contrôle des publications destinées à l'enfance et à la jeunesse, par un arrêté
+du ministre de l'intérieur.
+
+Les réclamations et les recours contentieux relatifs aux décisions d'inscription sur la liste sont instruits par le
+département de l'intérieur.
+
+1 bis C bis. Les entreprises de presse ne bénéficient pas du régime prévu aux 1 bis A et 1 bis A bis pour la partie des
+publications qu'elles impriment hors d'un état membre de la Communauté économique européenne.
+
+1 ter. Les éléments d'actif acquis au moyen des bénéfices ou des provisions mentionnés au présent article sont amortis pour
+un montant égal à la fraction du prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou provisions.
+
+Sans préjudice de l'application des dispositions de l'article 39-1-5°, dixième alinéa, les provisions non utilisées
+conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices
+soumis à l'impôt au titre de ladite année.
+
+2. Les entreprises de presse attributaires de biens de presse, bénéficiant d'un des contrats prévus à l'article 9 de la loi
+n° 54-782 du 2 août 1954 ou remises en possession de leurs biens en vertu d'une dation en payement des indemnités dues à
+raison du transfert, qui emploient des journalistes ou salariés non journalistes ayant perdu leur emploi à la suite de la
+suspension d'entreprises de presse prononcée dans le cadre d'application de l'ordonnance du 30 septembre 1944, et qui ne se
+trouvent pas dans l'un des cas prévus à l'article 20-1° et 2° de la loi du 2 août 1954 précitée, sont autorisées à déduire de
+leur bénéfice net, pour l'établissement de l'impôt, les provisions constituées par elles en vue du paiement des indemnités
+calculées en tenant compte de l'ancienneté acquise par ces journalistes et salariés au service de l'ancienne entreprise,
+qu'elles doivent verser en cas de licenciement de ces derniers.
+
+(1) Annexe IV, art. 4 octies.
+
+**Nota:**
+
+[*Les dispositions de l'article sont reconduites pour les exercices 1987 à 1991 inclus*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 39 1 5° al. 10
+  - CGIAN4 4 octies
+  - Loi n°54-782 1954-08-02 art. 9, art. 20 1°, 2°
+  - Loi n°54-782 du 2 août 1954 - art. 9 (V)
+  - Ordonnance 1944-09-30
+
+_Modifié par_:
+
+  - Loi n°86-1317 du 30 décembre 1986 - art. 38 (P) JORF 31 décembre 1986 en vigueur le 1er janvier 1987
+  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°86-1318 1986-12-30 art. 38 II
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cité par_:
+
+  - Loi n°91-1 du 3 janvier 1991 - art. 22 (V)
+  - Décret n°99-79 du 5 février 1999 - art. 1 (Ab)
+  - Décret n°2012-484 du 13 avril 2012 - art. 10 (Ab)
+  - Code de la consommation - art. L121-18-2 (VT)
+  - Code de la consommation - art. L121-26 (V)
+  - Code de la consommation - art. L221-10 (VD)
+  - Code général des impôts, CGI. - art. 201 ter (V)
+  - Code général des impôts, CGI. - art. 223 ter (V)
+  - Code général des impôts, CGI. - art. 54 ter (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 4 octies (V)
 
 
 ###### Article 39 D
@@ -17244,6 +17383,68 @@ _Modifié par_:
 _Cité par_:
 
   - Loi n°96-559 du 24 juin 1996 - art. 4
+
+
+###### Article 238 bis AA
+
+Le total des déductions pratiquées au titre des deux premiers alinéas du 1 de l'article 238 bis, du 6 du même article, de
+l'article 238 bis-0 A et de l'article 238 bis A ne peut excéder 3 p. 1 000 [*pourcentage*] du chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 238 bis 1 al. 1, al. 2, 6
+  - CGI 238 bis A
+  - CGI 238 bis-0 A
+  - Loi n°85-98 1985-01-25
+
+_Créé par_:
+
+  - Loi n°87-571 du 23 juillet 1987 - art. 8 () JORF 24 juillet 1987
+
+_Cité par_:
+
+  - Loi n°96-559 du 24 juin 1996 - art. 5
+  - Code de la sécurité sociale. - art. A931-3-16 (V)
+
+
+###### Article 238 bis AB
+
+Les entreprises qui achètent, à compter du 1er juillet 1987 [*date point de départ*], des oeuvres originales d'artistes
+vivants et les inscrivent à un compte d'actif immobilisé peuvent déduire du résultat imposable de l'exercice d'acquisition et
+des dix-neuf années suivantes [*période, durée*], par fractions égales, une somme égale au prix d'acquisition.
+
+La déduction ainsi effectuée au titre de chaque exercice ne peut excéder la limite de 3 p. 1 000 [*pourcentage maximum*] du
+chiffre d'affaires, minorée du total des déductions mentionnées à l'article 238 bis AA du code général des impôts.
+
+Pour bénéficier de la déduction prévue au premier alinéa [*condition, formalité obligatoire*], l'entreprise doit exposer au
+public le bien qu'elle a acquis.
+
+L'entreprise doit inscrire à un compte de réserve spéciale au passif du bilan une somme égale à la déduction opérée en
+application du premier alinéa. Cette somme est réintégrée au résultat imposable en cas de changement d'affectation ou de
+cession de l'oeuvre ou de prélèvement sur le compte de réserve.
+
+L'entreprise peut constituer une provision pour dépréciation lorsque la dépréciation de l'oeuvre excède le montant des
+déductions déjà opérées au titre des alinéas qui précèdent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 238 bis AA
+
+_Créé par_:
+
+  - Loi n°87-571 du 23 juillet 1987 - art. 7 (V) JORF 24 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cité par_:
+
+  - Code du patrimoine. - art. L122-8 (V)
 
 
 ###### Article 238 bis B
@@ -35009,6 +35210,85 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 777 (V)
   - Code général des impôts, CGI. - art. 788 (VD)
   - Code général des impôts, CGI. - art. 795 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 K (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 L (V)
+
+
+###### Article 795
+
+Sont exonérés des droits de mutation à titre gratuit :
+
+1° Les dons et legs d'oeuvres d'art, de monuments ou d'objets ayant un caractère historique, de livres, d'imprimés ou de
+manuscrits, faits aux établissements pourvus de la personnalité civile, autres que ceux visés à l'article 794-I, si ces
+oeuvres et objets sont destinés à figurer dans une collection publique;
+
+2° Les dons et legs consentis aux établissements publics ou d'utilité publique, dont les ressources sont exclusivement
+affectées à des oeuvres scientifiques, culturelles ou artistiques à caractère désintéressé ;
+
+3° (Abrogé) ;
+
+4° Les dons et legs faits aux établissements publics charitables autres que ceux visés à l'article 794-I, aux mutuelles et à
+toutes autres sociétés reconnues d'utilité publique dont les ressources sont affectées à des oeuvres d'assistance.
+
+Il est statué sur le caractère de bienfaisance de la disposition par le décret rendu en conseil d'Etat ou l'arrêté
+préfectoral qui en autorise l'acceptation;
+
+5° Les dons et legs faits aux associations d'enseignement supérieur reconnues d'utilité publique conformément à l'article 7
+de la loi du 18 mars 1880 et aux sociétés d'éducation populaire gratuite reconnues d'utilité publique et subventionnées par
+l'Etat;
+
+6° Les dons et legs de sommes d'argent ou d'immeubles faits aux établissements pourvus de la personnalité civile autres que
+ceux visés à l'article 794-I avec obligation, pour les bénéficiaires, de consacrer ces libéralités à l'achat d'oeuvres d'art,
+de monuments ou d'objets ayant un caractère historique, de livres, d'imprimés ou de manuscrits, destinés à figurer dans une
+collection publique, ou à l'entretien d'une collection publique;
+
+7° Les dons et legs faits aux organismes d'habitations à loyer modéré ou à leurs unions;
+
+8° (Périmé).
+
+9° Les dons et legs faits à l'office national des anciens combattants et victimes de guerre;
+
+10° Les dons et legs faits aux associations cultuelles, aux unions d'associations cultuelles et aux congrégations autorisées;
+
+11° Les dons et legs faits aux établissements publics ou d'utilité publique autres que ceux visés à l'article 794-I, aux
+sociétés particulières ou autres groupements régulièrement constitués, en tant qu'ils sont affectés, par la volonté expresse
+du donateur ou du testateur, à l'érection de monuments aux morts de la guerre ou à la gloire de nos armes et des armées
+alliées.
+
+12° Les dons et legs d'immeubles situés dans les zones définies à l'article 1er de la loi n° 75-602 du 10 juillet 1975, faits
+au profit du Conservatoire de l'espace littoral et des rivages lacustres.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 794 I
+  - Loi n°75-602 du 10 juillet 1975 - art. 1 (M)
+  - Loi n°1880-03-18 art. 7
+
+_Modifié par_:
+
+  - Loi n°87-571 1987-07-23 art. 14 I, II JORF 24 juillet 1985
+  - Loi n°87-571 du 23 juillet 1987 - art. 14 () JORF 24 juillet 1985
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cité par_:
+
+  - Décret n°2007-807 du 11 mai 2007 - art. 6-6 (V)
+  - Arrêté du 17 avril 2015 (V)
+  - Décret n°2015-442 du 17 avril 2015 (V)
+  - Décret n°2016-1369 du 12 octobre 2016 (V)
+  - Décret n°2016-1369 du 12 octobre 2016 - art. 1
+  - Arrêté du 17 octobre 2016 (V)
+  - Code du patrimoine. - art. L122-2 (V)
+  - Code général des impôts, CGI. - art. 777 (V)
+  - Code général des impôts, CGI. - art. 885 G ter (Ab)
+  - Code général des impôts, CGI. - art. 990 I (V)
+  - Code général des impôts, CGI. - art. 990 I bis (V)
+  - Code général des impôts, CGI. - art. 990 J (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 281 K (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 281 L (V)
 
@@ -59970,15 +60250,13 @@ _Cité par_:
 
 La taxe sur les salaires due par les associations régies par la loi du 1er juillet 1901 et par les syndicats professionnels
 et leurs unions visés au chapitre Ier du titre Ier du livre IV du code du travail à raison des rémunérations payées à compter
-du 1er janvier 1983 n'est exigible, au titre d'une année, que pour la partie de son montant dépassant 4.500 F (1).
-
-(1) Seuil applicable à la taxe due à raison des salaires payés à compter du 1er janvier 1986.
+du 1er janvier 1987 n'est exigible, au titre d'une année, que pour la partie de son montant dépassant 6.000 F.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°85-1403 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985 en vigueur le 1er janvier 1986
+  - Loi n°87-571 du 23 juillet 1987 - art. 15 () JORF 24 juillet 1987
 
 _Cité par_:
 
