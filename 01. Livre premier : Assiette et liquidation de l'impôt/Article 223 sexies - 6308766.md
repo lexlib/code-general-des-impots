@@ -2,8 +2,11 @@
 
 1. Sous réserve des dispositions des articles 209 quinquies et 223 H, lorsque les produits distribués par une société sont
 prélevés sur des sommes à raison desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux normal prévu au
-deuxième alinéa du I de l'article 219, cette société est tenue d'acquitter un précompte égal au montant du crédit prévu à
-l'article 158 bis et attaché à ces distributions. Ce précompte est dû quels que soient les bénéficiaires des distributions.
+deuxième alinéa du I de l'article 219, cette société est tenue d'acquitter un précompte égal au ((crédit d'impôt calculé dans
+les conditions prévues au I de l'article 158 bis. Toutefois, le précompte est égal au crédit d'impôt calculé dans les
+conditions prévues au II de l'article 158 bis lorsque la société justifie qu'il est susceptible d'être utilisé. Le précompte
+est dû au titre des distributions ouvrant droit au crédit d'impôt prévu à l'article 158 bis quels qu'en soient les
+bénéficiaires)) (M).
 
 Il est également exigible lorsque les produits distribués sont prélevés sur les résultats d'exercice clos depuis plus de cinq
 ans ou depuis une date antérieure au 1er janvier 1965.
@@ -56,6 +59,8 @@ plus-values.
 Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces
 participations (2).
 
+(M) Modification - Ces dispositions s'appliquent aux distributions mises en paiement à compter du 1er janvier 1999.
+
 (1) Annexe III, art. 46 quater-0 C à 46 quater-0 F et 381 T.
 
 (2) Annexe III, art. 46 quater-0 FA.
@@ -65,19 +70,15 @@ participations (2).
 _Cite_:
 
   - CGI 209 quinquies, 223 H, 219, 158 bis, 220 quinquies I, 208 A, 207 2, 208 ter, 208, 208 quinquies
-  - CGIAN3 46 quater-0 C à CGIAN3 46 quater-0 F, 46 quater-0 FA, 381 T
+  - CGIAN3 46 quater-0 C à 46 quater-0 F, 46 quater-0 FA, 381 T
   - Loi n°86-793 du 2 juillet 1986 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 mars 1999
   - TXT_ASSOCIE: Instruction 1998-10-05 4J-2-98
-  - SPEC_APPLI: Loi n°92-1476 1992-12-31 art. 78 III Finances rectificative pour 1992
+  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 41 III 2 Finances pour 1999
 
 _Modifié par_:
 
-  - Loi - art. 78 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+  - Loi - art. 41 (V) JORF 31 décembre 1998
