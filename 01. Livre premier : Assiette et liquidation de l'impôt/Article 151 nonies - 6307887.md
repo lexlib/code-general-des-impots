@@ -2,9 +2,9 @@
 
 I. Lorsqu'un contribuable exerce son activité professionnelle dans le cadre d'une société dont les bénéfices sont, en
 application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu dans la catégorie des bénéfices agricoles
-réels [*BA*], des bénéfices industriels ou commerciaux [*BIC*] ou des bénéfices non commerciaux [*BNC*], ses droits ou parts
-dans la société sont considérés notamment pour l'application des articles 38, 72 et 93, comme des éléments d'actif affectés à
-l'exercice de la profession.
+réels, des bénéfices industriels ou commerciaux ou des bénéfices non commerciaux, ses droits ou parts dans la société sont
+considérés notamment pour l'application des articles 38, 72 et 93, comme des éléments d'actif affectés à l'exercice de la
+profession.
 
 II. En cas de transmission à titre gratuit à une personne physique de droits sociaux considérés, en application du I, comme
 des éléments d'actif affectés à l'exercice de la profession, la plus-value n'est pas immédiatement imposée si le bénéficiaire
@@ -17,17 +17,19 @@ d'annulation des parts ou actions de l'associé. Ce report est maintenu en cas d
 actions de l'associé à une personne physique si celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de
 la cession, du rachat ou de l'annulation de ces parts ou actions.
 
-Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janvier 1988 [*date*].
+Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janvier 1988.
+
+IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activité professionnelle, l'imposition de la plus-
+value constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou
+d'annulation de ces parts. Ce report est maintenu dans les conditions prévues au paragraphe III.
+
+Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janvier 1989.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 38
-  - CGI 72
-  - CGI 8
-  - CGI 8 ter
-  - CGI 93
+  - CGI 8, 8 ter, 38, 72, 93
 
 _Cité par_:
 
@@ -46,4 +48,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 16 (P) JORF 28 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 27 IV Finances pour 1990 JORF 30 décembre 1989, Edition du 15 juin 1990
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 2003-03-20 4F-3-03
