@@ -5,8 +5,10 @@ au B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'ori
 du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités
 implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui de la délimitation de la zone pour les
 contribuables qui y exercent déjà leur activité ou, dans le cas contraire, celui de leur début d'activité dans l'une de ces
-zones. La date de délimitation des zones franches urbaines visée au présent article est réputée correspondre, dans tous les
-cas, au 1er janvier 1997.
+zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80 % de
+leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de
+douze mois suivant cette période d'exonération. La date de délimitation des zones franches urbaines visée au présent article
+est réputée correspondre, dans tous les cas, au 1er janvier 1997.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
@@ -46,17 +48,17 @@ celle déterminée conformément à l'article 1467, au 1er janvier de l'année a
 janvier de l'année d'imposition des bénéfices et, par dérogation aux dispositions du b du 1° de l'article 1467, les salaires
 afférents à l'activité exercée dans les zones franches urbaines sont pris en compte pour 36 p. 100 de leur montant.
 
-Par exception aux dispositions u deuxième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré
+Par exception aux dispositions du sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré
 qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition s'applique,
 quel que soit le lieu d'établissement du bailleur.
 
-En aucun cas, le bénéfice exonéré ne peut excéder 400 000 F par période de douze mois.
+En aucun cas, le bénéfice exonéré ne peut excéder 61 000 euros par période de douze mois.
 
 III. Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice
 exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article et au 4 de l'article 223 I.
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération accordée ne peut excéder le montant visé au
-quatrième alinéa du II du présent article, dans la limite du résultat d'ensemble du groupe.
+huitième alinéa du II du présent article, dans la limite du résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 sexies et du régime
 prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois qui suivent celui de la
@@ -104,14 +106,20 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 N (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 P (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2002-07-10 4A-6-02
+  - TXT_ASSOCIE: Instruction 2002-07-26 4A-7-02
+
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 73° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 17 (V) JORF 29 décembre 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
+  - Décret n°2002-923 2002-06-06

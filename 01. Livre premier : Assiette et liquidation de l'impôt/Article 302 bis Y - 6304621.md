@@ -1,6 +1,6 @@
 # Article 302 bis Y
 
-1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de 60 francs.
+1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de 9,15 euros.
 
 Sont exonérés de la taxe :
 
@@ -14,7 +14,7 @@ c. Les actes qui, en matière mobilière :
 1° Sont exercés pour le compte d'un comptable des impôts ou du Trésor ainsi que de la sécurité sociale et des groupements
 mutualistes régis par le code de la mutualité ;
 
-2° ou qui, portant sur une somme n'excédant pas 3 500 F, ne sont pas accomplis en application des règles de procédure se
+2° ou qui, portant sur une somme n'excédant pas 530 euros, ne sont pas accomplis en application des règles de procédure se
 rattachant directement à une instance ou à l'exécution d'une décision de justice et ne constituent pas une signification du
 certificat de non-paiement prévu à l'article 65-3 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèque et
 relatif aux cartes de paiement.
@@ -44,15 +44,15 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 252 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
 
-_Modifié par_:
-
-  - Loi - art. 12 (V)
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
-
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 1998-01-15 3P-2-98
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Règlement CE 1103-97 1997-06-17 art. 5 JOCE 19 juin 1997 en vigueur le 1er janvier 2002
+  - Règlement CE 2866-98 1998-12-31 art. 1 JOCE 31 décembre 1998 en vigueur le 1er janvier 2002
+  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 en vigueur le 1er janvier 2002

@@ -8,7 +8,7 @@ la société, soit de l'impôt sur le revenu, soit de l'impôt sur les société
 impôt.
 
 En ce qui concerne les associés personnes physiques soumis à l'impôt sur le revenu dans la catégorie des revenus fonciers,
-les bénéfices sociaux visés à l'alinéa précédent sont déterminés dans les conditions prévues aux articles 28 à 31.
+les bénéfices sociaux visés au premier alinéa sont déterminés dans les conditions prévues aux articles 28 à 31.
 
 **Liens relatifs à cet article**
 
@@ -16,13 +16,13 @@ _Cite_:
 
   - CGI 206, 28 à 31
 
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 58° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -34,4 +34,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2003-06-26 4H-3-03
