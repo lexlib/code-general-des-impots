@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1979-07-04
+Version Consolidée au 1979-07-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -49419,26 +49419,35 @@ différer de plus de 20 % de celle résultant des règles fixées à l'alinéa p
 au nom du propriétaire lorsque la période de location est inférieure à six mois; il en est de même si le locataire n'est pas
 passible de la taxe professionnelle ou n'a pas la disposition exclusive des biens loués;
 
+5° La valeur locative des matériels agricoles utilisés exclusivement à des travaux saisonniers effectués pour le compte
+d'exploitants agricoles est diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est fixée par arreté
+du ministre chargé du budget (3);
+
 4° Il n'est pas tenu compte de la valeur locative définie aux 2e et 3° pour l'imposition des redevables sédentaires dont les
 recettes annuelles n'excèdent pas 400.000 F [*montant plafond*] s'il s'agit de prestataires de services ou de membres de
 professions libérales et un million de francs dans les autres cas; pour les redevables sédentaires ne remplissant pas ces
-conditions, cette valeur locative est réduite d'un montant fixé à 25.000 F; les limites prévues seront réévaluées lors du
+conditions, cette valeur locative est réduite d'un montant fixé à 25.000 F (4); les limites prévues seront réévaluées lors du
 vote de chaque loi de finances.
 
-1)  Annexe II, art. 310 HF.
+(1)  Annexe II, art. 310 HF.
 
-2)  Voir art. 1494 à 1518 A.
+(2)  Voir art. 1494 à 1518 A.
+
+(3)  Dispositions applicables à compter du 1er janvier 1987. Pour  l'imposition établie au titre 1987, les contribuables
+doivent  souscrire une déclaration rectificative avant le 30 octobre 1986.
+
+(4)  Voir également art. 1469 B.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1494 A CGI 1518 A
+  - CGI 1494 A CGI 1518 A CGI 1469 B
   - CGIAN2 310 HF
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°86-824 du 11 juillet 1986 - art. 31 (P) JORF 12 juillet 1986
 
 _Cité par_:
 
