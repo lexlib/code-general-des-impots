@@ -13,24 +13,38 @@ déplacement, d'hébergement et de restauration, exposées au cours des années 
 irrévocable jusqu'au terme de cette période. L'option doit être exercée au titre de 1992 ou au titre de l'année de création
 ou de la première année au cours de laquelle le contribuable expose des dépenses visées au premier alinéa.
 
+((Une réduction d'impôt s'applique également aux dépenses de formation exposées par les mêmes contribuables au cours des
+années 1994 à 1996 dans les conditions visées aux deuxième et troisième alinéas du présent article. Sont également prises en
+compte les dépenses exposées au profit du conjoint collaborateur du chef d'entreprise, au sens de l'article 1er de la loi n°
+82-596 du 10 juillet 1982 relative aux conjoints d'artisans et de commerçants travaillant dans l'entreprise familiale. Cette
+réduction d'impôt est égale à 35 p. 100 des dépenses exposées chaque année. Le montant des dépenses retenues pour le calcul
+de la réduction d'impôt ne peut excéder 10 000 F au cours de cette période triennale)) (1).
+
 Lorsque les dépenses de formation exposées au cours d'une année sont inférieures à celles exposées au cours de l'année qui
 précède, il est pratiqué une imputation, égale à 35 p. 100 du montant de la différence, sur la réduction d'impôt suivante.
 
 Les dispositions du II de l'article 199 sexies A s'appliquent à cette réduction d'impôt.
 
 Un décret fixe les conditions d'application du présent article, notamment en ce qui concerne les obligations incombant aux
-contribuables et aux organismes agréés. "
+contribuables et aux organismes agréés.
+
+(1) Modification de la loi 94-126.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 199 sexies A
+  - Loi n°82-596 du 10 juillet 1982 - art. 1, v. init.
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
 
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
+  - HISTO: Edition du 2 septembre 1994
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 91 () JORF 31 décembre 1991
+  - Loi n°94-126 du 11 février 1994 - art. 28 () JORF 13 février 1994
