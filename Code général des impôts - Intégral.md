@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1965-07-14
+Version Consolidée au 1965-12-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 247 à 1043 A)](#1)
     - [Première Partie : Impôts d'État (art. 247 à 1043 A)](#2)
@@ -35,21 +35,10 @@ Version Consolidée au 1965-07-14
 
 ###### Article 247
 
-1. Les omissions totales ou partielles constatées dans l’assiette de l’un quelconque des impôts et taxes visés aux chapitres
-I, II et III (sections I à III et VII) du présent titre ainsi que les erreurs commises dans l’établissement des impositions
-ou le calcul des cotisations correspondantes peuvent être réparées dans les conditions prévues à l’article 1966.
-
 Les impositions établies après le décès du contribuable en vertu de l’article 1966-4, ainsi que toutes autres impositions
 dues par les héritiers du chef du défunt, constituent une dette déductible de l’actif successoral pour la perception des
 droits de mutation par décès. Elles ne sont pas admises en déduction du revenu des héritiers pour l’établissement de l’impôt
 sur le revenu des personnes physiques dont ces derniers sont passibles.
-
-Les impositions établies en vertu du présent paragraphe supportent, s’il y a lieu, les majorations de droits ou droits en sus
-prévus par les dispositions relatives à l’impôt ou à la taxe qu’elles concernent.
-
-2. L’administration peut effectuer toutes compensations entre l’impôt sur le revenu des personnes physiques, l’impôt sur les
-sociétés et les taxes visées dans le chapitre III (sections I à III et VII) du présent titre établis au titre d’une même
-année.
 
 
 
