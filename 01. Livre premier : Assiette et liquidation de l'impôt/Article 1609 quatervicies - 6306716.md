@@ -36,13 +36,13 @@ Les limites supérieures et inférieures des tarifs correspondant aux classes d'
 
 CLASSE : 1
 
-Tarifs par passager : De 2,45 à 4,7 euros
+Tarifs par passager : De 4,3 à 8,5 euros
 
 Tarifs par tonne de fret ou de courrier : De 0,3 à 0,6 euro.
 
 CLASSE : 2
 
-Tarifs par passager : De 1,2 à 4,7 euros.
+Tarifs par passager : De 3,5 à 8 euros.
 
 Tarifs par tonne de fret ou de courrier : De 0,15 à 0,6 euro.
 
@@ -85,7 +85,7 @@ précédents.
 
 _Modifié par_:
 
-  - Loi - art. 94 () JORF 29 décembre 2001
+  - Loi - art. 127 () JORF 31 décembre 2002
 
 _Cité par_:
 
@@ -147,4 +147,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2003
