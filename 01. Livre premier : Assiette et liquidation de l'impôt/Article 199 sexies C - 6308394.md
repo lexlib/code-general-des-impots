@@ -36,7 +36,7 @@ b) La réduction prévue au a s'applique aux dépenses payées par un contribuab
 propriétaire ou locataire, et qui ont pour objet d'améliorer l'isolation thermique ou la régulation du chauffage si
 l'immeuble a été achevé avant le 1er janvier 1982 (1).
 
-La liste des travaux et matériaux ouvrant droit à réduction d'impôt est fixée par arrêté ministériel (2).
+La liste des dépenses d'isolation thermique ouvrant droit à réduction d'impôt est fixée par arrêté ministériel (2).
 
 c) Lorsque le bénéficiaire de la réduction d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des
 dépenses qui ont ouvert droit à cet avantage, il fait l'objet au titre de l'année du remboursement d'une majoration de son
@@ -45,9 +45,8 @@ impôt sur le revenu égale à 25 p. 100 de la somme remboursée, dans la limite
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
 dépenses ont été payées.
 
-(1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 1991.
-
-(2) Voir Annexe IV, art. 17 M à 17 O.
+(1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 1991.    (2) Voir Annexe IV, art. 17 M à 17 O.
+En ce qui concerne la liste des dépenses de régulation de chauffage, voir Annexe 4, art. 17 P à 17 S.
 
 **Liens relatifs à cet article**
 
@@ -58,12 +57,16 @@ _Cite_:
   - CGI 196 B
   - CGI 199 sexies 1° b, a
   - CGI 199 sexies A II
-  - CGIAN4 17 M à CGIAN4 17 O
+  - CGIAN4 17 M à 17 O, 17 P à 17 S
+
+_Codifié par_:
+
+  - Décret n°91-883 1991-09-09
 
 **Liens**:
 
-  - HISTO: Edition du 24 juin 1991
   - TXT_ASSOCIE: Instruction 1990-06-15 5B-22-90
+  - SPEC_APPLI: Loi n°92-655 1992-07-15 art. 2
 
 _Modifié par_:
 
