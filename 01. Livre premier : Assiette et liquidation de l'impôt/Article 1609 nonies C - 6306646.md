@@ -102,14 +102,20 @@ La commission peut faire appel, pour l'exercice de sa mission, à des experts. E
 de la taxe professionnelle unique par l'établissement public de coopération intercommunale et lors de chaque transfert de
 charges ultérieur.
 
-Le coût des dépenses transférées est évalué d'après leur coût réel dans les budgets communaux lors de l'exercice précédant le
-transfert de compétences ou d'après la moyenne de leur coût réel dans les trois comptes administratifs précédant ce
-transfert. Ce coût est réduit, le cas échéant, des recettes de fonctionnement et des taxes afférentes à ces charges.
-Toutefois, un décret en Conseil d'Etat fixe les conditions d'évaluation des dépenses d'investissement transférées.
+Les dépenses de fonctionnement, non liées à un équipement, sont évaluées d'après leur coût réel dans les budgets communaux
+lors de l'exercice précédant le transfert de compétences ou d'après leur coût réel dans les comptes administratifs des
+exercices précédant ce transfert. Dans ce dernier cas, la période de référence est déterminée par la commission.
+
+Le coût des dépenses liées à des équipements concernant les compétences transférées est calculé sur la base d'un coût moyen
+annualisé. Ce coût intègre le coût de réalisation ou d'acquisition de l'équipement ou, en tant que de besoin, son coût de
+renouvellement. Il intègre également les charges financières et les dépenses d'entretien. L'ensemble de ces dépenses est pris
+en compte pour une durée normale d'utilisation et ramené à une seule année.
+
+Le coût des dépenses transférées est réduit, le cas échéant, des ressources afférentes à ces charges.
 
 Cette évaluation est déterminée à la date de leur transfert par délibérations concordantes de la majorité qualifiée des
-conseils municipaux prévue au II de l'article L. 5211-5 du code général des collectivités territoriales, adoptées sur rapport
-de la commission locale d'évaluation des transferts.
+conseils municipaux prévue au premier alinéa du II de l'article L. 5211-5 du code général des collectivités territoriales,
+adoptées sur rapport de la commission locale d'évaluation des transferts.
 
 Lorsqu'il est fait application à un établissement public de coopération intercommunale des dispositions du présent article,
 la commission d'évaluation des transferts de charges doit rendre ses conclusions sur le montant des charges qui étaient déjà
@@ -139,23 +145,36 @@ en tenant compte de la contribution des communes à un syndicat, l'organe délib
 intercommunale réduit le montant de l'attribution de compensation à due concurrence de la diminution du montant de la
 contribution demandée aux communes par le syndicat.
 
-2° L'attribution de compensation est égale au produit de taxe professionnelle, y compris la compensation prévue au I du D de
-l'article 44 modifié de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), celle prévue au B de l'article 26 de
-la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002), et, le cas échéant, les compensations prévues au B de
-l'article 4 de la loi n° 96-987 du 14 novembre 1996 modifiée relative à la mise en oeuvre du pacte de relance pour la ville
-ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées antérieurement
-aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
-décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût
-net des charges transférées calculé dans les conditions définies au IV. L'attribution de compensation est majorée d'une
-fraction de la contribution d'une commune définie à l'article L302-8 du code de la construction et de l'habitation. Cette
-fraction est égale à la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal de la commune. Cette
-attribution est recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+1° bis Le montant de l'attribution de compensation et les conditions de sa révision peuvent être fixés librement par le
+conseil communautaire statuant à l'unanimité, en tenant compte du rapport de la commission locale d'évaluation des transferts
+de charges.
 
-2° bis Le montant de l'attribution de compensation, les conditions et la date d'effet de sa révision peuvent être fixés
-librement par délibérations concordantes des neuf dixièmes au moins des conseils municipaux des communes membres représentant
-plus des quatre cinquièmes de la population de celles-ci, ou des quatre cinquièmes au moins des conseils municipaux de ces
-communes représentant plus des neuf dixièmes de la population, en tenant compte notamment du rapport de la commission
-consultative d'évaluation des transferts de charges.
+A défaut d'accord unanime, le montant de l'attribution est fixé dans les conditions figurant aux 2°, 3° et 4° ;
+
+2° L'attribution de compensation est égale au produit de taxe professionnelle perçu par elle l'année précédant celle de
+l'institution du taux de taxe professionnelle communautaire diminué du coût net des charges transférées calculé dans les
+conditions définies au IV ; ce produit de taxe professionnelle est majoré du montant perçu la même année au titre de la part
+de la dotation forfaitaire prévue à l'article L. 2334-7 du code général des collectivités territoriales correspondant au
+montant antérieurement versé en application du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30
+décembre 1998), de la compensation prévue au B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre
+2002) ainsi que, sous réserve d'une délibération du conseil de l'établissement public de coopération intercommunale statuant
+à l'unanimité, de la compensation prévue à l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003)
+et, le cas échéant, des compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise
+en oeuvre du pacte de relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la
+zone franche de Corse, versées antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi
+de finances pour 1987 (n° 86-1317 du 30 décembre 1986). L'attribution de compensation est majorée d'une fraction de la
+contribution d'une commune définie à l'article L302-8 du code de la construction et de l'habitation. Cette fraction est égale
+à la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal de la commune. Cette attribution est
+recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+
+Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de coopération intercommunale faisant application
+du régime fiscal du présent article pour adhérer à un autre établissement public de coopération intercommunale faisant
+application du même régime fiscal, le produit de taxe professionnelle est majoré du montant perçu, l'année de cette
+modification, par l'établissement public de coopération intercommunale auquel elle a cessé d'appartenir, au titre de la part
+de la dotation de compensation prévue à l'article L. 5211-28-1 du code général des collectivités territoriales correspondant
+au montant antérieurement versé en application du I du D de l'article 44 de la loi de finances pour 1999 précitée.
+
+2° bis Abrogé
 
 3° Lorsqu'il est fait application à un établissement public de coopération intercommunale doté d'une fiscalité propre des
 dispositions du présent article, l'attribution de compensation versée chaque année aux communes membres est égale à la
@@ -179,7 +198,15 @@ dans les conditions définies au IV.
 
 c. Du montant des reversements autorisés par l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la
 fiscalité directe locale, de tout ou partie de la part communale de taxe professionnelle au profit de l'établissement public
-de coopération intercommunale l'année précédant celle de la première application de ces dispositions.
+de coopération intercommunale l'année précédant celle de la première application de ces dispositions. Cette disposition est
+également applicable à compter du 1er janvier 2005 aux établissements publics de coopération intercommunale soumis au présent
+article depuis la loi n° 99-586 du 12 juillet 1999 précitée.
+
+Lorsque des communes ont décidé soit directement, soit dans le cadre d'un syndicat intercommunal, de répartir entre elles les
+recettes de taxe professionnelle générées par les entreprises implantées sur une zone d'activités intercommunale, en
+application de la loi n° 80-10 du 10 janvier 1980 précitée, la communauté bénéficiaire de la taxe professionnelle
+d'agglomération se trouve substituée de plein droit à ces accords de partage de ressources fiscales. L'attribution de
+compensation versée par la communauté est donc majorée ou diminuée selon le cas de ces recettes de taxe professionnelle.
 
 Lorsque l'attribution de compensation est négative, la commune est tenue d'effectuer un versement à due concurrence à
 l'établissement public de coopération intercommunale.
@@ -195,16 +222,18 @@ code général des collectivités territoriales perçue l'année précédant cel
 Cette attribution est recalculée dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elle ne peut
 être indexée.
 
-VI. L'établissement public de coopération intercommunale autre qu'une communauté urbaine soumis aux dispositions du I du
-présent article peut instituer une dotation de solidarité communautaire dont le principe et les critères de répartition entre
-les communes membres et, le cas échéant, certains établissements publics de coopération intercommunale à fiscalité propre
-limitrophes sont fixés par le conseil de l'établissement public de coopération intercommunale, statuant à la majorité des
-deux tiers, en tenant compte notamment de l'importance de la population, du potentiel fiscal par habitant et de l'importance
-des charges de ses communes membres. Le montant de cette dotation est fixé librement par le conseil de l'établissement public
-de coopération intercommunale. Toutefois, en cas d'application par l'établissement public de coopération intercommunale des
-dispositions du II du présent article, cette dotation ne peut être augmentée l'année d'application de ces dispositions, sauf
-pour assurer le respect d'accords conventionnels de partage de fiscalité avec d'autres établissements publics de coopération
-intercommunale.
+VI.  L'établissement public de coopération intercommunale, autre qu'une communauté urbaine, soumis aux dispositions du I peut
+instituer au bénéfice de ses communes membres et, le cas échéant, d'établissements publics de coopération intercommunale à
+fiscalité propre limitrophes une dotation de solidarité communautaire, dont le principe et les critères de répartition sont
+fixés par le conseil communautaire statuant à la majorité des deux tiers. Le montant de cette dotation est fixé librement par
+le conseil de l'établissement public de coopération intercommunale. Elle est répartie en tenant compte prioritairement de
+l'importance de la population et du potentiel fiscal par habitant, les autres critères étant fixés librement par le conseil.
+Toutefois, en cas d'application par l'établissement public de coopération intercommunale des dispositions du II, cette
+dotation ne peut être augmentée, sauf pour assurer le respect d'accords conventionnels de partage de fiscalité avec d'autres
+établissements publics de coopération intercommunale. Lorsqu'une zone d'activités économiques d'intérêt départemental est
+située en tout ou partie sur le territoire de l'établissement public de coopération intercommunale, celui-ci peut étendre le
+versement de la dotation de solidarité communautaire aux établissements publics de coopération intercommunale à fiscalité
+propre constituant un ensemble sans discontinuité territoriale et limitrophe de son territoire.
 
 L'établissement public de coopération intercommunale autre qu'une communauté urbaine créé sans être issu d'une transformation
 et soumis dès la première année aux dispositions des I et II du présent article ne peut instituer de dotation de solidarité
@@ -269,6 +298,7 @@ _Cite_:
   - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
   - Loi n°99-586 1999-07-12
   - Loi n°2002-1575 2002-12-30 art. 26 Finances pour 2003
+  - Loi n°2003-1311 2003-12-30 art. 53 Finances pour 2004
   - Code général des collectivités territoriales - art. L5211-41-1 (M)
   - Code général des collectivités territoriales - art. L5211-5 (M)
   - Code général des collectivités territoriales - art. L5215-40-1 (M)
@@ -280,7 +310,7 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2005
 
 _Cité par_:
 
@@ -375,4 +405,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 7 () JORF 27 mars 2004
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 73 (V) JORF 31 décembre 2004
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 102 () JORF 31 décembre 2004

@@ -30,18 +30,30 @@ considéré pour l'application du I comme une cessation d'activité si la socié
 conditions et s'engage à utiliser les sommes déposées sur le compte au cours des sept exercices qui suivent celui au titre
 duquel la déduction correspondante a été pratiquée.
 
+La transmission à titre gratuit d'une exploitation individuelle dans les conditions prévues à l'article 41 par un exploitant
+agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de la transmission n'est pas considérée pour
+l'application du I comme une cessation d'activité si le ou les bénéficiaires de la transmission remplissent les conditions
+ouvrant droit à la déduction et s'engagent à utiliser les sommes déposées sur le compte au cours des cinq exercices qui
+suivent celui au titre duquel la déduction correspondante a été pratiquée dans les conditions et les limites définies au I
+(1).
+
 III. - Le compte ouvert auprès d'un établissement de crédit est un compte courant qui retrace exclusivement les opérations
 définies au I.
+
+**Nota:**
+
+Nota : (1) Ces dispositions sont applicables pour la détermination des résultats des exercices ouverts à compter du 1er
+janvier 2004.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 72 D ter, 151 octies
+  - CGI 72 D ter, 151 octies, 41
 
 _Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 10 () JORF 31 décembre 2004
+  - Loi n°2005-157 du 23 février 2005 - art. 22 (V) JORF 24 février 2005
 
 _Cité par_:
 
@@ -50,3 +62,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 75 A (Ab)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies J (V)
   - Code rural et de la pêche maritime - art. L731-15 (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

@@ -1,25 +1,28 @@
 # Article 235 ter H quater
 
-Les dépenses effectivement supportées par l'employeur au titre du congé individuel de formation, en sus du versement
-obligatoire prévu à l'article 235 ter H bis, sont imputables sur le montant de la participation établie par l'article 235 ter
-D.
+Cet article reproduit les dispositions du douzième alinéa de l'article L. 951-3 du code du travail :
+
+"Les dépenses effectivement supportées par l'employeur au titre du congé individuel de formation en sus du versement
+obligatoire prévu au premier alinéa du présent article sont imputables sur le montant de la participation, établie par
+l'article L. 951-1."
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 235 ter D
-  - CGI 235 ter H bis
-
 _Modifié par_:
 
-  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
-  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
+  - Décret n°2006-356 2006-03-24
 
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
+  - DISJONCTION: Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail - art. L951-1 (M)
+  - Code du travail - art. L951-3 (M)
