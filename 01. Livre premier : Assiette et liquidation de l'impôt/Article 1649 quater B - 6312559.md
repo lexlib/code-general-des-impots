@@ -1,20 +1,21 @@
 # Article 1649 quater B
 
-Tout règlement d'un montant supérieur à ((50 000 F)) (M) effectué par un particulier non commerçant, en paiement d'un bien ou
-d'un service, doit être opéré soit par chèque répondant aux caractéristiques de barrement d'avance et de non-transmissibilité
-par voie d'endossement mentionné à l'article L. 96 du livre des procédures fiscales, ((soit par tout autre moyen inscrivant
-le montant réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise d'investissement ou une
-institution mentionnée à l'article 8 ((modifié)) de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle
-des établissements de crédit)) (M).
+Tout règlement d'un montant supérieur à 20 000 F effectué par un particulier non commerçant, en paiement d'un bien ou d'un
+service, doit être opéré soit par chèque répondant aux caractéristiques de barrement d'avance et de non-transmissibilité par
+voie d'endossement mentionné à l'article L. 96 du livre des procédures fiscales, soit par tout autre moyen inscrivant le
+montant réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise d'investissement ou une institution
+mentionnée à l'article 8 modifié de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
+établissements de crédit. 
 
 Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en France peuvent continuer d'effectuer le
-règlement de tout bien ou service d'un montant supérieur à ((50 000 F)) (M) en chèque de voyage ou en espèces, après relevé,
-par le vendeur du bien ou le prestataire de services, de leurs identité et domicile justifiés.
+règlement de tout bien ou service d'un montant supérieur à 20 000 F en chèque de voyage ou en espèces, après relevé, par le
+vendeur du bien ou le prestataire de services, de leurs identité et domicile justifiés.
 
-((Tout règlement d'un montant supérieur à 50 000 F en paiement d'un ou de plusieurs biens vendus aux enchères, à l'occasion
-d'une même vente, doit être opéré selon les modalités prévues au premier alinéa)) (M).
+Tout règlement d'un montant supérieur à 20 000 F en paiement d'un ou de plusieurs biens vendus aux enchères, à l'occasion
+d'une même vente, doit être opéré selon les modalités prévues au premier alinéa.
 
-(M) Modification.
+Tout versement d'une prime ou d'une cotisation d'assurance au titre d'un contrat d'assurance vie ou d'assurance décès doit
+être opéré selon les modalités prévues au premier alinéa, au-delà de 20 000 F par an et par contrat.
 
 **Liens relatifs à cet article**
 
@@ -25,13 +26,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
-  - Loi n°98-261 du 6 avril 1998 - art. 7 () JORF 7 avril 1998
-  - Loi - art. 102 () JORF 31 décembre 1998
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
+  - Loi - art. 101 () JORF 31 décembre 1999
+  - Loi - art. 102 () JORF 31 décembre 1999
 
 _Cité par_:
 
@@ -39,5 +35,6 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
+  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 1999-06-03 13K-7-99
+  - TXT_ASSOCIE: Instruction 2000-02-08 13K-3-00

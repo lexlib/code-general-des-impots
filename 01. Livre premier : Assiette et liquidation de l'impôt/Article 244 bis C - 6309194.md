@@ -1,8 +1,9 @@
 # Article 244 bis C
 
-Les dispositions de l'article 92 B ne s'appliquent pas aux plus-values réalisées à l'occasion de cessions à titre onéreux de
-valeurs mobilières effectuées par les personnes qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B,
-ou dont le siège social est situé hors de France.
+Sous réserve des dispositions de l'article 244 bis B, les dispositions de l'article 150-0 A ne s'appliquent pas aux plus-
+values réalisées à l'occasion de cessions à titre onéreux de valeurs mobilières ou de droits sociaux effectuées par les
+personnes qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B, ou dont le siège social est situé hors
+de France.
 
 Il en est de même des plus-values réalisées par les organisations internationales, les Etats étrangers, les banques centrales
 et les institutions financières publiques de ces Etats lorsque les conditions prévues à l'article 131 sexies sont remplies.
@@ -11,21 +12,12 @@ et les institutions financières publiques de ces Etats lorsque les conditions p
 
 _Cite_:
 
-  - CGI 92 B, 4 B, 131 sexies
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
+  - CGI 4 B, 131 sexies, 244 bis B, 150-0 A
 
 **Liens**:
 
-  - HISTO: Edition du 10 juillet 1983
-
-_Anciens textes_:
-
-  - Loi n°76-660 1976-07-19 ART. 8 III AL. 3 ET 5
-  - Loi n°78-688 du 5 juillet 1978 - art. 1 (V)
+  - HISTO: Edition du 31 mars 2000
 
 _Modifié par_:
 
-  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000

@@ -95,8 +95,8 @@ l'objet d'une reprise au titre de l'année où interviennent les événements pr
 applicables si les investissements productifs sont compris dans un apport partiel d'actif réalisé sous le bénéfice de
 l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A,
 à la condition que la société bénéficiaire de l'apport, ou la société absorbante selon le cas, réponde aux conditions du 1 et
-s'engage dans l'acte d'apport ou de fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour la fraction du
-délai restant à courir.
+s'engage dans l'acte d'apport ou de fusion à respecter les engagements mentionnés au troisième alinéa du 1 pour la fraction
+du délai restant à courir.
 
 Quand un contribuable pratique la réduction d'impôt définie au présent article, les dispositions du a du 1° du I de l'article
 199 sexies et des articles 199 nonies à 199 decies B ne sont pas applicables.
@@ -125,8 +125,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi - art. 12 (V) JORF 31 décembre 1999
-  - Loi - art. 32 () JORF 31 décembre 1999
+  - Loi n°93-1352 du 30 décembre 1993 - art. 20 (V) JORF 31 décembre 1993
+
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
 
 _Cité par_:
 
@@ -143,14 +146,10 @@ _Cité par_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 1997-02-07 4A-2-97
-  - TXT_ASSOCIE: Instruction 1997-02-07 5B-6-97
-  - TXT_ASSOCIE: Instruction 1997-03-07 4A-6-97
-  - TXT_ASSOCIE: Instruction 1997-03-07 5B-11-97
-  - TXT_ASSOCIE: Instruction 1998-02-11 5B-9-98
-  - TXT_ASSOCIE: Instruction 1998-02-12 4A-3-98
+  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 1999-01-25 5B-5-99
   - TXT_ASSOCIE: Instruction 1999-01-29 4A-1-99
   - TXT_ASSOCIE: Instruction 1999-06-17 5B-14-99
+  - TXT_ASSOCIE: Instruction 2000-02-21 5B-11-00
   - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
   - TXT_ASSOCIE: Instruction 2000-03-06 5B-13-00
