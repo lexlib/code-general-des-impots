@@ -1,8 +1,8 @@
 # Article 38 bis B
 
-I. Lorsque des établissements de crédit ou des maisons de titres mentionnés à l'article 38 bis A achètent ou souscrivent des
-titres à revenu fixe pour un prix différent de leur prix de remboursement, le profit ou la perte correspondant à cette
-différence est réparti sur la durée restant à courir jusqu'au remboursement. Cette répartition est effectuée :
+I. Lorsque des établissements de crédit mentionnés à l'article 38 bis A achètent ou souscrivent des titres à revenu fixe pour
+un prix différent de leur prix de remboursement, le profit ou la perte correspondant à cette différence est réparti sur la
+durée restant à courir jusqu'au remboursement. Cette répartition est effectuée :
 
 de manière linéaire pour les valeurs mobilières ; dans ce cas, le prix d'acquisition s'entend coupon couru à l'achat exclu ;
 
@@ -49,15 +49,14 @@ _Cite_:
 
   - CGI 38 bis A
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 24 juin 1991
-
-_Créé par_:
-
-  - Loi n°90-1169 1990-12-29 art. 29 III, IV Finances rectificative pour 1990 JORF 30 décembre 1990
-  - Loi n°90-1169 du 29 décembre 1990 - art. 29 (V) JORF 30 décembre 1990
+  - Décret n°93-1127 1993-09-24
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 38 (V)
+
+_Modifié par_:
+
+  - Loi n°92-655 1992-07-16 art. 44 JORF 17 juillet 1992
