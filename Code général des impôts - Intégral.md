@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1991-07-29
+Version Consolidée au 1991-08-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -34251,8 +34251,9 @@ fluides alimentaires ;
 
 4° Vinaigres comestibles, ainsi que les vins et alcools utilisés pour la fabrication de ces vinaigres ;
 
-5° Chocolat, chocolat de ménage, chocolat de ménage au lait (2), fèves de cacao et beurre de cacao ;    6° Cafés, thés,
-chicorées, succédanés et mélanges de ces produits ;
+5° Chocolat, chocolat de ménage, chocolat de ménage au lait (2), fèves de cacao et beurre de cacao ;
+
+6° Cafés, thés, chicorées, succédanés et mélanges de ces produits ;
 
 7° Pâtisserie fraîche dont la définition est fixée par arrêté ministériel (3) ;
 
@@ -34265,7 +34266,9 @@ chocolat ou du cacao ;
 
 11° Produits alimentaires non soumis expressément à un autre taux ;
 
-12° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation.
+12° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation à
+l'exception des produits de l'horticulture et de la sylviculture qui ne constituent ni des semences ni des plants d'essences
+ligneuses forestières pouvant être utilisées pour le reboisement et les plantations d'alignement (4).
 
 (1) Pour les boissons non alcooliques, taux applicable à  compter du 8 juillet 1988.
 
@@ -34273,6 +34276,8 @@ chocolat ou du cacao ;
 juillet 1976 (JO du 25).
 
 (3) Annexe IV, art. 30-0 A.
+
+(4) Cette disposition s'applique à compter du 1er août 1991.
 
 **Liens relatifs à cet article**
 
@@ -34283,11 +34288,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 9 (P) JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°91-716 du 26 juillet 1991 - art. 9 (V) JORF 27 juillet 1991 en vigueur le 1er août 1991
 
 _Cité par_:
 
