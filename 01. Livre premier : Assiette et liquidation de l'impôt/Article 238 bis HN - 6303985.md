@@ -3,7 +3,7 @@
 Sont admises en déduction du revenu ou du bénéfice mentionnés respectivement au 2 de l'article 13 et au premier alinéa du I
 de l'article 209, selon les modalités définies aux articles 163 unvicies ou 217 nonies, les sommes versées au titre de la
 souscription de parts de copropriété de navires armés au commerce, lorsque les conditions ci-après définies sont remplies
-(1):
+(1) :
 
 a) La souscription est effectuée avant le 31 décembre 2000 ;
 
@@ -46,6 +46,9 @@ chaque exercice au cours de laquelle ou au titre duquel les versements ont été
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article.
 
+Les dispositions du présent article cessent de s'appliquer aux investissements qui n'ont pas fait l'objet d'une demande
+d'agrément parvenue à l'autorité administrative avant le 15 septembre 1997.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -55,17 +58,11 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1996-10-22 4H-3-96
-  - TXT_ASSOCIE: Instruction 1996-10-22 5B-15-96
+  - HISTO: Edition du 22 avril 1998
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-607 du 5 juillet 1996 - art. 1 () JORF 9 juillet 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - Loi - art. 9 () JORF 31 décembre 1997
 
 _Cité par_:
 

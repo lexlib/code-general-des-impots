@@ -1,6 +1,6 @@
 # Article 302 bis Y
 
-1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de 50 francs.
+1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de ((60)) (M) francs.
 
 Sont exonérés de la taxe :
 
@@ -16,16 +16,16 @@ mutualistes régis par le code de la mutualité ;
 
 2° ou qui, portant sur une somme n'excédant pas 3 500 F, ne sont pas accomplis en application des règles de procédure se
 rattachant directement à une instance ou à l'exécution d'une décision de justice et ne constituent pas une signification du
-certificat de non-paiement prévu aux articles 65-3 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèque et
-relatif aux cartes de paiement et L. 103-1 du code des postes et télécommunications.
+certificat de non-paiement prévu à l'article 65-3 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèque et
+relatif aux cartes de paiement.
 
 2. La taxe est due par les huissiers de justice pour le compte du débiteur. Elle est intégralement exigible dès que les
 encaissements, même partiels, des sommes dues au titre d'un acte accompli ont atteint ou dépassé son montant.
 
 3. Elle est constatée, recouvrée et contrôlée selon les règles, garanties et sanctions prévues en matière de taxe sur la
-valeur ajoutée (1).
+valeur ajoutée.
 
-(1) Ces dispositions sont applicables aux actes des huissiers de justice accomplis à compter du 1er janvier 1994.
+(M) Modification de la loi 97-1269 applicable aux actes des huissiers accomplis à compter du 1er janvier 1998.
 
 **Liens relatifs à cet article**
 
@@ -46,16 +46,16 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 252 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-1352 du 30 décembre 1993 - art. 16 (V) JORF 31 décembre 1993
+  - Loi n°91-1382 du 30 décembre 1991 - art. 20 (V) JORF 1er janvier 1992
+  - Loi - art. 39 (V) JORF 31 décembre 1997
 
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°98-400 1998-05-22
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
-  - TXT_ASSOCIE: Instruction 1994-02-17 3P-2-94
-  - TXT_ASSOCIE: Instruction 1994-03-08 7B-2-94
+  - HISTO: Edition du 22 avril 1998
+  - TXT_ASSOCIE: Instruction 1998-01-15 3P-2-98
