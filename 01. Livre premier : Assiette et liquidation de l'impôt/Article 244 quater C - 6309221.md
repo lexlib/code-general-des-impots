@@ -1,8 +1,8 @@
 # Article 244 quater C
 
 I. Les entreprises imposées d'après leur bénéfice réel peuvent bénéficier d'un crédit d'impôt au titre de leurs dépenses de
-formation professionnelle visées au livre IX du code du travail. Pour les entreprises soumises aux obligations prévues aux
-articles 235 ter C et 235 ter E, les dépenses retenues sont celles exposées en sus de ces obligations.
+formation professionnelle visées au livre IX du code du travail. Pour les entreprises soumises aux obligations prévues à
+l'article  235 ter D, les dépenses retenues sont celles exposées en sus de ces obligations.
 
 Ce crédit d'impôt est égal à 25 p. 100 de l'excédent des dépenses de formation définies ci-dessus, exposées au cours de
 l'année par rapport aux dépenses de même nature exposées au cours de l'année précédente revalorisées en fonction de
@@ -60,24 +60,18 @@ V. Un décret fixe les conditions d'application du présent article (2).
 
 _Cite_:
 
-  - CGI  235 ter C
-  - CGI 231 1
-  - CGI 235 ter E
+  - CGI  235 ter D, 231 1
   - CGIAN3 49 septies P à CGIAN3 49 septies U
   - Loi n°87-1060 du 30 décembre 1987 - art. 69, v. init.
-  - Code du travail - art. L961-8 (M)
 
 _Modifié par_:
 
-  - Loi n°90-1168 1990-12-29 art. 86 Finances pour 1991 JORF 30 décembre 1990
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-441 du 14 mai 1991 - art. 2 (V)
+  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 31 décembre 1991
+  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 31 décembre 1991
 
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 

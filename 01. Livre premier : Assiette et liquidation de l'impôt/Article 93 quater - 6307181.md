@@ -19,8 +19,8 @@ II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 cet associé. L'application de cette disposition est subordonnée à la condition que l'apport soit réalisé dans le délai de dix
 ans à compter de la publication du décret en Conseil d'Etat propre à la profession considérée.
 
-Les dispositions du premier alinéa cessent de s'appliquer aux plus-values constatées à l'occasion d'apports en sociétés
-réalisés à compter du 1er avril 1981 [*date*].
+Les dispositions du premier alinéa ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visés
+aux I et II de l'article 151 octies.
 
 III. Pour l'application des dispositions du premier alinéa du I, les contrats de crédit-bail conclus dans les conditions
 prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-
@@ -31,20 +31,20 @@ non commercial.
 
 _Cite_:
 
-  - CGI 39 duodecies
-  - CGI 39 quaterdecies
-  - CGI 39 quindecies
-  - CGI 39 terdecies 1 bis
+  - CGI 39 duodecies, 39 terdecies 1 bis, 39 quaterdecies, 39 quindecies, 151 octies
   - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
   - Loi n°66-879 1966-11-29
 
 _Modifié par_:
 
-  - Loi - art. 19 (V) JORF 30 décembre 1990
+  - Loi n°88-15 du 5 janvier 1988 - art. 43 () JORF 6 janvier 1988
+  - Loi n°88-1149 du 23 décembre 1988 - art. 33 () JORF 28 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 26 Finances pour 1990 JORF 30 décembre 1990
+  - Loi n°91-1322 1991-12-30 art. 18-I-1°, 2°, II Finances pour 1992 JORF 31 décembre 1991
 
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
@@ -60,3 +60,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 quindecies (V)
   - Code général des impôts, CGI. - art. 93 (VT)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 novovicies (V)
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
