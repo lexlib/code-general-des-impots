@@ -6,13 +6,13 @@ dépenses retenues sont celles exposées en sus de ces obligations.
 
 Ce crédit d'impôt est égal à 35 p. 100 :
 
-a) De la différence entre le montant des dépenses de formation mentionnées au livre IX du code du travail, exposées au cours
+a. De la différence entre le montant des dépenses de formation mentionnées au livre IX du code du travail, exposées au cours
 de l'année, et celui des dépenses de même nature exposées au cours de l'année précédente revalorisées en fonction de
 l'évolution des rémunérations, au sens du 1 de l'article 231, versées par l'entreprise ;
 
-b) (Abrogé).
+b. (dispositions abrogées à compter du calcul du crédit d'imp<cb>t formation au titre des années 1995 et suivantes) ;
 
-c) Et du produit de la somme de 3 000 F par la différence entre le nombre d'élèves accueillis dans l'entreprise au cours de
+c. Et du produit de la somme de 450 euros par la différence entre le nombre d'élèves accueillis dans l'entreprise au cours de
 l'année et celui de l'année précédente en application de l'article L. 331-4 du code de l'éducation ou en vue de la
 préparation du brevet de technicien supérieur prévu à l'article 35 du décret n° 59-57 du 6 janvier 1959 portant réforme de
 l'enseignement public. Pour le décompte du nombre d'élèves, sont pris en compte les élèves des établissements d'enseignement
@@ -20,16 +20,16 @@ public ou sous contrat d'association ayant conclu une convention avec une entrep
 formation dans l'entreprise d'une durée au moins égale à huit semaines au cours de l'année considérée.
 
 Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de leur création ou aux entreprises qui exposent pour
-la première fois des dépenses de formation définies à l'alinéa précédent est égal à 35 p. 100 de ces dépenses exposées au
-cours de l'année en cause.
+la première fois des dépenses de formation définies aux deuxième à cinquième alinéas est égal à 35 p. 100 de ces dépenses
+exposées au cours de l'année en cause.
 
-II. Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à un million de francs. Il
+II. Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 150 000 euros. Il
 s'apprécie en prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés de personnes
 mentionnées aux articles 8, 238 bis L, 238 ter et 239 ter, et aux droits des membres de groupements mentionnés aux articles
 239 quater, 239 quater A, 239 quater B, 239 quater C et 239 quinquies.
 
-Ce plafond est majoré, dans la limite globale de 5 millions de francs de la part du crédit d'impôt qui provient de
-l'augmentation des dépenses suivantes :
+Ce plafond est majoré, dans la limite globale de 760 000 euros, de la part du crédit d'impôt qui provient de l'augmentation
+des dépenses suivantes :
 
 a. Les dépenses exposées au profit des salariés occupant les emplois les moins qualifiés. Ces emplois sont ceux qui ne
 nécessitent pas un brevet d'études professionnelles, un certificat d'aptitude professionnelle ou un titre ou diplôme de même
@@ -44,7 +44,7 @@ En cas de transfert de personnels ou de contrats de formation entre entreprises 
 indirecte, ou résultant de fusions, scissions, apports ou opérations assimilées, il est fait abstraction pour le calcul de la
 variation des dépenses de formation de la part de cette variation provenant exclusivement du transfert.
 
-IV. (Périmé).
+IV. (disposition périmée).
 
 IV-0 bis. Les dispositions du présent article s'appliquent aux dépenses de formation exposées au cours des années 1999 à 2001
 par les entreprises qui ont fait application du crédit d'impôt formation au titre de l'année 1998 ou par celles qui n'en ont
@@ -52,28 +52,53 @@ jamais bénéficié, sur option irrévocable jusqu'au terme de cette période. L
 titre de la première année au cours de laquelle l'entreprise réalise ses premières dépenses de formation éligibles au crédit
 d'impôt formation.
 
+IV-0 bis A Les dispositions du présent article s'appliquent également aux dépenses de formation exposées au cours des années
+2002 à 2004 par les entreprises lorsque les conditions suivantes sont réunies :
+
+a. l'entreprise remplit les conditions prévues par les 1° et 2° du f du I de l'article 219 ;
+
+b. elle a fait application du crédit d'impôt pour dépenses de formation au titre de l'année 2001 ou elle n'en a jamais
+bénéficié ;
+
+c. elle exerce une option irrévocable en faveur du crédit d'impôt pour dépenses de formation jusqu'au terme de la période
+2002-2004. L'option doit être exercée au titre de 2002 ou au titre de la première année au cours de laquelle l'entreprise
+réalise ses premières dépenses de formation éligibles au crédit d'impôt formation.
+
 IV bis. Les entreprises doivent joindre à leur déclaration de résultats une attestation visée par l'inspection de l'éducation
 nationale ou l'inspection de l'enseignement agricole qui précise pour chaque élève accueilli l'établissement scolaire et la
 durée de la formation au cours de l'année.
 
-V. Un décret fixe les conditions d'application du présent article.
+V. Un décret fixe les conditions d'application du présent article (1).
+
+(1) Voir les articles 49 septies S à 49 septies U de l'annexe III).
+
+</cb>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 235 ter D, 235 ter KA, 231, 8, 238 bis L, 238 ter, 239 ter, 239 quater, 239 quater A, 239 quater B, 239 quater C, 239 quinquies
+  - CGI 235 ter D, 235 ter KA, 231, 8, 238 bis L, 238 ter, 239 ter, 239 quater, 239 quater A, 239 quater B, 239 quater C, 239 quinquies, 219
   - Décret n°59-57 1959-01-06 art. 35
   - Code de l'éducation - art. L331-4 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 30 mars 2007
+  - HISTO: Edition du 1er janvier 2007
+  - TXT_ASSOCIE: Instruction 2000-03-22 4A-4-00
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 1999-02-19 4A-4-99
+  - TXT_ASSOCIE: Instruction 2002-01-21 4A-1-02
+
 _Modifié par_:
 
-  - Ordonnance 2000-549 2000-06-15 art. 3 I, art. 7 96° JORF 16 juin 2000
-  - Rapport - art. 3 (V) JORF 16 juin 2000
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 27 () JORF 29 décembre 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -98,8 +123,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies T (V)
   - Livre des procédures fiscales - art. L172 G (V)
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 1999-02-19 4A-4-99
-  - TXT_ASSOCIE: Instruction 2000-03-22 4A-4-00
+  - Décret n°2007-484 2007-03-30

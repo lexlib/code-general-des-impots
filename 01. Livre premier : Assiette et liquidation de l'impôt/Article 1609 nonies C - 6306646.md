@@ -28,6 +28,12 @@ taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe d'
 l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux
 moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
+Par dérogation aux dispositions de l'alinéa précédent, dans les établissements publics de coopération intercommunale qui
+décident d'appliquer les dispositions du 1°, et lorsqu'ils percevaient une fiscalité additionnelle l'année précédant celle de
+l'application de ces dispositions, les rapports entre les taux de taxe d'habitation et des taxes foncières établis par
+l'établissement public de coopération intercommunale peuvent être égaux aux rapports entre les taux de taxe d'habitation et
+de taxes foncières votés par lui l'année précédente.
+
 Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que
 le taux de la taxe d'habitation jusqu'à la date de la prochaine révision.
 
@@ -356,11 +362,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1208 2000-12-13 art. 86 II III, 87 II III IV, 92 JORF 14 décembre 2000
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 86 () JORF 14 décembre 2000
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 92 () JORF 14 décembre 2000
+  - Loi - art. 48 () JORF 29 décembre 2001
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
   - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
