@@ -1,9 +1,9 @@
 # Article 235 ter ZC
 
 I. - Les redevables de l'impôt sur les sociétés sont assujettis à une contribution sociale égale à une fraction de cet impôt
-calculé sur leurs résultats imposables aux taux mentionnés au I de l'article 219 et diminué d'un abattement qui ne peut
-excéder 763 000 euros par période de douze mois. Lorsqu'un exercice ou une période d'imposition est inférieur ou supérieur à
-douze mois, l'abattement est ajusté à due proportion.
+calculé sur leurs résultats imposables aux taux mentionnés aux I et IV (1) de l'article 219 et diminué d'un abattement qui ne
+peut excéder 763 000 euros par période de douze mois. Lorsqu'un exercice ou une période d'imposition est inférieur ou
+supérieur à douze mois, l'abattement est ajusté à due proportion.
 
 La fraction mentionnée au premier alinéa est égale à 3,3 % pour les exercices clos à compter du 1er janvier 2000.
 
@@ -29,12 +29,16 @@ III bis - Les sociétés d'investissements immobiliers cotées visées au I de l
 au moins, directement ou indirectement, de manière continue au cours de l'exercice ne sont pas assujetties à la présente
 contribution sur les plus-values imposées en application du IV de l'article 219.
 
-IV. - Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et
-l'imposition forfaitaire annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution.
+IV. - Les crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et l'imposition forfaitaire
+annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution.
 
 V. - Elle est établie et contrôlée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.
 
 VI. - Les modalités d'application du présent article sont fixées par décret.
+
+**Nota:**
+
+NOTA (1) : ces dispositions s'appliquent aux apports réalisés du 1er janvier 2005 au 31 décembre 2007.
 
 **Liens relatifs à cet article**
 
@@ -42,9 +46,13 @@ _Cite_:
 
   - CGI 219, 223 A, 39, 223 B, 223 D, 209 quinquies, 220 quinquies, 223 septies, 208 C
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005
+
 _Modifié par_:
 
-  - Loi - art. 11 () JORF 31 décembre 2002
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 27 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -55,8 +63,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 213 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 366 L (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2003
-  - TXT_ASSOCIE: Instruction 2002-06-26 4L-2-02

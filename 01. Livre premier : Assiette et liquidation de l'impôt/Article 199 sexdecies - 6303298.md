@@ -20,9 +20,9 @@ ainsi que pour les contribuables ayant à leur charge une personne, vivant sous 
 un enfant donnant droit au complément d'allocation d'éducation spéciale prévu par le deuxième alinéa de l'article L. 541-1 du
 code de la sécurité sociale. Le plafond de 12 000 euros est majoré de 1 500 euros par enfant à charge au sens des articles
 196 et 196 B et au titre de chacun des membres du foyer fiscal âgé de plus de soixante-cinq ans. La majoration s'applique
-également aux ascendants visés au premier alinéa du 1° remplissant la même condition d'âge. Le montant de 1 500 euros est
-divisé par deux pour les enfants réputés à charge égale de l'un et l'autre de leurs parents. Le plafond de 12 000 euros
-augmenté de ces majorations ne peut excéder 15 000 euros.
+également aux ascendants visés au premier alinéa remplissant la même condition d'âge. Le montant de 1 500 euros est divisé
+par deux pour les enfants réputés à charge égale de l'un et l'autre de leurs parents. Le plafond de 12 000 euros augmenté de
+ces majorations ne peut excéder 15 000 euros.
 
 Ainsi qu'il est dit au premier alinéa de l'article L. 129-3 du code du travail, l'aide financière mentionnée à cet article
 n'est pas déduite du montant des dépenses à retenir pour l'assiette de la réduction d'impôt mentionnée au présent article.
@@ -54,9 +54,13 @@ _Cite_:
   - Code de la sécurité sociale. - art. L541-1 (M)
   - Code de l'action sociale et des familles - art. L232-2 (M)
 
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
+
 _Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 87 () JORF 31 décembre 2004
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Cité par_:
 
@@ -79,3 +83,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 193 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AO bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005
