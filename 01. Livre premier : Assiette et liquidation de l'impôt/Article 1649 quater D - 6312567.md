@@ -1,8 +1,9 @@
 # Article 1649 quater D
 
-I. La comptabilité des adhérents des centres de gestion doit être tenue, centralisée ou surveillée par un expert comptable ou
-une société membre de l'ordre, qui vise les documents fiscaux après s'être assuré de leur régularité et avoir demandé tous
-renseignements utiles de nature à établir la concordance entre les résultats fiscaux et la comptabilité.
+I. La comptabilité des adhérents des centres de gestion doit être tenue, centralisée ou surveillée par un expert-comptable,
+une société membre de l'ordre ou une association de gestion et de comptabilité, qui vise les documents fiscaux après s'être
+assuré de leur régularité et avoir demandé tous renseignements utiles de nature à établir la concordance entre les résultats
+fiscaux et la comptabilité.
 
 II. Toutefois, les centres créés à l'initiative des organisations et organismes mentionnés à l'article 1649 quater C et dont
 l'activité concerne la comptabilité des exploitants agricoles imposés selon le régime du bénéfice réel sont admis, après
@@ -40,9 +41,7 @@ fixées par arrêté du ministre chargé du budget. Ils peuvent refuser d'accomp
 pas été suivies d'effet avant la clôture des comptes de l'exercice. Dans ce cas, l'administration fiscale apprécie, au vu des
 observations présentées par le contribuable, s'il y a lieu ou non d'accorder l'abattement prévu à l'article 158 4 bis. La
 rémunération de cette mission de surveillance peut être versée directement par le centre ; elle ne peut excéder une limite
-déterminée par arrêté du ministre chargé du budget (1).
-
-(1) Annexe IV, art. 164 F unvicies A à 164 F unvicies F.
+déterminée par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -62,9 +61,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 15 (V) JORF 31 décembre 1995
+  - Ordonnance n°2004-279 du 25 mars 2004 - art. 5 (V) JORF 27 mars 2004
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°95-1347 1995-12-30 art. 15 III
-  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 1er janvier 2004
