@@ -1,7 +1,7 @@
 # Article 200 quinquies
 
 I. - Les contribuables qui ont leur domicile fiscal en France au sens de l'article 4 B peuvent bénéficier d'un crédit d'impôt
-d'un montant de 1 525 euros au titre des dépenses payées entre le 1er janvier 2001 et le 31 décembre 2002 pour l'acquisition
+d'un montant de 1 525 euros au titre des dépenses payées entre le 1er janvier 2001 et le 31 décembre 2005 pour l'acquisition
 à l'état neuf ou pour la première souscription d'un contrat de location avec option d'achat ou de location souscrit pour une
 durée d'au moins deux ans d'un véhicule automobile terrestre à moteur, dont la conduite nécessite la possession d'un permis
 de conduire mentionné à l'article L. 223-1 du code de la route et qui fonctionne exclusivement ou non au moyen du gaz de
@@ -37,10 +37,10 @@ sont précisées en tant que de besoin par décret.
 
 **Nota:**
 
-(1) : Disposition applicable aux dépenses payées entre le 1er novembre 2001 et le 31 décembre 2002.
+(1) : Disposition applicable aux dépenses payées entre le 1er novembre 2001 et le 31 décembre 2005.
 
 (2) : Dispositions applicables aux destructions et acquisitions ou locations intervenant entre le 1er janvier 2002 et le 31
-décembre 2002).
+décembre 2005).
 
 **Liens relatifs à cet article**
 
@@ -49,13 +49,12 @@ _Cite_:
   - CGI 4 B, 199 quater B à 200
   - Code de la route. - art. L223-1 (M)
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2001-10-17 5B-17-01
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 14 II Finances pour 2002
-
 _Modifié par_:
 
-  - Loi - art. 51 (V) JORF 29 décembre 2001
-  - Loi n°2001-1275 2001-12-28 art. 14 I D Finances pour 2002 JORF 29 décembre 2001
+  - Loi - art. 76 () JORF 31 décembre 2002
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2003
+  - TXT_ASSOCIE: Instruction 2001-10-17 5B-17-01
+  - TXT_ASSOCIE: Instruction 2003-01-06 5B-1-03

@@ -30,6 +30,13 @@ Lorsque au titre d'une année, le taux de la taxe professionnelle ou le taux de 
 a été augmenté dans ces conditions, il ne peut pas être fait application du premier alinéa pendant les trois années
 suivantes.
 
+III. - A compter de 2003 et par exception aux dispositions du I, les régions peuvent augmenter leur taux de taxe
+professionnelle, par rapport à l'année précédente, dans la limite d'une fois et demie l'augmentation de leur taux de taxe
+foncière sur les propriétés bâties.
+
+Les dispositions du premier alinéa ne sont pas applicables s'il est fait application des dispositions du deuxième alinéa du
+II.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -38,10 +45,10 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 1er janvier 2003
   - TXT_ASSOCIE: Instruction 2001-03-30 6A-3-01
-  - SPEC_APPLI: Loi n°2000-656 2000-07-13 art. 11 VI 1 Finances rectificative pour 2000
+  - TXT_ASSOCIE: Instruction 2003-06-30 6A-4-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-656 2000-07-13 art. 11 II 2 Finances rectificative pour 2000 JORF 14 juillet 2000
+  - Loi - art. 31 (V) JORF 31 décembre 2002
