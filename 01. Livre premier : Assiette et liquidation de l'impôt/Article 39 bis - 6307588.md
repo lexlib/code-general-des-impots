@@ -13,8 +13,11 @@ période.
 provision pour acquisition d'éléments d'actif nécessaires à l'exploitation du journal, qui est admise en franchise d'impôt
 dans la limite de :
 
-90 % du bénéfice de l'exercice 1970,    80 % du bénéfice de l'exercice 1971,    60 % pour la généralité des publications et
-80 % pour les quotidiens, du bénéfice des exercices 1972 à 1975.
+90 % du bénéfice de l'exercice 1970,
+
+80 % du bénéfice de l'exercice 1971,
+
+60 % pour la généralité des publications et 80 % pour les quotidiens, du bénéfice des exercices 1972 à 1975.
 
 Les éléments d'actif désignés à l'alinéa précédent s'entendent uniquement des matériels, terrains, constructions et prises de
 participations dans des entreprises d'imprimerie, dans la mesure où ils sont nécessaires à l'exploitation du journal. Un
@@ -36,15 +39,16 @@ L'exclusion des terrains et participations prévue à la dernière phrase du pre
 l'utilisation de la provision constituée en vertu du premier alinéa.
 
 1 bis A bis. Les entreprises de presse mentionnées au 1 sont autorisées à constituer en franchise d'impôt, par prélèvement
-sur les résultats imposables des exercices 1980 à 1991, une provision exclusivement affectée à l'acquisition de matériels et
+sur les résultats imposables des exercices 1980 à 1996, une provision exclusivement affectée à l'acquisition de matériels et
 constructions strictement nécessaires à l'exploitation du journal ou à déduire de ces résultats les dépenses exposées en vue
 du même objet. Sont notamment exclues de la présente provision les acquisitions de terrains et les participations dans les
 entreprises.
 
 Les sommes prélevées ou déduites en vertu de l'alinéa précédent sont limitées à :
 
-- 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980,    - 30 % pour la
-généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 à 1991.
+- 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980,
+
+- 30 % pour la généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 à 1996.
 
 1 bis B. Pour l'application des 1 bis, 1 bis A et 1 bis A bis, sont assimilées à des quotidiens [*définition*], les
 publications à diffusion départementale ou régionale consacrées principalement à l'information politique et générale,
@@ -65,7 +69,7 @@ qu'au financement d'une fraction du prix de revient des matériels et constructi
 acquis au moyen des sommes prélevées ou déduites des bénéfices de l'exercice 1980, cette fraction est égale à 55 % pour la
 généralité des publications et à 90 % pour les quotidiens et les publications assimilées définies au 1 bis B, premier alinéa.
 Ces pourcentages sont ramenés respectivement à 40 % et à 80 % pour les éléments acquis au moyen des sommes prélevées ou
-déduites des bénéfices des exercices 1981 à 1991.
+déduites des bénéfices des exercices 1981 à 1996.
 
 1 bis C. Pour la détermination des résultats des exercices 1975 et suivants, sont exclues du bénéfice du régime prévu aux 1
 bis, 1 bis A et 1 bis A bis les publications pornographiques, perverses ou de violence figurant sur une liste établie, après
@@ -96,10 +100,6 @@ qu'elles doivent verser en cas de licenciement de ces derniers.
 
 (1) Annexe IV, art. 4 octies.
 
-**Nota:**
-
-[*Les dispositions de l'article sont reconduites pour les exercices 1987 à 1991 inclus*].
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -109,19 +109,6 @@ _Cite_:
   - Loi n°54-782 1954-08-02 art. 9, art. 20 1°, 2°
   - Loi n°54-782 du 2 août 1954 - art. 9 (V)
   - Ordonnance 1944-09-30
-
-_Modifié par_:
-
-  - Loi n°86-1317 du 30 décembre 1986 - art. 38 (P) JORF 31 décembre 1986 en vigueur le 1er janvier 1987
-  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°86-1318 1986-12-30 art. 38 II
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
 
 _Cité par_:
 
@@ -135,3 +122,8 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 223 ter (V)
   - Code général des impôts, CGI. - art. 54 ter (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 octies (V)
+
+_Modifié par_:
+
+  - Loi - art. 35 () JORF 31 décembre 1991
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
