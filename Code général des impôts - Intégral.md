@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-09-16
+Version Consolidée au 1984-11-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -24742,6 +24742,161 @@ _Cite_:
 _Abrogé par_:
 
   - Loi n°2010-1658 du 29 décembre 2010 - art. 70
+
+
+###### Article 793
+
+Sont exonérés des droits de mutation à titre gratuit:
+
+1. 1° (Périmé) ;
+
+2° (Abrogé).
+
+3° Les parts d'intérêts détenues dans un groupement forestier à concurrence des trois-quarts de leur valeur vénale, à
+condition :
+
+a. Que l'acte constatant la donation ou la déclaration de la succession soit appuyé d'un certificat délivré sans frais par le
+directeur départemental de l'agriculture et de la forêt attestant que :
+
+- les bois et forêts du groupement sont susceptibles d'aménagement ou d'exploitation régulière ;
+
+- les friches et landes appartenant au groupement sont susceptibles de reboisement et présentent une vocation forestière ;
+
+- les terrains pastoraux appartenant au groupement sont susceptibles d'un régime d'exploitation normale ;
+
+b. Que le groupement forestier prenne, selon le cas, l'un des engagements prévus à l'article 703.
+
+Ce groupement doit s'engager en outre :
+
+- à reboiser ses friches et landes dans un délai de cinq ans à compter de la délivrance du certificat et à les soumettre
+ensuite au régime défini à l'article 703 ;
+
+- à soumettre pendant trente ans ses terrains pastoraux à un régime d'exploitation normale ou, à défaut, à les reboiser ;
+
+c. Que les parts aient été détenues depuis plus de deux ans par le donateur ou le défunt, lorsqu'elles ont été acquises à
+titre onéreux à compter du 5 septembre 1979 ;
+
+4° Les parts des groupements fonciers agricoles et celles des groupements agricoles fonciers, créés conformément à la loi n°
+62-933 du 8 août 1962 et répondant aux diverses caractéristiques de la loi n° 70-1299 du 31 décembre 1970, lors de leur
+première transmission à titre gratuit et à concurrence des trois-quarts de leur valeur, sous réserve des dispositions de
+l'article 793 bis, à condition :
+
+- que les statuts du groupement lui interdisent l'exploitation en faire-valoir direct ;
+
+- que les fonds agricoles constituant le patrimoine du groupement aient été donnés à bail à long terme dans les conditions
+prévues par les articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural.
+
+- que les parts aient été détenues depuis deux ans au moins par le donateur ou le défunt.
+
+Ce délai n'est pas exigé lorsque le donateur ou le défunt ont été parties au contrat de constitution du groupement foncier
+agricole et, à ce titre ont effectué des apports constitués exclusivement par des immeubles ou des droits immobiliers à
+destination agricole (1).
+
+Cette exonération s'applique pour les parts de groupements fonciers agricoles dans la limite d'une superficie égale à trois
+fois la superficie minimum d'installation prévue à l'article 188-4 du code rural, quel que soit le nombre des transmissions
+successives intervenues du chef d'une même personne, lorsque le bail a été consenti au bénéficiaire de la transmission des
+parts, à son conjoint, à un de leurs descendants ou à une société contrôlée par une ou plusieurs de ces personnes.
+
+L'exonération ne s'applique pas aux parts de groupements fonciers agricoles qui sont détenues ou qui ont été détenues par une
+société civile régie par la loi n° 70-1300 du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées à
+faire publiquement appel à l'épargne ou par une entreprise d'assurance ou de capitalisation ;
+
+5° Les reversions de rentes viagères entre époux ou entre parents en ligne directe ;
+
+6° La transmission par décès du bénéfice du contrat de travail à salaire différé dont la dévolution est régie par l'article
+64 du décret du 29 juillet 1939 relatif à la famille et à la natalité françaises.
+
+2. 1° (Abrogé).
+
+2° Les successions et donations entre vifs, à concurrence des trois-quarts de leur montant, intéressant les propriétés en
+nature de bois et forêts, à condition que soient appliquées les dispositions prévues aux articles 703, 1840 G bis-II et III,
+et 1929-3 ;
+
+3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural,
+lors de leur première transmission à titre gratuit durant le bail et ses renouvellements successifs, à concurrence des trois
+quarts de leur valeur, sous réserve des dispositions de l'article 793 bis. Toutefois, lorsque le bail a été consenti, par un
+acte n'ayant pas acquis date certaine avant le 1er novembre 1973, au bénéficiaire de la transmission, à son conjoint, à un de
+leurs descendants ou à une société contrôlée par une ou plusieurs de ces personnes, l'exonération s'applique seulement dans
+la limite d'une superficie au plus égale à une fois et demie la superficie minimum d'installation prévue à l'article 188-4 du
+code rural, quel que soit le nombre des transmissions successives intervenues du chef d'une même personne. Ces dispositions
+peuvent être étendues et adaptées par décret en Conseil d'Etat aux départements d'outre-mer *DOM*, après avis de leurs
+conseils généraux (2).
+
+(1) Pour l'application du 4° dans les départements d'outre-mer, se reporter à l'article 822 IV.
+
+(2) Code rural art. R. 463-1 à R. 463-3.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1840 G bis II, III
+  - CGI 1929 3
+  - CGI 703
+  - CGI 793 bis
+  - CGI 822 IV
+  - Loi n°62-933 1962-08-08
+  - Loi n°70-1299 1970-12-31
+  - Loi n°70-1300 1970-12-31
+  - Code rural 188-4
+  - Code rural L416-1 A Code rural L416-6
+  - Code rural L416-8 A Code rural L416-9
+  - Code rural R463-1
+  - Code rural R463-2
+  - Code rural R463-3
+  - Décret n°1939-07-29 ART. 64
+
+_Cité par_:
+
+  - Décret du 28 juin 1930 - art. 1 (V)
+  - Décret du 28 juin 1930 - art. 6 (V)
+  - Décret du 28 juin 1930 - art. 9 (V)
+  - Décret n°2010-523 du 19 mai 2010 (V)
+  - Arrêté du 19 juillet 2012 - art. 1 (V)
+  - Décret n°2018-1004 du 19 novembre 2018 - art. 2
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 281 J (V)
+  - Code de l'urbanisme - art. R*130-1 (VT)
+  - Code forestier (nouveau) - art. L312-7 (VD)
+  - Code forestier (nouveau) - art. R141-27 (V)
+  - Code forestier - art. L222-3 (VT)
+  - Code général des impôts, CGI. - art. 1055 bis (V)
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1840 G (V)
+  - Code général des impôts, CGI. - art. 730 ter (V)
+  - Code général des impôts, CGI. - art. 793 bis (V)
+  - Code général des impôts, CGI. - art. 793 quater (V)
+  - Code général des impôts, CGI. - art. 885 H (Ab)
+  - Code général des impôts, CGI. - art. 885 Q (Ab)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 294 A (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 294 B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 294 E (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 A (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 B (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 F (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 G (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 H (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 H bis (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 I (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 299 quater (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 299 quinquies (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 299 sexies (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BL (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BM (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BN (V)
+  - Code monétaire et financier - art. R214-164 (V)
+  - Code monétaire et financier - art. R214-173 (V)
+  - Code monétaire et financier - art. R214-176-5 (V)
+  - Code rural - art. L322-16 (V)
+  - Code rural - art. L322-17 (V)
+  - Code rural - art. L371-11 (VD)
+
+_Modifié par_:
+
+  - Décret n°84-1193 du 28 décembre 1984 - art. 1 (Ab) JORF 29 décembre 1984
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 793 bis
