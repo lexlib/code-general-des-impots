@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1991-07-19
+Version Consolidée au 1991-07-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -1194,7 +1194,7 @@ Version Consolidée au 1991-07-19
           - [4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières (art. 1672 à 1678 quater)](#1191)
             - [a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations (art. 1672 à 1673 bis)](#1192)
             - [b : Retenue à la source afférente aux intérêts des bons de caisse (art. 1678 bis)](#1193)
-            - [Prélèvement sur les produits de placement à revenu fixe. (art. 1678 quater)](#1194)
+            - [d : Prélèvement sur les produits de placement à revenu fixe (art. 1678 quater)](#1194)
           - [5 : Taxe d'apprentissage (art. 1678 quinquies à 1678 sexies)](#1195)
           - [6 : Taxe sur les salaires (art. 1679 à 1679 bis)](#1196)
           - [7 bis : Participation des employeurs au développement de la formation professionnelle continue (art. 1679 bis B)](#1197)
@@ -2874,30 +2874,36 @@ date.
 A l'expiration du prêt, les titres empruntés sont réputés restitués à la valeur pour laquelle la dette représentative de
 l'obligation de restitution figure au bilan.
 
-1 bis. Les titres empruntés peuvent faire l'objet d'un prêt. Dans ce cas, la créance représentative des titres mentionnés au
-1 ci-dessus doit être inscrite au bilan au prix que ces titres ont sur le marché à la date du nouveau prêt. A la clôture de
+1 bis Les titres empruntés peuvent faire l'objet d'un prêt. Dans ce cas, la créance représentative des titres mentionnés au 1
+ci-dessus doit être inscrite au bilan au prix que ces titres ont sur le marché à la date du nouveau prêt. A la clôture de
 l'exercice, cette créance doit être évaluée au prix des titres à cette date. Lors de leur restitution, les titres empruntés
 qui ont fait l'objet d'un prêt sont repris pour la valeur de la créance à cette date et sont ensuite évalués selon les
 modalités prévues au 1 jusqu'à leur cession ou leur restitution au prêteur initial. 
 
 2 Lorsque l'emprunteur cède des titres, ceux-ci sont prélevés par priorité sur les titres de même nature empruntés à la date
 la plus ancienne. Les achats ultérieurs de titres de même nature sont affectés par priorité au remplacement des titres
-empruntés.
+empruntés. 
 
-**Nota:**
+III. 1 Lorsque, à défaut de restitution des espèces ou valeurs déposées en couverture, le déposant acquiert définitivement la
+pleine propriété des titres prêtés, leur cession est réalisée d'un point de vue fiscal, à la date de la défaillance.
 
-Nota : cf. Instruction 1993-03-26 4A-10-93.
+2 Pour l'application des 1 à 7 de l'article 39 duodecies du code général des impôts, les titres cédés sont censés avoir été
+détenus jusqu'à la date du prêt.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI 39 duodecies
   - Loi n°87-416 1987-06-17
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1993-03-26 4A-10-93
 
 _Modifié par_:
 
-  - Loi n°88-1201 1988-12-23 art. 43 II, III JORF 31 décembre 1988
-  - Loi n°88-1201 du 23 décembre 1988 - art. 43 () JORF 31 décembre 1988
+  - Loi n°91-716 du 26 juillet 1991 - art. 18 () JORF 27 juillet 1991
 
 _Cité par_:
 
@@ -2906,10 +2912,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 (M)
   - Code général des impôts, CGI. - art. 38 bis A (VD)
   - Code monétaire et financier - art. L211-23 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1993-03-26 4A-10-93
 
 
 ###### Article 38 bis A
@@ -5739,14 +5741,26 @@ d'une cession ordonnée par le tribunal en application des articles 81 et suivan
 relative au redressement et à la liquidation judiciaires des entreprises sont exonérées d'impôt sur les sociétés à raison des
 bénéfices réalisés jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités
 prévues à l'article 53 A. Le capital de la société créée ne doit pas être détenu directement ou indirectement par les
-personnes qui ont été associées ou exploitantes de l'entreprise en difficulté pendant l'année précédant la reprise.
+personnes qui ont été associées ou exploitantes ou qui ont détenu indirectement plus de 50 p. 100 du capital de l'entreprise
+en difficulté pendant l'année précédant la reprise.
+
+Les droits de vote ou les droits à dividendes dans la société créée ou l'entreprise en difficulté sont détenus indirectement
+par une personne lorsqu'ils appartiennent :
+
+a) Aux membres du foyer fiscal de cette personne ;
+
+b) A une entreprise dans laquelle cette personne détient plus de 50 p. 100 des droits sociaux y compris, s'il s'agit d'une
+personne physique, ceux appartenant aux membres de son foyer fiscal ;
+
+c) A une société dans laquelle cette personne exerce en droit ou en fait la fonction de gérant ou de président-directeur
+général, président du conseil du surveillance ou membre du directoire.
 
 Cette exonération peut être accordée sur agrément du ministre chargé du budget si la procédure de redressement judiciaire
 n'est pas mise en oeuvre ou si la reprise concerne des branches complètes et autonomes d'activité et est effectuée dans le
 cadre de cessions ordonnées par le juge-commissaire en application de l'article 155 de la loi n° 85-98 du 25 janvier 1985
 précitée.
 
-Lorsqu'une société créée dans les conditions prévues aux deux alinéas ci-dessus interrompt, au cours des trois premières
+Lorsqu'une société créée dans les conditions prévues aux trois alinéas ci-dessus interrompt, au cours des trois premières
 années d'exploitation, l'activité reprise ou est affectée au cours de la même période par l'un des événements mentionnés au
 premier alinéa du 2 de l'article 221 du présent code, l'impôt sur les sociétés dont elle a été dispensée en application du
 présent article devient immédiatement exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et compté à
@@ -5756,13 +5770,13 @@ partir de la date à laquelle il aurait dû être acquitté.
 
 _Cite_:
 
-  - CGI 53 A, 221 2 al. 1, 1727
   - Loi n°85-98 1985-01-25 art. 81, art. 155
   - Loi n°85-98 du 25 janvier 1985 - art. 155 (M)
+  - Code général des impôts, CGI 53, 221, 1727
 
 _Modifié par_:
 
-  - Loi n°90-1169 du 29 décembre 1990 - art. 18 () JORF 30 décembre 1990
+  - Loi n°91-716 du 26 juillet 1991 - art. 28 () JORF 27 juillet 1991
 
 _Cité par_:
 
@@ -5789,10 +5803,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZU (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies F (V)
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 44 sexies
@@ -10284,6 +10294,10 @@ d'absorption d'un fonds commun de placement par une société d'investissement �
 ou de regroupement, réalisée conformément à la réglementation en vigueur, le gain net est calculé à partir du prix ou de la
 valeur d'acquisition des titres échangés.
 
+Ces dispositions cessent de s'appliquer aux ventes de titres reçus à l'occasion d'une opération d'offre publique, de fusion,
+de scission ou d'absorption d'un fonds commun de placement par une société d'investissement à capital variable réalisée à
+compter du 1er janvier 1992.
+
 5 bis. En cas d'absorption d'une société d'investissement à capital variable par un fonds commun de placement réalisée
 conformément à la réglementation en vigueur, les gains nets résultant de la cession ou du rachat des parts reçues en échange
 ou de la dissolution du fonds absorbant sont réputés être constitués par la différence entre le prix effectif de cession ou
@@ -10309,18 +10323,13 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 30 () JORF 30 décembre 1990
-  - Loi n°90-1168 1990-12-29 art. 30 II 2, III 3 Finances pour 1991 JORF 30 décembre 1990
+  - Loi n°91-716 du 26 juillet 1991 - art. 24 (V) JORF 27 juillet 1991
 
 _Cité par_:
 
   - Code de commerce - art. L225-270 (V)
   - Code de commerce - art. L912-6 (V)
   - Code de commerce - art. L922-7 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
 
 
 ##### C : Régimes d'imposition<a id=72></a>
@@ -13314,9 +13323,13 @@ Toutefois les titres des sociétés immobilières pour le commerce et l'industri
 titres cotés et imposés conformément aux dispositions de l'article 92 C.
 
 En cas d'échange de titres résultant d'une fusion, d'une scission ou d'un apport, l'imposition des gains nets mentionnés au
-premier alinéa est reportée dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160.
+premier alinéa est reportée dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160 (2). Cette
+disposition est également applicable aux échanges avec soulte lorsque celle-ci n'excède pas 10 p. 100 de la valeur nominale
+des titres reçus. Toutefois, la partie de la plus-value correspondant à la soulte reçue est imposée immédiatement (2).
 
-1)  Voir Annexe II, art. 74 A bis.
+(1) Voir Annexe II, art. 74 A bis.
+
+(2) Voir Annexe III, art. 41 quatervicies à 41 sexvicies.
 
 **Liens relatifs à cet article**
 
@@ -13328,7 +13341,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°89-936 1989-12-29 art. 15  Finances rectificative pour 1989 JOR 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°91-716 du 26 juillet 1991 - art. 24 (V) JORF 27 juillet 1991
 
 _Cité par_:
 
@@ -17668,31 +17681,33 @@ _Cité par_:
 
 ###### Article 182 C
 
-Les salaires, droits d'auteur et rémunérations versés à compter du 1er janvier 1990 aux personnes mentionnées aux 5° et 6° du
-4 de l'article 261 qui ont leur domicile fiscal en France par les personnes passibles de l'impôt sur les sociétés ou de
-l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux ainsi que les personnes morales de droit
-public et les sociétés civiles de perception et de répartition des droits d'auteur et des droits des artistes interprètes
-font l'objet, sur demande du bénéficiaire, d'une retenue égale à 15 p. 100 de leur montant brut.
+Les salaires, droits d'auteur et rémunérations versés à compter du 1er janvier 1990 aux personnes mentionnées au troisième
+alinéa qui ont leur domicile fiscal en France par les personnes passibles de l'impôt sur les sociétés ou de l'impôt sur le
+revenu dans la catégorie des bénéfices industriels et commerciaux ainsi que les personnes morales de droit public et les
+sociétés civiles de perception et de répartition des droits d'auteur et des droits des artistes interprètes font l'objet, sur
+demande du bénéficiaire, d'une retenue égale à 15 p. 100 de leur montant brut.
 
 Cette retenue s'impute sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle elle a été opérée (1).
 
+L'option prévue au premier alinéa peut être exercée par les sportifs et les artistes du spectacle, les auteurs des oeuvres de
+l'esprit désignés à l'article 3 de la loi n° 57-298 du 11 mars 1957 sur la propriété littéraire et artistique ainsi que par
+les interprètes de ces oeuvres, à l'exception des architectes et des auteurs de logiciels (2).
+
 (1) Voir annexe III, art. 46 A et 381 R.
+
+(2) Ces dispositions sont applicables aux revenus perçus à compter du 1er janvier 1992.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 261 4 5°, 6°
   - CGIAN3 381 R
   - CGIAN3 46 A
+  - Loi n°57-298 du 11 mars 1957 - art. 3 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 30 Finances pour 1990 JORF 30 décembre 1989
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
+  - Loi n°91-716 1991-07-26 art. 5 VI VII JORF 27 juillet 1991
 
 _Cité par_:
 
@@ -20200,10 +20215,10 @@ _Modifié par_:
 ###### Article 202 ter
 
 L'impôt sur le revenu est établi dans les conditions prévues ux articles 201 et 202 lorsque les sociétés ou organismes placés
-sous le régime des sociétés de personnes défini aux articles 8 à 8 ter cessent d'être soumis à ce régime ou s'ils changent
-leur objet social ou leur activité réelle ou lorsque les personnes morales mentionnées aux articles 238 ter, 239 quater A,
-239 quater B, 239 quater C, 239 septies et au paragraphe I des articles 239 quater et 239 quinquies deviennent passibles de
-l'impôt sur les sociétés.
+sous le régime des sociétés de personnes défini aux articles 8 à 8 ter cessent totalement ou partiellement d'être soumis à ce
+régime ou s'ils changent leur objet social ou leur activité réelle ou lorsque les personnes morales mentionnées aux articles
+238 ter, 239 quater A, 239 quater B, 239 quater C, 239 septies et au paragraphe I des articles 239 quater et 239 quinquies
+deviennent passibles de l'impôt sur les sociétés.
 
 Toutefois en l'absence de création d'une personne morale nouvelle, les bénéfices en sursis d'imposition et les plus-values
 latentes incluses dans l'actif social ne font pas l'objet d'une imposition immédiate à la double condition qu'aucune
@@ -20218,7 +20233,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 19 (V) JORF 30 décembre 1990
+  - Loi n°91-716 du 26 juillet 1991 - art. 29 () JORF 27 juillet 1991
 
 _Cité par_:
 
@@ -20229,10 +20244,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 239 quater C (V)
   - Code général des impôts, CGI. - art. 39 duodecies (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 E (V)
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 203
@@ -23967,11 +23978,11 @@ _Cité par_:
 
 2 En cas de dissolution, de transformation entraînant la création d'une personne morale nouvelle , d'apport en société, de
 fusion, de transfert du siège ou d'un établissement à l'étranger, l'impôt sur les sociétés est établi dans les conditions
-prévues à l'article 201-1 et 3.
+prévues aux 1 et 3 de à l'article 201.
 
 Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque les sociétés ou organismes mentionnés aux
-articles 206 à 208 quinquies, 239 et 239 bis AA cessent d'être soumis à l'impôt sur les sociétés au taux prévu au deuxième
-alinéa du paragraphe I de l'article 219.
+articles 206 à 208 quinquies, 239 et 239 bis AA cessent totalement ou partiellement d'être soumis à l'impôt sur les sociétés
+au taux prévu au deuxième alinéa du paragraphe I de l'article 219.
 
 2 bis Qu'elle s'accompagne ou non d'un changement de forme juridique, la modification des statuts tendant à assigner à une
 société quelconque un objet conforme aux prévisions de l'article 1655 ter est assimilée, du point de vue fiscal, à une
@@ -23994,9 +24005,9 @@ prévues à l'article 154 de la loi n° 66-537 du 24 juillet 1966 sur les socié
 situation, les dispositions de l'article 221 bis sont applicables, sauf en ce qui concerne les provisions dont la déduction
 est prévue par des dispositions légales particulières.
 
-6 Lorsqu'une société d'intérêt collectif agricole renonce a      u statut défini aux articles L. 531-1 à L. 535-4 du code
-rural, les dispositions du premier alinéa du 2 ne s'appliquent pas si cette renonciation ne s'accompagne pas d'un changement
-de régime fiscal.
+6 Lorsqu'une société d'intérêt collectif agricole renonce au statut défini aux articles L. 531-1 à L. 535-4 du code rural,
+les dispositions du premier alinéa du 2 ne s'appliquent pas si cette renonciation ne s'accompagne pas d'un changement de
+régime fiscal.
 
 (1) Voir Annexe II, art. 372.
 
@@ -24004,21 +24015,14 @@ de régime fiscal.
 
 _Cite_:
 
-  - CGI 1655 ter
-  - CGI 201 1, 3
-  - CGI 206 à CGI 208 quinquies
-  - CGI 219
-  - CGI 221 bis
-  - CGI 239
-  - CGI 239 bis AA
-  - CGIAN2 372
-  - Loi n°66-537 1966-07-24 art. 154
+  - CGI 201 1, 221 bis, 206 à 208 quinquies, 239, 239 bis AA, 219, 1655 ter
   - Code rural L531-1 à L535-4
   - Loi n°1901-07-01
+  - Loi n°66-537 1966-07-24 art. 154
 
 _Modifié par_:
 
-  - Loi - art. 102 (V) JORF 30 décembre 1990
+  - Loi n°91-716 du 26 juillet 1991 - art. 29 () JORF 27 juillet 1991
 
 _Cité par_:
 
@@ -24032,18 +24036,14 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 septies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 372 (V)
 
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
-
 
 ###### Article 221 bis
 
-En l'absence de création d'une personne morale nouvelle, lorsqu'une société ou un autre organisme cesse d'être soumis à
-l'impôt sur les sociétés au taux normal, les bénéfices en sursis d'imposition et les plus-values latentes incluses dans
-l'actif social ne font pas l'objet d'une imposition immédiate, à la double condition qu'aucune modification ne soit apportée
-aux écritures comptables et que l'imposition desdits bénéfices et plus-values demeure possible sous le nouveau régime fiscal
-applicable à la société ou à l'organisme concerné.
+En l'absence de création d'une personne morale nouvelle, lorsqu'une société ou un autre organisme cesse totalement ou
+partiellement d'être soumis à l'impôt sur les sociétés au taux normal, les bénéfices en sursis d'imposition et les plus-
+values latentes incluses dans l'actif social ne font pas l'objet d'une imposition immédiate, à la double condition qu'aucune
+modification ne soit apportée aux écritures comptables et que l'imposition desdits bénéfices et plus-values demeure possible
+sous le nouveau régime fiscal applicable à la société ou à l'organisme concerné.
 
 Toutefois, les plus-values dégagées à l'occasion de la cession de tout ou partie des éléments de l'actif immobilisé existant
 à la date de la transformation, dans la mesure où elles étaient acquises à cette date par le ou les éléments cédés, sont
@@ -24055,15 +24055,11 @@ administrative. En ce cas, les dispositions de l'article 151 septies ne sont pas
 
 _Cite_:
 
-  - CGI 151 septies
-  - CGI 39 duodecies
-  - CGI 39 quaterdecies
-  - CGI 39 quindecies
-  - CGI 39 terdecies 1
+  - CGI 39 duodecies, 39 terdecies 1, 39 quaterdecies, 39 quindecies, 151 septies
 
 _Modifié par_:
 
-  - Loi n°89-936 1989-12-29 art. 16 II 2, III 2 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°91-716 du 26 juillet 1991 - art. 29 () JORF 27 juillet 1991
 
 _Cité par_:
 
@@ -24071,6 +24067,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 221 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 quindecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter A (V)
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Section VII : Obligations des personnes morales<a id=184></a>
@@ -56397,17 +56397,30 @@ d'indexation ou de clauses de participation aux bénéfices de la société éme
 second marché ou figurant au relevé quotidien des valeurs non admises à la cote officielle d'une de ces bourses ;
 
 5° Aux achats ou ventes portant sur les titres participatifs visés à l'article 21 de la loi n° 83-1 du 3 janvier 1983 sur le
+développement des investissements et la protection de l'épargne.
+
 6° Aux opérations d'achat et de vente portant sur les parts émises par les fonds communs de créances.
+
+7° Aux offres publiques de vente et aux opérations liées aux augmentations de capital et à l'introduction d'une valeur à la
+cote officielle ou à la cote du second marché (1).
+
+(1) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er novembre 1991.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1992-05-27 7N-1-92
+  - TXT_ASSOCIE: Instruction 1992-07-29 7N-2-92
+
 _Cite_:
 
-  - Loi n°83-1 1983-01-03 ART. 21
+  - Loi n°83-1 1983-01-03 art. 21
 
 _Modifié par_:
 
-  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V) JORF 31 décembre 1988
+  - Loi - art. 31 (V) JORF 31 décembre 1991
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
 ###### Article 981
@@ -63385,27 +63398,33 @@ _Cité par_:
 ###### Article 1473
 
 La taxe professionnelle est établie dans chaque commune où le redevable dispose de locaux ou de terrains, en raison de la
-valeur locative des biens qui y sont situés ou rattachés et des salaires versés au personnel (1).
+valeur locative des biens qui y sont situés ou rattachés (1).
 
-L'abattement de 25.000 F prévu à l'article 1469-4° s'applique dans la commune du principal établissement.
+Toutefois, la taxe professionnelle due à raison des activités de remplacement exercées par les redevables visés au 2° de
+l'article 1467 est établie au lieu du principal établissement mentionné par les intéressés sur leur déclaration de résultats.
 
-1)  Annexe II, art. 310 HK.
+L'abattement de 25.000 F prévu au 4° de l'article 1469 s'applique dans la commune du principal établissement.
+
+(1) Annexe II, art. 310 HK.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1469 4°
+  - CGI 1469, 1467
   - CGIAN2 310 HK
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°81-866 1981-09-15 (décret de codification) : a modifié la table des matières de cet article
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 4 juillet 1992
+  - TXT_ASSOCIE: Instruction 1993-02-05 6E-1-93
+  - TXT_ASSOCIE: Instruction 2001-02-20 6E-3-01
+  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 44 A I 2, 5 Finances pour 1999
+
+_Modifié par_:
+
+  - Loi n°91-716 du 26 juillet 1991 - art. 36 () JORF 27 juillet 1991
+  - Loi n°98-1266 du 30 décembre 1998 - art. 44 (V)
 
 
 ###### Article 1474
@@ -66184,10 +66203,10 @@ Il ne peut faire l'objet d'aucune modification avant l'expiration d'un délai de
 en vigueur.
 
 Toutefois, si les éléments intervenant dans la détermination de la valeur des ensembles immobiliers, tels qu'ils sont
-indiqués à l'article 1585 D, viennent à être modifiés, soit par un décret en conseil d'Etat pris en application de cet
-article, soit par un décret pris en application de l'article 1585 H, le conseil municipal peut fixer un nouveau taux. Dans ce
-cas, pour l'application du délai de trois ans résultant des dispositions du deuxième alinéa, le nouveau taux est réputé avoir
-été fixé à la date à laquelle est entré en vigueur le taux auquel il se substitue.
+indiqués à l'article 1585 D, viennent à être modifiés notamment par un décret pris en application de l'article 1585 H, le
+conseil municipal peut fixer un nouveau taux. Dans ce cas, pour l'application du délai de trois ans résultant des
+dispositions du deuxième alinéa, le nouveau taux est réputé avoir été fixé à la date à laquelle est entré en vigueur le taux
+auquel il se substitue.
 
 **Liens relatifs à cet article**
 
@@ -66198,7 +66217,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
+  - Loi n°91-716 du 26 juillet 1991 - art. 40 (V) JORF 27 juillet 1991
 
 
 ###### Article 1585 F
@@ -73379,28 +73398,19 @@ _Cite_:
 
 ###### Article 1651
 
-La commission départementale des impôts directs et des taxes sur le chiffre d'affaires, présidée par le président du tribunal
-administratif ou par un membre du tribunal délégué par lui, comprend trois représentants des contribuables et deux
-représentants de l'administration ayant au moins le grade d'inspecteur principal. Pour les matières visées aux articles 1651
-A et 1651 B, l'un des représentants des contribuables est un expert-comptable.
+La commission départementale des impôts directs et des taxes sur le chiffre d'affaires est présidée par le président du
+tribunal administratif, ou par un membre de ce tribunal désigné par lui, ou par un membre de la cour administrative d'appel
+désigné, à la demande du président du tribunal, par celui de la cour. Elle comprend en outre trois représentants des
+contribuables et deux représentants de l'administration ayant au moins le grade d'inspecteur principal. Pour les matières
+visées aux articles 1651 A et 1651 B, l'un des représentants des contribuables est un expert-comptable.
 
 Le président a voix prépondérante.
-
-**Nota:**
-
-: "Pour la période comprise entre la publication de la présente loi et le 1er janvier 1988, les représentants des
-contribuables au sein de la commission sont choisis par le président parmi les personnes déjà désignées au 1er janvier 1987
-en vertu de l'article 1651 du code général des impôts alors en vigueur".
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 1 I JORF 9 juillet 1987 en vigueur le 1er janvier 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-502 1987-07-08 art. 1 II
+  - Loi n°91-716 du 26 juillet 1991 - art. 37 () JORF 27 juillet 1991
 
 _Cité par_:
 
@@ -74829,18 +74839,21 @@ _Cité par_:
   - Code monétaire et financier - art. L211-28 (V)
 
 
-##### Prélèvement sur les produits de placement à revenu fixe.<a id=1194></a>
+##### d : Prélèvement sur les produits de placement à revenu fixe<a id=1194></a>
 
 ###### Article 1678 quater
 
-Le prélèvement sur les produits de placements à revenu fixe visé à l'article 125 A est versé au Trésor dans le mois qui suit
-le paiement des revenus [*délai*] et sous les mêmes sanctions que la retenue à la source prévue à l'article 119 bis-2.
+Le prélèvement sur les produits de placements à revenu fixe visé à l'article 125 A est versé au Trésor dans les quinze
+premiers jours du mois qui suit le paiement des revenus et sous les mêmes sanctions que la retenue à la source prévue au 2 de
+l'article 119 bis (1).
 
 Il ne peut être pris en charge par le débiteur.
 
-Les modalités et conditions d'application de ce prélèvement sont fixées par décret (1).
+Les modalités et conditions d'application de ce prélèvement sont fixées par décret (2).
 
-(1) Annexe III, art. 381 S..
+(1) Cette disposition s'applique aux prélèvements effectués à parti du 1er septembre 1991.
+
+(2) Annexe III, art. 381 S..
 
 **Liens relatifs à cet article**
 
@@ -74850,9 +74863,17 @@ _Cite_:
   - CGI 125 A
   - CGIAN3 381 S.
 
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
+
 _Nouveaux textes_:
 
   - Livre des procédures fiscales L169 A (partie du CGI 1678 quater)
+
+_Modifié par_:
+
+  - Loi n°91-716 du 26 juillet 1991 - art. 15 (V) JORF 27 juillet 1991
 
 _Cité par_:
 
