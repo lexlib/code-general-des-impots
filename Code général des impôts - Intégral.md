@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-11-01
+Version Consolidée au 1980-12-26
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -818,10 +818,10 @@ Version Consolidée au 1980-11-01
           - [CHAMP D'APPLICATION DE L'IMPOT. (art. 206)](#815)
           - [DETERMINATION DU BENEFICE IMPOSABLE (art. 209 ter)](#816)
           - [CALCUL DE L'IMPOT. (art. 219)](#817)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 163 à 242 ter A)](#818)
-        - [IMPOT SUR LE REVENU (art. 163 à 204)](#819)
-          - [REVENUS IMPOSABLES (art. 163 à 168)](#820)
-            - [REVENU GLOBAL. (art. 163 à 168)](#821)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 163 bis A à 242 ter A)](#818)
+        - [IMPOT SUR LE REVENU (art. 163 bis A à 204)](#819)
+          - [REVENUS IMPOSABLES (art. 163 bis A à 168)](#820)
+            - [REVENU GLOBAL. (art. 163 bis A à 168)](#821)
           - [DECLARATIONS DES CONTRIBUABLES. (art. 170)](#822)
           - [DECLARATION DES CONTRIBUABLES. (art. 171 à 174)](#823)
           - [VERIFICATION DES DECLARATIONS. (art. 176 à 178)](#824)
@@ -981,7 +981,7 @@ Version Consolidée au 1980-11-01
       - [IMPOSITIONS COMMUNALES (art. 1382 à 1585 G)](#978)
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 1382 à 1516)](#979)
           - [TAXES FONCIERES (art. 1382 à 1384 A)](#980)
-          - [TAXE PROFESSIONNELLE. (art. 1465 à 1478)](#981)
+          - [TAXE PROFESSIONNELLE. (art. 1465 à 1479)](#981)
           - [REGLES D'EVALUATION DE LA VALEUR LOCATIVE DES BIENS IMPOSABLES. (art. 1509 à 1518)](#982)
           - [REGLES D'EVALUATION DE LA VALEUR LOCATIVE DES PROPRIETES BATIES ET NON BATIES. (art. 1516)](#983)
         - [CONTRIBUTIONS INDIRECTES (art. 1563)](#984)
@@ -4489,6 +4489,46 @@ _Cité par_:
 
   - Code général des impôts, CGI. - art. 150-0 A (MMN)
   - Code monétaire et financier - art. L221-32-6 (V)
+
+
+###### Article 163
+
+Lorsque, au cours d'une année, un contribuable a réalisé un revenu exceptionnel, tel que la plus-value d'un fonds de commerce
+ou la distribution de réserves d'une société, et que le montant de ce revenu exceptionnel dépasse la moyenne des revenus nets
+d'après lesquels ce contribuable a été soumis à l'impôt sur le revenu au titre des trois dernières années, l'intéressé peut
+demander qu'il soit réparti, pour l'établissement de cet impôt, sur l'année de sa réalisation et les années antérieures non
+couvertes par la prescription. Cette disposition est applicable pour l'imposition de la plus-value d'un fonds de commerce à
+la suite du décès de l'exploitant, ainsi que pour l'imposition des indemnités perçues par les entreprises à la suite de faits
+de guerre pour réparation des éléments d'actif immobilisés.
+
+L'étalement prévu au premier alinéa est également applicable aux primes de départ volontaire, même si leur montant n'excède
+pas la moyenne des revenus nets imposables des trois dernières années (1).
+
+La même faculté est accordée au contribuable qui, par suite de circonstances indépendantes de sa volonté, a eu, au cours
+d'une même année, la disposition de revenus correspondant, par la date normale de leur échéance, à une période de plusieurs
+années.
+
+En aucun cas les revenus visés au présent article ne peuvent être répartis sur la période antérieure à leur échéance normale
+ou à la date à laquelle le contribuable a acquis les biens ou exploitations ou a entrepris l'exercice de la profession
+générateurs desdits revenus (2).
+
+(1) Disposition applicable à compter de l'imposition des revenus de l'année 1980.
+
+(2) Annexe III, art. 42, dernier alinéa.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 42 AL. DERNIER
+
+_Modifié par_:
+
+  - Loi n°80-1055 du 23 décembre 1980 - art. 11 (P) JORF 26 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 163 bis
@@ -32728,37 +32768,6 @@ _Cité par_:
 
 ##### REVENU GLOBAL.<a id=821></a>
 
-###### Article 163
-
-Lorsque, au cours d'une année, un contribuable a réalisé un revenu exceptionnel, tel que la plus-value d'un fonds de commerce
-ou la distribution de réserves d'une société, et que le montant de ce revenu exceptionnel dépasse la moyenne des revenus nets
-d'après lesquels ce contribuable a été soumis à l'impôt sur le revenu au titre des trois dernières années, l'intéressé peut
-demander qu'il soit réparti, pour l'établissement de cet impôt, sur l'année de sa réalisation et les années antérieures non
-couvertes par la prescription [*étalement*]. Cette disposition est applicable pour l'imposition de la plus-value d'un fonds
-de commerce à la suite du décès de l'exploitant, ainsi que pour l'imposition des indemnités perçues par les entreprises à la
-suite de faits de guerre pour réparation des éléments d'actif immobilisés.
-
-La même faculté est accordée au contribuable qui, par suite de circonstances indépendantes de sa volonté, a eu, au cours
-d'une même année, la disposition de revenus correspondant, par la date normale de leur échéance, à une période de plusieurs
-années.
-
-En aucun cas les revenus visés au présent article ne peuvent être répartis sur la période antérieure à leur échéance normale
-ou à la date à laquelle le contribuable  a acquis les biens ou exploitations ou a entrepris l'exercice de la profession
-générateurs desdits revenus (1).
-
-1) Annexe III, art. 42, dernier alinéa.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 42 AL. DERNIER
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 163 bis A
 
 I  Les personnes physiques qui prennent des engagements d'épargne à long terme sont exonérées de l'impôt sur le revenu à
@@ -53694,6 +53703,22 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1679 quinquies (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 HS (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 HT (V)
+
+
+###### Article 1479
+
+Les chantiers de travaux publics ouverts à partir du 1er janvier 1980 [*point de départ*] ne sont pas considérés comme des
+établissements à compter de la même date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°80-1055 1980-12-23 ART. 14 FINANCES RECTIFICATIVE POUR 1980 JORF 26 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ##### REGLES D'EVALUATION DE LA VALEUR LOCATIVE DES BIENS IMPOSABLES.<a id=982></a>
