@@ -5,10 +5,10 @@ Les dispositions des articles 158 bis et 158 ter ne sont pas applicables aux pro
 1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion ;    2° Par les sociétés
 d'investissement régies par les titres I et II de l'ordonnance n° 45-2710 du 2 novembre 1945 et remplissant les conditions
 prévues au premier alinéa de l'article 208 A, par les sociétés d'investissement à capital variable [*SICAV*] régies par la
-loi n° 88-1201 du 23 décembre 1988 et remplissant les conditions prévues au deuxième alinéa du même article, et par les
-organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies ;    3° Par les sociétés immobilières
-pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967, sous réserve
-des dispositions du troisième alinéa du 3° quater de l'article 208 ;
+loi n° 88-1201 du 23 décembre 1988, et par les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1°
+quinquies ;    3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de
+l'ordonnance n° 67-837 du 28 septembre 1967, sous réserve des dispositions du troisième alinéa du 3° quater de l'article
+208 ;
 
 4° Par les sociétés agréées pour le financement des télécommunications lorsqu'ils sont prélevés sur des résultats exonérés en
 application des premier et deuxième alinéas de l'article 208-3° quinquies ou lorsqu'ils sont distribués en application du
@@ -34,4 +34,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°89-936 1989-12-29 art. 28 II Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-935 1989-12-29 art. 16 I Finances pour 1990 JORF 30 décembre 1989
+
+_Codifié par_:
+
+  - Décret n°90-798 1990-09-10
