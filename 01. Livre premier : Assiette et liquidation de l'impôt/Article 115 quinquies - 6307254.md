@@ -4,9 +4,9 @@
 associés n'ayant pas leur domicile fiscal ou leur siège social en France.     Les bénéfices [*réalisés en France par les
 sociétés étrangères, définition*] visés à l'alinéa précédent s'entendent du montant total des résultats, imposables ou
 exonérés, après déduction de l'impôt sur les sociétés.    1 bis Le supplément d'impôt sur les sociétés prévu au c du
-paragraphe I de l'article 219 est dû à raison des sommes qui cessent d'être à la disposition de l'exploitation française dans
-la limite de la somme des bénéfices réputés distribués en application du I au titre des exercices ouverts à compter du 1er
-janvier 1989.
+paragraphe I de l'article 219 est dû à raison des sommes qui cessent d'être à la disposition de l'exploitation française au
+cours des exercices ouverts à compter du 1er janvier 1989 dans la limite de la somme des bénéfices réputés distribués en
+application du I au titre des mêmes exercices.
 
 2  Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de l'article 119
 bis-2 fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le
@@ -31,7 +31,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 12 () JORF 28 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 18 IV Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
