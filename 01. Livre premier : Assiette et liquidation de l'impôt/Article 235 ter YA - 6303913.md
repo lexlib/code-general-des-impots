@@ -19,24 +19,34 @@ financier, sont prises en compte pour l'application du présent article les somm
 
 V. Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 établissements redevables de la contribution des institutions financières et aux fonds de garantie afin de justifier du
-versement des cotisations de chaque établissement.
+versement des cotisations de chaque établissement (1).
+
+VI. - Le crédit d'impôt prévu au II n'est plus imputable sur la contribution des institutions financières à compter de la
+contribution due en 2003 sur les dépenses et charges comptabilisées en 2002.
+
+**Nota:**
+
+(1) Voir l'article 58 O de l'annexe III.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 3, art. 4 I 73° JORF 16 décembre 2000
+  - Loi - art. 15 (V) JORF 31 décembre 2002
 
 _Codifié par_:
 
-  - Décret n°2002-923 2002-06-06
+  - Décret n°2005-330 2005-04-06
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 1er janvier 2005
+  - TXT_ASSOCIE: Instruction 2000-10-04 4L-3-00
+  - TXT_ASSOCIE: Instruction 2003-05-19 4L-1-03
 
 _Cite_:
 
   - Code monétaire et financier - art. L312-7 (M)
   - Code monétaire et financier - art. L511-30 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2000-10-04 4L-3-00

@@ -67,19 +67,24 @@ collectivité concernée est au plus inférieur de 20 % au taux moyen pondéré 
 dans l'ensemble des communes. Ces règles sont applicables pour les communes qui ont adhéré à un établissement public de
 coopération intercommunale à compter de 1995.
 
-4. Par exception aux dispositions du b du 1, pour les départements dans lesquels le taux de taxe professionnelle de l'année
-précédente est inférieur au taux moyen national de cette taxe constaté la même année pour l'ensemble des départements, le
-conseil général peut, sans pouvoir dépasser ce taux, augmenter son taux de taxe professionnelle, par rapport à l'année
-précédente, dans la limite d'une fois et demie l'augmentation de son taux de taxe d'habitation ou, si elle est moins élevée,
-de son taux moyen pondéré de la taxe d'habitation et des taxes foncières.
+4. A compter de 2003 et par exception aux dispositions du b du 1, les communes, les départements et les organismes de
+coopération intercommunale dotés d'une fiscalité propre peuvent augmenter leur taux de taxe professionnelle, par rapport à
+l'année précédente, dans la limite d'une fois et demie l'augmentation de leur taux de taxe d'habitation ou, si elle est moins
+élevée, de leur taux moyen pondéré de la taxe d'habitation et des taxes foncières.
 
-Les dispositions du premier alinéa ne sont pas applicables lorsqu'il est fait application des dispositions du quatrième
-alinéa du 2.
+Les dispositions du premier alinéa du présent 4 ne sont pas applicables lorsqu'il est fait application des dispositions du
+quatrième alinéa du 2.
 
-La majoration prévue au 3 n'est pas applicable l'année au titre de laquelle il est fait application des dispositions du
-premier alinéa (1).
+La majoration prévue au 3 n'est pas applicable s'il est fait application des dispositions du premier alinéa du présent 4.
 
-5. (Périmé).
+5. En 2003, l'instance délibérante d'un établissement public de coopération intercommunale faisant application des
+dispositions de l'article 1609 nonies C fixe librement le taux de la taxe professionnelle à condition que le produit attendu
+de cette taxe, majoré de la compensation prévue au D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30
+décembre 1998), ne soit pas supérieur au produit voté de cette taxe en 2002, majoré de la même compensation pour 2002.
+
+Les dispositions du premier alinéa ne s'appliquent pas aux établissements publics de coopération intercommunale dont le
+périmètre est modifié en 2002 et ne font pas obstacle à l'application des autres dispositions du présent code, si elles
+permettent le vote d'un taux de taxe professionnelle plus élevé.
 
 I bis. 1. Dans les communes où le taux ou les bases de la taxe professionnelle étaient nuls l'année précédente, le conseil
 municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la
@@ -107,15 +112,20 @@ communes membres.
 Les dispositions du premier alinéa sont applicables l'année qui suit celle au titre de laquelle l'établissement public de
 coopération intercommunale a voté un taux égal à zéro pour les quatre taxes.
 
-**Nota:**
-
-(1) Ces dispositions s'appliquent à compter de 2002.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1636 B septies, 1636 B decies, 1609 bis
+  - CGI 1636 B septies, 1636 B decies, 1609 bis, 1609 nonies C
+  - Loi n°98-1266 1998-12-30 art. 44 D Finances pour 1999
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2003
+  - TXT_ASSOCIE: Instruction 2001-03-30 6A-3-01
+  - TXT_ASSOCIE: Instruction 2002-07-03 6A-4-02
+  - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
+  - TXT_ASSOCIE: Instruction 2003-06-30 6A-4-03
 
 _Cité par_:
 
@@ -138,12 +148,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 50 (V) JORF 29 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 50 II
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
-  - TXT_ASSOCIE: Instruction 2001-03-30 6A-3-01
-  - TXT_ASSOCIE: Instruction 2002-07-03 6A-4-02
+  - Loi - art. 31 (V) JORF 31 décembre 2002
+  - Loi n°2002-1575 2002-12-30 art. 31 I 1, 2 Finances pour 2003 JORF 31 décembre 2002
