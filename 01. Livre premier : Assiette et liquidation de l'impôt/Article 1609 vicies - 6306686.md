@@ -16,21 +16,21 @@ c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 
 II. ((Les taux de la taxe sont fixés comme suit :
 
-((Huile d'olive, 0,960 F/Kg, 0,865 F/litre
+((Huile d'olive, 0,972 F/Kg, 0,875 F/litre
 
-((Huiles d'arachide et de maïs, 0,865 F/Kg, 0,788 F/Litre
+((Huiles d'arachide et de maïs, 0,875 F/Kg, 0,797 F/Litre
 
-((Huiles de colza et de pépins de raisin, 0,444 F/Kg, 0,403 F/litre
+((Huiles de colza et de pépins de raisin, 0,449 F/Kg, 0,408 F/litre
 
 ((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
-internationales ou nationales relatives aux espèces protégées, 0,755 F/Kg, 0,658 F/litre
+internationales ou nationales relatives aux espèces protégées, 0,764 F/Kg, 0,666 F/litre
 
-((Huiles de coprah et de palmiste, 0,576F/Kg
+((Huiles de coprah et de palmiste, 0,583 F/Kg
 
-((Huile de palme, 0,528 F/Kg
+((Huile de palme, 0,534 F/Kg
 
 ((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives
-aux espèces protégées, 0,960 F/Kg)) (M).
+aux espèces protégées, 0,972 F/Kg)) (M).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition intracommunautaire incorporant des huiles
 imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition.
@@ -53,20 +53,15 @@ qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, 
 l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de
 l'article 258 A.
 
-(M) Modification de la loi 97-1269.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - SPEC_APPLI: Arrêté 1998-02-12
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1996-06-20 3P-5-96
+  - SPEC_APPLI: Arrêté 1999-02-08 JORF du 28-02-1999
+  - HISTO: Edition du 31 mars 1999
   - TXT_ASSOCIE: Instruction 1997-04-17 3P-6-97
-
-_Modifié par_:
-
-  - Loi - art. 42 () JORF 31 décembre 1997
 
 _Cité par_:
 
@@ -91,3 +86,7 @@ _Cité par_:
 _Cite_:
 
   - CGI 262 ter, 258 A, 1609 sexdecies
+
+_Modifié par_:
+
+  - Loi - art. 55 () JORF 31 décembre 1998
