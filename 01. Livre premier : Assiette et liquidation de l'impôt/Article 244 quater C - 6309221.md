@@ -4,7 +4,7 @@ I. Les entreprises imposées d'après leur bénéfice réel peuvent bénéficier
 formation professionnelle. Pour les entreprises soumises aux obligations prévues aux articles 235 ter D et 235 ter KA, les
 dépenses retenues sont celles exposées en sus de ces obligations.
 
-Ce crédit d'impôt est égal à 25 p. 100 :
+Ce crédit d'impôt est égal à 35 p. 100 :
 
 a) De la différence entre le montant des dépenses de formation mentionnées au livre IX du code du travail, exposées au cours
 de l'année, et celui des dépenses de même nature exposées au cours de l'année précédente, revalorisées en fonction de
@@ -12,7 +12,7 @@ l'évolution des rémunérations, au sens du 1 de l'article 231, versées par l'
 
 b) (Abrogé).
 
-c) Et du produit de la somme de 3.000 F par la différence entre le nombre d'élèves accueillis dans l'entreprise au cours de
+c) Et du produit de la somme de 3 000 F par la différence entre le nombre d'élèves accueillis dans l'entreprise au cours de
 l'année et celui de l'année précédente en application de l'article 7 de la loi n° 89-486 du 10 juillet 1989 d'orientation sur
 l'éducation ou en vue de la préparation du brevet de technicien supérieur prévu à l'article 35 du décret n° 59-57 du 6
 janvier 1959 portant réforme de l'enseignement public. Pour le décompte du nombre d'élèves, sont pris en compte les élèves
@@ -24,27 +24,19 @@ Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de l
 la première fois des dépenses de formation définies à l'alinéa précédent est égal à 25 p. 100 de ces dépenses exposées au
 cours de l'année en cause.
 
-Le crédit d'impôt est plafonné, pour chaque entreprise, y compris les sociétés de personnes, à 1 million de francs. Il
+II. Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à un million de francs. Il
 s'apprécie en prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés de personnes
 mentionnées aux articles 8, 238 bis L, 238 ter et 239 ter, et aux droits des membres de groupements mentionnés aux articles
-239 quater A, 239 quater B, 239 quater C et 239 quinquies.
+239 quater, 239 quater A, 239 quater B, 239 quater C et 239 quinquies.
 
-Ce plafond est majoré de la part du crédit d'impôt qui provient de l'augmentation des dépenses visées au II, dans la limite
-globale de 5 millions de francs.
+Ce plafond est majoré, dans la limite globale de 5 millions de francs, de la part du crédit d'impôt qui provient de
+l'augmentation des dépenses suivantes :
 
-II. Pour la liquidation du crédit d'impôt, les dépenses de formation professionnelle ou d'accueil d'élèves mentionnées ci-
-après sont majorées de 40 p. 100 :
-
-a) Les dépenses exposées au profit des salariés occupant les emplois les moins qualifiés. Ces emplois sont ceux qui ne
+a. Les dépenses exposées au profit des salariés occupant les emplois les moins qualifiés. Ces emplois sont ceux qui ne
 nécessitent pas un brevet d'études professionnelles, un certificat d'aptitude professionnelle ou un titre ou diplôme de même
 niveau de l'enseignement général ou technologique, ou un niveau de formation équivalent ;
 
-b) Les dépenses exposées au profit de salariés âgés de quarante-cinq ans et plus ;
-
-c) Les dépenses de formation professionnelle ou d'accueil d'élèves exposées par les entreprises employant moins de cinquante
-salariés.
-
-Une même dépense ne peut faire l'objet que d'une seule majoration.
+b. Les dépenses exposées au profit de salariés âgés de quarante-cinq ans et plus.
 
 III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont
 déduites des bases de ce crédit.
@@ -63,28 +55,30 @@ IV bis. Les entreprises doivent joindre à leur déclaration de résultats une a
 nationale ou l'inspection de l'enseignement agricole qui précise pour chaque élève accueilli l'établissement scolaire et la
 durée de la formation au cours de l'année.
 
-((IV 0 bis. Les dispositions du présent article s'appliquent également aux dépenses de formation exposées au cours des années
+IV 0 bis. Les dispositions du présent article s'appliquent également aux dépenses de formation exposées au cours des années
 1999 à 2001 par les entreprises qui ont fait application du crédit d'impôt formation au titre de l'année 1998 ou par celles
 qui n'en ont jamais bénéficié, sur option irrévocable jusqu'au terme de cette période. L'option doit être exercée au titre de
 1999 ou au titre de la première année au cours de laquelle l'entreprise réalise ses premières dépenses de formation éligibles
-au crédit d'impôt formation.)) (M)
+au crédit d'impôt formation.
 
 V. Un décret fixe les conditions d'application du présent article.
-
-(M) Modification.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 235 ter D, 235 ter KA, 231, 8, 238 bis L, 238 ter, 239 ter, 239 quater A, 239 quater B, 239 quater C, 239 quinquies
+  - CGI 235 ter D, 235 ter KA, 231, 8, 238 bis L, 238 ter, 239 ter, 239 quater, 239 quater A, 239 quater B, 239 quater C, 239 quinquies
   - Décret n°59-57 1959-01-06 art. 35
   - Loi n°89-486 du 10 juillet 1989 - art. 7 (Ab)
-  - Loi n°96-314 1996-04-12
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1999-02-19 4A-4-99
+  - SPEC_APPLI: Loi n°99-1173 1999-12-30 art. 35 II Finances rectificative pour 1999
 
 _Modifié par_:
 
-  - Loi - art. 93 () JORF 31 décembre 1998
+  - Loi - art. 35 (V) JORF 31 décembre 1999
 
 _Cité par_:
 
@@ -108,8 +102,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies S (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies T (V)
   - Livre des procédures fiscales - art. L172 G (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1999-02-19 4A-4-99
