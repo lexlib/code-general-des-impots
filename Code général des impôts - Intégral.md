@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1989-12-30
+Version Consolidée au 1990-01-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -23737,7 +23737,7 @@ _Cité par_:
 ###### Article 224
 
 1. Il est établi une taxe, dite taxe d'apprentissage, dont le produit est inscrit au budget de l'Etat pour y recevoir
-l'affectation prévue par la loi (1).
+l'affectation prévue par la loi.
 
 2. Cette taxe est due [*champ d'application, redevables*] :
 
@@ -23758,10 +23758,9 @@ groupements d'intérêt économique et exerçant une activité visée aux articl
 
 3. Sont affranchis de la taxe [*exonération*] :
 
-1° Les artisans inscrits au répertoire des métiers et les veuves d'artisans occupant un ou plusieurs apprentis de moins de 20
-ans avec lesquels un contrat régulier d'apprentissage a été passé dans les conditions prévues aux articles L 117-1 à L 117-18
-du code du travail, lorsque la base annuelle d'imposition déterminée conformément aux dispositions de l'article 225 n'excède
-pas 20.000 F ;
+1° Les entreprises occupant un ou plusieurs apprentis avec lesquels un contrat régulier d'apprentissage a été passé dans les
+conditions prévues aux articles L. 117-1 à L. 117-18 du code du travail, lorsque la base annuelle d'imposition déterminée
+conformément aux dispositions de l'article 225 n'excède pas six fois le salaire minimum de croissance annuel ;
 
 2° Les sociétés et personnes morales ayant pour objet exclusif les divers ordres d'enseignement (1)
 
@@ -23772,16 +23771,10 @@ actions ou à responsabilité limitée étaient affranchies de la taxe.
 
 _Cite_:
 
-  - Ordonnance 67-821 1967-09-23 art. 34, art. 35
-  - Loi n°78-653 1978-06-22 ART. 2
-  - Loi n°78-1239 1978-12-29 ART. 33 FINANCES POUR 1979
-  - Loi n°80-30 1980-01-18 ART. 21 FINANCES POUR 1980
-  - CGI 206 5
-  - CGI 225
-  - CGI 34
-  - CGI 35
-  - Code du travail L117-1 A Code du travail L117-18
-  - Décret n°55-594 1955-05-20 ART. 3 IV
+  - Ordonnance 67-821 1967-09-23
+  - CGI 34, 35, 206, 225
+  - Code du travail L117-1 à L117-18
+  - Décret n°55-594 1955-05-20 art. 3
 
 _Cité par_:
 
@@ -23800,7 +23793,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°87-1061 du 30 décembre 1987 - art. 19 (V) JORF 31 décembre 1987
+  - Loi n°89-1008 du 31 décembre 1989 - art. 21 () JORF 2 janvier 1990, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 225
