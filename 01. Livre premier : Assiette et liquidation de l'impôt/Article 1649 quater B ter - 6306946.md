@@ -1,13 +1,17 @@
 # Article 1649 quater B ter
 
 Les dispositions de l'article 1649 quater B bis s'appliquent aux déclarations souscrites par les particuliers auprès de
-l'administration fiscale.
+l'administration fiscale (1).
+
+**Nota:**
+
+(1) Voir l'arrêté du 22 mars 2002, art. 6, JO du 3 mai.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 23 () JORF 31 décembre 1999
+  - Arrêté 2002-03-22 art. 6 JORF 3 mai 2002
 
 _Cité par_:
 
@@ -25,8 +29,8 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 1649 quater B bis
+  - Code général des impôts, CGI. - art. 1649 quater B bis (V)
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 août 2002
