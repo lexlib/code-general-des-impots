@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-01-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -69639,21 +69639,21 @@ _Codifié par_:
 
 ###### Article 1617
 
-Il est attribué au budget annexe des prestations sociales agricoles le produit d'une taxe sur les betteraves livrées à la
-sucrerie ou à la distillerie. Le taux de cette taxe est fixé à 10 % du prix de base à la production des betteraves. Ce taux
-peut être réduit par décret dans la limite de 60 % [*pourcentage*] et dans la mesure où cette réduction n'affecte pas le
-financement du budget annexe des prestations sociales agricoles.
+Il est attribué au budget annexe des prestations sociales agricoles [*BAPSA*] le produit d'une taxe sur les betteraves
+livrées à la sucrerie ou à la distillerie. Le taux de cette taxe est fixé à 4 % du prix de base à la production des
+betteraves. Ce taux peut être réduit par décret dans la mesure où cette réduction n'affecte pas le financement du budget
+annexe des prestations sociales agricoles.
 
 La taxe est due par le producteur et acquittée pour son compte par les industriels et transformateurs auxquels les betteraves
 sont livrées [*redevables*].
 
-Cette taxe est perçue sur les betteraves exportées directement.
+Cette taxe est perçue sur les betteraves qui sont exportées directement.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°91-1407 du 31 décembre 1991 - art. 10 () JORF 4 janvier 1992, modification directe intégrée dans l'édition du 4 juillet 1992
 
 
 ##### E : Produits des exploitations forestières.<a id=1093></a>
