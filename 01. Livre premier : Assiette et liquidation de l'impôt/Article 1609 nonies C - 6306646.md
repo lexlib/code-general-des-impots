@@ -18,17 +18,17 @@ transfert de compétence, réduit le cas échéant des recettes de fonctionnemen
 Toutefois, un décret en Conseil d'Etat fixe les conditions d'évaluation des dépenses d'investissement transférées (1).
 
 L'évaluation du montant des charges nettes transférées est déterminée à la date de leur transfert par délibérations
-concordantes de la majorité qualifiée des conseils municipaux prévue ((aux article L. 5216-1 à L. 5216-3 du code des
-collectivités territoriales)) (M) adoptées sur rapport de la commission locale d'évaluation des transferts.
+concordantes de la majorité qualifiée des conseils municipaux prévue aux articles L. 5216-1 à L. 5216-3 du code des
+collectivités territoriales adoptées sur rapport de la commission locale d'évaluation des transferts.
 
 II. 1° La première année d'application des dispositions du I le taux de taxe professionnelle voté par le conseil de
 communauté ne peut excéder le taux moyen de la taxe professionnelle des communes membres constaté l'année précédente, pondéré
 par l'importance relative des bases de ces communes.
 
-Le taux moyen pondéré mentionné ((au premier alinéa)) est majoré du taux de la taxe professionnelle perçue l'année précédente
-par la communauté urbaine ou le district qui se sont transformés en communauté de villes en application ((des l'articles L.
-5213-26, L. 5215-43, et L. 5216-17 du code général des collectivités territoriales))  ou auxquels la communauté de villes a
-été substituée de plein droit en application ((de l'article L. 5216-19 du même code)) (M).
+Le taux moyen pondéré mentionné au premier alinéa est majoré du taux de la taxe professionnelle perçue l'année précédente par
+la communauté urbaine ou le district qui se sont transformés en communauté de villes en application des articles L. 5213-26,
+L. 5215-43, et L. 5216-17 du code général des collectivités territoriales ou auxquels la communauté de villes a été
+substituée de plein droit en application de l'article L. 5216-19 du même code.
 
 Le nouveau taux s'applique dans toutes les communes dès la première année, lorsque le taux de taxe professionnelle de la
 commune la moins imposée était, l'année précédente, égal ou supérieur à 90 p. 100 du taux de taxe professionnelle de la
@@ -40,6 +40,14 @@ p. 100, par sixième lorsqu'il était supérieur à 40 p. 100 et inférieur à 5
 30 p. 100 et inférieur à 40 p. 100, par huitième lorsqu'il était supérieur à 20 p. 100 et inférieur à 30 p. 100, par neuvième
 lorsqu'il était supérieur à 10 p. 100 et inférieur à 20 p. 100, par dixième lorsqu'il était inférieur à 10 p. 100.
 
+((Toutefois, le conseil de communauté peut, par une délibération adoptée à la majorité des trois quarts de ses membres,
+modifier la durée de la période de réduction des écarts de taux résultant des dispositions du troisième alinéa, sans que
+cette durée puisse excéder dix ans. Cette réduction s'opère, chaque année, par parts égales.
+
+((La délibération mentionnée au quatrième alinéa doit intervenir, dans les conditions prévues à l'article 1639 A, la première
+année où la communauté se substitue aux communes pour la perception de la taxe professionnelle. Cette délibération ne peut
+être modifiée ultérieurement)) (M).
+
 2° Au titre des années suivant la première année d'application des dispositions du 1°, le taux de taxe professionnelle est
 fixé par le conseil de communauté dans les conditions prévues au II de l'article 1636 B decies.
 
@@ -48,11 +56,11 @@ de l'article 1638 quater sont applicables.
 
 III. 1° La communauté verse à chaque commune membre une attribution de compensation égale au produit de taxe professionnelle
 perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût net des charges
-transférées calculé dans les conditions définies au I .
+transférées calculé dans les conditions définies au I.
 
-Les reversements de taxe professionnelle prévus ((au premier alinéa)) constituent une dépense obligatoire pour la communauté.
-Le conseil de communauté communique aux communes membres avant le 15 février le montant prévisionnel des sommes leur revenant
-au titre de ces reversements.
+Les reversements de taxe professionnelle prévus au premier alinéa constituent une dépense obligatoire pour la communauté. Le
+conseil de communauté communique aux communes membres avant le 15 février le montant prévisionnel des sommes leur revenant au
+titre de ces reversements.
 
 Dans le cas où une diminution des bases imposables de taxe professionnelle réduit le produit disponible, les attributions de
 compensation sont réduites dans la même proportion.
@@ -96,7 +104,7 @@ sur les propriétés non bâties perçu dans la commune au profit du groupement.
 L'attribution de compensation ainsi déterminée est diminuée :
 
 a) Du montant des compensations perçues par la commune, l'année précédant celle de la première application des dispositions
-de l'article 1609 nonies C, en contrepartie des exonérations prévues aux articles 1390, 1391 et au I de l'article 1414 ;
+du présent article, en contrepartie des exonérations prévues aux articles 1390, 1391 et au I de l'article 1414 ;
 
 b) Du montant net des charges transférées, lorsque la décision du groupement de faire application des dispositions du présent
 article s'accompagne d'un transfert de compétences ; ce montant est calculé dans les conditions définies au I.
@@ -132,13 +140,13 @@ s'agit d'une communauté de villes, par le groupement dont celle-ci est issue ou
 
 (1) Voir décret 93-220 du 16 février 1993, JO du 18).
 
-(M) Modifications du décret 96-556.
+(M) Modification de la loi 96-1182.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1648 A, 1648 AA, 1648 B, 1636 B decies, 1638 quater, 1609 nonies C, 1390, 1391, 1414, 6
+  - CGI 1648 A, 1648 AA, 1648 B, 1636 B decies, 1638 quater, 1639 A, 1390, 1391, 1414
   - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
   - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992
   - Décret n°93-220 1993-02-16
@@ -240,15 +248,12 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1656 bis (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 sexdecies (P)
 
-_Codifié par_:
-
-  - Décret n°96-556 1996-06-21
-
 _Modifié par_:
 
-  - Décret n°96-556 du 21 juin 1995 - art. 1 () JORF 23 juin 1996
+  - Loi n°96-1182 du 30 décembre 1996 - art. 36 () JORF 31 décembre 1996
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 11 avril 1997
   - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
+  - TXT_ASSOCIE: Instruction 1997-06-04 6IDL Numéro spécial
