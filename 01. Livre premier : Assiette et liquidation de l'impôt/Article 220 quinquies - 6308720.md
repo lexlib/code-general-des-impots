@@ -14,10 +14,10 @@ L'excédent d'impôt sur les sociétés résultant de l'application du premier a
 créance d'un égal montant. La constatation de cette créance, qui n'est pas imposable, améliore les résultats de l'entreprise
 et contribue au renforcement des fonds propres. 
 
-La créance est remboursée au terme des dix années suivant celle de la clôture de l'exercice au titre duquel l'option visée au
-premier alinéa a été exercée. Toutefois, l'entreprise peut utiliser la créance pour le paiement de l'impôt sur les sociétés
-dû au titre des exercices clos au cours de ces dix années. Dans ce cas, la créance n'est remboursée qu'à hauteur de la
-fraction qui n'a pas été utilisée dans ces conditions.
+La créance est remboursée au terme des cinq années suivant celle de la clôture de l'exercice au titre duquel l'option visée
+au premier alinéa a été exercée. Toutefois, l'entreprise peut utiliser la créance pour le paiement de l'impôt sur les
+sociétés dû au titre des exercices clos au cours de ces dix années. Dans ce cas, la créance n'est remboursée qu'à hauteur de
+la fraction qui n'a pas été utilisée dans ces conditions.
 
 La créance est inaliénable et incessible, sauf dans les conditions prévues par la loi n° 81-1 du 2 janvier 1981 modifiée par
 la loi n° 84-46 du 24 janvier 1984, ou dans des conditions fixées par décret (2). 
@@ -32,7 +32,7 @@ II. L'option visée au I ne peut pas être exercée au titre d'un exercice au co
 cessation totale d'entreprise, une fusion de sociétés ou une opération assimilée, ou un jugement prononçant la liquidation
 des biens ou la liquidation judiciaire (3) de la société.
 
-En cas de fusion ou opération assimilée [*scission, apport partiel d'actif*] intervenant au cours des dix années suivant
+En cas de fusion ou opération assimilée [*scission, apport partiel d'actif*] intervenant au cours des cinq années suivant
 celle de la clôture de l'exercice au titre duquel l'option visée au I a été exercée, le transfert de tout ou partie de la
 créance de la société apporteuse ou absorbée à la société bénéficiant de l'apport ou absorbante, peut être autorisé sur
 agrément délivré dans les conditions prévues à l'article 1649 nonies.
@@ -71,11 +71,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°85-1403 du 30 décembre 1985 - art. 4 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986) M(Loi 85-98 1985-01-25 art. 1 JORF 26 janvier 1985
+  - Loi n°86-1317 du 30 décembre 1986 - art. 83 (P) JORF 31 décembre 1986, en vigueur le 1er janvier 1987
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°86-1086 1986-10-07
+  - SPEC_APPLI: Loi n°86-1317 du 30 décembre 1986 - art. 83, v. init.
 
 _Cité par_:
 
