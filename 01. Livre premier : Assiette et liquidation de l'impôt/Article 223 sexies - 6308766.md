@@ -17,26 +17,20 @@ répartitions doivent être imputées ainsi que l'ordre de cette imputation (1).
 
 3. Les dispositions du présent article ne sont pas applicables aux produits distribués :
 
-1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion ;
-
-2° Par les sociétés d'investissement remplissant les conditions prévues, suivant le cas, au premier alinéa ou au deuxième
-alinéa de l'article 208 A et par les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies ;
-
-3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du
-28 septembre 1967 ;
-
-4° Par les sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24
-décembre 1969 ;
+1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion ;    2° Par les sociétés
+d'investissement remplissant les conditions prévues, suivant le cas, au premier alinéa ou au deuxième alinéa de l'article 208
+A et par les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies ;    3° Par les sociétés
+immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967,
+sous réserve des dispositions du 3ème alinéa du 3° quater de l'article 208 ;    4° Par les sociétés agréées pour le
+financement des télécommunications lorsqu'ils sont prélevés sur des résultats exonérés en application des premier et deuxième
+alinéas de l'article 208-3° quinquies ou lorsqu'ils sont distribués en application du quatrième alinéa du même article ;
 
 5° Par les sociétés agréées pour le financement des économies d'énergie (Sofergie) et résultant de l'exercice des activités
-exonérées en application du 3° sexies de l'article 208 ;
-
-6° Par les sociétés de capital-risque lorsque ces distributions proviennent de produits et plus-values nets exonérés en
-application du 3° septies de l'article 208.
-
-7° Par les personnes morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986
-autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de
-produits nets exonérés en application de l'article 208 quinquies.
+exonérées en application du 3° sexies de l'article 208 ;    6° Par les sociétés de capital-risque lorsque ces distributions
+proviennent de produits et plus-values nets exonérés en application du 3° septies de l'article 208.    7° Par les personnes
+morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le
+Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de produits nets
+exonérés en application de l'article 208 quinquies.
 
 (1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
 
@@ -46,7 +40,7 @@ _Cite_:
 
   - CGI 158 bis
   - CGI 207 2
-  - CGI 208 1° ter quater, 208 1° ter, 1° quater, 1° quinquies, 3° sexies, 3° septies
+  - CGI 208 1° ter quater, 1° ter, 1° quater, 1° quinquies, 3° quater, 3° quinquies, 3° sexies, 3° septies
   - CGI 208 A
   - CGI 208 quinquies
   - CGI 209 quinquies
@@ -56,13 +50,13 @@ _Cite_:
   - CGIAN3 381 T
   - CGIAN3 46 quater-0 C à CGIAN3 46 quater-0 F
   - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
-  - Loi n°69-1160 1969-12-24 ART. 1 FINANCES RECTIFICATIVE POUR 1969
   - Loi n°86-793  1986-07-02 art. 2 5°
 
 _Modifié par_:
 
-  - Loi n°87-1061 du 30 décembre 1987 - art. 23 () JORF 31 décembre 1987
+  - Loi n°88-1149 du 23 décembre 1988 - art. 74 () JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
+  - Loi n°88-1149 du 23 décembre 1988 - art. 75 (V) JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
 
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°89-801 1989-10-27
