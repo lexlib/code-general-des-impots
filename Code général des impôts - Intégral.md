@@ -1,28 +1,60 @@
 # Code général des impôts  
-Version Consolidée au 1959-01-09
+Version Consolidée au 1963-05-01
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 1043 A)](#1)
-    - [Première Partie : Impôts d'État (art. 1043 A)](#2)
-      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 1043 A)](#3)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#4)
-          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#5)
-            - [9° : Départements d'outre-mer (art. 1043 A)](#6)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563)](#7)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#8)
-      - [IMPOSITIONS COMMUNALES (art. 1563)](#9)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#10)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#11)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 247 à 1043 A)](#1)
+    - [Première Partie : Impôts d'État (art. 247 à 1043 A)](#2)
+      - [Titre premier : Impôts directs et taxes assimilées (art. 247)](#3)
+        - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 247)](#4)
+          - [Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III (art. 247)](#5)
+            - [I : Entreprises de navigation maritime ou aérienne (art. 247)](#6)
+      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 1043 A)](#7)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#8)
+          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#9)
+            - [9° : Départements d'outre-mer (art. 1043 A)](#10)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563)](#11)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#12)
+      - [IMPOSITIONS COMMUNALES (art. 1563)](#13)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#14)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#15)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
 
-### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre<a id=3></a>
+### Titre premier : Impôts directs et taxes assimilées<a id=3></a>
 
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=4></a>
+#### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III<a id=4></a>
 
-##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=5></a>
+##### Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III<a id=5></a>
 
-##### 9° : Départements d'outre-mer<a id=6></a>
+##### I : Entreprises de navigation maritime ou aérienne<a id=6></a>
+
+###### Article 247
+
+1. Les omissions totales ou partielles constatées dans l’assiette de l’un quelconque des impôts et taxes visés aux chapitres
+I, II et III (sections I à III et VII) du présent titre ainsi que les erreurs commises dans l’établissement des impositions
+ou le calcul des cotisations correspondantes peuvent être réparées dans les conditions prévues à l’article 1966.
+
+Les impositions établies après le décès du contribuable en vertu de l’article 1966-4, ainsi que toutes autres impositions
+dues par les héritiers du chef du défunt, constituent une dette déductible de l’actif successoral pour la perception des
+droits de mutation par décès. Elles ne sont pas admises en déduction du revenu des héritiers pour l’établissement de l’impôt
+sur le revenu des personnes physiques dont ces derniers sont passibles.
+
+Les impositions établies en vertu du présent paragraphe supportent, s’il y a lieu, les majorations de droits ou droits en sus
+prévus par les dispositions relatives à l’impôt ou à la taxe qu’elles concernent.
+
+2. L’administration peut effectuer toutes compensations entre l’impôt sur le revenu des personnes physiques, l’impôt sur les
+sociétés et les taxes visées dans le chapitre III (sections I à III et VII) du présent titre établis au titre d’une même
+année.
+
+
+
+### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre<a id=7></a>
+
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=8></a>
+
+##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=9></a>
+
+##### 9° : Départements d'outre-mer<a id=10></a>
 
 ###### Article 1043 A
 
@@ -45,15 +77,15 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=7></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=11></a>
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=8></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=12></a>
 
-### IMPOSITIONS COMMUNALES<a id=9></a>
+### IMPOSITIONS COMMUNALES<a id=13></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=10></a>
+#### CONTRIBUTIONS INDIRECTES<a id=14></a>
 
-##### TAXES OBLIGATOIRES.<a id=11></a>
+##### TAXES OBLIGATOIRES.<a id=15></a>
 
 ###### Article 1563
 
