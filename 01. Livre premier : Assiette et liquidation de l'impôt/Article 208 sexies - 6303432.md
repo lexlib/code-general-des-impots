@@ -1,6 +1,6 @@
 # Article 208 sexies
 
-Les entreprises créées dans les départements de la Corse du 1er janvier 1988 au 31 décembre 1992, soumises à l'impôt sur les
+Les entreprises créées dans les départements de la Corse du 1er janvier 1988 au 31 décembre 1993, soumises à l'impôt sur les
 sociétés dans les conditions de droit commun et qui exercent l'ensemble de leur activité dans ces départements et dans les
 secteurs de l'industrie, de l'hôtellerie, du bâtiment et des travaux publics sont exonérées d'impôt sur les sociétés à raison
 des bénéfices qu'elles réalisent à compter de la date de leur création jusqu'au terme du quatre-vingt-quinzième mois suivant
@@ -24,15 +24,12 @@ l'article 53 A.
 _Cite_:
 
   - CGI 53 A
-  - CGI L64 b
+  - CGI Livre des procédures fiscales L64 b
 
 _Modifié par_:
 
-  - Loi n°89-936 1989-12-29 art. 19 Finances rectificative pour 1989 JORF 30 décembre 1989
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
+  - Loi - art. 50 () JORF 5 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
