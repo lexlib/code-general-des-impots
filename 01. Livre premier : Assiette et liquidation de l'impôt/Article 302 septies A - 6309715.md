@@ -1,8 +1,10 @@
 # Article 302 septies A
 
 I  Il est institué par décret en conseil d'Etat (1) un régime simplifié de liquidation des taxes sur le chiffre d'affaires
-dues par les personnes qui ne sont pas placées sous le régime du forfait et dont le chiffre d'affaires n'excède pas le double
-des limites prévues pour l'application de ce régime.
+dues par les personnes qui ne sont pas placées sous le régime du forfait et dont le chiffre d'affaires n'excède pas 1.800.000
+F, s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à
+emporter ou à consommer sur place ou de fournir le logement, ou 540.000 F, s'il s'agit d'autres entreprises. Ces limites
+s'apprécient dans les mêmes conditions que les limites fixées pour l'application du régime forfaitaire.
 
 II  Le régime simplifié prévu au I demeure applicable pour l'établissement de l'imposition due au titre de la première année
 au cours de laquelle les chiffres d'affaires limites prévus pour ce régime sont dépassés. Cette imposition est établie compte
@@ -33,6 +35,11 @@ _Cite_:
   - CGIAN2 267 quinquies
   - CGIAN2 267 septies
   - CGIAN2 267 sexies
+
+_Modifié par_:
+
+  - Loi n°81-1160 1981-12-30 ART. 85 I, II FINANCES POUR 1982 JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+  - Loi n°81-1160 du 30 décembre 1981 - art. 85 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 _Cité par_:
 
@@ -74,6 +81,6 @@ _Cité par_:
   - Livre des procédures fiscales - art. L16 D (V)
   - Livre des procédures fiscales - art. L52 (V)
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°82-881 1982-10-15
