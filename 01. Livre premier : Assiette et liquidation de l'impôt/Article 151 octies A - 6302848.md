@@ -40,8 +40,8 @@ scission ou des titres de la société ayant réalisé l'apport partiel d'actif,
 peut être maintenu si le bénéficiaire de la transmission prend l'engagement d'acquitter l'impôt sur les plus-values à la date
 où l'un des événements visés aux troisième, quatrième et cinquième alinéas du I et au II viendrait à se réaliser à nouveau.
 
-IV. Les personnes physiques mentionnées au I sont soumises aux dispositions prévues au dernier alinéa du II de l'article 151
-octies.
+IV. Les personnes physiques mentionnées au I sont soumises aux dispositions prévues au quatrième alinéa du II de l'article
+151 octies.
 
 **Liens relatifs à cet article**
 
@@ -49,9 +49,13 @@ _Cite_:
 
   - CGI 151 octies, 8 ter, 39 duodecies, 93 quater
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi - art. 19 (V) JORF 31 décembre 1999
+  - Décret n°2000-477 2000-06-02
+
+_Modifié par_:
+
+  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
 
 _Cité par_:
 
@@ -64,3 +68,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 210-0 A (V)
   - Code général des impôts, CGI. - art. 54 septies (V)
   - Code général des impôts, CGI. - art. 93 quater (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2000

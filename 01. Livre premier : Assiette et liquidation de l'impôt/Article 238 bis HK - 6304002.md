@@ -1,18 +1,18 @@
 # Article 238 bis HK
 
 Les plus-values réalisées à l'occasion de la cession d'actions d'une société définie à l'article 238 bis HE sont soumises aux
-règles prévues aux articles 92 B et 160, sans préjudice de l'application des dispositions du troisiéme alinéa de l'article
-163 septdecies.
+règles prévues à l'article 150-0 A sans préjudice de l'application des dispositions du troisiéme alinéa de l'article 163
+septdecies.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 238 bis HE, 92 B, 160, 163 septdecies
+  - CGI 238 bis HE, 150-0 A, 163 septdecies
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°86-1086 1986-10-07
+  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
 
 _Cité par_:
 
@@ -21,9 +21,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 juillet 1986
-  - TXT_ASSOCIE: Loi n°97-1051 1997-18-11 art. 27 V B JORF 19 novembre 1997 / pêche artisanale
-
-_Créé par_:
-
-  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+  - HISTO: Edition du 31 mars 2000
