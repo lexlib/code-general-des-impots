@@ -1,8 +1,9 @@
 # Article 1609 vicies
 
-I. Il est institué au profit du budget annexe des prestations sociales agricoles, en France continentale et en Corse, une
-taxe spéciale sur les huiles végétales, fluides ou concrètes, effectivement destinées, en l'état ou après incorporation dans
-tous produits alimentaires, à l'alimentation humaine.
+I. Il est institué au profit du Fonds de financement des prestations sociales des non-salariés agricoles mentionné à
+l'article L. 731-1 du code rural, en France continentale et en Corse, une taxe spéciale sur les huiles végétales, fluides ou
+concrètes, effectivement destinées, en l'état ou après incorporation dans tous produits alimentaires, à l'alimentation
+humaine.
 
 Cette taxe est due :
 
@@ -40,23 +41,15 @@ qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, 
 l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de
 l'article 258 A.
 
-**Nota:**
-
-NOTA : Dans les dispositions de nature réglementaire, les références au "budget annexe des prestations sociales agricoles"
-sont remplacées par les références à "l'établissement de gestion du fonds de financement des prestations sociales des non-
-salariés agricoles", cf décret 2004-1428 du 23 décembre 2004 article 14.
-
-Ces dispositions entrent en vigueur le 1er janvier 2005.
-
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
 
 _Modifié par_:
 
-  - Décret n°2001-435 du 21 mai 2001 - art. 1 () JORF 23 mai 2001
+  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
 
 _Cité par_:
 
@@ -81,9 +74,8 @@ _Cité par_:
 _Cite_:
 
   - CGI 262 ter, 258 A
-  - Instruction 2002-12-26 3P-4-02
+  - Code rural L731-1
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 2003-06-06 3P-3-03
+  - HISTO: Edition du 1er janvier 2005

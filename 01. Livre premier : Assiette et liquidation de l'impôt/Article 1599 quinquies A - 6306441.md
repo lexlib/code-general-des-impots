@@ -5,7 +5,7 @@ l'apprentissage et de la formation professionnelle continue mentionnés à l'art
 collectivités territoriales.
 
 Cette contribution est due par les personnes ou entreprises redevables de la taxe d'apprentissage en application de l'article
-224 du présent code.
+224.
 
 Elle est assise sur les rémunérations retenues pour l'assiette de la taxe d'apprentissage en application des articles 225 et
 225 A versées à compter du 1er janvier 2004. Elle est calculée au taux de 0,06 % pour les rémunérations versées en 2004, de
@@ -14,9 +14,9 @@ Elle est assise sur les rémunérations retenues pour l'assiette de la taxe d'ap
 Le montant de la contribution est versé aux organismes collecteurs agréés mentionnés à l'article L. 118-2-4 du code du
 travail avant le 1er mars de l'année suivant celle du versement des salaires. A défaut de versement ou en cas de versement
 insuffisant au plus tard à la date précitée, le montant de la contribution est versé au comptable de la direction générale
-des impôts, lors du dépôt de la déclaration prévue à l'article 229 du présent code, majoré de l'insuffisance constatée.
+des impôts, lors du dépôt de la déclaration prévue à l'article 229, majoré de l'insuffisance constatée.
 
-Les organismes mentionnés à l'alinéa précédent reversent au comptable de la direction générale des impôts les sommes perçues
+Les organismes mentionnés au quatrième alinéa reversent au comptable de la direction générale des impôts les sommes perçues
 en application du même alinéa au plus tard le 31 mars de la même année.
 
 II. - Les dépenses visées aux articles 226 bis, 227 et 227 bis ne sont pas admises en exonération de la contribution
@@ -27,9 +27,13 @@ des I et III de l'article 1678 quinquies sont applicables à cette contribution.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 37 (V) JORF 31 décembre 2004
+  - Décret n°2005-330 2005-04-06
+
+_Modifié par_:
+
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Cité par_:
 
@@ -52,3 +56,7 @@ _Cite_:
 
   - CGI 224, 225, 225 A, 229, 226 bis, 227, 227 bis, 230 B, 230 C, 230 D, 230 G, 1678 quinquies
   - Code du travail - art. L118-2-4 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

@@ -9,8 +9,8 @@ contribution prévue à l'article 234 nonies est assise sur les recettes nettes 
 II. - La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles et sous les mêmes garanties et sanctions
 qu'en matière d'impôt sur les sociétés.
 
-III. - La contribution est payée spontanément au comptable du Trésor chargé du recouvrement des impôts directs, au plus tard
-à la date prévue au 2 de l'article 1668.
+III. - La contribution est payée spontanément au comptable de la direction générale des impôts, au plus tard à la date prévue
+au 2 de l'article 1668.
 
 Elle donne lieu au préalable, à la date prévue pour le paiement du dernier acompte d'impôt sur les sociétés de l'exercice ou
 de la période d'imposition, à un acompte égal à 2,5 % des recettes nettes définies au deuxième alinéa du I de l'article 234
@@ -20,14 +20,10 @@ Lorsque la somme due au titre d'un exercice ou d'une période d'imposition en ap
 la contribution dont l'entreprise prévoit qu'elle sera finalement redevable au titre de ce même exercice ou de cette même
 période, l'entreprise peut réduire ce versement à concurrence de l'excédent estimé.
 
-IV. - Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance mentionnée à l'article 220 quinquies et
-l'imposition forfaitaire annuelle mentionnée à l'article 223 septies ne sont pas imputables sur cette contribution.
+IV. - Les crédits d'impôt de toute nature ainsi que la créance mentionnée à l'article 220 quinquies et l'imposition
+forfaitaire annuelle mentionnée à l'article 223 septies ne sont pas imputables sur cette contribution.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - 234 quater
 
 _Cite_:
 
@@ -35,17 +31,13 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 74 (V) JORF 29 décembre 2001
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Loi - art. 21 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2005
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 74 F I
-  - HISTO: Edition du 31 mars 2002
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
+  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 21 III
+  - HISTO: Edition du 1er janvier 2005
 
 _Cité par_:
 

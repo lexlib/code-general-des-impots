@@ -10,9 +10,9 @@ dixième alinéa de l'article L. 442-5 du code précité. Les dispositions de l'
 
 Les revenus provenant de sommes attribuées au titre de la participation et recevant la même affectation qu'elles, sont
 exonérés dans les mêmes conditions. Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont
-définitivement exonérés à l'expiration de la période d'indisponibilité correspondante. Par dérogation aux dispositions du I
-de l'article 158 bis et de l'article 199 ter, les avoirs fiscaux et crédits d'impôt attachés à ces revenus sont restituables.
-Ils sont exonérés dans les mêmes conditions que ces revenus (1).
+définitivement exonérés à l'expiration de la période d'indisponibilité correspondante. Par dérogation aux dispositions de
+l'article 199 ter, les crédits d'impôt attachés à ces revenus sont restituables. Ils sont exonérés dans les mêmes conditions
+que ces revenus.
 
 Après l'expiration de la période d'indisponibilité, l'exonération est toutefois maintenue pour les revenus provenant de
 sommes utilisées pour acquérir des actions de l'entreprise ou versées à des organismes de placement extérieurs à l'entreprise
@@ -30,8 +30,6 @@ capital de leur entreprise dans les conditions prévues à l'article 83 bis.
 Pour ouvrir droit aux exonérations prévues au présent article, les accords de participation doivent avoir été déposés à la
 direction départementale du travail et de l'emploi du lieu où ils ont été conclus.
 
-(1) Annexe II, art. 81 bis.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -40,13 +38,9 @@ _Cite_:
   - Code du travail - art. L442-5 (M)
   - Code du travail - art. L443-6 (M)
 
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Loi - art. 93 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -57,5 +51,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2001-12-19 5F-20-01
+  - HISTO: Edition du 1er janvier 2005
