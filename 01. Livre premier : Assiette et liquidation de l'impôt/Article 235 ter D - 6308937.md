@@ -4,14 +4,22 @@ Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter C :
 
 a. Jusqu'au terme prévu par le contrat ou, à défaut, jusqu'à l'expiration d'une période de deux ans à compter de sa
 conclusion, les titulaires des contrats de travail définis aux articles L. 980-2 et L. 980-6 du code du travail, ne sont pas
-pris en compte ;    b. Les salariés à temps partiel sont pris en compte dans les conditions fixées par l'article L. 212-4-4
-du même code ;    c. L'effectif des salariés employés par les entreprises de travail temporaire est calculé en ajoutant au
-nombre des salariés permanents le nombre moyen par jour ouvrable des salariés qui ont été liés par un contrat de travail
-temporaire au cours de l'exercice.    d. Les titulaires de contrats de retour à l'emploi prévus à l'article L. 322-4-2 du
-code du travail ne sont pas pris en compte jusqu'à l'expiration d'une période d'un an à compter de la date d'embauche ;
+pris en compte ;
+
+b. Les salariés à temps partiel sont pris en compte dans les conditions fixées par l'article L. 212-4-4 du même code ;
+
+c. L'effectif des salariés employés par les entreprises de travail temporaire est calculé en ajoutant au nombre des salariés
+permanents le nombre moyen par jour ouvrable des salariés qui ont été liés par un contrat de travail temporaire au cours de
+l'exercice.
+
+d. Les titulaires de contrats de retour à l'emploi prévus à l'article L. 322-4-2 du code du travail ne sont pas pris en
+compte jusqu'à l'expiration d'une période d'un an à compter de la date d'embauche ;
 
 e. Les titulaires des contrats emploi-solidarité définis aux articles L. 322-4-7 et suivants du code du travail ne sont pas
 pris en compte pendant toute la durée du contrat.
+
+f. Les apprentis avec lesquels un contrat régulier d'apprentissage a été conclu dans les conditions prévues aux articles L.
+117-1 à L. 117-18 du code du travail ne sont pas pris en compte.
 
 **Liens relatifs à cet article**
 
@@ -23,16 +31,15 @@ _Cite_:
   - Code du travail - art. L322-4-7 (M)
   - Code du travail - art. L980-2 (T)
   - Code du travail - art. L980-6 (T)
+  - Code du travail L980-2, L980-6, L212-4-4, L322-4-2, L322-4-7, L117-1 à L117-18
 
 _Modifié par_:
 
-  - Loi n°89-905 du 19 décembre 1989 - art. 12 ()
-  - Loi n°89-905 du 19 décembre 1989 - art. 3 ()
-  - Loi n°89-905 du 19 décembre 1989 - art. 5 ()
+  - Loi n°85-772 du 25 juillet 1985 - art. 53 () JORF 26 juillet 1985
 
 _Codifié par_:
 
-  - Décret n°90-798 1990-09-10
+  - Décret n°91-883 1991-09-09
 
 _Cité par_:
 
