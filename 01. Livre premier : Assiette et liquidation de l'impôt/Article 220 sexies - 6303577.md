@@ -82,17 +82,33 @@ X. Pour l'application du présent article, les souscriptions en numéraire vers�
 et liées à une augmentation de capital décidée au cours de la même période sont réputées avoir été versées le 1er janvier
 1992.
 
-XI. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des sociétés. "
+X bis. Les dispositions du présent article ne sont pas applicables à la personne morale qui bénéficie du crédit d'impôt
+mentionné au I de l'article 220 septies.
+
+XI. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des sociétés (1).
+
+(1) Voir les articles 46 quater-0 YD et 46 quater-0 YE de l'annexe III.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 163 octies, 39 quinquies A, 238 bis HA, 238 bis HE, 1727
+  - CGI 163 octies, 39 quinquies A, 238 bis HA, 238 bis HE, 1727, 220 septies
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 94 () JORF 31 décembre 1991
+  - Loi - art. 51 (V) JORF 5 janvier 1993
+
+_Codifié par_:
+
+  - Décret n°93-1127 1993-09-24
+  - Décret n°98-400 1998-05-22
+
+**Liens**:
+
+  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 22 avril 1998
 
 _Cité par_:
 
@@ -119,7 +135,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YM (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YP (V)
-
-**Liens**:
-
-  - HISTO: Edition du 4 juillet 1992
