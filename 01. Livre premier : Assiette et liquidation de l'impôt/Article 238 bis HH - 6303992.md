@@ -1,7 +1,10 @@
 # Article 238 bis HH
 
 Les actions souscrites doivent obligatoirement revêtir la forme nominative. Une même personne ne peut détenir, directement ou
-indirectement, plus de 25 p. 100 [*pourcentage*] du capital d'une société définie à l'article 238 bis HE.
+indirectement, plus de 25 p. 100 du capital d'une société définie à l'article 238 bis HE. Cette dernière disposition n'est
+plus applicable après l'expiration d'un délai de cinq années à compter du versement effectif de la première souscription au
+capital agréée. Aucune augmentation du capital ne peut être agréée dans les conditions mentionnées aux articles 163
+septdecies et 217 septies lorsque la limite de 25 p. 100 est franchie.
 
 Lorsqu'elles sont inscrites au bilan d'une entreprise relevant de l'impôt sur le revenu, les actions des sociétés définies à
 cet article ne peuvent faire l'objet sur le plan fiscal d'une provision pour dépréciation.
@@ -10,16 +13,16 @@ cet article ne peuvent faire l'objet sur le plan fiscal d'une provision pour dé
 
 _Cite_:
 
-  - CGI 238 bis HE
-
-_Créé par_:
-
-  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - CGI 238 bis HE, 163 septdecies, 217 septies
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies C (V)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
+
+_Modifié par_:
+
+  - Loi - art. 109 (V) JORF 30 décembre 1990
