@@ -17,7 +17,7 @@ Le profit imposable est net des frais et taxes acquittés par le donneur d'ordre
 Les opérations qui ne sont pas dénouées au 31 décembre sont prises en compte pour la détermination du profit de l'année au
 cours de laquelle elles sont dénouées.
 
-3. Le 6 de l'article 94 A et les articles 96 A et 200 A sont applicables.
+3. Le 6 de l'article 94 A, l'article 96 A et le 2 de l'article 200 A sont applicables.
 
 4. Un décret fixe les obligations déclaratives incombant aux intermédiaires (1).
 
@@ -28,15 +28,23 @@ cours de laquelle elles sont dénouées.
 _Cite_:
 
   - CGI 94 A, 96 A, 200 A
-  - CGI Livre des procédures fiscales R96 C-3
-  - CGIAN3 41 septdecies P à S
+  - CGIAN3 41 septdecies P à 41 septdecies S
+  - Livre des procédures fiscales R96 C
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 23 (V) JORF 31 décembre 1991
+  - Loi n°92-666 1992-07-16 art. 6 JORF 18 juillet 1992
+
+_Codifié par_:
+
+  - Décret n°93-1127 1993-09-24
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies P (Ab)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies Q (Ab)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies R (Ab)
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
