@@ -6,9 +6,9 @@ cours de laquelle le bénéficiaire cède son entreprise individuelle, cesse son
 société créée ou reprise, ou au cours de laquelle la société créée ou reprise cesse son activité, si la cession ou cessation
 intervient dans les cinq ans qui suivent l'année du versement de l'aide.
 
-L'apport d'une entreprise individuelle à une société ne fait pas perdre le bénéfice de l'exonération prévue à l'alinéa
-précédent lorsque son bénéficiaire conserve l'ensemble des titres qu'il a reçus en contrepartie de l'apport jusqu'à la fin de
-la cinquième année qui suit celle du versement de l'aide et qu'il exerce effectivement le contrôle de la société. L'intéressé
+L'apport d'une entreprise individuelle à une société ne fait pas perdre le bénéfice de l'exonération prévue au premier alinéa
+lorsque son bénéficiaire conserve l'ensemble des titres qu'il a reçus en contrepartie de l'apport jusqu'à la fin de la
+cinquième année qui suit celle du versement de l'aide et qu'il exerce effectivement le contrôle de la société. L'intéressé
 est considéré comme exerçant le contrôle :
 
 a. Lorsqu'il détient plus de la moitié du capital ;
@@ -21,13 +21,20 @@ p. 100 dans le cas prévu au b. Un décret en Conseil d'Etat précise en tant qu
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 4 juillet 1992
+  - Décret n°96-556 1996-06-21
+  - Décret n°99-382 1999-05-18
 
 _Modifié par_:
 
-  - Loi - art. 4 () JORF 31 décembre 1991
+  - Décret n°96-556 du 21 juin 1995 - art. 1 () JORF 23 juin 1996
+
+**Liens**:
+
+  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 31 mars 1999
 
 _Cite_:
 

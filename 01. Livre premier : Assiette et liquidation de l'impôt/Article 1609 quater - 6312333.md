@@ -1,8 +1,9 @@
 # Article 1609 quater
 
-Le comité d'un syndicat de communes peut décider, dans les conditions prévues à l'article L 251-4 du code des communes, de
-lever les impositions mentionnées aux 1° à 4°  du I de l'article 1379 en remplacement de la contribution des communes
-associées ; la répartition de ces impositions s'effectue suivant les modalités définies au IV de l'article 1636 B octies.
+Le comité d'un syndicat de communes peut décider, dans les conditions prévues à ((l'article L 5212-20 du code général des
+collectivités territoriales)) (M), de lever les impositions mentionnées aux 1° à 4°  du I de l'article 1379 en remplacement
+de la contribution des communes associées ; la répartition de ces impositions s'effectue suivant les modalités définies au IV
+de l'article 1636 B octies.
 
 Ces dispositions sont applicables aux syndicats mixtes ne comprenant d'autres personnes morales que des communes, des
 syndicats de communes ou des districts.
@@ -11,19 +12,27 @@ Les syndicats de communes et les syndicats mixtes sont substitués aux communes 
 ordures ménagères ou des redevances prévues à l'article 1520, lorsqu'ils assurent la collecte ainsi que la destruction ou le
 traitement des ordures ménagères.
 
+(M) Modification de la loi 96-142.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1379 I 1°, 2°, 3°, 4°
-  - CGI 1520
-  - CGI 1636 B octies IV
-  - CODE DES COMMUNES. - art. L251-4 (Ab)
+  - CGI 1379, 1636 B octies, 1520
+  - Loi n°96-142 1996-02-21
+  - Code général des collectivités territoriales - art. L5212-20 (M)
 
 **Liens**:
 
-  - TXT_ASSOCIE: CGI 1636 B quinquies
-  - HISTO: Edition  du 1er septembre 1982
+  - HISTO: Edition du 12 mai 1996
+
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
+
+_Codifié par_:
+
+  - Décret n°96-556 1996-06-21
 
 _Cité par_:
 
@@ -31,7 +40,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1636 B undecies (M)
   - Code général des impôts, CGI. - art. 1636 C (V)
   - Code général des impôts, CGI. - art. 1647-0 B septies (MMN)
-
-_Codifié par_:
-
-  - Décret n°82-881 1982-10-15
