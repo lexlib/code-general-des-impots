@@ -19,18 +19,25 @@ inscrite au cours le plus récent des titres à la date du prêt ; elle est éva
 la clôture de l'exercice. Lors de leur restitution, les titres sont repris au compte de titres de transaction pour la valeur
 de la créance à cette date.
 
+Les dispositions du premier et du troisième alinéa du présent article s'appliquent aux titres de créances négociables sur un
+marché réglementé ainsi qu'aux instruments du marché interbancaire. Si les titres n'ont pas été cédés dans un délai de six
+mois, les dispositions du premier alinéa cessent de s'appliquer (1).
+
+(1) Ces dispositions s'appliquent pour la détermination des résultats imposables des exercices clos à compter du 31 décembre
+1990.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 38
   - CGI 39 duodecies
-  - Loi n°84-46 1984-01-24 art. 99
   - Loi n°87-416 1987-06-17 art. 31
+  - Loi n°84-46 1984-01-24 art. 99
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 25 () JORF 28 décembre 1988, en vigueur le 1er janvier 1989
+  - Loi n°90-1169 du 29 décembre 1990 - art. 29 (V) JORF 30 décembre 1990
 
 _Cité par_:
 
@@ -39,3 +46,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 (V)
   - Code général des impôts, CGI. - art. 38 bis B (VD)
   - Code général des impôts, CGI. - art. 38 bis C (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
