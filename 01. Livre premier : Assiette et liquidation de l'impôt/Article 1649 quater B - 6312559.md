@@ -5,7 +5,8 @@ service, doit être opéré soit par chèque répondant aux caractéristiques de
 voie d'endossement mentionné à l'article L. 96 du livre des procédures fiscales, soit par tout autre moyen inscrivant le
 montant réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise d'investissement ou une institution
 mentionnée à l'article 8 modifié de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit. 
+établissements de crédit. Toutefois, les dispositions du présent alinéa ne font pas obstacle au paiement d'un acompte, réglé
+par tout moyen, dans la limite de 3 000 F.
 
 Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en France peuvent continuer d'effectuer le
 règlement de tout bien ou service d'un montant supérieur à 20 000 F en chèque de voyage ou en espèces, après relevé, par le
@@ -19,6 +20,11 @@ Tout versement d'une prime ou d'une cotisation d'assurance au titre d'un contrat
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1999-06-03 13K-7-99
+  - TXT_ASSOCIE: Instruction 2000-02-8 13K-3-00
+
 _Cite_:
 
   - Loi n°84-46 1984-01-24 art. 8
@@ -26,15 +32,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 101 () JORF 31 décembre 1999
-  - Loi - art. 102 () JORF 31 décembre 1999
+  - Loi - art. 84 () JORF 31 décembre 2000
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 199 quater C (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 1999-06-03 13K-7-99
-  - TXT_ASSOCIE: Instruction 2000-02-08 13K-3-00
