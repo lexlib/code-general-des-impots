@@ -1,10 +1,11 @@
 # Article 52 ter
 
-I - Par dérogation aux dispositions des articles 50 et 51, les contribuables soumis au régime du bénéfice forfaitaire
-agricole qui perçoivent des recettes provenant d'une activité de tourisme à la ferme ou de l'accomplissement de travaux
-forestiers pour le compte de tiers, n'excédant pas, par foyer fiscal, 100.000 F [*montant, limite*] remboursements de frais
-inclus et taxes comprises, peuvent porter directement sur la déclaration prévue à l'article 170 le montant brut de ces
-recettes commerciales.
+I Par dérogation aux dispositions des articles 50 et 51, les contribuables soumis au régime du bénéfice forfaitaire agricole
+qui perçoivent des recettes provenant d'une activité de tourisme à la ferme ou de l'accomplissement de travaux forestiers
+pour le compte de tiers, ou d'une activité accessoire de nature commerciale ou artisanale au sens de l'article 34, située
+dans le prolongement direct de l'activité agricole n'excédant pas, par foyer fiscal, 100.000 F [*montant, limite*] (1)
+remboursements de frais inclus et taxe comprises, peuvent porter directement sur la déclaration prévue à l'article 170 le
+montant brut de ces recettes commerciales.
 
 Dans ce cas, le bénéfice provenant de ces activités est déterminé sous déduction d'un abattement de 50 p. 100
 [*pourcentage*].
@@ -14,20 +15,20 @@ moitié de la surface minimum d'installation prévue à l'article 188-4 du code 
 
 Elles ne peuvent se cumuler avec l'exonération prévue au II de l'article 35 bis.
 
+(1) Limite applicable pour les exercices clos à compter du 1er janvier 1987.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 170
-  - CGI 35 bis II
-  - CGI 50
-  - CGI 51
+  - CGI 50, 51, 34, 170, 35 bis
   - Code rural 188-4
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1992-10-02 4G-3-92
 
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 15 () JORF 31 décembre 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Loi - art. 54 () JORF 31 décembre 1991
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
