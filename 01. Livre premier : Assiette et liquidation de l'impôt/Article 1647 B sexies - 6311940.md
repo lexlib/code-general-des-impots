@@ -1,6 +1,6 @@
 # Article 1647 B sexies
 
-I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4,5 % [*pourcentage*]
+I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4 % [*pourcentage*]
 de la valeur ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les
 modalités prévues aux II et III (1).
 
@@ -82,7 +82,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 31 (V) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 7
 
 _Cité par_:
 
