@@ -20,9 +20,9 @@ la société civile professionnelle en société d'exercice libéral. Il est mis
 b. L'imposition des plus-values afférentes aux autres immobilisations est effectuée au nom de la société bénéficiaire de
 l'apport selon les modalités prévues au d du 3 de l'article 210 A pour les fusions de sociétés.
 
-Par dérogation au b du premier alinéa, l'apporteur peut opter pour l'imposition au taux prévu au 1 du I de l'article 39
-quindecies de la plus-value à long terme globale afférente à ses immobilisations amortissables ; dans ce cas, le montant des
-réintégrations prévues au b du premier alinéa est réduit à due concurrence.
+Par dérogation au b, l'apporteur peut opter pour l'imposition au taux prévu au 1 du I de l'article 39 quindecies de la plus-
+value à long terme globale afférente à ses immobilisations amortissables ; dans ce cas, le montant des réintégrations prévues
+au b est réduit à due concurrence.
 
 Les profits afférents aux stocks ne sont pas imposés au nom de l'apporteur si la société bénéficiaire de l'apport inscrit ces
 stocks à l'actif de son bilan à la valeur comptable pour laquelle ils figurent au dernier bilan de l'entreprise apporteuse.
@@ -37,9 +37,9 @@ l'ensemble des éléments de l'actif immobilisé à l'exception des immeubles, s
 la société bénéficiaire de l'apport dans le cadre d'un contrat écrit et enregistré visé aux articles L. 411-1, L. 411-2 et L.
 416-1 du code rural.
 
-Lorsque les immeubles mentionnés au sixième alinéa cessent d'être mis à disposition de la société bénéficiaire de l'apport,
+Lorsque les immeubles mentionnés au neuvième alinéa cessent d'être mis à disposition de la société bénéficiaire de l'apport,
 les plus-values, non encore imposées, afférentes aux éléments non amortissables sont comprises dans les bases de l'impôt dû
-par les personnes physiques mentionnées aux premier et deuxième alinéas, au titre de l'année au cours de laquelle cette mise
+par les personnes physiques mentionnées aux premier à cinquième alinéas, au titre de l'année au cours de laquelle cette mise
 à disposition a cessé ; les plus-values et les profits afférents aux autres éléments apportés qui n'ont pas encore été soumis
 à l'impôt ainsi que les provisions afférentes à l'ensemble des éléments apportés qui n'ont pas encore été reprises sont
 rapportés aux résultats de la société bénéficiaire de l'apport au titre de l'exercice au cours duquel la mise à disposition a
@@ -68,7 +68,7 @@ de cet état.
 III. Les dispositions de l'article 41 et du II de l'article 93 quater ne s'appliquent pas aux plus-values constatées à
 l'occasion d'apports en sociétés visées aux I et II du présent article.
 
-IV. (Abrogé)
+IV. (Abrogé à compter du 1er janvier 2000).
 
 **Liens relatifs à cet article**
 
@@ -77,10 +77,13 @@ _Cite_:
   - CGI 39 duodecies à 39 quindecies, 210 A, 41, 93 quater, 151 octies A
   - Code rural L411-1, L411-2, L416-1
 
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
 _Modifié par_:
 
-  - Loi - art. 19 (V) JORF 31 décembre 1999
-  - Loi - art. 20 (V) JORF 31 décembre 1999
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -114,6 +117,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 2001-06-07 4B-1-01
   - TXT_ASSOCIE: Instruction 2002-01-17 4I-1-02
+  - TXT_ASSOCIE: Instruction 2003-04-15 4B-1-03

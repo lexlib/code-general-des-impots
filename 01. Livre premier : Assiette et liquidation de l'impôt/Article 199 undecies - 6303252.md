@@ -45,7 +45,7 @@ La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions a
 départements d'outre-mer des investissements productifs dans le secteur de la maintenance au profit d'activités industrielles
 et dans celui de la production et de la diffusion audiovisuelles et cinématographiques.
 
-Un décret détermine les conditions d'application de l'alinéa précédent (2).
+Un décret détermine les conditions d'application du neuvième alinéa (2).
 
 La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions en numéraire au capital de sociétés mentionnées au
 troisième alinéa du II de l'article 217 undecies.
@@ -78,13 +78,13 @@ La réduction d'impôt est portée à 50 p. 100 de la base définie au premier a
 conditions suivantes sont réunies :
 
 1° Les investissements sont réalisés à compter du 1er juillet 1996 et consistent en l'acquisition ou la construction de
-logements neufs à usage locatif ou la souscription au capital de sociétés visées aux b et c du deuxième alinéa du 1 et qui
-ont pour objet de construire ou d'acquérir de tels logements ;
+logements neufs à usage locatif ou la souscription au capital de sociétés visées aux b et c du 1 et qui ont pour objet de
+construire ou d'acquérir de tels logements ;
 
 2° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si
 elle est postérieure et pendant six ans au moins à des personnes qui en font leur habitation principale. En cas de
-souscription au capital de sociétés visées aux b et c du deuxième alinéa du 1, le contribuable s'engage à conserver ses parts
-ou actions pendant au moins six ans ;
+souscription au capital de sociétés visées aux b et c du 1, le contribuable s'engage à conserver ses parts ou actions pendant
+au moins six ans ;
 
 3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret (3).
 
@@ -94,8 +94,8 @@ l'objet d'une reprise au titre de l'année où interviennent les événements pr
 applicables si les investissements productifs sont compris dans un apport partiel d'actif réalisé sous le bénéfice de
 l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A,
 à la condition que la société bénéficiaire de l'apport, ou la société absorbante selon le cas, réponde aux conditions du 1 et
-s'engage dans l'acte d'apport ou de fusion à respecter les engagements mentionnés au troisième alinéa du 1 pour la fraction
-du délai restant à courir (4).
+s'engage dans l'acte d'apport ou de fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour la fraction du
+délai restant à courir (4).
 
 Quand un contribuable pratique la réduction d'impôt définie au présent article, les dispositions du a du 1° du I de l'article
 199 sexies et des articles 199 nonies à 199 decies B ne sont pas applicables.
@@ -110,6 +110,8 @@ immeubles acquis en l'état futur d'achèvement avant le 1er janvier 1986.
 collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
 
 7. Les dispositions du 5 du I de l'article 197 sont applicables.
+
+**Nota:**
 
 (1) Voir également l'article 170 decies de l'annexe IV.
 
@@ -128,9 +130,20 @@ _Cite_:
 
   - CGI 217 undecies, 210 B, 210 A, 199 sexies, 199 nonies à 199 decies B, 197
 
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+  - Décret n°2003-933 2003-09-30
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - PEREMPTION: Décret n°2003-933 du 30 septembre 2003 - art. 1 () JORF 2 octobre 2003
+  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 1999-01-25 5B-5-99
   - TXT_ASSOCIE: Instruction 1999-01-29 4A-1-99
   - TXT_ASSOCIE: Instruction 1999-06-17 5B-14-99
@@ -138,10 +151,10 @@ _Cite_:
   - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
   - TXT_ASSOCIE: Instruction 2000-03-06 5B-13-00
   - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - TXT_ASSOCIE: Instruction 2002-05-21 4A-5-02
+  - TXT_ASSOCIE: Instruction 2002-05-21 5B-11-02
+  - TXT_ASSOCIE: Instruction 2003-03-24 4A-4-03
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Cité par_:
 
