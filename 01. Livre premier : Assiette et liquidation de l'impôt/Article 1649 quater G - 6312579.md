@@ -1,26 +1,31 @@
 # Article 1649 quater G
 
-Les documents tenus par les adhérents des associations définies à l'article 1649 quater F en application de l'article 99 ou
-101 bis du présent code doivent être établis conformément à l'un des plans comptables professionnels agréés par le ministre
-de l'économie et des finances (1).
+Les documents tenus par les adhérents des associations définies à l'article 1649 quater F en application de l'article 99 du
+présent code doivent être établis conformément à l'un des plans comptables professionnels agréés par le ministre de
+l'économie et des finances. 
 
 Les documents comptables mentionnés au premier alinéa comportent, quelle que soit la profession exercée par l'adhérent,
-l'identité du client ainsi que le montant, la date et la forme du versement des honoraires (2).
+l'identité du client ainsi que le montant, la date et la forme du versement des honoraires.
 
-(1) Annexe IV, art. 164 F tervicies.
+**Nota:**
 
-(2) Voir également livre des procédures fiscales, art. L. 86 A.
+Loi 98-1266 1998-12-30 art. 7 IV : Ces dispositions sont applicables pour la détermination des résultats des années 1999 et
+suivantes.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1649 quater F, 99
-  - Livre des procédures fiscales - art. L86 A (M)
-
 _Modifié par_:
 
-  - Loi n°82-1126 du 29 décembre 1982 - art. 73 () JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+  - Loi - art. 7 (V) JORF 31 décembre 1998
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 quater F (V)
+  - Code général des impôts, CGI. - art. 99 (V)
 
 _Cité par_:
 

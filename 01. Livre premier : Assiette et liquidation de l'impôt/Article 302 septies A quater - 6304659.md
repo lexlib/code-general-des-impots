@@ -1,32 +1,42 @@
 # Article 302 septies A quater
 
-Les titulaires de bénéfices non commerciaux redevables de la taxe sur la valeur ajoutée sont, pour la liquidation de cette
-taxe, placés soit sous le régime du forfait, soit sous un régime réel selon que leurs bénéfices sont déterminés par
-évaluation administrative ou par déclaration contrôlée. Dans le premier cas, le forfait de chiffre d'affaires est fixé pour
-un an dans les conditions et suivant la procédure décrite par l'article 102 et le 1 bis de l'article 302 ter et les articles
-L. 7 et L. 8 du livre des procédures fiscales.
-
 Lorsque les titulaires de bénéfices non commerciaux réalisent, dans une même entreprise, des recettes non commerciales et des
 recettes commerciales, il est fait masse de l'ensemble des recettes pour déterminer la limite au-delà de laquelle la
 déclaration contrôlée est obligatoire en application du I de l'article 96. Si cette limite est franchie, le bénéfice non
-commercial fait l'objet d'une déclaration contrôlée et le bénéfice commercial doit être déterminé selon un régime réel. Dans
-le cas contraire, le bénéfice non commercial donne lieu à une évaluation administrative et le régime du forfait est
-applicable au bénéfice commercial ; ce forfait est fixé pour un an dans les conditions et suivant la procédure décrite par
-l'article 102 et le 1 bis de l'article 302 ter et les articles L. 7 et L. 8 du livre des procédures fiscales.
+commercial fait l'objet d'une déclaration contrôlée et le bénéfice commercial doit être déterminé selon un régime réel.
+((Dans le cas contraire, le bénéfice est déterminé dans les conditions prévues à l'article 50-0 ou à l'article 102 ter, selon
+le cas)) (M) (1).
 
 Cependant, la déclaration contrôlée des bénéfices non commerciaux est obligatoire si le contribuable opte pour un régime réel
-simplifié pour l'imposition de son chiffre d'affaires ou de son bénéfice commercial.
+pour l'imposition de son chiffre d'affaires ou de son bénéfice commercial.
 
-Les contribuables soumis à un régime forfaitaire sont tenus d'adresser à l'administration, avant le 1er mars de chaque année,
-une déclaration conforme au modèle fixé par le ministre délégué auprès du ministre chargé du budget.
+(M) Modification.
+
+(1) Ces dispositions sont applicables pour la détermination des résultats des années 1999 et suivantes.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - CGI 96 B
+
 _Cite_:
 
-  - CGI 102, 302 ter, 96
-  - CGI Livre des procédures fiscales L7, L8
+  - CGI 96, 50-0, 102 ter
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°81-1160 du 30 décembre 1981 - art. 103 (P) JORF 31 DECEMBRE 1981 en vigueur le 1er janvier 1982
+  - Loi - art. 7 (V) JORF 31 décembre 1998
+
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
+
+_Transféré par_:
+
+  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+  - HISTO: Edition du 31 mars 2000

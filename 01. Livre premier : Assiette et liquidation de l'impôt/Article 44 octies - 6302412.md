@@ -19,8 +19,8 @@ dans les zones de redynamisation urbaine définies aux I bis et I ter de l'artic
 territoire.
 
 II. Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux
-articles 50-0, 53 A, 96 à 100, 102 ter et 103, ou fixé conformément à l'article 50, ou évalué conformément aux articles 101,
-101 bis et 102, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
+articles 50-0, 53 A, 96 à 100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions
+de droit commun :
 
 a) produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8,
 lorsqu'ils ne proviennent pas d'une activité exercée dans l'une des zones franches urbaines, et résultats de cession des
@@ -30,7 +30,8 @@ b) produits correspondant aux subventions, libéralités et abandons de créance
 
 c) produits de créances et d'opérations financières pour le montant qui excède le montant des frais financiers engagés au
 cours du même exercice ou de la même année d'imposition, si le contribuable n'est pas un établissement de crédit visé à
-l'article 1er de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ;
+l'article 1er de la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative à l'activité et au contrôle des établissements
+de crédit ;
 
 d) produits tirés des droits de la propriété industrielle et commerciale, lorsque ces droits n'ont pas leur origine dans
 l'activité exercée dans l'une des zones franches urbaines.
@@ -60,31 +61,19 @@ quatrième alinéa du II du présent article, dans la limite du résultat d'ense
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 sexies et du régime
 prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois qui suivent celui de la
 délimitation de la zone s'il y exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant celui du début
-d'activité. L'option est irrévocable (1).    IV. Les obligations déclaratives des personnes et organismes concernés par
-l'exonération sont fixées par décret.
+d'activité. L'option est irrévocable.
 
-(1) Les obligations déclaratives des personnes et organismes concernés par les exonérations prévues au présent article sont
-fixées par décret.
+IV. Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 34, 35, 92, 44 sexies, 1465 A, 1466 A, 50-0, 53 A, 96 à 100, 102 ter, 103, 50, 101, 101 bis, 102, 8, 1467, 223 I
+  - CGI 34, 35, 92, 44 sexies, 1465 A, 1466 A, 50-0, 53 A, 96 à 100, 102 ter, 103, 8, 1467, 223 I
   - Loi n°84-46 1984-01-24 art. 1
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-
-_Créé par_:
-
-  - Loi n°96-987 1996-11-14 art. 2, art. 5 A, C JORF 15 novembre 1996
-  - Loi n°96-987 du 14 novembre 1996 - art. 2 () JORF 15 novembre 1996
-  - Loi n°96-987 du 14 novembre 1996 - art. 5 () JORF 15 novembre 1996
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°96-987 1996-11-14 art. 5 C
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1997-03-14 4A-7-97
 
 _Cité par_:
 
@@ -118,6 +107,17 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 N (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 P (V)
 
+_Modifié par_:
+
+  - Loi n°98-261 du 6 avril 1998 - art. 7 () JORF 7 avril 1999
+  - Loi - art. 7 (V) JORF 31 décembre 1998
+  - Loi n°98-1266 1998-12-30 art. 7 II 3, IV Finances pour 1999 JORF 31 décembre 1998
+
 _Codifié par_:
 
-  - Décret n°97-661 1997-05-28
+  - Décret n°99-382 1999-05-18
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1997-03-14 4A-7-97

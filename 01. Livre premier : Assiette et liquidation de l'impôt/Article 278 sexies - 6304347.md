@@ -2,32 +2,28 @@
 
 I. La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 p. 100 en ce qui concerne :
 
-1. Les ventes, les apports en société de terrains à bâtir et de biens assimilés à ces terrains par les 1° et 3° du I de
-l'article 691 aux organismes d'habitations à loyer modéré visés à l'article L. 411-2 du code de la construction et de
-l'habitation, ainsi qu'aux personnes bénéficiaires des aides de l'Etat prévues aux articles L. 301-1 et suivants du même code
-pour la construction de logements visés au 3° de l'article L. 351-2 du même code et de logements financés au moyen d'un prêt
-aidé par l'Etat destiné à l'accession à la propriété prévu par l'article R. 331-32 du même code. Le taux réduit de 5,5 p. 100
-s'applique également aux indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de
-propriété ou de jouissance.
+1. Les ventes et les apports en société de terrains à bâtir et de biens assimilés à ces terrains par les 1° et 3° du I de
+l'article 1594-0 G consentis aux organismes d'habitations à loyer modéré visés à l'article L. 411-2 du code de la
+construction et de l'habitation ou aux personnes bénéficiaires, au moment de la vente ou de l'apport, d'un prêt mentionné à
+l'article R. 331-1 du même code pour la construction de logements visés aux 3° et 5° de l'article L. 351-2 du même code.
+
+Le taux réduit de 5,5 % s'applique également aux indemnités de toute nature perçues par les personnes qui exercent sur ces
+immeubles un droit de propriété ou de jouissance.
 
 2. Les livraisons à soi-même mentionnées au dernier alinéa du c du 1 du 7° de l'article 257 de logements sociaux à usage
-locatif mentionnés au 3° de l'article L. 351-2 du code de la construction et de l'habitation dont la construction a été
-financée au moyen d'un prêt prévu à l'article R. 331-1 du même code qui bénéficient de la décision favorable prise dans les
-conditions prévues aux articles R. 331-3 et R. 331-6 du même code.
+locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation dont la construction a
+été financée au moyen d'un prêt prévu à l'article R. 331-1 du même code qui bénéficient de la décision favorable prise dans
+les conditions prévues aux articles R. 331-3 et R. 331-6 du même code.
 
-3. Les ventes de logements sociaux neufs à usage locatif mentionnés au 3° de l'article L. 351-2 du code de la construction et
-de l'habitation et qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
-331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de cette date,
-lorsque l'acquéreur bénéficie pour cette acquisition d'un prêt prévu à l'article R. 331-1 du même code et a conclu avec
-l'Etat une convention en application du 3° de l'article L. 351-2 du même code.
+3. Les ventes de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
+construction et de l'habitation et qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R.
+331-3 et R. 331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de
+cette date, lorsque l'acquéreur bénéficie pour cette acquisition d'un prêt prévu à l'article R. 331-1 du même code et a
+conclu avec l'Etat une convention en application du 3° et du 5° de l'article L. 351-2 du même code.
 
-((4. Les livraisons à soi-même mentionnées au 7° bis de l'article 257.)) (M)
+4. Les livraisons à soi-même mentionnées au 7° bis de l'article 257.
 
-II. Les acquisitions de terrains visés au 3 du 7° de l'article 257 sont soumises au taux réduit de 5,50 p. 100 lorsqu'elles
-sont réalisées par des personnes physiques bénéficiaires d'un prêt aidé par l'Etat destiné à l'accession à la propriété prévu
-par l'article R. 331-32 du code de la construction et de l'habitation.
-
-(M) Modification.
+II. Abrogé.
 
 **Liens relatifs à cet article**
 
@@ -66,22 +62,32 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 14 () JORF 31 décembre 1997
+  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 15, art. 111 III, IV JORF 3 juillet 1998
+  - Loi n°98-546 du 2 juillet 1998 - art. 111 () JORF 3 juillet 1998
+  - Loi - art. 40 (V) JORF 31 décembre 1998
+  - Loi n°98-1266 1998-12-30 art. 39 I 23, art. 40 II, IV, V Finances pour 1999 JORF 31 décembre 1998
+
+_Codifié par_:
+
+  - Décret n°99-382 1999-05-18
 
 _Cite_:
 
-  - CGI 691, 257
-  - Code de la construction et de l'habitation. - art. L301-1 (M)
+  - CGI 257, 1594-0 G
   - Code de la construction et de l'habitation. - art. L351-2 (M)
   - Code de la construction et de l'habitation. - art. L411-2 (M)
   - Code de la construction et de l'habitation. - art. R331-1 (M)
   - Code de la construction et de l'habitation. - art. R331-3 (M)
-  - Code de la construction et de l'habitation. - art. R331-32 (M)
   - Code de la construction et de l'habitation. - art. R331-6 (M)
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1997-02-18 8A-1-97
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1998-01-18 8A-1-99
   - TXT_ASSOCIE: Instruction 1998-05-18 8A-1-98
   - TXT_ASSOCIE: Instruction 1998-06-05 8A-2-98
+  - TXT_ASSOCIE: Instruction 1998-06-30 8A-3-98
+  - TXT_ASSOCIE: Instruction 1999-01-18 8A-2-99
+  - TXT_ASSOCIE: Instruction 1999-06-10 8A-5-99
+  - TXT_ASSOCIE: Instruction 1999-09-14 8A-7-99
+  - TXT_ASSOCIE: Instruction 2001-11-19 8A-2-01
