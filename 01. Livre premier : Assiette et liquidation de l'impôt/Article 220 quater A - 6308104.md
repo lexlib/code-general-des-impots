@@ -13,8 +13,8 @@ la société (2).
 
 Le crédit d'impôt prévu au présent article ne constitue pas un produit imposable pour la détermination du résultat de la
 société créée. Les intérêts qui servent de base au calcul du crédit d'impôt ne constituent pas une charge déductible pour la
-détermination de ce résultat imposable. Si le crédit d'impôt est limité par application des dispositions de l'alinéa
-précédent, le montant non déductible est réduit dans la même proportion.
+détermination de ce résultat imposable. Si le crédit d'impôt est limité par application des dispositions du deuxième alinéa,
+le montant non déductible est réduit dans la même proportion.
 
 Les actions de la société nouvelle peuvent bénéficier d'un droit de vote double dès leur émission.
 
@@ -88,11 +88,6 @@ _Cite_:
   - CGI 34, 92 1, 83 bis II, 1740 quinquies
   - CGIAN3 46 quater-0 RA, 46 quater-0 RC, 46 quater-0 RD, 46 quater-0 RE, 46 quater-0 RG
 
-_Modifié par_:
-
-  - Loi - art. 84 () JORF 30 décembre 1990
-  - Loi n°90-1169 du 29 décembre 1990 - art. 25 () JORF 30 décembre 1990
-
 _Cité par_:
 
   - Loi n°90-1258 du 31 décembre 1990 - art. 5 (V)
@@ -114,6 +109,14 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 S (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 W (V)
 
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
 **Liens**:
 
-  - HISTO: Edition du 24 juin 1991
+  - HISTO: Edition du 31 mars 2002

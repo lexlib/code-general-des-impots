@@ -6,12 +6,13 @@ II. – Les produits des taxes spéciales d'équipement perçues au profit des �
 L. 324-1 du code de l'urbanisme, de l'établissement public d'aménagement de la Basse-Seine, de l'établissement public de la
 métropole lorraine, de l'établissement public foncier du Nord - Pas-de-Calais, de l'établissement public d'aménagement de la
 Guyane, des agences pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques en Guadeloupe
-et en Martinique et de l'établissement public foncier de l'Ouest Rhône-Alpes sont répartis entre les taxes foncières, la taxe
-d'habitation et la taxe professionnelle proportionnellement aux recettes que chacune de ces taxes a procurées l'année
-précédente à l'ensemble des communes et de leurs groupements situés dans le ressort de ces établissements.
+et en Martinique, de l'établissement public foncier de l'Ouest Rhône-Alpes et de l'établissement public foncier de Provence-
+Alpes-Côte d'Azur sont répartis entre les taxes foncières, la taxe d'habitation et la taxe professionnelle
+proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble des communes et de
+leurs groupements situés dans le ressort de ces établissements.
 
 III. – Pour l'application du II, les recettes s'entendent de celles figurant dans des rôles généraux ainsi que de la
-compensation prévue au D de l'article 44 modifié de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) versée au
+compensation prévue au D de l'article 44 modifié de la loi de finances pour 1999, n° 98-1266 du 30 décembre 1998, versée au
 titre de l'année précédente en contrepartie de la suppression de la part des salaires et rémunérations visés au b du 1° de
 l'article 1467 dans la base d'imposition à la taxe professionnelle.
 
@@ -39,8 +40,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 26 () JORF 31 décembre 1999
-  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+  - Loi - art. 36 (V) JORF 29 décembre 2001
 
 _Cité par_:
 
@@ -54,5 +54,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 1999-06-29 6F-4-99

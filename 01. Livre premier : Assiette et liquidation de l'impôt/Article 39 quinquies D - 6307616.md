@@ -8,12 +8,12 @@ la valeur résiduelle étant amortissable sur la durée normale d'utilisation.
 
 Les dispositions du premier alinéa s'appliquent aux entreprises qui, à la date d'achèvement de l'immeuble :
 
-1) Emploient moins de 250 salariés ;
+1. Emploient moins de 250 salariés ;
 
-2) Réalisent un chiffre d'affaires hors taxes de moins de 140 millions de francs ou dont le total du bilan est inférieur à 70
-millions de francs ;
+2. Réalisent un chiffre d'affaires hors taxes de moins de 21 400 000 euros ou dont le total du bilan est inférieur à 10 700
+000 euros ;
 
-3) Ne sont pas détenues à plus de 25 p. 100 par des entreprises ne répondant pas à ces conditions.
+3. Ne sont pas détenues à plus de 25 p. 100 par des entreprises ne répondant pas à ces conditions.
 
 **Liens relatifs à cet article**
 
@@ -21,15 +21,17 @@ _Cite_:
 
   - CGI 1465 A, 1466 A
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-
-_Modifié par_:
-
-  - Loi - art. 92 () JORF 31 décembre 1999
-
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 239 sexies D (V)
   - Livre des procédures fiscales - art. L80 B (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
