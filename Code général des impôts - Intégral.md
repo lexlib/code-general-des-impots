@@ -1,15 +1,15 @@
 # Code général des impôts  
-Version Consolidée au 1983-07-21
+Version Consolidée au 1983-10-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 1 à 248 C)](#3)
-        - [Chapitre premier : Impôt sur le revenu (art. 1 à 201 ter)](#4)
+        - [Chapitre premier : Impôt sur le revenu (art. 1 à 203)](#4)
           - [Section I : Dispositions générales (art. 1 à 11)](#5)
             - [I : Personnes imposables (art. 4 A à 8 ter)](#6)
             - [II : Lieu d'imposition (art. 10 à 11)](#7)
           - [Section II : Revenus imposables (art. 12 à 164 B)](#8)
-            - [Définition générale du revenu imposable (art. 12)](#9)
+            - [Définition générale du revenu imposable (art. 12 à 13)](#9)
             - [1re Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 14 à 155)](#10)
               - [I : Revenus fonciers (art. 14 à 33 quater)](#11)
                 - [1 : Définition des revenus fonciers (art. 14)](#12)
@@ -104,8 +104,8 @@ Version Consolidée au 1983-07-21
                   - [Exonérations. (art. 150 D)](#101)
               - [VIII : Dispositions communes aux différentes catégories de revenus (art. 155 A)](#102)
                 - [6 : Sommes perçues par une personne domiciliée ou établie hors de France. (art. 155 A)](#103)
-            - [2e Sous-section : Revenu global (art. 158 bis à 167)](#104)
-              - [I : Revenu imposable (art. 158 bis à 163 quindecies)](#105)
+            - [2e Sous-section : Revenu global (art. 157 bis à 167)](#104)
+              - [I : Revenu imposable (art. 157 bis à 163 quindecies)](#105)
                 - [b : Détaxation du revenu investi en actions (art. 163 decies à 163 quaterdecies)](#106)
                   - [1° : Régime applicable du 1er juin 1978 au 31 décembre 1981. (art. 163 decies à 163 terdecies)](#107)
                   - [2° : Régime applicable du 1er janvier au 31 décembre 1982. (art. 163 quaterdecies)](#108)
@@ -123,7 +123,7 @@ Version Consolidée au 1983-07-21
             - [II : Impôt sur le revenu (art. 193 bis à 199 quinquies F)](#120)
               - [1° : Imputation des retenues à la source et crédits d'impôt (art. 199 quater A à 199 ter A)](#121)
               - [Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions. (art. 199 quinquies A à 199 quinquies F)](#122)
-          - [Section VI : Dispositions spéciales applicables en cas de cession, de cessation ou de décès (art. 201 ter)](#123)
+          - [Section VI : Dispositions spéciales applicables en cas de cession, de cessation ou de décès (art. 201 ter à 203)](#123)
         - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 205 à 223 ter)](#124)
           - [Section I : Généralités (art. 205)](#125)
           - [Section II : Champ d'application de l'impôt (art. 208 ter à 208 ter B)](#126)
@@ -972,7 +972,7 @@ Version Consolidée au 1983-07-21
       - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis)](#969)
   - [RECOUVREMENT DE L'IMPOT (art. 1657 à 1960 bis)](#970)
     - [PAIEMENT DE L'IMPOT (art. 1657 à 1724 bis)](#971)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1657 à 1685)](#972)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1657 à 1681 D)](#972)
       - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#973)
       - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1693 bis)](#974)
       - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A à 1723 quater)](#975)
@@ -1172,6 +1172,133 @@ impositions.
 
 
 
+###### Article 5
+
+Sont affranchis de l'impôt sur le revenu :
+
+1° (Disposition périmée) ;
+
+2° Les personnes physiques qui bénéficient principalement de traitements, salaires, pensions et rentes viagères et dont le
+revenu global n'est pas supérieur au montant du minimum garanti prévu à l'article L. 141-8 du code du travail (1) ;
+
+2° bis Les contribuables dont le revenu net de frais professionnels, n'excède pas, par foyer fiscal, 24 000 F ou 26 200 F
+s'ils sont âgés de plus de soixante-cinq ans ; ces limites sont identiques, quelle que soit la nature des revenus perçus ;
+
+La condition d'âge ci-dessus mentionnée est considérée comme remplie si l'un des époux soumis à une imposition commune est
+âgé de plus de soixante-cinq ans.
+
+Les montants mentionnés ci-dessus sont relevés chaque année dans la même proportion que la limite supérieure de la première
+tranche du barème de l'impôt sur le revenu. Les montants obtenus sont arrondis, s'il y a lieu, à la centaine de francs
+supérieure (2) ;
+
+3° Les ambassadeurs et agents diplomatiques, les consuls et agents consulaires de nationalité étrangère, mais seulement dans
+la mesure où les pays qu'ils représentent concèdent des avantages analogues aux agents diplomatiques et consulaires français.
+
+(1) Au titre de 2000, le montant s'élève à 38 650 F.
+
+(2) Limites portées à 46 800 F et 51 100 F pour l'imposition des revenus de 2000.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail - art. L141-8 (AbD)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1998-01-21 5B-6-98
+  - TXT_ASSOCIE: Instruction 1999-01-25 5B-4-99
+  - TXT_ASSOCIE: Instruction 2000-01-07 5B-5-00
+  - TXT_ASSOCIE: Instruction 2001-02-12 5B-9-01
+
+
+###### Article 6
+
+1 Chaque contribuable est imposable à l'impôt sur le revenu, , tant en raison de ses bénéfices et revenus personnels que de
+ceux de ses enfants et des personnes considérés comme étant à sa charge au sens des articles 196 et 196 A bis.
+
+Sauf application des dispositions des 4 et 5, les personnes mariées sont soumises à une imposition commune pour les revenus
+perçus par chacune d'elles et ceux de leurs enfants et des personnes à charge mentionnés au premier alinéa ; cette imposition
+est établie au nom de l'époux, précédée de la mention "Monsieur ou Madame" (1).
+
+2 Le contribuable peut réclamer des impositions distinctes pour ses enfants lorsque ceux-ci tirent un revenu de leur travail
+ou d'une fortune indépendante de la sienne.
+
+3  Toute personne majeure âgée de moins de vingt et un ans, ou de moins de vingt-cinq ans lorsqu'elle poursuit ses études,
+ou, quel que soit son âge, lorsqu'elle effectue son service militaire ou est atteinte d'une infirmité, peut opter, dans le
+délai de déclaration et sous réserve des dispositions de l'article 156-II-2°, dernier alinéa, entre :
+
+1° L'imposition de ses revenus dans les conditions de droit commun;
+
+2° Le rattachement au foyer fiscal dont elle faisait partie avant sa majorité, si le contribuable auquel elle se rattache
+accepte ce rattachement et inclut dans son revenu imposable les revenus perçus pendant l'année entière par cette personne ;
+le rattachement peut être demandé à l'un ou à l'autre des parents lorsque ceux-ci sont imposés séparément.
+
+Si la personne qui demande le rattachement est mariée, l'option entraîne le rattachement des revenus du ménage aux revenus de
+l'un ou des parents de l'un des conjoints.
+
+4 Les époux font l'objet d'impositions distinctes (1) :
+
+a Lorsqu'ils sont séparés de biens et ne vivent pas sous le même toit ;
+
+b Lorsqu'étant en instance de séparation de corps ou de divorce, ils ont été autorisés à avoir des résidences séparées ;
+
+c Lorsqu'en cas d'abandon du domicile conjugal par l'un ou l'autre des époux, chacun dispose de revenus distincts.
+
+5 Chacun des époux est personnellement imposable pour les revenus dont il a disposé pendant l'année de son mariage jusqu'à la
+date de celui-ci (1).
+
+6 En cas de décès de l'un des conjoints, l'impôt afférent aux bénéfices et revenus non encore taxés est établi au nom des
+époux. Le conjoint survivant est personnellement imposable pour la période postérieure au décès (1).
+
+(1) Dispositions applicables à compter de l'imposition des revenus de 1983.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 156 II 2°
+  - CGI 196
+  - CGI 196 A bis
+
+**Liens**:
+
+  - TXT_ASSOCIE: CGI 196 B
+
+_Cité par_:
+
+  - Décret n°2004-325 du 8 avril 2004 - art. 1 (Ab)
+  - Décret n°2004-325 du 8 avril 2004 - art. 2 (Ab)
+  - Décret n°2004-325 du 8 avril 2004 - art. 4 (Ab)
+  - Décret n°2008-778 du 13 août 2008 - art. 4 (Ab)
+  - Arrêté du 18 novembre 2010 - art. 4 (V)
+  - Arrêté du 1er mars 2018 - art. 1
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AZA sexies (V)
+  - Code de l'énergie - art. R337-1 (VT)
+  - Code de l'énergie - art. R337-3 (VT)
+  - Code de l'énergie - art. R337-7 (VT)
+  - Code de l'énergie - art. R445-9 (VD)
+  - Code du tourisme. - art. L411-1 (V)
+  - Code du tourisme. - art. L411-19 (V)
+  - Code général des impôts, CGI. - art. 13 (VD)
+  - Code général des impôts, CGI. - art. 1379 bis (V)
+  - Code général des impôts, CGI. - art. 156 (VD)
+  - Code général des impôts, CGI. - art. 158 (V)
+  - Code général des impôts, CGI. - art. 168 (V)
+  - Code général des impôts, CGI. - art. 194 (VT)
+  - Code général des impôts, CGI. - art. 196 B (V)
+  - Code général des impôts, CGI. - art. 196 bis (V)
+  - Code général des impôts, CGI. - art. 197 (V)
+  - Code général des impôts, CGI. - art. 203 (V)
+  - Code général des impôts, CGI. - art. 204 I (VD)
+  - Code général des impôts, CGI. - art. 239 bis AB (V)
+  - Code général des impôts, CGI. - art. 7 (V)
+  - Code général des impôts, CGI. - art. 8 (V)
+  - Code général des impôts, CGI. - art. 885 A (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 43 bis (V)
+  - Livre des procédures fiscales - art. L286 A (V)
+
+
 ###### Article 8 bis
 
 Les associés ou actionnaires des sociétés visées à l'article 1655 ter sont personnellement soumis à l'impôt sur le revenu
@@ -1307,6 +1434,35 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Instruction 2001-12-03 5F-19-01
+
+
+###### Article 13
+
+1. Le bénéfice ou revenu imposable est constitué par l'excédent du produit brut, y compris la valeur des profits et avantages
+en nature, sur les dépenses effectuées en vue de l'acquisition et de la conservation du revenu. 
+
+2. Le revenu global net annuel servant de base à l'impôt sur le revenu est déterminé en totalisant les bénéfices ou revenus
+nets visés aux I à VII bis de la 1re sous-section de la présente section, compte tenu, le cas échéant, du montant des
+déficits visés aux I et I bis de l'article 156, des charges énumérées au II dudit article et de l'abattement prévu à
+l'article 157 bis. 
+
+3. Le bénéfice ou revenu net de chacune des catégories de revenus visées au 2 est déterminé distinctement suivant les règles
+propres à chacune d'elles. 
+
+Le résultat d'ensemble de chaque catégorie de revenus est obtenu en totalisant, s'il y a lieu, le bénéfice ou revenu afférent
+à chacune des entreprises, exploitations ou professions ressortissant à cette catégorie et déterminé dans les conditions
+prévues pour cette dernière. 
+
+4. Pour l'application du 3, il est fait état, le cas échéant, du montant des bénéfices correspondant aux droits que le
+contribuable ou les membres du foyer fiscal désignés aux 1 et 3 de l'article 6 possèdent en tant qu'associés ou membres de
+sociétés ou groupements soumis au régime fiscal des sociétés de personnes mentionné à l'article 8.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 156 (V)
+  - Code général des impôts, CGI. - art. 157 bis (V)
 
 
 ##### 1re Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus<a id=10></a>
@@ -3211,6 +3367,27 @@ _Cité par_:
   - Code rural - art. L741-10 (V)
 
 
+###### Article 81 bis
+
+Les salaires versés aux apprentis munis d'un contrat répondant aux conditions posées par le code du travail sont exonérés de
+l'impôt sur le revenu pour leur fraction n'excédant pas la limite d'exonération mentionnée au 2° bis de l'article 5 pour les
+personnes âgées de moins de 65 ans. Cette disposition s'applique à l'apprenti personnellement imposable ou au contribuable
+qui l'a à sa charge.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 5 2° bis
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 2000-12-30 5F-1-00
+  - TXT_ASSOCIE: Instruction 2001-02-12 5F-10-01
+  - TXT_ASSOCIE: Instruction 2002-01-31 5F-4-02
+  - TXT_ASSOCIE: Instruction 2003-02-13 5F-4-03
+
+
 ###### Article 81 ter
 
 Sont affranchis de l'impôt dans la limite annuelle de 3000 F [*montant maximum*] :
@@ -4581,6 +4758,27 @@ _Abrogé par_:
   - Loi - art. 10 (V) JORF 31 décembre 2003
 
 
+###### Article 150 B
+
+Sont exonérées, sur sa demande, les plus-values immobilières réalisées par le contribuable dont la valeur de l'ensemble du
+patrimoine immobilier n'excède pas 400.000 F. Le patrimoine immobilier comprend, le cas échéant, les biens des enfants à
+charge et, en outre, pour les personnes mariées soumises à une imposition commune, les biens de communauté et les biens
+propres de chaque conjoint. La somme de 400.000 F est majorée de 100.000 F par enfant à charge à partir du troisième enfant.
+Cette valeur s'apprécie à la date de réalisation de la plus-value et tient compte des dettes contractées pour l'acquisition
+ou la réparation de ce patrimoine.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°83-897 1983-10-06 art. 1 JORF 9 octobre 1983
+  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+
 ###### Article 150 E
 
 Les plus-values immobilières réalisées à la suite de déclarations d'utilité publique prononcées en vue d'une expropriation
@@ -5454,6 +5652,54 @@ _Cité par_:
 ##### 2e Sous-section : Revenu global<a id=104></a>
 
 ##### I : Revenu imposable<a id=105></a>
+
+###### Article 157 bis
+
+Le contribuable âgé de plus de soixante-cinq ans au 31 décembre de l'année d'imposition, ou remplissant l'une des conditions
+d'invalidité mentionnées à l'article 195, peut déduire de son revenu global net une somme de :
+
+- 5.260 F si ce revenu n'excède pas 32.500 F ;
+
+- 2.630 F si ce revenu est compris entre 32.500 F et 52.600 F.
+
+Dans le cas de personnes mariées soumises à une imposition commune la déduction prévue au premier alinéa est doublée si les
+deux époux remplissent les conditions d'âge ou d'invalidité.
+
+Les abattements et plafonds de revenus mentionnés au premier alinéa sont relevés chaque année dans la même proportion que la
+limite supérieure de la première tranche du barème de l'impôt sur le revenu. Les montants obtenus sont arrondis, s'il y a
+lieu, à la dizaine de francs supérieure en ce qui concerne les abattements et à la centaine de francs supérieure en ce qui
+concerne les plafonds de revenus (1).
+
+(1) Pour l'imposition des revenus de 1994, l'abattement est de 9.440 F si le revenu n'excède pas 58.400 F et 4.720 F si le
+revenu est compris entre 58.400 F et 94.400 F. Ces chiffres étaient de 9.300 F, 57.000 F, 4.650 F et 93.000 F pour
+l'imposition des revenus de 1993.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 195
+
+_Cité par_:
+
+  - Décret n°2008-1024 du 7 octobre 2008 - art. 1 (M)
+  - Code de la construction et de l'habitation. - art. R351-5 (V)
+  - Code de la sécurité sociale. - art. D542-10 (V)
+  - Code de la sécurité sociale. - art. R532-3 (V)
+  - Code de la sécurité sociale. - art. R821-4 (V)
+  - Code de la sécurité sociale. - art. R831-6 (V)
+  - Code général des impôts, CGI. - art. 13 (VD)
+  - Code général des impôts, CGI. - art. 1391 B ter (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1996-01-31 5B-4-96
+  - TXT_ASSOCIE: Instruction 1997-02-10 5B-8-97
+  - TXT_ASSOCIE: Instruction 1998-01-21 5B-6-98
+  - TXT_ASSOCIE: Instruction 1999-01-25 5B-4-99
+  - TXT_ASSOCIE: Instruction 2000-01-07 5B-5-00
+  - TXT_ASSOCIE: Instruction 2001-02-12 5B-9-01
+
 
 ###### Article 158 bis
 
@@ -6445,6 +6691,30 @@ _Codifié par_:
   - HISTO: Edition du 1er septembre 1982
 
 
+###### Article 196 bis
+
+1. La situation et les charges de famille dont il doit être tenu compte sont celles existant au 1er janvier de l'année de
+l'imposition. Toutefois, en cas d'augmentation des charges de famille en cours d'année, il est fait état de la situation au
+31 décembre ou à la date du décès s'il s'agit d'imposition établie en vertu de l'article 204.
+
+2. Par dérogation aux dispositions du 1, pour le calcul de l'impôt dû au titre de l'année où il y a lieu à imposition
+distincte dans les cas définis aux 4 et 5 de l'article 6, la situation et les charges de famille à retenir sont celles
+existant au début de la période d'imposition distincte, ou celles de la fin de la même période si elles sont plus favorables.
+
+Pour les périodes d'imposition commune des conjoints, il est tenu compte des charges de famille existant à la fin de ces
+périodes si ces charges ont augmenté en cours d'année.
+
+3. En cas de mariage en cours d'année, il est tenu compte, pour la période d'imposition commune des conjoints, de la
+situation et des charges de famille existant au début de la période d'imposition commune ou à la fin de cette période si ces
+charges ont augmenté au cours de celle-ci.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 204, 6
+
+
 ###### Article 197 A
 
 Les règles de l'article 197-I sont applicables pour le calcul de l'impôt sur le revenu dû par les personnes qui, n'ayant pas
@@ -6762,6 +7032,23 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 203
+
+Les impositions établies en cas de cession, de cessation ou de de décès, par application des articles 201 et 202, viennent,
+le cas échéant, en déduction du montant de l'impôt sur le revenu ultérieurement calculé conformément aux dispositions des
+articles 156 à 168, en raison de l'ensemble des bénéfices et revenus réalisés ou perçus par les membres du foyer fiscal
+désignés aux 1 et 3 de l'article 6 au cours de l'année de la cession, de la cessation ou du décès.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 156 (V)
+  - Code général des impôts, CGI. - art. 201 (V)
+  - Code général des impôts, CGI. - art. 202 (V)
+  - Code général des impôts, CGI. - art. 6 (V)
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales<a id=124></a>
@@ -33317,6 +33604,39 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 383 bis (V)
 
 
+###### Article 1685
+
+1. Chacun des époux, lorsqu'ils vivent sous le même toit, est solidairement responsable des impositions assises au nom de son
+conjoint, au titre de la taxe d'habitation.
+
+2. Chacun des époux est tenu solidairement au paiement de l'impôt sur le revenu. Il en est de même en ce qui concerne le
+versement des acomptes prévus par l'article 1664, calculés sur les cotisations correspondantes mises à la charge des époux
+dans les rôles concernant la dernière année au titre de laquelle ils ont été soumis à une imposition commune.
+
+Chacun des époux peut demander à être déchargé de cette obligation.
+
+3. (Abrogé).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1664
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 2000-01-12 5B-1-00
+  - TXT_ASSOCIE: Instruction 2003-03-19 5B-9-03
+
+_Abrogé par_:
+
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 9 (V)
+
+_Cité par_:
+
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 9 (V)
+
+
 ###### Article 1686
 
 Les propriétaires et, à leur place, les principaux locataires, doivent, un mois avant l'époque du déménagement de leurs
@@ -38378,33 +38698,6 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 1685
-
-1  Chacun des époux, lorsqu'ils vivent sous le même toit, est solidairement responsable des impositions assises au nom de son
-conjoint, au titre de la taxe d'habitation et de l'impôt sur le revenu.
-
-2  L'époux, tenu au paiement de l'impôt sur le revenu assis au nom de son conjoint en vertu des dispositions du 1, est tenu
-solidairement avec lui d'effectuer, en l'acquit dudit impôt, les versements prévus par l'article 1664 calculés sur les
-cotisations correspondantes mises à la charge du redevable dans les rôles concernant la dernière année au titre de laquelle
-il a été imposé.
-
-3  (Abrogé)
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1664
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Cité par_:
-
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 9 (V)
-
-
 ### IMPOTS DIRECTS.<a id=973></a>
 
 ###### Article 1664
@@ -38731,26 +39024,17 @@ _Abrogé par_:
 
 ###### Article 1723 ter-00 B
 
-Les époux sont solidaires, dans les conditions prévues par l'article 1685-1, pour le paiement de l'impôt sur les grandes
-fortunes.
+Les époux sont solidaires pour le paiement de l'impôt sur les grandes fortunes.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Abrogé par_:
 
-  - CGI 1685 1
-
-_Créé par_:
-
-  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+  - Loi n°86-824 du 11 juillet 1986 - art. 24 () JORF 12 juillet 1986 en vigueur le 1er janvier 1987
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1691 bis (V)
-
-_Codifié par_:
-
-  - Décret n°82-881 1982-10-15
 
 
 ### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204).<a id=977></a>
