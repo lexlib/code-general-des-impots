@@ -1,11 +1,11 @@
 # Article 38 bis A
 
-Par dérogation aux dispositions de l'article 38, les établissements de crédit et les maisons de titres mentionnées à
-l'article 99 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit qui
-inscrivent sur un compte de titres de transaction à l'actif de leur bilan des valeurs mobilières cotées ou négociables sur un
-marché sont imposés au taux normal et dans les conditions de droit commun sur l'écart résultant de l'évaluation de ces titres
-au cours le plus récent à la clôture de l'exercice ou lors de leur retrait du compte, ainsi que sur les profits et les pertes
-dégagés lors de leur cession.
+Par dérogation aux dispositions de l'article 38, les établissements de crédit mentionnés à l'article 18 modifié de la loi n°
+84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit qui inscrivent sur un compte de
+titres de transactions à l'actif de leur bilan des valeurs mobilières cotées ou négociables sur un marché sont imposés au
+taux normal et dans les conditions de droit commun sur l'écart résultant de l'évaluation de ces titres au cours le plus
+récent à la clôture de l'exercice ou lors de leur retrait du compte, ainsi que sur les profits et les pertes dégagés lors de
+leur cession.
 
 Si les valeurs mobilières ne sont pas cédées dans le délai de six mois suivant leur acquisition, elles sont transférées de
 manière irréversible au compte de titres de placement et inscrites à ce dernier compte au cours le plus récent au jour du
@@ -30,14 +30,17 @@ mois, les dispositions du premier alinéa cessent de s'appliquer (1).
 
 _Cite_:
 
-  - CGI 38
-  - CGI 39 duodecies
-  - Loi n°84-46 1984-01-24 art. 99
+  - CGI 38, 39 duodecies
+  - Loi n°84-46 1984-01-24 art. 18, art. 99
   - Loi n°87-416 1987-06-17 art. 31
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°90-1169 du 29 décembre 1990 - art. 29 (V) JORF 30 décembre 1990
+  - HISTO: Edition du 18 août 1993
+
+_Codifié par_:
+
+  - Décret n°93-1127 1993-09-24
 
 _Cité par_:
 
@@ -47,6 +50,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 bis B (VD)
   - Code général des impôts, CGI. - art. 38 bis C (VD)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 24 juin 1991
+  - Loi n°92-655 1992-07-16 art. 44 JORF 17 juillet 1992
