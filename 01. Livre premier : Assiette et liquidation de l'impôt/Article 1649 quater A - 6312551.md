@@ -1,28 +1,41 @@
 # Article 1649 quater A
 
 Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
-l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit, ou d'un organisme cité à l'article 8 de ladite loi, doivent en faire la déclaration dans les
-conditions fixées par décret.
+l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative à l'activité et au
+contrôle des établissements de crédit, ou d'un organisme cité à l'article 8 de ladite loi, doivent en faire la déclaration
+dans les conditions fixées par décret (1).
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 50 000 F.
 
 Les sommes, titres ou valeurs transférés vers l'étranger ou en provenance de l'étranger constituent, sauf preuve contraire,
 des revenus imposables lorsque le contribuable n'a pas rempli les obligations prévues aux premier et deuxième alinéas.
 
+(M) Modification de la loi.
+
+(1) Voir annexe III art. 344 I bis.
+
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 11 avril 1997
 
 _Cite_:
 
   - Loi n°84-46 1984-01-24 art. 8
 
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
-
 _Modifié par_:
 
-  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+  - Loi n°96-597 1996-07-02 art. 10 II, III, IV, art. 20, art. 72, art. 95, art. 99, JORF 4 juillet 1996
+  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
+  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
+  - Loi n°96-597 du 2 juillet 1996 - art. 72 () JORF 4 juillet 1996
+  - Loi n°96-597 du 2 juillet 1996 - art. 95 () JORF 4 juillet 1996
+  - Loi n°96-597 du 2 juillet 1996 - art. 99 () JORF 4 juillet 1996
+
+_Codifié par_:
+
+  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 
@@ -30,7 +43,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1758 (V)
   - Code général des impôts, CGI. - art. 1759 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I bis (P)
-
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995

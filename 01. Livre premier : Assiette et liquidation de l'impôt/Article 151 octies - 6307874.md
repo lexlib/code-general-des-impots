@@ -33,18 +33,18 @@ au résultat imposable de l'entreprise apporteuse que si elles deviennent sans o
 
 Les dispositions du 5 de l'article 210 A sont applicables aux apports visés au présent article (4) ;
 
-((Les dispositions du présent article sont applicables à l'apport à une société, par un exploitant agricole individuel, de
+Les dispositions du présent article sont applicables à l'apport à une société, par un exploitant agricole individuel, de
 l'ensemble des éléments de l'actif immobilisé à l'exception des immeubles, si ceux-ci sont immédiatement mis à disposition de
 la société bénéficiaire de l'apport dans le cadre d'un contrat écrit et enregistré visé aux articles L. 411-1, L. 411-2 et L.
 416-1 du code rural.
 
-((Lorsque les immeubles mentionnés au sixième alinéa cessent d'être mis à disposition de la société bénéficiaire de l'apport,
+Lorsque les immeubles mentionnés au sixième alinéa cessent d'être mis à disposition de la société bénéficiaire de l'apport,
 les plus-values, non encore imposées, afférentes aux éléments non amortissables sont comprises dans les bases de l'impôt dû
 par les personnes physiques mentionnées aux premier et deuxième alinéas, au titre de l'année au cours de laquelle cette mise
 à disposition a cessé ; les plus-values et les profits afférents aux autres éléments apportés qui n'ont pas encore été soumis
 à l'impôt ainsi que les provisions afférentes à l'ensemble des éléments apportés qui n'ont pas encore été reprises sont
 rapportés aux résultats de la société bénéficiaire de l'apport au titre de l'exercice au cours duquel la mise à disposition a
-cessé)) (M). 
+cessé (5). 
 
 II. Le régime défini au I s'applique :
 
@@ -52,24 +52,7 @@ a. Sur simple option exercée dans l'acte constatant la constitution de la soci�
 effectué à une société en nom collectif, une société en commandite simple, une société à responsabilité limitée dans laquelle
 la gérance est majoritaire ou à une société civile exerçant une activité professionnelle ;
 
-b. Sur agrément (5), lorsque l'apport est consenti à une société par actions, à une société à responsabilité limitée dans
-laquelle la gérance est minoritaire ou à une société préexistante ; l'agrément est supprimé pour les apports réalisés à
-compter du 1er janvier 1988.
-
-L'option est exercée dans l'acte d'apport conjointement par l'apporteur et la société ; elle entraîne l'obligation de
-respecter les règles prévues au présent article.
-
-Si la société cesse de remplir les conditions permettant de bénéficier sur simple option du régime prévu au I, le report
-d'imposition des plus-values d'apport peut, sur agrément préalable, être maintenu. A défaut, ces plus-values deviennent
-immédiatement taxables.
-
-L'apporteur doit joindre à la déclaration prévue à l'article 170 au titre de l'année en cours à la date de l'apport et des
-années suivantes un état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires au
-suivi des plus-values dont l'imposition est reportée conformément au premier alinéa du a du I. Un décret précise le contenu
-de cet état.
-
-Le défaut de production de l'état mentionné au quatrième alinéa ou l'omission de tout ou partie des renseignements qui
-doivent y être portés entraîne l'imposition immédiate des plus-values reportées (2).
+b. (Périmé) (M).
 
 III. Les dispositions de l'article 41 et du II de l'article 93 quater ne s'appliquent pas aux plus-values constatées à
 l'occasion d'apports en sociétés visées aux I et II du présent article.
@@ -86,24 +69,24 @@ associés de ces sociétés de l'attribution qui leur est faite des parts de la
 
 (4) Ces dispositions s'appliquent à l'imposition des résultats des exercices ouverts à compter du 1er janvier 1995.
 
-(M) Modification de la loi. Ces dispositions sont applicables aux apports réalisés à compter du 1er janvier 1996..
+(5) Ces dispositions sont applicables aux apports réalisés à compter du 1er janvier 1996..
 
-(5) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art. 170 septies B et 170 octies.
+(M) Péremption par le décret de codification.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39 duodecies à 39 quindecies, 210 A, 743, 1728, 1729, 41, 93 quater II
-  - CGIAN4 170 septies B, 170 octies
-
-_Modifié par_:
-
-  - Loi - art. 31 (V) JORF 31 décembre 1995, en vigueur le 1er janvier 1996
+  - CGI 39 duodecies à 39 quindecies, 210 A, 41, 93 quater
+  - Code rural L411-1, L411-2, L416-1
 
 _Codifié par_:
 
-  - Décret n°96-556 1996-06-21
+  - Décret n°97-661 1997-05-28
+
+_Modifié par_:
+
+  - Décret n°97-661 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
 
 _Cité par_:
 
@@ -137,7 +120,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 11 avril 1997
   - TXT_ASSOCIE: Instruction 1995-02-13 4B-1-95
   - TXT_ASSOCIE: Instruction 1995-08-28 4B-5-95
   - TXT_ASSOCIE: Instruction 1996-03-05 4B-2-96
