@@ -9,7 +9,7 @@ d'utilisation.
 Cet amortissement de 25 % ne peut se cumuler avec celui de 50 % prévu à l'article 39 quinquies A-1 en faveur des immeubles
 affectés à la recherche scientifique ou technique.
 
-Les dispositions du présent article s'appliquent aux constructions commencées avant le 31 décembre 1981 et pour les
+Les dispositions du présent article s'appliquent aux constructions commencées avant le 31 décembre 1982 et pour les
 investissements agréés avant la même date.
 
 En ce qui concerne les petites entreprises, l'agrément sera accordé selon une procédure décentralisée dans les conditions qui
@@ -46,14 +46,13 @@ _Cite_:
   - CGIAN2 32 B
   - CGIAN4 170 ter
 
-_Modifié par_:
-
-  - Loi n°80-10 du 10 janvier 1980 - art. 10 (V) JORF 11 JANVIER 1980
-  - Loi n°80-1094 du 30 décembre 1980 - art. 57 (P) JORF 31 DECEMBRE 1980
-
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°82-881 1982-10-15
+
+_Modifié par_:
+
+  - Loi n°81-1160 du 30 décembre 1981 - art. 40 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 _Cité par_:
 
