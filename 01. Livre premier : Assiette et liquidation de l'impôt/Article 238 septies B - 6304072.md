@@ -14,36 +14,60 @@ Ces règles ne s'appliquent pas aux titres émis par l'Etat dont le porteur à l
 trois ans suivant l'émission.
 
 II - Les primes de remboursement ou intérêts mentionnés au I, afférents aux titres et droits détenus par les sociétés
-d'investissement à capital variable (S.I.C.A.V.) et fonds communs de placement, sont, pour le calcul de l'impôt, réputés
+d'investissement à capital variable (SICAV) et fonds communs de placement, sont, pour le calcul de l'impôt, réputés
 distribués, chaque année entre les actionnaires ou porteurs de parts pour un montant défini selon les modalités prévues à ce
 I.
 
 III - Les dispositions du présent article ne s'appliquent qu'aux titres émis à compter du 1er juin 1985 [*date*].
 
+IV 1. Pour les emprunts ou titres ainsi que pour les opérations de démembrement visés au II de l'article 238 septies A, la
+prime de remboursement et les intérêts versés chaque année sont imposés après une répartition par annuités quand la prime
+excède 10 p. 100 du prix d'acquisition.
+
+Cependant, la répartition par annuités n'est pas applicable aux emprunts ou titres visés au 1 du II de l'article 238 septies
+A dont le prix moyen à l'émission est supérieur à 90 p. 100 de la valeur de remboursement.
+
+2. L'annuité est calculée en appliquant au prix d'acquisition le taux d'intérêt actuariel déterminé à la date de
+l'acquisition. Toutefois, lors du remboursement de l'emprunt, du titre ou du droit, la base d'imposition est égale au montant
+de la fraction non encore imposée du revenu. En outre, la première annuité imposable après l'acquisition est calculée prorata
+temporis depuis la date d'acquisition jusqu'à la première date d'imposition.
+
+3. En cas d'acquisition de titres d'un même débiteur et présentant la même échéance et le même mode de rémunération, mais
+acquis à des prix différents, le prix d'acquisition à retenir est la valeur moyenne pondérée d'acquisition de ces titres.
+Lors de chaque nouvelle acquisition, la répartition par annuités est modifiée en conséquence.
+
+4. Lorsque le contrat comporte une clause d'indexation ou plusieurs dates de remboursement possibles, la prime de
+remboursement est déterminée en retenant comme taux d'intérêt actuariel le dernier taux de rendement brut à l'émission des
+obligations des sociétés privées connu lors de l'acquisition et la date de remboursement s'entend de la date la plus
+éloignée.
+
+5. Chaque annuité est imposable annuellement et, à cet effet, est réputée avoir été perçue à la date qui, dans l'année
+d'imposition, correspond à celle qui est prévue pour le remboursement.
+
+6. Le prélèvement prévu à l'article 125 A est opéré à la date prévue au 5 ci-dessus. Ce prélèvement est pratiqué par la
+personne chez laquelle le titre ou le droit est déposé ou inscrit en compte, ou, dans les autres cas, par le débiteur sur le
+compte approvisionné par le contribuable à cet effet (1).
+
 **Nota:**
 
 NOTA : Le II est abrogé pour les exercices clos à compter du 29 septembre 1989.
 
+(1) Ces dispositions sont applicables à un emprunt qui fait l'objet d'émissions successives et d'une cotation en bourse
+unique si une partie de cet emprunt a été émise après le 1er janvier 1992.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°85-695 1985-07-11 art. 14 III, V JORF 12 juillet 1985
+  - CGI 238 septies A, 125 A
 
 _Modifié par_:
 
-  - Loi n°85-1404 1985-12-30 art. 14 I, III Finances rectificative pour 1985 JORF 31 décembre 1985
-  - Loi n°85-1404 du 30 décembre 1985 - art. 14 (V) JORF 31 décembre 1985
-  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 15
-
-_Codifié par_:
-
-  - Décret n°86-1087 1986-10-07
+  - Loi - art. 57 (V) JORF 31 décembre 1991
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°88-1201 1988-12-23 art. 42
-  - SPEC_APPLI: Loi n°89-935 1989-12-29 art. 15
+  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 57 VII
 
 _Cité par_:
 
