@@ -3,7 +3,7 @@
 Les contribuables célibataires, veufs ou divorcés domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une
 réduction de leur impôt sur le revenu égale à 25 p. 100 des dépenses nécessitées par la garde des enfants âgés de moins de
 six ans qu'ils ont à leur charge. Le montant global des dépenses à retenir pour le calcul de la réduction d'impôt est limité
-à 15.000 F par enfant, sans pouvoir excéder le montant des revenus professionnels net de frais. Les dispositions du 5 du I de
+à 15 000 F par enfant, sans pouvoir excéder le montant des revenus professionnels net de frais. Les dispositions du 5 du I de
 l'article 197 sont applicables.
 
 La même possibilité est ouverte, sous les mêmes conditions et dans les mêmes limites, aux foyers fiscaux dont les conjoints
@@ -12,27 +12,29 @@ emplois à mi-temps, ou ne peuvent exercer une activité professionnelle du fait
 poursuite d'études dans l'enseignement supérieur (1).
 
 Les dépenses définies au premier alinéa s'entendent des sommes versées à une assistante maternelle mentionnée à l'article 80
-sexies ou à un établissement de garde répondant aux conditions prévues à l'article L. 180 du code de la santé publique (2).
+sexies ou à un établissement de garde répondant aux conditions prévues à l'article L. 2324-1 du code de la santé publique.
 
-(1) Le chiffre de 15.000 F s'applique à partir de l'imposition des revenus de 1989.
-
-(2) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1992.
+(1) Le chiffre de 15 000 F s'applique à partir de l'imposition des revenus de 1989.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 4 B, 199 sexies A, 80 sexies
-  - Code de la santé publique - art. L180 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
+  - CGI 4 B, 197, 80 sexies
+  - Code de la santé publique - art. L2324-1 (M)
 
 _Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 89 () JORF 31 décembre 1996
+  - Rapport - art. 1 (V) JORF 22 juin 2000
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. D531-24 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001

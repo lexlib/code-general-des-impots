@@ -1,12 +1,11 @@
 # Article 38 bis A
 
-Par dérogation aux dispositions de l'article 38, les établissements de crédit mentionnés à l'article 18 modifié de la loi n°
-84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ((et les entreprises
-d'investissement mentionnées à l'article 7 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités
-financières )) (M) (1) qui inscrivent sur un compte de titres de transactions à l'actif de leur bilan des valeurs mobilières
-cotées ou négociables sur un marché sont imposés au taux normal et dans les conditions de droit commun sur l'écart résultant
-de l'évaluation de ces titres au cours le plus récent à la clôture de l'exercice ou lors de leur retrait du compte, ainsi que
-sur les profits et les pertes dégagés lors de leur cession.
+Par dérogation aux dispositions de l'article 38, les établissements de crédit mentionnés à l'article L. 511-9 du code
+monétaire et financier et les entreprises d'investissement mentionnées à l'article L. 531-4 de ce code qui inscrivent sur un
+compte de titres de transactions à l'actif de leur bilan des valeurs mobilières cotées ou négociables sur un marché sont
+imposés au taux normal et dans les conditions de droit commun sur l'écart résultant de l'évaluation de ces titres au cours le
+plus récent à la clôture de l'exercice ou lors de leur retrait du compte, ainsi que sur les profits et les pertes dégagés
+lors de leur cession.
 
 Si les valeurs mobilières ne sont pas cédées dans le délai de six mois suivant leur acquisition, elles sont transférées de
 manière irréversible au compte de titres de placement et inscrites à ce dernier compte au cours le plus récent au jour du
@@ -14,40 +13,35 @@ transfert. En cas de cession de ces valeurs mobilières, le délai de deux ans m
 à partir de la date du transfert.
 
 Les valeurs mobilières inscrites au compte de titres de transaction ne peuvent faire l'objet d'un prêt dans les conditions
-prévues à l'article 31 modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne que si son échéance n'intervient pas plus de
-six mois après l'acquisition de ces titres. Par dérogation à l'article 38 bis, la créance représentative des titres prêtés
-est inscrite au cours le plus récent des titres à la date du prêt ; elle est évaluée au cours le plus récent des titres
-prêtés à la clôture de l'exercice. Lors de leur restitution, les titres sont repris au compte de titres de transaction pour
-la valeur de la créance à cette date.
+prévues à l'article L. 432-6 du code monétaire et financier que si son échéance n'intervient pas plus de six mois après
+l'acquisition de ces titres. Par dérogation à l'article 38 bis, la créance représentative des titres prêtés est inscrite au
+cours le plus récent des titres à la date du prêt ; elle est évaluée au cours le plus récent des titres prêtés à la clôture
+de l'exercice. Lors de leur restitution, les titres sont repris au compte de titres de transaction pour la valeur de la
+créance à cette date.
 
-Les dispositions du premier et du troisième alinéa du présent article s'appliquent aux titres de créances négociables sur un
-marché réglementé ainsi qu'aux instruments du marché interbancaire. Si les titres n'ont pas été cédés dans un délai de six
-mois, les dispositions du premier alinéa cessent de s'appliquer (2).
+Les dispositions du premier et du troisième alinéa s'appliquent aux titres de créances négociables sur un marché réglementé
+ainsi qu'aux instruments du marché interbancaire. Si les titres n'ont pas été cédés dans un délai de six mois, les
+dispositions du premier alinéa cessent de s'appliquer (1).
 
-(M) Modification.
-
-(1) Dispositions applicables aux exercices ouverts à compter du 1er janvier 1998 pour les entreprises d'investissement.
-
-(2) Ces dispositions s'appliquent pour la détermination des résultats imposables des exercices clos à compter du 31 décembre
-1990.
+(1) Les dispositions du présent alinéa s'appliquent pour la détermination des résultats imposables des exercices clos à
+compter du 31 décembre 1990.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 38, 39 duodecies
-  - Loi n°84-46 1984-01-24 art. 18, art. 99
-  - Loi n°87-416 1987-06-17 art. 31
-  - Loi n°96-597 du 2 juillet 1996 - art. 7 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1998-09-23 4A-8-98
+  - CGI 38, 39 duodecies, 38 bis
+  - Code monétaire et financier - art. L432-6 (M)
+  - Code monétaire et financier - art. L511-9 (V)
+  - Code monétaire et financier - art. L531-4 (M)
 
 _Modifié par_:
 
-  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 37 I C, II JORF 3 juillet 1998
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I 73°, 77°, 93° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -56,3 +50,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 (V)
   - Code général des impôts, CGI. - art. 38 bis B (VD)
   - Code général des impôts, CGI. - art. 38 bis C (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
