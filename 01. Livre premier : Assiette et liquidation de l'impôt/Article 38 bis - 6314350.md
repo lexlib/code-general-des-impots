@@ -32,22 +32,35 @@ modalités prévues au 1 jusqu'à leur cession ou leur restitution au prêteur i
 la plus ancienne. Les achats ultérieurs de titres de même nature sont affectés par priorité au remplacement des titres
 empruntés. 
 
-III. 1 Lorsque, à défaut de restitution des espèces ou valeurs déposées en couverture, le déposant acquiert définitivement la
-pleine propriété des titres prêtés, leur cession est réalisée d'un point de vue fiscal, à la date de la défaillance.
+((II bis. Les dispositions des I et II s'appliquent sous les mêmes conditions aux remises en pleine propriété, à titre de
+garantie, de valeurs, titres ou effets, prévues au quatrième alinéa de l'article 52 de la loi n° 96-597 du 2 juillet 1996 de
+modernisation des activités financières effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de
+gré à gré ainsi qu'aux remises de titres prévues au c de l'article 31 de la loi mentionnée au I)) (M).
 
-2 Pour l'application des 1 à 7 de l'article 39 duodecies du code général des impôts, les titres cédés sont censés avoir été
-détenus jusqu'à la date du prêt.
+III. 1 ((A défaut de restitution des espèces, des valeurs, titres ou effets remis en garantie ou des titres prêtés
+correspondant à ces remises, leur cession est réalisée d'un point de vue fiscal, à la date de la défaillance.
+
+((2 Pour l'application des dispositions de l'article 39 duodecies, les valeurs, titres ou effets transférés sont censés avoir
+été détenus jusqu'à la date de leur remise en garantie ou, pour les titre prêtés mentionnés au I, jusqu'à la date du prêt))
+(M).
+
+(M) Modification de la loi 96-597.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 39 duodecies
-  - Loi n°87-416 1987-06-17
+  - Loi n°87-416 1987-06-17 art. 31
+  - Loi n°96-597 du 2 juillet 1996 - art. 52 (M)
 
 _Modifié par_:
 
-  - Loi n°91-716 du 26 juillet 1991 - art. 18 () JORF 27 juillet 1991
+  - Loi n°96-597 du 2 juillet 1996 - art. 53 () JORF 4 juillet 1996
+
+_Codifié par_:
+
+  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 
@@ -59,4 +72,5 @@ _Cité par_:
 
 **Liens**:
 
+  - HISTO: Edition du 11 avril 1997
   - TXT_ASSOCIE: Instruction 1993-03-26 4A-10-93

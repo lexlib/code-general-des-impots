@@ -11,25 +11,27 @@ Un décret définit la nature des oeuvres et fixe le nombre de représentations 
 
 Ces dispositions ne s'appliquent pas aux recettes provenant :
 
-a. Des représentations théâtrales à caractère pornographique;
+a. Des représentations théâtrales à caractère pornographique ;<rl sans="" (disposition="" objet).="" b.="" devenue="" <br="">
 
-b. (Disposition devenue sans objet).
+c. de la vente de billets imposée au taux réduit dans les conditions prévues au b bis a de l'article 279.
 
-(1) Annexe III, art. 89 ter.
+</rl>
+
+**Nota:**
+
+(1) Voir l'article 89 ter de l'annexe III.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI 279
   - CGIAN3 89 ter
+  - Loi n°96-1182 1997-01-01
 
 _Modifié par_:
 
-  - Loi - art. 27 () JORF 30 décembre 1990
-
-_Codifié par_:
-
-  - Décret n°91-883 1991-09-09
+  - Loi n°96-1182 1996-12-30 art. 42 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
 
 _Cité par_:
 
@@ -39,5 +41,6 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 24 juin 1991
-  - TXT_ASSOCIE: Instruction 1996-06-25 3C-3-96
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 2001-09-27 3C-3-01
+  - TXT_ASSOCIE: Instruction 2002-04-22 3C-2-02

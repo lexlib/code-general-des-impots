@@ -7,7 +7,7 @@ sont soumises à des régimes distincts suivant qu'elles sont réalisées à cou
 
 a Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans. Le cas échéant, ces plus-
 values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été
-différés en méconnaissance des dispositions de l'article 39 B (1) (1') ;
+différés en méconnaissance des dispositions de l'article 39 B (1) ;
 
 b Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles
 correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas échéant, ces plus-values sont majorées du
@@ -31,28 +31,28 @@ de ceux qui ont été différés en contravention aux dispositions de l'article 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par
 priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
-Pour l'application des dispositions de l'alinéa précédent, les titres reçus en rémunération d'un apport partiel d'actif
-soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport
-constituent deux catégories distinctes de titres jusqu'à la fin du délai de cinq ans prévu à l'article 210 B. Les cessions de
-titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de
-l'opération d'apport.
+Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif soumis au
+régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport constituent deux
+catégories distinctes de titres jusqu'à la fin du délai de cinq ans prévu à l'article 210 B. Les cessions de titres
+intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération
+d'apport.
 
-((7. Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-
+7. Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-
 values réalisées :
 
-((a) Par les entreprises effectuant des opérations visées aux 1° et 2° de la loi n° 66-455 du 2 juillet 1966 relative aux
+a) Par les entreprises effectuant des opérations visées aux 1° et 2° de la loi n° 66-455 du 2 juillet 1966 relative aux
 entreprises pratiquant le crédit-bail lors de la cession des éléments de leur actif immobilisé faisant l'objet d'un contrat
 de crédit-bail ;
 
-((b) Par les sociétés qui ont pour objet social la location d'équipements lors de la cession des éléments de l'actif
-immobilisé faisant l'objet d'une location dans le cadre de leur activité.
+b) Par les sociétés qui ont pour objet social la location d'équipements lors de la cession des éléments de l'actif immobilisé
+faisant l'objet d'une location dans le cadre de leur activité.
 
-((Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalablement loué avant d'être vendu et que l'acheteur
-est le locataire lui-même)) (2).
+Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalablement loué avant d'être vendu et que l'acheteur est
+le locataire lui-même (2).
 
-8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue d'un contrat de prêt mentionné à
-l'article 31 de la loi n° 87-416 du 17 juin 1987 sur l'épargne, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de
-la date de la première inscription à son bilan des titres prêtés.
+8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue ((d'un contrat de prêt mentionné à
+l'article 31 modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne)) (M), le délai de deux ans prévu aux 2 et 4
+s'apprécie à compter de la date de la première inscription à son bilan des titres prêtés.
 
 9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours
 duquel la vente est intervenue, le cédant inscrit à son bilan cet élément ainsi que les amortissements et provisions de toute
@@ -68,7 +68,7 @@ de la plus-value de cession qui a été considérée comme une plus-value à lon
 Lorsque la vente ayant donné lieu à la constatation d'une moins-value à long terme est annulée ou résolue, le profit qui en
 résulte est imposable selon le régime des plus-values à long terme.
 
-Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1992 (3).
+Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1992.
 
 10. Lorsqu'une société ou un organisme qui cesse d'être soumis à l'un des régimes mentionnés au premier alinéa du II de
 l'article 202 ter cède des éléments de l'actif immobilisé inscrits au bilan d'ouverture du premier exercice ou de la première
@@ -80,9 +80,9 @@ l'application du b du 2.
 (1) Ces dispositions sont applicables pour la détermination des plus-values ou moins-values réalisées au cours des exercices
 clos à compter du 31 décembre 1993.
 
-(1')
-
 (2) Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 1996.
+
+(M) Modification de la loi.
 
 **Liens relatifs à cet article**
 
@@ -92,17 +92,13 @@ _Cite_:
   - Loi n°66-455 1966-07-02
   - Loi n°87-416 1987-06-17 art. 31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-115 1995-02-04 art. 57 XIII, XIV
-  - HISTO: Edition du 27 octobre 1995
-  - TXT_ASSOCIE: Instruction 1994-03-07 4B-2-94
-  - TXT_ASSOCIE: Instruction 1996-01-31 4B-1-96
-  - TXT_ASSOCIE: Instruction 1996-09-30 4B-3-96
-
 _Modifié par_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 57 () JORF 5 février 1995
+  - Loi n°96-597 1996-07-02 art. 104 1° 2° JORF 4 juillet 1996
+
+_Codifié par_:
+
+  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 
@@ -140,3 +136,12 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 N (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 29 A (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 46 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1996-01-31 4B-1-96
+  - TXT_ASSOCIE: Instruction 1996-09-30 4B-3-96
+  - TXT_ASSOCIE: Instruction 1997-08-21 5G-15-97
+  - TXT_ASSOCIE: Instruction 1998-02-17 4B-1-98
+  - TXT_ASSOCIE: Instruction 1998-02-17 8M-2-98
