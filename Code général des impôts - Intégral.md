@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-07-20
+Version Consolidée au 1983-07-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -27916,6 +27916,37 @@ constitués et fonctionnent conformément aux dispositions législatives et rég
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 1455
+
+Sont exonérés de la taxe professionnelle :
+
+1° Les pêcheurs, lors même que la barque qu'ils montent leur appartient;
+
+2° Les inscrits maritimes qui se livrent personnellement à la pêche des poissons, crustacés, mollusques et autres produits de
+la pêche et effectuent eux-mêmes la vente de ces produits;
+
+3° Les sociétés coopératives maritimes constituées et fonctionnant conformément aux dispositions des articles 35 à 58 de la
+loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+
+_Cite_:
+
+  - Loi n°83-657 1983-07-20 art. 35 à art. 58
+
+_Modifié par_:
+
+  - Loi n°83-657 du 20 juillet 1983 - art. 63 (V) JORF 21 juillet 1983
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1600 (V)
 
 
 ###### Article 1457
