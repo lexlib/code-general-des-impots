@@ -16,8 +16,8 @@ en l'achat de terrains ayant fait l'objet de la perception de la taxe sur la val
 de l'article 266, au 1 de l'article 269, à l'article 285 et au 2 de l'article 290, soit en la souscription d'actions ou de
 parts de sociétés ayant pour objet principal de concourir directement ou indirectement à la construction d'immeubles dans des
 conditions qui sont fixées par un arrêté du ministre de l'économie et des finances (3). Dans le cas où le remploi ayant été
-effectué en achat de terrains, les conditions fixées à l'article 691 n'ont pas été remplies, la plus-value est rapportée aux
-bénéfices de l'exercice en cours à l'expiration du délai prévu audit article.
+effectué en achat de terrains, les conditions fixées au A de l'article 1594-0 G n'ont pas été remplies, la plus-value est
+rapportée aux bénéfices de l'exercice en cours à l'expiration du délai prévu audit article.
 
 Sous réserve des exceptions qui peuvent être prévues par décret (4), les plus-values provenant de ventes précédées de
 versements d'acomptes ou d'avances faits à quelque titre que ce soit, directement ou par personne interposée, sont exclues du
@@ -31,7 +31,7 @@ II. Les plus-values visées au I peuvent bénéficier des dispositions de l'arti
 Elles peuvent également être placées sous le régime d'exonération prévu à l'article 210, en cas de fusion de sociétés ou
 d'opérations assimilées remplissant les conditions prévues au 2 dudit article 210.
 
-III. (Périmé) (M).
+III. (Périmé).
 
 (1) Annexe III, art. 10 H bis et 46 quater-0 R.
 
@@ -43,17 +43,19 @@ III. (Périmé) (M).
 
 (5) Annexe II, art. 166, 167 et 169.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 40, 266, 269, 285, 290, 691, 41, 210
+  - CGI 40, 266, 269, 285, 290, 41, 210, 1594-0 G
+
+_Modifié par_:
+
+  - Loi n°98-1266 1998-12-30 art. 39 I 23 Finances pour 1999 JORF 31 décembre 1998
 
 _Codifié par_:
 
-  - Décret n°98-400 1998-05-22
+  - Décret n°99-382 1999-05-18
 
 _Cité par_:
 
@@ -70,10 +72,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 R (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 J (V)
 
-_Modifié par_:
-
-  - Décret n°98-400 1997-05-22 art. 1 JORF 24 mai 1998
-
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 mars 1999
