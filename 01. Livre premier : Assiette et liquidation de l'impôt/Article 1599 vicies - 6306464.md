@@ -4,28 +4,25 @@ Il est institué au profit de la Corse une taxe due par les entreprises de trans
 ajoutée au prix demandé aux passagers. Elle est assise sur le nombre de passagers embarquant ou débarquant en Corse.
 
 Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé et la distance parcourue. Ils sont fixés par
-l'assemblée de Corse dans la limite de 30 F par passager.
+l'assemblée de Corse dans la limite de 4,57 € par passager.
 
 La taxe est constatée et recouvrée comme en matière de taxe sur la valeur ajoutée avec les sûretés, garanties, privilèges et
 sanctions applicables à celle-ci. Les réclamations sont présentées, instruites et jugées comme pour cet impôt.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 24 juin 1991
-
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 60 (Ab) JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
-
-_Codifié par_:
-
-  - Décret n°91-883 1991-09-09
-  - Décret n°92-836 1992-08-27
+  - Ordonnance n°2000-916 du 19 septembre 2000, v. init.
+  - Règlement CE 1103-97 1997-06-17 art. 5 JOCE 19 juin 1997 en vigueur le 1er janvier 2002
+  - Règlement CE 2866-98 1998-12-31 art. 1 JOCE 31 décembre 1998 en vigueur le 1er janvier 2002
+  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
   - Code général des collectivités territoriales - art. L4425-1 (MMN)
   - Code général des collectivités territoriales - art. L4425-22 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
