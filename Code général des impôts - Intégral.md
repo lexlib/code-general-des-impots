@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-01-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -706,439 +706,439 @@ Version Consolidée au 1987-01-01
                 - [2 : Exonérations (art. 913 à 916)](#703)
                   - [a : Chèques et ordres de virement. (art. 913 à 915)](#704)
                   - [b : Autres effets. (art. 916)](#705)
-            - [IV : Timbre des quittances (art. 919 B)](#706)
-            - [V : Timbre des contrats de transport (art. 925 à 943)](#707)
-              - [A : Dispositions générales (art. 925 à 934)](#708)
-                - [1° : Lettres de voiture (art. 925)](#709)
-                - [2° : Transports aériens (art. 926)](#710)
-                - [3° : Transports ferroviaires (art. 927 à 933)](#711)
-                - [4° : Transports routiers (art. 934)](#712)
-              - [B : Régimes spéciaux et exonérations (art. 935 à 943)](#713)
-                - [1° : Colis postaux. (art. 935 à 937)](#714)
-                - [2° : Envois contre remboursement et transports de monnaie. (art. 938 à 939)](#715)
-                - [3° : Expéditions en groupage. (art. 940 à 941)](#716)
-                - [4° : Transports routiers. (art. 942)](#717)
-                - [5° : Colis exonérés. (art. 943)](#718)
-          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 946 à 968 A)](#719)
-            - [I : Cartes d'entrée dans les casinos. (art. 946)](#720)
-            - [II : Cartes d'identité et de séjour (art. 947 à 952)](#721)
-              - [A : Régime normal (art. 947 à 950)](#722)
-              - [B : Exonérations (art. 952)](#723)
-            - [III : Passeports et titres de voyage (art. 954 à 955)](#724)
-            - [III : Passeports, laissez-passer, sauf-conduits et titres de voyage (art. 953)](#725)
-            - [V : Formalités administratives. (art. 960 à 961)](#726)
-            - [VI : Navigation intérieure et navigation maritime de plaisance (art. 963)](#727)
-            - [VII : Permis de chasser (art. 964)](#728)
-            - [VIII : Véhicules à moteur (art. 966 à 968 A)](#729)
-              - [A : Permis de conduire (art. 966)](#730)
-              - [C : Réception des véhicules automobiles (art. 968 A)](#731)
-          - [Section III : Régimes spéciaux et exonérations de portée générale (art. 969 à 977)](#732)
-          - [Section IV : Impôt sur les opérations de bourse (art. 978 à 985)](#733)
-            - [I : Bourses de valeurs (art. 978 à 985)](#734)
-        - [Chapitre III : Autres droits et taxes (art. 990 D à 1019)](#735)
-          - [Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social (art. 990 D à 990 F)](#736)
-          - [Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales (art. 990 G à 990 H)](#737)
-          - [Section I : Taxe sur les conventions d'assurances (art. 991 à 1004)](#738)
-            - [I : Champ d'application (art. 991 à 1000 A)](#739)
-              - [A : Conventions imposables (art. 991 à 994)](#740)
-              - [B : Régimes spéciaux et exonérations (art. 996 à 1000 A)](#741)
-            - [III : Obligations diverses (art. 1002 à 1004)](#742)
-          - [Section II : Taxe d'accroissement (art. 1005 à 1006)](#743)
-          - [Section IV : Taxe sur les défrichements. (art. 1011)](#744)
-          - [Section V bis : Droit fixe de procédure (art. 1018 A)](#745)
-          - [Section V ter : Droit forfaitaire de délivrance d'ampliation (art. 1018 B)](#746)
-          - [Section VI : Droits de sceau (art. 1019)](#747)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1020 à 1135)](#748)
-          - [Disposition générale (art. 1020)](#749)
-          - [Section I : Agriculture (art. 1021 à 1037)](#750)
-            - [I : Aménagement rural (art. 1021 à 1025)](#751)
-              - [Irrigation (art. 1021 à 1022)](#752)
-              - [Remembrement (art. 1023)](#753)
-              - [Terres incultes - Mise en valeur. (art. 1025)](#754)
-            - [II : Organismes agricoles (art. 1027 à 1032)](#755)
-              - [Caisses de mutualité sociale agricole (art. 1027)](#756)
-              - [Sociétés d'aménagement foncier et d'établissement rural (art. 1028)](#757)
-              - [3° : Sociétés coopératives agricoles (art. 1029 à 1031)](#758)
-              - [Sociétés et caisses d'assurances mutuelles agricoles (art. 1032)](#759)
-            - [III : Divers (art. 1033 à 1037)](#760)
-              - [1° : Accidents du travail agricole (art. 1033)](#761)
-              - [2° Agriculteurs non salariés - Assurances contre les accidents et les maladies professionnelles (art. 1034)](#762)
-              - [3° : Prêts d'installation aux jeunes agriculteurs (art. 1036)](#763)
-              - [4° : Contrat de travail à salaire différé (art. 1037)](#764)
-          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1038 à 1048 bis)](#765)
-            - [Transports de voyageurs dans la région parisienne. (art. 1038)](#766)
-            - [2° : Etablissements d'utilité publique (art. 1039)](#767)
-            - [3° : Comités professionnels de développement économique (art. 1039 A)](#768)
-            - [4° : Etat (art. 1040)](#769)
-            - [5° : Etablissements publics à caractère scientifique et culturel (art. 1040 A)](#770)
-            - [Conservatoire de l'espace littoral et des rivages lacustres. (art. 1041)](#771)
-            - [Collectivités locales et établissements publics locaux (art. 1042 à 1042 A)](#772)
-            - [8°  : Etablissements publics de coopération intercommunale (art. 1043)](#773)
-            - [9° : Départements d'outre-mer (art. 1043 A)](#774)
-            - [10° : Ports autonomes (art. 1044 à 1044 A)](#775)
-            - [11° : Expropriation et servitudes pour cause d'utilité publique (art. 1045)](#776)
-            - [Parcs nationaux. (art. 1045 bis)](#777)
-            - [13° : Terrains communaux (art. 1046)](#778)
-            - [14° : Matelots et pêcheurs de la commune de Fort-Mardyck (art. 1047)](#779)
-            - [Réquisitions (art. 1048)](#780)
-            - [16° : Nationalisation de l'électricité dans les départements d'outre-mer (art. 1048 bis)](#781)
-          - [Section III : Construction. Logement (art. 1049 à 1055)](#782)
-          - [Section IV : Biens sinistrés (art. 1056 à 1059)](#783)
-            - [1° : Réparation, reconstruction et reconstitution des biens et des exploitations sinistrés du fait des hostilités (art. 1056 à 1058)](#784)
-            - [2° : Dommages causés à la propriété privée par l'exécution de travaux publics (art. 1059)](#785)
-          - [Section IV : Institutions à caractère social (art. 1067)](#786)
-            - [Assistance et protection de l'enfance. (art. 1067)](#787)
-          - [Section V : Établissements financiers (art. 1060 à 1065)](#788)
-            - [1° : Banque des règlements internationaux (art. 1060)](#789)
-            - [Caisse nationale de prévoyance (art. 1061)](#790)
-            - [2° : Caisses d'épargne (art. 1062 à 1063 A)](#791)
-            - [3° : Entreprises de crédit différé (art. 1064)](#792)
-            - [Entreprises d'assurances et de capitalisation (art. 1065)](#793)
-          - [Section VI : Institutions à caractère social (art. 1066 à 1089)](#794)
-            - [1° : Aide sociale (art. 1066)](#795)
-            - [3° : Assurances maladie et maternité des travailleurs non salariés de professions non agricoles (art. 1069)](#796)
-            - [4° : Caisse de retraite et de prévoyance des clercs de notaire (art. 1070)](#797)
-            - [5° : Croix-Rouge française (art. 1071)](#798)
-            - [6° : Indigents (art. 1072)](#799)
-            - [7° : Marine (art. 1074 à 1075)](#800)
-            - [8° : Ouvriers mineurs (art. 1077 à 1080)](#801)
-            - [9° : Rapatriés et personnes dépossédées de leurs biens outre-mer (art. 1081 à 1082)](#802)
-            - [10 ° : Sécurité sociale (art. 1083 à 1085)](#803)
-            - [11° : Mutuelles (art. 1087 à 1089)](#804)
-          - [Section VII : Juridictions. Procédures diverses (art. 1089 A à 1109)](#805)
-            - [1° : Actes de justice devant les juridictions civiles et administratives (art. 1089 A à 1089 C)](#806)
-            - [Actes de justice devant les juridictions civiles et administratives. (art. 1089 B)](#807)
-            - [2° : Agence judiciaire du Trésor (art. 1090)](#808)
-            - [3° : Aide judiciaire (art. 1090 B à 1090 F)](#809)
-            - [Aide juridictionnelle (art. 1090 A)](#810)
-            - [Casier judiciaire. Rectification de mentions (art. 1100)](#811)
-            - [5° : Révision des procès (art. 1109)](#812)
-          - [Section IX : Dispositions diverses (art. 1115 à 1135)](#813)
-            - [Achats en vue de la revente (art. 1115)](#814)
-            - [2° : Actes de dépôt (art. 1116)](#815)
-            - [3° : Actes de l'état civil (art. 1119)](#816)
-            - [4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait (art. 1122 à 1125 bis)](#817)
-            - [5° : Attribution gratuite d'actions ou de parts sociales au personnel des entreprises (art. 1126)](#818)
-            - [Attribution gratuite d'actions ou de parts sociales au personnel des entreprises. (art. 1127)](#819)
-            - [6° : Certificats de vie (art. 1128)](#820)
-            - [7° : Contrat d'apprentissage (art. 1128 bis)](#821)
-            - [8° : Contrat et certificat de travail (art. 1128 ter)](#822)
-            - [9° : Mariages. Dissentiment des parents (art. 1129)](#823)
-            - [10° : Patrimoine artistique national (art. 1131)](#824)
-            - [Publicité foncière - Réforme - Dispositions transitoires (art. 1132)](#825)
-            - [12° : Réunion de l'usufruit à la nue-propriété (art. 1133)](#826)
-            - [Warrants (art. 1134)](#827)
-            - [Indivisions successorales en Corse - Régime temporaire (art. 1135)](#828)
-      - [Titre V : Dispositions communes aux titres I, II et IV (art. 1378 bis à 1378 ter)](#829)
-    - [Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 1379 à 1649)](#830)
-      - [Titre premier : Impositions communales (art. 1379 à 1585 H)](#831)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1379 à 1528)](#832)
-          - [Section I : Généralités (art. 1379)](#833)
-            - [I : Répartition des ressources (art. 1379)](#834)
-          - [Section II : Taxes foncières (art. 1380 à 1406)](#835)
-            - [I : Taxe foncière sur les propriétés bâties (art. 1380 à 1391)](#836)
-              - [A : Propriétés imposables (art. 1380 à 1381)](#837)
-              - [B : Exonérations permanentes (art. 1382 à 1382 A)](#838)
-              - [C : Exonérations temporaires (art. 1383 à 1387)](#839)
-                - [1 : Exonération de deux ans (art. 1383)](#840)
-                - [1 bis : Exonération comprise entre deux et cinq ans (art. 1383 A)](#841)
-                - [2 : Exonérations supérieures à deux ans (art. 1384 à 1387)](#842)
-                  - [2° : Habitations à loyer modéré (art. 1384)](#843)
-                  - [Constructions financées au moyen des prêts aidés par l'État. (art. 1384 A)](#844)
-                  - [4° : Autres locaux (art. 1385 à 1387)](#845)
-              - [D : Base d'imposition (art. 1388)](#846)
-              - [E : Exonérations, dégrèvements spéciaux et réductions d'impôt (art. 1389 à 1391)](#847)
-            - [II : Taxe foncière sur les propriétés non bâties (art. 1393 à 1398)](#848)
-              - [A : Propriétés imposables (art. 1393)](#849)
-              - [B : Exonérations permanentes (art. 1394 à 1394 A)](#850)
-              - [C : Exonérations temporaires (art. 1395)](#851)
-              - [D : Base d'imposition (art. 1396)](#852)
-              - [E : Dégrèvements spéciaux (art. 1397 à 1398)](#853)
-            - [III : Dispositions communes aux taxes foncières sur les propriétés bâties et non bâties (art. 1399 à 1406)](#854)
-              - [A : Lieu d'imposition (art. 1399)](#855)
-              - [B : Débiteur de l'impôt (art. 1400 à 1401)](#856)
-              - [C : Mutations cadastrales et changements affectant le débiteur de l'impôt (art. 1403)](#857)
-              - [C : Mutations cadastrales et mutations de cotes. (art. 1402 à 1405)](#858)
-              - [D : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation (art. 1406)](#859)
-          - [Section III : Taxe d'habitation (art. 1407 à 1414)](#860)
-            - [I : Locaux imposables (art. 1407)](#861)
-            - [II : Personnes imposables (art. 1408)](#862)
-            - [III : Assiette de la taxe (art. 1409 à 1413)](#863)
-            - [IV : Dégrèvements d'office (art. 1414)](#864)
-          - [Section IV : Dispositions communes aux taxes foncières et à la taxe d'habitation (art. 1415 à 1416)](#865)
-          - [Section V : Cotisation foncière des entreprises (art. 1447 à 1479)](#866)
-            - [I : Personnes et activités imposables (art. 1447 à 1448)](#867)
-            - [II : Exonérations et abattements (art. 1449 à 1466)](#868)
-            - [III : Base d'imposition (art. 1467 à 1472 A bis)](#869)
-              - [1° : Ecrêtement des bases appliqué de 1976 à 1979. (art. 1472)](#870)
-              - [2° : Ecrêtement des bases applicable à compter de 1980. (art. 1472 A)](#871)
-              - [3° Réduction des bases à compter de 1987. (art. 1472 A bis)](#872)
-            - [IV : Répartition des bases (art. 1473 à 1475)](#873)
-            - [V : Etablissement de la taxe (art. 1476 à 1479)](#874)
-              - [Annualité de la taxe (art. 1478 à 1479)](#875)
-          - [Section VI : Règles d'évaluation de la valeur locative des biens imposables (art. 1494 à 1518 B)](#876)
-            - [I : Évaluation des propriétés bâties (art. 1494 à 1508)](#877)
-              - [A : Généralités (art. 1494 à 1495)](#878)
-              - [B : Locaux d'habitation et à usage professionnel (art. 1496 à 1497)](#879)
-              - [C : Locaux commerciaux et biens divers (art. 1498)](#880)
-              - [D : Etablissements industriels (1) (art. 1499 à 1500)](#881)
-              - [E : Dispositions communes aux établissements industriels et aux locaux commerciaux (art. 1501)](#882)
-              - [F : Procédure d'évaluation (art. 1502 à 1508)](#883)
-            - [II : Évaluation des propriétés non bâties (art. 1510 à 1515)](#884)
-              - [B : Procédure d'évaluation (art. 1510 à 1515)](#885)
-                - [1 : Règles permanentes (art. 1510 à 1514)](#886)
-                - [2 : Règles particulières à la révision quinquennale 1970-1974 (art. 1515)](#887)
-            - [III : Dispositions communes aux biens passibles des impôts directs locaux (art. 1516 à 1518 B)](#888)
-              - [A : Mise à jour périodique de la valeur locative des propriétés bâties et non bâties (art. 1516 à 1517)](#889)
-              - [B : Réduction de la valeur locative de certains biens (art. 1518 A)](#890)
-              - [C : Valeur locative minimum (art. 1518 B)](#891)
-          - [Section VII : Autres taxes communales (art. 1519 à 1528)](#892)
-            - [I : Taxes obligatoires (art. 1519 à 1519 A)](#893)
-              - [A : Redevance communale des mines (art. 1519)](#894)
-              - [B : Imposition forfaitaire sur les pylônes (art. 1519 A)](#895)
-            - [II : Taxes facultatives (art. 1520 à 1528)](#896)
-              - [A : Taxe d'enlèvement des ordures ménagères (art. 1520 à 1526)](#897)
-              - [C : Taxe de balayage (art. 1528)](#898)
-        - [Chapitre II : Contributions indirectes (art. 1560 à 1582 bis)](#899)
-          - [Section I : Taxes obligatoires (art. 1560 à 1572)](#900)
-            - [II : Impôt sur les spectacles, jeux et divertissements (art. 1560 à 1566)](#901)
-              - [Tarif (art. 1560)](#902)
-              - [Appareils automatiques - Obligations. (art. 1560 ter)](#903)
-              - [Demi-tarif (art. 1562)](#904)
-              - [Assiette et liquidation. (art. 1564)](#905)
-              - [7° : Obligations des exploitants (art. 1565 bis)](#906)
-              - [Obligations des exploitants. (art. 1565)](#907)
-              - [Répartition de l'impôt. (art. 1566)](#908)
-            - [III : Licence des débitants de boissons. (art. 1568 à 1572)](#909)
-          - [Section II : Taxes facultatives (art. 1582 bis)](#910)
-            - [III : Taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques (art. 1582 bis)](#911)
-        - [Chapitre III : Enregistrement (art. 1585 A à 1585 H)](#912)
-          - [Section III : Taxe locale d'équipement (art. 1585 A à 1585 H)](#913)
-      - [Titre II : Impositions départementales (art. 1586 à 1599 J)](#914)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1586 à 1589)](#915)
-          - [I : Généralités (art. 1586)](#916)
-          - [Redevance départementale des mines. (art. 1587)](#917)
-          - [III : Redevance départementale des mines (art. 1588 à 1589)](#918)
-        - [Chapitre III : Enregistrement (art. 1594 B à 1599 B)](#919)
-          - [Section I : Droit d'enregistrement et taxe de publicité foncière (art. 1594 B à 1595 bis)](#920)
-            - [I : Dispositions générales (art. 1594 B)](#921)
-            - [IV : Réduction des droits (art. 1595 à 1595 bis)](#922)
-          - [Section II : Autres taxes (art. 1595 ter)](#923)
-            - [I : Taxes obligatoires. Taxes additionnelles à certains droits d'enregistrement (art. 1595 ter)](#924)
-          - [Section I : Droit départemental d'enregistrement et taxe départementale de publicité foncière (art. 1594 A à 1594 F)](#925)
-            - [I : Dispositions générales. (art. 1594 A à 1594 C)](#926)
-            - [II : Régime spécial (art. 1594 F)](#927)
-          - [Section II : Autres taxes départementales (art. 1599 B)](#928)
-            - [II : Taxes facultatives (art. 1599 B)](#929)
-              - [Taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement. (art. 1599 B)](#930)
-        - [Chapitre IV : Autres droits et taxes (art. 1599 C à 1599 J)](#931)
-      - [Titre III : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 1600-0 A à 1635 ter)](#932)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1600-0 A à 1609 nonies B)](#933)
-          - [Section 0I : Contribution perçue au profit de la caisse nationale des allocations familiales. (art. 1600-0 A)](#934)
-          - [Section I : Taxe pour frais de chambres de commerce et d'industrie (art. 1600)](#935)
-          - [Section III : Taxe perçue au profit du budget annexe des prestations sociales agricoles (art. 1603)](#936)
-          - [Section IV : Taxe pour frais de chambres d'agriculture (art. 1604)](#937)
-          - [Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine (art. 1608)](#938)
-          - [Section X : Impositions perçues au profit des communautés urbaines (art. 1609 bis)](#939)
-          - [Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes (art. 1609 quater)](#940)
-          - [Section XII : Impositions perçues au profit des districts. (art. 1609 quinquies)](#941)
-          - [Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle (art. 1609 sexies à 1609 nonies)](#942)
-            - [I : Syndicats communautaires d'aménagement. (art. 1609 sexies)](#943)
-            - [II : Communautés urbaines. (art. 1609 septies)](#944)
-            - [III : Ensembles urbains (art. 1609 octies)](#945)
-              - [*AGGLOMERATIONS NOUVELLES - VILLES NOUVELLES* (art. 1609 octies)](#946)
-            - [IV : Dispositions communes (art. 1609 nonies)](#947)
-              - [*VILLE NOUVELLE* (art. 1609 nonies)](#948)
-          - [Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes (art. 1609 nonies A)](#949)
-          - [Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles (art. 1609 nonies B)](#950)
-        - [Chapitre I bis : Taxes sur le chiffre d'affaires (art. 1609 decies A à 1609 decies E)](#951)
-          - [Fonds national du livre. (art. 1609 decies A à 1609 decies E)](#952)
-        - [Chapitre II : Contributions indirectes (art. 1613 à 1621 quinquies)](#953)
-          - [Section II : Taxe sur les produits des exploitations forestières. (art. 1613)](#954)
-          - [Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles (art. 1615 bis à 1618 septies)](#955)
-            - [A bis : Alcools soumis au droit de consommation. (art. 1615 bis)](#956)
-            - [C : Betteraves. (art. 1617)](#957)
-            - [E : Produits des exploitations forestières. (art. 1618 bis)](#958)
-            - [I : Tabacs fabriqués. (art. 1618 sexies)](#959)
-            - [J : Farines. (art. 1618 septies)](#960)
-          - [Section VII : Aide aux spectacles (art. 1621)](#961)
-            - [A : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 1621)](#962)
-          - [Section X : Fonds de construction, d'équipement rural et d'expansion économique. (art. 1621 quinquies)](#963)
-        - [Chapitre III : Enregistrement, publicité foncière et timbre (art. 1622 à 1635 bis B)](#964)
-          - [Section I : Taxes à percevoir pour l'alimentation du fonds commun des accidents du travail agricole (art. 1622 à 1624 bis)](#965)
-          - [Section I ter : Fonds commun de majoration de rentes viagères et pensions (loi du 24 mai 1951). (art. 1628 ter)](#966)
-          - [Section I sexies : Fonds destiné au financement des majorations accordées aux rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. 1628 sexies)](#967)
-          - [Section V : Fonds national de garantie des calamités agricoles (art. 1635 bis A)](#968)
-          - [Section V bis : Fonds de garantie des calamités agricoles dans les départements d'outre-mer (art. 1635 bis AA)](#969)
-          - [Section V ter : Fonds de compensation des risques de l'assurance de la construction. (art. 1635 bis AB)](#970)
-          - [Section VI : Groupements de communes. Taxe locale d'équipement (art. 1635 bis B)](#971)
-        - [Chapitre IV : Dispositions communes (art. 1635 ter)](#972)
-      - [Titre III bis : Impositions perçues au profit des collectivités locales et de certains établissements publics (art. 1635 quater)](#973)
-        - [Enregistrement - Autres droits et taxes (art. 1635 quater)](#974)
-          - [Participation en cas de dépassement du coefficient d'occupation du sol. (art. 1635 quater)](#975)
-      - [Titre V : Dispositions communes aux Titres I à III bis (art. 1635 quinquies à 1649)](#976)
-        - [Chapitre 0I : Champ d'application (art. 1635 quinquies)](#977)
-        - [Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales (art. 1636 B decies à 1639 B)](#978)
-          - [Section I : Dispositions générales (art. 1636 B decies à 1636 B septies)](#979)
-          - [Section II : Dispositions particulières (art. 1638 bis à 1639 B)](#980)
-        - [Chapitre II : Frais d'assiette, de non-valeurs et de recouvrement (art. 1644)](#981)
-          - [Section I : Taxes établies et recouvrées comme en matière de contributions directes au profit des collectivités locales et organismes divers (art. 1644)](#982)
-        - [Chapitre II bis : Dégrèvements de taxe professionnelle (art. 1647 bis à 1647 B septies)](#983)
-          - [Section I : Dégrèvements spéciaux de la taxe professionnelle (art. 1647 bis à 1647 bis B)](#984)
-          - [Section II : Plafonnement de la taxe professionnelle (art. 1647 A à 1647 B septies)](#985)
-            - [I : Plafonnement de la taxe professionnelle en 1976. (art. 1647 A)](#986)
-            - [II : Plafonnement de la taxe professionnelle en 1977 et 1978. (art. 1647 B)](#987)
-            - [III : Plafonnement de la taxe professionnelle en 1979. (art. 1647 B bis à 1647 B ter)](#988)
-            - [IV : Plafonnement en fonction de la valeur ajoutée (art. 1647 B quinquies à 1647 B septies)](#989)
-        - [Chapitre II ter : Cotisation minimum de la taxe professionnelle. (art. 1647 D)](#990)
-        - [Chapitre III : Fonds de péréquation de la taxe professionnelle (art. 1648 B à 1648 B bis)](#991)
-          - [Section II : Fonds national de péréquation de la taxe professionnelle. (art. 1648 B à 1648 B bis)](#992)
-        - [Chapitre IV : Départements d'outre-mer (art. 1649)](#993)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 1649 A à 1656)](#994)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 1649 A à 1649 decies)](#995)
-        - [Chapitre premier : Obligations des contribuables (art. 1649 A à 1649 ter C)](#996)
-          - [0I : Déclaration des comptes financiers. (art. 1649 A)](#997)
-          - [0I quater : Déclaration des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes (art. 1649 B)](#998)
-          - [I bis : Déclaration des ventes autres que les ventes au détail (art. 1649 bis A)](#999)
-          - [I ter : Apposition de marques (art. 1649 bis B)](#1000)
-          - [I quater : Opérations réalisées sur les marchés à terme (art. 1649 bis C)](#1001)
-          - [II bis : Façonniers (art. 1649 ter C)](#1002)
-        - [Chapitre 0I bis : Mesures de contrôle des valeurs mobilières (art. 1649 quater-0 A à 1649 quater-0 B)](#1003)
-        - [Chapitre 0I ter : Entreprises de la batellerie (art. 1649 quater BA)](#1004)
-        - [Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés (art. 1649 quater C à 1649 quater I)](#1005)
-          - [I : Centres de gestion agréés et associations de gestion et de comptabilité (art. 1649 quater C à 1649 quater E-O bis)](#1006)
-          - [II : Associations agréées des professions libérales (art. 1649 quater F à 1649 quater H)](#1007)
-          - [III : Dispositions communes (art. 1649 quater I)](#1008)
-        - [Chapitre II : Casier fiscal (art. 1649 quinquies)](#1009)
-        - [Chapitre IV : Exonérations fiscales contractuelles et agréments (art. 1649 nonies à 1649 octies)](#1010)
-        - [Chapitre V : Départements d'outre-mer. Établissement et conservation du cadastre (art. 1649 decies)](#1011)
-      - [Titre II : Dispositions diverses (art. 1650 à 1656)](#1012)
-        - [Chapitre premier : Commissions administratives des impôts et comité de l'abus de droit fiscal (art. 1650 à 1653 C)](#1013)
-          - [I : Commission communale des impôts directs (art. 1650)](#1014)
-          - [III : Commissions centrales des impôts directs (art. 1652 à 1652 bis)](#1015)
-            - [a : (art. 1652)](#1016)
-            - [b : Évaluations foncières (art. 1652 bis)](#1017)
-          - [IV : Dispositions communes aux commissions visées aux articles 1650 à 1652 bis (art. 1653)](#1018)
-          - [V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III) (art. 1653 B)](#1019)
-          - [VI : Comité de l'abus de droit fiscal (art. 1653 C)](#1020)
-        - [Chapitre II : Régime de certains organismes et sociétés (art. 1654 à 1655 ter)](#1021)
-          - [I : Établissements publics et autres organismes (art. 1654)](#1022)
-          - [II bis : Coopératives d'administration ou d'entreprise (art. 1655 A)](#1023)
-          - [III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées. (art. 1655 bis)](#1024)
-          - [IV : Sociétés immobilières de copropriété (art. 1655 ter)](#1025)
-        - [Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis (art. 1656)](#1026)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT IMPOTS D'ETAT IMPOTS DIRECTS ET TAXES ASSIMILEES IMPOT SUR LE REVENU REVENUS IMPOSABLES (art. 150 ter)](#1027)
-  - [ASSIETTE ET LIQUIDATION DE LA TAXE (art. 834 bis)](#1028)
-    - [IMPOTS D'ETAT (art. 834 bis)](#1029)
-      - [DROITS D'ENREGISTREMENT (art. 834 bis)](#1030)
-        - [LES TARIFS ET LEUR APPLICATION. (art. 834 bis)](#1031)
-  - [Livre II : Recouvrement de l'impôt (art. 1657 à 1965 A)](#1032)
-    - [Chapitre premier : Paiement de l'impôt (art. 1657 à 1724 quater)](#1033)
-      - [Section I : Impôts directs et taxes assimilées (art. 1657 à 1691)](#1034)
-        - [I : Rôles et avis d'imposition (art. 1657 à 1660)](#1035)
-          - [1 : Établissement et mise en recouvrement des rôles (art. 1657 à 1659 A)](#1036)
-          - [2 : Rôles auxiliaires (art. 1660)](#1037)
-        - [II : Exigibilité de l'impôt (art. 1663 A à 1679 quinquies)](#1038)
-          - [1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités (art. 1663 A à 1665)](#1039)
-          - [3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France (art. 1671 A)](#1040)
-          - [4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières (art. 1672 à 1678 quater)](#1041)
-            - [a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations (art. 1672 à 1673 bis)](#1042)
-            - [b : Retenue à la source afférente aux intérêts des bons de caisse (art. 1678 bis)](#1043)
-            - [Prélèvement sur les produits de placement à revenu fixe. (art. 1678 quater)](#1044)
-          - [5 : Taxe d'apprentissage (art. 1678 quinquies à 1678 sexies)](#1045)
-          - [6 : Taxe sur les salaires (art. 1679 à 1679 bis)](#1046)
-          - [7 bis : Participation des employeurs au développement de la formation professionnelle continue (art. 1679 bis B)](#1047)
-          - [8 : Prélèvement à la charge des sociétés (art. 1679 ter)](#1048)
-          - [10 : Taxe professionnelle (art. 1679 quinquies)](#1049)
-        - [III : Paiement de l'impôt (art. 1680 à 1681 ter)](#1050)
-          - [1 : Dispositions générales (art. 1680 à 1681)](#1051)
-          - [2 : Paiement mensuel de l'impôt sur le revenu (art. 1681 A à 1681 E)](#1052)
-          - [4 : Paiement de la taxe d'habitation, des taxes foncières et de la contribution à l'audiovisuel public due par les particuliers (art. 1681 quater à 1681 ter)](#1053)
-        - [IV : Obligations des tiers (art. 1682 à 1691)](#1054)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1692 à 1697)](#1055)
-        - [I : Régime général (art. 1692)](#1056)
-        - [II : Régime spécial des acomptes provisionnels (art. 1693)](#1057)
-        - [III : Régime spécial du forfait. (art. 1694)](#1058)
-        - [III bis : Régime simplifié (art. 1694 bis)](#1059)
-        - [IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers. (art. 1695)](#1060)
-        - [V : Modalités d'application (art. 1696 à 1697)](#1061)
-      - [Section III : Contributions indirectes (art. 1698 à 1700)](#1062)
-      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1701 à 1723 terdecies)](#1063)
-        - [I : Paiement des droits (art. 1701 à 1702 bis)](#1064)
-        - [II : Obligations des agents (art. 1703 à 1704)](#1065)
-        - [III : Obligation au paiement (art. 1705 à 1710)](#1066)
-        - [IV : Contribution au paiement (art. 1711 à 1712)](#1067)
-        - [V : Paiement en valeurs du Trésor ou en créances sur l'État (art. 1715 à 1716)](#1068)
-        - [V bis : Paiement par remise d'oeuvres d'art. (art. 1716 bis)](#1069)
-        - [VI : Paiement fractionné ou différé des droits (art. 1717 à 1722 ter)](#1070)
-        - [VII : Modes particuliers de perception des droits (art. 1723 ter)](#1071)
-        - [VII A : Droits de timbre (art. 1723 ter-0 A)](#1072)
-        - [VIII : Taxe locale d'équipement (art. 1723 quinquies à 1723 sexies)](#1073)
-        - [IX : Versement pour dépassement du plafond légal de densité (1) (art. 1723 decies à 1723 terdecies)](#1074)
-      - [Section V : Dispositions communes (art. 1724 à 1724 quater)](#1075)
-    - [Chapitre II : Pénalités (art. 1725 à 1840 T ter)](#1076)
-      - [Section I : Dispositions communes (art. 1725 à 1756 sexies)](#1077)
-        - [A : Sanctions fiscales. (art. 1725 à 1740 ter)](#1078)
-        - [B : Sanctions fiscales (art. 1731)](#1079)
-          - [3 : Retard de paiement des impôts (art. 1731)](#1080)
-            - [b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts (art. 1731)](#1081)
-        - [B : Sanctions pénales. (art. 1741 A à 1753 bis A)](#1082)
-        - [C : Autres sanctions et mesures diverses. (art. 1755 à 1756 sexies)](#1083)
-      - [Section II : Dispositions particulières (art. 1758 bis à 1840 T ter)](#1084)
-        - [A : Impôts directs et taxes assimilées (art. 1758 bis à 1783 B)](#1085)
-          - [1 : Majorations de droits (art. 1758 bis à 1762 A)](#1086)
-            - [(MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT) (art. 1762 A)](#1087)
-          - [2 : Amendes fiscales (art. 1763 à 1770 ter)](#1088)
-          - [3 : Sanctions pénales (art. 1772 à 1783 B)](#1089)
-        - [B : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1784 à 1790)](#1090)
-          - [1 : Sanctions fiscales (art. 1784 à 1788 ter)](#1091)
-          - [3 : Importation (art. 1790)](#1092)
-        - [C : Contributions indirectes (art. 1791 à 1825 F)](#1093)
-          - [1 : Sanctions fiscales (art. 1791 à 1804 B)](#1094)
-          - [2 : Responsabilité des infractions (art. 1805 à 1809)](#1095)
-          - [3 : Sanctions pénales (art. 1810 à 1821)](#1096)
-          - [4 : Autres sanctions et mesures diverses (art. 1822 à 1825 F)](#1097)
-        - [D : Enregistrement et publicité foncière (art. 1826 à 1840 G ter)](#1098)
-          - [1 : Sanctions fiscales (art. 1826 à 1836)](#1099)
-          - [2 : Sanctions pénales (art. 1837 à 1839)](#1100)
-          - [3 : Autres sanctions et mesures diverses (art. 1840 à 1840 G ter)](#1101)
-        - [E : Droits de timbre, autres droits et taxes (art. 1840 H à 1840 T ter)](#1102)
-          - [1 : Sanctions fiscales (art. 1840 H à 1840 N ter)](#1103)
-          - [2 : Sanctions pénales (art. 1840 O à 1840 Q)](#1104)
-          - [3 : Autres sanctions et mesures diverses (art. 1840 R à 1840 T ter)](#1105)
-    - [Chapitre III : Procédures (art. 1849 à 1918)](#1106)
-      - [Section I : Impôts directs et taxes assimilées (art. 1849 à 1851)](#1107)
-      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes (art. 1881 à 1894)](#1108)
-        - [I : Modes de preuve - Constatation des infractions (art. 1881 à 1883)](#1109)
-          - [2 : Mutations (art. 1881 à 1883)](#1110)
-        - [II : Poursuites et instances (art. 1894)](#1111)
-      - [Section V : Dispositions communes (art. 1917 à 1918)](#1112)
-        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts. (art. 1917)](#1113)
-        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 1918)](#1114)
-    - [Chapitre IV : Sûretés et privilèges (art. 1920 à 1929 ter)](#1115)
-      - [Section I : Impôts directs et taxes assimilées (art. 1920 à 1925 bis)](#1116)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1926)](#1117)
-      - [Section III : Contributions indirectes (art. 1928)](#1118)
-      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés (art. 1929)](#1119)
-      - [Section V : Dispositions communes (art. 1929 quater à 1929 ter)](#1120)
-    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1960 à 1965 A)](#1121)
-      - [Section II : Juridiction contentieuse (art. 1960 à 1965 FA)](#1122)
-        - [7 : Dispositions particulières aux impôts directs et taxes assimilées (art. 1960)](#1123)
-        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#1124)
-        - [9 : Dispositions particulières aux contributions indirectes (art. 1965 FA)](#1125)
-      - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis à 1965 A)](#1126)
-  - [RECOUVREMENT DE L'IMPOT (art. 1658 à 1927)](#1127)
-    - [PAIEMENT DE L'IMPOT (art. 1658 à 1723 undecies)](#1128)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1658 à 1679 quater B)](#1129)
-      - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#1130)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1693 bis)](#1131)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A à 1723 quater)](#1132)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204). (art. 1723 ter A à 1723 undecies)](#1133)
-    - [PENALITES (art. 1726 à 1840 W bis)](#1134)
-      - [DISPOSITIONS COMMUNES. (art. 1726 à 1756 ter)](#1135)
-      - [DISPOSITIONS PARTICULIERES. (art. 1757 à 1840 W bis)](#1136)
-    - [PROCEDURES (art. 1912)](#1137)
-      - [DISPOSITIONS COMMUNES. (art. 1912)](#1138)
+            - [III bis : Timbre des formules de chèques (art. 916 A)](#706)
+            - [IV : Timbre des quittances (art. 919 B)](#707)
+            - [V : Timbre des contrats de transport (art. 925 à 943)](#708)
+              - [A : Dispositions générales (art. 925 à 934)](#709)
+                - [1° : Lettres de voiture (art. 925)](#710)
+                - [2° : Transports aériens (art. 926)](#711)
+                - [3° : Transports ferroviaires (art. 927 à 933)](#712)
+                - [4° : Transports routiers (art. 934)](#713)
+              - [B : Régimes spéciaux et exonérations (art. 935 à 943)](#714)
+                - [1° : Colis postaux. (art. 935 à 937)](#715)
+                - [2° : Envois contre remboursement et transports de monnaie. (art. 938 à 939)](#716)
+                - [3° : Expéditions en groupage. (art. 940 à 941)](#717)
+                - [4° : Transports routiers. (art. 942)](#718)
+                - [5° : Colis exonérés. (art. 943)](#719)
+          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 946 à 968 A)](#720)
+            - [I : Cartes d'entrée dans les casinos. (art. 946)](#721)
+            - [II : Cartes d'identité et de séjour (art. 947 à 952)](#722)
+              - [A : Régime normal (art. 947 à 950)](#723)
+              - [B : Exonérations (art. 952)](#724)
+            - [III : Passeports et titres de voyage (art. 954 à 955)](#725)
+            - [III : Passeports, laissez-passer, sauf-conduits et titres de voyage (art. 953)](#726)
+            - [V : Formalités administratives. (art. 960 à 961)](#727)
+            - [VI : Navigation intérieure et navigation maritime de plaisance (art. 963)](#728)
+            - [VII : Permis de chasser (art. 964)](#729)
+            - [VIII : Véhicules à moteur (art. 966 à 968 A)](#730)
+              - [A : Permis de conduire (art. 966)](#731)
+              - [C : Réception des véhicules automobiles (art. 968 A)](#732)
+          - [Section III : Régimes spéciaux et exonérations de portée générale (art. 969 à 977)](#733)
+          - [Section IV : Impôt sur les opérations de bourse (art. 978 à 985)](#734)
+            - [I : Bourses de valeurs (art. 978 à 985)](#735)
+        - [Chapitre III : Autres droits et taxes (art. 990 D à 1019)](#736)
+          - [Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social (art. 990 D à 990 F)](#737)
+          - [Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales (art. 990 G à 990 H)](#738)
+          - [Section I : Taxe sur les conventions d'assurances (art. 991 à 1004)](#739)
+            - [I : Champ d'application (art. 991 à 1000 A)](#740)
+              - [A : Conventions imposables (art. 991 à 994)](#741)
+              - [B : Régimes spéciaux et exonérations (art. 996 à 1000 A)](#742)
+            - [III : Obligations diverses (art. 1002 à 1004)](#743)
+          - [Section II : Taxe d'accroissement (art. 1005 à 1006)](#744)
+          - [Section IV : Taxe sur les défrichements. (art. 1011)](#745)
+          - [Section V bis : Droit fixe de procédure (art. 1018 A)](#746)
+          - [Section V ter : Droit forfaitaire de délivrance d'ampliation (art. 1018 B)](#747)
+          - [Section VI : Droits de sceau (art. 1019)](#748)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1020 à 1135)](#749)
+          - [Disposition générale (art. 1020)](#750)
+          - [Section I : Agriculture (art. 1021 à 1037)](#751)
+            - [I : Aménagement rural (art. 1021 à 1025)](#752)
+              - [Irrigation (art. 1021 à 1022)](#753)
+              - [Remembrement (art. 1023)](#754)
+              - [Terres incultes - Mise en valeur. (art. 1025)](#755)
+            - [II : Organismes agricoles (art. 1027 à 1032)](#756)
+              - [Caisses de mutualité sociale agricole (art. 1027)](#757)
+              - [Sociétés d'aménagement foncier et d'établissement rural (art. 1028)](#758)
+              - [3° : Sociétés coopératives agricoles (art. 1029 à 1031)](#759)
+              - [Sociétés et caisses d'assurances mutuelles agricoles (art. 1032)](#760)
+            - [III : Divers (art. 1033 à 1037)](#761)
+              - [1° : Accidents du travail agricole (art. 1033)](#762)
+              - [2° Agriculteurs non salariés - Assurances contre les accidents et les maladies professionnelles (art. 1034)](#763)
+              - [3° : Prêts d'installation aux jeunes agriculteurs (art. 1036)](#764)
+              - [4° : Contrat de travail à salaire différé (art. 1037)](#765)
+          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1038 à 1048 bis)](#766)
+            - [Transports de voyageurs dans la région parisienne. (art. 1038)](#767)
+            - [2° : Etablissements d'utilité publique (art. 1039)](#768)
+            - [3° : Comités professionnels de développement économique (art. 1039 A)](#769)
+            - [4° : Etat (art. 1040)](#770)
+            - [5° : Etablissements publics à caractère scientifique et culturel (art. 1040 A)](#771)
+            - [Conservatoire de l'espace littoral et des rivages lacustres. (art. 1041)](#772)
+            - [Collectivités locales et établissements publics locaux (art. 1042 à 1042 A)](#773)
+            - [8°  : Etablissements publics de coopération intercommunale (art. 1043)](#774)
+            - [9° : Départements d'outre-mer (art. 1043 A)](#775)
+            - [10° : Ports autonomes (art. 1044 à 1044 A)](#776)
+            - [11° : Expropriation et servitudes pour cause d'utilité publique (art. 1045)](#777)
+            - [Parcs nationaux. (art. 1045 bis)](#778)
+            - [13° : Terrains communaux (art. 1046)](#779)
+            - [14° : Matelots et pêcheurs de la commune de Fort-Mardyck (art. 1047)](#780)
+            - [Réquisitions (art. 1048)](#781)
+            - [16° : Nationalisation de l'électricité dans les départements d'outre-mer (art. 1048 bis)](#782)
+          - [Section III : Construction. Logement (art. 1049 à 1055)](#783)
+          - [Section IV : Biens sinistrés (art. 1056 à 1059)](#784)
+            - [1° : Réparation, reconstruction et reconstitution des biens et des exploitations sinistrés du fait des hostilités (art. 1056 à 1058)](#785)
+            - [2° : Dommages causés à la propriété privée par l'exécution de travaux publics (art. 1059)](#786)
+          - [Section IV : Institutions à caractère social (art. 1067)](#787)
+            - [Assistance et protection de l'enfance. (art. 1067)](#788)
+          - [Section V : Établissements financiers (art. 1060 à 1065)](#789)
+            - [1° : Banque des règlements internationaux (art. 1060)](#790)
+            - [Caisse nationale de prévoyance (art. 1061)](#791)
+            - [2° : Caisses d'épargne (art. 1062 à 1063 A)](#792)
+            - [3° : Entreprises de crédit différé (art. 1064)](#793)
+            - [Entreprises d'assurances et de capitalisation (art. 1065)](#794)
+          - [Section VI : Institutions à caractère social (art. 1066 à 1089)](#795)
+            - [1° : Aide sociale (art. 1066)](#796)
+            - [3° : Assurances maladie et maternité des travailleurs non salariés de professions non agricoles (art. 1069)](#797)
+            - [4° : Caisse de retraite et de prévoyance des clercs de notaire (art. 1070)](#798)
+            - [5° : Croix-Rouge française (art. 1071)](#799)
+            - [6° : Indigents (art. 1072)](#800)
+            - [7° : Marine (art. 1074 à 1075)](#801)
+            - [8° : Ouvriers mineurs (art. 1077 à 1080)](#802)
+            - [9° : Rapatriés et personnes dépossédées de leurs biens outre-mer (art. 1081 à 1082)](#803)
+            - [10 ° : Sécurité sociale (art. 1083 à 1085)](#804)
+            - [11° : Mutuelles (art. 1087 à 1089)](#805)
+          - [Section VII : Juridictions. Procédures diverses (art. 1089 A à 1109)](#806)
+            - [1° : Actes de justice devant les juridictions civiles et administratives (art. 1089 A à 1089 C)](#807)
+            - [Actes de justice devant les juridictions civiles et administratives. (art. 1089 B)](#808)
+            - [2° : Agence judiciaire du Trésor (art. 1090)](#809)
+            - [3° : Aide judiciaire (art. 1090 B à 1090 F)](#810)
+            - [Aide juridictionnelle (art. 1090 A)](#811)
+            - [Casier judiciaire. Rectification de mentions (art. 1100)](#812)
+            - [5° : Révision des procès (art. 1109)](#813)
+          - [Section IX : Dispositions diverses (art. 1115 à 1135)](#814)
+            - [Achats en vue de la revente (art. 1115)](#815)
+            - [2° : Actes de dépôt (art. 1116)](#816)
+            - [3° : Actes de l'état civil (art. 1119)](#817)
+            - [4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait (art. 1122 à 1125 bis)](#818)
+            - [5° : Attribution gratuite d'actions ou de parts sociales au personnel des entreprises (art. 1126)](#819)
+            - [Attribution gratuite d'actions ou de parts sociales au personnel des entreprises. (art. 1127)](#820)
+            - [6° : Certificats de vie (art. 1128)](#821)
+            - [7° : Contrat d'apprentissage (art. 1128 bis)](#822)
+            - [8° : Contrat et certificat de travail (art. 1128 ter)](#823)
+            - [9° : Mariages. Dissentiment des parents (art. 1129)](#824)
+            - [10° : Patrimoine artistique national (art. 1131)](#825)
+            - [Publicité foncière - Réforme - Dispositions transitoires (art. 1132)](#826)
+            - [12° : Réunion de l'usufruit à la nue-propriété (art. 1133)](#827)
+            - [Warrants (art. 1134)](#828)
+            - [Indivisions successorales en Corse - Régime temporaire (art. 1135)](#829)
+      - [Titre V : Dispositions communes aux titres I, II et IV (art. 1378 bis à 1378 ter)](#830)
+    - [Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 1379 à 1649)](#831)
+      - [Titre premier : Impositions communales (art. 1379 à 1585 H)](#832)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1379 à 1528)](#833)
+          - [Section I : Généralités (art. 1379)](#834)
+            - [I : Répartition des ressources (art. 1379)](#835)
+          - [Section II : Taxes foncières (art. 1380 à 1406)](#836)
+            - [I : Taxe foncière sur les propriétés bâties (art. 1380 à 1391)](#837)
+              - [A : Propriétés imposables (art. 1380 à 1381)](#838)
+              - [B : Exonérations permanentes (art. 1382 à 1382 A)](#839)
+              - [C : Exonérations temporaires (art. 1383 à 1387)](#840)
+                - [1 : Exonération de deux ans (art. 1383)](#841)
+                - [1 bis : Exonération comprise entre deux et cinq ans (art. 1383 A)](#842)
+                - [2 : Exonérations supérieures à deux ans (art. 1384 à 1387)](#843)
+                  - [2° : Habitations à loyer modéré (art. 1384)](#844)
+                  - [Constructions financées au moyen des prêts aidés par l'État. (art. 1384 A)](#845)
+                  - [4° : Autres locaux (art. 1385 à 1387)](#846)
+              - [D : Base d'imposition (art. 1388)](#847)
+              - [E : Exonérations, dégrèvements spéciaux et réductions d'impôt (art. 1389 à 1391)](#848)
+            - [II : Taxe foncière sur les propriétés non bâties (art. 1393 à 1398)](#849)
+              - [A : Propriétés imposables (art. 1393)](#850)
+              - [B : Exonérations permanentes (art. 1394 à 1394 A)](#851)
+              - [C : Exonérations temporaires (art. 1395)](#852)
+              - [D : Base d'imposition (art. 1396)](#853)
+              - [E : Dégrèvements spéciaux (art. 1397 à 1398)](#854)
+            - [III : Dispositions communes aux taxes foncières sur les propriétés bâties et non bâties (art. 1399 à 1406)](#855)
+              - [A : Lieu d'imposition (art. 1399)](#856)
+              - [B : Débiteur de l'impôt (art. 1400 à 1401)](#857)
+              - [C : Mutations cadastrales et changements affectant le débiteur de l'impôt (art. 1403)](#858)
+              - [C : Mutations cadastrales et mutations de cotes. (art. 1402 à 1405)](#859)
+              - [D : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation (art. 1406)](#860)
+          - [Section III : Taxe d'habitation (art. 1407 à 1414)](#861)
+            - [I : Locaux imposables (art. 1407)](#862)
+            - [II : Personnes imposables (art. 1408)](#863)
+            - [III : Assiette de la taxe (art. 1409 à 1413)](#864)
+            - [IV : Dégrèvements d'office (art. 1414)](#865)
+          - [Section IV : Dispositions communes aux taxes foncières et à la taxe d'habitation (art. 1415 à 1416)](#866)
+          - [Section V : Cotisation foncière des entreprises (art. 1447 à 1479)](#867)
+            - [I : Personnes et activités imposables (art. 1447 à 1448)](#868)
+            - [II : Exonérations et abattements (art. 1449 à 1466)](#869)
+            - [III : Base d'imposition (art. 1467 à 1472 A bis)](#870)
+              - [1° : Ecrêtement des bases appliqué de 1976 à 1979. (art. 1472)](#871)
+              - [2° : Ecrêtement des bases applicable à compter de 1980. (art. 1472 A)](#872)
+              - [3° Réduction des bases à compter de 1987. (art. 1472 A bis)](#873)
+            - [IV : Répartition des bases (art. 1473 à 1475)](#874)
+            - [V : Etablissement de la taxe (art. 1476 à 1479)](#875)
+              - [Annualité de la taxe (art. 1478 à 1479)](#876)
+          - [Section VI : Règles d'évaluation de la valeur locative des biens imposables (art. 1494 à 1518 B)](#877)
+            - [I : Évaluation des propriétés bâties (art. 1494 à 1508)](#878)
+              - [A : Généralités (art. 1494 à 1495)](#879)
+              - [B : Locaux d'habitation et à usage professionnel (art. 1496 à 1497)](#880)
+              - [C : Locaux commerciaux et biens divers (art. 1498)](#881)
+              - [D : Etablissements industriels (1) (art. 1499 à 1500)](#882)
+              - [E : Dispositions communes aux établissements industriels et aux locaux commerciaux (art. 1501)](#883)
+              - [F : Procédure d'évaluation (art. 1502 à 1508)](#884)
+            - [II : Évaluation des propriétés non bâties (art. 1510 à 1515)](#885)
+              - [B : Procédure d'évaluation (art. 1510 à 1515)](#886)
+                - [1 : Règles permanentes (art. 1510 à 1514)](#887)
+                - [2 : Règles particulières à la révision quinquennale 1970-1974 (art. 1515)](#888)
+            - [III : Dispositions communes aux biens passibles des impôts directs locaux (art. 1516 à 1518 B)](#889)
+              - [A : Mise à jour périodique de la valeur locative des propriétés bâties et non bâties (art. 1516 à 1517)](#890)
+              - [B : Réduction de la valeur locative de certains biens (art. 1518 A)](#891)
+              - [C : Valeur locative minimum (art. 1518 B)](#892)
+          - [Section VII : Autres taxes communales (art. 1519 à 1528)](#893)
+            - [I : Taxes obligatoires (art. 1519 à 1519 A)](#894)
+              - [A : Redevance communale des mines (art. 1519)](#895)
+              - [B : Imposition forfaitaire sur les pylônes (art. 1519 A)](#896)
+            - [II : Taxes facultatives (art. 1520 à 1528)](#897)
+              - [A : Taxe d'enlèvement des ordures ménagères (art. 1520 à 1526)](#898)
+              - [C : Taxe de balayage (art. 1528)](#899)
+        - [Chapitre II : Contributions indirectes (art. 1560 à 1582 bis)](#900)
+          - [Section I : Taxes obligatoires (art. 1560 à 1572)](#901)
+            - [II : Impôt sur les spectacles, jeux et divertissements (art. 1560 à 1566)](#902)
+              - [Tarif (art. 1560)](#903)
+              - [Appareils automatiques - Obligations. (art. 1560 ter)](#904)
+              - [Demi-tarif (art. 1562)](#905)
+              - [Assiette et liquidation. (art. 1564)](#906)
+              - [7° : Obligations des exploitants (art. 1565 bis)](#907)
+              - [Obligations des exploitants. (art. 1565)](#908)
+              - [Répartition de l'impôt. (art. 1566)](#909)
+            - [III : Licence des débitants de boissons. (art. 1568 à 1572)](#910)
+          - [Section II : Taxes facultatives (art. 1582 bis)](#911)
+            - [III : Taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques (art. 1582 bis)](#912)
+        - [Chapitre III : Enregistrement (art. 1585 A à 1585 H)](#913)
+          - [Section III : Taxe locale d'équipement (art. 1585 A à 1585 H)](#914)
+      - [Titre II : Impositions départementales (art. 1586 à 1599 J)](#915)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1586 à 1589)](#916)
+          - [I : Généralités (art. 1586)](#917)
+          - [Redevance départementale des mines. (art. 1587)](#918)
+          - [III : Redevance départementale des mines (art. 1588 à 1589)](#919)
+        - [Chapitre III : Enregistrement (art. 1594 B à 1599 B)](#920)
+          - [Section I : Droit d'enregistrement et taxe de publicité foncière (art. 1594 B à 1595 bis)](#921)
+            - [I : Dispositions générales (art. 1594 B)](#922)
+            - [IV : Réduction des droits (art. 1595 à 1595 bis)](#923)
+          - [Section II : Autres taxes (art. 1595 ter)](#924)
+            - [I : Taxes obligatoires. Taxes additionnelles à certains droits d'enregistrement (art. 1595 ter)](#925)
+          - [Section I : Droit départemental d'enregistrement et taxe départementale de publicité foncière (art. 1594 A à 1594 F)](#926)
+            - [I : Dispositions générales. (art. 1594 A à 1594 C)](#927)
+            - [II : Régime spécial (art. 1594 F)](#928)
+          - [Section II : Autres taxes départementales (art. 1599 B)](#929)
+            - [II : Taxes facultatives (art. 1599 B)](#930)
+              - [Taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement. (art. 1599 B)](#931)
+        - [Chapitre IV : Autres droits et taxes (art. 1599 C à 1599 J)](#932)
+      - [Titre III : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 1600-0 A à 1635 ter)](#933)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1600-0 A à 1609 nonies B)](#934)
+          - [Section 0I : Contribution perçue au profit de la caisse nationale des allocations familiales. (art. 1600-0 A)](#935)
+          - [Section I : Taxe pour frais de chambres de commerce et d'industrie (art. 1600)](#936)
+          - [Section III : Taxe perçue au profit du budget annexe des prestations sociales agricoles (art. 1603)](#937)
+          - [Section IV : Taxe pour frais de chambres d'agriculture (art. 1604)](#938)
+          - [Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine (art. 1608)](#939)
+          - [Section X : Impositions perçues au profit des communautés urbaines (art. 1609 bis)](#940)
+          - [Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes (art. 1609 quater)](#941)
+          - [Section XII : Impositions perçues au profit des districts. (art. 1609 quinquies)](#942)
+          - [Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle (art. 1609 sexies à 1609 nonies)](#943)
+            - [I : Syndicats communautaires d'aménagement. (art. 1609 sexies)](#944)
+            - [II : Communautés urbaines. (art. 1609 septies)](#945)
+            - [III : Ensembles urbains (art. 1609 octies)](#946)
+              - [*AGGLOMERATIONS NOUVELLES - VILLES NOUVELLES* (art. 1609 octies)](#947)
+            - [IV : Dispositions communes (art. 1609 nonies)](#948)
+              - [*VILLE NOUVELLE* (art. 1609 nonies)](#949)
+          - [Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes (art. 1609 nonies A)](#950)
+          - [Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles (art. 1609 nonies B)](#951)
+        - [Chapitre I bis : Taxes sur le chiffre d'affaires (art. 1609 decies A à 1609 decies E)](#952)
+          - [Fonds national du livre. (art. 1609 decies A à 1609 decies E)](#953)
+        - [Chapitre II : Contributions indirectes (art. 1613 à 1621 quinquies)](#954)
+          - [Section II : Taxe sur les produits des exploitations forestières. (art. 1613)](#955)
+          - [Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles (art. 1615 bis à 1618 septies)](#956)
+            - [A bis : Alcools soumis au droit de consommation. (art. 1615 bis)](#957)
+            - [C : Betteraves. (art. 1617)](#958)
+            - [E : Produits des exploitations forestières. (art. 1618 bis)](#959)
+            - [I : Tabacs fabriqués. (art. 1618 sexies)](#960)
+            - [J : Farines. (art. 1618 septies)](#961)
+          - [Section VII : Aide aux spectacles (art. 1621)](#962)
+            - [A : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 1621)](#963)
+          - [Section X : Fonds de construction, d'équipement rural et d'expansion économique. (art. 1621 quinquies)](#964)
+        - [Chapitre III : Enregistrement, publicité foncière et timbre (art. 1622 à 1635 bis B)](#965)
+          - [Section I : Taxes à percevoir pour l'alimentation du fonds commun des accidents du travail agricole (art. 1622 à 1624 bis)](#966)
+          - [Section I ter : Fonds commun de majoration de rentes viagères et pensions (loi du 24 mai 1951). (art. 1628 ter)](#967)
+          - [Section I sexies : Fonds destiné au financement des majorations accordées aux rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. 1628 sexies)](#968)
+          - [Section V : Fonds national de garantie des calamités agricoles (art. 1635 bis A)](#969)
+          - [Section V bis : Fonds de garantie des calamités agricoles dans les départements d'outre-mer (art. 1635 bis AA)](#970)
+          - [Section V ter : Fonds de compensation des risques de l'assurance de la construction. (art. 1635 bis AB)](#971)
+          - [Section VI : Groupements de communes. Taxe locale d'équipement (art. 1635 bis B)](#972)
+        - [Chapitre IV : Dispositions communes (art. 1635 ter)](#973)
+      - [Titre III bis : Impositions perçues au profit des collectivités locales et de certains établissements publics (art. 1635 quater)](#974)
+        - [Enregistrement - Autres droits et taxes (art. 1635 quater)](#975)
+          - [Participation en cas de dépassement du coefficient d'occupation du sol. (art. 1635 quater)](#976)
+      - [Titre V : Dispositions communes aux Titres I à III bis (art. 1635 quinquies à 1649)](#977)
+        - [Chapitre 0I : Champ d'application (art. 1635 quinquies)](#978)
+        - [Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales (art. 1636 B decies à 1639 B)](#979)
+          - [Section I : Dispositions générales (art. 1636 B decies à 1636 B septies)](#980)
+          - [Section II : Dispositions particulières (art. 1638 bis à 1639 B)](#981)
+        - [Chapitre II : Frais d'assiette, de non-valeurs et de recouvrement (art. 1644)](#982)
+          - [Section I : Taxes établies et recouvrées comme en matière de contributions directes au profit des collectivités locales et organismes divers (art. 1644)](#983)
+        - [Chapitre II bis : Dégrèvements de taxe professionnelle (art. 1647 bis à 1647 B septies)](#984)
+          - [Section I : Dégrèvements spéciaux de la taxe professionnelle (art. 1647 bis à 1647 bis B)](#985)
+          - [Section II : Plafonnement de la taxe professionnelle (art. 1647 A à 1647 B septies)](#986)
+            - [I : Plafonnement de la taxe professionnelle en 1976. (art. 1647 A)](#987)
+            - [II : Plafonnement de la taxe professionnelle en 1977 et 1978. (art. 1647 B)](#988)
+            - [III : Plafonnement de la taxe professionnelle en 1979. (art. 1647 B bis à 1647 B ter)](#989)
+            - [IV : Plafonnement en fonction de la valeur ajoutée (art. 1647 B quinquies à 1647 B septies)](#990)
+        - [Chapitre II ter : Cotisation minimum de la taxe professionnelle. (art. 1647 D)](#991)
+        - [Chapitre III : Fonds de péréquation de la taxe professionnelle (art. 1648 B à 1648 B bis)](#992)
+          - [Section II : Fonds national de péréquation de la taxe professionnelle. (art. 1648 B à 1648 B bis)](#993)
+        - [Chapitre IV : Départements d'outre-mer (art. 1649)](#994)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 1649 A à 1656)](#995)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 1649 A à 1649 decies)](#996)
+        - [Chapitre premier : Obligations des contribuables (art. 1649 A à 1649 ter C)](#997)
+          - [0I : Déclaration des comptes financiers. (art. 1649 A)](#998)
+          - [0I quater : Déclaration des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes (art. 1649 B)](#999)
+          - [I bis : Déclaration des ventes autres que les ventes au détail (art. 1649 bis A)](#1000)
+          - [I ter : Apposition de marques (art. 1649 bis B)](#1001)
+          - [I quater : Opérations réalisées sur les marchés à terme (art. 1649 bis C)](#1002)
+          - [II bis : Façonniers (art. 1649 ter C)](#1003)
+        - [Chapitre 0I bis : Mesures de contrôle des valeurs mobilières (art. 1649 quater-0 A à 1649 quater-0 B)](#1004)
+        - [Chapitre 0I ter : Entreprises de la batellerie (art. 1649 quater BA)](#1005)
+        - [Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés (art. 1649 quater C à 1649 quater I)](#1006)
+          - [I : Centres de gestion agréés et associations de gestion et de comptabilité (art. 1649 quater C à 1649 quater E-O bis)](#1007)
+          - [II : Associations agréées des professions libérales (art. 1649 quater F à 1649 quater H)](#1008)
+          - [III : Dispositions communes (art. 1649 quater I)](#1009)
+        - [Chapitre II : Casier fiscal (art. 1649 quinquies)](#1010)
+        - [Chapitre IV : Exonérations fiscales contractuelles et agréments (art. 1649 nonies à 1649 octies)](#1011)
+        - [Chapitre V : Départements d'outre-mer. Établissement et conservation du cadastre (art. 1649 decies)](#1012)
+      - [Titre II : Dispositions diverses (art. 1650 à 1656)](#1013)
+        - [Chapitre premier : Commissions administratives des impôts et comité de l'abus de droit fiscal (art. 1650 à 1653 C)](#1014)
+          - [I : Commission communale des impôts directs (art. 1650)](#1015)
+          - [III : Commissions centrales des impôts directs (art. 1652 à 1652 bis)](#1016)
+            - [a : (art. 1652)](#1017)
+            - [b : Évaluations foncières (art. 1652 bis)](#1018)
+          - [IV : Dispositions communes aux commissions visées aux articles 1650 à 1652 bis (art. 1653)](#1019)
+          - [V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III) (art. 1653 B)](#1020)
+          - [VI : Comité de l'abus de droit fiscal (art. 1653 C)](#1021)
+        - [Chapitre II : Régime de certains organismes et sociétés (art. 1654 à 1655 ter)](#1022)
+          - [I : Établissements publics et autres organismes (art. 1654)](#1023)
+          - [II bis : Coopératives d'administration ou d'entreprise (art. 1655 A)](#1024)
+          - [III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées. (art. 1655 bis)](#1025)
+          - [IV : Sociétés immobilières de copropriété (art. 1655 ter)](#1026)
+        - [Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis (art. 1656)](#1027)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT IMPOTS D'ETAT IMPOTS DIRECTS ET TAXES ASSIMILEES IMPOT SUR LE REVENU REVENUS IMPOSABLES (art. 150 ter)](#1028)
+  - [ASSIETTE ET LIQUIDATION DE LA TAXE (art. 834 bis)](#1029)
+    - [IMPOTS D'ETAT (art. 834 bis)](#1030)
+      - [DROITS D'ENREGISTREMENT (art. 834 bis)](#1031)
+        - [LES TARIFS ET LEUR APPLICATION. (art. 834 bis)](#1032)
+  - [Livre II : Recouvrement de l'impôt (art. 1657 à 1965 A)](#1033)
+    - [Chapitre premier : Paiement de l'impôt (art. 1657 à 1724 quater)](#1034)
+      - [Section I : Impôts directs et taxes assimilées (art. 1657 à 1691)](#1035)
+        - [I : Rôles et avis d'imposition (art. 1657 à 1660)](#1036)
+          - [1 : Établissement et mise en recouvrement des rôles (art. 1657 à 1659 A)](#1037)
+          - [2 : Rôles auxiliaires (art. 1660)](#1038)
+        - [II : Exigibilité de l'impôt (art. 1663 A à 1679 quinquies)](#1039)
+          - [1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités (art. 1663 A à 1665)](#1040)
+          - [3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France (art. 1671 A)](#1041)
+          - [4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières (art. 1672 à 1678 quater)](#1042)
+            - [a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations (art. 1672 à 1673 bis)](#1043)
+            - [b : Retenue à la source afférente aux intérêts des bons de caisse (art. 1678 bis)](#1044)
+            - [Prélèvement sur les produits de placement à revenu fixe. (art. 1678 quater)](#1045)
+          - [5 : Taxe d'apprentissage (art. 1678 quinquies à 1678 sexies)](#1046)
+          - [6 : Taxe sur les salaires (art. 1679 à 1679 bis)](#1047)
+          - [7 bis : Participation des employeurs au développement de la formation professionnelle continue (art. 1679 bis B)](#1048)
+          - [8 : Prélèvement à la charge des sociétés (art. 1679 ter)](#1049)
+          - [10 : Taxe professionnelle (art. 1679 quinquies)](#1050)
+        - [III : Paiement de l'impôt (art. 1680 à 1681 ter)](#1051)
+          - [1 : Dispositions générales (art. 1680 à 1681)](#1052)
+          - [2 : Paiement mensuel de l'impôt sur le revenu (art. 1681 A à 1681 E)](#1053)
+          - [4 : Paiement de la taxe d'habitation, des taxes foncières et de la contribution à l'audiovisuel public due par les particuliers (art. 1681 quater à 1681 ter)](#1054)
+        - [IV : Obligations des tiers (art. 1682 à 1691)](#1055)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1692 à 1697)](#1056)
+        - [I : Régime général (art. 1692)](#1057)
+        - [II : Régime spécial des acomptes provisionnels (art. 1693)](#1058)
+        - [III : Régime spécial du forfait. (art. 1694)](#1059)
+        - [III bis : Régime simplifié (art. 1694 bis)](#1060)
+        - [IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers. (art. 1695)](#1061)
+        - [V : Modalités d'application (art. 1696 à 1697)](#1062)
+      - [Section III : Contributions indirectes (art. 1698 à 1700)](#1063)
+      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1701 à 1723 terdecies)](#1064)
+        - [I : Paiement des droits (art. 1701 à 1702 bis)](#1065)
+        - [II : Obligations des agents (art. 1703 à 1704)](#1066)
+        - [III : Obligation au paiement (art. 1705 à 1710)](#1067)
+        - [IV : Contribution au paiement (art. 1711 à 1712)](#1068)
+        - [V : Paiement en valeurs du Trésor ou en créances sur l'État (art. 1715 à 1716)](#1069)
+        - [V bis : Paiement par remise d'oeuvres d'art. (art. 1716 bis)](#1070)
+        - [VI : Paiement fractionné ou différé des droits (art. 1717 à 1722 ter)](#1071)
+        - [VII : Modes particuliers de perception des droits (art. 1723 ter)](#1072)
+        - [VII A : Droits de timbre (art. 1723 ter-0 A)](#1073)
+        - [VIII : Taxe locale d'équipement (art. 1723 quinquies à 1723 sexies)](#1074)
+        - [IX : Versement pour dépassement du plafond légal de densité (1) (art. 1723 decies à 1723 terdecies)](#1075)
+      - [Section V : Dispositions communes (art. 1724 à 1724 quater)](#1076)
+    - [Chapitre II : Pénalités (art. 1725 à 1840 T ter)](#1077)
+      - [Section I : Dispositions communes (art. 1725 à 1756 sexies)](#1078)
+        - [A : Sanctions fiscales. (art. 1725 à 1740 ter)](#1079)
+        - [B : Sanctions fiscales (art. 1731)](#1080)
+          - [3 : Retard de paiement des impôts (art. 1731)](#1081)
+            - [b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts (art. 1731)](#1082)
+        - [B : Sanctions pénales. (art. 1741 A à 1753 bis A)](#1083)
+        - [C : Autres sanctions et mesures diverses. (art. 1755 à 1756 sexies)](#1084)
+      - [Section II : Dispositions particulières (art. 1758 bis à 1840 T ter)](#1085)
+        - [A : Impôts directs et taxes assimilées (art. 1758 bis à 1783 B)](#1086)
+          - [1 : Majorations de droits (art. 1758 bis à 1762 A)](#1087)
+            - [(MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT) (art. 1762 A)](#1088)
+          - [2 : Amendes fiscales (art. 1763 à 1770 ter)](#1089)
+          - [3 : Sanctions pénales (art. 1772 à 1783 B)](#1090)
+        - [B : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1784 à 1790)](#1091)
+          - [1 : Sanctions fiscales (art. 1784 à 1788 ter)](#1092)
+          - [3 : Importation (art. 1790)](#1093)
+        - [C : Contributions indirectes (art. 1791 à 1825 F)](#1094)
+          - [1 : Sanctions fiscales (art. 1791 à 1804 B)](#1095)
+          - [2 : Responsabilité des infractions (art. 1805 à 1809)](#1096)
+          - [3 : Sanctions pénales (art. 1810 à 1821)](#1097)
+          - [4 : Autres sanctions et mesures diverses (art. 1822 à 1825 F)](#1098)
+        - [D : Enregistrement et publicité foncière (art. 1826 à 1840 G ter)](#1099)
+          - [1 : Sanctions fiscales (art. 1826 à 1836)](#1100)
+          - [2 : Sanctions pénales (art. 1837 à 1839)](#1101)
+          - [3 : Autres sanctions et mesures diverses (art. 1840 à 1840 G ter)](#1102)
+        - [E : Droits de timbre, autres droits et taxes (art. 1840 H à 1840 T ter)](#1103)
+          - [1 : Sanctions fiscales (art. 1840 H à 1840 N ter)](#1104)
+          - [2 : Sanctions pénales (art. 1840 O à 1840 Q)](#1105)
+          - [3 : Autres sanctions et mesures diverses (art. 1840 R à 1840 T ter)](#1106)
+    - [Chapitre III : Procédures (art. 1849 à 1918)](#1107)
+      - [Section I : Impôts directs et taxes assimilées (art. 1849 à 1851)](#1108)
+      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes (art. 1881 à 1894)](#1109)
+        - [I : Modes de preuve - Constatation des infractions (art. 1881 à 1883)](#1110)
+          - [2 : Mutations (art. 1881 à 1883)](#1111)
+        - [II : Poursuites et instances (art. 1894)](#1112)
+      - [Section V : Dispositions communes (art. 1912 à 1918)](#1113)
+        - [I : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts. (art. 1912)](#1114)
+        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts. (art. 1917)](#1115)
+        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 1918)](#1116)
+    - [Chapitre IV : Sûretés et privilèges (art. 1920 à 1929 ter)](#1117)
+      - [Section I : Impôts directs et taxes assimilées (art. 1920 à 1925 bis)](#1118)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1926)](#1119)
+      - [Section III : Contributions indirectes (art. 1928)](#1120)
+      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés (art. 1929)](#1121)
+      - [Section V : Dispositions communes (art. 1929 quater à 1929 ter)](#1122)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1960 à 1965 A)](#1123)
+      - [Section II : Juridiction contentieuse (art. 1960 à 1965 FA)](#1124)
+        - [7 : Dispositions particulières aux impôts directs et taxes assimilées (art. 1960)](#1125)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#1126)
+        - [9 : Dispositions particulières aux contributions indirectes (art. 1965 FA)](#1127)
+      - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis à 1965 A)](#1128)
+  - [RECOUVREMENT DE L'IMPOT (art. 1658 à 1927)](#1129)
+    - [PAIEMENT DE L'IMPOT (art. 1658 à 1723 undecies)](#1130)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1658 à 1679 quater B)](#1131)
+      - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#1132)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1693 bis)](#1133)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A à 1723 quater)](#1134)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204). (art. 1723 ter A à 1723 undecies)](#1135)
+    - [PENALITES (art. 1726 à 1840 W bis)](#1136)
+      - [DISPOSITIONS COMMUNES. (art. 1726 à 1756 ter)](#1137)
+      - [DISPOSITIONS PARTICULIERES. (art. 1757 à 1840 W bis)](#1138)
     - [SURETES ET PRIVILEGES (art. 1927)](#1139)
       - [CONTRIBUTIONS INDIRECTES. (art. 1927)](#1140)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
@@ -36115,7 +36115,39 @@ _Abrogé par_:
   - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
 
 
-##### IV : Timbre des quittances<a id=706></a>
+##### III bis : Timbre des formules de chèques<a id=706></a>
+
+###### Article 916 A
+
+Les formules de chèques ne répondant pas aux caractéristiques de barrement d'avance et de non-transmissibilité par voie
+d'endossement mentionnées à l'article 85 de la loi n° 78-1239 du 29 décembre 1978 sont soumises à un droit de timbre de 5 F
+[*montant*] par formule (1).
+
+(1)  Annexe III, art. 313 BG bis et 313 BG ter;
+
+Annexe IV, art. 121 KL bis et 121 KL ter.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 313 BG bis
+  - CGIAN3 313 BG ter
+  - CGIAN4 121 KL bis
+  - CGIAN4 121 KL ter
+  - Loi n°78-1239 1978-12-29 ART. 85 FINANCES POUR 1979
+
+_Modifié par_:
+
+  - Loi n°86-1317 du 30 décembre 1986 - art. 30 () JORF 31 décembre 1986, en vigueur le 15 janvier 1987
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1723 ter-0 A (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BG bis (V)
+
+
+##### IV : Timbre des quittances<a id=707></a>
 
 ###### Article 919 B
 
@@ -36145,11 +36177,11 @@ _Abrogé par_:
   - Loi n°2010-476 du 12 mai 2010 - art. 54
 
 
-##### V : Timbre des contrats de transport<a id=707></a>
+##### V : Timbre des contrats de transport<a id=708></a>
 
-##### A : Dispositions générales<a id=708></a>
+##### A : Dispositions générales<a id=709></a>
 
-##### 1° : Lettres de voiture<a id=709></a>
+##### 1° : Lettres de voiture<a id=710></a>
 
 ###### Article 925
 
@@ -36179,7 +36211,7 @@ _Abrogé par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 
 
-##### 2° : Transports aériens<a id=710></a>
+##### 2° : Transports aériens<a id=711></a>
 
 ###### Article 926
 
@@ -36203,7 +36235,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Instruction 1999-04-27 7M-3-99
 
 
-##### 3° : Transports ferroviaires<a id=711></a>
+##### 3° : Transports ferroviaires<a id=712></a>
 
 ###### Article 927
 
@@ -36392,7 +36424,7 @@ _Abrogé par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 
 
-##### 4° : Transports routiers<a id=712></a>
+##### 4° : Transports routiers<a id=713></a>
 
 ###### Article 934
 
@@ -36430,9 +36462,9 @@ _Abrogé par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 
 
-##### B : Régimes spéciaux et exonérations<a id=713></a>
+##### B : Régimes spéciaux et exonérations<a id=714></a>
 
-##### 1° : Colis postaux.<a id=714></a>
+##### 1° : Colis postaux.<a id=715></a>
 
 ###### Article 935
 
@@ -36494,7 +36526,7 @@ _Abrogé par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 
 
-##### 2° : Envois contre remboursement et transports de monnaie.<a id=715></a>
+##### 2° : Envois contre remboursement et transports de monnaie.<a id=716></a>
 
 ###### Article 938
 
@@ -36548,7 +36580,7 @@ _Abrogé par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 
 
-##### 3° : Expéditions en groupage.<a id=716></a>
+##### 3° : Expéditions en groupage.<a id=717></a>
 
 ###### Article 940
 
@@ -36609,7 +36641,7 @@ _Abrogé par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 
 
-##### 4° : Transports routiers.<a id=717></a>
+##### 4° : Transports routiers.<a id=718></a>
 
 ###### Article 942
 
@@ -36645,7 +36677,7 @@ _Abrogé par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 
 
-##### 5° : Colis exonérés.<a id=718></a>
+##### 5° : Colis exonérés.<a id=719></a>
 
 ###### Article 943
 
@@ -36668,9 +36700,9 @@ _Abrogé par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 
 
-##### Section II : Droits de délivrance de documents et perceptions diverses<a id=719></a>
+##### Section II : Droits de délivrance de documents et perceptions diverses<a id=720></a>
 
-##### I : Cartes d'entrée dans les casinos.<a id=720></a>
+##### I : Cartes d'entrée dans les casinos.<a id=721></a>
 
 ###### Article 946
 
@@ -36688,9 +36720,9 @@ _Abrogé par_:
   - Loi n°2005-1720 du 30 décembre 2005 - art. 112 (V) JORF 31 décembre 2005 en vigueur le 1er mai 2006
 
 
-##### II : Cartes d'identité et de séjour<a id=721></a>
+##### II : Cartes d'identité et de séjour<a id=722></a>
 
-##### A : Régime normal<a id=722></a>
+##### A : Régime normal<a id=723></a>
 
 ###### Article 947
 
@@ -36729,6 +36761,50 @@ _Modifié par_:
   - Loi n°85-1403 du 30 décembre 1985 - art. 12 (P) JORF 31 décembre 1985
 
 
+###### Article 948
+
+La carte de séjour de ressortissant d'un Etat membre de la Communauté économique européenne est assujettie, lors de son
+renouvellement, à un droit de timbre de même quotité que le droit perçu en application de l'article 947 lors de la délivrance
+de la carte nationale d'identité.
+
+Il en est de même pour la délivrance et le renouvellement des certificats de résidence prévus à l'article 7 bis de l'accord
+du 27 septembre 1968 modifié, publié par les décrets n° 69-243 du 18 mars 1969 et n° 86-320 du 7 mars 1986.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Accord 1968-09-27 art. 7 bis
+  - CGI 947
+  - Décret n°69-243 1969-03-18
+  - Décret n°86-320 1986-03-07
+
+_Modifié par_:
+
+  - Loi n°86-1317 1986-12-30 art. 42 IV, V Finances pour 1987 JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+
+
+###### Article 949
+
+Les cartes de séjour des étrangers sont assujetties, lors de leur délivrance ou de leur renouvellement, à la perception d'une
+somme de 160 F [*montant*] (1). Toutefois, cette somme n'est pas exigible lors de la délivrance de la première carte de
+séjour.
+
+(1) Annexe III, art. 313 AT.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 313 AT
+
+_Modifié par_:
+
+  - Loi n°86-1317 1986-12-30 art. 42 III, V Finances pour 1987 JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+
+
 ###### Article 950
 
 La carte spéciale délivrée aux étrangers exerçant une profession commerciale ou industrielle est assujettie, lors de sa
@@ -36759,7 +36835,7 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-##### B : Exonérations<a id=723></a>
+##### B : Exonérations<a id=724></a>
 
 ###### Article 952
 
@@ -36777,7 +36853,7 @@ _Cite_:
   - CGI 950
 
 
-##### III : Passeports et titres de voyage<a id=724></a>
+##### III : Passeports et titres de voyage<a id=725></a>
 
 ###### Article 954
 
@@ -36824,7 +36900,7 @@ Nota : Voir annexe III, art. 313 BA
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Passeports, laissez-passer, sauf-conduits et titres de voyage<a id=725></a>
+##### III : Passeports, laissez-passer, sauf-conduits et titres de voyage<a id=726></a>
 
 ###### Article 953
 
@@ -36865,7 +36941,7 @@ _Cite_:
   - CGIAN3 313 BA
 
 
-##### V : Formalités administratives.<a id=726></a>
+##### V : Formalités administratives.<a id=727></a>
 
 ###### Article 960
 
@@ -36956,7 +37032,7 @@ _Nouveaux textes_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### VI : Navigation intérieure et navigation maritime de plaisance<a id=727></a>
+##### VI : Navigation intérieure et navigation maritime de plaisance<a id=728></a>
 
 ###### Article 963
 
@@ -36993,7 +37069,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 AZ (V)
 
 
-##### VII : Permis de chasser<a id=728></a>
+##### VII : Permis de chasser<a id=729></a>
 
 ###### Article 964
 
@@ -37015,9 +37091,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### VIII : Véhicules à moteur<a id=729></a>
+##### VIII : Véhicules à moteur<a id=730></a>
 
-##### A : Permis de conduire<a id=730></a>
+##### A : Permis de conduire<a id=731></a>
 
 ###### Article 966
 
@@ -37046,7 +37122,7 @@ _Abrogé par_:
   - Loi - art. 31 () JORF 31 décembre 1999
 
 
-##### C : Réception des véhicules automobiles<a id=731></a>
+##### C : Réception des véhicules automobiles<a id=732></a>
 
 ###### Article 968 A
 
@@ -37078,7 +37154,7 @@ _Cite_:
   - Code de la route R106
 
 
-##### Section III : Régimes spéciaux et exonérations de portée générale<a id=732></a>
+##### Section III : Régimes spéciaux et exonérations de portée générale<a id=733></a>
 
 ###### Article 969
 
@@ -37241,9 +37317,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section IV : Impôt sur les opérations de bourse<a id=733></a>
+##### Section IV : Impôt sur les opérations de bourse<a id=734></a>
 
-##### I : Bourses de valeurs<a id=734></a>
+##### I : Bourses de valeurs<a id=735></a>
 
 ###### Article 978
 
@@ -37384,9 +37460,9 @@ _Cite_:
   - Code de commerce 76
 
 
-#### Chapitre III : Autres droits et taxes<a id=735></a>
+#### Chapitre III : Autres droits et taxes<a id=736></a>
 
-##### Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social<a id=736></a>
+##### Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social<a id=737></a>
 
 ###### Article 990 D
 
@@ -37506,7 +37582,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R23 B-1 (V)
 
 
-##### Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales<a id=737></a>
+##### Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales<a id=738></a>
 
 ###### Article 990 G
 
@@ -37576,11 +37652,11 @@ _Modifié par_:
   - Loi n°83-1179 1983-12-29 art. 31 I 4 Finances pour 1984 JORF 30 décembre 1983
 
 
-##### Section I : Taxe sur les conventions d'assurances<a id=738></a>
+##### Section I : Taxe sur les conventions d'assurances<a id=739></a>
 
-##### I : Champ d'application<a id=739></a>
+##### I : Champ d'application<a id=740></a>
 
-##### A : Conventions imposables<a id=740></a>
+##### A : Conventions imposables<a id=741></a>
 
 ###### Article 991
 
@@ -37709,7 +37785,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
 
 
-##### B : Régimes spéciaux et exonérations<a id=741></a>
+##### B : Régimes spéciaux et exonérations<a id=742></a>
 
 ###### Article 996
 
@@ -37892,7 +37968,7 @@ _Codifié par_:
   - Décret n°90-798 1990-09-10
 
 
-##### III : Obligations diverses<a id=742></a>
+##### III : Obligations diverses<a id=743></a>
 
 ###### Article 1002
 
@@ -37977,7 +38053,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 306 F (V)
 
 
-##### Section II : Taxe d'accroissement<a id=743></a>
+##### Section II : Taxe d'accroissement<a id=744></a>
 
 ###### Article 1005
 
@@ -38009,7 +38085,7 @@ _Cite_:
   - CGI 1005
 
 
-##### Section IV : Taxe sur les défrichements.<a id=744></a>
+##### Section IV : Taxe sur les défrichements.<a id=745></a>
 
 ###### Article 1011
 
@@ -38047,7 +38123,7 @@ _Codifié par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### Section V bis : Droit fixe de procédure<a id=745></a>
+##### Section V bis : Droit fixe de procédure<a id=746></a>
 
 ###### Article 1018 A
 
@@ -38101,7 +38177,7 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-##### Section V ter : Droit forfaitaire de délivrance d'ampliation<a id=746></a>
+##### Section V ter : Droit forfaitaire de délivrance d'ampliation<a id=747></a>
 
 ###### Article 1018 B
 
@@ -38142,7 +38218,7 @@ _Abrogé par_:
   - Loi - art. 31 () JORF 31 décembre 1999
 
 
-##### Section VI : Droits de sceau<a id=747></a>
+##### Section VI : Droits de sceau<a id=748></a>
 
 ###### Article 1019
 
@@ -38159,9 +38235,9 @@ _Abrogé par_:
   - Loi - art. 77 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=748></a>
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=749></a>
 
-##### Disposition générale<a id=749></a>
+##### Disposition générale<a id=750></a>
 
 ###### Article 1020
 
@@ -38232,11 +38308,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1133 ter (V)
 
 
-##### Section I : Agriculture<a id=750></a>
+##### Section I : Agriculture<a id=751></a>
 
-##### I : Aménagement rural<a id=751></a>
+##### I : Aménagement rural<a id=752></a>
 
-##### Irrigation<a id=752></a>
+##### Irrigation<a id=753></a>
 
 ###### Article 1021
 
@@ -38282,7 +38358,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Remembrement<a id=753></a>
+##### Remembrement<a id=754></a>
 
 ###### Article 1023
 
@@ -38311,7 +38387,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Terres incultes - Mise en valeur.<a id=754></a>
+##### Terres incultes - Mise en valeur.<a id=755></a>
 
 ###### Article 1025
 
@@ -38345,9 +38421,9 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code rural - art. L125-14 (V)
 
 
-##### II : Organismes agricoles<a id=755></a>
+##### II : Organismes agricoles<a id=756></a>
 
-##### Caisses de mutualité sociale agricole<a id=756></a>
+##### Caisses de mutualité sociale agricole<a id=757></a>
 
 ###### Article 1027
 
@@ -38370,7 +38446,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Sociétés d'aménagement foncier et d'établissement rural<a id=757></a>
+##### Sociétés d'aménagement foncier et d'établissement rural<a id=758></a>
 
 ###### Article 1028
 
@@ -38409,7 +38485,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1020 (V)
 
 
-##### 3° : Sociétés coopératives agricoles<a id=758></a>
+##### 3° : Sociétés coopératives agricoles<a id=759></a>
 
 ###### Article 1029
 
@@ -38471,7 +38547,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1020 (V)
 
 
-##### Sociétés et caisses d'assurances mutuelles agricoles<a id=759></a>
+##### Sociétés et caisses d'assurances mutuelles agricoles<a id=760></a>
 
 ###### Article 1032
 
@@ -38505,9 +38581,9 @@ _Abrogé par_:
   - HISTO: abrogation incorporée dans l'édition du 2 septembre 1994
 
 
-##### III : Divers<a id=760></a>
+##### III : Divers<a id=761></a>
 
-##### 1° : Accidents du travail agricole<a id=761></a>
+##### 1° : Accidents du travail agricole<a id=762></a>
 
 ###### Article 1033
 
@@ -38522,7 +38598,7 @@ _Cite_:
   - Loi n°1898-04-09
 
 
-##### 2° Agriculteurs non salariés - Assurances contre les accidents et les maladies professionnelles<a id=762></a>
+##### 2° Agriculteurs non salariés - Assurances contre les accidents et les maladies professionnelles<a id=763></a>
 
 ###### Article 1034
 
@@ -38551,7 +38627,7 @@ _Modifié par_:
   - Loi n°83-1071 1983-12-14 art. 1 JORF 15 décembre 1983
 
 
-##### 3° : Prêts d'installation aux jeunes agriculteurs<a id=763></a>
+##### 3° : Prêts d'installation aux jeunes agriculteurs<a id=764></a>
 
 ###### Article 1036
 
@@ -38569,7 +38645,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 4° : Contrat de travail à salaire différé<a id=764></a>
+##### 4° : Contrat de travail à salaire différé<a id=765></a>
 
 ###### Article 1037
 
@@ -38585,9 +38661,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1020 (V)
 
 
-##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=765></a>
+##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=766></a>
 
-##### Transports de voyageurs dans la région parisienne.<a id=766></a>
+##### Transports de voyageurs dans la région parisienne.<a id=767></a>
 
 ###### Article 1038
 
@@ -38613,7 +38689,7 @@ _Cité par_:
   - Code des transports - art. L1241-19 (VD)
 
 
-##### 2° : Etablissements d'utilité publique<a id=767></a>
+##### 2° : Etablissements d'utilité publique<a id=768></a>
 
 ###### Article 1039
 
@@ -38642,7 +38718,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 2001-08-09 7G-7-01
 
 
-##### 3° : Comités professionnels de développement économique<a id=768></a>
+##### 3° : Comités professionnels de développement économique<a id=769></a>
 
 ###### Article 1039 A
 
@@ -38658,7 +38734,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1020 (V)
 
 
-##### 4° : Etat<a id=769></a>
+##### 4° : Etat<a id=770></a>
 
 ###### Article 1040
 
@@ -38685,7 +38761,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 (V)
 
 
-##### 5° : Etablissements publics à caractère scientifique et culturel<a id=770></a>
+##### 5° : Etablissements publics à caractère scientifique et culturel<a id=771></a>
 
 ###### Article 1040 A
 
@@ -38710,7 +38786,7 @@ _Codifié par_:
   - Décret n°2001-435 2001-05-21
 
 
-##### Conservatoire de l'espace littoral et des rivages lacustres.<a id=771></a>
+##### Conservatoire de l'espace littoral et des rivages lacustres.<a id=772></a>
 
 ###### Article 1041
 
@@ -38729,7 +38805,7 @@ _Cite_:
   - Loi n°75-602 du 10 juillet 1975 - art. 1 (M)
 
 
-##### Collectivités locales et établissements publics locaux<a id=772></a>
+##### Collectivités locales et établissements publics locaux<a id=773></a>
 
 ###### Article 1042
 
@@ -38783,7 +38859,7 @@ d'enregistrement, de la taxe de publicité foncière et du droit de timbre.
   - HISTO: EDITION 1979-07-01
 
 
-##### 8°  : Etablissements publics de coopération intercommunale<a id=773></a>
+##### 8°  : Etablissements publics de coopération intercommunale<a id=774></a>
 
 ###### Article 1043
 
@@ -38801,7 +38877,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 9° : Départements d'outre-mer<a id=774></a>
+##### 9° : Départements d'outre-mer<a id=775></a>
 
 ###### Article 1043 A
 
@@ -38824,7 +38900,7 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### 10° : Ports autonomes<a id=775></a>
+##### 10° : Ports autonomes<a id=776></a>
 
 ###### Article 1044
 
@@ -38858,7 +38934,7 @@ _Cite_:
   - Code des ports maritimes - art. L111-1 (V)
 
 
-##### 11° : Expropriation et servitudes pour cause d'utilité publique<a id=776></a>
+##### 11° : Expropriation et servitudes pour cause d'utilité publique<a id=777></a>
 
 ###### Article 1045
 
@@ -38894,7 +38970,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1022 (V)
 
 
-##### Parcs nationaux.<a id=777></a>
+##### Parcs nationaux.<a id=778></a>
 
 ###### Article 1045 bis
 
@@ -38917,7 +38993,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 13° : Terrains communaux<a id=778></a>
+##### 13° : Terrains communaux<a id=779></a>
 
 ###### Article 1046
 
@@ -38933,7 +39009,7 @@ foncière.
   - HISTO: EDITION 1979-07-01
 
 
-##### 14° : Matelots et pêcheurs de la commune de Fort-Mardyck<a id=779></a>
+##### 14° : Matelots et pêcheurs de la commune de Fort-Mardyck<a id=780></a>
 
 ###### Article 1047
 
@@ -38948,7 +39024,7 @@ _Cite_:
   - Loi n°62-883 1962-07-31
 
 
-##### Réquisitions<a id=780></a>
+##### Réquisitions<a id=781></a>
 
 ###### Article 1048
 
@@ -38971,7 +39047,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 16° : Nationalisation de l'électricité dans les départements d'outre-mer<a id=781></a>
+##### 16° : Nationalisation de l'électricité dans les départements d'outre-mer<a id=782></a>
 
 ###### Article 1048 bis
 
@@ -38997,7 +39073,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
 
 
-##### Section III : Construction. Logement<a id=782></a>
+##### Section III : Construction. Logement<a id=783></a>
 
 ###### Article 1049
 
@@ -39172,9 +39248,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section IV : Biens sinistrés<a id=783></a>
+##### Section IV : Biens sinistrés<a id=784></a>
 
-##### 1° : Réparation, reconstruction et reconstitution des biens et des exploitations sinistrés du fait des hostilités<a id=784></a>
+##### 1° : Réparation, reconstruction et reconstitution des biens et des exploitations sinistrés du fait des hostilités<a id=785></a>
 
 ###### Article 1056
 
@@ -39252,7 +39328,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 881 L (V)
 
 
-##### 2° : Dommages causés à la propriété privée par l'exécution de travaux publics<a id=785></a>
+##### 2° : Dommages causés à la propriété privée par l'exécution de travaux publics<a id=786></a>
 
 ###### Article 1059
 
@@ -39269,9 +39345,9 @@ _Cite_:
   - Loi n°1892-12-29
 
 
-##### Section IV : Institutions à caractère social<a id=786></a>
+##### Section IV : Institutions à caractère social<a id=787></a>
 
-##### Assistance et protection de l'enfance.<a id=787></a>
+##### Assistance et protection de l'enfance.<a id=788></a>
 
 ###### Article 1067
 
@@ -39314,9 +39390,9 @@ _Modifié par_:
   - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 
-##### Section V : Établissements financiers<a id=788></a>
+##### Section V : Établissements financiers<a id=789></a>
 
-##### 1° : Banque des règlements internationaux<a id=789></a>
+##### 1° : Banque des règlements internationaux<a id=790></a>
 
 ###### Article 1060
 
@@ -39325,7 +39401,7 @@ toute charge fiscale.
 
 
 
-##### Caisse nationale de prévoyance<a id=790></a>
+##### Caisse nationale de prévoyance<a id=791></a>
 
 ###### Article 1061
 
@@ -39358,7 +39434,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10
 
 
-##### 2° : Caisses d'épargne<a id=791></a>
+##### 2° : Caisses d'épargne<a id=792></a>
 
 ###### Article 1062
 
@@ -39423,7 +39499,7 @@ _Créé par_:
   - Loi n°83-557 du 1 juillet 1983 - art. 26 (Ab) JORF 2 juillet 1983
 
 
-##### 3° : Entreprises de crédit différé<a id=792></a>
+##### 3° : Entreprises de crédit différé<a id=793></a>
 
 ###### Article 1064
 
@@ -39450,7 +39526,7 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 XIV JORF 25 janvier 1984
 
 
-##### Entreprises d'assurances et de capitalisation<a id=793></a>
+##### Entreprises d'assurances et de capitalisation<a id=794></a>
 
 ###### Article 1065
 
@@ -39480,9 +39556,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section VI : Institutions à caractère social<a id=794></a>
+##### Section VI : Institutions à caractère social<a id=795></a>
 
-##### 1° : Aide sociale<a id=795></a>
+##### 1° : Aide sociale<a id=796></a>
 
 ###### Article 1066
 
@@ -39518,7 +39594,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 VA (V)
 
 
-##### 3° : Assurances maladie et maternité des travailleurs non salariés de professions non agricoles<a id=796></a>
+##### 3° : Assurances maladie et maternité des travailleurs non salariés de professions non agricoles<a id=797></a>
 
 ###### Article 1069
 
@@ -39544,7 +39620,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1020 (V)
 
 
-##### 4° : Caisse de retraite et de prévoyance des clercs de notaire<a id=797></a>
+##### 4° : Caisse de retraite et de prévoyance des clercs de notaire<a id=798></a>
 
 ###### Article 1070
 
@@ -39564,7 +39640,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1020 (V)
 
 
-##### 5° : Croix-Rouge française<a id=798></a>
+##### 5° : Croix-Rouge française<a id=799></a>
 
 ###### Article 1071
 
@@ -39584,7 +39660,7 @@ _Cite_:
   - Loi n°1940-08-07
 
 
-##### 6° : Indigents<a id=799></a>
+##### 6° : Indigents<a id=800></a>
 
 ###### Article 1072
 
@@ -39619,7 +39695,7 @@ Les dispositions qui précèdent sont applicables au mariage entre français et 
 
 
 
-##### 7° : Marine<a id=800></a>
+##### 7° : Marine<a id=801></a>
 
 ###### Article 1074
 
@@ -39655,7 +39731,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1083 (V)
 
 
-##### 8° : Ouvriers mineurs<a id=801></a>
+##### 8° : Ouvriers mineurs<a id=802></a>
 
 ###### Article 1077
 
@@ -39711,7 +39787,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1087 (V)
 
 
-##### 9° : Rapatriés et personnes dépossédées de leurs biens outre-mer<a id=802></a>
+##### 9° : Rapatriés et personnes dépossédées de leurs biens outre-mer<a id=803></a>
 
 ###### Article 1081
 
@@ -39774,7 +39850,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
 
 
-##### 10 ° : Sécurité sociale<a id=803></a>
+##### 10 ° : Sécurité sociale<a id=804></a>
 
 ###### Article 1083
 
@@ -39822,7 +39898,7 @@ _Cité par_:
   - Code rural - art. L723-4 (V)
 
 
-##### 11° : Mutuelles<a id=804></a>
+##### 11° : Mutuelles<a id=805></a>
 
 ###### Article 1087
 
@@ -39900,9 +39976,9 @@ _Cite_:
   - Code de la mutualité - art. L111-1 (Ab)
 
 
-##### Section VII : Juridictions. Procédures diverses<a id=805></a>
+##### Section VII : Juridictions. Procédures diverses<a id=806></a>
 
-##### 1° : Actes de justice devant les juridictions civiles et administratives<a id=806></a>
+##### 1° : Actes de justice devant les juridictions civiles et administratives<a id=807></a>
 
 ###### Article 1089 A
 
@@ -39944,7 +40020,7 @@ _Codifié par_:
   - PEREMPTION: Loi - art. 31 () JORF Finances pour 2000 31 décembre 1999
 
 
-##### Actes de justice devant les juridictions civiles et administratives.<a id=807></a>
+##### Actes de justice devant les juridictions civiles et administratives.<a id=808></a>
 
 ###### Article 1089 B
 
@@ -39958,7 +40034,7 @@ droit de timbre, ni à toute autre taxe prévue par le code général des impôt
   - HISTO: EDITION 1979-07-01
 
 
-##### 2° : Agence judiciaire du Trésor<a id=808></a>
+##### 2° : Agence judiciaire du Trésor<a id=809></a>
 
 ###### Article 1090
 
@@ -39970,7 +40046,7 @@ Toutefois, si le Trésor est condamné, il est dispensé du paiement des droits.
 
 
 
-##### 3° : Aide judiciaire<a id=809></a>
+##### 3° : Aide judiciaire<a id=810></a>
 
 ###### Article 1090 B
 
@@ -40079,7 +40155,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Aide juridictionnelle<a id=810></a>
+##### Aide juridictionnelle<a id=811></a>
 
 ###### Article 1090 A
 
@@ -40121,7 +40197,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-##### Casier judiciaire. Rectification de mentions<a id=811></a>
+##### Casier judiciaire. Rectification de mentions<a id=812></a>
 
 ###### Article 1100
 
@@ -40141,7 +40217,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 5° : Révision des procès<a id=812></a>
+##### 5° : Révision des procès<a id=813></a>
 
 ###### Article 1109
 
@@ -40154,9 +40230,9 @@ instance est condamné à tous les frais.
 
 
 
-##### Section IX : Dispositions diverses<a id=813></a>
+##### Section IX : Dispositions diverses<a id=814></a>
 
-##### Achats en vue de la revente<a id=814></a>
+##### Achats en vue de la revente<a id=815></a>
 
 ###### Article 1115
 
@@ -40186,7 +40262,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2° : Actes de dépôt<a id=815></a>
+##### 2° : Actes de dépôt<a id=816></a>
 
 ###### Article 1116
 
@@ -40196,7 +40272,7 @@ passibles du droit proportionnel ne dépassent pas 500 F, sont exonérés de tim
 
 
 
-##### 3° : Actes de l'état civil<a id=816></a>
+##### 3° : Actes de l'état civil<a id=817></a>
 
 ###### Article 1119
 
@@ -40219,7 +40295,7 @@ _Cite_:
   - Ordonnance 62-800 1962-07-16 art. 1
 
 
-##### 4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait<a id=817></a>
+##### 4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait<a id=818></a>
 
 ###### Article 1122
 
@@ -40313,7 +40389,7 @@ _Cite_:
   - Loi n°71-1029 1971-12-24
 
 
-##### 5° : Attribution gratuite d'actions ou de parts sociales au personnel des entreprises<a id=818></a>
+##### 5° : Attribution gratuite d'actions ou de parts sociales au personnel des entreprises<a id=819></a>
 
 ###### Article 1126
 
@@ -40325,7 +40401,7 @@ d'Etat.
 
 
 
-##### Attribution gratuite d'actions ou de parts sociales au personnel des entreprises.<a id=819></a>
+##### Attribution gratuite d'actions ou de parts sociales au personnel des entreprises.<a id=820></a>
 
 ###### Article 1127
 
@@ -40358,7 +40434,7 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-##### 6° : Certificats de vie<a id=820></a>
+##### 6° : Certificats de vie<a id=821></a>
 
 ###### Article 1128
 
@@ -40366,7 +40442,7 @@ Les certificats de vie sont dispensés de l'enregistrement.
 
 
 
-##### 7° : Contrat d'apprentissage<a id=821></a>
+##### 7° : Contrat d'apprentissage<a id=822></a>
 
 ###### Article 1128 bis
 
@@ -40374,7 +40450,7 @@ Le contrat d'apprentissage est exempt de tous droits de timbre et d'enregistreme
 
 
 
-##### 8° : Contrat et certificat de travail<a id=822></a>
+##### 8° : Contrat et certificat de travail<a id=823></a>
 
 ###### Article 1128 ter
 
@@ -40384,7 +40460,7 @@ proportionnel.
 
 
 
-##### 9° : Mariages. Dissentiment des parents<a id=823></a>
+##### 9° : Mariages. Dissentiment des parents<a id=824></a>
 
 ###### Article 1129
 
@@ -40402,7 +40478,7 @@ _Cite_:
   - Loi n°1933-02-02
 
 
-##### 10° : Patrimoine artistique national<a id=824></a>
+##### 10° : Patrimoine artistique national<a id=825></a>
 
 ###### Article 1131
 
@@ -40454,7 +40530,7 @@ _Cité par_:
   - Code électoral - art. L41 (V)
 
 
-##### Publicité foncière - Réforme - Dispositions transitoires<a id=825></a>
+##### Publicité foncière - Réforme - Dispositions transitoires<a id=826></a>
 
 ###### Article 1132
 
@@ -40480,7 +40556,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 12° : Réunion de l'usufruit à la nue-propriété<a id=826></a>
+##### 12° : Réunion de l'usufruit à la nue-propriété<a id=827></a>
 
 ###### Article 1133
 
@@ -40494,7 +40570,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1020 (V)
 
 
-##### Warrants<a id=827></a>
+##### Warrants<a id=828></a>
 
 ###### Article 1134
 
@@ -40539,7 +40615,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Indivisions successorales en Corse - Régime temporaire<a id=828></a>
+##### Indivisions successorales en Corse - Régime temporaire<a id=829></a>
 
 ###### Article 1135
 
@@ -40565,7 +40641,7 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-### Titre V : Dispositions communes aux titres I, II et IV<a id=829></a>
+### Titre V : Dispositions communes aux titres I, II et IV<a id=830></a>
 
 ###### Article 1378 bis
 
@@ -40654,15 +40730,15 @@ sont assujetties aux dispositions fiscales applicables aux mutations d'immeubles
   - TXT_ASSOCIE: Jurisprudence 1998-08-21 7E-1-98
 
 
-## Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=830></a>
+## Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=831></a>
 
-### Titre premier : Impositions communales<a id=831></a>
+### Titre premier : Impositions communales<a id=832></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=832></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=833></a>
 
-##### Section I : Généralités<a id=833></a>
+##### Section I : Généralités<a id=834></a>
 
-##### I : Répartition des ressources<a id=834></a>
+##### I : Répartition des ressources<a id=835></a>
 
 ###### Article 1379
 
@@ -40722,11 +40798,11 @@ _Cité par_:
   - Code rural - art. L151-36 (V)
 
 
-##### Section II : Taxes foncières<a id=835></a>
+##### Section II : Taxes foncières<a id=836></a>
 
-##### I : Taxe foncière sur les propriétés bâties<a id=836></a>
+##### I : Taxe foncière sur les propriétés bâties<a id=837></a>
 
-##### A : Propriétés imposables<a id=837></a>
+##### A : Propriétés imposables<a id=838></a>
 
 ###### Article 1380
 
@@ -40786,7 +40862,7 @@ _Cité par_:
   - HISTO: JORF 30 décembre 1983)
 
 
-##### B : Exonérations permanentes<a id=838></a>
+##### B : Exonérations permanentes<a id=839></a>
 
 ###### Article 1382
 
@@ -40936,9 +41012,9 @@ _Codifié par_:
   - Décret n°91-883 1991-09-09
 
 
-##### C : Exonérations temporaires<a id=839></a>
+##### C : Exonérations temporaires<a id=840></a>
 
-##### 1 : Exonération de deux ans<a id=840></a>
+##### 1 : Exonération de deux ans<a id=841></a>
 
 ###### Article 1383
 
@@ -40973,7 +41049,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 1 bis : Exonération comprise entre deux et cinq ans<a id=841></a>
+##### 1 bis : Exonération comprise entre deux et cinq ans<a id=842></a>
 
 ###### Article 1383 A
 
@@ -41024,9 +41100,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 315 septies (V)
 
 
-##### 2 : Exonérations supérieures à deux ans<a id=842></a>
+##### 2 : Exonérations supérieures à deux ans<a id=843></a>
 
-##### 2° : Habitations à loyer modéré<a id=843></a>
+##### 2° : Habitations à loyer modéré<a id=844></a>
 
 ###### Article 1384
 
@@ -41064,7 +41140,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 314 (V)
 
 
-##### Constructions financées au moyen des prêts aidés par l'État.<a id=844></a>
+##### Constructions financées au moyen des prêts aidés par l'État.<a id=845></a>
 
 ###### Article 1384 A
 
@@ -41102,7 +41178,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
 
 
-##### 4° : Autres locaux<a id=845></a>
+##### 4° : Autres locaux<a id=846></a>
 
 ###### Article 1385
 
@@ -41177,7 +41253,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1385 (V)
 
 
-##### D : Base d'imposition<a id=846></a>
+##### D : Base d'imposition<a id=847></a>
 
 ###### Article 1388
 
@@ -41208,7 +41284,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1516 (V)
 
 
-##### E : Exonérations, dégrèvements spéciaux et réductions d'impôt<a id=847></a>
+##### E : Exonérations, dégrèvements spéciaux et réductions d'impôt<a id=848></a>
 
 ###### Article 1389
 
@@ -41304,9 +41380,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### II : Taxe foncière sur les propriétés non bâties<a id=848></a>
+##### II : Taxe foncière sur les propriétés non bâties<a id=849></a>
 
-##### A : Propriétés imposables<a id=849></a>
+##### A : Propriétés imposables<a id=850></a>
 
 ###### Article 1393
 
@@ -41326,7 +41402,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1635 sexies (V)
 
 
-##### B : Exonérations permanentes<a id=850></a>
+##### B : Exonérations permanentes<a id=851></a>
 
 ###### Article 1394
 
@@ -41430,7 +41506,7 @@ _Créé par_:
   - Loi n°85-1404 1984-12-30 art. 13 Finances rectificative pour 1985 JORF 31 décembre 1985
 
 
-##### C : Exonérations temporaires<a id=851></a>
+##### C : Exonérations temporaires<a id=852></a>
 
 ###### Article 1395
 
@@ -41479,7 +41555,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### D : Base d'imposition<a id=852></a>
+##### D : Base d'imposition<a id=853></a>
 
 ###### Article 1396
 
@@ -41519,7 +41595,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (V)
 
 
-##### E : Dégrèvements spéciaux<a id=853></a>
+##### E : Dégrèvements spéciaux<a id=854></a>
 
 ###### Article 1397
 
@@ -41578,9 +41654,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*196-4 (V)
 
 
-##### III : Dispositions communes aux taxes foncières sur les propriétés bâties et non bâties<a id=854></a>
+##### III : Dispositions communes aux taxes foncières sur les propriétés bâties et non bâties<a id=855></a>
 
-##### A : Lieu d'imposition<a id=855></a>
+##### A : Lieu d'imposition<a id=856></a>
 
 ###### Article 1399
 
@@ -41617,7 +41693,7 @@ _Cité par_:
   - Décret n°2012-264 du 22 février 2012 - art. (V)
 
 
-##### B : Débiteur de l'impôt<a id=856></a>
+##### B : Débiteur de l'impôt<a id=857></a>
 
 ###### Article 1400
 
@@ -41672,7 +41748,7 @@ habitants.
 
 
 
-##### C : Mutations cadastrales et changements affectant le débiteur de l'impôt<a id=857></a>
+##### C : Mutations cadastrales et changements affectant le débiteur de l'impôt<a id=858></a>
 
 ###### Article 1403
 
@@ -41686,7 +41762,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1400 (V)
 
 
-##### C : Mutations cadastrales et mutations de cotes.<a id=858></a>
+##### C : Mutations cadastrales et mutations de cotes.<a id=859></a>
 
 ###### Article 1402
 
@@ -41762,7 +41838,7 @@ aient été effectuées dans les rôles.
   - HISTO: EDITION 1979-07-01
 
 
-##### D : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation<a id=859></a>
+##### D : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation<a id=860></a>
 
 ###### Article 1406
 
@@ -41815,9 +41891,9 @@ _Cite_:
   - CGIAN3 321 E, 321 F, 321 G
 
 
-##### Section III : Taxe d'habitation<a id=860></a>
+##### Section III : Taxe d'habitation<a id=861></a>
 
-##### I : Locaux imposables<a id=861></a>
+##### I : Locaux imposables<a id=862></a>
 
 ###### Article 1407
 
@@ -41859,7 +41935,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 322 ter (VD)
 
 
-##### II : Personnes imposables<a id=862></a>
+##### II : Personnes imposables<a id=863></a>
 
 ###### Article 1408
 
@@ -41899,7 +41975,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Assiette de la taxe<a id=863></a>
+##### III : Assiette de la taxe<a id=864></a>
 
 ###### Article 1409
 
@@ -42070,7 +42146,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-##### IV : Dégrèvements d'office<a id=864></a>
+##### IV : Dégrèvements d'office<a id=865></a>
 
 ###### Article 1414
 
@@ -42138,7 +42214,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L98
 
 
-##### Section IV : Dispositions communes aux taxes foncières et à la taxe d'habitation<a id=865></a>
+##### Section IV : Dispositions communes aux taxes foncières et à la taxe d'habitation<a id=866></a>
 
 ###### Article 1415
 
@@ -42174,9 +42250,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. L45 G (V)
 
 
-##### Section V : Cotisation foncière des entreprises<a id=866></a>
+##### Section V : Cotisation foncière des entreprises<a id=867></a>
 
-##### I : Personnes et activités imposables<a id=867></a>
+##### I : Personnes et activités imposables<a id=868></a>
 
 ###### Article 1447
 
@@ -42219,7 +42295,7 @@ _Abrogé par_:
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 
-##### II : Exonérations et abattements<a id=868></a>
+##### II : Exonérations et abattements<a id=869></a>
 
 ###### Article 1449
 
@@ -42817,7 +42893,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Base d'imposition<a id=869></a>
+##### III : Base d'imposition<a id=870></a>
 
 ###### Article 1467
 
@@ -43154,7 +43230,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2334-14-1 (V)
 
 
-##### 1° : Ecrêtement des bases appliqué de 1976 à 1979.<a id=870></a>
+##### 1° : Ecrêtement des bases appliqué de 1976 à 1979.<a id=871></a>
 
 ###### Article 1472
 
@@ -43192,7 +43268,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5334-9 (V)
 
 
-##### 2° : Ecrêtement des bases applicable à compter de 1980.<a id=871></a>
+##### 2° : Ecrêtement des bases applicable à compter de 1980.<a id=872></a>
 
 ###### Article 1472 A
 
@@ -43227,7 +43303,7 @@ _Abrogé par_:
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 
-##### 3° Réduction des bases à compter de 1987.<a id=872></a>
+##### 3° Réduction des bases à compter de 1987.<a id=873></a>
 
 ###### Article 1472 A bis
 
@@ -43252,7 +43328,7 @@ _Cité par_:
   - Loi n°2002-1575 du 30 décembre 2002 - art. 26 (V)
 
 
-##### IV : Répartition des bases<a id=873></a>
+##### IV : Répartition des bases<a id=874></a>
 
 ###### Article 1473
 
@@ -43343,7 +43419,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 G septies (V)
 
 
-##### V : Etablissement de la taxe<a id=874></a>
+##### V : Etablissement de la taxe<a id=875></a>
 
 ###### Article 1476
 
@@ -43421,7 +43497,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I-0 bis (V)
 
 
-##### Annualité de la taxe<a id=875></a>
+##### Annualité de la taxe<a id=876></a>
 
 ###### Article 1478
 
@@ -43528,11 +43604,11 @@ _Abrogé par_:
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 
-##### Section VI : Règles d'évaluation de la valeur locative des biens imposables<a id=876></a>
+##### Section VI : Règles d'évaluation de la valeur locative des biens imposables<a id=877></a>
 
-##### I : Évaluation des propriétés bâties<a id=877></a>
+##### I : Évaluation des propriétés bâties<a id=878></a>
 
-##### A : Généralités<a id=878></a>
+##### A : Généralités<a id=879></a>
 
 ###### Article 1494
 
@@ -43588,7 +43664,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 B (V)
 
 
-##### B : Locaux d'habitation et à usage professionnel<a id=879></a>
+##### B : Locaux d'habitation et à usage professionnel<a id=880></a>
 
 ###### Article 1496
 
@@ -43709,7 +43785,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1498 (V)
 
 
-##### C : Locaux commerciaux et biens divers<a id=880></a>
+##### C : Locaux commerciaux et biens divers<a id=881></a>
 
 ###### Article 1498
 
@@ -43768,7 +43844,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L96 I (V)
 
 
-##### D : Etablissements industriels (1)<a id=881></a>
+##### D : Etablissements industriels (1)<a id=882></a>
 
 ###### Article 1499
 
@@ -43896,7 +43972,7 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-##### E : Dispositions communes aux établissements industriels et aux locaux commerciaux<a id=882></a>
+##### E : Dispositions communes aux établissements industriels et aux locaux commerciaux<a id=883></a>
 
 ###### Article 1501
 
@@ -43941,7 +44017,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 N (V)
 
 
-##### F : Procédure d'évaluation<a id=883></a>
+##### F : Procédure d'évaluation<a id=884></a>
 
 ###### Article 1502
 
@@ -44110,11 +44186,11 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L175
 
 
-##### II : Évaluation des propriétés non bâties<a id=884></a>
+##### II : Évaluation des propriétés non bâties<a id=885></a>
 
-##### B : Procédure d'évaluation<a id=885></a>
+##### B : Procédure d'évaluation<a id=886></a>
 
-##### 1 : Règles permanentes<a id=886></a>
+##### 1 : Règles permanentes<a id=887></a>
 
 ###### Article 1510
 
@@ -44189,7 +44265,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1506 (Ab)
 
 
-##### 2 : Règles particulières à la révision quinquennale 1970-1974<a id=887></a>
+##### 2 : Règles particulières à la révision quinquennale 1970-1974<a id=888></a>
 
 ###### Article 1515
 
@@ -44250,9 +44326,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 ter (VT)
 
 
-##### III : Dispositions communes aux biens passibles des impôts directs locaux<a id=888></a>
+##### III : Dispositions communes aux biens passibles des impôts directs locaux<a id=889></a>
 
-##### A : Mise à jour périodique de la valeur locative des propriétés bâties et non bâties<a id=889></a>
+##### A : Mise à jour périodique de la valeur locative des propriétés bâties et non bâties<a id=890></a>
 
 ###### Article 1516
 
@@ -44323,7 +44399,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R352-4 (V)
 
 
-##### B : Réduction de la valeur locative de certains biens<a id=890></a>
+##### B : Réduction de la valeur locative de certains biens<a id=891></a>
 
 ###### Article 1518 A
 
@@ -44359,7 +44435,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### C : Valeur locative minimum<a id=891></a>
+##### C : Valeur locative minimum<a id=892></a>
 
 ###### Article 1518 B
 
@@ -44389,11 +44465,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1467 (M)
 
 
-##### Section VII : Autres taxes communales<a id=892></a>
+##### Section VII : Autres taxes communales<a id=893></a>
 
-##### I : Taxes obligatoires<a id=893></a>
+##### I : Taxes obligatoires<a id=894></a>
 
-##### A : Redevance communale des mines<a id=894></a>
+##### A : Redevance communale des mines<a id=895></a>
 
 ###### Article 1519
 
@@ -44511,7 +44587,7 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-##### B : Imposition forfaitaire sur les pylônes<a id=895></a>
+##### B : Imposition forfaitaire sur les pylônes<a id=896></a>
 
 ###### Article 1519 A
 
@@ -44562,9 +44638,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1379-0 bis (V)
 
 
-##### II : Taxes facultatives<a id=896></a>
+##### II : Taxes facultatives<a id=897></a>
 
-##### A : Taxe d'enlèvement des ordures ménagères<a id=897></a>
+##### A : Taxe d'enlèvement des ordures ménagères<a id=898></a>
 
 ###### Article 1520
 
@@ -44734,7 +44810,7 @@ Des rôles supplémentaires peuvent être établis à raison des faits existants
 
 
 
-##### C : Taxe de balayage<a id=898></a>
+##### C : Taxe de balayage<a id=899></a>
 
 ###### Article 1528
 
@@ -44765,13 +44841,13 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 326 (Ab)
 
 
-#### Chapitre II : Contributions indirectes<a id=899></a>
+#### Chapitre II : Contributions indirectes<a id=900></a>
 
-##### Section I : Taxes obligatoires<a id=900></a>
+##### Section I : Taxes obligatoires<a id=901></a>
 
-##### II : Impôt sur les spectacles, jeux et divertissements<a id=901></a>
+##### II : Impôt sur les spectacles, jeux et divertissements<a id=902></a>
 
-##### Tarif<a id=902></a>
+##### Tarif<a id=903></a>
 
 ###### Article 1560
 
@@ -44907,7 +44983,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 147 (V)
 
 
-##### Appareils automatiques - Obligations.<a id=903></a>
+##### Appareils automatiques - Obligations.<a id=904></a>
 
 ###### Article 1560 ter
 
@@ -44925,7 +45001,7 @@ _Créé par_:
   - Loi n°86-1317 du 30 décembre 1986 - art. 35 () JORF 31 décembre 1986 en vigueur le 1er janvier 1987
 
 
-##### Demi-tarif<a id=904></a>
+##### Demi-tarif<a id=905></a>
 
 ###### Article 1562
 
@@ -44974,7 +45050,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Assiette et liquidation.<a id=905></a>
+##### Assiette et liquidation.<a id=906></a>
 
 ###### Article 1564
 
@@ -45017,7 +45093,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 131 A (V)
 
 
-##### 7° : Obligations des exploitants<a id=906></a>
+##### 7° : Obligations des exploitants<a id=907></a>
 
 ###### Article 1565 bis
 
@@ -45046,7 +45122,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 138 (V)
 
 
-##### Obligations des exploitants.<a id=907></a>
+##### Obligations des exploitants.<a id=908></a>
 
 ###### Article 1565
 
@@ -45080,7 +45156,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Répartition de l'impôt.<a id=908></a>
+##### Répartition de l'impôt.<a id=909></a>
 
 ###### Article 1566
 
@@ -45120,7 +45196,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Licence des débitants de boissons.<a id=909></a>
+##### III : Licence des débitants de boissons.<a id=910></a>
 
 ###### Article 1568
 
@@ -45272,9 +45348,9 @@ _Abrogé par_:
   - Loi - art. 27 (V) JORF 31 décembre 2002
 
 
-##### Section II : Taxes facultatives<a id=910></a>
+##### Section II : Taxes facultatives<a id=911></a>
 
-##### III : Taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques<a id=911></a>
+##### III : Taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques<a id=912></a>
 
 ###### Article 1582 bis
 
@@ -45304,9 +45380,9 @@ _Abrogé par_:
   - Loi - art. 30 () JORF 31 décembre 1999
 
 
-#### Chapitre III : Enregistrement<a id=912></a>
+#### Chapitre III : Enregistrement<a id=913></a>
 
-##### Section III : Taxe locale d'équipement<a id=913></a>
+##### Section III : Taxe locale d'équipement<a id=914></a>
 
 ###### Article 1585 A
 
@@ -45544,11 +45620,11 @@ _Abrogé par_:
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 
-### Titre II : Impositions départementales<a id=914></a>
+### Titre II : Impositions départementales<a id=915></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=915></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=916></a>
 
-##### I : Généralités<a id=916></a>
+##### I : Généralités<a id=917></a>
 
 ###### Article 1586
 
@@ -45571,7 +45647,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
 
 
-##### Redevance départementale des mines.<a id=917></a>
+##### Redevance départementale des mines.<a id=918></a>
 
 ###### Article 1587
 
@@ -45650,7 +45726,7 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-##### III : Redevance départementale des mines<a id=918></a>
+##### III : Redevance départementale des mines<a id=919></a>
 
 ###### Article 1588
 
@@ -45694,11 +45770,11 @@ _Modifié par_:
   - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
 
 
-#### Chapitre III : Enregistrement<a id=919></a>
+#### Chapitre III : Enregistrement<a id=920></a>
 
-##### Section I : Droit d'enregistrement et taxe de publicité foncière<a id=920></a>
+##### Section I : Droit d'enregistrement et taxe de publicité foncière<a id=921></a>
 
-##### I : Dispositions générales<a id=921></a>
+##### I : Dispositions générales<a id=922></a>
 
 ###### Article 1594 B
 
@@ -45720,7 +45796,7 @@ _Créé par_:
   - Loi n°83-8 du 7 janvier 1983 - art. 99 (V) JORF 9 janvier 1983
 
 
-##### IV : Réduction des droits<a id=922></a>
+##### IV : Réduction des droits<a id=923></a>
 
 ###### Article 1595
 
@@ -45835,9 +45911,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1595 bis A (P)
 
 
-##### Section II : Autres taxes<a id=923></a>
+##### Section II : Autres taxes<a id=924></a>
 
-##### I : Taxes obligatoires. Taxes additionnelles à certains droits d'enregistrement<a id=924></a>
+##### I : Taxes obligatoires. Taxes additionnelles à certains droits d'enregistrement<a id=925></a>
 
 ###### Article 1595 ter
 
@@ -45852,9 +45928,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1595 (V)
 
 
-##### Section I : Droit départemental d'enregistrement et taxe départementale de publicité foncière<a id=925></a>
+##### Section I : Droit départemental d'enregistrement et taxe départementale de publicité foncière<a id=926></a>
 
-##### I : Dispositions générales.<a id=926></a>
+##### I : Dispositions générales.<a id=927></a>
 
 ###### Article 1594 A
 
@@ -45924,7 +46000,7 @@ _Abrogé par_:
   - Loi n°98-1266 1998-12-30 art. 39 I JORF 31 décembre 1998
 
 
-##### II : Régime spécial<a id=927></a>
+##### II : Régime spécial<a id=928></a>
 
 ###### Article 1594 F
 
@@ -45951,11 +46027,11 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-##### Section II : Autres taxes départementales<a id=928></a>
+##### Section II : Autres taxes départementales<a id=929></a>
 
-##### II : Taxes facultatives<a id=929></a>
+##### II : Taxes facultatives<a id=930></a>
 
-##### Taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement.<a id=930></a>
+##### Taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement.<a id=931></a>
 
 ###### Article 1599 B
 
@@ -45997,7 +46073,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R318-11 (V)
 
 
-#### Chapitre IV : Autres droits et taxes<a id=931></a>
+#### Chapitre IV : Autres droits et taxes<a id=932></a>
 
 ###### Article 1599 C
 
@@ -46197,11 +46273,11 @@ _Codifié par_:
   - HISTO: Edition du 15 juillet 1985
 
 
-### Titre III : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=932></a>
+### Titre III : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=933></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=933></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=934></a>
 
-##### Section 0I : Contribution perçue au profit de la caisse nationale des allocations familiales.<a id=934></a>
+##### Section 0I : Contribution perçue au profit de la caisse nationale des allocations familiales.<a id=935></a>
 
 ###### Article 1600-0 A
 
@@ -46231,7 +46307,7 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-##### Section I : Taxe pour frais de chambres de commerce et d'industrie<a id=935></a>
+##### Section I : Taxe pour frais de chambres de commerce et d'industrie<a id=936></a>
 
 ###### Article 1600
 
@@ -46312,7 +46388,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section III : Taxe perçue au profit du budget annexe des prestations sociales agricoles<a id=936></a>
+##### Section III : Taxe perçue au profit du budget annexe des prestations sociales agricoles<a id=937></a>
 
 ###### Article 1603
 
@@ -46342,7 +46418,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section IV : Taxe pour frais de chambres d'agriculture<a id=937></a>
+##### Section IV : Taxe pour frais de chambres d'agriculture<a id=938></a>
 
 ###### Article 1604
 
@@ -46375,7 +46451,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L514-1 (M)
 
 
-##### Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine<a id=938></a>
+##### Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine<a id=939></a>
 
 ###### Article 1608
 
@@ -46418,7 +46494,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1647 B sexies (V)
 
 
-##### Section X : Impositions perçues au profit des communautés urbaines<a id=939></a>
+##### Section X : Impositions perçues au profit des communautés urbaines<a id=940></a>
 
 ###### Article 1609 bis
 
@@ -46460,7 +46536,7 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-##### Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes<a id=940></a>
+##### Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes<a id=941></a>
 
 ###### Article 1609 quater
 
@@ -46501,7 +46577,7 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-##### Section XII : Impositions perçues au profit des districts.<a id=941></a>
+##### Section XII : Impositions perçues au profit des districts.<a id=942></a>
 
 ###### Article 1609 quinquies
 
@@ -46529,9 +46605,9 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-##### Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle<a id=942></a>
+##### Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle<a id=943></a>
 
-##### I : Syndicats communautaires d'aménagement.<a id=943></a>
+##### I : Syndicats communautaires d'aménagement.<a id=944></a>
 
 ###### Article 1609 sexies
 
@@ -46579,7 +46655,7 @@ _Abrogé par_:
   - Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
 
 
-##### II : Communautés urbaines.<a id=944></a>
+##### II : Communautés urbaines.<a id=945></a>
 
 ###### Article 1609 septies
 
@@ -46613,9 +46689,9 @@ _Codifié par_:
   - Décret n°96-556 1996-06-21
 
 
-##### III : Ensembles urbains<a id=945></a>
+##### III : Ensembles urbains<a id=946></a>
 
-##### *AGGLOMERATIONS NOUVELLES - VILLES NOUVELLES*<a id=946></a>
+##### *AGGLOMERATIONS NOUVELLES - VILLES NOUVELLES*<a id=947></a>
 
 ###### Article 1609 octies
 
@@ -46646,9 +46722,9 @@ _Codifié par_:
   - Décret n°96-556 1996-06-21
 
 
-##### IV : Dispositions communes<a id=947></a>
+##### IV : Dispositions communes<a id=948></a>
 
-##### *VILLE NOUVELLE*<a id=948></a>
+##### *VILLE NOUVELLE*<a id=949></a>
 
 ###### Article 1609 nonies
 
@@ -46677,7 +46753,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes<a id=949></a>
+##### Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes<a id=950></a>
 
 ###### Article 1609 nonies A
 
@@ -46700,7 +46776,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles<a id=950></a>
+##### Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles<a id=951></a>
 
 ###### Article 1609 nonies B
 
@@ -46747,9 +46823,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1640 B (V)
 
 
-#### Chapitre I bis : Taxes sur le chiffre d'affaires<a id=951></a>
+#### Chapitre I bis : Taxes sur le chiffre d'affaires<a id=952></a>
 
-##### Fonds national du livre.<a id=952></a>
+##### Fonds national du livre.<a id=953></a>
 
 ###### Article 1609 decies A
 
@@ -46904,9 +46980,9 @@ _Transféré par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre II : Contributions indirectes<a id=953></a>
+#### Chapitre II : Contributions indirectes<a id=954></a>
 
-##### Section II : Taxe sur les produits des exploitations forestières.<a id=954></a>
+##### Section II : Taxe sur les produits des exploitations forestières.<a id=955></a>
 
 ###### Article 1613
 
@@ -46991,9 +47067,9 @@ _Modifié par_:
   - Loi n°84-1209 du 29 décembre 1984 - art. 20 (V) JORF 30 décembre 1984
 
 
-##### Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles<a id=955></a>
+##### Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles<a id=956></a>
 
-##### A bis : Alcools soumis au droit de consommation.<a id=956></a>
+##### A bis : Alcools soumis au droit de consommation.<a id=957></a>
 
 ###### Article 1615 bis
 
@@ -47020,7 +47096,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 19 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
-##### C : Betteraves.<a id=957></a>
+##### C : Betteraves.<a id=958></a>
 
 ###### Article 1617
 
@@ -47041,7 +47117,7 @@ Cette taxe est perçue sur les betteraves exportées directement.
   - HISTO: EDITION 1979-07-01
 
 
-##### E : Produits des exploitations forestières.<a id=958></a>
+##### E : Produits des exploitations forestières.<a id=959></a>
 
 ###### Article 1618 bis
 
@@ -47078,7 +47154,7 @@ _Modifié par_:
   - Loi n°84-1209 du 29 décembre 1984 - art. 20 (V) JORF 30 décembre 1984
 
 
-##### I : Tabacs fabriqués.<a id=959></a>
+##### I : Tabacs fabriqués.<a id=960></a>
 
 ###### Article 1618 sexies
 
@@ -47100,7 +47176,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### J : Farines.<a id=960></a>
+##### J : Farines.<a id=961></a>
 
 ###### Article 1618 septies
 
@@ -47152,9 +47228,9 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-##### Section VII : Aide aux spectacles<a id=961></a>
+##### Section VII : Aide aux spectacles<a id=962></a>
 
-##### A : Taxe spéciale sur le prix des places de spectacles cinématographiques.<a id=962></a>
+##### A : Taxe spéciale sur le prix des places de spectacles cinématographiques.<a id=963></a>
 
 ###### Article 1621
 
@@ -47272,7 +47348,7 @@ _Modifié par_:
   - Loi n°86-1317 du 30 décembre 1986 - art. 35 () JORF 31 décembre 1986 en vigueur le 1er janvier 1987
 
 
-##### Section X : Fonds de construction, d'équipement rural et d'expansion économique.<a id=963></a>
+##### Section X : Fonds de construction, d'équipement rural et d'expansion économique.<a id=964></a>
 
 ###### Article 1621 quinquies
 
@@ -47297,9 +47373,9 @@ _Codifié par_:
   - Décret n°99-382 1999-05-18
 
 
-#### Chapitre III : Enregistrement, publicité foncière et timbre<a id=964></a>
+#### Chapitre III : Enregistrement, publicité foncière et timbre<a id=965></a>
 
-##### Section I : Taxes à percevoir pour l'alimentation du fonds commun des accidents du travail agricole<a id=965></a>
+##### Section I : Taxes à percevoir pour l'alimentation du fonds commun des accidents du travail agricole<a id=966></a>
 
 ###### Article 1622
 
@@ -47401,7 +47477,7 @@ _Créé par_:
   - Loi n°84-1208 1984-12-29 art. 108 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
 
 
-##### Section I ter : Fonds commun de majoration de rentes viagères et pensions (loi du 24 mai 1951).<a id=966></a>
+##### Section I ter : Fonds commun de majoration de rentes viagères et pensions (loi du 24 mai 1951).<a id=967></a>
 
 ###### Article 1628 ter
 
@@ -47443,7 +47519,7 @@ _Codifié par_:
   - Décret n°2004-304 2004-03-26
 
 
-##### Section I sexies : Fonds destiné au financement des majorations accordées aux rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=967></a>
+##### Section I sexies : Fonds destiné au financement des majorations accordées aux rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=968></a>
 
 ###### Article 1628 sexies
 
@@ -47473,7 +47549,7 @@ _Codifié par_:
   - Décret n°90-798 1990-09-10
 
 
-##### Section V : Fonds national de garantie des calamités agricoles<a id=968></a>
+##### Section V : Fonds national de garantie des calamités agricoles<a id=969></a>
 
 ###### Article 1635 bis A
 
@@ -47544,7 +47620,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quater (V)
 
 
-##### Section V bis : Fonds de garantie des calamités agricoles dans les départements d'outre-mer<a id=969></a>
+##### Section V bis : Fonds de garantie des calamités agricoles dans les départements d'outre-mer<a id=970></a>
 
 ###### Article 1635 bis AA
 
@@ -47569,7 +47645,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section V ter : Fonds de compensation des risques de l'assurance de la construction.<a id=970></a>
+##### Section V ter : Fonds de compensation des risques de l'assurance de la construction.<a id=971></a>
 
 ###### Article 1635 bis AB
 
@@ -47611,7 +47687,7 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-##### Section VI : Groupements de communes. Taxe locale d'équipement<a id=971></a>
+##### Section VI : Groupements de communes. Taxe locale d'équipement<a id=972></a>
 
 ###### Article 1635 bis B
 
@@ -47647,7 +47723,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L133 (V)
 
 
-#### Chapitre IV : Dispositions communes<a id=972></a>
+#### Chapitre IV : Dispositions communes<a id=973></a>
 
 ###### Article 1635 ter
 
@@ -47677,11 +47753,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1647 (M)
 
 
-### Titre III bis : Impositions perçues au profit des collectivités locales et de certains établissements publics<a id=973></a>
+### Titre III bis : Impositions perçues au profit des collectivités locales et de certains établissements publics<a id=974></a>
 
-#### Enregistrement - Autres droits et taxes<a id=974></a>
+#### Enregistrement - Autres droits et taxes<a id=975></a>
 
-##### Participation en cas de dépassement du coefficient d'occupation du sol.<a id=975></a>
+##### Participation en cas de dépassement du coefficient d'occupation du sol.<a id=976></a>
 
 ###### Article 1635 quater
 
@@ -47730,9 +47806,9 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2001
 
 
-### Titre V : Dispositions communes aux Titres I à III bis<a id=976></a>
+### Titre V : Dispositions communes aux Titres I à III bis<a id=977></a>
 
-#### Chapitre 0I : Champ d'application<a id=977></a>
+#### Chapitre 0I : Champ d'application<a id=978></a>
 
 ###### Article 1635 quinquies
 
@@ -47754,9 +47830,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales<a id=978></a>
+#### Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales<a id=979></a>
 
-##### Section I : Dispositions générales<a id=979></a>
+##### Section I : Dispositions générales<a id=980></a>
 
 ###### Article 1636 B decies
 
@@ -47875,7 +47951,7 @@ _Codifié par_:
   - HISTO: Edition du 1er septembre 1982
 
 
-##### Section II : Dispositions particulières<a id=980></a>
+##### Section II : Dispositions particulières<a id=981></a>
 
 ###### Article 1638 bis
 
@@ -48173,9 +48249,9 @@ _Abrogé par_:
   - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
 
 
-#### Chapitre II : Frais d'assiette, de non-valeurs et de recouvrement<a id=981></a>
+#### Chapitre II : Frais d'assiette, de non-valeurs et de recouvrement<a id=982></a>
 
-##### Section I : Taxes établies et recouvrées comme en matière de contributions directes au profit des collectivités locales et organismes divers<a id=982></a>
+##### Section I : Taxes établies et recouvrées comme en matière de contributions directes au profit des collectivités locales et organismes divers<a id=983></a>
 
 ###### Article 1644
 
@@ -48195,9 +48271,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1641 (V)
 
 
-#### Chapitre II bis : Dégrèvements de taxe professionnelle<a id=983></a>
+#### Chapitre II bis : Dégrèvements de taxe professionnelle<a id=984></a>
 
-##### Section I : Dégrèvements spéciaux de la taxe professionnelle<a id=984></a>
+##### Section I : Dégrèvements spéciaux de la taxe professionnelle<a id=985></a>
 
 ###### Article 1647 bis
 
@@ -48265,9 +48341,9 @@ _Créé par_:
   - PEREMPTION: Décret n°91-883 1991-09-09, péremption aménagée  à la date du 24 juin 1991
 
 
-##### Section II : Plafonnement de la taxe professionnelle<a id=985></a>
+##### Section II : Plafonnement de la taxe professionnelle<a id=986></a>
 
-##### I : Plafonnement de la taxe professionnelle en 1976.<a id=986></a>
+##### I : Plafonnement de la taxe professionnelle en 1976.<a id=987></a>
 
 ###### Article 1647 A
 
@@ -48299,7 +48375,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 6 () JORF 27 mars 2004
 
 
-##### II : Plafonnement de la taxe professionnelle en 1977 et 1978.<a id=987></a>
+##### II : Plafonnement de la taxe professionnelle en 1977 et 1978.<a id=988></a>
 
 ###### Article 1647 B
 
@@ -48330,7 +48406,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 6 () JORF 27 mars 2004
 
 
-##### III : Plafonnement de la taxe professionnelle en 1979.<a id=988></a>
+##### III : Plafonnement de la taxe professionnelle en 1979.<a id=989></a>
 
 ###### Article 1647 B bis
 
@@ -48411,7 +48487,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 6 () JORF 27 mars 2004
 
 
-##### IV : Plafonnement en fonction de la valeur ajoutée<a id=989></a>
+##### IV : Plafonnement en fonction de la valeur ajoutée<a id=990></a>
 
 ###### Article 1647 B quinquies
 
@@ -48487,7 +48563,7 @@ _Modifié par_:
   - Loi n°82-540 du 28 juin 1982 - art. 2 (V) JORF 29 juin 1982
 
 
-#### Chapitre II ter : Cotisation minimum de la taxe professionnelle.<a id=990></a>
+#### Chapitre II ter : Cotisation minimum de la taxe professionnelle.<a id=991></a>
 
 ###### Article 1647 D
 
@@ -48531,9 +48607,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 G quinquies (V)
 
 
-#### Chapitre III : Fonds de péréquation de la taxe professionnelle<a id=991></a>
+#### Chapitre III : Fonds de péréquation de la taxe professionnelle<a id=992></a>
 
-##### Section II : Fonds national de péréquation de la taxe professionnelle.<a id=992></a>
+##### Section II : Fonds national de péréquation de la taxe professionnelle.<a id=993></a>
 
 ###### Article 1648 B
 
@@ -48691,7 +48767,7 @@ _Modifié par_:
   - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
-#### Chapitre IV : Départements d'outre-mer<a id=993></a>
+#### Chapitre IV : Départements d'outre-mer<a id=994></a>
 
 ###### Article 1649
 
@@ -48745,13 +48821,13 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1605 bis (VD)
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=994></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=995></a>
 
-### Titre premier : Assiette et contrôle de l'impôt<a id=995></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=996></a>
 
-#### Chapitre premier : Obligations des contribuables<a id=996></a>
+#### Chapitre premier : Obligations des contribuables<a id=997></a>
 
-##### 0I : Déclaration des comptes financiers.<a id=997></a>
+##### 0I : Déclaration des comptes financiers.<a id=998></a>
 
 ###### Article 1649 A
 
@@ -48809,7 +48885,7 @@ _Cite_:
   - CGIAN4 164 FA
 
 
-##### 0I quater : Déclaration des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes<a id=998></a>
+##### 0I quater : Déclaration des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes<a id=999></a>
 
 ###### Article 1649 B
 
@@ -48845,7 +48921,7 @@ _Créé par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 93 (V) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 
-##### I bis : Déclaration des ventes autres que les ventes au détail<a id=999></a>
+##### I bis : Déclaration des ventes autres que les ventes au détail<a id=1000></a>
 
 ###### Article 1649 bis A
 
@@ -48885,7 +48961,7 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### I ter : Apposition de marques<a id=1000></a>
+##### I ter : Apposition de marques<a id=1001></a>
 
 ###### Article 1649 bis B
 
@@ -48900,7 +48976,7 @@ les modalités d'application du présent article.
 
 
 
-##### I quater : Opérations réalisées sur les marchés à terme<a id=1001></a>
+##### I quater : Opérations réalisées sur les marchés à terme<a id=1002></a>
 
 ###### Article 1649 bis C
 
@@ -48935,7 +49011,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 150 ter
 
 
-##### II bis : Façonniers<a id=1002></a>
+##### II bis : Façonniers<a id=1003></a>
 
 ###### Article 1649 ter C
 
@@ -48967,7 +49043,7 @@ _Modifié par_:
   - HISTO: en vigueur le 1er janvier 1993)
 
 
-#### Chapitre 0I bis : Mesures de contrôle des valeurs mobilières<a id=1003></a>
+#### Chapitre 0I bis : Mesures de contrôle des valeurs mobilières<a id=1004></a>
 
 ###### Article 1649 quater-0 A
 
@@ -49032,7 +49108,7 @@ _Modifié par_:
   - Loi n°85-695 du 11 juillet 1985 - art. 27 () JORF 12 juillet 1985
 
 
-#### Chapitre 0I ter : Entreprises de la batellerie<a id=1004></a>
+#### Chapitre 0I ter : Entreprises de la batellerie<a id=1005></a>
 
 ###### Article 1649 quater BA
 
@@ -49058,9 +49134,9 @@ _Codifié par_:
   - HISTO: Edition du 15 juillet 1985
 
 
-#### Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés<a id=1005></a>
+#### Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés<a id=1006></a>
 
-##### I : Centres de gestion agréés et associations de gestion et de comptabilité<a id=1006></a>
+##### I : Centres de gestion agréés et associations de gestion et de comptabilité<a id=1007></a>
 
 ###### Article 1649 quater C
 
@@ -49187,7 +49263,7 @@ _Créé par_:
   - Loi n°78-1239 du 29 décembre 1978 - art. 86 (V) JORF 30 DECEMBRE 1978 date d'entrée en vigueur 1 JANVIER 1979
 
 
-##### II : Associations agréées des professions libérales<a id=1007></a>
+##### II : Associations agréées des professions libérales<a id=1008></a>
 
 ###### Article 1649 quater F
 
@@ -49304,7 +49380,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Dispositions communes<a id=1008></a>
+##### III : Dispositions communes<a id=1009></a>
 
 ###### Article 1649 quater I
 
@@ -49328,7 +49404,7 @@ _Créé par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
-#### Chapitre II : Casier fiscal<a id=1009></a>
+#### Chapitre II : Casier fiscal<a id=1010></a>
 
 ###### Article 1649 quinquies
 
@@ -49356,7 +49432,7 @@ ministre de l'économie et des finances.
 
 
 
-#### Chapitre IV : Exonérations fiscales contractuelles et agréments<a id=1010></a>
+#### Chapitre IV : Exonérations fiscales contractuelles et agréments<a id=1011></a>
 
 ###### Article 1649 nonies
 
@@ -49436,7 +49512,7 @@ ce cas.
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre V : Départements d'outre-mer. Établissement et conservation du cadastre<a id=1011></a>
+#### Chapitre V : Départements d'outre-mer. Établissement et conservation du cadastre<a id=1012></a>
 
 ###### Article 1649 decies
 
@@ -49468,11 +49544,11 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Titre II : Dispositions diverses<a id=1012></a>
+### Titre II : Dispositions diverses<a id=1013></a>
 
-#### Chapitre premier : Commissions administratives des impôts et comité de l'abus de droit fiscal<a id=1013></a>
+#### Chapitre premier : Commissions administratives des impôts et comité de l'abus de droit fiscal<a id=1014></a>
 
-##### I : Commission communale des impôts directs<a id=1014></a>
+##### I : Commission communale des impôts directs<a id=1015></a>
 
 ###### Article 1650
 
@@ -49556,9 +49632,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Commissions centrales des impôts directs<a id=1015></a>
+##### III : Commissions centrales des impôts directs<a id=1016></a>
 
-##### a :<a id=1016></a>
+##### a :<a id=1017></a>
 
 ###### Article 1652
 
@@ -49610,7 +49686,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L2 (Ab)
 
 
-##### b : Évaluations foncières<a id=1017></a>
+##### b : Évaluations foncières<a id=1018></a>
 
 ###### Article 1652 bis
 
@@ -49656,7 +49732,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 septdecies (VT)
 
 
-##### IV : Dispositions communes aux commissions visées aux articles 1650 à 1652 bis<a id=1018></a>
+##### IV : Dispositions communes aux commissions visées aux articles 1650 à 1652 bis<a id=1019></a>
 
 ###### Article 1653
 
@@ -49673,7 +49749,7 @@ _Cite_:
   - CGIAN3 345 à 348
 
 
-##### V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III)<a id=1019></a>
+##### V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III)<a id=1020></a>
 
 ###### Article 1653 B
 
@@ -49693,7 +49769,7 @@ _Cite_:
   - CGIAN3 349 à 350 C
 
 
-##### VI : Comité de l'abus de droit fiscal<a id=1020></a>
+##### VI : Comité de l'abus de droit fiscal<a id=1021></a>
 
 ###### Article 1653 C
 
@@ -49731,9 +49807,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L64 (M)
 
 
-#### Chapitre II : Régime de certains organismes et sociétés<a id=1021></a>
+#### Chapitre II : Régime de certains organismes et sociétés<a id=1022></a>
 
-##### I : Établissements publics et autres organismes<a id=1022></a>
+##### I : Établissements publics et autres organismes<a id=1023></a>
 
 ###### Article 1654
 
@@ -49782,7 +49858,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982, en vigueur le 1er janvier 1983
 
 
-##### II bis : Coopératives d'administration ou d'entreprise<a id=1023></a>
+##### II bis : Coopératives d'administration ou d'entreprise<a id=1024></a>
 
 ###### Article 1655 A
 
@@ -49792,7 +49868,7 @@ assujettie aux mêmes impositions que celles dont sont redevables les entreprise
 
 
 
-##### III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées.<a id=1024></a>
+##### III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées.<a id=1025></a>
 
 ###### Article 1655 bis
 
@@ -49878,7 +49954,7 @@ _Modifié par_:
   - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
 
 
-##### IV : Sociétés immobilières de copropriété<a id=1025></a>
+##### IV : Sociétés immobilières de copropriété<a id=1026></a>
 
 ###### Article 1655 ter
 
@@ -49939,7 +50015,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis<a id=1026></a>
+#### Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis<a id=1027></a>
 
 ###### Article 1656
 
@@ -49961,7 +50037,7 @@ _Cite_:
   - CGIAN4 121 Z bis
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT IMPOTS D'ETAT IMPOTS DIRECTS ET TAXES ASSIMILEES IMPOT SUR LE REVENU REVENUS IMPOSABLES<a id=1027></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT IMPOTS D'ETAT IMPOTS DIRECTS ET TAXES ASSIMILEES IMPOT SUR LE REVENU REVENUS IMPOSABLES<a id=1028></a>
 
 ###### Article 150 ter
 
@@ -49987,13 +50063,13 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-# ASSIETTE ET LIQUIDATION DE LA TAXE<a id=1028></a>
+# ASSIETTE ET LIQUIDATION DE LA TAXE<a id=1029></a>
 
-## IMPOTS D'ETAT<a id=1029></a>
+## IMPOTS D'ETAT<a id=1030></a>
 
-### DROITS D'ENREGISTREMENT<a id=1030></a>
+### DROITS D'ENREGISTREMENT<a id=1031></a>
 
-#### LES TARIFS ET LEUR APPLICATION.<a id=1031></a>
+#### LES TARIFS ET LEUR APPLICATION.<a id=1032></a>
 
 ###### Article 834 bis
 
@@ -50012,15 +50088,15 @@ _Créé par_:
   - Loi n°84-578 du 9 juillet 1984 - art. 14 () JORF 11 juillet 1984, rectificatif JORF 14 juillet 1984
 
 
-# Livre II : Recouvrement de l'impôt<a id=1032></a>
+# Livre II : Recouvrement de l'impôt<a id=1033></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=1033></a>
+## Chapitre premier : Paiement de l'impôt<a id=1034></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=1034></a>
+### Section I : Impôts directs et taxes assimilées<a id=1035></a>
 
-#### I : Rôles et avis d'imposition<a id=1035></a>
+#### I : Rôles et avis d'imposition<a id=1036></a>
 
-##### 1 : Établissement et mise en recouvrement des rôles<a id=1036></a>
+##### 1 : Établissement et mise en recouvrement des rôles<a id=1037></a>
 
 ###### Article 1657
 
@@ -50102,7 +50178,7 @@ publics et organismes divers peuvent être mis en recouvrement dans le même dé
 
 
 
-##### 2 : Rôles auxiliaires<a id=1037></a>
+##### 2 : Rôles auxiliaires<a id=1038></a>
 
 ###### Article 1660
 
@@ -50126,9 +50202,9 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 25 () JORF 27 mars 2004
 
 
-#### II : Exigibilité de l'impôt<a id=1038></a>
+#### II : Exigibilité de l'impôt<a id=1039></a>
 
-##### 1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités<a id=1039></a>
+##### 1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités<a id=1040></a>
 
 ###### Article 1663 A
 
@@ -50161,7 +50237,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1664 (VT)
 
 
-##### 3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France<a id=1040></a>
+##### 3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France<a id=1041></a>
 
 ###### Article 1671 A
 
@@ -50183,9 +50259,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1771 (VD)
 
 
-##### 4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières<a id=1041></a>
+##### 4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières<a id=1042></a>
 
-##### a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations<a id=1042></a>
+##### a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations<a id=1043></a>
 
 ###### Article 1672
 
@@ -50286,7 +50362,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 115 quinquies (V)
 
 
-##### b : Retenue à la source afférente aux intérêts des bons de caisse<a id=1043></a>
+##### b : Retenue à la source afférente aux intérêts des bons de caisse<a id=1044></a>
 
 ###### Article 1678 bis
 
@@ -50327,7 +50403,7 @@ _Cité par_:
   - Code monétaire et financier - art. L211-28 (V)
 
 
-##### Prélèvement sur les produits de placement à revenu fixe.<a id=1044></a>
+##### Prélèvement sur les produits de placement à revenu fixe.<a id=1045></a>
 
 ###### Article 1678 quater
 
@@ -50357,7 +50433,7 @@ _Cité par_:
   - Loi n°2005-1719 du 30 décembre 2005 - art. 7 (V)
 
 
-##### 5 : Taxe d'apprentissage<a id=1045></a>
+##### 5 : Taxe d'apprentissage<a id=1046></a>
 
 ###### Article 1678 quinquies
 
@@ -50417,7 +50493,7 @@ _Codifié par_:
   - Décret n°94-899 1994-10-17
 
 
-##### 6 : Taxe sur les salaires<a id=1046></a>
+##### 6 : Taxe sur les salaires<a id=1047></a>
 
 ###### Article 1679
 
@@ -50461,7 +50537,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 
 
-##### 7 bis : Participation des employeurs au développement de la formation professionnelle continue<a id=1047></a>
+##### 7 bis : Participation des employeurs au développement de la formation professionnelle continue<a id=1048></a>
 
 ###### Article 1679 bis B
 
@@ -50516,7 +50592,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L172 A (en partie)
 
 
-##### 8 : Prélèvement à la charge des sociétés<a id=1048></a>
+##### 8 : Prélèvement à la charge des sociétés<a id=1049></a>
 
 ###### Article 1679 ter
 
@@ -50544,7 +50620,7 @@ _Abrogé par_:
   - Loi - art. 93 (V) JORF 31 décembre 2003
 
 
-##### 10 : Taxe professionnelle<a id=1049></a>
+##### 10 : Taxe professionnelle<a id=1050></a>
 
 ###### Article 1679 quinquies
 
@@ -50590,9 +50666,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C sexies (VD)
 
 
-#### III : Paiement de l'impôt<a id=1050></a>
+#### III : Paiement de l'impôt<a id=1051></a>
 
-##### 1 : Dispositions générales<a id=1051></a>
+##### 1 : Dispositions générales<a id=1052></a>
 
 ###### Article 1680
 
@@ -50629,7 +50705,7 @@ _Cite_:
 
 
 
-##### 2 : Paiement mensuel de l'impôt sur le revenu<a id=1052></a>
+##### 2 : Paiement mensuel de l'impôt sur le revenu<a id=1053></a>
 
 ###### Article 1681 A
 
@@ -50806,7 +50882,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1681 D (V)
 
 
-##### 4 : Paiement de la taxe d'habitation, des taxes foncières et de la contribution à l'audiovisuel public due par les particuliers<a id=1053></a>
+##### 4 : Paiement de la taxe d'habitation, des taxes foncières et de la contribution à l'audiovisuel public due par les particuliers<a id=1054></a>
 
 ###### Article 1681 quater
 
@@ -50878,7 +50954,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C quater (VD)
 
 
-#### IV : Obligations des tiers<a id=1054></a>
+#### IV : Obligations des tiers<a id=1055></a>
 
 ###### Article 1682
 
@@ -51087,9 +51163,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1777 (V)
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1055></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1056></a>
 
-#### I : Régime général<a id=1056></a>
+#### I : Régime général<a id=1057></a>
 
 ###### Article 1692
 
@@ -51119,7 +51195,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
 
 
-#### II : Régime spécial des acomptes provisionnels<a id=1057></a>
+#### II : Régime spécial des acomptes provisionnels<a id=1058></a>
 
 ###### Article 1693
 
@@ -51143,7 +51219,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 287 (V)
 
 
-#### III : Régime spécial du forfait.<a id=1058></a>
+#### III : Régime spécial du forfait.<a id=1059></a>
 
 ###### Article 1694
 
@@ -51177,7 +51253,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### III bis : Régime simplifié<a id=1059></a>
+#### III bis : Régime simplifié<a id=1060></a>
 
 ###### Article 1694 bis
 
@@ -51204,7 +51280,7 @@ _Modifié par_:
   - Loi n°69-1161 1969-12-24 art. 12 I Finances pour 1970 JORF 27 décembre 1969
 
 
-#### IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers.<a id=1060></a>
+#### IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers.<a id=1061></a>
 
 ###### Article 1695
 
@@ -51237,7 +51313,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### V : Modalités d'application<a id=1061></a>
+#### V : Modalités d'application<a id=1062></a>
 
 ###### Article 1696
 
@@ -51279,7 +51355,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section III : Contributions indirectes<a id=1062></a>
+### Section III : Contributions indirectes<a id=1063></a>
 
 ###### Article 1698
 
@@ -51465,9 +51541,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. L199 (VD)
 
 
-### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=1063></a>
+### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=1064></a>
 
-#### I : Paiement des droits<a id=1064></a>
+#### I : Paiement des droits<a id=1065></a>
 
 ###### Article 1701
 
@@ -51529,7 +51605,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1961 ter (V)
 
 
-#### II : Obligations des agents<a id=1065></a>
+#### II : Obligations des agents<a id=1066></a>
 
 ###### Article 1703
 
@@ -51583,7 +51659,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1702 bis (V)
 
 
-#### III : Obligation au paiement<a id=1066></a>
+#### III : Obligation au paiement<a id=1067></a>
 
 ###### Article 1705
 
@@ -51707,7 +51783,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 796 (V)
 
 
-#### IV : Contribution au paiement<a id=1067></a>
+#### IV : Contribution au paiement<a id=1068></a>
 
 ###### Article 1711
 
@@ -51736,7 +51812,7 @@ profitent, lorsque, dans ces divers cas, il n'a pas été stipulé de dispositio
   - TXT_ASSOCIE: Jurisprudence 1997-12-04 7G-6-97
 
 
-#### V : Paiement en valeurs du Trésor ou en créances sur l'État<a id=1068></a>
+#### V : Paiement en valeurs du Trésor ou en créances sur l'État<a id=1069></a>
 
 ###### Article 1715
 
@@ -51781,7 +51857,7 @@ _Cite_:
   - Loi n°48-2389 1948-08-26 art. 1
 
 
-#### V bis : Paiement par remise d'oeuvres d'art.<a id=1069></a>
+#### V bis : Paiement par remise d'oeuvres d'art.<a id=1070></a>
 
 ###### Article 1716 bis
 
@@ -51836,7 +51912,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384-0 A bis (V)
 
 
-#### VI : Paiement fractionné ou différé des droits<a id=1070></a>
+#### VI : Paiement fractionné ou différé des droits<a id=1071></a>
 
 ###### Article 1717
 
@@ -51953,7 +52029,7 @@ _Cite_:
   - Loi n°63-254 1963-03-15
 
 
-#### VII : Modes particuliers de perception des droits<a id=1071></a>
+#### VII : Modes particuliers de perception des droits<a id=1072></a>
 
 ###### Article 1723 ter
 
@@ -51974,7 +52050,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 658 (V)
 
 
-#### VII A : Droits de timbre<a id=1072></a>
+#### VII A : Droits de timbre<a id=1073></a>
 
 ###### Article 1723 ter-0 A
 
@@ -51993,7 +52069,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 916 A (V)
 
 
-#### VIII : Taxe locale d'équipement<a id=1073></a>
+#### VIII : Taxe locale d'équipement<a id=1074></a>
 
 ###### Article 1723 quinquies
 
@@ -52055,7 +52131,7 @@ _Abrogé par_:
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 
-#### IX : Versement pour dépassement du plafond légal de densité (1)<a id=1074></a>
+#### IX : Versement pour dépassement du plafond légal de densité (1)<a id=1075></a>
 
 ###### Article 1723 decies
 
@@ -52270,7 +52346,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### Section V : Dispositions communes<a id=1075></a>
+### Section V : Dispositions communes<a id=1076></a>
 
 ###### Article 1724
 
@@ -52337,11 +52413,11 @@ _Cite_:
   - Code du travail - art. L324-9 (M)
 
 
-## Chapitre II : Pénalités<a id=1076></a>
+## Chapitre II : Pénalités<a id=1077></a>
 
-### Section I : Dispositions communes<a id=1077></a>
+### Section I : Dispositions communes<a id=1078></a>
 
-#### A : Sanctions fiscales.<a id=1078></a>
+#### A : Sanctions fiscales.<a id=1079></a>
 
 ###### Article 1725
 
@@ -52438,11 +52514,11 @@ _Modifié par_:
   - Loi n°84-1208 1984-12-29 art. 105 II finances pour 1985 en vigueur le 1er janvier 1985
 
 
-#### B : Sanctions fiscales<a id=1079></a>
+#### B : Sanctions fiscales<a id=1080></a>
 
-##### 3 : Retard de paiement des impôts<a id=1080></a>
+##### 3 : Retard de paiement des impôts<a id=1081></a>
 
-##### b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts<a id=1081></a>
+##### b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts<a id=1082></a>
 
 ###### Article 1731
 
@@ -52506,7 +52582,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-#### B : Sanctions pénales.<a id=1082></a>
+#### B : Sanctions pénales.<a id=1083></a>
 
 ###### Article 1741 A
 
@@ -52953,7 +53029,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L143 (V)
 
 
-#### C : Autres sanctions et mesures diverses.<a id=1083></a>
+#### C : Autres sanctions et mesures diverses.<a id=1084></a>
 
 ###### Article 1755
 
@@ -53065,11 +53141,11 @@ _Créé par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
-### Section II : Dispositions particulières<a id=1084></a>
+### Section II : Dispositions particulières<a id=1085></a>
 
-#### A : Impôts directs et taxes assimilées<a id=1085></a>
+#### A : Impôts directs et taxes assimilées<a id=1086></a>
 
-##### 1 : Majorations de droits<a id=1086></a>
+##### 1 : Majorations de droits<a id=1087></a>
 
 ###### Article 1758 bis
 
@@ -53220,7 +53296,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
 
 
-##### (MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT)<a id=1087></a>
+##### (MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT)<a id=1088></a>
 
 ###### Article 1762 A
 
@@ -53254,7 +53330,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1681 quater A (VD)
 
 
-##### 2 : Amendes fiscales<a id=1088></a>
+##### 2 : Amendes fiscales<a id=1089></a>
 
 ###### Article 1763
 
@@ -53529,7 +53605,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
 
 
-##### 3 : Sanctions pénales<a id=1089></a>
+##### 3 : Sanctions pénales<a id=1090></a>
 
 ###### Article 1772
 
@@ -53776,9 +53852,9 @@ _Cite_:
   - CGI 1770 ter, 242 ter, 1743
 
 
-#### B : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1090></a>
+#### B : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1091></a>
 
-##### 1 : Sanctions fiscales<a id=1091></a>
+##### 1 : Sanctions fiscales<a id=1092></a>
 
 ###### Article 1784
 
@@ -53951,7 +54027,7 @@ _Transféré par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3 : Importation<a id=1092></a>
+##### 3 : Importation<a id=1093></a>
 
 ###### Article 1790
 
@@ -53980,9 +54056,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L234 (al. 1 et al. 2 du CGI 1790)
 
 
-#### C : Contributions indirectes<a id=1093></a>
+#### C : Contributions indirectes<a id=1094></a>
 
-##### 1 : Sanctions fiscales<a id=1094></a>
+##### 1 : Sanctions fiscales<a id=1095></a>
 
 ###### Article 1791
 
@@ -54301,7 +54377,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L235 (V)
 
 
-##### 2 : Responsabilité des infractions<a id=1095></a>
+##### 2 : Responsabilité des infractions<a id=1096></a>
 
 ###### Article 1805
 
@@ -54376,7 +54452,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1810 (V)
 
 
-##### 3 : Sanctions pénales<a id=1096></a>
+##### 3 : Sanctions pénales<a id=1097></a>
 
 ###### Article 1810
 
@@ -54638,7 +54714,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 4 : Autres sanctions et mesures diverses<a id=1097></a>
+##### 4 : Autres sanctions et mesures diverses<a id=1098></a>
 
 ###### Article 1822
 
@@ -54833,9 +54909,9 @@ _Cite_:
   - Code pénal 373
 
 
-#### D : Enregistrement et publicité foncière<a id=1098></a>
+#### D : Enregistrement et publicité foncière<a id=1099></a>
 
-##### 1 : Sanctions fiscales<a id=1099></a>
+##### 1 : Sanctions fiscales<a id=1100></a>
 
 ###### Article 1826
 
@@ -54912,7 +54988,7 @@ _Codifié par_:
   - Décret n°2006-356 2006-03-24
 
 
-##### 2 : Sanctions pénales<a id=1100></a>
+##### 2 : Sanctions pénales<a id=1101></a>
 
 ###### Article 1837
 
@@ -54981,7 +55057,7 @@ prononcées pour le faux.
 
 
 
-##### 3 : Autres sanctions et mesures diverses<a id=1101></a>
+##### 3 : Autres sanctions et mesures diverses<a id=1102></a>
 
 ###### Article 1840
 
@@ -55201,9 +55277,9 @@ _Cité par_:
   - Code rural - art. L142-3 (V)
 
 
-#### E : Droits de timbre, autres droits et taxes<a id=1102></a>
+#### E : Droits de timbre, autres droits et taxes<a id=1103></a>
 
-##### 1 : Sanctions fiscales<a id=1103></a>
+##### 1 : Sanctions fiscales<a id=1104></a>
 
 ###### Article 1840 H
 
@@ -55339,7 +55415,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2 : Sanctions pénales<a id=1104></a>
+##### 2 : Sanctions pénales<a id=1105></a>
 
 ###### Article 1840 O
 
@@ -55411,7 +55487,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3 : Autres sanctions et mesures diverses<a id=1105></a>
+##### 3 : Autres sanctions et mesures diverses<a id=1106></a>
 
 ###### Article 1840 R
 
@@ -55590,9 +55666,9 @@ _Abrogé par_:
   - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
 
 
-## Chapitre III : Procédures<a id=1106></a>
+## Chapitre III : Procédures<a id=1107></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=1107></a>
+### Section I : Impôts directs et taxes assimilées<a id=1108></a>
 
 ###### Article 1849
 
@@ -55627,11 +55703,11 @@ _Cite_:
   - Loi n°63-156 du 23 février 1963 - art. 60, v. init.
 
 
-### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes<a id=1108></a>
+### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes<a id=1109></a>
 
-#### I : Modes de preuve - Constatation des infractions<a id=1109></a>
+#### I : Modes de preuve - Constatation des infractions<a id=1110></a>
 
-##### 2 : Mutations<a id=1110></a>
+##### 2 : Mutations<a id=1111></a>
 
 ###### Article 1881
 
@@ -55660,7 +55736,7 @@ imposées aux fermiers, locataires et détenteurs temporaires.
 
 
 
-#### II : Poursuites et instances<a id=1111></a>
+#### II : Poursuites et instances<a id=1112></a>
 
 ###### Article 1894
 
@@ -55670,9 +55746,79 @@ comptes. L'état est taxé sans frais par le tribunal de grande instance du dép
 
 
 
-### Section V : Dispositions communes<a id=1112></a>
+### Section V : Dispositions communes<a id=1113></a>
 
-#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts.<a id=1113></a>
+#### I : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts.<a id=1114></a>
+
+###### Article 1912
+
+1. Les frais de poursuites à la charge des contribuables sont calculés sur le montant des termes échus, conformément au tarif
+suivant :
+
+- commandement, 3 % du montant du débet ;
+
+- saisie, quelle que soit la nature de la saisie, 5 % du montant du débet ;
+
+- récolement sur saisie antérieure, 2,5 % du montant du débet ;
+
+- signification de vente, 1,5 % du montant du débet ;
+
+- affiches, 1,5 % du montant du débet ;
+
+- récolement avant la vente, 1 % du montant du débet ;
+
+- procès-verbal de vente, 1 % du montant du débet.
+
+En cas de saisie interrompue par un versement immédiat du contribuable à la caisse du comptable du Trésor chargé du
+recouvrement des impôts directs, le tarif des frais de saisie est réduit à 1 %. Il en est de même dans le cas où le
+contribuable se libère dans le délai d'un jour franc à compter de la saisie.
+
+Les frais à la charge des contribuables comportent un minimum de 50 F pour le commandement et de 100 F pour les actes de
+poursuites autres que le commandement.
+
+Les frais accessoires aux poursuites sont déterminés par un décret contresigné par le ministre de l'économie et des finances
+(1).
+
+2. En matière d'impôts directs, la taxe des frais de poursuites à recouvrer sur le débiteur est faite par le receveur des
+finances.
+
+Un arrêté ministériel fixe les conditions dans lesquelles cette taxe est opérée en ce qui concerne les impositions,
+redevances et sommes quelconques dont la perception incombe aux comptables de la direction générale des impôts.
+
+3. Le ministre de l'économie et des finances fixe les conditions dans lesquelles des remises ou modérations de frais de
+poursuites et de majorations appliquées au titre des articles 1761 et 1762 pourront être accordées à titre gracieux.
+
+(1) Annexe III, art. 415 et 416.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 30 mai 2013 - art. 1
+  - Loi n°75-618 du 11 juillet 1975 - art. 7 (V)
+  - Code général de la propriété des personnes publ... - art. L2323-2 (V)
+  - Code général de la propriété des personnes publ... - art. L2323-6 (V)
+  - Code général des collectivités territoriales - art. L1617-5 (VD)
+  - Code général des impôts, CGI. - art. 1917 (VT)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 396 B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 396 C (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 216 (VD)
+  - Livre des procédures fiscales - art. L247 (V)
+  - Livre des procédures fiscales - art. L257-0 A (VD)
+
+_Cite_:
+
+  - CGI 1761
+  - CGI 1762
+  - CGIAN3 415
+  - CGIAN3 416
+
+_Modifié par_:
+
+  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+
+
+#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts.<a id=1115></a>
 
 ###### Article 1917
 
@@ -55695,7 +55841,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=1114></a>
+#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=1116></a>
 
 ###### Article 1918
 
@@ -55722,9 +55868,9 @@ _Abrogé par_:
   - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 
-## Chapitre IV : Sûretés et privilèges<a id=1115></a>
+## Chapitre IV : Sûretés et privilèges<a id=1117></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=1116></a>
+### Section I : Impôts directs et taxes assimilées<a id=1118></a>
 
 ###### Article 1920
 
@@ -55865,7 +56011,7 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1117></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1119></a>
 
 ###### Article 1926
 
@@ -55901,7 +56047,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1671 B (VT)
 
 
-### Section III : Contributions indirectes<a id=1118></a>
+### Section III : Contributions indirectes<a id=1120></a>
 
 ###### Article 1928
 
@@ -55922,7 +56068,7 @@ _Modifié par_:
   - Loi n°83-1159 du 24 décembre 1983 - art. 16 () JORF 28 décembre 1983
 
 
-### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés<a id=1119></a>
+### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés<a id=1121></a>
 
 ###### Article 1929
 
@@ -55992,7 +56138,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-### Section V : Dispositions communes<a id=1120></a>
+### Section V : Dispositions communes<a id=1122></a>
 
 ###### Article 1929 quater
 
@@ -56145,11 +56291,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1018 A (V)
 
 
-## Chapitre V : Dégrèvements et restitutions d'impôts<a id=1121></a>
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=1123></a>
 
-### Section II : Juridiction contentieuse<a id=1122></a>
+### Section II : Juridiction contentieuse<a id=1124></a>
 
-#### 7 : Dispositions particulières aux impôts directs et taxes assimilées<a id=1123></a>
+#### 7 : Dispositions particulières aux impôts directs et taxes assimilées<a id=1125></a>
 
 ###### Article 1960
 
@@ -56172,7 +56318,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
 
 
-#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=1124></a>
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=1126></a>
 
 ###### Article 1961
 
@@ -56361,7 +56507,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### 9 : Dispositions particulières aux contributions indirectes<a id=1125></a>
+#### 9 : Dispositions particulières aux contributions indirectes<a id=1127></a>
 
 ###### Article 1965 FA
 
@@ -56379,7 +56525,7 @@ _Cite_:
   - Livre des procédures fiscales R190-1
 
 
-### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances.<a id=1126></a>
+### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances.<a id=1128></a>
 
 ###### Article 1961 bis
 
@@ -56442,11 +56588,11 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-# RECOUVREMENT DE L'IMPOT<a id=1127></a>
+# RECOUVREMENT DE L'IMPOT<a id=1129></a>
 
-## PAIEMENT DE L'IMPOT<a id=1128></a>
+## PAIEMENT DE L'IMPOT<a id=1130></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1129></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1131></a>
 
 ###### Article 1658
 
@@ -56627,7 +56773,7 @@ _Codifié par_:
   - Décret n°89-801 1989-10-27
 
 
-### IMPOTS DIRECTS.<a id=1130></a>
+### IMPOTS DIRECTS.<a id=1132></a>
 
 ###### Article 1664
 
@@ -56763,7 +56909,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1131></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1133></a>
 
 ###### Article 1693 bis
 
@@ -56816,7 +56962,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 260 A (V)
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=1132></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=1134></a>
 
 ###### Article 1716 A
 
@@ -56907,7 +57053,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1723 septies (VT)
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204).<a id=1133></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204).<a id=1135></a>
 
 ###### Article 1723 ter A
 
@@ -56987,9 +57133,9 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## PENALITES<a id=1134></a>
+## PENALITES<a id=1136></a>
 
-### DISPOSITIONS COMMUNES.<a id=1135></a>
+### DISPOSITIONS COMMUNES.<a id=1137></a>
 
 ###### Article 1726
 
@@ -57746,7 +57892,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS PARTICULIERES.<a id=1136></a>
+### DISPOSITIONS PARTICULIERES.<a id=1138></a>
 
 ###### Article 1757
 
@@ -58744,78 +58890,6 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
-
-
-## PROCEDURES<a id=1137></a>
-
-### DISPOSITIONS COMMUNES.<a id=1138></a>
-
-###### Article 1912
-
-1. Les frais de poursuites à la charge des contribuables sont calculés sur le montant des termes échus, conformément au tarif
-suivant :
-
-- commandement, 3 % du montant du débet ;
-
-- saisie, quelle que soit la nature de la saisie, 5 % du montant du débet ;
-
-- récolement sur saisie antérieure, 2,5 % du montant du débet ;
-
-- signification de vente, 1,5 % du montant du débet ;
-
-- affiches, 1,5 % du montant du débet ;
-
-- récolement avant la vente, 1 % du montant du débet ;
-
-- procès-verbal de vente, 1 % du montant du débet.
-
-En cas de saisie interrompue par un versement immédiat du contribuable à la caisse du comptable du Trésor chargé du
-recouvrement des impôts directs, le tarif des frais de saisie est réduit à 1 %. Il en est de même dans le cas où le
-contribuable se libère dans le délai d'un jour franc à compter de la saisie.
-
-Les frais à la charge des contribuables comportent un minimum de 2 F pour le commandement et de 10 F pour les actes de
-poursuites autres que le commandement.
-
-Les frais accessoires aux poursuites sont déterminés par un décret contresigné par le ministre de l'économie et des finances
-(1).
-
-2. En matière d'impôts directs, la taxe des frais de poursuites à recouvrer sur le débiteur est faite par le receveur des
-finances.
-
-Un arrêté ministériel fixe les conditions dans lesquelles cette taxe est opérée en ce qui concerne les impositions,
-redevances et sommes quelconques dont la perception incombe aux comptables de la direction générale des impôts.
-
-3. Le ministre de l'économie et des finances fixe les conditions dans lesquelles des remises ou modérations de frais de
-poursuites et de majorations appliquées au titre des articles 1761 et 1762 pourront être accordées à titre gracieux.
-
-(1) Annexe III, art. 415 et 416.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 30 mai 2013 - art. 1
-  - Loi n°75-618 du 11 juillet 1975 - art. 7 (V)
-  - Code général de la propriété des personnes publ... - art. L2323-2 (V)
-  - Code général de la propriété des personnes publ... - art. L2323-6 (V)
-  - Code général des collectivités territoriales - art. L1617-5 (VD)
-  - Code général des impôts, CGI. - art. 1917 (VT)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 396 B (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 396 C (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 216 (VD)
-  - Livre des procédures fiscales - art. L247 (V)
-  - Livre des procédures fiscales - art. L257-0 A (VD)
-
-_Cite_:
-
-  - CGI 1761
-  - CGI 1762
-  - CGIAN3 415
-  - CGIAN3 416
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
 
 
 ## SURETES ET PRIVILEGES<a id=1139></a>
