@@ -16,6 +16,10 @@ II. Le vendeur est exonéré de la taxe si la vente est faite à un musée natio
 une collectivité locale ainsi qu'à la Bibliothèque nationale, à une autre bibliothèque de l'Etat ou à une bibliothèque d'une
 autre collectivité publique.
 
+((Il en est de même si la vente est faite à un service d'archives de l'Etat, d'une collectivité locale ou d'une autre
+collectivité publique. Cette disposition s'applique aux ventes réalisées à compter du 15 octobre 1993.)) (Modification de la
+loi 93-1352).
+
 La vente par enchères publiques des objets désignés au deuxième alinéa du I est exonérée du paiement de la taxe lorsque leur
 propriétaire n'a pas en France son domicile fiscal.
 
@@ -25,10 +29,7 @@ _Anciens textes_:
 
   - CGI 302 bis A
 
-_Transféré par_:
+_Modifié par_:
 
-  - Loi - art. 37 (V) JORF 5 janvier 1993
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Loi n°93-1352 du 30 décembre 1993 - art. 29 () JORF 31 décembre 1993
+  - Modifications directes incorporées dans l'édition du 2 septembre 1994

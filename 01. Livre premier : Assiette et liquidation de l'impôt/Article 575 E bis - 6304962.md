@@ -1,23 +1,22 @@
 # Article 575 E bis
 
 Pour les tabacs expédiés en Corse et ceux qui y sont fabriqués, le droit de consommation est perçu au taux en vigueur dans
-les départements de la Corse. Il est liquidé et perçu selon les règles et garanties applicables en matière douanière. Il
-reçoit l'affectation prévue pour les droits de consommation sur les tabacs par l'article 20 de la loi de finances pour 1968
-(n° 67-1114 du 21 décembre 1967), modifié par l'article 23 de la loi n° 82-659 du 30 juillet 1982 portant statut particulier
-de la région de Corse.
+les départements de la Corse. Il reçoit l'affectation prévue pour les droits de consommation sur les tabacs par l'article 20
+de la loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967), modifié par l'article 23 de la loi n° 82-659 du 30 juillet
+1982 portant statut particulier de la région de Corse.
 
-Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration.
+Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration (1).
+
+**Nota:**
+
+(1) Voir l'article 56 AQ de l'annexe IV.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°67-1114 du 21 décembre 1967 - art. 20, v. init.
+  - Loi n°67-1114 1967-12-21 art. 20 Finances pour 1968
   - Loi n°82-659 1982-07-30 art. 23
-
-_Créé par_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 92 () JORF 19 juillet 1992, art. 121 :
 
 _Cité par_:
 
@@ -49,10 +48,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 572 (V)
   - Code général des impôts, CGI. - art. 575 M (V)
 
-_Abrogé par_:
-
-  - Article incorporé dans l'édition du 18 août 1993
-
 **Liens**:
 
-  - HISTO: en vigueur le 1er janvier 1993)
+  - HISTO: Edition du 2 septembre 1994
