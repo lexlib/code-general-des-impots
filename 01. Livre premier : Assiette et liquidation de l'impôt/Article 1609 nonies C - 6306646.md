@@ -137,8 +137,8 @@ contribution demandée aux communes par le syndicat.
 
 2° L'attribution de compensation est égale au produit de taxe professionnelle, y compris la compensation prévue au I du D de
 l'article 44 modifié de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les compensations
-prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la
-ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées
+prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 modifiée relative à la mise en oeuvre du pacte de relance
+pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées
 antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n°
 86-1317 du 30 décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire
 diminué du coût net des charges transférées calculé dans les conditions définies au IV. L'attribution de compensation est
@@ -245,6 +245,28 @@ pour le régime fiscal prévu au présent article ou dont la communauté de comm
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 1648 A, 1648 AA, 1648 B, 1609 quinquies C, 1609 quinquies A, 1639 A, 1636 B decies, 1638 quater, 1390, 1391, 1414
+  - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
+  - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992
+  - Loi n°96-987 du 14 novembre 1996 - art. 4 ()
+  - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
+  - Loi n°99-586 1999-07-12
+  - Code général des collectivités territoriales - art. L5211-41-1 (M)
+  - Code général des collectivités territoriales - art. L5211-5 (M)
+  - Code général des collectivités territoriales - art. L5215-40-1 (M)
+  - Code général des collectivités territoriales - art. L5216-10 (M)
+  - Code général des collectivités territoriales - art. L5216-2 (Ab)
+  - Code général des collectivités territoriales - art. L5334-8 (M)
+  - Code général des collectivités territoriales - art. L5341-2 (M)
+  - Code de la construction et de l'habitation. - art. L302-8 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+  - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
+
 _Cité par_:
 
   - Loi n°80-10 du 10 janvier 1980 - art. 11 (V)
@@ -336,27 +358,8 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1656 bis (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 sexdecies (P)
 
-_Cite_:
-
-  - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
-  - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992
-  - Loi n°96-987 du 14 novembre 1996 - art. 4 ()
-  - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
-  - Loi n°99-586 1999-07-12
-  - CGI 1648 A, 1648 AA, 1648 B, 1609 quinquies C, 1609 quinquies A, 1639 A, 1636 B decies, 1638 quater, 1390, 1391, 1414
-  - Code général des collectivités territoriales - art. L5211-41-1 (M)
-  - Code général des collectivités territoriales - art. L5211-5 (M)
-  - Code général des collectivités territoriales - art. L5215-40-1 (M)
-  - Code général des collectivités territoriales - art. L5216-10 (M)
-  - Code général des collectivités territoriales - art. L5216-2 (Ab)
-  - Code général des collectivités territoriales - art. L5334-8 (M)
-  - Code général des collectivités territoriales - art. L5341-2 (M)
-  - Code de la construction et de l'habitation. - art. L302-8 (M)
-
 _Modifié par_:
 
-  - Loi - art. 80 () JORF 31 décembre 2000
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
+  - Loi n°2000-1208 2000-12-13 art. 86 II III, 87 II III IV, 92 JORF 14 décembre 2000
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 86 () JORF 14 décembre 2000
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 92 () JORF 14 décembre 2000
