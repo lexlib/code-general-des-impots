@@ -5,8 +5,7 @@ prévues par les textes d'application de la loi n° 76-663 du 19 juillet 1976 mo
 la protection de l'environnement peuvent bénéficier de l'amortissement exceptionnel prévu aux articles 39 quinquies E et 39
 quinquies F.
 
-II. Les dispositions du présent article s'appliquent aux investissements réalisés entre le 1er janvier 1995 et le 31 décembre
-1998.
+II. Les dispositions du présent article s'appliquent aux investissements réalisés avant le 1er janvier 2003.
 
 **Liens relatifs à cet article**
 
@@ -17,19 +16,11 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
-
-_Créé par_:
-
-  - Loi n°95-95 du 1 février 1995 - art. 57 (V) JORF 2 février 1995
+  - HISTO: Edition du 31 mars 1999
 
 _Modifié par_:
 
-  - Loi n°95-101 du 2 février 1995 - art. 7 () JORF 3 février 1995
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - Loi - art. 97 () JORF 31 décembre 1998
 
 _Cité par_:
 
