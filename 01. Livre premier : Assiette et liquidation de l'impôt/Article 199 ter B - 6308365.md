@@ -1,8 +1,17 @@
 # Article 199 ter B
 
 I. Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quater B est imputé sur l'impôt sur le revenu dû par
-le contribuable au titre de l'année au cours de laquelle il a accru ses dépenses de recherche. S'il excède l'impôt dû,
-l'excédent est restitué (1).
+le contribuable au titre de l'année au cours de laquelle il a accru ses dépenses de recherche. L'excédent est imputé sur
+l'impôt sur le revenu des trois années suivantes et, s'il y a lieu, restitué à l'expiration de cette période. Toutefois, cet
+excédent est immédiatement restituable pour les entreprises dont les résultats bénéficient, en tout ou partie, de
+l'exonération prévue à la première phrase du I de l'article 44 sexies.
+
+En cas de fusion ou opération assimilée intervenant au cours de la période visée à l'alinéa précédent, la fraction de
+l'excédent qui n'a pas encore été imputée par la société apporteuse ou absorbée est transférée à la société bénéficiant de
+l'apport ou absorbante (1).
+
+La fraction du crédit d'impôt recherche correspondant aux parts des personnes physiques autres que celles mentionnées au I de
+l'article 151 nonies n'est ni imputable ni restituable.
 
 II. Lorsque les dépenses de recherche exposées au cours d'une année sont inférieures à la moyenne de celles exposées au cours
 des deux années précédentes et revalorisées comme indiqué à l'article 244 quater B-I, il est pratiqué dans la limite des
@@ -13,18 +22,18 @@ III. Pour l'application du crédit d'impôt prévu au V de l'article 244 quater 
 cours d'une année sont inférieures aux dépenses exposées en 1987 revalorisées comme prévu à cet article, les crédits d'impôt
 obtenus sont restitués.
 
-(1) Annexe III, art. 49 septies L
+(1) Ces dispositions sont applicables pour le crédit d'impôt recherche des années 1992 à 1995.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 244 quater B I
-  - CGIAN3 49 septies L
+  - CGI 244 quater B I, 44 sexies I, 151 nonies
 
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 20 II, V Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi - art. 20 (P) JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Modification directe incorporée dans l'édition du 18 août 1993
 
 _Cité par_:
 
@@ -35,3 +44,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 220 B (V)
   - Code général des impôts, CGI. - art. 223 O (V)
   - Code général des impôts, CGI. - art. 244 quater B (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1993-02-10 4A-4-93
