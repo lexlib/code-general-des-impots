@@ -4,22 +4,22 @@ I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque ent
 ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les modalités
 prévues aux II et III (1).
 
-I bis Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de l'ensemble
-des réductions et dégrèvements dont cette cotisation peut faire l'objet.
+I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de
+l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet.
 
 Il ne s'applique pas aux taxes visées aux articles 1600 et 1601 ni aux prélèvements opérés par l'Etat sur ces taxes en
-application de l'article 1641.
+application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
 
-II. 1 La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de la production sur les consommations de biens et
+II. 1. La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de la production sur les consommations de biens et
 services en provenance de tiers constaté pour la période de référence définie aux articles 1467 A et 1478.
 
 2. Pour la généralité des entreprises, la production de l'exercice est égale à la différence entre :
 
-- d'une part, les ventes, les travaux, les prestations de services ou les recettes, les produits accessoires ; les
-subventions d'exploitation ; les ristournes, rabais et remises obtenus ; les travaux faits par l'entreprise pour elle-même ;
-les stocks à la fin de l'exercice ;
+D'une part, les ventes, les travaux, les prestations de services ou les recettes, les produits accessoires ; les subventions
+d'exploitation ; les ristournes, rabais et remises obtenus ; les travaux faits par l'entreprise pour elle-même ; les stocks à
+la fin de l'exercice ;
 
-- et, d'autre part, les achats de matières et marchandises, droits de douane compris ; les réductions sur ventes ; les stocks
+Et, d'autre part, les achats de matières et marchandises, droits de douane compris ; les réductions sur ventes ; les stocks
 au début de l'exercice.
 
 Les consommations de biens et services en provenance de tiers comprennent : les travaux, fournitures et services extérieurs,
@@ -29,19 +29,19 @@ de gestion.
 3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs
 mobilières est égale à la différence entre :
 
-- d'une part, les produits d'exploitation bancaires et produits accessoires ;
+D'une part, les produits d'exploitation bancaires et produits accessoires ;
 
-- et, d'autre part, les charges d'exploitation bancaires.
+Et, d'autre part, les charges d'exploitation bancaires.
 
 4. En ce qui concerne les entreprises d'assurance, de capitalisation et de réassurance de toute nature, la production est
 égale à la différence entre :
 
-- d'une part, les primes ou cotisations ; les produits financiers ; les produits accessoires ; les subventions
-d'exploitation ; les ristournes, rabais et remises obtenus ; les commissions et participations reçues des réassureurs ; les
-travaux faits par l'entreprise pour elle-même ; les provisions techniques au début de l'exercice.
+D'une part, les primes ou cotisations ; les produits financiers ; les produits accessoires ; les subventions d'exploitation ;
+les ristournes, rabais et remises obtenus ; les commissions et participations reçues des réassureurs ; les travaux faits par
+l'entreprise pour elle-même ; les provisions techniques au début de l'exercice.
 
-- et, d'autre part, les prestations ; les réductions et ristournes de primes ; les frais financiers ; les provisions
-techniques à la fin de l'exercice.
+Et, d'autre part, les prestations ; les réductions et ristournes de primes ; les frais financiers ; les provisions techniques
+à la fin de l'exercice.
 
 Les consommations intermédiaires comprennent également les commissions versées aux courtiers, agents et autres mandataires.
 
@@ -55,10 +55,10 @@ d'imposition suivant celle de la création, obtenue :
 
 1° Lorsqu'il s'agit d'une entreprise soumise à un régime d'imposition d'après le bénéfice réel, en multipliant le total :
 
-- des frais de personnel de l'année de la création, ajustés pour correspondre à une année pleine ;
+Des frais de personnel de l'année de la création, ajustés pour correspondre à une année pleine ;
 
-- et du prix de revient des immobilisations affecté du taux moyen d'amortissement de l'entreprise par le rapport constaté
-pour les autres établissements entre ces éléments et le montant total des bases ;
+Et du prix de revient des immobilisations affecté du taux moyen d'amortissement de l'entreprise par le rapport constaté pour
+les autres établissements entre ces éléments et le montant total des bases ;
 
 2° Lorsqu'il s'agit d'une entreprise soumise à un régime forfaitaire d'imposition, en multipliant le chiffre d'affaires de
 l'année de la création, ajusté pour correspondre à une année pleine, par le rapport constaté pour les autres établissements
@@ -71,9 +71,7 @@ entre cet élément et le montant total des bases.
 
 _Cite_:
 
-  - CGI 1449 2°, 1467 A, 1478, 1600, 1601, 1641
-  - Loi n°80-10 1980-01-10 ART. 7, ART. 33
-  - Loi n°80-10 du 10 janvier 1980 - art. 7 (V)
+  - CGI 1600, 1601, 1641, 1647 D, 1467 A, 1478
 
 _Cité par_:
 
@@ -98,8 +96,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 5 () JORF 30 décembre 1990
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
+  - Loi - art. 49 () JORF 31 décembre 1991
+  - Modification directe incorporée dans l'édition du 4 juillet 1992

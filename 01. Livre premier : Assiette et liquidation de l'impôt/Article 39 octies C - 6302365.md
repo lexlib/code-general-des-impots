@@ -1,21 +1,19 @@
 # Article 39 octies C
 
-Les dispositions des I quater et II bis de l'article 39 octies A et de l'article 39 octies B ne s'appliquent pas aux
-investissements qui sont réalisés pour l'exercice d'activités bancaires, financières, d'assurances ou d'activités définies à
-l'article 35.
+Les dispositions des I quater et II bis de l'article 39 octies A, de l'article 39 octies B et de l'article 39 octies D ne
+s'appliquent pas aux investissements qui sont réalisés pour l'exercice d'activités bancaires, financières, d'assurances ou
+d'activités définies à l'article 35.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 35
-  - CGI 39 octies A I quater, II bis
-  - CGI 39 octies B
+  - CGI 39 octies A, 39 octies B, 39 octies D, 35
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°87-1061 du 30 décembre 1987 - art. 27 (V) JORF 31 décembre 1987
+  - HISTO: Edition du 4 juillet 1992
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Loi - art. 86 () JORF 31 décembre 1991
