@@ -26,16 +26,24 @@ taxe constaté l'année précédente pour, selon le cas, les communes et leurs g
 s'il est plus élevé, jusqu'au niveau du taux de la taxe professionnelle de la collectivité ou du groupement concerné sans que
 ces diminutions soient prises en compte pour l'application, à la baisse, des dispositions du b du 1.
 
-Pour l'application des dispositions de l'alinéa précédent aux communes membres de groupements dotés ou non d'une fiscalité
-propre, les taux communaux de la taxe d'habitation, des taxes foncières et de la taxe professionnelle sont majorés des taux
-de ces groupements pour l'année précédant celle de l'imposition.
+((Lorsque les dispositions du premier alinéa ne sont pas applicables, le taux de la taxe d'habitation peut cependant être
+diminué, à compter de 1997, jusqu'au niveau du taux moyen national constaté l'année précédente pour cette taxe dans
+l'ensemble des collectivités de même nature, si le taux de taxe professionnelle de l'année précédente est inférieur au taux
+moyen national constaté la même année pour cette taxe dans l'ensemble des collectivités de même nature, sans que cette
+diminution soit prise en compte pour l'application, à la baisse, des dispositions du b du 1)) (M).
 
-Lorsque au titre d'une année il est fait application des dispositions du premier alinéa, la variation en hausse du taux de la
-taxe d'habitation ou du taux moyen de la taxe d'habitation et des taxes foncières à prendre en compte, pour l'application du
-1, pour la détermination du taux de la taxe professionnelle ou du taux de la taxe foncière sur les propriétés non bâties, est
-réduite de moitié pendant les trois années suivantes. Lorsque au titre d'une année, le taux de la taxe professionnelle ou le
-taux de la taxe foncière sur les propriétés non bâties a été augmenté dans ces conditions, il ne peut pas être fait
-application du premier alinéa pendant les trois années suivantes.
+Pour l'application des dispositions des premier et deuxième alinéas aux communes membres de groupements dotés ou non d'une
+fiscalité propre, les taux communaux de la taxe d'habitation, des taxes foncières et de la taxe professionnelle sont majorés
+des taux de ces groupements pour l'année précédant celle de l'imposition.
+
+Lorsque au titre d'une année il est fait application des dispositions du premier ou du deuxième alinéa la variation en hausse
+du taux de la taxe d'habitation ou du taux moyen de la taxe d'habitation et des taxes foncières à prendre en compte, pour
+l'application du 1, pour la détermination du taux de la taxe professionnelle ou du taux de la taxe foncière sur les
+propriétés non bâties, est réduite de moitié pendant les trois années suivantes.
+
+Lorsque au titre d'une année, le taux de la taxe professionnelle ou le taux de la taxe foncière sur les propriétés non bâties
+a été augmenté dans ces conditions, il ne peut pas être fait application du premier ou du deuxième alinéa pendant les trois
+années suivantes.
 
 3. Pour les départements et les communes lorsque le taux de la taxe professionnelle ainsi déterminé est inférieur à la
 moyenne constatée pour cette taxe l'année précédente dans l'ensemble des collectivités de même nature, il peut faire l'objet
@@ -48,14 +56,14 @@ seule commune membre, le conseil municipal de cette dernière peut, pour l'appli
 des taxes foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit de la commune et les taux
 respectifs des mêmes taxes, votés l'année précédente par la communauté urbaine.
 
-((Dans les communes, membres d'un groupement de communes, qui, l'année de l'adhésion au groupement et l'année suivante, ont
-rempli les conditions pour bénéficier des dispositions du premier alinéa, le conseil municipal peut, à compter de la deuxième
-année suivant celle de l'adhésion, majorer le taux de taxe professionnelle selon les modalités prévues ci-dessus lorsque, à
-compter de cette même année, le taux de la taxe professionnelle déterminé en application du 1 est inférieur à la moyenne
-constatée pour cette taxe l'année précédente dans l'ensemble des communes et que le taux moyen pondéré des trois autres taxes
-perçues au profit de la collectivité concernée est au plus inférieur de 20 p. 100 au taux moyen pondéré constaté l'année
-précédente pour ces trois taxes dans l'ensemble des communes. Ces règles sont applicables pour les communes qui ont adhéré à
-un groupement à compter de 1995)) (M).
+Dans les communes, membres d'un groupement de communes, qui, l'année de l'adhésion au groupement et l'année suivante, ont
+rempli les conditions pour bénéficier des dispositions du premier ou du deuxième alinéa, le conseil municipal peut, à compter
+de la deuxième année suivant celle de l'adhésion, majorer le taux de taxe professionnelle selon les modalités prévues ci-
+dessus lorsque, à compter de cette même année, le taux de la taxe professionnelle déterminé en application du 1 est inférieur
+à la moyenne constatée pour cette taxe l'année précédente dans l'ensemble des communes et que le taux moyen pondéré des trois
+autres taxes perçues au profit de la collectivité concernée est au plus inférieur de 20 p. 100 au taux moyen pondéré constaté
+l'année précédente pour ces trois taxes dans l'ensemble des communes. Ces règles sont applicables pour les communes qui ont
+adhéré à un groupement à compter de 1995.
 
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle étaient nuls l'année précédente, le conseil
 municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la
@@ -64,37 +72,25 @@ moyen de la taxe d'habitation et des taxes foncières, pondéré par l'importanc
 commune pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de ces trois taxes constaté l'année précédente
 dans l'ensemble des communes.
 
-I ter. Lorsqu'au titre de l'année précédente, le taux communal de taxe professionnelle n'excède pas de cinq points le taux
-moyen constaté au niveau national la même année pour cette taxe dans l'ensemble des communes et que le taux communal de taxe
-d'habitation est, d'une part, supérieur d'au moins dix points au taux moyen constaté au niveau national la même année pour
-cette taxe dans l'ensemble des communes et, d'autre part, excède une fois et demie le taux communal de taxe professionnelle,
-le taux communal de taxe d'habitation peut, au titre d'une seule année, être diminué de 15 p. 100 au plus sans que cette
-réduction soit prise en compte pour l'application des dispositions du b du 1 du I (Cette disposition n'est plus applicable à
-compter de 1989).
-
-Pour les cinq années qui suivent celle au titre de laquelle il a été fait application de l'alinéa précédent, le taux de taxe
-professionnelle et le taux de la taxe foncière sur les propriétés non bâties ne peuvent augmenter que si le taux de taxe
-d'habitation est, préalablement ou simultanément, majoré dans une proportion supérieure à la réduction effectuée en
-application de l'alinéa précédent. Dans ce cas, la variation du taux de taxe d'habitation à prendre en considération pour
-l'application du b du 1 du I est celle qui excède l'augmentation due à la suppression de la réduction (Ces dispositions ne
-sont pas applicables aux communes qui recourent aux dispositions du 1er alinéa du 2 du I).
-
-Lorsqu'il a été fait application des dispositions prévues au premier alinéa, une nouvelle réduction ne peut être opérée qu'à
-compter de la sixième année suivante.
-
-Ces dispositions ne font pas obstacle à l'application du 3 du I.
+I ter. (Dispositions périmées) (M).
 
 II. En cas de création d'un groupement de communes doté d'une fiscalité propre, les rapports entre les taux des quatre taxes
 établies par le groupement doivent être égaux, la première année, aux rapports constatés l'année précédente entre les taux
 moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
-(M) Modification de la loi.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1636 B septies, 1636 B decies, 1609 bis
+
+**Liens**:
+
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1997-02-06 Numéro spécial BOI n°39
+  - TXT_ASSOCIE: Instruction 1997-06-04 6IDL Numéro spécial
 
 _Cité par_:
 
@@ -117,13 +113,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 87 () JORF 31 décembre 1995
+  - Loi n°96-1181 du 30 décembre 1996 - art. 120 () JORF 31 décembre 1996
+  - Décret n°97-661 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
 
 _Codifié par_:
 
-  - Décret n°96-556 1996-06-21
-
-**Liens**:
-
-  - HISTO: Edition du 12 mai 1996
-  - TXT_ASSOCIE: Instruction 1994-02-14 Numéro spécial BOI n°39
+  - Décret n°97-661 1997-05-28
