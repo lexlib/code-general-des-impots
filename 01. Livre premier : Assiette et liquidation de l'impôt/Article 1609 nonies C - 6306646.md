@@ -13,21 +13,23 @@ communautés de villes sont substitués aux communes membres pour l'application 
 professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA ainsi que du 3° du II de l'article 1648 B, et
 perçoivent le produit de cette taxe.
 
-II. Les établissements publics de coopération intercommunale visés au I peuvent décider, par délibération du conseil de
+II. 1° Les établissements publics de coopération intercommunale visés au I peuvent décider, par délibération du conseil de
 l'établissement public de coopération intercommunale statuant à la majorité simple de ses membres, de percevoir la taxe
 d'habitation et les taxes foncières. Cette délibération est applicable à compter du 1er janvier de l'année suivant celle au
 cours de laquelle elle est intervenue.
 
-La première année d'application de ces dispositions, les rapports entre les taux de taxe d'habitation et des taxes foncières
-établis par l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre
-les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
-
-Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que
-le taux de la taxe d'habitation jusqu'à la date de la prochaine révision.
-
 L'année où intervient le renouvellement général des conseils municipaux, cette délibération doit être renouvelée par le
 nouveau conseil pour être applicable à compter du 1er janvier de l'année suivante. Dans ce cas, ils perçoivent le produit de
 la taxe professionnelle et celui de la taxe d'habitation et des taxes foncières.
+
+2° La première année de perception du produit de la taxe d'habitation et des taxes foncières en application des dispositions
+du 1°, ainsi que l'année qui suit celle au titre de laquelle l'établissement public de coopération intercommunale a voté un
+taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe d'habitation et des taxes foncières établis par
+l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux
+moyens pondérés de chaque taxe dans l'ensemble des communes membres.
+
+Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que
+le taux de la taxe d'habitation jusqu'à la date de la prochaine révision.
 
 III. 1° a. La première année d'application des dispositions du I, le taux de taxe professionnelle voté par le conseil de
 l'établissement public de coopération intercommunale ne peut excéder le taux moyen de la taxe professionnelle des communes
@@ -260,6 +262,10 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5341-2 (M)
   - Code de la construction et de l'habitation. - art. L302-8 (M)
 
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
+
 _Cité par_:
 
   - Loi n°80-10 du 10 janvier 1980 - art. 11 (V)
@@ -353,4 +359,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 57 () JORF 14 décembre 2000
+  - Loi - art. 80 () JORF 31 décembre 2000
