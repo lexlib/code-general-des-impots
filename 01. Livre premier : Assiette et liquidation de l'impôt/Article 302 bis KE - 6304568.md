@@ -3,10 +3,14 @@
 Il est institué, à compter du 1er juillet 2003, une taxe sur les ventes et locations en France, y compris dans les
 départements d'outre-mer, de vidéogrammes destinés à l'usage privé du public.
 
+Pour l'application du présent article, est assimilée à une activité de vente ou de location de vidéogrammes la mise à
+disposition du public d'un service offrant l'accès à titre onéreux à des oeuvres cinématographiques ou audiovisuelles, sur
+demande individuelle formulée par un procédé de communication électronique.
+
 Cette taxe est due par les redevables qui vendent ou louent des vidéogrammes à toute personne qui elle-même n'a pas pour
 activité la vente ou la location de vidéogrammes.
 
-La taxe est assise sur le montant hors taxe sur la valeur ajoutée du prix acquitté au titre de l'opération visée ci-dessus.
+La taxe est assise sur le montant hors taxe sur la valeur ajoutée du prix acquitté au titre des opérations visées ci-dessus.
 
 Le taux est fixé à 2 %.
 
@@ -18,9 +22,9 @@ règles applicables à cette même taxe.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-517 du 18 juin 2003 - art. 7 () JORF 19 juin 2003
+  - Loi n°2004-669 du 9 juillet 2004 - art. 113 (V) JORF 10 juillet 2004 en vigueur le 1er juillet 2004
 
 _Cité par_:
 
@@ -29,5 +33,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 31 août 2004
   - TXT_ASSOCIE: Instruction 2003-07-18 3P-4-03
