@@ -1,7 +1,7 @@
 # Article 39 terdecies
 
-1  Le régime des plus-values à long terme est applicable, dans les conditions et limites qui pourront être fixées par décret
-(1), aux produits des cessions de brevets, de procédés et de techniques, ainsi qu'aux concessions de licences exclusives
+1  Le régime des plus-values à long terme est applicable, dans les conditions et limites qui pourront être fixées par décret,
+aux produits des cessions de brevets, de procédés et de techniques (1), ainsi qu'aux concessions de licences exclusives
 d'exploitation. Pour l'imposition des bénéfices des exercices clos à partir du 31 décembre 1984, ce régime s'applique
 également aux concessions non exclusives d'exploitation.
 
@@ -9,7 +9,7 @@ Il en est de même pour les concessions de licences par lesquelles le titulaire 
 déterminé ou pour une application particulière. Ces dispositions cessent d'être applicables pour l'imposition des bénéfices
 des exercices clos à partir du 31 décembre 1984.
 
-Ce régime s'applique également, dans des conditions et limites qui seront fixées par décret (1), aux produits de cessions de
+Ce régime s'applique également, dans des conditions et limites qui seront fixées par décret, aux produits de cessions de
 brevets ou de concessions de licences d'exploitation de brevets en cours de délivrance.
 
 Les dispositions qui précèdent ne sont pas applicables lorsque les droits, procédés et techniques ne présentent pas le
@@ -28,29 +28,41 @@ le pouvoir de décision.
 - Lorsqu'elles sont placées l'une et l'autre, dans les conditions définies à l'alinéa précédent, sous le contrôle d'une même
 tierce entreprise.
 
-2  Sous réserve des dispositions de l'article 41, les plus-values nettes constatées en cas de décès de l'exploitant sont
+2 Sous réserve des dispositions de l'article 41, les plus-values nettes constatées en cas de décès de l'exploitant sont
 soumises de plein droit au régime fiscal des plus-values à long terme.
 
-3  (Abrogé)
+3 (Abrogé)
 
-4  Les distributions par les sociétés de capital-risque de produits et plus-values nets éxonérés en application du 3° septies
-de l'article 208 sont soumises, lorsque l'actionnaire est une entreprise, au régime fiscal des plus-values à long terme.
+4 Les distributions par les sociétés de capital-risque qui fonctionnent dans les conditions prévues à l'article 1er de la loi
+n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier sont soumises, lorsque
+l'actionnaire est une entreprise, au régime fiscal des plus-values à long terme réalisées lors de la cession d'actions si la
+distribution est prélevée sur des plus-values :
 
-(1) Décret à émettre
+- provenant de titres, cotés ou non cotés, détenus depuis au moins deux ans et de la nature de ceux qui sont visés dans la
+première phrase du premier alinéa du I du même article 1er ;
+
+- et réalisées au cours de l'exercice au titre duquel la distribution est effectuée ou des trois exercices précédents (2). 
+
+(1) loi 89-935 art. 21.
+
+(2) Ces dispositions sont applicables à compter du 1er janvier 1991.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 41 CGI 208 3° septies
+  - CGI 41
+  - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
+  - TXT_ASSOCIE: Loi n°89-935 1989-12-29 art. 21 Finances pour 1990 JORF 30 décembre 1989
+  - TXT_ASSOCIE: cette modification n'a pas été prise en compte lors des codifications de 1990 et de 1991
 
 _Modifié par_:
 
-  - Loi n°85-695 1985-07-11 art. 1 III 1° JORF 12 juillet 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - Loi n°90-1168 1990-12-29 art. 95 II 1 VI Finances pour 1991 JORF 30 décembre 1990
 
 _Cité par_:
 
