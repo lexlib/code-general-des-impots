@@ -5,7 +5,7 @@ sur les écrans de télévision.
 
 Elle est assise sur le message publicitaire selon les tarifs suivants :
 
-a) 1,5 euro par message dont le prix est au plus égal à 150 euros ;
+a) abrogé
 
 b) 3,80 euros par message dont le prix est supérieur à 150 euros et au plus égal à 1 520 euros ;
 
@@ -33,10 +33,8 @@ _Anciens textes_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 août 2004
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2004-669 du 9 juillet 2004 - art. 120 () JORF 10 juillet 2004
