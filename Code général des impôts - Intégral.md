@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1989-07-14
+Version Consolidée au 1989-08-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -48679,14 +48679,17 @@ _Codifié par_:
 
 ###### Article 831
 
+REMARQUE : Cette version n'a pas été codifiée ; une autre version est reprise dans l'édition du 15 juin 1990.
+
 I. Sont enregistrés au droit fixe de 1.220 F [*montant*] à raison des apports mobiliers qu'ils constatent, les actes de
 constitution et d'augmentation de capital des sociétés d'investissement en valeurs mobilières, régies par les titres I et II
 de l'ordonnance n° 45-2710 du 2 novembre 1945, qui s'engagent à procéder ou procèdent au titre de chaque exercice à la
 répartition entre les actionnaires de la totalité des bénéfices qui peuvent être distribués, quel que soit le montant des
-réserves, en vertu de l'article 9 modifié de ladite ordonnance. Les sociétés d'investissement à capital variable [*SICAV*]
-soumises aux dispositions de la loi n° 88-1201 du 23 décembre 1988 qui distribuent ou s'engagent à distribuer l'intégralité
-des sommes distribuables calculées conformément à l'article 31 de ladite loi bénéficient des dispositions du premier alinéa
-(1).
+réserves, en vertu de l'article 9 modifié de ladite ordonnance (1).
+
+Les sociétés d'investissement à capital variable [*SICAV*] qui respectent l'obligation de distribution  prévue au premier
+alinéa de l'article 31 de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs
+mobilières et portant création des fonds communs de créances  bénéficient des dispositions du premier alinéa.
 
 II. Pour les actes d'augmentation de capital des sociétés d'investissement à capital variable par voie d'apports mobiliers,
 il ne peut être perçu, au titre du droit d'apport liquidé conformément aux dispositions de l'article 825 une somme supérieure
@@ -48699,18 +48702,13 @@ au montant de l'imposition fixe visée au I.
 _Cite_:
 
   - CGI 825
-  - Ordonnance n°45-2710 du 2 novembre 1945 - art. 9 (M)
-  - Décret n°48-1685 1948-10-30 ART. 2
-  - Loi n°79-594 du 13 juillet 1979 - art. 7 (Ab)
+  - Ordonnance 45-2710 1945-11-02
+  - Décret n°48-1685 1948-10-30 art. 2
   - Loi n°88-1201 du 23 décembre 1988 - art. 31 (MMN)
 
 _Modifié par_:
 
-  - Loi n°88-1201 du 23 décembre 1988 - art. 44 () JORF  31 décembre 1988 incorporé au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-531 1989-08-02 art. 39 III JORF 4 août 1989
 
 
 ##### 6 : Fonds communs de placement<a id=741></a>
