@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1993-02-28
+Version Consolidée au 1993-06-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -116,7 +116,7 @@ Version Consolidée au 1993-02-28
                 - [A : Champ d'application. (art. 150 A bis à 150 D)](#113)
                   - [Exonérations. (art. 150 D)](#114)
                 - [2. Biens et droits mobiliers ou immobiliers (art. 150 A à 150 V)](#115)
-                - [B: Détermination de la plus-value imposable. (art. 150 H à 150 M)](#116)
+                - [B: Détermination de la plus-value imposable. (art. 150 H)](#116)
                 - [2. Biens et droits mobiliers et immobiliers. (art. 150 P à 150 T)](#117)
                 - [C : Calcul de l'impôt. (art. 150 R)](#118)
                 - [D : Dispositions particulières. (art. 150 U)](#119)
@@ -166,7 +166,7 @@ Version Consolidée au 1993-02-28
               - [Réduction d'impôt accordée au titre de certaines primes d'assurances. (art. 199 septies à 199 septies A)](#163)
               - [Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux. (art. 199 octies à 199 octies A)](#164)
               - [Réduction d'impôt accordée au titre des investissements immobiliers locatifs. (art. 199 decies à 199 nonies)](#165)
-              - [11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs. (art. 199 decies A)](#166)
+              - [11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs. (art. 199 decies A à 199 decies C)](#166)
               - [Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer. (art. 199 undecies)](#167)
               - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles (art. 199 duodecies à 199 terdecies A)](#168)
                 - [*PME* (art. 199 terdecies A)](#169)
@@ -7698,7 +7698,9 @@ _Cite_:
 I. A compter du 1er janvier 1986 [*date, point de départ*], les exploitants agricoles soumis à un régime réel d'imposition,
 peuvent déduire chaque année de leur bénéfice, soit une somme de 10 000 F [*montant*], soit 10 p. 100 [*pourcentage*] de ce
 bénéfice dans la limite de 20 000 F. Pour les exercices ouverts à compter du 1er janvier 1992, le taux est porté à 20 p. 100
-dans la limite de 30 000 F.
+dans la limite de 30 000 F. Pour les exercices ouverts à compter du 1er janvier 1993 le taux est porté à 30 % dans la limite
+de 45.000 F, une déduction complémentaire au taux de 10 p. 100 peut être pratiquée pour la fraction du bénéfice comprise
+entre 150.000 F et 450.000 F.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux,
 la limite de la déduction visée au premier alinéa est multipliée par le nombre des associés exploitants sans pouvoir excéder
@@ -7743,12 +7745,9 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 55 () JORF 31 décembre 1991
-  - Loi - art. 18 (V) JORF 31 décembre 1991
-
-_Codifié par_:
-
-  - Décret n°92-836 1992-08-27
+  - Loi - art. 88 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi n°93-859 1993-06-22 art. 32 Finances rectificative pour 1993 JORF 23 juin 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
@@ -7759,10 +7758,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 73 E (V)
   - Code général des impôts, CGI. - art. 75 A (Ab)
   - Code rural et de la pêche maritime - art. L731-15 (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 72 E
@@ -8408,7 +8403,7 @@ les conditions prévues aux articles 208-1 à 208-8-2 de la loi n° 66-537 du 24
 le prix de souscription ou d'achat de cette action constitue pour le bénéficiaire un complément de salaire imposable dans les
 conditions prévues au II de l'article 163 bis C. 
 
-II. Lorsque le prix d'acquisition des actions offertes dans les conditions prévues au I est inférieur à 90 p. 100 de la
+II. Lorsque le prix d'acquisition des actions offertes dans les conditions prévues au I est inférieur à 95 p. 100 de la
 moyenne des cours ou du cours moyen d'achat respectivement mentionnés aux articles 208-1 et 208-3 de la loi n° 66-537 du 24
 juillet 1966, la différence est imposée dans la catégorie des traitements et salaires au titre de l'année au cours de
 laquelle l'option est levée. 
@@ -8425,12 +8420,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-416 du 17 juin 1987 - art. 19 () JORF 18 juin 1987
-  - Loi n°89-935 1989-12-29 art. 12 I Finances pour 1990 JORF 30 décembre 1989
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
+  - Loi n°93-859 1993-06-22 art. 39 II Finances rectificative pour 1993 JORF 23 juin 1993
+  - Modification directe incorporée dans l'édition du 18 août 1993
 
 _Cité par_:
 
@@ -14441,6 +14432,28 @@ _Abrogé par_:
   - Loi - art. 10 (V) JORF 31 décembre 2003
 
 
+###### Article 150 M
+
+Les plus-values immobilières réalisées plus de deux ans après l'acquisition du bien sont réduites de 5 % pour chaque année de
+détention au-delà de la deuxième.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 1er janvier 2004
+  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+
+_Modifié par_:
+
+  - Loi n°93-859 1993-06-22 art. 27 Finances rectificative pour 1993 JORF 23 juin 1993
+
+_Abrogé par_:
+
+  - Loi - art. 10 (V) JORF 31 décembre 2003
+
+
 ###### Article 150 M bis
 
 La plus-value réalisée à compter du 1er janvier 1988 lors de la cession d'un cheval de course est réduite d'un abattement de
@@ -14669,22 +14682,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
-
-
-###### Article 150 M
-
-Les plus-values immobilières réalisées plus de deux ans après l'acquisition du bien sont réduites de 3,33 % pour chaque année
-de détention au-delà de la deuxième.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
-
-_Modifié par_:
-
-  - Loi - art. 91 (V) JORF 30 décembre 1990
 
 
 ##### 2. Biens et droits mobiliers et immobiliers.<a id=117></a>
@@ -16957,8 +16954,8 @@ _Cité par_:
 
 I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres, selon le cas, dans des conditions prévues à
 l'article 92 B, 150 A bis ou 160 si les actions acquises revêtent la forme nominative et demeurent indisponibles, suivant des
-modalités fixées par décret en Conseil d'Etat, de la date de la levée de l'option jusqu'à l'achèvement d'une période de cinq
-années à compter de la date d'attribution de cette option et, en tout état de cause, pendant au moins un an.
+modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de cinq années à compter de la date
+d'attribution de l'option (1).
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une mère ou une filiale dont le siège social est
 situé à l'étranger, les obligations déclaratives incombent à la filiale ou à la mère française.
@@ -16986,21 +16983,29 @@ déterminer le quotient.
 Lorsque le revenu global net est négatif, il est compensé à due concurrence, avec le montant net de l'avantage. L'excédent
 éventuel de ce montant net est ensuite imposé suivant les règles du premier alinéa.
 
-Les dispositions de l'article 163 ne sont pas applicables.
+Les dispositions de l'article 163-0 A ne sont pas applicables (2).
+
+(1) Ces dispositions sont applicables aux actions cédées à compter du 1er janvier 1993.
+
+(2) Ces dispositions sont applicables à compter de l'imposition des revenus de 1992 ; elles ne s' appliquent qu'aux seuls
+revenus exceptionnels ou différés imposés d'après le barême progressif prévu à l'article 197 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 80 bis, 92 B, 83 ter, 150 A bis, 199 terdecies A, 220 quater, 160, 163
+  - CGI 80 bis, 92 B, 83 ter, 199 terdecies A, 220 quater, 163-0 A, 197, 150 A bis, 160
 
 _Modifié par_:
 
-  - Loi n°91-1322 1991-12-30 art. 90 Finances pour 1992 JORF 31 décembre 1991
+  - Loi - art. 74 (V) JORF 5 janvier 1993
+  - Loi n°93-859 1993-06-22 art. 39 I Finances rectificative pour 199 JORF 23 juin 1993
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°92-836 1992-08-27
+  - SPEC_APPLI: Loi n°92-1476 1992-12-31 art. 74 IV V Finances rectificative pour 1992
+  - HISTO: Edition du 18 août 1993
+  - TXT_ASSOCIE: Instruction 1998-06-18 5F-12-98
 
 _Cité par_:
 
@@ -20118,11 +20123,11 @@ du 1er janvier 1992.
 c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux compris dans des exploitations agricoles et affectés
 à l'habitation des propriétaires exploitants ;
 
-d. Pour les prêts contractés et les dépenses payées à compter du 1er janvier 1990, les réductions d'impôt prévues aux a, b et
-c s'appliquent aux contribuables dont le revenu net imposable par part n'excède pas la limite inférieure de la douzième
-tranche du barème de l'impôt sur le revenu.
+d. (Abrogé) (1).
 
 2° a b c d (Périmé à l'exception du troisième alinéa du a transféré sous l'article L172 E du LPF).
+
+(1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à compter du 1er juillet 1993.
 
 **Liens relatifs à cet article**
 
@@ -20132,9 +20137,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 15 () JORF 31 décembre 1991
-  - Loi - art. 5 () JORF 31 décembre 1991
-  - Modifications directes incorporées dans l'édition du 4 juillet 1992
+  - Loi n°93-859 1993-06-22 art. 22 IV V Finances rectificative pour 1993 JORF 23 juin 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-859 1993-06-22 art. 22 V
 
 
 ###### Article 199 sexies A
@@ -20689,6 +20697,48 @@ _Modifié par_:
   - Loi - art. 44 () JORF 19 juillet 1991 JORF 31 décembre 1991
   - Loi - art. 7 () JORF 31 décembre 1991
   - Modifications directes incorporées dans l'édition du 4 juillet 1992
+
+
+###### Article 199 decies C
+
+La réduction mentionnée aux articles 199 decies A et 199 decies B est accordée aux personnes physiques propriétaires de
+locaux vacants depuis le 1er juin 1992 et qui les transforment en logements. La réduction est calculée sur le montant des
+travaux de grosses réparations et d'installation de l'équipement sanitaire élémentaire mentionnés au III de l'article 199
+sexies C qui ont nécessité l'obtention d'un permis de construire et qui ont fait l'objet avant le 1er juin 1994 de la
+déclaration d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Ce document accompagné d'une pièce
+attestant de sa réception en mairie doit être joint à la déclaration de revenus de l'année au titre de laquelle le bénéfice
+de la réduction d'impôt est demandé.
+
+La réduction d'impôt est accordée sur présentation des factures des entreprises qui ont réalisé les travaux. Les factures des
+entreprises doivent mentionner l'adresse de réalisation des travaux, leur nature et leur montant. Les dispositions de
+l'article 1740 quater s'appliquent.
+
+La location doit prendre effet avant le 31 décembre 1994.
+
+Un décret fixe les obligations déclaratives des contribuables (1).
+
+(1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er juin 1993.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 199 decies A, 199 sexies C, 1740 quater
+  - Code de l'urbanisme - art. R421-40 (Ab)
+
+_Créé par_:
+
+  - Loi n°93-859 1993-06-22 art. 26 I II Finances rectificative pour 1993 JORF 23 juin 1993
+
+_Codifié par_:
+
+  - Décret n°98-400 1998-05-22
+
+**Liens**:
+
+  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 22 avril 1998
 
 
 ##### Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.<a id=167></a>
@@ -50947,25 +50997,24 @@ _Modifié par_:
 Les mutations de propriété à titre onéreux de fonds de commerce ou de clientèles sont soumises à un droit d'enregistrement
 dont les taux sont fixés à :
 
-Fraction de la valeur taxable : Tarif applicable (en pourcentage)    N'excédant pas 100.000 F : 0
+Fraction de la valeur taxable : Tarif applicable (en pourcentage)    N'excédant pas 150.000 F : 0
 
-Comprise entre 100.000 F et 500.000 F : 6
+Comprise entre 150.000 F et 700.000 F : 6
 
-Supérieure à 500.000 F : 11,80 (1).
+Supérieure à 700.000 F : 11,80 (1).
 
 Le droit est perçu sur le prix de la vente de l'achalandage, de la cession du droit au bail et des objets mobiliers ou autres
 servant à l'exploitation du fonds. Ces objets doivent donner lieu à un inventaire, détaillé et estimatif, dans un état
 distinct dont trois exemplaires, rédigés sur des formules spéciales fournies par l'administration, doivent rester déposés à
-la recette où la formalité est requise [*formalités obligatoires*].
+la recette où la formalité est requise.
 
-(1) Ce tarif s'applique aux actes passés et aux conventions conclues à compter du 1er octobre 1991.
+(1) Ce tarif s'applique aux actes passés et aux conventions conclues à compter du 10 mai 1993.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi - art. 16 (V) JORF 31 décembre 1991
-  - Modification directe incorporée dans l'édition du 4 juillet 1992
+  - Loi n°93-859 1993-06-22 art. 4 I, II Finances rectificative pour 1993 JORF 23 juin 1993
 
 _Cité par_:
 
@@ -50981,7 +51030,7 @@ _Cité par_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 1992-01-17 7D-2-92
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 720
@@ -53521,6 +53570,31 @@ _Cité par_:
 _Modifié par_:
 
   - Loi - art. 59 (V) JORF 31 décembre 1991
+
+
+###### Article 793 ter
+
+L'exonération prévue au 4° du 2 de l'article 793 est plafonnée à 300 000 F par part reçue par chacun des donataires,
+héritiers ou légataires. Pour l'appréciation de cette limite de 300 000 F, il est tenu compte de l'ensemble des transmissions
+à titre gratuit consenties par la même personne.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Article incorporé dans l'édition du 18 août 1993
+
+_Cite_:
+
+  - CGI 793
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1993-10-26 7G-6-93
+
+_Créé par_:
+
+  - Loi n°93-859 1993-06-22 art. 21 II Finances rectificative pour 1993 JORF 23 juin 1993
 
 
 ###### Article 794
@@ -56101,11 +56175,12 @@ _Modifié par_:
 
 ###### Article 885 H
 
-Les exonérations prévues en matière de droits de mutation par décès par l'article 793-1 et 2-3° et par l'article 795 A ne
-sont pas applicables à l'impôt de solidarité sur la  fortune. Il en est de même des règles d'évaluation propres aux droits de
-succession tenant au lieu de situation des immeubles et de l'absence de sanction pour défaut de déclaration pour le paiement
-de ces droits. Toutefois les dispositions du 1-3° du même article relatives aux parts d'intérêts détenues dans un groupement
-forestier sont applicables lorsque ces parts sont représentatives d'apports constitués par des biens mentionnés audit 3°.
+Les exonérations prévues en matière de droits de mutation par décès par le 1 et les 3° et 4° du 2 de l'article 793 et par
+l'article 795 A ne sont pas applicables à l'impôt de solidarité sur la  fortune. Il en est de même des règles d'évaluation
+propres aux droits de succession tenant au lieu de situation des immeubles et de l'absence de sanction pour défaut de
+déclaration pour le paiement de ces droits. Toutefois les dispositions du 1-3° du même article relatives aux parts d'intérêts
+détenues dans un groupement forestier sont applicables lorsque ces parts sont représentatives d'apports constitués par des
+biens mentionnés audit 3°.
 
 Les biens donnés à bail à long terme dans les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du
 code rural, qui n'entrent pas dans le champ d'application de l'article 885 P, sont exonérés d'impôt de solidarité sur la
@@ -56124,19 +56199,6 @@ prévues à l'alinéa précédent, exonérées à concurrence des trois quarts, 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 793 1 3° 4°, 2 3°
-  - CGI 795 A
-  - CGI 885 P
-  - CGI 885 Q
-  - Code rural L411-35
-  - Code rural L416-1 à Code rural L416-6
-  - Code rural L416-8
-  - Code rural L416-9
-  - Loi n°62-933 1962-08-08
-  - Loi n°70-1299 1970-12-31
-
 _Cité par_:
 
   - Décret du 28 juin 1930 - art. 1 (V)
@@ -56154,10 +56216,17 @@ _Cité par_:
   - Code monétaire et financier - art. R214-164 (V)
   - Code monétaire et financier - art. R214-173 (V)
 
+_Cite_:
+
+  - Loi n°62-933 1962-08-08
+  - Loi n°70-1299 1970-12-31
+  - CGI 793, 795 A, 885 P, 793-1, 885 Q
+  - Code rural L416-1 à L416-6, L416-8, L416-9, L411-35
+
 _Modifié par_:
 
-  - Loi n°88-1149 1988-12-23 art. 26 I, II Finances pour 1989 JORF 28 décembre 1988
-  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+  - Loi n°93-859 1993-06-22 art. 21 VII Finances rectificative pour 1993 JORF 23 juin 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 885 I
@@ -58970,17 +59039,28 @@ _Codifié par_:
 ###### Article 978
 
 Toute opération de bourse ayant pour objet l'achat ou la vente, au comptant ou à terme, de valeurs de toute nature donne lieu
-à la rédaction d'un bordereau soumis à un droit de timbre calculé d'après le taux de la négociation [*formalité
-obligatoire*].
+à la rédaction d'un bordereau soumis à un droit de timbre calculé d'après le taux de la négociation.
 
-Le tarif de ce droit est fixé à 3 o/oo pour la fraction de chaque opération inférieure ou égale à 1.000.000 de francs
-[*montant*] et à 1,50 o/oo [*taux*] pour la fraction qui excède cette somme, ainsi que pour les opérations de report.
+Le tarif de ce droit est fixé à 3 p. 1000 pour la fraction de chaque opération inférieure ou égale à 1.000.000 de francs et à
+1,50 p. 1000 pour la fraction qui excède cette somme, ainsi que pour les opérations de report.
+
+Un abattement de 150 F est pratiqué sur les droits dus à l'occasion de chaque opération.
+
+Les droits dus à chaque opération ne peuvent pas dépasser 4 000 F (1).
+
+(1) Ces dispositions s'appliquent aux opérations réalisées à compter du 24 mai 1993 pour l'abattement de 150 F et à compter
+du 26 juillet 1993 pour la limitation à 4 000 F des droits sur les opérations de bourse.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 18 août 1993
+  - TXT_ASSOCIE: Instruction 1993-06-29 7N-1-93
+
+_Modifié par_:
+
+  - Loi n°93-859 1993-06-22 art. 5 Finances rectificative pour 1993 JORF 23 juin 1993
 
 
 ###### Article 979
@@ -60112,24 +60192,36 @@ _Codifié par_:
 ###### Article 1018 A
 
 Les décisions des juridictions répressives, à l'exception de celles qui ne statuent que sur les intérêts civils, sont
-soumises à un droit fixe de procédure.
+soumises à un droit fixe de procédure dû par chaque condamné.
 
 Ce droit est de :
 
-1° 50 F pour les décisions des tribunaux de police et celles des juridictions qui ne statuent pas sur le fond ;
+1° 150 F pour les ordonnances pénales ;
 
-2° 250 F pour les décisions de la Cour de cassation et celles des juridictions qui statuent sur le fond en matière
-correctionnelle et des cours qui statuent sur le fond en matière de police ;
+2° 150 F pour les autres décisions des tribunaux de police et celles des juridictions qui ne statuent pas sur le fond ;
 
-3° 500 F pour les décisions des cours d'assises qui statuent sur le fond.
+3° 600 F pour les décisions des tribunaux correctionnels ;
+
+4° 800 F pour les décisions des cours d'appel statuant en en matière correctionnelle et de police ;
+
+5° 2 500 F pour les décisions des cours d'assises.
+
+Il est de 1 000 F pour les décisions de la Cour de cassation statuant en matière criminelle, correctionnelle ou de police.
 
 Les décisions rendues sur le fond s'entendent des jugements et arrêts des cours et tribunaux qui statuent sur l'action
 publique et qui ont pour effet, si aucune voie de recours n'est ouverte ou n'est exercée, de mettre fin à la procédure.
 
-Ce droit n'est pas perçu sur les jugements rendus par le juge pour enfants.
+Ce droit n'est pas dû lorsque le condamné est mineur.
 
-Le droit est perçu et recouvré selon les règles applicables en matière d'enregistrement. Il n'est en aucun cas à la charge de
-la partie civile.
+Ce droit est recouvré sur chaque condamné comme en matière d'amendes et de condamnations pécuniaires par les comptables du
+Trésor. Les personnes condamnées pour un même crime ou pour un même délit sont tenues solidairement au paiement des droits
+fixes de procédure.
+
+Ce droit est aussi recouvré, comme en matière criminelle ou correctionnelle, en cas de décision de non-lieu ou de relaxe sur
+la partie civile qui a mis en mouvement l'action publique.
+
+Le recouvrement du droit fixe de procédure et des amendes pénales est garanti, d'une part, par le privilège général sur les
+meubles prévu à l'article 1920, d'autre part, par l'hypothèque légale prévue à l'article 1929 ter.
 
 **Liens relatifs à cet article**
 
@@ -60154,11 +60246,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°84-1208 du 29 décembre 1984 - art. 2 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+  - Loi n°93-2 du 4 janvier 1993 - art. 141 () JORF 5 janvier 1993
+  - Loi n°93-859 1993-06-22 art. 11 Finances rectificative pour 1993 JORF 23 juin 1993
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°85-1007 1985-09-24
+  - HISTO: Edition du 18 août 1993
 
 
 ##### Section V ter : Droit forfaitaire de délivrance d'ampliation<a id=837></a>
@@ -64835,18 +64928,18 @@ _Cité par_:
 ###### Article 1450
 
 Les exploitants agricoles, y compris les propriétaires ou fermiers de marais salants sont exonérés de la taxe
-professionnelle. Ces dispositions ne s'appliquent pas à la production de graines, semences et plantes effectuée par
-l'intermédiaire de tiers.
+professionnelle.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi - art. 68 () JORF 5 janvier 1993
-
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 1993-05-06 6E-13-93
+  - TXT_ASSOCIE: Instruction 1993-08-06 6E-18-93
+
+_Modifié par_:
+
+  - Loi n°93-859 1993-06-22 art. 33 Finances rectificative pour 1993 JORF 23 juin 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 1451
@@ -67632,8 +67725,16 @@ k. Au titre de 1991, à 1 pour les propriétés non bâties, à 1,01 pour les im
 1500, et à 1,03 pour l'ensemble des autres propriétés bâties ;
 
 l. Au titre de 1992, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500
-et à 1,01 pour l'ensemble des autres propriétés bâties. m) Au titre de 1993, à 1 pour les propriétés non bâties, à 1,01 pour
-les immeubles industriels ne relevant pas de l'article 1500 et à 1,03 pour l'ensemble des autres propriétés bâties.
+et à 1,01 pour l'ensemble des autres propriétés bâties ;
+
+m. Au titre de 1993, à 1 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article
+1500 et à 1,03 pour l'ensemble des autres propriétés bâties ;
+
+n. Au titre de 1994, à 1 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article
+1500 et à 1,03 pour l'ensemble des autres propriétés bâties ;
+
+o. Au titre de 1995, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500
+et à 1,02 pour l'ensemble des autres propriétés bâties.
 
 **Liens relatifs à cet article**
 
@@ -67643,7 +67744,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 97 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993, modification directe  incorporée dans l'édition du 18 août 1993
+  - Loi n°93-859 1993-06-22 art. 40 Finances rectificative pour 1993 JORF 23 juin 1993
+
+_Codifié par_:
+
+  - Décret n°93-1127 1993-09-24
 
 _Cité par_:
 
@@ -70002,9 +70107,9 @@ Pour les mutations à titre onéreux d'immeubles visées aux articles 710 et 711
 
 6 p. 100 à compter du 1er juin 1993 ;
 
-5,5 p. 100 à compter du 1er juin 1994 ;
+5,5 p. 100 à compter du 1er juin 1995 ;
 
-5 p. 100 à compter du 1er juin 1995.
+5 p. 100 à compter du 1er juin 1996.
 
 Les dispositions du premier et du deuxième alinéa ne sont pas applicables au droit proportionnel de 0,60 p. 100.
 
@@ -70017,8 +70122,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 102 (V) JORF 31 décembre 1991
-  - Modification directe incorporée dans l'édition du 4 juillet 1992
+  - Loi n°93-859 1993-06-22 art. 36 Finances rectificative pour 1993 JORF 23 juin 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
@@ -79381,32 +79486,35 @@ _Abrogé par_:
 La taxe professionnelle et les taxes additionnelles sont recouvrées par voie de rôles suivant les modalités et sous les
 garanties et sanctions prévues en matière de contributions directes.
 
-Elles donnent lieu au versement de deux acomptes égaux, le premier à trois huitièmes du montant des taxes mises en
-recouvrement au titre de l'année précédente, le second à un huitième de ce même montant. Les acomptes ne sont pas dus si le
-montant des taxes sur lequel ils sont calculés est inférieur à 10 000 F.
+Elles donnent lieu au versement d'un acompte, égal à 50 % du montant des taxes mises en recouvrement au titre de l'année
+précédente, avant le 1er avril de l'année courante. L'acompte n'est pas dû si ce montant est inférieur à 10.000 F.
 
-Les acomptes sont exigibles respectivement le 30 avril et le 31 août. Il est fait application des dispositions du 2 et du 3
-de l'article 1664 pour leur recouvrement et celui du solde de la taxe.
+L'acompte est exigible le 31 mai et il est fait application des dispositions du 2 et du 3 de l'article 1664 pour son
+recouvrement et celui du solde de la taxe.
 
 Le redevable qui estime que sa base d'imposition sera réduite d'au moins 25 % ou qui prévoit la cessation de son activité en
-cours d'année, au sens du 1° de l'article 1478, peut réduire à la date d'exigibilité des acomptes en remettant au comptable
-du Trésor, chargé du recouvrement de la taxe professionnelle du lieu d'imposition, à la date d'exigibilité des acomptes, une
-déclaration datée et signée.
-
-La même faculté est ouverte au redevable qui a demandé à bénéficier des dispositions de l'article 1647 B sexies pour la
-cotisation de taxe professionnelle établie au titre de l'année précédente, à défaut de décision de dégrèvement à la date de
-paiement des acomptes.
+cours d'année, au sens du I de l'article 1478, peut réduire le montant de son acompte en remettant au comptable du Trésor,
+chargé du recouvrement de la taxe professionnelle du lieu d'imposition, quinze jours avant la date d'exigibilité de l'acompte
+[*délai*], une déclaration datée et signée.
 
 Le versement du solde ne sera exigible qu'à partir du 1er décembre [*date*].
 
-Les contribuables doivent, un mois au moins avant l'échéance, être informés par l'administration du montant des acomptes
+Les contribuables doivent, un mois au moins avant l'échéance, être informés par l'administration du montant de l'acompte
 qu'ils auront à verser.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - HISTO: )
+
+_Cite_:
+
+  - CGI 1664, 1478, 1647 B sexies
+
 _Modifié par_:
 
-  - Loi - art. 27 (V) JORF 31 décembre 1992
+  - Loi n°93-859 1993-06-22 art. 3 II Finances rectificative pour 1993 JORF 23 juin 1993, modification directe incorporée dans l'édition du 18 août 1993
 
 _Cité par_:
 
@@ -83557,28 +83665,40 @@ _Cité par_:
 
 ###### Article 1762 quater
 
-I   Toute somme due au titre de l'acompte prévu à l'article 1679 quinquies et qui n'est pas acquittée le 15 juin fait l'objet
+I. Toute somme due au titre de l'acompte prévu à l'article 1679 quinquies et qui n'est pas acquittée le 15 juin fait l'objet
 d'une majoration de 10 %.
 
 Si, à la suite de la mise en recouvrement du rôle de taxe professionnelle, la déclaration remise par le redevable au
-comptable du Trésor pour justifier la réduction de l'acompte est reconnue inexacte de plus du dixième, une majoration de 10 %
+comptable du Trésor pour justifier la réduction des acomptes est reconnue inexacte de plus du dixième, une majoration de 10 %
 est appliquée aux sommes non réglées.
 
-II  Les cotisations de taxe professionnelle mises en recouvrement durant la première quinzaine de novembre donnent lieu à la
-majoration de 10 % pour paiement tardif, par exception aux articles 1663-1 et 1761-1, à raison des sommes non versées le 30
+II. Les cotisations de taxe professionnelle mises en recouvrement durant la première quinzaine de novembre donnent lieu à la
+majoration de 10 % pour paiement tardif, par exception au 1 des articles 1663 et 1761, à raison des sommes non versées le 30
 décembre au plus tard.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1663 1
-  - CGI 1679 quinquies
-  - CGI 1761 1
+  - CGI 1679 quinquies, 1663, 1761
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi - art. 27 (V) JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi n°93-859 1993-06-22 art. 3 II Finances rectificative pour 1993 JORF 23 juin 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 1762 quinquies
