@@ -4,9 +4,9 @@ A compter de l'imposition des revenus de 1989, les cotisations versées aux orga
 salariés et de fonctionnaires au sens de l'article L. 133-2 du code du travail ouvrent droit à une réduction d'impôt sur le
 revenu.
 
-La réduction d'impôt est égale à 20 p. 100 des cotisations versées prises dans la limite de 1 p. 100 du montant du revenu
-brut désigné à l'article 83, après déduction des cotisations et des contributions mentionnées aux 1° à 2° ter du même
-article.
+La réduction d'impôt est égale à 30 p. 100 des cotisations versées prises dans la limite de 1 p. 100 du montant du revenu
+brut désigné à l'article 83, après déduction des cotisations et des contributions mentionnées aux 1° à 2° ter du même article
+(1).
 
 La réduction d'impôt ne s'applique pas aux bénéficiaires de traitements et salaires admis à justifier du montant de leurs
 frais réels.
@@ -17,26 +17,13 @@ Le bénéfice de la réduction d'impôt est subordonné à la condition que soit
 syndicat mentionnant le montant et la date du versement. A défaut, la réduction d'impôt est refusée sans notification de
 redressement préalables.
 
+(1) Pour l'imposition des revenus de 1989 et 1990, le taux de la réduction était fixé à 20 %.
+
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 199 sexies A
-  - CGI 83
-  - Code du travail - art. L133-2 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 14 juillet 1989
-
-_Créé par_:
-
-  - Loi n°88-1149 1988-12-23 art. 8 I, II Finances pour 1989 JORF 28 décembre 1988
-  - Loi n°88-1149 du 23 décembre 1988 - art. 8 (V) JORF 28 décembre 1988
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi - art. 110 () JORF 30 décembre 1990
 
 _Cité par_:
 
@@ -45,3 +32,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 200 quater (V)
   - Code général des impôts, CGI. - art. 200-0 A (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
