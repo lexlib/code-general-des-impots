@@ -7,7 +7,7 @@ de l'artisanat à raison des bénéfices qu'elles réalisent à compter du débu
 quatre-vingt-quinzième mois suivant celui au cours duquel intervient cet événement, à la condition que l'objet de ces
 sociétés et leur programme d'activité aient reçu l'agrément préalable du ministre de l'économie, des finances et du budget
 délivré après avis d'une commission composée de représentants de ce ministre et des organisations professionnelles de la
-région Corse et dans la limite fixée par cet agrément.
+collectivité territoriale Corse et dans la limite fixée par cet agrément.
 
 II. Les dispositions du I ne sont pas applicables aux entreprises ou activités créées dans le cadre d'une concentration,
 d'une restructuration d'activités préexistantes exercées en Corse ou qui reprennent de telles activités.
@@ -28,16 +28,18 @@ V. Un décret précise les conditions d'application du présent article (1).
 
 _Cite_:
 
-  - CGI 39 duodecies à 39 quindecies
-  - CGI 53 A
+  - CGI 53 A, 39 duodecies à 39 quindecies
+  - Décret n°91-629 1991-07-04
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 24 juin 1991
+  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
+  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
+  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi - art. 88 () JORF 30 décembre 1990
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
