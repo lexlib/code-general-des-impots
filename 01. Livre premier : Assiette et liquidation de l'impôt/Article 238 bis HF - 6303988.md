@@ -1,10 +1,10 @@
 # Article 238 bis HF
 
 L'agrément prévu à l'article 238 bis HE est délivré par le ministre de la culture aux oeuvres, réalisées en version
-originale, en langue française, de nationalité d'un Etat de la Communauté économique européenne [*CEE*], et pouvant
-bénéficier du soutien de l'industrie cinématographique et de l'industrie des programmes audiovisuels prévu à l'article 76 de
-la loi de finances pour 1960 n° 59-1454 du 26 décembre 1959  et à l'article 61 de la loi de finances pour 1984 n° 83-1179 du
-29 décembre 1983 , à l'exclusion:
+originale, en langue française, de nationalité d'un Etat de la Communauté européenne, et pouvant bénéficier du soutien de
+l'industrie cinématographique et de l'industrie des programmes audiovisuels prévu à l'article 76 de la loi de finances pour
+1960 n° 59-1454 du 26 décembre 1959  et à l'article 61 de la loi de finances pour 1984 n° 83-1179 du 29 décembre 1983, à
+l'exclusion:
 
 Des oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976  n° 75-1278 du 30 décembre 1975;
 
@@ -16,7 +16,7 @@ De tout document ou programme audiovisuel ne comportant qu'accessoirement des é
 
 Toutefois, dans la limite de 20 p. 100 des financements annuels visés à l'article 238 bis HE, l'agrément prévu au même
 article peut être délivré aux oeuvres de coproduction réalisées dans une langue du pays du coproducteur majoritaire établi
-dans un Etat membre de la Communauté économique européenne.
+dans un Etat membre de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -29,10 +29,17 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 123 (V) JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-  - Modifications directes incorporées dans l'édition du 18 août 1993
+  - Loi n°94-640 du 25 juillet 1994 - art. 33 () JORF 27 juillet 1994
+
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. L111-3 (V)
   - Code général des impôts, CGI. - art. 238 bis HG (V)
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995

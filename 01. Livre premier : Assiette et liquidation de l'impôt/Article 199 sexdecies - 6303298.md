@@ -7,7 +7,7 @@ la fourniture de services aux personnes à leur domicile, soit à un organisme �
 domicile et habilité au titre de l'aide sociale ou conventionné par un organisme de sécurité sociale.
 
 La réduction d'impôt est égale à 50 p. 100 du montant des dépenses effectivement supportées, retenues dans la limite de
-(( 26.000 F )) (Modification de la loi).
+((90.000 F)) (Modification de la loi) (1').
 
 La réduction d'impôt est accordée sur présentation des pièces justifiant du paiement des salaires et des cotisations
 sociales, de l'identité du bénéficiaire, ou de la nature et du montant des prestations fournies par l'intermédiaire de
@@ -18,9 +18,13 @@ remboursement.
 
 2° Les personnes qui n'ont pas leur domicile fiscal en France ne bénéficient pas de la réduction d'impôt (2).
 
+**Nota:**
+
 (1) Décret 92-18 du 6 janvier 1992 (JO du 8).
 
-(2) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1992.
+(1') Ces dispositions s'appliquent à compter de l'imposition des revenus de 1995.
+
+(3) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1992.
 
 **Liens relatifs à cet article**
 
@@ -31,8 +35,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
-  - Modifications directes incorporées dans l'édition du 2 septembre 1994
+  - Loi n°94-1162 du 29 décembre 1994 - art. 59 (V) JORF 30 décembre 1994
 
 _Cité par_:
 
@@ -56,3 +59,8 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 193 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AO bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+  - TXT_ASSOCIE: Instruction 1995-02-16 5B-4-95
