@@ -11,9 +11,8 @@ II  La déclaration de résultat que ces entreprises souscrivent en application 
 
 - le relevé des provisions.
 
-Ces entreprises sont, par ailleurs, dispensées de fournir à l'administration le bilan et les autres documents prévus par le
-premier alinéa de l'article 54. En outre, lors des vérifications de comptabilité, elles sont dispensées de présenter leur
-bilan.
+Ces entreprises sont tenues de produire un bilan abrégé à l'appui de leurs déclarations de résultats. Elles sont, par
+ailleurs, dispensées de fournir à l'administration les autres documents prévus par le premier alinéa de l'article 54.
 
 III  Le bénéfice des dispositions du II est réservé :
 
@@ -36,21 +35,6 @@ renoncer au bénéfice du présent article, ainsi que les conditions d'exercice 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 302 septies A CGIAN2 38
-  - CGI 53
-  - CGI 54
-  - CGIAN2 267 septies A
-  - CGIAN2 267 septies B
-  - CGIAN2 267 septies C
-  - CGIAN2 38 bis
-  - Loi n°66-879 du 29 novembre 1966 - art. 36 (M)
-
-_Modifié par_:
-
-  - Loi n°81-1160 du 30 décembre 1981 - art. 85 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
 _Cité par_:
 
   - Arrêté du 3 avril 2015 (Ab)
@@ -64,3 +48,22 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
   - Livre des procédures fiscales - art. L135 D (V)
+
+_Cite_:
+
+  - CGI 302 septies A CGIAN2 38
+  - CGI 53
+  - CGI 54 Al. 1
+  - CGIAN2 267 septies A
+  - CGIAN2 267 septies B
+  - CGIAN2 267 septies C
+  - CGIAN2 38 bis
+  - Loi n°66-879 du 29 novembre 1966 - art. 36 (M)
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Modifié par_:
+
+  - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
