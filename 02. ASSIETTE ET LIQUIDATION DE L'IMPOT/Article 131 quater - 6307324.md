@@ -8,7 +8,7 @@ a. L'emprunt doit comporter une durée de cinq ans au moins et, en cas d'amortis
 trois ans ;
 
 b. L'opération doit être expressément admise par l'administration fiscale au bénéfice de ce régime spécial avant le 31
-décembre 1981 [*date limite*] ;
+décembre 1982 [*date limite*] ;
 
 II. Les dispositions du I sont également applicables :
 
@@ -27,13 +27,13 @@ _Cite_:
   - CGI 119 bis
   - CGI 125 A III
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: JORF 31 DECEMBRE 1980)
+  - Décret n°82-881 1982-10-15
 
 _Modifié par_:
 
-  - Loi n°80-1094 du 30 décembre 1980 - art. 57 (P)
+  - Loi n°81-1160 du 30 décembre 1981 - art. 40 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 _Cité par_:
 
