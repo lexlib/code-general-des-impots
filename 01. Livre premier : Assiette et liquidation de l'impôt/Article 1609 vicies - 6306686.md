@@ -16,23 +16,21 @@ c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 
 II. – ((Les taux de la taxe sont fixés comme suit :
 
-((PAR KILOGRAMME (en francs) / PAR LITRE (en francs)
+((Huile d'olive, 0,917 F/Kg, 0,826 F/litre
 
-((Huile d'olive, 0,902, 0,812
+((Huiles d'arachide et de maïs, 0,826 F/Kg, 0,752 F/Litre
 
-((Huiles d'arachide et de maïs, 0,812, 0,739
+((Huiles de colza et de pépins de raisin, 0,423 F/Kg, 0,385 F/litre
 
-((Huiles de colza et de pépins de raisin, 0,416, 0,379
+((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
+internationales ou nationales relatives aux espèces protégées, 0,720 F/Kg, 0,629 F/litre
 
-((Autres huiles végétales fluides et huiles d'animaux marins dont le ((commerce et l'utilisation ne sont pas soumis aux
-règles ((internationales ou nationales relatives aux espèces protégées, ((0,708, 0,618
+((Huiles de coprah et de palmiste, 0,550F/Kg, 0,629 F / litre
 
-((Huiles de coprah et de palmiste, 0,541, 0,618
+((Huile de palme, 0,503 F/Kg, 0,629 F/litre
 
-((Huile de palme, 0,495, 0,618
-
-((Huiles d'animaux marins dont le commerce et l'utilisation sont ((soumis aux règles internationales ou nationales relatives
-aux ((espèces protégées, 0,902, 0,618)) (Modification de la loi 93-1352).
+((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives
+aux espèces protégées, 0,917F F/Kg, 0,629 F/litre)) (M).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition intracommunautaire incorporant des huiles
 imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition.
@@ -43,8 +41,8 @@ nationale.
 
 III. – Les huiles, y compris celles qui sont contenues dans l es produits alimentaires visés ci-dessus, exportées de France
 continentale et de Corse, qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou d'une livraison
-dans un lieu situé dans un autre Etat membre de la Communauté économique européenne en application de l'article 258 A, ne
-sont pas soumises à la taxe spéciale.
+dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A, ne sont pas
+soumises à la taxe spéciale.
 
 IV. – La taxe spéciale est établie et recouvrée selon les modalités, ainsi que sous les sûretés, garanties et sanctions
 applicables aux taxes sur le chiffre d'affaires.
@@ -52,15 +50,21 @@ applicables aux taxes sur le chiffre d'affaires.
 Sont toutefois fixées par décret les mesures particulières et prescriptions d'ordre comptable notamment, nécessaires pour que
 la taxe spéciale ne frappe que les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne soit perçue
 qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, de livraison exonérée en vertu du I de
-l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté économique européenne en
-application de l'article 258 A.
+l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de
+l'article 258 A.
+
+(M) Modification de la loi 94-1162.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°93-1352 du 30 décembre 1993 - art. 51 (VT) JORF 31 décembre 1993
-  - Modifications directes incorporées dans l'édition du 2 septembre 1994
+  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+  - Loi n°94-1162 du 29 décembre 1994 - art. 32 () JORF 30 décembre 1994
+
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
 
 _Cité par_:
 
@@ -90,3 +94,8 @@ _Anciens textes_:
 _Cite_:
 
   - CGI 262 ter, 258 A, 1609 sexdecies
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+  - TXT_ASSOCIE: Instruction 1995-03-23 3P-6-95

@@ -13,7 +13,7 @@ soumise à l'impôt sur les sociétés dans les conditions de droit commun ;
 d'un délai de cinq ans à compter de la réalisation de l'apport ;
 
 3° La société ne doit procéder à aucune réduction de capital non motivée par des pertes ni à aucun prélèvement sur le compte
-" primes d'émission " pendant une période commençant le 1er octobre 1993 et s'achevant cinq ans après la réalisation de
+"primes d'émission" pendant une période commençant le 1er octobre 1993 et s'achevant cinq ans après la réalisation de
 l'apport.
 
 II L'exonération prévue à l'article 92 B quinquies s'applique également dans les mêmes conditions lorsque le contribuable met
@@ -34,16 +34,26 @@ contraires, l'exigibilité immédiate de l'impôt sur la plus-value, sans préju
 IV  Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives des
 contribuables et des intermédiaires.
 
+V Les exonérations prévues aux I et II s'appliquent jusqu'au 31 décembre 1994.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 92 B quinquies, 44 sexies, 125 C, 199 undecies, 199 terdecies A, 238 bis, 1727
 
-_Créé par_:
-
-  - Loi n°93-1352 du 30 décembre 1993 - art. 13 (V) JORF 31 décembre 1993
-
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°2000-477 2000-06-02
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 1995-02-06 5G-3-95
+  - PEREMPTION: Loi - art. 94 (V) JORF 31 décembre 1999
+  - PEREMPTION: Loi n°99-1172 1999-12-30 art. 94 V, VII Finances pour 1999 JORF 31 décembre 1999
+
+_Modifié par_:
+
+  - Loi n°94-1162 du 29 décembre 1994 - art. 65 () JORF 30 décembre 1994
