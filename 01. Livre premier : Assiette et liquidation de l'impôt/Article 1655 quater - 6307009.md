@@ -19,7 +19,7 @@ A quantités constantes, les mouvements du stock, produit par produit, destinés
 valeur pour valeur.
 
 Les versements des associés à la société sont déductibles de leurs résultats imposables à concurrence des frais de gestion et
-des charges financières de la société et d'une somme de 400 millions de francs représentant les premières charges de
+des charges financières de la société et d'une somme de 61 000 000 d'euros représentant les premières charges de
 remboursement de l'emprunt souscrit par la société pour constituer son stock initial.
 
 Les actions de cette société ne peuvent être cédées qu'avec l'autorisation des ministres. Dans ce cas, les sommes qui ont été
@@ -38,12 +38,12 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
-  - TXT_ASSOCIE: Instruction 1994-02-07 4H-2-94
+  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Modifié par_:
 
-  - Loi n°93-1353 du 30 décembre 1993 - art. 34 () JORF 31 décembre 1993
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 

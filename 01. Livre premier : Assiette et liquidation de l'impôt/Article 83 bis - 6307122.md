@@ -20,7 +20,7 @@ ont été consenties ;
 
 La déduction des intérêts est pratiquée sur les salaires versés par la société rachetée.
 
-Les conditions énoncées aux quatrième et cinquième alinéas du 2° quater de l'article 83 s'appliquent aux titres de la société
+Les conditions énoncées aux septième et huitième alinéas du 2° quater de l'article 83 s'appliquent aux titres de la société
 créée (1).
 
 II. Sont déductibles du montant brut des sommes payées, dans les conditions prévues au II de l'article 220 quater A, les
@@ -30,15 +30,15 @@ une augmentation de ce capital effectuée au cours de l'année de la création d
 augmentation de capital est affecté à la réduction des emprunts mentionnés au deuxième alinéa du I de l'article 220 quater A
 (2).
 
-Ces intérêts restent déductibles si les titres de la société sont apportés à une société mentionnée au dernier alinéa du c du
-II de l'article 220 quater A.
+Ces intérêts restent déductibles si les titres de la société sont apportés à une société mentionnée au cinquième alinéa du c
+du II de l'article 220 quater A.
 
 Les salariés d'une filiale dont le capital est détenu pour plus de 50 % par cette entreprise peuvent, s'ils participent au
 rachat de cette dernière, bénéficier de la déduction dans les mêmes conditions.
 
 La déduction ne peut excéder le montant brut du salaire versé à l'emprunteur par l'entreprise. Elle ne peut être supérieure à
 150.000 F. Elle est limitée aux intérêts afférents aux emprunts utilisés pour libérer le capital au cours de l'année de
-création de la société. Les sixième et septième alinéas du 2° quater de l'article 83 s'appliquent à cette déduction (3).
+création de la société. Les neuvième et dixième alinéas du 2° quater de l'article 83 s'appliquent à cette déduction (3).
 
 La déduction des intérêts prévue au premier alinéa du présent II n'est plus admise à compter de l'année au cours de laquelle
 une des conditions fixées par l'article 220 quater A cesse d'être satisfaite (4).
@@ -71,13 +71,13 @@ _Cite_:
   - CGI 220 quater, 83, 220 quater A, 220 quater B
   - Code de commerce L225-177 à L225-184
 
-_Modifié par_:
-
-  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
-
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -93,4 +93,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002
