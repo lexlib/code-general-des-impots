@@ -1,6 +1,6 @@
 # Article 235 ter L
 
-Un prélèvement spécial de 20 % [*taux*] est perçu sur la fraction des bénéfices industriels et commerciaux imposables à
+Un prélèvement spécial de 25 % [*taux*] (1) est perçu sur la fraction des bénéfices industriels et commerciaux imposables à
 l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de la distribution ou de la représentation
 de films pornographiques ou d'incitation à la violence.
 
@@ -15,13 +15,15 @@ Les spectacles cinématographiques auxquels s'appliquent les dispositions du pr�
 chargé du cinéma [*autorité compétente*] après avis de la commission de contrôle des films cinématographiques. Les
 réclamations et les recours contentieux relatifs à ces décisions sont instruits par le département de la culture.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article (1). Il fixe également les conditions
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article (2). Il fixe également les conditions
 d'établissement et de recouvrement du prélèvement, les obligations des redevables, les règles de contentieux, les garanties
-de recouvrement et les sanctions applicables (2).
+de recouvrement et les sanctions applicables (3).
 
-1)  Annexe II, art. 163 septdecies à 163 vicies.
+1) Le taux de 25 % s'applique aux bénéfices des exercices ouverts à compter du 1er janvier 1990.
 
-2)  En ce qui concerne les règles de prescription, voir livre des procédures fiscales, art. L172 B.
+2) Annexe II, art. 163 septdecies à 163 vicies.
+
+3) En ce qui concerne les règles de prescription, voir livre des procédures fiscales, art. L172 B.
 
 **Liens relatifs à cet article**
 
@@ -33,12 +35,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°83-1179 du 29 décembre 1983 - art. 18 (V) JORF 30 décembre 1983
+  - Loi n°89-935 1989-12-29 art. 8 IV, VI 3 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
   - Code de l'industrie cinématographique - art. 44-1 (VT)
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01

@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1989-08-04
+Version Consolidée au 1989-12-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -8,9 +8,9 @@ Version Consolidée au 1989-08-04
           - [Section I : Dispositions générales (art. 1 à 11)](#5)
             - [I : Personnes imposables (art. 4 A à 8 ter)](#6)
             - [II : Lieu d'imposition (art. 10 à 11)](#7)
-          - [Section II : Revenus imposables (art. 12 à 168)](#8)
+          - [Section II : Revenus imposables (art. 12 à 163 novodecies)](#8)
             - [Définition générale du revenu imposable (art. 12 à 13)](#9)
-            - [1re Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 14 à 155)](#10)
+            - [1re Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 14 à 155 A)](#10)
               - [I : Revenus fonciers (art. 14 à 33 quater)](#11)
                 - [1 : Définition des revenus fonciers (art. 14)](#12)
                 - [2 : Exemptions permanentes (art. 15)](#13)
@@ -18,7 +18,7 @@ Version Consolidée au 1989-08-04
                 - [5 : Bail à construction (art. 33 bis à 33 ter)](#15)
                 - [6 : Loyers soumis à la taxe sur la valeur ajoutée (art. 33 quater)](#16)
               - [II : Bénéfices industriels et commerciaux (art. 34 à 61 A)](#17)
-                - [1 : Définition des bénéfices industriels et commerciaux (art. 34)](#18)
+                - [1 : Définition des bénéfices industriels et commerciaux (art. 34 à 35)](#18)
                 - [2 : Détermination des bénéfices imposables (art. 36 à 43 bis)](#19)
                 - [2 bis : Dispositions particulières à certaines entreprises nouvelles (art. 44 bis à 44 ter)](#20)
                 - [3 : Révision des bilans (art. 45)](#21)
@@ -27,7 +27,7 @@ Version Consolidée au 1989-08-04
                     - [b : Régime du forfait. (art. 51)](#24)
                     - [a : Régime du forfait. (art. 50 à 52 ter)](#25)
                     - [b : Régime de l'imposition d'après le bénéfice réel. (art. 53 A)](#26)
-                    - [c : Régime de l'imposition d'après le bénéfice réel (art. 54 bis à 57)](#27)
+                    - [c : Régime de l'imposition d'après le bénéfice réel (art. 54 à 57)](#27)
                       - [*Lutte contre l'évasion fiscale internationale.* *Transferts indirects de bénéfices à l'étranger entre entreprises dépendantes.* *Arm's length*. (art. 57)](#28)
                   - [B : Associés en nom des sociétés de personnes et membres des sociétés en participation (art. 60)](#29)
                   - [C : Membres des copropriétés de navires. (art. 61 A)](#30)
@@ -77,54 +77,54 @@ Version Consolidée au 1989-08-04
                 - [2 : Revenus des obligations (art. 118 à 119)](#74)
                 - [3 : Revenus des valeurs mobilières émises hors de France et revenus assimilés (art. 120 à 123)](#75)
                 - [4 : Revenus des créances, dépôts et cautionnements (art. 124 à 125)](#76)
-                - [4 ter : Prélèvement sur les produits de placement à revenu fixe. (art. 125 A)](#77)
-                - [4 ter : Prélèvement sur les produits de placements à revenu fixe (art. 125 B)](#78)
-                - [4 quater : Prélèvement sur les produits de placements à revenu fixe et les produits de bons ou contrats de capitalisation de source européenne (art. 125 D)](#79)
-                - [5 : Exonérations et régimes spéciaux (art. 125 quater à 146 quater)](#80)
-                  - [1° : Epargne-construction (art. 125 quater)](#81)
-                  - [2° : Crédit à la construction immobilière. (art. 126 bis)](#82)
-                  - [3° : Crédit mutuel et coopération agricoles (art. 130)](#83)
-                  - [4° : Crédit national. (art. 131)](#84)
-                  - [5° : Obligations négociables - Régimes spéciaux (art. 131 ter)](#85)
-                  - [6° : Emprunts émis en France par les organisations internationales (art. 131 ter A)](#86)
-                  - [7° : Emprunts contractés à l'étranger (art. 131 quater)](#87)
-                  - [8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières (art. 131 quinquies à 131 sexies)](#88)
-                  - [9° : Emprunts émis par l'Etat (art. 132 bis)](#89)
-                  - [10° : Obligations reçues en échange d'actions de sociétés concernées par l'extension du secteur public (art. 132 ter)](#90)
-                  - [11° : Emprunts des départements, communes et établissements publics (art. 133)](#91)
-                  - [12° : Emprunts regroupés (art. 135)](#92)
-                  - [13° : Financement de certaines opérations d'exportation (art. 136)](#93)
-                  - [15° : Habitations à loyer modéré (art. 138)](#94)
-                  - [16° : Sociétés immobilières d'investissement et sociétés immobilières de gestion (art. 139 ter)](#95)
-                  - [17° : Sociétés pour le développement de l'industrie, du commerce et de l'agriculture et leur adaptation à la Communauté économique européenne. (art. 143 quater)](#96)
-                  - [Sociétés mères. (art. 145)](#97)
-                  - [19° : Zones à urbaniser (art. 146 quater)](#98)
-              - [VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option (art. 150 nonies à 150 ter)](#99)
-              - [VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 150 C à 150 R)](#100)
-                - [A : Champ d'application. (art. 150 C)](#101)
-                  - [Exonérations. (art. 150 C)](#102)
-                - [2. Biens et droits mobiliers ou immobiliers (art. 150 A à 150 S)](#103)
-                - [B: Détermination de la plus-value imposable. (art. 150 H à 150 I)](#104)
-                - [2. Biens et droits mobiliers et immobiliers. (art. 150 P à 150 T)](#105)
-                - [C : Calcul de l'impôt. (art. 150 R)](#106)
-              - [VIII : Dispositions communes aux différentes catégories de revenus (art. 151 quater à 155)](#107)
-                - [1 ter : Imposition des plus-values réalisées dans le cadre d'un bail à construction (art. 151 quater)](#108)
-                - [1 quater : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale (art. 151 septies à 151 sexies)](#109)
-                - [3 : Non-déduction de l'impôt sur le revenu (art. 153)](#110)
-                - [5 : Contribuables disposant de revenus professionnels ressortissant à des catégories différentes (art. 155)](#111)
-            - [1ere Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 31 à 155 A)](#112)
-              - [I : Revenus fonciers (art. 31)](#113)
-                - [4 : Détermination du revenu imposable. (art. 31)](#114)
-              - [II : Bénéfices industriels et commerciaux (art. 35 à 54)](#115)
-                - [1 : Définition des bénéfices industriels et commerciaux. (art. 35)](#116)
-                - [1 bis : Exonérations. (art. 35 bis)](#117)
-                - [2 : Détermination des bénéfices imposables. (art. 38 à 39 terdecies)](#118)
-                - [2 bis : Dispositions particulières à certaines entreprises nouvelles. (art. 44 septies)](#119)
-                - [4 : Fixation du bénéfice imposable (art. 54)](#120)
-                  - [A : Exploitants individuels (art. 54)](#121)
-                    - [b : Régime de l'imposition d'après le bénéfice réel. (art. 54)](#122)
+                - [4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation. (art. 125-0 A)](#77)
+                - [4 ter : Prélèvement sur les produits de placement à revenu fixe. (art. 125 A)](#78)
+                - [4 ter : Prélèvement sur les produits de placements à revenu fixe (art. 125 B)](#79)
+                - [4 quater : Prélèvement sur les produits de placements à revenu fixe et les produits de bons ou contrats de capitalisation de source européenne (art. 125 D)](#80)
+                - [5 : Exonérations et régimes spéciaux (art. 125 quater à 146 quater)](#81)
+                  - [1° : Epargne-construction (art. 125 quater)](#82)
+                  - [2° : Crédit à la construction immobilière. (art. 126 bis)](#83)
+                  - [3° : Crédit mutuel et coopération agricoles (art. 130)](#84)
+                  - [4° : Crédit national. (art. 131)](#85)
+                  - [5° : Obligations négociables - Régimes spéciaux (art. 131 ter)](#86)
+                  - [6° : Emprunts émis en France par les organisations internationales (art. 131 ter A)](#87)
+                  - [7° : Emprunts contractés à l'étranger (art. 131 quater)](#88)
+                  - [8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières (art. 131 quinquies à 131 sexies)](#89)
+                  - [9° : Emprunts émis par l'Etat (art. 132 bis)](#90)
+                  - [10° : Obligations reçues en échange d'actions de sociétés concernées par l'extension du secteur public (art. 132 ter)](#91)
+                  - [11° : Emprunts des départements, communes et établissements publics (art. 133)](#92)
+                  - [12° : Emprunts regroupés (art. 135)](#93)
+                  - [13° : Financement de certaines opérations d'exportation (art. 136)](#94)
+                  - [15° : Habitations à loyer modéré (art. 138)](#95)
+                  - [16° : Sociétés immobilières d'investissement et sociétés immobilières de gestion (art. 139 ter)](#96)
+                  - [17° : Sociétés pour le développement de l'industrie, du commerce et de l'agriculture et leur adaptation à la Communauté économique européenne. (art. 143 quater)](#97)
+                  - [Sociétés mères. (art. 145)](#98)
+                  - [19° : Zones à urbaniser (art. 146 quater)](#99)
+              - [VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option (art. 150 nonies à 150 ter)](#100)
+              - [VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 150 A bis à 150 R)](#101)
+                - [A : Champ d'application. (art. 150 A bis à 150 C)](#102)
+                  - [Exonérations. (art. 150 C)](#103)
+                - [2. Biens et droits mobiliers ou immobiliers (art. 150 A à 150 S)](#104)
+                - [B: Détermination de la plus-value imposable. (art. 150 H à 150 I)](#105)
+                - [2. Biens et droits mobiliers et immobiliers. (art. 150 P à 150 T)](#106)
+                - [C : Calcul de l'impôt. (art. 150 R)](#107)
+              - [VIII : Dispositions communes aux différentes catégories de revenus (art. 151 quater à 155 A)](#108)
+                - [1 ter : Imposition des plus-values réalisées dans le cadre d'un bail à construction (art. 151 quater)](#109)
+                - [1 quater : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale (art. 151 septies à 151 sexies)](#110)
+                - [1 sexies : Contribuables exerçant leur activité professionnelle dans le cadre d'une société de personnes (art. 151 nonies)](#111)
+                - [3 : Non-déduction de l'impôt sur le revenu (art. 153)](#112)
+                - [4 bis : Cotisations d'assurance maladie et d'assurance maternité des travailleurs non salariés des professions non agricoles. (art. 154 bis)](#113)
+                - [5 : Contribuables disposant de revenus professionnels ressortissant à des catégories différentes (art. 155)](#114)
+                - [6 : Sommes perçues par une personne domiciliée ou établie hors de France (art. 155 A)](#115)
+            - [1ere Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 31 à 154)](#116)
+              - [I : Revenus fonciers (art. 31)](#117)
+                - [4 : Détermination du revenu imposable. (art. 31)](#118)
+              - [II : Bénéfices industriels et commerciaux (art. 35 bis à 44 septies)](#119)
+                - [1 bis : Exonérations. (art. 35 bis)](#120)
+                - [2 : Détermination des bénéfices imposables. (art. 38 à 39 terdecies)](#121)
+                - [2 bis : Dispositions particulières à certaines entreprises nouvelles. (art. 44 septies)](#122)
               - [V : Traitements, salaires, pensions et rentes viagères (art. 80 bis à 91 C)](#123)
-                - [1 : Définition des revenus imposables. (art. 80 bis à 81)](#124)
+                - [1 : Définition des revenus imposables. (art. 80 bis à 80 quater)](#124)
                 - [2 : Détermination du revenu imposable. (art. 83)](#125)
                 - [5 : Plan d'épargne en vue de la retraite (art. 91 C)](#126)
                   - [Retraits ou versements de pension avant 60 ans. (art. 91 C)](#127)
@@ -140,138 +140,138 @@ Version Consolidée au 1989-08-04
                 - [1 : Produits des actions et parts sociales - Revenus assimilés (art. 115 quinquies)](#137)
                   - [b : Calcul de la masse des revenus distribués. (art. 115 quinquies)](#138)
                 - [2 bis : Retenue à la source de l'impôt sur le revenu. (art. 119 bis)](#139)
-                - [4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation. (art. 125-0 A)](#140)
-                - [4 ter : Prélèvement sur les produits de placement à revenu fixe. (art. 125 C)](#141)
-                - [5 : Exonérations et régimes spéciaux (art. 137 bis à 146)](#142)
-                  - [Fonds commun de placement. (art. 137 bis)](#143)
-                  - [Sociétés mères. (art. 146)](#144)
-              - [VII bis : Profits réalisés sur les marchés à terme et sur les marchés d'options négociables. (art. 150 sexies)](#145)
-              - [VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 150 A bis à 150 M)](#146)
-                - [A : Champ d'application. (art. 150 A bis à 150 D)](#147)
-                  - [Exonérations. (art. 150 D)](#148)
-                - [B: Détermination de la plus-value imposable. (art. 150 M)](#149)
-              - [VIII : Dispositions communes aux différentes catégories de revenus (art. 151 nonies à 155 A)](#150)
-                - [1 sexies : Contribuables exerçant leur activité professionnelle dans le cadre d'une société de personnes. (art. 151 nonies)](#151)
-                - [4 : Déduction du salaire du conjoint. (art. 154)](#152)
-                - [4 bis : Cotisations d'assurance maladie et d'assurance maternité des travailleurs non salariés des professions non agricoles. (art. 154 bis)](#153)
-                - [6 : Sommes perçues par une personne domiciliée ou établie hors de France. (art. 155 A)](#154)
-            - [2me Sous-section : Revenu global (art. 158 quater à 160 bis)](#155)
-              - [I : Revenu imposable. (art. 158 quater à 160 bis)](#156)
-            - [2e Sous-section : Revenu global (art. 157 bis à 167)](#157)
-              - [I : Revenu imposable (art. 157 bis à 163 octodecies)](#158)
-                - [b : Détaxation du revenu investi en actions (art. 163 decies à 163 quaterdecies)](#159)
-                  - [1° : Régime applicable du 1er juin 1978 au 31 décembre 1981. (art. 163 decies à 163 terdecies)](#160)
-                  - [2° : Régime applicable du 1er janvier au 31 décembre 1982. (art. 163 quaterdecies)](#161)
-                - [Détaxation du revenu investi en actions (art. 163 quindecies à 163 sexdecies)](#162)
-                  - [Régime applicable aux contribuables nés avant le 1er janvier 1932. (art. 163 quindecies à 163 sexdecies)](#163)
-                - [Financement en capital d'oeuvres cinématographiques ou audiovisuelles. (art. 163 septdecies)](#164)
-                - [Créateurs d'entreprises. (art. 163 octodecies)](#165)
-              - [II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France (art. 164 A à 165 bis)](#166)
-              - [III : Revenus de l'année de l'acquisition d'un domicile en France (art. 166)](#167)
-              - [IV : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile hors de France (art. 167)](#168)
-            - [2eme Sous-section : Revenu global (art. 156 à 168)](#169)
-              - [I : Revenu imposable. (art. 156 à 163 novodecies)](#170)
-                - [Plan d'épargne en vue de la retraite. (art. 163 novodecies)](#171)
-              - [II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France. (art. 164 B)](#172)
-              - [V : Evaluation forfaitaire minimale du revenu imposable d'après certains éléments du train de vie. (art. 168)](#173)
-          - [Section III : Déclarations des contribuables (art. 170 à 175 A)](#174)
-          - [Section V : Calcul de l'impôt (art. 182 A à 200 A)](#175)
-            - [I : Retenue à la source de l'impôt sur le revenu (art. 182 A à 187)](#176)
-            - [II : Impôt sur le revenu (art. 193 à 199 quaterdecies)](#177)
-              - [1° : Imputation des retenues à la source et crédits d'impôt (art. 199 quater A à 199 ter A)](#178)
-              - [Imputation des retenues à la source et crédits d'impôt. (art. 199 ter à 199 ter C)](#179)
-              - [Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés. (art. 199 quater B)](#180)
-              - [Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales. (art. 199 quater C)](#181)
-              - [Réduction d'impôt accordée au titre des frais de garde des jeunes enfants. (art. 199 quater D)](#182)
-              - [Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions. (art. 199 quinquies à 199 quinquies-0 A)](#183)
-              - [Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale. (art. 199 sexies à 199 sexies C)](#184)
-              - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances (art. 199 septies B)](#185)
-              - [Réduction d'impôt accordée au titre de certaines primes d'assurances. (art. 199 septies à 199 septies A)](#186)
-              - [Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux. (art. 199 octies à 199 octies A)](#187)
-              - [Réduction d'impôt accordée au titre des investissements immobiliers locatifs. (art. 199 decies à 199 nonies)](#188)
-              - [Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer. (art. 199 undecies)](#189)
-              - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles (art. 199 duodecies)](#190)
-              - [15° ter : Réduction d'impôt accordée au titre de l'aide à domicile et de l'hébergement en établissement de long séjour. (art. 199 quaterdecies)](#191)
-            - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles. (art. 199 terdecies)](#192)
-            - [IV : Imposition des gains nets réalisés à l'occasion de cessions de valeurs mobilières et de droits sociaux (art. 200 A)](#193)
-          - [Section VI : Dispositions spéciales applicables en cas de cession, de cessation ou de décès (art. 201 à 204)](#194)
-        - [Chapitre I ter : Contribution complémentaire à l'impôt sur le revenu. (art. 204 A)](#195)
-        - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 205 à 223 U)](#196)
-          - [Section I : Généralités (art. 205)](#197)
-          - [Section II : Champ d'application de l'impôt (art. 206 à 208 ter B)](#198)
-            - [I : Sociétés et collectivités imposables. (art. 206)](#199)
-            - [II : Exonérations et régimes particuliers. (art. 207 à 208 ter B)](#200)
-          - [Section III : Détermination du bénéfice imposable (art. 209 à 217 sexies)](#201)
-          - [Section IV : Personnes imposables - Lieu d'imposition (art. 218 à 218 bis)](#202)
-          - [Section V : Calcul de l'impôt (art. 219 à 220 quinquies)](#203)
-            - [1° : Report en arrière (art. 220 quinquies)](#204)
-          - [Section VI : Etablissement de l'impôt (art. 221 à 221 bis)](#205)
-          - [Section VII : Obligations des personnes morales (art. 222 à 223 ter)](#206)
-          - [Section VIII : Groupes de sociétés (art. 223 B à 223 U)](#207)
-            - [1re Sous-section : Dispositions générales (art. 223 B à 223 H)](#208)
-              - [1° : Résultat d'ensemble (art. 223 B à 223 C)](#209)
-              - [2° : Plus-values ou moins-values d'ensemble (art. 223 D)](#210)
-              - [3° : Non-imputation des déficits et des moins-values par les sociétés du groupe (art. 223 E)](#211)
-              - [4° : Cessions d'immobilisations entre sociétés du groupe (art. 223 F)](#212)
-              - [6° : Distribution de dividendes. (art. 223 H)](#213)
-            - [1ere Sous-section : Dispositions générales. (art. 223 A à 223 G)](#214)
-              - [Report en arrière des déficits. (art. 223 G)](#215)
-            - [2e Sous-section : Sort des déficits et moins-values subis par la société avant son entrée ou après sa sortie du groupe (art. 223 I à 223 K)](#216)
-              - [1° : Régime des déficits subis avant l'entrée dans le groupe (art. 223 I)](#217)
-              - [2° : Conséquences de la sortie d'une société du groupe moins de cinq ans après son entrée. (art. 223 J)](#218)
-              - [3° : Régime des déficits subis après la sortie du groupe (art. 223 K)](#219)
-            - [3e Sous-section : Dispositions diverses (art. 223 L à 223 U)](#220)
-              - [1° : Régimes particuliers (art. 223 L)](#221)
-              - [2° : Paiement de l'impôt (art. 223 M à 223 O)](#222)
-              - [3° : Régimes antérieurs (art. 223 P)](#223)
-              - [4° : Obligations déclaratives (art. 223 Q)](#224)
-              - [5° : Conséquences de la sortie du groupe d'une société ou de la cessation du régime de groupe (art. 223 R à 223 S)](#225)
-              - [6° : Entrée en vigueur (art. 223 T à 223 U)](#226)
-        - [Chapitre III : Taxes diverses (art. 223 sexies à 235 ter Y)](#227)
-          - [Section 0I : Précompte. (art. 223 sexies)](#228)
-          - [Section 0II : Imposition forfaitaire annuelle des sociétés (art. 223 decies à 223 septies)](#229)
-          - [Section I : Taxe d'apprentissage (art. 224 à 230 G)](#230)
-          - [Section II : Taxe sur les salaires (art. 231 à 231 bis L)](#231)
-          - [Section V : Redevance fixe des mines. (art. 234)](#232)
-          - [Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction. (art. 235 bis)](#233)
-          - [Section VIII : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion. (art. 235 ter)](#234)
-          - [Section X : Participation des employeurs au développement de la formation professionnelle continue (art. 235 ter C à 235 ter JA)](#235)
-            - [I. : Employeurs occupant dix salariés et plus (art. 235 ter D à 235 ter K)](#236)
-              - [1° : Montant de la participation (art. 235 ter D)](#237)
-              - [3° : Calcul et prise en compte de l'effectif salarié (art. 235 ter E à 235 ter EA)](#238)
-              - [4° : Employeurs de cinquante salariés et plus (art. 235 ter F)](#239)
-              - [5° : Versement au Trésor public et majoration (art. 235 ter G à 235 ter HA)](#240)
-              - [4° : Fonds d'assurance-formation. (art. 235 ter HC à 235 ter K)](#241)
-            - [Fonds d'assurance-formation. (art. 235 ter HB à 235 ter JA)](#242)
-          - [Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence (art. 235 ter L à 235 ter MC)](#243)
-          - [Section XIV : Taxe sur les excédents de provisions des entreprises d'assurances de dommages (art. 235 ter X)](#244)
-          - [Section XV : Contribution des institutions financières. (art. 235 ter Y)](#245)
-        - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 236 à 248 F)](#246)
-          - [Section II : Impôt sur le revenu et impôt sur les sociétés (art. 236 à 244 quater C)](#247)
-            - [I : Bénéfices et revenus imposables (art. 236 à 238 bis HM)](#248)
-              - [1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles (art. 238 bis HE à 238 bis HM)](#249)
-            - [I bis : Réévaluation des immobilisations non amortissables (art. 238 bis I)](#250)
-            - [I ter : Réévaluation des immobilisations amortissables (art. 238 bis J)](#251)
-            - [I quater : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes ou un groupement d'intérêt économique. (art. 238 bis K)](#252)
-            - [I quinquies : Régime fiscal des sociétés créées de fait (art. 238 bis L)](#253)
-            - [I sexies : Obligation des sociétés en participation (art. 238 bis M)](#254)
-            - [II : Régime fiscal des groupements forestiers et de leurs membres (art. 238 quater à 238 ter)](#255)
-            - [VI bis : Primes de remboursement et intérêts capitalisés (art. 238 septies A à 238 septies D)](#256)
-              - [Fonds communs de créances. (art. 238 septies D)](#257)
-            - [VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation (art. 238 octies)](#258)
-            - [VII ter : Modalités d'imposition de la plus value professionnelle provenant de la transmission ou du rachat de droits relatifs à une société relevant des articles 8 à 8 ter et exerçant une activité immobilière (art. 238 octies A)](#259)
-            - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir (art. 238 decies à 238 undecies)](#260)
-            - [IX : Régime fiscal des sociétés de personnes, des sociétés en participation, des groupements d'intérêt public, des sociétés à responsabilité limitée, des exploitations agricoles à responsabilité limitée et des sociétés civiles professionnelles. Option pour le régime des sociétés de capitaux (art. 239)](#261)
-            - [XI bis : Régime fiscal de certaines sociétés à responsabilité limitée - Option pour le régime des sociétés de personnes (art. 239 bis AA)](#262)
-            - [XII : Plus-values de liquidation distribuées par certaines sociétés. (art. 239 bis B)](#263)
-            - [XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente (art. 239 ter)](#264)
-            - [XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres (art. 239 quater)](#265)
-            - [XIV bis : Sociétés civiles de moyens (art. 239 quater A)](#266)
-            - [XIV ter : Régime fiscal des groupements d'intérêt public (art. 239 quater B)](#267)
-            - [XIV quater : Régime fiscal des groupements européens d'intérêt économique et de leurs membres (art. 239 quater C)](#268)
-            - [XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers (art. 239 quinquies)](#269)
-            - [XVI : Opérations de crédit-bail (art. 239 sexies à 239 sexies A)](#270)
-              - [1° :  Opérations de crédit-bail réalisées par les sociétés immobilières pour le commerce et l'industrie et les sociétés agréées pour le financement des économies d'énergie (art. 239 sexies à 239 sexies A)](#271)
+                - [4 ter : Prélèvement sur les produits de placement à revenu fixe. (art. 125 C)](#140)
+                - [5 : Exonérations et régimes spéciaux (art. 137 bis à 146)](#141)
+                  - [Fonds commun de placement. (art. 137 bis)](#142)
+                  - [Sociétés mères. (art. 146)](#143)
+              - [VII bis : Profits réalisés sur les marchés à terme et sur les marchés d'options négociables. (art. 150 sexies)](#144)
+              - [VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 150 D à 150 M)](#145)
+                - [A : Champ d'application. (art. 150 D)](#146)
+                  - [Exonérations. (art. 150 D)](#147)
+                - [B: Détermination de la plus-value imposable. (art. 150 M)](#148)
+              - [VIII : Dispositions communes aux différentes catégories de revenus (art. 154)](#149)
+                - [4 : Déduction du salaire du conjoint. (art. 154)](#150)
+            - [2me Sous-section : Revenu global (art. 158 quater à 160 bis)](#151)
+              - [I : Revenu imposable. (art. 158 quater à 160 bis)](#152)
+            - [2e Sous-section : Revenu global (art. 157 bis à 168)](#153)
+              - [I : Revenu imposable (art. 157 bis à 163 octodecies)](#154)
+                - [b : Détaxation du revenu investi en actions (art. 163 decies à 163 quaterdecies)](#155)
+                  - [1° : Régime applicable du 1er juin 1978 au 31 décembre 1981. (art. 163 decies à 163 terdecies)](#156)
+                  - [2° : Régime applicable du 1er janvier au 31 décembre 1982. (art. 163 quaterdecies)](#157)
+                - [Détaxation du revenu investi en actions (art. 163 quindecies à 163 sexdecies)](#158)
+                  - [Régime applicable aux contribuables nés avant le 1er janvier 1932. (art. 163 quindecies à 163 sexdecies)](#159)
+                - [Financement en capital d'oeuvres cinématographiques ou audiovisuelles. (art. 163 septdecies)](#160)
+                - [Créateurs d'entreprises. (art. 163 octodecies)](#161)
+              - [II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France (art. 164 A à 165 bis)](#162)
+              - [III : Revenus de l'année de l'acquisition d'un domicile en France (art. 166)](#163)
+              - [IV : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile hors de France (art. 167)](#164)
+              - [V : Evaluation forfaitaire minimale du revenu imposable d'après certains éléments du train de vie (art. 168)](#165)
+            - [2eme Sous-section : Revenu global (art. 156 à 163 novodecies)](#166)
+              - [I : Revenu imposable. (art. 156 à 163 novodecies)](#167)
+                - [Plan d'épargne en vue de la retraite. (art. 163 novodecies)](#168)
+          - [Section III : Déclarations des contribuables (art. 170 à 175 A)](#169)
+          - [Section V : Calcul de l'impôt (art. 182 A à 200 A)](#170)
+            - [I : Retenue à la source de l'impôt sur le revenu (art. 182 A à 187)](#171)
+            - [II : Impôt sur le revenu (art. 193 à 199 quaterdecies)](#172)
+              - [1° : Imputation des retenues à la source et crédits d'impôt (art. 199 quater A à 199 ter A)](#173)
+              - [Imputation des retenues à la source et crédits d'impôt. (art. 199 ter à 199 ter C)](#174)
+              - [Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés. (art. 199 quater B)](#175)
+              - [Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales. (art. 199 quater C)](#176)
+              - [Réduction d'impôt accordée au titre des frais de garde des jeunes enfants. (art. 199 quater D)](#177)
+              - [Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions. (art. 199 quinquies à 199 quinquies-0 A)](#178)
+              - [Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale. (art. 199 sexies à 199 sexies C)](#179)
+              - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances (art. 199 septies B)](#180)
+              - [Réduction d'impôt accordée au titre de certaines primes d'assurances. (art. 199 septies à 199 septies A)](#181)
+              - [Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux. (art. 199 octies à 199 octies A)](#182)
+              - [Réduction d'impôt accordée au titre des investissements immobiliers locatifs. (art. 199 decies à 199 nonies)](#183)
+              - [Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer. (art. 199 undecies)](#184)
+              - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles (art. 199 duodecies)](#185)
+              - [15° ter : Réduction d'impôt accordée au titre de l'aide à domicile et de l'hébergement en établissement de long séjour. (art. 199 quaterdecies)](#186)
+            - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles. (art. 199 terdecies)](#187)
+            - [IV : Imposition des gains nets réalisés à l'occasion de cessions de valeurs mobilières et de droits sociaux (art. 200 A)](#188)
+          - [Section VI : Dispositions spéciales applicables en cas de cession, de cessation ou de décès (art. 201 à 204)](#189)
+        - [Chapitre I ter : Contribution complémentaire à l'impôt sur le revenu. (art. 204 A)](#190)
+        - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 205 à 223 U)](#191)
+          - [Section I : Généralités (art. 205)](#192)
+          - [Section II : Champ d'application de l'impôt (art. 206 à 208 ter B)](#193)
+            - [I : Sociétés et collectivités imposables. (art. 206)](#194)
+            - [II : Exonérations et régimes particuliers. (art. 207 à 208 ter B)](#195)
+          - [Section III : Détermination du bénéfice imposable (art. 209 à 217 sexies)](#196)
+          - [Section IV : Personnes imposables - Lieu d'imposition (art. 218 à 218 bis)](#197)
+          - [Section V : Calcul de l'impôt (art. 219 à 220 quinquies)](#198)
+            - [1° : Report en arrière (art. 220 quinquies)](#199)
+          - [Section VI : Etablissement de l'impôt (art. 221 à 221 bis)](#200)
+          - [Section VII : Obligations des personnes morales (art. 222 à 223 ter)](#201)
+          - [Section VIII : Groupes de sociétés (art. 223 A à 223 U)](#202)
+            - [1re Sous-section : Dispositions générales (art. 223 A à 223 H)](#203)
+              - [1° : Résultat d'ensemble (art. 223 B à 223 C)](#204)
+              - [2° : Plus-values ou moins-values d'ensemble (art. 223 D)](#205)
+              - [3° : Non-imputation des déficits et des moins-values par les sociétés du groupe (art. 223 E)](#206)
+              - [4° : Cessions d'immobilisations entre sociétés du groupe (art. 223 F)](#207)
+              - [6° : Distribution de dividendes. (art. 223 H)](#208)
+            - [1ere Sous-section : Dispositions générales. (art. 223 G)](#209)
+              - [Report en arrière des déficits. (art. 223 G)](#210)
+            - [2e Sous-section : Sort des déficits et moins-values subis par la société avant son entrée ou après sa sortie du groupe (art. 223 I à 223 K)](#211)
+              - [1° : Régime des déficits subis avant l'entrée dans le groupe (art. 223 I)](#212)
+              - [2° : Conséquences de la sortie d'une société du groupe moins de cinq ans après son entrée. (art. 223 J)](#213)
+              - [3° : Régime des déficits subis après la sortie du groupe (art. 223 K)](#214)
+            - [3e Sous-section : Dispositions diverses (art. 223 L à 223 U)](#215)
+              - [1° : Régimes particuliers (art. 223 L)](#216)
+              - [2° : Paiement de l'impôt (art. 223 M à 223 O)](#217)
+              - [3° : Régimes antérieurs (art. 223 P)](#218)
+              - [4° : Obligations déclaratives (art. 223 Q)](#219)
+              - [5° : Conséquences de la sortie du groupe d'une société ou de la cessation du régime de groupe (art. 223 R à 223 S)](#220)
+              - [6° : Entrée en vigueur (art. 223 T à 223 U)](#221)
+        - [Chapitre III : Taxes diverses (art. 223 sexies à 235 ter Y)](#222)
+          - [Section 0I : Précompte. (art. 223 sexies)](#223)
+          - [Section 0II : Imposition forfaitaire annuelle des sociétés (art. 223 decies à 223 septies)](#224)
+          - [Section I : Taxe d'apprentissage (art. 224 à 230 G)](#225)
+          - [Section II : Taxe sur les salaires (art. 231 à 231 bis L)](#226)
+          - [Section V : Redevance fixe des mines. (art. 234)](#227)
+          - [Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction. (art. 235 bis)](#228)
+          - [Section VIII : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion. (art. 235 ter)](#229)
+          - [Section X : Participation des employeurs au développement de la formation professionnelle continue (art. 235 ter C à 235 ter JA)](#230)
+            - [I. : Employeurs occupant dix salariés et plus (art. 235 ter D à 235 ter K)](#231)
+              - [1° : Montant de la participation (art. 235 ter D)](#232)
+              - [3° : Calcul et prise en compte de l'effectif salarié (art. 235 ter E à 235 ter EA)](#233)
+              - [4° : Employeurs de cinquante salariés et plus (art. 235 ter F)](#234)
+              - [5° : Versement au Trésor public et majoration (art. 235 ter G à 235 ter HA)](#235)
+              - [4° : Fonds d'assurance-formation. (art. 235 ter HC à 235 ter K)](#236)
+            - [Fonds d'assurance-formation. (art. 235 ter HB à 235 ter JA)](#237)
+          - [Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence (art. 235 ter L à 235 ter MC)](#238)
+          - [Section XIV : Taxe sur les excédents de provisions des entreprises d'assurances de dommages (art. 235 ter X)](#239)
+          - [Section XV : Contribution des institutions financières. (art. 235 ter Y)](#240)
+        - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 236 à 248 F)](#241)
+          - [Section II : Impôt sur le revenu et impôt sur les sociétés (art. 236 à 244 quater C)](#242)
+            - [I : Bénéfices et revenus imposables (art. 236 à 238 bis HM)](#243)
+              - [1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles (art. 238 bis HE à 238 bis HM)](#244)
+            - [I bis : Réévaluation des immobilisations non amortissables (art. 238 bis I)](#245)
+            - [I ter : Réévaluation des immobilisations amortissables (art. 238 bis J)](#246)
+            - [I quater : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes ou un groupement d'intérêt économique. (art. 238 bis K)](#247)
+            - [I quinquies : Régime fiscal des sociétés créées de fait (art. 238 bis L)](#248)
+            - [I sexies : Obligation des sociétés en participation (art. 238 bis M)](#249)
+            - [II : Régime fiscal des groupements forestiers et de leurs membres (art. 238 quater à 238 ter)](#250)
+            - [VI bis : Primes de remboursement et intérêts capitalisés (art. 238 septies A à 238 septies D)](#251)
+              - [Fonds communs de créances. (art. 238 septies D)](#252)
+            - [VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation (art. 238 octies)](#253)
+            - [VII ter : Modalités d'imposition de la plus value professionnelle provenant de la transmission ou du rachat de droits relatifs à une société relevant des articles 8 à 8 ter et exerçant une activité immobilière (art. 238 octies A)](#254)
+            - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir (art. 238 decies à 238 undecies)](#255)
+            - [IX : Régime fiscal des sociétés de personnes, des sociétés en participation, des groupements d'intérêt public, des sociétés à responsabilité limitée, des exploitations agricoles à responsabilité limitée et des sociétés civiles professionnelles. Option pour le régime des sociétés de capitaux (art. 239)](#256)
+            - [XI bis : Régime fiscal de certaines sociétés à responsabilité limitée - Option pour le régime des sociétés de personnes (art. 239 bis AA)](#257)
+            - [XII : Plus-values de liquidation distribuées par certaines sociétés. (art. 239 bis B)](#258)
+            - [XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente (art. 239 ter)](#259)
+            - [XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres (art. 239 quater)](#260)
+            - [XIV bis : Sociétés civiles de moyens (art. 239 quater A)](#261)
+            - [XIV ter : Régime fiscal des groupements d'intérêt public (art. 239 quater B)](#262)
+            - [XIV quater : Régime fiscal des groupements européens d'intérêt économique et de leurs membres (art. 239 quater C)](#263)
+            - [XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers (art. 239 quinquies)](#264)
+            - [XVI : Opérations de crédit-bail (art. 239 sexies à 239 sexies B)](#265)
+              - [1° :  Opérations de crédit-bail réalisées par les sociétés immobilières pour le commerce et l'industrie et les sociétés agréées pour le financement des économies d'énergie (art. 239 sexies à 239 sexies A)](#266)
+              - [2° : Opérations de crédit-bail auprès de bailleurs autres que des SICOMI (art. 239 sexies B)](#267)
+            - [bénéfices visés aux chapitres I à III (art. 239 sexies C)](#268)
+              - [Section II : Impôt sur le revenu et impôt sur les sociétés (art. 239 sexies C)](#269)
+                - [XVI : Opérations de crédit-bail (art. 239 sexies C)](#270)
+                  - [Amortissement des biens acquis à l'échéance d'un contrat de crédit-bail. (art. 239 sexies C)](#271)
             - [XVII : Sociétés civiles autorisées à faire publiquement appel à l'épargne. (art. 239 septies)](#272)
             - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble (art. 239 octies)](#273)
             - [XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices (art. 240 à 242)](#274)
@@ -320,7 +320,7 @@ Version Consolidée au 1989-08-04
               - [B : Taux réduit (art. 278 bis à 279)](#317)
               - [C : Taux intermédiaire (art. 280)](#318)
               - [E : Taux majoré (art. 281 à 281 bis K)](#319)
-              - [G : Taux particuliers (art. 281 quater à 281 sexies)](#320)
+              - [G : Taux particuliers (art. 281 octies à 281 sexies)](#320)
             - [II : Franchise et décote. (art. 282 à 282 ter)](#321)
           - [Section VI : Redevables de la taxe (art. 283 à 285)](#322)
           - [Section VII : Obligations des redevables (art. 286 à 290 quinquies)](#323)
@@ -795,7 +795,7 @@ Version Consolidée au 1989-08-04
               - [3° Prescriptions et prohibitions diverses (art. 893 à 897)](#792)
             - [II : Timbre de dimension (art. 899 à 908)](#793)
               - [A : Champ d'application (art. 899 à 901 A)](#794)
-              - [B : Exonérations (art. 903 à 904)](#795)
+              - [B : Exonérations (art. 902 à 904)](#795)
               - [C : Tarifs (art. 905 à 907)](#796)
               - [D : Prescriptions et prohibitions (art. 908)](#797)
             - [III : Timbre des effets de commerce (art. 910 à 916)](#798)
@@ -805,7 +805,7 @@ Version Consolidée au 1989-08-04
                   - [a : Chèques et ordres de virement. (art. 913 à 915)](#802)
                   - [b : Autres effets. (art. 916)](#803)
             - [III bis : Timbre des formules de chèques (art. 916 A)](#804)
-            - [IV : Timbre des quittances (art. 919 à 919 B)](#805)
+            - [IV : Timbre des quittances (art. 919 à 919 C)](#805)
             - [V : Timbre des contrats de transport (art. 925 à 943)](#806)
               - [A : Dispositions générales (art. 925 à 934)](#807)
                 - [1° : Lettres de voiture (art. 925)](#808)
@@ -1157,10 +1157,10 @@ Version Consolidée au 1989-08-04
           - [II quinquies : Opérations portant sur des bijoux, pierreries, objets d'art, de collection ou d'antiquité (art. 1649 ter G)](#1154)
         - [Chapitre 0I bis : Mesures de contrôle des valeurs mobilières (art. 1649 quater-0 A à 1649 quater-0 B)](#1155)
         - [Chapitre 0I ter : Entreprises de la batellerie (art. 1649 quater BA)](#1156)
-        - [Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés (art. 1649 quater C à 1649 quater J)](#1157)
+        - [Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés (art. 1649 quater C à 1649 quater K)](#1157)
           - [I : Centres de gestion agréés et associations de gestion et de comptabilité (art. 1649 quater C à 1649 quater E-O bis)](#1158)
           - [II : Associations agréées des professions libérales (art. 1649 quater F à 1649 quater H)](#1159)
-          - [III : Dispositions communes (art. 1649 quater I à 1649 quater J)](#1160)
+          - [III : Dispositions communes (art. 1649 quater I à 1649 quater K)](#1160)
         - [Chapitre II : Casier fiscal (art. 1649 quinquies)](#1161)
         - [Chapitre IV : Exonérations fiscales contractuelles et agréments (art. 1649 nonies à 1649 octies)](#1162)
         - [Chapitre V : Départements d'outre-mer. Établissement et conservation du cadastre (art. 1649 decies)](#1163)
@@ -2199,6 +2199,78 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 35
+
+I  Présentent également le caractère de bénéfices industriels et commerciaux, pour l'application de l'impôt sur le revenu,
+les bénéfices réalisés par les personnes physiques désignées ci-après :
+
+1° Personnes qui, habituellement, achètent en leur nom, en vue de les revendre, des immeubles, des fonds de commerce, des
+actions ou parts de sociétés immobilières ou qui, habituellement, souscrivent, en vue de les revendre, des actions ou parts
+créées ou émises par les mêmes sociétés.     Ces personnes s'entendent notamment de celles qui achètent des biens immeubles,
+en vue d'édifier un ou plusieurs bâtiments et de les vendre, en bloc ou par locaux;     2° Personnes se livrant à des
+opérations d'intermédiaire pour l'achat, la souscription ou la vente des biens visés au 1°;    3° Personnes qui procèdent à
+la cession d'un terrain divisé en lots destinés à être construits lorsque le terrain a été acquis à cet effet ;
+
+a, b, c et d  (Abrogés);     4° Personnes bénéficiaires d'une promesse unilatérale de vente portant sur un immeuble qui est
+vendu par fractions ou par lots à la diligence de ces personnes;     5° Personnes qui donnent en location un établissement
+commercial ou industriel muni du mobilier ou du matériel nécessaire à son exploitation, que la location comprenne, ou non,
+tout ou partie des éléments incorporels du fonds de commerce ou d'industrie;     6° Adjudicataires, concessionnaires et
+fermiers de droits communaux;     7° Membres des copropriétés de navires mentionnées à l'article 8 quater.     8° Personnes
+qui, à titre professionnel, effectuent en France ou à l'étranger, directement ou par personne interposée, des opérations sur
+un marché à terme d'instruments financiers ou d'options négociables, à condition qu'elles aient opté pour ce régime dans les
+quinze jours du début du premier exercice d'imposition à ce titre. L'option est irrévocable.    Ces dispositions s'appliquent
+aux personnes qui effectuent, directement ou par personne interposée, des opérations à terme sur marchandises sur le marché à
+terme mentionné à l'article 5 de la loi du 28 mars 1885.
+
+II  (Abrogé)
+
+III  Pour l'application du présent article, les donations entre vifs ne sont pas opposables à l'administration.
+
+**Nota:**
+
+Nota - Ces dispositions s'appliquent aux profits réalisés à compter du 1er janvier 1989.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 8 quater
+  - Loi n°1885-03-28 art. 5
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 27 Finances rectificative pour 1989 JORF 30 décembre 1989
+  - Modification directe incorporée dans l'édition du 15 juin 1990)
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
+  - Code général des impôts, CGI. - art. 145 (V)
+  - Code général des impôts, CGI. - art. 150 U (VD)
+  - Code général des impôts, CGI. - art. 150 undecies (VD)
+  - Code général des impôts, CGI. - art. 151 quater (V)
+  - Code général des impôts, CGI. - art. 164 B (V)
+  - Code général des impôts, CGI. - art. 217 sexdecies (P)
+  - Code général des impôts, CGI. - art. 238 bis (VD)
+  - Code général des impôts, CGI. - art. 242 ter E (V)
+  - Code général des impôts, CGI. - art. 244 bis (VD)
+  - Code général des impôts, CGI. - art. 39 octies A (VD)
+  - Code général des impôts, CGI. - art. 39 octies C (V)
+  - Code général des impôts, CGI. - art. 44 duodecies (V)
+  - Code général des impôts, CGI. - art. 44 octies (V)
+  - Code général des impôts, CGI. - art. 44 octies A (M)
+  - Code général des impôts, CGI. - art. 44 sexies (M)
+  - Code général des impôts, CGI. - art. 44 terdecies (V)
+  - Code général des impôts, CGI. - art. 50-0 (V)
+  - Code général des impôts, CGI. - art. 92 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 3 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 N (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 V (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 Y (V)
+  - Livre des procédures fiscales - art. L96 CA (V)
+  - Livre des procédures fiscales - art. R96 CA-1 (V)
+
+
 ##### 2 : Détermination des bénéfices imposables<a id=19></a>
 
 ###### Article 36
@@ -2550,6 +2622,42 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 octies (V)
 
 
+###### Article 39 C
+
+L'amortissement des biens donnés en location est réparti sur la durée normale d'utilisation suivant des modalités fixées par
+décret en conseil d'Etat (1).    L'entreprise qui donne en location un bien dans les conditions prévues aux 1° et 2° de
+l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail ne peut constituer une
+provision pour prendre en compte la différence entre la valeur résiduelle du bien et le prix convenu pour l'acceptation de la
+promesse unilatérale de vente.
+
+1) Annexe II, art. 30 à 32.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 30
+  - CGIAN2 31
+  - CGIAN2 32
+  - Loi n°66-455 1966-07-02 art 1 1°, 2°
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 22 II, 2 Finances pour 1990 JORF 30 décembre 1989
+  - Modification directe incorporée dans l'édition du 15 juin 1990)
+
+_Cité par_:
+
+  - Décret n°2017-866 du 9 mai 2017 - art. 6 (V)
+  - Code général des impôts, CGI. - art. 1586 sexies (V)
+  - Code général des impôts, CGI. - art. 199 undecies B (M)
+  - Code général des impôts, CGI. - art. 212 bis (V)
+  - Code général des impôts, CGI. - art. 39 G (V)
+  - Code général des impôts, CGI. - art. 39 quinquies I (V)
+  - Code général des impôts, CGI. - art. 54 octies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 32 (V)
+
+
 ###### Article 39 D
 
 L'amortissement des constructions et aménagements édifiés sur le sol d'autrui doit être réparti sur la durée normale
@@ -2894,6 +3002,68 @@ III.-(Abrogé).
 _Cite_:
 
   - CGIAN2 267 septies A
+
+
+###### Article 39 quaterdecies
+
+1 Le montant net des plus-values à court terme peut être réparti par parts égales sur l'année de leur réalisation et sur les
+deux années suivantes.
+
+Il s'entend de l'excédent de ces plus-values sur les moins-values de même nature qui ont été effectivement subies au cours du
+même exercice.
+
+Ces dispositions ne sont pas applicables aux plus-values nettes à court terme réalisées par les entreprises soumises à
+l'impôt sur les sociétés au cours des exercices ouverts à compter du 1er janvier 1987.
+
+1 bis  Par dérogation aux dispositions du 1, la réintégration aux bénéfices imposables du montant net des plus-values à court
+terme réalisées à l'occasion d'opérations de reconversion par les entreprises qui ont obtenu l'agrément prévu aux articles
+1465 et 1466 peut être étalée sur dix ans, sans que la somme rattachée aux bénéfices de chaque année puisse être inférieure
+au dixième de ce montant.
+
+1 ter  Par dérogation aux dispositions du 1, la plus-value nette à court terme réalisée à la suite de la perception
+d'indemnités d'assurances ou de l'expropriation d'immeubles figurant à l'actif, peut être répartie, par parts égales, sur
+l'année de sa réalisation et sur les neuf années suivantes, dans la mesure où elle provient, soit d'éléments amortissables
+selon le mode linéaire sur une période supérieure à cinq ans, soit d'éléments amortissables selon le mode dégressif sur une
+période supérieure à huit ans.
+
+La plus-value nette à court terme visée à l'alinéa précédent ne peut pas excéder le montant global de la plus-value nette à
+court terme de l'exercice.
+
+2  En cas de cession ou de cessation totale d'entreprise, les plus-values dont l'imposition a été différée en application des
+dispositions qui précèdent sont rapportées au bénéfice imposable de l'exercice clos lors de cette opération, sous réserve des
+dispositions des articles 41 et 210 A à 210 C.
+
+Sous réserve des dispositions du troisième alinéa du 1, les dispositions de l'alinéa précédent ne sont pas applicables en cas
+d'apport d'une entreprise individuelle à une société dans les conditions prévues à l'article 151 octies si la société
+bénéficiaire de l'apport prend l'engagement dans l'acte d'apport de réintégrer à ses résultats les plus-values à court terme
+comme aurait dû le faire l'entreprise apporteuse.
+
+3  Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet
+exercice.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1465
+  - CGI 1466
+  - CGI 151 octies
+  - CGI 210 A
+  - CGI 210 B
+  - CGI 210 C
+  - CGI 41
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 14 Finances rectificative pour 1989 JORF 30 décembre 1989
+  - Modification directe incorporée dans l'édition du 15 juin 1990)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 201 (M)
+  - Code général des impôts, CGI. - art. 221 bis (M)
+  - Code général des impôts, CGI. - art. 73 E (M)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 29 A (V)
 
 
 ###### Article 39 quindecies
@@ -4282,6 +4452,35 @@ _Codifié par_:
 
 
 ##### c : Régime de l'imposition d'après le bénéfice réel<a id=27></a>
+
+###### Article 54
+
+Les contribuables mentionnés à l'article 53 A sont tenus de représenter à toute réquisition de l'administration tous
+documents comptables, inventaires, copies de lettres, pièces de recettes et de dépenses de nature à justifier l'exactitude
+des résultats indiqués dans leur déclaration. 
+
+Si la comptabilité est tenue en langue étrangère, une traduction certifiée par un traducteur juré doit être représentée à
+toute réquisition de l'administration. 
+
+(Abrogé).
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+_Cité par_:
+
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 18 (V)
+  - Décret n°2017-727 du 3 mai 2017 (V)
+  - Code général des impôts, CGI. - art. 289 (V)
+  - Livre des procédures fiscales - art. L47 A (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 53 A (V)
+
 
 ###### Article 54 bis
 
@@ -6021,6 +6220,236 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 81 C (T)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexies (V)
   - Code rural - art. L741-10 (V)
+
+
+###### Article 81
+
+Sont affranchis de l'impôt :
+
+1° Les allocations spéciales destinées à couvrir les frais inhérents à la fonction ou à l'emploi et effectivement utilisées
+conformément à leur objet ;
+
+1° bis a et c (Abrogés) ;
+
+b (Transféré sous l'article 80 ter-b) ;
+
+2° Les prestations familiales énumérées par l'article L 511-1 du code de la sécurité sociale, l'allocation de salaire unique,
+l'allocation de la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la
+loi n° 77-765 du 12 juillet 1977 instituant le complément familial, l'allocation aux adultes handicapés, les suppléments de
+revenu familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses dispositions en vue d'améliorer la situation
+des familles nombreuses ;
+
+2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code de la sécurité sociale, ainsi que le montant
+de l'aide personnalisée au logement prévue par les articles L 351-1 à L 351-14 du code de la construction et de
+l'habitation ;
+
+2° ter Les majorations de retraite ou de pension pour charges de famille ;
+
+3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du contrat de travail à salaire différé prévu par
+l'article 63 du décret du 29 juillet 1939 relatif à la famille et à la natalité française ;
+
+4° Les pensions servies en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre
+ainsi que la retraite du combattant mentionnée aux articles L 255 à L 257 du même code ;
+
+5° et 6° (Repris avec le 4°).
+
+7° Les traitements attachés à la légion d'honneur et à la médaille militaire ;
+
+8° Les indemnités temporaires, prestations et rentes viagères servies aux victimes d'accidents du travail ou à leurs ayants
+droit ;
+
+9° Les allocations, indemnités et prestations servies, sous quelque forme que ce soit, par l'Etat, les collectivités et les
+établissements publics, en application des lois et décrets d'assistance et d'assurance ;
+
+9° bis Les rentes viagères servies en représentation de dommages-intérêts en vertu d'une condamnation prononcée
+judiciairement pour la réparation d'un préjudice corporel ayant entraîné pour la victime une incapacité permanente totale
+l'obligeant à avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie ;
+
+10° Les rentes viagères servies par application de l'article 96 de la loi du 30 décembre 1928, de l'article 5 de la loi du 17
+septembre 1932, de l'article 1er de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 1942 ;
+
+11° (Abrogé) ;
+
+12° Les retraites mutuelles servies aux anciens combattants et victimes de la guerre dans le cadre des dispositions de
+l'article L321-9 du code de la mutualité ;
+
+13° Les indemnités correspondant aux indemnités de délai-congé et, le cas échéant, de congédiement, versées, en application
+de l'article 20 de la loi n° 54-782 du 2 août 1954, aux journalistes professionnels et aux salariés non journalistes ayant
+perdu leur emploi à la suite de la suspension d'entreprises de presse prononcée dans le cadre de l'ordonnance du 30 septembre
+1944 ou ayant renoncé à leur emploi entre le 25 juin 1940 et le jour de la libération ;
+
+14° La fraction des pensions temporaires d'orphelins qui correspond au montant des prestations familiales auxquelles aurait
+eu droit le parent décédé ;
+
+14° bis Les pensions temporaires d'orphelin, à concurrence de l'allocation aux adultes handicapés, lorsqu'elles remplacent
+cette allocation en tout ou partie du fait de la loi ;
+
+14° ter L'indemnité prévue par l'article L209-15 du code de la santé publique ;
+
+15° Les prestations, visées à l'article 20 de la loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole,
+dans le cadre de l'entraide entre agriculteurs.
+
+Ces dispositions pourront être étendues par décret en conseil d'Etat (1) aux départements d'outre-mer ;
+
+16° L'attribution gratuite par une société à l'ensemble de son personnel d'actions ou parts sociales de son capital dans les
+conditions prévues à l'article 220 bis ;
+
+16° bis et 16 ter (Transférés sous l'article 81 ter) ;
+
+16° quater (Périmé).
+
+17° Les prestations de subsistance, d'équipement et de logement ainsi que l'indemnité forfaitaire d'entretien allouées, en
+application de l'article L 104 du code du service national, au personnel accomplissant le service national actif dans le
+service de la coopération ou dans le service de l'aide technique ;
+
+17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de l'émission et de l'achat en bourse d'actions
+réservées aux salariés et mentionné aux articles 208-14 et 208-18 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales ;
+
+17° ter Le versement complémentaire effectué par les sociétés coopératives ouvrières de production en application de
+l'article 40 de la loi n° 78-763 du 19 juillet 1978 portant statut de ces sociétés, à l'occasion de l'émission de parts
+sociales destinées exclusivement à leurs salariés ;
+
+18° Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise établi conformément aux dispositions
+du chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986.
+
+18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de
+sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation d'un plan d'épargne
+d'entreprise ;
+
+19° Dans la limite de 21,50 F par titre (2), le complément de rémunération résultant de la contribution de l'employeur à
+l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du titre III de l'ordonnance n° 67-830
+du 27 septembre 1967, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre de
+l'économie et des finances (3).
+
+Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le
+titre III de l'ordonnance susvisée du 27 septembre 1967 et les textes pris pour son application (4) ;
+
+19° bis Le complément de rémunération résultant de la contribution de l'employeur à l'acquisition de chèques-vacances par les
+salariés, dans les conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 (5), dans la limite du salaire minimum
+interprofessionnel de croissance apprécié sur une base mensuelle ;
+
+20° Les attributions gratuites d'actions :
+
+a. De la Régie nationale des usines Renault faites à des salariés de la Régie en application de l'article 2 de la loi n°
+70-11 du 2 janvier 1970 ;    b. (Abrogé).    c. Des sociétés centrales d'assurances définies à l'article L 322-12 du code des
+assurances, faites au personnel des entreprises nationales d'assurances en application des articles L 322-13 et L 322-22 du
+code précité ;    d. De la société nationale d'étude et de construction de moteurs d'aviation *SNECMA* et de la société
+nationale industrielle aérospatiale *SNIAS*, faites au personnel de ces entreprises en application de l'article 1er de la loi
+n° 73-9 du 4 janvier 1973.    21° (Abrogé).    22° Les indemnités de départ en retraite, prévues au premier alinéa de
+l'article L122-14-13 du code du travail (6) dans la limite de 20 000 F.    23° L'indemnité compensatoire pour frais de
+transport instituée par les décrets n°s 89-251 du 20 avril 1989, 89-372 du 8 juin 1989 et 89-537 du 3 août 1989.
+
+(1) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
+
+(2) Chiffre applicable depuis le 1er janvier 1990 ; cette limite        était antérieurement de 18 F.
+
+(3) Annexe IV, art. 23 M.
+
+(4) Annexe II, art. 39.
+
+(5) Modifiée par l'article 31-II-1 de la loi n° 83-1179 du 29        décembre 1983.
+
+(6) Code du travail, art. L122-14-13.
+
+**Nota:**
+
+(*) En ce qui concerne la taxe sur les salaires, voir art. 231.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 220 bis
+  - CGI 80 ter b
+  - CGI 81 ter
+  - CGIAN2 39
+  - CGIAN4 23 M
+  - Loi n°54-782 1954-08-02 art. 20
+  - Loi n°62-933 du 8 août 1962 - art. 20 (Ab)
+  - Décret n°64-285 1964-04-02
+  - Loi n°66-537 1966-07-24 art. 208-14, art. 208-18
+  - Ordonnance 67-830 1967-09-27 titre III
+  - Loi n°70-11 du 2 janvier 1970 - art. 2 (V)
+  - Loi n°73-9 1973-01-04 art. 1
+  - Loi n°77-765 du 12 juillet 1977 - art. 12, v. init.
+  - Loi n°77-765 du 12 juillet 1977 - art. 13 (V)
+  - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
+  - Loi n°80-545 1980-07-17
+  - Loi n°80-834 1980-10-24
+  - Ordonnance 82-283 1982-03-26
+  - Loi n°83-1179 1983-12-29 art. 31 II 1 Finances pour 1984
+  - Ordonnance 86-1134 1986-10-21 art. 28 al. 3
+  - Décret n°89-251 1989-04-20
+  - Décret n°89-372 1989-06-08
+  - Décret n°89-537 1989-08-03
+  - Code du service national - art. L104 (M)
+  - Code du travail - art. L122-14-13 (M)
+  - Code de la santé publique - art. L209-15 (M)
+  - Code de la sécurité sociale L511-1, L831-1 à L831-7
+  - Code de la sécurité sociale. - art. L511-1 (M)
+  - Code des assurances - art. L322-12 (M)
+  - Code des assurances - art. L322-13 (M)
+  - Code des assurances - art. L322-22 (M)
+  - Code de la mutualité - art. L321-9 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L255 à L257
+  - Code de la construction et de l'habitation L351-1 à  L351-14
+  - Décret n°1939-07-29 art. 63
+  - Loi n°1928-12-30 art. 96
+  - Loi n°1932-09-17 art. 5
+  - Loi n°1936-10-01 art. 1
+  - Loi n°42-652 1942-06-26 art. 6
+  - Ordonnance 1944-09-30
+
+_Cité par_:
+
+  - Arrêté du 28 avril 1987 - art. 4 (V)
+  - Arrêté du 28 avril 1987 - art. 5 (V)
+  - Arrêté du 28 avril 1987 - art. 7 (V)
+  - Arrêté du 25 septembre 2008 - art. (V)
+  - Arrêté du 25 septembre 2008 - art. 4 (V)
+  - Décret n°2016-1184 du 31 août 2016 - art. 3 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (VD)
+  - Ordonnance n°2019-766 du 24 juillet 2019 - art. 3
+  - Arrêté du 24 septembre 2019 - art. 4
+  - Code de l'action sociale et des familles - art. L245-6 (V)
+  - Code de la construction et de l'habitation. - art. L821-8 (VD)
+  - Code de la sécurité sociale. - art. D531-5 (V)
+  - Code de la sécurité sociale. - art. L131-4 (VT)
+  - Code de la sécurité sociale. - art. L131-4-1 (VT)
+  - Code de la sécurité sociale. - art. L136-1-1 (V)
+  - Code de la sécurité sociale. - art. L136-1-3 (VD)
+  - Code de la sécurité sociale. - art. L136-2 (V)
+  - Code de la sécurité sociale. - art. L242-4-2 (VT)
+  - Code du service national - art. L120-22 (V)
+  - Code du travail - art. L3262-6 (V)
+  - Code du travail - art. L3334-8 (V)
+  - Code général des collectivités territoriales - art. L1621-1 (V)
+  - Code général des impôts, CGI. - art. 1391 B ter (V)
+  - Code général des impôts, CGI. - art. 154 bis (VD)
+  - Code général des impôts, CGI. - art. 157 (V)
+  - Code général des impôts, CGI. - art. 158 (VD)
+  - Code général des impôts, CGI. - art. 163 bis E (V)
+  - Code général des impôts, CGI. - art. 1649-0 A (P)
+  - Code général des impôts, CGI. - art. 199 sexdecies (V)
+  - Code général des impôts, CGI. - art. 199 terdecies-0 A (V)
+  - Code général des impôts, CGI. - art. 39 (V)
+  - Code général des impôts, CGI. - art. 80 duodecies (V)
+  - Code général des impôts, CGI. - art. 80 quinquies (V)
+  - Code général des impôts, CGI. - art. 80 sexdecies (V)
+  - Code général des impôts, CGI. - art. 80 undecies A (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 39 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 6 A (V)
+  - Code rural - art. L741-10-3 (Ab)
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 19 II Finances rectificative pour 1989 JORF 30 décembre 1989
+
+**Liens**:
+
+  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 81 bis
@@ -8488,7 +8917,105 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 4 ter : Prélèvement sur les produits de placement à revenu fixe.<a id=77></a>
+##### 4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation.<a id=77></a>
+
+###### Article 125-0 A
+
+I. Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux placements de même nature sont, lors du
+dénouement du contrat, soumis à l'impôt sur le revenu (1).
+
+Les produits en cause sont constitués par la différence entre les sommes remboursées au bénéficiaire et le montant des primes
+versées.
+
+II. Les dispositions de l'article 125 A, à l'exception du IV de cet article, sont applicables aux produits prévus au I. Le
+taux du prélèvement est fixé :
+
+1° Lorsque le bénéficiaire des produits révèle son identité et son domicile fiscal dans les conditions prévues à l'article
+125 A III bis 4° :
+
+a. A 45 % lorsque la durée du contrat a été inférieure à deux ans ;  ce taux est de 35 p. 100 pour les contrats souscrits à
+compter du 1er janvier 1990 ;
+
+b. A 25 % lorsque cette durée a été égale ou supérieure à deux ans et inférieure à quatre ans ;  ce taux est de 35 p. 100
+pour les contrats souscrits à compter du 1er janvier 1990.
+
+c. A 15 % lorsque cette durée a été égale ou supérieure à quatre ans.
+
+Ces produits sont exonérés lorsque la durée du contrat est égale ou supérieure à six ans ; cette durée est portée à huit ans
+pour les contrats souscrits à compter du 1er janvier 1990.
+
+Ces durées s'entendent, pour les contrats à prime unique et les contrats comportant le versement de primes périodiques
+régulièrement échelonnées, de la durée effective du contrat et, dans les autres cas, de la durée moyenne pondérée. La
+disposition relative à la durée moyenne pondérée n'est pas applicable aux contrats conclus à compter du 1er janvier 1990.
+
+Toutefois, les produits en cause sont exonérés, quelle que soit la durée du contrat, lorsque celui-ci se dénoue par le
+versement d'une rente viagère ou que ce dénouement résulte du licenciement du bénéficiaire des produits ou de sa mise à la
+retraite anticipée ou de son invalidité ou de celle de son conjoint correspondant au classement dans la deuxième ou troisième
+catégorie prévue à l'article L. 341-4 du code de la sécurité sociale ;
+
+2° Dans le cas contraire, à 50 %.
+
+III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et sanctions que celui mentionné à l'article 125
+A. Les dispositions des articles 242 ter 1, 1764 et 1768 bis sont applicables.
+
+(1) Ces dispositions sont applicables aux bons, contrats ou placements souscrits à compter du 1er janvier 1983.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 125 A III bis 4°, IV
+  - CGI 1764
+  - CGI 1768 bis
+  - CGI 242 ter 1
+  - Code de la sécurité sociale. - art. L341-4 (V)
+
+_Modifié par_:
+
+  - Loi n°89-936 du 29 décembre 1989 - art. 112 () JORF 30 décembre 1989
+
+_Cité par_:
+
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 39 (V)
+  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 9 (M)
+  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 3 (V)
+  - Décret n°2015-1092 du 28 août 2015 - art. 2
+  - Décret n°2016-210 du 26 février 2016 - art. 2
+  - Code de l'action sociale et des familles - art. Annexe 2-3 (V)
+  - Code de l'action sociale et des familles - art. R232-5 (VD)
+  - Code de la mutualité - art. R223-11 (V)
+  - Code de la mutualité - art. R223-12 (VD)
+  - Code de la sécurité sociale. - art. L136-6 (VT)
+  - Code de la sécurité sociale. - art. L136-7 (M)
+  - Code de la sécurité sociale. - art. L136-7 (V)
+  - Code des assurances - art. A134-7 (V)
+  - Code des assurances - art. R132-5-5 (V)
+  - Code des assurances - art. R132-5-6 (V)
+  - Code général des impôts, CGI. - art. 122 (V)
+  - Code général des impôts, CGI. - art. 125 D (V)
+  - Code général des impôts, CGI. - art. 1391 B ter (V)
+  - Code général des impôts, CGI. - art. 1417 (M)
+  - Code général des impôts, CGI. - art. 154 quinquies (VD)
+  - Code général des impôts, CGI. - art. 158 (VD)
+  - Code général des impôts, CGI. - art. 1600-0 J (VT)
+  - Code général des impôts, CGI. - art. 1678 quater (V)
+  - Code général des impôts, CGI. - art. 170 (VT)
+  - Code général des impôts, CGI. - art. 990 A (Ab)
+  - Code général des impôts, CGI. - art. 990 I (VD)
+  - Code général des impôts, CGI. - art. 990 I bis (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 50 decies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 50 duodecies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 50 nonies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 50 undecies (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188-0 I (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juin 1990
+
+
+##### 4 ter : Prélèvement sur les produits de placement à revenu fixe.<a id=78></a>
 
 ###### Article 125 A
 
@@ -8667,7 +9194,7 @@ _Codifié par_:
   - Décret n°89-801 1989-10-27
 
 
-##### 4 ter : Prélèvement sur les produits de placements à revenu fixe<a id=78></a>
+##### 4 ter : Prélèvement sur les produits de placements à revenu fixe<a id=79></a>
 
 ###### Article 125 B
 
@@ -8712,7 +9239,7 @@ _Cité par_:
   - HISTO: Edition du 10 août 1987
 
 
-##### 4 quater : Prélèvement sur les produits de placements à revenu fixe et les produits de bons ou contrats de capitalisation de source européenne<a id=79></a>
+##### 4 quater : Prélèvement sur les produits de placements à revenu fixe et les produits de bons ou contrats de capitalisation de source européenne<a id=80></a>
 
 ###### Article 125 D
 
@@ -8750,9 +9277,9 @@ _Modifié par_:
   - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
-##### 5 : Exonérations et régimes spéciaux<a id=80></a>
+##### 5 : Exonérations et régimes spéciaux<a id=81></a>
 
-##### 1° : Epargne-construction<a id=81></a>
+##### 1° : Epargne-construction<a id=82></a>
 
 ###### Article 125 quater
 
@@ -8766,7 +9293,7 @@ _Cite_:
   - Code de la construction L315-26
 
 
-##### 2° : Crédit à la construction immobilière.<a id=82></a>
+##### 2° : Crédit à la construction immobilière.<a id=83></a>
 
 ###### Article 126 bis
 
@@ -8780,7 +9307,7 @@ l'alinéa précédent et il doit en être justifié par l'établissement émette
 
 
 
-##### 3° : Crédit mutuel et coopération agricoles<a id=83></a>
+##### 3° : Crédit mutuel et coopération agricoles<a id=84></a>
 
 ###### Article 130
 
@@ -8812,7 +9339,7 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### 4° : Crédit national.<a id=84></a>
+##### 4° : Crédit national.<a id=85></a>
 
 ###### Article 131
 
@@ -8846,7 +9373,7 @@ _Modifié par_:
   - HISTO: Edition du 31 juillet 1986
 
 
-##### 5° : Obligations négociables - Régimes spéciaux<a id=85></a>
+##### 5° : Obligations négociables - Régimes spéciaux<a id=86></a>
 
 ###### Article 131 ter
 
@@ -8882,7 +9409,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 terdecies (V)
 
 
-##### 6° : Emprunts émis en France par les organisations internationales<a id=86></a>
+##### 6° : Emprunts émis en France par les organisations internationales<a id=87></a>
 
 ###### Article 131 ter A
 
@@ -8900,7 +9427,7 @@ _Modifié par_:
   - Loi n°86-824 du 11 juillet 1986 - art. 28 () JORF 12 juillet 1986
 
 
-##### 7° : Emprunts contractés à l'étranger<a id=87></a>
+##### 7° : Emprunts contractés à l'étranger<a id=88></a>
 
 ###### Article 131 quater
 
@@ -8932,7 +9459,7 @@ _Cité par_:
   - Loi n°94-665 du 4 août 1994 - art. 5 (V)
 
 
-##### 8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières<a id=88></a>
+##### 8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières<a id=89></a>
 
 ###### Article 131 quinquies
 
@@ -8999,7 +9526,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 bis C (V)
 
 
-##### 9° : Emprunts émis par l'Etat<a id=89></a>
+##### 9° : Emprunts émis par l'Etat<a id=90></a>
 
 ###### Article 132 bis
 
@@ -9023,7 +9550,7 @@ _Modifié par_:
   - Loi n°86-1318 du 30 décembre 1986 - art. 15 () JORF 31 décembre 1986
 
 
-##### 10° : Obligations reçues en échange d'actions de sociétés concernées par l'extension du secteur public<a id=90></a>
+##### 10° : Obligations reçues en échange d'actions de sociétés concernées par l'extension du secteur public<a id=91></a>
 
 ###### Article 132 ter
 
@@ -9053,7 +9580,7 @@ _Modifié par_:
   - Loi n°82-155 du 11 février 1982 - art. 46 (V) JORF 13 FEVRIER 1982
 
 
-##### 11° : Emprunts des départements, communes et établissements publics<a id=91></a>
+##### 11° : Emprunts des départements, communes et établissements publics<a id=92></a>
 
 ###### Article 133
 
@@ -9117,7 +9644,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 12° : Emprunts regroupés<a id=92></a>
+##### 12° : Emprunts regroupés<a id=93></a>
 
 ###### Article 135
 
@@ -9137,7 +9664,7 @@ _Modifié par_:
   - Décret n°86-1086 1986-10-07 art. 1 JORF 9 octobre 1986
 
 
-##### 13° : Financement de certaines opérations d'exportation<a id=93></a>
+##### 13° : Financement de certaines opérations d'exportation<a id=94></a>
 
 ###### Article 136
 
@@ -9165,7 +9692,7 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-##### 15° : Habitations à loyer modéré<a id=94></a>
+##### 15° : Habitations à loyer modéré<a id=95></a>
 
 ###### Article 138
 
@@ -9196,7 +9723,7 @@ _Cite_:
   - Loi n°1934-07-27 art. 5
 
 
-##### 16° : Sociétés immobilières d'investissement et sociétés immobilières de gestion<a id=95></a>
+##### 16° : Sociétés immobilières d'investissement et sociétés immobilières de gestion<a id=96></a>
 
 ###### Article 139 ter
 
@@ -9217,7 +9744,7 @@ _Cite_:
   - Décret n°63-683 1963-07-13 art. 1
 
 
-##### 17° : Sociétés pour le développement de l'industrie, du commerce et de l'agriculture et leur adaptation à la Communauté économique européenne.<a id=96></a>
+##### 17° : Sociétés pour le développement de l'industrie, du commerce et de l'agriculture et leur adaptation à la Communauté économique européenne.<a id=97></a>
 
 ###### Article 143 quater
 
@@ -9238,7 +9765,7 @@ _Cite_:
   - Ordonnance 59-248 1959-02-04
 
 
-##### Sociétés mères.<a id=97></a>
+##### Sociétés mères.<a id=98></a>
 
 ###### Article 145
 
@@ -9393,7 +9920,7 @@ _Codifié par_:
   - Décret n°89-801 1989-10-27
 
 
-##### 19° : Zones à urbaniser<a id=98></a>
+##### 19° : Zones à urbaniser<a id=99></a>
 
 ###### Article 146 quater
 
@@ -9408,7 +9935,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 208 ter (V)
 
 
-##### VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option<a id=99></a>
+##### VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option<a id=100></a>
 
 ###### Article 150 nonies
 
@@ -9636,11 +10163,48 @@ _Cité par_:
   - Livre des procédures fiscales - art. R96 CA-1 (V)
 
 
-##### VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature<a id=100></a>
+##### VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature<a id=101></a>
 
-##### A : Champ d'application.<a id=101></a>
+##### A : Champ d'application.<a id=102></a>
 
-##### Exonérations.<a id=102></a>
+###### Article 150 A bis
+
+Les gains nets retirés de cessions à titre onéreux de valeurs mobilières ou de droits sociaux de sociétés non cotées dont
+l'actif est principalement constitué d'immeubles ou de droits portant sur ces biens relèvent exclusivement du régime
+d'imposition prévu pour les biens immeubles. Pour l'application de cette disposition, ne sont pas pris en considération les
+immeubles affectés par la société à sa propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une
+profession non commerciale (1).
+
+Toutefois les titres des sociétés immobilières pour le commerce et l'industrie non cotées sont assimilés à des titres cotés
+et imposés conformément aux dispositions de l'article 92 C.
+
+En cas d'échange de titres résultant d'une fusion, d'une scission ou d'un apport, l'imposition des gains nets mentionnés au
+premier alinéa est reportée dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160.
+
+1)  Voir Annexe II, art. 74 A bis.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 160 I ter
+  - CGI 92 C
+  - CGIAN2 74 A bis
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 15  Finances rectificative pour 1989 JOR 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 150 UB (V)
+  - Code général des impôts, CGI. - art. 150 VB (V)
+  - Code général des impôts, CGI. - art. 150-0 D (V)
+  - Code général des impôts, CGI. - art. 161 (V)
+  - Code général des impôts, CGI. - art. 238 septies A (V)
+
+
+##### Exonérations.<a id=103></a>
 
 ###### Article 150 C
 
@@ -9687,7 +10251,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
-##### 2. Biens et droits mobiliers ou immobiliers<a id=103></a>
+##### 2. Biens et droits mobiliers ou immobiliers<a id=104></a>
 
 ###### Article 150 A
 
@@ -9722,6 +10286,32 @@ _Modifié par_:
 _Cité par_:
 
   - Loi n°87-516 du 10 juillet 1987 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Loi - art. 10 (V) JORF 31 décembre 2003
+
+
+###### Article 150 A ter
+
+Sous réserve de l'application des dispositions du 3° du paragraphe I de l'article 35, les dispositions de l'article 150 A
+s'appliquent à la plus-value résultant de la cession d'un terrain divisé en lots destinés à être construits.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 150 A, 35
+
+**Liens**:
+
+  - HISTO: Edition du 15 juin 1990
+  - HISTO: Edition du 1er janvier 2004
+  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 27 II Finances rectificative pour 1989 JORF 30 décembre 1989
 
 _Abrogé par_:
 
@@ -9987,7 +10577,7 @@ _Abrogé par_:
   - Loi - art. 10 (V) JORF 31 décembre 2003
 
 
-##### B: Détermination de la plus-value imposable.<a id=104></a>
+##### B: Détermination de la plus-value imposable.<a id=105></a>
 
 ###### Article 150 H
 
@@ -10066,7 +10656,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2. Biens et droits mobiliers et immobiliers.<a id=105></a>
+##### 2. Biens et droits mobiliers et immobiliers.<a id=106></a>
 
 ###### Article 150 P
 
@@ -10151,7 +10741,7 @@ _Abrogé par_:
   - Loi - art. 10 (V) JORF 31 décembre 2003
 
 
-##### C : Calcul de l'impôt.<a id=106></a>
+##### C : Calcul de l'impôt.<a id=107></a>
 
 ###### Article 150 R
 
@@ -10188,9 +10778,9 @@ _Cité par_:
   - Loi n°89-18 du 13 janvier 1989 - art. 24 (V)
 
 
-##### VIII : Dispositions communes aux différentes catégories de revenus<a id=107></a>
+##### VIII : Dispositions communes aux différentes catégories de revenus<a id=108></a>
 
-##### 1 ter : Imposition des plus-values réalisées dans le cadre d'un bail à construction<a id=108></a>
+##### 1 ter : Imposition des plus-values réalisées dans le cadre d'un bail à construction<a id=109></a>
 
 ###### Article 151 quater
 
@@ -10233,7 +10823,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 33 bis (V)
 
 
-##### 1 quater : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale<a id=109></a>
+##### 1 quater : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale<a id=110></a>
 
 ###### Article 151 septies
 
@@ -10334,7 +10924,66 @@ _Modifié par_:
   - Loi n°76-660 du 19 juillet 1976 - art. 11 (V) JORF 20 juillet 1976
 
 
-##### 3 : Non-déduction de l'impôt sur le revenu<a id=110></a>
+##### 1 sexies : Contribuables exerçant leur activité professionnelle dans le cadre d'une société de personnes<a id=111></a>
+
+###### Article 151 nonies
+
+I. Lorsqu'un contribuable exerce son activité professionnelle dans le cadre d'une société dont les bénéfices sont, en
+application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu dans la catégorie des bénéfices agricoles
+réels, des bénéfices industriels ou commerciaux ou des bénéfices non commerciaux, ses droits ou parts dans la société sont
+considérés notamment pour l'application des articles 38, 72 et 93, comme des éléments d'actif affectés à l'exercice de la
+profession.
+
+II. En cas de transmission à titre gratuit à une personne physique de droits sociaux considérés, en application du I, comme
+des éléments d'actif affectés à l'exercice de la profession, la plus-value n'est pas immédiatement imposée si le bénéficiaire
+de la transmission prend l'engagement de calculer la plus-value réalisée à l'occasion de la cession ou de la transmission
+ultérieure de ces droits par rapport à leur valeur d'acquisition par le précédent associé.
+
+III. En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au paragraphe I ou de sa transformation en
+société passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou
+d'annulation des parts ou actions de l'associé. Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou
+actions de l'associé à une personne physique si celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de
+la cession, du rachat ou de l'annulation de ces parts ou actions.
+
+Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janvier 1988.
+
+IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activité professionnelle, l'imposition de la plus-
+value constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou
+d'annulation de ces parts. Ce report est maintenu dans les conditions prévues au paragraphe III.
+
+Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janvier 1989.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 8, 8 ter, 38, 72, 93
+
+_Cité par_:
+
+  - Loi n°81-1160 du 30 décembre 1981 - art. 4 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater E (V)
+  - Code général des impôts, CGI. - art. 151 septies A (M)
+  - Code général des impôts, CGI. - art. 151 sexies (VD)
+  - Code général des impôts, CGI. - art. 1763 (V)
+  - Code général des impôts, CGI. - art. 199 ter B (V)
+  - Code général des impôts, CGI. - art. 210-0 A (V)
+  - Code général des impôts, CGI. - art. 238 quindecies (V)
+  - Code général des impôts, CGI. - art. 244 quater B (VD)
+  - Code général des impôts, CGI. - art. 70 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E ter (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A ter (V)
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 27 IV Finances pour 1990 JORF 30 décembre 1989, Edition du 15 juin 1990
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 2003-03-20 4F-3-03
+
+
+##### 3 : Non-déduction de l'impôt sur le revenu<a id=112></a>
 
 ###### Article 153
 
@@ -10348,7 +10997,45 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 39 (V)
 
 
-##### 5 : Contribuables disposant de revenus professionnels ressortissant à des catégories différentes<a id=111></a>
+##### 4 bis : Cotisations d'assurance maladie et d'assurance maternité des travailleurs non salariés des professions non agricoles.<a id=113></a>
+
+###### Article 154 bis
+
+Pour la détermination des bénéfices industriels et commerciaux et des bénéfices des professions non commerciales, les
+cotisations obligatoires de sécurité sociale ainsi que les cotisations volontaires de l'époux du commerçant, du professionnel
+libéral ou de l'artisan qui collabore effectivement à l'activité de son conjoint sans être rémunéré et sans exercer aucune
+autre activité professionnelle sont admises en déduction du bénéfice imposable.
+
+En ce qui concerne les cotisations instituées par application de l'article L. 612-13 du code de la sécurité sociale, un
+décret fixe, le cas échéant, dans quelle proportion elles sont admises dans les charges déductibles au sens du premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 4
+
+_Cité par_:
+
+  - Arrêté du 9 décembre 2016 - art. 4 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
+  - Code de la sécurité sociale. - art. L131-6 (V)
+  - Code de la sécurité sociale. - art. L136-3 (VD)
+  - Code de la sécurité sociale. - art. L871-1 (V)
+  - Code général des impôts, CGI. - art. 154 bis A (VD)
+  - Code général des impôts, CGI. - art. 158 (VD)
+  - Code général des impôts, CGI. - art. 163 quatervicies (M)
+  - Code général des impôts, CGI. - art. 990 I (VD)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DN bis (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DN ter (VD)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L612-13 (M)
+
+
+##### 5 : Contribuables disposant de revenus professionnels ressortissant à des catégories différentes<a id=114></a>
 
 ###### Article 155
 
@@ -10371,11 +11058,55 @@ _Cité par_:
   - Code rural - art. L722-12 (V)
 
 
-##### 1ere Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus<a id=112></a>
+##### 6 : Sommes perçues par une personne domiciliée ou établie hors de France<a id=115></a>
 
-##### I : Revenus fonciers<a id=113></a>
+###### Article 155 A
 
-##### 4 : Détermination du revenu imposable.<a id=114></a>
+I. Les sommes perçues par une personne domiciliée ou établie hors de France en rémunération de services rendus par une ou
+plusieurs personnes domiciliées ou établies en France sont imposables au nom de ces dernières :
+
+– soit, lorsque celles-ci contrôlent directement ou indirectement la personne qui perçoit la rémunération des services ;
+
+– soit, lorsqu'elles n'établissent pas que cette personne exerce, de manière prépondérante, une activité industrielle ou
+commerciale, autre que la prestation de services ;
+
+– soit, en tout état de cause, lorsque la personne qui perçoit la rémunération des services est domiciliée ou établie dans un
+Etat étranger ou un territoire situé hors de France où elle est soumise à un régime fiscal privilégié au sens mentionné à
+l'article 238 A.
+
+II. Les règles prévues au I ci-dessus sont également applicables aux personnes domiciliées hors de France pour les services
+rendus en France.
+
+III. La personne qui perçoit la rémunération des services est solidairement responsable, à hauteur de cette rémunération, des
+impositions dues par la personne qui les rend.
+
+**Nota:**
+
+Dans sa décision n° 2010-70 QPC du 26 novembre 2010 (NOR : CSCX1030157S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant 4, l'article 155 A du code général des impôts conforme à la Constitution.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 30 Finances pour 1990 JORF 30 décembre 1989
+
+_Cité par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 109 (VD)
+  - Décret n°2017-601 du 21 avril 2017 (V)
+  - Livre des procédures fiscales - art. L10-0 AB (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 238 A (V)
+
+
+##### 1ere Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus<a id=116></a>
+
+##### I : Revenus fonciers<a id=117></a>
+
+##### 4 : Détermination du revenu imposable.<a id=118></a>
 
 ###### Article 31
 
@@ -10533,104 +11264,9 @@ _Modifié par_:
   - Loi n°86-1317 1986-12-26 art. 23 III Finances pour 1987 JORF 31 décembre 1986
 
 
-##### II : Bénéfices industriels et commerciaux<a id=115></a>
+##### II : Bénéfices industriels et commerciaux<a id=119></a>
 
-##### 1 : Définition des bénéfices industriels et commerciaux.<a id=116></a>
-
-###### Article 35
-
-I  Présentent également le caractère de bénéfices industriels et commerciaux, pour l'application de l'impôt sur le revenu,
-les bénéfices réalisés par les personnes physiques désignées ci-après :
-
-1° Personnes qui, habituellement, achètent en leur nom, en vue de les revendre, des immeubles, des fonds de commerce, des
-actions ou parts de sociétés immobilières ou qui, habituellement, souscrivent, en vue de les revendre, des actions ou parts
-créées ou émises par les mêmes sociétés.
-
-Ces personnes s'entendent notamment de celles qui achètent des biens immeubles, en vue d'édifier un ou plusieurs bâtiments et
-de les vendre, en bloc ou par locaux;
-
-2° Personnes se livrant à des opérations d'intermédiaire pour l'achat, la souscription ou la vente des biens visés au 1°;
-
-3° Personnes ayant la qualité de marchand de biens qui procèdent à la cession d'un terrain divisé en lots destinés à être
-construits;
-
-a, b, c et d  (Abrogés);
-
-4° Personnes bénéficiaires d'une promesse unilatérale de vente portant sur un immeuble qui est vendu par fractions ou par
-lots à la diligence de ces personnes;
-
-5° Personnes qui donnent en location un établissement commercial ou industriel muni du mobilier ou du matériel nécessaire à
-son exploitation, que la location comprenne, ou non, tout ou partie des éléments incorporels du fonds de commerce ou
-d'industrie;
-
-6° Adjudicataires, concessionnaires et fermiers de droits communaux;
-
-7° Membres des copropriétés de navires mentionnées à l'article 8 quater.
-
-8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger, directement ou par personne interposée, des
-opérations sur un marché à terme d'instruments financiers ou d'options négociables, à condition qu'elles aient opté pour ce
-régime dans les quinze jours du début du premier exercice d'imposition à ce titre. L'option est irrévocable.
-
-Ces dispositions s'appliquent aux personnes qui effectuent, directement ou par personne interposée, des opérations à terme
-sur marchandises sur le marché à terme mentionné à l'article 5 de la loi du 28 mars 1885.
-
-II  (Abrogé)
-
-III  Pour l'application du présent article, les donations entre vifs ne sont pas opposables à l'administration.
-
-**Nota:**
-
-NOTA - Ces dispositions s'appliquent aux profits réalisés à compter du 1er janvier 1989.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 8 quater
-  - Loi n°1885-03-28 art. 5
-
-_Modifié par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 71 (V) JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret  89-801 1989-10-27
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
-  - Code général des impôts, CGI. - art. 145 (V)
-  - Code général des impôts, CGI. - art. 150 U (VD)
-  - Code général des impôts, CGI. - art. 150 undecies (VD)
-  - Code général des impôts, CGI. - art. 151 quater (V)
-  - Code général des impôts, CGI. - art. 164 B (V)
-  - Code général des impôts, CGI. - art. 217 sexdecies (P)
-  - Code général des impôts, CGI. - art. 238 bis (VD)
-  - Code général des impôts, CGI. - art. 242 ter E (V)
-  - Code général des impôts, CGI. - art. 244 bis (VD)
-  - Code général des impôts, CGI. - art. 39 octies A (VD)
-  - Code général des impôts, CGI. - art. 39 octies C (V)
-  - Code général des impôts, CGI. - art. 44 duodecies (V)
-  - Code général des impôts, CGI. - art. 44 octies (V)
-  - Code général des impôts, CGI. - art. 44 octies A (M)
-  - Code général des impôts, CGI. - art. 44 sexies (M)
-  - Code général des impôts, CGI. - art. 44 terdecies (V)
-  - Code général des impôts, CGI. - art. 50-0 (V)
-  - Code général des impôts, CGI. - art. 92 (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 3 (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 49 N (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 49 V (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 49 Y (V)
-  - Livre des procédures fiscales - art. L96 CA (V)
-  - Livre des procédures fiscales - art. R96 CA-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1149 1988-12-28 art. 71 III
-
-
-##### 1 bis : Exonérations.<a id=117></a>
+##### 1 bis : Exonérations.<a id=120></a>
 
 ###### Article 35 bis
 
@@ -10660,7 +11296,7 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-##### 2 : Détermination des bénéfices imposables.<a id=118></a>
+##### 2 : Détermination des bénéfices imposables.<a id=121></a>
 
 ###### Article 38
 
@@ -10714,7 +11350,7 @@ constaté au jour de la clôture sur le marché sur lequel le contrat a été co
 Ces dispositions s'appliquent aux contrats, options et autres instruments financiers à terme conclus en France ou à
 l'étranger, qui sont cotés sur une bourse de valeurs ou traités sur un marché ou par référence à un marché (3) ;
 
-2° Dans le cas où un contrat à terme d'instruments financiers en cours à la clôture de l'exercice a pour cause exclusive de
+2° Dans le cas où un contrat à terme d'instruments financiers en cours à la clôture de l'exercice a pour clause exclusive de
 compenser le risque d'une opération de l'exercice suivant, traitée sur un marché de nature différente, l'imposition du profit
 réalisé sur le contrat est reportée au dénouement de celui-ci, à condition que les opérations dont la compensation est
 envisagée figurent sur le document prévu au 3° (4) ;
@@ -10739,20 +11375,37 @@ réalisée conformément à la réglementation en vigueur, est compris dans le r
 reçues en échange sont cédées. Les actions reçues en échange sont inscrites au bilan pour la même valeur comptable que celle
 des actions échangées (6).
 
-(1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 A. (2)
-Disposition applicable pour la détermination des résultats des exercices clos à compter du 16 avril 1986. Pour les exercices
-en cours à cette date, voir loi n°86-824 du 11 juillet 1986, art. 21-II. (3) Voir annexe III, art. 2 A. (4
+8. 1° La plus-value de cession séparée de valeurs mobilières et de droits de souscription qui leur sont attachés, acquis pour
+un prix unique, est calculée par référence à la fraction du prix d'acquisition afférente à chacun de ces éléments.
 
-Voir annexe III, art. 2 B. (5
+La fraction afférente aux droits de souscription est égale à la différence entre le prix unique et le prix de la valeur
+mobilière à la date de la souscription ou de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations.
 
-Voir annexe III, art. 2 C. (6) Ces dispositions s'appliquent aux opérations d'échange réalisées à compter du 1er janvier
-1988.
+2° La différence entre la valeur actuelle d'une obligation assortie de droits de souscription et sa valeur de remboursement
+est considérée, pour l'imposition du souscripteur, comme une prime de remboursement. Toutefois celle-ci n'est soumise aux
+dispositions du paragraphe I de l'article 238 septies B du code général des impôts que si son montant excède 15 p. 100 de la
+valeur actuelle de l'obligation.
+
+3° Les sommes reçues par une entreprise lors de l'émission de droits de souscription ou d'acquisition de valeurs mobilières
+sont comprises dans ses résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'ont pas été exercés.
+
+(1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 A.
+
+(2) Disposition applicable pour la détermination des résultats des exercices clos à compter du 16 avril 1986. Pour les
+exercices en cours à cette date, voir loi n°86-824 du 11 juillet 1986, art. 21-II. (3) Voir annexe III, art. 2 A.
+
+(4) Voir annexe III, art. 2 B.
+
+(5) Voir annexe III, art. 2 C.
+
+(6) Ces dispositions s'appliquent aux opérations d'échange réalisées à compter du 1er janvier 1988.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 151 sexies
+  - CGI 238 septies B
   - CGI 248 A
   - CGI 33 ter
   - CGI 40
@@ -10770,11 +11423,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 90 () JORF 31 décembre 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Loi n°89-936 1989-12-29 art. 13 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -11384,35 +12033,49 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 39 C
+###### Article 39 duodecies A
 
-L'amortissement des biens donnés en location est réparti sur la durée normale d'utilisation suivant des modalités fixées par
-décret en conseil d'Etat (1).
+1. La plus-value réalisée lors de la cession d'un contrat de crédit-bail conclu dans les conditions prévues aux 1° et 2° de
+l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail est soumise au régime
+défini aux articles 39 duodecies et suivants. Elle est considérée comme une plus-value à court terme à concurrence de la
+fraction des loyers qui correspond aux amortissements que l'entreprise cédante aurait pu pratiquer selon le mode linéaire si
+elle avait été propriétaire du bien qui fait l'objet du contrat ; ces amortissements sont calculés sur le prix d'acquisition
+du bien par le bailleur diminué du prix prévu au contrat pour l'acceptation de la promesse unilatérale de vente en retenant
+une durée d'utilisation égale à celle du contrat.
 
-1) Annexe II, art. 30 à 32.
+2. Le prix d'acquisition des droits mentionnés au 1 est amorti selon le mode linéaire sur la durée normale d'utilisation du
+bien à cette date. Si ces droits sont à nouveau cédés, la fraction de la plus-value réalisée qui correspond aux
+amortissements ainsi pratiqués est également considérée comme une plus-value à court terme.
+
+3. Lors de l'acceptation de la promesse unilatérale de vente par le titulaire des droits mentionnés au 1, le prix de revient
+du bien acquis est majoré du prix d'achat de ces mêmes droits. Ce bien est réputé amorti à concurrence des sommes déduites en
+application du 2.
+
+4. En cas de cession ultérieure d'un bien acquis à l'échéance d'un contrat de crédit-bail, la plus-value réalisée est
+considérée comme une plus-value à court terme à hauteur des amortissements pratiqués sur le prix de revient du bien augmentés
+des amortissements que l'entreprise aurait pu pratiquer comme il est indiqué au 1 pendant la période au cours de laquelle
+elle a été titulaire du contrat.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGIAN2 30
-  - CGIAN2 31
-  - CGIAN2 32
+  - CGI 39 duodecies et s.
+  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
+
+_Créé par_:
+
+  - Loi n°89-935 1989-12-29 art. 22 I, III Finances pour 1990 JORF 30 décembre 1989, article créé directement et incorporé dans l'édition du 15 juin 1990
 
 _Cité par_:
 
-  - Décret n°2017-866 du 9 mai 2017 - art. 6 (V)
-  - Code général des impôts, CGI. - art. 1586 sexies (V)
-  - Code général des impôts, CGI. - art. 199 undecies B (M)
-  - Code général des impôts, CGI. - art. 212 bis (V)
-  - Code général des impôts, CGI. - art. 39 G (V)
-  - Code général des impôts, CGI. - art. 39 quinquies I (V)
-  - Code général des impôts, CGI. - art. 54 octies (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 32 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
+  - CODE GENERAL DES IMPOTS, CGI. - art. 223 V (T)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 223 VG (T)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater B (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater K (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
+  - Code général des impôts, CGI. - art. 210 A (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 quindecies G (V)
 
 
 ###### Article 39 E
@@ -11502,61 +12165,6 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°88-1001 1988-10-20
-
-
-###### Article 39 quaterdecies
-
-1  Le montant net des plus-values à court terme peut être réparti par parts égales sur l'année de leur réalisation et sur les
-deux années suivantes.
-
-Il s'entend de l'excédent de ces plus-values sur les moins-values de même nature qui ont été effectivement subies au cours du
-même exercice.
-
-Ces dispositions ne sont pas applicables aux plus-values nettes à court terme réalisées par les entreprises soumises à
-l'impôt sur les sociétés au cours des exercices ouverts à compter du 1er janvier 1987.
-
-1 bis  Par dérogation aux dispositions du 1, la réintégration aux bénéfices imposables du montant net des plus-values à court
-terme réalisées à l'occasion d'opérations de reconversion par les entreprises qui ont obtenu l'agrément prévu aux articles
-1465 et 1466 peut être étalée sur dix ans, sans que la somme rattachée aux bénéfices de chaque année puisse être inférieure
-au dixième de ce montant.
-
-1 ter  Par dérogation aux dispositions du 1, la plus-value nette à court terme réalisée à la suite de la perception
-d'indemnités d'assurances ou de l'expropriation d'immeubles figurant à l'actif, peut être répartie, par parts égales, sur
-l'année de sa réalisation et sur les neuf années suivantes, dans la mesure où elle provient, soit d'éléments amortissables
-selon le mode linéaire sur une période supérieure à cinq ans, soit d'éléments amortissables selon le mode dégressif sur une
-période supérieure à huit ans.
-
-La plus-value nette à court terme visée à l'alinéa précédent ne peut pas excéder le montant global de la plus-value nette à
-court terme de l'exercice.
-
-2  En cas de cession ou de cessation totale d'entreprise, les plus-values dont l'imposition a été différée en application des
-dispositions qui précèdent sont rapportées au bénéfice imposable de l'exercice clos lors de cette opération, sous réserve des
-dispositions des articles 41 et 210 A à 210 C.
-
-3  Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet
-exercice.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1465
-  - CGI 1466
-  - CGI 210 A
-  - CGI 210 B
-  - CGI 210 C
-  - CGI 41
-
-_Modifié par_:
-
-  - Loi n°87-1060 du 30 décembre 1987 - art. 31 () JORF 31 décembre 1987
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 201 (M)
-  - Code général des impôts, CGI. - art. 221 bis (M)
-  - Code général des impôts, CGI. - art. 73 E (M)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 29 A (V)
 
 
 ###### Article 39 quinquies D
@@ -11777,7 +12385,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 46 (V)
 
 
-##### 2 bis : Dispositions particulières à certaines entreprises nouvelles.<a id=119></a>
+##### 2 bis : Dispositions particulières à certaines entreprises nouvelles.<a id=122></a>
 
 ###### Article 44 septies
 
@@ -11835,48 +12443,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZU (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies F (VD)
-
-
-##### 4 : Fixation du bénéfice imposable<a id=120></a>
-
-##### A : Exploitants individuels<a id=121></a>
-
-##### b : Régime de l'imposition d'après le bénéfice réel.<a id=122></a>
-
-###### Article 54
-
-Les contribuables mentionnés à l'article 53 A sont tenus de représenter à toute réquisition de l'administration tous
-documents comptables, inventaires, copies de lettres, pièces de recettes et de dépenses de nature à justifier l'exactitude
-des résultats indiqués dans leur déclaration.
-
-Si la comptabilité est tenue en langue étrangère, une traduction certifiée par un traducteur juré doit être représentée à
-toute réquisition de l'administration [*obligation*].
-
-Si la comptabilité est établie au moyen de systèmes informatisés, le contrôle s'étend à la documentation relative aux
-analyses, à la programmation et à l'exécution des traitements. Afin de s'assurer de la fiabilité des procédures de traitement
-automatisé de la comptabilité, les agents des impôts peuvent procéder à des tests de contrôle sur le matériel utilisé par
-l'entreprise dont les conditions seront définies par décret.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 53 A
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
-
-_Modifié par_:
-
-  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
-
-_Cité par_:
-
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 18 (V)
-  - Décret n°2017-727 du 3 mai 2017 (V)
-  - Code général des impôts, CGI. - art. 289 (V)
-  - Livre des procédures fiscales - art. L47 A (V)
 
 
 ##### V : Traitements, salaires, pensions et rentes viagères<a id=123></a>
@@ -11955,241 +12521,6 @@ _Cité par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
-
-
-###### Article 81
-
-Sont affranchis de l'impôt :
-
-1° Les allocations spéciales destinées à couvrir les frais inhérents à la fonction ou à l'emploi et effectivement utilisées
-conformément à leur objet ;
-
-1° bis a et c (Abrogés) ;
-
-b (Transféré sous l'article 80 ter-b) ;
-
-2° Les prestations familiales énumérées par l'article L 511-1 du code de la sécurité sociale, l'allocation de salaire unique,
-l'allocation de la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la
-loi n° 77-765 du 12 juillet 1977 instituant le complément familial, l'allocation aux adultes handicapés, les suppléments de
-revenu familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses dispositions en vue d'améliorer la situation
-des familles nombreuses ;
-
-2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code de la sécurité sociale, ainsi que le montant
-de l'aide personnalisée au logement prévue par les articles L 351-1 à L 351-14 du code de la construction et de
-l'habitation ;
-
-2° ter Les majorations de retraite ou de pension pour charges de famille ;
-
-3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du contrat de travail à salaire différé prévu par
-l'article 63 du décret du 29 juillet 1939 relatif à la famille et à la natalité française ;
-
-4° Les pensions servies en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre
-ainsi que la retraite du combattant mentionnée aux articles L 255 à L 257 du même code ;
-
-5° et 6° (Repris avec le 4°).
-
-7° Les traitements attachés à la légion d'honneur et à la médaille militaire ;
-
-8° Les indemnités temporaires, prestations et rentes viagères servies aux victimes d'accidents du travail ou à leurs ayants
-droit ;
-
-9° Les allocations, indemnités et prestations servies, sous quelque forme que ce soit, par l'Etat, les collectivités et les
-établissements publics, en application des lois et décrets d'assistance et d'assurance ;
-
-9° bis Les rentes viagères servies en représentation de dommages-intérêts en vertu d'une condamnation prononcée
-judiciairement pour la réparation d'un préjudice corporel ayant entraîné pour la victime une incapacité permanente totale
-l'obligeant à avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie ;
-
-10° Les rentes viagères servies par application de l'article 96 de la loi du 30 décembre 1928, de l'article 5 de la loi du 17
-septembre 1932, de l'article 1er de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 1942 ;
-
-11° (Abrogé) ;
-
-12° Les retraites mutuelles servies aux anciens combattants et victimes de la guerre dans le cadre des dispositions de
-l'article L321-9 du code de la mutualité ;
-
-13° Les indemnités correspondant aux indemnités de délai-congé et, le cas échéant, de congédiement, versées, en application
-de l'article 20 de la loi n° 54-782 du 2 août 1954, aux journalistes professionnels et aux salariés non journalistes ayant
-perdu leur emploi à la suite de la suspension d'entreprises de presse prononcée dans le cadre de l'ordonnance du 30 septembre
-1944 ou ayant renoncé à leur emploi entre le 25 juin 1940 et le jour de la libération ;
-
-14° La fraction des pensions temporaires d'orphelins qui correspond au montant des prestations familiales auxquelles aurait
-eu droit le parent décédé ;
-
-14° bis Les pensions temporaires d'orphelin, à concurrence de l'allocation aux adultes handicapés, lorsqu'elles remplacent
-cette allocation en tout ou partie du fait de la loi ;
-
-14° ter L'indemnité prévue par l'article L209-15 du code de la santé publique ;
-
-15° Les prestations, visées à l'article 20 de la loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole,
-dans le cadre de l'entraide entre agriculteurs.
-
-Ces dispositions pourront être étendues par décret en conseil d'Etat (1) aux départements d'outre-mer ;
-
-16° L'attribution gratuite par une société à l'ensemble de son personnel d'actions ou parts sociales de son capital dans les
-conditions prévues à l'article 220 bis ;
-
-16° bis et 16 ter (Transférés sous l'article 81 ter) ;
-
-16° quater (Périmé).
-
-17° Les prestations de subsistance, d'équipement et de logement ainsi que l'indemnité forfaitaire d'entretien allouées, en
-application de l'article L 104 du code du service national, au personnel accomplissant le service national actif dans le
-service de la coopération ou dans le service de l'aide technique ;
-
-17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de l'émission et de l'achat en bourse d'actions
-réservées aux salariés et mentionné aux articles 208-14 et 208-18 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales ;
-
-17° ter Le versement complémentaire effectué par les sociétés coopératives ouvrières de production en application de
-l'article 40 de la loi n° 78-763 du 19 juillet 1978 portant statut de ces sociétés, à l'occasion de l'émission de parts
-sociales destinées exclusivement à leurs salariés ;
-
-18° Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise établi conformément aux dispositions
-du chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986.
-
-18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de
-sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation d'un plan d'épargne
-d'entreprise ;
-
-19° Dans la limite de 18 F par titre (2), le complément de rémunération résultant de la contribution de l'employeur à
-l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du titre III de l'ordonnance n° 67-830
-du 27 septembre 1967, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre de
-l'économie et des finances (3).
-
-Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le
-titre III de l'ordonnance susvisée du 27 septembre 1967 et les textes pris pour son application (4) ;
-
-19° bis Le complément de rémunération résultant de la contribution de l'employeur à l'acquisition de chèques-vacances par les
-salariés, dans les conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 modifiée (5), dans la limite du salaire
-minimum interprofessionnel de croissance apprécié sur une base mensuelle ;
-
-20° Les attributions gratuites d'actions :
-
-a. De la Régie nationale des usines Renault faites à des salariés de la Régie en application de l'article 2 de la loi n°
-70-11 du 2 janvier 1970 ;
-
-b. (Abrogé).
-
-c. Des sociétés centrales d'assurances définies à l'article L 322-12 du code des assurances, faites au personnel des
-entreprises nationales d'assurances en application des articles L 322-13 et L 322-22 du code précité ;
-
-d. De la société nationale d'étude et de construction de moteurs d'aviation *SNECMA* et de la société nationale industrielle
-aérospatiale *SNIAS*, faites au personnel de ces entreprises en application de l'article 1er de la loi n° 73-9 du 4 janvier
-1973.
-
-21° (Abrogé).
-
-22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article L122-14-13 du code du travail (6) dans la
-limite de 20 000 F.
-
-(1) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
-
-(2) Chiffre applicable depuis le 1er janvier 1989 ; cette limite        était antérieurement de 15 F.
-
-(3) Annexe IV, art. 23 M.
-
-(4) Annexe II, art. 39.
-
-(5) Modifiée par l'article 31-II-1 de la loi n° 83-1179 du 29        décembre 1983.
-
-(6) Code du travail, art. L122-14-13.
-
-**Nota:**
-
-(*) En ce qui concerne la taxe sur les salaires, voir art. 231.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 220 bis
-  - CGI 80 ter b
-  - CGI 81 ter
-  - CGIAN2 39
-  - CGIAN4 23 M
-  - Loi n°54-782 1954-08-02 art. 20
-  - Loi n°62-933 du 8 août 1962 - art. 20 (Ab)
-  - Décret n°64-285 1964-04-02
-  - Loi n°66-537 1966-07-24 art. 208-14, art. 208-18
-  - Ordonnance 67-830 1967-09-27 titre III
-  - Loi n°70-11 du 2 janvier 1970 - art. 2 (V)
-  - Loi n°73-9 1973-01-04 art. 1
-  - Loi n°77-765 du 12 juillet 1977 - art. 12, v. init.
-  - Loi n°77-765 du 12 juillet 1977 - art. 13 (V)
-  - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
-  - Loi n°80-545 1980-07-17
-  - Loi n°80-834 1980-10-24
-  - Ordonnance 82-283 1982-03-26
-  - Loi n°83-1179 1983-12-29 art. 31 II 1 Finances pour 1984
-  - Ordonnance 86-1134 1986-10-21 art. 28 al. 3
-  - Code du service national - art. L104 (M)
-  - Code du travail - art. L122-14-13 (M)
-  - Code de la santé publique - art. L209-15 (M)
-  - Code de la sécurité sociale L511-1, L831-1 à L831-7
-  - Code de la sécurité sociale. - art. L511-1 (M)
-  - Code des assurances - art. L322-12 (M)
-  - Code des assurances - art. L322-13 (M)
-  - Code des assurances - art. L322-22 (M)
-  - Code de la mutualité - art. L321-9 (M)
-  - Code des pensions militaires d'invalidité et des victimes de la guerre L255 à L257
-  - Code de la construction et de l'habitation L351-1 à  L351-14
-  - Décret n°1939-07-29 art. 63
-  - Loi n°1928-12-30 art. 96
-  - Loi n°1932-09-17 art. 5
-  - Loi n°1936-10-01 art. 1
-  - Loi n°42-652 1942-06-26 art. 6
-  - Ordonnance 1944-09-30
-
-_Cité par_:
-
-  - Arrêté du 28 avril 1987 - art. 4 (V)
-  - Arrêté du 28 avril 1987 - art. 5 (V)
-  - Arrêté du 28 avril 1987 - art. 7 (V)
-  - Arrêté du 25 septembre 2008 - art. (V)
-  - Arrêté du 25 septembre 2008 - art. 4 (V)
-  - Décret n°2016-1184 du 31 août 2016 - art. 3 (V)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (VD)
-  - Ordonnance n°2019-766 du 24 juillet 2019 - art. 3
-  - Arrêté du 24 septembre 2019 - art. 4
-  - Code de l'action sociale et des familles - art. L245-6 (V)
-  - Code de la construction et de l'habitation. - art. L821-8 (VD)
-  - Code de la sécurité sociale. - art. D531-5 (V)
-  - Code de la sécurité sociale. - art. L131-4 (VT)
-  - Code de la sécurité sociale. - art. L131-4-1 (VT)
-  - Code de la sécurité sociale. - art. L136-1-1 (V)
-  - Code de la sécurité sociale. - art. L136-1-3 (VD)
-  - Code de la sécurité sociale. - art. L136-2 (V)
-  - Code de la sécurité sociale. - art. L242-4-2 (VT)
-  - Code du service national - art. L120-22 (V)
-  - Code du travail - art. L3262-6 (V)
-  - Code du travail - art. L3334-8 (V)
-  - Code général des collectivités territoriales - art. L1621-1 (V)
-  - Code général des impôts, CGI. - art. 1391 B ter (V)
-  - Code général des impôts, CGI. - art. 154 bis (VD)
-  - Code général des impôts, CGI. - art. 157 (V)
-  - Code général des impôts, CGI. - art. 158 (VD)
-  - Code général des impôts, CGI. - art. 163 bis E (V)
-  - Code général des impôts, CGI. - art. 1649-0 A (P)
-  - Code général des impôts, CGI. - art. 199 sexdecies (V)
-  - Code général des impôts, CGI. - art. 199 terdecies-0 A (V)
-  - Code général des impôts, CGI. - art. 39 (V)
-  - Code général des impôts, CGI. - art. 80 duodecies (V)
-  - Code général des impôts, CGI. - art. 80 quinquies (V)
-  - Code général des impôts, CGI. - art. 80 sexdecies (V)
-  - Code général des impôts, CGI. - art. 80 undecies A (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 39 (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 6 A (V)
-  - Code rural - art. L741-10-3 (Ab)
-
-_Modifié par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 21 () JORF 28 décembre 1988, incorporé au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
 
 
 ##### 2 : Détermination du revenu imposable.<a id=125></a>
@@ -12738,9 +13069,9 @@ _Cité par_:
 associés n'ayant pas leur domicile fiscal ou leur siège social en France.     Les bénéfices [*réalisés en France par les
 sociétés étrangères, définition*] visés à l'alinéa précédent s'entendent du montant total des résultats, imposables ou
 exonérés, après déduction de l'impôt sur les sociétés.    1 bis Le supplément d'impôt sur les sociétés prévu au c du
-paragraphe I de l'article 219 est dû à raison des sommes qui cessent d'être à la disposition de l'exploitation française dans
-la limite de la somme des bénéfices réputés distribués en application du I au titre des exercices ouverts à compter du 1er
-janvier 1989.
+paragraphe I de l'article 219 est dû à raison des sommes qui cessent d'être à la disposition de l'exploitation française au
+cours des exercices ouverts à compter du 1er janvier 1989 dans la limite de la somme des bénéfices réputés distribués en
+application du I au titre des mêmes exercices.
 
 2  Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de l'article 119
 bis-2 fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le
@@ -12765,7 +13096,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 12 () JORF 28 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 18 IV Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -12877,108 +13208,14 @@ _Cité par_:
   - Livre des procédures fiscales - art. L77 (V)
 
 
-##### 4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation.<a id=140></a>
-
-###### Article 125-0 A
-
-I. Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux placements de même nature sont, lors du
-dénouement du contrat, soumis à l'impôt sur le revenu (1).
-
-Les produits en cause sont constitués par la différence entre les sommes remboursées au bénéficiaire et le montant des primes
-versées.
-
-II. Les dispositions de l'article 125 A, à l'exception du IV de cet article, sont applicables aux produits prévus au I. Le
-taux du prélèvement est fixé :
-
-1° Lorsque le bénéficiaire des produits révèle son identité et son domicile fiscal dans les conditions prévues à l'article
-125 A-III bis-4° :
-
-a. A 45 % lorsque la durée du contrat a été inférieure à deux ans ;
-
-b. A 25 % lorsque cette durée a été égale ou supérieure à deux ans et inférieure à quatre ans ;
-
-c. A 15 % lorsque cette durée a été égale ou supérieure à quatre ans.
-
-Ces produits sont exonérés lorsque la durée du contrat est égale ou supérieure à six ans.
-
-Ces durées s'entendent, pour les contrats à prime unique et les contrats comportant le versement de primes périodiques
-régulièrement échelonnées, de la durée effective du contrat et, dans les autres cas, de la durée moyenne pondérée.
-
-Toutefois, les produits en cause sont exonérés, quelle que soit la durée du contrat, lorsque celui-ci se dénoue par le
-versement d'une rente viagère ou que ce dénouement résulte du licenciement du bénéficiaire des produits ou de sa mise à la
-retraite anticipée ou de son invalidité ou de celle de son conjoint correspondant au classement dans la deuxième ou troisième
-catégorie prévue à l'article L. 341-4 du code de la sécurité sociale ;
-
-2° Dans le cas contraire, à 50 %.
-
-III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et sanctions que celui mentionné à l'article 125
-A. Les dispositions des articles 242 ter-1, 1764 et 1768 bis sont applicables.
-
-(1) Ces dispositions sont applicables aux bons, contrats ou placements souscrits à compter du 1er janvier 1983.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
-
-_Cite_:
-
-  - CGI 125 A III bis 4°, IV
-  - CGI 1764
-  - CGI 1768 bis
-  - CGI 242 ter 1
-  - Code de la sécurité sociale. - art. L341-4 (V)
-
-_Cité par_:
-
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 39 (V)
-  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 9 (M)
-  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 3 (V)
-  - Décret n°2015-1092 du 28 août 2015 - art. 2
-  - Décret n°2016-210 du 26 février 2016 - art. 2
-  - Code de l'action sociale et des familles - art. Annexe 2-3 (V)
-  - Code de l'action sociale et des familles - art. R232-5 (VD)
-  - Code de la mutualité - art. R223-11 (V)
-  - Code de la mutualité - art. R223-12 (VD)
-  - Code de la sécurité sociale. - art. L136-6 (VT)
-  - Code de la sécurité sociale. - art. L136-7 (M)
-  - Code de la sécurité sociale. - art. L136-7 (V)
-  - Code des assurances - art. A134-7 (V)
-  - Code des assurances - art. R132-5-5 (V)
-  - Code des assurances - art. R132-5-6 (V)
-  - Code général des impôts, CGI. - art. 122 (V)
-  - Code général des impôts, CGI. - art. 125 D (V)
-  - Code général des impôts, CGI. - art. 1391 B ter (V)
-  - Code général des impôts, CGI. - art. 1417 (M)
-  - Code général des impôts, CGI. - art. 154 quinquies (VD)
-  - Code général des impôts, CGI. - art. 158 (VD)
-  - Code général des impôts, CGI. - art. 1600-0 J (VT)
-  - Code général des impôts, CGI. - art. 1678 quater (V)
-  - Code général des impôts, CGI. - art. 170 (VT)
-  - Code général des impôts, CGI. - art. 990 A (Ab)
-  - Code général des impôts, CGI. - art. 990 I (VD)
-  - Code général des impôts, CGI. - art. 990 I bis (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 50 decies (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 50 duodecies (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 50 nonies (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 50 undecies (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 188-0 I (VD)
-
-_Modifié par_:
-
-  - Loi n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
-
-
-##### 4 ter : Prélèvement sur les produits de placement à revenu fixe.<a id=141></a>
+##### 4 ter : Prélèvement sur les produits de placement à revenu fixe.<a id=140></a>
 
 ###### Article 125 C
 
 I. Les personnes physiques qui mettent à la disposition de la société dont elles sont associées ou actionnaires des sommes
 portées sur un compte bloqué individuel peuvent, pour l'imposition des intérêts versés au titre de ces sommes, opter pour le
-prélèvement libératoire au taux de 25 % prévu à l'article 125 A sur la partie de ces intérêts rémunérant la fraction de ces
-sommes qui n'excède pas un montant, par associé ou actionnaire, de 200.000 F, et à condition :
+prélèvement libératoire au taux de 15 % (1) prévu à l'article 125 A sur la partie de ces intérêts rémunérant la fraction de
+ces sommes qui n'excède pas un montant, par associé ou actionnaire, de 200.000 F, et à condition :
 
 a. Qu'elles soient incorporées au capital dans un délai maximum de cinq ans à compter de la date de leur dépôt ; dans les
 douze mois suivant leur dépôt, l'assemblée des associés statuant selon les conditions fixées pour la modification des statuts
@@ -12994,6 +13231,8 @@ II. Le non-respect des obligations fixées au I entraîne, nonobstant toutes dis
 des impôts dont ont été dispensés les associés ou actionnaires et la société sans préjudice de l'intérêt de retard prévu à
 l'article 1727 décompté de la date à laquelle ces impôts auraient dû être acquittés.
 
+(1) Ces dispositions s'appliquent aux produits encaissés et aux gains réalisés à compter du 1er janvier 1990 [*date*].
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -13004,16 +13243,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Loi n°89-935 1989-12-29 art. 14 I Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
-##### 5 : Exonérations et régimes spéciaux<a id=142></a>
+##### 5 : Exonérations et régimes spéciaux<a id=141></a>
 
-##### Fonds commun de placement.<a id=143></a>
+##### Fonds commun de placement.<a id=142></a>
 
 ###### Article 137 bis
 
@@ -13053,7 +13288,7 @@ _Modifié par_:
   - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 JANVIER 1983
 
 
-##### Sociétés mères.<a id=144></a>
+##### Sociétés mères.<a id=143></a>
 
 ###### Article 146
 
@@ -13080,7 +13315,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### VII bis : Profits réalisés sur les marchés à terme et sur les marchés d'options négociables.<a id=145></a>
+##### VII bis : Profits réalisés sur les marchés à terme et sur les marchés d'options négociables.<a id=144></a>
 
 ###### Article 150 sexies
 
@@ -13116,68 +13351,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies I (V)
 
 
-##### VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature<a id=146></a>
+##### VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature<a id=145></a>
 
-##### A : Champ d'application.<a id=147></a>
+##### A : Champ d'application.<a id=146></a>
 
-###### Article 150 A bis
-
-Les gains nets retirés de cessions à titre onéreux de valeurs mobilières ou de droits sociaux de sociétés non cotées dont
-l'actif est principalement constitué d'immeubles ou de droits portant sur ces biens relèvent exclusivement du régime
-d'imposition prévu pour les biens immeubles. Pour l'application de cette disposition, ne sont pas pris en considération les
-immeubles affectés par la société à sa propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une
-profession non commerciale (1).
-
-Toutefois les titres des sociétés immobilières pour le commerce et l'industrie non cotées sont assimilés à des titres cotés
-et imposés conformément aux dispositions de l'article 92 C.
-
-En cas d'échange de titres résultant d'une fusion ou d'une scission, l'imposition des gains nets mentionnés au premier alinéa
-est reportée dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160.
-
-1)  Voir Annexe II, art. 74 A bis.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 160 I ter
-  - CGI 92 C
-  - CGIAN2 74 A bis
-
-_Modifié par_:
-
-  - Loi n°86-1317 du 30 décembre 1986 - art. 26 (P) JORF 31 décembre 1986
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 150 UB (V)
-  - Code général des impôts, CGI. - art. 150 VB (V)
-  - Code général des impôts, CGI. - art. 150-0 D (V)
-  - Code général des impôts, CGI. - art. 161 (V)
-  - Code général des impôts, CGI. - art. 238 septies A (V)
-
-
-###### Article 150 A ter
-
-Les dispositions de l'article 150 A s'appliquent à la plus-value résultant de la cession d'un terrain divisé en lots destinés
-à être construits lorsque le contribuable n'a pas la qualité de marchand de biens.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 150 A
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### Exonérations.<a id=148></a>
+##### Exonérations.<a id=147></a>
 
 ###### Article 150 D
 
@@ -13229,7 +13407,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
-##### B: Détermination de la plus-value imposable.<a id=149></a>
+##### B: Détermination de la plus-value imposable.<a id=148></a>
 
 ###### Article 150 M
 
@@ -13246,62 +13424,9 @@ _Modifié par_:
   - Loi n°87-1061 du 30 décembre 1987 - art. 14 (V) JORF 31 décembre 1987
 
 
-##### VIII : Dispositions communes aux différentes catégories de revenus<a id=150></a>
+##### VIII : Dispositions communes aux différentes catégories de revenus<a id=149></a>
 
-##### 1 sexies : Contribuables exerçant leur activité professionnelle dans le cadre d'une société de personnes.<a id=151></a>
-
-###### Article 151 nonies
-
-I. Lorsqu'un contribuable exerce son activité professionnelle dans le cadre d'une société dont les bénéfices sont, en
-application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu dans la catégorie des bénéfices agricoles
-réels, des bénéfices industriels ou commerciaux ou des bénéfices non commerciaux, ses droits ou parts dans la société sont
-considérés notamment pour l'application des articles 38, 72 et 93, comme des éléments d'actif affectés à l'exercice de la
-profession.
-
-II. En cas de transmission à titre gratuit à une personne physique de droits sociaux considérés, en application du I, comme
-des éléments d'actif affectés à l'exercice de la profession, la plus-value n'est pas immédiatement imposée si le bénéficiaire
-de la transmission prend l'engagement de calculer la plus-value réalisée à l'occasion de la cession ou de la transmission
-ultérieure de ces droits par rapport à leur valeur d'acquisition par le précédent associé.
-
-III. En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au paragraphe I ou de sa transformation en
-société passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou
-d'annulation des parts ou actions de l'associé. Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou
-actions de l'associé à une personne physique si celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de
-la cession, du rachat ou de l'annulation de ces parts ou actions.
-
-Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janvier 1988.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 38
-  - CGI 72
-  - CGI 8
-  - CGI 8 ter
-  - CGI 93
-
-_Cité par_:
-
-  - Loi n°81-1160 du 30 décembre 1981 - art. 4 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater E (V)
-  - Code général des impôts, CGI. - art. 151 septies A (M)
-  - Code général des impôts, CGI. - art. 151 sexies (VD)
-  - Code général des impôts, CGI. - art. 1763 (V)
-  - Code général des impôts, CGI. - art. 199 ter B (V)
-  - Code général des impôts, CGI. - art. 210-0 A (V)
-  - Code général des impôts, CGI. - art. 238 quindecies (V)
-  - Code général des impôts, CGI. - art. 244 quater B (VD)
-  - Code général des impôts, CGI. - art. 70 (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E ter (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A ter (V)
-
-_Modifié par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 16 (P) JORF 28 décembre 1988
-
-
-##### 4 : Déduction du salaire du conjoint.<a id=152></a>
+##### 4 : Déduction du salaire du conjoint.<a id=150></a>
 
 ###### Article 154
 
@@ -13344,98 +13469,9 @@ _Cité par_:
   - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
 
 
-##### 4 bis : Cotisations d'assurance maladie et d'assurance maternité des travailleurs non salariés des professions non agricoles.<a id=153></a>
+##### 2me Sous-section : Revenu global<a id=151></a>
 
-###### Article 154 bis
-
-Pour la détermination des bénéfices industriels et commerciaux et des bénéfices des professions non commerciales, les
-cotisations obligatoires de sécurité sociale ainsi que les cotisations volontaires de l'époux du commerçant ou de l'artisan
-qui collabore effectivement à l'activité de son conjoint sans être rémunéré et sans exercer aucune autre activité
-professionnelle sont admises en déduction du bénéfice imposable.
-
-En ce qui concerne les cotisations instituées par application de l'article L. 612-13 du code de la sécurité sociale, un
-décret fixe, le cas échéant, dans quelle proportion elles sont admises dans les charges déductibles au sens du premier
-alinéa.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
-
-_Cité par_:
-
-  - Arrêté du 9 décembre 2016 - art. 4 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
-  - Code de la sécurité sociale. - art. L131-6 (V)
-  - Code de la sécurité sociale. - art. L136-3 (VD)
-  - Code de la sécurité sociale. - art. L871-1 (V)
-  - Code général des impôts, CGI. - art. 154 bis A (VD)
-  - Code général des impôts, CGI. - art. 158 (VD)
-  - Code général des impôts, CGI. - art. 163 quatervicies (M)
-  - Code général des impôts, CGI. - art. 990 I (VD)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DN bis (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DN ter (VD)
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L612-13 (M)
-
-
-##### 6 : Sommes perçues par une personne domiciliée ou établie hors de France.<a id=154></a>
-
-###### Article 155 A
-
-I. Les sommes perçues par une personne domiciliée ou établie hors de France en rémunération de services rendus par une ou
-plusieurs personnes domiciliées ou établies en France sont imposables au nom de ces dernières :
-
-- soit, lorsque celles-ci contrôlent directement ou indirectement la personne qui perçoit la rémunération des services ;
-
-- soit, lorsqu'elles n'établissent pas que cette personne exerce, de manière prépondérante, une activité industrielle ou
-commerciale, autre que la prestation de services ;
-
-- soit, en tout état de cause, lorsque la personne qui perçoit la rémunération des services est domiciliée ou établie dans un
-Etat étranger ou un territoire situé hors de France où elle est soumise à un régime fiscal privilégié au sens mentionné à
-l'article 238 A.
-
-II. Les règles prévues au I ci-dessus sont également applicables aux personnes domiciliées hors de France pour les services
-rendus en France. Dans ce cas, par dérogation aux dispositions des articles 182 A et 182 B, l'impôt est établi dans les
-conditions prévues à l'article 197 A et recouvré par voie de rôle.
-
-III. La personne qui perçoit la rémunération des services est solidairement responsable, à hauteur de cette rémunération, des
-impositions dues par la personne qui les rend.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 182 A
-  - CGI 182 B
-  - CGI 197 A
-  - CGI 238 A
-
-**Liens**:
-
-  - HISTO: JORF 19 JANVIER 1980)
-
-_Modifié par_:
-
-  - Loi n°80-30 du 18 janvier 1980 - art. 71 ()
-
-_Cité par_:
-
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 109 (VD)
-  - Décret n°2017-601 du 21 avril 2017 (V)
-  - Livre des procédures fiscales - art. L10-0 AB (V)
-
-
-##### 2me Sous-section : Revenu global<a id=155></a>
-
-##### I : Revenu imposable.<a id=156></a>
+##### I : Revenu imposable.<a id=152></a>
 
 ###### Article 158 quater
 
@@ -13458,34 +13494,22 @@ exonérées en application du 3° sexies de l'article 208 ;    6° Par les soci�
 proviennent de produits et plus-values nets exonérés en application du 3° septies de l'article 208.    7° Par les personnes
 morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le
 Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de produits nets
-exonérés en application de l'article 208 quinquies.
+exonérés en application de l'article 208 quinquies.    8° Par les sociétés exonérées de précompte dans les conditions prévues
+au 8° du 3 de l'article 223 sexies.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 158 ter, 207 2, 208 1° ter, 1° quater, 1°quinquies, 3° sexies, 3° septies, 208 quinquies
+  - CGI 158 bis, 158 ter, 208 A, 207 2, 208 1° ter, 1° quater, 1° quinquies, 3° quater, 3° quinquies, 3° sexies, 3° septies, 208 quinquies, 223 sexies 3 8°
   - Ordonnance 45-2710 1945-11-02
   - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
-  - Loi n°69-1160 1969-12-24 art. 1 Finances rectificative pour 1969
   - Loi n°86-793 1986-07-02 art. 2 5°
-  - Ordonnance n°86-1113 du 15 octobre 1986 - art. 3, v. init.
-  - Ordonnance n°86-1113 du 15 octobre 1986 - art. 4 (V)
   - Loi n°88-1201 1988-12-23
-
-**Liens**:
-
-  - HISTO: Edition du 14 juillet 1989
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 74 () JORF 28 décembre 1988
-  - Loi n°88-1149 du 23 décembre 1988 - art. 75 (V) JORF 28 décembre 1988
-  - Loi n°88-1201 du 23 décembre 1988 - art. 44 () JORF 31 décembre 1988
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-936 1989-12-29 art. 28 II Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 160 bis
@@ -13509,9 +13533,9 @@ _Codifié par_:
   - Décret n°89-801 1989-10-27
 
 
-##### 2e Sous-section : Revenu global<a id=157></a>
+##### 2e Sous-section : Revenu global<a id=153></a>
 
-##### I : Revenu imposable<a id=158></a>
+##### I : Revenu imposable<a id=154></a>
 
 ###### Article 157 bis
 
@@ -14261,9 +14285,9 @@ _Cite_:
   - Code du travail - art. L351-24 (M)
 
 
-##### b : Détaxation du revenu investi en actions<a id=159></a>
+##### b : Détaxation du revenu investi en actions<a id=155></a>
 
-##### 1° : Régime applicable du 1er juin 1978 au 31 décembre 1981.<a id=160></a>
+##### 1° : Régime applicable du 1er juin 1978 au 31 décembre 1981.<a id=156></a>
 
 ###### Article 163 decies
 
@@ -14519,7 +14543,7 @@ _Anciens textes_:
   - Loi n°78-741 du 13 juillet 1978 - art. 8 (V)
 
 
-##### 2° : Régime applicable du 1er janvier au 31 décembre 1982.<a id=161></a>
+##### 2° : Régime applicable du 1er janvier au 31 décembre 1982.<a id=157></a>
 
 ###### Article 163 quaterdecies
 
@@ -14552,9 +14576,9 @@ _Créé par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 86 (P) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
 
 
-##### Détaxation du revenu investi en actions<a id=162></a>
+##### Détaxation du revenu investi en actions<a id=158></a>
 
-##### Régime applicable aux contribuables nés avant le 1er janvier 1932.<a id=163></a>
+##### Régime applicable aux contribuables nés avant le 1er janvier 1932.<a id=159></a>
 
 ###### Article 163 quindecies
 
@@ -14612,7 +14636,7 @@ _Codifié par_:
   - Décret n°87-940 1987-11-23
 
 
-##### Financement en capital d'oeuvres cinématographiques ou audiovisuelles.<a id=164></a>
+##### Financement en capital d'oeuvres cinématographiques ou audiovisuelles.<a id=160></a>
 
 ###### Article 163 septdecies
 
@@ -14656,7 +14680,7 @@ _Cité par_:
   - HISTO: Edition du 31 juillet 1986
 
 
-##### Créateurs d'entreprises.<a id=165></a>
+##### Créateurs d'entreprises.<a id=161></a>
 
 ###### Article 163 octodecies
 
@@ -14722,7 +14746,7 @@ _Codifié par_:
   - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
 
 
-##### II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France<a id=166></a>
+##### II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France<a id=162></a>
 
 ###### Article 164 A
 
@@ -14743,6 +14767,65 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
+
+
+###### Article 164 B
+
+I Sont considérés comme revenus de source française :
+
+a Les revenus d'immeubles sis en France ou de droits relatifs à ces immeubles;
+
+b Les revenus de valeurs mobilières françaises et de tous autres capitaux mobiliers placés en France;
+
+c Les revenus d'exploitations sises en France;
+
+d Les revenus tirés d'activités professionnelles, salariées ou non, exercées en France ou d'opérations de caractère lucratif
+au sens de l'article 92 et réalisées en France;
+
+e Les plus-values mentionnées à l'article 150 A et les profits tirés d'opérations définies à l'article 35, lorsqu'ils sont
+relatifs à des fonds de commerce exploités en France ainsi qu'à des immeubles situés en France, à des droits immobiliers s'y
+rapportant ou à des actions et parts de sociétés non cotées en bourse dont l'actif est constitué principalement par de tels
+biens et droits;
+
+f Les plus-values mentionnées à l'article 160 et résultant de la cession de droits afférents à des sociétés ayant leur siège
+en France.
+
+g Les sommes, y compris les salaires, payées à compter du 1er janvier 1990, correspondant à des prestations artistiques ou
+sportives fournies ou utilisées en France.
+
+II Sont également considérés comme revenus de source française lorsque le débiteur des revenus a son domicile fiscal ou est
+établi en France :
+
+a Les pensions et rentes viagères;
+
+b Les produits définis à l'article 92 et perçus par les inventeurs ou au titre de droits d'auteur, ceux perçus par les
+obtenteurs de nouvelles variétés végétales au sens de la loi n° 70-489 du 11 juin 1970, ainsi que tous les produits tirés de
+la propriété industrielle ou commerciale et de droits assimilés;
+
+c Les sommes payées en rémunération des prestations de toute nature fournies ou utilisées en France.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 150 A
+  - CGI 160
+  - CGI 35
+  - CGI 92
+  - Loi n°70-489 1970-06-11
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 30 II 3, 5 Finances pour 1990 JORF 30 décembre 1989 modification directe incorporée dans l'édition du 15 juin 1990
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L136-6 (VT)
+  - Code général des impôts, CGI. - art. 160 quater (V)
+  - Code général des impôts, CGI. - art. 200 A (V)
+  - Code général des impôts, CGI. - art. 209 (V)
+  - Code général des impôts, CGI. - art. 244 bis A (V)
+  - Code général des impôts, CGI. - art. 244 bis B (VD)
 
 
 ###### Article 164 C
@@ -14798,7 +14881,7 @@ l'imposition est attribuée à la France par une convention internationale relat
 
 
 
-##### III : Revenus de l'année de l'acquisition d'un domicile en France<a id=167></a>
+##### III : Revenus de l'année de l'acquisition d'un domicile en France<a id=163></a>
 
 ###### Article 166
 
@@ -14807,7 +14890,7 @@ est entraînée par l'établissement du domicile en France ne sont comptés que 
 
 
 
-##### IV : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile hors de France<a id=168></a>
+##### IV : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile hors de France<a id=164></a>
 
 ###### Article 167
 
@@ -14851,9 +14934,161 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2eme Sous-section : Revenu global<a id=169></a>
+##### V : Evaluation forfaitaire minimale du revenu imposable d'après certains éléments du train de vie<a id=165></a>
 
-##### I : Revenu imposable.<a id=170></a>
+###### Article 168
+
+1  En cas de disproportion marquée entre le train de vie d'un contribuable et ses revenus, la base d'imposition à l'impôt sur
+le revenu est portée à une somme forfaitaire déterminée en appliquant à certains éléments de ce train de vie le barème ci-
+après, compte tenu, le cas échéant, de la majoration prévue au 2, lorsque cette somme atteint la limite supérieure de la
+neuvième tranche du barème de l'impôt sur le revenu :
+
+Les éléments dont il est fait état pour la détermination de la base d'imposition sont ceux dont ont disposé, pendant l'année
+de l'imposition, les membres du foyer fiscal désignés à l'article 6-1 et 3.
+
+Pour les éléments dont disposent conjointement plusieurs personnes, la base est fixée proportionnellement aux droits de
+chacune d'entre elles.
+
+Les revenus visés au présent article sont ceux qui résultent de la déclaration du contribuable et, en cas d'absence de
+déclaration, ils sont comptés pour zéro.
+
+2 La somme forfaitaire déterminée en application du barème est majorée de 50 p. 100 lorsqu'elle est supérieure ou égale à
+deux fois la limite supérieure de la neuvième tranche du barème de l'impôt sur le revenu et lorsque le contribuable a disposé
+de plus de six éléments du train de vie figurant au barème.
+
+2 bis  La disproportion marquée entre le train de vie d'un contribuable et ses revenus est établie lorsque la somme
+forfaitaire qui résulte de l'application du barème et des majorations prévus aux 1 et 2 excède d'au moins un tiers, pour
+l'année de l'imposition et l'année précédente, le montant du revenu net global déclaré y compris les revenus exonérés ou
+taxés selon un taux proportionnel ou libérés de l'impôt par l'application d'un prélèvement.
+
+3  Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de son capital ou les emprunts qu'il a contractés
+lui ont permis d'assurer son train de vie.
+
+ELEMENTS DU TRAIN DE VIE 1. Valeur locative cadastrale de la  résidence principale, déduction faite de celle s'appliquant aux
+locaux ayant un caractère professionnel,
+
+BASE : cinq fois la valeur locative cadastrale.
+
+ELEMENTS DU TRAIN DE VIE : 2. Valeur locative cadastrale des résidences secondaires, déduction faite de celle s'appliquant
+aux locaux ayant un caractère professionnel,
+
+BASE : cinq fois la valeur locative cadastrale.
+
+ELEMENTS DU TRAIN DE VIE : 3. Employés de maison, précepteurs, préceptrices, gouvernantes : - pour la première personne âgée
+de moins de 60 ans :
+
+BASE : 30.000 F
+
+- pour chacune des autres personnes :
+
+BASE : 37.500 F
+
+La base ainsi déterminée est réduite de moitié en ce qui concerne les personnes employées principalement pour l'exercice
+d'une profession.
+
+Il n'est pas tenu compte du premier employé de maison.
+
+Il est fait abstraction du second employé de maison lorsque le nombre des personnes âgées de 65 ans ou infirmes vivant sous
+le même toit est de quatre au moins.
+
+ELEMENTS DU TRAIN DE VIE : 4. Voitures automobiles destinées au transport des personnes
+
+BASE : Les trois-quarts de la valeur de la voiture neuve avec abattement de 20 % après un an d'usage et de 10 %
+supplémentaire par année pendant les quatre années suivantes.
+
+Toutefois, la base ainsi déterminée est réduite de moitié en ce qui concerne les voitures appartenant aux pensionnés de
+guerre bénéficiaires du statut des grands invalides, ainsi qu'aux aveugles et grands infirmes civils titulaires de la carte
+d'invalidité prévue à l'article 173 du Code de la famille et de l'aide sociale.
+
+Elle est également réduite de moitié pour les voitures qui sont affectées principalement à un usage professionnel. Cette
+réduction est limitée à un seul véhicule.
+
+ELEMENTS DU TRAIN DE VIE : 5. Motocyclettes de plus de 450 cm3
+
+BASE : La valeur de la motocyclette neuve avec abattement de 50 % après trois ans d'usage.
+
+ELEMENTS DU TRAIN DE VIE : 6. Yachts ou bateaux de plaisance à voiles avec ou sans moteur auxiliaire jaugeant au moins 3
+tonneaux de jauge internationale :
+
+BASE : - pour les trois premiers tonneaux : 7.500 F
+
+- pour chaque tonneau supplémentaire :
+
+- de 4 à 10 tonneaux : 2.250 F
+
+- de 10 à 25 tonneaux : 3.000 F
+
+- au-dessus de 25 tonneaux : 6.000 F
+
+Ce barème est quintuplé pour les bateaux de plaisance battant pavillon d'un pays ou territoire qui n'a pas conclu avec la
+France de convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
+
+Le nombre de tonneaux à prendre en considération est égal au nombre de tonneaux correspondant à la jauge brute sous
+déduction, le cas échéant, d'un abattement pour vétusté égal à 25 %, 50 % ou 75 % suivant que la construction du yacht ou du
+bateau de plaisance a été achevée depuis plus de cinq ans, plus de quinze ans ou plus de vingt-cinq ans. Le tonnage ainsi
+obtenu est arrondi, s'il y a lieu, à l'unité immédiatement inférieure.
+
+ELEMENTS DU TRAIN DE VIE : 7. Bateaux de plaisance à moteur fixe ou hors-bord d'une puissance réelle d'au moins 20 CV :
+
+BASE : - pour les vingt premiers chevaux : 6.000 F
+
+- par cheval-vapeur supplémentaire: 450 F
+
+Toutefois, la puissance n'est comptée que pour 75 %, 50 % ou 25 %, en ce qui concerne les bateaux construits respectivement
+depuis plus de cinq ans, quinze ans et vingt-cinq ans. Ce barème est quintuplé pour les bateaux de plaisance battant pavillon
+d'un pays ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en vue de lutter contre
+la fraude et l'évasion fiscales.
+
+ELEMENTS DU TRAIN DE VIE : 8. Avions de tourisme : par cheval-vapeur de la puissance réelle de chaque avion : BASE : 450 F.
+
+ELEMENTS DU TRAIN DE VIE : 9. Chevaux de course âgés au moins de deux ans au sens de la réglementation concernant les
+courses :
+
+- par cheval de pur sang : BASE : 30 000 F 
+
+- par cheval autre que de pur sang et par trotteur : BASE :
+
+18 000 F
+
+ELEMENTS DU TRAIN DE VIE : 10. Chevaux de selle : par cheval âgé au moins de deux ans à compter du second cheval : BASE :
+9.000 F.
+
+ELEMENTS DU TRAIN DE VIE : 11. Location de droits de chasse et participation dans les sociétés de chasse :
+
+BASE : Deux fois le montant des loyers payés ou des participations versées lorsqu'il dépasse 30 000 F.
+
+ELEMENTS DU TRAIN DE VIE : 12. :  Clubs de golf : participation dans les clubs de golf et abonnements payés en vue de
+disposer de leurs installations :
+
+BASE : Deux fois le montant des sommes versées lorsqu'il dépasse 30 000 F.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 6 1, 3
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 99 1 ,2, 3 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 99
+
+_Cité par_:
+
+  - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
+  - Code de la sécurité sociale. - art. L136-6 (VT)
+  - Code général des impôts, CGI. - art. 1600-0 H (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 168 (V)
+  - Livre des procédures fiscales - art. L63 (V)
+
+_Nouveaux textes_:
+
+  - Livre des procédures fiscales L63 (1 du CGI 168)
+
+
+##### 2eme Sous-section : Revenu global<a id=166></a>
+
+##### I : Revenu imposable.<a id=167></a>
 
 ###### Article 156
 
@@ -15758,7 +15993,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 DGA (V)
 
 
-##### Plan d'épargne en vue de la retraite.<a id=171></a>
+##### Plan d'épargne en vue de la retraite.<a id=168></a>
 
 ###### Article 163 novodecies
 
@@ -15799,402 +16034,7 @@ _Codifié par_:
   - Décret n°88-1001 1988-10-20
 
 
-##### II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France.<a id=172></a>
-
-###### Article 164 B
-
-I Sont considérés comme revenus de source française :
-
-a Les revenus d'immeubles sis en France ou de droits relatifs à ces immeubles;
-
-b Les revenus de valeurs mobilières françaises et de tous autres capitaux mobiliers placés en France;
-
-c Les revenus d'exploitations sises en France;
-
-d Les revenus tirés d'activités professionnelles, salariées ou non, exercées en France ou d'opérations de caractère lucratif
-au sens de l'article 92 et réalisées en France;
-
-e Les plus-values mentionnées à l'article 150 A et les profits tirés d'opérations définies à l'article 35, lorsqu'ils sont
-relatifs à des fonds de commerce exploités en France ainsi qu'à des immeubles situés en France, à des droits immobiliers s'y
-rapportant ou à des actions et parts de sociétés non cotées en bourse dont l'actif est constitué principalement par de tels
-biens et droits;
-
-f Les plus-values mentionnées à l'article 160 et résultant de la cession de droits afférents à des sociétés ayant leur siège
-en France.
-
-II Sont également considérés comme revenus de source française lorsque le débiteur des revenus a son domicile fiscal ou est
-établi en France :
-
-a Les pensions et rentes viagères;
-
-b Les produits définis à l'article 92 et perçus par les inventeurs ou au titre de droits d'auteur, ceux perçus par les
-obtenteurs de nouvelles variétés végétales au sens de la loi n° 70-489 du 11 juin 1970, ainsi que tous les produits tirés de
-la propriété industrielle ou commerciale et de droits assimilés;
-
-c Les sommes payées en rémunération des prestations de toute nature fournies ou utilisées en France (1).
-
-(1) Ces dispositions sont applicables à compter du 1er janvier 1977.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 150 A
-  - CGI 160
-  - CGI 35
-  - CGI 92
-  - Loi n°70-489 1970-06-11
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. L136-6 (VT)
-  - Code général des impôts, CGI. - art. 160 quater (V)
-  - Code général des impôts, CGI. - art. 200 A (V)
-  - Code général des impôts, CGI. - art. 209 (V)
-  - Code général des impôts, CGI. - art. 244 bis A (V)
-  - Code général des impôts, CGI. - art. 244 bis B (VD)
-
-
-##### V : Evaluation forfaitaire minimale du revenu imposable d'après certains éléments du train de vie.<a id=173></a>
-
-###### Article 168
-
-1  En cas de disproportion marquée entre le train de vie d'un contribuable et ses revenus, la base d'imposition à l'impôt sur
-le revenu est portée à une somme forfaitaire déterminée en appliquant à certains éléments de ce train de vie le barème ci-
-après, compte tenu, le cas échéant, de la majoration prévue au 2, lorsque cette somme atteint la limite supérieure de la
-neuvième tranche du barème de l'impôt sur le revenu :
-
-Les éléments dont il est fait état pour la détermination de la base d'imposition sont ceux dont ont disposé, pendant l'année
-de l'imposition, les membres du foyer fiscal désignés à l'article 6-1 et 3.
-
-Pour les éléments dont disposent conjointement plusieurs personnes, la base est fixée proportionnellement aux droits de
-chacune d'entre elles.
-
-Les revenus visés au présent article sont ceux qui résultent de la déclaration du contribuable et, en cas d'absence de
-déclaration, ils sont comptés pour zéro.
-
-2 La somme forfaitaire déterminée en application du barème est majorée de 50 p. 100 lorsqu'elle est supérieure ou égale à
-deux fois la limite supérieure de la neuvième tranche du barème de l'impôt sur le revenu et lorsque le contribuable a disposé
-de plus de six éléments du train de vie figurant au barème.
-
-2 bis  La disproportion marquée entre le train de vie d'un contribuable et ses revenus est établie lorsque la somme
-forfaitaire qui résulte de l'application du barème et des majorations prévus aux 1 et 2 excède d'au moins un tiers, pour
-l'année de l'imposition et l'année précédente, le montant du revenu net global déclaré y compris les revenus exonérés ou
-taxés selon un taux proportionnel ou libérés de l'impôt par l'application d'un prélèvement.
-
-3  Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de son capital ou les emprunts qu'il a contractés
-lui ont permis d'assurer son train de vie.
-
-==============================================================
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ :       ELEMENTS DU TRAIN DE VIE         :        BASE       : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :------------------------------------------------------------: ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : 1. Valeur locative cadastrale de la    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : résidence principale, déduction faite  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : de celle s'appliquant aux locaux ayant :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : un caractère professionnel :           :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   - pour les logements non soumis à la : cinq fois la     :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : limitation des loyers                  : valeur locative   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   - pour les autres logements          : cadastrale.       : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                                        :                   : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : 2. Valeur locative cadastrale des      :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : résidences secondaires, déduction      :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : faite de celle s'appliquant aux locaux :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : ayant un caractère professionnel :     :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   - pour les logements non soumis à la : Cinq fois la     :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : limitation des loyers                  :  valeur locative  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   - pour les autres logements          : cadastrale.       : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                                        :                   : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : 3. Employés de maison, précepteurs,    :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : préceptrices, gouvernantes :           :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : - pour la première personne âgée de    :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : moins de 60 ans                        :      30.000 F     :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : - pour chacune des autres personnes    :      37.500 F     :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   La base ainsi déterminée est réduite :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : de moitié en ce qui concerne les       :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : personnes employées principalement     :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : pour l'exercice d'une profession.      :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   Il n'est pas tenu compte du premier  :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : employé de maison.                     :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   Il est fait abstraction du second    :                    : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : employé de maison lorsque le nombre    :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : des personnes âgées de 65 ans ou       :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : infirmes vivant sous le même toit      :                   :  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : est de quatre au moins.                :                   :  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : 4. Voitures automobiles destinées au   : Les trois-quarts  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : transport des personnes                :  de la valeur de  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   Toutefois, la base ainsi déterminée  :  la voiture neuve : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : est réduite de moitié en ce qui        :  avec abattement  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : concerne les voitures appartenant aux  :  de 20 % après un : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : pensionnés de guerre bénéficiaires du  :  an d'usage et de : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : statut des grands invalides, ainsi     :  10 %             : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : qu'aux aveugles et grands infirmes     :  supplémentaire   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : civils titulaires de la carte          :  par année        : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : d'invalidité prévue à l'article 173 du :  pendant les      : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : Code de la famille et de l'aide        :  quatre années    : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : sociale.                               :  suivantes.       : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   Elle est également réduite de moitié :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : pour les voitures qui sont affectées   :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : principalement à un usage              :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : professionnel. Cette réduction est     :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : limitée à un seul véhicule.            :                   : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : 5. Motocyclettes de plus de 450 cm3    : La valeur de la   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                                        :  motocyclette     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                                        :  neuve avec       : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                                        :  abattement de    : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                                        :  50 % après trois : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                                        :  ans d'usage.     : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : 6. Yachts ou bateaux de plaisance à    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : voiles avec ou sans moteur auxiliaire  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : jaugeant au moins 3 tonneaux de jauge  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : internationale :                       :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : - pour les trois premiers tonneaux     :       7.500 F     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : - pour chaque tonneau supplémentaire : :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   - de 4 à 10 tonneaux                 :       2.250 F     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   - de 10 à 25 tonneaux                :       3.000 F     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   - au-dessus de 25 tonneaux           :       6.000 F     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   Ce barème est quintuplé pour les     :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : bateaux de plaisance battant pavillon  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : d'un pays ou territoire qui n'a pas    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : conclu avec la France de convention    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : d'assistance administrative en vue de  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : lutter contre la fraude et l'évasion   :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : fiscales.                              :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   Le nombre de tonneaux à prendre en   :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : considération est égal au nombre de    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : tonneaux correspondant à la jauge      :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : brute sous déduction, le cas échéant,  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : d'un abattement pour vétusté égal à    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : 25 %, 50 % ou 75 % suivant que la      :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : construction du yacht ou du bateau de  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : plaisance a été achevée depuis plus de :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : cinq ans, plus de quinze ans ou plus   :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : de vingt-cinq ans. Le tonnage  :                   :         ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : ainsi obtenu est arrondi, s'il y a     :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : lieu, à l'unité immédiatement          :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : inférieure.                            :                   : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : 7. Bateaux de plaisance à moteur fixe  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : ou hors-bord d'une puissance réelle    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : d'au moins 20 CV :                     :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : - pour les vingt premiers chevaux      :       6.000 F     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : - par cheval-vapeur supplémentaire     :         450 F     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   Toutefois, la puissance n'est        :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : comptée que pour 75 %, 50 % ou 25 %,   :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : en ce qui concerne les bateaux         :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : construits respectivement depuis plus  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : de cinq ans, quinze ans et vingt-cinq  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : ans.                                   :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :   Ce barème est quintuplé pour les     :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : bateaux de plaisance battant pavillon  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : d'un pays ou territoire qui n'a pas    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : conclu avec la France de convention    :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : d'assistance administrative en vue de  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : lutter contre la fraude et l'évasion   :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : fiscales.                              :                   : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : 8. Avions de tourisme : par            :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : cheval-vapeur de la puissance réelle   :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : de chaque avion                        :         450 F     : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-: 9. (Abrogé).                           :                   ::
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : 10. Chevaux de selle : par cheval âgé  :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : au moins de deux ans à compter du      :                   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : second cheval                          :       9.000 F     : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-: 11. 12. (Abrogé)                       :                   :
-
-==============================================================
-
-Toutefois, lorsque la différence entre la base d'imposition forfaitaire résultant de l'application des dispositions qui
-précèdent et le revenu déclaré provient, en totalité ou en partie, du fait que le contribuable a disposé de revenus
-expressément exonérés de l'impôt sur le revenu par une disposition particulière, l'intéressé peut, à condition d'en apporter
-la preuve, obtenir que la base d'imposition forfaitaire soit diminuée du montant desdits revenus exonérés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 6 1, 3
-
-_Modifié par_:
-
-  - Loi n°86-1317 du 30 décembre 1986 - art. 82 ()
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
-
-_Cité par_:
-
-  - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
-  - Code de la sécurité sociale. - art. L136-6 (VT)
-  - Code général des impôts, CGI. - art. 1600-0 H (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 168 (V)
-  - Livre des procédures fiscales - art. L63 (V)
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales L63 (1 du CGI 168)
-
-
-##### Section III : Déclarations des contribuables<a id=174></a>
+##### Section III : Déclarations des contribuables<a id=169></a>
 
 ###### Article 170
 
@@ -16518,9 +16358,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L55 (V)
 
 
-##### Section V : Calcul de l'impôt<a id=175></a>
+##### Section V : Calcul de l'impôt<a id=170></a>
 
-##### I : Retenue à la source de l'impôt sur le revenu<a id=176></a>
+##### I : Retenue à la source de l'impôt sur le revenu<a id=171></a>
 
 ###### Article 182 A
 
@@ -16586,20 +16426,25 @@ _Cite_:
 
 ###### Article 182 B
 
-I  Donnent lieu à l'application d'une retenue à la source lorsqu'ils sont payés par un débiteur établi en France à des
-personnes ou des sociétés, relevant de l'impôt sur le revenu ou de l'impôt sur les sociétés, qui n'ont pas dans ce pays
-d'installation professionnelle permanente :
+I  Donnent lieu à l'application d'une retenue à la source lorsqu'ils sont payés par un débiteur qui exerce une activité en
+France à des personnes ou des sociétés, relevant de l'impôt sur le revenu ou de l'impôt sur les sociétés, qui n'ont pas dans
+ce pays d'installation professionnelle permanente :
 
-a  Les sommes versées en rémunération d'une activité déployée en France dans l'exercice de l'une des professions mentionnées
+a. Les sommes versées en rémunération d'une activité déployée en France dans l'exercice de l'une des professions mentionnées
 à l'article 92 ;
 
-b  Les produits définis à l'article 92 et perçus par les inventeurs ou au titre de droits d'auteur, ceux perçus par les
+b. Les produits définis à l'article 92 et perçus par les inventeurs ou au titre de droits d'auteur, ceux perçus par les
 obtenteurs de nouvelles variétés végétales au sens de la loi n° 70-489 du 11 juin 1970, ainsi que tous produits tirés de la
 propriété industrielle ou commerciale et de droits assimilés;
 
-c  Les sommes payées en rémunération des prestations de toute nature fournies ou utilisées en France.
+c. Les sommes payées en rémunération des prestations de toute nature fournies ou utilisées en France.
+
+d. Les sommes, y compris les salaires, payées à compter du 1er janvier 1990, correspondant à des prestations artistiques ou
+sportives fournies ou utilisées en France, nonobstant les dispositions de l'article 182 A ;
 
 II  Le taux de la retenue est fixé à 33 1/3 %.
+
+Il est ramené à 15 p. 100 pour les rémunérations visées au d du paragraphe I (1 ).
 
 La retenue s'impute sur le montant de l'impôt sur le revenu établi dans les conditions prévues à l'article 197 A.
 
@@ -16607,6 +16452,7 @@ La retenue s'impute sur le montant de l'impôt sur le revenu établi dans les co
 
 _Cite_:
 
+  - CGI 182 A
   - CGI 197 A
   - CGI 92
   - Loi n°70-489 1970-06-11
@@ -16614,7 +16460,10 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: CGI 219 quinquies
-  - HISTO: EDITION 1979-07-01
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 30 II 1, 3 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -16627,26 +16476,29 @@ _Cité par_:
 
 ###### Article 187
 
-1 Le taux de la retenue à la source prévue à l'article 119 bis est fixé :
+1. Le taux de la retenue à la source prévue à l'article 119 bis est fixé à :
 
-- à 12 % pour les intérêts des obligations négociables ; toutefois ce taux est fixé à 10 % pour les revenus visés à l'article
-118-1° et afférents à des valeurs émises à compter du 1er janvier 1965 ainsi que pour les lots et primes de remboursement
-visés au 2° de l'article 118 et afférents à des valeurs émises à compter du 1er janvier 1986 ;
+- 12 % pour les intérêts des obligations négociables ; toutefois ce taux est fixé à 10 % pour les revenus visés au 1° de
+l'article 118 et afférents à des valeurs émises à compter du 1er janvier 1965  ainsi que pour les lots et primes de
+remboursement visés au 2° de l'article 118 et afférents à des valeurs émises à compter du 1er janvier 1986 ;
 
-- à 25 % pour tous les autres revenus.
+- 25 % pour tous les autres revenus.
 
-2 (Abrogé)
+Ce taux est porté à 50 p. 100 pour les dividendes mentionnés au 8° du 3 de l'article 223 sexies lorsqu'ils sont versés à des
+personnes dont le domicile fiscal ou le siège de direction effective est situé dans un pays ou territoire hors République
+française, n'ayant pas conclu avec la France de convention fiscale en vue d'éviter les doubles impositions.
+
+2. (Abrogé)
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 118
-  - CGI 119 bis
+  - CGI 119 bis, 118, 223 sexies
 
 _Modifié par_:
 
-  - Loi n°85-1403 du 30 décembre 1985 - art. 63 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
+  - Loi n°89-936 1989-12-29 art. 28 IV Finances rectificative pour 1989 JORF 30 décembre 1989
 
 _Cité par_:
 
@@ -16654,8 +16506,12 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1649-0 A (P)
   - Code général des impôts, CGI. - art. 1783 A (VD)
 
+**Liens**:
 
-##### II : Impôt sur le revenu<a id=177></a>
+  - HISTO: Edition du 15 juin 1990
+
+
+##### II : Impôt sur le revenu<a id=172></a>
 
 ###### Article 193
 
@@ -16959,10 +16815,10 @@ Le contribuable qui accepte le rattachement des personnes désignées à l'artic
 de quotient familial par personne ainsi rattachée.
 
 Si la personne rattachée est mariée ou a des enfants à charge, l'avantage fiscal accordé au contribuable prend la forme d'un
-abattement de 20.110 F sur son revenu global net par personne ainsi prise en charge (1).
+abattement de 20.780 F sur son revenu global net par personne ainsi prise en charge (1).
 
-(1) Chiffre applicable pour l'imposition des revenus de 1988. Ce chiffre était de 19.600 F pour l'imposition des revenus de
-1987.
+(1) Chiffre applicable pour l'imposition des revenus de 1989. Ce chiffre était de 20.110 F pour l'imposition des revenus de
+1988.
 
 **Liens relatifs à cet article**
 
@@ -16972,7 +16828,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 3 (P) JORF 28 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 2 II, VI Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -17158,13 +17014,11 @@ Les règles de l'article 197-I sont applicables pour le calcul de l'impôt sur l
 leur domicile fiscal en France :
 
 a Perçoivent des revenus de source française ; l'impôt ne peut, en ce cas, être inférieur à 25 % du revenu net imposable ou à
-18 % pour les revenus ayant leur source dans les départements d'outre-mer ; ces taux minima d'imposition ne sont toutefois
-pas applicables aux personnes qui peuvent justifier que l'impôt français sur leur revenu global serait inférieur à celui
-résultant de l'application de ces taux minima ;
+18 % pour les revenus ayant leur source dans les départements d'outre-mer ;  toutefois, lorsque le contribuable justifie que
+le taux de l'impôt français sur l'ensemble de ses revenus de source française ou étrangère serait inférieur à ces minima, ce
+taux est applicable à ses revenus de source française.
 
-b Disposent en France d'une ou plusieurs habitations et sont imposables à ce titre, en vertu de l'article 164 C (1).
-
-1) Dispositions applicables à compter du 1er janvier 1977.
+b Disposent en France d'une ou plusieurs habitations et sont imposables à ce titre, en vertu de l'article 164 C.
 
 **Liens relatifs à cet article**
 
@@ -17172,6 +17026,10 @@ _Cite_:
 
   - CGI 164 C
   - CGI 197 I
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 30 II 4 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -17188,10 +17046,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 204 J (V)
   - Code général des impôts, CGI. - art. 204 M (VD)
   - Code général des impôts, CGI. - art. 244 bis B (M)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 197 B
@@ -17257,7 +17111,7 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-##### 1° : Imputation des retenues à la source et crédits d'impôt<a id=178></a>
+##### 1° : Imputation des retenues à la source et crédits d'impôt<a id=173></a>
 
 ###### Article 199 quater A
 
@@ -17314,7 +17168,7 @@ _Modifié par_:
   - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 janvier 1983
 
 
-##### Imputation des retenues à la source et crédits d'impôt.<a id=179></a>
+##### Imputation des retenues à la source et crédits d'impôt.<a id=174></a>
 
 ###### Article 199 ter
 
@@ -17405,10 +17259,10 @@ I. Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quat
 le contribuable au titre de l'année au cours de laquelle il a accru ses dépenses de recherche. S'il excède l'impôt dû,
 l'excédent est restitué (1).
 
-II. Lorsque les dépenses de recherche exposées au cours d'une année sont inférieures à celles exposées au cours de l'année
-précédente et revalorisées comme indiqué à l'article 244 quater B-I, il est pratiqué dans la limite des crédits d'impôts
-antérieurement obtenus, une imputation égale à 25 % du montant de la différence sur le ou les crédits d'impôts suivants. Ce
-pourcentage est porté à 50 p. 100 pour les dépenses exposées au cours des années 1986 et suivantes.
+II. Lorsque les dépenses de recherche exposées au cours d'une année sont inférieures à la moyenne de celles exposées au cours
+des deux années précédentes et revalorisées comme indiqué à l'article 244 quater B-I, il est pratiqué dans la limite des
+crédits d'impôts antérieurement obtenus, une imputation égale à 25 % du montant de la différence sur le ou les crédits
+d'impôts suivants. Ce pourcentage est porté à 50 p. 100 pour les dépenses exposées au cours des années 1986 et suivantes.
 
 III. Pour l'application du crédit d'impôt prévu au V de l'article 244 quater B, lorsque les dépenses de recherche exposées au
 cours d'une année sont inférieures aux dépenses exposées en 1987 revalorisées comme prévu à cet article, les crédits d'impôt
@@ -17425,12 +17279,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-1060 1987-12-30 art. 7 II, III  Finances pour 1988 JORF 31 décembre 1987
-  - Loi n°87-1060 du 30 décembre 1987 - art. 7 (P) JORF 31 décembre 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Loi n°89-935 1989-12-29 art. 20 II, V Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -17474,7 +17323,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies T (V)
 
 
-##### Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés.<a id=180></a>
+##### Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés.<a id=175></a>
 
 ###### Article 199 quater B
 
@@ -17520,7 +17369,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 93 (V)
 
 
-##### Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales.<a id=181></a>
+##### Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales.<a id=176></a>
 
 ###### Article 199 quater C
 
@@ -17571,19 +17420,20 @@ _Cité par_:
   - HISTO: Edition du 14 juillet 1989
 
 
-##### Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.<a id=182></a>
+##### Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.<a id=177></a>
 
 ###### Article 199 quater D
 
 Les contribuables célibataires, veufs ou divorcés domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une
 réduction de leur impôt sur le revenu égale à 25 p. 100 des dépenses nécessitées par la garde des enfants âgés de moins de
 six ans qu'ils ont à leur charge. Le montant global des dépenses à retenir pour le calcul de la réduction d'impôt est limité
-à 13 000 F par enfant, sans pouvoir excéder le montant des revenus professionnels net de frais. Le II de l'article 199 sexies
+à 15.000 F par enfant, sans pouvoir excéder le montant des revenus professionnels net de frais. Le II de l'article 199 sexies
 A est applicable.
 
 La même possibilité est ouverte, sous les mêmes conditions et dans les mêmes limites, aux foyers fiscaux dont les conjoints
 justifient, soit de deux emplois à plein temps, soit d'un emploi à plein temps et d'un emploi à mi-temps, soit de deux
-emplois à mi-temps, ou ne peuvent exercer leur emploi du fait d'une longue maladie ou d'une infirmité.
+emplois à mi-temps, ou ne peuvent exercer une activité professionnelle du fait d'une longue maladie, d'une infirmité ou de la
+poursuite d'études dans l'enseignement supérieur.
 
 **Liens relatifs à cet article**
 
@@ -17592,21 +17442,16 @@ _Cite_:
   - CGI 199 sexies A
   - CGI 4 B
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°88-1149 1988-12-23 art. 4 I, 5 Finances pour 1989 JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
-  - Loi n°88-1149 du 23 décembre 1988 - art. 4 () JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-935 1989-12-29 art. 2 IV, V Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. D531-24 (M)
 
 
-##### Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.<a id=183></a>
+##### Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.<a id=178></a>
 
 ###### Article 199 quinquies
 
@@ -17907,7 +17752,7 @@ _Codifié par_:
   - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
 
 
-##### Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.<a id=184></a>
+##### Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.<a id=179></a>
 
 ###### Article 199 sexies
 
@@ -17939,6 +17784,10 @@ l'article 1729 ;
 
 c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux compris dans des exploitations agricoles et affectés
 à l'habitation des propriétaires exploitants ;
+
+d. Pour les prêts contractés et les dépenses payées à compter du 1er janvier 1990, les réductions d'impôt prévues aux a, b et
+c s'appliquent aux contribuables dont le revenu net imposable par part n'excède pas la limite inférieure de la douzième
+tranche du barème de l'impôt sur le revenu.
 
 2° a. Dépenses effectuées par un contribuable pour sa résidence principale, qu'il en soit ou non propriétaire, lorsque ces
 dépenses ont pour objet d'améliorer l'isolation thermique ou la mesure et la régulation du chauffage, ou encore de remplacer
@@ -17977,11 +17826,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 13
 
 
 ###### Article 199 sexies A
@@ -18045,7 +17890,7 @@ réduction est égale à 25 % du montant de ces dépenses.
 Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne peut excéder au cours de la période définie au
 premier alinéa la somme de 8.000 F [*montant*] pour une personne célibataire, veuve ou divorcée et de 16.000 F pour un couple
 marié. Cette somme est majorée de 2.000 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est fixée
-à 2.500 F pour le second enfant et à 3.000 F pour le troisième.
+à 2.500 F pour le second enfant et à 3.000 F par enfant à partir du troisième.
 
 Au titre d'une année, les dépenses ouvrant droit à réduction d'impôt sont limitées à la moitié des montants définis à
 l'alinéa précédent ; l'excédent ouvre droit à réduction d'impôt au titre de l'année suivante. 
@@ -18059,6 +17904,28 @@ II. Lorsque, pour une opération déterminée, le contribuable opte pour l'appli
 intérêts des emprunts contractés à compter du 1er janvier 1985 pour financer les dépenses de grosses réparations afférentes à
 la résidence principale n'ouvrent pas droit à la réduction d'impôt prévue à l'article 199 sexies-1°-a.
 
+III. a) La réduction mentionnée au paragraphe I bénéficie sous les mêmes conditions, aux dépenses payées du 1er janvier 1990
+au 31 décembre 1992 par les contribuables dont le revenu net imposable par part n'excède pas la limite inférieure de la
+douzième tranche du barème de l'impôt.
+
+Les dépenses ouvrant droit à cette réduction sont limitées, au cours de cette période, aux montants prévus au deuxième alinéa
+du paragraphe I.
+
+Les dépenses de 1989 et 1990 qui ouvrent droit à réduction d'impôt au titre de 1990 sont limitées à la moitié des montants
+définis à l'alinéa précédent.
+
+b) La réduction prévue au a s'applique aux dépenses qui ont pour objet d'améliorer l'isolation thermique si l'immeuble a été
+achevé avant le 1er janvier 1982.
+
+La liste des travaux et matériaux ouvrant droit à réduction d'impôt est fixée par arrêté ministériel.
+
+c) Lorsque le bénéficiaire de la réduction d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des
+dépenses qui ont ouvert droit à cet avantage, il fait l'objet au titre de l'année du remboursement d'une majoration de son
+impôt sur le revenu égale à 25 p. 100 de la somme remboursée, dans la limite de la réduction obtenue.
+
+Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
+dépenses ont été payées.
+
 [*(1) Cette disposition prend effet pour les dépenses payées à compter du 1er janvier 1987.*]
 
 **Liens relatifs à cet article**
@@ -18071,12 +17938,17 @@ _Cite_:
   - CGI 199 sexies 1° b, a
   - CGI 199 sexies A II
 
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1990-06-15 5B-22-90
+
 _Modifié par_:
 
-  - Loi n°86-1317 du 30 décembre 1986 - art. 24 (P) JORF 31 décembre 1986 en vigueur le 1er janvier 1987
+  - Loi n°89-935 1989-12-29 art. 114 I, II Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-936 du 29 décembre 1989 - art. 114 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
-##### 9° : Réduction d'impôt accordée au titre de certaines primes d'assurances<a id=185></a>
+##### 9° : Réduction d'impôt accordée au titre de certaines primes d'assurances<a id=180></a>
 
 ###### Article 199 septies B
 
@@ -18103,7 +17975,7 @@ _Abrogé par_:
   - Loi - art. 83 (V) JORF 31 décembre 2003
 
 
-##### Réduction d'impôt accordée au titre de certaines primes d'assurances.<a id=186></a>
+##### Réduction d'impôt accordée au titre de certaines primes d'assurances.<a id=181></a>
 
 ###### Article 199 septies
 
@@ -18218,7 +18090,7 @@ _Créé par_:
   - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
 
 
-##### Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux.<a id=187></a>
+##### Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux.<a id=182></a>
 
 ###### Article 199 octies
 
@@ -18285,7 +18157,7 @@ _Créé par_:
   - Loi n°83-1179 du 29 décembre 1983 - art. 76 () JORF 30 décembre 1983
 
 
-##### Réduction d'impôt accordée au titre des investissements immobiliers locatifs.<a id=188></a>
+##### Réduction d'impôt accordée au titre des investissements immobiliers locatifs.<a id=183></a>
 
 ###### Article 199 decies
 
@@ -18408,7 +18280,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 31 (VT)
 
 
-##### Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.<a id=189></a>
+##### Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.<a id=184></a>
 
 ###### Article 199 undecies
 
@@ -18489,7 +18361,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexies (V)
 
 
-##### Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles<a id=190></a>
+##### Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles<a id=185></a>
 
 ###### Article 199 duodecies
 
@@ -18557,28 +18429,35 @@ _Modifié par_:
   - Loi n°88-1149 du 23 décembre 1988 - art. 72 (P) JORF 28 décembre 1988
 
 
-##### 15° ter : Réduction d'impôt accordée au titre de l'aide à domicile et de l'hébergement en établissement de long séjour.<a id=191></a>
+##### 15° ter : Réduction d'impôt accordée au titre de l'aide à domicile et de l'hébergement en établissement de long séjour.<a id=186></a>
 
 ###### Article 199 quaterdecies
 
 I. Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, les sommes versées pour
 l'emploi d'une aide à domicile par les contribuables qui :
 
-" a) Sont âgés de plus de soixante-dix ans et vivent seuls ou, s'il s'agit de couples, vivent sous leur propre toit ;
+a) Sont âgés de plus de soixante-dix ans et vivent seuls ou, s'il s'agit de couples, vivent sous leur propre toit ;
 
-" b) Ou sont titulaires de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;
+b) Ou sont titulaires de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;
 
-" c) Ou ont à charge un enfant ouvrant droit au complément de l'allocation d'éducation spéciale mentionné à l'article L.
-541-1 du code de la sécurité sociale, ouvrent droit à une réduction d'impôt sur le revenu égale à 25 p. 100 de leur montant.
-Le montant global des dépenses à retenir pour le calcul de la réduction d'impôt est limité à 13 000 F. Le II de l'article 199
+c) Ou ont à charge un enfant ouvrant droit au complément de l'allocation d'éducation spéciale mentionné à l'article L. 541-1
+du code de la sécurité sociale, ouvrent droit à une réduction d'impôt sur le revenu égale à 25 p. 100 de leur montant. Le
+montant global des dépenses à retenir pour le calcul de la réduction d'impôt est limité à 13 000 F. Le II de l'article 199
 sexies A est applicable.
 
-" Les personnes qui n'ont pas leur domicile fiscal en France au sens de l'article 4 B ne bénéficient pas de cette réduction
+Les personnes qui n'ont pas leur domicile fiscal en France au sens de l'article 4 B ne bénéficient pas de cette réduction
 d'impôt.
 
-" II. - A compter de l'imposition des revenus de 1989, les contribuables mariés peuvent bénéficier de la réduction d'impôt
-prévue au I à raison des dépenses nécessitées par l'hébergement dans un établissement de long séjour ou une section de cure
-médicale d'un des conjoints âgés de plus de soixante-dix ans.
+d) Sont âgés de plus de soixante-dix ans et sont accueillis par des personnes qui sont tenues envers eux à l'obligation
+alimentaire résultant des articles 205 à 211 du code civil. Cette disposition est applicable à compter de l'imposition des
+revenus de 1990. "
+
+II. A compter de l'imposition des revenus de 1989, les contribuables mariés peuvent bénéficier de la réduction d'impôt prévue
+au I à raison des dépenses nécessitées par l'hébergement dans un établissement de long séjour ou une section de cure médicale
+d'un des conjoints âgés de plus de soixante-dix ans.
+
+III.  A compter de l'imposition des revenus de 1990, les dépenses mentionnées aux paragraphes I et II sont retenues chacune
+dans la limite de 13 000 F.
 
 **Liens relatifs à cet article**
 
@@ -18586,20 +18465,17 @@ _Cite_:
 
   - CGI 199 sexies A II
   - CGI 4 B
+  - Code civil 205 à 211
   - Code de la famille et de l'aide sociale. - art. 173 (M)
   - Code de la sécurité sociale. - art. L541-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°88-1149 1988-12-23 art. 4 II, 6 Finances pour 1989 JORF 28 décembre 1989, incorporée au code le 14 juillet 1989
-  - Loi n°88-1149 du 23 décembre 1988 - art. 4 () JORF 28 décembre 1989, incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-936 du 29 décembre 1989 - art. 96 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-936 du 29 décembre 1989 - art. 97 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
-##### Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles.<a id=192></a>
+##### Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles.<a id=187></a>
 
 ###### Article 199 terdecies
 
@@ -18678,7 +18554,7 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
 
 
-##### IV : Imposition des gains nets réalisés à l'occasion de cessions de valeurs mobilières et de droits sociaux<a id=193></a>
+##### IV : Imposition des gains nets réalisés à l'occasion de cessions de valeurs mobilières et de droits sociaux<a id=188></a>
 
 ###### Article 200 A
 
@@ -18729,7 +18605,7 @@ _Cité par_:
   - Code monétaire et financier - art. D221-113-1 (V)
 
 
-##### Section VI : Dispositions spéciales applicables en cas de cession, de cessation ou de décès<a id=194></a>
+##### Section VI : Dispositions spéciales applicables en cas de cession, de cessation ou de décès<a id=189></a>
 
 ###### Article 201
 
@@ -18896,7 +18772,7 @@ _Cité par_:
 
 En cas de cession ou de cessation de l'entreprise, les plus-values mentionnées à l'article 151 septies du présent code ne
 sont exonérées que si les recettes de l'année de réalisation, ramenées le cas échéant à douze mois, et celles de l'année
-précédente ne dépassent pas les limites de l'évaluation administrative ou du forfait.
+précédente ne dépassent pas le double des limites de l'évaluation administrative ou du forfait.
 
 **Liens relatifs à cet article**
 
@@ -18904,9 +18780,47 @@ _Cite_:
 
   - CGI 151 septies
 
+**Liens**:
+
+  - HISTO: Edition du 15 juin 1990
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 16 II 1 Finances rectificative pour 1989 JORF 30 décembre 1989
+
+
+###### Article 202 ter
+
+L'impôt sur le revenu est établi dans les conditions prévues à l'article 201 lorsque les sociétés ou organismes placés sous
+le régime des sociétés de personnes défini aux articles 8 à 8 ter cessent d'être soumis à ce régime ou s'ils changent leur
+objet social ou leur activité réelle ou lorsque les personnes morales mentionnées aux articles 238 ter, 239 quater A, 239
+quater B, 239 quater C, 239 septies et au paragraphe I des articles 239 quater et 239 quinquies deviennent passibles de
+l'impôt sur les sociétés.
+
+Toutefois en l'absence de création d'une personne morale nouvelle, les bénéfices en sursis d'imposition et les plus-values
+latentes incluses dans l'actif social ne font pas l'objet d'une imposition immédiate à la double condition qu'aucune
+modification ne soit apportée aux écritures comptables et que l'imposition desdits bénéfices et plus-values demeure possible
+sous le nouveau régime fiscal applicable à la société ou à l'organisme concerné.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 201, 238 ter, 239 quater A, 239 quater B, 239 quater C, 239 septies, 239 quater, 239 quinquies
+
 _Créé par_:
 
-  - Loi n°85-1404 du 30 décembre 1985 - art. 10 () JORF 31 décembre 1985
+  - Loi n°89-936 1989-12-29 art. 16 III 3 Finances rectificative pour 1989 JORF 30 décembre 1989, article créé directement et incorporé dans l'édition du 15 juin 1990
+
+_Cité par_:
+
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 36 (V)
+  - Code général des impôts, CGI. - art. 151 octies C (V)
+  - Code général des impôts, CGI. - art. 202 quater (V)
+  - Code général des impôts, CGI. - art. 202 ter A (V)
+  - Code général des impôts, CGI. - art. 239 quater C (V)
+  - Code général des impôts, CGI. - art. 39 duodecies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 E (V)
 
 
 ###### Article 203
@@ -18986,7 +18900,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 bis E (V)
 
 
-#### Chapitre I ter : Contribution complémentaire à l'impôt sur le revenu.<a id=195></a>
+#### Chapitre I ter : Contribution complémentaire à l'impôt sur le revenu.<a id=190></a>
 
 ###### Article 204 A
 
@@ -19080,9 +18994,9 @@ _Cité par_:
   - HISTO: Edition du 31 mars 1999
 
 
-#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales<a id=196></a>
+#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales<a id=191></a>
 
-##### Section I : Généralités<a id=197></a>
+##### Section I : Généralités<a id=192></a>
 
 ###### Article 205
 
@@ -19103,9 +19017,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 206 (V)
 
 
-##### Section II : Champ d'application de l'impôt<a id=198></a>
+##### Section II : Champ d'application de l'impôt<a id=193></a>
 
-##### I : Sociétés et collectivités imposables.<a id=199></a>
+##### I : Sociétés et collectivités imposables.<a id=194></a>
 
 ###### Article 206
 
@@ -19311,7 +19225,7 @@ _Cité par_:
   - Code monétaire et financier - art. L221-3 (V)
 
 
-##### II : Exonérations et régimes particuliers.<a id=200></a>
+##### II : Exonérations et régimes particuliers.<a id=195></a>
 
 ###### Article 207
 
@@ -19696,9 +19610,7 @@ n'est pas inférieur à un minimum fixé par décret (1), et qui procèdent, au 
 leurs actionnaires de la totalité des bénéfices qui, en vertu de l'article 9 modifié de l'ordonnance n° 45-2710 du 2 novembre
 1945, peuvent être distribués quel que soit le montant des réserves [*conditions d'exonération de l'impôt sur les sociétés*].
 
-Le bénéfice des dispositions du 1° bis A de l'article 208 est réservé aux sociétés d'investissement à capital variable
-[*SICAV*] qui distribuent ou s'engagent à distribuer au titre de chaque exercice l'intégralité des sommes distribuables
-calculées conformément à l'article 31 de la loi n° 88 -1201 du 23 décembre 1988.
+(Abrogé).
 
 (1) Voir annexe 3 art. 46 quater A à 46 quater C.
 
@@ -19709,15 +19621,10 @@ _Cite_:
   - CGI 208 1°, 1° bis, 1° bis A, 2°
   - CGIAN3 46 quater A à CGIAN3 46 quater C
   - Ordonnance 45-2710 1945-11-02 art. 9 modifiée
-  - Loi n°88-1201 du 23 décembre 1988 - art. 31 (MMN)
 
 _Modifié par_:
 
-  - Loi n°88-1201 du 23 décembre 1988 - art. 44 () JORF 31 décembre 1988 incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-935 1989-12-29 art. 16 I, III Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -20033,7 +19940,7 @@ _Créé par_:
   - Loi n°82-1152 du 30 décembre 1982 - art. 24 (V) JORF 31 décembre 1982
 
 
-##### Section III : Détermination du bénéfice imposable<a id=201></a>
+##### Section III : Détermination du bénéfice imposable<a id=196></a>
 
 ###### Article 209
 
@@ -20504,24 +20411,23 @@ application du 3° septies de l'article 208.
 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de
 produits nets exonérés en application de l'article 208 quinquies.
 
+8° Par les sociétés exonérées de précompte dans les conditions prévues au 8° du 3 de l'article 223 sexies.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 207 2
-  - CGI 208 1° ter, 1° quater, 1° quinquies, 3° quater, 3° sexies, 3 septies
+  - CGI 208 1° ter, 1° quater, 1° quinquies, 3° quater, 3° quinquies, 3° sexies, 3 septies
   - CGI 208 A
   - CGI 209 bis 1
+  - CGI 223 sexies 3 8°
   - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
   - Loi n°86-793 1986-07-02 art. 2 5°
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 12 () JORF 28 décembre 1988
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-936 1989-12-29 art. 28 II Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 210
@@ -21565,7 +21471,7 @@ _Cite_:
   - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
 
 
-##### Section IV : Personnes imposables - Lieu d'imposition<a id=202></a>
+##### Section IV : Personnes imposables - Lieu d'imposition<a id=197></a>
 
 ###### Article 218
 
@@ -21674,24 +21580,35 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 239 quinquies (V)
 
 
-##### Section V : Calcul de l'impôt<a id=203></a>
+##### Section V : Calcul de l'impôt<a id=198></a>
 
 ###### Article 219
 
-I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à 10 F est négligée.    Le taux de l'impôt est
-fixé à 39 % (1).    Toutefois :
+I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à 10 F est négligée.
+
+Le taux de l'impôt est fixé à 39 % (1).
+
+Toutefois :
 
 a. Le montant net des plus-values à long terme autres que celles visées à l'article 39 quindecies-II fait l'objet d'une
 imposition séparée au taux de 15 %, dans les conditions prévues au 1 du I de l'article 39 quindecies et à l'article 209
-quater.    L'excédent éventuel des moins-values à long terme ne peut être imputé que sur les plus-values à long terme
-réalisées au cours des dix exercices suivants.    Toutefois, en cas de liquidation d'entreprise intervenue au cours des
-exercices ouverts à compter du 1er janvier 1989, cet excédent peut  être déduit des bénéfices de l'exercice de liquidation à
-raison des quinze trente-neuvièmes de son montant (2). Pour les liquidations intervenues en cours des exercices ouverts à
-compter du 1er janvier 1988, cet excédent peut être déduit à raison des quinze quarante- deuxièmes de son montant.    Le
-montant net des plus-values à long terme visées à l'article 39 quindecies-II fait l'objet d'une imposition séparée au taux de
-25 % dans les conditions prévues par ce texte et par l'article 209 quater.    b. (Disposition périmée).    c. Le taux de
-l'impôt sur les sociétés est porté à 42 p. 100 pour les distributions, au sens du présent code, effectuées par les
-entreprises au cours des exercices ouverts à compter du 1er janvier 1989.
+quater.
+
+L'excédent éventuel des moins-values à long terme ne peut être imputé que sur les plus-values à long terme réalisées au cours
+des dix exercices suivants.
+
+Toutefois, en cas de liquidation d'entreprise intervenue au cours des exercices ouverts à compter du 1er janvier 1989, cet
+excédent peut  être déduit des bénéfices de l'exercice de liquidation à raison des quinze trente-neuvièmes de son montant
+(2). Pour les liquidations intervenues en cours des exercices ouverts à compter du 1er janvier 1988, cet excédent peut être
+déduit à raison des quinze quarante- deuxièmes de son montant.
+
+Le montant net des plus-values à long terme visées à l'article 39 quindecies-II fait l'objet d'une imposition séparée au taux
+de 25 % dans les conditions prévues par ce texte et par l'article 209 quater.
+
+b. (Disposition périmée).
+
+c. Le taux de l'impôt sur les sociétés est porté à 42 p. 100 pour les distributions, au sens du présent code, effectuées par
+les entreprises au cours des exercices ouverts à compter du 1er janvier 1989.
 
 Pour l'application de l'alinéa précédent, un supplément d'impôt sur les sociétés, égal à 3/58 du montant net distribué, est
 dû sur ces distributions à concurrence de la somme algébrique des résultats comptables des mêmes exercices, diminuée des
@@ -21699,11 +21616,28 @@ distributions antérieures décidées conformément aux statuts de la société 
 est également dû sur les sommes réputées distribuées au cours de ces exercices en application des articles 109 à 115
 quinquies 1°.
 
+Pour les exercices ouverts à compter du 1er janvier 1990, le taux du supplément défini à l'alinéa précédent est porté à 5/58
+du montant net distribué, à concurrence de la somme algébrique des résultats comptables de ces mêmes exercices, ainsi que des
+sommes réputées distribuées.
+
 d. Les distributions pour lesquelles le précompte mobilier prévu à l'article 223 sexies a été acquitté ne sont pas retenues
 pour l'application des dispositions du c. Il en est de même des distributions payées en actions en application de l'article
 13 de la loi n° 83-1 du 3 janvier 1983 sur le développement des investissements et la protection de l'épargne pour la
 fraction de leur montant égale au rapport qui existe entre les distributions pour lesquelles le précompte n'a pas été
 acquitté et le total des bénéfices distribués.
+
+Les dispositions de la dernière phrase de l'alinéa précédent s'appliquent également aux distributions payées en actions ou en
+parts sociales par les sociétés et coopératives autres que celles qui sont régies par la loi n° 66-537 du 24 juillet 1966 sur
+les sociétés commerciales, conformément aux règles qui les régissent si ces distributions sont mises en paiement dans un
+délai fixé par l'assemblée compétente ; ce délai, qui ne peut être supérieur à trois mois à compter de la date de réunion de
+ladite assemblée, expire dans tous les cas au plus tard à la fin du neuvième mois qui suit la clôture de l'exercice concerné.
+
+Pour les sociétés et coopératives à capital variable, si le montant moyen du capital déterminé à la clôture d'un exercice est
+inférieur au montant moyen du capital déterminé à la clôture du premier exercice ouvert à compter du 1er janvier 1989
+augmenté du montant cumulé des distributions payées en actions ou parts sociales et exonérées en application des alinéas
+précédents, le supplément d'impôt est dû à raison de ces distributions dans la limite de cette différence. Pour l'application
+de cette disposition, le montant moyen du capital est égal au rapport de la somme des montants respectifs du capital à la fin
+de chaque mois sur le nombre de mois de l'exercice.
 
 e. Le supplément d'impôt sur les sociétés dû à raison des acomptes versés sur les dividendes afférents à un exercice fait
 l'objet d'une liquidation définitive lors de la mise en paiement du solde des dividendes de cet exercice.
@@ -21728,14 +21662,13 @@ a. Le taux réduit de l'impôt sur les sociétés est fixé à 25 % ;
 b. L'application de ce taux réduit est subordonnée à la condition que les opérations de construction correspondantes
 présentent un caractère accessoire pour la société intéressée.
 
-(1) Pour les exercices ouverts à compter du 1er janvier 1989. Il était fixé à 45 % pour les exercices ouverts entre le 1er
-janvier 1986 et le 31 décembre 1987 et à 42 % pour les exercices ouverts à compter du 1er janvier 1988.
+(1) Pour les exercices ouverts à compter du 1er janvier 1989. Il est réduit à 37 p. 100 pour les exercices ouverts à compter
+du 1er janvier 1990.
 
 (2) Cette fraction est égale à quinze quarante-cinquièmes lorsque la liquidation est intervenue au cours des exercices
 ouverts entre le 1er janvier 1986 et le 31 décembre 1987. Elle est égale à quinze quarante-deuxièmes lorsque la liquidation
-est intervenue au cours des exercices ouverts à compter du 1er janvier 1988.
-
-(3) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O. du 1er janvier 1977).
+est intervenue au cours des exercices ouverts à compter du 1er janvier 1988.    (3) Dans sa rédaction antérieure à la loi n°
+76-1285 du 31 décembre 1976 (J.O. du 1er janvier 1977).
 
 **Liens relatifs à cet article**
 
@@ -21746,17 +21679,14 @@ _Cite_:
   - CGI 223 sexies
   - CGI 238 octies I
   - CGI 39 quindecies I, II
+  - Loi n°66-537 1966-07-24
   - Loi n°76-1285 1976-12-31
   - Loi n°83-1 1983-01-03 art. 13
   - Code de l'urbanisme - art. L430-3 (Ab)
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 12 () JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-935 1989-12-29 art. 18 II, III 1 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -22307,23 +22237,27 @@ _Cité par_:
   - HISTO: Edition du 10 août 1987
 
 
-##### 1° : Report en arrière<a id=204></a>
+##### 1° : Report en arrière<a id=199></a>
 
 ###### Article 220 quinquies
 
 I. Par dérogation aux dispositions des troisième et quatrième alinéa du I de l'article 209, le déficit constaté au titre d'un
 exercice ouvert à compter du 1er janvier 1984 par une entreprise soumise à l'impôt sur les sociétés peut, sur option, être
 considéré comme une charge déductible du bénéfice de l'antépénultième exercice et, le cas échéant, de celui de l'avant-
-dernier exercice puis de celui de l'exercice précédent, dans la limite de la fraction non distribuée de ces bénéfices (1).
-Cette option porte, pour les exercices ouverts à compter du 1er janvier 1985, sur les déficits reportables à la clôture d'un
-exercice en application des troisième et quatrième alinéas du I de l'article 209.
+dernier exercice puis de celui de l'exercice précédent, dans la limite de la fraction non distribuée de ces bénéfices (1) et
+à l'exclusion des bénéfices exonérés en application des articles 44 bis à 44 septies et 207 à 208 sexies ou qui ont ouvert
+droit au crédit d'impôt prévu aux articles 220 quater et 220 quater A ou qui ont donné lieu à un impôt payé au moyen d'avoirs
+fiscaux ou de crédits d'impôts. Cette option porte, pour les exercices ouverts à compter du 1er janvier 1985, sur les
+déficits reportables à la clôture d'un exercice en application des troisième et quatrième alinéas du I de l'article 209.
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être reportable sur les résultats des exercices
 suivant celui au titre duquel il a été constaté.
 
 L'excédent d'impôt sur les sociétés résultant de l'application du premier alinéa fait naître au profit de l'entreprise une
-créance d'un égal montant. La constatation de cette créance, qui n'est pas imposable, améliore les résultats de l'entreprise
-et contribue au renforcement des fonds propres. 
+créance égale au produit du déficit imputé dans les conditions prévues au même alinéa par le taux de l'impôt sur les sociétés
+applicable à l'exercice déficitaire égale au produit du déficit imputé dans les conditions prévues au même alinéa par le taux
+de l'impôt sur les sociétés applicable à l'exercice déficitaire. La constatation de cette créance, qui n'est pas imposable,
+améliore les résultats de l'entreprise et contribue au renforcement des fonds propres. 
 
 La créance est remboursée au terme des cinq années suivant celle de la clôture de l'exercice au titre duquel l'option visée
 au premier alinéa a été exercée. Toutefois, l'entreprise peut utiliser la créance pour le paiement de l'impôt sur les
@@ -22333,11 +22267,7 @@ la fraction qui n'a pas été utilisée dans ces conditions.
 La créance est inaliénable et incessible, sauf dans les conditions prévues par la loi n° 81-1 du 2 janvier 1981 modifiée par
 la loi n° 84-46 du 24 janvier 1984, ou dans des conditions fixées par décret (2). 
 
-Le bénéfice des dispositions du présent paragraphe est subordonné à la condition que l'entreprise ait réalisé soit pendant
-l'exercice au titre duquel l'option visée au premier alinéa a été exercée, soit au cours de ce dernier exercice et des deux
-exercices précédents, un investissement net en biens amortissables au moins égal au total des amortissements pratiqués à la
-clôture du ou des exercices concernés et qu'elle se soit effectivement libérée de sa dette d'impôt sur les sociétés au titre
-des trois exercices précédant l'exercice au titre duquel l'option a été exercée.
+(Abrogé).
 
 II. L'option visée au I ne peut pas être exercée au titre d'un exercice au cours duquel intervient une cession ou une
 cessation totale d'entreprise, une fusion de sociétés ou une opération assimilée, ou un jugement prononçant la liquidation
@@ -22348,8 +22278,7 @@ titre duquel l'option visée au I a été exercée, le transfert de tout ou part
 absorbée à la société bénéficiant de l'apport ou absorbante, peut être autorisé sur agrément délivré dans les conditions
 prévues à l'article 1649 nonies.
 
-III. Les dispositions du présent article ne sont pas applicables aux institutions financières, aux compagnies d'assurances,
-aux entreprises de location et de gestion d'immeubles et aux sociétés civiles.
+III. (Abrogé).
 
 IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises
 ainsi que les modalités et limites dans lesquelles les dispositions du I sont applicables aux sociétés agréées visées aux
@@ -22357,23 +22286,18 @@ articles 209 quinquies et 209 sexies (2) (4).
 
 (1) A titre exceptionnel, le déficit constaté au titre de l'exercice ouvert à compter du 1er janvier 1984 et clos avant le
 1er janvier 1985 peut être imputé sur les bénéfices des deux exercices précédant l'antépénultième exercice, dans la limite de
-la fraction non distribuée de ces bénéfices.
+la fraction non distribuée de ces bénéfices.   
 
 (2) Annexe III, art. 46 quater-0 S à 46 quater-0 YC. Pour l'application aux sociétés agréées visées aux articles 209
-quinquies et 209 sexies, voir décret n° 85-598 du 10 juin 1985.
-
-(3) Pour les procédures ouvertes à compter du 1er janvier 1986.
-
-(4) Pour le droit de contrôle de la créance par l'administration, voir livre des procédures fiscales, art. L. 171 A.
+quinquies et 209 sexies, voir décret n° 85-598 du 10 juin 1985.     (3) Pour les procédures ouvertes à compter du 1er janvier
+1986.     (4) Pour le droit de contrôle de la créance par l'administration, voir livre des procédures fiscales, art. L. 171
+A.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1649 nonies
-  - CGI 209 I
-  - CGI 209 quinquies
-  - CGI 209 sexies
+  - CGI 209 I, CGI 209 quinquies, CGI 209 sexies, CGI 1649 nonies, CGI 44 bis à 44 septies, CGI 207 à 208 sexies, CGI 220 quater, CGI 220 quater A
   - CGI L171 A
   - CGIAN3 46 quater-0 S à CGIAN3 46 quater-0 YC
   - Loi n°81-1 1981-01-02
@@ -22382,11 +22306,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°86-1317 du 30 décembre 1986 - art. 83 (P) JORF 31 décembre 1986, en vigueur le 1er janvier 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°86-1317 du 30 décembre 1986 - art. 83, v. init.
+  - Loi n°89-936 1989-12-29 art. 11 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -22406,42 +22326,41 @@ _Cité par_:
   - Livre des procédures fiscales - art. L171 A (V)
 
 
-##### Section VI : Etablissement de l'impôt<a id=205></a>
+##### Section VI : Etablissement de l'impôt<a id=200></a>
 
 ###### Article 221
 
-1  L'impôt sur les sociétés est établi dans les mêmes conditions et sous les mêmes sanctions que l'impôt sur le revenu
+1 L'impôt sur les sociétés est établi dans les mêmes conditions et sous les mêmes sanctions que l'impôt sur le revenu
 (bénéfices industriels et commerciaux, régime d'imposition d'après le bénéfice réel ou d'après le régime simplifié).
 
-2  En cas de dissolution, de transformation entraînant la création d'un être moral nouveau, d'apport en société, de fusion,
-de transfert du siège ou d'un établissement à l'étranger, l'impôt sur les sociétés est établi dans les conditions prévues à
-l'article 201-1 et 3.
+2 En cas de dissolution, de transformation entraînant la création d'une personne morale nouvelle , d'apport en société, de
+fusion, de transfert du siège ou d'un établissement à l'étranger, l'impôt sur les sociétés est établi dans les conditions
+prévues à l'article 201-1 et 3.    Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque les
+sociétés ou organismes mentionnés aux articles 206 à 208 quinquies, 239 et 239 bis AA cessent d'être soumis à l'impôt sur les
+sociétés au taux prévu au deuxième alinéa du paragraphe I de l'article 219.
 
-De même, sous réserve des dispositions de l'article 221 bis, la transformation d'une société par actions ou à responsabilité
-limitée en une société de personnes est considérée comme une cessation d'entreprise.
-
-2 bis  Qu'elle s'accompagne ou non d'un changement de forme juridique, la modification des statuts tendant à assigner à une
+2 bis Qu'elle s'accompagne ou non d'un changement de forme juridique, la modification des statuts tendant à assigner à une
 société quelconque un objet conforme aux prévisions de l'article 1655 ter est assimilée, du point de vue fiscal, à une
 cessation d'entreprise (1).
 
-2 ter  La transformation d'une société de capitaux ou d'une association constituée conformément à la loi du 1er juillet 1901
+2 ter La transformation d'une société de capitaux ou d'une association constituée conformément à la loi du 1er juillet 1901
 en groupement d'intérêt économique est considérée comme une cessation d'entreprise et entraîne l'établissement de l'impôt sur
 les sociétés dans les conditions prévues à l'article 201-1 et 3.
 
-2 quater  La transformation en société d'investissement à capital variable d'une société non exonérée de l'impôt sur les
+2 quater La transformation en société d'investissement à capital variable d'une société non exonérée de l'impôt sur les
 sociétés entraîne les mêmes conséquences fiscales que la liquidation de la société transformée.
 
-3  Le changement de nationalité d'une société par actions et le transfert de son siège social à l'étranger n'entraînent pas
+3 Le changement de nationalité d'une société par actions et le transfert de son siège social à l'étranger n'entraînent pas
 l'application des dispositions du 2, premier alinéa, lorsqu'ils sont décidés par l'assemblée générale dans les conditions
 prévues à l'article 154 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
 
-4  (Disposition périmée).
+4 (Disposition périmée).
 
 5 Le changement de l'objet social ou de l'activité réelle d'une société emporte cessation d'entreprise. Toutefois, dans cette
 situation, les dispositions de l'article 221 bis sont applicables, sauf en ce qui concerne les provisions dont la déduction
 est prévue par des dispositions légales particulières.
 
-1)  Voir Annexe II, art. 372.
+1) Voir Annexe II, art. 372.
 
 **Liens relatifs à cet article**
 
@@ -22449,18 +22368,18 @@ _Cite_:
 
   - CGI 1655 ter
   - CGI 201 1, 3
+  - CGI 206 à CGI 208 quinquies
+  - CGI 219
   - CGI 221 bis
+  - CGI 239
+  - CGI 239 bis AA
   - CGIAN2 372
-  - Loi n°66-537 1966-07-24 art. 154
   - Loi n°1901-07-01
+  - Loi n°66-537 1966-07-24 art. 154
 
 _Modifié par_:
 
-  - Loi n°85-1403 du 30 décembre 1985 - art. 8 (P) JORF 31 décembre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - Loi n°89-936 1989-12-29 art. 16 III 4, 1 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -22477,27 +22396,31 @@ _Cité par_:
 
 ###### Article 221 bis
 
-En l'absence de création d'un être moral nouveau, la transformation d'une société par actions ou à responsabilité limitée en
-société de personnes n'entraîne pas l'imposition immédiate des bénéfices en sursis d'imposition et des plus-values latentes
-incluses dans l'actif social, à la double condition qu'aucune modification ne soit apportée aux écritures comptables du fait
-de la transformation et que l'imposition desdits bénéfices et plus-values demeure possible sous le nouveau régime fiscal
-applicable à la société transformée.
+En l'absence de création d'une personne morale nouvelle, lorsqu'une société ou un autre organisme cesse d'être soumis à
+l'impôt sur les sociétés au taux normal, les bénéfices en sursis d'imposition et les plus-values latentes incluses dans
+l'actif social ne font pas l'objet d'une imposition immédiate, à la double condition qu'aucune modification ne soit apportée
+aux écritures comptables et que l'imposition desdits bénéfices et plus-values demeure possible sous le nouveau régime fiscal
+applicable à la société ou à l'organisme concerné.
 
 Toutefois, les plus-values dégagées à l'occasion de la cession de tout ou partie des éléments de l'actif immobilisé existant
 à la date de la transformation, dans la mesure où elles étaient acquises à cette date par le ou les éléments cédés, sont
 imposables dans les conditions prévues aux articles 39 duodecies, 39 terdecies-1, 39 quaterdecies et 39 quindecies, si, au
-moment de la cession, les recettes de cette société n'excèdent pas la limite du forfait ou de l'évaluation administrative. En
-ce cas, les dispositions de l'article 151 sexies-I ne sont pas applicables.
+moment de la cession, les recettes de cette société n'excèdent pas le double de la limite du forfait ou de l'évaluation
+administrative. En ce cas, les dispositions de l'article 151 septies ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 151 sexies I
+  - CGI 151 septies
   - CGI 39 duodecies
   - CGI 39 quaterdecies
   - CGI 39 quindecies
   - CGI 39 terdecies 1
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 16 II 2, III 2 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -22506,12 +22429,8 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 quindecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter A (V)
 
-**Liens**:
 
-  - HISTO: EDITION 1979-07-01
-
-
-##### Section VII : Obligations des personnes morales<a id=206></a>
+##### Section VII : Obligations des personnes morales<a id=201></a>
 
 ###### Article 222
 
@@ -22747,253 +22666,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section VIII : Groupes de sociétés<a id=207></a>
+##### Section VIII : Groupes de sociétés<a id=202></a>
 
-##### 1re Sous-section : Dispositions générales<a id=208></a>
-
-##### 1° : Résultat d'ensemble<a id=209></a>
-
-###### Article 223 B
-
-Le résultat d'ensemble est déterminé par la société mère en faisant la somme algébrique des résultats de chacune des sociétés
-du groupe, déterminés dans les conditions de droit commun ou selon les modalités prévues à l'article 217 bis.
-
-Le résultat d'ensemble est diminué de la quote-part de frais et charges visée au paragraphe I de l'article 216 qui est
-comprise dans ses résultats par une société du groupe à raison de sa participation dans une autre société du groupe.
-
-Il est majoré du montant des dotations complémentaires aux provisions constituées par une société après son entrée dans le
-groupe, à raison des créances qu'elle détient sur d'autres sociétés du groupe.
-
-Le montant des jetons de présence et tantièmes distribués par les sociétés filiales du groupe est ajouté au résultat
-d'ensemble.
-
-L'abandon de créance ou la subvention directe ou indirecte consenti entre des sociétés du groupe n'est pas pris en compte
-pour la détermination du résultat d'ensemble.
-
-Lorsqu'une société a acheté, après le 1er janvier 1988, les titres d'une société qui devient membre du même groupe aux
-personnes qui la contrôlent, directement ou indirectement, ou à des sociétés que ces personnes contrôlent, directement ou
-indirectement, les charges financières déduites par les sociétés membres du groupe sont rapportées au résultat d'ensemble
-pour une fraction égale au rapport du prix d'acquisition de ces titres à la somme du montant moyen des dettes, de chaque
-exercice, des entreprises membres du groupe. Le prix d'acquisition à retenir est réduit du montant des fonds apportés à la
-société cessionnaire lors d'une augmentation du capital réalisée simultanément à l'acquisition des titres. La réintégration
-s'applique pendant l'exercice d'acquisition des titres et les quatorze exercices suivants. Pour l'application de l'article
-223 J, il n'est pas tenu compte des réintégrations prévues au présent alinéa.
-
-Les dispositions de l'alinéa précédent ne s'appliquent pas  :
-
-- si la cession est opérée entre sociétés membres du même groupe ;
-
-- au titre des exercices au cours desquels la société rachetée n'est plus membre du groupe ;
-
-- si les titres cédés à la société membre du groupe ont été acquis, immédiatement auparavant, auprès de personnes autres que
-celles mentionnées au sixième alinéa du présent article, et en vue de rétrocession.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 216 I
-  - CGI 217 bis
-  - CGI 223 J
-
-_Modifié par_:
-
-  - Loi n°88-1193 du 29 décembre 1988 - art. 13 () JORF 30 décembre 1988
-
-_Cité par_:
-
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 33 (V)
-  - Décret n°2019-594 du 14 juin 2019 (V)
-  - Code général des impôts, CGI. - art. 209 (V)
-  - Code général des impôts, CGI. - art. 212 (VD)
-  - Code général des impôts, CGI. - art. 223 A bis (V)
-  - Code général des impôts, CGI. - art. 223 B bis (M)
-  - Code général des impôts, CGI. - art. 223 I (V)
-  - Code général des impôts, CGI. - art. 223 Q (V)
-  - Code général des impôts, CGI. - art. 223 R (M)
-  - Code général des impôts, CGI. - art. 223 S (M)
-  - Code général des impôts, CGI. - art. 223 T (V)
-  - Code général des impôts, CGI. - art. 235 ter ZAA (V)
-  - Code général des impôts, CGI. - art. 235 ter ZC (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 116 (P)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZG (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
-
-
-###### Article 223 C
-
-Le bénéfice d'ensemble est imposé selon les modalités prévues au deuxième alinéa du paragraphe I de l'article 219.
-
-Le déficit d'ensemble est reporté dans les conditions prévues aux troisième et quatrième alinéas du paragraphe I de l'article
-209. Pour l'application de cette dernière disposition, la faculté de report sans limitation de délai du déficit d'ensemble
-d'un exercice s'applique à la partie de ce déficit qui correspond aux amortissements régulièrement comptabilisés mais réputés
-différés en période déficitaire par les sociétés du groupe au titre de ce même exercice.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 219 I
-
-_Créé par_:
-
-  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
-
-_Cité par_:
-
-  - Code général des impôts, annexe 4, CGIAN4. - art. 170 sexies (VD)
-  - Livre des procédures fiscales - art. L169 (VD)
-
-
-##### 2° : Plus-values ou moins-values d'ensemble<a id=210></a>
-
-###### Article 223 D
-
-La plus-value nette ou la moins-value nette à long terme d'ensemble est déterminée par la société mère en faisant la somme
-algébrique des plus-values ou des moins-values nettes à long terme de chacune des sociétés du groupe, déterminées et
-imposables selon les modalités prévues aux articles 39 duodecies à 39 quindecies et 217 bis.
-
-Les dispositions de l'article 39 quindecies sont applicables à la plus-value et à la moins-value nette à long terme
-d'ensemble.
-
-La plus-value nette à long terme d'ensemble fait l'objet d'une imposition séparée dans les conditions prévues au premier ou
-au quatrième alinéa du a du paragraphe I de l'article 219.
-
-Le montant net d'impôt de la plus-value nette à long terme d'ensemble doit être porté, au bilan de la société mère, à la
-réserve spéciale prévue à l'article 209 quater.
-
-Le montant des dotations complémentaires aux provisions constituées par une société après son entrée dans le groupe à raison
-des participations détenues dans d'autres sociétés du groupe est ajouté à la plus-value nette à long terme d'ensemble ou
-déduit de la moins-value nette à long terme d'ensemble.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 209 quater
-  - CGI 217 bis
-  - CGI 219
-  - CGI 39 duodecies à CGI 39 quindecies
-
-_Créé par_:
-
-  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 223 Q (M)
-  - Code général des impôts, CGI. - art. 223 T (V)
-  - Code général des impôts, CGI. - art. 235 ter ZAA (V)
-  - Code général des impôts, CGI. - art. 235 ter ZC (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
-  - Livre des procédures fiscales - art. L169 (VD)
-
-
-##### 3° : Non-imputation des déficits et des moins-values par les sociétés du groupe<a id=211></a>
-
-###### Article 223 E
-
-Les déficits retenus pour la détermination du résultat d'ensemble ne sont pas déductibles des résultats de la société qui les
-a subis. Il en est de même des moins-values nettes à long terme retenues pour le calcul de la plus-value ou de la moins-value
-nette à long terme d'ensemble.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 223 L (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZJ bis (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
-
-
-##### 4° : Cessions d'immobilisations entre sociétés du groupe<a id=212></a>
-
-###### Article 223 F
-
-La plus-value ou la moins-value afférente à la cession entre sociétés du groupe d'un élément d'actif immobilisé n'est pas
-retenue pour le calcul du résultat ou de la plus-value ou de la moins-value nette à long terme d'ensemble au titre de
-l'exercice de cette cession. Une somme égale au montant des suppléments d'amortissements pratiqués par la société
-cessionnaire d'un bien amortissable est réintégrée au résultat d'ensemble au titre de chaque exercice ; il en est de même de
-l'amortissement différé en contravention aux dispositions de l'article 39 B, lors de la cession du bien.
-
-Lors de la cession hors du groupe de l'immobilisation ou de la sortie du groupe d'une société qui l'a cédée ou de celle qui
-en est propriétaire, la société mère doit comprendre dans le résultat ou plus-value ou moins-value nette à long terme
-d'ensemble la plus-value ou la moins-value qui n'a pas été retenue lors de sa réalisation.
-
-Les dispositions de cet article ne sont pas applicables aux biens mentionnés au 4 de l'article 39.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 39 4
-  - CGI 39 B
-
-_Créé par_:
-
-  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
-
-_Cité par_:
-
-  - Loi n°2014-891 du 8 août 2014 - art. 26 (VD)
-  - Décret n°2019-594 du 14 juin 2019 - art. 1
-  - Code général des impôts, CGI. - art. 219 (VT)
-  - Code général des impôts, CGI. - art. 223 B (V)
-  - Code général des impôts, CGI. - art. 223 D (V)
-  - Code général des impôts, CGI. - art. 223 I (V)
-  - Code général des impôts, CGI. - art. 223 L (M)
-  - Code général des impôts, CGI. - art. 223 Q (V)
-  - Code général des impôts, CGI. - art. 223 R (V)
-  - Code général des impôts, CGI. - art. 223 T (V)
-  - Code général des impôts, CGI. - art. 238 sexdecies (V)
-  - Code général des impôts, CGI. - art. 39 quaterdecies (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
-
-
-##### 6° : Distribution de dividendes.<a id=213></a>
-
-###### Article 223 H
-
-Les dividendes distribués dans les conditions prévues au premier alinéa du 1 de l'article 223 sexies par une société du
-groupe à une autre société du groupe ne donnent pas lieu au précompte prévu à cet article et n'ouvrent pas droit à l'avoir
-fiscal prévu à l'article 158 bis lorsqu'ils sont prélevés sur des résultats qui ont été compris dans le résultat d'ensemble.
-
-Pour la liquidation du précompte dû à raison des distributions réalisées par la société mère, le bénéfice disponible soumis à
-l'impôt sur les sociétés au taux normal s'entend du bénéfice net d'ensemble.
-
-Les bénéfices d'une société filiale compris dans le résultat d'ensemble ne constituent pas des bénéfices soumis à l'impôt sur
-les sociétés au taux normal pour la liquidation du précompte dû par cette société.
-
-Les sommes distribuées par une société du groupe à une autre société du groupe ne sont pas soumises au supplément d'impôt
-mentionné au c du paragraphe I de l'article 219 dans la limite de la somme algébrique des résultats comptables des exercices
-au cours desquels elle est membre du groupe diminuée des distributions antérieures de même nature. Cette disposition
-s'applique à la fraction de ces distributions ainsi limitées qui excède le montant des distributions exonérées en application
-du d du paragraphe I de l'article 219. Les résultats comptables sont retenus en proportion de la participation détenue par la
-société mère dans le capital de la société distributrice.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 158 bis
-  - CGI 219 I c, d
-  - CGI 223 sexies
-
-_Modifié par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 12 () JORF 28 décembre 1988
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 223 C (V)
-
-
-##### 1ere Sous-section : Dispositions générales.<a id=214></a>
+##### 1re Sous-section : Dispositions générales<a id=203></a>
 
 ###### Article 223 A
 
@@ -23001,7 +22676,9 @@ Une société, dont le capital n'est pas détenu à 95 p. 100 au moins directeme
 morale passible de l'impôt sur les sociétés, peut se constituer seule redevable de l'impôt sur les sociétés dû sur l'ensemble
 des résultats du groupe formé par elle-même et les sociétés dont elle détient 95 p. 100 au moins du capital, de manière
 continue au cours de l'exercice, directement ou indirectement par l'intermédiaire de sociétés du groupe. Dans ce cas, elle
-est également redevable du précompte et de l'imposition forfaitaire annuelle dus par les sociétés du groupe.
+est également redevable du supplément d'impôt sur les sociétés mentionné au c du paragraphe I de l'article 219 dû à raison
+des bénéfices distribués par les sociétés du groupe, ainsi que  du précompte et de l'imposition forfaitaire annuelle dus par
+les sociétés du groupe.
 
 Si l'exercice d'options de souscription d'actions dans les conditions prévues à l'article 208-7 de la loi n° 66-537 du 24
 juillet 1966 sur les sociétés commerciales a pour effet, au cours d'un exercice, de réduire à moins de 95 p. 100 la
@@ -23031,6 +22708,7 @@ membre du groupe.
 _Cite_:
 
   - CGI 217 bis
+  - CGI 219 I c
   - CGI L13
   - CGI L47
   - CGI L57
@@ -23158,12 +22836,261 @@ _Cité par_:
   - Livre des procédures fiscales - art. L51 (V)
   - Livre des procédures fiscales - art. R*256-1 (V)
 
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 18 VI 1 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+
+
+##### 1° : Résultat d'ensemble<a id=204></a>
+
+###### Article 223 B
+
+Le résultat d'ensemble est déterminé par la société mère en faisant la somme algébrique des résultats de chacune des sociétés
+du groupe, déterminés dans les conditions de droit commun ou selon les modalités prévues à l'article 217 bis.
+
+Le résultat d'ensemble est diminué de la quote-part de frais et charges visée au paragraphe I de l'article 216 qui est
+comprise dans ses résultats par une société du groupe à raison de sa participation dans une autre société du groupe.
+
+Il est majoré du montant des dotations complémentaires aux provisions constituées par une société après son entrée dans le
+groupe, à raison des créances qu'elle détient sur d'autres sociétés du groupe.
+
+Le montant des jetons de présence et tantièmes distribués par les sociétés filiales du groupe est ajouté au résultat
+d'ensemble.
+
+L'abandon de créance ou la subvention directe ou indirecte consenti entre des sociétés du groupe n'est pas pris en compte
+pour la détermination du résultat d'ensemble.
+
+Lorsqu'une société a acheté, après le 1er janvier 1988, les titres d'une société qui devient membre du même groupe aux
+personnes qui la contrôlent, directement ou indirectement, ou à des sociétés que ces personnes contrôlent, directement ou
+indirectement, les charges financières déduites par les sociétés membres du groupe sont rapportées au résultat d'ensemble
+pour une fraction égale au rapport du prix d'acquisition de ces titres à la somme du montant moyen des dettes, de chaque
+exercice, des entreprises membres du groupe. Le prix d'acquisition à retenir est réduit du montant des fonds apportés à la
+société cessionnaire lors d'une augmentation du capital réalisée simultanément à l'acquisition des titres. La réintégration
+s'applique pendant l'exercice d'acquisition des titres et les quatorze exercices suivants. Pour l'application de l'article
+223 J, il n'est pas tenu compte des réintégrations prévues au présent alinéa.
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas  :
+
+- si la cession est opérée entre sociétés membres du même groupe ;
+
+- au titre des exercices au cours desquels la société rachetée n'est plus membre du groupe ;
+
+- si les titres cédés à la société membre du groupe ont été acquis, immédiatement auparavant, auprès de personnes autres que
+celles mentionnées au sixième alinéa du présent article, et en vue de rétrocession.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 216 I
+  - CGI 217 bis
+  - CGI 223 J
+
+_Modifié par_:
+
+  - Loi n°88-1193 du 29 décembre 1988 - art. 13 () JORF 30 décembre 1988
+
+_Cité par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 33 (V)
+  - Décret n°2019-594 du 14 juin 2019 (V)
+  - Code général des impôts, CGI. - art. 209 (V)
+  - Code général des impôts, CGI. - art. 212 (VD)
+  - Code général des impôts, CGI. - art. 223 A bis (V)
+  - Code général des impôts, CGI. - art. 223 B bis (M)
+  - Code général des impôts, CGI. - art. 223 I (V)
+  - Code général des impôts, CGI. - art. 223 Q (V)
+  - Code général des impôts, CGI. - art. 223 R (M)
+  - Code général des impôts, CGI. - art. 223 S (M)
+  - Code général des impôts, CGI. - art. 223 T (V)
+  - Code général des impôts, CGI. - art. 235 ter ZAA (V)
+  - Code général des impôts, CGI. - art. 235 ter ZC (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 116 (P)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZG (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+
+
+###### Article 223 C
+
+Le bénéfice d'ensemble est imposé selon les modalités prévues au deuxième alinéa du paragraphe I de l'article 219.
+
+Le déficit d'ensemble est reporté dans les conditions prévues aux troisième et quatrième alinéas du paragraphe I de l'article
+209. Pour l'application de cette dernière disposition, la faculté de report sans limitation de délai du déficit d'ensemble
+d'un exercice s'applique à la partie de ce déficit qui correspond aux amortissements régulièrement comptabilisés mais réputés
+différés en période déficitaire par les sociétés du groupe au titre de ce même exercice.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 219 I
+
 _Créé par_:
 
   - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
 
+_Cité par_:
 
-##### Report en arrière des déficits.<a id=215></a>
+  - Code général des impôts, annexe 4, CGIAN4. - art. 170 sexies (VD)
+  - Livre des procédures fiscales - art. L169 (VD)
+
+
+##### 2° : Plus-values ou moins-values d'ensemble<a id=205></a>
+
+###### Article 223 D
+
+La plus-value nette ou la moins-value nette à long terme d'ensemble est déterminée par la société mère en faisant la somme
+algébrique des plus-values ou des moins-values nettes à long terme de chacune des sociétés du groupe, déterminées et
+imposables selon les modalités prévues aux articles 39 duodecies à 39 quindecies et 217 bis.
+
+Les dispositions de l'article 39 quindecies sont applicables à la plus-value et à la moins-value nette à long terme
+d'ensemble.
+
+La plus-value nette à long terme d'ensemble fait l'objet d'une imposition séparée dans les conditions prévues au premier ou
+au quatrième alinéa du a du paragraphe I de l'article 219.
+
+Le montant net d'impôt de la plus-value nette à long terme d'ensemble doit être porté, au bilan de la société mère, à la
+réserve spéciale prévue à l'article 209 quater.
+
+Le montant des dotations complémentaires aux provisions constituées par une société après son entrée dans le groupe à raison
+des participations détenues dans d'autres sociétés du groupe est ajouté à la plus-value nette à long terme d'ensemble ou
+déduit de la moins-value nette à long terme d'ensemble.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 209 quater
+  - CGI 217 bis
+  - CGI 219
+  - CGI 39 duodecies à CGI 39 quindecies
+
+_Créé par_:
+
+  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 223 Q (M)
+  - Code général des impôts, CGI. - art. 223 T (V)
+  - Code général des impôts, CGI. - art. 235 ter ZAA (V)
+  - Code général des impôts, CGI. - art. 235 ter ZC (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+  - Livre des procédures fiscales - art. L169 (VD)
+
+
+##### 3° : Non-imputation des déficits et des moins-values par les sociétés du groupe<a id=206></a>
+
+###### Article 223 E
+
+Les déficits retenus pour la détermination du résultat d'ensemble ne sont pas déductibles des résultats de la société qui les
+a subis. Il en est de même des moins-values nettes à long terme retenues pour le calcul de la plus-value ou de la moins-value
+nette à long terme d'ensemble.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 223 L (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZJ bis (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+
+
+##### 4° : Cessions d'immobilisations entre sociétés du groupe<a id=207></a>
+
+###### Article 223 F
+
+La fraction de la plus-value ou de la moins-value afférente à la cession entre sociétés du groupe d'un élément d'actif
+immobilisé, acquise depuis sa date d'inscription au bilan de la société du groupe qui a effectué la première cession, n'est
+pas retenue pour le calcul du résultat ou de la plus-value ou de la moins-value nette à long terme d'ensemble au titre de
+l'exercice de cette cession. Une somme égale au montant des suppléments d'amortissements pratiqués par la société
+cessionnaire d'un bien amortissable est réintégrée au résultat d'ensemble au titre de chaque exercice ; il en est de même de
+l'amortissement différé en contravention aux dispositions de l'article 39 B, lors de la cession du bien. Le régime défini par
+ces dispositions n'est pas applicable aux apports placés sous le régime de l'article 210 A.
+
+Lors de la cession hors du groupe de l'immobilisation ou de la sortie du groupe d'une société qui l'a cédée ou de celle qui
+en est propriétaire, la société mère doit comprendre dans le résultat ou plus-value ou moins-value nette à long terme
+d'ensemble la plus-value ou la moins-value qui n'a pas été retenue lors de sa réalisation. Cette règle s'applique également
+en cas d'apport d'une immobilisation amortissable entre sociétés du groupe, lorsque cet apport bénéficie des dispositions de
+l'article 210 A.
+
+Les dispositions de cet article ne sont pas applicables aux biens mentionnés au 4 de l'article 39.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 210 A
+  - CGI 39 4
+  - CGI 39 B
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 23 II 1, 2, 3 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+
+_Cité par_:
+
+  - Loi n°2014-891 du 8 août 2014 - art. 26 (VD)
+  - Décret n°2019-594 du 14 juin 2019 - art. 1
+  - Code général des impôts, CGI. - art. 219 (VT)
+  - Code général des impôts, CGI. - art. 223 B (V)
+  - Code général des impôts, CGI. - art. 223 D (V)
+  - Code général des impôts, CGI. - art. 223 I (V)
+  - Code général des impôts, CGI. - art. 223 L (M)
+  - Code général des impôts, CGI. - art. 223 Q (V)
+  - Code général des impôts, CGI. - art. 223 R (V)
+  - Code général des impôts, CGI. - art. 223 T (V)
+  - Code général des impôts, CGI. - art. 238 sexdecies (V)
+  - Code général des impôts, CGI. - art. 39 quaterdecies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+
+
+##### 6° : Distribution de dividendes.<a id=208></a>
+
+###### Article 223 H
+
+Les dividendes distribués dans les conditions prévues au premier alinéa du 1 de l'article 223 sexies par une société du
+groupe à une autre société du groupe ne donnent pas lieu au précompte prévu à cet article et n'ouvrent pas droit à l'avoir
+fiscal prévu à l'article 158 bis lorsqu'ils sont prélevés sur des résultats qui ont été compris dans le résultat d'ensemble.
+
+Pour la liquidation du précompte dû à raison des distributions réalisées par la société mère, le bénéfice disponible soumis à
+l'impôt sur les sociétés au taux normal s'entend du bénéfice net d'ensemble.
+
+Les bénéfices d'une société filiale compris dans le résultat d'ensemble ne constituent pas des bénéfices soumis à l'impôt sur
+les sociétés au taux normal pour la liquidation du précompte dû par cette société.
+
+Les sommes distribuées par une société du groupe à une autre société du groupe ne sont pas soumises au supplément d'impôt
+mentionné au c du paragraphe I de l'article 219 dans la limite de la somme algébrique des résultats comptables des exercices
+au cours desquels elle est membre du groupe diminuée des distributions antérieures de même nature. Cette disposition
+s'applique à la fraction de ces distributions ainsi limitées qui excède le montant des distributions exonérées en application
+du d du paragraphe I de l'article 219. Les résultats comptables sont retenus en proportion de la participation détenue par la
+société mère dans le capital de la société distributrice.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 158 bis
+  - CGI 219 I c, d
+  - CGI 223 sexies
+
+_Modifié par_:
+
+  - Loi n°88-1149 du 23 décembre 1988 - art. 12 () JORF 28 décembre 1988
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 223 C (V)
+
+
+##### 1ere Sous-section : Dispositions générales.<a id=209></a>
+
+##### Report en arrière des déficits.<a id=210></a>
 
 ###### Article 223 G
 
@@ -23203,9 +23130,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 sexies (VD)
 
 
-##### 2e Sous-section : Sort des déficits et moins-values subis par la société avant son entrée ou après sa sortie du groupe<a id=216></a>
+##### 2e Sous-section : Sort des déficits et moins-values subis par la société avant son entrée ou après sa sortie du groupe<a id=211></a>
 
-##### 1° : Régime des déficits subis avant l'entrée dans le groupe<a id=217></a>
+##### 1° : Régime des déficits subis avant l'entrée dans le groupe<a id=212></a>
 
 ###### Article 223 I
 
@@ -23233,19 +23160,22 @@ réévaluation défini au même alinéa est réintégré au résultat d'ensemble
 4. Pour l'application du présent article, le bénéfice ou la plus-value nette à long terme de la société est diminué, le cas
 échéant, du montant des profits ou des plus-values à long terme qui résultent des abandons de créances consentis par une
 autre société du groupe, des cessions visées à l'article 223 F ainsi que d'une réévaluation libre des éléments d'actif de
-cette société. De même, le déficit ou la moins-value nette à long terme de la société, mentionné au b du 1 et au 3, est
-augmenté de ces profits ou plus-values.
+cette société ; ils sont également diminués du montant des plus-values de cession d'immobilisations non amortissables qui ont
+fait l'objet d'un apport ayant bénéficié des dispositions de l'article 210 A ainsi que des plus-values réintégrées en
+application du d du 3 du même article. De même, le déficit ou la moins-value nette à long terme de la société, mentionné au b
+du 1 et au 3, est augmenté de ces profits ou plus-values.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI 210 A
   - CGI 223 F
   - CGI 39 quindecies
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
+  - Loi n°89-935 1989-12-29 art. 23 III Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -23258,7 +23188,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
 
 
-##### 2° : Conséquences de la sortie d'une société du groupe moins de cinq ans après son entrée.<a id=218></a>
+##### 2° : Conséquences de la sortie d'une société du groupe moins de cinq ans après son entrée.<a id=213></a>
 
 ###### Article 223 J
 
@@ -23303,7 +23233,7 @@ _Créé par_:
   - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
 
 
-##### 3° : Régime des déficits subis après la sortie du groupe<a id=219></a>
+##### 3° : Régime des déficits subis après la sortie du groupe<a id=214></a>
 
 ###### Article 223 K
 
@@ -23322,9 +23252,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 quinquies (V)
 
 
-##### 3e Sous-section : Dispositions diverses<a id=220></a>
+##### 3e Sous-section : Dispositions diverses<a id=215></a>
 
-##### 1° : Régimes particuliers<a id=221></a>
+##### 1° : Régimes particuliers<a id=216></a>
 
 ###### Article 223 L
 
@@ -23395,7 +23325,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
 
 
-##### 2° : Paiement de l'impôt<a id=222></a>
+##### 2° : Paiement de l'impôt<a id=217></a>
 
 ###### Article 223 M
 
@@ -23430,17 +23360,21 @@ dû, l'excédent est restitué à la société mère dans le délai prévu au 2 
 
 2. Lorsqu'une société cesse d'être membre du groupe, les acomptes dus par celle-ci pour la période de douze mois ouverte à
 compter du début de l'exercice au titre duquel la société ne fait plus partie du groupe sont versés pour le compte de cette
-société par
+société par    3. La société qui a mis en paiement des distributions au cours de l'exercice de sa sortie du groupe, avant la
+date de l'événement qui a entraîné sa sortie, procède à une nouvelle liquidation du supplément d'impôt mentionné au c du
+paragraphe I de l'article 219 dû à raison de ces distributions. Elle acquitte le supplément d'impôt qui en résulte au plus
+tard le dernier jour du mois qui suit la clôture de l'exercice de sortie.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1668 2
+  - CGI 219 I c
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
+  - Loi n°89-935 1989-12-29 art. 18 VI 2 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -23498,7 +23432,7 @@ _Cité par_:
   - Arrêté du 7 février 2011 - art. (V)
 
 
-##### 3° : Régimes antérieurs<a id=223></a>
+##### 3° : Régimes antérieurs<a id=218></a>
 
 ###### Article 223 P
 
@@ -23524,7 +23458,7 @@ _Codifié par_:
   - Décret n°88-1001 1988-10-20
 
 
-##### 4° : Obligations déclaratives<a id=224></a>
+##### 4° : Obligations déclaratives<a id=219></a>
 
 ###### Article 223 Q
 
@@ -23550,7 +23484,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
 
 
-##### 5° : Conséquences de la sortie du groupe d'une société ou de la cessation du régime de groupe<a id=225></a>
+##### 5° : Conséquences de la sortie du groupe d'une société ou de la cessation du régime de groupe<a id=220></a>
 
 ###### Article 223 R
 
@@ -23584,26 +23518,24 @@ _Cité par_:
 ###### Article 223 S
 
 Les dispositions prévues à la présente section en  cas de sortie du groupe d'une société s'appliquent lorsqu'une société du
-groupe cesse de remplir les conditions prévues pour l'application du régime défini à cette section ou est affectée par un des
-événements prévus au 2 de l'article 221.
+groupe cesse de remplir les conditions prévues pour l'application du régime défini à cette section.
 
-Il en est de m^eme si la société mère ne renouvelle pas l'option prévue à l'article 223 A ou reste seule membre du groupe ou
+Il en est de même si la société mère ne renouvelle pas l'option prévue à l'article 223 A ou reste seule membre du groupe ou
 lorsque le groupe cesse d'exister parce qu'il ne satisfait pas à l'une des conditions prévues à la présente section.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 221 2
-  - CGI 223
+  - CGI 223 A
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
+  - TXT_ASSOCIE: Instruction 1992-07-23 4H-13-92
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Loi n°89-935 1989-12-29 art. 23 I 2 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -23613,7 +23545,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L169 (VD)
 
 
-##### 6° : Entrée en vigueur<a id=226></a>
+##### 6° : Entrée en vigueur<a id=221></a>
 
 ###### Article 223 T
 
@@ -23658,9 +23590,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A (V)
 
 
-#### Chapitre III : Taxes diverses<a id=227></a>
+#### Chapitre III : Taxes diverses<a id=222></a>
 
-##### Section 0I : Précompte.<a id=228></a>
+##### Section 0I : Précompte.<a id=223></a>
 
 ###### Article 223 sexies
 
@@ -23694,7 +23626,14 @@ exonérées en application du 3° sexies de l'article 208 ;    6° Par les soci�
 proviennent de produits et plus-values nets exonérés en application du 3° septies de l'article 208.    7° Par les personnes
 morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le
 Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de produits nets
-exonérés en application de l'article 208 quinquies.
+exonérés en application de l'article 208 quinquies.    8° Par les sociétés qui, à la date de la distribution ainsi qu'à la
+clôture de l'exercice dont les résultats sont distribués, ont pour activité exclusive la gestion d'un portefeuille de titres
+de participations, ont deux tiers au moins de leur actif immobilisé composé de participations dans des sociétés dont le siège
+social est situé hors de France qui ouvrent droit au régime prévu aux articles 145 et 216 et retirent de ces participations
+deux tiers au moins de leur bénéfice comptable hors plus-values.
+
+Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces
+participations (Ces dispositions s'appliquent aux distributions effectuées à compter du 1er janvier 1990.
 
 (1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
 
@@ -23702,13 +23641,15 @@ exonérés en application de l'article 208 quinquies.
 
 _Cite_:
 
+  - CGI 145
   - CGI 158 bis
   - CGI 207 2
-  - CGI 208 1° ter quater, 1° ter, 1° quater, 1° quinquies, 3° quater, 3° quinquies, 3° sexies, 3° septies
+  - CGI 208 1° ter quater, 1° ter, 1° quater, 1° quinquies, 3° quinquies, 3° sexies, 3° septies
   - CGI 208 A
   - CGI 208 quinquies
   - CGI 209 quinquies
   - CGI 209 sexies
+  - CGI 216
   - CGI 219 I al. 2
   - CGI 220 quinquies I
   - CGIAN3 381 T
@@ -23718,15 +23659,14 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 74 () JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
-  - Loi n°88-1149 du 23 décembre 1988 - art. 75 (V) JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
+  - Loi n°89-936 1989-12-29 art. 28 I Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°89-801 1989-10-27
+  - SPEC_APPLI: Loi n°89-936 1989-12-29 art. 28 III, V Finances rectificative pour 1989
 
 
-##### Section 0II : Imposition forfaitaire annuelle des sociétés<a id=229></a>
+##### Section 0II : Imposition forfaitaire annuelle des sociétés<a id=224></a>
 
 ###### Article 223 decies
 
@@ -23829,15 +23769,15 @@ _Codifié par_:
 Les personnes morales passibles de l'impôt sur les sociétés sont assujetties à une imposition forfaitaire annuelle d'un
 montant fixé à :
 
-- 4.000 F pour les personnes morales dont le chiffre d'affaires est inférieur à 1.000.000 F ;
+- 5.000 F pour les personnes morales dont le chiffre d'affaires est inférieur à 1.000.000 F ;
 
-- 6.000 F pour les personnes morales dont le chiffre d'affaires est compris entre 1.000.000 F et 2.000.000 F ;
+- 7.500 F pour les personnes morales dont le chiffre d'affaires est compris entre 1.000.000 F et 2.000.000 F ;
 
-- 8.500 F pour les personnes morales dont le chiffre d'affaires est compris entre 2.000.000 F et 5.000.000 F ;
+- 10.500 F pour les personnes morales dont le chiffre d'affaires est compris entre 2.000.000 F et 5.000.000 F ;
 
-- 11.500 F pour les personnes morales dont le chiffre d'affaires est compris entre 5.000.000 F et 10.000.000 F ;
+- 14.500 F pour les personnes morales dont le chiffre d'affaires est compris entre 5.000.000 F et 10.000.000 F ;
 
-- 17.000 F pour les personnes morales dont le chiffre d'affaires est égal ou supérieur à 10.000.000 F.
+- 21.500 F pour les personnes morales dont le chiffre d'affaires est égal ou supérieur à 10.000.000 F.
 
 Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaires, tous droits et taxes compris, du dernier
 exercice clos.
@@ -23861,7 +23801,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°83-1179 du 29 décembre 1983 - art. 12 (V) JORF 30 décembre 1983
+  - Loi n°89-935 1989-12-29 art. 39 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -23875,7 +23815,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (V)
 
 
-##### Section I : Taxe d'apprentissage<a id=230></a>
+##### Section I : Taxe d'apprentissage<a id=225></a>
 
 ###### Article 224
 
@@ -24480,7 +24420,7 @@ _Codifié par_:
   - TRANSFERE: Loi n°2013-1279 du 29 décembre 2013 - art. 60 (V)
 
 
-##### Section II : Taxe sur les salaires<a id=231></a>
+##### Section II : Taxe sur les salaires<a id=226></a>
 
 ###### Article 231
 
@@ -24711,15 +24651,15 @@ _Codifié par_:
 Lorsque l'employeur contribue à l'acquisition, par le salarié bénéficiaire, des titres-restaurants émis conformément aux
 dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967 et que cette contribution est comprise entre un
 minimum et un maximum fixés par arrêté du ministre de l'économie et des finances (1), le complément de rémunération qui en
-résulte pour le salarié est exonéré, dans la limite de 18 F [*montant*] (2) par titre, de la taxe sur les salaires prévue à
-l'article 231.
+résulte pour le salarié est exonéré, dans la limite de 21,50 F [*montant*] (2) par titre, de la taxe sur les salaires prévue
+à l'article 231.
 
 Cette exonération est subordonnée à la condition que l'employeur se conforme aux obligations qui sont mises à sa charge par
 le titre III de l'ordonnance susvisée du 27 septembre 1967 et les textes pris pour son application (3).
 
 (1) Annexe IV, art. 23 M.
 
-(2) Chiffre applicable depuis le 1er janvier 1989 ; cette limite était antérieurement de 15 F.
+(2) Chiffre applicable depuis le 1er janvier 1990 ; cette limite était antérieurement de 18 F.
 
 (3) Annexe II, art. 145.
 
@@ -24734,7 +24674,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 20 (V) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-935 1989-12-29 art. 37 VII Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -24891,7 +24831,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 261 (V)
 
 
-##### Section V : Redevance fixe des mines.<a id=232></a>
+##### Section V : Redevance fixe des mines.<a id=227></a>
 
 ###### Article 234
 
@@ -24933,7 +24873,7 @@ _Modifié par_:
   - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
-##### Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction.<a id=233></a>
+##### Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction.<a id=228></a>
 
 ###### Article 235 bis
 
@@ -24980,7 +24920,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 162 (VD)
 
 
-##### Section VIII : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion.<a id=234></a>
+##### Section VIII : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion.<a id=229></a>
 
 ###### Article 235 ter
 
@@ -25055,7 +24995,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 167 bis (V)
 
 
-##### Section X : Participation des employeurs au développement de la formation professionnelle continue<a id=235></a>
+##### Section X : Participation des employeurs au développement de la formation professionnelle continue<a id=230></a>
 
 ###### Article 235 ter C
 
@@ -25197,9 +25137,9 @@ _Codifié par_:
   - Décret n°88-1001 1988-10-20
 
 
-##### I. : Employeurs occupant dix salariés et plus<a id=236></a>
+##### I. : Employeurs occupant dix salariés et plus<a id=231></a>
 
-##### 1° : Montant de la participation<a id=237></a>
+##### 1° : Montant de la participation<a id=232></a>
 
 ###### Article 235 ter D
 
@@ -25254,7 +25194,7 @@ _Cite_:
   - Code du travail - art. L980-6 (T)
 
 
-##### 3° : Calcul et prise en compte de l'effectif salarié<a id=238></a>
+##### 3° : Calcul et prise en compte de l'effectif salarié<a id=233></a>
 
 ###### Article 235 ter E
 
@@ -25302,7 +25242,7 @@ _Modifié par_:
   - Loi n°86-824 du 11 juillet 1986 - art. 2 () JORF 12 juillet 1986
 
 
-##### 4° : Employeurs de cinquante salariés et plus<a id=239></a>
+##### 4° : Employeurs de cinquante salariés et plus<a id=234></a>
 
 ###### Article 235 ter F
 
@@ -25331,7 +25271,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 5° : Versement au Trésor public et majoration<a id=240></a>
+##### 5° : Versement au Trésor public et majoration<a id=235></a>
 
 ###### Article 235 ter G
 
@@ -25484,7 +25424,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-##### 4° : Fonds d'assurance-formation.<a id=241></a>
+##### 4° : Fonds d'assurance-formation.<a id=236></a>
 
 ###### Article 235 ter HC
 
@@ -25573,7 +25513,7 @@ _Cite_:
   - CGIAN2 163 nonies à 163 sexdecies
 
 
-##### Fonds d'assurance-formation.<a id=242></a>
+##### Fonds d'assurance-formation.<a id=237></a>
 
 ###### Article 235 ter HB
 
@@ -25659,11 +25599,11 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-##### Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence<a id=243></a>
+##### Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence<a id=238></a>
 
 ###### Article 235 ter L
 
-Un prélèvement spécial de 20 % [*taux*] est perçu sur la fraction des bénéfices industriels et commerciaux imposables à
+Un prélèvement spécial de 25 % [*taux*] (1) est perçu sur la fraction des bénéfices industriels et commerciaux imposables à
 l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de la distribution ou de la représentation
 de films pornographiques ou d'incitation à la violence.
 
@@ -25678,13 +25618,15 @@ Les spectacles cinématographiques auxquels s'appliquent les dispositions du pr�
 chargé du cinéma [*autorité compétente*] après avis de la commission de contrôle des films cinématographiques. Les
 réclamations et les recours contentieux relatifs à ces décisions sont instruits par le département de la culture.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article (1). Il fixe également les conditions
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article (2). Il fixe également les conditions
 d'établissement et de recouvrement du prélèvement, les obligations des redevables, les règles de contentieux, les garanties
-de recouvrement et les sanctions applicables (2).
+de recouvrement et les sanctions applicables (3).
 
-1)  Annexe II, art. 163 septdecies à 163 vicies.
+1) Le taux de 25 % s'applique aux bénéfices des exercices ouverts à compter du 1er janvier 1990.
 
-2)  En ce qui concerne les règles de prescription, voir livre des procédures fiscales, art. L172 B.
+2) Annexe II, art. 163 septdecies à 163 vicies.
+
+3) En ce qui concerne les règles de prescription, voir livre des procédures fiscales, art. L172 B.
 
 **Liens relatifs à cet article**
 
@@ -25696,15 +25638,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°83-1179 du 29 décembre 1983 - art. 18 (V) JORF 30 décembre 1983
+  - Loi n°89-935 1989-12-29 art. 8 IV, VI 3 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
   - Code de l'industrie cinématographique - art. 44-1 (VT)
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
 
 
 ###### Article 235 ter M
@@ -25820,7 +25758,7 @@ _Cité par_:
   - Code de l'industrie cinématographique - art. 44-1 (VT)
 
 
-##### Section XIV : Taxe sur les excédents de provisions des entreprises d'assurances de dommages<a id=244></a>
+##### Section XIV : Taxe sur les excédents de provisions des entreprises d'assurances de dommages<a id=239></a>
 
 ###### Article 235 ter X
 
@@ -25828,16 +25766,15 @@ Les entreprises d'assurance de dommages de toute nature doivent, lorsqu'elles ra
 l'excédent des provisions constituées pour faire face au règlement des sinistres advenus au cours d'un exercice antérieur,
 acquitter une taxe représentative de l'intérêt correspondant à l'avantage de trésorerie ainsi obtenu. 
 
-La taxe est assise sur la moitié des excédents des provisions réintégrés, diminués, d'une part, d'une franchise égale, pour
-chaque excédent, à 3 % du montant de celui-ci et des règlements de sinistres effectués au cours de l'exercice par prélèvement
-sur la provision correspondante, d'autre part, des dotations complémentaires constituées à la clôture du même exercice en vue
-de faire face à l'aggravation du coût estimé des sinistres advenus au cours d'autres exercices antérieurs. Elle est calculée,
-en rattachant chaque excédent de provision, après application de la franchise, et chaque dotation complémentaire à l'exercice
-au titre duquel la provision initiale a été constituée, au taux de 0,75 % (1) par mois s'étant écoulé depuis la constitution
-de cette provision. La période ainsi déterminée est diminuée du nombre d'années correspondant au nombre d'exercices au titre
-desquels il n'était pas dû d'impôt sur les sociétés. Pour les provisions constituées au titre d'exercices ouverts à compter
-du 1er janvier 1986, la taxe déterminée dans les conditions définies au présent alinéa est assise sur 45 % des excédents des
-provisions réintégrées.
+La taxe est assise sur le montant de l'impôt sur les sociétés qui aurait dû être acquitté l'année de la constitution des
+provisions en l'absence d'excédent. Pour le calcul de cet impôt, les excédents des provisions réintégrés sont diminués, d'une
+part, d'une franchise égale, pour chaque excédent, à 3 p. 100 du montant de celui-ci et des règlements de sinistres effectués
+au cours de l'exercice par prélèvement sur la provision correspondante, d'autre part, des dotations complémentaires
+constituées à la clôture du même exercice en vue de faire face à l'aggravation du coût estimé des sinistres advenus au cours
+d'autres exercices antérieurs. Chaque excédent de provision, après application de la franchise, et chaque dotation
+complémentaire sont rattachés à l'exercice au titre duquel la provision initiale a été constituée. La taxe est calculée au
+taux de 0,75 p. 100 par mois écoulé depuis la constitution de la provision en faisant abstraction du nombre d'années
+correspondant au nombre d'exercices au titre desquels il n'était pas dû d'impôt sur les sociétés (1).
 
 Toutefois, dans le cas où le montant des provisions constituées pour faire face aux sinistres d'un exercice déterminé a été
 augmenté à la clôture d'un exercice ultérieur, les sommes réintégrées sont réputées provenir par priorité de la dotation la
@@ -25855,9 +25792,13 @@ janvier 1988. Pour les exercices ouverts antérieurement, le taux était de 1 %.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - HISTO: Edition du 15 juin 1990
+
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 35 (P) JORF 31 décembre 1987
+  - Loi n°89-936 1989-12-29 art. 17 Finances rectificative pour 1989 JORF 30 décembre 1989
 
 _Cité par_:
 
@@ -25866,7 +25807,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
 
 
-##### Section XV : Contribution des institutions financières.<a id=245></a>
+##### Section XV : Contribution des institutions financières.<a id=240></a>
 
 ###### Article 235 ter Y
 
@@ -25919,11 +25860,11 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-#### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III<a id=246></a>
+#### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III<a id=241></a>
 
-##### Section II : Impôt sur le revenu et impôt sur les sociétés<a id=247></a>
+##### Section II : Impôt sur le revenu et impôt sur les sociétés<a id=242></a>
 
-##### I : Bénéfices et revenus imposables<a id=248></a>
+##### I : Bénéfices et revenus imposables<a id=243></a>
 
 ###### Article 236
 
@@ -26264,19 +26205,22 @@ leur bénéfice imposable, dans la limite de 2 pour mille de leur chiffre d'affa
 profit d'oeuvres ou d'organismes d'intérêt général ayant un caractère philanthropique, éducatif, scientifique, social,
 humanitaire, sportif, familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à la défense de
 l'environnement naturel ou à la diffusion de la culture, de la langue et des connaissances scientifiques françaises. Sont
-également déductibles, dans la même limite, les dons prévus à l'article L.O. 163-3 du code électoral qui sont consentis par
-chèque, à titre définitif et sans contrepartie, et dont il est justifié à l'appui du compte de campagne déposé dans les
-conditions définies à l'article L.O. 179-1 du code électoral.    La limite est fixée à 3 pour mille pour les versements à des
-organismes mentionnés au 2 ou à des établissements d'enseignement supérieur ou d'enseignement artistique, publics, ou privés
-à but non lucratif agréés par le ministre chargé du budget ainsi que par le ministre chargé de l'enseignement supérieur ou
-par le ministre chargé de la culture.
+également déductibles, dans la même limite, les dons prévus à l'article L52-8 du code électoral versés à une association de
+financement électorale ou à un mandataire financier prévu à l'article L52-4 du même code qui sont consentis par chèque, à
+titre définitif et sans contrepartie, et dont il est justifié à l'appui du compte de campagne présenté par un candidat ou une
+liste. Il en va de même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11 mars 1988 relative à la transparence
+financière de la vie politique.    La limite est fixée à 3 pour mille pour les versements à des organismes mentionnés au 2 ou
+à des établissements d'enseignement supérieur ou d'enseignement artistique, publics, ou privés à but non lucratif agréés par
+le ministre chargé du budget ainsi que par le ministre chargé de l'enseignement supérieur ou par le ministre chargé de la
+culture.
 
 Lorsque les limites fixées ci-dessus sont dépassées au cours d'un exercice, l'excédent peut être déduit des bénéfices
 imposables des cinq exercices suivants, après déduction des versements effectués au titre de chacun de ces exercices, sans
-qu'il puisse en résulter un dépassement des plafonds de déductibilité définis aux premier et deuxième alinéas.
+qu'il puisse en résulter un dépassement des plafonds de déductibilité définis aux premier et
 
-2. Pour les contribuables autres que les entreprises, la limite de déduction mentionnée au 1 est de 1,25 p. 100 du revenu
-imposable.
+2. Pour les contribuables qui ont leur domicile fiscal en France, autres que les entreprises, les versements et dons prévus
+ci-dessus ouvrent droit à une réduction d'impôt sur le revenu égale à 40 p. 100 de leur montant, pris dans la limite de 1,25
+p. 100 du revenu imposable.
 
 Cette limite est portée à 5 p. 100 pour les dons faits à des fondations ou associations reconnues d'utilité publique et
 répondant aux conditions fixées au 1, ainsi qu'aux associations cultuelles ou de bienfaisance qui sont autorisées à recevoir
@@ -26285,24 +26229,16 @@ aux versements effectués au profit du comité d'organisation des sezième jeux 
 Savoie.     La condition relative à la reconnaissance d'utilité publique est réputée remplie par les associations régies par
 la loi locale maintenue en vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, lorsque la mission de
 ces associations est reconnue d'utilité publique.     Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance
-et les modalités de la procédure déconcentrée permettant de l'accorder (1).    Les versements affectés à la fourniture
-gratuite en France de repas à des personnes en difficulté ouvrent droit, au choix du contribuable, à une réduction d'impôt
-sur le revenu égale à 50 p. 100 du montant de ces versements pris dans la limite de 400 F. Le paragraphe II de l'article 199
-sexies A est applicable.
+et les modalités de la procédure déconcentrée permettant de l'accorder (1).    Le taux de la réduction d'impôt est porté à 50
+p. 100 pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas
+à des personnes en difficulté ou qui contribuent à favoriser leur logement. Ces versements sont retenus dans la limite de 500
+F. Il n'en est pas tenu compte pour l'application des limites de 1,25 p. 100 et de 5 p. 100.
 
-A compter de l'imposition des revenus de 1989, cette disposition s'applique aux versements mentionnés à l'alinéa précédent
-lorsqu'ils sont affectés à la fourniture gratuite de repas hors de France.
-
-3. L'avantage en impôt résultant de la déduction prévue au 2 ne peut être inférieur à 25 p. 100 des sommes déduites pour la
-fraction annuelle des dons qui n'excède pas 600 F pour l'imposition des revenus de 1987 et 1 200 F à compter de l'imposition
-des revenus de 1988.    4. A compter de l'imposition des revenus de 1989, le taux de 25 p. 100 mentionné au 3 est porté au
-taux de la dernière tranche du barème de l'impôt sur le revenu lorsque les versements justifiés par le contribuable au titre
-de l'année de l'imposition et de l'année précédente sont au moins égaux à 1 200 F par an.
+3. (Abrogé).    4. (Abrogé).
 
 5. Le bénéfice des dispositions du 2 est subordonné à la condition que soient jointes à la déclaration des revenus des pièces
 justificatives, répondant à un modèle fixé par un arrêté (2) attestant le total du montant et la date des versements ainsi
-que l'identité des bénéficiaires. A défaut, les sommes déduites sont réintégrées au revenu imposable ou la réduction d'impôt
-est refusée sans notification de redressement préalable.
+que l'identité des bénéficiaires. A défaut la réduction d'impôt est refusée sans notification de redressement préalable.
 
 6. La déduction mentionnée au 1 peut être effectuée, dans la limite de 2 p. 1.000 pour les dons faits à des organismes
 répondant à des conditions quant à leur statut et leurs conditions de fonctionnement fixées par décret en Conseil d'Etat (3)
@@ -26315,6 +26251,9 @@ Dans tous les cas, ces organismes doivent être agréés par le ministre chargé
 8. Les organismes mentionnés au 4 peuvent, lorsque leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat,
 recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
 
+9. La réduction d'impôt prévue au 2 s'applique sur l'impôt calculé dans les conditions fixées par l'article 197 avant, le cas
+échéant, application des dispositions du paragraphe VI de cet article ; elle ne peut donner lieu à remboursement.
+
 (1) Décret n° 85-1304 du 9 décembre 1985 (JO du 11).
 
 (2) Arrêté du 21 janvier 1982 (JO du 14 mars 1982).
@@ -26326,13 +26265,13 @@ recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au 
 _Cite_:
 
   - Arrêté 1982-01-21
-  - CGI 199 octies A II
-  - CGI 238 bis A
+  - CGI 197
   - Décret n°85-865 1985-08-09
   - Décret n°85-1304 1985-12-09
-  - Loi n°82-1126 1982-12-28 art. 10 Finances pour 1983
   - Loi n°87-571 du 23 juillet 1987 - art. 4, v. init.
-  - Code électoral L.O. 163-3
+  - Loi n°88-227 1988-03-11 art. 11 4
+  - Code électoral - art. L52-4 (M)
+  - Code électoral - art. L52-8 (M)
 
 _Cité par_:
 
@@ -26393,11 +26332,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°87-571 du 23 juillet 1987 - art. 4 (V) JORF 24 juillet 1987 incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 5
+  - Loi n°90-55 du 15 janvier 1990 - art. 18 () JORF 16 janvier 1990
 
 
 ###### Article 238 bis A
@@ -26743,7 +26679,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 BA (V)
 
 
-##### 1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles<a id=249></a>
+##### 1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles<a id=244></a>
 
 ###### Article 238 bis HE
 
@@ -27046,7 +26982,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 238 bis HE (V)
 
 
-##### I bis : Réévaluation des immobilisations non amortissables<a id=250></a>
+##### I bis : Réévaluation des immobilisations non amortissables<a id=245></a>
 
 ###### Article 238 bis I
 
@@ -27097,7 +27033,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### I ter : Réévaluation des immobilisations amortissables<a id=251></a>
+##### I ter : Réévaluation des immobilisations amortissables<a id=246></a>
 
 ###### Article 238 bis J
 
@@ -27187,7 +27123,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L bis (V)
 
 
-##### I quater : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes ou un groupement d'intérêt économique.<a id=252></a>
+##### I quater : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes ou un groupement d'intérêt économique.<a id=247></a>
 
 ###### Article 238 bis K
 
@@ -27223,7 +27159,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies E (V)
 
 
-##### I quinquies : Régime fiscal des sociétés créées de fait<a id=253></a>
+##### I quinquies : Régime fiscal des sociétés créées de fait<a id=248></a>
 
 ###### Article 238 bis L
 
@@ -27268,7 +27204,7 @@ _Cité par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### I sexies : Obligation des sociétés en participation<a id=254></a>
+##### I sexies : Obligation des sociétés en participation<a id=249></a>
 
 ###### Article 238 bis M
 
@@ -27297,7 +27233,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L57 A (V)
 
 
-##### II : Régime fiscal des groupements forestiers et de leurs membres<a id=255></a>
+##### II : Régime fiscal des groupements forestiers et de leurs membres<a id=250></a>
 
 ###### Article 238 quater
 
@@ -27370,7 +27306,7 @@ _Cite_:
   - Code forestier L241-1 à L246-2
 
 
-##### VI bis : Primes de remboursement et intérêts capitalisés<a id=256></a>
+##### VI bis : Primes de remboursement et intérêts capitalisés<a id=251></a>
 
 ###### Article 238 septies A
 
@@ -27498,7 +27434,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 238 septies A (V)
 
 
-##### Fonds communs de créances.<a id=257></a>
+##### Fonds communs de créances.<a id=252></a>
 
 ###### Article 238 septies D
 
@@ -27522,7 +27458,7 @@ _Codifié par_:
   - Décret n°89-801 1989-10-27
 
 
-##### VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation<a id=258></a>
+##### VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation<a id=253></a>
 
 ###### Article 238 octies
 
@@ -27593,12 +27529,12 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 J (V)
 
 
-##### VII ter : Modalités d'imposition de la plus value professionnelle provenant de la transmission ou du rachat de droits relatifs à une société relevant des articles 8 à 8 ter et exerçant une activité immobilière<a id=259></a>
+##### VII ter : Modalités d'imposition de la plus value professionnelle provenant de la transmission ou du rachat de droits relatifs à une société relevant des articles 8 à 8 ter et exerçant une activité immobilière<a id=254></a>
 
 ###### Article 238 octies A
 
 Les plus-values à long terme réalisées par une entreprise industrielle ou commerciale, entre le 1er janvier 1988 et le 31
-décembre 1989, lors de la cession de terrains d'assiette de bâtiments destinés à être démolis et de terrains formant une
+décembre 1991, lors de la cession de terrains d'assiette de bâtiments destinés à être démolis et de terrains formant une
 dépendance indispensable et immédiate de ces constructions, détenus depuis cinq ans au moins et qui ont cessé d'être affectés
 à l'exploitation depuis deux ans peuvent, sur agrément du ministre chargé du budget, être soumises au taux d'imposition
 mentionné au premier alinéa du a du I de l'article 219 pour les sociétés soumises à l'impôt sur les sociétés, ou au taux
@@ -27607,8 +27543,8 @@ l'acquéreur doit prendre l'engagement, dans l'acte d'acquisition, d'effectuer d
 nécessaires à l'édification d'un immeuble ou d'un groupe d'immeubles affectés à l'habitation pour les trois-quarts au moins
 de leur superficie.
 
-Les plus-values à long terme visées à l'alinéa précédent ne peuvent  être diminuées du montant des moins-values afférentes
-aux autres éléments de l'actif immobilisé.
+Les plus-values à long terme visées à l'alinéa précédent ne peuvent être diminuées du montant des moins-values afférentes aux
+autres éléments de l'actif immobilisé.
 
 En cas de non-respect de cet engagement, il est dû par l'acquéreur, au titre de l'exercice au cours duquel le délai de quatre
 ans a expiré, un complément de droit calculé en tenant compte, selon le cas, du taux mentionné soit au quatrième alinéa du a
@@ -27619,23 +27555,20 @@ du I de l'article 219, soit au 1 du II de l'article 39 quindecies, sans préjudi
 
 _Cite_:
 
-  - CGI 219 I a al. 4
+  - CGI 1727
+  - CGI 219 I a al. 1, al. 4
   - CGI 39 quindecies I 1, II 1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-1061 du 30 décembre 1987 - art. 14 (V) JORF 31 décembre 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Loi n°89-935 1989-12-29 art. 37 I Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1764 (V)
 
 
-##### VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir<a id=260></a>
+##### VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir<a id=255></a>
 
 ###### Article 238 decies
 
@@ -27785,7 +27718,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 quater A (V)
 
 
-##### IX : Régime fiscal des sociétés de personnes, des sociétés en participation, des groupements d'intérêt public, des sociétés à responsabilité limitée, des exploitations agricoles à responsabilité limitée et des sociétés civiles professionnelles. Option pour le régime des sociétés de capitaux<a id=261></a>
+##### IX : Régime fiscal des sociétés de personnes, des sociétés en participation, des groupements d'intérêt public, des sociétés à responsabilité limitée, des exploitations agricoles à responsabilité limitée et des sociétés civiles professionnelles. Option pour le régime des sociétés de capitaux<a id=256></a>
 
 ###### Article 239
 
@@ -27839,7 +27772,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 22 (Ab)
 
 
-##### XI bis : Régime fiscal de certaines sociétés à responsabilité limitée - Option pour le régime des sociétés de personnes<a id=262></a>
+##### XI bis : Régime fiscal de certaines sociétés à responsabilité limitée - Option pour le régime des sociétés de personnes<a id=257></a>
 
 ###### Article 239 bis AA
 
@@ -27880,7 +27813,7 @@ _Cité par_:
   - HISTO: Edition du 15 juillet 1985
 
 
-##### XII : Plus-values de liquidation distribuées par certaines sociétés.<a id=263></a>
+##### XII : Plus-values de liquidation distribuées par certaines sociétés.<a id=258></a>
 
 ###### Article 239 bis B
 
@@ -27941,7 +27874,7 @@ _Modifié par_:
   - Loi n°87-1061 du 30 décembre 1987 - art. 14 (V) JORF 31 décembre 1987
 
 
-##### XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente<a id=264></a>
+##### XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente<a id=259></a>
 
 ###### Article 239 ter
 
@@ -27994,7 +27927,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 J (V)
 
 
-##### XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres<a id=265></a>
+##### XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres<a id=260></a>
 
 ###### Article 239 quater
 
@@ -28063,7 +27996,7 @@ _Codifié par_:
   - Décret n°83-899 1983-10-06
 
 
-##### XIV bis : Sociétés civiles de moyens<a id=266></a>
+##### XIV bis : Sociétés civiles de moyens<a id=261></a>
 
 ###### Article 239 quater A
 
@@ -28115,7 +28048,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L53 (2ème al. du CGI 239 quater A)
 
 
-##### XIV ter : Régime fiscal des groupements d'intérêt public<a id=267></a>
+##### XIV ter : Régime fiscal des groupements d'intérêt public<a id=262></a>
 
 ###### Article 239 quater B
 
@@ -28162,7 +28095,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-##### XIV quater : Régime fiscal des groupements européens d'intérêt économique et de leurs membres<a id=268></a>
+##### XIV quater : Régime fiscal des groupements européens d'intérêt économique et de leurs membres<a id=263></a>
 
 ###### Article 239 quater C
 
@@ -28209,7 +28142,7 @@ _Créé par_:
   - Règlement CEE 2137-85 1985-07-25 art. 40 JOCE 31 juillet 1985
 
 
-##### XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers<a id=269></a>
+##### XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers<a id=264></a>
 
 ###### Article 239 quinquies
 
@@ -28248,9 +28181,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 quater W (V)
 
 
-##### XVI : Opérations de crédit-bail<a id=270></a>
+##### XVI : Opérations de crédit-bail<a id=265></a>
 
-##### 1° :  Opérations de crédit-bail réalisées par les sociétés immobilières pour le commerce et l'industrie et les sociétés agréées pour le financement des économies d'énergie<a id=271></a>
+##### 1° :  Opérations de crédit-bail réalisées par les sociétés immobilières pour le commerce et l'industrie et les sociétés agréées pour le financement des économies d'énergie<a id=266></a>
 
 ###### Article 239 sexies
 
@@ -28313,6 +28246,64 @@ _Créé par_:
 _Abrogé par_:
 
   - Loi - art. 29 (V) JORF 31 décembre 1999
+
+
+##### 2° : Opérations de crédit-bail auprès de bailleurs autres que des SICOMI<a id=267></a>
+
+###### Article 239 sexies B
+
+Les dispositions des premier et troisième alinéas du paragraphe I et celles du paragraphe II de l'article 239 sexies sont
+applicables aux locataires qui acquièrent des immeubles qui leur sont donnés en crédit-bail par des sociétés ou organismes
+autres que des sociétés immobilières pour le commerce et l'industrie.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 239 sexies
+
+_Créé par_:
+
+  - Loi n°89-935 1989-12-29 art. 22 II 1 Finances pour 1990 JORF 30 décembre 1989, article créé directement et incorporé dans l'édition du 15 juin 1990
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 239 sexies C (V)
+  - Code général des impôts, CGI. - art. 239 sexies D (V)
+  - Code général des impôts, CGI. - art. 39 duodecies A (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 octies E (V)
+
+
+##### bénéfices visés aux chapitres I à III<a id=268></a>
+
+##### Section II : Impôt sur le revenu et impôt sur les sociétés<a id=269></a>
+
+##### XVI : Opérations de crédit-bail<a id=270></a>
+
+##### Amortissement des biens acquis à l'échéance d'un contrat de crédit-bail.<a id=271></a>
+
+###### Article 239 sexies C
+
+Le prix de revient du bien acquis à l'échéance d'un contrat de crédit-bail est majoré des sommes réintégrées en application
+des articles 239 sexies, 239 sexies A et 239 sexies B. La fraction du prix qui excède, le cas échéant, le prix d'achat du
+terrain par le bailleur est amortie dans les conditions mentionnées au 2° du 1 de l'article 39.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 239 sexies
+  - CGI 239 sexies A
+  - CGI 239 sexies B
+  - CGI 39
+
+_Créé par_:
+
+  - Loi n°89-935 1989-12-29 art. 22 II 1 Finances pour 1990 JORF 30 décembre 1989, article créé directement et incorporé dans l'édition du 15 juin 1990
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 39 duodecies A (V)
 
 
 ##### XVII : Sociétés civiles autorisées à faire publiquement appel à l'épargne.<a id=272></a>
@@ -30274,14 +30265,13 @@ taxe sur la valeur ajoutée.
 L'option ne peut être exercée si les locaux nus donnés en location sont destinés à l'habitation ou à un usage agricole.
 
 3° Les personnes qui effectuent des opérations portant sur les déchets neufs d'industrie et sur les matières de récupération
-(3);     4° Les coopératives d'utilisation de matériel agricole et les coopératives d'insémination artificielle (4);     5°
-Les personnes qui ont passé un bail à construction; dans ce cas, la taxe sur la valeur ajoutée est appliquée conformément à
-l'article 257-7° (5).     6° A compter du 1er octobre 1988, les personnes qui donnent en location, en vertu d'un bail
-enregistré, des terres et bâtiments d'exploitation à usage agricole. L'option ne peut être exercée que si le preneur est
-redevable de la taxe sur la valeur ajoutée et elle s'applique à tous les baux conclus par un même bailleur avec des
-agriculteurs répondant à cette condition.      Les conditions et modalités de l'option notamment, pour l'application du 6°,
-les modalités d'évaluation des bâtiments d'habitation lorsqu'ils ne font pas l'objet d'une location distincte, sont fixées
-par décret en Conseil d'Etat (6).
+(3);     4° (Abrogé) ;     5° Les personnes qui ont passé un bail à construction; dans ce cas, la taxe sur la valeur ajoutée
+est appliquée conformément à l'article 257-7° (4).     6° A compter du 1er octobre 1988, les personnes qui donnent en
+location, en vertu d'un bail enregistré, des terres et bâtiments d'exploitation à usage agricole. L'option ne peut être
+exercée que si le preneur est redevable de la taxe sur la valeur ajoutée et elle s'applique à tous les baux conclus par un
+même bailleur avec des agriculteurs répondant à cette condition.      Les conditions et modalités de l'option notamment, pour
+l'application du 6°, les modalités d'évaluation des bâtiments d'habitation lorsqu'ils ne font pas l'objet d'une location
+distincte, sont fixées par décret en Conseil d'Etat (5).
 
 1)  Voir Annexe II, art. 189 à 192.
 
@@ -30289,11 +30279,9 @@ par décret en Conseil d'Etat (6).
 
 3)  Voir Annexe II, art. 196 à 201.
 
-4)  Voir Annexe II, art. 201 bis et 201 ter.
+4)  Voir Annexe II, art. 201 quater A à 201 quater C.
 
-5)  Voir Annexe II, art. 201 quater A à 201 quater C.
-
-6)  Voir Annexe II, art. 202.
+5)  Voir Annexe II, art. 202.
 
 **Liens relatifs à cet article**
 
@@ -30301,12 +30289,8 @@ _Cite_:
 
   - CGI 257 7°
   - CGI 261 4
-  - CGIAN2 189 à CGIAN2 201 ter
-  - CGIAN2 193 à CGIAN2 195
-  - CGIAN2 196 à CGIAN2 201
-  - CGIAN2 201 bis
+  - CGIAN2 189 à CGIAN2 201
   - CGIAN2 201 quater A à CGIAN2 201 quater C
-  - CGIAN2 201 ter
   - CGIAN2 202
 
 _Anciens textes_:
@@ -30314,13 +30298,9 @@ _Anciens textes_:
   - Loi n°78-1240 1978-12-29 art. 29, art. 49 Finances rectificative pour 1978
   - Loi n°78-1240 du 29 décembre 1978 - art. 29 ()
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1193 1988-12-29 art. 15 II
-
 _Modifié par_:
 
-  - Loi n°88-1193 du 29 décembre 1988 - art. 15 (V) JORF 30 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 31 III 1 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -30525,10 +30505,9 @@ marchés à terme à l'exclusion de celles qui déterminent l'arrêt de la fili�
 
 1° (Abrogé) ;
 
-2° Les opérations réalisées par les coopératives d'insémination artificielle et les coopératives d'utilisation de matériel
-agricole ;    3° Les prestations réalisées dans le cadre de l'entraide entre agriculteurs définie par l'article 20 de la loi
-n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole. Cette exonération pourra être étendue par décret en
-Conseil d'Etat aux départements d'outre-mer (2) ;
+2° (Abrogé) ;    3° Les prestations réalisées dans le cadre de l'entraide entre agriculteurs définie par l'article 20 de la
+loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole. Cette exonération pourra être étendue par décret
+en Conseil d'Etat aux départements d'outre-mer (2) ;
 
 4° Les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui concerne la vente des produits de leur pêche
 (poissons, crustacés, coquillages frais ou conservés à l'état frais par un procédé frigorifique) ;
@@ -30556,7 +30535,8 @@ d'analyse de biologie médicale et les fournitures de prothèses dentaires par l
 70-1318 du 31 décembre 1970 portant réforme hospitalière.    2° Les livraisons, commissions, courtages et façons portant sur
 les organes, le sang et le lait humains ;
 
-3° (Abrogé) ;
+3° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet effectué par des personnes
+visées à l'article L. 51-2 du code de la santé publique ;
 
 4° a. Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre :
 
@@ -30596,7 +30576,7 @@ profession ;
 
 8° (Abrogé).
 
-9° Les personnes de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant
+9° Les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant
 une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la
 gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique,
 civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux
@@ -30695,7 +30675,8 @@ de l'actif, sous réserve du droit de reprise des apports.
 Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil
 d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (5) ;
 
-2° (Abrogé).
+1° bis Les opérations effectuées par les associations intermédiaires agréées en application de l'article L128 du code du
+travail, dans les conditions prévues au 1° ;    2° (Abrogé).
 
 3° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans
 les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils
@@ -30718,36 +30699,33 @@ des personnes mentionnées à l'article 260-1° ;
 
 _Cite_:
 
-  - CGI 1378 quinquies
-  - CGI 235 bis
-  - CGI 257 7°, 10°, 13°, 15°
-  - CGI 260 1°
-  - CGI 733
-  - CGIAN2 242 B
+  - CGI 733, 257, 235 bis, 1378 quinquies, 260, CGIAN2 242 B
   - CGIAN2 242 octies
   - CGIAN3 71
   - CGIAN4 24
   - Décret n°56-931 1956-09-14
-  - Décret n°61-610 1961-06-14
-  - Loi n°1875-07-12
-  - Loi n°1886-10-30
-  - Loi n°1919-07-25
+  - Loi n°57-298 du 11 mars 1957 - art. 3 (M)
   - Loi n°60-791 1960-08-02
-  - Loi n°60-808 1960-08-15 art. 15
+  - Loi n°60-808 1960-08-05
+  - Décret n°61-610 1961-06-14
   - Loi n°62-933 du 8 août 1962 - art. 20 (Ab)
   - Décret n°64-285 1964-04-02
   - Loi n°68-978 du 12 novembre 1968 - art. 5 (Ab)
-  - Décret n°69-295 1969-03-24
+  - Décret n°69-295 1969-03-24 annexe
   - Loi n°70-1318 1970-12-31 art. 31
   - Loi n°71-556 1971-07-12
-  - Loi n°71-575 1971-07-16
   - Loi n°72-616 1972-07-05
+  - Code du travail - art. L128 (M)
+  - Code du travail - art. L900-1 (M)
+  - Code de la santé publique - art. L51-2 (M)
   - Code de l'urbanisme - art. L130-2 (M)
   - Code de l'urbanisme - art. L322-12 (Ab)
-  - Code de l'urbanisme L322-2 1°
+  - Code de l'urbanisme - art. L322-2 (M)
   - Loi n°1850-03-15
+  - Loi n°1875-07-12
   - Loi n°1885-03-28 art. 5
-  - Loi n°57-298 1957-08-11 art. 3
+  - Loi n°1886-10-30
+  - Loi n°1919-07-25
   - Ordonnance 58-1145 1958-12-31
 
 _Cité par_:
@@ -30778,8 +30756,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 23 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988 en vigueur le 1er février 1988
+  - Loi n°89-935 1989-12-29 art. 31 II, III 1 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 261 A
@@ -31268,8 +31245,8 @@ f. Pour les travaux immobiliers, par le montant des marchés, mémoires ou factu
 
 g. Par la différence entre le prix de vente et le prix d'achat en ce qui concerne :
 
-- les ventes d'objets d'occasion, autres que celles portant sur les biens visés à l'article 257-13° ou figurant à la liste
-visée à l'article 261-3-1°-A ;
+- les ventes d'objets d'occasion, autres que celles portant sur les biens visés à l'article 257-13° ou à l'article 261-3-1°-
+A ;
 
 - les ventes d'oeuvres d'art originales répondant aux conditions qui sont fixées par décret, lequel précise également les
 modalités de détermination de l'assiette de la taxe (3).
@@ -31283,7 +31260,7 @@ grosses réparations des ouvrages concédés et au paiement des redevances propo
 Toutefois, tant que le montant cumulé des péages, déduction faite des redevances proportionnelles versées à l'autorité
 concédante, est inférieur au montant cumulé des dépenses de financement et des charges d'exploitation, la taxe sur la valeur
 ajoutée est due sur la fraction des recettes de péage correspondant au rapport entre les charges d'exploitation et le total
-des dépenses (4).
+des dépenses.
 
 1 bis. (Abrogé).
 
@@ -31306,15 +31283,16 @@ qui s'y ajoutent ;
 cette valeur vénale est supérieure au prix, au montant de l'indemnité ou à la valeur des droits sociaux, augmenté des
 charges.
 
-Toutefois, dans le cas de cession de droits sociaux, un décret (6) peut diminuer la base d'imposition ainsi définie du
+Toutefois, dans le cas de cession de droits sociaux, un décret (4) peut diminuer la base d'imposition ainsi définie du
 montant des sommes investies par le cédant pour la souscription ou l'acquisition desdits droits. Dans cette hypothèse, les
 dispositions de l'article 271 cessent de s'appliquer ;
 
 b bis. Pour la cession du bénéfice d'un contrat de location-attribution ou de location-vente entrant dans les prévisions de
 l'article 1378 quinquies, sur la différence entre :
 
-- d'une part, le prix exprimé et les charges qui peuvent s'y ajouter,    - d'autre part, les sommes versées par le cédant en
-vue de l'acquisition du logement.
+- d'une part, le prix exprimé et les charges qui peuvent s'y ajouter,
+
+- d'autre part, les sommes versées par le cédant en vue de l'acquisition du logement.
 
 Ces dispositions s'appliquent aux offices publics d'aménagement et de construction pour les opérations faites en application
 de la législation sur les habitations à loyer modéré.
@@ -31333,9 +31311,7 @@ la propriété du bailleur en fin de bail.
 
 (3) Annexe III, art. 76-3. Pour la définition des oeuvres d'art originales, voir même Annexe, art. 71.
 
-(4) Ces dispositions ont un caractère interprétatif.
-
-(5) Annexe II, art. 248.
+(4) Annexe II, art. 248.
 
 **Liens relatifs à cet article**
 
@@ -31363,21 +31339,14 @@ _Cite_:
   - CGI 261 3 1° A
   - CGI 267 bis
   - CGI 271
-  - CGI 279 b sexies
-  - CGI 691 I
   - CGI L17
   - CGIAN2 248
   - CGIAN3 71
   - CGIAN3 76 1, 3
-  - CGIAN3 76 ter
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
 
 _Modifié par_:
 
-  - Décret n°87-940 1987-11-23 art. 1 JORF 26 novembre 1987, en vigueur le 10 août 1987
+  - Loi n°89-935 1989-12-29 art. 31 I 4 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 267
@@ -32549,8 +32518,8 @@ _Abrogé par_:
 
 ###### Article 281
 
-Le taux normal de la taxe sur la valeur ajoutée peut être porté par décret (1) à 28 % en ce qui concerne les produits ou les
-opérations visés ci-après :
+Le taux normal de la taxe sur la valeur ajoutée peut être porté par décret (1) à 25 % (2) en ce qui concerne les produits ou
+les opérations visés ci-après :
 
 1° Les opérations, les livraisons, y compris les livraisons à soi-même et les importations portant sur les marchandises dont
 la liste est établie par décrets (1);
@@ -32564,36 +32533,38 @@ définis par décret;
 
 5° Les travaux immobiliers ainsi que les travaux d'aménagement et d'installation, dont la liste est donnée par décret.
 
-La taxe au taux de 28 % est exigible quelle que soit la situation des personnes imposables au regard des dispositions de
+La taxe au taux de 25 % est exigible quelle que soit la situation des personnes imposables au regard des dispositions de
 l'article 256.
 
 Des allègements de la charge supplémentaire résultant de l'application des dispositions du présent article peuvent être
 accordés compte tenu des résultats obtenus en matière d'exportation vers l'étranger.
 
-(1)  Annexe III, art. 89.
+(1) Annexe III, art. 89.
+
+(2) Cette disposition est applicable  à compter du 15 septembre 1989 en ce qui concerne les opérations portant sur les
+appareils audiovisuels, les supports audiovisuels, y compris leurs locations, qui ne portent pas sur des oeuvres mentionnées
+à l'article 281 bis A du code général des impôts, le caviar, les parfums, les perles et pierres précieuses et les ouvrages
+composés de perles ou pierres précieuses, de platine, d'or et d'argent, les pelleteries.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 19 décembre 2016 (V)
+  - Arrêté du 14 décembre 2017 (V)
+  - Arrêté du 14 décembre 2017 - art. 1 (V)
+  - Décret n°2012-1448 du 24 décembre 2012 (V)
+  - Décret n°2017-1695 du 14 décembre 2017 - art. 2 (V)
 
 _Cite_:
 
   - CGI 256
+  - CGI 281 bis A
   - CGIAN3 89
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 9 (P) JORF 28 décembre 1988 incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
-
-_Cité par_:
-
-  - Décret n°2012-1448 du 24 décembre 2012 (V)
-  - Arrêté du 19 décembre 2016 (V)
-  - Arrêté du 14 décembre 2017 (V)
-  - Arrêté du 14 décembre 2017 - art. 1 (V)
-  - Décret n°2017-1695 du 14 décembre 2017 - art. 2 (V)
+  - Loi n°89-935 1989-12-29 art. 8 I VI Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 281 bis
@@ -32947,6 +32918,37 @@ _Créé par_:
 
 
 ##### G : Taux particuliers<a id=320></a>
+
+###### Article 281 octies
+
+La taxe sur la valeur ajoutée est perçue au taux de 2,10 p. 100 pour les opérations d'achat, d'importation, de vente, de
+livraison, de commission, de courtage ou de façon portant sur les préparations magistrales, médicaments officinaux,
+médicaments spécialisés définis à l'article L. 601 du code de la santé publique, qui remplissent les conditions de l'article
+L. 162-17 du code de la sécurité sociale ou qui sont agréés dans les conditions prévues par les articles L. 618 et L. 619 du
+code de la santé publique et sur les produits visés à l'article L. 666 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 9
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 278 quater (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L601 (M)
+  - Code de la santé publique - art. L618 (M)
+  - Code de la santé publique - art. L619 (Ab)
+  - Code de la santé publique - art. L666 (P)
+  - Code de la sécurité sociale. - art. L162-17 (M)
+
+**Liens**:
+
+  - HISTO: article créé directement et incorporé dans l'édition du 15 juin 1990)
+
 
 ###### Article 281 quater
 
@@ -34303,19 +34305,26 @@ dispositions ci-après :
 1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-11, 27-11-14, ex
 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable
 lors de la mise à la consommation est fixée forfaitairement, pour chaque trimestre de l'année civile, par décision du
-directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.     En ce qui concerne
-les produits autres que le gaz comprimé destiné à être utilisé comme carburant, cette valeur est établie sur la base du prix
-C.A.F. moyen des produits importés, majoré du montant des droits de douane applicables aux produits de l'espèce en régime de
-droit commun en tarif minimum et des taxes et redevances perçues lors de la mise à la consommation, à l'exception de la taxe
-sur la valeur ajoutée.    La valeur imposable peut être révisée au cours du trimestre par décision du directeur général des
-douanes et droits indirects sur proposition du directeur des hydrocarbures, dans le cas où les prix C.A.F. des produits
-pétroliers accusent une variation en plus ou en moins, égale ou supérieure à 10 p. 100 par rapport aux prix ayant servi de
-base au calcul de cette valeur.
+directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.
+
+En ce qui concerne les produits autres que le gaz comprimé destiné à être utilisé comme carburant, cette valeur est établie
+sur la base du prix C.A.F. moyen des produits importés, majoré du montant des droits de douane applicables aux produits de
+l'espèce en régime de droit commun en tarif minimum et des taxes et redevances perçues lors de la mise à la consommation, à
+l'exception de la taxe sur la valeur ajoutée.
+
+La valeur imposable peut être révisée au cours du trimestre par décision du directeur général des douanes et droits indirects
+sur proposition du directeur des hydrocarbures, dans le cas où les prix C.A.F. des produits pétroliers accusent une variation
+en plus ou en moins, égale ou supérieure à 10 p. 100 par rapport aux prix ayant servi de base au calcul de cette valeur.
 
 2° La valeur imposable lors des opérations postérieures à la mise à la consommation est fixée dans les conditions prévues aux
-articles 266 et 267;     3° (Abrogé)     3  Sous réserve des dispositions du 4, les droits à déduction dont peuvent
-bénéficier l'industrie et le commerce du pétrole sont déterminés dans les conditions prévues aux articles 271 et 273.     4
-1°. La taxe sur la valeur ajoutée qui a grevé des produits pétroliers et les services de toute nature utilisés pour la
+articles 266 et 267;
+
+3° (Abrogé)
+
+3  Sous réserve des dispositions du 4, les droits à déduction dont peuvent bénéficier l'industrie et le commerce du pétrole
+sont déterminés dans les conditions prévues aux articles 271 et 273.
+
+4  1°. La taxe sur la valeur ajoutée qui a grevé des produits pétroliers et les services de toute nature utilisés pour la
 fabrication ou la commercialisation desdits produits n'est déductible que si ces produits sont ultérieurement livrés ou
 vendus en l'état ou sous forme d'autres produits pétroliers.
 
@@ -34359,11 +34368,19 @@ carburant routier ;
 1° quater. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le fioul
 domestique utilisé pour des usages agricoles est déductible à concurrence de 50 p. 100 de son montant, dans les conditions
 fixées aux articles 271 à 273, par les personnes visées à l'article 298 bis, par les coopératives d'utilisation de matériel
-agricole et par les entrepreneurs de travaux agricoles.    Le fioul domestique visé au présent article s'entend du produit
-mentionné au tableau B de l'article 265 du code des douanes (1) ;    1° quinquies. La taxe sur la valeur ajoutée afférente
-aux achats, importations, livraisons et services portant sur les carburéacteurs mentionnés à la position 27 10 00 du tableau
-B de l'article 265 du code des douanes est déductible, dans les conditions prévues aux articles 271 à 273, lorsqu'ils sont
-utilisés pour les besoins de transports aériens publics de voyageurs ou de marchandises.
+agricole et par les entrepreneurs de travaux agricoles.
+
+La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le fioul domestique
+utilisé comme carburant pour la réalisation de transports fluviaux est déductible, à concurrence de 50 p. 100 de son montant,
+dans les conditions prévues aux articles 271 à 273.
+
+Le fioul domestique visé au présent article s'entend du produit mentionné au tableau B de l'article 265 du code des
+douanes ; 
+
+1° quinquies. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur les
+carburéacteurs mentionnés à la position 27 10 00 du tableau B de l'article 265 du code des douanes est déductible, dans les
+conditions prévues aux articles 271 à 273, lorsqu'ils sont utilisés pour les besoins de transports aériens publics de
+voyageurs ou de marchandises.
 
 En 1989 et en 1990, la déduction est limitée respectivement à un tiers et à deux tiers de son montant. 
 
@@ -34396,9 +34413,24 @@ l'article 265 du code des douanes sous les indices d'identification 30, 33, 35, 
 
 7  (Transféré sous l'article L 45 C du livre des procédures fiscales).
 
-(1) Pour l'application de ces dispositions, les droits à déduction  sont pris en compte à compter du 1er janvier 1986.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°82-540 1982-06-28 ART. 3 V
+  - CGI 262
+  - CGI 266
+  - CGI 267
+  - CGI 271
+  - CGI 272
+  - CGI 273
+  - CGI 291 II
+  - CGI 298 bis
+  - Code des douanes - art. 265 (M)
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 32 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -34413,24 +34445,6 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 206 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 210 (VT)
   - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 K (V)
-
-_Cite_:
-
-  - CGI 262
-  - CGI 266
-  - CGI 267
-  - CGI 271
-  - CGI 272
-  - CGI 273
-  - CGI 291 II
-  - CGI 298 bis
-  - Loi n°82-540 1982-06-28 ART. 3 V
-  - Code des douanes - art. 265 (M)
-
-_Modifié par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 28 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-  - Loi n°88-1193 du 29 décembre 1988 - art. 32 () JORF 30 décembre 1988
 
 
 ##### IV : Exploitants agricoles<a id=338></a>
@@ -34460,34 +34474,26 @@ taxe sur la valeur ajoutée sont soumis à l'ensemble des dispositions prévues 
 II  Sont soumis de plein droit au régime simplifié prévu au I :
 
 1° Les exploitants agricoles dont les activités sont, par leur nature ou leur importance, assimilables à celles exercées par
-des industriels ou des commerçants, même si ces opérations constituent le prolongement de l'activité agricole (1);
-
-2° Pour leurs opérations de vente d'animaux vivants de boucherie et de charcuterie, les exploitants agricoles qui, en raison
-des caractéristiques de leur exploitation, exercent une influence notable sur le marché local de ces animaux (2);
-
-3° Pour leurs activités agricoles, les personnes qui effectuent des opérations commerciales d'achat, d'importation, de vente,
-de commission et de courtage portant sur des animaux vivants de boucherie et de charcuterie;
-
-4° Les personnes qui effectuent des opérations commerciales d'importation, de vente, de commission et de courtage portant sur
-des animaux vivants de boucherie et de charcuterie.
-
-5° Les exploitants agricoles, lorsque le montant moyen des recettes de l'ensemble de leurs exploitations, calculé sur deux
-années civiles consécutives, dépasse 300.000 F. L'assujettissement prend effet à compter du 1er janvier de l'année suivante
-et au plus tôt le 1er janvier 1983.
-
-6° Les bailleurs de biens ruraux qui ont exercé l'option autorisée par le 6° de l'article 260.
-
-Lorsque la moyenne des recettes, non comprise la taxe sur la valeur ajoutée, calculée sur trois années civiles consécutives
-d'assujettissement, devient inférieure à 300.000 F, les exploitants agricoles peuvent cesser d'être soumis au régime
-simplifié à compter du 1er janvier suivant, à condition qu'ils le signalent au service des impôts avant le 1er février et
-qu'ils n'aient pas bénéficié, au cours de cette période de trois ans, de remboursement de crédit de taxe.
-
-Pour les groupements agricoles d'exploitation en commun dont tous les associés participent effectivement et régulièrement à
-l'activité du groupement par leur travail personnel, la moyenne des recettes mentionnée aux premier et deuxième alinéa est
-fixée à 60 % de la limite prévue pour les exploitants individuels multipliée par le nombre d'associés.
-
-Toutefois, elle est égale à la limite prévue pour les exploitants individuels multipliée par le nombre d'associés lorsque la
-moyenne des recettes du groupement est inférieure ou égale à 900.000 F (3).
+des industriels ou des commerçants, même si ces opérations constituent le prolongement de l'activité agricole (1);     2°
+Pour leurs opérations de vente d'animaux vivants de boucherie et de charcuterie, les exploitants agricoles qui, en raison des
+caractéristiques de leur exploitation, exercent une influence notable sur le marché local de ces animaux (2);     3° Pour
+leurs activités agricoles, les personnes qui effectuent des opérations commerciales d'achat, d'importation, de vente, de
+commission et de courtage portant sur des animaux vivants de boucherie et de charcuterie;     4° Les personnes qui effectuent
+des opérations commerciales d'importation, de vente, de commission et de courtage portant sur des animaux vivants de
+boucherie et de charcuterie.     5° Les exploitants agricoles, lorsque le montant moyen des recettes de l'ensemble de leurs
+exploitations, calculé sur deux années civiles consécutives, dépasse 300.000 F. L'assujettissement prend effet à compter du
+1er janvier de l'année suivante et au plus tôt le 1er janvier 1983.    6° Les bailleurs de biens ruraux qui ont exercé
+l'option autorisée par le 6° de l'article 260.    Lorsque la moyenne des recettes, non comprise la taxe sur la valeur
+ajoutée, calculée sur trois années civiles consécutives d'assujettissement, devient inférieure à 300.000 F, les exploitants
+agricoles peuvent cesser d'être soumis au régime simplifié à compter du 1er janvier suivant, à condition qu'ils le signalent
+au service des impôts avant le 1er février et qu'ils n'aient pas bénéficié, au cours de cette période de trois ans, de
+remboursement de crédit de taxe.    Pour les groupements agricoles d'exploitation en commun dont tous les associés
+participent effectivement et régulièrement à l'activité du groupement par leur travail personnel, la moyenne des recettes
+mentionnée aux premier et deuxième alinéa est fixée à 60 % de la limite prévue pour les exploitants individuels multipliée
+par le nombre d'associés.    Toutefois, elle est égale à la limite prévue pour les exploitants individuels multipliée par le
+nombre d'associés lorsque la moyenne des recettes du groupement est inférieure ou égale à 900.000 F (3).    7° Pour les
+prestations de services rendues à leurs sociétaires, les coopératives d'utilisation de matériel agricole et les coopératives
+d'insémination artificielle.
 
 III. L'option peut être exercée distinctement pour les ventes d'animaux vivants de boucherie et de charcuterie et pour les
 autres activités agricoles.
@@ -34530,12 +34536,12 @@ _Cite_:
   - CGIAN2 260 A
   - CGIAN2 260 B
   - CGIAN2 260 C
-  - CGIAN2 260 D A CGIAN2 260 I
+  - CGIAN2 260 D à CGIAN2 260 I
   - CGIAN2 267 quater
 
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 14 () JORF 31 décembre 1987, en vigueur le 1er janvier 1988
+  - Loi n°89-935 1989-12-29 art. 31 III 2 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -35344,7 +35350,7 @@ A compter du 1er janvier 1987 une taxe de sûreté est due par les entreprises d
 prix demandés aux passagers. Elle est assise sur le nombre de passagers embarquant en France sur un vol commercial selon les
 tarifs suivants :
 
-5 F par passager embarqué à destination de l'étranger ;    3 F par passager embarqué vers d'autres destinations.
+10 F par passager embarqué à destination de l'étranger ;    6 F par passager embarqué vers d'autres destinations.
 
 La taxe est constatée et recouvrée comme en matière de taxe sur la valeur ajoutée avec les sûretés, garanties, privilèges et
 sanctions applicables à cette taxe. Les réclamations sont présentées, instruites et jugées comme pour cet impôt.
@@ -35353,14 +35359,13 @@ sanctions applicables à cette taxe. Les réclamations sont présentées, instru
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 37 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-935 1989-12-29 art. 34 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
   - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
   - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
   - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
   - Arrêté du 22 février 2013 (V)
   - Arrêté du 25 mars 2014 (V)
   - Arrêté du 25 mars 2014 - art. 1 (V)
@@ -35370,6 +35375,7 @@ _Cité par_:
   - Arrêté du 17 septembre 2018 - art. 1 (V)
   - Arrêté du 17 septembre 2018 - art. 2 (V)
   - Arrêté du 17 septembre 2018 - art. 4 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
   - Code général des impôts, CGI. - art. 1609 quatervicies (VT)
   - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
   - Code général des impôts, CGI. - art. 1647 (M)
@@ -39017,7 +39023,7 @@ déclarations de la direction générale des impôts.
 ###### Article 362
 
 Peuvent être importés en France continentale et en Corse, en exemption de la soulte et jusqu'à concurrence d'une quantité
-annuelle fixée à 204.050 hectolitres d'alcool pur jusqu'au 31 décembre 1989, les rhums et tafias originaires des départements
+annuelle fixée à 204.050 hectolitres d'alcool pur jusqu'au 31 décembre 1992, les rhums et tafias originaires des départements
 et territoires français d'outre-mer et des pays de la zone franc ayant passé avec la France des accords à cet effet, qui
 présentent les caractères spécifiques définis par les décrets rendus en exécution de la loi du 1er août 1905 sur les fraudes
 et falsifications en matière de produits ou de services et ne titrent pas plus de 80 % vol.
@@ -39032,9 +39038,9 @@ _Cite_:
 
   - Loi n°1905-08-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, entrée en vigueur le 1er septembre 1985
+  - Loi n°89-935 1989-12-29 art. 33 I Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### C : Régime fiscal<a id=511></a>
@@ -39106,12 +39112,11 @@ En dehors de l'allocation en franchise de 10 litres d'alcool pur accordée aux b
 droit de consommation dont le tarif par hectolitre d'alcool pur est fixé à :
 
 I 1° 2.595 F pour les quantités ajoutées pour la préparation des vins mousseux, des vins doux naturels mentionnés à l'article
-417 et des vins de liqueur visés à l'article 417 bis ;
+417 et des vins de liqueur visés à l'article 417 bis ;      2° 4.495 F pour les rhums originaires et en provenance des
+départements d'outre-mer contenant plus de 225 grammes d'élements volatils autres que l'alcool par hectolitre d'alcool à 100
+p. 100 vol ;
 
-2° 4.495 F pour les rhums, à l'exclusion des rhums légers, et pour les crèmes de cassis ;
-
-3° 6.930 F pour les apéritifs à base de vin, de cidre ou de poiré, les vermouths et les vins de liqueur et assimilés ;
-
+3° 6.930 F pour les apéritifs à base de vin, de cidre ou de poiré, les vermouths et les vins de liqueur et assimilés (1) ;
 4° 7.810 F pour tous les autres produits à l'exception de ceux mentionnés au II de l'article 406 A.
 
 II. (Périmé).
@@ -39121,12 +39126,14 @@ vie, à concurrence de 15 hl d'alcool pur, maximum, livrés dans l'année sur le
 
 2. Sont considérés comme petits producteurs les exploitants dont la production totale est inférieure à 50 hl d'alcool pur par
 an ou qui, distillant et vendant eux-mêmes à la consommation le seul produit de leur récolte, exploitent une superficie
-inférieure à 12 hectares (1).
+inférieure à 12 hectares (2).
 
 IV. A l'égard des alcools bénéficiant d'un tarif réduit, l'administration peut prescrire toutes mesures de contrôle,
 d'identification ou autres, afin d'assurer l'utilisation de ces alcools aux usages comportant l'application dudit tarif.
 
-(1) Les petits producteurs ne livrant pas eux-mêmes à la consommation bénéficient, sous certaines conditions, d'un
+(1) La définition des apéritifs à base de cidre ou de poiré est donnée par le décret n° 86-208 du 11 février 1986 (JO du 16).
+
+(2) Les petits producteurs ne livrant pas eux-mêmes à la consommation bénéficient, sous certaines conditions, d'un
 remboursement compensatoire de droit égal à 700 F par hectolitre d'alcool pur (loi 81-1160 du 30 décembre 1981, article 38 II
 2 ; loi n° 82-1126 du 29 décembre 1982, art. 19).
 
@@ -39134,21 +39141,17 @@ remboursement compensatoire de droit égal à 700 F par hectolitre d'alcool pur 
 
 _Cite_:
 
-  - Loi n°81-1160 1981-12-30 ART. 38 II 2 FINANCES POUR 1982
-  - Loi n°82-1126 1982-12-29 ART. 19 FINANCES POUR 1983
+  - Loi n°81-1160 1981-12-30 art. 38 II 2 Finances pour 1982
+  - Loi n°82-1126 1982-12-29 art. 19 Finances pour 1983
+  - Décret n°86-208 1986-02-11
   - CGI 360
   - CGI 406 A II 1°, 2°
-  - CGI 417 Bis
+  - CGI 417 bis
   - Décret n°1930-01-31
 
 _Modifié par_:
 
-  - Loi n°85-1403 du 30 décembre 1985 - art. 20 (P) JORF 31 décembre 1985
-  - Loi n°86-1317 du 30 décembre 1986 - art. 9 () JORF 31 décembre 1986 en vigueur le 1er février 1987
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
+  - Loi n°89-935 1989-12-29 art. 33 II Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -41345,10 +41348,11 @@ _Modifié par_:
 ###### Article 548
 
 Les ouvrages d'or, d'argent et de platine venant de l'étranger doivent être présentés aux agents des douanes pour être
-déclarés, pesés, plombés [*formalité obligatoire*]. Après avoir été frappés, par l'importateur, du poinçon dit "de
-responsabilité", qui est soumis aux mêmes règles que le poinçon de maître du fabricant, ils sont envoyés au bureau de
-garantie le plus voisin, où ils sont marqués s'ils possèdent l'un des titres légaux. Ils supportent des droits égaux à ceux
-perçus pour les ouvrages de même nature fabriqués en France.
+déclarés, pesés, plombés [*formalité obligatoire*]. A l'exception des ouvrages fabriqués dans un Etat membre de la Communauté
+économique européenne comportant déjà le poinçon de fabricant préalablement déposé auprès d'un bureau de garantie, ils sont
+frappés, par l'importateur, du poinçon dit " de responsabilité ", qui est soumis aux mêmes règles que le poinçon de maître du
+fabricant. Ces ouvrages sont ensuite envoyés au bureau de garantie le plus voisin où ils sont marqués s'ils possèdent l'un
+des titres légaux. Ils supportent des droits égaux à ceux perçus pour les ouvrages de même nature fabriqués en France.
 
 Sont exceptés des dispositions ci-dessus :
 
@@ -41359,13 +41363,13 @@ personne, pourvu que leur poids n'excède pas en totalité 5 hectogrammes.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 46 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 549 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 549
@@ -44147,38 +44151,41 @@ _Transféré par_:
 
 ###### Article 697
 
-Le taux de la taxe de publicité foncière ou du droit d'enregistrement peut être réduit, dans les conditions fixées par décret
-(1), pour une durée minimale de trois années, à 2 %, sous réserve des dispositions de l'article 1594 D, pour les acquisitions
-immobilières tendant à faciliter l'adaptation à l'évolution économique des structures des entreprises industrielles et
-commerciales et le développement de la recherche scientifique et technique (2).
+Le taux de la taxe de publicité foncière ou du droit d'enregistrement peut être réduit à 2 p. 100, sous réserve des
+dispositions de l'article 1594 D, pour les acquisitions immobilières réalisées par les entreprises exploitantes dans le cadre
+des opérations définies à l'article 1465.
 
-1)  Annexe III, art. 265 et 266.
+La demande du bénéfice du régime de faveur prévu par les articles 697 et 721 du code général des impôts est présentée dans
+l'acte d'acquisition. Elle est soumise à agrément préalable dans les mêmes conditions et pour les mêmes opérations que celles
+prévues à l'article 1465 du même code.
 
-2)  Annexe III, art. 265 et 266 ; voir art. 1649 nonies et annexe IV art. 170 quinquies.
+Lorsque l'entreprise cesse volontairement son activité ou cède le bien acquis dans les cinq ans de l'acquisition, ou ne
+respecte pas les conditions auxquelles le régime de faveur est subordonné, elle est tenue d'acquitter, à première
+réquisition, le complément d'imposition, de taxe ou de droit dont la mutation a été dispensée et, en outre, l'intérêt de
+retard prévu à l'article 1727 du code.
 
-**Nota:**
-
-Nota : Les droits d'enregistrement et la taxe de publicité foncièr exigibles sur les mutations de propriété à titre onéreux
-d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
-décembre 1983, art. 28
+Les dispositions de l'alinéa qui précède ne sont pas applicables lorsque l'entreprise ou le bien acquis sont transmis à titre
+gratuit ou en cas de fusion ou d'apport en société du bien lorsque le nouveau propriétaire s'engage à respecter les
+conditions auxquelles le régime de faveur est subordonné.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1594 D
-  - CGI 1649 nonies
-  - CGIAN3 265
-  - CGIAN3 266
-  - CGIAN4 170 quinquies
+  - CGI 1594 D, 1465, 697, 721, 1727
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°84-875 1984-10-01
+  - HISTO: Edition du 15 juin 1990
+  - HISTO: Edition du 31 mars 1999
 
 _Modifié par_:
 
-  - Loi n°83-1179 du 29 décembre 1983 - art. 28 (V) JORF 30 décembre 1983
+  - Loi n°89-936 1989-12-29 art. 20 I III Finances pour 1990 JORF 30 décembre 1989
+
+_Abrogé par_:
+
+  - Loi n°98-1266 1998-12-30 art. 39 I 4 JORF 31 décembre 1998
 
 
 ###### Article 698
@@ -44724,13 +44731,10 @@ _Abrogé par_:
 Le taux réduit de la taxe de publicité foncière ou de droit d'enregistrement prévu aux articles 710 et 711 n'est pas
 applicable aux acquisitions d'immeubles situés en France faites par des personnes morales dont le siège est situé dans un
 pays ou territoire n'ayant pas conclu avec la France de convention d'assistance administrative en vue de lutter contre la
-fraude et l'évasion fiscales [*paradis fiscal*].
+fraude et l'évasion fiscales.
 
-**Nota:**
-
-Nota : Les droits d'enregistrement et la taxe de publicité foncièr exigibles sur les mutations de propriété à titre onéreux
-d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
-décembre 1983, art. 28
+Les personnes morales dont le siège est situé hors de France s'entendent des personnes morales qui ont hors de France leur
+siège de direction effective, que leur nationalité soit française ou étrangère.
 
 **Liens relatifs à cet article**
 
@@ -44739,13 +44743,19 @@ _Cite_:
   - CGI 710
   - CGI 711
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°83-899 1983-10-06
+  - HISTO: Edition du 15 juin 1990
+  - HISTO: Edition du 31 mars 1999
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+  - Loi n°89-935 1989-12-29 art. 105 IV, V Finances pour 1990 JORF 30 décembre 1989
+  - Loi n°89-936 du 29 décembre 1989 - art. 105 (V) JORF 30 décembre 1989
+
+_Abrogé par_:
+
+  - Loi n°98-1266 1998-12-30 art. 39 I 4 JORF 31 décembre 1998
 
 
 ###### Article 712
@@ -44968,41 +44978,40 @@ dénomination que ce soit, au successeur, ainsi que sur toutes les charges lui i
 
 ###### Article 721
 
-Le droit de mutation à titre onéreux prévu par l'article 719 peut être réduit, dans les conditions fixées par décret (1) pour
-une durée minimale de trois années, à 2 % [*taux*] pour les acquisitions de fonds de commerce et de clientèles tendant à
-faciliter l'adaptation à l'évolution économique des structures des entreprises industrielles et commerciales et le
-développement de la recherche scientifique et technique.
+Le droit de mutation à titre onéreux prévu par l'article 719 peut être réduit à 2 p. 100 pour les acquisitions de fonds de
+commerce et de clientèles réalisées par les entreprises exploitantes dans le cadre des opérations définies à l'article 1465.
+(Rédaction issue de l'article 20 II de la loi 89-936).
 
-(1) Voir art. 1649 nonies et Annexe III, art. 265 et 266, Annexe IV, art. 170 ter et arrêtés du 3 mai 1976 (J.O. du 25), du 4
-février 1977 (J.O. du 12), du 3 juillet 1978 (J.O. du 22) du 3 janvier 1979 (J.O. du 20), du 15 juin 1979 (J.O. du 22) et du
-27 juin 1979 (J.O. du 1er juillet).
+**Nota:**
+
+NOTA : loi 89-935 1989-12-30 art. 27 II 3  Finances pour 1990 :
+
+"Dans la première phrase de l'article 721 du code général des impôts avant les mots : "à 2 p. 100", sont insérés les mots :
+"pour la fraction de la valeur taxable supérieure à 100 000 F".
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Arrêté 1976-05-03
-  - Arrêté 1977-02-04
-  - Arrêté 1978-07-03
-  - Arrêté 1979-01-03
-  - CGI 1649 nonies
   - CGI 719
-  - CGIAN3 265
-  - CGIAN3 266
-  - CGIAN4 170 ter
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - SPEC_APPLI: Loi n°89-935 1989-12-30 art. 27 II 3  Finances pour 1990
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-30 art. 27 II 3 Finances pour 1990 JORF 30 décembre 1989
+  - Loi n°89-936 1989-12-30 art. 20 II, III Finances rectificative pour 1989 JORF 30 décembre 1989
 
 
 ##### 2° : Débits de boissons<a id=658></a>
 
 ###### Article 722
 
-Le droit prévu à l'article 719 est réduit à 2 % [*taux*] pour les mutations de propriété à titre onéreux de débits de
-boissons à consommer sur place de troisième et quatrième catégories, réalisées dans les conditions prévues à l'article 41
-bis.
+Le droit prévu à l'article 719 est réduit pour la fraction de la valeur taxable supérieure à 100.000 F à 2 % [*taux*] pour
+les mutations de propriété à titre onéreux de débits de boissons à consommer sur place de troisième et quatrième catégories,
+réalisées dans les conditions prévues à l'article 41 bis.
 
 Toutefois, si ces conditions ne sont pas remplies dans le délai imparti, l'avantage fiscal prévu à l'alinéa qui précède
 devient caduc et le complément de droit est réclamé au seul acquéreur. Il en est de même en cas d'infraction à la législation
@@ -45016,9 +45025,9 @@ _Cite_:
   - CGI 41 bis
   - CGI 719
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°89-935 1989-12-29 art. 27 II 3 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### 4° : Marchandises neuves<a id=659></a>
@@ -45267,19 +45276,20 @@ _Cite_:
 
 ###### Article 730 bis
 
-Les cessions de gré à gré de parts de groupements agricoles d'exploitation en commun [*GAEC*] représentatives d'apports de
-cheptel et autres biens mobiliers dépendant d'une exploitation agricole sont enregistrées au droit fixe de 430 F [*montant*]
-lorsqu'elles ne sont pas corrélatives à la cession au même acquéreur de parts représentatives du fonds exploité.
+Les cessions de gré à gré de parts de groupements agricoles d'exploitation en commun [*GAEC*] et d'exploitations agricoles à
+responsabilité limitée mentionnées au 5° de l'article 8 et représentatives d'apports de cheptel et autres biens mobiliers
+dépendant d'une exploitation agricole sont enregistrées au droit fixe de 430 F [*montant*] lorsqu'elles ne sont pas
+corrélatives à la cession au même acquéreur de parts représentatives du fonds exploité.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 8 5°
+
 _Modifié par_:
 
-  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
+  - Loi n°89-935 1989-12-29 art. 27 I Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 730 quater
@@ -45503,14 +45513,14 @@ proportionnel d'enregistrement.
 
 II  Sont exonérées du droit de bail prévu à l'article 736 :
 
-1° Les mutations de jouissance dont le loyer annuel n'excède pas 1.500 F [*montant plafond*] (1) ;
+1° Les mutations de jouissance dont le loyer annuel n'excède pas 2.500 F [*montant plafond*] (1) ;
 
 2° Les locations de terrains consenties par l'Etat aux sociétés agréées pour le financement des télécommunications;
 
 3° Les baux à construction soumis, sur option, à la taxe sur la valeur ajoutée; l'exonération est applicable dans les
 conditions prévues à l'article 691.
 
-(1) Seuil applicable à compter de la période d'imposition s'ouvrant le 1er octobre 1985.
+(1) Seuil applicable à compter de la période d'imposition s'ouvrant le 1er octobre 1989.
 
 **Liens relatifs à cet article**
 
@@ -45521,7 +45531,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°85-1403 du 30 décembre 1985 - art. 12 (P) JORF 31 décembre 1985 en vigueur le 1er janvier 1986
+  - Loi n°89-935 1989-12-29 art. 37 VI Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### 3° Assiette et liquidation.<a id=674></a>
@@ -47395,7 +47405,11 @@ _Codifié par_:
 
 ###### Article 793 bis
 
-Lorsque la valeur totale des biens visés au 4° du 1, et au 3° du 2 de l'article 793, transmis par le donateur ou le défunt à
+L'exonération partielle prévue au 4° du 1 et au 3° du 2 de l'article 793 est subordonnée à la condition que le bien reste la
+propriété du donataire, héritier et légataire pendant cinq ans à compter de la date de la transmission à titre gratuit.
+Lorsque cette condition n'est pas respectée, les droits sont rappelés, majorés de l'intérêt de retard visé à l'article 1727.
+
+Lorsque la valeur totale des biens visés au premier alinéa de de l'article 793, transmis par le donateur ou le défunt à
 chaque donataire, héritier ou légataire, excède 500.000 F, l'exonération partielle de droits de mutation à titre gratuit est
 ramenée à 50 % au-delà de cette limite.
 
@@ -47406,15 +47420,12 @@ titre, à une date et sous une forme quelconques.
 
 _Cite_:
 
+  - CGI 1727
   - CGI 793 1 4°, 2 3°
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°84-875 1984-10-01
-
-_Créé par_:
-
-  - Loi n°83-1179 du 29 décembre 1983 - art. 19 (V) JORF 30 décembre 1983
+  - Loi n°89-936 1989-12-29 art. 22 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -48038,7 +48049,21 @@ II. - Le taux du droit d'enregistrement ou de la taxe de publicité foncière pe
 %.
 
 III. - Le taux normal du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports visés à l'article
-809-I-3° et II est fixé à 8,60 %.
+809-I-3° et II est fixé à 8,60 %. Ce taux est réduit à 3,80 p. 100 sur les apports de fonds de commerce, de clientèle, de
+droit à un bail ou à une promesse de bail visés au 3° du I et au II de l'article 809 si l'apporteur en cas d'apport, ou les
+associés en cas de changement de régime fiscal, s'engagent à conserver pendant cinq ans les titres remis en contrepartie de
+l'apport ou détenus à la date du changement de régime fiscal. Cette réduction de taux est applicable dans les mêmes
+conditions aux immeubles ou droits immobiliers compris dans l'apport de l'ensemble des éléments d'actif immobilisé affectés à
+l'exercice d'une activité professionnelle.
+
+Le taux de la taxe additionnelle à ce droit, mentionnée à l'article 1595, est fixé à 0,60 p. 100 et le taux de la taxe
+mentionnée aux articles 1584 et 1595 bis est fixé à 0,40 p. 100.
+
+En cas de non-respect de l'engagement de conservation des titres, la différence entre le droit de 8,60 p. 100 et le droit de
+3,80 p. 100 est exigible immédiatement.
+
+Toutefois, la reprise n'est pas effectuée en cas de donation, si le donataire prend, dans l'acte, et respecte l'engagement de
+conserver les titres jusqu'au terme de la cinquième année suivant l'apport ou le changement du régime fiscal.
 
 III bis. - (Disposition périmée).
 
@@ -48053,27 +48078,15 @@ b. Pour les apports immobiliers constatés dans les actes visés aux articles 82
 V. - Sont exonérés du droit ou de la taxe prévus au II, les apports donnant lieu au paiement de la taxe sur la valeur ajoutée
 et concernant des terrains à bâtir et biens assimilés mentionnés à l'article 691-I.
 
-**Nota:**
-
-Nota : Voir également art. 1717 bis
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1717 bis
-  - CGI 680
-  - CGI 691 I
-  - CGI 809 I 3°, II
-  - CGI 822 I 1°, 2°
-  - CGI 826 2°
-  - CGI 828 II
-  - CGI 830 a, b, c
-  - CGI 831 I
+  - CGI 680, 809 I 3° II, 1595, 1584, 1595 bis, 691, 822 I 1° 2°, 826 2°, 828 II, 830 a b c, 831 I
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 14 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-935 1989-12-29 art. 27 III Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -48998,23 +49011,24 @@ _Codifié par_:
 
 ###### Article 831
 
-REMARQUE : Cette version n'a pas été codifiée ; une autre version est reprise dans l'édition du 15 juin 1990.
+I. Sont enregistrés au droit fixe de 1.220 F à raison des apports mobiliers qu'ils constatent, les actes de constitution et
+d'augmentation de capital des sociétés d'investissement en valeurs mobilières, régies par les titres I et II de l'ordonnance
+n° 45-2710 du 2 novembre 1945, qui s'engagent à procéder ou procèdent au titre de chaque exercice à la répartition entre les
+actionnaires de la totalité des bénéfices qui peuvent être distribués, quel que soit le montant des réserves, en vertu de
+l'article 9 modifié de ladite ordonnance (1).
 
-I. Sont enregistrés au droit fixe de 1.220 F [*montant*] à raison des apports mobiliers qu'ils constatent, les actes de
-constitution et d'augmentation de capital des sociétés d'investissement en valeurs mobilières, régies par les titres I et II
-de l'ordonnance n° 45-2710 du 2 novembre 1945, qui s'engagent à procéder ou procèdent au titre de chaque exercice à la
-répartition entre les actionnaires de la totalité des bénéfices qui peuvent être distribués, quel que soit le montant des
-réserves, en vertu de l'article 9 modifié de ladite ordonnance (1).
-
-Les sociétés d'investissement à capital variable [*SICAV*] qui respectent l'obligation de distribution  prévue au premier
-alinéa de l'article 31 de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs
-mobilières et portant création des fonds communs de créances  bénéficient des dispositions du premier alinéa.
+Les sociétés d'investissement à capital variable soumises aux dispositions de la loi n° 88-1201 du 23 décembre 1988 relative
+aux organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créances bénéficient des
+dispositions du premier alinéa (2).
 
 II. Pour les actes d'augmentation de capital des sociétés d'investissement à capital variable par voie d'apports mobiliers,
 il ne peut être perçu, au titre du droit d'apport liquidé conformément aux dispositions de l'article 825 une somme supérieure
 au montant de l'imposition fixe visée au I.
 
 (1) Pour les sociétés nationales d'investissement, voir décret n° 48-1685 du 30 octobre 1948, art. 2.
+
+(2) Ces dispositions s'appliquent aux exercices clos à compter du 29 septembre 1989 et aux apports réalisés au cours de ces
+mêmes exercices.
 
 **Liens relatifs à cet article**
 
@@ -49025,9 +49039,18 @@ _Cite_:
   - Décret n°48-1685 1948-10-30 art. 2
   - Loi n°88-1201 du 23 décembre 1988 - art. 31 (MMN)
 
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1992-06-01 7H-1-92
+
 _Modifié par_:
 
-  - Loi n°89-531 1989-08-02 art. 39 III JORF 4 août 1989
+  - Loi n°89-935 1989-12-29 art. 16 II, III Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
+
+_Abrogé par_:
+
+  - Loi - art. 12 () JORF 31 décembre 1991
 
 
 ##### 6 : Fonds communs de placement<a id=741></a>
@@ -50573,15 +50596,15 @@ Ne sont pas considérées comme placements financiers les actions ou parts déte
 personne morale dont l'actif est principalement constitué d'immeubles ou de droits immobiliers situés sur le territoire
 français, et ce à proportion de la valeur de ces biens par rapport à l'actif total de la société.
 
-Les dispositions du premier alinéa ne sont pas applicables aux personnes de nationalité française qui ont transféré leur
-domicile fiscal hors de France à compter du 2 octobre 1981 pour le calcul de l'impôt de l'année qui suit la date de leur
-transfert et l'année suivante.
-
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 10 III Finances pour 1990 JORF 30 décembre 1989
 
 _Cité par_:
 
@@ -51381,6 +51404,131 @@ _Cite_:
 
 ##### B : Exonérations<a id=795></a>
 
+###### Article 902
+
+Sont exonérés du droit de timbre de dimension :
+
+1. Mutations à titre onéreux d'immeubles.
+
+1° a. Les minutes, originaux et expéditions des actes d'échange d'immeubles ;
+
+b. Les minutes, originaux et expéditions des actes ou procès-verbaux de vente ou licitation d'immeubles dont le prix n'est
+pas supérieur à 5.000 F.
+
+Les cahiers des charges ne sont soumis au timbre de dimension qu'après la réalisation des ventes ou adjudications et
+seulement si le prix excède 5.000 F .
+
+L'exonération du timbre n'est pas applicable aux actes, procès-verbaux et cahiers des charges susvisés qui contiennent des
+dispositions indépendantes dans le sens de l'article 671. Pourtant, ne peuvent pas être considérés comme dispositions
+indépendantes, pour l'application du présent article, la procuration donnée dans l'un de ces actes pour toucher le prix ou la
+soulte, ou vendre les immeubles compris sur un cahier des charges ou procès-verbal de mise en vente, ainsi que toute
+déclaration de command contenue en l'acte même, ou encore tout paiement par subrogation effectué par un tiers en l'acquit de
+l'acquéreur ;
+
+2° Les actes visés aux articles 696, 706, 707, 712 et 715.
+
+2. Actes judiciaires, extrajudiciaires et registres divers.
+
+1° Les actes des huissiers de justice à l'exception de ceux visés à l'article 635-1-3° à 7° et 2-2° à 9° pour lesquels
+l'original remis à la partie ou à son représentant est seul exonéré ;
+
+2° Les décisions des tribunaux de l'ordre administratif ;
+
+3° Les actes et décisions afférents aux instances en matière de contravention dont la répression appartient aux juridictions
+administratives ;
+
+4° Les actes, écrits et registres concernant la police générale et de sûreté et la vindicte publique ;
+
+5° Les copies des protêts, que les notaires et les huissiers de justice sont tenus de remettre aux greffiers des tribunaux de
+commerce ou des tribunaux de grande instance statuant commercialement en vertu des dispositions des articles 162 du code de
+commerce et 57 du décret du 30 octobre 1935 unifiant le droit en matière de chèque, modifiés par les articles 1er et 2 de la
+loi n° 49-1093 du 2 août 1949 ;
+
+6° à 13 ° (Abrogés) ;
+
+14° Les répertoires et le registre visés aux articles 867 et 868 ;
+
+14° bis et 15° (Abrogés) ;
+
+16° Le répertoire visé à l'article 1002.
+
+3. Pièces et écrits divers.
+
+1° Les bordereaux d'inscription, ainsi que les pièces produites par les requérants pour obtenir l'accomplissement des
+formalités hypothécaires et qui restent déposées au bureau des hypothèques.
+
+Ces pièces mentionnent expressément qu'elles sont destinées à être déposées au bureau des hypothèques pour obtenir
+l'accomplissement d'une formalité hypothécaire qui doit être spécifiée. Elles ne peuvent servir à aucune autre fin ;
+
+2° (Abrogé) ;
+
+3° Les certificats d'indigence ;
+
+4° Les titres de rente et d'obligations négociables émis en représentation d'emprunts contractés par l'Etat et par les
+collectivités publiques ou privées ;
+
+5° Les tables décennales des registres de l'état-civil ;
+
+6° Les titres-restaurants émis conformément aux dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967 et
+des textes pris pour son application (1) ;
+
+7° (Disposition devenue sans objet);
+
+8° (Abrogé) ;
+
+9° (Disposition périmée).
+
+10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982 portant création des chèques-vacances.
+
+11° Les offres préalables de prêts rédigés conformément aux dispositions de la loi n° 79-596 du 13 juillet 1979 relative à
+l'information et à la protection des emprunteurs dans le domaine immobilier.
+
+12° Les conventions d'ouverture d'un compte pour le développement industriel (CODEVI) prévues à l'article 4 du décret n°
+83-872 du 30 septembre 1983 ; cette disposition s'applique à compter du 3 octobre 1983 ;
+
+13° Les contrats de prêt sur gage consentis par les caisses de crédit municipal ;
+
+14° Les minutes, originaux et expéditions des actes constatant la formation de sociétés en nom collectif, en commandite
+simple, à responsabilité limitée et par actions.
+
+15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne.
+
+(1) Décret n° 67-1165 du 22 décembre 1967 et arrêté du même jour.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1967-12-22
+  - CGI 1002
+  - CGI 635 1 3°, 4°, 5°, 6°, 7°, 2 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9°
+  - CGI 671
+  - CGI 696
+  - CGI 706
+  - CGI 707
+  - CGI 712
+  - CGI 715
+  - CGI 867
+  - CGI 868
+  - Décret n°1935-10-30
+  - Ordonnance 67-830 1967-09-27
+  - Décret n°67-1165 1967-12-22
+  - Loi n°79-596 1979-07-13
+  - Ordonnance 82-283 1982-03-26
+  - Décret n°83-872 du 30 septembre 1983 - art. 4 (Ab)
+  - Loi n°87-416 1987-06-17
+  - Code de commerce 162
+  - Loi n°49-1093 1949-08-02 art. 1, art. 2
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 24 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L131-4 (VT)
+
+
 ###### Article 903
 
 Les deux exemplaires de leurs statuts que les coopératives non soumises par la loi à un autre mode de publicité doivent
@@ -51496,18 +51644,18 @@ _Abrogé par_:
 
 ###### Article 907
 
-Sous réserve des dispositions de l'article 905, dernier alinéa, il n'y a pas de droit de timbre inférieur à 30 F [*montant*],
+Sous réserve des dispositions de l'article 905, dernier alinéa, il n'y a pas de droit de timbre inférieur à 32 F [*montant*],
 quelle que soit la dimension du papier au-dessous de la demi-feuille de papier normal.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 905 AL. DERNIER
+  - CGI 905
 
 _Modifié par_:
 
-  - Loi n°85-1403 du 30 décembre 1985 - art. 20 (P) JORF 31 décembre 1985 en vigueur le 15 janvier 1986
+  - Loi n°89-936 du 29 décembre 1989 - art. 51 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### D : Prescriptions et prohibitions<a id=797></a>
@@ -51746,7 +51894,7 @@ _Cité par_:
 ###### Article 919
 
 Les tickets du pari mutuel sur les hippodromes et hors des hippodromes sont frappés d'un droit de timbre dont le taux est
-fixé à 3,4 % du montant des sommes engagées dans la même course (1).
+fixé à 3,70 % du montant des sommes engagées dans la même course.
 
 Les tickets du pari mutuel sur les cynodromes sont frappés, dans les mêmes conditions, du droit de timbre prévu au premier
 alinéa.
@@ -51755,18 +51903,20 @@ alinéa.
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 9 (P) JORF 28 décembre 1988 en vigueur le 1er décembre 1988
+  - Loi n°89-935 1989-12-29 art. 8 V 1 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 919 A
 
-Les bulletins du loto national sont soumis à un droit de timbre fixé à 3,4 % [*taux*] du montant des sommes engagées (1).
+Les bulletins du loto national sont soumis à un droit de timbre fixé à 3,70 % [*taux*] du montant des sommes engagées (1).
+
+(1) A compter du 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 9 (P) JORF 28 décembre 1988 en vigueur le 1er décembre 1988
+  - Loi n°89-935 1989-12-29 art. 8 V 1 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -51807,6 +51957,26 @@ _Codifié par_:
 _Abrogé par_:
 
   - Loi n°2010-476 du 12 mai 2010 - art. 54
+
+
+###### Article 919 C
+
+Les bulletins ou billets de la loterie nationale en ce qui concerne les jeux dits "loterie instantanée et tapis vert" sont
+soumis à un droit de timbre fixé à 0,50 p. 100 du montant des sommes engagées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°89-935 1989-12-29 art. 8 V 2 Finances pour 1990 JORF 30 décembre 1989
+
+_Cité par_:
+
+  - Loi n°94-1163 du 29 décembre 1994 - art. 48 (V)
+
+**Liens**:
+
+  - HISTO: article créé directement et incorporé dans l'édition du 15 juin 1990)
 
 
 ##### V : Timbre des contrats de transport<a id=806></a>
@@ -52342,13 +52512,13 @@ I. Nul ne peut pénétrer dans les salles où, conformément à la loi du 15 jui
 être muni d'une carte délivrée par le directeur de l'établissement et passible d'un droit de timbre (1) dont la quotité est
 fixée comme suit :
 
-50 F si l'entrée est valable pour la journée ;
+55 F si l'entrée est valable pour la journée ;
 
-185 F si l'entrée est valable pour la semaine ;
+200 F si l'entrée est valable pour la semaine ;
 
-450 F si l'entrée est valable pour un mois ;
+500 F si l'entrée est valable pour un mois ;
 
-900 F [*montant*] si l'entrée est valable pour la saison.
+1.000 F [*montant*] si l'entrée est valable pour la saison.
 
 II. Les dispositions qui précèdent ne sont pas applicables aux cartes d'entrée dans les salles de jeux de boule ainsi que
 dans les salles où sont exploités des appareils de jeux automatiques sauf, dans ce dernier cas, s'il s'agit de salles dont
@@ -52363,6 +52533,7 @@ l'accès est subordonné à la délivrance d'une carte assujettie au droit de ti
 
 _Cite_:
 
+  - CGI 14
   - CGIAN3 313 AR
   - Décret n°59-1489 1959-12-22
   - Décret n°87-684 1987-08-20
@@ -52370,7 +52541,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-306 1987-05-05 art. 2 JORF 6 mai 1987
+  - Loi n°89-936 du 29 décembre 1989 - art. 50 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 946
@@ -53310,18 +53481,25 @@ _Cité par_:
 
 Les personnes morales dont le siège est situé hors de France [*à l'étranger*] et qui, directement ou par personne interposée,
 possèdent un ou plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens sont redevables
-d'une taxe annuelle égale à 3 % [*taux, montant*] de la valeur vénale de ces immeubles ou droits (1). La personne interposée
-est solidairement responsable du paiement de la taxe. 
+d'une taxe annuelle égale à 3 % [*taux, montant*] de la valeur vénale de ces immeubles ou droits.
 
-(1) Disposition applicable à compter du 1er janvier 1983.
+Les personnes morales dont le siège est situé hors de France s'entendent des personnes morales qui ont hors de France leur
+siège de direction effective, quelle que soit leur nationalité, française ou étrangère.
 
-[*Cf. Jurisprudence 1995-08-01 7Q-1-95.*]
+Est réputée posséder des biens ou droits immobiliers en France par personne interposée, toute personne morale qui détient une
+participation, quelles qu'en soient la forme et la quotité, dans une personne morale qui est propriétaire de ces biens ou
+droits ou détentrice d'une participation dans une troisième personne morale, elle-même propriétaire des biens ou droits ou
+interposée dans la chaîne des participations. Cette disposition s'applique quel que soit le nombre des personnes morales
+interposées (1).
+
+(1) Ces dispositions ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+  - Loi n°89-935 1989-12-29 art. 105 I 1, 2 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-936 du 29 décembre 1989 - art. 105 (V) JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -53331,22 +53509,20 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 990 F (V)
   - Code général des impôts, CGI. - art. 990 G (V)
 
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
 **Liens**:
 
-  - TXT_ASSOCIE: Jurisprudence 1995-08-01 7Q-1-95
+  - TXT_ASSOCIE: Jurisprudence 1996-12-18 7Q-1-96
+  - TXT_ASSOCIE: Jurisprudence 1999-08-06 7Q-1-99
 
 
 ###### Article 990 E
 
 La taxe prévue à l'article 990 D n'est pas applicable : 
 
-1° Aux personnes morales dont les immeubles situés en France, autres que ceux affectés à leur propre exploitation
-industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale, représentent moins de 50 % des actifs
-français ; 
+1° Aux personnes morales dont les actifs immobiliers, au sens de l'article 990 D, situés en France, représentent moins de 50
+p. 100 des actifs français. Pour l'application de cette disposition, ne sont pas inclus dans les actifs immobiliers les
+actifs que les personnes morales visées à l'article 990 D ou les personnes interposées affectent à leur propre activité
+professionnelle autre qu'immobilière (1) ;
 
 2° Aux personnes morales qui, ayant leur siège dans un pays ou territoire ayant conclu avec la France une convention
 d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, déclarent chaque année, au plus tard le
@@ -53360,6 +53536,8 @@ par chacun d'eux ;
 social, philanthropique, éducatif ou culturel et qui établissent que cette activité justifie la propriété des immeubles ou
 droits immobiliers.
 
+(1) Ces dispositions ont un caractère interprétatif.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -53367,9 +53545,9 @@ _Cite_:
   - CGI 990 D
   - CGI 990 F
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+  - Loi n°89-936 du 29 décembre 1989 - art. 105 (V) JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -53379,17 +53557,17 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 990 F (V)
   - Livre des procédures fiscales - art. R23 B-1 (V)
 
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
 
 ###### Article 990 F
 
-La taxe est due à raison des immeubles ou droits immobiliers possédés au 1er janvier de l'année d'imposition. Les redevables
-doivent déclarer au plus tard le 15 mai de chaque année la situation, la consistance et la valeur des immeubles et droits
-immobiliers en cause. Cette déclaration, accompagnée du paiement de la taxe, est déposée au lieu fixé par arrêté du ministre
-chargé du budget (1). 
+La taxe est due à raison des immeubles ou droits immobiliers possédés au 1er janvier de l'année d'imposition, à l'exception
+des biens régulièrement inscrits dans les stocks des personnes morales qui exercent la profession de marchand de biens ou de
+promoteur-constructeur. Lorsqu'il existe une chaîne de participations, la taxe est due par la ou les personnes morales qui,
+dans cette chaîne, sont les plus proches des immeubles ou droits immobiliers et qui ne sont pas exonérées en application du
+2° de l'article 990 E. Toute personne morale interposée entre le ou les débiteurs de la taxe et les immeubles ou droits
+immobiliers est solidairement responsable du paiement de cette taxe (1). Les redevables doivent déclarer au plus tard le 15
+mai de chaque année la situation, la consistance et la valeur des immeubles et droits immobiliers en cause. Cette
+déclaration, accompagnée du paiement de la taxe, est déposée au lieu fixé par arrêté du ministre chargé du budget (2). 
 
 La taxe est recouvrée selon les règles et sous les sanctions et garanties applicables aux droits d'enregistrement. Sont
 également applicables à la taxe les dispositions de l'article 223 quinquies A.
@@ -53397,7 +53575,9 @@ La taxe est recouvrée selon les règles et sous les sanctions et garanties appl
 En cas de cession de l'immeuble, le représentant visé à l'article 244 bis A-I est responsable du paiement de la taxe restant
 due à cette date. 
 
-(1) Annexe IV art. 121 K ter.
+(1)Ces dispositions ont un caractère interprétatif.
+
+(2) Annexe IV art. 121 K ter.
 
 **Liens relatifs à cet article**
 
@@ -53405,21 +53585,22 @@ _Cite_:
 
   - CGI 233 quinquies A
   - CGI 244 bis A I
+  - CGI 990 E
   - CGIAN4 121 K ter
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 incorporée au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-936 du 29 décembre 1989 - art. 105 (V) JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 990 E (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
   - Livre des procédures fiscales - art. R23 B-1 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Jurisprudence 1999-08-06 7Q-1-99
 
 
 ##### Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales<a id=838></a>
@@ -53631,7 +53812,7 @@ _Codifié par_:
 
 Sont exonérés de la taxe spéciale sur les conventions d'assurances :
 
-1° Les réassurances, sous réserve de ce qui est dit à l'article 1000 ;
+1° Les réassurances, sous réserve de ce qui est dit à l'article 1000;
 
 2° Les assurances bénéficiant, en vertu de dispositions exceptionnelles, de l'exonération des droits de timbre et
 d'enregistrement sauf celles souscrites auprès des sociétés ou caisses d'assurances mutuelles agricoles visées à l'article
@@ -53647,14 +53828,9 @@ commerce et des navires de pêche souscrits contre les risques de toute nature d
 4° Les contrats d'assurances sur corps, marchandises transportées et responsabilité civile du transporteur, des aéronefs
 souscrits contre les risques de toute nature de navigation aérienne.
 
-5° Les contrats d'assurances en cas de décès qui garantissent le versement d'un capital ou d'une rente viagère à un enfant de
-l'assuré atteint d'une infirmité qui l'empêche, soit de se livrer dans des conditions normales de rentabilité à une activité
-professionnelle, soit, s'il est âgé de moins de dix-huit ans, d'acquérir une instruction ou une formation professionnelle
-d'un niveau normal;
+5° Les contrats d'assurances sur la vie et assimilés y compris les contrats de rente viagère (1);
 
-5° bis Les contrats d'assurance en cas de vie qui garantissent le versement d'un capital ou d'une rente viagère à l'assuré
-atteint d'une infirmité qui l'empêche de se livrer dans des conditions normales de rentabilité à une activité
-professionelle ;
+5° bis (Abrogé) (1);
 
 6° Les contrats d'assurances sur les risques de gel et de tempêtes sur récoltes ou sur bois sur pied.
 
@@ -53662,6 +53838,9 @@ professionelle ;
 terrestres ;
 
 8° Les assurances des crédits à l'exportation.
+
+(1) Ces dispositions s'appliquent à compter du 1er juillet 1990, sauf pour les opérations d'assurance sur la vie réalisées
+dans le cadre d'un plan d'épargne populaire pour lesquels la date d'application est fixée au 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
@@ -53672,8 +53851,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 1988-12-23 art. 24 III, IV Finances pour 1989 JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-  - Loi n°88-1149 du 23 décembre 1988 - art. 24 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-935 1989-12-29 art. 17 I, II, IV Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -53894,14 +54072,7 @@ industrielle, commerciale, artisanale ou agricole :
 - à 19 % pour les assurances contre les risques de toute nature de navigation maritime ou fluviale des bateaux de sport ou de
 plaisance ;
 
-4° Pour les assurances sur la vie :
-
-- à 5,15 % pour les assurances sur la vie et assimilées, y compris les contrats de rente viagère, autre que celles indiquées
-ci-après et pour les assurances de groupe ;
-
-- à 2,40 % pour les contrats de rente viagère immédiate ou différée de moins de trois ans, lorsque, au moment de la
-souscription du contrat, le souscripteur est âgé de plus de 60 ans ou atteint d'une infirmité le mettant dans l'impossibilité
-de subvenir par son travail aux nécessités de l'existence ;
+4° (Abrogé) (1) ;
 
 5° (Abrogé) ;
 
@@ -53913,6 +54084,9 @@ de subvenir par son travail aux nécessités de l'existence ;
 
 - à 9 %    Les risques d'incendie couverts par des assurances ayant pour objet des risques de transport sont compris dans les
 risques désignés sous le 3° ou sous le 6°, suivant qu'il s'agit de transports par eau et par air ou de transports terrestres.
+
+(1) Cette abrogation s'applique à compter du 1er juillet 1990, sauf pour les opérations d'assurance sur la vie réalisées dans
+le cadre d'un plan d'épargne populaire pour lesquels la date d'application est fixée au 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
@@ -53942,8 +54116,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 1988-12-23 art. 24 I, II Finances pour 1989 JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-  - Loi n°88-1149 du 23 décembre 1988 - art. 24 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-935 1989-12-29 art. 17 III, IV Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cite_:
 
@@ -54076,9 +54249,9 @@ _Cite_:
 Les véhicules immatriculés dans la catégorie des voitures particulières, possédés ou utilisés par les sociétés, sont soumis à
 une taxe annuelle non déductible pour l'établissement de l'impôt sur les sociétés et dont le montant est fixé à :
 
-4.800 F pour les véhicules dont la puissance fiscale n'excède pas 7 CV ;
+5.700 F pour les véhicules dont la puissance fiscale n'excède pas 7 CV ;
 
-10.500 F pour les autres véhicules (1).
+12.500 F pour les autres véhicules (1).
 
 La taxe n'est toutefois pas applicable aux véhicules destinés exclusivement soit à la vente, soit à la location de courte
 durée, soit à l'exécution d'un service de transport à la disposition du public, lorsque ces opérations correspondent à
@@ -54092,7 +54265,7 @@ La taxe est perçue par voie de timbre dans des conditions fixées par décret (
 Lorsqu'elle est exigible en raison des véhicules pris en location, la taxe est à la charge de la société locataire. Les
 conditions d'application du présent alinéa sont fixées par décret (2).
 
-(1) Ces taux sont applicables à compter de la période d'imposition s'ouvrant le 1er octobre 1984.
+(1) Ces taux sont applicables à compter de la période d'imposition s'ouvrant le 1er octobre 1989.
 
 (2) Annexe II, art. 310 C à 310 E.
 
@@ -54106,10 +54279,6 @@ _Cite_:
   - CGIAN2 310 D
   - CGIAN2 310 E
   - CGIAN3 406 bis
-
-_Modifié par_:
-
-  - Loi n°87-1061 du 30 décembre 1987 - art. 29 () JORF 31 décembre 1987
 
 _Cité par_:
 
@@ -54135,6 +54304,10 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis A (Ab)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quater (V)
   - Code rural et de la pêche maritime - art. L731-2 (VD)
+
+_Modifié par_:
+
+  - Loi n°89-936 du 29 décembre 1989 - art. 52 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### Section IV : Taxe sur les défrichements.<a id=848></a>
@@ -59422,7 +59595,7 @@ La valeur locative est déterminée comme suit (1) :
 taxe (2);
 
 Toutefois, les biens exonérés de taxe foncière sur les propriétés bâties en vertu du 11° de l'article 1382 sont évalués et
-imposés dans les mêmes conditions que les biens et équipements mobiliers désignés aux 2° et 3° ;
+imposés dans les mêmes conditions que les biens et équipements mobiliers désignés aux 2° et 3° (3) ;
 
 Les immobilisations destinées à la fourniture et à la distribution de l'eau sont exonérées de taxe professionnelle
 lorsqu'elles sont utilisées pour l'irrigation pour les neuf dixièmes au moins de leur capacité;
@@ -59444,36 +59617,45 @@ différer de plus de 20 % de celle résultant des règles fixées à l'alinéa p
 au nom du propriétaire lorsque la période de location est inférieure à six mois; il en est de même si le locataire n'est pas
 passible de la taxe professionnelle ou n'a pas la disposition exclusive des biens loués;
 
-5° La valeur locative des matériels agricoles utilisés exclusivement à des travaux saisonniers effectués pour le compte
+3° bis La valeur locative des matériels agricoles utilisés exclusivement à des travaux saisonniers effectués pour le compte
 d'exploitants agricoles est diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est fixée par arreté
-du ministre chargé du budget (3);
+du ministre chargé du budget (4);
 
 4° Il n'est pas tenu compte de la valeur locative définie aux 2e et 3° pour l'imposition des redevables sédentaires dont les
 recettes annuelles n'excèdent pas 400.000 F [*montant plafond*] s'il s'agit de prestataires de services ou de membres de
 professions libérales et un million de francs dans les autres cas; pour les redevables sédentaires ne remplissant pas ces
-conditions, cette valeur locative est réduite d'un montant fixé à 25.000 F (4); les limites prévues seront réévaluées lors du
-vote de chaque loi de finances.
+conditions, cette valeur locative est réduite d'un montant fixé à 25.000 F (5); les limites prévues seront réévaluées lors du
+vote de chaque loi de finances.    Ces dispositions s'appliquent également aux redevables sédentaires qui réalisent une
+partie de leur chiffre d'affaires par des ventes ambulantes lorsque leur principal établissement est situé dans une commune
+dont la population est inférieure à 3 000 habitants (6).
 
-(1)  Annexe II, art. 310 HF.
+(1) Annexe II, art. 310 HF.
 
-(2)  Voir art. 1494 à 1518 A.
+(2) Voir art. 1494 à 1518 B.
 
-(3)  Dispositions applicables à compter du 1er janvier 1987. Pour  l'imposition établie au titre 1987, les contribuables
-doivent  souscrire une déclaration rectificative avant le 30 octobre 1986.
+(3) Les impositions dues au titre des années antérieures au 1er janvier 1987 sont réputées régulières en conséquence, sous
+réserve des décisions de justice passées en force de chose jugée.
 
-(4)  Voir également art. 1469 B.
+(4) Dispositions applicables à compter du 1er janvier 1987.
+
+(5) Voir également art. 1469 B.
+
+(6) Ces dispositions sont applicables pour la détermination des bases de la taxe professionnelle due pour l'année 1991 et les
+années suivantes.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1382 11°, 2°, 3°
-  - CGI 1494 A CGI 1518 A CGI 1469 B
+  - CGI 1469 B
+  - CGI 1494 à CGI 1518 B
   - CGIAN2 310 HF
 
 _Modifié par_:
 
-  - Loi n°86-1318 du 30 décembre 1986 - art. 19 (P) JORF 31 décembre 1986
+  - Loi n°89-936 du 29 décembre 1989 - art. 82 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-936 du 29 décembre 1989 - art. 83 (V) JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -59546,12 +59728,12 @@ _Codifié par_:
 
 ###### Article 1470
 
-Un décret en Conseil d'Etat adapte les dispositions de l'article 1469 à la situation des contribuables non sédentaires et des
-contribuables ayant une installation fixe mais qui réalisent une partie de leur chiffre d'affaires par des ventes ambulantes
-dans d'autres communes en vue d'assurer l'égalité entre les intéressés et les redevables sédentaires et de préciser leur lieu
-d'imposition (1).
+Un décret en Conseil d'Etat adapte les dispositions de l'article 1469 à la situation des contribuables non sédentaires et à
+l'exception de ceux mentionnés au deuxième alinéa du 4° du même article, des contribuables ayant une installation fixe mais
+qui réalisent une partie de leur chiffre d'affaires par des ventes ambulantes dans d'autres communes en vue d'assurer
+l'égalité entre les intéressés et les redevables sédentaires et de préciser leur lieu d'imposition (1).
 
-1)  Annexe II, art. 310 HG.
+(1) Annexe II, art. 310 HG.
 
 **Liens relatifs à cet article**
 
@@ -59562,7 +59744,16 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 15 juin 1990
+
+_Modifié par_:
+
+  - Loi n°89-936 du 29 décembre 1989 - art. 82 () JORF 30 décembre 1989
+  - Loi n°89-936 du 29 décembre 1989 - art. 83 (V) JORF 30 décembre 1989
+
+_Abrogé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 
 ###### Article 1471
@@ -60357,33 +60548,36 @@ I. – Des modalités particulières d'évaluation peuvent être fixées par dé
 établissements ou installations de caractère industriel ou commercial, lorsqu'il existe dans différentes communes des biens
 de cette nature présentant des caractéristiques analogues (1).
 
+Ces modalités d'évaluation ne sont pas applicables aux immobilisations visées à l'alinéa précédent qui sont acquises ou
+créées à compter du 1er janvier 1974. Ces dernières sont évaluées conformément au deuxième alinéa du 1 du II de l'article
+1517 (2).
+
 II. – La valeur locative des autoroutes et de leurs dépendances à la date de référence de la révision est fixée selon le
-tarif suivant :
+tarif suivant (2) :
 
 31,80 F par mètre linéaire pour les voies de circulation, les échangeurs et les bretelles de raccordement ;
 
 4 F par mètre carré de superficie comportant un revêtement pour les aires de repos, de services, de stationnement et leurs
-voies d'accès ainsi que pour les zones d'élargissement des gares de péage ; 17.880 F pour chaque plate-forme de péage, y
-compris les auvents et les locaux de contrôle situés à proximité ; cette somme est augmentée de 7652 F par voie de gare de
-péage.
+voies d'accès ainsi que pour les zones d'élargissement des gares de péage ;
+
+17.880 F pour chaque plate-forme de péage, y compris les auvents et les locaux de contrôle situés à proximité ; cette somme
+est augmentée de 7652 F par voie de gare de péage.
 
 (1) Annexe II, art. 310 M ; les barèmes prévus par le paragraphe III de cet article ne s'appliquent pas aux immobilisations
-réalisées postérieurement à 1974 (voir art. 1517-II-1).
+réalisées postérieurement à 1974 (voir art. 1517 II 1).
+
+(2) Cette disposition a un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1517 II I
+  - CGI 1517 II, I
   - CGIAN2 310 M
 
 _Modifié par_:
 
-  - Loi n°85-1404 du 30 décembre 1985 - art. 17 (V) JORF 31 décembre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - Loi n°89-936 1989-12-29 art. 31 Finances rectificative pour 1989 JORF 30 décembre 1989
 
 _Cité par_:
 
@@ -60392,6 +60586,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1518 (V)
   - Code général des impôts, CGI. - art. 1586 octies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 N (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juin 1990
 
 
 ##### F : Procédure d'évaluation<a id=989></a>
@@ -60932,9 +61130,8 @@ _Cité par_:
 ###### Article 1518 bis
 
 Dans l'intervalle de deux actualisations prévues par l'article 1518, les valeurs locatives foncières sont majorées par
-application de coefficients forfaitaires fixés par la loi de finances en tenant compte des variations des loyers.
-
-Les coefficients prévus au premier alinéa sont fixés :
+application de coefficients forfaitaires fixés par la loi de finances en tenant compte des variations des loyers. Les
+coefficients prévus au premier alinéa sont fixés :
 
 a. Au titre de 1981, à 1,10 pour les propriétés bâties de toute nature et à 1,09 pour les propriétés non bâties ;
 
@@ -60960,7 +61157,13 @@ h. Au titre de 1988, à 1 pour les propriétés non bâties, à 1,01 pour les im
 1500 et à 1,03 pour l'ensemble des autres propriétés non bâties ;
 
 i. Au titre de 1989, à 1,01 pour les propriétés non bâties, à 1,02 pour les immeubles industriels ne relevant pas de
-l'article 1500 et à 1,04 pour les autres propriétés bâties.
+l'article 1500 et à 1,04 pour les autres propriétés bâties ;
+
+j. Au titre de 1990, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500,
+et à 1,01 pour l'ensemble des autres propriétés bâties ;
+
+k. Au titre de 1991, à 1 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article
+1500, et à 1,03 pour l'ensemble des autres propriétés bâties.
 
 **Liens relatifs à cet article**
 
@@ -60970,7 +61173,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 69 () JORF 28 décembre 1988
+  - Loi n°89-936 du 29 décembre 1989 - art. 76 (V) JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -61676,20 +61879,15 @@ _Créé par_:
 
 Sont exonérés de l'impôt prévu aux trois premières catégories de l'article 1560-I :
 
-1° et 2° (Dispositions devenues sans objet) ;
-
-3° a. Jusqu'à concurrence de 20.000 F de recettes par manifestation, les réunions sportives organisées par des associations
-sportives régies par la loi du 1er juillet 1901 agréées par le ministre compétent ou par des sociétés sportives visées à
-l'article 11 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et
-sportives et, jusqu'à concurrence de 5.000 F, les quatre premières manifestations annuelles organisées au profit exclusif
-d'établissements publics ou d'associations légalement constituées agissant sans but lucratif ;
-
-b. Toutefois, l'exemption totale pourra être accordée aux compétitions relevant d'activités sportives limitativement
-énumérées par arrêtés des ministres de l'économie et des finances, de l'intérieur et du ministre chargé de la jeunesse et des
-sports (1).
-
-La même exemption totale des manifestations sportives pourra être accordée à l'occasion de réunions exceptionnelles par
-délibération du conseil municipal ;
+1° et 2° (Dispositions devenues sans objet) ;    3° a. Jusqu'à concurrence de 20.000 F de recettes par manifestation, les
+réunions sportives organisées par des associations sportives régies par la loi du 1er juillet 1901 agréées par le ministre
+compétent ou par des sociétés sportives visées à l'article 11 de la loi n° 84-610 du 16 juillet 1984 relative à
+l'organisation et à la promotion des activités physiques et sportives et, jusqu'à concurrence de 5.000 F, les quatre
+premières manifestations annuelles organisées au profit exclusif d'établissements publics ou d'associations légalement
+constituées agissant sans but lucratif ;    b. Toutefois, l'exemption totale pourra être accordée aux compétitions relevant
+d'activités sportives limitativement énumérées par arrêtés des ministres de l'économie et des finances, de l'intérieur et du
+ministre chargé de la jeunesse et des sports (1).    Le conseil municipal peut, par délibération, décider que l'ensemble des
+compétitions sportives organisées pendant l'année sur le territoire de la commune bénéficiera de la même exemption ;
 
 c. Les organisateurs des réunions visées aux a et b doivent tenir leur comptabilité à la disposition des agents des impôts
 pendant le délai prévu à l'article L 82 du livre des procédures fiscales ;
@@ -61716,13 +61914,13 @@ _Cite_:
   - CGI 1560 I
   - CGI L82
   - CGIAN4 126 F
-  - Loi n°66-10 1966-01-06 ART. 26 2
+  - Loi n°66-10 1966-01-06 art. 26 2
   - Loi n°84-610 du 16 juillet 1984 - art. 11 (M)
   - Loi n°1901-07-01
 
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 86 () JORF 31 décembre 1987
+  - Loi n°89-936 1989-12-29 art. 44 I Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -61736,30 +61934,24 @@ _Cité par_:
 
 Sont imposés au demi-tarif :
 
-1° et 2° (Dispositions devenues sans objet);
-
-3° (Abrogé);
-
-4° Pour quatre séances annuelles et, le cas échéant, sans préjudice des exonérations accordées par l'article 1561-3°-a les
-manifestations organisées exceptionnellement au profit exclusif d'établissements publics ou d'associations légalement
-constituées agissant sans but lucratif. Cette réduction d'impôt est consentie après perception au tarif normal, par voie de
-restitution directe aux établissements ou associations désignées; à cet effet, la somme correspondant à l'exonération
-éventuelle est prise en consignation au nom de l'oeuvre bénéficiaire.
-
-Les organisateurs et les bénéficiaires de ces représentations doivent justifier auprès du service des impôts de l'affectation
-de la totalité des recettes, sous la seule déduction des frais, à l'oeuvre au profit de laquelle la séance est donnée. Faute
-de produire ces justifications dans un délai maximal de deux mois, la perception portée en consignation est convertie en
-recette définitive. En outre, ces mêmes organisateurs et bénéficiaires doivent tenir leur comptabilité à la disposition des
-agents des impôts pendant le délai prévu à l'article 2002 bis.
-
+1° et 2° (Dispositions devenues sans objet);     3° (Abrogé);     4° Pour quatre séances annuelles et, le cas échéant, sans
+préjudice des exonérations accordées par l'article 1561-3°-a les manifestations organisées exceptionnellement au profit
+exclusif d'établissements publics ou d'associations légalement constituées agissant sans but lucratif. Cette réduction
+d'impôt est consentie après perception au tarif normal, par voie de restitution directe aux établissements ou associations
+désignées; à cet effet, la somme correspondant à l'exonération éventuelle est prise en consignation au nom de l'oeuvre
+bénéficiaire.     Les organisateurs et les bénéficiaires de ces représentations doivent justifier auprès du service des
+impôts de l'affectation de la totalité des recettes, sous la seule déduction des frais, à l'oeuvre au profit de laquelle la
+séance est donnée. Faute de produire ces justifications dans un délai maximal de deux mois, la perception portée en
+consignation est convertie en recette définitive. En outre, ces mêmes organisateurs et bénéficiaires doivent tenir leur
+comptabilité à la disposition des agents des impôts pendant le délai prévu à l'article L82 du livre des procédures fiscales.
 En aucun cas, la réduction d'impôt ne doit être accordée :
 
-a  Aux manifestations de bienfaisance n'ayant pas fait l'objet d'une autorisation administrative;
-
-b  Aux manifestations qui ne laisseraient aux oeuvres au profit desquelles les séances sont organisées d'autre bénéfice que
-celui des réductions d'impôt prévues par la réglementation en vigueur;
-
-5° (Disposition devenue sans objet);
+a  Aux manifestations de bienfaisance n'ayant pas fait l'objet d'une autorisation administrative;     b  Aux manifestations
+qui ne laisseraient aux oeuvres au profit desquelles les séances sont organisées d'autre bénéfice que celui des réductions
+d'impôt prévues par la réglementation en vigueur;     5° Quatre des manifestations sportives organisées dans l'année par les
+associations sportives agréées par le ministre chargé des sports et par les groupements sportifs et les sociétés sportives
+visés à l'article 11 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités
+physiques et sportives ;
 
 6° Les appareils automatiques mis en exploitation au cours du deuxième semestre de l'année.
 
@@ -61768,15 +61960,16 @@ celui des réductions d'impôt prévues par la réglementation en vigueur;
 _Cite_:
 
   - CGI 1561 3° a
-  - CGI 2002 bis
+  - CGI L82
+  - Loi n°84-610 du 16 juillet 1984 - art. 11 (M)
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 44 II Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ##### Assiette et liquidation.<a id=1015></a>
@@ -65281,24 +65474,27 @@ incorporation dans tous produits alimentaires, à l'alimentation humaine.
 
 Cette taxe est due :
 
-a. Pour les huiles fabriquées en France continentale et en
-
-Corse, sur toutes les ventes ou livraison à soi-même de ces huiles par les producteurs ;
+a. Pour les huiles fabriquées en France continentale et en Corse, sur toutes les ventes ou livraison à soi-même de ces huiles
+par les producteurs ;
 
 b. Pour les huiles importées en France continentale et en Corse (y compris les huiles d'animaux marins qui, pour
 l'assujettissement à la taxe spéciale, sont assimilées aux huiles végétales alimentaires), lors de l'importation.
 
-II. Les taux de la taxe sont fixés comme suit (1) : Huile d'olive : Par kilogramme 0,796 F Par litre 0,717 F
+II. Les taux de la taxe sont fixés comme suit (1) : Huile d'olive : Par kilogramme 0,816 F Par litre 0,735 F
 
-Huiles d'arachide et de maïs : Par kilogramme 0,717 F Par litre 0,653 F
+Huiles d'arachide et de maïs : Par kilogramme 0,735 F Par litre 0,670 F
 
-Huiles de colza et de pépins de raisin : Par kilogramme 0,367 F Par litre 0,335 F
+Huiles de colza et de pépins de raisin : Par kilogramme 0,376 F Par litre 0,343
 
-Autres huiles végétales fluides et huiles d'animaux marins (autres que la baleine) : Par kilogramme 0,625 F Par litre 0,547 F
+Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
+internationales ou nationales relatives aux espèces protégées : Par kilogramme 0,641 F Par litre 0,560 F
 
-Huiles de coprah et de palmiste Par kilogramme 0,477 F Par litre 0,547 F
+Huiles de coprah et de palmiste : Par kilogramme 0,489 F Par litre 0,560 F
 
-Huile de palme et huile de baleine : Par kilogramme 0,436 F Par litre 0,547 F
+Huile de palme : Par kilogramme 0,447 F Par litre 0,560 F
+
+Huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles internationales ou nationales
+relatives aux espèces protégées : Par kilogramme 0,816 F Par litre 0,560 F
 
 Pour les produits alimentaires importés incorporant des huiles imposables, la taxation est effectuée selon les quantités et
 les natures d'huile entrant dans la composition.
@@ -65317,7 +65513,7 @@ Seront toutefois fixées par décret (3) les mesures particulières et prescript
 pour que la taxe spéciale ne frappe que les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne soit
 perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation.
 
-(1) Taux applicables à compter du 1er janvier 1989.
+(1) Taux applicables à compter du 1er janvier 1990.
 
 (2) Voir annexe IV, art. 159 ter A. Le dernier tarif forfaitaire a été fixé par un arrêté du 30 décembre 1988 (J.O. du 4
 février 1989).
@@ -65340,14 +65536,14 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 41 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-935 1989-12-29 art. 46 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### I : Tabacs fabriqués.<a id=1100></a>
 
 ###### Article 1618 sexies
 
-Il est institué, au profit du budget annexe des prestations sociales agricoles, une taxe de 0,80 % [*taux*] sur les tabacs
+Il est institué, au profit du budget annexe des prestations sociales agricoles, une taxe de 0,781 % [*taux*] sur les tabacs
 fabriqués.
 
 Cette taxe est perçue en addition à la taxe sur la valeur ajoutée sur les produits fabriqués à l'intérieur et sur les
@@ -65356,13 +65552,13 @@ que cette dernière.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 8 III 2 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 298 quaterdecies (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ##### J : Farines.<a id=1101></a>
@@ -66887,20 +67083,31 @@ des taxes suivantes :
 2. Sauf dispositions contraires, il en est de même pour les contributions et taxes qui sont établies et recouvrées comme en
 matière de contributions directes au profit de toutes collectivités, fonds ou organismes divers.
 
+3. En contrepartie des dégrèvements prévus à l'article 1414 C, l'Etat perçoit un prélèvement assis sur les valeurs locatives
+servant de base à la taxe d'habitation diminuées des abattements votés par la commune en application de l'article 1411. Les
+redevables visés aux articles 1414, 1414 A et 1414 B en sont toutefois exonérés pour leur habitation principale.
+
+Le taux de ce prélèvement est fixé comme suit :
+
+Locaux d'habitation non affectés à l'habitation principale dont la valeur locative est :
+
+Supérieure à 50 000 F : 1,7 %
+
+Inférieure ou égale à 50 000 F et supérieure à 30 000 F : 1,2 %
+
+Autres locaux dont la valeur locative est supérieure à 30 000 F : 0,2 % (1).
+
 II. – Pour frais d'assiette et de recouvrement, l'Etat perçoit 5 % du montant des taxes visées au I ainsi que de la taxe
 d'habitation due pour les locaux meublés affectés à l'habitation principale. Ce taux est réduit à 4 % pour les impositions
 perçues au profit des collectivités locales et de leurs groupements.
 
-**Nota:**
-
-
+(1) Ces dispositions sont applicables aux impositions établies au titre de 1990.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°88-1149 1988-12-23 art. 3 X, art. 11 Finances pour 1989 JORF 28 décembre 1988
-  - Loi n°88-1149 du 23 décembre 1988 - art. 3 (P) JORF 28 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 6 V VII Finances pour 1990 JORF 30 décembre 1989
 
 _Cité par_:
 
@@ -66908,10 +67115,10 @@ _Cité par_:
   - Loi n°2009-967 du 3 août 2009 - art. 46 (V)
   - Arrêté du 9 décembre 2009 - art. 2 (V)
   - Arrêté du 25 juin 2010 - art. 2 (V)
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 34 (VT)
   - Arrêté du 9 août 2011 - art. 2 (V)
   - Arrêté du 20 décembre 2012 - art. 2 (V)
   - Arrêté du 6 décembre 2013 - art. 2 (V)
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 34 (VT)
   - Loi n°2013-1278 du 29 décembre 2013 - art. 41 (VT)
   - Loi n°2013-1278 du 29 décembre 2013 - art. 42 (Ab)
   - Décret n°2014-1224 du 21 octobre 2014 - art. 1 (V)
@@ -66925,6 +67132,18 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1647 bis (V)
   - Code général des impôts, CGI. - art. 1647-00 A (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 155 bis A (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°90-669 1990-07-30 art. 59
+  - HISTO: Edition du 15 juin 1990
+
+_Cite_:
+
+  - CGI 1411
+  - CGI 1414
+  - CGI 1414 A
+  - CGI 1414 B
 
 
 ###### Article 1644
@@ -67315,7 +67534,7 @@ _Modifié par_:
 
 ###### Article 1647 B sexies
 
-I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4,5 % de la valeur
+I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4 % de la valeur
 ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les modalités
 prévues aux II et III (1).
 
@@ -67384,27 +67603,12 @@ entre cet élément et le montant total des bases.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1449 2°
-  - CGI 1467 A
-  - CGI 1478
-  - CGI 1600
-  - CGI 1601
-  - CGI 1641
-  - Loi n°80-10 1980-01-10 ART. 7, ART. 33
-  - Loi n°80-10 du 10 janvier 1980 - art. 7 (V)
-
-_Modifié par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 31 (V) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-
 _Cité par_:
 
+  - Arrêté du 25 octobre 2006 - art. 1 (V)
   - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
   - Loi n°2005-781 du 13 juillet 2005 - art. 67 (VT)
   - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
-  - Arrêté du 25 octobre 2006 - art. 1 (V)
   - Décret n°2013-426 du 24 mai 2013 (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, CGI. - art. 1647 E (Ab)
@@ -67419,6 +67623,21 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C sexies (VD)
   - Livre des procédures fiscales - art. L135 B (V)
   - Livre des procédures fiscales - art. R*190-1 (V)
+
+_Cite_:
+
+  - CGI 1449 2°
+  - CGI 1467 A
+  - CGI 1478
+  - CGI 1600
+  - CGI 1601
+  - CGI 1641
+  - Loi n°80-10 1980-01-10 ART. 7, ART. 33
+  - Loi n°80-10 du 10 janvier 1980 - art. 7 (V)
+
+_Modifié par_:
+
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 7
 
 
 #### Chapitre II ter : Cotisation minimum de la taxe professionnelle.<a id=1137></a>
@@ -67522,24 +67741,24 @@ _Cité par_:
 I. Lorsque dans une commune les bases d'imposition d'un établissement, divisées par le nombre d'habitants, excèdent deux fois
 la moyenne des bases de taxe professionnelle par habitant constatée au niveau national, il est perçu directement, au profit
 d'un fonds départemental de la taxe professionnelle, un prélèvement égal au produit du montant des bases excédentaires par le
-taux en vigueur dans la commune (1).
+taux en vigueur dans la commune.
 
 (Périmé).
 
 Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence à cette notion, est prise en compte la valeur
 nette des bases de taxe professionnelle après écrêtement.
 
-Dans le cas où une commune visée par les dispositions qui précèdent appartient à un groupe de communes auquel elle versait,
-avant le 1er janvier 1976, une contribution budgétaire calculée par référence au produit global de sa taxe professionnelle ou
-s'était engagée, avant cette date, par accord conventionnel, à reverser une partie de ce produit à une ou plusieurs communes
-voisines, il est appliqué sur les bases de cette commune, pour l'application des premier et deuxième alinéas, une réduction
-de bases correspondant au montant des sommes en cause.
+Dans le cas où une commune visée par les dispositions qui précèdent appartient à un groupement de communes auquel elle verse
+une contribution budgétaire calculée par référence au produit global de sa taxe professionnelle ou de ses quatre taxes ou
+s'est engagée par accord conventionnel, à reverser une partie de ce produit à une ou plusieurs communes voisines, il est
+appliqué sur les bases de cette commune, pour l'application des premier et deuxième alinéas, une réduction de bases
+correspondant au montant des sommes en cause.
 
 (Périmé). Pour les établissements créés avant le 1er janvier 1976 , à l'exception de ceux produisant de l'énergie ou traitant
 des combustibles, l'assiette du prélèvement est limitée de manière que la commune conserve au moins 80 % du montant des bases
-de taxe professionnelle imposables à son profit en 1979.
-
-Les dispositions du présent paragraphe ne s'appliquent pas aux agglomérations nouvelles.
+de taxe professionnelle imposables à son profit en 1979.    Les dispositions du présent paragraphe ne s'appliquent pas aux
+agglomérations nouvelles.    I bis. Pour les établissements produisant de l'énergie ou traitant des combustibles, toute unité
+de production ou de traitement est considérée comme un établissement pour l'application du paragraphe I (1).
 
 II. Les ressources du fond sont réparties par le conseil général si les collectivités concernées sont situées dans les
 limites d'un même département, ou par une commission interdépartementale réunie à l'initiative de l'un des conseils si les
@@ -67562,11 +67781,12 @@ de leur potentiel fiscal ou l'importance de leurs charges ;
 
 a. Entre les commune qui sont situées à proximité de l'établissement lorsqu'elles ou leurs groupements subissent de ce fait
 un préjudice ou une charge quelconque et en particulier lorsqu'une partie des salariés de cet établissement y réside, le
-nombre de ceux-ci étant un élément déterminant de la répartition ; b. Entre les communes d'implantation des barrages
-réservoirs et barrages retenues conçus et construits en vue de régulariser le débit des fleuves auprès desquels sont situés
-les établissements mentionnés au III qui produisent de l'énergie en traitant des combustibles nucléaires, mais à l'exclusion
-des communes d'implantation des barrages réservoirs et retenues dont l'objet principal est la production d'énergie
-électrique.
+nombre de ceux-ci étant un élément déterminant de la répartition ;
+
+b. Entre les communes d'implantation des barrages réservoirs et barrages retenues conçus et construits en vue de régulariser
+le débit des fleuves auprès desquels sont situés les établissements mentionnés au III qui produisent de l'énergie en traitant
+des combustibles nucléaires, mais à l'exclusion des communes d'implantation des barrages réservoirs et retenues dont l'objet
+principal est la production d'énergie électrique.
 
 Les communes mentionnées au b ci-dessus bénéficient d'une fraction égale à 8 p. 100 du minimum des ressources réservées à la
 catégorie définie au 2°. Cette fraction est répartie par le conseil général du département où sont situées les communes
@@ -67581,7 +67801,7 @@ Chacune des catégories définies aux 1° et 2° recevra au minimum 40 % des res
 III. Lorsque l'excédent provient d'un établissement produisant de l'énergie ou traitant des combustibles, créé à partir du
 1er janvier 1976, la répartition de la fraction de ressources mentionnée au 2° du II, établie par le ou les départements
 concernés dans les conditions prévues au II, est soumise à l'accord, à la majorité qualifiée, des communes d'implantation et
-des communes concernées, telles qu'elles sont définies au 2° du II (1).
+des communes concernées, telles qu'elles sont définies au 2° du II (2).
 
 Pour l'application du présent paragraphe, chaque unité de production ou de traitement est considérée comme un établissement.
 
@@ -67607,7 +67827,7 @@ fiscal de chaque commune est celui qui est défini au premier alinéa de l'artic
 
 VI. Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat (2).
 
-(1) La moyenne des bases de taxe professionnelle par habitant retenue en 1987 est réduite de 16 %.
+(1) Cette disposition a un caractère interprétatif.
 
 (2) Voir annexe II, art. 328 à 328 B et décret n° 81-120 du 6 février 1981 (J.O. des 9 et 10).
 
@@ -67643,7 +67863,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°88-13 du 5 janvier 1988 - art. 45 () JORF 6 janvier 1988
+  - Loi n°89-936 du 29 décembre 1989 - art. 84 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-936 du 29 décembre 1989 - art. 85 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### Section II : Fonds national de péréquation de la taxe professionnelle.<a id=1143></a>
@@ -67706,17 +67927,17 @@ I. (Transféré au 1648 A bis-I).
 II. Sous réserve des dispositions de l'article 1648 B bis, le surplus des ressources du fonds défini au III de l'article 1648
 A bis comporte :
 
-1° Une part principale qui ne peut être inférieure à 75 p. 100 de ce surplus, répartie entre les communes :
+1° Une part principale qui ne peut être inférieure à 70 p. 100 de ce surplus, répartie entre les communes :
 
-a) dont le potentiel fiscal par habitant est inférieur au potentiel fiscal moyen par habitant de l'ensemble des communes
-appartenant au même groupe démographique.
+a) Dont le potentiel fiscal par habitant est inférieur d'au moins 10 p. 100 au potentiel fiscal moyen par habitant de
+l'ensemble des communes appartenant au même groupe démographique ;
 
-b) Et dont l'effort fiscal, tel qu'il est défini à l'article L. 234-5 du code des communes, est au moins égal à l'effort
-fiscal moyen des communes appartenant au même groupe démographique. Pour les communes dont le taux d'imposition à la taxe
-professionnelle est égal au plafond prévu aux paragraphes IV et V de l'article 1636 B septies du présent code, il n'est pas
-tenu compte de cette dernière condition. L'effort fiscal d'une commune membre d'un groupement de communes est calculé en
-ajoutant aux taux de chacune de ses propres taxes communales ceux appliqués par le groupement de communes aux bases
-respectives desdites taxes.
+b) Et dont l'effort fiscal, tel qu'il est défini à l'article L. 234-5 du code des communes, est supérieur d'au moins 10 p.
+100 à l'effort fiscal moyen (1) des communes appartenant au même groupe démographique. Pour les communes dont le taux
+d'imposition à la taxe professionnelle est égal au plafond prévu aux paragraphes IV et V de l'article 1636 B septies du
+présent code, il n'est pas tenu compte de cette dernière condition. L'effort fiscal d'une commune membre d'un groupement de
+communes est calculé en ajoutant aux taux de chacune de ses propres taxes communales ceux appliqués par le groupement de
+communes aux bases respectives desdites taxes.
 
 Les communes qui remplissent la condition prévue au a et dont l'effort fiscal est inférieur à la moyenne définie au b sans
 être inférieur à 90 p. 100 de cette moyenne bénéficient d'une attribution réduite de moitié.
@@ -67742,34 +67963,41 @@ les collectivités locales reçoivent en 1986, à titre non renouvelable, une do
 
 2° Une seconde part, au plus égale à 20 p. 100 de ce surplus, qui sert à verser une compensation aux communes qui
 enregistrent d'une année sur l'autre une perte importante de bases d'imposition à la taxe professionnelle. Cette compensation
-est versée de manière dégressive sur deux ans.
+est versée de manière dégressive sur deux ans. Ce délai est porté à quatre ans pour les communes bénéficiaires de cette
+seconde part, à compter du 1er janvier 1990.
 
 Les conditions que doivent remplir les communes pour bénéficier de cette seconde part ainsi que le calcul des attributions
 qui leur reviennent sont fixées par décret en Conseil d'Etat en tenant compte, notamment, de la perte de produit de taxe
 professionnelle et de l'importance relative de la perte de produit fiscal qui en résulte par rapport aux recettes de la
-commune provenant de la taxe d'habitation, des taxes foncières et de la taxe professionnelle. Toutefois, à compter du 1er
-janvier 1986, cette durée est portée à cinq ans pour les communes situées dans les cantons où l'Etat anime une politique de
-conversion industrielle et dont la liste est fixée par décret (1).
+commune provenant de la taxe d'habitation, des taxes foncières et de la taxe professionnelle.    A compter du 1er janvier
+1991, les communes dont les pertes de bases sont compensées sur quatre ans, bénéficient :
 
-3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée aux communes qui connaissent des difficultés
-financières graves en raison d'une baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe professionnelle
-(2) ou de leurs ressources de redevance des mines, et dont le budget primitif de l'exercice en cours a été soumis à la
-chambre régionale des comptes dans les conditions fixées par l'article 8 de la loi n° 82-213 du 2 mars 1982 relative aux
-droits et libertés des communes, des départements et des régions. Cette part est répartie selon la même procédure que celle
-relative aux subventions exceptionnelles accordées en application de l'article L235-5 du code des communes.
+la première année, d'une attribution égale au plus à 90 p. 100 de la perte de bases qu'elles ont enregistrée ;
 
-Le montant des crédits affectés à chacune de ces parts est fixé chaque année par le comité des finances locales, à qui il est
-rendu compte de l'utilisation desdites parts.
+la deuxième année, de 75 p. 100 de l'attribution reçue l'année précédente ;
+
+la troisième année, de 50 p. 100 de l'attribution reçue la première année ;
+
+la quatrième année, de 25 p. 100 de l'attribution reçue la première année. Toutefois, à compter du 1er janvier 1986, cette
+durée est portée à cinq ans pour les communes situées dans les cantons où l'Etat anime une politique de conversion
+industrielle et dont la liste est fixée par décret (2).    3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et
+qui est versée aux communes qui connaissent des difficultés financières graves en raison d'une baisse, sur une ou plusieurs
+années, de leurs bases d'imposition à la taxe professionnelle ou de leurs ressources de redevance des mines, et dont le
+budget primitif de l'exercice en cours a été soumis à la chambre régionale des comptes dans les conditions fixées par
+l'article 8 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions.
+Cette part est répartie selon la même procédure que celle relative aux subventions exceptionnelles accordées en application
+de l'article L235-5 du code des communes.    Le montant des crédits affectés à chacune de ces parts est fixé chaque année par
+le comité des finances locales, à qui il est rendu compte de l'utilisation desdites parts.
 
 II bis. Pour l'application du II, le potentiel fiscal de chaque commune membre d'une communauté ou d'un syndicat
 d'agglomération nouvelle visés à l'article 1609 nonies B est calculé dans les conditions fixées à l'article 1648 A-V ter.
 
 III. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat (3).
 
-(1) Dispositions applicables à compter du 1er janvier 1986).
+(1) Le Gouvernement présentera au Parlement, avant le 28 février 1990, un rapport présentant les résultats de la simulation
+réalisée sur la base du dispositif visé et proposant les modifications qu'il conviendrait d'apporter.
 
-(2) Les pertes de base d'imposition à la taxe professionnelle sont calculées pour 1987 sans tenir compte de la diminution de
-16 % prévue à l'article 1472 A bis.
+(2) Décret n° 86-422 du 12 mars 1986.
 
 (3) Décret n° 85-260 du 22 février 1985 (J.O. du 24).
 
@@ -67784,12 +68012,10 @@ _Cite_:
   - CGI 1648 B bis
   - Loi n°82-213 du 2 mars 1982 - art. 8 (M)
   - Loi n°84-1284 1984-12-31 art. 8 al. 7
+  - Décret n°85-260 1985-02-22
+  - Décret n°86-422 1986-03-12
   - CODE DES COMMUNES. - art. L234-5 (M)
   - CODE DES COMMUNES. - art. L235-5 (Ab)
-
-_Modifié par_:
-
-  - Loi n°86-972 du 19 août 1986 - art. 46 () JORF 22 août 1986
 
 _Cité par_:
 
@@ -67803,6 +68029,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5211-28-1 (V)
   - Code général des collectivités territoriales - art. L5211-29 (VD)
   - Code général des collectivités territoriales - art. L5211-30 (V)
+
+_Modifié par_:
+
+  - Loi n°89-935 1989-12-29 art. 86 I II III IV 1, 2 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-936 du 29 décembre 1989 - art. 86 (P) JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 1648 B bis
@@ -68326,8 +68557,8 @@ _Cite_:
 ###### Article 1649 quater D
 
 I. La comptabilité des adhérents des centres de gestion doit être tenue, centralisée ou surveillée par un expert comptable,
-un comptable agréé ou une société membre de l'ordre qui vise les documents fiscaux après s'être assuré de leur régularité
-formelle et de leur concordance avec la comptabilité.
+un comptable agréé ou une société membre de l'ordre, qui vise les documents fiscaux après s'être assuré de leur régularité et
+avoir demandé tous renseignements utiles de nature à établir la concordance entre les résultats fiscaux et la comptabilité.
 
 II. Toutefois, les centres créés à l'initiative des organisations et organismes mentionnés à l'article 1649 quater C et dont
 l'activité concerne la comptabilité des exploitants agricoles imposés selon le régime du bénéfice réel sont admis, après
@@ -68346,8 +68577,9 @@ IV. Les centres de gestion agréés et habilités peuvent tenir ou centraliser, 
 documents comptables de leurs adhérents dont le chiffre d'affaires n'excède pas les limites du régime simplifié d'imposition.
 
 Ils peuvent également, dans les mêmes conditions, continuer de tenir ou de centraliser les documents comptables des
-entreprises adhérentes tant que le chiffre d'affaires réalisé par celles-ci n'excède pas une fois et demie ces limites. Les
-experts-comptables, les comptables agréés, les sociétés membres de l'ordre et les experts-comptables stagiaires autorisés
+entreprises adhérentes tant que le chiffre d'affaires réalisé par celles-ci n'excède pas une fois et demie ces limites.
+
+Les experts-comptables, les comptables agréés, les sociétés membres de l'ordre et les experts-comptables stagiaires autorisés
 exercent, sous leur responsabilité, une mission de surveillance sur chaque dossier et délivrent le visa mentionné au I, dans
 des conditions fixées par arrêté du ministre chargé du budget. Ils peuvent refuser d'accomplir cette formalité si leurs
 observations n'ont pas été suivies d'effet avant la clôture des comptes de l'exercice. Dans ce cas, l'administration fiscale
@@ -68383,7 +68615,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 18 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-936 du 29 décembre 1989 - art. 100 () JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 1649 quater E
@@ -68554,20 +68786,24 @@ _Cité par_:
 
 ###### Article 1649 quater H
 
-Les associations mentionnées à l'article 1649 quater F sont habilitées à élaborer pour le compte de leurs adhérents, placés
-sous un régime réel d'imposition, les déclarations destinées à l'administration fiscale; un agent de l'administration fiscale
-apporte son assistance technique à ces organismes dans les conditions prévues par une convention passée entre l'association
-et l'administration (1).
-
-1)  Annexe II, art. 371 O et Annexe IV, art. 164 F duovicies.
+Les associations mentionnées à l'article 1649 quater F s'assurent de la régularité des déclarations fiscales que leur
+soumettent leurs adhérents. A cet effet, elles leur demandent tous renseignements utiles de nature à établir la concordance
+entre les résultats fiscaux et la comptabilité établie conformément aux plans comptables visés à l'article 1649 quater G.
+Elles sont habilitées à élaborer pour le compte de leurs adhérents, placés sous un régime réel d'imposition, les déclarations
+destinées à l'administration fiscale. Un agent de l'administration fiscale apporte son assistance technique à ces organismes
+dans les conditions prévues par une convention passée entre l'association et l'administration.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°89-936 du 29 décembre 1989 - art. 100 () JORF 30 décembre 1989
 
 _Cité par_:
 
   - Arrêté du 25 novembre 2010 - art. (Ab)
-  - Arrêté du 22 novembre 2016 - art. (V)
   - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+  - Arrêté du 22 novembre 2016 - art. (V)
   - Code général des impôts, CGI. - art. 158 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 N (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 O (V)
@@ -68579,13 +68815,11 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 1649 quater F
-  - CGIAN2 371 O
-  - CGIAN4 164 F duovicies
+  - CGI 1649 quater F, 1649 quater G
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 15 juin 1990
 
 
 ##### III : Dispositions communes<a id=1160></a>
@@ -68634,6 +68868,32 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 14 juillet 1989
+
+
+###### Article 1649 quater K
+
+Après avoir informé les intéressés des manquements constatés dans l'exécution des missions telles qu'elles sont définies aux
+articles 1649 quater C à 1649 quater H et les avoir mis en mesure de présenter leurs observations, le directeur régional des
+impôts peut subordonner le maintien ou le renouvellement de l'agrément d'un centre ou d'une association au changement par ces
+organismes de leur équipe dirigeante.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1649 quater C à 1649 quater H
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juin 1990
+
+_Créé par_:
+
+  - Loi n°89-936 du 29 décembre 1989 - art. 100 () JORF 30 décembre 1989
 
 
 #### Chapitre II : Casier fiscal<a id=1161></a>
@@ -70028,16 +70288,11 @@ date de dépôt des bordereaux-avis de versement.
 4. Le supplément d'impôt prévu au c du paragraphe I de l'article 219 est acquitté le dernier jour du mois qui suit la mise en
 paiement de la distribution.
 
+Toutefois, le paiement du supplément d'impôt dû en application du troisième alinéa du d du paragraphe I de l'article 219 est
+effectué le dernier jour du mois qui suit la clôture de l'exercice au cours duquel l'événement mentionné au même alinéa
+intervient.
+
 1)  Annexe III, art. 358 à 366.
-
-**Nota:**
-
-[*Nota : Loi 88-1149 1988-12-23 art. 12 VIII : "Le montant des acomptes prévus au premier alinéa du 1 de l'article 1668 du
-code général des impôts qui sont échus au cours d'exercices ouverts après le 31 décembre 1988 est fixé à 40,5 p. 100 du
-bénéfice de référence.
-
-Pour l'application de l'article 1668 du code général des impôts, l'acompte échu le 20 novembre 1988 est réduit d'un montant
-égal à 1,5 p. 100 du bénéfice de référence"*].
 
 **Liens relatifs à cet article**
 
@@ -70047,13 +70302,9 @@ _Cite_:
   - CGI 223 1
   - CGIAN3 358 A CGIAN3 366
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1149 1988-12-23 art. 12 VIII
-
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 12 () JORF 28 décembre 1988
+  - Loi n°89-935 1989-12-29 art. 18 III 2 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
@@ -70987,19 +71238,22 @@ _Cité par_:
 ###### Article 1686
 
 Les propriétaires et, à leur place, les principaux locataires, doivent, un mois avant l'époque du déménagement de leurs
-locataires [*délai*], se faire représenter par ces derniers les quittances de leur taxe d'habitation [*communication*].
-Lorsque les locataires ne représentent pas ces quittances, les propriétaires ou principaux locataires sont tenus, sous leur
-responsabilité personnelle, de donner, dans les trois jours [*délai*], avis du déménagement au comptable du Trésor chargé du
-recouvrement des impôts directs.
+locataires, se faire représenter par ces derniers les quittances de leur taxe d'habitation. Lorsque les locataires ne
+représentent pas ces quittances, les propriétaires ou principaux locataires sont tenus, sous leur responsabilité personnelle,
+de donner, dans le délai d'un mois, avis du déménagement au comptable du Trésor chargé du recouvrement des impôts directs.
 
 Dans le cas de déménagement furtif, les propriétaires et, à leur place, les principaux locataires sont responsables des
-termes échus de la taxe d'habitation de leurs locataires s'ils n'ont pas, dans les huit jours, fait donner avis du
+sommes dues au titre de la taxe d'habitation de leurs locataires s'ils n'ont pas, dans les trois mois, fait donner avis du
 déménagement au comptable du Trésor.
 
 Dans tous les cas, et nonobstant toute déclaration de leur part, les propriétaires ou principaux locataires sont responsables
 de la taxe d'habitation des personnes logées par eux en garni.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 29 I Finances rectificative pour 1989 JORF 30 décembre 1989
 
 _Cité par_:
 
@@ -71008,7 +71262,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 1687
@@ -71018,7 +71272,7 @@ les conventions verbales [*délai*], donné avis au comptable du Trésor chargé
 déménagement de leurs locataires, sont responsables des sommes dues par ceux-ci pour la taxe professionnelle.
 
 Dans le cas où ce terme est devancé, comme dans le cas de déménagement furtif, les propriétaires et, à leur place, les
-principaux locataires deviennent responsables de la taxe de leurs locataires, s'ils n'ont pas, dans les huit jours, donné
+principaux locataires deviennent responsables de la taxe de leurs locataires, s'ils n'ont pas, dans les trois mois, donné
 avis du déménagement au comptable du Trésor.
 
 La part de la taxe laissée à la charge des propriétaires ou principaux locataires par les paragraphes précédents comprend
@@ -71033,7 +71287,11 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 15 juin 1990
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 29 II Finances rectificative pour 1989 JORF 30 décembre 1989
 
 
 ###### Article 1688
@@ -72058,6 +72316,10 @@ ou en créances sur l'Etat ;
 
 2° Les dispositions des articles 1717, 1722 bis et 1722 quater relatives au paiement fractionné ou différé des droits.
 
+3° Les dispositions du 3 de l'article 1929 relatives à l'inscription de l'hypothèque légale du Trésor(1).
+
+(1) Cette disposition s'applique également à l'impôt de solidarité sur la fortune dû au titre de 1989.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -72068,11 +72330,12 @@ _Cite_:
   - CGI 1717
   - CGI 1722 bis
   - CGI 1722 quater
+  - CGI 1929 3
   - CGIAN3 392
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°89-936 1989-12-29 art. 21 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 1723 ter-00 B
@@ -78104,25 +78367,28 @@ l'article 1920 et qui s'exerce concurremment avec ce dernier.
 
 Le privilège s'exerce dans les conditions prévues à l'article 1920-1.
 
+Pour le recouvrement des prélèvements effectués en application des articles 49 et 50 du traité du 18 avril 1951 instituant la
+Communauté européenne du charbon et de l'acier, la Commission des communautés européennes bénéficie dans les mêmes conditions
+du privilège prévu au premier alinéa.
+
 Toutefois, les dispositions du présent article ne concernent pas le recouvrement des taxes susvisées à l'importation pour
 lesquelles il est fait application de l'article 379 du code des douanes.
 
 La remise en paiement d'obligations cautionnées, visée à l'article 1692, dernier alinéa, laisse subsister dans leur
 intégralité au profit de tous ceux qui les acquittent les privilèges et garanties accordés au Trésor par le présent article.
 
-1)  Pour les procédures ouvertes avant le 1er janvier 1968.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1692 AL. DERNIER
+  - CGI 1692
   - CGI 1920 1
   - Code des douanes - art. 379 (M)
+  - Traité 1951-04-18 art. 49, art. 50
 
 _Modifié par_:
 
-  - Loi n°84-1208 du 29 décembre 1984 - art. 103 (V) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+  - Loi n°89-936 1989-12-29 art. 45 Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
