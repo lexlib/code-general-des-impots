@@ -2,11 +2,11 @@
 
 I. Constitue une prime de remboursement :
 
-1. Pour les emprunts négociables visés à l'article 118 (( et aux 6° et 7° de l'article 120 )) (1) , les titres de créances
-négociables visés à l'article 124 B et tous autres titres ou contrats d'emprunt ou de capitalisation (( négociables ou non ))
-(1), émis ou conclus à compter du 1er janvier 1993, la différence entre les sommes ou valeurs à recevoir quelle que soit leur
-nature, à l'exception des intérêts linéaires versés chaque année à échéances régulières et restant à recevoir après
-l'acquisition, et celles versées lors de la souscription ou de l'acquisition ;
+1. Pour les emprunts négociables visés à l'article 118 et aux 6° et 7° de l'article 120, les titres de créances négociables
+visés à l'article 124 B et tous autres titres ou contrats d'emprunt ou de capitalisation négociables ou non, émis ou conclus
+à compter du 1er janvier 1993, la différence entre les sommes ou valeurs à recevoir quelle que soit leur nature, à
+l'exception des intérêts linéaires versés chaque année à échéances régulières et restant à recevoir après l'acquisition, et
+celles versées lors de la souscription ou de l'acquisition ;
 
 2. Pour les emprunts ou titres de même nature démembrés à compter du 1er janvier 1993, la différence entre les sommes ou
 valeurs à recevoir quelle que soit leur nature et le prix d'acquisition du droit au paiement du principal, d'intérêts ou de
@@ -40,15 +40,16 @@ comme date de remboursement la date la plus éloignée prévue au contrat. Toute
 prime de remboursement déterminée par application de ce même taux, diminuée des intérêts linéaires versés chaque année à
 échéances régulières, est inférieure à 10 p. 100 de la valeur d'émission.
 
-Par exception aux dispositions de l'alinéa qui précède, si le contrat comporte une clause d'indexation, la prime de
-remboursement est calculée à la clôture de chaque exercice en retenant la valeur de remboursement telle qu'elle apparaît
-compte tenu de la variation de l'index constatée à cette date depuis l'acquisition du titre ou la conclusion du contrat. La
-fraction imposable de la prime ainsi définie est égale à la différence entre :
+Par exception aux dispositions du premier alinéa, si le contrat comporte une clause d'indexation, la prime de remboursement
+est calculée à la clôture de chaque exercice en retenant la valeur de remboursement telle qu'elle apparaît compte tenu de la
+variation de l'index constatée à cette date depuis l'acquisition du titre ou la conclusion du contrat. La fraction imposable
+de la prime ainsi définie est égale à la différence entre :
 
 a) La valeur acquise de cette prime calculée au taux qui, appliqué au prix d'acquisition, permet, en retenant la méthode des
 intérêts composés, d'obtenir la valeur de remboursement définie ci-dessus ;
 
-b) Et les fractions imposées en application du présent alinéa depuis l'acquisition au titre des exercices antérieurs.
+b) Et les fractions imposées en application des deuxième à quatrième alinéas depuis l'acquisition au titre des exercices
+antérieurs.
 
 Dans ce dernier cas, est également imposable, le cas échéant, une part des intérêts capitalisés en vue d'être versés à
 échéances supérieures à un an ; cette part est égale au montant acquis de ces intérêts calculé au taux qui, appliqué au prix
@@ -70,22 +71,19 @@ l'administration.
 V. - Les dispositions du présent article ne sont pas applicables aux titres détenus par les personnes physiques dans le cadre
 de la gestion de leur patrimoine privé.
 
-(1) Modifications de la loi 93-1353.
-
-**Nota:**
-
-NOTA : Ces dispositions s'appliquent aux emprunts, titres ou droits émis ou démembrés à compter du 1er janvier 1993, ainsi
-qu'aux emprunts mentionnés au dernier alinéa du I  si une partie de ces emprunts a été émise à compter de la même date.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 118, 120, 124 B, 39, 53 A
 
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
 _Modifié par_:
 
-  - Loi n°93-1353 du 30 décembre 1993 - art. 3 (V) JORF 31 décembre 1993
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -99,5 +97,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
-  - TXT_ASSOCIE: Instruction 1994-02-01 4A-4-94
+  - HISTO: Edition du 31 mars 2002

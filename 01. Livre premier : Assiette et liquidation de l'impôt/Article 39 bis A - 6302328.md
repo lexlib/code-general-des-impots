@@ -2,7 +2,7 @@
 
 1. Les entreprises exploitant soit un journal, soit une publication mensuelle ou bimensuelle consacrée pour une large part à
 l'information politique, sont autorisées à constituer une provision déductible du résultat imposable des exercices 1997 à
-2001, en vue de faire face aux dépenses suivantes :
+2006, en vue de faire face aux dépenses suivantes :
 
 a. acquisition de matériels, mobiliers, terrains, constructions et prises de participation majoritaire dans des entreprises
 d'imprimerie ou exploitant des réseaux de portage, dans la mesure où ces éléments d'actif sont strictement nécessaires à
@@ -11,11 +11,11 @@ l'exploitation du journal ou de la publication ;
 b. constitution de bases de données, extraites du journal ou de la publication, et acquisition du matériel nécessaire à leur
 exploitation ou à la transmission de ces données.
 
-Les entreprises mentionnées au présent I peuvent déduire les dépenses d'équipement exposées en vue du même objet.
+Les entreprises mentionnées au présent 1 peuvent déduire les dépenses d'équipement exposées en vue du même objet.
 
 2. Les sommes déduites en vertu du 1 sont limitées à 30 p. 100 du bénéfice de l'exercice concerné pour la généralité des
 publications et à 60 p. 100 pour les quotidiens. Ce pourcentage est porté à 80 p. 100 pour les quotidiens dont le chiffre
-d'affaires est inférieur à 50 millions de francs. Les sommes rapportées au bénéfice imposable en application du 7 ne sont pas
+d'affaires est inférieur à 7 600 000 euros. Les sommes rapportées au bénéfice imposable en application du 7 ne sont pas
 prises en compte pour le calcul de la limite fixée à la phrase précédente.
 
 Sont assimilées à des quotidiens les publications à diffusion départementale ou régionale consacrées principalement à
@@ -43,7 +43,7 @@ Les sommes déduites en application du 1 et affectées à l'acquisition d'élém
 par parts égales, au bénéfice imposable de l'exercice au cours duquel ces éléments sont acquis et des quatre exercices
 suivants.
 
-7. Sans préjudice de l'application des dispositions du treizième alinéa du 5° du 1 de l'article 39, les provisions non
+7. Sans préjudice de l'application des dispositions du seizième alinéa du 5° du 1 de l'article 39, les provisions non
 utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux
 bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant égal au produit de ces provisions par le taux de
 l'intérêt de retard prévu au troisième alinéa de l'article 1727, appliqué dans les conditions mentionnées à l'article 1727 A.
@@ -53,11 +53,6 @@ l'intérêt de retard prévu au troisième alinéa de l'article 1727, appliqué 
 _Cite_:
 
   - CGI 39, 1727, 1727 A
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1998-09-23 4E-4-98
 
 _Cité par_:
 
@@ -71,10 +66,18 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G-0 bis (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 octies (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
+  - HISTO: Edition du 31 mars 2002
+
 _Modifié par_:
 
-  - Loi - art. 6 () JORF 31 décembre 1997
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 16 () JORF 29 décembre 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Codifié par_:
 
-  - Décret n°98-400 1998-05-22
+  - Décret n°2002-923 2002-06-06

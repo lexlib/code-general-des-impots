@@ -29,11 +29,11 @@ licences des transporteurs aériens.
 
 II. - Le tarif de la taxe est le suivant :
 
-22,90 F par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
+3,92 euros par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
 
-38,90 F par passager embarqué vers d'autres destinations ;
+6,66 euros par passager embarqué vers d'autres destinations ;
 
-6 F par tonne de courrier ou de fret embarquée.
+1,02 euro par tonne de courrier ou de fret embarquée.
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois
 considéré, arrondi à la tonne inférieure.
@@ -81,7 +81,7 @@ Les droits sont assortis des pénalités prévues à l'article 1728.
 3. Le droit de rectification de la taxe se prescrit en trois ans. Cette prescription est suspendue et interrompue dans les
 conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
-4. (abrogé)
+4. (abrogé à compter du 1er janvier 2001).
 
 V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
 annexe de l'aviation civile selon les procédures, sûretés, garanties et sanctions applicables en matière de taxes sur le
@@ -94,7 +94,12 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 _Modifié par_:
 
-  - Loi - art. 26 (V) JORF 31 décembre 1999
+  - Loi - art. 30 () JORF 29 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
+  - HISTO: Edition du 31 mars 2002
 
 _Cité par_:
 
@@ -116,7 +121,3 @@ _Cite_:
 
   - CGI 1729, 1728
   - Règlement CEE 2407/92 1992-07-23 art. 1er (Conseil)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000

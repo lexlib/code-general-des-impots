@@ -2,31 +2,25 @@
 
 Les titulaires de revenus passibles de l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux,
 bénéfices agricoles ou bénéfices non commerciaux dont le chiffre d'affaires ou les recettes sont inférieurs aux limites du
-forfait prévu aux articles 64 à 65 A ou des régimes définis aux articles 50-0 et 102 ter et qui ont opté pour un mode réel de
+forfait prévu aux articles 64 à 65 B ou des régimes définis aux articles 50-0 et 102 ter et qui ont opté pour un mode réel de
 détermination du résultat et adhéré à un centre de gestion ou à une association agréés bénéficient d'une réduction de la
 cotisation d'impôt sur le revenu égale aux dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour
-l'adhésion à un centre de gestion ou à une association agréés. Cette réduction, plafonnée à 915 euros par an, s'applique sur
-le montant de l'impôt sur le revenu calculé dans les conditions fixées par l'article 197 et dans la limite de ce montant. Les
-dispositions du 5 du I de l'article 197 sont applicables.
+l'adhésion à un centre de gestion ou à une association agréés. Cette réduction, plafonnée à 915 € par an, s'applique sur le
+montant de l'impôt sur le revenu calculé dans les conditions fixées par l'article 197 et dans la limite de ce montant. Les
+dispositions du 5 du I de l'article 197 sont applicables. 
 
 Cette réduction d'impôt est maintenue également pour la première année d'application de plein droit du régime réel normal ou
 simplifié d'imposition des bénéfices agricoles.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 197, 64 à 65 A, 50-0, 102 ter
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 2000-12-20 4G-2-00
-  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2001-1275 du 28 décembre 2001 - art. 84
+
+_Codifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002
 
 _Cité par_:
 
@@ -47,3 +41,18 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 200-0 A (VD)
   - Code général des impôts, CGI. - art. 234 decies A (V)
   - Code général des impôts, CGI. - art. 93 (VT)
+
+_Abrogé par_:
+
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 70
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 102 ter
+  - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 64
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2000-12-20 4G-2-00
