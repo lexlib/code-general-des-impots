@@ -48,6 +48,36 @@ appartient également à une communauté urbaine, à un district, ou à une comm
 professionnelle voté par ces établissements publics de coopération intercommunale l'année au cours de laquelle le
 rattachement est décidé.
 
+II bis. – 1. Toutefois, par exception aux dispositions du I et pour l'année suivant celle du rattachement de la commune,
+l'établissement public de coopération intercommunale peut, sur délibération du conseil communautaire statuant à la majorité
+simple de ses membres dans les conditions prévues par l'article 1639 A, voter son taux de taxe professionnelle dans la limite
+du taux moyen de la taxe professionnelle de l'établissement public de coopération intercommunale et de la commune rattachée
+constaté l'année précédente, pondéré par l'importance relative des bases imposées au profit de l'établissement public de
+coopération intercommunale et de la commune.
+
+2. Pour l'application du 1 :
+
+a. Lorsque la commune rattachée était membre d'un établissement public de coopération intercommunale substitué à la commune
+pour l'application des dispositions relatives à la taxe professionnelle, le taux moyen pondéré tient compte des produits
+perçus par cet établissement public de coopération intercommunale et des bases imposées à son profit sur le territoire de la
+commune ;
+
+b. Lorsque la commune rattachée était membre d'un établissement public de coopération intercommunale sans fiscalité propre ou
+à fiscalité propre additionnelle, le taux moyen pondéré tient compte des produits perçus au profit de ces établissements sur
+le territoire de la commune ;
+
+c. Les dispositions du troisième alinéa du a du 1° du III de l'article 1609 nonies C sont applicables.
+
+Pour l'application de ces dispositions, il est tenu compte des taux effectivement appliqués sur le territoire des communes
+lorsqu'un processus de réduction des écarts de taux était en cours ou, à défaut, du taux de l'établissement public de
+coopération intercommunale qui était substitué aux communes pour l'application des dispositions de la taxe professionnelle.
+Lorsque la commune rattachée était membre d'un établissement public de coopération intercommunale sans fiscalité propre ou à
+fiscalité propre additionnelle, le taux de la commune est majoré du taux de l'établissement public de coopération
+intercommunale.
+
+3. Les dispositions du IV de l'article 1636 B decies ne sont pas applicables au montant reporté au titre de l'année de
+rattachement et des deux années antérieures.
+
 III. – Les dispositions des I et II sont également applicables dans les communes ou parties de communes qui sont incorporées
 dans une zone d'activités économiques où il est fait application des dispositions du II de l'article 1609 quinquies C.
 
@@ -76,15 +106,11 @@ dans la commune rattachée.
 
 _Cite_:
 
-  - CGI 1609 nonies C
+  - CGI 1609 nonies C, 1639 A, 1636 B decies, 1609 quinquies C, 1636 B sexies
   - Loi n°99-586 1999-07-12
   - Code général des collectivités territoriales - art. L5211-41-1 (M)
   - Code général des collectivités territoriales - art. L5215-40-1 (M)
   - Code général des collectivités territoriales - art. L5216-10 (M)
-
-_Modifié par_:
-
-  - Loi - art. 49 () JORF 29 décembre 2001
 
 _Cité par_:
 
@@ -93,7 +119,12 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 quinquies C (V)
   - Code général des impôts, CGI. - art. 1640 C (V)
 
+_Modifié par_:
+
+  - Loi - art. 61 (V) JORF 31 décembre 2003
+
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 61 III
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2002-07-03 6A-4-02
