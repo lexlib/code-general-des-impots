@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-01-11
+Version Consolidée au 1980-01-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -47888,12 +47888,12 @@ _Cite_:
 
 ###### Article 967
 
-I. Le droit d'examen pour l'obtention du permis de conduire les véhicules automobiles, les motocyclettes d'une cylindrée
-supérieure à 125 cm3 et tous autres véhicules à moteur est fixé à 40 F [*montant*] (1).
+I. Le droit d'examen pour l'obtention du permis de conduire les véhicules automobiles, les motocyclettes et tous autres
+véhicules à moteur est fixé à 40 F [*montant*] (1).
 
-II  (Abrogé)
+II. (Abrogé).
 
-1)  Annexe III, art. 313 BE.
+(1) Annexe III, art. 313 BE.
 
 **Liens relatifs à cet article**
 
@@ -47901,9 +47901,14 @@ _Cite_:
 
   - CGIAN3 313 BE
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°80-14 du 9 janvier 1980 - art. 1 () JORF 12 JANVIER 1980
+  - Décret n°80-14 du 9 janvier 1980 - art. 6 () JORF 12 JANVIER 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 968
