@@ -8,8 +8,10 @@ artisanale, libérale ou agricole autre que :
 a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas exclusivement sur des biens situés en Corse,
 ainsi que l'exploitation de jeux de hasard et d'argent ;
 
-b. l'agriculture ainsi que la transformation ou la commercialisation de produits agricoles, sous réserve de l'exception
-prévue au e du 2°, la production ou la transformation de houille et lignite, la sidérurgie, l'industrie des fibres
+b. l'agriculture ainsi que la transformation ou la commercialisation de produits agricoles, sauf lorsque le contribuable peut
+bénéficier des aides à l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil, du 17 mai 1999, concernant le
+soutien au développement rural par le Fonds européen d'orientation et de garantie agricole (FEOGA) et modifiant et abrogeant
+certains règlements, la production ou la transformation de houille et lignite, la sidérurgie, l'industrie des fibres
 synthétiques, la pêche, le transport, la construction et la réparation de navires d'au moins 100 tonnes de jauge brute, la
 construction automobile.
 
@@ -25,33 +27,11 @@ prises en compte à la condition qu'il n'existe pas de lien de dépendance au se
 l'article 39 terdecies entre la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un
 groupe au sens de l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement de la
 somme des chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres de ce groupe. La condition tenant
-à la composition du capital doit être remplie par la société mère du groupe ;
+à la composition du capital doit être remplie par la société mère du groupe.
 
-2° Peuvent ouvrir droit au crédit d'impôt prévu au 1° à un taux majoré les investissements réalisés par des entreprises au
-titre de l'une des activités suivantes :
+2° (abrogé).
 
-a. L'hôtellerie, la restauration et les activités de loisirs à caractère artistique, sportif ou culturel ;
-
-b. Les nouvelles technologies, sous réserve des exceptions prévues aux c et d, entendues au sens de la création de produits,
-procédés ou techniques dont le caractère innovant et les perspectives de développement économique sont reconnus. Cette
-reconnaissance est effectuée pour une période de trois ans, le cas échéant renouvelable, par un établissement public
-compétent en matière de valorisation de la recherche et désigné par décret ;
-
-c. L'énergie, à l'exception de la distribution d'énergie ;
-
-d. L'industrie ;
-
-e. La transformation et la commercialisation de produits agricoles ainsi que l'agriculture lorsque le contribuable peut
-bénéficier des aides à l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil du 17 mai 1999 concernant le
-soutien au développement rural par le Fonds européen d'orientation et de garantie agricole ;
-
-f. Les services de conseil et d'ingénierie.
-
-Peuvent également ouvrir droit au crédit d'impôt prévu au 1° à un taux majoré les investissements réalisés dans les zones
-rurales déterminées par décret après consultation préalable de l'Assemblée de Corse par les entreprises de commerce de détail
-et les contribuables exerçant une activité artisanale au sens de l'article 1468 ;
-
-3° Le crédit d'impôt prévu au 1° est égal à 10 % du prix de revient hors taxes :
+3° Le crédit d'impôt prévu au 1° est égal à 20 % du prix de revient hors taxes :
 
 a. Des biens d'équipement amortissables selon le mode dégressif en vertu des 1 et 2 de l'article 39 A et des agencements et
 installations de locaux commerciaux habituellement ouverts à la clientèle créés ou acquis à l'état neuf ;
@@ -66,9 +46,6 @@ d. Des travaux de rénovation d'hôtel.
 
 Pour le calcul du crédit d'impôt, le prix de revient des investissements est diminué du montant des subventions publiques
 attribuées en vue de financer ces investissements.
-
-Le crédit d'impôt déterminé dans les conditions mentionnées au présent 3° est porté à 20 % pour les investissements réalisés
-au titre de l'une des activités mentionnées au 2° ;
 
 4° Les investissements réalisés par les petites et moyennes entreprises en difficulté peuvent ouvrir droit au crédit d'impôt
 prévu au 1° si elles ont reçu un agrément préalable délivré dans les conditions prévues à l'article 1649 nonies. Une
@@ -108,25 +85,27 @@ l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces par
 IV. - Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours
 d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à
+compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CEE Règlement 1257/99 1999-05-17 Conseil
-  - CGI 39 terdecies, 223 A, 1468, 39 A, 1649 nonies, 44 sexies, 208 sexies, 208 quater A, 44 decies, 8, 239 quater, 239 quater C, 156, 41, 151 octies, 210 A, 210 B
+  - CGI 39 terdecies, 223 A, 39 A, 1649 nonies, 44 sexies, 208 sexies, 208 quater A, 44 decies, 8, 239 quater, 239 quater C, 156, 41, 151 octies, 210 A, 210 B
   - Loi n°2002-92 2002-01-22
-
-_Créé par_:
-
-  - Loi n°2002-92 du 22 janvier 2002 - art. 48 () JORF 23 janvier 2002
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
+  - Loi - art. 41 (V) JORF 31 décembre 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 41 II Finances rectificative pour 2002
+  - HISTO: Edition du 1er janvier 2003
 
 _Cité par_:
 
@@ -139,7 +118,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WE (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WG (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WH (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
