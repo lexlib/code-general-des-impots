@@ -46,11 +46,11 @@ du 1er janvier 1992.
 c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux compris dans des exploitations agricoles et affectés
 à l'habitation des propriétaires exploitants ;
 
-d. Pour les prêts contractés et les dépenses payées à compter du 1er janvier 1990, les réductions d'impôt prévues aux a, b et
-c s'appliquent aux contribuables dont le revenu net imposable par part n'excède pas la limite inférieure de la douzième
-tranche du barème de l'impôt sur le revenu.
+d. (Abrogé) (1).
 
 2° a b c d (Périmé à l'exception du troisième alinéa du a transféré sous l'article L172 E du LPF).
+
+(1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à compter du 1er juillet 1993.
 
 **Liens relatifs à cet article**
 
@@ -60,6 +60,9 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 15 () JORF 31 décembre 1991
-  - Loi - art. 5 () JORF 31 décembre 1991
-  - Modifications directes incorporées dans l'édition du 4 juillet 1992
+  - Loi n°93-859 1993-06-22 art. 22 IV V Finances rectificative pour 1993 JORF 23 juin 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-859 1993-06-22 art. 22 V
