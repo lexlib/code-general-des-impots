@@ -8,7 +8,7 @@ conditions fixées par décret.
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 50 000 F.
 
 Les sommes, titres ou valeurs transférés vers l'étranger ou en provenance de l'étranger constituent, sauf preuve contraire,
-des revenus imposables lorsque le contribuable n'a pas rempli les obligations prévues aux alinéas précédents.
+des revenus imposables lorsque le contribuable n'a pas rempli les obligations prévues aux premier et deuxième alinéas.
 
 **Liens relatifs à cet article**
 
@@ -16,13 +16,13 @@ _Cite_:
 
   - Loi n°84-46 1984-01-24 art. 8
 
-_Modifié par_:
-
-  - Loi n°90-614 1990-07-12 art. 23 JORF 14 juillet 1990
-
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - Décret n°95-1281 1995-12-11
+
+_Modifié par_:
+
+  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
 
 _Cité par_:
 
@@ -30,3 +30,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1758 (V)
   - Code général des impôts, CGI. - art. 1759 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I bis (P)
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
