@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-10-25
+Version Consolidée au 1980-11-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -52886,31 +52886,51 @@ _Cité par_:
 
 ###### Article 1647
 
-I  Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur le montant :
+I. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur le montant (1) :
 
-- de la taxe locale d'équipement visée à l'article 1585 A;
-
-- des taxes parafiscales mentionnées à l'article 1635 ter-I;
+- de la taxe locale d'équipement visée à l'article 1585 A ;
 
 - des droits, taxes, redevances et autres impositions visés à l'article 1635 ter-II.
 
 Le taux de ce prélèvement est fixé, dans la limite de 5 % du montant des recouvrements, par arrêté du ministre de l'économie
-et des finances et du ministre intéressé (1).
+et des finances et du ministre intéressé (2).
 
-II  Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur le produit de la cotisation incluse dans la
+II. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur le produit de la cotisation incluse dans la
 taxe sur la valeur ajoutée en vertu de l'article 1614. Le taux de ce prélèvement et les modalités de remboursement sont fixés
 par le ministre de l'économie et des finances.
 
-III  Pour frais de recouvrement, l'Etat effectue un prélèvement sur les cotisations perçues au profit des organismes de
+III. Pour frais de recouvrement, l'Etat effectue un prélèvement sur les cotisations perçues au profit des organismes de
 sécurité sociale soumis au contrôle de la cour des comptes, dans les conditions déterminées par les articles 712 et 713 du
 code de la sécurité sociale. Le taux de ce prélèvement et les modalités de remboursement sont fixés par arrêté du ministre de
 l'économie et des finances.
 
-IV  (Disjoint  Disposition non fiscale).
+IV. (Disjoint. Disposition non fiscale).
 
-1)  Voir Annexe IV, art. 161 A à 164.
+(1) Pour les taxes parafiscales, voir Annexe II, art. 367.
+
+(2) Voir Annexe IV, art. 161 A à 164.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1585 A
+  - CGI 1614
+  - CGI 1635 ter II
+  - CGIAN2 367
+  - CGIAN4 161
+  - CGIAN4 162
+  - CGIAN4 163
+  - CGIAN4 164
+  - Code de la sécurité sociale 713
+
+_Modifié par_:
+
+  - Décret n°80-854 du 30 octobre 1980 - art. 11 (V) JORF 1 N0VEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 _Cité par_:
 
@@ -52928,10 +52948,6 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R3335-4 (V)
   - Code général des impôts, CGI. - art. 1647-00 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 terdecies (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 #### DEGREVEMENTS DE TAXE PROFESSIONNELLE<a id=965></a>
