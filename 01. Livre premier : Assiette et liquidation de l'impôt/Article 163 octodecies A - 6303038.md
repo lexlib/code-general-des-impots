@@ -4,7 +4,7 @@ I.  Lorsqu'une société constituée à compter du 1er janvier 1994 se trouve en
 suivent sa constitution, les personnes physiques qui ont souscrit en numéraire à son capital peuvent déduire de leur revenu
 net global une somme égale au montant de leur souscription, après déduction éventuelle des sommes récupérées.
 
-La déduction est opérée, dans la limite annuelle de 15 250 euros , sur le revenu net global de l'année au cours de laquelle
+La déduction est opérée, dans la limite annuelle de 30 000 euros, sur le revenu net global de l'année au cours de laquelle
 intervient la réduction du capital de la société, en exécution d'un plan de redressement visé aux articles L. 621-70 et
 suivants du code de commerce, ou la cession de l'entreprise ordonnée par le tribunal en application des articles L. 621-83 et
 suivants de ce code, ou le jugement de clôture de la liquidation judiciaire.
@@ -20,7 +20,7 @@ laquelle intervient, le cas échéant, l'infirmation du jugement ou la résoluti
 d'attribution de sommes ou valeurs en contrepartie de titres à raison desquels la déduction a été opérée, au titre de l'année
 d'attribution de ces sommes ou valeurs et dans la limite de leur montant.
 
-La limite annuelle de 15 250 euros mentionnée au deuxième alinéa est doublée pour les personnes mariées soumises à une
+La limite annuelle de 30 000 euros mentionnée au deuxième alinéa est doublée pour les personnes mariées soumises à une
 imposition commune.
 
 II. Les souscriptions en numéraire doivent avoir été effectuées directement au profit de sociétés soumises à l'impôt sur les
@@ -30,7 +30,7 @@ Toutefois, pour l'application du premier alinéa du II de l'article 44 sexies, l
 risque, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la
 condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société bénéficiaire de l'apport et
 ces dernières sociétés. De même, ce pourcentage ne tient pas compte des participations des fonds communs de placement à
-risques ou des fonds communs de placement dans l'innovation.
+risques, des fonds d'investissement de proximité ou des fonds communs de placement dans l'innovation.
 
 La condition mentionnée au III de l'article 44 sexies n'est pas exigée lorsque la société a été créée dans le cadre de la
 reprise d'activités préexistantes répondant aux conditions prévues par le I de l'article 39 quinquies H.
@@ -68,22 +68,13 @@ charge des sociétés ou de leurs représentants légaux et des souscripteurs.
 
 **Nota:**
 
-Ces dispositions sont applicables pour l'imposition des revenus des années 2003 et suivantes, et pour les jugements
-intervenus à compter du 1er janvier 2000.
+Ces dispositions s'appliquent aux souscriptions effectuées à compter du 1er janvier 2003.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi - art. 32 (V) JORF 31 décembre 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 32 II Finances rectificative pour 2002
-  - HISTO: Edition du 1er janvier 2003
-
 _Cite_:
 
+  - CGI 44 sexies, 39, 39 quinquies, 83, 83 bis, 83 ter, 163 septdecies, 199 undecies, 199 terdecies
   - Code de commerce. - art. L621-62 (Ab)
   - Code de commerce. - art. L621-70 (Ab)
   - Code de commerce. - art. L621-83 (Ab)
@@ -96,12 +87,12 @@ _Cite_:
   - Code de commerce. - art. L625-8 (M)
   - Code de commerce. - art. L626-2 (M)
   - Code de commerce. - art. L626-6 (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 163 septdecies (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 terdecies (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 39 quinquies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 44 sexies (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 83 (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 83 bis (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 83 ter (M)
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2003
+
+_Modifié par_:
+
+  - Loi n°2003-721 du 1 août 2003 - art. 26 () JORF 5 août 2003
+  - Loi n°2003-721 du 1 août 2003 - art. 30 (V) JORF 5 août 2003

@@ -1,21 +1,27 @@
 # Article 217 duodecies
 
-Les bénéfices investis dans les territoires d'outre-mer, dans la collectivité territoriale de Mayotte et dans celle de Saint-
-Pierre-et-Miquelon peuvent, dans les mêmes conditions, bénéficier du régime prévu à l'article 217 undecies.
+Les bénéfices investis à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles
+Wallis et Futuna et les Terres australes et antarctiques françaises peuvent, dans les mêmes conditions, bénéficier du régime
+prévu à l'article 217 undecies.
+
+Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Pierre-et-Miquelon et Mayotte
+dans le cadre de leur compétence fiscale propre au titre de projets d'investissements sont sans incidence pour la
+détermination du montant des dépenses éligibles retenues pour l'application de l'article 217 undecies.
+
+Pour l'application des régimes issus des articles 199 undecies A, 199 undecies B, 199 undecies C, 217 undecies ainsi que du
+présent article, les mots : "restaurant de tourisme classé" et "hôtel classé" s'apprécient au regard de la réglementation
+propre à chaque collectivité d'outre-mer.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 217 undecies
+  - CGI 217 undecies, 199 undecies A, 199 undecies B, 199 undecies C
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGI 238 bis HC
-
-_Créé par_:
-
-  - Loi - art. 18 (V) JORF 31 décembre 1997
+  - Loi n°2003-660 du 21 juillet 2003 - art. 35 () JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 37 () JORF 22 juillet 2003
 
 _Cité par_:
 
@@ -36,8 +42,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1999-07-20 4A-7-99
+  - HISTO: Edition du 31 août 2003
   - TXT_ASSOCIE: Instruction 2001-02-16 4A-2-01
   - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
   - TXT_ASSOCIE: Instruction 2002-05-21 4A-5-02
