@@ -1,6 +1,6 @@
 # Article 1609 duovicies
 
-Il est perçu une taxe spéciale (1) incluse dans le prix des billets d'entrée dans les salles de spectacles cinématographiques
+Il est perçu une taxe spéciale incluse dans le prix des billets d'entrée dans les salles de spectacles cinématographiques
 quels que soient le procédé de fixation ou de transmission et la nature du support des oeuvres ou documents audiovisuels qui
 y sont présentés.
 
@@ -82,11 +82,6 @@ cinématographiques.
 Le contentieux de la taxe est assuré et les infractions en matière d'assiette sont sanctionnées selon les règles propres à la
 taxe sur la valeur ajoutée.
 
-Les sanctions applicables à la taxe spéciale sur le prix des places cinématographiques ne peuvent être mises en recouvrement
-avant l'expiration d'un délai de trente jours à compter de la notification du document par lequel l'administration a fait
-connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose
-l'intéressé de présenter dans ce délai ses observations.
-
 Le produit de la taxe est porté en recettes au compte d'affectation spéciale institué par l'article 76 de la loi de finances
 pour 1960 (n° 59-1454 du 26 décembre 1959).
 
@@ -99,24 +94,17 @@ _Anciens textes_:
 
   - CGI 1621
 
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
-
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
-  - TXT_ASSOCIE: Instruction 1996-04-10 3P-4-96
-  - TXT_ASSOCIE: Instruction 1997-02-19 3P-2-97
+  - HISTO: Edition du 31 mars 2000
 
 _Cite_:
 
   - Loi n°59-1454 du 26 décembre 1959 - art. 76, v. init.
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 117 () JORF 19 juillet 1992, transfert de l'article 1621
-  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992, transfert de l'article 1621
+  - Loi - art. 26 (V) JORF 31 décembre 1999
 
 _Cité par_:
 
