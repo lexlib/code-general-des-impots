@@ -14,20 +14,16 @@ de loi de finances de l'année (1).
 Le montant maximal des ressources fiscales par habitant résultant de l'application des dispositions du troisième alinéa est
 fixé chaque année par décret (2).
 
-Le montant par habitant des ressources fiscales inscrites au budget de chaque établissement public régional ne peut
-progresser de plus de 20 % par an.
-
 Lorsque les recouvrements opérés font apparaître que le maximum a été dépassé pour un exercice, le montant de ressources
 excédant de plus de 5 % ce maximum est reporté et vient en déduction du montant maximum de ressources autorisé pour
 l'exercice suivant cette constatation.
 
-La taxe régionale additionnelle est répartie suivant les modalités définies aux articles 1636 B quinquies, 1636 B octies-I et
-1636 C.
+La taxe régionale additionnelle est répartie suivant les modalités définies aux articles 1636 B octies-I et 1636 C.
 
 (1) Disposition applicable à compter de 1981.
 
-(2) Montant maximal fixé pour 1981 à 67,68 F par le décret n° 81-102 du 4 février 1981. Pour 1980, le plafond avait été fixé
-à 60 F (Loi n° 80-30 du 18 janvier 1980, art. 84).
+(2) Montant maximal fixé pour 1982 à 79,32 F par le décret n° 82-44 du 16 janvier 1982. Pour 1981, le montant avait été fixé
+à 67,68 F par le décret n° 81-102 du 4 février 1981.
 
 **Liens relatifs à cet article**
 
@@ -36,17 +32,24 @@ _Cite_:
   - CGI 1635 bis D
   - CGI 1635 bis E
   - CGI 1636 B octies I
-  - CGI 1636 B quinquies
   - CGI 1636 C
-  - Loi n°80-30 1980-01-18 ART. 84 FINANCES POUR 1980
   - Décret n°81-102 1981-02-04
+  - Décret n°82-44 1982-01-16
+
+**Liens**:
+
+  - TXT_ASSOCIE: CGI 1636 B quinquies
 
 _Modifié par_:
 
-  - Loi n°80-1094 du 30 décembre 1980 - art. 59 () JORF 31 DECEMBRE 1980
+  - Loi n°81-1179 du 31 décembre 1981 - art. 16 (P) JORF 1er janvier 1982
 
 _Cité par_:
 
   - Code des postes et des communications électroni... - art. R20-44-20 (V)
   - Code général des impôts, CGI. - art. 1681 sexies (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 331 A (V)
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
