@@ -8,16 +8,15 @@ société à la date de sa dissolution.
 
 La taxe forfaitaire tient lieu de la retenue à la source prévue au 2 de l'article 119 bis ainsi que de l'impôt sur le revenu
 à la charge du bénéficiaire de ces répartitions. Elle est établie et recouvrée selon les mêmes modalités que la retenue à la
-source applicable aux distributions antérieures au 1er janvier 1966 (1). Elle est assimilée à cette retenue pour
-l'application de l'article 220. Elle n'est pas admise en déduction pour l'assiette de l'impôt sur le revenu ni de l'impôt sur
-les sociétés.
+source applicable aux distributions antérieures au 1er janvier 1966. Elle est assimilée à cette retenue pour l'application de
+l'article 220. Elle n'est pas admise en déduction pour l'assiette de l'impôt sur le revenu ni de l'impôt sur les sociétés.
 
 II. L'application des dispositions du I est réservée aux sociétés qui auront obtenu à cette fin, préalablement à leur
 dissolution, un agrément du ministre de l'économie et des finances délivré après avis du comité des investissements à
 caractère économique et social. L'agrément peut comporter des limitations et être assorti de conditions particulières,
 notamment en ce qui concerne les modalités de la liquidation et la destination à donner aux éléments d'actif liquidés. Pour
 les petites entreprises, l'agrément est accordé selon une procédure décentralisée, dans des conditions qui sont fixées par
-arrêté du ministre de l'économie et des finances (2).
+arrêté du ministre de l'économie et des finances.
 
 III. Les plus-values nettes réalisées lors de ces opérations peuvent être imposées en totalité suivant les règles applicables
 aux plus-values à long terme, quelle que soit la date d'acquisition des biens.
@@ -30,30 +29,22 @@ peuvent être soumises en totalité au taux d'imposition mentionné au premier a
 Les plus-values à long terme visées au deuxième alinéa ne peuvent être diminuées du montant des moins-values afférentes aux
 autres éléments de l'actif immobilisé.
 
-IV. Les distributions auxquelles donnent lieu ces opérations n'ouvrent pas droit au crédit d'impôt prévu à l'article 158 bis
-lorsqu'elles ont été soumises à la taxe forfaitaire de 15 % libératoire de l'impôt sur le revenu.
-
-(1) En ce qui concerne les règles de prescription, voir livre des procédures fiscales, art. L169 A.
-
-(2) Voir l'arrêté du 17 mai 1976 (JO du 22 juin) et l'article 170 septies de l'annexe IV.
+IV. (abrogé).
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Arrêté 1976-05-17
-  - CGI 119 bis 2, 220, 158 bis, 219 I, 108
-  - CGIAN4 170 septies
-  - Livre des procédures fiscales - art. L169 A (M)
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
-_Modifié par_:
-
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - CGI 108, 119 bis, 220, 219
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2004
+
+_Modifié par_:
+
+  - Loi - art. 93 (V) JORF 31 décembre 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 5 () JORF 27 mars 2004

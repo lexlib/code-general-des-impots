@@ -44,6 +44,9 @@ neuvième alinéa du même article ;
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de produits et plus-values nets exonérés en
 application du 3° septies de l'article 208 ;
 
+6° bis Par les sociétés uni-personnelles d'investissement à risque définies à l'article 208 D lorsque ces distributions sont
+prélevées sur des bénéfices exonérés en application de ce même article.
+
 7° Par les personnes morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986
 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de
 produits nets exonérés en application de l'article 208 quinquies ;
@@ -58,26 +61,33 @@ Toutefois, l'exonération de précompte ne s'applique que pour la partie de la d
 participations ;
 
 9° par les sociétés d'investissements immobiliers cotées et leurs filiales visées à l'article 208 C et prélevés sur les
-bénéfices exonérés en application du premier alinéa du II de cet article.
+bénéfices exonérés en application du premier alinéa du II de cet article et sur les bénéfices ayant été soumis à l'imposition
+prévue au IV de l'article 219.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 209 quinquies, 223 H, 219, 158 bis, 220 quinquies I, 208 A, 207 2, 208 ter, 208, 208 quinquies, 208 C
+  - CGI 209 quinquies, 223 H, 219, 158 bis, 220 quinquies, 208 A, 208, 208 D, 208 quinquies, 208 C
   - Loi n°86-793 du 2 juillet 1986 - art. 2, v. init.
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
-  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2001-03-21 4J-1-01
   - TXT_ASSOCIE: Instruction 2001-12-14 4J-2-01
   - TXT_ASSOCIE: Instruction 2002-01-03 4J-1-02
   - TXT_ASSOCIE: Instruction 2002-02-18 4J-2-02
   - TXT_ASSOCIE: Instruction 2002-10-11 4H-4-02
   - TXT_ASSOCIE: Instruction 2003-05-06 4J-3-03
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 25 III
+  - SPEC_APPLI: Loi n°2003-1311 2003-12-30 art. 91 III, IV, art. 93 I D
 
 _Modifié par_:
 
-  - Loi - art. 11 () JORF 31 décembre 2002
+  - Loi - art. 25 (V) JORF 31 décembre 2003
+  - Loi - art. 91 (V) JORF 31 décembre 2003
+
+_Abrogé par_:
+
+  - Loi - art. 93 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
