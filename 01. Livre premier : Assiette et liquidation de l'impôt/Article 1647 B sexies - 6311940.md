@@ -8,7 +8,10 @@ définie selon les modalités prévues au II.
 Pour les impositions établies au titre de 1999 et des années suivantes, le taux de plafonnement est fixé à 3,5 % pour les
 entreprises dont le chiffre d'affaires de l'année au titre de laquelle le plafonnement est demandé est inférieur à 140
 millions de francs, à 3,8 % pour celles dont le chiffre d'affaires est compris entre 140 millions de francs et 500 millions
-de francs et à 4 % pour celles dont le chiffre d'affaires excède cette dernière limite. 
+de francs et à 4 % pour celles dont le chiffre d'affaires excède cette dernière limite.
+
+Par exception aux dispositions des deux alinéas précédents, pour les impositions établies au titre de 2002 et des années
+suivantes, le taux de plafonnement est fixé à 1 % pour les entreprises de travaux agricoles, ruraux et forestiers.
 
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de
 l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet, à l'exception du dégrèvement prévu à
@@ -21,10 +24,10 @@ I ter. 1. Pour l'application du plafonnement en fonction de la valeur ajoutée d
 des années suivantes, la cotisation de taxe professionnelle s'entend de la somme des cotisations de chaque établissement
 calculées en retenant :
 
-D'une part, la base servant au calcul de la cotisation de taxe professionnelle établie au titre de l'année d'imposition au
+d'une part, la base servant au calcul de la cotisation de taxe professionnelle établie au titre de l'année d'imposition au
 profit de chaque collectivité locale et établissement public de coopération intercommunale doté d'une fiscalité propre ;
 
-Et, d'autre part, le taux de chaque collectivité ou établissement public de coopération intercommunale à fiscalité propre au
+et, d'autre part, le taux de chaque collectivité ou établissement public de coopération intercommunale à fiscalité propre au
 titre de 1995 ou le taux de l'année d'imposition, s'il est inférieur. Pour les communes qui, en 1995, appartenaient à un
 établissement public de coopération intercommunale sans fiscalité propre, le taux voté par la commune est, le cas échéant,
 majoré du taux appliqué au profit du établissement public de coopération intercommunale pour 1995. Lorsqu'il est fait
@@ -39,7 +42,7 @@ première fois à compter de 1996, la taxe professionnelle au lieu et place des 
 nonies C ou du II de l'article 1609 quinquies C, le taux de 1995 est celui de la ou des collectivités auxquelles
 l'établissement public de coopération intercommunale s'est substitué.
 
-Pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle , la cotisation
+Pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle, la cotisation
 afférente à la part de la commune et de l'établissement public de coopération intercommunale est calculée en retenant la
 somme des taux votés par la commune et par l'établissement public de coopération intercommunale en 1995, ou la somme des taux
 votés par ces collectivités pour l'année d'imposition, si elle est inférieure. Lorsque les bases imposables au profit de
@@ -59,7 +62,7 @@ première fois, à compter de l'année 2000, la taxe professionnelle au lieu et 
 nonies C, le taux à retenir pour le calcul de la cotisation éligible au plafonnement est le plus faible des deux taux
 suivants :
 
-a. Le taux retenu pour le calcul des cotisations éligibles au plafonnement l'année précédant la première année où
+a. le taux retenu pour le calcul des cotisations éligibles au plafonnement l'année précédant la première année où
 l'établissement public de coopération intercommunale perçoit la taxe professionnelle conformément à l'article 1609 nonies C
 pour la commune et, le cas échéant, le ou les établissements publics de coopération intercommunale auxquels il s'est
 substitué pour la perception de cet impôt.
@@ -91,11 +94,11 @@ services en provenance de tiers constaté pour la période définie au I.
 
 2. Pour la généralité des entreprises, la production de l'exercice est égale à la différence entre :
 
-D'une part, les ventes, les travaux, les prestations de services ou les recettes, les produits accessoires ; les subventions
+d'une part, les ventes, les travaux, les prestations de services ou les recettes, les produits accessoires ; les subventions
 d'exploitation ; les ristournes, rabais et remises obtenus ; les travaux faits par l'entreprise pour elle-même ; les stocks à
 la fin de l'exercice ;
 
-Et, d'autre part, les achats de matières et marchandises, droits de douane compris ; les réductions sur ventes ; les stocks
+et, d'autre part, les achats de matières et marchandises, droits de douane compris ; les réductions sur ventes ; les stocks
 au début de l'exercice.
 
 Les consommations de biens et services en provenance de tiers comprennent : les travaux, fournitures et services extérieurs,
@@ -111,18 +114,18 @@ amortissements dérogatoires et se rapportant aux biens loués, sont déduits de
 3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs
 mobilières est égale à la différence entre :
 
-D'une part, les produits d'exploitation bancaires et produits accessoires ;
+d'une part, les produits d'exploitation bancaires et produits accessoires ;
 
-Et, d'autre part, les charges d'exploitation bancaires.
+et, d'autre part, les charges d'exploitation bancaires.
 
 4. En ce qui concerne les entreprises d'assurance, de capitalisation et de réassurance de toute nature, la production est
 égale à la différence entre :
 
-D'une part, les primes ou cotisations ; les produits financiers ; les produits accessoires ; les subventions d'exploitation ;
+d'une part, les primes ou cotisations ; les produits financiers ; les produits accessoires ; les subventions d'exploitation ;
 les ristournes, rabais et remises obtenus ; les commissions et participations reçues des réassureurs ; les travaux faits par
 l'entreprise pour elle-même ; les provisions techniques au début de l'exercice.
 
-Et, d'autre part, les prestations ; les réductions et ristournes de primes ; les frais financiers ; les provisions techniques
+et, d'autre part, les prestations ; les réductions et ristournes de primes ; les frais financiers ; les provisions techniques
 à la fin de l'exercice.
 
 Les consommations intermédiaires comprennent également les commissions versées aux courtiers, agents et autres mandataires.
@@ -169,13 +172,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 24 () JORF 31 décembre 1999
-
-_Codifié par_:
-
-  - Décret n°2000-477 2000-06-02
+  - Loi n°2001-602 du 9 juillet 2001 - art. 70 (V)
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 2001-02-20 6E-4-01
+  - TXT_ASSOCIE: Instruction 2001-09-10 6A-4-01
