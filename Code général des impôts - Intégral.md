@@ -1,48 +1,50 @@
 # Code général des impôts  
-Version Consolidée au 1971-01-03
+Version Consolidée au 1972-01-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 247 à 1515)](#1)
-    - [Première Partie : Impôts d'État (art. 247 à 1043 A)](#2)
+    - [Première Partie : Impôts d'État (art. 247 à 1090 A)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 247)](#3)
         - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 247)](#4)
           - [Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III (art. 247)](#5)
             - [I : Entreprises de navigation maritime ou aérienne (art. 247)](#6)
       - [Titre III : Contributions indirectes et monopoles fiscaux - taxes diverses (art. 564 sexies)](#7)
         - [Chapitre III quinquies : Cotisation de solidarité sur les graines oléagineuses. (art. 564 sexies)](#8)
-      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 850 à 1043 A)](#9)
+      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 850 à 1090 A)](#9)
         - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 850)](#10)
           - [Section III : Obligations diverses (art. 850)](#11)
             - [I : Obligations des redevables et des officiers publics et ministériels (art. 850)](#12)
               - [A : Obligations des redevables (art. 850)](#13)
                 - [Affirmation de sincérité. (art. 850)](#14)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#15)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A à 1090 A)](#15)
           - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#16)
             - [9° : Départements d'outre-mer (art. 1043 A)](#17)
-    - [Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 1515)](#18)
-      - [Titre premier : Impositions communales (art. 1515)](#19)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1515)](#20)
-          - [Section VI : Règles d'évaluation de la valeur locative des biens imposables (art. 1515)](#21)
-            - [II : Évaluation des propriétés non bâties (art. 1515)](#22)
-              - [B : Procédure d'évaluation (art. 1515)](#23)
-                - [2 : Règles particulières à la révision quinquennale 1970-1974 (art. 1515)](#24)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 80 bis à 1628 quater)](#25)
-    - [IMPOTS D'ETAT (art. 80 bis à 564 quinquies)](#26)
-      - [IMPOTS DIRECTS (art. 80 bis)](#27)
-        - [IMPOT SUR LE REVENU (art. 80 bis)](#28)
-          - [REVENUS IMPOSABLES. (art. 80 bis)](#29)
-      - [CONTRIBUTIONS INDIRECTES (art. 564 quinquies)](#30)
-        - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#31)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#32)
-      - [IMPOSITIONS COMMUNALES (art. 1563)](#33)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#34)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#35)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#36)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#37)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#38)
-  - [Livre II : Recouvrement de l'impôt (art. 1694 bis)](#39)
-    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis)](#40)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#41)
-        - [III bis : Régime simplifié (art. 1694 bis)](#42)
+          - [Section VII : Juridictions. Procédures diverses (art. 1090 A)](#18)
+            - [Aide juridictionnelle (art. 1090 A)](#19)
+    - [Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 1515)](#20)
+      - [Titre premier : Impositions communales (art. 1515)](#21)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1515)](#22)
+          - [Section VI : Règles d'évaluation de la valeur locative des biens imposables (art. 1515)](#23)
+            - [II : Évaluation des propriétés non bâties (art. 1515)](#24)
+              - [B : Procédure d'évaluation (art. 1515)](#25)
+                - [2 : Règles particulières à la révision quinquennale 1970-1974 (art. 1515)](#26)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 80 bis à 1628 quater)](#27)
+    - [IMPOTS D'ETAT (art. 80 bis à 564 quinquies)](#28)
+      - [IMPOTS DIRECTS (art. 80 bis)](#29)
+        - [IMPOT SUR LE REVENU (art. 80 bis)](#30)
+          - [REVENUS IMPOSABLES. (art. 80 bis)](#31)
+      - [CONTRIBUTIONS INDIRECTES (art. 564 quinquies)](#32)
+        - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#33)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#34)
+      - [IMPOSITIONS COMMUNALES (art. 1563)](#35)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#36)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#37)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#38)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#39)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#40)
+  - [Livre II : Recouvrement de l'impôt (art. 1694 bis)](#41)
+    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis)](#42)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#43)
+        - [III bis : Régime simplifié (art. 1694 bis)](#44)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -164,19 +166,63 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-## Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=18></a>
+##### Section VII : Juridictions. Procédures diverses<a id=18></a>
 
-### Titre premier : Impositions communales<a id=19></a>
+##### Aide juridictionnelle<a id=19></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=20></a>
+###### Article 1090 A
 
-##### Section VI : Règles d'évaluation de la valeur locative des biens imposables<a id=21></a>
+I. - Sauf lorsqu'elles portent mutation de propriété, d'usufruit ou de jouissance, les décisions rendues dans les instances
+où l'une au moins des parties bénéficie de l'aide judiciaire sont exonérées des droits de timbre et d'enregistrement (1).
 
-##### II : Évaluation des propriétés non bâties<a id=22></a>
+II. - Sont liquidés en débet les droits et pénalités d'enregistrement et de timbre exigibles sur :
 
-##### B : Procédure d'évaluation<a id=23></a>
+a Les décisions mentionnées au I et qui portent mutation de propriété, d'usufruit ou de jouissance;
 
-##### 2 : Règles particulières à la révision quinquennale 1970-1974<a id=24></a>
+b Les actes et titres produits par le bénéficiaire de l'aide judiciaire (2) pour justifier de ses droits et qualités,
+lorsqu'ils sont du nombre de ceux soumis par leur nature au timbre ou à l'enregistrement dans un délai déterminé;
+
+c (Abrogé).
+
+Les sommes ainsi liquidées deviennent exigibles immédiatement après le jugement.
+
+(1) Annexe II, art. 310 F bis.
+
+(2) La loi 91-647 du 10 juillet 1991, en vigueur le 1er janvier 1992, art. 74 : les mots "aide juridictionnelle" remplacent
+les mots "aide judiciaire ou indemnisation des commissions et désignations d'office".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 310 F bis
+
+_Modifié par_:
+
+  - Loi n°72-11 1972-01-03 art. 24 JORF 5 janvier 1972
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1090 B (VD)
+
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+
+
+## Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=20></a>
+
+### Titre premier : Impositions communales<a id=21></a>
+
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=22></a>
+
+##### Section VI : Règles d'évaluation de la valeur locative des biens imposables<a id=23></a>
+
+##### II : Évaluation des propriétés non bâties<a id=24></a>
+
+##### B : Procédure d'évaluation<a id=25></a>
+
+##### 2 : Règles particulières à la révision quinquennale 1970-1974<a id=26></a>
 
 ###### Article 1515
 
@@ -237,15 +283,15 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 ter (VT)
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=25></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=27></a>
 
-## IMPOTS D'ETAT<a id=26></a>
+## IMPOTS D'ETAT<a id=28></a>
 
-### IMPOTS DIRECTS<a id=27></a>
+### IMPOTS DIRECTS<a id=29></a>
 
-#### IMPOT SUR LE REVENU<a id=28></a>
+#### IMPOT SUR LE REVENU<a id=30></a>
 
-##### REVENUS IMPOSABLES.<a id=29></a>
+##### REVENUS IMPOSABLES.<a id=31></a>
 
 ###### Article 80 bis
 
@@ -292,9 +338,9 @@ _Cité par_:
   - Code monétaire et financier - art. L221-32-5 (V)
 
 
-### CONTRIBUTIONS INDIRECTES<a id=30></a>
+### CONTRIBUTIONS INDIRECTES<a id=32></a>
 
-#### COTISATION DE SOLIDARITE SUR LES CEREALES.<a id=31></a>
+#### COTISATION DE SOLIDARITE SUR LES CEREALES.<a id=33></a>
 
 ###### Article 564 quinquies
 
@@ -323,13 +369,13 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=32></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=34></a>
 
-### IMPOSITIONS COMMUNALES<a id=33></a>
+### IMPOSITIONS COMMUNALES<a id=35></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=34></a>
+#### CONTRIBUTIONS INDIRECTES<a id=36></a>
 
-##### TAXES OBLIGATOIRES.<a id=35></a>
+##### TAXES OBLIGATOIRES.<a id=37></a>
 
 ###### Article 1563
 
@@ -382,11 +428,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. A85-1 (P)
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=36></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=38></a>
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=37></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=39></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=38></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=40></a>
 
 ###### Article 1628 quater
 
@@ -433,13 +479,13 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
 
 
-# Livre II : Recouvrement de l'impôt<a id=39></a>
+# Livre II : Recouvrement de l'impôt<a id=41></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=40></a>
+## Chapitre premier : Paiement de l'impôt<a id=42></a>
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=41></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=43></a>
 
-#### III bis : Régime simplifié<a id=42></a>
+#### III bis : Régime simplifié<a id=44></a>
 
 ###### Article 1694 bis
 
