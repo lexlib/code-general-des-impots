@@ -1,16 +1,16 @@
 # Article 885 O bis
 
 Les parts et actions de sociétés soumises à l'impôt sur les sociétés, de plein droit ou sur option, sont également
-considérées comme des biens professionnels si leur propriétaire remplit les conditions suivantes :
+considérées comme des biens professionnels si leur propriétaire remplit les conditions suivantes : 
 
 1° Etre, soit gérant nommé conformément aux statuts d'une société à responsabilité limitée ou en commandite par actions, soit
 associé en nom d'une société de personnes, soit président, directeur général, président du conseil de surveillance ou membre
-du directoire d'une société par actions.
+du directoire d'une société par actions. 
 
 Les fonctions énumérées ci-dessus doivent être effectivement exercées et donner lieu à une rémunération normale. Celle-ci
 doit représenter plus de la moitié des revenus à raison desquels l'intéressé est soumis à l'impôt sur le revenu dans les
 catégories des traitements et salaires, bénéfices industriels et commerciaux, bénéfices agricoles, bénéfices non commerciaux,
-revenus des gérants et associés mentionnés à l'article 62.
+revenus des gérants et associés mentionnés à l'article 62. 
 
 2° Posséder 25 % au moins des droits financiers et des droits de vote attachés aux titres émis par la société, directement ou
 par l'intermédiaire de son conjoint ou de leurs ascendants ou descendants ou de leurs frères et soeurs. Les titres détenus
@@ -21,44 +21,36 @@ participation dans la société dans laquelle le redevable exerce ses fonctions.
 personne dans plusieurs sociétés sont présumées constituer un seul bien professionnel lorsque, compte tenu de l'importance
 des droits détenus et de la nature des fonctions exercées, chaque participation, prise isolément, satisfait aux conditions
 prévues pour avoir la qualité de biens professionnels, et que les sociétés en cause ont effectivement des activités soit
-similaires, soit connexes et complémentaires.
+similaires, soit connexes et complémentaires. 
 
 Par dérogation aux dispositions du premier alinéa, la condition de possession de 25 % au moins du capital de la société n'est
-pas exigée des gérants et associés visés à l'article 62.
+pas exigée des gérants et associés visés à l'article 62. 
 
 Sont également considérées comme des biens professionnels les parts ou actions détenues directement par le gérant nommé
 conformément aux statuts d'une société à responsabilité limitée ou en commandite par actions, le président, le directeur
 général, le président du conseil de surveillance ou le membre du directoire d'une société par actions, qui remplit les
-conditions prévues au 1° ci-dessus, lorsque leur valeur excède 75 % de la valeur brute des biens imposables, y compris les
-parts et actions précitées.
+conditions prévues au 1° ci-dessus, lorsque leur valeur excède 50 % de la valeur brute des biens imposables, y compris les
+parts et actions précitées. 
 
 Sont également considérées comme des biens professionnels, dans la limite de 150 000 euros, les parts ou actions acquises par
 un salarié lors de la constitution d'une société créée pour le rachat de tout ou partie du capital d'une entreprise dans les
 conditions mentionnées aux articles 220 quater ou 220 quater A tant que le salarié exerce son activité professionnelle
 principale dans la société rachetée et que la société créée bénéficie du crédit d'impôt prévu à ces articles.
 
+**Nota:**
+
+Ces dispositions s'appliquent pour l'impôt de solidarité sur la fortune dû au titre de l'année 2004 et des années suivantes.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 220 quater, 220 quater A, 62
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2002-05-16 7S-6-02
-  - TXT_ASSOCIE: Jurisprudence 1999-06-28 7S-5-99
-  - TXT_ASSOCIE: Jurisprudence 2000-02-16 7S-3-00
-  - TXT_ASSOCIE: Jurisprudence 2000-09-13 7S-7-00
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Loi n°2003-721 du 1 août 2003 - art. 49 () JORF 5 août 2003
+
+_Cite_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 220 quater (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
 
 _Cité par_:
 
@@ -80,3 +72,8 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 294 bis (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K (M)
   - Code monétaire et financier - art. L221-32-5 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2003
+  - TXT_ASSOCIE: Instruction 2002-05-16 7S-6-02
