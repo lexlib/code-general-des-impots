@@ -1,0 +1,26 @@
+# Article 38 quater
+
+Par dérogation aux dispositions de l'article 38, lorsqu'un contrat d'assurance sur la vie a été souscrit par une entreprise,
+sur la tête d'un dirigeant, en vue de garantir le remboursement d'un prêt contracté pour les besoins de l'exploitation, le
+profit qui résulte de l'annulation de la dette de l'entreprise emprunteuse du fait de l'indemnisation du prêteur par la
+compagnie d'assurances peut être réparti par parts égales sur l'année de sa réalisation et sur les quatre années suivantes.
+Dans ce cas, l'entreprise échelonne, par parts égales sur les mêmes années, la déduction du montant global des primes qu'elle
+a acquittées en exécution de ces contrats et qui n'ont pas été précédemment déduites des résultats imposables de
+l'entreprise.
+
+Les sommes dont l'imposition a été différée en application de l'alinéa précédent sont rapportées au bénéfice imposable de
+l'exercice de la cession ou de la cessation de l'entreprise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+_Créé par_:
+
+  - Loi n°87-1060 du 30 décembre 1987 - art. 32 (P) JORF 31 décembre 1987
