@@ -6,11 +6,11 @@ douze mois clos au cours de cette même année lorsque cet exercice ne coïncide
 définie selon les modalités prévues au II.
 
 Pour les impositions établies au titre de 1999 et des années suivantes, le taux de plafonnement est fixé à 3,5 % pour les
-entreprises dont le chiffre d'affaires de l'année au titre de laquelle le plafonnement est demandé est inférieur à 140
-millions de francs, à 3,8 % pour celles dont le chiffre d'affaires est compris entre 140 millions de francs et 500 millions
-de francs et à 4 % pour celles dont le chiffre d'affaires excède cette dernière limite.
+entreprises dont le chiffre d'affaires de l'année au titre de laquelle le plafonnement est demandé est inférieur à 21 350 000
+euros, à 3,8 % pour celles dont le chiffre d'affaires est compris entre 21 350 000 euros et 76 225 000 euros et à 4 % pour
+celles dont le chiffre d'affaires excède cette dernière limite. 
 
-Par exception aux dispositions des deux alinéas précédents, pour les impositions établies au titre de 2002 et des années
+Par exception aux dispositions des premier et deuxième alinéas, pour les impositions établies au titre de 2002 et des années
 suivantes, le taux de plafonnement est fixé à 1 % pour les entreprises de travaux agricoles, ruraux et forestiers.
 
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de
@@ -24,10 +24,10 @@ I ter. 1. Pour l'application du plafonnement en fonction de la valeur ajoutée d
 des années suivantes, la cotisation de taxe professionnelle s'entend de la somme des cotisations de chaque établissement
 calculées en retenant :
 
-d'une part, la base servant au calcul de la cotisation de taxe professionnelle établie au titre de l'année d'imposition au
+D'une part, la base servant au calcul de la cotisation de taxe professionnelle établie au titre de l'année d'imposition au
 profit de chaque collectivité locale et établissement public de coopération intercommunale doté d'une fiscalité propre ;
 
-et, d'autre part, le taux de chaque collectivité ou établissement public de coopération intercommunale à fiscalité propre au
+Et, d'autre part, le taux de chaque collectivité ou établissement public de coopération intercommunale à fiscalité propre au
 titre de 1995 ou le taux de l'année d'imposition, s'il est inférieur. Pour les communes qui, en 1995, appartenaient à un
 établissement public de coopération intercommunale sans fiscalité propre, le taux voté par la commune est, le cas échéant,
 majoré du taux appliqué au profit du établissement public de coopération intercommunale pour 1995. Lorsqu'il est fait
@@ -62,7 +62,7 @@ première fois, à compter de l'année 2000, la taxe professionnelle au lieu et 
 nonies C, le taux à retenir pour le calcul de la cotisation éligible au plafonnement est le plus faible des deux taux
 suivants :
 
-a. le taux retenu pour le calcul des cotisations éligibles au plafonnement l'année précédant la première année où
+a. Le taux retenu pour le calcul des cotisations éligibles au plafonnement l'année précédant la première année où
 l'établissement public de coopération intercommunale perçoit la taxe professionnelle conformément à l'article 1609 nonies C
 pour la commune et, le cas échéant, le ou les établissements publics de coopération intercommunale auxquels il s'est
 substitué pour la perception de cet impôt.
@@ -86,7 +86,7 @@ Ces modalités sont applicables dans les mêmes conditions lorsqu'il est fait ap
 coopération intercommunale visés au premier alinéa des dispositions prévues aux I et V de l'article 1638 quater.
 
 3. La cotisation de chaque établissement est majorée du montant de l cotisation prévue à l'article 1648 D et des taxes
-spéciales d'équipement prévues aux articles 1599 quinquies, 1607 bis, 1608, 1609 et 1609 A, calculées dans les mêmes
+spéciales d'équipement prévues aux articles 1599 quinquies, 1607 bis, 1608, 1609 à 1609 F, calculées dans les mêmes
 conditions.
 
 II. 1. La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de la production sur les consommations de biens et
@@ -94,11 +94,11 @@ services en provenance de tiers constaté pour la période définie au I.
 
 2. Pour la généralité des entreprises, la production de l'exercice est égale à la différence entre :
 
-d'une part, les ventes, les travaux, les prestations de services ou les recettes, les produits accessoires ; les subventions
+D'une part, les ventes, les travaux, les prestations de services ou les recettes ; les produits accessoires ; les subventions
 d'exploitation ; les ristournes, rabais et remises obtenus ; les travaux faits par l'entreprise pour elle-même ; les stocks à
 la fin de l'exercice ;
 
-et, d'autre part, les achats de matières et marchandises, droits de douane compris ; les réductions sur ventes ; les stocks
+Et, d'autre part, les achats de matières et marchandises, droits de douane compris ; les réductions sur ventes ; les stocks
 au début de l'exercice.
 
 Les consommations de biens et services en provenance de tiers comprennent : les travaux, fournitures et services extérieurs,
@@ -114,18 +114,18 @@ amortissements dérogatoires et se rapportant aux biens loués, sont déduits de
 3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs
 mobilières est égale à la différence entre :
 
-d'une part, les produits d'exploitation bancaires et produits accessoires ;
+D'une part, les produits d'exploitation bancaires et produits accessoires ;
 
-et, d'autre part, les charges d'exploitation bancaires.
+Et, d'autre part, les charges d'exploitation bancaires.
 
 4. En ce qui concerne les entreprises d'assurance, de capitalisation et de réassurance de toute nature, la production est
 égale à la différence entre :
 
-d'une part, les primes ou cotisations ; les produits financiers ; les produits accessoires ; les subventions d'exploitation ;
+D'une part, les primes ou cotisations ; les produits financiers ; les produits accessoires ; les subventions d'exploitation ;
 les ristournes, rabais et remises obtenus ; les commissions et participations reçues des réassureurs ; les travaux faits par
 l'entreprise pour elle-même ; les provisions techniques au début de l'exercice.
 
-et, d'autre part, les prestations ; les réductions et ristournes de primes ; les frais financiers ; les provisions techniques
+Et, d'autre part, les prestations ; les réductions et ristournes de primes ; les frais financiers ; les provisions techniques
 à la fin de l'exercice.
 
 Les consommations intermédiaires comprennent également les commissions versées aux courtiers, agents et autres mandataires.
@@ -140,14 +140,14 @@ III. (Abrogé pour les impositions établies au titre de 1993 et des années sui
 IV. Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du dépôt
 de la demande.
 
-V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour les
-impositions établies au titre de 1994 et 500 millions de francs au titre de 1995 et des années suivantes.
+V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder 76 225 000 euros pour les
+impositions établies au titre de 1995 et des années suivantes.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609, 1467, 39, 50-0, 102 ter
+  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609 F, 1467, 39, 50-0, 102 ter
 
 _Cité par_:
 
@@ -170,11 +170,20 @@ _Cité par_:
   - Livre des procédures fiscales - art. L135 B (V)
   - Livre des procédures fiscales - art. R*190-1 (V)
 
-_Modifié par_:
-
-  - Loi n°2001-602 du 9 juillet 2001 - art. 70 (V)
-
 **Liens**:
 
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 2001-02-20 6E-4-01
   - TXT_ASSOCIE: Instruction 2001-09-10 6A-4-01
+  - TXT_ASSOCIE: Instruction 2003-02-20 6D-1-03
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 36 (V) JORF 29 décembre 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06

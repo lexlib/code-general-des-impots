@@ -25,7 +25,7 @@ commerce. Il en est de même si la reprise porte sur un ou plusieurs établissem
 industrielle et dans la mesure où la société créée pour cette reprise est indépendante juridiquement et économiquement de
 l'entreprise cédante.
 
-Lorsqu'une société créée dans les conditions prévues aux trois alinéas ci-dessus interrompt, au cours des trois premières
+Lorsqu'une société créée dans les conditions prévues aux premier à sixième alinéas interrompt, au cours des trois premières
 années d'exploitation, l'activité reprise ou est affectée au cours de la même période par l'un des événements mentionnés au
 premier alinéa du 2 de l'article 221, l'impôt sur les sociétés dont elle a été dispensée en application du présent article
 devient immédiatement exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et compté à partir de la date à
@@ -39,13 +39,13 @@ _Cite_:
   - Code de commerce. - art. L621-83 (Ab)
   - Code de commerce. - art. L622-17 (M)
 
-_Modifié par_:
-
-  - Ordonnance 2000-912 2000-09-18 art. 4 I 33° JORF 21 septembre 2000
-
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -76,4 +76,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002

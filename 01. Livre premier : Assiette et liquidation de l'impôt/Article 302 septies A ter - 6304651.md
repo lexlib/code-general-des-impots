@@ -1,20 +1,27 @@
 # Article 302 septies A ter
 
-L'option pour le régime simplifié (1) d'imposition des bénéfices industriels et commerciaux peut être exercée chaque année.
+L'option pour le régime simplifié d'imposition des bénéfices industriels et commerciaux peut être exercée chaque année. 
 
-Les entreprises nouvelles disposent d'un délai de trois mois à compter de la date du début de leur activité pour exercer
-cette option. Ce délai est également applicable aux entreprises nouvelles qui désirent se placer sous le régime de droit
-commun d'imposition du bénéfice réel (1).
+Les entreprises nouvelles exercent cette option dans les délais prévus pour le dépôt de la déclaration concernant leur
+premier exercice ou leur première période d'activité visée à l'article 53 A ou au 1 de l'article 223 (1). Ce délai est
+également applicable aux entreprises nouvelles qui désirent se placer sous le régime de droit commun d'imposition du bénéfice
+réel.
 
-(1) Ces dispositions sont applicables pour la détermination des résultats des années 1999 et suivantes.
+**Nota:**
+
+(1) Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2002.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
-  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 75 II B
 
 _Modifié par_:
 
-  - Loi - art. 7 (V) JORF 31 décembre 1998
+  - Loi n°2001-1275 du 28 décembre 2001 - art. 75 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 223 (V)
+  - Code général des impôts, CGI. - art. 53 A (V)

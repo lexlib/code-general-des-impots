@@ -6,10 +6,8 @@ Ce régime est également applicable aux produits de la propriété industrielle
 la qualité de leur bénéficiaire ainsi qu'aux produits des cessions de droits portant sur des logiciels originaux par leur
 auteur, personne physique.
 
-I bis. Lorsqu'un inventeur, personne physique, concède une licence exclusive d'exploitation de brevets qu'il a déposés à une
-entreprise créée à cet effet à compter du 1er janvier 1984, les dispositions du 1 bis de l'article 39 terdecies ne
-s'appliquent pas l'année de la création de cette entreprise et les deux années suivantes à condition que, pendant cette
-période, l'exploitation des droits concédés représente au moins la moitié du chiffre d'affaires de l'entreprise.
+I bis. (Abrogé pour les redevances prises en compte à compter du 1er janvier 2002 dans les résultats des concédants et
+concessionnaires).
 
 I ter. L'imposition de la plus-value constatée lors de l'apport, par un inventeur personne physique, d'un brevet, d'une
 invention brevetable, ou d'un procédé de fabrication industriel qui remplit les conditions mentionnées aux a, b et c du 1 de
@@ -18,7 +16,7 @@ report jusqu'à la cinquième année suivant celle au cours de laquelle l'apport
 ou du rachat des droits sociaux reçus en rémunération de l'apport, si cette cession ou ce rachat intervient avant
 l'expiration de ce délai de report.
 
-Les dispositions du quatrième alinéa du II de l'article 151 octies sont applicables aux plus-values dont l'imposition est
+Les dispositions du sixième alinéa du II de l'article 151 octies sont applicables aux plus-values dont l'imposition est
 reportée en application du premier alinéa.
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de la clientèle ou des éléments d'actif affectés
@@ -29,9 +27,9 @@ ans à compter de la publication du décret en Conseil d'Etat propre à la profe
 
 Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas d'opérations soumises aux dispositions du I de
 l'article 151 octies A ou de transformation de la société civile professionnelle en société d'exercice libéral jusqu'à la
-date de transmission, de rachat ou d'annulation des parts ou actions de l'associé. Les dispositions du quatrième alinéa du II
+date de transmission, de rachat ou d'annulation des parts ou actions de l'associé. Les dispositions du sixième alinéa du II
 de l'article 151 octies sont applicables à l'associé à compter de la réalisation des opérations soumises aux dispositions du
-I de l'article 151 octies A ou de la transformation de la société civile professionnelle en société d'exercice libéral ;
+I de l'article 151 octies A ou de la transformation de la société civile professionnelle en société d'exercice libéral.
 
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visés
 aux I et II de l'article 151 octies.
@@ -52,34 +50,42 @@ dissolution.
 unilatérale de vente doit indiquer si le nouveau propriétaire, ou les associés s'il s'agit d'une société, demandent le report
 de l'imposition de la plus-value dans les conditions prévues au 1. A défaut, les dispositions du 1 ne sont pas applicables.
 
-4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables.
+4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables (1).
 
 V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de droits
-sociaux résultant d'une fusion ou d'une scission de sociétés bénéficiant du régime prévu à l'article 210 B, lorsque ces
-droits sont affectés à l'exercice de la profession au sens de l'article 93.
+sociaux résultant d'une fusion ou d'une scission de sociétés, lorsque ces droits sont affectés à l'exercice de la profession
+au sens de l'article 93.
 
 Les personnes placées sous le régime prévu au premier alinéa sont soumises aux obligations définies à l'article 54 septies.
+
+**Nota:**
+
+(1) Voir l'article 41 novovicies de l'annexe III.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39 duodecies, 39 terdecies, 39 quaterdecies, 39 quindecies, 151 octies, 93, 151 octies A, 54 septies, 93, 38
+  - CGI 39 duodecies à 39 quindecies, 39 terdecies, 151 octies, 151 octies A, 93, 38, 54 septies
   - Loi n°66-879 1966-11-29
   - Code monétaire et financier - art. L313-7 (M)
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 1998-06-17 5G-3-98
-
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+  - Loi - art. 54 (V) JORF 29 décembre 2001
+  - Loi - art. 85 (V) JORF 29 décembre 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 54 III A
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 85 II A
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2002-12-04 5G-13-02
 
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2002-923 2002-06-06
 
 _Cité par_:
 
