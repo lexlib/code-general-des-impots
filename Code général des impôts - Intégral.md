@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-01-01
+Version Consolidée au 1988-01-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -96,7 +96,7 @@ Version Consolidée au 1988-01-01
                   - [16° : Sociétés immobilières d'investissement et sociétés immobilières de gestion (art. 139 ter)](#93)
                   - [17° : Sociétés pour le développement de l'industrie, du commerce et de l'agriculture et leur adaptation à la Communauté économique européenne. (art. 143 quater)](#94)
                   - [19° : Zones à urbaniser (art. 146 quater)](#95)
-              - [VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option (art. 150 quater à 150 ter)](#96)
+              - [VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option (art. 150 octies à 150 ter)](#96)
               - [VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 150 C à 150 R)](#97)
                 - [A : Champ d'application. (art. 150 C)](#98)
                   - [Exonérations. (art. 150 C)](#99)
@@ -8154,6 +8154,36 @@ _Cité par_:
 
 ##### VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option<a id=96></a>
 
+###### Article 150 octies
+
+Les dispositions des articles 150 ter à 150 quinquies s'appliquent aux opérations à terme sur marchandises réalisées sur le
+marché à terme mentionné à l'article 5 de la loi du 28 mars 1885.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 150 ter à 150 quinquies
+  - Loi n°1885-03-28 art. 5
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 43
+
+_Créé par_:
+
+  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies I (V)
+
+
 ###### Article 150 quater
 
 Pour chaque opération, le profit ou la perte est égal à la différence reçue ou versée par l'entremise de la chambre de
@@ -8550,6 +8580,36 @@ _Modifié par_:
 _Abrogé par_:
 
   - Loi - art. 10 (V) JORF 31 décembre 2003
+
+
+###### Article 150 N
+
+Sous réserve des dispositions de l'article 150 octies, sont assimilées aux transactions désignées aux articles 150 J à 150 M
+les opérations de toute nature portant sur des droits immobiliers ou des marchandises et qui ne se matérialisent pas par la
+livraison effective ou la levée des biens ou des droits. Les conditions d'application du présent article sont précisées par
+décret en Conseil d'Etat (1).
+
+(1) Annexe II, art. 74 N
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 150 octies, 150 J à 150 M
+  - CGIAN2 74 N
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+
+_Modifié par_:
+
+  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988) A(Loi 2003-1311 2003-12-30 art. 10 II Z Finances pour 2004 JORF 31 décembre 2003
+
+_Abrogé par_:
+
+  - Loi n°2003-1311 du 30 décembre 2003 - art. 10 (II, Z) (V)
 
 
 ###### Article 150 N bis
