@@ -14,8 +14,8 @@ actifs doivent être constitués de façon constante et pour 40 % au moins de ti
 émis.
 
 a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par des sociétés soumises à l'impôt
-sur les sociétés exerçant une activité visée à l'article 34 et dont les actions ne sont pas admises à la cote officielle ou à
-la cote du second marché ;
+sur les sociétés exerçant une activité visée à l'article 34 et dont les actions ne sont pas admises ((aux négociations sur un
+marché réglementé)) (M) (1).
 
 b. Ou aux fins de constitution du capital de sociétés définies au a, réalisée par apport en numéraire après le 1er janvier
 1984 ;
@@ -47,8 +47,10 @@ IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux
 au titre II bis de la loi n° 79-594 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de ceux
 remplissant les conditions prévues au II 2°.
 
-(1) Annexe III, art. 41 W à 41 X. Voir également Annexe III, art. 39 quater, 39 quinquies, 41 sexdecies G, 280 A et livre des
-procédures fiscales, art. R 87-1.
+(M) Modification.
+
+(1) Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont applicables à compter de la date d'entrée en
+vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
 
 **Liens relatifs à cet article**
 
@@ -64,12 +66,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 14 () JORF 31 décembre 1995
-  - Loi n°95-1347 1995-12-30 art. 14 B I, II Finances pour 1996 JORF 31 décembre 1995
+  - Loi - art. 27 (V) JORF 31 décembre 1998
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°96-556 1996-06-21
+  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 27 XV Finances rectificative pour 1998
+  - HISTO: Edition du 31 mars 1999
 
 _Cité par_:
 
@@ -103,7 +105,3 @@ _Cité par_:
   - Code monétaire et financier - art. R214-65 (V)
   - Code monétaire et financier - art. R214-71 (V)
   - Livre des procédures fiscales - art. R87-2 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 12 mai 1996

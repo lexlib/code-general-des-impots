@@ -3,17 +3,13 @@
 Les valeurs mobilières émises en territoire français et soumises à la législation française, quelle que soit leur forme,
 doivent être inscrites en comptes tenus par la personne morale émettrice ou par un intermédiaire habilité.
 
-Les titres des sociétés par actions qui ne sont pas inscrites à la cote officielle ou à la cote du second marché d'une bourse
-de valeurs et les actions des sociétés autres que les S.I.C.A.V. ((qui ne sont inscrites ni à la cote officielle ni au second
-marché des bourses françaises de valeurs ou qui, non inscrites au hors cote, ne font pas l'objet de transactions d'une
-importance et d'une fréquence qui sont fixées par décret)) (M), doivent obligatoirement être inscrits à un compte tenu chez
-elle par la société émettrice au nom du propriétaire des titres (1).
+Les titres des sociétés par actions et les actions des sociétés autres que les S.I.C.A.V. qui ne sont pas admises aux
+négociations sur un marché réglementé et (1) ne font pas l'objet de transactions d'une importance et d'une fréquence qui sont
+fixées par décret, doivent obligatoirement être inscrits à un compte tenu chez elle par la société émettrice au nom du
+propriétaire des titres.
 
-(M) Modification.
-
-(1) Dispositions applicables à compter du 3 novembre 1984. Elles ne concernent, lorsqu'elles ont été émises avant cette date,
-ni les obligations amortissables par tirage au sort de numéros, ni les rentes perpétuelles sur l'Etat détenues sous forme
-nominative.
+(1) Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont applicables à compter de la date d'entrée en
+vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières (4 juillet 1996).
 
 **Liens relatifs à cet article**
 
@@ -23,13 +19,15 @@ _Cite_:
 
 **Liens**:
 
-  - SPEC_APPLI: Conséquence de la péremption de l'article 163 octies
-  - HISTO: Edition du 22 avril 1998
-
-_Codifié par_:
-
-  - Décret n°98-400 1998-05-22
+  - HISTO: Edition du 31 mars 1999
+  - HISTO: Edition du 31 mars 2001
+  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 27 XV
+  - PEREMPTION: Ordonnance 2000-1223 2000-12-14 art. 4 I 67° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 _Modifié par_:
 
-  - Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
+  - Loi - art. 27 (V) JORF 31 décembre 1998
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
