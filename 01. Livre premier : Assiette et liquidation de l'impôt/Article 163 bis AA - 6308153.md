@@ -1,12 +1,12 @@
 # Article 163 bis AA
 
 Les sommes revenant aux salariés au titre de la participation des salariés aux résultats de l'entreprise, en application du
-chapitre II de l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée, sont exonérées d'impôt sur le revenu.
+((chapitre II du titre IV du livre IV du code du travail, sont exonérées d'impôt sur le revenu)) (M).
 
 L'exonération porte seulement sur la moitié des sommes en cause lorsque la durée de l'indisponibilité a été fixée à trois
 ans. Toutefois, l'exonération est totale lorsque les sommes reçues sont, à la demande des salariés, affectées à un plan
-d'épargne d'entreprise dans les conditions prévues à l'avant-dernier alinéa de l'article 11 de l'ordonnance du 21 octobre
-1986 susvisée. Les dispositions de l'article 26 de cette ordonnance sont alors applicables.
+d'épargne d'entreprise dans les conditions prévues à l'avant-dernier alinéa de ((l'article L442-5  du code susvisé. Les
+dispositions de l'article L443-6 de ce code sont alors applicables)) (M).
 
 Les revenus provenant de sommes attribuées au titre de la participation et recevant la même affectation qu'elles sont
 exonérés dans les mêmes conditions. Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont
@@ -16,45 +16,44 @@ exonérés dans les mêmes conditions que ces revenus (1).
 
 Après l'expiration de la période d'indisponibilité, l'exonération est toutefois maintenue pour les revenus provenant de
 sommes utilisées pour acquérir des actions de l'entreprise ou versées à des organismes de placement extérieurs à l'entreprise
-tels que ceux-ci sont énumérés au 4 de l'article 11 de l'ordonnance précitée, tant que les salariés ne demandent pas la
+tels que ceux-ci sont énumérés au 4 de ((l'article L442-5 du code précité)), tant que les salariés ne demandent pas la
 délivrance des droits constitués à leur profit.
 
 Cette exonération est maintenue dans les mêmes conditions dans le cas où les salariés transfèrent sans délai au profit des
-mêmes organismes de placement les sommes initialement investies dans l'entreprise conformément aux dispositions du 3 dudit
-article 11.
+mêmes organismes de placement les sommes initialement investies dans l'entreprise conformément aux dispositions ((du 3 dudit
+article L442-5.)) (M)
 
 Cette exonération est également maintenue dans les mêmes conditions lorsque ces mêmes sommes sont retirées par les salariés
 pour être affectées à la constitution du capital d'une société ayant pour objet exclusif de racheter tout ou partie du
 capital de leur entreprise dans les conditions prévues à l'article 83 bis.
 
 Pour ouvrir droit aux exonérations prévues au présent article, les accords de participation doivent avoir été déposés à la
-direction départementale du travail et de l'emploi du lieu où ils ont été conclus [*formalité obligatoire, lieu de dépôt*].
+direction départementale du travail et de l'emploi du lieu où ils ont été conclus.
+
+(M) Modification.
 
 (1) Annexe II, art. 81 bis.
-
-**Nota:**
-
-NOTA - Loi 94-640 1994-07-25 art. 33 IV : les articles 11 et 26 de l'ordonnance 86-1134 du 21 octobre 1986 sont codifiés sous
-les articles L442-5 et L443-6 du code du travail.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 158 bis
-  - CGI 199 ter
-  - CGI 83 bis
-  - CGIAN2 81 bis
-  - Ordonnance 86-1134 1986-10-21 art. 11 3, art. 26
-  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 26 (M)
-
-_Codifié par_:
-
-  - Décret n°91-883 1991-09-09
+  - CGI 158 bis, 199 ter, 83 bis
+  - Code du travail - art. L442-5 (M)
+  - Code du travail - art. L443-6 (M)
 
 **Liens**:
 
   - TXT_ASSOCIE: Loi n°94-640 1994-07-25 art. 33 IV
+  - HISTO: Edition du 27 octobre 1995
+
+_Modifié par_:
+
+  - Loi n°94-640 du 25 juillet 1994 - art. 33 () JORF 27 juillet 1994
+
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
 
 _Cité par_:
 

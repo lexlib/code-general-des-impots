@@ -5,17 +5,15 @@ l'Etat, à l'établissement et à la conservation d'un cadastre parcellaire dest
 retenir pour l'assiette de la contribution foncière des propriétés bâties, de la contribution foncière des propriétés non
 bâties et des taxes annexes à ces contributions. Ce cadastre est également destiné à servir de moyen d'identification et de
 détermination physique des immeubles, en vue de la mise en oeuvre de la réforme de la publicité foncière réalisée par le
-décret n° 55-22 du 4 janvier 1955 et les textes pris pour son application.
+décret n° 55-22 du 4 janvier 1955 modifié et les textes pris pour son application.
 
 II. – La documentation cadastrale peut recevoir les utilisations prévues au I au fur et à mesure de sa constitution dans
 chaque commune.
 
-III. – Des décrets en Conseil d'Etat (1) fixent les conditions d'application du présent article. L'un de ces décrets doit
-prévoir les modalités selon lesquelles il est tenu compte, pour la répartition des cotisations perçues au profit du
-département et de divers organismes, des modifications de la base imposable pouvant résulter de la mise en service du
-cadastre dans chaque commune.
-
-1) Décrets à émettre.
+III. – Des décrets en Conseil d'Etat fixent les conditions d'application du présent article. L'un de ces décrets doit prévoir
+les modalités selon lesquelles il est tenu compte, pour la répartition des cotisations perçues au profit du département et de
+divers organismes, des modifications de la base imposable pouvant résulter de la mise en service du cadastre dans chaque
+commune.
 
 **Liens relatifs à cet article**
 
@@ -23,6 +21,14 @@ _Cite_:
 
   - Décret n°55-22 1955-01-04
 
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
+
+_Modifié par_:
+
+  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 27 octobre 1995
