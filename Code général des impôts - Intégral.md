@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-02-13
+Version Consolidée au 1982-03-03
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -55466,13 +55466,13 @@ _Nouveaux textes_:
 ###### Article 1465
 
 Dans les zones définies par l'autorité compétente où l'aménagement du territoire le rend utile, les collectivités locales et
-les communautés urbaines peuvent, par une délibération de portée générale, exonérer de la taxe professionnelle en totalité ou
-en partie les entreprises qui procèdent sur leur territoire, soit à des décentralisations, extensions ou créations
-d'activités industrielles ou de recherche scientifique et technique, ou de services de direction, d'études, d'ingénierie et
-d'informatique, soit à une reconversion d'activité, soit à la reprise d'établissements en difficulté. Cette délibération ne
-peut avoir pour effet de reporter l'application du régime d'imposition de droit commun au-delà du 1er janvier de la cinquième
-année suivant celle au cours de laquelle sont intervenues la décentralisation, la création, l'extension, la reconversion
-d'activité ou la reprise d'établissements [*délai*].
+les communautés urbaines ainsi que les établissements publics régionaux peuvent, par une délibération de portée générale,
+exonérer de la taxe professionnelle en totalité ou en partie les entreprises qui procèdent sur leur territoire, soit à des
+décentralisations, extensions ou créations d'activités industrielles ou de recherche scientifique et technique, ou de
+services de direction, d'études, d'ingénierie et d'informatique, soit à une reconversion d'activité, soit à la reprise
+d'établissements en difficulté. Cette délibération ne peut avoir pour effet de reporter l'application du régime d'imposition
+de droit commun au-delà du 1er janvier de la cinquième année suivant celle au cours de laquelle sont intervenues la
+décentralisation, la création, l'extension, la reconversion d'activité ou la reprise d'établissements [*délai*].
 
 Lorsqu'il s'agit de décentralisations, extensions ou créations d'établissements industriels ou de recherche scientifique et
 technique répondant à des conditions fixées par décret (1) en tenant compte notamment du volume des investissements et du
@@ -55496,9 +55496,8 @@ d'exonération ne peuvent courir simultanément.
 L'exonération cesse pour la période restant à courir lorsqu'au cours de cette période l'entreprise ne remplit plus les
 conditions exigées pour l'obtention de cette exonération.
 
-Pour l'application du présent article, les délibérations prises par les conseils généraux s'appliquent aux impositions
-perçues au profit des établissements publics régionaux, celles prises par les conseils municipaux s'appliquent aux
-impositions perçues au profit des groupements de communes autres que les communautés urbaines.
+Pour l'application du présent article, les délibérations prises par les conseils municipaux s'appliquent aux impositions
+perçues au profit des groupements de communes autres que les communautés urbaines.
 
 Lorsque tout ou partie de la part communale de la taxe professionnelle acquittée par les entreprises implantées sur une zone
 d'activités économiques créée ou gérée par un groupement de communes est affectée à ce groupement en vertu de l'article 11 de
@@ -55537,8 +55536,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°80-10 1980-01-10 ART. 10, ART. 11 JORF 11 JANVIER 1980
-  - Loi n°80-10 du 10 janvier 1980 - art. 10 (V) JORF 11 JANVIER 1980
+  - Loi n°82-213 du 2 mars 1982 - art. 66 (V) JORF 3 MARS 1982
 
 _Cité par_:
 
@@ -57694,15 +57692,14 @@ deux tiers, des taux différenciés. Toutefois, cette faculté ne peut être exe
 situées à l'intérieur d'une zone d'agglomération nouvelle.
 
 Sauf dans le cas où les statuts de l'établissement en disposent autrement, les décisions prises pour l'application du premier
-alinéa doivent être adoptées à la majorité des deux tiers des voix de l'organe délibérant et approuvées par l'autorité de
-tutelle. Elles sont valables pour une durée de trois ans à compter de leur entrée en vigueur.
+alinéa doivent être adoptées à la majorité des deux tiers des voix de l'organe délibérant. Elles sont valables pour une durée
+de trois ans à compter de leur entrée en vigueur.
 
-Si l'organe délibérant a pris une délibération approuvée par l'autorité de tutelle pour renoncer à la perception de la taxe
-ou si, à l'expiration du délai de trois ans mentionné au troisième alinéa, il n'a pas pris de nouvelle délibération
-prorogeant à son profit pour une nouvelle période de trois ans le transfert des pouvoirs mentionnés au premier alinéa, les
-conseils municipaux reprennent les droits qui leur appartiennent en application des articles 1585 A et 1585 E-II. Cette
-disposition n'est pas applicable dans les communes ou fractions de communes situées à l'intérieur d'une zone d'agglomération
-nouvelle.
+Si l'organe délibérant a pris une délibération pour renoncer à la perception de la taxe ou si, à l'expiration du délai de
+trois ans mentionné au troisième alinéa, il n'a pas pris de nouvelle délibération prorogeant à son profit pour une nouvelle
+période de trois ans le transfert des pouvoirs mentionnés au premier alinéa, les conseils municipaux reprennent les droits
+qui leur appartiennent en application des articles 1585 A et 1585 E-II. Cette disposition n'est pas applicable dans les
+communes ou fractions de communes situées à l'intérieur d'une zone d'agglomération nouvelle.
 
 **Liens relatifs à cet article**
 
@@ -57712,9 +57709,13 @@ _Cite_:
   - CGI 1585 C II, III, IV
   - CGI 1585 E II
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°84-875 1984-10-01
+
+_Modifié par_:
+
+  - Loi n°82-213 1982-03-02 art. 16 JORF 3 mars 1982
 
 _Cité par_:
 
