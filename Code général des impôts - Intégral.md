@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1970-07-05
+Version Consolidée au 1971-01-03
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 564 sexies à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 564 sexies à 1043 A)](#2)
@@ -21,21 +21,24 @@ Version Consolidée au 1970-07-05
             - [II : Évaluation des propriétés non bâties (art. 1515)](#18)
               - [B : Procédure d'évaluation (art. 1515)](#19)
                 - [2 : Règles particulières à la révision quinquennale 1970-1974 (art. 1515)](#20)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 564 quinquies à 1628 quater)](#21)
-    - [IMPOTS D'ETAT (art. 564 quinquies)](#22)
-      - [CONTRIBUTIONS INDIRECTES (art. 564 quinquies)](#23)
-        - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#24)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#25)
-      - [IMPOSITIONS COMMUNALES (art. 1563)](#26)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#27)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#28)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#29)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#30)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#31)
-  - [Livre II : Recouvrement de l'impôt (art. 1694 bis)](#32)
-    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis)](#33)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#34)
-        - [III bis : Régime simplifié (art. 1694 bis)](#35)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 80 bis à 1628 quater)](#21)
+    - [IMPOTS D'ETAT (art. 80 bis à 564 quinquies)](#22)
+      - [IMPOTS DIRECTS (art. 80 bis)](#23)
+        - [IMPOT SUR LE REVENU (art. 80 bis)](#24)
+          - [REVENUS IMPOSABLES. (art. 80 bis)](#25)
+      - [CONTRIBUTIONS INDIRECTES (art. 564 quinquies)](#26)
+        - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#27)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#28)
+      - [IMPOSITIONS COMMUNALES (art. 1563)](#29)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#30)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#31)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#32)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#33)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#34)
+  - [Livre II : Recouvrement de l'impôt (art. 1694 bis)](#35)
+    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis)](#36)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#37)
+        - [III bis : Régime simplifié (art. 1694 bis)](#38)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -217,9 +220,60 @@ _Cité par_:
 
 ## IMPOTS D'ETAT<a id=22></a>
 
-### CONTRIBUTIONS INDIRECTES<a id=23></a>
+### IMPOTS DIRECTS<a id=23></a>
 
-#### COTISATION DE SOLIDARITE SUR LES CEREALES.<a id=24></a>
+#### IMPOT SUR LE REVENU<a id=24></a>
+
+##### REVENUS IMPOSABLES.<a id=25></a>
+
+###### Article 80 bis
+
+Pour l'établissement de l'impôt, l'avantage correspondant à la différence entre la valeur réelle de l'action à la date de
+levée d'une option accordée dans les conditions prévues aux articles 208-1 à 208-8 de la loi n° 66-537 du 24 juillet 1966 (1)
+et le prix de souscription ou d'achat de cette action constitue, sous réserve des dispositions de l'article 163 bis C, un
+complément de salaire pour le bénéficiaire. 
+
+(1) Complétée et modifiée par les lois n° 70-1322 du 31 décembre 1970, art. 1er et n° 84-578 du 8 [*9*] juillet 1984, art.
+15-I à VII.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-537 du 24 juillet 1966 (Ab)
+  - Loi n°70-1322 du 31 décembre 1970 (V)
+  - Loi n°84-578 du 9 juillet 1984 (V)
+  - Code général des impôts, CGI. - art. 163 bis C (Ab)
+
+_Modifié par_:
+
+  - Loi n°70-1322 du 31 décembre 1970 - art. 1 () JORF 3 janvier 1971
+
+_Cité par_:
+
+  - Décret n°2015-966 du 31 juillet 2015 (V)
+  - Loi n°2015-990 du 6 août 2015 - art. 135
+  - Code de la sécurité sociale. - art. L136-1-1 (VD)
+  - Code de la sécurité sociale. - art. L136-5 (VD)
+  - Code de la sécurité sociale. - art. L137-14 (V)
+  - Code de la sécurité sociale. - art. L242-1 (VD)
+  - Code général des impôts, CGI. - art. 150-0 D (V)
+  - Code général des impôts, CGI. - art. 182 A ter (VD)
+  - Code général des impôts, CGI. - art. 204 D (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 91 bis (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+  - Code monétaire et financier - art. L221-31 (V)
+  - Code monétaire et financier - art. L221-32-5 (V)
+
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+
+
+### CONTRIBUTIONS INDIRECTES<a id=26></a>
+
+#### COTISATION DE SOLIDARITE SUR LES CEREALES.<a id=27></a>
 
 ###### Article 564 quinquies
 
@@ -249,13 +303,13 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=25></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=28></a>
 
-### IMPOSITIONS COMMUNALES<a id=26></a>
+### IMPOSITIONS COMMUNALES<a id=29></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=27></a>
+#### CONTRIBUTIONS INDIRECTES<a id=30></a>
 
-##### TAXES OBLIGATOIRES.<a id=28></a>
+##### TAXES OBLIGATOIRES.<a id=31></a>
 
 ###### Article 1563
 
@@ -308,11 +362,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. A85-1 (P)
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=29></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=32></a>
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=30></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=33></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=31></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=34></a>
 
 ###### Article 1628 quater
 
@@ -359,13 +413,13 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
 
 
-# Livre II : Recouvrement de l'impôt<a id=32></a>
+# Livre II : Recouvrement de l'impôt<a id=35></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=33></a>
+## Chapitre premier : Paiement de l'impôt<a id=36></a>
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=34></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=37></a>
 
-#### III bis : Régime simplifié<a id=35></a>
+#### III bis : Régime simplifié<a id=38></a>
 
 ###### Article 1694 bis
 
