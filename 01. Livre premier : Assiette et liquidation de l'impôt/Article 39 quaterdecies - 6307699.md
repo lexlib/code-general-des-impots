@@ -11,8 +11,8 @@ l'impôt sur les sociétés au cours des exercices ouverts à compter du 1er jan
 
 1 bis Par dérogation aux dispositions du 1, la réintégration aux bénéfices imposables du montant net des plus-values à court
 terme réalisées à l'occasion d'opérations de reconversion par les entreprises qui ont obtenu l'agrément prévu aux articles
-1465 et 1466 peut être étalée sur dix ans [*délai*], sans que la somme rattachée aux bénéfices de chaque année puisse être
-inférieure au dixième de ce montant.
+1465 et 1466 peut être étalée sur dix ans, sans que la somme rattachée aux bénéfices de chaque année puisse être inférieure
+au dixième de ce montant.
 
 1 ter Par dérogation aux dispositions du 1, la plus-value nette à court terme afférente à des biens amortissables, réalisée à
 la suite de la perception d'indemnités d'assurances ou de l'expropriation d'immeubles figurant à l'actif, peut être répartie,
@@ -20,10 +20,10 @@ par fractions égales, sur plusieurs exercices à compter de celui suivant la r�
 
 Chaque fraction est égale au rapport du montant de cette plus-value nette, dans la limite du montant global de la plus-value
 nette à court terme de l'exercice au cours duquel elle est réalisée, à la durée moyenne d'amortissement déjà pratiquée sur
-les biens détruits ou expropriés, pondérée en fonction du prix d'acquisition de ces biens et limitée à quinze ans (1).
+les biens détruits ou expropriés, pondérée en fonction du prix d'acquisition de ces biens et limitée à quinze ans.
 
-1 quater. Par dérogation aux dispositions du 1, la plus-value à court terme provenant de la cession, avant le 31 décembre
-2003, d'un navire de pêche ou de parts de copropriété d'un tel navire et réalisée en cours d'exploitation par une entreprise
+1 quater Par dérogation aux dispositions du 1, la plus-value à court terme provenant de la cession, avant le 31 décembre
+2010, d'un navire de pêche ou de parts de copropriété d'un tel navire et réalisée en cours d'exploitation par une entreprise
 de pêche maritime ou dont l'activité est de fréter des navires de pêche peut être répartie par parts égales, sur les sept
 exercices suivant l'exercice de la cession, lorsque l'entreprise acquiert au cours de ce dernier ou prend l'engagement
 d'acquérir dans un délai de dix-huit mois à compter de la cession, pour les besoins de son exploitation, un ou des navires de
@@ -48,7 +48,7 @@ L'engagement mentionné au premier alinéa doit être annexé à la déclaration
 
 Les dispositions du premier alinéa ne sont pas applicables aux plus-values soumises aux dispositions de l'article 223 F.
 
-2  En cas de cession ou de cessation totale d'entreprise ou de cession de l'un des navires ou de l'une des parts de
+2 En cas de cession ou de cessation totale d'entreprise ou de cession de l'un des navires ou de l'une des parts de
 copropriété de navire mentionnés au 1 quater, les plus-values dont l'imposition a été différée en application des
 dispositions qui précèdent sont rapportées au bénéfice imposable de l'exercice clos lors de cette opération, sous réserve des
 dispositions des articles 41 et 210 A à 210 C.
@@ -58,11 +58,8 @@ d'apport d'une entreprise individuelle à une société dans les conditions pré
 bénéficiaire de l'apport prend l'engagement dans l'acte d'apport de réintégrer à ses résultats les plus-values à court terme
 comme aurait dû le faire l'entreprise apporteuse.
 
-3  Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet
+3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet
 exercice.
-
-(1) Ces dispositions s'appliquent pour les sinistres ou expropriations intervenus au cours des exercices clos à compter du 31
-décembre 1994.
 
 **Liens relatifs à cet article**
 
@@ -72,11 +69,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°97-1051 du 18 novembre 1997 - art. 25 () JORF 19 novembre 1997
-
-_Codifié par_:
-
-  - Décret n°98-400 1998-05-22
+  - Loi n°2003-1312 2003-12-30 art. 51 1° Finances rectificative pour 2003 JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -87,6 +80,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1995-02-17 4B-2-95
-  - TXT_ASSOCIE: Instruction 1998-04-24 4B-2-98
+  - HISTO: Edition du 1er janvier 2004

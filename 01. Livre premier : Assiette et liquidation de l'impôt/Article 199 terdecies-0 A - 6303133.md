@@ -28,15 +28,15 @@ l'article L. 443-3-1 du code du travail.
 
 II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2006. Ils
 sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000
-euros pour les contribuables mariés soumis à imposition commune.(1)
+euros pour les contribuables mariés soumis à imposition commune.
 
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au premier alinéa ouvre droit à la réduction
 d'impôt dans les mêmes conditions au titre des trois années suivantes.
 
 III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de l'article 83, aux articles 163 septdecies et 163
 duovicies ou à la réduction d'impôt prévue à l'article 199 undecies A ainsi que les souscriptions financées au moyen de
-l'aide financière de l'Etat exonérée en application du 35° de l'article 81 n'ouvrent pas droit à la réduction d'impôt
-mentionnée au I.
+l'aide financière de l'Etat exonérée en application du 35° de l'article 81 et les souscriptions au capital de sociétés uni-
+personnelles d'investissement à risque visées à l'article 208 D n'ouvrent pas droit à la réduction d'impôt mentionnée au I.
 
 Les actions ou parts dont la souscription a ouvert droit à la réduction d'impôt ne peuvent pas figurer dans un plan d'épargne
 en actions défini à l'article 163 quinquies D ou dans un plan d'épargne prévu au chapitre III du titre IV du livre IV du code
@@ -54,8 +54,8 @@ troisième des catégories prévues à l'article L. 341-4 du code de la sécurit
 des époux soumis à une imposition commune.
 
 Lorsque le contribuable obtient sur sa demande, pour une souscription, l'application de la déduction prévue à l'article 163
-octodecies A, une reprise des réductions d'impôt obtenues pour cette même souscription est pratiquée au titre de l'année de
-la déduction.
+octodecies A ou opte pour l'exonération mentionnée au 7 du III de l'article 150-0 A, une reprise des réductions d'impôt
+obtenues pour cette même souscription est pratiquée au titre de l'année de la déduction ou de l'option.
 
 V. Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 contribuables et aux sociétés.
@@ -95,16 +95,12 @@ différents sur l'actif net ou sur les produits du fonds, attribuées en fonctio
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
 
-**Nota:**
-
-NOTA : (1) Ces dispositions s'appliquent aux versements réalisés à compter du 1er janvier 2003.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - 163 quinquies, 197, 163 octodecies
-  - CGI 219, 83, 163 septdecies, 163 duovicies, 199 undecies, 81
+  - CGI 219, 83, 163 septdecies, 163 duovicies, 199 undecies, 81, 208 D
   - Code monétaire et financier - art. L214-41 (M)
   - Code monétaire et financier - art. L214-41-1 (M)
   - Code du travail - art. L443-3-1 (M)
@@ -112,20 +108,15 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 27 () JORF 5 août 2003
-  - Loi n°2003-721 du 1 août 2003 - art. 29 (V) JORF 5 août 2003
-  - Loi n°2003-721 du 1 août 2003 - art. 38 (V) JORF 5 août 2003
-
-_Codifié par_:
-
-  - Décret n°2003-933 2003-09-30
+  - Loi - art. 91 (V) JORF 31 décembre 2003
+  - Loi - art. 13 (V) JORF 31 décembre 2003
 
 _Cité par_:
 
-  - Décret n°2007-1816 du 21 décembre 2007 (V)
   - Arrêté du 1er août 2011 - art. 3 (Ab)
   - Arrêté du 1er août 2011 - art. 5 (Ab)
   - Arrêté du 7 février 2012 - art. 1 (V)
+  - Décret n°2007-1816 du 21 décembre 2007 (V)
   - Code général des impôts, CGI. - art. 150-0 C (V)
   - Code général des impôts, CGI. - art. 150-0 D (V)
   - Code général des impôts, CGI. - art. 150-0 D bis (Ab)
@@ -152,5 +143,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2002-08-22 5B-16-02

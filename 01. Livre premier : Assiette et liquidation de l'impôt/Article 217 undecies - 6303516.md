@@ -12,8 +12,8 @@ associés ou membres dans une proportion correspondant à leurs droits dans la s
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
-II du présent article et aux articles 199 undecies ou 199 undecies A et le montant des apports en capital effectués par les
-sociétés de financement définies par l'article 199 undecies A.
+II du présent article et aux articles 199 undecies ou 199 undecies A et le montant des financements, apports en capital et
+prêts participatifs, apportés par les sociétés de financement définies au g du 2 de l'article 199 undecies A.
 
 La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de réhabilitation d'h<CB>tel, de résidence de
 tourisme et de village de vacances classés et aux logiciels nécessaires à l'utilisation des investissements éligibles,
@@ -246,13 +246,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2003-660 du 21 juillet 2003 - art. 27 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 28 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 29 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 30 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 31 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 32 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 33 () JORF 22 juillet 2003
+  - Loi - art. 57 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -319,9 +313,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
-  - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
-  - TXT_ASSOCIE: Instruction 2000-03-06 5B-13-00
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2001-02-16 4A-2-01
   - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
   - TXT_ASSOCIE: Instruction 2002-05-21 4A-5-02

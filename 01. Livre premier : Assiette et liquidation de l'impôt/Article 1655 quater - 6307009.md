@@ -1,8 +1,8 @@
 # Article 1655 quater
 
 I. La société constituée entre les professionnels pour la conservation du stock de produits pétroliers prévu à l'article 2 de
-la loi 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier et dont les statuts sont approuvés par décret, n'est
-imposée sur ses bénéfices que lors de leur distribution, dans les conditions prévues à l'article 223 sexies.
+la loi 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier et dont les statuts sont approuvés par décret, est
+exonérée d'impôt sur les sociétés .
 
 La société est tenue de distribuer chaque année les bénéfices de l'exercice. Toutefois, les ministres peuvent autoriser le
 réinvestissement des bénéfices.
@@ -19,8 +19,8 @@ A quantités constantes, les mouvements du stock, produit par produit, destinés
 valeur pour valeur.
 
 Les versements des associés à la société sont déductibles de leurs résultats imposables à concurrence des frais de gestion et
-des charges financières de la société et d'une somme de 61 000 000 d'euros représentant les premières charges de
-remboursement de l'emprunt souscrit par la société pour constituer son stock initial.
+des charges financières de la société et d'une somme de 61 000 000 € représentant les premières charges de remboursement de
+l'emprunt souscrit par la société pour constituer son stock initial.
 
 Les actions de cette société ne peuvent être cédées qu'avec l'autorisation des ministres. Dans ce cas, les sommes qui ont été
 déduites au titre du remboursement de l'emprunt sont rapportées au résultat imposable de l'associé.
@@ -36,15 +36,14 @@ _Cite_:
   - CGI 223 sexies
   - Loi n°92-1443 1992-12-31 art. 2, art. 3
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 _Cité par_:
 
   - Code de l'énergie - art. L642-6 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+
+_Modifié par_:
+
+  - Loi - art. 93 (V) JORF 31 décembre 2003
