@@ -31,8 +31,8 @@ répartitions doivent être imputées ainsi que l'ordre de cette imputation (1).
 2° Par les sociétés d'investissement remplissant les conditions prévues à l'article 208 A et par les organismes assimilés
 visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies ;
 
-3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du
-28 septembre 1967, sous réserve des dispositions du 3ème alinéa du 3° quater de l'article 208 ;
+3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visés au cinquième alinéa du 3° quater de
+l'article 208 et prélevés sur les bénéfices exonérés visés au quatrième alinéa du 3° quater du même article ;
 
 4° Par les sociétés agréées pour le financement des télécommunications lorsqu'ils sont prélevés sur des résultats exonérés en
 application des premier et deuxième alinéas de l'article 208-3° quinquies ou lorsqu'ils sont distribués en application du
@@ -66,7 +66,7 @@ _Cite_:
   - CGI 145
   - CGI 158 bis
   - CGI 207 2
-  - CGI 208 1° ter quater, 1° ter, 1° quater, 1° quinquies, 3° quinquies, 3° sexies, 3° septies
+  - CGI 208 1° ter quater, 1° ter, 1° quater, 1° quinquies, 3° quater, 3° quinquies, 3° sexies, 3° septies
   - CGI 208 A
   - CGI 208 quinquies
   - CGI 209 quinquies
@@ -76,13 +76,12 @@ _Cite_:
   - CGI 220 quinquies I
   - CGIAN3 381 T
   - CGIAN3 46 quater-0 C à CGIAN3 46 quater-0 F
-  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
   - Loi n°86-793  1986-07-02 art. 2 5°
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
 
 _Modifié par_:
 
-  - Loi - art. 17 (V) JORF 30 décembre 1990
+  - Loi - art. 96 () JORF 30 décembre 1990
+
+_Codifié par_:
+
+  - Décret n°91-883 1991-09-09
