@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-05-13
+Version Consolidée au 1980-05-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -176,7 +176,7 @@ Version Consolidée au 1980-05-13
               - [D : Désignation d'un représentant en France (art. 289 A)](#173)
             - [III : Agriculture (art. 290 bis)](#174)
             - [IV : Etablissements de spectacles (art. 290 quater)](#175)
-          - [Section VIII : Importations (art. 293 A)](#176)
+          - [Section VIII : Importations (art. 292 à 293 A)](#176)
           - [Section IX : Régimes spéciaux (art. 294 à 298 sexdecies)](#177)
             - [I : Départements d'outre-mer (art. 294 à 296)](#178)
             - [IV : Exploitants agricoles (art. 298 quinquies)](#179)
@@ -8837,6 +8837,42 @@ _Cité par_:
 
 
 ##### Section VIII : Importations<a id=176></a>
+
+###### Article 292
+
+La base d'imposition est constituée par la valeur définie par la législation douanière conformément aux règlements
+communautaires en vigueur (1).
+
+Toutefois, sont à comprendre dans la base d'imposition :
+
+1° Les impôts, droits, prélèvements et autres taxes qui sont dus en raison de l'importation, à l'exception de la taxe sur la
+valeur ajoutée elle-même ;
+
+2° Les frais accessoires, tels que les frais de commission, d'emballage, de transport et d'assurance intervenant jusqu'au
+premier lieu de destination des biens à l'intérieur du pays ; par premier lieu de destination, il faut entendre le lieu
+mentionné sur la lettre de voiture ou tout autre document de transport sous le couvert duquel les biens sont importés ; à
+défaut de cette mention, le premier lieu de destination est celui de la première rupture de charge.
+
+Ne sont pas à comprendre dans la base d'imposition les remises, rabais et autres réductions de prix acquis au moment de
+l'importation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Loi n°2004-639 du 2 juillet 2004 - art. 45 (V)
+  - Code des douanes - art. 113 (VD)
+  - Code général des impôts, CGI. - art. 297 A (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 50 octies (V)
+
+_Cite_:
+
+  - Code des douanes - art. 35 (P)
+
 
 ###### Article 293 A
 
@@ -39698,41 +39734,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 96 P (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 octies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 septies (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 292
-
-La base d'imposition est constituée par la valeur définie à l'article 35 du code des douanes.
-
-Toutefois, sont à comprendre dans la base d'imposition :
-
-1° Les impôts, droits, prélèvements et autres taxes qui sont dus en raison de l'importation, à l'exception de la taxe sur la
-valeur ajoutée elle-même;
-
-2° Les frais accessoires, tels que les frais de commission, d'emballage, de transport et d'assurance intervenant jusqu'au
-premier lieu de destination des biens à l'intérieur du pays; par premier lieu de destination, il faut entendre le lieu
-mentionné sur la lettre de voiture ou tout autre document de transport sous le couvert duquel les biens sont importés; à
-défaut de cette mention, le premier lieu de destination est celui de la première rupture de charge.
-
-Ne sont pas à comprendre dans la base d'imposition les remises, rabais et autres réductions de prix acquis au moment de
-l'importation.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°2004-639 du 2 juillet 2004 - art. 45 (V)
-  - Code des douanes - art. 113 (VD)
-  - Code général des impôts, CGI. - art. 297 A (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 50 octies (V)
-
-_Cite_:
-
-  - Code des douanes - art. 35 (P)
 
 **Liens**:
 
