@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-07-20
+Version Consolidée au 1984-07-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -36221,8 +36221,7 @@ Un haut fonctionnaire de l'administration de l'agriculture, désigné par le min
 Deux représentants désignés par la fédération nationale des syndicats d'exploitants agricoles parmi les exploitants passibles
 de l'impôt sur le revenu des personnes physiques au titre des bénéfices agricoles.
 
-3. Les représentants des fédérations départementales des syndicats agricoles intéressés et les représentants des syndicats
-des cultures spéciales sont convoqués et, s'ils en expriment le désir, entendus par la commission.
+3. (Transféré sous l'article L. 2 du livre des procédures fiscales).
 
 4. Les décisions de la commission ne peuvent être attaquées que devant le conseil d'Etat par la voie de recours pour excès de
 pouvoir.
@@ -36232,6 +36231,14 @@ pouvoir.
 _Cite_:
 
   - CGI 1651
+
+_Modifié par_:
+
+  - Décret n°84-686 1984-07-17 art. 1, art. 6 JORF 24 juillet 1984
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1985
 
 _Cité par_:
 
