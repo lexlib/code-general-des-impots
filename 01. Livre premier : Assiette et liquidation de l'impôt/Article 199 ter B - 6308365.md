@@ -4,10 +4,10 @@ I. Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quat
 le contribuable au titre de l'année au cours de laquelle il a accru ses dépenses de recherche. S'il excède l'impôt dû,
 l'excédent est restitué (1).
 
-II. Lorsque les dépenses de recherche exposées au cours d'une année sont inférieures à celles exposées au cours de l'année
-précédente et revalorisées comme indiqué à l'article 244 quater B-I, il est pratiqué dans la limite des crédits d'impôts
-antérieurement obtenus, une imputation égale à 25 % du montant de la différence sur le ou les crédits d'impôts suivants. Ce
-pourcentage est porté à 50 p. 100 pour les dépenses exposées au cours des années 1986 et suivantes.
+II. Lorsque les dépenses de recherche exposées au cours d'une année sont inférieures à la moyenne de celles exposées au cours
+des deux années précédentes et revalorisées comme indiqué à l'article 244 quater B-I, il est pratiqué dans la limite des
+crédits d'impôts antérieurement obtenus, une imputation égale à 25 % du montant de la différence sur le ou les crédits
+d'impôts suivants. Ce pourcentage est porté à 50 p. 100 pour les dépenses exposées au cours des années 1986 et suivantes.
 
 III. Pour l'application du crédit d'impôt prévu au V de l'article 244 quater B, lorsque les dépenses de recherche exposées au
 cours d'une année sont inférieures aux dépenses exposées en 1987 revalorisées comme prévu à cet article, les crédits d'impôt
@@ -24,12 +24,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-1060 1987-12-30 art. 7 II, III  Finances pour 1988 JORF 31 décembre 1987
-  - Loi n°87-1060 du 30 décembre 1987 - art. 7 (P) JORF 31 décembre 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Loi n°89-935 1989-12-29 art. 20 II, V Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 _Cité par_:
 
