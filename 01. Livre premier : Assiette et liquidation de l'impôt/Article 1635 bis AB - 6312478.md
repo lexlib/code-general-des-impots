@@ -7,7 +7,7 @@ personne, qu'elle soit ou non liée au maître d'ouvrage par un contrat de louag
 dans les travaux de bâtiment.
 
 Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et comportant des garanties autres que celles
-visées à l'alinéa précédent doivent distinguer la partie de la prime ou cotisation afférente à ces dernières garanties.
+visées au premier alinéa doivent distinguer la partie de la prime ou cotisation afférente à ces dernières garanties.
 
 Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou cotisations d'assurance payées par les entreprises
 artisanales et de 25,5 % en ce qui concerne les autres primes ou cotisations d'assurance.
@@ -22,15 +22,15 @@ _Cite_:
   - CGI 991
   - Code des assurances - art. L431-14 (M)
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 24 juin 1991
-  - TXT_ASSOCIE: Instruction 2001-03-27 7K-1-01
+  - Décret n°2002-923 2002-06-06
 
 _Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°91-883 1991-09-09
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2001-03-27 7K-1-01
