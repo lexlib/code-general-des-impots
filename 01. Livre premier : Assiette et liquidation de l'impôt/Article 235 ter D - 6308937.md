@@ -1,18 +1,40 @@
 # Article 235 ter D
 
-Pour l'application des dispositions de l'article 235 ter C, l'effectif des salariés employés par les entreprises de travail
-temporaire est calculé dans les conditions fixées par l'article 237 bis A-I, troisième alinéa.
+Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter C :
+
+a. Les titulaires de contrats de travail définis aux articles L. 980-2 et L. 980-6 du code du travail ne sont pas pris en
+compte ;
+
+b. Les salariés à temps partiel sont pris en compte dans les conditions fixées par l'article L. 212-4-4 du même code ;
+
+c. L'effectif des salariés employés par les entreprises de travail temporaire est calculé dans les conditions fixées au
+troisième alinéa du I de l'article 237 bis A.
+
+(1) Voir Annexe II, art. 163 nonies.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 235 ter C
-  - CGI 237 bis A I AL. 3
+  - CGI 237 bis à I al. 3
+  - CGIAN2 163 nonies
+  - Code du travail - art. L212-4-4 (M)
+  - Code du travail - art. L980-2 (T)
+  - Code du travail - art. L980-6 (T)
 
 _Anciens textes_:
 
   - CGI 235 ter C (P.)
+
+_Modifié par_:
+
+  - Loi n°85-772 du 25 juillet 1985 - art. 53 () JORF 26 juillet 1985
+  - Loi n°85-772 du 25 juillet 1985 - art. 54 () JORF 26 juillet 1985
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
 
 _Cité par_:
 
@@ -27,7 +49,3 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 nonies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 undecies A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZB (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
