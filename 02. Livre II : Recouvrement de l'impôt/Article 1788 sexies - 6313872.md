@@ -12,9 +12,15 @@ L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de tr
 document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs
 de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations.
 
-L'amende est recouvrée suivant les mêmes procédures et sous les mêmes garanties, sûretés et privilèges que celles prévues
-pour la taxe sur la valeur ajoutée. Les recours contre les décisions prises par l'administration sont portés devant le
-tribunal administratif.
+((L'amende est prononçée, dans le même délai de reprise qu'en matière de taxe sur la valeur ajoutée, par l'administration qui
+constate l'infraction. Le recouvrement et le contentieux de cette amende sont assurés et suivis par l'administration qui
+prononce l'amende suivant les mêmes procédures, et sous les mêmes garanties, sûretés et privilèges que ceux prévus pour cette
+taxe ;
+
+((Lorsqu'une infraction prévue audit article a fait l'objet d'une amende prononcée par l'une des deux administrations, elle
+ne peut plus être sanctionnée par l'autre)) (M).
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -24,16 +30,13 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
-
-_Créé par_:
-
-  - Loi n°92-677 1992-07-17 art. 109 3 JORF 19 juillet 1992
+  - HISTO: Edition du 22 avril 1998
 
 _Modifié par_:
 
   - Loi - art. 27 () JORF 5 janvier 1993
+  - Loi - art. 84 () JORF 31 décembre 1997
 
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°98-400 1998-05-22
