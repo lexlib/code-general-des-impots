@@ -6,14 +6,14 @@ lorsque [*conditions*] l'immeuble est situé en France et est achevé depuis plu
 réduction est égale à 25 % du montant de ces dépenses.
 
 Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne peut excéder au cours de la période définie au
-premier alinéa la somme de 8.000 F [*montant*] pour une personne célibataire, veuve ou divorcée et de 16.000 F pour un couple
-marié. Cette somme est majorée de 2.000 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est fixée
-à 2.500 F pour le second enfant et à 3.000 F par enfant à partir du troisième.
+premier alinéa la somme de 10.000 F [*montant*] pour une personne célibataire, veuve ou divorcée et de 20.000 F pour un
+couple marié. Cette somme est majorée de 2.000 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est
+fixée à 2.500 F pour le second enfant et à 3.000 F par enfant à partir du troisième.
 
 Au titre d'une année, les dépenses ouvrant droit à réduction d'impôt sont limitées à la moitié des montants définis à
 l'alinéa précédent ; l'excédent ouvre droit à réduction d'impôt au titre de l'année suivante. 
 
-Les dispositions des articles 199 sexies-1°-b et 199 sexies A-II s'appliquent à cette réduction d'impôt. 
+Les dispositions de l'article 199 sexies-1°-b et du 7 de l'article 199 undecies s'appliquent à cette réduction d'impôt. 
 
 La réduction d'impôt est accordée sur présentation de factures mentionnant la nature et le montant des travaux
 [*justification des dépenses*].
@@ -23,8 +23,7 @@ intérêts des emprunts contractés à compter du 1er janvier 1985 pour financer
 la résidence principale n'ouvrent pas droit à la réduction d'impôt prévue à l'article 199 sexies-1°-a.
 
 III. a) La réduction mentionnée au paragraphe I bénéficie sous les mêmes conditions, aux dépenses payées du 1er janvier 1990
-au 31 décembre 1992 par les contribuables dont le revenu net imposable par part n'excède pas la limite inférieure de la
-douzième tranche du barème de l'impôt.
+au 31 décembre 1995.
 
 Les dépenses ouvrant droit à cette réduction sont limitées, au cours de cette période, aux montants prévus au deuxième alinéa
 du paragraphe I.
@@ -45,29 +44,23 @@ impôt sur le revenu égale à 25 p. 100 de la somme remboursée, dans la limite
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
 dépenses ont été payées.
 
-(1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 1991.    (2) Voir Annexe IV, art. 17 M à 17 O.
+(1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 1991.
+
+(2) Voir Annexe IV, art. 17 M à 17 O.
+
 En ce qui concerne la liste des dépenses de régulation de chauffage, voir Annexe 4, art. 17 P à 17 S.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 196
-  - CGI 196 A
-  - CGI 196 B
-  - CGI 199 sexies 1° b, a
-  - CGI 199 sexies A II
+  - CGI 196 à 196 B, 199 sexies, 199 undecies
   - CGIAN4 17 M à 17 O, 17 P à 17 S
-
-_Codifié par_:
-
-  - Décret n°91-883 1991-09-09
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1990-06-15 5B-22-90
-  - SPEC_APPLI: Loi n°92-655 1992-07-15 art. 2
+  - Loi n°92-655 1992-07-15
 
 _Modifié par_:
 
-  - Loi - art. 90 (V) JORF 30 décembre 1990
+  - Loi - art. 3 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi - art. 90 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi n°93-859 1993-06-22 art. 22 I II III V JORF 23 juin 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
