@@ -5,7 +5,16 @@ Tout employeur occupant au minimum dix salariés [*effectif*], à l'exception de
 participant, chaque année, au financement d'actions de formation du type de celles définies à l'article L 900-2 du code du
 travail.
 
+Pour l'appréciation de la condition d'effectif, les salariés à temps partiel sont pris en compte dans les conditions fixées
+par l'article L. 212-4-4 du code du travail (1).
+
+(1) Annexe II, art. 163 nonies.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
 
 _Cité par_:
 
@@ -23,8 +32,9 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code du travail - art. L900-2 (M)
+  - Code du travail - art. L212-4-4 (M)
+  - Code du travail L900-2 CGIAN2 163 nonies
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°83-899 1983-10-06
