@@ -17,24 +17,28 @@ d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. I
 1er janvier 2001 et le 31 décembre 2005 au titre de l'acquisition des mêmes équipements fournis dans le cadre de travaux
 d'installation réalisés dans l'habitation principale du contribuable.
 
+Ouvre également droit au crédit d'impôt le coût des dépenses payées avant le 31 décembre 2010 pour la réalisation de travaux
+prescrits aux propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement lorsque ces travaux
+sont afférents à la résidence principale du contribuable.
+
 Un arrêté du ministre chargé du budget fixe la liste des équipements ouvrant droit au crédit d'impôt.
 
 2. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, respectivement pour la
-période du 15 septembre 1999 au 31 décembre 2002 et pour la période du 1er janvier 2003 au 31 décembre 2005, la somme de 4
+période du 15 septembre 1999 au 31 décembre 2002 et pour la période du 1er janvier 2003 au 31 décembre 2010, la somme de 4
 000 euros pour une personne célibataire, veuve ou divorcée et de 8 000 euros pour un couple marié soumis à imposition
 commune. Cette somme est majorée de 400 euros par personne à charge au sens des articles 196 à 196 B. Cette majoration est
 fixée à 500 euros pour le second enfant et à 600 euros par enfant à partir du troisième. Les sommes de 400 euros, 500 euros
 et 600 euros sont divisées par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
-Pour l'application de ces dispositions, les enfants réputés à charge égale de chacun des parents sont décomptés en premier
-(1).
+Pour l'application de ces dispositions, les enfants réputés à charge égale de chacun des parents sont décomptés en premier.
 
 Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement du logement auquel s'intègrent les
 équipements ou de son acquisition si elle est postérieure, ou du paiement de la dépense par le contribuable dans les cas
-prévus au premier alinéa et à la dernière phrase du deuxième alinéa du 1.
+prévus aux premier et troisième alinéas et à la dernière phrase du deuxième alinéa du 1.
 
-Le crédit d'impôt est égal à 15 % du montant des équipements, matériaux et appareils figurant sur la facture de l'entreprise
-ayant réalisé les travaux ou, le cas échéant, pour les équipements de production d'énergie utilisant une source d'énergie
-renouvelable, du coût de ces équipements figurant sur une attestation fournie par le vendeur du logement.
+Le crédit d'impôt est égal à 15 % du montant des équipements, matériaux et appareils et du montant des travaux mentionnés au
+troisième alinéa du 1 figurant sur la facture de l'entreprise ayant réalisé les travaux ou, le cas échéant, pour les
+équipements de production d'énergie utilisant une source d'énergie renouvelable, du coût de ces équipements figurant sur une
+attestation fournie par le vendeur du logement.
 
 Il est accordé sur présentation de l'attestation mentionnée au troisième alinéa ou des factures, autres que les factures
 d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289, l'adresse de
@@ -51,26 +55,12 @@ dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'a
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
 dépenses ont été payées.
 
-**Nota:**
-
-(1) Ces dispositions s'appliquent pour l'imposition des revenus des années 2003 et suivantes.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi - art. 78 () JORF 31 décembre 2002
-  - Loi - art. 30 (V) JORF 31 décembre 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 30 VIII
-  - HISTO: Edition du 1er janvier 2003
-  - TXT_ASSOCIE: Instruction 2000-05-03 5B-15-00
-  - TXT_ASSOCIE: Instruction 2001-07-13 5B-15-01
-  - TXT_ASSOCIE: Instruction 2001-09-25 5B-16-01
-  - TXT_ASSOCIE: Instruction 2002-06-06 5B-13-02
-  - TXT_ASSOCIE: Instruction 2003-01-31 5B-7-03
+  - Loi n°2003-699 du 30 juillet 2003 - art. 34 () JORF 31 juillet 2003
+  - Loi n°2003-699 du 30 juillet 2003 - art. 36 () JORF 31 juillet 2003
 
 _Cité par_:
 
@@ -138,3 +128,13 @@ _Cite_:
 
   - CGI 279-0 bis, 196 à 196 B, 289, 199 quater B à 200
   - Code de l'urbanisme - art. R421-40 (Ab)
+  - Code de l'environnement - art. L515-16 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2003
+  - TXT_ASSOCIE: Instruction 2000-05-03 5B-15-00
+  - TXT_ASSOCIE: Instruction 2001-07-13 5B-15-01
+  - TXT_ASSOCIE: Instruction 2001-09-25 5B-16-01
+  - TXT_ASSOCIE: Instruction 2002-06-06 5B-13-02
+  - TXT_ASSOCIE: Instruction 2003-01-31 5B-7-03
