@@ -1,58 +1,37 @@
 # Code général des impôts  
-Version Consolidée au 1965-12-08
+Version Consolidée au 1965-12-10
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 247 à 1043 A)](#1)
-    - [Première Partie : Impôts d'État (art. 247 à 1043 A)](#2)
-      - [Titre premier : Impôts directs et taxes assimilées (art. 247)](#3)
-        - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 247)](#4)
-          - [Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III (art. 247)](#5)
-            - [I : Entreprises de navigation maritime ou aérienne (art. 247)](#6)
-      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 850 à 1043 A)](#7)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 850)](#8)
-          - [Section III : Obligations diverses (art. 850)](#9)
-            - [I : Obligations des redevables et des officiers publics et ministériels (art. 850)](#10)
-              - [A : Obligations des redevables (art. 850)](#11)
-                - [Affirmation de sincérité. (art. 850)](#12)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#13)
-          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#14)
-            - [9° : Départements d'outre-mer (art. 1043 A)](#15)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563)](#16)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#17)
-      - [IMPOSITIONS COMMUNALES (art. 1563)](#18)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#19)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#20)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 850 à 1043 A)](#1)
+    - [Première Partie : Impôts d'État (art. 850 à 1043 A)](#2)
+      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 850 à 1043 A)](#3)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 850)](#4)
+          - [Section III : Obligations diverses (art. 850)](#5)
+            - [I : Obligations des redevables et des officiers publics et ministériels (art. 850)](#6)
+              - [A : Obligations des redevables (art. 850)](#7)
+                - [Affirmation de sincérité. (art. 850)](#8)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#9)
+          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#10)
+            - [9° : Départements d'outre-mer (art. 1043 A)](#11)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563)](#12)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#13)
+      - [IMPOSITIONS COMMUNALES (art. 1563)](#14)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#15)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#16)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
 
-### Titre premier : Impôts directs et taxes assimilées<a id=3></a>
+### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre<a id=3></a>
 
-#### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III<a id=4></a>
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=4></a>
 
-##### Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III<a id=5></a>
+##### Section III : Obligations diverses<a id=5></a>
 
-##### I : Entreprises de navigation maritime ou aérienne<a id=6></a>
+##### I : Obligations des redevables et des officiers publics et ministériels<a id=6></a>
 
-###### Article 247
+##### A : Obligations des redevables<a id=7></a>
 
-Les impositions établies après le décès du contribuable en vertu de l’article 1966-4, ainsi que toutes autres impositions
-dues par les héritiers du chef du défunt, constituent une dette déductible de l’actif successoral pour la perception des
-droits de mutation par décès. Elles ne sont pas admises en déduction du revenu des héritiers pour l’établissement de l’impôt
-sur le revenu des personnes physiques dont ces derniers sont passibles.
-
-
-
-### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre<a id=7></a>
-
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=8></a>
-
-##### Section III : Obligations diverses<a id=9></a>
-
-##### I : Obligations des redevables et des officiers publics et ministériels<a id=10></a>
-
-##### A : Obligations des redevables<a id=11></a>
-
-##### Affirmation de sincérité.<a id=12></a>
+##### Affirmation de sincérité.<a id=8></a>
 
 ###### Article 850
 
@@ -84,11 +63,11 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°570 DU 13 JUILLET 1965 CODIFIEE SOUS L'ARTICLE 216 DU CODE CIVIL
 
 
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=13></a>
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=9></a>
 
-##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=14></a>
+##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=10></a>
 
-##### 9° : Départements d'outre-mer<a id=15></a>
+##### 9° : Départements d'outre-mer<a id=11></a>
 
 ###### Article 1043 A
 
@@ -111,15 +90,15 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=16></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=12></a>
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=17></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=13></a>
 
-### IMPOSITIONS COMMUNALES<a id=18></a>
+### IMPOSITIONS COMMUNALES<a id=14></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=19></a>
+#### CONTRIBUTIONS INDIRECTES<a id=15></a>
 
-##### TAXES OBLIGATOIRES.<a id=20></a>
+##### TAXES OBLIGATOIRES.<a id=16></a>
 
 ###### Article 1563
 
