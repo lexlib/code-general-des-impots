@@ -2,11 +2,15 @@
 
 En application de l'article L 961-8 du code du travail, un décret en Conseil d'Etat fixe les modalités de reversement au
 Trésor public par les fonds d'assurance formation des fonds non utilisés et les dépenses afférentes aux actions de formation
-non admises par les agents commissionnés désignés à l'article L 991-3 du même code (1).
+non admises par les agents assermentés désignés à l'article L 991-3 du même code (1).
 
 (1) Annexe II, art. 383 bis B et 383 bis C.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - CGI 235 ter KF
 
 _Cite_:
 
@@ -17,8 +21,17 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°90-579 du 4 juillet 1990 - art. 19 () JORF 10 juillet 1990
+  - Loi n°91-1405 du 31 décembre 1991 - art. 36 () JORF 4 janvier 1992
+
+_Transféré par_:
+
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 4 juillet 1992
 
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - décret 2005-330 2005-04-06
