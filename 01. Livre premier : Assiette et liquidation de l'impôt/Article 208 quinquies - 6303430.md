@@ -1,7 +1,7 @@
 # Article 208 quinquies
 
 I. - Les personnes morales soumises de plein droit ou sur option à l'impôt sur les sociétés dans les conditions de droit
-commun, qui, dans les cinq ans de l'institution de l'une des zones prévues à l'article 1er de l'ordonnace n° 86-1113 du 15
+commun, qui, dans les cinq ans de l'institution de l'une des zones prévues à l'article 1er de l'ordonnance n° 86-1113 du 15
 octobre 1986, se seront créées pour y exploiter une entreprise, sont exonérées de cet impôt à raison des bénéfices réalisés
 jusqu'au terme du cent vingtième mois suivant leur création ;
 
@@ -11,7 +11,7 @@ ou pour la reprise de telles activités ne peuvent pas bénéficier de cette exo
 II. - L'exonération prévue au I ne s'applique pas :
 
 1° Aux produits des actions ou parts de société, et aux résultats de participations dans des organismes mentionnés aux
-articles 8, 8 quater, 239 quater et 239 quater B ;
+articles 8,8 quater, 8 quinquies, 239 quater et 239 quater B ;
 
 2° Aux subventions, libéralités et abandons de créances ;
 
@@ -47,8 +47,6 @@ isoglucose ;
 être égal ou supérieur à dix au cours de chaque exercice de la période d'exonération ; si l'effectif varie en cours
 d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
 
-accordée sous réserve que l'effectif soit d'au moins dix salariés au cours du troisième exercice.
-
 IV. - Si l'effectif minimal prévu au 3° du III n'est pas atteint au cours des deux premiers exercices, l'exonération est
 accordée sous réserve que l'effectif soit d'au moins dix salariés au cours du troisième exercice.
 
@@ -59,18 +57,22 @@ exonérations à compter de l'exercice au cours duquel cette condition n'est plu
 
 _Cite_:
 
-  - CGI 223
-  - CGI 239 quater
-  - CGI 34
-  - CGI 8
-  - CGI 8 quater
-  - CGI CGI 239 quater B
-  - Ordonnance n°86-1113 du 15 octobre 1986 - art. 1, v. init.
+  - Ordonnance n°86-1113 du 15 octobre 1986 - art. 1 (V)
+  - Code général des impôts, CGI. - art. 223 (V)
+  - Code général des impôts, CGI. - art. 239 quater (V)
+  - Code général des impôts, CGI. - art. 239 quater B (V)
+  - Code général des impôts, CGI. - art. 8 (V)
+  - Code général des impôts, CGI. - art. 8 quater (V)
+  - Code général des impôts, CGI. - art. 8 quinquies (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°86-1113 du 15 octobre 1986 - art. 3 (V) JORF 16 octobre 1986
+  - Loi - art. 76 (V) JORF 5 janvier 1993
 
 _Codifié par_:
 
-  - Décret n°87-940 1987-11-23
+  - Décret n°93-1127 1993-09-24
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993

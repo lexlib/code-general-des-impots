@@ -29,6 +29,12 @@ la clôture d'un exercice est au plus égal à celui des sommes portées à la r
 exercice. Les dotations à la réserve légale et au fonds de développement de ces sociétés peuvent tenir lieu, à due
 concurrence, de provision pour investissement.
 
+Cette disposition n'est pas applicable aux sociétés coopératives ouvrières de production dont le capital est détenu pour plus
+de 50 p. 100 par des personnes définies au 1 quinquies de l'article 207 et des titulaires de certificats coopératifs
+d'investissement, à l'exception de celles dont la majorité du capital est détenue par une autre société coopérative ouvrière
+de production dans les conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés
+coopératives ouvrières de production.
+
 4. La provision visée aux 1 à 3 est rapportée au bénéfice imposable si elle n'est pas utilisée dans le délai d'un an à
 l'acquisition ou la création d'immobilisations. Ce délai est porté à quatre ans pour les sociétés coopératives ouvrières de
 production lorsque la provision pour investissement est représentée par des dotations à la réserve légale et au fonds de
@@ -47,11 +53,17 @@ le 23 octobre 1986.
 
 _Cite_:
 
-  - Ordonnance 86-1134 1986-10-21 chapitre II, art. 12
+  - CGI 207
+  - Loi n°78-763 du 19 juillet 1978 - art. 25 (V)
+  - Ordonnance 86-1134 1986-10-21 art. 12
+
+_Modifié par_:
+
+  - Loi n°92-643 du 13 juillet 1992 - art. 70 () JORF 14 juillet 1992
 
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - Décret n°93-1127 1993-09-24
 
 _Cité par_:
 
