@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1991-07-04
+Version Consolidée au 1991-07-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -66059,14 +66059,54 @@ _Cité par_:
 
 ###### Article 1585 D
 
-I  L'assiette de la taxe [*locale d'équipement*] est constituée par la valeur de l'ensemble immobilier comprenant les
+I L'assiette de la taxe [*locale d'équipement, TLE*] est constituée par la valeur de l'ensemble immobilier comprenant les
 terrains nécessaires à la construction et les bâtiments dont l'édification doit faire l'objet de l'autorisation de
 construire.
 
 Cette valeur est déterminée forfaitairement en appliquant à la surface de plancher développée hors oeuvre une valeur au mètre
-carré variable selon la catégorie des immeubles, dans des conditions qui sont définies et précisées par décret en Conseil
-d'Etat (1). Cette dernière valeur est modifiée au 1er novembre de chaque année, en fonction de l'évolution de l'indice du
-coût de la construction publié par l'Institut national de la statistique et des études économiques.
+carré variable selon la catégorie des immeubles.
+
+A compter du 15 juillet 1991 [*date d'entrée en vigueur*], cette valeur est la suivante :
+
+CATÉGORIES - [*Valeur par m2 de*] plancher hors oeuvre (en francs)
+
+1° Constructions légères non agricoles et non utilisables pour l'habitation, y compris les hangars autres que ceux qui sont
+mentionnés au 3° ci-dessous - 410 F
+
+2° Locaux des exploitations agricoles à usage d'habitation des exploitants et de leur personnel ; autres locaux des
+exploitations agricoles intéressant la production agricole ou une activité annexe de cette production ; bâtiments affectés
+aux activités de conditionnement et de transformation des coopératives agricoles, viticoles, horticoles, ostréicoles et
+autres - 750 F
+
+3° Entrepôts et hangars faisant l'objet d'une exploitation commerciale, industrielle ou artisanale ; garages et aires de
+stationnement couvertes faisant l'objet d'une exploitation commerciale ou artisanale ; locaux à usage industriel ou artisanal
+et bureaux y attenants ; locaux des villages de vacances et des campings - 1 220 F
+
+4° Locaux d'habitation et leurs annexes construits par les sociétés immobilières créées en application de la loi n° 46-860 du
+30 avril 1946 ; foyers-hôtels pour travailleurs ; locaux d'habitation et leurs annexes bénéficiant d'un prêt aidé à
+l'accession à la propriété ou d'un prêt locatif aidé ; immeubles d'habitation collectifs remplissant les conditions
+nécessaires à l'octroi de prêts aidés à l'accession à la propriété - 1 070 F
+
+5° Locaux à usage d'habitation principale et leurs annexes bénéficiant d'un prêt conventionné ou dont les prix de vente ou
+les prix de revient ne sont pas supérieurs aux prix plafonds prévus pour l'application de l'article R. 331-68 du code de la
+construction et de l'habitation 1 520 F
+
+6° Parties des bâtiments hôteliers destinés à l'hébergement des clients - 2 140 F
+
+7° Locaux à usage d'habitation principale autres que ceux entrant dans les catégories 2°, 4° et 5° ci-dessus - 2 910 F
+
+8° Locaux à usage d'habitation secondaire - 2 910 F
+
+9° Autres constructions soumises à la réglementation des permis de construire - 2 910 F
+
+Ces valeurs sont majorées de 10 p. 100 dans les communes de la région d'Ile-de-France telle qu'elle est définie à l'article
+1er de la loi n° 76-394 du 6 mai 1976.
+
+Elles sont modifiées au 1er juillet de chaque année, en fonction du dernier indice du coût de la construction publié par
+l'Institut national de la statistique et des études économiques et publié au Journal officiel.
+
+L'indice de référence retenu en vue de ces modifications est l'indice publié pour le quatrième trimestre 1990, soit l'indice
+952.
 
 II  Lorsqu'après la destruction d'un bâtiment par sinistre le propriétaire sinistré ou ses ayants droit à titre gratuit
 procèdent à la reconstruction sur le même terrain d'un bâtiment de même destination, la surface de plancher développée hors
@@ -66078,18 +66118,21 @@ du sinistre;
 b  Que le sinistré justifie que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent pas
 le montant de la taxe locale d'équipement normalement exigible sur les reconstructions.
 
-1)  Annexe II, art. 317 sexies et 317 septies.
+Loi 91-716 art. 40 III " A défaut de délibération du conseil municipal ou de l'organe délibérant de l'établissement public
+groupant plusieurs communes fixant les taux pour les catégories 7°, 8° et 9°, les taux applicables à ces catégories sont ceux
+appliqués antérieurement au 15 juillet 1991 pour la catégorie 7°."
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGIAN2 317 septies
-  - CGIAN2 317 sexies
+  - Loi n°46-860 1946-04-30
+  - Loi n°76-394 du 6 mai 1976 - art. 1 (M)
+  - Code de la construction et de l'habitation. - art. R331-68 (M)
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
+  - Loi n°91-716 du 26 juillet 1991 - art. 40 (V) JORF 27 juillet 1991, en vigueur le 15 juillet 1991
 
 _Cité par_:
 
