@@ -5,7 +5,11 @@ dont les recettes n'excèdent pas le double de la limite (1) du forfait ou de l'
 condition que l'activité ait été exercée pendant au moins cinq ans, et que le bien n'entre pas dans le champ d'application de
 l'article 691.
 
-Lorsque ces conditions ne sont pas remplies, il est fait application :
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du II de l'article L. 13-15 du code de
+l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application de
+l'article 691 (2).
+
+Lorsque les conditions visées au premier alinéa ne sont pas remplies, il est fait application :
 
 - des règles prévues aux articles 150 A à 150 S pour les terrains à bâtir et les terres à usage agricole ou forestier ;
 
@@ -21,25 +25,18 @@ retirent de cette activité au moins 50 % de leur revenu.
 (1) Plafond applicable aux plus-values réalisées à compter du 1er janvier 1988. Antérieurement les recettes ne devaient pas
 excéder la limite du forfait ou de l'évaluation administrative.
 
+(2) Disposition applicable aux plus-values réalisées à compter du 1er janvier 1991.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 150 A A CGI 150 S
-  - CGI 39 duodecies
-  - CGI 39 quaterdecies
-  - CGI 39 quindecies
-  - CGI 39 terdecies
-  - CGI 691
-  - CGI 93 quater
-
-_Modifié par_:
-
-  - Loi n°88-15 du 5 janvier 1988 - art. 49 () JORF 6 janvier 1988
+  - CGI 691, 150 A à 150 S, 39 duodecies à 39 quindecies, 93 quater
+  - Code de l'expropriation L13-15
 
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°91-883 1991-09-09
 
 _Cité par_:
 
@@ -58,3 +55,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 70 (V)
   - Code général des impôts, CGI. - art. 93 quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A (V)
+
+_Modifié par_:
+
+  - Loi n°90-1168 1989-12-29 art. 94 Finances pour 1991 JORF 30 décembre 1990
