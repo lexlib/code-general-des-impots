@@ -1,10 +1,11 @@
 # Article 199 sexies D
 
 I. 1. Les dépenses de grosses réparations et d'amélioration afférentes à la résidence principale du contribuable dont il est
-propriétaire et qui sont payées entre le 1er janvier 1997 et le 31 décembre 2001 ouvrent droit à une réduction d'impôt sur le
-revenu lorsque l'immeuble est situé en France et est achevé depuis plus de dix ans. La réduction n'est pas accordée pour les
-dépenses de construction, de reconstruction, d'agrandissement, de décoration, d'équipement ménager ou d'entretien. Elle est
-accordée pour les dépenses de ravalement.
+propriétaire et qui sont payées entre le 1er janvier 1997 et le 31 décembre 1999, pour lesquelles une facture, autre qu'une
+facture d'acompte, a été émise avant le 15 septembre 1999, ouvrent droit à une réduction d'impôt sur le revenu lorsque
+l'immeuble est situé en France et est achevé depuis plus de dix ans. La réduction n'est pas accordée pour les dépenses de
+construction, de reconstruction, d'agrandissement, de décoration, d'équipement ménager ou d'entretien. Elle est accordée pour
+les dépenses de ravalement.
 
 Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne peut excéder au cours de la période définie au
 premier alinéa la somme de 20 000 F pour une personne célibataire, veuve ou divorcée et de 40 000 F pour un couple marié
@@ -45,11 +46,19 @@ _Cite_:
   - CGI 196 à 196 B, 197, 199 sexies
   - Code de la construction et de l'habitation. - art. R317-1 (M)
 
-_Modifié par_:
-
-  - Loi n°99-471 du 8 juin 1999 - art. 10 () JORF 9 juin 1999
-
 **Liens**:
 
+  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 mars 2001
   - TXT_ASSOCIE: Instruction 1997-04-28 5B-15-97
   - TXT_ASSOCIE: Instruction 1999-08-03 5B-16-99
+  - TXT_ASSOCIE: Instruction 2000-02-10 5B-9-00
+  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 1 () JORF 23 mai 2001
+
+_Modifié par_:
+
+  - Loi - art. 5 (P) JORF 31 décembre 1999
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21

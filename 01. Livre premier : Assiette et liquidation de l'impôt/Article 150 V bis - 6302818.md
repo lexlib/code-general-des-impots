@@ -3,14 +3,11 @@
 I. Sous réserve des dispositions particulières qui sont propres aux bénéfices professionnels, les ventes de métaux précieux
 sont soumises à une taxe de 7,5 p. 100.
 
-Sous la même réserve, les ventes de bijoux, d'objets d'art, de collection et d'antiquité sont soumises à une taxe de 7 p. 100
-lorsque leur montant excède 20 000 F ; dans le cas où ce montant est compris entre 20 000 F et 30 000 F, la base d'imposition
-est réduite d'un montant égal à la différence entre 30 000 F et ledit montant.
+Sous la même réserve, les ventes de bijoux, d'objets d'art, de collection et d'antiquité sont soumises à une taxe de 4,5 p.
+100 (1) lorsque leur montant excède 20 000 F ; dans le cas où ce montant est compris entre 20 000 F et 30 000 F, la base
+d'imposition est réduite d'un montant égal à la différence entre 30 000 F et ledit montant.
 
-Le taux d'imposition est ramené à 4,5 p. 100 en cas de vente aux enchères publiques.
-
-Ces dispositions sont également applicables aux ventes réalisées dans un autre Etat membre de la ((Communauté européenne))
-(M).
+Ces dispositions sont également applicables aux ventes réalisées dans un autre Etat membre de la Communauté européenne.
 
 II. Le vendeur est exonéré de la taxe si la vente est faite à un musée national, à un musée classé ou contrôlé par l'Etat ou
 une collectivité locale ainsi qu'à la Bibliothèque nationale, à une autre bibliothèque de l'Etat ou à une bibliothèque d'une
@@ -22,22 +19,15 @@ collectivité publique. Cette disposition s'applique aux ventes réalisées à c
 La vente par enchères publiques des objets désignés au deuxième alinéa du I est exonérée du paiement de la taxe lorsque leur
 propriétaire n'a pas en France son domicile fiscal.
 
-(M) Modification.
+(1) Ces dispositions s'appliquent aux cessions réalisées à compter du 1er janvier 2000.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGI 302 bis A
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
-
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 2000-02-10 8O-1-00
 
 _Modifié par_:
 
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+  - Loi - art. 42 (P) JORF 31 décembre 1999
