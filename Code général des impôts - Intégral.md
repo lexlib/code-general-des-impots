@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-08-07
+Version Consolidée au 1986-08-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -962,8 +962,8 @@ Version Consolidée au 1986-08-07
             - [III : Plafonnement de la taxe professionnelle en 1979. (art. 1647 B bis à 1647 B ter)](#959)
             - [IV : Plafonnement en fonction de la valeur ajoutée (art. 1647 B quinquies à 1647 B septies)](#960)
         - [Chapitre II ter : Cotisation minimum de la taxe professionnelle. (art. 1647 D)](#961)
-        - [Chapitre III : Fonds de péréquation de la taxe professionnelle (art. 1648 B bis)](#962)
-          - [Section II : Fonds national de péréquation de la taxe professionnelle. (art. 1648 B bis)](#963)
+        - [Chapitre III : Fonds de péréquation de la taxe professionnelle (art. 1648 B à 1648 B bis)](#962)
+          - [Section II : Fonds national de péréquation de la taxe professionnelle. (art. 1648 B à 1648 B bis)](#963)
         - [Chapitre IV : Départements d'outre-mer (art. 1649)](#964)
     - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 1649 A à 1656)](#965)
       - [Titre premier : Assiette et contrôle de l'impôt (art. 1649 A à 1649 decies)](#966)
@@ -43838,6 +43838,141 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
+###### Article 1639 A bis
+
+Sous réserve des dispositions de l'article 1466, les délibérations des collectivités locales et des organismes compétents
+relatives à la fiscalité directe locale, autres que celles fixant soit les taux, soit les produits des impositions, doivent
+être prises avant le 1er juillet pour être applicables l'année suivante. Elles sont soumises à la notification prévue à
+l'article 1639 A au plus tard quinze jours aprés la date limite prévue pour leur adoption.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1466
+  - CGI 1639 A
+
+_Modifié par_:
+
+  - Loi n°86-972 du 19 août 1986 - art. 39 (V) JORF 22 août 1986
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
+
+_Cité par_:
+
+  - Décret n°95-85 du 26 janvier 1995 - art. 5 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+  - Décret n°2011-815 du 6 juillet 2011 (V)
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 22 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 76 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 25 (V)
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 40 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 99 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 97 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 43 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 48 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 30 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 46 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 53 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1383-0 B bis (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1464 G (P)
+  - Code général des collectivités territoriales - art. L2333-97 (VT)
+  - Code général des collectivités territoriales - art. L3662-1 (V)
+  - Code général des collectivités territoriales - art. L5211-21 (M)
+  - Code général des collectivités territoriales - art. L5212-24 (V)
+  - Code général des collectivités territoriales - art. L5214-23 (V)
+  - Code général des collectivités territoriales - art. L5215-32 (VT)
+  - Code général des collectivités territoriales - art. L5216-8 (V)
+  - Code général des collectivités territoriales - art. R2333-140 (Ab)
+  - Code général des impôts, CGI. - art. 1379-0 bis (V)
+  - Code général des impôts, CGI. - art. 1382 B (V)
+  - Code général des impôts, CGI. - art. 1382 C (V)
+  - Code général des impôts, CGI. - art. 1382 D (V)
+  - Code général des impôts, CGI. - art. 1382 F (V)
+  - Code général des impôts, CGI. - art. 1383 (VD)
+  - Code général des impôts, CGI. - art. 1383 C (V)
+  - Code général des impôts, CGI. - art. 1383 C bis (V)
+  - Code général des impôts, CGI. - art. 1383 C ter (V)
+  - Code général des impôts, CGI. - art. 1383 D (V)
+  - Code général des impôts, CGI. - art. 1383 E (VD)
+  - Code général des impôts, CGI. - art. 1383 E bis (V)
+  - Code général des impôts, CGI. - art. 1383 G (V)
+  - Code général des impôts, CGI. - art. 1383 G bis (VD)
+  - Code général des impôts, CGI. - art. 1383 G ter (VD)
+  - Code général des impôts, CGI. - art. 1383 H (V)
+  - Code général des impôts, CGI. - art. 1383 I (V)
+  - Code général des impôts, CGI. - art. 1383 J (V)
+  - Code général des impôts, CGI. - art. 1383-0 B (V)
+  - Code général des impôts, CGI. - art. 1384 B (V)
+  - Code général des impôts, CGI. - art. 1384 C (VD)
+  - Code général des impôts, CGI. - art. 1384 E (V)
+  - Code général des impôts, CGI. - art. 1384 F (V)
+  - Code général des impôts, CGI. - art. 1387 A (Ab)
+  - Code général des impôts, CGI. - art. 1388 octies (V)
+  - Code général des impôts, CGI. - art. 1388 quinquies (V)
+  - Code général des impôts, CGI. - art. 1388 quinquies A (V)
+  - Code général des impôts, CGI. - art. 1388 quinquies B (V)
+  - Code général des impôts, CGI. - art. 1388 sexies (V)
+  - Code général des impôts, CGI. - art. 1388 ter (V)
+  - Code général des impôts, CGI. - art. 1394 C (V)
+  - Code général des impôts, CGI. - art. 1395 A ter (V)
+  - Code général des impôts, CGI. - art. 1396 (V)
+  - Code général des impôts, CGI. - art. 1407 (V)
+  - Code général des impôts, CGI. - art. 1407 bis (V)
+  - Code général des impôts, CGI. - art. 1407 ter (V)
+  - Code général des impôts, CGI. - art. 1411 (VD)
+  - Code général des impôts, CGI. - art. 1459 (V)
+  - Code général des impôts, CGI. - art. 1464 A (V)
+  - Code général des impôts, CGI. - art. 1464 D (V)
+  - Code général des impôts, CGI. - art. 1464 E (V)
+  - Code général des impôts, CGI. - art. 1464 H (V)
+  - Code général des impôts, CGI. - art. 1464 I (V)
+  - Code général des impôts, CGI. - art. 1464 J (Ab)
+  - Code général des impôts, CGI. - art. 1464 L (T)
+  - Code général des impôts, CGI. - art. 1464 M (V)
+  - Code général des impôts, CGI. - art. 1465 (V)
+  - Code général des impôts, CGI. - art. 1466 A (V)
+  - Code général des impôts, CGI. - art. 1466 C (V)
+  - Code général des impôts, CGI. - art. 1466 D (V)
+  - Code général des impôts, CGI. - art. 1466 F (V)
+  - Code général des impôts, CGI. - art. 1469 A quater (VT)
+  - Code général des impôts, CGI. - art. 1517 (V)
+  - Code général des impôts, CGI. - art. 1518 A (V)
+  - Code général des impôts, CGI. - art. 1518 A quater (V)
+  - Code général des impôts, CGI. - art. 1518 A ter (V)
+  - Code général des impôts, CGI. - art. 1519 A (V)
+  - Code général des impôts, CGI. - art. 1522 (V)
+  - Code général des impôts, CGI. - art. 1522 bis (V)
+  - Code général des impôts, CGI. - art. 1528 (Ab)
+  - Code général des impôts, CGI. - art. 1530 (V)
+  - Code général des impôts, CGI. - art. 1530 bis (V)
+  - Code général des impôts, CGI. - art. 1561 (VT)
+  - Code général des impôts, CGI. - art. 1584 ter (V)
+  - Code général des impôts, CGI. - art. 1586 A (V)
+  - Code général des impôts, CGI. - art. 1586 B (V)
+  - Code général des impôts, CGI. - art. 1586 nonies (V)
+  - Code général des impôts, CGI. - art. 1594 H bis (V)
+  - Code général des impôts, CGI. - art. 1599 ter E (Ab)
+  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+  - Code général des impôts, CGI. - art. 1609 quinquies BA (V)
+  - Code général des impôts, CGI. - art. 1609 quinquies C (V)
+  - Code général des impôts, CGI. - art. 1636 B undecies (V)
+  - Code général des impôts, CGI. - art. 1638 (V)
+  - Code général des impôts, CGI. - art. 1638-0 bis (V)
+  - Code général des impôts, CGI. - art. 1639 A (V)
+  - Code général des impôts, CGI. - art. 1639 A quater (V)
+  - Code général des impôts, CGI. - art. 1639 A ter (V)
+  - Code général des impôts, CGI. - art. 1647 D (V)
+  - Code général des impôts, CGI. - art. 1647-00 bis (V)
+  - Code général des impôts, CGI. - art. 1650 A (V)
+  - Code rural - art. L181-15 (VD)
+  - Code rural et de la pêche maritime - art. L181-14 (VT)
+  - Code rural et de la pêche maritime - art. L182-22 (VT)
+
+
 ###### Article 1639 B
 
 A compter de 1978, le produit fixé par les collectivités locales et leurs groupements ne comprend pas les sommes
@@ -44217,6 +44352,112 @@ _Cité par_:
 #### Chapitre III : Fonds de péréquation de la taxe professionnelle<a id=962></a>
 
 ##### Section II : Fonds national de péréquation de la taxe professionnelle.<a id=963></a>
+
+###### Article 1648 B
+
+I. (Transféré au 1648 A bis-I).
+
+II. Sous réserve des dispositions de l'article 1648 B bis, le surplus des ressources du fonds défini au III de l'article 1648
+A bis comporte :
+
+1° Une part principale qui ne peut être inférieure à 75 p. 100 de ce surplus, répartie entre les communes :
+
+a) dont le potentiel fiscal par habitant est inférieur au potentiel fiscal moyen par habitant de l'ensemble des communes
+appartenant au même groupe démographique.
+
+b) Et dont l'effort fiscal, tel qu'il est défini à l'article L. 234-5 du code des communes, est au moins égal à l'effort
+fiscal moyen des communes appartenant au même groupe démographique. Pour les communes dont le taux d'imposition à la taxe
+professionnelle est égal au plafond prévu aux paragraphes IV et V de l'article 1636 B septies du présent code, il n'est pas
+tenu compte de cette dernière condition. L'effort fiscal d'une commune membre d'un groupement de communes est calculé en
+ajoutant aux taux de chacune de ses propres taxes communales ceux appliqués par le groupement de communes aux bases
+respectives desdites taxes.
+
+Les communes qui remplissent la condition prévue au a et dont l'effort fiscal est inférieur à la moyenne définie au b sans
+être inférieur à 90 p. 100 de cette moyenne bénéficient d'une attribution réduite de moitié.
+
+Sous réserve de l'alinéa précédent, l'attribution revenant à chaque commune concernée est déterminée en proportion de l'écart
+relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe démographique et
+le potentiel fiscal par habitant de la commune.
+
+Lorsque l'attribution revenant à cette commune diminue de plus de moitié par rapport à celle de l'année précédente, cette
+commune perçoit, à titre de garantie non renouvelable, une attribution égale à la moitié de celle qu'elle a perçue l'année
+précédente.
+
+Lorsqu'une commune cesse de remplir les conditions requises pour bénéficier de la part principale du surplus des ressources
+du fonds, cette commune perçoit, à titre de garantie non renouvelable, une attribution égale à la moitié de celle qu'elle a
+perçue l'année précédente.
+
+L'attribution revenant à une commune ne peut, en aucun cas, prendre en compte les montants attribués l'année précédente au
+titre des garanties mentionnées aux deux alinéas précédents.
+
+Les communes qui ont bénéficié d'une attribution en 1985 en application des dispositions du septième alinéa de l'article 8 de
+la loi n° 84-1284 du 31 décembre 1984 portant modification de certaines dispositions relatives aux relations entre l'Etat et
+les collectivités locales reçoivent en 1986, à titre non renouvelable, une dotation égale à la moitié de celle reçue en 1985.
+
+2° Une seconde part, au plus égale à 20 p. 100 de ce surplus, qui sert à verser une compensation aux communes qui
+enregistrent d'une année sur l'autre une perte importante de bases d'imposition à la taxe professionnelle. Cette compensation
+est versée de manière dégressive sur deux ans.
+
+Les conditions que doivent remplir les communes pour bénéficier de cette seconde part ainsi que le calcul des attributions
+qui leur reviennent sont fixées par décret en Conseil d'Etat en tenant compte, notamment, de la perte de produit de taxe
+professionnelle et de l'importance relative de la perte de produit fiscal qui en résulte par rapport aux recettes de la
+commune provenant de la taxe d'habitation, des taxes foncières et de la taxe professionnelle. Toutefois, à compter du 1er
+janvier 1986, cette durée est portée à cinq ans pour les communes situées dans les cantons où l'Etat anime une politique de
+conversion industrielle et dont la liste est fixée par décret (1).
+
+3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée aux communes qui connaissent des difficultés
+financières graves en raison d'une baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe professionnelle
+(2) ou de leurs ressources de redevance des mines, et dont le budget primitif de l'exercice en cours a été soumis à la
+chambre régionale des comptes dans les conditions fixées par l'article 8 de la loi n° 82-213 du 2 mars 1982 relative aux
+droits et libertés des communes, des départements et des régions. Cette part est répartie selon la même procédure que celle
+relative aux subventions exceptionnelles accordées en application de l'article L235-5 du code des communes.
+
+Le montant des crédits affectés à chacune de ces parts est fixé chaque année par le comité des finances locales, à qui il est
+rendu compte de l'utilisation desdites parts.
+
+II bis. Pour l'application du II, le potentiel fiscal de chaque commune membre d'une communauté ou d'un syndicat
+d'agglomération nouvelle visés à l'article 1609 nonies B est calculé dans les conditions fixées à l'article 1648 A-V ter.
+
+III. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat (3).
+
+(1) Dispositions applicables à compter du 1er janvier 1986).
+
+(2) Les pertes de base d'imposition à la taxe professionnelle sont calculées pour 1987 sans tenir compte de la diminution de
+16 % prévue à l'article 1472 A bis.
+
+(3) Décret n° 85-260 du 22 février 1985 (J.O. du 24).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1609 nonies B
+  - CGI 1636 B septies IV, V
+  - CGI 1648 A V ter
+  - CGI 1648 A bis I, III
+  - CGI 1648 B bis
+  - Loi n°82-213 du 2 mars 1982 - art. 8 (M)
+  - Loi n°84-1284 1984-12-31 art. 8 al. 7
+  - CODE DES COMMUNES. - art. L234-5 (M)
+  - CODE DES COMMUNES. - art. L235-5 (Ab)
+
+_Modifié par_:
+
+  - Loi n°86-972 du 19 août 1986 - art. 46 () JORF 22 août 1986
+
+_Cité par_:
+
+  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (V)
+  - Loi - art. 44 (V)
+  - Loi n°2003-1311 du 30 décembre 2003 - art. 53 (V)
+  - Code général des collectivités territoriales - art. L1613-1 (V)
+  - Code général des collectivités territoriales - art. L2334-4 (V)
+  - Code général des collectivités territoriales - art. L2334-7 (V)
+  - Code général des collectivités territoriales - art. L2336-2 (VT)
+  - Code général des collectivités territoriales - art. L5211-28-1 (V)
+  - Code général des collectivités territoriales - art. L5211-29 (VD)
+  - Code général des collectivités territoriales - art. L5211-30 (V)
+
 
 ###### Article 1648 B bis
 
