@@ -9,12 +9,12 @@ pétrole liquéfié ou qui combine l'énergie électrique et une motorisation à
 exclusivement ou non au moyen du gaz naturel véhicule. Le crédit d'impôt s'applique également aux dépenses de transformation
 effectuées par des opérateurs agréés et destinées à permettre le fonctionnement au moyen du gaz de pétrole liquéfié de
 véhicules encore en circulation, dont la première mise en circulation est intervenue depuis moins de trois ans et dont le
-moteur de traction utilise exclusivement l'essence (1).
+moteur de traction utilise exclusivement l'essence.
 
 Le crédit d'impôt est porté à 2 300 euros lorsque l'acquisition ou la première souscription d'un contrat de location avec
 option d'achat ou de location souscrit pour une durée d'au moins deux ans d'un véhicule répondant aux conditions énoncées au
 premier alinéa s'accompagne de la destruction d'une voiture particulière immatriculée avant le 1er janvier 1992, acquise
-depuis au moins douze mois à la date de sa destruction et encore en circulation à cette même date (2).
+depuis au moins douze mois à la date de sa destruction et encore en circulation à cette même date.
 
 II. - Le crédit d'impôt est accordé au titre de l'année au cours de laquelle les dépenses sont payées en totalité, sur
 présentation des factures mentionnant notamment le nom et l'adresse du propriétaire du véhicule, la nature de l'énergie
@@ -29,18 +29,11 @@ d'imposition.
 
 III. - Le crédit d'impôt est imputé sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle le prix
 d'acquisition du véhicule ou les dépenses de transformation sont payés, après imputation des réductions d'impôt mentionnées
-aux articles 199 quater B à 200, de l'avoir fiscal, des crédits d'impôt et des prélèvements ou retenues non libératoires.
-S'il excède l'impôt dû, l'excédent est restitué.
+aux articles 199 quater B à 200, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt
+dû, l'excédent est restitué.
 
 IV. - Les conditions d'application des dispositions précédentes et notamment celles relatives à la destruction des véhicules
 sont précisées en tant que de besoin par décret.
-
-**Nota:**
-
-(1) : Disposition applicable aux dépenses payées entre le 1er novembre 2001 et le 31 décembre 2005.
-
-(2) : Dispositions applicables aux destructions et acquisitions ou locations intervenant entre le 1er janvier 2002 et le 31
-décembre 2005).
 
 **Liens relatifs à cet article**
 
@@ -49,12 +42,10 @@ _Cite_:
   - CGI 4 B, 199 quater B à 200
   - Code de la route. - art. L223-1 (M)
 
-_Modifié par_:
-
-  - Loi - art. 76 () JORF 31 décembre 2002
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
-  - TXT_ASSOCIE: Instruction 2001-10-17 5B-17-01
-  - TXT_ASSOCIE: Instruction 2003-01-06 5B-1-03
+  - HISTO: Edition du 1er janvier 2005
+
+_Modifié par_:
+
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
