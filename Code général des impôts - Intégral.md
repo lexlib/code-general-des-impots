@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1972-12-21
+Version Consolidée au 1973-11-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 247 à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 247 à 1090 A)](#2)
@@ -39,26 +39,28 @@ Version Consolidée au 1972-12-21
         - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#36)
       - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 862)](#37)
         - [OBLIGATIONS DIVERSES. (art. 862)](#38)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#39)
-      - [IMPOSITIONS COMMUNALES (art. 1563)](#40)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563 à 1585 C)](#39)
+      - [IMPOSITIONS COMMUNALES (art. 1563 à 1585 C)](#40)
         - [CONTRIBUTIONS INDIRECTES (art. 1563)](#41)
           - [TAXES OBLIGATOIRES. (art. 1563)](#42)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#43)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#44)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#45)
-  - [Livre II : Recouvrement de l'impôt (art. 1694 bis à 1965 E)](#46)
-    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis à 1705)](#47)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#48)
-        - [III bis : Régime simplifié (art. 1694 bis)](#49)
-      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1703 à 1705)](#50)
-        - [II : Obligations des agents (art. 1703)](#51)
-        - [III : Obligation au paiement (art. 1705)](#52)
-    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#53)
-      - [Section II : Juridiction contentieuse (art. 1965 E)](#54)
-        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#55)
-  - [RECOUVREMENT DE L'IMPOT (art. 1840 C)](#56)
-    - [PENALITES (art. 1840 C)](#57)
-      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#58)
+        - [ENREGISTREMENT (art. 1585 C)](#43)
+          - [TAXE LOCALE D'EQUIPEMENT. (art. 1585 C)](#44)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#45)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#46)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#47)
+  - [Livre II : Recouvrement de l'impôt (art. 1694 bis à 1965 E)](#48)
+    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis à 1705)](#49)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#50)
+        - [III bis : Régime simplifié (art. 1694 bis)](#51)
+      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1703 à 1705)](#52)
+        - [II : Obligations des agents (art. 1703)](#53)
+        - [III : Obligation au paiement (art. 1705)](#54)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#55)
+      - [Section II : Juridiction contentieuse (art. 1965 E)](#56)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#57)
+  - [RECOUVREMENT DE L'IMPOT (art. 1840 C)](#58)
+    - [PENALITES (art. 1840 C)](#59)
+      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#60)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -572,11 +574,78 @@ _Cité par_:
   - Livre des procédures fiscales - art. A85-1 (P)
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=43></a>
+#### ENREGISTREMENT<a id=43></a>
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=44></a>
+##### TAXE LOCALE D'EQUIPEMENT.<a id=44></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=45></a>
+###### Article 1585 C
+
+I  Sont exclues du champ d'application de la taxe locale d'équipement :
+
+1° Les constructions qui sont destinées à être affectées à un service public ou d'utilité publique, et dont la liste est
+fixée par un décret en Conseil d'Etat (1);
+
+2° Les constructions édifiées dans les zones d'aménagement concerté au sens de l'article L. 311-1, premier alinéa, du code de
+l'urbanisme (2) lorsque le coût des équipements, dont la liste est fixée par un décret en Conseil d'Etat (3), a été mis à la
+charge des constructeurs.
+
+I bis  Lorsque le lotisseur supporte la charge d'une participation forfaitaire représentative de la taxe locale d'équipement,
+les constructions réalisées dans le lotissement ne sont pas passibles de cette taxe.
+
+II  Le conseil municipal peut renoncer à percevoir en tout ou partie la taxe d'équipement sur les locaux à usage d'habitation
+édifiés pour leur compte ou à titre de prestations de services par les organismes mentionnés à l'article L 411-2 du code de
+la construction et de l'habitation et répondant aux dispositions des titres Ier et II du livre IV de ce code.
+
+Le conseil municipal peut également renoncer à percevoir en tout ou partie la taxe locale d'équipement sur les constructions
+édifiées par les propriétaires d'une habitation familiale reconstituant leurs biens expropriés, sous réserve que l'immeuble
+corresponde aux normes des logements aidés par l'Etat.
+
+Le conseil municipal peut renoncer à percevoir en tout ou partie la taxe locale d'équipement sur les constructions de garage
+à usage commercial.
+
+III  Le conseil municipal peut décider d'exclure du champ d'application de la taxe les constructions édifiées dans les zones
+dont l'urbanisation n'est pas prévue.
+
+IV  Le conseil municipal peut exempter de la taxe les bâtiments à usage agricole autres que ceux mentionnés à l'article L
+112-7 du code de l'urbanisme. Il peut en exempter également toute construction à usage industriel ou commercial qui, par sa
+situation ou son importance, nécessite la réalisation d'équipements publics exceptionnels.
+
+1)  Annexe II, art. 317 bis.
+
+2)  Voir Annexe II, art. 317 quinquies.
+
+3)  Annexe II, art. 317 quater.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 317 bis
+  - CGIAN2 317 quater
+  - CGIAN2 317 quinquies
+  - Code de l'urbanisme - art. L112-7 (M)
+  - Code de l'urbanisme L311-1 AL. 1
+  - Code de la construction L411-1 A Code de la construction L424-1
+  - Code de la construction L411-2
+  - Code de la construction R411-1 A Code de la construction R423-84
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L142-2 (V)
+  - Code de l'urbanisme - art. L332-11-1 (V)
+  - Code général des impôts, CGI. - art. 1599 B (VT)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 317 bis (VT)
+
+_Modifié par_:
+
+  - Décret n°73-1022 1973-11-08 ART. 3 JORF 13 NOVEMBRE 1973
+
+
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=45></a>
+
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=46></a>
+
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=47></a>
 
 ###### Article 1628 quater
 
@@ -623,13 +692,13 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
 
 
-# Livre II : Recouvrement de l'impôt<a id=46></a>
+# Livre II : Recouvrement de l'impôt<a id=48></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=47></a>
+## Chapitre premier : Paiement de l'impôt<a id=49></a>
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=48></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=50></a>
 
-#### III bis : Régime simplifié<a id=49></a>
+#### III bis : Régime simplifié<a id=51></a>
 
 ###### Article 1694 bis
 
@@ -656,9 +725,9 @@ _Modifié par_:
   - Loi n°69-1161 1969-12-24 art. 12 I Finances pour 1970 JORF 27 décembre 1969
 
 
-### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=50></a>
+### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=52></a>
 
-#### II : Obligations des agents<a id=51></a>
+#### II : Obligations des agents<a id=53></a>
 
 ###### Article 1703
 
@@ -684,7 +753,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### III : Obligation au paiement<a id=52></a>
+#### III : Obligation au paiement<a id=54></a>
 
 ###### Article 1705
 
@@ -733,11 +802,11 @@ _Cité par_:
   - TXT_ASSOCIE: Jurisprudence 1997-12-04 13L-6-97
 
 
-## Chapitre V : Dégrèvements et restitutions d'impôts<a id=53></a>
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=55></a>
 
-### Section II : Juridiction contentieuse<a id=54></a>
+### Section II : Juridiction contentieuse<a id=56></a>
 
-#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=55></a>
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=57></a>
 
 ###### Article 1965 E
 
@@ -764,11 +833,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# RECOUVREMENT DE L'IMPOT<a id=56></a>
+# RECOUVREMENT DE L'IMPOT<a id=58></a>
 
-## PENALITES<a id=57></a>
+## PENALITES<a id=59></a>
 
-### DISPOSITIONS PARTICULIERES.<a id=58></a>
+### DISPOSITIONS PARTICULIERES.<a id=60></a>
 
 ###### Article 1840 C
 
