@@ -1,6 +1,6 @@
 # Article 39 quaterdecies
 
-1  Le montant net des plus-values à court terme peut être réparti par parts égales sur l'année de leur réalisation et sur les
+1 Le montant net des plus-values à court terme peut être réparti par parts égales sur l'année de leur réalisation et sur les
 deux années suivantes.
 
 Il s'entend de l'excédent de ces plus-values sur les moins-values de même nature qui ont été effectivement subies au cours du
@@ -27,6 +27,11 @@ court terme de l'exercice.
 dispositions qui précèdent sont rapportées au bénéfice imposable de l'exercice clos lors de cette opération, sous réserve des
 dispositions des articles 41 et 210 A à 210 C.
 
+Sous réserve des dispositions du troisième alinéa du 1, les dispositions de l'alinéa précédent ne sont pas applicables en cas
+d'apport d'une entreprise individuelle à une société dans les conditions prévues à l'article 151 octies si la société
+bénéficiaire de l'apport prend l'engagement dans l'acte d'apport de réintégrer à ses résultats les plus-values à court terme
+comme aurait dû le faire l'entreprise apporteuse.
+
 3  Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet
 exercice.
 
@@ -36,6 +41,7 @@ _Cite_:
 
   - CGI 1465
   - CGI 1466
+  - CGI 151 octies
   - CGI 210 A
   - CGI 210 B
   - CGI 210 C
@@ -43,7 +49,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 31 () JORF 31 décembre 1987
+  - Loi n°89-936 1989-12-29 art. 14 Finances rectificative pour 1989 JORF 30 décembre 1989
+  - Modification directe incorporée dans l'édition du 15 juin 1990)
 
 _Cité par_:
 
