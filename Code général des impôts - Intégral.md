@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -792,7 +792,7 @@ Version Consolidée au 1993-01-05
                   - [a : Chèques et ordres de virement. (art. 913 à 915)](#789)
                   - [b : Autres effets. (art. 916)](#790)
             - [III bis : Timbre des formules de chèques (art. 916 A)](#791)
-            - [IV : Timbre des quittances (art. 919 à 919-0 A)](#792)
+            - [IV : Timbre des quittances (art. 919 à 919 C)](#792)
             - [V : Timbre des contrats de transport (art. 925 à 943)](#793)
               - [A : Dispositions générales (art. 925 à 934)](#794)
                 - [1° : Lettres de voiture (art. 925)](#795)
@@ -57621,31 +57621,39 @@ _Cité par_:
 ###### Article 919
 
 Les tickets du pari mutuel sur les hippodromes et hors des hippodromes sont frappés d'un droit de timbre dont le taux est
-fixé à 4 % du montant des sommes engagées dans la même course.
+fixé à 4,3 % du montant des sommes engagées dans la même course.
 
 Les tickets du pari mutuel sur les cynodromes sont frappés, dans les mêmes conditions, du droit de timbre prévu au premier
 alinéa.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1993-01-06 7M-1-93
+  - SPEC_APPLI: Loi n°92-1376 1992-12-30 art. 35 IV Finances pour 1993
+
 _Modifié par_:
 
-  - Loi - art. 13 (V) JORF 30 décembre 1990
-  - Modification directe incorporée dans l'édition du 24 juin 1991
+  - Loi - art. 35 (V) JORF 31 décembre 1992 en vigueur le 15 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 919 A
 
-Les bulletins du loto national sont soumis à un droit de timbre fixé à 4,10 % [*taux*] du montant des sommes engagées (1).
-
-(1) A compter du 1er janvier 1991.
+Les bulletins du loto national sont soumis à un droit de timbre fixé à 4,70 % du montant des sommes engagées.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi - art. 13 (V) JORF 30 décembre 1990
-  - Modification directe incorporée dans l'édition du 24 juin 1991
+  - Loi - art. 35 (V) JORF 31 décembre 1992 en vigueur le 15 janvier 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1376 1992-12-30 art. 35 IV Finances pour 1993
+  - HISTO: Edition du 18 août 1993
+  - TXT_ASSOCIE: Instruction 1993-01-06 7M-1-93
 
 _Cité par_:
 
@@ -57658,6 +57666,10 @@ _Cité par_:
   - Arrêté du 8 juin 2011 (V)
   - Arrêté du 8 décembre 2011 (V)
   - Arrêté du 1er octobre 2012 (V)
+
+_Abrogé par_:
+
+  - Loi n°2010-476 du 12 mai 2010 - art. 54
 
 
 ###### Article 919 B
@@ -57691,38 +57703,26 @@ _Abrogé par_:
 ###### Article 919 C
 
 Les bulletins ou billets de la loterie nationale en ce qui concerne les jeux dits "loterie instantanée et tapis vert" sont
-soumis à un droit de timbre fixé à 0,90 p. 100 du montant des sommes engagées.
+soumis à un droit de timbre fixé à 1,6 p. 100 du montant des sommes engagées.
+
+[*Cf. Instruction 1995-02-06 7M-1-95.*]
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1993-01-06 7M-1-93
+  - TXT_ASSOCIE: Instruction 1995-02-06 7M-1-95
+  - SPEC_APPLI: Loi n°92-1376 1992-12-30 art. 35 IV Finances pour 1993
+
 _Modifié par_:
 
-  - Loi - art. 13 (V) JORF 30 décembre 1990
-  - Modification directe incorporée dans l'édition du 24 juin 1991
+  - Loi - art. 35 (V) JORF 31 décembre 1992 en vigueur le 15 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
   - Loi n°94-1163 du 29 décembre 1994 - art. 48 (V)
-
-
-###### Article 919-0 A
-
-Le droit de timbre visé au premier alinéa de l'article 919 est majoré par une taxe additionnelle dont le taux est fixé à 0,3
-p. 100 du montant des sommes engagées dans la même course.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 919
-
-_Créé par_:
-
-  - Loi - art. 43 (V) JORF 30 décembre 1990
-
-_Abrogé par_:
-
-  - Loi - art. 35 (V) JORF 31 décembre 1992 en vigueur le 15 janvier 1993
 
 
 ##### V : Timbre des contrats de transport<a id=793></a>
