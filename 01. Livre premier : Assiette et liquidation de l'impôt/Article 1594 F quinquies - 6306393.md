@@ -50,13 +50,13 @@ acquis consentie à titre onéreux par l'acquéreur au descendant installé n'en
 réduit.
 
 E. I. Les acquisitions d'immeubles ruraux situés dans les territoires ruraux de développement prioritaire délimités par le
-décret n° 94-1139 du 26 décembre 1994 modifié qui sont effectuées par les agriculteurs bénéficiaires des aides à
-l'installation des jeunes agriculteurs prévue aux articles R343-9 et R343-13 du code rural, que les intéressés soient
-exploitants individuels ou associés d'une société civile à objet agricole, pour la fraction du prix ou de la valeur
-n'excédant pas 99 000 euros, quel que soit le nombre des acquisitions, sous réserve qu'elles interviennent au cours des
-quatre années suivant l'octroi des aides, que l'acte précise la valeur des terres acquises depuis cette date par l'acquéreur
-ayant bénéficié du tarif réduit et soit appuyé d'un certificat délivré sans frais par le directeur départemental de
-l'agriculture et de la forêt précisant la date de l'octroi des aides.
+décret n° 94-1139 du 26 décembre 1994 modifié et dans les zones de revitalisation rurale définies au II de l'article 1465 A,
+qui sont effectuées par les agriculteurs bénéficiaires des aides à l'installation des jeunes agriculteurs prévue aux articles
+R343-9 et R343-13 du code rural, que les intéressés soient exploitants individuels ou associés d'une société civile à objet
+agricole, pour la fraction du prix ou de la valeur n'excédant pas 99 000 euros, quel que soit le nombre des acquisitions,
+sous réserve qu'elles interviennent au cours des quatre années suivant l'octroi des aides, que l'acte précise la valeur des
+terres acquises depuis cette date par l'acquéreur ayant bénéficié du tarif réduit et soit appuyé d'un certificat délivré sans
+frais par le directeur départemental de l'agriculture et de la forêt précisant la date de l'octroi des aides.
 
 II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, sous réserve que l'acquéreur prenne, dans l'acte
 d'acquisition, l'engagement, pour lui et ses ayants cause à titre gratuit, de justifier, au plus tard au terme d'un délai
@@ -100,27 +100,27 @@ coopératives de production d'habitations à loyers modérés ainsi que par des 
 
 _Cite_:
 
-  - CGI 257, 1564-0 G
-  - Code rural R343-9, R343-13, L128-4 à L128-7
+  - CGI 257, 1594-0 G, 1465 A
   - Décret n°55-22 1955-01-04 art. 28
-  - Décret n°94-1139 1994-12-26
   - Loi n°69-1168 1969-12-26
+  - Décret n°94-1139 1994-12-26
   - Code du domaine de l'Etat - art. L60 (Ab)
   - Code de l'urbanisme - art. L130-2 (M)
+  - Code de la construction et de l'habitation. - art. L615-1 (M)
+  - Code rural R343-9, R343-13, L128-4 à L128-7
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
-  - TXT_ASSOCIE: Instruction 2002-06-17 7C-4-02
   - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
   - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
+  - HISTO: Edition du 1er janvier 2005
+  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
+  - TXT_ASSOCIE: Instruction 2002-06-17 7C-4-02
   - TXT_ASSOCIE: Réponse ministérielle 1999-07-28 7C-3-99
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 13 () JORF 29 décembre 2001
+  - Loi n°2005-157 2005-02-23 art. 2 III JORF 24 février 2005
 
 _Cité par_:
 

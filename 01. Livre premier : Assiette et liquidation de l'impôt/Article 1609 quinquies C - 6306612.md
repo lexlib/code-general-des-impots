@@ -19,8 +19,10 @@ jusqu'au 31 mars, dès lors que les communes qui ont décidé de la création de
 toute autre, étaient antérieurement associées dans un même syndicat de communes percevant une taxe d'enlèvement des ordures
 ménagères.
 
-Pour cette première année, elles ne peuvent voter que le produit de cette taxe, à l'exclusion de toute modification de ses
-règles d'établissement.
+Pour cette première année, elles ne peuvent voter que le taux de cette taxe, à l'exclusion de toute modification de ses
+règles d'établissement. Toutefois, lorsque la transformation est intervenue postérieurement au 15 octobre, les zones de
+perception en fonction de l'importance du service rendu instituées par le syndicat avant sa transformation en communauté de
+communes restent applicables l'année qui suit cette transformation.
 
 II. – Le conseil d'une communauté de communes ayant créé, créant ou gérant une zone d'activités économiques qui se situe sur
 le territoire d'une ou de plusieurs communes membres peut, à la majorité simple de ses membres, décider de se substituer à
@@ -93,6 +95,11 @@ municipaux des communes intéressées, cette majorité devant comprendre le cons
 est supérieure à la moitié de la population totale concernée ou, à défaut, de la commune dont la population est la plus
 importante.
 
+**Nota:**
+
+NOTA : Ces dispositions sont applicables pour l'établissement de la taxe d'enlèvement des ordures ménagères due au titre des
+années 2005 et suivantes.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -105,7 +112,7 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2005
 
 _Cité par_:
 
@@ -147,11 +154,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1648 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
 
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 7 () JORF 27 mars 2004
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 101 (V) JORF 31 décembre 2004
