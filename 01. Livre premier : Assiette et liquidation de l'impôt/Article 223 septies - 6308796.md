@@ -3,29 +3,29 @@
 Les personnes morales passibles de l'impôt sur les sociétés sont assujetties à une imposition forfaitaire annuelle d'un
 montant fixé à :
 
-5.000 F pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 500.000 F et
-1.000.000 F ;
+750 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 76 000 euros
+et 150 000 euros ;
 
-7.500 F pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 1.000.000 F et
-2.000.000 F ;
+1 125 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 150 000
+euros et 300 000 euros ;
 
-10.500 F pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 2.000.000 F
-et 5.000.000 F ;
+1 575 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 300 000
+euros et 750 000 euros ;
 
-14.500 F pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 5.000.000 F
-et 10.000.000 F ;
+2 175 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 750 000
+euros et 1 500 000 euros ;
 
-25 000 F pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 10 000 000 F
-et 50 000 000 F ;
+3 750 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 1 500 000
+euros et 7 500 000 euros ;
 
-100 000 F pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 50 000 000 F
-et 100 000 000 F ;
+15 000 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 7 500 000
+euros et 15 000 000 euros ;
 
-125 000 F pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 100 000 000
-F et 500 000 000 F ;
+18 750 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 15 000
+000 euros et 75 000 000 euros ;
 
-200 000 F pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est égal ou supérieur à 500
-000 000 F.
+30 000 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est égal ou supérieur à 75
+000 000 euros.
 
 Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaires, tous droits et taxes compris, du dernier
 exercice clos.
@@ -45,9 +45,20 @@ _Cite_:
 
   - CGI 206 5, 207, 208
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 1999-01-18 4L-1-99
+  - TXT_ASSOCIE: Instruction 1999-02-16 4H-1-99
+  - TXT_ASSOCIE: Instruction 2000-02-21 4L-2-00
+  - TXT_ASSOCIE: Instruction 2000-08-03 4I-2-00
+  - TXT_ASSOCIE: Instruction 2002-01-17 4L-1-02
+
 _Modifié par_:
 
-  - Loi - art. 19 () JORF 31 décembre 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -59,12 +70,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 235 ter ZCA (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 366 A bis (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 1998-01-14 4L-1-98
-  - TXT_ASSOCIE: Instruction 1999-01-18 4L-1-99
-  - TXT_ASSOCIE: Instruction 1999-02-16 4H-1-99
-  - TXT_ASSOCIE: Instruction 2000-02-21 4L-2-00
-  - TXT_ASSOCIE: Instruction 2000-08-03 4I-2-00
