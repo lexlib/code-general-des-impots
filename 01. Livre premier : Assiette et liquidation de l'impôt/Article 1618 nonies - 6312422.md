@@ -1,17 +1,22 @@
 # Article 1618 nonies
 
 Il est institué au profit du budget annexe des prestations sociales agricoles une taxe, à la charge des producteurs de colza,
-navette et tournesol [*redevables*], portant sur les quantités livrées aux intermédiaires agréés.
+navette et tournesol [*redevables*], portant sur les quantités livrées aux intermédiaires agréés (Voir annexe III, art. 333
+1).
 
-Le montant de cette taxe est fixé à 41,85 F par tonne de colza et de navette et à 50,25 F par tonne de tournesol (1).
+Le montant de cette taxe est fixé à 41,85 F par tonne de colza et de navette et à 50,20 F par tonne de tournesol (1).
 
 La taxe est perçue par la direction générale des impôts auprès des intermédiaires agréés. Elle est constatée, recouvrée,
 contrôlée et poursuivie selon les règles et sous les garanties et sûretés prévues en matière de contributions indirectes.
 
-(1) : ces montants s'appliquent à compter de la campagne 1989-1990.
+(1) Ces montants s'appliquent à compter de la campagne 1989-1990.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGIAN3 333 1
+
 _Modifié par_:
 
-  - Loi n°89-474 1989-07-10 art. 10 JORF 12 juillet 1989
+  - Loi n°90-85 du 23 janvier 1990 - art. 66 (V) JORF 25 janvier 1990, modification directe incorporée dans l'édition du 15 juin 1990
