@@ -3,11 +3,11 @@
 I. - Les dispositions du I de l'article 199 nonies et du I de l'article 199 decies sont prorogées jusqu'au 31 décembre 1997
 dans les conditions suivantes.
 
-Pour les acquisitions, constructions et souscriptions réalisées à compter du 1er janvier 1990, la limite de 200 000 F est
-portée à 300 000 F et celle de 400 000 F est portée à 600 000 F. Le taux est porté à 10 p. 100. La durée de l'engagement de
-location du logement ou de conservation des titres par le contribuable est réduite à six années. Toutefois, la réduction
-d'impôt est répartie sur deux années. Elle est appliquée à la première année à raison de la moitié des limites précitées, à
-la seconde année, à raison du solde.
+Pour les acquisitions, constructions et souscriptions réalisées à compter du 1er janvier 1990, la limite de 200 000 F (1) est
+portée à 300 000 F (1) et celle de 400 000 F (1) est portée à 600 000 F (1). Le taux est porté à 10 p. 100. La durée de
+l'engagement de location du logement ou de conservation des titres par le contribuable est réduite à six années. Toutefois,
+la réduction d'impôt est répartie sur deux années. Elle est appliquée à la première année à raison de la moitié des limites
+précitées, à la seconde année, à raison du solde.
 
 Ces dispositions s'appliquent également aux logements que les contribuables ont fait construire ou acquis en l'état futur
 d'achèvement à compter du 20 septembre 1989, qui ne sont pas achevés au 31 décembre 1989 et ne remplissent pas les deux
@@ -31,10 +31,17 @@ réalisés au cours de la première et de la seconde période. Ils ont le choix 
 Le produit des souscriptions réalisées à compter du 18 septembre 1991 doit être exclusivement destiné à financer la
 construction ou l'acquisition d'immeubles locatifs neufs situés en France et affectés pour 90 p. 100 au moins de leur
 superficie à usage d'habitation. La réduction d'impôt est calculée sur le montant de la souscription dans les limites
-mentionnées au deuxième alinéa. "
+mentionnées au deuxième alinéa.
 
 II. - Les contribuables ne peuvent bénéficier, au titre d'une même année, à la fois de la réduction d'impôt mentionnée au
 quatrième alinéa du I de l'article 199 nonies et de celle qui est prévue au I. Ils ont le choix de l'une d'entre elles.
+
+III. - La location du logement consentie dans des conditions fixées par décret à un organisme public ou privé pour le
+logement à usage d'habitation principale de son personnel, à l'exclusion du propriétaire du logement, de son conjoint, de
+membres de son foyer fiscal ou de ses descendants et ascendants, ne fait pas obstacle au bénéfice de la réduction d'impôt
+prévue au I.
+
+(1) Montant périmé au 1er janvier 2002.
 
 **Liens relatifs à cet article**
 
@@ -43,8 +50,16 @@ _Cite_:
   - CGI 199 nonies, 199 decies
   - Code de l'urbanisme - art. R421-40 (Ab)
 
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 31 mars 2002
+  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
+
 _Modifié par_:
 
-  - Loi - art. 44 () JORF 19 juillet 1991 JORF 31 décembre 1991
-  - Loi - art. 7 () JORF 31 décembre 1991
-  - Modifications directes incorporées dans l'édition du 4 juillet 1992
+  - Loi - art. 24 () JORF 6 août 1995
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06

@@ -80,12 +80,12 @@ Les réclamations et les recours contentieux relatifs aux décisions d'inscripti
 département de l'intérieur.
 
 1 bis C bis. Les entreprises de presse ne bénéficient pas du régime prévu aux 1 bis A et 1 bis A bis pour la partie des
-publications qu'elles impriment hors d'un état membre de la Communauté économique européenne.
+publications qu'elles impriment hors d'un état membre de la ((Communauté européenne)) (M).
 
 1 ter. Les éléments d'actif acquis au moyen des bénéfices ou des provisions mentionnés au présent article sont amortis pour
 un montant égal à la fraction du prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou provisions.
 
-Sans préjudice de l'application des dispositions de l'article 39-1-5°, dixième alinéa, les provisions non utilisées
+Sans préjudice de l'application des dispositions du dixième alinéa du 5° du 1 de l'article 39, les provisions non utilisées
 conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices
 soumis à l'impôt au titre de ladite année.
 
@@ -99,6 +99,8 @@ calculées en tenant compte de l'ancienneté acquise par ces journalistes et sal
 qu'elles doivent verser en cas de licenciement de ces derniers.
 
 (1) Annexe IV, art. 4 octies.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -125,5 +127,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 35 () JORF 31 décembre 1991
-  - Modification directe incorporée dans l'édition du 4 juillet 1992
+  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1996-10-21 4E-4-96
