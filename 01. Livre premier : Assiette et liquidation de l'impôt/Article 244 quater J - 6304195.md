@@ -35,7 +35,7 @@ occuper à titre principal la résidence des bénéficiaires desdites avances, d
 du bien immobilier.
 
 Lors de l'offre de l'avance remboursable sans intérêt, le montant total des ressources à prendre en compte s'entend de la
-somme des revenus fiscaux de référence, au sens du 1° du IV de l'article 1417, des personnes mentionnées à l'alinéa précédent
+somme des revenus fiscaux de référence, au sens du 1° du IV de l'article 1417, des personnes mentionnées au huitième alinéa
 au titre de :
 
 1° L'avant-dernière année précédant celle de l'offre de l'avance lorsque cette dernière intervient entre le 1er janvier et le
@@ -64,10 +64,10 @@ l'offre de l'avance remboursable sans intérêt.
 
 Les modalités de calcul du crédit d'impôt et de détermination de ce taux sont fixées par décret en Conseil d'Etat.
 
-Le crédit d'impôt résultant de l'application des deux alinéas précédents fait naître au profit de l'établissement de crédit
-une créance, inaliénable et incessible, d'égal montant. Cette créance constitue un produit imposable rattaché à hauteur d'un
-cinquième au titre de l'exercice au cours duquel l'établissement de crédit a versé des avances remboursables sans intérêt et
-par fractions égales sur les exercices suivants.
+Le crédit d'impôt résultant de l'application des premier et deuxième alinéas fait naître au profit de l'établissement de
+crédit une créance, inaliénable et incessible, d'égal montant. Cette créance constitue un produit imposable rattaché à
+hauteur d'un cinquième au titre de l'exercice au cours duquel l'établissement de crédit a versé des avances remboursables
+sans intérêt et par fractions égales sur les exercices suivants.
 
 III. - Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une convention entre l'établissement de crédit
 mentionné au I et l'Etat, conforme à une convention type approuvée par arrêté conjoint du ministre chargé de l'économie et du
@@ -84,10 +84,10 @@ informations relatives aux avances remboursables sans intérêt versées par cha
 des crédits d'impôt correspondants obtenus ainsi que leur suivi.
 
 VI. - Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239
-quater, 239 quater B et 239 quater C du présent code ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut
-être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il
-s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis
-du I de l'article 156.
+quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par
+les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de
+redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
+l'article 156.
 
 **Liens relatifs à cet article**
 
@@ -145,6 +145,14 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YT (V)
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 93 (V) JORF 31 décembre 2004
+  - Décret n°2005-330 2005-04-06
+
+_Modifié par_:
+
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

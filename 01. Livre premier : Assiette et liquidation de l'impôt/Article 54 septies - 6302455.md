@@ -3,7 +3,8 @@
 I. Les entreprises placées sous l'un des régimes prévus par les 5 bis, 7 et 7 bis de l'article 38 et les articles 151 octies,
 151 octies A, 210 A, 210 B et 210 D du présent code doivent joindre à leur déclaration de résultat un état conforme au modèle
 fourni par l'administration faisant apparaître, pour chaque nature d'élément, les renseignements nécessaires au calcul du
-résultat imposable de la cession ultérieure des éléments considérés. Un décret précise le contenu de cet état.
+résultat imposable de la cession ultérieure des éléments considérés, et la valeur du mali technique de fusion mentionné au
+troisième alinéa du 1 de l'article 210 A. Un décret précise le contenu de cet état.
 
 II. Les plus-values dégagées sur des éléments d'actif non amortissables à l'occasion d'opérations d'échange, de fusion,
 d'apport, de scission, de transformation et dont l'imposition a été reportée, par application des dispositions des 5 bis, 7,
@@ -21,6 +22,11 @@ apports que les associés de la société scindée se sont engagés à conserver
 fixé par l'administration, doit être joint à leurs déclarations de résultats souscrites au titre de la période couverte par
 l'engagement de conservation des titres.
 
+**Nota:**
+
+Nota : Loi 2004-1485 2004-12-30 art. 42 II : Ces dispositions sont applicables aux opérations de fusions et assimilées
+réalisées à compter du 1er janvier 2005.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -28,20 +34,18 @@ _Cite_:
   - CGI 151 octies, 151 octies A, 210 A, 210 B, 210 D, 38, 115, 248 A, 248 E
   - Livre des procédures fiscales - art. L102 B (M)
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005
+
+_Modifié par_:
+
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004
+
 _Cité par_:
 
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (VD)
   - Code général des impôts, CGI. - art. 1763 (M)
   - Code général des impôts, CGI. - art. 221 bis (V)
   - Code général des impôts, CGI. - art. 39 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 quindecies (V)
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2002-01-17 4I-1-02
-  - TXT_ASSOCIE: Instruction 2003-07-07 4I-1-03
-
-_Modifié par_:
-
-  - Loi - art. 52 () JORF 31 décembre 2003
