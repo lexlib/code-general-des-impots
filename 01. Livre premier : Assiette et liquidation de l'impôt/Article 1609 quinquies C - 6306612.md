@@ -40,6 +40,26 @@ relative des bases de ces trois taxes la même année.
 c) La variation des taux définis aux a et b est celle constatée l'année précédant celle au titre de laquelle la communauté de
 communes vote le taux de taxe professionnelle applicable dans la zone d'activités économiques.
 
+3° Les groupements de communes soumis aux dispositions du présent paragraphe bénéficient de la compensation prévue au IV bis
+de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par l'article 46 de la loi de
+finances pour 1992 (n° 91-1322 du 30 décembre 1991), et de l'article 124 de la loi n° 92-125 du 6 février 1992 d'orientation
+relative à l'administration territoriale de la République au lieu et place de leurs communes membres pour les pertes de bases
+de taxe professionnelle résultant, dans la zone d'activités économiques, de l'application de l'article 1469 A bis et du
+dernier alinéa du II de l'article 1478.
+
+Pour le calcul de cette compensation :
+
+a) Le taux de taxe professionnelle à retenir est le taux moyen pondéré de taxe professionnelle constaté en 1986 dans
+l'ensemble des communes membres du groupement ; ce taux est, le cas échéant, majoré du taux voté en 1986 par le groupement
+lorsqu'il s'agit d'un groupement ayant opté pour le régime prévu au présent paragraphe ou, lorsqu'il s'agit d'une communauté
+de communes, par le groupement dont celle-ci est issue ; ces taux sont multipliés par 0,960 ;
+
+b) Les recettes fiscales à retenir, la première année d'application des dispositions du présent paragraphe pour le calcul de
+la réfaction de 2 p. 100 prévue au IV bis de l'article 6 précité, s'entendent du montant de la taxe professionnelle perçu par
+les communes membres, l'année précédente, dans la zone d'activités économiques ; ce montant est, le cas échéant, majoré des
+recettes fiscales perçues, la même année, par le groupement ayant opté pour le régime fiscal prévu au présent paragraphe ou,
+lorsqu'il s'agit d'une communauté de communes, par le groupement dont celle-ci est issue.
+
 III. Les dispositions de l'article 1609 nonies C sont applicables aux communautés de communes par délibération du conseil de
 communauté statuant à la majorité des trois quarts. Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans
 les mêmes conditions.
@@ -48,15 +68,20 @@ les mêmes conditions.
 
 _Cite_:
 
+  - CGI 1469 A bis, 1478
   - CGI 1609 nonies D, 1609 nonies C, 1636 B sexies, 1636 B septies
+  - Loi n°86-1317 1986-12-30 art. 6 finances pour 1987
+  - Loi n°91-1322 1991-12-30 art. 46 finances pour 1992
+  - Loi n°92-125 1992-02-06 art. 124
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 106
+  - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-125 du 6 février 1992 - art. 98 () JORF 8 février 1992
+  - Loi - art. 40 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
