@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1990-06-15
+Version Consolidée au 1990-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -54774,15 +54774,17 @@ _Cité par_:
 
 Sont exonérés de la taxe spéciale sur les conventions d'assurances :
 
-1° Les réassurances, sous réserve de ce qui est dit à l'article 1000;
+1° Les réassurances, sous réserve de ce qui est dit à l'article 1000 ;
 
 2° Les assurances bénéficiant, en vertu de dispositions exceptionnelles, de l'exonération des droits de timbre et
 d'enregistrement sauf celles souscrites auprès des sociétés ou caisses d'assurances mutuelles agricoles visées à l'article
 1032. Toutefois, les contrats souscrits auprès de ces sociétés ou caisses couvrant les risques de toute nature afférents aux
 récoltes, cultures, cheptel vif, cheptel mort, bâtiments affectés aux exploitations agricoles et exclusivement nécessaires au
 fonctionnement de celles-ci ainsi que les contrats d'assurance maladie complémentaire souscrits auprès de ces mêmes
-organismes demeurent exonérés ; Le régime défini à la deuxième phrase du premier alinéa s'applique notamment aux camions,
-camionnettes, fourgonnettes à utilisations exclusivement utilitaires ; 7 p. 100.
+organismes demeurent exonérés ;
+
+Le régime défini à la deuxième phrase du premier alinéa s'applique notamment aux camions, camionnettes, fourgonnettes à
+utilisations exclusivement utilitaires ; 7 p. 100.
 
 3° Les contrats d'assurances sur corps, marchandises transportées et responsabilité civile du transporteur, des navires de
 commerce et des navires de pêche souscrits contre les risques de toute nature de navigation maritime ou fluviale ;
@@ -54801,6 +54803,11 @@ terrestres ;
 
 8° Les assurances des crédits à l'exportation.
 
+9° Les contrats de garantie souscrits auprès des entreprises d'assurances en application de l'article 37 de la loi n° 88-1201
+du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières et portant création des fonds
+communs de créances et de l'article 9 du décret n° 89-158 du 9 mars 1989 portant application des articles 26 et 34 à 42 de la
+loi n° 88-1201 du 23 décembre 1988 et relatif aux fonds communs de créances.
+
 (1) Ces dispositions s'appliquent à compter du 1er juillet 1990, sauf pour les opérations d'assurance sur la vie réalisées
 dans le cadre d'un plan d'épargne populaire pour lesquels la date d'application est fixée au 1er janvier 1990.
 
@@ -54810,10 +54817,18 @@ _Cite_:
 
   - CGI 1000
   - CGI 1032
+  - Loi n°88-1201 1988-12-23 art. 37, art. 26, art. 34 à 42
+  - Loi n°88-1201 du 23 décembre 1988 - art. 26 (Ab)
+  - Loi n°88-1201 du 23 décembre 1988 - art. 37 (M)
+  - Décret n°89-158 du 9 mars 1989 - art. 9 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
 
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 17 I, II, IV Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi - art. 10 () JORF 30 décembre 1990, en vigueur le 1er juillet 1990
 
 _Cité par_:
 
