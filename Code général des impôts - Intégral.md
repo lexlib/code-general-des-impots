@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-01-27
+Version Consolidée au 1987-01-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -15562,6 +15562,27 @@ le revenu ou à l'impôt sur les sociétés.
 _Cite_:
 
   - Code des débits de boissons L17, L18, L20
+
+
+###### Article 237 bis
+
+Les contributions payées par les employeurs dans les conditions prévues aux deuxième et troisième alinéas de l'article 231
+bis D [*allocations ou aides aux travailleurs privés d'emploi*], sont déductibles pour l'établissement de l'impôt sur le
+revenu ou de l'impôt sur les sociétés dû par ces employeurs.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 231 bis D AL. 2, AL. 3
+
+_Modifié par_:
+
+  - Loi n°87-39 du 27 janvier 1987 - art. 34 (V) JORF 28 janvier 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
 
 
 ###### Article 237 bis A
