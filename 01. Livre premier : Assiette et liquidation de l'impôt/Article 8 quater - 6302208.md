@@ -1,8 +1,10 @@
 # Article 8 quater
 
-Chaque membre des copropriétés de navires régies par le chapitre IV de la loi n° 67-5 du 3 janvier 1967 portant statut des
-navires et autres bâtiments de mer est personnellement soumis à l'impôt sur le revenu à raison de la part correspondant à ses
-droits dans les résultats déclarés par la copropriété (1).
+Chaque membre des copropriétés de navires régies par le chapitre IV de la loi n° 67-5 du 3 janvier 1967 modifiée portant
+statut des navires et autres bâtiments de mer est personnellement soumis à l'impôt sur le revenu à raison de la part
+correspondant à ses droits dans les résultats déclarés par la copropriété (1).
+
+**Nota:**
 
 (1) Régime applicable aux exercices ouverts à compter du 1er janvier 1978.
 
@@ -10,7 +12,15 @@ droits dans les résultats déclarés par la copropriété (1).
 
 _Cite_:
 
-  - Loi n°67-5 1967-01-03 CHAPITRE IV
+  - Loi n°67-5 du 3 janvier 1967 (V)
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 1 () JORF 27 février 1996
+
+_Codifié par_:
+
+  - Décret n°97-661 1997-05-28
 
 _Cité par_:
 
@@ -25,4 +35,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 11 avril 1997

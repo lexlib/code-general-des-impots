@@ -8,25 +8,23 @@ la redevance pour enlèvement des ordures, déchets et résidus ;
 
 b) La taxe de balayage ;
 
-c) La taxe de séjour, lorsqu'elle répond aux conditions fixées ((aux articles L. 5211-27 et L. 5722-6 du code général des
-collectivités territoriales)) (M) ;
+c) La taxe de séjour, lorsqu'elle répond aux conditions fixées aux articles L. 5211-27 et L. 5722-6 du code général des
+collectivités territoriales ;
 
-d) La taxe sur la publicité mentionnée ((aux articles L. 2333-6 et L. 2333-17 du code général des collectivités
-territoriales)) (M).
+d) La taxe sur la publicité mentionnée aux articles L. 2333-6 et L. 2333-17 du code général des collectivités territoriales.
 
-(M) Modification de la loi 96-142.
+((e. la taxe sur les fournitures d'électricité dans les conditions prévues aux articles L. 2333-2 à L. 2333-5 du code général
+des collectivités territoriales, au lieu et place des communes membres dont la population agglomérée au chef-lieu est
+inférieure à 2 000 habitants. Dans ce cas, celle-ci est recouvrée sans frais par le distributeur. Le taux de la taxe ne peut
+dépasser 8 p. 100)) (M).
+
+(M) Modification de la loi 96-1182.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°96-142 1996-02-21 art. 1, 11, 12 1° JORF 24 février 1996
-  - Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
-  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
-
-_Codifié par_:
-
-  - Décret n°96-556 1996-06-21
+  - Loi n°96-1182 du 30 décembre 1996 - art. 33 () JORF 31 décembre 1996
 
 _Cité par_:
 
@@ -42,4 +40,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 11 avril 1997
