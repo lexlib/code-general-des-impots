@@ -1,10 +1,11 @@
 # Article 302 septies A
 
 I. Il est institué par décret en conseil d'Etat (1) un régime simplifié de liquidation des taxes sur le chiffre d'affaires
-dues par les personnes qui ne sont pas placées sous le régime du forfait et dont le chiffre d'affaires n'excède pas 3.500.000
-F, s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à
-emporter ou à consommer sur place ou de fournir le logement, ou 1.000.000 F, s'il s'agit d'autres entreprises. Ces limites
-s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des taxes assimilées.
+dues par les personnes qui ne sont pas placées sous le régime du forfait et dont le chiffre d'affaires n'excède pas
+((3.800.000 F)) (1') , s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets,
+fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou ((1.100.000 F)) (1'), s'il s'agit
+d'autres entreprises. Ces limites s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des taxes
+assimilées.
 
 II. Le régime simplifié prévu au I demeure applicable pour l'établissement de l'imposition due au titre de la première année
 au cours de laquelle les chiffres d'affaires limites prévus pour ce régime sont dépassés. Cette imposition est établie compte
@@ -18,6 +19,8 @@ présent paragraphe; il procède aux adaptations nécessaires de la législation
 bénéficient de la franchise et de la décote et pour celles qui n'ont clôturé aucun exercice au cours d'une année civile.
 
 (1) Annexe II, art. 204 ter, 204 quater, 242-0 C I 2, II 2, 242-0 D, 242 quater à 242 septies, 267 quinquies à 267 septies.
+
+(1') Ces dispositions s'appliquent à compter du 1er janvier 1995.
 
 (2) Annexe II, art. 242 septies A à 242 septies L.
 
@@ -39,7 +42,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 99 () JORF 30 décembre 1990
+  - Loi n°94-1163 du 29 décembre 1994 - art. 15 (V) JORF 30 décembre 1994
 
 _Cité par_:
 
@@ -77,4 +80,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 24 juin 1991
+  - HISTO: Edition du 27 octobre 1995

@@ -6,8 +6,8 @@ peuvent être agréées dans des conditions fixées par décret en Conseil d'Eta
 professionnelles (1).
 
 Ces associations ont pour fondateurs soit des ordres ou des organisations professionnelles légalement constituées des membres
-des professions mentionnées au premier alinéa, soit des experts comptables et des comptables agréés ou des sociétés inscrites
-à l'ordre des experts comptables et des comptables agréés.
+des professions mentionnées au premier alinéa, soit des experts comptables ou des sociétés inscrites à l'ordre des experts
+comptables et des comptables agréés.
 
 Seuls peuvent adhérer à ces associations les membres des professions libérales et les titulaires de charges et offices qui
 souscrivent à l'engagement pris, dans des conditions fixées par décret (2), par les ordres ou les organisations
@@ -22,9 +22,9 @@ professionnelles dont ils relèvent, d'améliorer la connaissance des revenus de
 _Cité par_:
 
   - Arrêté du 26 juin 2009 (V)
+  - Arrêté du 25 novembre 2010 - art. (Ab)
   - Arrêté du 26 juin 2009 - art. (V)
   - Arrêté du 26 juin 2009 - art. 1 (V)
-  - Arrêté du 25 novembre 2010 - art. (Ab)
   - Décret n°2016-1356 du 11 octobre 2016 - art. 1
   - Arrêté du 22 novembre 2016 - art. (V)
   - Code général des impôts, CGI. - art. 1649 quater G (V)
@@ -39,8 +39,13 @@ _Cité par_:
 
 _Cite_:
 
-  - CGIAN2 371 M à CGIAN2 371 Z
+  - CGIAN2 371 M à 371 Z
+
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 27 octobre 1995
+  - TXT_ASSOCIE: Instruction 1997-08-28 5J-2-97

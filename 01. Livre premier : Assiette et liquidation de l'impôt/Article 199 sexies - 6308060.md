@@ -25,7 +25,7 @@ complété par un alinéa ainsi rédigé :
 Pour les prêts contractés à compter du 18 septembre 1991 pour la construction ou l'acquisition de logements neufs, le montant
 des intérêts à prendre en compte pour le calcul de la réduction est porté à 20 000 F pour une personne célibataire, veuve ou
 divorcée et à 40 000 F pour un couple marié soumis à une imposition commune. Ces montants sont augmentés dans les conditions
-prévues à l'alinéa précédent.
+prévues au quatrième alinéa.
 
 b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté immédiatement à l'habitation principale, à la
 condition que le propriétaire prenne l'engagement de lui donner cette affectation avant le 1er janvier de la troisième année
@@ -50,6 +50,8 @@ d. (Abrogé) (1).
 
 2° a b c d (Périmé à l'exception du troisième alinéa du a transféré sous l'article L172 E du LPF).
 
+**Nota:**
+
 (1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à compter du 1er juillet 1993.
 
 **Liens relatifs à cet article**
@@ -58,11 +60,15 @@ _Cite_:
 
   - CGI 196, 196 A bis, 196 B, 6, 196 à 196 B, 1729
 
-_Modifié par_:
-
-  - Loi n°93-859 1993-06-22 art. 22 IV V Finances rectificative pour 1993 JORF 23 juin 1993
-  - Modifications directes incorporées dans l'édition du 18 août 1993
-
 **Liens**:
 
+  - HISTO: Edition du 27 octobre 1995
   - SPEC_APPLI: Loi n°93-859 1993-06-22 art. 22 V
+
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
+
+_Modifié par_:
+
+  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995

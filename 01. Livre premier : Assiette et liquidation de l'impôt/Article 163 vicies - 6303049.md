@@ -1,8 +1,8 @@
 # Article 163 vicies
 
 Les personnes physiques domiciliées en France au sens de l'article 4 B qui acquièrent, entre le 1er janvier 1991 et le 31
-décembre 1994, des parts de copropriété de navires civils de charge ou de pêche neufs et livrés au cours de la même période,
-bénéficient d'une déduction de leur revenu net global.
+décembre ((1999)) (M), des parts de copropriété de navires civils de charge ou de pêche neufs et livrés au cours de la même
+période, bénéficient d'une déduction de leur revenu net global.
 
 La déduction est égale à 25 p. 100 de la somme des versements effectués pour l'acquisition des parts jusqu'à la livraison des
 navires. Elle est opérée au titre de l'année de la livraison des navires dans la limite annuelle de 25.000 F pour une
@@ -23,23 +23,28 @@ ajoutée au revenu imposable de l'année au cours de laquelle la rupture est int
 Le contribuable qui pratique la déduction ne peut bénéficier pour le même navire des dispositions de l'article 238 bis HA.
 
 Un décret fixe les modalités d'application du présent article et notamment les obligations déclaratives qui incombent aux
-contribuables et aux copropriétés de navires.
+contribuables et aux copropriétés de navires (1).
+
+(M) Modification.
+
+(1) Voir les articles 41 ZQ à 41 ZU de l'annexe III.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 4, 8 quater, 238 bis HA
+  - CGI 4 B, 8 quater, 238 bis HA
+  - CGIAN3 41 ZQ à 41 ZU
   - Loi n°66-420 1966-06-18
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+
+_Modifié par_:
+
+  - Loi n°94-1162 du 29 décembre 1994 - art. 72 () JORF 30 décembre 1994
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 163 unvicies (P)
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
-
-_Créé par_:
-
-  - Loi - art. 105 () JORF 30 décembre 1990
