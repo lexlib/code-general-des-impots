@@ -14,9 +14,7 @@ deuxième alinéa du I de l'article 234 undecies et perçues au cours de l'anné
 
 Pour les personnes morales ou organismes imposés aux taux de l'impôt sur les sociétés prévus à l'article 219 bis, la
 contribution, établie dans les conditions définies au I de l'article 234 duodecies, est déclarée, recouvrée et contrôlée
-comme l'impôt sur les sociétés dont ils sont redevables, par exception aux dispositions des alinéas précédents.
-
-Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2001.
+comme l'impôt sur les sociétés dont ils sont redevables, par exception aux dispositions des premier à troisième alinéas.
 
 **Liens relatifs à cet article**
 
@@ -28,13 +26,13 @@ _Anciens textes_:
 
   - CGI 234 sexies
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 31 mars 2001
+  - Décret n°2002-923 2002-06-06
 
-_Transféré par_:
+_Modifié par_:
 
-  - Loi - art. 12 (P) JORF 31 décembre 1999 en vigueur le 1er janvier 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -42,3 +40,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 381 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 381 quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 58 A (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002

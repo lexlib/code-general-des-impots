@@ -35,7 +35,7 @@ réduction d'impôt afférente aux investissements de cette même année.
 Si le montant de la réduction d'impôt excède l'impôt dû par les contribuables autres que ceux visés au sixième alinéa,
 l'excédent constitue une créance sur l'Etat d'égal montant. Cette créance est utilisée pour le paiement de l'impôt sur le
 revenu dû au titre des années suivantes jusqu'à la cinquième année inclusivement. La fraction non utilisée est remboursée à
-l'expiration de cette période dans la limite d'un montant d'investissement de 10 000 000 F.
+l'expiration de cette période dans la limite d'un montant d'investissement de 1 525 000 euros (1).
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa durée normale d'utilisation si elle est
 inférieure, l'investissement ayant ouvert droit à réduction d'impôt est cédé ou cesse d'être affecté à l'activité pour
@@ -57,20 +57,20 @@ titre de l'année de la cession. Le montant de cette reprise est diminué, le ca
 dans la société ou le groupement, des reprises déjà effectuées en application des dispositions du huitième alinéa.
 
 La réduction d'impôt prévue au présent I s'applique aux investissements productifs mis à la disposition d'une entreprise dans
-le cadre d'un contrat de location si les conditions mentionnées aux 1° à 4° du onzième alinéa du I de l'article 217 undecies
-sont remplies et si 60 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer
-et, le cas échéant, du prix de cession du bien à l'exploitant. Si, dans le délai de cinq ans de la mise à disposition du bien
-loué ou pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au présent alinéa cesse
-d'être respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours de laquelle cet
-événement se réalise.
+le cadre d'un contrat de location si les conditions mentionnées aux quatorzième à dix-septième alinéas du I de l'article 217
+undecies sont remplies et si 60 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution
+du loyer et, le cas échéant, du prix de cession du bien à l'exploitant. Si, dans le délai de cinq ans de la mise à
+disposition du bien loué ou pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au
+présent alinéa cesse d'être respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours
+de laquelle cet événement se réalise.
 
-II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 5 000 000 F
-ne peuvent ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions
-prévues au deuxième alinéa du III de l'article 217 undecies.
+II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 760 000
+euros (1) ne peuvent ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les
+conditions prévues au deuxième alinéa du III de l'article 217 undecies.
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
-par programme et par exercice est supérieur à 2 000 000 F, lorsque le contribuable ne participe pas à l'exploitation au sens
-des dispositions du 1° bis du I de l'article 156.
+par programme et par exercice est supérieur à 300 000 euros (1), lorsque le contribuable ne participe pas à l'exploitation au
+sens des dispositions du 1° bis du I de l'article 156.
 
 2. Ceux des investissements mentionnés au I qui concernent les secteurs des transports, de la navigation de plaisance, de la
 pêche maritime, de la production et de la diffusion audiovisuelles et cinématographiques, des services informatiques ou qui
@@ -83,8 +83,8 @@ III. Le régime issu du présent article est applicable aux investissements réa
 décembre 2006, à l'exception des cas ci-après énumérés, pour lesquels les dispositions de l'article 163 tervicies demeurent
 applicables :
 
-1° Des investissements pour l'agrément ou l'autorisation préalables desquels une demande est parvenue à l'administration
-avant le 1er janvier 2001 ;
+1° Des investissements pour l'agrément ou l'autorisation préalable desquels une demande est parvenue à l'administration avant
+le 1er janvier 2001 ;
 
 2° Des immeubles ayant fait l'objet avant cette date d'une déclaration d'ouverture de chantier à la mairie de la commune ;
 
@@ -93,16 +93,27 @@ versement d'acomptes égaux à 50 % au moins de leur prix.
 
 IV. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I et II du présent article.
 
+(1) Ces dispositions s'appliquent à l'impôt sur le revenu établi au titre de l'année 2001.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 4 B, 8, 239 quater, 239 quater C, 156, 41, 151 octies, 217 undecies, 163 tervicies
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 19 (V) JORF 31 décembre 2000
-  - Loi n°2000-1352 2000-12-30 art. 19 I B, II Finances pour 2001 JORF 31 décembre 2000
+  - Loi - art. 51 (V) JORF 29 décembre 2001
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 51 XI
+  - HISTO: Edition du 31 mars 2002
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
 
 _Cité par_:
 
@@ -168,7 +179,3 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis A (Ab)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quater (V)
   - Livre des procédures fiscales - art. L45 F (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
