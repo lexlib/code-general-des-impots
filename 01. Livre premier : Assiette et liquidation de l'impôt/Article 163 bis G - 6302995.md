@@ -21,7 +21,8 @@ physiques ou par des personnes morales détenues par des personnes physiques. Po
 participations des sociétés de capital-risque, des sociétés de développement régional et des sociétés financières
 d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
 39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas compte des
-participations des fonds communs de placement à risques ou des fonds communs de placement dans l'innovation ;
+participations des fonds communs de placement à risques, des fonds d'investissement de proximité ou des fonds communs de
+placement dans l'innovation ;
 
 3. La société n'a pas été créée dans le cadre d'une concentration, d'une restructuration, d'une extension ou d'une reprise
 d'activités préexistantes, sauf si elle répond aux conditions prévues par le I de l'article 39 quinquies H.
@@ -31,14 +32,13 @@ extraordinaire, sur le rapport du conseil d'administration ou du directoire et s
 comptes. Il est au moins égal, lorsque la société émettrice a procédé dans les six mois précédant l'attribution du bon à une
 augmentation de capital, au prix d'émission des titres alors fixé.
 
-L'assemblée générale extraordinaire peut déléguer au conseil d'administration le soin de fixer la liste des bénéficiaires de
-bons de souscription de parts de créateurs d'entreprise. Dans ce cas, le conseil d'administration indique le nom des
-attributaires desdits bons et le nombre de titres attribués à chacun d'eux.
+L'assemblée générale extraordinaire peut déléguer selon le cas, au conseil d'administration ou au directoire, le soin de
+fixer la liste des bénéficiaires de bons de souscription de parts de créateurs d'entreprise. Dans ce cas, le conseil
+d'administration ou le directoire indique le nom des attributaires desdits bons et le nombre de titres attribués à chacun
+d'eux.
 
 IV. - Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 titulaires des bons et aux sociétés émettrices.
-
-V. (Abrogé à compter du 27 avril 2000).
 
 **Liens relatifs à cet article**
 
@@ -49,18 +49,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
-  - Loi n°2001-420 du 15 mai 2001 - art. 133 (V) JORF 16 mai 2001
-  - Loi n°2001-420 du 15 mai 2001 - art. 134 (V) JORF 16 mai 2001
-  - Loi n°2001-420 du 15 mai 2001 - art. 137 () JORF 16 mai 2001
-  - Loi - art. 54 (V) JORF 29 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 133 IV, art. 134 II
-  - HISTO: Edition du 31 mars 2001
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 1999-04-27 5F-11-99
+  - Loi n°2003-706 du 1 août 2003 - art. 127 () JORF 2 août 2003
+  - Loi n°2003-721 du 1 août 2003 - art. 26 () JORF 5 août 2003
 
 _Cité par_:
 
@@ -68,6 +58,7 @@ _Cité par_:
   - Décret n°2012-131 du 30 janvier 2012 (V)
   - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
   - Décret n°2015-966 du 31 juillet 2015 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 103 (V)
   - Code de commerce - art. L225-44 (V)
   - Code de commerce - art. L225-85 (V)
   - Code général des impôts, CGI. - art. 150-0 D (V)
@@ -79,4 +70,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 V bis (V)
   - Code monétaire et financier - art. L212-17 (V)
   - Code monétaire et financier - art. L221-32-5 (M)
-  - Loi n°2019-486 du 22 mai 2019 - art. 103 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2003
