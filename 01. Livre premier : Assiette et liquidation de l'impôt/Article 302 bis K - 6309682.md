@@ -6,7 +6,7 @@ par les entreprises de transport public aérien. Elle est ajoutée aux prix dema
 La taxe est exigible pour chaque vol commercial. Elle est assise sur le nombre de passagers embarquant en France selon le
 tarif suivant :
 
-15 F par passager embarqué à destination d'un territoire étranger ;
+17 F par passager embarqué à destination d'un territoire étranger ;
 
 10 F par passager embarqué vers d'autres destinations.
 
@@ -49,10 +49,15 @@ jugées comme pour les taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi - art. 55 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
+
 _Cité par_:
 
-  - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
   - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
+  - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
   - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
   - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
   - Arrêté du 22 février 2013 (V)
@@ -72,8 +77,3 @@ _Cité par_:
 _Cite_:
 
   - CGI 1729, 1728
-
-_Modifié par_:
-
-  - Loi - art. 54 () JORF 31 décembre 1991
-  - Modification directe incorporée dans l'édition du 4 juillet 1992
