@@ -27,10 +27,11 @@ II. Les souscriptions en numéraire doivent avoir été effectuées directement 
 sociétés qui remplissent les conditions mentionnées à l'article 44 sexies.
 
 Toutefois, pour l'application du premier alinéa du II de l'article 44 sexies, les participations des sociétés de capital-
-risque, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la
-condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société bénéficiaire de l'apport et
-ces dernières sociétés. De même, ce pourcentage ne tient pas compte des participations des fonds communs de placement à
-risques, des fonds d'investissement de proximité ou des fonds communs de placement dans l'innovation.
+risque, des sociétés unipersonnelles d'investissement à risque, des sociétés de développement régional et des sociétés
+financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12
+de l'article 39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas
+compte des participations des fonds communs de placement à risques, des fonds d'investissement de proximité ou des fonds
+communs de placement dans l'innovation.
 
 La condition mentionnée au III de l'article 44 sexies n'est pas exigée lorsque la société a été créée dans le cadre de la
 reprise d'activités préexistantes répondant aux conditions prévues par le I de l'article 39 quinquies H.
@@ -66,10 +67,6 @@ artisanale au sens du I de l'article 44 sexies ou une activité agricole.
 III. Un décret en Conseil d'Etat précise les modalités d'application du présent article ainsi que les obligations mises à la
 charge des sociétés ou de leurs représentants légaux et des souscripteurs.
 
-**Nota:**
-
-Ces dispositions s'appliquent aux souscriptions effectuées à compter du 1er janvier 2003.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -88,11 +85,10 @@ _Cite_:
   - Code de commerce. - art. L626-2 (M)
   - Code de commerce. - art. L626-6 (M)
 
-**Liens**:
-
-  - HISTO: Edition du 31 août 2003
-
 _Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 26 () JORF 5 août 2003
-  - Loi n°2003-721 du 1 août 2003 - art. 30 (V) JORF 5 août 2003
+  - Loi - art. 91 (V) JORF 31 décembre 2003
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
