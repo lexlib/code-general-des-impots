@@ -6,16 +6,20 @@ règles des articles 150 A à 150 S, pour la partie correspondant à cette péri
 terre agricole qui n'entre pas dans le champ d'application de l'article 691 et qui est exploitée par un agriculteur ayant
 exercé son activité à titre principal pendant au moins cinq ans.
 
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du II de l'article L. 13-15 du code de
+l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application de
+l'article 691.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 150 A à CGI 150 S
-  - CGI 691
+  - CGI 150 A à 150 S, 691
+  - Code de l'expropriation L13-15
 
 _Codifié par_:
 
-  - Décret n°86-1086 1986-10-07
+  - Décret n°91-883 1991-09-09
 
 _Cité par_:
 
@@ -27,9 +31,8 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 24 juin 1991
 
 _Modifié par_:
 
-  - Loi n°76-660 1976-07-19 art. 11 II, III JORF 20 juillet 1976
-  - Loi n°76-660 du 19 juillet 1976 - art. 11 (V) JORF 20 juillet 1976
+  - Loi n°90-1168 1989-12-29 art. 94 Finances pour 1991 JORF 30 décembre 1990
