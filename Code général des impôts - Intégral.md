@@ -1,7 +1,7 @@
 # Code général des impôts  
-Version Consolidée au 1966-07-12
+Version Consolidée au 1967-12-29
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 247 à 1043 A)](#1)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 247 à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 247 à 1043 A)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 247)](#3)
         - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 247)](#4)
@@ -16,14 +16,21 @@ Version Consolidée au 1966-07-12
         - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#13)
           - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#14)
             - [9° : Départements d'outre-mer (art. 1043 A)](#15)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563 à 1628 quater)](#16)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#17)
-      - [IMPOSITIONS COMMUNALES (art. 1563)](#18)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#19)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#20)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#21)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#22)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#23)
+    - [Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 1515)](#16)
+      - [Titre premier : Impositions communales (art. 1515)](#17)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1515)](#18)
+          - [Section VI : Règles d'évaluation de la valeur locative des biens imposables (art. 1515)](#19)
+            - [II : Évaluation des propriétés non bâties (art. 1515)](#20)
+              - [B : Procédure d'évaluation (art. 1515)](#21)
+                - [2 : Règles particulières à la révision quinquennale 1970-1974 (art. 1515)](#22)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563 à 1628 quater)](#23)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#24)
+      - [IMPOSITIONS COMMUNALES (art. 1563)](#25)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#26)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#27)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#28)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#29)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#30)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -114,15 +121,88 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=16></a>
+## Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=16></a>
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=17></a>
+### Titre premier : Impositions communales<a id=17></a>
 
-### IMPOSITIONS COMMUNALES<a id=18></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=18></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=19></a>
+##### Section VI : Règles d'évaluation de la valeur locative des biens imposables<a id=19></a>
 
-##### TAXES OBLIGATOIRES.<a id=20></a>
+##### II : Évaluation des propriétés non bâties<a id=20></a>
+
+##### B : Procédure d'évaluation<a id=21></a>
+
+##### 2 : Règles particulières à la révision quinquennale 1970-1974<a id=22></a>
+
+###### Article 1515
+
+I. – Pour la deuxième révision quinquennale des propriétés non bâties les valeurs locatives sont obtenues par application de
+coefficients d'adaptation à la valeur locative des propriétés, telle qu'elle résulte de la révision précédente.
+
+II. – 1. Les coefficients sont fixés, après avis d'une commission consultative départementale des évaluations foncières des
+propriétés non bâties (1), par la commission départementale des impôts directs et des taxes sur le chiffre d'affaires
+compétente pour fixer les tarifs d'évaluation des propriétés non bâties, par région agricole ou forestière et par groupe ou
+sous groupe de natures de culture ou de propriété.
+
+2. Les décisions prises par la commission départementale sont notifiées à l'administration des impôts et aux maires des
+communes du département. Le maire fait afficher lesdites décisions selon la procédure prévue à l'article 1510. Elles peuvent
+être contestées dans les conditions fixées aux articles 1511 et 1512.
+
+La commission centrale des impôts directs statue définitivement.
+
+III. – Les modalités d'application des I et II sont fixées par décret en Conseil d'Etat, ainsi que la date de référence à
+retenir pour la détermination des coefficients (2).
+
+IV. – La date d'incorporation dans les rôles des nouvelles évaluations est fixée au 1er janvier 1974.
+
+V. – 1. Dans les communes classées en zone de montagne et visées à l'article 1110 du code rural et de la pêche maritime, les
+coefficients d'adaptation à retenir pour actualiser les valeurs locatives cadastrales des prés, pâturages et herbages, lors
+de la révision en cause sont égaux aux coefficients arrêtés par les commissions compétentes pour les régions agricoles
+auxquelles ces communes sont rattachées sous déduction d'une quotité indiciaire égale à 0,30.
+
+2. Les dispositions du 1 ne doivent avoir, en aucun cas, pour effet de ramener la valeur des coefficients concernés au-
+dessous de 1.
+
+3. Les dispositions des 1 et 2 sont applicables de droit dans les départements dont un quart des communes est classé en zone
+de montagne et, sur option du conseil général exercée avant le 31 janvier 1974, dans les autres départements.
+
+(1) La commission consultative départementale avait été instituée en vue de l'élaboration des tarifs d'évaluation de la
+révision quinquennale 1970-1974.
+
+(2) Annexe II, art. 310 ter à 310 vicies.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°67-1172 1967-12-22 art. 4 I JORF 29 décembre 1967
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1510 (V)
+  - Code général des impôts, CGI. - art. 1511 (V)
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 310 ter (VT)
+
+
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=23></a>
+
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=24></a>
+
+### IMPOSITIONS COMMUNALES<a id=25></a>
+
+#### CONTRIBUTIONS INDIRECTES<a id=26></a>
+
+##### TAXES OBLIGATOIRES.<a id=27></a>
 
 ###### Article 1563
 
@@ -175,11 +255,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. A85-1 (P)
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=21></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=28></a>
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=22></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=29></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=23></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=30></a>
 
 ###### Article 1628 quater
 
