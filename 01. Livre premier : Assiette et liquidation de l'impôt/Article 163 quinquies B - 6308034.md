@@ -21,8 +21,8 @@ b. Ou aux fins de constitution du capital de sociétés définies au a, réalis�
 1984 ;
 
 1° bis Pour les souscriptions de parts effectuées à compter du 1er janvier 1990, les fonds doivent avoir 50 p. 100 de leurs
-actifs constitués par des titres remplissant les conditions prévues aux premier et troisième alinéas du I de l'article 1er de
-la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier.
+actifs constitués par des titres remplissant les conditions prévues aux premier et troisième alinéas du I de l'article 1er
+modifié de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier.
 
 Toutefois, jusqu'au 31 décembre 1992, l'exonération s'applique si toute augmentation de l'actif des fonds est investie pour
 50 p. 100 au moins en titres visés au premier alinéa du I de l'article 1er de la loi précitée.
@@ -38,16 +38,14 @@ des titres.
 III. Les sommes ou valeurs qui ont été exonérées d'impôt sur le revenu en vertu du I sont ajoutées au revenu imposable de
 l'année au cours de laquelle le fonds ou le contribuable cesse de remplir les conditions fixées aux I et II.
 
-((Toutefois, l'exonération est maintenue en cas de cession des parts par le contribuable lorsque lui-même ou l'un des époux
+Toutefois, l'exonération est maintenue en cas de cession des parts par le contribuable lorsque lui-même ou l'un des époux
 soumis à une imposition commune se trouve dans l'un des cas suivants : invalidité correspondant au classement dans la
 deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite
-ou licenciement)) (M).
+ou licenciement.
 
 IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds mentionnés
 au titre II bis de la loi n° 79-594 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de ceux
 remplissant les conditions prévues au II 2°.
-
-(M) Modification, édition 1994.
 
 (1) Annexe III, art. 41 W à 41 X. Voir également Annexe III, art. 39 quater, 39 quinquies, 41 sexdecies G, 280 A et livre des
 procédures fiscales, art. R 87-1.
@@ -57,20 +55,21 @@ procédures fiscales, art. R 87-1.
 _Cite_:
 
   - CGI 34
-  - CGI Livre des procédures fiscales R87-1
   - CGIAN3 41 W à 41 X, 39 quater, 39 quinquies, 41 sexdecies G, 280 A
   - Loi n°79-594 1979-07-13
   - Loi n°83-1 1983-01-03 art. 23
   - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
+  - Livre des procédures fiscales - art. R87-1 (M)
   - Code de la sécurité sociale. - art. L341-4 (V)
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
 
 _Modifié par_:
 
-  - Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
+  - Loi - art. 14 () JORF 31 décembre 1995
+  - Loi n°95-1347 1995-12-30 art. 14 B I, II Finances pour 1996 JORF 31 décembre 1995
+
+_Codifié par_:
+
+  - Décret n°96-556 1996-06-21
 
 _Cité par_:
 
@@ -107,4 +106,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
+  - HISTO: Edition du 12 mai 1996
