@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-06-19
+Version Consolidée au 1987-07-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -128,7 +128,7 @@ Version Consolidée au 1987-06-19
                 - [2 bis : Retenue à la source de l'impôt sur le revenu. (art. 119 bis)](#125)
                 - [4 : Revenus des créances, dépôts et cautionnements. (art. 124 B)](#126)
                 - [4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation. (art. 125-0 A)](#127)
-                - [4 ter : Prélèvement sur les produits de placement à revenu fixe. (art. 125 A)](#128)
+                - [4 ter : Prélèvement sur les produits de placement à revenu fixe. (art. 125 A à 125 C)](#128)
                 - [5 : Exonérations et régimes spéciaux (art. 137 bis à 146)](#129)
                   - [Fonds commun de placement. (art. 137 bis)](#130)
                   - [Sociétés mères. (art. 146)](#131)
@@ -163,7 +163,7 @@ Version Consolidée au 1987-06-19
               - [1° : Imputation des retenues à la source et crédits d'impôt (art. 199 quater A à 199 ter A)](#160)
               - [Imputation des retenues à la source et crédits d'impôt. (art. 199 ter)](#161)
               - [Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions. (art. 199 quinquies A à 199 quinquies G)](#162)
-              - [Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale. (art. 199 sexies A à 199 sexies C)](#163)
+              - [Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale. (art. 199 sexies à 199 sexies C)](#163)
               - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances (art. 199 septies B)](#164)
               - [Réduction d'impôt accordée au titre de certaines primes d'assurances. (art. 199 septies A)](#165)
               - [Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux. (art. 199 octies à 199 octies A)](#166)
@@ -1008,8 +1008,8 @@ Version Consolidée au 1987-06-19
             - [III : Plafonnement de la taxe professionnelle en 1979. (art. 1647 B bis à 1647 B ter)](#1005)
             - [IV : Plafonnement en fonction de la valeur ajoutée (art. 1647 B quinquies à 1647 B septies)](#1006)
         - [Chapitre II ter : Cotisation minimum de la taxe professionnelle. (art. 1647 D)](#1007)
-        - [Chapitre III : Fonds de péréquation de la taxe professionnelle (art. 1648 B à 1648 B bis)](#1008)
-          - [Section II : Fonds national de péréquation de la taxe professionnelle. (art. 1648 B à 1648 B bis)](#1009)
+        - [Chapitre III : Fonds de péréquation de la taxe professionnelle (art. 1648 A bis à 1648 B bis)](#1008)
+          - [Section II : Fonds national de péréquation de la taxe professionnelle. (art. 1648 A bis à 1648 B bis)](#1009)
         - [Chapitre IV : Départements d'outre-mer (art. 1649)](#1010)
     - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 1649 A à 1656)](#1011)
       - [Titre premier : Assiette et contrôle de l'impôt (art. 1649 A à 1649 decies)](#1012)
@@ -1032,124 +1032,127 @@ Version Consolidée au 1987-06-19
       - [Titre II : Dispositions diverses (art. 1650 à 1656)](#1029)
         - [Chapitre premier : Commissions administratives des impôts et comité de l'abus de droit fiscal (art. 1650 à 1653 C)](#1030)
           - [I : Commission communale des impôts directs (art. 1650)](#1031)
-          - [III : Commissions centrales des impôts directs (art. 1652 à 1652 bis)](#1032)
-            - [a : (art. 1652)](#1033)
-            - [b : Évaluations foncières (art. 1652 bis)](#1034)
-          - [IV : Dispositions communes aux commissions visées aux articles 1650 à 1652 bis (art. 1653)](#1035)
-          - [V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III) (art. 1653 B)](#1036)
-          - [VI : Comité de l'abus de droit fiscal (art. 1653 C)](#1037)
-        - [Chapitre II : Régime de certains organismes et sociétés (art. 1654 à 1655 ter)](#1038)
-          - [I : Établissements publics et autres organismes (art. 1654)](#1039)
-          - [II bis : Coopératives d'administration ou d'entreprise (art. 1655 A)](#1040)
-          - [III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées. (art. 1655 bis)](#1041)
-          - [IV : Sociétés immobilières de copropriété (art. 1655 ter)](#1042)
-        - [Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis (art. 1656)](#1043)
-  - [Livre II : Recouvrement de l'impôt (art. 1657 à 1965 A)](#1044)
-    - [Chapitre premier : Paiement de l'impôt (art. 1657 à 1724 quater)](#1045)
-      - [Section I : Impôts directs et taxes assimilées (art. 1657 à 1691)](#1046)
-        - [I : Rôles et avis d'imposition (art. 1657 à 1660)](#1047)
-          - [1 : Établissement et mise en recouvrement des rôles (art. 1657 à 1659 A)](#1048)
-          - [2 : Rôles auxiliaires (art. 1660)](#1049)
-        - [II : Exigibilité de l'impôt (art. 1663 A à 1679 quinquies)](#1050)
-          - [1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités (art. 1663 A à 1665)](#1051)
-          - [3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France (art. 1671 A)](#1052)
-          - [4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières (art. 1672 à 1678 quater)](#1053)
-            - [a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations (art. 1672 à 1673 bis)](#1054)
-            - [b : Retenue à la source afférente aux intérêts des bons de caisse (art. 1678 bis)](#1055)
-            - [Prélèvement sur les produits de placement à revenu fixe. (art. 1678 quater)](#1056)
-          - [5 : Taxe d'apprentissage (art. 1678 quinquies à 1678 sexies)](#1057)
-          - [6 : Taxe sur les salaires (art. 1679 à 1679 bis)](#1058)
-          - [7 bis : Participation des employeurs au développement de la formation professionnelle continue (art. 1679 bis B)](#1059)
-          - [8 : Prélèvement à la charge des sociétés (art. 1679 ter)](#1060)
-          - [10 : Taxe professionnelle (art. 1679 quinquies)](#1061)
-        - [III : Paiement de l'impôt (art. 1680 à 1681 ter)](#1062)
-          - [1 : Dispositions générales (art. 1680 à 1681)](#1063)
-          - [2 : Paiement mensuel de l'impôt sur le revenu (art. 1681 A à 1681 E)](#1064)
-          - [4 : Paiement de la taxe d'habitation, des taxes foncières et de la contribution à l'audiovisuel public due par les particuliers (art. 1681 quater à 1681 ter)](#1065)
-        - [IV : Obligations des tiers (art. 1682 à 1691)](#1066)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1692 à 1697)](#1067)
-        - [I : Régime général (art. 1692)](#1068)
-        - [II : Régime spécial des acomptes provisionnels (art. 1693)](#1069)
-        - [III : Régime spécial du forfait. (art. 1694)](#1070)
-        - [III bis : Régime simplifié (art. 1694 bis)](#1071)
-        - [IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers. (art. 1695)](#1072)
-        - [V : Modalités d'application (art. 1696 à 1697)](#1073)
-      - [Section III : Contributions indirectes (art. 1698 à 1700)](#1074)
-      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1701 à 1723 terdecies)](#1075)
-        - [I : Paiement des droits (art. 1701 à 1702 bis)](#1076)
-        - [II : Obligations des agents (art. 1703 à 1704)](#1077)
-        - [III : Obligation au paiement (art. 1705 à 1710)](#1078)
-        - [IV : Contribution au paiement (art. 1711 à 1712)](#1079)
-        - [V : Paiement en valeurs du Trésor ou en créances sur l'État (art. 1715 à 1716)](#1080)
-        - [V bis : Paiement par remise d'oeuvres d'art. (art. 1716 bis)](#1081)
-        - [VI : Paiement fractionné ou différé des droits (art. 1717 à 1722 ter)](#1082)
-        - [VII : Modes particuliers de perception des droits (art. 1723 ter)](#1083)
-        - [VII A : Droits de timbre (art. 1723 ter-0 A)](#1084)
-        - [VIII : Taxe locale d'équipement (art. 1723 quinquies à 1723 sexies)](#1085)
-        - [IX : Versement pour dépassement du plafond légal de densité (1) (art. 1723 decies à 1723 terdecies)](#1086)
-      - [Section V : Dispositions communes (art. 1724 à 1724 quater)](#1087)
-    - [Chapitre II : Pénalités (art. 1725 à 1840 T ter)](#1088)
-      - [Section I : Dispositions communes (art. 1725 à 1756 sexies)](#1089)
-        - [A : Sanctions fiscales. (art. 1725 à 1740 ter)](#1090)
-        - [B : Sanctions fiscales (art. 1731)](#1091)
-          - [3 : Retard de paiement des impôts (art. 1731)](#1092)
-            - [b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts (art. 1731)](#1093)
-        - [B : Sanctions pénales. (art. 1741 A à 1753 bis A)](#1094)
-        - [C : Autres sanctions et mesures diverses. (art. 1755 à 1756 sexies)](#1095)
-      - [Section II : Dispositions particulières (art. 1758 bis à 1840 T ter)](#1096)
-        - [A : Impôts directs et taxes assimilées (art. 1758 bis à 1783 B)](#1097)
-          - [1 : Majorations de droits (art. 1758 bis à 1762 A)](#1098)
-            - [(MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT) (art. 1762 A)](#1099)
-          - [2 : Amendes fiscales (art. 1763 à 1770 ter)](#1100)
-          - [3 : Sanctions pénales (art. 1772 à 1783 B)](#1101)
-        - [B : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1784 à 1790)](#1102)
-          - [1 : Sanctions fiscales (art. 1784 à 1788 ter)](#1103)
-          - [3 : Importation (art. 1790)](#1104)
-        - [C : Contributions indirectes (art. 1791 à 1825 F)](#1105)
-          - [1 : Sanctions fiscales (art. 1791 à 1804 B)](#1106)
-          - [2 : Responsabilité des infractions (art. 1805 à 1809)](#1107)
-          - [3 : Sanctions pénales (art. 1810 à 1821)](#1108)
-          - [4 : Autres sanctions et mesures diverses (art. 1822 à 1825 F)](#1109)
-        - [D : Enregistrement et publicité foncière (art. 1826 à 1840 G ter)](#1110)
-          - [1 : Sanctions fiscales (art. 1826 à 1836)](#1111)
-          - [2 : Sanctions pénales (art. 1837 à 1839)](#1112)
-          - [3 : Autres sanctions et mesures diverses (art. 1840 à 1840 G ter)](#1113)
-        - [E : Droits de timbre, autres droits et taxes (art. 1840 H à 1840 T ter)](#1114)
-          - [1 : Sanctions fiscales (art. 1840 H à 1840 N ter)](#1115)
-          - [2 : Sanctions pénales (art. 1840 O à 1840 Q)](#1116)
-          - [3 : Autres sanctions et mesures diverses (art. 1840 R à 1840 T ter)](#1117)
-    - [Chapitre III : Procédures (art. 1849 à 1918)](#1118)
-      - [Section I : Impôts directs et taxes assimilées (art. 1849 à 1851)](#1119)
-      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes (art. 1881 à 1894)](#1120)
-        - [I : Modes de preuve - Constatation des infractions (art. 1881 à 1883)](#1121)
-          - [2 : Mutations (art. 1881 à 1883)](#1122)
-        - [II : Poursuites et instances (art. 1894)](#1123)
-      - [Section V : Dispositions communes (art. 1912 à 1918)](#1124)
-        - [I : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts. (art. 1912)](#1125)
-        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts. (art. 1917)](#1126)
-        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 1918)](#1127)
-    - [Chapitre IV : Sûretés et privilèges (art. 1920 à 1929 ter)](#1128)
-      - [Section I : Impôts directs et taxes assimilées (art. 1920 à 1925 bis)](#1129)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1926)](#1130)
-      - [Section III : Contributions indirectes (art. 1927 à 1928)](#1131)
-      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés (art. 1929)](#1132)
-      - [Section V : Dispositions communes (art. 1929 quater à 1929 ter)](#1133)
-    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1960 à 1965 A)](#1134)
-      - [Section II : Juridiction contentieuse (art. 1960 à 1965 FA)](#1135)
-        - [7 : Dispositions particulières aux impôts directs et taxes assimilées (art. 1960)](#1136)
-        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#1137)
-        - [9 : Dispositions particulières aux contributions indirectes (art. 1965 FA)](#1138)
-      - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis à 1965 A)](#1139)
-  - [RECOUVREMENT DE L'IMPOT (art. 1658 à 1840 W bis)](#1140)
-    - [PAIEMENT DE L'IMPOT (art. 1658 à 1723 ter A)](#1141)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1658 à 1679 quater B)](#1142)
-      - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#1143)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1693 bis)](#1144)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A à 1723 quater)](#1145)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204). (art. 1723 ter A)](#1146)
-    - [PENALITES (art. 1726 à 1840 W bis)](#1147)
-      - [DISPOSITIONS COMMUNES. (art. 1726 à 1756 ter)](#1148)
-      - [DISPOSITIONS PARTICULIERES. (art. 1757 à 1840 W bis)](#1149)
+          - [II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires (art. 1651 F)](#1032)
+          - [III : Commissions centrales des impôts directs (art. 1652 à 1652 bis)](#1033)
+            - [a : (art. 1652)](#1034)
+            - [b : Évaluations foncières (art. 1652 bis)](#1035)
+          - [IV : Dispositions communes aux commissions visées aux articles 1650 à 1652 bis (art. 1653)](#1036)
+          - [V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III) (art. 1653 B)](#1037)
+          - [VI : Comité de l'abus de droit fiscal (art. 1653 C)](#1038)
+        - [Chapitre II : Régime de certains organismes et sociétés (art. 1654 à 1655 ter)](#1039)
+          - [I : Établissements publics et autres organismes (art. 1654)](#1040)
+          - [II bis : Coopératives d'administration ou d'entreprise (art. 1655 A)](#1041)
+          - [III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées. (art. 1655 bis)](#1042)
+          - [IV : Sociétés immobilières de copropriété (art. 1655 ter)](#1043)
+        - [Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis (art. 1656)](#1044)
+  - [Livre II : Recouvrement de l'impôt (art. 1657 à 1965 A)](#1045)
+    - [Chapitre premier : Paiement de l'impôt (art. 1657 à 1724 quater)](#1046)
+      - [Section I : Impôts directs et taxes assimilées (art. 1657 à 1691)](#1047)
+        - [I : Rôles et avis d'imposition (art. 1657 à 1660)](#1048)
+          - [1 : Établissement et mise en recouvrement des rôles (art. 1657 à 1659 A)](#1049)
+          - [2 : Rôles auxiliaires (art. 1660)](#1050)
+        - [II : Exigibilité de l'impôt (art. 1663 A à 1679 quinquies)](#1051)
+          - [1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités (art. 1663 A à 1665)](#1052)
+          - [3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France (art. 1671 A)](#1053)
+          - [4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières (art. 1672 à 1678 quater)](#1054)
+            - [a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations (art. 1672 à 1673 bis)](#1055)
+            - [b : Retenue à la source afférente aux intérêts des bons de caisse (art. 1678 bis)](#1056)
+            - [Prélèvement sur les produits de placement à revenu fixe. (art. 1678 quater)](#1057)
+          - [5 : Taxe d'apprentissage (art. 1678 quinquies à 1678 sexies)](#1058)
+          - [6 : Taxe sur les salaires (art. 1679 à 1679 bis)](#1059)
+          - [7 bis : Participation des employeurs au développement de la formation professionnelle continue (art. 1679 bis B)](#1060)
+          - [8 : Prélèvement à la charge des sociétés (art. 1679 ter)](#1061)
+          - [10 : Taxe professionnelle (art. 1679 quinquies)](#1062)
+        - [III : Paiement de l'impôt (art. 1680 à 1681 ter)](#1063)
+          - [1 : Dispositions générales (art. 1680 à 1681)](#1064)
+          - [2 : Paiement mensuel de l'impôt sur le revenu (art. 1681 A à 1681 E)](#1065)
+          - [4 : Paiement de la taxe d'habitation, des taxes foncières et de la contribution à l'audiovisuel public due par les particuliers (art. 1681 quater à 1681 ter)](#1066)
+        - [IV : Obligations des tiers (art. 1682 à 1691)](#1067)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1692 à 1697)](#1068)
+        - [I : Régime général (art. 1692)](#1069)
+        - [II : Régime spécial des acomptes provisionnels (art. 1693)](#1070)
+        - [II bis : Régime spécial des exploitants agricoles (art. 1693 bis)](#1071)
+        - [III : Régime spécial du forfait. (art. 1694)](#1072)
+        - [III bis : Régime simplifié (art. 1694 bis)](#1073)
+        - [IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers. (art. 1695)](#1074)
+        - [V : Modalités d'application (art. 1696 à 1697)](#1075)
+      - [Section III : Contributions indirectes (art. 1698 à 1700)](#1076)
+      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1701 à 1723 terdecies)](#1077)
+        - [I : Paiement des droits (art. 1701 à 1702 bis)](#1078)
+        - [II : Obligations des agents (art. 1703 à 1704)](#1079)
+        - [III : Obligation au paiement (art. 1705 à 1710)](#1080)
+        - [IV : Contribution au paiement (art. 1711 à 1712)](#1081)
+        - [V : Paiement en valeurs du Trésor ou en créances sur l'État (art. 1715 à 1716)](#1082)
+        - [V bis : Paiement par remise d'oeuvres d'art. (art. 1716 bis)](#1083)
+        - [VI : Paiement fractionné ou différé des droits (art. 1717 à 1722 ter)](#1084)
+        - [VII : Modes particuliers de perception des droits (art. 1723 ter)](#1085)
+        - [VII A : Droits de timbre (art. 1723 ter-0 A)](#1086)
+        - [VII bis : Taxe sur les défrichements. (art. 1723 ter A)](#1087)
+        - [VIII : Taxe locale d'équipement (art. 1723 quater à 1723 sexies)](#1088)
+        - [IX : Versement pour dépassement du plafond légal de densité (1) (art. 1723 decies à 1723 terdecies)](#1089)
+      - [Section V : Dispositions communes (art. 1724 à 1724 quater)](#1090)
+    - [Chapitre II : Pénalités (art. 1725 à 1840 T ter)](#1091)
+      - [Section I : Dispositions communes (art. 1725 à 1756 ter)](#1092)
+        - [A : Sanctions fiscales. (art. 1725 à 1740 ter)](#1093)
+        - [B : Sanctions fiscales (art. 1731)](#1094)
+          - [3 : Retard de paiement des impôts (art. 1731)](#1095)
+            - [b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts (art. 1731)](#1096)
+        - [B : Sanctions pénales. (art. 1741 à 1753 bis A)](#1097)
+        - [C : Autres sanctions et mesures diverses. (art. 1755 à 1756 ter)](#1098)
+      - [Section II : Dispositions particulières (art. 1757 à 1840 T ter)](#1099)
+        - [A : Impôts directs et taxes assimilées (art. 1757 à 1783 bis A)](#1100)
+          - [1 : Majorations de droits (art. 1757 à 1762 A)](#1101)
+            - [(MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT) (art. 1762 A)](#1102)
+          - [2 : Amendes fiscales (art. 1763 à 1770 ter)](#1103)
+          - [3 : Sanctions pénales (art. 1771 à 1783 B)](#1104)
+          - [4 : Autres sanctions et mesures diverses (art. 1783 bis A)](#1105)
+        - [B : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1784 à 1790)](#1106)
+          - [1 : Sanctions fiscales (art. 1784 à 1788 ter)](#1107)
+          - [2 : Sanctions pénales (art. 1789)](#1108)
+          - [3 : Importation (art. 1790)](#1109)
+        - [C : Contributions indirectes (art. 1791 à 1825 F)](#1110)
+          - [1 : Sanctions fiscales (art. 1791 à 1804 B)](#1111)
+          - [2 : Responsabilité des infractions (art. 1805 à 1809)](#1112)
+          - [3 : Sanctions pénales (art. 1810 à 1821)](#1113)
+          - [4 : Autres sanctions et mesures diverses (art. 1822 à 1825 F)](#1114)
+        - [D : Enregistrement et publicité foncière (art. 1826 à 1840 G ter)](#1115)
+          - [1 : Sanctions fiscales (art. 1826 à 1836)](#1116)
+          - [2 : Sanctions pénales (art. 1837 à 1839)](#1117)
+          - [3 : Autres sanctions et mesures diverses (art. 1840 à 1840 G ter)](#1118)
+        - [E : Droits de timbre, autres droits et taxes (art. 1840 H à 1840 T ter)](#1119)
+          - [1 : Sanctions fiscales (art. 1840 H à 1840 N ter)](#1120)
+          - [2 : Sanctions pénales (art. 1840 O à 1840 Q)](#1121)
+          - [3 : Autres sanctions et mesures diverses (art. 1840 R à 1840 T ter)](#1122)
+    - [Chapitre III : Procédures (art. 1849 à 1918)](#1123)
+      - [Section I : Impôts directs et taxes assimilées (art. 1849 à 1851)](#1124)
+      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes (art. 1881 à 1894)](#1125)
+        - [I : Modes de preuve - Constatation des infractions (art. 1881 à 1883)](#1126)
+          - [2 : Mutations (art. 1881 à 1883)](#1127)
+        - [II : Poursuites et instances (art. 1894)](#1128)
+      - [Section V : Dispositions communes (art. 1912 à 1918)](#1129)
+        - [I : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts. (art. 1912)](#1130)
+        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts. (art. 1917)](#1131)
+        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 1918)](#1132)
+    - [Chapitre IV : Sûretés et privilèges (art. 1920 à 1929 ter)](#1133)
+      - [Section I : Impôts directs et taxes assimilées (art. 1920 à 1925 bis)](#1134)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1926)](#1135)
+      - [Section III : Contributions indirectes (art. 1927 à 1928)](#1136)
+      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés (art. 1929)](#1137)
+      - [Section V : Dispositions communes (art. 1929 quater à 1929 ter)](#1138)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1960 à 1965 A)](#1139)
+      - [Section II : Juridiction contentieuse (art. 1960 à 1965 FA)](#1140)
+        - [7 : Dispositions particulières aux impôts directs et taxes assimilées (art. 1960)](#1141)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#1142)
+        - [9 : Dispositions particulières aux contributions indirectes (art. 1965 FA)](#1143)
+      - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis à 1965 A)](#1144)
+  - [RECOUVREMENT DE L'IMPOT (art. 1658 à 1840 W bis)](#1145)
+    - [PAIEMENT DE L'IMPOT (art. 1658 à 1716 A)](#1146)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1658 à 1679 quater B)](#1147)
+      - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#1148)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A)](#1149)
+    - [PENALITES (art. 1731 A à 1840 W bis)](#1150)
+      - [DISPOSITIONS COMMUNES. (art. 1731 A à 1739)](#1151)
+      - [DISPOSITIONS PARTICULIERES. (art. 1759 bis à 1840 W bis)](#1152)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -2428,6 +2431,104 @@ _Cite_:
   - Code de l'industrie cinématographique - art. 82 (Ab)
 
 
+###### Article 39 ter
+
+1. Pour l'assiette de l'impôt, les entreprises, sociétés et organismes de toute nature qui effectuent la recherche et
+l'exploitation des hydrocarbures liquides ou gazeux dans la France métropolitaine, dans les départements et les territoires
+d'outre-mer [*DOM TOM*], dans les Etats de la Communauté [*économique Européenne, CEE*] ainsi qu'en Algérie, au Maroc, en
+Tunisie, au Togo et au Cameroun sont, à partir des exercices clos en 1952, autorisés à déduire de leur bénéfice net
+d'exploitation, dans la limite de 50 % de ce bénéfice, une "provision pour reconstitution des gisements" égale à 27,50 % du
+montant des ventes des produits marchands extraits des gisements qu'ils exploitent. Pour la détermination des résultats des
+exercices clos à compter du 25 septembre 1975, le taux de 27,50 % est ramené à 23,50 %.
+
+Sous réserve des dispositions du 3, les bénéfices affectés à cette provision à la clôture de chaque exercice doivent être
+employés, soit sous la forme d'immobilisations ou de travaux de recherches réalisés pour la mise en valeur des gisements
+d'hydrocarbures dans la métropole et dans ces mêmes pays et territoires, soit à l'acquisition de participations dans les
+sociétés et organismes désignés par arrêté du ministre de l'économie et des finances et du ministre de l'industrie (1), et
+ayant pour objet d'effectuer la recherche et l'exploitation de gisements d'hydrocarbures dans lesdits pays et territoires.
+Toutefois, à compter des exercices clos postérieurement au 24 décembre 1963, ces bénéfices peuvent, après agrément du
+ministre de l'économie et des finances, sur proposition du ministre de l'industrie, et dans les conditions fixées par cet
+agrément, être employés, directement ou par acquisition de participations, dans des pays ou territoires autres que ceux ci-
+dessus désignés.
+
+Les bénéfices affectés à la provision à la clôture d'un exercice doivent être remployés, dans les conditions prévues ci-
+dessus, dans un délai de cinq ans à partir de la date de cette clôture. Toutefois le délai d'emploi des provisions
+constituées au cours d'exercices clos à partir du 31 décembre 1980 est fixé à un an (2).
+
+Si le remploi est effectué dans le délai de cinq ans ou d'un an susvisé, les sommes correspondantes peuvent être transférées
+à un compte de réserve ordinaire assimilé aux réserves constituées par prélèvements sur les soldes bénéficiaires soumis à
+l'impôt.
+
+Dans le cas contraire, les fonds non utilisés sont rapportés au bénéfice imposable de l'exercice au cours duquel a expiré le
+délai de cinq ans ou d'un an ci-dessus défini. L'impôt correspondant à la réintégration des sommes non employées dans le
+délai d'un an est majoré de l'intérêt de retard prévu à l'article 1729.
+
+1 bis a. Les immobilisations, participations financières et créances acquises en emploi de la provision au cours d'exercices
+clos avant le 31 décembre 1980 font l'objet des amortissements et provisions habituels.
+
+b. Les entreprises qui, au cours d'exercices clos à compter du 31 décembre 1980, réalisent des investissements amortissables
+en emploi de la provision pour reconstitution des gisements d'hydrocarbures, doivent rapporter à leurs résultats imposables,
+au même rythme que l'amortissement, une somme égale au montant de ces investissements. Lorsque la provision est employée sous
+une autre forme, la même réintégration est effectuée en une seule fois.
+
+Toutefois, pour les investissements réalisés hors de France [*à l'étranger*] au cours des exercices clos avant le 1er janvier
+1985, la réintégration ne porte que sur 60 % de leur montant. En ce qui concerne les travaux de recherches ou
+d'immobilisations réalisés en France au cours des exercices clos avant le 1er janvier 1995, ou les prises de participations
+effectuées au cours de la même période dans des sociétés ou organismes mentionnés au présent article et ayant pour objet
+exclusif la recherche et l'exploitation de gisements d'hydrocarbures en France, la réintégration ne porte que sur 20 % du
+montant de ces investissements.
+
+Les entreprises imposées selon le régime du bénéfice mondial ou du bénéfice consolidé défini à l'article 209 quinquies
+effectuent la réintégration dans leur résultat d'ensemble.
+
+2. Un décret règle la mise en application du 1 et 1 bis a (3).
+
+3. Pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1976, des arrêtés conjoints du ministre
+de l'économie et des finances et du ministre chargé de l'industrie fixent, de manière à réduire la dépendance énergétique de
+la France, des zones géographiques prioritaires pour le remploi de la provision pour reconstitution de gisements. Si la
+provision est utilisée hors de ces zones, elle ne peut être utilisée qu'au financement de la moitié des dépenses exposées ou
+des immobilisations réalisées.
+
+Les dispositions précédentes ne sont applicables qu'aux dépenses faites sur des permis d'exploration obtenus ou renouvelés
+après le 24 septembre 1975 et à compter de la date d'obtention ou de renouvellement.
+
+Art. 39 ter - (1) Annexe IV, art. 4 A et 4 B.
+
+(2) Les provisions constituées au cours des exercices clos avant le 31 décembre 1980 peuvent être employées jusqu'au 31
+décembre 1981.
+
+(3) Annexe III, art. 10 A à 10 C et 10 D à 10 G.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1729
+  - CGI 209 quinquies
+  - CGIAN3 10 A
+  - CGIAN3 10 B
+  - CGIAN3 10 C
+  - CGIAN3 10 C quinquies
+  - CGIAN3 10 C sexies
+  - CGIAN3 10 D
+  - CGIAN3 10 E
+  - CGIAN3 10 F
+  - CGIAN3 10 G
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 39 ter A (P)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C (P)
+
+_Modifié par_:
+
+  - Loi n°87-5027 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+
 ###### Article 39 ter B
 
 1 A partir des exercices clos en 1972, les entreprises, sociétés et organismes de toute nature qui produisent des substances
@@ -3257,6 +3358,39 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 54 quater
+
+Les entreprises sont tenues de fournir, à l'appui de la déclaration de leurs résultats de chaque exercice, le relevé détaillé
+des catégories de dépenses visées au 5 de l'article 39 (1), lorsqu'elles dépassent un certain montant fixé par arrêté du
+ministre chargé de l'économie et des finances.
+
+(1) Pour les renseignements que doit comporter ce relevé, voir Annexe II, art. 36 et Annexe IV, art. 4 J à 4 L.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: CGI 223 quinquies
+
+_Cite_:
+
+  - CGI 39 5
+  - CGIAN2 36
+  - CGIAN4 4J à 4L
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 II JORF 9 juillet 1987
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1763 (V)
+  - Code général des impôts, CGI. - art. 223 (V)
+  - Code général des impôts, CGI. - art. 223 quinquies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 36 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 4 J (V)
 
 
 ###### Article 54 sexies
@@ -9266,6 +9400,44 @@ _Cité par_:
   - Livre des procédures fiscales - art. L169 A (V)
 
 
+###### Article 125 C
+
+I. Les personnes physiques qui mettent à la disposition de la société dont elles sont associées ou actionnaires des sommes
+portées sur un compte bloqué individuel peuvent, pour l'imposition des intérêts versés au titre de ces sommes, opter pour le
+prélèvement libératoire au taux de 25 % prévu à l'article 125 A sur la partie de ces intérêts rémunérant la fraction de ces
+sommes qui n'excède pas un montant, par associé ou actionnaire, de 200.000 F, et à condition :
+
+a. Qu'elles soient incorporées au capital dans un délai maximum de cinq ans à compter de la date de leur dépôt ; dans les
+douze mois suivant leur dépôt, l'assemblée des associés statuant selon les conditions fixées pour la modification des statuts
+ou, selon le cas, l'assemblée générale extraordinaire des actionnaires, doit se prononcer sur le principe et les modalités de
+l'augmentation de capital qui permettra l'incorporation de ces sommes ;
+
+b. Qu'elles soient indisponibles jusqu'à la date de leur incorporation au capital ;
+
+c. Que les intérêts servis à raison de ce dépôt soient calculés en retenant un taux qui n'excède pas celui prévu au 3° du 1
+l'article 39.
+
+II. Le non-respect des obligations fixées au I entraîne, nonobstant toutes dispositions contraires, l'exigibilité immédiate
+des impôts dont ont été dispensés les associés ou actionnaires et la société sans préjudice de l'intérêt de retard prévu à
+l'article 1727 décompté de la date à laquelle ces impôts auraient dû être acquittés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 125 A
+  - CGI 1727
+  - CGI 39 1 3°
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+
 ##### 5 : Exonérations et régimes spéciaux<a id=129></a>
 
 ##### Fonds commun de placement.<a id=130></a>
@@ -10269,6 +10441,43 @@ _Modifié par_:
 
   - Loi n°82-1126 1982-12-29 art. 66-9 Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
   - Loi n°83-1 1983-01-03 art. 47 JORF 4 janvier 1983
+
+
+###### Article 163 septies
+
+La somme déductible est égale à l'excédent net annuel, apprécié par foyer fiscal, des achats de valeurs mentionnées à
+l'article 163 octies sur les cessions à titre onéreux de ces mêmes valeurs, dans la limite annuelle de 5.000 F par foyer,
+augmentée de 500 F pour chacun des deux premiers enfants à charge et de 1.000 F par enfant à charge à compter du troisième.
+Pour l'année 1978, cet excédent est calculé sur la période du 1er juin au 31 décembre.
+
+Lorsque, au cours d'une des quatre années suivant celle au titre de laquelle la première déduction a été pratiquée, le
+montant des cessions est supérieur à celui des achats, la différence doit être ajoutée par le contribuable à son revenu
+imposable de l'année dans la limite des déductions opérées au titre des quatre années antérieures. Cette différence est
+diminuée, s'il y a lieu, de la partie de l'excédent net qui a dépassé au cours des quatre années précédentes les limites de
+déduction autorisées. Si cette différence n'est pas ajoutée au revenu, le supplément d'impôt exigible est assorti des
+intérêts de retard au taux prévu à l'article 1727.
+
+Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement, d'invalidité correspondant au classement dans
+la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de décès du
+contribuable ou de l'un des époux soumis à une imposition commune.
+
+Pour l'application du présent article, les rachats d'actions de SICAV sont considérés comme des cessions à titre onéreux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20 Décret 98-400 1998-05-22
+
+**Liens**:
+
+  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
+  - HISTO: Edition 15 juillet 1988
+  - HISTO: Edition du 22 avril 1998
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
 
 
 ###### Article 163 sexies
@@ -12423,6 +12632,81 @@ _Codifié par_:
 
 
 ##### Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.<a id=163></a>
+
+###### Article 199 sexies
+
+Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, les dépenses suivantes
+effectuées par un contribuable ouvrent droit à une réduction d'impôt sur le revenu :
+
+1° a. Intérêts afférents aux dix premières annuités des prêts contractés pour la construction, l'acquisition ou les grosses
+réparations des immeubles dont le propriétaire se réserve la jouissance ainsi que les dépenses de ravalement, lesquelles
+doivent être prises en compte sur un seul exercice. Toutefois, lorsque la conclusion du prêt intervient à partir du 1er
+janvier 1984, la réduction d'impôt s'applique aux intérêts afférents aux cinq premières annuités de ces prêts.
+
+Le montant global des intérêts et dépenses à retenir pour le calcul de la réduction d'impôt est limité à 9000 F, cette somme
+était augmentée de 1500 F par personne à la charge du contribuable au sens des articles 196, 196 A bis et 196 B. Ces
+dispositions ne s'appliquent qu'en ce qui concerne les immeubles affectés à l'habitation principale des redevables.
+
+Les montants de 9000 F et 1500 F sont portés respectivement à 1500 F et 2000 F pour les intérêts des prêts conclus et les
+dépenses payées à compter du 1er janvier 1985.
+
+Pour les prêts contractés à compter du 1er juin 1986 [*date, point de départ*] par les personnes citées au second alinéa de
+l'article 6 pour la construction ou l'acquisition de logements neufs, le montant de 15.000 F est porté à 30.000 F. Il est
+augmenté de 2000 F par personne à charge au sens des articles 196 à 196 B. En outre, il est appliqué une majoration
+complémentaire de 500 F pour le deuxième enfant et de 1 000 F par enfant à partir du troisième.
+
+b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté immédiatement à l'habitation principale, à la
+condition que le propriétaire prenne l'engagement de lui donner cette affectation avant le 1er janvier de la troisième année
+qui suit celle de la conclusion du contrat de prêt ou du paiement des dépenses. Le non-respect de cet engagement donne lieu à
+la reprise de la réduction d'impôt dont le contribuable a indûment bénéficié, sans préjudice des sanctions prévues à
+l'article 1729 ;
+
+c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux compris dans des exploitations agricoles et affectés
+à l'habitation des propriétaires exploitants ;
+
+2° a. Dépenses effectuées par un contribuable pour sa résidence principale, qu'il en soit ou non propriétaire, lorsque ces
+dépenses ont pour objet d'améliorer l'isolation thermique ou la mesure et la régulation du chauffage, ou encore de remplacer
+une chaudière dans des conditions permettant une économie de produits pétroliers.
+
+Le montant maximum des dépenses à retenir pour le calcul de la réduction d'impôt est fixé à 8000 F par logement, cette somme
+étant augmentée de 1000 F par personne à la charge du contribuable au sens des articles 196, 196 A bis et 196 B ; ces
+montants sont portés respectivement à 12.000 F et 2000 F pour les dépenses payées à compter du 1er janvier 1985. Pour les
+contribuables qui échelonnent leurs dépenses sur plusieurs années, la réduction d'impôt peut être accordée au titre de
+chacune de ces années sans que le total des dépenses retenues puisse être supérieur au montant qui serait admis en l'absence
+d'échelonnement. Le bénéfice de la réduction d'impôt est réservé aux logements existant au 1er juillet 1981 et aux logements
+ayant fait l'objet avant cette date, soit d'une demande de permis de construire, soit d'une déclaration préalable de travaux.
+Lorsque le bénéficiaire de la réduction d'impôt est remboursé en tout ou partie de ses dépenses par un tiers, dans un délai
+de dix ans, il fait l'objet, au titre de l'année du remboursement, d'une majoration de son impôt sur le revenu égale à 25 %
+de la somme remboursée ;
+
+b. Le régime de la réduction d'impôt visée au a est étendu aux dépenses relatives à l'installation de pompes à chaleur et à
+l'utilisation des énergies nouvelles pour le chauffage des logements quelle que soit leur date de construction ;
+
+c. Les dispositions du a et du b s'appliquent aux dépenses réalisées du 1er janvier 1982 au 31 décembre 1986. La liste des
+travaux et matériels ouvrant droit à réduction d'impôt est fixée par arrêté ministériel (1) ;
+
+d. Les dispositions du 1°-b sont étendues aux dépenses visées aux a à c ci-dessus.
+
+(1) Annexe IV, art. 17 H à 17 L.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1729
+  - CGI 196 à CGI 196 B
+  - CGI 6
+  - CGI 8
+  - CGIAN4 17 H à CGIAN4 17 L
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
 
 ###### Article 199 sexies A
 
@@ -15001,6 +15285,32 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 206 (V)
   - Code général des impôts, CGI. - art. 39 (V)
+
+
+###### Article 223 quinquies
+
+Lorsqu'il y a lieu à application des dispositions du quatrième alinéa du 5 de l'article 39, les chiffres globaux,
+correspondant à chacune des catégories de dépenses visées audit article et qui doivent faire l'objet du relevé prévu à
+l'article 54 quater, qui est afférent à l'exercice en cause, sont communiqués à la plus proche assemblée générale des
+actionnaires sous la responsabilité des commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 39, 54 quater
+
+**Liens**:
+
+  - HISTO: Edition du 10 août 1987
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 I, II JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
 
 
 ###### Article 223 quinquies A
@@ -50201,6 +50511,57 @@ _Cité par_:
 
 ##### Section II : Fonds national de péréquation de la taxe professionnelle.<a id=1009></a>
 
+###### Article 1648 A bis
+
+I. Il est institué un fonds national de péréquation de la taxe professionnelle dont la gestion est confiée au comité des
+finances locales institué par l'article L234-20 du code des communes.
+
+II. Ce fonds dispose des ressources suivantes :
+
+1° Le produit de la cotisation de péréquation de la taxe professionnelle prévue à l'article 1648 D ;
+
+A compter de 1984, cette dotation évolue chaque année comme l'indice de progression du produit intérieur brut total en
+valeur.
+
+L'indice auquel il est fait référence dans le présent article est celui qui est estimé dans la projection économique annexée
+à la loi de finances.
+
+La dotation de l'Etat ne peut excéder, après déduction des compensations prévues aux mêmes articles, le double du produit de
+la cotisation de péréquation de la taxe professionnelle ;
+
+2° Une dotation annuelle versée par l'Etat. A compter de 1988, cette dotation évolue chaque année comme l'indice de variation
+des recettes fiscales de l'Etat, nettes des remboursements et dégrèvements et des prélèvements sur recettes, tel que cet
+indice résulte des évaluations de la loi de finances initiale, corrigé le cas échéant de l'incidence d'éventuels transferts
+de recettes liés à des transferts de compétences aux collectivités locales et territoriales, à d'autres personnes morales
+publiques ainsi qu'aux communautés européennes. Elle ne peut excéder le double du produit de la cotisation de péréquation de
+la taxe professionnelle ;    3° Le produit des intérêts de retard et majorations appliqués en matière de taxe professionnelle
+en vertu de l'article 1729 et encaissés par le Trésor.
+
+III. Les ressources du fonds national de péréquation de la taxe professionnelle sont réparties conformément aux dispositions
+du paragraphe II de l'article 1648 B. .
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1648 B II
+  - CGI 1648 D
+  - CGI 1729
+  - CODE DES COMMUNES. - art. L234-20 (M)
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
+
+
 ###### Article 1648 B
 
 I. (Transféré au 1648 A bis-I).
@@ -51222,9 +51583,43 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Commissions centrales des impôts directs<a id=1032></a>
+##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires<a id=1032></a>
 
-##### a :<a id=1033></a>
+###### Article 1651 F
+
+Lorsqu'elle est saisie en application du premier alinéa de l'article L 76 du livre des procédures fiscales, la commission
+départementale des impôts directs et des taxes sur le chiffre d'affaires comprend [*composition, désignation*] , outre le
+président, deux représentant des contribuables, choisis par le président parmi ceux visés aux trois premiers alinéas de
+l'article 1651 A et à l'article 1651 B, et un représentant de l'administration.
+
+Pour des motifs tirés de la protection de sa vie privée, le contribuable peut demander la saisine de la commission d'un autre
+département. Ce département est choisi par le président du tribunal administratif dans le ressort de ce tribunal.
+
+**Nota:**
+
+[*NOTA : Pour la période comprise entre la publication de la présente loi et le 1er janvier 1988, les représentants des
+contribuables au sein de la commission sont choisis par le président parmi les personnes déjà désignées au 1er janvier 1987
+en vertu de l'article 1651 du code général des impôts alors en vigueur.*]
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1651 A à CGI 1651 B
+  - CGI L76
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°87-502 1987-07-08 art. 1 II
+
+_Créé par_:
+
+  - Loi n°87-502 1987-07-08 art. 1 JORF 9 juillet 1987
+
+
+##### III : Commissions centrales des impôts directs<a id=1033></a>
+
+##### a :<a id=1034></a>
 
 ###### Article 1652
 
@@ -51276,7 +51671,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L2 (Ab)
 
 
-##### b : Évaluations foncières<a id=1034></a>
+##### b : Évaluations foncières<a id=1035></a>
 
 ###### Article 1652 bis
 
@@ -51322,7 +51717,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 septdecies (VT)
 
 
-##### IV : Dispositions communes aux commissions visées aux articles 1650 à 1652 bis<a id=1035></a>
+##### IV : Dispositions communes aux commissions visées aux articles 1650 à 1652 bis<a id=1036></a>
 
 ###### Article 1653
 
@@ -51339,7 +51734,7 @@ _Cite_:
   - CGIAN3 345 à 348
 
 
-##### V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III)<a id=1036></a>
+##### V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III)<a id=1037></a>
 
 ###### Article 1653 B
 
@@ -51359,7 +51754,7 @@ _Cite_:
   - CGIAN3 349 à 350 C
 
 
-##### VI : Comité de l'abus de droit fiscal<a id=1037></a>
+##### VI : Comité de l'abus de droit fiscal<a id=1038></a>
 
 ###### Article 1653 C
 
@@ -51397,9 +51792,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L64 (M)
 
 
-#### Chapitre II : Régime de certains organismes et sociétés<a id=1038></a>
+#### Chapitre II : Régime de certains organismes et sociétés<a id=1039></a>
 
-##### I : Établissements publics et autres organismes<a id=1039></a>
+##### I : Établissements publics et autres organismes<a id=1040></a>
 
 ###### Article 1654
 
@@ -51448,7 +51843,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982, en vigueur le 1er janvier 1983
 
 
-##### II bis : Coopératives d'administration ou d'entreprise<a id=1040></a>
+##### II bis : Coopératives d'administration ou d'entreprise<a id=1041></a>
 
 ###### Article 1655 A
 
@@ -51458,7 +51853,7 @@ assujettie aux mêmes impositions que celles dont sont redevables les entreprise
 
 
 
-##### III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées.<a id=1041></a>
+##### III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées.<a id=1042></a>
 
 ###### Article 1655 bis
 
@@ -51544,7 +51939,7 @@ _Modifié par_:
   - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
 
 
-##### IV : Sociétés immobilières de copropriété<a id=1042></a>
+##### IV : Sociétés immobilières de copropriété<a id=1043></a>
 
 ###### Article 1655 ter
 
@@ -51605,7 +52000,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis<a id=1043></a>
+#### Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis<a id=1044></a>
 
 ###### Article 1656
 
@@ -51627,15 +52022,15 @@ _Cite_:
   - CGIAN4 121 Z bis
 
 
-# Livre II : Recouvrement de l'impôt<a id=1044></a>
+# Livre II : Recouvrement de l'impôt<a id=1045></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=1045></a>
+## Chapitre premier : Paiement de l'impôt<a id=1046></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=1046></a>
+### Section I : Impôts directs et taxes assimilées<a id=1047></a>
 
-#### I : Rôles et avis d'imposition<a id=1047></a>
+#### I : Rôles et avis d'imposition<a id=1048></a>
 
-##### 1 : Établissement et mise en recouvrement des rôles<a id=1048></a>
+##### 1 : Établissement et mise en recouvrement des rôles<a id=1049></a>
 
 ###### Article 1657
 
@@ -51717,7 +52112,7 @@ publics et organismes divers peuvent être mis en recouvrement dans le même dé
 
 
 
-##### 2 : Rôles auxiliaires<a id=1049></a>
+##### 2 : Rôles auxiliaires<a id=1050></a>
 
 ###### Article 1660
 
@@ -51741,9 +52136,9 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 25 () JORF 27 mars 2004
 
 
-#### II : Exigibilité de l'impôt<a id=1050></a>
+#### II : Exigibilité de l'impôt<a id=1051></a>
 
-##### 1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités<a id=1051></a>
+##### 1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités<a id=1052></a>
 
 ###### Article 1663 A
 
@@ -51776,7 +52171,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1664 (VT)
 
 
-##### 3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France<a id=1052></a>
+##### 3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France<a id=1053></a>
 
 ###### Article 1671 A
 
@@ -51798,9 +52193,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1771 (VD)
 
 
-##### 4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières<a id=1053></a>
+##### 4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières<a id=1054></a>
 
-##### a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations<a id=1054></a>
+##### a : Retenue à la source afférente aux revenus des actions et parts et revenus assimilés, dont les bénéficiaires n'ont pas leur domicile réel ou leur siège en France, et aux intérêts et produits des obligations<a id=1055></a>
 
 ###### Article 1672
 
@@ -51901,7 +52296,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 115 quinquies (V)
 
 
-##### b : Retenue à la source afférente aux intérêts des bons de caisse<a id=1055></a>
+##### b : Retenue à la source afférente aux intérêts des bons de caisse<a id=1056></a>
 
 ###### Article 1678 bis
 
@@ -51942,7 +52337,7 @@ _Cité par_:
   - Code monétaire et financier - art. L211-28 (V)
 
 
-##### Prélèvement sur les produits de placement à revenu fixe.<a id=1056></a>
+##### Prélèvement sur les produits de placement à revenu fixe.<a id=1057></a>
 
 ###### Article 1678 quater
 
@@ -51972,7 +52367,7 @@ _Cité par_:
   - Loi n°2005-1719 du 30 décembre 2005 - art. 7 (V)
 
 
-##### 5 : Taxe d'apprentissage<a id=1057></a>
+##### 5 : Taxe d'apprentissage<a id=1058></a>
 
 ###### Article 1678 quinquies
 
@@ -52032,7 +52427,7 @@ _Codifié par_:
   - Décret n°94-899 1994-10-17
 
 
-##### 6 : Taxe sur les salaires<a id=1058></a>
+##### 6 : Taxe sur les salaires<a id=1059></a>
 
 ###### Article 1679
 
@@ -52076,7 +52471,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 
 
-##### 7 bis : Participation des employeurs au développement de la formation professionnelle continue<a id=1059></a>
+##### 7 bis : Participation des employeurs au développement de la formation professionnelle continue<a id=1060></a>
 
 ###### Article 1679 bis B
 
@@ -52131,7 +52526,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L172 A (en partie)
 
 
-##### 8 : Prélèvement à la charge des sociétés<a id=1060></a>
+##### 8 : Prélèvement à la charge des sociétés<a id=1061></a>
 
 ###### Article 1679 ter
 
@@ -52159,7 +52554,7 @@ _Abrogé par_:
   - Loi - art. 93 (V) JORF 31 décembre 2003
 
 
-##### 10 : Taxe professionnelle<a id=1061></a>
+##### 10 : Taxe professionnelle<a id=1062></a>
 
 ###### Article 1679 quinquies
 
@@ -52205,9 +52600,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C sexies (VD)
 
 
-#### III : Paiement de l'impôt<a id=1062></a>
+#### III : Paiement de l'impôt<a id=1063></a>
 
-##### 1 : Dispositions générales<a id=1063></a>
+##### 1 : Dispositions générales<a id=1064></a>
 
 ###### Article 1680
 
@@ -52244,7 +52639,7 @@ _Cite_:
 
 
 
-##### 2 : Paiement mensuel de l'impôt sur le revenu<a id=1064></a>
+##### 2 : Paiement mensuel de l'impôt sur le revenu<a id=1065></a>
 
 ###### Article 1681 A
 
@@ -52421,7 +52816,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1681 D (V)
 
 
-##### 4 : Paiement de la taxe d'habitation, des taxes foncières et de la contribution à l'audiovisuel public due par les particuliers<a id=1065></a>
+##### 4 : Paiement de la taxe d'habitation, des taxes foncières et de la contribution à l'audiovisuel public due par les particuliers<a id=1066></a>
 
 ###### Article 1681 quater
 
@@ -52493,7 +52888,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C quater (VD)
 
 
-#### IV : Obligations des tiers<a id=1066></a>
+#### IV : Obligations des tiers<a id=1067></a>
 
 ###### Article 1682
 
@@ -52702,9 +53097,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1777 (V)
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1067></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1068></a>
 
-#### I : Régime général<a id=1068></a>
+#### I : Régime général<a id=1069></a>
 
 ###### Article 1692
 
@@ -52734,7 +53129,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
 
 
-#### II : Régime spécial des acomptes provisionnels<a id=1069></a>
+#### II : Régime spécial des acomptes provisionnels<a id=1070></a>
 
 ###### Article 1693
 
@@ -52758,7 +53153,56 @@ _Cite_:
   - Code général des impôts, CGI. - art. 287 (V)
 
 
-#### III : Régime spécial du forfait.<a id=1070></a>
+#### II bis : Régime spécial des exploitants agricoles<a id=1071></a>
+
+###### Article 1693 bis
+
+I.-Les exploitants agricoles assujettis à la taxe sur la valeur ajoutée acquittent cette taxe par acomptes trimestriels
+égaux, au minimum, au cinquième de l'impôt dû au titre de l'année précédente. Le complément d'impôt éventuellement exigible
+au vu de la déclaration annuelle visée au 1° du I de l'article 298 bis est versé lors du dépôt de celle-ci. S'il estime que
+les acomptes déjà payés au titre de l'année atteignent le montant de l'impôt dont il sera finalement redevable, l'exploitant
+peut surseoir au paiement des acomptes suivants. Si le montant de l'impôt est supérieur de plus de 30 % au montant des
+acomptes versés, l'intérêt de retard et la majoration prévus par l'article 1731 sont applicables.
+
+Toutefois, à condition qu'ils ne bénéficient pas du régime de franchise et de décote prévu à l'article 298 bis A, les
+exploitants agricoles peuvent, sur option irrévocable de leur part, acquitter l'impôt au vu de déclarations trimestrielles
+indiquant d'une part le montant total des opérations réalisées et d'autre part le détail de leurs opérations taxables.
+
+II.-Les nouveaux assujettis sont autorisés, lors de leur première année d'imposition, à acquitter la taxe sur la valeur
+ajoutée par acomptes trimestriels dont ils déterminent eux-mêmes le montant mais dont chacun doit représenter plus de 70 % de
+l'impôt réellement dû pour le trimestre correspondant.
+
+III.-Les exploitants assujettis qui ont adressé la demande prévue au 1 de l'article 298 bis B en vue de bénéficier du régime
+de franchise et de décote sont dispensés du versement des acomptes trimestriels visés au I.
+
+Le cas échéant, l'impôt dû est versé lors du dépôt de la déclaration annuelle visée au 1° du I de l'article 298 bis.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 10 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 septvicies (VD)
+  - Code général des impôts, CGI. - art. 1605 ter (V)
+  - Code général des impôts, CGI. - art. 298 bis (V)
+  - Code général des impôts, CGI. - art. 302 bis MB (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 260 A (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+#### III : Régime spécial du forfait.<a id=1072></a>
 
 ###### Article 1694
 
@@ -52792,7 +53236,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### III bis : Régime simplifié<a id=1071></a>
+#### III bis : Régime simplifié<a id=1073></a>
 
 ###### Article 1694 bis
 
@@ -52819,7 +53263,7 @@ _Modifié par_:
   - Loi n°69-1161 1969-12-24 art. 12 I Finances pour 1970 JORF 27 décembre 1969
 
 
-#### IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers.<a id=1072></a>
+#### IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers.<a id=1074></a>
 
 ###### Article 1695
 
@@ -52852,7 +53296,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### V : Modalités d'application<a id=1073></a>
+#### V : Modalités d'application<a id=1075></a>
 
 ###### Article 1696
 
@@ -52894,7 +53338,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section III : Contributions indirectes<a id=1074></a>
+### Section III : Contributions indirectes<a id=1076></a>
 
 ###### Article 1698
 
@@ -53080,9 +53524,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. L199 (V)
 
 
-### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=1075></a>
+### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=1077></a>
 
-#### I : Paiement des droits<a id=1076></a>
+#### I : Paiement des droits<a id=1078></a>
 
 ###### Article 1701
 
@@ -53144,7 +53588,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1961 ter (V)
 
 
-#### II : Obligations des agents<a id=1077></a>
+#### II : Obligations des agents<a id=1079></a>
 
 ###### Article 1703
 
@@ -53198,7 +53642,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1702 bis (V)
 
 
-#### III : Obligation au paiement<a id=1078></a>
+#### III : Obligation au paiement<a id=1080></a>
 
 ###### Article 1705
 
@@ -53322,7 +53766,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 796 (V)
 
 
-#### IV : Contribution au paiement<a id=1079></a>
+#### IV : Contribution au paiement<a id=1081></a>
 
 ###### Article 1711
 
@@ -53351,7 +53795,7 @@ profitent, lorsque, dans ces divers cas, il n'a pas été stipulé de dispositio
   - TXT_ASSOCIE: Jurisprudence 1997-12-04 7G-6-97
 
 
-#### V : Paiement en valeurs du Trésor ou en créances sur l'État<a id=1080></a>
+#### V : Paiement en valeurs du Trésor ou en créances sur l'État<a id=1082></a>
 
 ###### Article 1715
 
@@ -53396,7 +53840,7 @@ _Cite_:
   - Loi n°48-2389 1948-08-26 art. 1
 
 
-#### V bis : Paiement par remise d'oeuvres d'art.<a id=1081></a>
+#### V bis : Paiement par remise d'oeuvres d'art.<a id=1083></a>
 
 ###### Article 1716 bis
 
@@ -53451,7 +53895,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384-0 A bis (V)
 
 
-#### VI : Paiement fractionné ou différé des droits<a id=1082></a>
+#### VI : Paiement fractionné ou différé des droits<a id=1084></a>
 
 ###### Article 1717
 
@@ -53568,7 +54012,7 @@ _Cite_:
   - Loi n°63-254 1963-03-15
 
 
-#### VII : Modes particuliers de perception des droits<a id=1083></a>
+#### VII : Modes particuliers de perception des droits<a id=1085></a>
 
 ###### Article 1723 ter
 
@@ -53589,7 +54033,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 658 (V)
 
 
-#### VII A : Droits de timbre<a id=1084></a>
+#### VII A : Droits de timbre<a id=1086></a>
 
 ###### Article 1723 ter-0 A
 
@@ -53608,7 +54052,119 @@ _Cite_:
   - Code général des impôts, CGI. - art. 916 A (V)
 
 
-#### VIII : Taxe locale d'équipement<a id=1085></a>
+#### VII bis : Taxe sur les défrichements.<a id=1087></a>
+
+###### Article 1723 ter A
+
+En application des articles L 314-7 et R314-1 du code forestier, la taxe sur les défrichements des bois et forêts mentionnée
+à l'article 1011 est versée au comptable des impôts du lieu de défrichement dans les six mois de la notification au
+redevable. (Ce délai est porté [*durée*] à trois ans lorsque le défrichement autorisé a pour objet d'agrandir ou de créer une
+exploitation agricole dans la limite d'une surface au plus égale à trois fois la surface minimum d'installation fixée en
+application de l'article 188-4 du code rural. Il est fixé à cinq ans lorsque le défrichement a pour objet l'installation de
+cultures temporaires dont la liste est fixé par décret. Lorsque le défrichement est la conséquence de l'exploitation d'une
+substance minérale, le propriétaire s'acquitte de la taxe par tranche annuelle selon un échéancier annèxé à l'autorisation de
+défrichement).
+
+La taxe  peut être restituée dans les conditions prévues à l'article L 314-8 du code précité.
+
+En application des articles L 314-10 à L 314-12 du même code :
+
+1° La taxe sur les défrichements et, éventuellement, l'amende fiscale de 50 % mentionnée à l'article 1840 N quinquies ou
+l'intérêt de retard et la majoration dus en vertu de l'article 1731, sont recouvrées par les comptables de la direction
+générale des impôts dans les conditions fixées au titre IV du livre des procédures fiscales ;
+
+2° le recouvrement de la taxe est garanti par le privilège prévu à l'article 1929-1 et par l'hypothèque légale prévue à
+l'article 1929 ter ;
+
+3° Les réclamations sont recevables jusqu'au 31 décembre de l'année suivant celle du versement de la taxe ou de la
+notification d'un avis de recouvrement [*date limite*] ; les instances sont introduites et jugées comme en matière d'impôts
+directs.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1011
+  - CGI 1731
+  - CGI 1840 N quinquies
+  - CGI 1929 1
+  - CGI 1929 ter
+  - Code forestier - art. L314-10 (Ab)
+  - Code forestier - art. L314-11 (Ab)
+  - Code forestier - art. L314-12 (Ab)
+  - Code forestier - art. L314-7 (M)
+  - Code forestier - art. L314-8 (M)
+  - Code forestier R314-1
+  - Code rural 188-4
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+
+#### VIII : Taxe locale d'équipement<a id=1088></a>
+
+###### Article 1723 quater
+
+I  La taxe locale d'équipement visée à l'article 1585 A est due par le bénéficiaire de l'autorisation de construire.
+
+Elle doit être versée à la recette des impôts de la situation des biens en deux fractions égales.
+
+Le premier versement est exigible à l'expiration d'un délai de dix-huit mois à compter de la date de délivrance du permis de
+construire ou de la date à laquelle l'autorisation de construire est réputée avoir été tacitement accordée. Le second
+versement est exigible à l'expiration d'un délai de trente-six mois à compter de la même date.
+
+Toutefois, la taxe due pour la constrution, par tranches, de logements destinés à l'habitation principale, dans les
+conditions définies par décret en Conseil d'Etat, doit être versée à la recette des impôts en trois versements échelonnés de
+dix-huit mois en dix-huit mois à compter de la date de délivrance du permis de construire ou de la date à laquelle
+l'autorisation de construire est réputée avoir été tacitement accordée.
+
+Les deux premiers versements sont calculés en fonction de la surface hors oeuvre nette autorisée par le permis de construire
+au titre de la première tranche, le dernier versement en fonction de celle autorisée au titre de la seconde tranche.
+
+En cas de modification apportée au permis de construire ou à l'autorisation tacite de construire, le complément de taxe
+éventuellement exigible doit être acquitté dans le délai d'un an à compter de la modification.
+
+II  En cas de construction sans autorisation ou en infraction aux obligations résultant de l'autorisation, la base de la taxe
+ou du complément de taxe éventuellement exigibles est notifiée au service des impôts par le directeur départemental de
+l'équipement ou par le maire.
+
+Le recouvrement de la taxe ou du complément de taxe, augmenté de l'amende fiscale prévue à l'article 1836, est immédiatement
+poursuivi contre le constructeur.
+
+III  A défaut de paiement de la taxe dans les délais impartis au I, le recouvrement de cette taxe et de l'intérêt de retard
+et la majoration prévus à l'article 1731, premier alinéa, est poursuivi par les comptables de la direction générale des
+impôts dans les conditions fixées au titre IV du livre des procédures fiscales. Il en est de même du recouvrement de la taxe
+ou du complément de taxe et de l'amende fiscale dans l'hypothèse visée au II.
+
+IV  Le recouvrement de la taxe est garanti par le privilège prévu à l'article 1929-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1585 A
+  - CGI 1731
+  - CGI 1836
+  - CGI 1929 1
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1599 B (VT)
+  - Code général des impôts, CGI. - art. 1723 septies (VT)
+
 
 ###### Article 1723 quinquies
 
@@ -53670,19 +54226,19 @@ _Abrogé par_:
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 
-#### IX : Versement pour dépassement du plafond légal de densité (1)<a id=1086></a>
+#### IX : Versement pour dépassement du plafond légal de densité (1)<a id=1089></a>
 
 ###### Article 1723 decies
 
-Comme il est dit à l'article L 333-11 du code de l'urbanisme, à défaut de paiement dans les délais impartis, l'indemnité de
-retard prévue au premier alinéa de l'article 1727 est due par le redevable du versement.
+Comme il est dit à l'article L 333-11 du code de l'urbanisme, à défaut de paiement dans les délais impartis, l'intérêt de
+retard et la majoration prévus à l'article 1731 sont dus par le redevable du versement.
 
-Le recouvrement, tant de la créance du Trésor que de l'indemnité de retard, est poursuivi par les comptables de la direction
-générale des impôts dans les conditions fixées au titre IV du livre des procédures fiscales [*art. L 252 à L 283*]. Il est
-garanti par le privilège du Trésor prévu à l'article 1929-1 et, à défaut d'un engagement solidaire contracté dans le délai
-d'un mois à compter de la date de la délivrance de l'autorisation de construire par une ou plusieurs personnes physiques ou
-morales agréées comme caution par le comptable des impôts, par une hypothèque légale portant sur le terrain et sur les
-constructions.
+Le recouvrement, tant de la créance du Trésor que de l'intérêt de retard et de la majoration , est poursuivi par les
+comptables de la direction générale des impôts dans les conditions fixées au titre IV du livre des procédures fiscales. Il
+est garanti par le privilège du Trésor prévu à l'article 1929-1 et, à défaut d'un engagement solidaire contracté dans le
+délai d'un mois à compter de la date de la délivrance de l'autorisation de construire par une ou plusieurs personnes
+physiques ou morales agréées comme caution par le comptable des impôts, par une hypothèque légale portant sur le terrain et
+sur les constructions.
 
 Sont tenus solidairement au versement prévu à l'article L 112-2 du code de l'urbanisme :
 
@@ -53696,7 +54252,7 @@ construction et de l'habitation.
 
 _Cite_:
 
-  - CGI 1727
+  - CGI 1731
   - CGI 1929 1
   - CGIAN4 199
   - CGIAN4 200
@@ -53704,17 +54260,17 @@ _Cite_:
   - CGIAN4 202
   - CGIAN4 203
   - CGIAN4 204
+  - Code de la construction L261-9 à Code de la construction L261-22
   - Code de l'urbanisme - art. L112-2 (M)
   - Code de l'urbanisme - art. L333-11 (Ab)
-  - Code de la construction L261-9 à Code de la construction L261-22
 
 _Modifié par_:
 
-  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
 
 _Codifié par_:
 
-  - Décret n°84-875 1984-10-01
+  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 1723 duodecies
@@ -53885,7 +54441,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### Section V : Dispositions communes<a id=1087></a>
+### Section V : Dispositions communes<a id=1090></a>
 
 ###### Article 1724
 
@@ -53952,11 +54508,11 @@ _Cite_:
   - Code du travail - art. L324-9 (M)
 
 
-## Chapitre II : Pénalités<a id=1088></a>
+## Chapitre II : Pénalités<a id=1091></a>
 
-### Section I : Dispositions communes<a id=1089></a>
+### Section I : Dispositions communes<a id=1092></a>
 
-#### A : Sanctions fiscales.<a id=1090></a>
+#### A : Sanctions fiscales.<a id=1093></a>
 
 ###### Article 1725
 
@@ -53983,6 +54539,506 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 1726
+
+Sauf cas de force majeure, les omissions ou inexactitudes relevées dans les renseignements que doivent comporter les
+documents mentionnés à l'article 1725 ainsi que l'omission totale de ces renseignements donnent lieu à l'application d'une
+amende de 25 F par omission ou inexactitude, avec minimum de 200 F pour chaque document omis, incomplet ou inexact.
+
+L'amende n'est pas encourue si les infractions relevées entraînent l'application de l'une des sanctions prévues aux articles
+1729 et 1827.
+
+L'amende encourue n'est pas appliquée dans le cas prévu à l'article 1725-3.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1725 3
+  - CGI 1729
+  - CGI 1827
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+
+###### Article 1727
+
+Le défaut ou l'insuffisance dans le paiement ou le versement tardif de l'un des impôts, droits, taxes, redevances ou sommes
+établis ou recouvrés par la direction générale des impôts donnent lieu au versement d'un intérêt de retard qui est dû
+indépendamment de toutes sanctions. 
+
+Cet intérêt n'est pas dû lorsque sont applicables les dispositions de l'article 1732 ou les sanctions prévues aux articles
+1791 à 1825 F. 
+
+Le taux de l'intérêt de retard est fixé à 0,75 % par mois. Il s'applique sur le montant des sommes mises à la charge du
+contribuable ou dont le versement a été différé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1632, 1791 à 1825 F
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°92-1476 1992-12-31 art. 40 Finances rectificative pour 1992
+  - HISTO: Edition du 15 juillet 1988
+  - TXT_ASSOCIE: Instruction 2002-06-24 13N-2-02
+
+_Cité par_:
+
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 93 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 94 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 95 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Arrêté du 25 novembre 2010 - art. (Ab)
+  - Arrêté du 12 mars 2013 - art. (V)
+  - Décret n°2016-268 du 4 mars 2016 - art. 3 (VD)
+  - Arrêté du 22 novembre 2016 - art. (V)
+  - Code de la construction et de l'habitation. - art. R452-25-5 (V)
+  - Code des assurances - art. L310-12-4 (VT)
+  - Code des transports - art. R1261-8 (V)
+  - Code général des collectivités territoriales - art. L2224-31 (VT)
+  - Code général des impôts, CGI. - art. 125 C (Ab)
+  - Code général des impôts, CGI. - art. 1456 (V)
+  - Code général des impôts, CGI. - art. 150-0 B quater (V)
+  - Code général des impôts, CGI. - art. 150-0 B ter (V)
+  - Code général des impôts, CGI. - art. 150-0 C (V)
+  - Code général des impôts, CGI. - art. 150-0 D bis (Ab)
+  - Code général des impôts, CGI. - art. 156 (VT)
+  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
+  - Code général des impôts, CGI. - art. 1691 bis (V)
+  - Code général des impôts, CGI. - art. 1693 bis (V)
+  - Code général des impôts, CGI. - art. 1693 quater (V)
+  - Code général des impôts, CGI. - art. 1693 quinquies (VT)
+  - Code général des impôts, CGI. - art. 1693 sexies (V)
+  - Code général des impôts, CGI. - art. 1716 bis (V)
+  - Code général des impôts, CGI. - art. 1723 decies (Ab)
+  - Code général des impôts, CGI. - art. 1723 quater (VT)
+  - Code général des impôts, CGI. - art. 1727-0 A (V)
+  - Code général des impôts, CGI. - art. 1731 A (V)
+  - Code général des impôts, CGI. - art. 1731 A bis (VD)
+  - Code général des impôts, CGI. - art. 1757 (V)
+  - Code général des impôts, CGI. - art. 1759 (V)
+  - Code général des impôts, CGI. - art. 1784 (V)
+  - Code général des impôts, CGI. - art. 1785 (V)
+  - Code général des impôts, CGI. - art. 1840 G ter (V)
+  - Code général des impôts, CGI. - art. 210 E (V)
+  - Code général des impôts, CGI. - art. 214 (V)
+  - Code général des impôts, CGI. - art. 217 decies (V)
+  - Code général des impôts, CGI. - art. 217 octies (V)
+  - Code général des impôts, CGI. - art. 217 terdecies (VT)
+  - Code général des impôts, CGI. - art. 217 undecies (V)
+  - Code général des impôts, CGI. - art. 219 (VT)
+  - Code général des impôts, CGI. - art. 220 septies (P)
+  - Code général des impôts, CGI. - art. 235 ter XA (V)
+  - Code général des impôts, CGI. - art. 235 ter ZCA (Ab)
+  - Code général des impôts, CGI. - art. 235 ter ZD (V)
+  - Code général des impôts, CGI. - art. 237 bis A (V)
+  - Code général des impôts, CGI. - art. 238 sexdecies (V)
+  - Code général des impôts, CGI. - art. 277 A (VD)
+  - Code général des impôts, CGI. - art. 302 bis K (V)
+  - Code général des impôts, CGI. - art. 39 bis A (V)
+  - Code général des impôts, CGI. - art. 39 quaterdecies (V)
+  - Code général des impôts, CGI. - art. 39 ter (P)
+  - Code général des impôts, CGI. - art. 39 ter B (Ab)
+  - Code général des impôts, CGI. - art. 44 septies (V)
+  - Code général des impôts, CGI. - art. 54 sexies (V)
+  - Code général des impôts, CGI. - art. 655 (V)
+  - Code général des impôts, CGI. - art. 72 D (Ab)
+  - Code général des impôts, CGI. - art. 72 D bis (Ab)
+  - Code général des impôts, CGI. - art. 793 bis (V)
+  - Code général des impôts, CGI. - art. 793 quater (V)
+  - Code général des impôts, CGI. - art. 795 A (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 383 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 50 undecies (V)
+  - Code monétaire et financier - art. L612-20 (V)
+  - Livre des procédures fiscales - art. L208 (V)
+  - Livre des procédures fiscales - art. L209 (VD)
+  - Livre des procédures fiscales - art. L247 (V)
+  - Livre des procédures fiscales - art. L62 (V)
+  - Livre des procédures fiscales - art. L62 B (V)
+  - Livre des procédures fiscales - art. L62 C (V)
+
+
+###### Article 1727 A
+
+1. L'intérêt de retard prévu à l'article 1727 est calculé à compter du premier jour du mois suivant celui au cours duquel
+l'impôt devait être acquitté jusqu'au dernier jour du mois du paiement.
+
+Toutefois, en matière d'impôt sur le revenu, le point de départ du calcul de l'intérêt de retard est le 1er juillet de
+l'année suivant celle au titre de laquelle l'imposition est établie.
+
+En cas d'imposition établie dans les conditions fixées aux articles 201 à 204, le point de départ du calcul de l'intérêt de
+retard est le premier jour du quatrième mois suivant celui de l'expiration du délai de déclaration.
+
+2. L'intérêt de retard cesse d'être décompté lorsque les majorations prévues aux articles 1761 et 1762 quater sont
+applicables.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1727
+  - CGI 1761
+  - CGI 1762 quater
+  - CGI 201 à CGI 204
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 1728
+
+1. Lorsqu'une personne physique ou morale ou une association tenue de souscrire une déclaration ou de présenter un acte
+comportant l'indication d'éléments à retenir pour l'assiette ou la liquidation de l'un des impôts, droits, taxes, redevances
+ou sommes établis ou recouvrés par la direction générale des impôts s'abstient de souscrire cette déclaration ou de présenter
+cet acte dans les délais, le montant des droits mis à la charge du contribuable ou résultant de la déclaration ou de l'acte
+déposé tardivement est assorti de l'intérêt de retard visé à l'article 1727 et d'une majoration de 10 p. 100.
+
+2. Le décompte de l'intérêt de retard est arrêté soit au dernier jour du mois de la notification de redressement, soit au
+dernier jour du mois au cours duquel la déclaration ou l'acte a été déposé.
+
+3. La majoration visée au 1 est portée à : 
+
+40 p. 100 lorsque le document n'a pas été déposé dans les trente jours suivant la réception d'une mise en demeure notifiée
+par pli recommandé d'avoir à le produire dans ce délai ; 
+
+80 p. 100 lorsque le document n'a pas été déposé dans les trente jours suivant la réception d'une deuxième mise en demeure
+notifiée dans les mêmes formes que la première.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1727
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 II JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Arrêté du 12 mars 2013 - art. (V)
+  - Code des douanes - art. 266 terdecies (Ab)
+  - Code général des collectivités territoriales - art. L2333-95 (V)
+  - Code général des impôts, CGI. - art. 1595 quater (Ab)
+  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
+  - Code général des impôts, CGI. - art. 1684 (VT)
+  - Code général des impôts, CGI. - art. 1691 bis (V)
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1729 A (V)
+  - Code général des impôts, CGI. - art. 1729 B (V)
+  - Code général des impôts, CGI. - art. 1729-0 A (V)
+  - Code général des impôts, CGI. - art. 1731 bis (VD)
+  - Code général des impôts, CGI. - art. 1740 A bis (V)
+  - Code général des impôts, CGI. - art. 1740 B (V)
+  - Code général des impôts, CGI. - art. 1756 (VT)
+  - Code général des impôts, CGI. - art. 1758 A (V)
+  - Code général des impôts, CGI. - art. 1763 A (V)
+  - Code général des impôts, CGI. - art. 1840 C (M)
+  - Code général des impôts, CGI. - art. 1840 D (V)
+  - Code général des impôts, CGI. - art. 1840 F (V)
+  - Code général des impôts, CGI. - art. 302 bis K (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 93 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
+  - Livre des procédures fiscales - art. L228 (V)
+  - Livre des procédures fiscales - art. L96 G (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 1729
+
+1. Lorsque la déclaration ou l'acte mentionnés à l'article 1728 font apparaître une base d'imposition ou des éléments servant
+à la liquidation de l'impôt insuffisants, inexacts ou incomplets, le montant des droits mis à la charge du contribuable est
+assorti de l'intérêt de retard visé à l'article 1727 et d'une majoration de 40 p. 100 si la mauvaise foi de l'intéressé est
+établie ou de 80 p. 100 s'il s'est rendu coupable de manœuvres frauduleuses ou d'abus de droits au sens de l'article L. 64 du
+livre des procédures fiscales.
+
+2. Le décompte de l'intérêt de retard est arrêté au dernier jour du mois de la notification de redressement ou, en cas
+d'échelonnement des impositions supplémentaires, au dernier jour du mois au cours duquel le rôle doit être mis en
+recouvrement.
+
+3. En cas d'abus de droit, l'intérêt de retard et la majoration sont à la charge de toutes les parties à l'acte ou à la
+convention qui sont solidairement tenues à leur paiement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1728, 1727
+  - Livre des procédures fiscales - art. L64 (M)
+
+_Modifié par_:
+
+  - Loi n°63-1316 1963-12-27 art. 41 I JORF 29 décembre 1963
+  - Loi n°87-502 1987-07-08 art. 2 JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 6 (VT)
+  - Code de commerce - art. L526-1 (V)
+  - Code des douanes - art. 266 terdecies (Ab)
+  - Code général des collectivités territoriales - art. L2333-95 (V)
+  - Code général des impôts, CGI. - art. 1684 (VT)
+  - Code général des impôts, CGI. - art. 1691 bis (V)
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1729 A (V)
+  - Code général des impôts, CGI. - art. 1729 B (V)
+  - Code général des impôts, CGI. - art. 1731 bis (VD)
+  - Code général des impôts, CGI. - art. 1740 A bis (V)
+  - Code général des impôts, CGI. - art. 1740 B (V)
+  - Code général des impôts, CGI. - art. 1754 (V)
+  - Code général des impôts, CGI. - art. 1756 (VT)
+  - Code général des impôts, CGI. - art. 1757 (V)
+  - Code général des impôts, CGI. - art. 1758 A (V)
+  - Code général des impôts, CGI. - art. 1763 A (V)
+  - Code général des impôts, CGI. - art. 1789 (V)
+  - Code général des impôts, CGI. - art. 200 quaterdecies (VD)
+  - Code général des impôts, CGI. - art. 302 bis K (V)
+  - Code général des impôts, CGI. - art. 864 (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 140 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZH (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 50 undecies (V)
+  - Livre des procédures fiscales - art. L228 (V)
+  - Livre des procédures fiscales - art. L250 (VD)
+  - Livre des procédures fiscales - art. L80 E (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+  - TXT_ASSOCIE: Jurisprudence 1998-07-08 13N-1-98
+
+
+###### Article 1730
+
+Dans le cas d'évaluation d'office des bases d'imposition prévue à l'article L. 74 du livre des procédures fiscales, les
+suppléments de droits mis à la charge du contribuable sont assortis, outre l'intérêt de retard visé à l'article 1727 calculé
+dans les conditions définies à l'article 1727 A et au 2 de l'article 1729, d'une majoration de 150 p. 100.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 IV JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 95 (V)
+  - Arrêté du 28 mars 2011 (V)
+  - Code de la sécurité sociale. - art. L136-6 (M)
+  - Code du patrimoine. - art. L524-9 (MMN)
+  - Code général des impôts, CGI. - art. 1663 B (VD)
+  - Code général des impôts, CGI. - art. 1681 A (VT)
+  - Code général des impôts, CGI. - art. 1681 F (V)
+  - Code général des impôts, CGI. - art. 1681 quater A (V)
+  - Code général des impôts, CGI. - art. 1681 ter (VD)
+  - Code général des impôts, CGI. - art. 1724 quinquies (VD)
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1731 (VD)
+  - Code général des impôts, CGI. - art. 1849 (V)
+  - Code général des impôts, CGI. - art. 1912 (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies A (VT)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZH (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 357 G (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 382 C (VD)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 382 D (VT)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 382 E (VD)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C septies (VD)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 383-0 ter (VD)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188 ter (Ab)
+
+_Cite_:
+
+  - CGI 1727
+  - CGI 1727 A
+  - CGI 17299 2
+  - CGI L74
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 1732
+
+Lorsqu'un contribuable fait connaître, par une indication expresse portée sur la déclaration ou l'acte, ou dans une note y
+annexée, les motifs de droit ou de fait pour lesquels il ne mentionne pas certains éléments d'imposition en totalité ou en
+partie, ou donne à ces éléments une qualification qui entraînerait, si elle était fondée, une taxation atténuée, ou fait état
+de déductions qui sont ultérieurement reconnues injustifiées, les redressements opérés à ces titres n'entraînent pas
+l'application de l'intérêt de retard visé à l'article 1727.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1727
+
+_Modifié par_:
+
+  - Loi n°70-601 du 9 juillet 1970 - art. 14 () JORF 10 juillet 1970, Loi 87-502 1987-07-08 art. 2  JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1691 bis (V)
+  - Code général des impôts, CGI. - art. 1731 bis (VD)
+  - Code général des impôts, CGI. - art. 1758 A (V)
+  - Livre des procédures fiscales - art. L228 (V)
+  - Livre des procédures fiscales - art. L45 (V)
+  - Livre des procédures fiscales - art. L80 E (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 1734 bis
+
+Les contribuables qui n'ont pas produit à l'appui de leur déclaration de résultats de l'exercice le tableau des provisions
+prévu en application des dispositions de l'article 53 A ou le relevé détaillé de certaines catégories de dépenses prévu à
+l'article 54 quater ou qui fournissent des renseignements incomplets sont punis d'une amende égale à 5 p. 100 [*pourcentage*]
+des sommes ne figurant pas sur le tableau ou le relevé.
+
+Ce taux est ramené à 1 p. 100 lorsque aucune infraction de même nature n'a été antérieurement commise par le contribuable au
+titre des trois années précédant celle au titre de laquelle l'infraction est commise et que les sommes correspondantes sont
+réellement déductibles.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 53 A
+  - CGI 54 quater
+
+_Créé par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 III JORF 9 juillet 1987
+
+
+###### Article 1735 bis
+
+I. Lorsque l'impôt sur les sociétés est dû sur la totalité des sommes prélevées figurant depuis moins de quatre ans à la
+réserve spéciale visée au I de l'article 209 quater A, il est majoré des intérêts de retard prévus à l'article 1727,
+décomptés à partir de la clôture de l'exercice de réalisation du bénéfice.
+
+II. La majoration prévue au I est également applicable suivant les mêmes modalités lorsque l'obligation de réinvestir définie
+au I de l'article 209 quater B cesse d'être remplie moins de sept ans après la réalisation des bénéfices.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1727
+  - CGI 209 quater A I
+  - CGI 209 quater B I
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 1er janvier 2004
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
+
+
+###### Article 1736
+
+Les amendes, majorations, intérêts de retard prévus aux articles 1725 à 1734, 1740 ter, 1756, 1756 ter, 1763 à 1768, 1768
+bis, 1768 ter, 1770 bis, 1784, 1785 D-III, 1826 à 1836 et 1840 H à 1840 N quater ainsi que les droits en sus sont constatés
+par l'administration fiscale.
+
+Le recouvrement et le contentieux de ces sanctions sont assurés et suivis, dans les délais et selon les règles applicables à
+la catégorie d'impôts qu'ils concernent, contre tous les débiteurs tenus du principal desdits impôts ou déclarés solidaires
+par le présent code pour le paiement des pénalités.
+
+En cas de décès du contrevenant ou s'il s'agit d'une société, en cas de dissolution, les amendes, majorations et intérêts
+dont il s'agit constituent une charge de la succession ou de la liquidation.
+
+**Nota:**
+
+Nota. Les dispositions de l'article 1736 du code général des impôts s'appliquent à la majoration instituée au 2 de l'article
+1695 ter. Elles entrent en vigueur à une date fixée par décret et, au plus tard, le 30 novembre 1992.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1725 à 1734, 1740 ter, 1756, 1756 ter, 1763 à 1768, 1768 bis, 1768 ter, 1770 bis, 1784, 1785 D, 1826 à 1836, 1840 H à 1840 N quater, 1736, 1695 ter
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 33 II III
+
+_Cité par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 10 (V)
+  - Code général des impôts, CGI. - art. 1649 A bis (V)
+  - Code général des impôts, CGI. - art. 1649 A quater (V)
+  - Code général des impôts, CGI. - art. 1649 A ter (V)
+  - Code général des impôts, CGI. - art. 1729-0 A (V)
+  - Code général des impôts, CGI. - art. 1754 (V)
+  - Code général des impôts, CGI. - art. 240 (V)
+  - Code général des impôts, CGI. - art. 990 C (Ab)
 
 
 ###### Article 1737
@@ -54012,6 +55068,43 @@ _Cité par_:
   - Livre des procédures fiscales - art. L80 H (V)
 
 
+###### Article 1740
+
+1. Toute contravention aux dispositions relatives au droit de communication et, notamment, le refus de communication constaté
+par procès-verbal, la déclaration que les livres, contrats ou documents ne sont pas tenus ou leur destruction avant les
+délais prescrits est punie d'une amende de 1 000 F.
+
+Indépendamment de cette amende, les sociétés ou compagnies françaises ou étrangères et tous autres assujettis aux
+vérifications des agents de l'administration, doivent, en cas d'instance, être condamnés à représenter les pièces ou
+documents non communiqués, sous une astreinte de 10 F au minimum par chaque jour de retard. Cette astreinte, non soumise à
+décimes, commence à courir de la date de la signature par les parties ou de la notification du procès-verbal qui est dressé
+pour constater le refus d'exécuter le jugement régulièrement signifié ; elle ne cesse que du jour où il est constaté, au
+moyen d'une mention inscrite par un agent de contrôle sur un des principaux livres de la société ou de l'établissement, que
+l'administration a été mise à même d'obtenir la communication ordonnée.
+
+Le recouvrement de l'amende et de l'astreinte est assuré, les réclamations et les instances sont présentées ou introduites et
+jugées suivant les mêmes règles que celles applicables aux impôts pour l'assiette desquels la communication a été requise.
+
+2. Quiconque aura sciemment omis de fournir les renseignements visés à l'article 1649 quinquies-5 ou aura fourni des
+renseignements inexacts sera passible de l'amende prévue au 1.
+
+3. (Disjoint  Voir code du domaine de l'Etat, art. L 27).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1649 quinquies 5
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 IV JORF 9 juillet 1987
+
+_Nouveaux textes_:
+
+  - Code du domaine de l'Etat - art. L27 (M)
+
+
 ###### Article 1740 quater
 
 Les personnes qui délivrent une facture relative aux travaux visés à l'article 199 sexies C, comportant des mentions fausses
@@ -54031,6 +55124,39 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°85-1007 1985-09-24
+
+
+###### Article 1740 quinquies
+
+Les avantages prévus aux II et III de l'article 83 bis, au III de l'article 160 A, ainsi qu'aux articles 220 quater A, 726 et
+834 bis, ne sont plus applicables à compter de l'année au cours de laquelle l'une des conditions prévues à l'article 220
+quater A cesse d'être satisfaite.
+
+Lorsque le rachat de l'entreprise a été réalisé avec l'accord préalable du ministre chargé des finances conformément à
+l'article 220 quater B, les droits rappelés et les crédits d'impôt à rembourser en application de l'alinéa précédent sont
+majorés de 20 p. 100, sans préjudice de l'application de l'intérêt de retard prévu à l'article 1727 et, le cas échéant, des
+pénalités pour manoeuvres frauduleuses mentionnées à l'article 1729.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 160 A III
+  - CGI 1727
+  - CGI 1729
+  - CGI 220 quater B
+  - CGI 220 quatez A
+  - CGI 726
+  - CGI 83 bis II, III
+  - CGI 834 bis
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 1740 ter
@@ -54053,36 +55179,44 @@ _Modifié par_:
   - Loi n°84-1208 1984-12-29 art. 105 II finances pour 1985 en vigueur le 1er janvier 1985
 
 
-#### B : Sanctions fiscales<a id=1091></a>
+#### B : Sanctions fiscales<a id=1094></a>
 
-##### 3 : Retard de paiement des impôts<a id=1092></a>
+##### 3 : Retard de paiement des impôts<a id=1095></a>
 
-##### b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts<a id=1093></a>
+##### b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts<a id=1096></a>
 
 ###### Article 1731
 
-En ce qui concerne les taxes sur le chiffre d'affaires et taxes assimilées, les droits d'enregistrement, de timbre, la taxe
-de publicité foncière et les taxes assimilées à ces droits et taxe, la taxe sur les salaires, la taxe d'apprentissage, la
-participation des employeurs au développement de la formation professionnelle continue, ainsi que les retenues opérées au
-titre de l'impôt sur le revenu, les insuffisances, les inexactitudes ou omissions mentionnées à l'article 1728 donnent lieu,
-lorsque la mauvaise foi du redevable est établie, à l'application d'une amende fiscale égale au double des majorations
-prévues à l'article 1729 et déterminée, dans les mêmes conditions que ces majorations, en fonction du montant des droits
-éludés.
+1. Tout retard dans le paiement des impôts, droits, taxes, redevances ou sommes quelconques qui doivent être versés aux
+comptables de la direction générale des impôts ou le paiement tardif aux comptables directs du Trésor des sommes dues au
+titre de la taxe sur les salaires mentionnée à l'article 1679 donne lieu au versement de l'intérêt de retard visé à l'article
+1727 et d'une majoration de 5 p. 100 du montant des sommes dont le versement a été différé.
 
-Le montant de ces droits est apprécié, en matière de taxes sur le chiffre d'affaires et de taxes assimilées, en considérant
-d'une façon distincte chacune des périodes retenues pour l'assiette des impôts sur le revenu et, le cas échéant, la partie
-vérifiée de l'exercice en cours.
+2. L'intérêt de retard est calculé à compter du premier jour du mois qui suit le dépôt de la déclaration ou de l'acte
+comportant reconnaissance par le contribuable de sa dette ou, à défaut, la réception de l'avis de mise en recouvrement émis
+par le comptable. 
+
+3. La majoration visée au 1 n'est pas applicable lorsque le dépôt tardif de la déclaration ou de l'acte visés à l'article
+1728 est accompagné du paiement des droits.
+
+4. Pour toute somme devant être acquittée sans déclaration préalable, l'intérêt est calculé à partir du premier jour du mois
+suivant celui au cours duquel le principal aurait dû être acquitté jusqu'au dernier jour du mois du paiement.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI 1679
+  - CGI 1727
   - CGI 1728
-  - CGI 1729
 
 _Modifié par_:
 
-  - Loi n°84-130 1984-02-24 art. 24 JORF 25 février 1984
+  - Loi n°87-502 1987-07-08 art. 2 V JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
 
 _Cité par_:
 
@@ -54116,12 +55250,143 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 undecies (V)
   - Code monétaire et financier - art. L612-20 (VD)
 
-_Codifié par_:
 
-  - Décret n°84-875 1984-10-01
+#### B : Sanctions pénales.<a id=1097></a>
 
+###### Article 1741
 
-#### B : Sanctions pénales.<a id=1094></a>
+Sans préjudice des dispositions particulières relatées dans la présente codification, quiconque s'est frauduleusement
+soustrait ou a tenté de se soustraire frauduleusement à l'établissement ou au paiement total ou partiel des impôts visés dans
+la présente codification, soit qu'il ait volontairement omis de faire sa déclaration dans les délais prescrits, soit qu'il
+ait volontairement dissimulé une part des sommes sujettes à l'impôt, soit qu'il ait organisé son insolvabilité ou mis
+obstacle par d'autres manœuvres au recouvrement de l'impôt, soit en agissant de toute autre manière frauduleuse, est
+passible, indépendamment des sanctions fiscales applicables, d'une amende de 5.000 F à 250.000 F et d'un emprisonnement d'un
+an à cinq ans. Lorsque les faits ont été réalisés ou facilités au moyen soit d'achats ou de ventes sans facture, soit de
+factures ne se rapportant pas à des opérations réelles, ou qu'ils ont eu pour objet d'obtenir de l'Etat des remboursements
+injustifiés, leur auteur est passible d'une amende de 5.000 F à 500.000 F et d'un emprisonnement de deux à cinq ans. Les
+dispositions de l'article 463 du code pénal sont applicables.
+
+Toutefois, cette disposition n'est applicable, en cas de dissimulation, que si celle-ci excède le dixième de la somme
+imposable ou le chiffre de 1.000 F.
+
+Le tribunal ordonnera dans tous les cas la publication intégrale ou par extraits des jugements dans le Journal officiel de la
+République française ainsi que dans les journaux désignés par lui et leur affichage intégral ou par extraits pendant trois
+mois sur les panneaux réservés à l'affichage des publications officielles de la commune où les contribuables ont leur
+domicile ainsi que sur la porte extérieure de l'immeuble du ou des établissements professionnels de ces contribuables. Les
+frais de la publication et de l'affichage dont il s'agit sont intégralement à la charge du condamné.
+
+En cas de récidive dans le délai de cinq ans, le contribuable est puni d'une amende de 15.000 F à 700.000 F et d'un
+emprisonnement de quatre ans à dix ans et peut être privé en tout ou partie, pendant cinq ans au moins et dix ans au plus,
+des droits civiques énumérés par l'article 42 du code pénal. L'affichage et la publicité du jugement sont ordonnés dans les
+conditions prévues à l'alinéa précédent.
+
+L'article 463 du code pénal peut être appliqué, sauf en ce qui concerne les peines prévues au troisième alinéa et à la
+seconde phrase du quatrième alinéa du présent article.
+
+Les poursuites sont engagées dans les conditions prévues aux articles L 229 à L 231 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 7 I, II JORF 9 juillet 1987
+
+_Cité par_:
+
+  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (VT)
+  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
+  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+  - Décret n°2009-158 du 11 février 2009 - art. 12 (V)
+  - Loi n°2009-594 du 27 mai 2009 - art. 32 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
+  - Arrêté du 28 septembre 2011 - art. 2 (V)
+  - Arrêté du 28 septembre 2011 - art. 6 (V)
+  - Arrêté du 2 novembre 2011 - art. 3 (V)
+  - Arrêté du 2 novembre 2011 - art. 4 (V)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (VT)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 93 (VT)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 94 (VT)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 95 (VT)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 96 (M)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 97 (VT)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 98 (VT)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 99 (VT)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VT)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 62 (VT)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 63 (VT)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 64 (VT)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 65 (VD)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 66 (VT)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 67 (VT)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 68 (VT)
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies N (VD)
+  - Code de la commande publique - art. L2141-1 (VD)
+  - Code de la commande publique - art. L2341-1 (VD)
+  - Code de la commande publique - art. L2621-1 (VD)
+  - Code de la commande publique - art. L2623-1 (VD)
+  - Code de la commande publique - art. L2631-1 (VD)
+  - Code de la commande publique - art. L2633-1 (VD)
+  - Code de la commande publique - art. L2641-1 (VD)
+  - Code de la commande publique - art. L2643-1 (VD)
+  - Code de la commande publique - art. L2651-2 (VD)
+  - Code de la commande publique - art. L2651-4 (VD)
+  - Code de la commande publique - art. L2661-2 (VD)
+  - Code de la commande publique - art. L2661-4 (VD)
+  - Code de la commande publique - art. L2671-2 (VD)
+  - Code de la commande publique - art. L2671-4 (V)
+  - Code de la commande publique - art. L2681-2 (VD)
+  - Code de la commande publique - art. L2681-4 (V)
+  - Code de la commande publique - art. L3123-1 (V)
+  - Code de la commande publique - art. L3321-1 (VD)
+  - Code de la commande publique - art. L3331-1 (V)
+  - Code de la commande publique - art. L3341-1 (VD)
+  - Code de la commande publique - art. L3351-2 (VD)
+  - Code de la commande publique - art. L3361-2 (VT)
+  - Code de la commande publique - art. L3371-2 (VT)
+  - Code de la commande publique - art. L3381-2 (VD)
+  - Code de procédure pénale - art. 28-2 (M)
+  - Code de procédure pénale - art. 41-1-2 (V)
+  - Code de procédure pénale - art. 704 (VT)
+  - Code de procédure pénale - art. 705 (V)
+  - Code de procédure pénale - art. 706-1-1 (V)
+  - Code des transports - art. L4316-13 (VT)
+  - Code du sport. - art. L222-11 (V)
+  - Code général des collectivités territoriales - art. L1414-4 (VD)
+  - Code général des impôts, CGI. - art. 1742 (V)
+  - Code général des impôts, CGI. - art. 1743 (V)
+  - Code général des impôts, CGI. - art. 1745 (V)
+  - Code général des impôts, CGI. - art. 1753 (V)
+  - Code général des impôts, CGI. - art. 1783 B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis H (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZH (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
+  - Code monétaire et financier - art. L561-23 (VT)
+  - Code monétaire et financier - art. L561-29 (VT)
+  - Code monétaire et financier - art. L561-31 (V)
+  - Code monétaire et financier - art. L711-19 (V)
+  - Code monétaire et financier - art. L711-20 (V)
+  - Code monétaire et financier - art. L711-21 (V)
+  - Code monétaire et financier - art. L725-3 (V)
+  - Code monétaire et financier - art. L735-3 (VT)
+  - Code monétaire et financier - art. L745-13 (V)
+  - Code monétaire et financier - art. L755-13 (V)
+  - Code monétaire et financier - art. L765-13 (V)
+  - Code pénal - art. 131-26-2 (V)
+  - Livre des procédures fiscales - art. L227 (V)
+  - Livre des procédures fiscales - art. L231 (V)
+  - Livre des procédures fiscales - art. L233 (V)
+
+_Cite_:
+
+  - CGI Livre des procédures fiscales L229, L231
+  - Code pénal 463, 42
+
+_Nouveaux textes_:
+
+  - Livre des procédures fiscales L229 (6è al. du CGI 1741)
+  - Livre des procédures fiscales L230 (6è al. du CGI 1741)
+  - Livre des procédures fiscales L231 (6è al. du CGI 1741)
+
 
 ###### Article 1741 A
 
@@ -54567,7 +55832,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L143 (V)
 
 
-#### C : Autres sanctions et mesures diverses.<a id=1095></a>
+#### C : Autres sanctions et mesures diverses.<a id=1098></a>
 
 ###### Article 1755
 
@@ -54612,6 +55877,39 @@ préjudice de l'intérêt de retard prévu à l'article 1734 et compté de la da
 _Cite_:
 
   - CGI 1734
+
+
+###### Article 1756 bis
+
+I. Nonobstant toutes dispositions contraires, il est interdit à tout établissement de crédit qui reçoit du public des fonds à
+vue ou à moins de cinq ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération supérieure à celle
+fixée, selon les cas, par le comité de la réglementation bancaire ou par décret ou par le ministre chargé de l'économie et
+des finances ; il lui est également interdit d'ouvrir ou de maintenir ouverts dans des conditions irrégulières des comptes
+bénéficiant d'une aide publique, notamment sous forme d'exonération fiscale, ou d'accepter sur ces comptes des sommes
+excédant les plafonds autorisés.
+
+Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la commission bancaire, les infractions aux
+dispositions du présent article sont punies d'une amende fiscale dont le taux est égal au montant des intérêts payés, sans
+que cette amende puisse être inférieure à 500 F.
+
+Un décret pris sur le rapport du ministre de l'économie et des finances fixe les modalités d'application du présent article,
+et notamment les conditions dans lesquelles seront constatées et poursuivies les infractions (1).
+
+II. Les dispositions du I s'appliquent, quels que soient les entreprises, établissements ou organismes dépositaires, au
+régime de l'épargne populaire créé par la loi n° 82-357 du 27 avril 1982 portant création d'un régime d'épargne populaire.
+
+(1) Annexe III, art. 406 A 16 A à 406 A 16 F.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 406 A 16 A à 406 A 16 F
+  - Loi n°82-357 1982-04-27
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 V JORF 9 juillet 1987
 
 
 ###### Article 1756 septies
@@ -54679,11 +55977,69 @@ _Créé par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
-### Section II : Dispositions particulières<a id=1096></a>
+###### Article 1756 ter
 
-#### A : Impôts directs et taxes assimilées<a id=1097></a>
+En cas de manquement à leurs engagements envers l'Etat, les sociétés financières d'innovation visées à l'article 4-III-A de
+la loi n° 72-650 du 11 juillet 1972 qui ont conclu une convention avec le ministre de l'économie et des finances dans les
+conditions prévues à l'article 4-III-B de la même loi doivent verser au Trésor une indemnité égale à 25 % de la fraction du
+capital social agréé qui n'a pas été employée de manière conforme à la convention (1). En cas de résiliation de la convention
+par le ministre de l'économie et des finances, après avis du ministre du développement industriel et scientifique, cette
+indemnité atteint le quart du capital social agréé; elle est augmentée d'un intérêt de retard calculé au taux prévu à
+l'article 1727 à compter de la date de la constitution de la société, sans que, toutefois, ce taux puisse excéder 25 %. Le
+montant des indemnités visées ci-dessus est exclu des charges déductibles pour l'assiette du bénéfice imposable. La
+constatation, le recouvrement et le contentieux de ces indemnités sont assurés et suivis comme en matière d'impôts directs.
 
-##### 1 : Majorations de droits<a id=1098></a>
+(1) Voir décret n° 73-124 du 5 février 1973 (J.O. du 10).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1727
+  - Loi n°72-650 1972-07-11 ART. 4 III A, ART. 4 III B
+  - Décret n°73-124 1973-02-05
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 I,VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+
+### Section II : Dispositions particulières<a id=1099></a>
+
+#### A : Impôts directs et taxes assimilées<a id=1100></a>
+
+##### 1 : Majorations de droits<a id=1101></a>
+
+###### Article 1757
+
+Les dispositions de l'article 1729 sont applicables en ce qui concerne toute personne qui, encaissant directement ou
+indirectement des revenus soit dans les territoires d'outre-mer ou dans les Etats de l'ancienne Communauté [*CEE*], soit à
+l'étranger, ne les a pas mentionnés séparément dans la déclaration prévue à l'article 170. Toutefois l'intérêt de retard et
+la majoration ne portent que sur le supplément de droit dû en application du 2 de l'article 173.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1729, 170, 173
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 1er janvier 2004
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
+
 
 ###### Article 1758 bis
 
@@ -54700,6 +56056,66 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 1758 quater
+
+Lorsque l'entreprise n'a pas effectué, dans le délai prévu à l'article 226 A, le versement mentionné au même article ou a
+effectué un versement insuffisant, le montant de la taxe d'apprentissage est majoré de l'insuffisance constatée (1). 
+
+Le complément de taxe prévu au premier alinéa donne lieu à l'application des dispositions des articles 1729 et 1758 ter
+lorsqu'il n'a pas été versé dans le délai légal de paiement de la taxe d'apprentissage. 
+
+(1) Disposition applicable pour la taxe d'apprentissage due à raison des salaires versés à compter du 1er janvier 1983.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 226 A, 1729, 1758 ter
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+  - Décret n°97-661 1997-05-28
+
+**Liens**:
+
+  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 15 juillet 1988
+  - PEREMPTION: Loi n°96-376 du 6 mai 1996 - art. 7 (V) JORF 7 ami 1996
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+
+###### Article 1758 ter
+
+Les suppléments de taxe d'apprentissage notifiés à la suite des décisions des comités départementaux statuant sur les
+demandes d'exonération ne donnent lieu qu'à une majoration de 10 % jusqu'au jour de la notification de l'avis de mise en
+recouvrement.
+
+Cette majoration tient lieu de l'intér^et de retard et de la majoration qui seraient normalement exigibles en vertu des
+dispositions de l'article 1731.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1731
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 1761
@@ -54814,6 +56230,34 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 1762 quinquies
+
+En cas d'irrégularités affectant la détermination du montant de la créance définie à l'article 220 quinquies, son imputation
+ou son remboursement, l'intérêt de retard et, s'il y a lieu, les majorations prévus à l'article 1729 sont applicables au
+titre de l'exercice d'imputation ou de remboursement.
+
+(La modification édictée par la loi 87-502 n'a pas été codifiée et le texte inclut le second paragraphe jusqu'à l'édition du
+4 juillet 1992).
+
+En cas de remboursement indu, les seuils d'application des majorations prévues à l'article 1729 sont appréciés en comparant
+le montant du remboursement indu au montant du remboursement auquel avait droit le redevable.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1729
+  - CGI 220 quinquies
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+
 ###### Article 1762 ter
 
 Les infractions, autres que les inexactitudes de déclarations, aux dispositions des décrets visés à l'article 163 bis,
@@ -54834,7 +56278,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
 
 
-##### (MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT)<a id=1099></a>
+##### (MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT)<a id=1102></a>
 
 ###### Article 1762 A
 
@@ -54868,7 +56312,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1681 quater A (VD)
 
 
-##### 2 : Amendes fiscales<a id=1100></a>
+##### 2 : Amendes fiscales<a id=1103></a>
 
 ###### Article 1763
 
@@ -54908,6 +56352,30 @@ _Modifié par_:
   - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
 
 
+###### Article 1763 A
+
+Les sociétés et les autres personnes morales passibles de l'impôt sur les sociétés qui versent ou distribuent, directement ou
+par l'intermédiaire de tiers, des revenus à des personnes dont, contrairement aux dispositions des articles 117 et 240, elles
+ne révèlent pas l'identité sont soumises à une pénalité égale à 100 p. 100 des sommes versées ou distribuées. Lorsque
+l'entreprise a spontanément fait figurer dans sa déclaration de résultat le montant des sommes en cause, le taux de la
+pénalité est ramené à 75 p. 100.
+
+Les dirigeants sociaux mentionnés à l'article 62 et aux 1°, 2° et 3° du b de l'article 80 ter, ainsi que les dirigeants de
+fait gestionnaires de la société à la date du versement ou, à défaut de connaissance de cette date, à la date de déclaration
+des résultats de l'exercice au cours duquel les versements ont eu lieu, sont solidairement responsables du paiement de cette
+pénalité qui est établie et recouvrée comme en matière d'impôt sur le revenu.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 117, 240, 62, 80 ter
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 VIII JORF 9 juillet 1987
+
+
 ###### Article 1764
 
 Toute infraction à l'interdiction faite aux sociétés et personnes morales à l'article 1672 bis de prendre à leur charge le
@@ -54929,6 +56397,40 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 210 E (V)
   - Code général des impôts, CGI. - art. 210 F (VD)
   - Code général des impôts, CGI. - art. 238 octies A (V)
+
+
+###### Article 1765 bis
+
+Indépendamment de la peine correctionnelle prévue à l'article 1783 A et, le cas échéant, des amendes fiscales fixées par les
+articles 1725 et 1726, les infractions aux dispositions du 2 des articles 119 bis et 1672 en matière de retenue à la source
+afférente aux revenus de capitaux mobiliers et à celles qui fixent les modalités et conditions d'application de ces articles
+sont punies de l'intérêt de retard et la majoration prévus à l'article 1727 si elles ont entraîné le défaut de paiement dans
+le délai légal de tout ou partie de l'impôt exigible et, dans le cas contraire, d'une amende fiscale de 10 F.
+
+Quiconque aura tiré ou tenté de tirer profit de l'infraction sera passible personnellement de l'intérêt et de la majoration
+prévus au premier alinéa (1).
+
+(1) En ce qui concerne la constatation des infractions, voir livre des procédures fiscales, art. L 212 et L 215.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1783 A, 1725, 1726, 119 bis, 1672, 1727
+  - Livre des procédures fiscales - art. L212 (M)
+  - Livre des procédures fiscales - art. L215 (V)
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 1766
@@ -55000,6 +56502,35 @@ _Cité par_:
 **Liens**:
 
   - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 1768 bis
+
+Les personnes qui ne se conforment pas à l'obligation prévue par l'article 242 ter-1 [*déclaration des produits de placements
+à revenu fixe*] sont personnellement redevables d'une amende fiscale égale à 80 % [*pourcentage*] du montant des sommes non
+déclarées.
+
+Toutefois, lorsqu'elle est commise dans le délai de reprise mentionné à l'article L 169 du livre des procédures fiscales et à
+condition que ce soit la première, l'infraction aux dispositions du paragraphe I de l'article 242 ter du code général des
+impôts n'est pas sanctionnée si les personnes tenues de souscrire la déclaration prévue par cet article ont réparé leur
+omission spontanément, avant l fin de l'année au cours de laquelle la déclaration devait être souscrite. Lorsque l'omission
+n'a pas été ainsi réparée, qu'il s'agit de la première infraction et que le contribuable apporte la preuve [*charge*] que le
+Trésor n'a subi aucun préjudice, l'infraction n'est sanctionnée que par une amende forfaitaire de 5 000 F.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 242 ter 1
+  - CGI L169
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
 
 
 ###### Article 1768 ter
@@ -55143,7 +56674,40 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
 
 
-##### 3 : Sanctions pénales<a id=1101></a>
+##### 3 : Sanctions pénales<a id=1104></a>
+
+###### Article 1771
+
+Toute personne, association ou organisme qui n'a pas effectué dans les délais prescrits le versement des retenues opérées au
+titre de l'impôt sur le revenu (art. 1671 A) ou n'a effectué que des versements insuffisants est passible, si le retard
+excède un mois, en sus de l'intérêt de retard et la majoration prévus à l'article 1731, d'une amende pénale de 3.600 F à
+60.000 F et d'un emprisonnement d'un an au moins et de cinq ans au plus.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1671 A
+  - CGI 1731
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1671 A (VD)
+  - Code général des impôts, CGI. - art. 1691 (V)
+  - Code général des impôts, CGI. - art. 1753 (V)
+  - Code général des impôts, CGI. - art. 1776 (V)
+  - Code général des impôts, CGI. - art. 1777 (V)
+  - Code général des impôts, CGI. - art. 1778 (V)
+  - Livre des procédures fiscales - art. L231 (V)
+
 
 ###### Article 1772
 
@@ -55390,9 +56954,38 @@ _Cite_:
   - CGI 1770 ter, 242 ter, 1743
 
 
-#### B : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1102></a>
+##### 4 : Autres sanctions et mesures diverses<a id=1105></a>
 
-##### 1 : Sanctions fiscales<a id=1103></a>
+###### Article 1783 bis A
+
+Dans le cas où les personnes exonérées de taxe professionnelle, en vertu du 4° de l'article 1459, pour la location en meublé
+de locaux classés dans les conditions prévues au I de l'article 58 de la loi n° 65-997 du 29 novembre 1965, sont déchues du
+bénéfice de cette exonération par suite du déclassement desdits locaux, elles sont tenues, en outre, au paiement d'une amende
+égale à 50 % des droits non perçus.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1459
+  - Loi n°65-997 1965-11-29 art. 58 I
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-09 art. 5 VI JORF 9 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
+
+
+#### B : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1106></a>
+
+##### 1 : Sanctions fiscales<a id=1107></a>
 
 ###### Article 1784
 
@@ -55417,6 +57010,134 @@ _Cité par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 1785 A
+
+Au cas où un contrevenant ayant encouru depuis moins de trois ans une des amendes fiscales ou des majorations prévues aux
+articles 1725, 1726, 1729, 1740 et 1784 commet intentionnellement une nouvelle infraction, il peut, indépendamment des peines
+prévues à l'article 1789, ^etre traduit devant le tribunal correctionnel et puni par ce m^eme tribunal de la majoration
+prévue, en cas de manoeuvre frauduleuse, à l'article 1729.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1725
+  - CGI 1726
+  - CGI 1729
+  - CGI 1740
+  - CGI 1784
+  - CGI 1789
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987) A(Ordonnance 2004-281 2004-03-25 art. 9 JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 2 (V)
+
+
+###### Article 1785 B
+
+Dans le cas où l'acompte déterminé selon les règles fixées à l'article 1693 se révèle inférieur de plus de 20 % à la somme
+réellement due, le redevable supporte les pénalités prévues à l'article 1731, sans préjudice, le cas échéant, des autres
+pénalités applicables.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1693, 1727
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+
+###### Article 1785 C
+
+En cas de déclaration ou de justifications inexactes de la part des exploitants agricoles ou des personnes qui bénéficient du
+régime du remboursement forfaitaire visé aux articles 298 quater et 298 quinquies, l'intérêt de retard et, le cas échéant, la
+majoration prévues à l'article 1729, décomptés sur la base des remboursements indus, comparés aux sommes régulièrement
+remboursées, sont applicables. L'intérêt de retard est calculé à compter de la date à laquelle les remboursements sont
+intervenus.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1729
+  - CGI 298 quater
+  - CGI 298 quinquies
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 18 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+
+###### Article 1785 D
+
+I. (Abrogé)
+
+II. Les exploitants agricoles nouvellement assujettis à la taxe sur la valeur ajoutée sont passibles de l'intérêt de retard
+et la majoration visés à l'article 1731 si un ou plusieurs des acomptes qu'ils ont versés lors de leur première année
+d'imposition sont inférieurs de 30 % au moins au montant de l'impôt réellement dû pour le trimestre correspondant.
+
+III. L'impôt éventuellement dû par les exploitants agricoles assujettis à la taxe sur la valeur ajoutée qui ont adressé une
+demande en vue de bénéficier du régime de franchise prévu à l'article 298 bis A, est majoré de 25 % lorsque le chiffre
+d'affaires réalisé, tous droits et taxes compris, excède le triple du chiffre d'affaires limite au-dessous duquel la
+franchise est accordée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1731
+  - CGI 298 bis A
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 18 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 1786
@@ -55565,7 +57286,52 @@ _Transféré par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3 : Importation<a id=1104></a>
+##### 2 : Sanctions pénales<a id=1108></a>
+
+###### Article 1789
+
+Au cas où un contrevenant ayant encouru depuis moins de trois ans une des amendes fiscales ou des majorations prévues aux
+articles 1725, 1726, 1729, 1740 et 1784 commet intentionnellement une nouvelle infraction, il peut être traduit devant le
+tribunal correctionnel, à la requête de l'administration compétente, et puni par ce même tribunal, indépendamment de l'amende
+fiscale prévue à l'article 1785 A, d'un emprisonnement de huit jours à six mois. Le tribunal correctionnel peut ordonner, à
+la demande de l'administration, que le jugement soit publié intégralement ou par extrait dans les journaux qu'il désigne et
+affiché dans les lieux qu'il indique, le tout aux frais du condamné. Toutes les dispositions de l'article 7 modifié de la loi
+du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services sont applicables dans ce cas.
+L'article 463 du code pénal est applicable, même en cas de récidive, au délit prévu par le présent article seulement en ce
+qui concerne la peine d'emprisonnement.
+
+**Nota:**
+
+Nota - Loi 92-1336 1992-12-16 art. 323 : sont abrogées toutes les dispositions faisant référence à l'article 463 du code
+pénal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1725, 1726, 1729, 1740, 1784, 1785 A, 323
+  - Loi n°1905-08-01 art. 7
+  - Loi n°92-1336 1992-12-16 art. 323
+  - Code pénal 463
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 323
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1753 (V)
+
+
+##### 3 : Importation<a id=1109></a>
 
 ###### Article 1790
 
@@ -55594,9 +57360,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L234 (al. 1 et al. 2 du CGI 1790)
 
 
-#### C : Contributions indirectes<a id=1105></a>
+#### C : Contributions indirectes<a id=1110></a>
 
-##### 1 : Sanctions fiscales<a id=1106></a>
+##### 1 : Sanctions fiscales<a id=1111></a>
 
 ###### Article 1791
 
@@ -55940,7 +57706,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L235 (V)
 
 
-##### 2 : Responsabilité des infractions<a id=1107></a>
+##### 2 : Responsabilité des infractions<a id=1112></a>
 
 ###### Article 1805
 
@@ -56015,7 +57781,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1810 (V)
 
 
-##### 3 : Sanctions pénales<a id=1108></a>
+##### 3 : Sanctions pénales<a id=1113></a>
 
 ###### Article 1810
 
@@ -56277,7 +58043,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 4 : Autres sanctions et mesures diverses<a id=1109></a>
+##### 4 : Autres sanctions et mesures diverses<a id=1114></a>
 
 ###### Article 1822
 
@@ -56472,9 +58238,9 @@ _Cite_:
   - Code pénal 373
 
 
-#### D : Enregistrement et publicité foncière<a id=1110></a>
+#### D : Enregistrement et publicité foncière<a id=1115></a>
 
-##### 1 : Sanctions fiscales<a id=1111></a>
+##### 1 : Sanctions fiscales<a id=1116></a>
 
 ###### Article 1826
 
@@ -56489,6 +58255,69 @@ _Cite_:
   - CGI 634 à 885
 
 
+###### Article 1827
+
+En cas de dissimulation de partie du prix stipulé dans un contrat, et nonobstant l'application éventuelle des dispositions de
+l'article 1840, il est dû solidairement par tous les contractants outre les droits d'enregistrement ou la taxe de publicité
+foncière et les taxes assimilées afférents à la partie dissimulée du prix, une amende fiscale égale à 50 % de ces droits ou
+taxes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1840
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 VI JORF 9 juillet 1987
+
+
+###### Article 1828
+
+Dans le cas visé à l'article 1827, quiconque a été convaincu de s'être, d'une façon quelconque, rendu complice de manoeuvres
+destinées à éluder le paiement de l'impôt est personnellement passible, indépendamment de sanctions disciplinaires s'il est
+officier public ou ministériel, d'une amende égale à 50 % de la somme dont le Trésor a été frustré.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1827
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 VI JORF 9 juillet 1987
+
+
+###### Article 1830
+
+Pour l'application des pénalités prévues à l'article 1728 en cas de retard dans l'exécution de la formalité fusionnée, il
+n'est pas tenu compte de la période comprise entre le dépôt de l'acte refusé et la nouvelle présentation à la formalité si
+celle-ci intervient dans le mois de la notification du refus.
+
+Sous la même condition il n'est pas fait application de l'amende fixe prévue dans les cas visés à l'article 1835, lorsque le
+retard résulte du refus de publier.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1728, 1835
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 II, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 1831
 
 Toute infraction aux dispositions du 2° de l'article 852 est punie d'une amende de 10 F à 100 F.
@@ -56498,6 +58327,24 @@ Toute infraction aux dispositions du 2° de l'article 852 est punie d'une amende
 _Cite_:
 
   - CGI 852
+
+
+###### Article 1832
+
+Est punie d'une amende égale à 50 % du supplément de droit exigible sans que cette amende puisse être inférieure à 10 F,
+toute contravention aux dispositions du III de l'article 806 et de l'article 807 ; en outre, les dépositaires, détenteurs ou
+débiteurs ayant contrevenu aux dispositions des articles 806 et 807 sont personnellement tenus des droits exigibles, sauf
+recours contre le redevable.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 806 III, 807
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 VI JORF 9 juillet 1987
 
 
 ###### Article 1833
@@ -56551,7 +58398,7 @@ _Codifié par_:
   - Décret n°2006-356 2006-03-24
 
 
-##### 2 : Sanctions pénales<a id=1112></a>
+##### 2 : Sanctions pénales<a id=1117></a>
 
 ###### Article 1837
 
@@ -56620,7 +58467,7 @@ prononcées pour le faux.
 
 
 
-##### 3 : Autres sanctions et mesures diverses<a id=1113></a>
+##### 3 : Autres sanctions et mesures diverses<a id=1118></a>
 
 ###### Article 1840
 
@@ -56679,6 +58526,81 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 864 (VD)
 
 
+###### Article 1840 C
+
+Les notaires, les huissiers et autres agents ayant pouvoir de faire des actes et procès-verbaux, les greffiers et les
+autorités administratives qui ont négligé de soumettre à l'enregistrement ou à la formalité fusionnée, dans les délais fixés,
+les actes qu'ils sont tenus de présenter à l'une ou l'autre de ces formalités sont personnellement passibles des sanctions
+prévues aux articles 1728 et 1835. Ils sont, en outre, tenus du paiement des droits ou taxes, sauf leur recours contre les
+parties pour ces droits ou taxes seulement.
+
+Ces dispositions sont applicables aux officiers d'administration de la marine.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1728, 1835
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 II, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1706 (V)
+  - Code général des impôts, CGI. - art. 1840 D (V)
+  - Code général des impôts, CGI. - art. 1840 E (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 1840 D
+
+Par dérogation aux dispositions de l'article 1840 C, lorsque les droits d'enregistrement ou la taxe de publicité foncière et
+les taxes assimilées, afférents aux jugements rendus à l'audience qui doivent être enregistrés sur les minutes, aux actes et
+procès-verbaux de vente de prises et de navires ou bris de navires et aux actes administratifs, n'ont pas été consignés aux
+mains des greffiers et des autorités administratives, dans les délais prescrits pour l'enregistrement ou la formalité
+fusionnée, le recouvrement en est poursuivi contre les parties qui supportent, en outre, les sanctions prévues aux articles
+1728 et 1835.
+
+A cet effet, les greffiers et les autorités administratives fournissent aux agents des impôts, dans la décade qui suit
+l'expiration des délais, des extraits par eux certifiés des actes, procès-verbaux et jugements, dont les droits ou taxes ne
+leur ont pas été remis par les parties, à peine, pour chaque acte, procès-verbal et jugement, de l'amende prévue à l'article
+1725, et d'être, en outre, personnellement contraints au paiement des droits ou taxes et pénalités exigibles.
+
+Il leur est délivré récépissé, sur papier libre, de ces extraits. Ce récépissé est inscrit sur leur répertoire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1840 C, 1728, 1835, 1725
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 II, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1705 (V)
+  - Code général des impôts, CGI. - art. 1706 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 1840 E
 
 Sous les réserves formulées aux articles 1840 C et 1840 D les personnes qui sont au regard du Trésor solidaires pour le
@@ -56689,6 +58611,60 @@ paiement de l'impôt sont aussi solidaires pour le paiement des pénalités.
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1840 C (V)
+
+
+###### Article 1840 F
+
+Le prétendu créancier qui a faussement attesté l'existence d'une dette dont la déduction est demandée pour la perception des
+droits de mutation par décès est tenu, solidairement avec le déclarant, au paiement de l'intérêt de retard et de la
+majoration prévus à l'article 1729.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1729
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+
+###### Article 1840 G
+
+Lorsqu'ils ont négligé de faire, dans les délais prescrits, les déclarations des biens transmis par décès aux héritiers,
+donataires ou légataires, les tuteurs et curateurs supportent personnellement les peines prévues aux articles 1725 et 1728.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1725, 1728
+
+_Cité par_:
+
+  - Décret du 28 juin 1930 - art. 9 (V)
+  - Code général des impôts, CGI. - art. 1929 (VD)
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 II, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 1840 G bis
@@ -56840,9 +58816,9 @@ _Cité par_:
   - Code rural - art. L142-3 (V)
 
 
-#### E : Droits de timbre, autres droits et taxes<a id=1114></a>
+#### E : Droits de timbre, autres droits et taxes<a id=1119></a>
 
-##### 1 : Sanctions fiscales<a id=1115></a>
+##### 1 : Sanctions fiscales<a id=1120></a>
 
 ###### Article 1840 H
 
@@ -56857,12 +58833,106 @@ _Cite_:
   - CGI 1840 I à 1840 R
 
 
+###### Article 1840 I
+
+Sous réserve des sanctions prévues aux articles 1725 à 1727 et 1729, toute infraction aux textes qui réglementent le paiement
+des droits de timbre en compte avec le Trésor est passible d'une amende de 100 F.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1725 à 1727, 1729
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 I, III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1753 (V)
+  - Code général des impôts, CGI. - art. 1840 Q (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 1840 J
 
 Toute fraude ou tentative de fraude et, en général, toute manoeuvre ayant pour but ou ayant eu pour résultat de frauder ou de
 compromettre l'impôt, commise dans l'emploi des machines à timbrer est punie des peines prévues pour chaque impôt éludé.
 Toutefois, en cas d'utilisation d'une machine sans autorisation de l'administration, l'amende ne peut être inférieure à 50 F.
 
+
+
+###### Article 1840 K
+
+En cas de contravention aux articles 910 et 911 le souscripteur, l'accepteur, le bénéficiaire ou premier endosseur de l'effet
+non timbré ou non visé pour timbre, sont passibles chacun des sanctions prévues aux articles 1729 et 1840 H.
+
+A l'égard des effets compris en l'article 911, outre l'application, s'il y a lieu, de l'alinéa précédent, le premier des
+endosseurs résidant en France, et, à défaut d'endossement en France, le porteur est passible de ces sanctions.
+
+Les dispositions qui précèdent sont applicables aux lettres de change, billets à ordre ou autres effets souscrits en France
+et payables hors de France.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 910, 911, 1729, 1840 H
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 15 juillet 1988
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Abrogé par_:
+
+  - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
+
+
+###### Article 1840 L
+
+L'endossement d'un warrant séparé du récépissé non timbré ou non visé pour timbre conformément à la loi, ne peut être
+transcrit ou mentionné sur les registres du magasin, sans que l'administration du magasin encoure les sanctions prévues aux
+articles 1729 et 1840 H.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1729, 1840 H
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 15 juillet 1988
+
+_Abrogé par_:
+
+  - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
 
 
 ###### Article 1840 M
@@ -56920,6 +58990,36 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°88-1001 1988-10-20
+
+
+###### Article 1840 N quater
+
+I. Sous réserve de l'application des pénalités prévues à l'article 1731 en cas de retard dans le paiement de la taxe
+différentielle sur les véhicules à moteur toutes autres infractions à l'application des tarifs fixés conformément aux
+articles 1599 G, 1599 decies et 1599 undecies, aux dispositions de l'article 1599 F, des articles 317 nonies à 318 A de
+l'annexe II au présent code ainsi qu'à celles de l'arrêté prévu à l'article 317 duodecies de la même annexe sont sanctionnés
+par une amende fiscale égale au double de la taxe.
+
+II. (Abrogé).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1731, 1599 G, 1599 decies, 1599 undecies, 1599 F
+  - CGIAN2 317 nonies à 318 A, 317 duodecies
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
 
 
 ###### Article 1840 N quinquies
@@ -57005,7 +59105,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2 : Sanctions pénales<a id=1116></a>
+##### 2 : Sanctions pénales<a id=1121></a>
 
 ###### Article 1840 O
 
@@ -57077,7 +59177,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3 : Autres sanctions et mesures diverses<a id=1117></a>
+##### 3 : Autres sanctions et mesures diverses<a id=1122></a>
 
 ###### Article 1840 R
 
@@ -57256,9 +59356,9 @@ _Abrogé par_:
   - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
 
 
-## Chapitre III : Procédures<a id=1118></a>
+## Chapitre III : Procédures<a id=1123></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=1119></a>
+### Section I : Impôts directs et taxes assimilées<a id=1124></a>
 
 ###### Article 1849
 
@@ -57293,11 +59393,11 @@ _Cite_:
   - Loi n°63-156 du 23 février 1963 - art. 60, v. init.
 
 
-### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes<a id=1120></a>
+### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes<a id=1125></a>
 
-#### I : Modes de preuve - Constatation des infractions<a id=1121></a>
+#### I : Modes de preuve - Constatation des infractions<a id=1126></a>
 
-##### 2 : Mutations<a id=1122></a>
+##### 2 : Mutations<a id=1127></a>
 
 ###### Article 1881
 
@@ -57326,7 +59426,7 @@ imposées aux fermiers, locataires et détenteurs temporaires.
 
 
 
-#### II : Poursuites et instances<a id=1123></a>
+#### II : Poursuites et instances<a id=1128></a>
 
 ###### Article 1894
 
@@ -57336,9 +59436,9 @@ comptes. L'état est taxé sans frais par le tribunal de grande instance du dép
 
 
 
-### Section V : Dispositions communes<a id=1124></a>
+### Section V : Dispositions communes<a id=1129></a>
 
-#### I : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts.<a id=1125></a>
+#### I : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts.<a id=1130></a>
 
 ###### Article 1912
 
@@ -57408,7 +59508,7 @@ _Modifié par_:
   - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986 en vigueur le 15 janvier 1987
 
 
-#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts.<a id=1126></a>
+#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts.<a id=1131></a>
 
 ###### Article 1917
 
@@ -57431,7 +59531,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=1127></a>
+#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=1132></a>
 
 ###### Article 1918
 
@@ -57458,9 +59558,9 @@ _Abrogé par_:
   - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 
-## Chapitre IV : Sûretés et privilèges<a id=1128></a>
+## Chapitre IV : Sûretés et privilèges<a id=1133></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=1129></a>
+### Section I : Impôts directs et taxes assimilées<a id=1134></a>
 
 ###### Article 1920
 
@@ -57601,7 +59701,7 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1130></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1135></a>
 
 ###### Article 1926
 
@@ -57637,7 +59737,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1671 B (VT)
 
 
-### Section III : Contributions indirectes<a id=1131></a>
+### Section III : Contributions indirectes<a id=1136></a>
 
 ###### Article 1927
 
@@ -57680,7 +59780,7 @@ _Modifié par_:
   - Loi n°83-1159 du 24 décembre 1983 - art. 16 () JORF 28 décembre 1983
 
 
-### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés<a id=1132></a>
+### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés<a id=1137></a>
 
 ###### Article 1929
 
@@ -57750,7 +59850,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-### Section V : Dispositions communes<a id=1133></a>
+### Section V : Dispositions communes<a id=1138></a>
 
 ###### Article 1929 quater
 
@@ -57903,11 +60003,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1018 A (V)
 
 
-## Chapitre V : Dégrèvements et restitutions d'impôts<a id=1134></a>
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=1139></a>
 
-### Section II : Juridiction contentieuse<a id=1135></a>
+### Section II : Juridiction contentieuse<a id=1140></a>
 
-#### 7 : Dispositions particulières aux impôts directs et taxes assimilées<a id=1136></a>
+#### 7 : Dispositions particulières aux impôts directs et taxes assimilées<a id=1141></a>
 
 ###### Article 1960
 
@@ -57930,7 +60030,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
 
 
-#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=1137></a>
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=1142></a>
 
 ###### Article 1961
 
@@ -58119,7 +60219,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### 9 : Dispositions particulières aux contributions indirectes<a id=1138></a>
+#### 9 : Dispositions particulières aux contributions indirectes<a id=1143></a>
 
 ###### Article 1965 FA
 
@@ -58137,7 +60237,7 @@ _Cite_:
   - Livre des procédures fiscales R190-1
 
 
-### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances.<a id=1139></a>
+### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances.<a id=1144></a>
 
 ###### Article 1961 bis
 
@@ -58200,11 +60300,11 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-# RECOUVREMENT DE L'IMPOT<a id=1140></a>
+# RECOUVREMENT DE L'IMPOT<a id=1145></a>
 
-## PAIEMENT DE L'IMPOT<a id=1141></a>
+## PAIEMENT DE L'IMPOT<a id=1146></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1142></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1147></a>
 
 ###### Article 1658
 
@@ -58385,7 +60485,7 @@ _Codifié par_:
   - Décret n°89-801 1989-10-27
 
 
-### IMPOTS DIRECTS.<a id=1143></a>
+### IMPOTS DIRECTS.<a id=1148></a>
 
 ###### Article 1664
 
@@ -58521,60 +60621,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1144></a>
-
-###### Article 1693 bis
-
-I.-Les exploitants agricoles assujettis à la taxe sur la valeur ajoutée acquittent cette taxe par acomptes trimestriels
-égaux, au minimum, au cinquième de l'impôt dû au titre de l'année précédente. Le complément d'impôt éventuellement exigible
-au vu de la déclaration annuelle visée au 1° du I de l'article 298 bis est de celle-ci. S'il estime que les acomptes déjà
-payés au titre de l'année atteignent le montant de l'impôt dont il sera finalement redevable, l'exploitant peut sursoir au
-paiement des acomptes suivants. Si le montant de l'impôt est supérieur de plus de 30 p. 100 au montant des acomptes versés,
-l'indemnité de retard prévue à l'article 1727 est applicable.
-
-Toutefois, à condition qu'ils ne bénéficient pas du régime de franchise prévu à l'article 298 bis A, les exploitants
-agricoles peuvent, sur option irrévocable de leur part, acquitter l'impôt au vu de déclarations trimestrielles indiquant
-d'une part le montant total des opérations réalisées et d'autre part le détail de leurs opérations taxables.
-
-II.-Les nouveaux assujettis sont autorisés, lors de leur première année d'imposition, à acquitter la taxe sur la valeur
-ajoutée par acomptes trimestriels dont ils déterminent eux-mêmes le montant mais dont chacun doit représenter plus de 70 % de
-l'impôt réellement dû pour le trimestre correspondant.
-
-III.-Les exploitants assujettis qui ont adressé la demande prévue à l'article 298 bis B-1 en vue de bénéficier du régime de
-franchise sont dispensés du versement des acomptes trimestriels visés au I.
-
-Le cas échéant, l'impôt dû est versé lors du dépôt de la déclaration annuelle visée à l'article 298 bis-I-1°.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGI 298 bis A
-  - CGI 298 bis B 1
-  - CGI 298 bis I 1°
-
-_Modifié par_:
-
-  - Loi n°86-1317 1986-12-30 art. 17 I, II Finances pour 1987 JORF 31 décembre 1986
-  - Loi n°86-1317 du 30 décembre 1986 - art. 17 () JORF 31 décembre 1986
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
-
-_Cité par_:
-
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 10 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 septvicies (VD)
-  - Code général des impôts, CGI. - art. 1605 ter (V)
-  - Code général des impôts, CGI. - art. 298 bis (V)
-  - Code général des impôts, CGI. - art. 302 bis MB (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 260 A (V)
-
-
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=1145></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=1149></a>
 
 ###### Article 1716 A
 
@@ -58606,371 +60653,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 1723 quater
+## PENALITES<a id=1150></a>
 
-I  La taxe locale d'équipement visée à l'article 1585 A est due par le bénéficiaire de l'autorisation de construire.
-
-Elle doit être versée à la recette des impôs de la situation des biens en deux fractions égales.
-
-Le premier versement est exigible à l'expiration d'un délai de dix-huit mois à compter de la date de délivrance du permis de
-construire ou de la date à laquelle l'autorisation de construire est réputée avoir été tacitement accordée. Le second
-versement est exigible à l'expiration d'un délai de trente-six mois à compter de la même date.
-
-Toutefois, la taxe due pour la constrution, par tranches, de logements destinés à l'habitation principale, dans les
-conditions définies par décret en Conseil d'Etat (1), doit être versée à la recette des impôts en trois versements échelonnés
-de dix-huit mois en dix-huit mois à compter de la date de délivrance du permis de construire ou de la date à laquelle
-l'autorisation de construire est réputée avoir été tacitement accordée.
-
-Les deux premiers versements sont calculés en fonction de la surface hors oeuvre nette autorisée par le permis de construire
-au titre de la première tranche, le dernier versement en fonction de celle autorisée au titre de la seconde tranche.
-
-En cas de modification apportée au permis de construire ou à l'autorisation tacite de construire, le complément de taxe
-éventuellement exigible doit être acquitté dans le délai d'un an à compter de la modification.
-
-II  En cas de construction sans autorisation ou en infraction aux obligations résultant de l'autorisation, la base de la taxe
-ou du complément de taxe éventuellement exigibles est notifiée au service des impôts par le directeur départemental de
-l'équipement ou par le maire.
-
-Le recouvrement de la taxe ou du complément de taxe, augmenté de l'amende fiscale prévue à l'article 1836, est immédiatement
-poursuivi contre le constructeur.
-
-III  A défaut de paiement de la taxe dans les délais impartis au I, le recouvrement de cette taxe et de l'indemnité de retard
-prévue à l'article 1727, premier alinéa, est poursuivi dans les conditions fixées aux articles 1915 à 1918. Il en est de même
-du recouvrement de la taxe ou du complément de taxe et de l'amende fiscale dans l'hypothèse visée au II.
-
-IV  Le recouvrement de la taxe est garanti par le privilège prévu à l'article 1929-1.
-
-(1) Décret à émmettre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1585 A
-  - CGI 1727
-  - CGI 1836
-  - CGI 1915
-  - CGI 1916
-  - CGI 1917
-  - CGI 1918
-  - CGI 1929 1
-
-_Modifié par_:
-
-  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1599 B (VT)
-  - Code général des impôts, CGI. - art. 1723 septies (VT)
-
-
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204).<a id=1146></a>
-
-###### Article 1723 ter A
-
-En application des articles L 314-7 et R314-1 du code forestier, la taxe sur les défrichements des bois et forêts mentionnée
-à l'article 1011 est versée au comptable des impôts du lieu de défrichement dans les six mois de la notification au
-redevable. (Ce délai est porté [*durée*] à trois ans lorsque le défrichement autorisé a pour objet d'agrandir ou de créer une
-exploitation agricole dans la limite d'une surface au plus égale à trois fois la surface minimum d'installation fixée en
-application de l'article 188-4 du code rural. Il est fixé à cinq ans lorsque le défrichement a pour objet l'installation de
-cultures temporaires dont la liste est fixé par décret. Lorsque le défrichement est la conséquence de l'exploitation d'une
-substance minérale, le propriétaire s'acquitte de la taxe par tranche annuelle selon un échéancier annèxé à l'autorisation de
-défrichement).
-
-La taxe  peut être restituée dans les conditions prévues à l'article L 314-8 du code précité.
-
-En application des articles L 314-10 à L 314-12 du même code :
-
-1° La taxe sur les défrichements et, éventuellement, l'amende fiscale de 50 % mentionnée à l'article 1840 N quinquies ou
-l'indemnité de retard due en vertu de l'article 1727, sont recouvrées par les comptables de la direction générale des impôts
-dans les conditions fixées au titre IV du livre des procédures fiscales [*art. L252 à art. L283*] ;
-
-2° le recouvrement de la taxe est garanti par le privilège prévu à l'article 1929-1 et par l'hypothèque légale prévue à
-l'article 1929 ter ;
-
-3° Les réclamations sont recevables jusqu'au 31 décembre de l'année suivant celle du versement de la taxe ou de la
-notification d'un avis de recouvrement [*date limite*] ; les instances sont introduites et jugées comme en matière d'impôts
-directs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1011
-  - CGI 1727
-  - CGI 1840 N quinquies
-  - CGI 1929 1
-  - CGI 1929 ter
-  - Code rural 188-4
-  - Code forestier - art. L314-10 (Ab)
-  - Code forestier - art. L314-11 (Ab)
-  - Code forestier - art. L314-12 (Ab)
-  - Code forestier - art. L314-7 (M)
-  - Code forestier - art. L314-8 (M)
-  - Code forestier R314-1
-
-_Modifié par_:
-
-  - Loi n°85-1273 du 4 décembre 1985 - art. 53 () JORF 5 décembre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
-
-
-## PENALITES<a id=1147></a>
-
-### DISPOSITIONS COMMUNES.<a id=1148></a>
-
-###### Article 1726
-
-Sauf cas de force majeure, les omissions ou inexactitudes relevées dans les renseignements que doivent comporter les
-documents mentionnés à l'article 1725 ainsi que l'omission totale de ces renseignements donnent lieu à l'application d'une
-amende de 25 F par omission ou inexactitude, avec minimum de 200 F pour chaque document omis, incomplet ou inexact.
-
-L'amende n'est pas encourue si les infractions relevées entraînent l'application de l'une des sanctions prévues aux articles
-1728 à 1732, 1827 et 1829.
-
-L'amende encourue n'est pas appliquée dans le cas prévu à l'article 1725-3.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1725 3
-  - CGI 1728 A CGI 1732
-  - CGI 1827
-  - CGI 1829
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1727
-
-Tout retard dans le paiement des impôts, droits, taxes, redevances ou sommes quelconques qui doivent être versés aux
-comptables de la direction générale des impôts donne lieu à l'application d'une indemnité égale, pour le premier mois, à 3 %
-du montant des sommes dont le versement a été différé et, pour chacun des mois suivants, à 1 % dudit montant. Pour le calcul
-de cette indemnité, qui ne peut être inférieure à 5 F, toute période d'un mois commencée est comptée entièrement.
-
-L'indemnité est également applicable en cas de paiement tardif, aux comptables directs du Trésor, des sommes dues au titre de
-la taxe sur les salaires mentionnée à l'article 1679.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1679
-
-_Cité par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 93 (V)
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 94 (V)
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 95 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Arrêté du 25 novembre 2010 - art. (Ab)
-  - Arrêté du 12 mars 2013 - art. (V)
-  - Décret n°2016-268 du 4 mars 2016 - art. 3 (VD)
-  - Arrêté du 22 novembre 2016 - art. (V)
-  - Code de la construction et de l'habitation. - art. R452-25-5 (V)
-  - Code des assurances - art. L310-12-4 (VT)
-  - Code des transports - art. R1261-8 (V)
-  - Code général des collectivités territoriales - art. L2224-31 (VT)
-  - Code général des impôts, CGI. - art. 125 C (Ab)
-  - Code général des impôts, CGI. - art. 1456 (V)
-  - Code général des impôts, CGI. - art. 150-0 B quater (V)
-  - Code général des impôts, CGI. - art. 150-0 B ter (V)
-  - Code général des impôts, CGI. - art. 150-0 C (V)
-  - Code général des impôts, CGI. - art. 150-0 D bis (Ab)
-  - Code général des impôts, CGI. - art. 156 (VT)
-  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
-  - Code général des impôts, CGI. - art. 1691 bis (V)
-  - Code général des impôts, CGI. - art. 1693 bis (V)
-  - Code général des impôts, CGI. - art. 1693 quater (V)
-  - Code général des impôts, CGI. - art. 1693 quinquies (VT)
-  - Code général des impôts, CGI. - art. 1693 sexies (V)
-  - Code général des impôts, CGI. - art. 1716 bis (V)
-  - Code général des impôts, CGI. - art. 1723 decies (Ab)
-  - Code général des impôts, CGI. - art. 1723 quater (VT)
-  - Code général des impôts, CGI. - art. 1727-0 A (V)
-  - Code général des impôts, CGI. - art. 1731 A (V)
-  - Code général des impôts, CGI. - art. 1731 A bis (VD)
-  - Code général des impôts, CGI. - art. 1757 (V)
-  - Code général des impôts, CGI. - art. 1759 (V)
-  - Code général des impôts, CGI. - art. 1784 (V)
-  - Code général des impôts, CGI. - art. 1785 (V)
-  - Code général des impôts, CGI. - art. 1840 G ter (V)
-  - Code général des impôts, CGI. - art. 210 E (V)
-  - Code général des impôts, CGI. - art. 214 (V)
-  - Code général des impôts, CGI. - art. 217 decies (V)
-  - Code général des impôts, CGI. - art. 217 octies (V)
-  - Code général des impôts, CGI. - art. 217 terdecies (VT)
-  - Code général des impôts, CGI. - art. 217 undecies (V)
-  - Code général des impôts, CGI. - art. 219 (VT)
-  - Code général des impôts, CGI. - art. 220 septies (P)
-  - Code général des impôts, CGI. - art. 235 ter XA (V)
-  - Code général des impôts, CGI. - art. 235 ter ZCA (Ab)
-  - Code général des impôts, CGI. - art. 235 ter ZD (V)
-  - Code général des impôts, CGI. - art. 237 bis A (V)
-  - Code général des impôts, CGI. - art. 238 sexdecies (V)
-  - Code général des impôts, CGI. - art. 277 A (VD)
-  - Code général des impôts, CGI. - art. 302 bis K (V)
-  - Code général des impôts, CGI. - art. 39 bis A (V)
-  - Code général des impôts, CGI. - art. 39 quaterdecies (V)
-  - Code général des impôts, CGI. - art. 39 ter (P)
-  - Code général des impôts, CGI. - art. 39 ter B (Ab)
-  - Code général des impôts, CGI. - art. 44 septies (V)
-  - Code général des impôts, CGI. - art. 54 sexies (V)
-  - Code général des impôts, CGI. - art. 655 (V)
-  - Code général des impôts, CGI. - art. 72 D (Ab)
-  - Code général des impôts, CGI. - art. 72 D bis (Ab)
-  - Code général des impôts, CGI. - art. 793 bis (V)
-  - Code général des impôts, CGI. - art. 793 quater (V)
-  - Code général des impôts, CGI. - art. 795 A (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 383 (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 50 undecies (V)
-  - Code monétaire et financier - art. L612-20 (V)
-  - Livre des procédures fiscales - art. L208 (V)
-  - Livre des procédures fiscales - art. L209 (VD)
-  - Livre des procédures fiscales - art. L247 (V)
-  - Livre des procédures fiscales - art. L62 (V)
-  - Livre des procédures fiscales - art. L62 B (V)
-  - Livre des procédures fiscales - art. L62 C (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1728
-
-Lorsqu'une personne physique ou morale ou une association tenue de souscrire ou de présenter une déclaration ou un acte
-comportant l'indication de bases ou éléments à retenir pour l'assiette, la liquidation ou le paiement de l'un des impôts,
-droits, taxes, redevances ou sommes quelconques établis ou recouvrés par la direction générale des impôts déclare ou fait
-apparaître une base ou des éléments d'imposition insuffisants, inexacts ou incomplets ou effectue un versement insuffisant,
-le montant des droits éludés est majoré soit de l'indemnité de retard prévue à l'article 1727 s'il s'agit des versements,
-impôts ou taxes énumérés audit article, soit d'un intérêt de retard calculé dans les conditions fixées à l'article 1734.
-
-Lorsqu'un contribuable fait connaître, par une indication expresse portée sur la déclaration ou l'acte, ou dans une note y
-annexée, les motifs de droit ou de fait pour lesquels il ne mentionne pas certains éléments d'imposition en totalité ou en
-partie, ou donne à ces éléments une qualification qui entraînerait, si elle était fondée, une taxation atténuée, ou fait état
-de déductions qui sont ultérieurement reconnues injustifiées, les redressements opérés à ces titres n'entraînent pas
-l'application de l'indemnité ou de l'intérêt de retard prévu ci-dessus.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 12 mars 2013 - art. (V)
-  - Code des douanes - art. 266 terdecies (Ab)
-  - Code général des collectivités territoriales - art. L2333-95 (V)
-  - Code général des impôts, CGI. - art. 1595 quater (Ab)
-  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
-  - Code général des impôts, CGI. - art. 1684 (VT)
-  - Code général des impôts, CGI. - art. 1691 bis (V)
-  - Code général des impôts, CGI. - art. 1727 (V)
-  - Code général des impôts, CGI. - art. 1729 A (V)
-  - Code général des impôts, CGI. - art. 1729 B (V)
-  - Code général des impôts, CGI. - art. 1729-0 A (V)
-  - Code général des impôts, CGI. - art. 1731 bis (VD)
-  - Code général des impôts, CGI. - art. 1740 A bis (V)
-  - Code général des impôts, CGI. - art. 1740 B (V)
-  - Code général des impôts, CGI. - art. 1756 (VT)
-  - Code général des impôts, CGI. - art. 1758 A (V)
-  - Code général des impôts, CGI. - art. 1763 A (V)
-  - Code général des impôts, CGI. - art. 1840 C (M)
-  - Code général des impôts, CGI. - art. 1840 D (V)
-  - Code général des impôts, CGI. - art. 1840 F (V)
-  - Code général des impôts, CGI. - art. 302 bis K (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 93 (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
-  - Livre des procédures fiscales - art. L228 (V)
-  - Livre des procédures fiscales - art. L96 G (VD)
-
-_Cite_:
-
-  - CGI 1727
-  - CGI 1734
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1730
-
-I. – L'indemnité ou l'intérêt de retard et les majorations prévus aux articles 1728 et 1729-1 ne sont pas applicables en ce
-qui concerne les droits dus à raison de l'insuffisance des prix ou évaluations déclarés pour la perception des droits
-d'enregistrement ou de la taxe de publicité foncière ainsi qu'en ce qui concerne les impôts sur les revenus et les taxes
-accessoires autres que la taxe d'apprentissage, lorsque l'insuffisance des chiffres déclarés n'excède pas le dixième de la
-base d'imposition.
-
-II. – Pour l'application du I, sont assimilés à une insuffisance de déclaration lorsqu'ils ne sont pas justifiés :
-
-a. Les charges ouvrant droit aux réductions d'impôt prévues aux articles 199 sexies, 199 sexies C et 199 septies ;
-
-b. Les dépenses de tenue de comptabilité et d'adhésion à centre de gestion ou à une association agréés ouvrant droit à la
-réduction d'impôt prévue à l'article 199 quater B ;
-
-c. Les achats nets de valeurs mobilières ouvrant droit à la réduction d'impôt prévue à l'article 199 quinquies ;
-
-d. Les dépenses de recherche ouvrant droit au crédit d'impôt prévu à l'article 244 quater B ;
-
-e. Les dépôts dans les fonds salariaux ouvrant droit à la réduction d'impôt prévue à l'article 199 octies ;
-
-f. La base sur laquelle a été calculée la réduction prévue à l'article 199 nonies. III Pour l'application du I, la base sur
-laquelle a été calculée la réduction d'impôt prévue à l'article 199 nonies est assimilée à une insuffisance de déclaration en
-cas de non-respect de l'engagement ou de cession du logement.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 28 mars 2011 (V)
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 95 (V)
-  - Code de la sécurité sociale. - art. L136-6 (M)
-  - Code du patrimoine. - art. L524-9 (MMN)
-  - Code général des impôts, CGI. - art. 1663 B (VD)
-  - Code général des impôts, CGI. - art. 1681 A (VT)
-  - Code général des impôts, CGI. - art. 1681 F (V)
-  - Code général des impôts, CGI. - art. 1681 quater A (V)
-  - Code général des impôts, CGI. - art. 1681 ter (VD)
-  - Code général des impôts, CGI. - art. 1724 quinquies (VD)
-  - Code général des impôts, CGI. - art. 1727 (V)
-  - Code général des impôts, CGI. - art. 1731 (VD)
-  - Code général des impôts, CGI. - art. 1849 (V)
-  - Code général des impôts, CGI. - art. 1912 (VD)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies A (VT)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZH (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 357 G (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 382 C (VD)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 382 D (VT)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 382 E (VD)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C septies (VD)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 383-0 ter (VD)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 188 ter (Ab)
-
-_Cite_:
-
-  - CGI 199 nonies
-  - CGI 199 septies
-  - CGI 199 sexies
-  - CGI 199 sexies C
-
-_Modifié par_:
-
-  - Loi n°84-1208 du 29 décembre 1984 - art. 81 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-  - Loi n°84-1208 du 29 décembre 1984 - art. 82 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-_Codifié par_:
-
-  - Décret n°85-1007 1985-09-24
-
+### DISPOSITIONS COMMUNES.<a id=1151></a>
 
 ###### Article 1731 A
 
@@ -59000,33 +60685,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Livre des procédures fiscales - art. L. 95 A
-
-
-###### Article 1732
-
-Dans les cas de dissimulation définis à l'article 1649 quinquies B il est dû une amende égale au double des droits, impôts ou
-taxes réellement exigibles.
-
-Cette amende est à la charge de toutes les parties à l'acte ou à la convention qui en sont tenues solidairement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1649 quinquies B
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1691 bis (V)
-  - Code général des impôts, CGI. - art. 1731 bis (VD)
-  - Code général des impôts, CGI. - art. 1758 A (V)
-  - Livre des procédures fiscales - art. L228 (V)
-  - Livre des procédures fiscales - art. L45 (V)
-  - Livre des procédures fiscales - art. L80 E (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 1733
@@ -59062,138 +60720,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°81-866 1981-09-15
-
-
-###### Article 1734
-
-1. Les intérêts de retard sont calculés à partir du premier jour du mois suivant celui au cours duquel l'impôt aurait dû être
-acquitté.
-
-2. Toutefois, en ce qui concerne les impôts sur les revenus et les taxes accessoires, autres que l'impôt sur les sociétés, la
-taxe d'apprentissage, la participation des employeurs au développement de la formation professionnelle continue, les retenues
-opérées au titre de l'impôt sur le revenu et de la taxe sur les salaires, le point de départ du calcul des intérêts de retard
-prévus à l'article 1728 et à l'article L 62 du livre des procédures fiscales est le 1er juillet de l'année suivant celle au
-titre de laquelle l'imposition est établie.
-
-En cas d'imposition établie dans les conditions fixées aux articles 201 à 204, ce point de départ est le premier jour du
-quatrième mois suivant celui de l'expiration du délai de déclaration.
-
-3. Le calcul des intérêts est arrêté le dernier jour du mois de paiement.
-
-Toutefois, pour les impôts et taxes auxquels s'applique le 2, le calcul est arrêté, soit le dernier jour du mois suivant
-celui au cours duquel la base d'imposition a été notifiée au contribuable, soit, au cas de taxation ou rectification d'office
-ou d'échelonnement d'impositions supplémentaires, le dernier jour du mois suivant celui au cours duquel le rôle doit être mis
-en recouvrement.
-
-4. Le taux des intérêts de retard est fixé, par mois, à 0,75 % du montant des droits correspondant à l'insuffisance,
-l'inexactitude ou l'omission relevée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1728
-  - CGI 201
-  - CGI 201 ter
-  - CGI 202
-  - CGI 203
-  - CGI 204
-  - CGI L62
-
-_Abrogé par_:
-
-  - Loi n°87-502 1987-07-08 art. 2 VI JORF 9 juillet 1987
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
-
-_Cité par_:
-
-  - Code général de la propriété des personnes publ... - art. L2222-22 (V)
-  - Code général des impôts, CGI. - art. 1789 (V)
-  - Livre des procédures fiscales - art. L45 (V)
-
-
-###### Article 1735 bis
-
-I  Lorsque l'impôt sur les sociétés est dû sur la totalité des sommes prélevées figurant depuis moins de quatre ans [*délai*]
-à la réserve spéciale visée à l'article 209 quater A-I [*bénéfices des entreprises de construction de logements*], il est
-majoré des intérêts de retard prévus à l'article 1734, décomptés à partir de la clôture de l'exercice de réalisation du
-bénéfice.
-
-II  La majoration prévue au I est également applicable suivant les mêmes modalités lorsque l'obligation de réinvestir définie
-à l'article 209 quater B-I cesse d'être remplie moins de sept ans après la réalisation des bénéfices.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1734
-  - CGI 209 quater A I
-  - CGI 209 quater B I
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1736
-
-Les amendes, majorations, indemnités et intérêts de retard prévus aux articles 1725 à 1734, 1740 ter, 1756, 1756 ter, 1759
-bis, 1763 à 1768, 1768 bis, 1768 ter, 1770 bis, 1784, 1785 D-III, 1826 à 1836 et 1840 H à 1840 N quater ainsi que les droits
-en sus sont constatés par l'administration fiscale.
-
-Le recouvrement et le contentieux de ces sanctions sont assurés et suivis, dans les délais et selon les règles applicables à
-la catégorie d'impôts qu'ils concernent, contre tous les débiteurs tenus du principal desdits impôts ou déclarés solidaires
-par le présent code pour le paiement des pénalités.
-
-En cas de décès du contrevenant ou s'il s'agit d'une société, en cas de dissolution, les amendes, majorations, indemnités et
-intérêts dont il s'agit constituent une charge de la succession ou de la liquidation.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: "compartiment spécial du hors-cote" sont remplacés, dans toutes les dispositions législatives existantes, par les mots : "second marché" et après les mots : "cote officielle", sont insérés les mots : "ou à la cote du second marché" aux articles 200,
-  - SPEC_APPLI: Loi n°83-1 du 3 janvier 1983 - art. 47, v. init.
-  - HISTO: JORF 30 DECEMBRE 1976)
-  - SPEC_APPLI: Les mots :
-
-_Cite_:
-
-  - CGI 1725 A CGI 1734
-  - CGI 1740 ter
-  - CGI 1756
-  - CGI 1756 ter
-  - CGI 1759 bis
-  - CGI 1763 A CGI 1768
-  - CGI 1768 bis
-  - CGI 1768 ter
-  - CGI 1770 bis
-  - CGI 1784
-  - CGI 1785 D III
-  - CGI 1826 A CGI 1836
-  - CGI 1840 H A CGI 1840 N quater
-
-_Modifié par_:
-
-  - Loi n°76-1232 du 29 décembre 1976 - art. 70 (P)
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
-
-_Cité par_:
-
-  - Loi n°2018-898 du 23 octobre 2018 - art. 10 (V)
-  - Code général des impôts, CGI. - art. 1649 A bis (V)
-  - Code général des impôts, CGI. - art. 1649 A quater (V)
-  - Code général des impôts, CGI. - art. 1649 A ter (V)
-  - Code général des impôts, CGI. - art. 1729-0 A (V)
-  - Code général des impôts, CGI. - art. 1754 (V)
-  - Code général des impôts, CGI. - art. 240 (V)
-  - Code général des impôts, CGI. - art. 990 C (Ab)
 
 
 ###### Article 1739
@@ -59243,389 +60769,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L26
 
 
-###### Article 1740
-
-1. Toute contravention aux dispositions relatives au droit de communication et, notamment, le refus de communication constaté
-par procès-verbal, la déclaration que les livres, contrats ou documents ne sont pas tenus ou leur destruction avant les
-délais prescrits est punie d'une amende de 10 à 100 F.
-
-Indépendamment de cette amende, les sociétés ou compagnies françaises ou étrangères et tous autres assujettis aux
-vérifications des agents de l'administration, doivent, en cas d'instance, être condamnés à représenter les pièces ou
-documents non communiqués, sous une astreinte de 1 F au minimum par chaque jour de retard. Cette astreinte, non soumise à
-décimes, commence à courir de la date de la signature par les parties ou de la notification du procès-verbal qui est dressé
-pour constater le refus d'exécuter le jugement régulièrement signifié ; elle ne cesse que du jour où il est constaté, au
-moyen d'une mention inscrite par un agent de contrôle sur un des principaux livres de la société ou de l'établissement, que
-l'administration a été mise à même d'obtenir la communication ordonnée.
-
-Le recouvrement de l'amende et de l'astreinte est assuré, les réclamations et les instances sont présentées ou introduites et
-jugées suivant les mêmes règles que celles applicables aux impôts pour l'assiette desquels la communication a été requise.
-
-2. Quiconque aura sciemment omis de fournir les renseignements visés à l'article 1649 quinquies-5 ou aura fourni des
-renseignements inexacts sera passible de l'amende prévue au 1.
-
-3. (Disjoint Voir code du domaine de l'Etat, art. L 27).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1649 quinquies 5
-
-_Nouveaux textes_:
-
-  - Code du domaine de l'Etat - art. L27 (M)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1740 quinquies
-
-Les avantages prévus aux II et III de l'article 83 bis, au III de l'article 160 A, ainsi qu'aux articles 220 quater A, 726 et
-834 bis, ne sont plus applicables à compter de l'année au cours de laquelle l'une des conditions prévues à l'article 220
-quater A cesse d'être satisfaite.
-
-Lorsque le rachat de l'entreprise a été réalisé avec l'accord préalable du ministre chargé des finances conformément à
-l'article 220 quater B, les droits rappelés et les crédits d'impôt à rembourser en application de l'alinéa précédent sont
-majorés de 20 p. 100, sans préjudice de l'application de l'intérêt de retard prévu à l'article 1734 et, le cas échéant, des
-pénalités pour manoeuvres frauduleuses mentionnées à l'article 1729.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 160 A III
-  - CGI 1729
-  - CGI 1734
-  - CGI 220 quater B
-  - CGI 220 quatez A
-  - CGI 726
-  - CGI 83 bis II, III
-  - CGI 834 bis
-
-_Créé par_:
-
-  - Loi n°87-416 du 17 juin 1987 - art. 26 () JORF 18 juin 1987
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
-
-
-###### Article 1741
-
-Sans préjudice des dispositions particulières relatées dans la présente codification, quiconque s'est frauduleusement
-soustrait ou a tenté de se soustraire frauduleusement à l'établissement ou au paiement total ou partiel des impôts visés dans
-la présente codification, soit qu'il ait volontairement omis de faire sa déclaration dans les délais prescrits, soit qu'il
-ait volontairement dissimulé une part des sommes sujettes à l'impôt, soit qu'il ait organisé son insolvabilité ou mis
-obstacle par d'autres manœuvres au recouvrement de l'impôt, soit en agissant de toute autre manière frauduleuse, est
-passible, indépendamment des sanctions fiscales applicables, d'une amende de 5.000 F à 250.000 F et d'un emprisonnement d'un
-an à cinq ans. Lorsque les faits ont été réalisés ou facilités au moyen soit d'achats ou de ventes sans facture, soit de
-factures ne se rapportant pas à des opérations réelles, ou qu'ils ont eu pour objet d'obtenir de l'Etat des remboursements
-injustifiés, leur auteur est passible d'une amende de 5.000 F à 500.000 F et d'un emprisonnement de deux à cinq ans.
-
-Toutefois, cette disposition n'est applicable, en cas de dissimulation, que si celle-ci excède le dixième de la somme
-imposable ou le chiffre de 1.000 F.
-
-Le tribunal ordonnera dans tous les cas la publication intégrale ou par extraits des jugements dans le Journal officiel de la
-République française ainsi que dans les journaux désignés par lui et leur affichage intégral ou par extraits pendant trois
-mois sur les panneaux réservés à l'affichage des publications officielles de la commune où les contribuables ont leur
-domicile ainsi que sur la porte extérieure de l'immeuble du ou des établissements professionnels de ces contribuables. Les
-frais de la publication et de l'affichage dont il s'agit sont intégralement à la charge du condamné.
-
-En cas de récidive dans le délai de cinq ans, le contribuable est puni d'une amende de 15.000 F à 700.000 F et d'un
-emprisonnement de quatre ans à dix ans et peut être privé en tout ou partie, pendant cinq ans au moins et dix ans au plus,
-des droits civiques énumérés par l'article 42 du code pénal. L'affichage et la publicité du jugement sont ordonnés dans les
-conditions prévues à l'alinéa précédent.
-
-Les poursuites sont engagées dans les conditions prévues aux articles L 229 à L 231 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°82-1126 du 29 décembre 1982 - art. 74 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
-
-_Cité par_:
-
-  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (VT)
-  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
-  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
-  - Décret n°2009-158 du 11 février 2009 - art. 12 (V)
-  - Loi n°2009-594 du 27 mai 2009 - art. 32 (V)
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
-  - Arrêté du 28 septembre 2011 - art. 2 (V)
-  - Arrêté du 28 septembre 2011 - art. 6 (V)
-  - Arrêté du 2 novembre 2011 - art. 3 (V)
-  - Arrêté du 2 novembre 2011 - art. 4 (V)
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (VT)
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 93 (VT)
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 94 (VT)
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 95 (VT)
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 96 (M)
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 97 (VT)
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 98 (VT)
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 99 (VT)
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VT)
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 62 (VT)
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 63 (VT)
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 64 (VT)
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 65 (VD)
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 66 (VT)
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 67 (VT)
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 68 (VT)
-  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies N (VD)
-  - Code de la commande publique - art. L2141-1 (VD)
-  - Code de la commande publique - art. L2341-1 (VD)
-  - Code de la commande publique - art. L2621-1 (VD)
-  - Code de la commande publique - art. L2623-1 (VD)
-  - Code de la commande publique - art. L2631-1 (VD)
-  - Code de la commande publique - art. L2633-1 (VD)
-  - Code de la commande publique - art. L2641-1 (VD)
-  - Code de la commande publique - art. L2643-1 (VD)
-  - Code de la commande publique - art. L2651-2 (VD)
-  - Code de la commande publique - art. L2651-4 (VD)
-  - Code de la commande publique - art. L2661-2 (VD)
-  - Code de la commande publique - art. L2661-4 (VD)
-  - Code de la commande publique - art. L2671-2 (VD)
-  - Code de la commande publique - art. L2671-4 (V)
-  - Code de la commande publique - art. L2681-2 (VD)
-  - Code de la commande publique - art. L2681-4 (V)
-  - Code de la commande publique - art. L3123-1 (V)
-  - Code de la commande publique - art. L3321-1 (VD)
-  - Code de la commande publique - art. L3331-1 (V)
-  - Code de la commande publique - art. L3341-1 (VD)
-  - Code de la commande publique - art. L3351-2 (VD)
-  - Code de la commande publique - art. L3361-2 (VT)
-  - Code de la commande publique - art. L3371-2 (VT)
-  - Code de la commande publique - art. L3381-2 (VD)
-  - Code de procédure pénale - art. 28-2 (M)
-  - Code de procédure pénale - art. 41-1-2 (V)
-  - Code de procédure pénale - art. 704 (VT)
-  - Code de procédure pénale - art. 705 (V)
-  - Code de procédure pénale - art. 706-1-1 (V)
-  - Code des transports - art. L4316-13 (VT)
-  - Code du sport. - art. L222-11 (V)
-  - Code général des collectivités territoriales - art. L1414-4 (VD)
-  - Code général des impôts, CGI. - art. 1742 (V)
-  - Code général des impôts, CGI. - art. 1743 (V)
-  - Code général des impôts, CGI. - art. 1745 (V)
-  - Code général des impôts, CGI. - art. 1753 (V)
-  - Code général des impôts, CGI. - art. 1783 B (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis H (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZH (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
-  - Code monétaire et financier - art. L561-23 (VT)
-  - Code monétaire et financier - art. L561-29 (VT)
-  - Code monétaire et financier - art. L561-31 (V)
-  - Code monétaire et financier - art. L711-19 (V)
-  - Code monétaire et financier - art. L711-20 (V)
-  - Code monétaire et financier - art. L711-21 (V)
-  - Code monétaire et financier - art. L725-3 (V)
-  - Code monétaire et financier - art. L735-3 (VT)
-  - Code monétaire et financier - art. L745-13 (V)
-  - Code monétaire et financier - art. L755-13 (V)
-  - Code monétaire et financier - art. L765-13 (V)
-  - Code pénal - art. 131-26-2 (V)
-  - Livre des procédures fiscales - art. L227 (V)
-  - Livre des procédures fiscales - art. L231 (V)
-  - Livre des procédures fiscales - art. L233 (V)
-
-_Cite_:
-
-  - CGI L229
-  - CGI L230
-  - CGI L231
-  - Code pénal 42
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales L229 (6è al. du CGI 1741)
-  - Livre des procédures fiscales L230 (6è al. du CGI 1741)
-  - Livre des procédures fiscales L231 (6è al. du CGI 1741)
-
-
-###### Article 1756 bis
-
-I. Nonobstant toutes dispositions contraires, il est interdit à tout établissement de crédit qui reçoit du public des fonds à
-vue ou à moins de cinq ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération supérieure à celle
-fixée, selon les cas, par le comité de la réglementation bancaire ou par décret ou par le ministre chargé de l'économie et
-des finances ; il lui est également interdit d'ouvrir ou de maintenir ouverts dans des conditions irrégulières des comptes
-bénéficiant d'une aide publique, notamment sous forme d'exonération fiscale, ou d'accepter sur ces comptes des sommes
-excédant les plafonds autorisés.
-
-Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la commission bancaire, les infractions aux
-dispositions du présent article sont punies d'une amende fiscale dont le taux est fixé à vingt fois le montant des intérêts
-payés, sans que cette amende puisse être inférieure à 500 F [*montant minimum*].
-
-Un décret pris sur le rapport du ministre de l'économie et des finances fixe les modalités d'application du présent article,
-et notamment les conditions dans lesquelles seront constatées et poursuivies les infractions (1).
-
-II. Les dispositions du I s'appliquent, quels que soient les entreprises, établissements ou organismes dépositaires, au
-régime de l'épargne populaire créé par la loi n° 82-357 du 27 avril 1982 portant création d'un régime d'épargne populaire.
-
-(1) Annexe III, art. 406 A 16 A à 406 A 16 F.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 406 A 16 A à CGIAN3 406 A 16 F
-  - Loi n°82-357 1982-04-27
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
-
-_Modifié par_:
-
-  - Loi n°84-46 1984-01-24 art. 90 JORF 25 janvier 1984
-
-
-###### Article 1756 ter
-
-En cas de manquement à leurs engagements envers l'Etat, les sociétés financières d'innovation visées à l'article 4-III-A de
-la loi n° 72-650 du 11 juillet 1972 qui ont conclu une convention avec le ministre de l'économie et des finances dans les
-conditions prévues à l'article 4-III-B de la même loi doivent verser au Trésor une indemnité égale à 25 % de la fraction du
-capital social agréé qui n'a pas été employée de manière conforme à la convention (1). En cas de résiliation de la convention
-par le ministre de l'économie et des finances, après avis du ministre du développement industriel et scientifique, cette
-indemnité atteint le quart du capital social agréé ; elle est augmentée d'un intérêt de retard calculé au taux prévu à
-l'article 1734 à compter de la date de la constitution de la société, sans que, toutefois, ce taux puisse excéder 25 %. Le
-montant des indemnités visées ci-dessus est exclu des charges déductibles pour l'assiette du bénéfice imposable. La
-constatation, le recouvrement et le contentieux de ces indemnités sont assurés et suivis comme en matière d'impôts directs.
-
-(1) Voir décret n° 73-124 du 5 février 1973 (J.O. du 10).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1734
-  - Loi n°72-650 1972-07-11 ART. 4 III A, ART. 4 III B
-  - Décret n°73-124 1973-02-05
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-### DISPOSITIONS PARTICULIERES.<a id=1149></a>
-
-###### Article 1757
-
-Les majorations de droits prévues à l'article 1729-1 et 3 sont applicables en ce qui concerne toute personne qui, encaissant
-directement ou indirectement des revenus soit dans les territoires d'outre-mer ou dans les Etats de l'ancienne Communauté
-[*CEE*], soit à l'étranger, ne les a pas mentionnés séparément dans la déclaration prévue à l'article 170. Toutefois, les
-majorations ne portent que sur le supplément de droit dû en application de l'article 173-2.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 170
-  - CGI 1729 1, 3
-  - CGI 173 2
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
-
-_Modifié par_:
-
-  - Décret n°86-1086 1986-10-07 art. 1 JORF 9 octobre 1986 en vigueur le 31 juillet 1986
-
-
-###### Article 1758
-
-Si le contribuable passible des majorations prévues à l'article 1729-1 et 3 et à l'article 1757 n'a encouru ces majorations
-pour aucune des quatre années antérieures à celle au titre de laquelle l'imposition doit être établie, il peut être sursis à
-l'application de la fraction desdites majorations qui excède le montant des intérêts de retard. Le contribuable est déchu du
-bénéfice de ce sursis s'il n'a pas acquitté le montant de l'imposition laissée à sa charge dans le délai qui lui est imparti
-ou si, au cours des quatre années suivantes, il est relevé contre lui une nouvelle infraction en matière fiscale pour
-laquelle sa mauvaise foi est établie. Dans ce cas, les droits correspondant à la fraction de la majoration à laquelle le
-contribuable n'a pas été assujetti peuvent être mis en recouvrement nonobstant l'expiration du droit de reprise prévu aux
-articles L 169 à L 172 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1729 1, 3
-  - CGI 1757
-  - CGI L169
-  - CGI L169-A
-  - CGI L169-B
-  - CGI L170
-  - CGI L171
-  - CGI L172
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
-
-_Abrogé par_:
-
-  - loi 87-502 1987-07-08 art. 5 VII JORF 9 juillet 1987
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1729-0 A (V)
-  - Code général des impôts, CGI. - art. 1731 bis (VD)
-  - Code monétaire et financier - art. L152-4 (V)
-
-**Liens**:
-
-  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
-
-
-###### Article 1758 quater
-
-Lorsque l'entreprise n'a pas effectué, dans le délai prévu à l'article 226 A, le versement mentionné au même article ou a
-effectué un versement insuffisant, le montant de la taxe d'apprentissage est majoré de l'insuffisance constatée (1). 
-
-Le complément de taxe prévu au premier alinéa donne lieu à l'application des dispositions des articles 1727, 1731 et 1758 ter
-lorsqu'il n'a pas été versé dans le délai légal de paiement de la taxe d'apprentissage. 
-
-(1) Disposition applicable pour la taxe d'apprentissage due à raison des salaires versés à compter du 1er janvier 1983.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGI 1731
-  - CGI 1758 ter
-  - CGI 226 A
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
-_Créé par_:
-
-  - Loi n°82-1126 du 29 décembre 1982 - art. 103 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
-
-
-###### Article 1758 ter
-
-Les suppléments de taxe d'apprentissage notifiés à la suite des décisions des comités départementaux statuant sur les
-demandes d'exonération ne donnent lieu qu'à une majoration de 10 % jusqu'au jour de la notification de l'avis de mise en
-recouvrement.
-
-Cette majoration tient lieu de l'indemnité de retard qui serait normalement exigible en vertu des dispositions de l'article
-1727.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
+### DISPOSITIONS PARTICULIERES.<a id=1152></a>
 
 ###### Article 1759 bis
 
@@ -59688,71 +60832,6 @@ _Abrogé par_:
 
   - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
   - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005
-
-
-###### Article 1762 quinquies
-
-En cas d'irrégularités affectant la détermination du montant de la créance définie à l'article 220 quinquies, son imputation
-ou son remboursement, les intérêts de retard prévus à l'article 1734 ou, s'il y a lieu, les majorations prévues à l'article
-1729 sont applicables au titre de l'exercice d'imputation ou de remboursement.
-
-En cas de remboursement indu, les seuils d'application des majorations prévues à l'article 1729 sont appréciés en comparant
-le montant du remboursement indu au montant du remboursement auquel avait droit le redevable.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1729
-  - CGI 1734
-  - CGI 220 quinquies
-
-_Créé par_:
-
-  - Loi n°84-1208 du 29 décembre 1984 - art. 19 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-_Codifié par_:
-
-  - Décret n°85-1007 1985-09-24
-
-
-###### Article 1763 A
-
-Les sociétés et autres personnes morales passibles de l'impôt sur les sociétés qui versent ou distribuent, directement ou par
-l'intermédiaire de tiers, des revenus à des personnes dont, contrairement aux dispositions des articles 117 et 240, elles ne
-révèlent pas l'identité, sont soumises à une pénalité fiscale calculée en appliquant au montant des sommes versées ou
-distribuées le double du taux maximum de l'impôt sur le revenu. Lorsque l'entreprise a spontanément fait figurer dans sa
-déclaration de résultat le montant des sommes en cause, le taux de la pénalité est ramené à une fois et demie ce taux
-maximum.
-
-Les dirigeants sociaux mentionnés aux articles 62 [*gérants*] et 80 ter b-1°, 2° et 3° [*président du conseil
-d'administration, directeur général, administrateur, membres du directoire ou du conseil de surveillance*], ainsi que les
-dirigeants de fait sont solidairement responsables du paiement de cette pénalité, qui est établie et recouvrée comme en
-matière d'impôt sur le revenu (1).
-
-(1) Loi de finances pour 1980, n° 80-30 du 18 janvier 1980, art. 72.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 117
-  - CGI 240
-  - CGI 62
-  - CGI 80 ter b 1°, 2°, 3°
-  - Loi n°80-30 du 18 janvier 1980 - art. 72 (P)
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
-
-**Liens**:
-
-  - HISTO: JORF 19 JANVIER 1980)
-
-_Créé par_:
-
-  - Loi n°80-30 du 18 janvier 1980 - art. 72 (P)
 
 
 ###### Article 1763 B
@@ -59827,198 +60906,6 @@ _Cité par_:
   - Code monétaire et financier - art. D214-80-9 (V)
 
 
-###### Article 1765 bis
-
-Indépendamment de la peine correctionnelle prévue à l'article 1783 A et, le cas échéant, des amendes fiscales fixées par les
-articles 1725 et 1726, les infractions aux dispositions des articles 119 bis-2 et 1672-2 en matière de retenue à la source
-afférente aux revenus de capitaux mobiliers et à celles qui fixent les modalités et conditions d'application de ces articles
-sont punies de l'indemnité de retard prévue à l'article 1727 si elles ont entraîné le défaut de paiement dans le délai légal
-de tout ou partie de l'impôt exigible et, dans le cas contraire, d'une amende fiscale de 10 F [*montant*].
-
-Quiconque aura tiré ou tenté de tirer profit de l'infraction sera passible personnellement de l'indemnité prévue à l'alinéa
-ci-dessus (1).
-
-(1) En ce qui concerne la constatation des infractions, voir livre des procédures fiscales, art. L 212 et L 215.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 119 bis 2
-  - CGI 1672 2
-  - CGI 1725
-  - CGI 1726
-  - CGI 1727
-  - CGI 1783 A
-  - CGI L212
-  - CGI L215
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
-
-**Liens**:
-
-  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
-
-
-###### Article 1768 bis
-
-Les personnes qui ne se conforment pas à l'obligation prévue par l'article 242 ter-1 [*déclaration des produits de placements
-à revenu fixe*] sont personnellement redevables d'une amende fiscale égale au double du montant des sommes non déclarées.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 242 ter 1
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1771
-
-Toute personne, association ou organisme qui n'a pas effectué dans les délais prescrits le versement des retenues opérées au
-titre de l'impôt sur le revenu (art. 1671 A) ou n'a effectué que des versements insuffisants est passible, si le retard
-excède un mois, en sus de l'indemnité prévue à l'article 1727, d'une amende pénale de 3.600 F à 60.000 F et d'un
-emprisonnement d'un an au moins et de cinq ans au plus.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1671 A
-  - CGI 1727
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1671 A (VD)
-  - Code général des impôts, CGI. - art. 1691 (V)
-  - Code général des impôts, CGI. - art. 1753 (V)
-  - Code général des impôts, CGI. - art. 1776 (V)
-  - Code général des impôts, CGI. - art. 1777 (V)
-  - Code général des impôts, CGI. - art. 1778 (V)
-  - Livre des procédures fiscales - art. L231 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1783 bis A
-
-Dans le cas où les personnes exonérées de taxe professionnelle, en vertu de l'article 1459-4°, pour la location en meublé de
-locaux classés dans les conditions prévues à l'article 58-I de la loi n° 65-997 du 29 novembre 1965, sont déchues du bénéfice
-de cette exonération par suite du déclassement desdits locaux, elles sont tenues, en outre, au paiement d'une amende égale au
-montant des droits non perçus.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1459 4°
-  - Loi n°65-997 1965-11-29 ART. 58 I
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1785 A
-
-Au cas où un contrevenant ayant encouru depuis moins de trois ans une des amendes fiscales prévues aux articles 1725, 1726,
-1731, 1740 et 1784 commet intentionnellement une nouvelle infraction, il peut, indépendamment des peines prévues à l'article
-1789, être traduit devant le tribunal correctionnel et puni par ce même tribunal de l'amende fiscale prévue, en cas de
-manoeuvre frauduleuse, à l'article 1731.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1725
-  - CGI 1726
-  - CGI 1731
-  - CGI 1740
-  - CGI 1784
-  - CGI 1789
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1785 B
-
-Dans le cas où l'acompte déterminé selon les règles fixées à l'article 1693 se révèle inférieur de plus de 20 % à la somme
-réellement due, le redevable supporte la pénalité prévue à l'article 1727, sans préjudice, le cas échéant, des autres
-pénalités applicables.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1693
-  - CGI 1727
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1785 C
-
-En cas de déclarations ou de justifications inexactes de la part des exploitants agricoles ou des personnes qui bénéficient
-du régime du remboursement forfaitaire visé aux articles 298 quater et 298 quinquies, l'indemnité de retard ou les
-majorations prévues aux articles 1727 à 1729, décomptées sur la base des remboursements indus, comparés aux sommes
-régulièrement remboursées, sont applicables. L'indemnité de retard est calculée à compter de la date à laquelle les
-remboursements sont intervenus [*point de départ*].
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGI 1728
-  - CGI 1729
-  - CGI 298 quater
-  - CGI 298 quinquies
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1785 D
-
-I  (Abrogé)
-
-II  Les exploitants agricoles nouvellement assujettis à la taxe sur la valeur ajoutée sont passibles de l'indemnité de retard
-visée à l'article 1727 si un ou plusieurs des acomptes qu'ils ont versés lors de leur première année d'imposition sont
-inférieurs de 30 % au moins au montant de l'impôt réellement dû pour le trimestre correspondant.
-
-III  L'impôt éventuellement dû par les exploitants agricoles assujettis à la taxe sur la valeur ajoutée qui ont adressé une
-demande en vue de bénéficier du régime de franchise prévu à l'article 298 bis A, est majoré de 25 % [*pourcentage*] lorsque
-le chiffre d'affaires réalisé, tous droits et taxes compris, excède le triple du chiffre d'affaires limite au-dessous duquel
-la franchise est accordée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGI 298 bis A
-
-_Modifié par_:
-
-  - Loi n°86-1317 du 30 décembre 1986 - art. 17 () JORF 31 décembre 1986
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
-
-
 ###### Article 1785 E
 
 En cas d'option pour l'imputation sur la taxe sur la valeur ajoutée de la déduction pour investissement visée à l'article 244
@@ -60049,259 +60936,6 @@ _Abrogé par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-###### Article 1787
-
-Sauf le cas de manoeuvres frauduleuses, toute pénalité transactionnelle fixée par l'autorité compétente en matière de taxes
-sur le chiffre d'affaires et de taxes assimilées fait d'office l'objet d'une réduction de 50 % de son montant, lorsqu'il
-s'agit d'un contrevenant à l'encontre duquel aucune infraction en matière de taxes sur le chiffre d'affaires n'a été relevée
-depuis la date d'application du décret n° 55-467 du 30 avril 1955.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-467 1955-04-30
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Abrogé par_:
-
-  - Loi n°87-502 1987-07-08 art. 5 VII JORF 9 juillet 1987
-
-
-###### Article 1789
-
-Au cas où un contrevenant ayant encouru depuis moins de trois ans une des amendes fiscales prévues aux articles 1725, 1726,
-1731, 1740 et 1784 commet intentionnellement une nouvelle infraction, il peut être traduit devant le tribunal correctionnel,
-à la requête de l'administration compétente, et puni par ce même tribunal, indépendamment de l'amende fiscale prévue à
-l'article 1785 A, d'un emprisonnement de huit jours à six mois. Le tribunal correctionnel peut ordonner, à la demande de
-l'administration, que le jugement soit publié intégralement ou par extrait dans les journaux qu'il désigne et affiché dans
-les lieux qu'il indique, le tout aux frais du condamné. Toutes les dispositions de l'article 7 modifié de la loi du 1er août
-1905 sur les fraudes et falsifications en matière de produits ou de services sont applicables dans ce cas. L'article 463 du
-code pénal est applicable, même en cas de récidive, au délit prévu par le présent article seulement en ce qui concerne la
-peine d'emprisonnement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1725, 1726, 1731, 1740, 1784, 1785 A
-  - Code pénal 463
-  - Loi n°1905-08-01 art. 7
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1753 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1827
-
-En cas de dissimulation de partie du prix stipulé dans un contrat, et nonobstant l'application éventuelle des dispositions de
-l'article 1840, il est dû solidairement par tous les contractants, outre les droits d'enregistrement ou la taxe de publicité
-foncière et les taxes assimilées afférents à la partie dissimulée du prix, une amende fiscale égale au double de ces droits
-ou taxes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1840
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1828
-
-Dans le cas visé à l'article 1827, quiconque a été convaincu de s'être, d'une façon quelconque, rendu complice de manoeuvres
-destinées à éluder le paiement de l'impôt est personnellement passible, indépendamment de sanctions disciplinaires s'il est
-officier public ou ministériel, d'une amende égale au double de la somme dont le Trésor a été frustré.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1827
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1829
-
-En cas d'insuffisance des prix ou évaluations déclarés pour la perception des droits d'enregistrement ou de la taxe de
-publicité foncière et des taxes assimilées, les sanctions prévues aux articles 1729-1 et 1731 sont applicables du seul fait
-que l'insuffisance relevée excède 50 % de la valeur reconnue aux biens en cause.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1729 1
-  - CGI 1731
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Abrogé par_:
-
-  - Loi n°87-502 1987-07-08 art. 5 IX JORF 9 juillet 1987
-
-
-###### Article 1830
-
-Pour l'application de l'indemnité prévue à l'article 1727 en cas de retard dans l'exécution de la formalité fusionnée, il
-n'est pas tenu compte de la période comprise entre le dépôt de l'acte refusé et la nouvelle présentation à la formalité si
-celle-ci intervient dans le mois de la notification du refus.
-
-Sous la même condition il n'est pas fait application de l'amende fixe prévue dans les cas visés à l'article 1835, lorsque le
-retard résulte du refus de publier.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGI 1835
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1832
-
-Est punie d'une amende égale au double du supplément de droit exigible sans que cette amende puisse être inférieure à 10 F,
-toute contravention aux dispositions des articles 806-III et 807; en outre, les dépositaires, détenteurs ou débiteurs ayant
-contrevenu aux dispositions des articles 806 et 807 sont personnellement tenus des droits exigibles, sauf recours contre le
-redevable.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 806 III
-  - CGI 807
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 C
-
-Les notaires, les huissiers et autres agents ayant pouvoir de faire des actes et procès-verbaux [*officiers publics et
-ministériels*], les greffiers et les autorités administratives qui ont négligé de soumettre à l'enregistrement ou à la
-formalité fusionnée, dans les délais fixés, les actes qu'ils sont tenus de présenter à l'une ou l'autre de ces formalités
-sont personnellement passibles des sanctions prévues aux articles 1727 et 1835. Ils sont, en outre, tenus du paiement des
-droits ou taxes, sauf leur recours contre les parties pour ces droits ou taxes seulement.
-
-Ces dispositions sont applicables aux officiers d'administration de la marine.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGI 1835
-
-_Modifié par_:
-
-  - Décret n°72-788 1972-08-28 ART. 2 JORF 30 AOUT 1972
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1706 (V)
-  - Code général des impôts, CGI. - art. 1840 D (V)
-  - Code général des impôts, CGI. - art. 1840 E (V)
-
-
-###### Article 1840 D
-
-Par dérogation aux dispositions de l'article 1840 C, lorsque les droits d'enregistrement ou la taxe de publicité foncière et
-les taxes assimilées, afférents aux jugements rendus à l'audience qui doivent être enregistrés sur les minutes, aux actes et
-procès-verbaux de vente de prises et de navires ou bris de navires et aux actes administratifs, n'ont pas été consignés aux
-mains des greffiers et des autorités administratives, dans les délais prescrits pour l'enregistrement ou la formalité
-fusionnée, le recouvrement en est poursuivi contre les parties qui supportent, en outre, les sanctions prévues aux articles
-1727 et 1835.
-
-A cet effet, les greffiers et les autorités administratives fournissent aux agents des impôts, dans la décade qui suit
-l'expiration des délais, des extraits par eux certifiés des actes, procès-verbaux et jugements, dont les droits ou taxes ne
-leur ont pas été remis par les parties, à peine, pour chaque acte, procès-verbal et jugement, de l'amende prévue à l'article
-1725, et d'être, en outre, personnellement contraints au paiement des droits ou taxes et pénalités exigibles.
-
-Il leur est délivré récépissé, sur papier libre, de ces extraits. Ce récépissé est inscrit sur leur répertoire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1725
-  - CGI 1727
-  - CGI 1835
-  - CGI 1840 C
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1705 (V)
-  - Code général des impôts, CGI. - art. 1706 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 F
-
-Le prétendu créancier qui a faussement attesté l'existence d'une dette dont la déduction est demandée pour la perception des
-droits de mutation par décès est tenu, solidairement avec le déclarant, au paiement de l'amende prévue à l'article 1731.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1731
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 G
-
-Lorsqu'ils ont négligé de faire, dans les délais prescrits, les déclarations des biens transmis par décès aux héritiers,
-donataires ou légataires, les tuteurs et curateurs supportent personnellement les peines prévues aux articles 1725 et 1727.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1725
-  - CGI 1727
-
-_Cité par_:
-
-  - Décret du 28 juin 1930 - art. 9 (V)
-  - Code général des impôts, CGI. - art. 1929 (VD)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 1840 GA
 
 A défaut de justification de l'exécution de l'engagement visé à l'article 812-I-2°-c à l'expiration du délai d'un an qui y
@@ -60319,121 +60953,22 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 1840 I
-
-Sous réserve des sanctions prévues aux articles 1725 à 1731, toute infraction aux textes qui réglementent le paiement des
-droits de timbre en compte avec le Trésor est passible d'une amende de 100 F.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1725 A CGI 1731
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1753 (V)
-  - Code général des impôts, CGI. - art. 1840 Q (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 K
-
-En cas de contravention aux articles 910 et 911 le souscripteur, l'accepteur, le bénéficiaire ou premier endosseur de l'effet
-non timbré ou non visé pour timbre, sont passibles chacun des sanctions prévues aux articles 1727 à 1731 et 1840 H.
-
-A l'égard des effets compris en l'article 911, outre l'application, s'il y a lieu, de l'alinéa précédent, le premier des
-endosseurs résidant en France, et, à défaut d'endossement en France, le porteur est passible de ces sanctions.
-
-Les dispositions qui précèdent sont applicables aux lettres de change, billets à ordre ou autres effets souscrits en France
-et payables hors de France [*à l'étranger*].
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 910, 911, 1727, 1728, 1729, 1730, 1731, 1840 H
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 L
-
-L'endossement d'un warrant séparé du récépissé non timbré ou non visé pour timbre conformément à la loi, ne peut être
-transcrit ou mentionné sur les registres du magasin, sans que l'administration du magasin encoure les sanctions prévues aux
-articles 1727 à 1731 et 1840 H.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGI 1728
-  - CGI 1729
-  - CGI 1730
-  - CGI 1731
-  - CGI 1840 H
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 1840 N bis
 
 Sans préjudice de la nullité édictée par l'article 1840 V pour les cessions de valeurs mobilières effectuées en contravention
-des dispositions de l'article 979, le vendeur est passible d'une amende fiscale égale au double de la valeur des titres.
-L'amende est recouvrée et les instances sont introduites et jugées comme en matière d'enregistrement.
+des dispositions de l'article 979, le vendeur est passible d'une amende fiscale égale à la valeur des titres. L'amende est
+recouvrée et les instances sont introduites et jugées comme en matière d'enregistrement.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: "compartiment spécial du hors-cote" sont remplacés, dans toutes les dispositions législatives existantes, par les mots : "second marché" et après les mots : "cote officielle", sont insérés les mots : "ou à la cote du second marché" aux articles 200,
-  - HISTO: EDITION 1979-07-01
-  - SPEC_APPLI: Les mots :
-  - SPEC_APPLI: Loi n°83-1 du 3 janvier 1983 - art. 47, v. init.
 
 _Cite_:
 
   - CGI 1840 V
   - CGI 979
 
-
-###### Article 1840 N quater
-
-I  Sous réserve de l'application de l'indemnité prévue à l'article 1727 en cas de retard dans le paiement de la taxe
-différentielle sur les véhicules à moteur [*vignette*] toutes autres infractions à l'application des tarifs fixés
-conformément aux articles 1599 G, 1599 decies et 1599 undecies, aux dispositions de l'article 1599 F, des articles 317 nonies
-à 317 octodecies de l'annexe II au présent code ainsi qu'à celles de l'arrêté prévu à l'article 317 duodecies de la même
-annexe sont sanctionnés par une amende fiscale égale au double de la taxe.
-
-II  (Abrogé)
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGIAN2 1599 F
-  - CGIAN2 1599 G
-  - CGIAN2 1599 decies
-  - CGIAN2 1599 undecies
-  - CGIAN2 317 duodecies
-  - CGIAN2 317 nonies à CGIAN2 317 octodecies
-
 _Modifié par_:
 
-  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
-
-_Codifié par_:
-
-  - Décret n°85-1007 1985-09-24
+  - Loi n°87-502 1987-07-08 art. 5 VI JORF 9 juillet 1987
 
 
 ###### Article 1840 V
