@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1991-07-27
+Version Consolidée au 1991-07-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -32002,14 +32002,18 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 
 1  Sont notamment visés :
 
-- les ventes et les apports en société de terrains à bâtir, des biens assimilés à ces terrains par l'article 691 ainsi que
+- Les ventes et les apports en société de terrains à bâtir, des biens assimilés à ces terrains par l'article 691 ainsi que
 les indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de propriété ou de
 jouissance, ou qui les occupent en droit ou en fait;
 
-- les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont la
+Sont notamment visés par l'alinéa précédent les terrains pour lesquels, dans un délai de quatre ans à compter de la date de
+l'acte qui constate l'opération, l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou commence les
+travaux nécessaires pour édifier un immeuble ou un groupe d'immeubles ou pour construire de nouveaux locaux en surélévation.
+
+- Les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont la
 possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble;
 
-- les livraisons à soi-même d'immeubles.
+- Les livraisons à soi-même d'immeubles.
 
 Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au
 moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations
@@ -32026,6 +32030,19 @@ de marchand de biens;
 - aux opérations portant sur des droits sociaux qui sont afférents à des immeubles ou parties d'immeubles achevés depuis plus
 de cinq ans ou qui, dans les cinq ans de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'objet d'une
 cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens;
+
+3  Les acquisitions de terrains attenants à ceux qui ont été acquis précédemment en vue de la construction de maisons
+individuelles par des personnes physiques pour leur propre usage et à titre d'habitation principale peuvent, à la demande de
+l'acquéreur mentionnée dans l'acte, être soumises à la taxe sur la valeur ajoutée.
+
+Toutefois, cette disposition :
+
+a) N'est applicable qu'à la fraction du terrain attenant qui, compte tenu de la superficie du terrain antérieurement acquis,
+n'excède pas 2 500 mètres carrés par maison ou la superficie minimale exigée par la législation sur le permis de construire
+lorsqu'elle est supérieure ;
+
+b) Est subordonnée à la condition que l'acquisition nouvelle soit effectuée moins de deux ans après l'achèvement de la
+construction.
 
 8° Les prélèvements, utilisations, affectations de biens achetés, importés, extraits, fabriqués ou transformés par les
 assujettis ainsi que les prestations de services qu'ils effectuent lorsque ces opérations sont faites pour des besoins autres
@@ -32048,7 +32065,7 @@ cidre et à poiré par des personnes assujetties à la taxe sur la valeur ajout�
 c  De conserves alimentaires;
 
 d  De pierres précieuses, perles ou objets d'occasion dans la fabrication desquels sont entrées des pierres précieuses ou des
-perles, sous réserve des dispositions de l'article 261-1-3°-b;
+perles ;
 
 11° Les quantités de boissons manquantes chez les marchands en gros en sus des déductions et soumises aux droits indirects;
 
@@ -32087,24 +32104,29 @@ chevaux dont ils sont propriétaires.
 _Cite_:
 
   - Loi n°86-1067 1986-09-30 art. 53
-  - CGI 261 1 3° b
-  - CGI 262 II 2°, 4°
+  - CGI 691, 262
+  - CGIAN2 10 VI
   - CGIAN2 178 A
   - CGIAN2 178 B
   - CGIAN2 178 C
-  - CGIAN2 243 A CGIAN2 259
+  - CGIAN2 243 à CGIAN2 259
   - CGIAN3 65 A
-  - CGIAN4 42 A CGIAN4 46
+  - CGIAN4 42 à CGIAN4 46
   - CGIAN4 45
-  - Code de la construction L432-2
+
+_Modifié par_:
+
+  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991
+  - Loi n°91-716 du 26 juillet 1991 - art. 4 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 _Cité par_:
 
+  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
   - Arrêté du 30 décembre 2010 - art. 8 (V)
   - Arrêté du 30 décembre 2010 - art. Annexe IX (V)
   - Arrêté du 30 décembre 2010 - art. Annexe VIII (V)
   - Arrêté du 3 mai 2012 (V)
-  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
   - Loi n°2013-1278 du 29 décembre 2013 - art. 27 (V)
   - Décret n°2013-1299 du 27 décembre 2013 (V)
   - Décret n°2015-793 du 30 juin 2015 (V)
@@ -32160,16 +32182,6 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 33 (V)
   - Livre des procédures fiscales - art. L176 (V)
   - Livre des procédures fiscales - art. L59 A (V)
-
-_Modifié par_:
-
-  - Loi n°86-1067 1986-09-30 art. 53 JORF 1er octobre 1986
-  - Loi n°86-1210 1986-11-27 art. 4 VIII JORF 28 novembre 1986
-  - Loi n°86-1317 du 30 décembre 1986 - art. 13 (P) JORF 31 décembre 1986 en vigueur le 1er janvier 1987
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
 
 
 ###### Article 258
@@ -32694,8 +32706,6 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 b. Les achats d'objets visés à l'article 257-10°-d opérés en vue d'une vente aux enchères publiques imposée comme il est dit
 ci-dessus ;
 
-c. (Abrogé) ;
-
 4° Les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les
 marchés à terme à l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
@@ -32771,12 +32781,7 @@ d'enseignement, et les textes subséquents ;
 b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, professionnel, artistique ou sportif, dispensés
 par des personnes physiques qui sont rémunérées directement par leurs élèves ;
 
-5° Les prestations de services et les livraisons de biens effectuées dans le cadre de leur activité libérale par les auteurs
-des oeuvres de l'esprit désignées à l'article 3 de la loi n° 57-298 du 11 mars 1957 sur la propriété littéraire et
-artistique, à l'exclusion des opérations réalisées par les architectes et les auteurs de logiciels ;
-
-6° Les prestations fournies par les interprètes des oeuvres de l'esprit, les traducteurs et interprètes de langues
-étrangères, les guides et accompagnateurs, les sportifs, les artistes du spectacle et les dresseurs d'animaux ;
+5° 6° (Abrogé) (art. 5 VII, à compter du 1er octobre 1991);
 
 7° (Abrogé) (à compter du 1er avril 1991);
 
@@ -32812,7 +32817,7 @@ août 1960 d'orientation agricole, réalisées par les sociétés d'aménagement
 application de ce même article et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
 
 Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n°
-90-85 du 23 janvier 1990 (5).
+90-85 du 23 janvier 1990.
 
 d bis. Toutes les cessions effectuées par les sociétés d'aménagement foncier et d'établissement rural qui, ayant pour objet
 le maintien, la création ou l'agrandissement d'exploitations agricoles, sont assorties d'un engagement de l'acquéreur pris
@@ -32825,7 +32830,7 @@ juin 1930 fixant les conditions d'application de l'article 15 de la loi de finan
 du code forestier.
 
 Les dispositions des deux alinéas précédents ne s'appliquent qu'aux cessions des immeubles acquis postérieurement à la date
-de publication de la loi n° 90-85 du 23 janvier 1990 (5).
+de publication de la loi n° 90-85 du 23 janvier 1990.
 
 e. (Disposition périmée) ;
 
@@ -32895,7 +32900,7 @@ interposée, aucun intérêt direct ou indirect dans les résultats de l'exploit
 de l'actif, sous réserve du droit de reprise des apports.
 
 Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil
-d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (6) ;
+d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (5) ;
 
 1° bis Les opérations effectuées par les associations intermédiaires agréées en application de l'article L128  du code du
 travail, dans les conditions prévues au 1° ;
@@ -32916,26 +32921,29 @@ des personnes mentionnées à l'article 260-1° ;
 (2) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
 (3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de
-location avec option d'achat avant le 8 septembre 1989, ni aux véhicules destinés à la location simple, inscrits à l'actif
-des entreprises de location avant le 8 septembre 1989, si ces véhicules sont cédés à des personnes autres que des négociants
-en biens d'occasion (Loi n° 89-935 du 29 décembre 1989, art. 31 I 2 et 3).
+location avec option d'achat avant le 8 septembre 1989.
 
 (4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
 
-(5) Loi complémentaire à la loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son
-environnement économique et social (JO du 25 janvier 1990).
+(5) Annexe II, art. 242 B et 242 octies.
 
-(6) Annexe II, art. 242 B et 242 octies.
+**Nota:**
+
+NOTA : Loi 91-716, art. 4 III " - Les dispositions du présent article entrent en vigueur le 15 juillet 1991. Toutefois, si la
+présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-dessus entrent en vigueur le premier lundi
+qui suit cette promulgation" ;
+
+Art. 5 VII "Ces dispositions sont applicables à compter du 1er octobre 1991."
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 733, 257, 235 bis, 1378 quinquies, 260, CGIAN3 71
+  - CGI 257, 733, 235 bis, 1378 quinquies, 260
   - CGIAN2 242 B
   - CGIAN2 242 octies
+  - CGIAN3 71
   - Décret n°56-931 1956-09-14
-  - Loi n°57-298 du 11 mars 1957 - art. 3 (M)
   - Loi n°60-791 1960-08-02
   - Loi n°60-808 1960-08-05
   - Décret n°61-610 1961-06-14
@@ -32946,8 +32954,6 @@ _Cite_:
   - Loi n°70-1318 1970-12-31 art. 31
   - Loi n°71-556 1971-07-12
   - Loi n°72-616 1972-07-05
-  - Loi n°88-1202 1988-12-30
-  - Loi n°89-935 1989-12-29 art. 31 I 2, 3
   - Loi n°90-85 1990-01-23
   - Code forestier - art. L222-1 (M)
   - Code du travail - art. L128 (M)
@@ -32993,13 +32999,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 32 (V) JORF 30 décembre 1990
-  - Loi - art. 33 () JORF 30 décembre 1990
-  - Loi n°90-1168 1990-12-29 art. 32 I, V, art. 33 I Finances pour 1991 JORF 30 décembre 1990
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
+  - Loi n°91-716 1991-07-26 art. 5 I, VII JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 4 III
 
 
 ###### Article 261 A
@@ -35285,60 +35285,6 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 1996-06-25 3C-3-96
 
 
-###### Article 281 quinquies
-
-I. La taxe sur la valeur ajoutée est perçue au taux de 13 % (1) en ce qui concerne les ventes et les apports en société de
-terrains à bâtir, de biens assimilés à ces terrains par le I de l'article 691, autres que ceux visés au 2° dudit I, ainsi que
-les indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de propriété ou de
-jouissance (2).
-
-II. Le taux de 13 % peut s'appliquer aux acquisitions de terrains attenant à ceux acquis précédemment en vue de la
-construction de maisons individuelles par des personnes physiques pour leur propre usage et à titre d'habitation principale
-(3). Toutefois, le bénéfice de cette disposition :
-
-N'est applicable qu'à la fraction du terrain attenant qui, compte tenu de la superficie du terrain antérieurement acquis,
-n'excède pas 2.500 mètres carrés par maison ou la superficie minimale éxigée par la législation sur le permis de construire
-lorsqu'elle est supérieure;
-
-Est subordonné à la condition que l'acquisition nouvelle soit effectuée moins de deux ans aprés l'achèvement de la
-construction.
-
-(1) Taux applicable à compter du 1er juillet 1986.
-
-(2) Voir toutefois annexe II, art. 253.
-
-(3) Voir annexe II, art. 255.
-
-du code de la construction et de l'habitation.
-
-**Nota:**
-
-NOTA : Loi 91-716 art. 10 VI" Les dispositions du présent article s'appliquent aux opérations réalisées à compter du 15
-juillet 1991. Toutefois, si la présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-dessus entrent
-en vigueur le premier lundi qui suit cette promulgation.
-
-Toutefois, le redevable de la taxe peut bénéficier des dispositions actuellement en vigueur pour les acquisitions de terrains
-à bâtir réalisées avant le 1er janvier 1992, pour autant que l'accord des parties ait été formalisé par un acte enregistré
-avant le 15 juillet 1991."
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 691 I 2°
-  - CGIAN2 253
-  - CGIAN2 255
-
-_Créé par_:
-
-  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre  1985 en vigueur le 1er juillet 1986
-  - Décret n°86-414 1986-03-13  art. 1 2° JORF 15 mars 1986, textes incorporés au code le 31 juillet 1986
-
-_Abrogé par_:
-
-  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 10 VI
-
-
 ###### Article 281 septies
 
 La taxe sur la valeur ajoutée est perçue au taux de 22% pour les opérations d'achat, d'importation, de vente, de livraison,
@@ -36279,9 +36225,9 @@ _Créé par_:
 
 ###### Article 291
 
-I  Les importations de biens sont soumises à la taxe sur la valeur ajoutée.
+I Les importations de biens sont soumises à la taxe sur la valeur ajoutée.
 
-II  Toutefois, sont exonérés :
+II Toutefois, sont exonérés :
 
 1° Les biens destinés à être placés sous l'un des régimes douaniers suivants : entrepôt, magasins et aires de dédouanement,
 perfectionnement actif, transit, ainsi que les prestations de services relatives à ces biens (1);
@@ -36299,14 +36245,16 @@ Cet arrêté détermine également les modalités d'application du présent para
 
 3° Les produits suivants :
 
-- organes, sang et lait humains;
+organes, sang et lait humains;
 
-- devises, billets de banque et monnaies qui sont des moyens de paiement légaux, à l'exception des billets et monnaies de
-collection;     - or à l'état de minerai;
+devises, billets de banque et monnaies qui sont des moyens de paiement légaux, à l'exception des billets et monnaies de
+collection;
 
-- or brut en masses ou lingots, grenailles, or natif, déchets et débris d'ouvrages;
+or à l'état de minerai;
 
-- déchets neufs d'industrie et matières de récupération;
+or brut en masses ou lingots, grenailles, or natif, déchets et débris d'ouvrages;
+
+déchets neufs d'industrie et matières de récupération;
 
 4° L'or, sous toutes ses formes, importé par les instituts d'émission;
 
@@ -36319,13 +36267,14 @@ commercialisation importés par les entreprises de pêche maritime;
 7° Les prothèses dentaires importées par les dentistes ou prothésistes dentaires;
 
 8° Les oeuvres d'art originales, les timbres, objets de collection ou d'antiquité, lorsque l'importation est réalisée
-directement à destination, soit de négociants qui destinent ces oeuvres ou objets à la revente, soit d'établissements agréés
-par le ministre de la culture et de la communication; les conditions d'application de ces dispositions sont fixées par arrêté
-du ministre du budget (5);
+directement à destination d'établissements agréés par le ministre de la culture et de la communication; les conditions
+d'application de ces dispositions sont fixées par arrêté du ministre du budget (5) (art. 5 VII, modification en vigueur le
+1er octobre 1991);
 
-9° Les objets d'occasion, d'antiquité ou de collection, oeuvres d'art originales, pierres précieuses et perles visés au a du
-3° du 1 de l'article 261 lorsqu'ils sont importés en vue d'une vente aux enchères publiques soumise au droit proportionnel
-d'enregistrement prévu à l'article 733.
+9° Les objets d'occasion, d'antiquité ou de collection, oeuvres d'art originales répondant aux conditions qui sont fixées par
+décret (6), pierres précieuses et perles, lorsqu'ils sont importés en vue d'une vente aux enchères publiques, par un
+assujetti à la taxe sur la valeur ajoutée redevable de la taxe au titre de cette vente ou exonéré en application du I de
+l'article 262 (art. 4 III, entrée en vigueur le 29 juillet 1991).
 
 III  Sont également exonérées de la taxe sur la valeur ajoutée :
 
@@ -36345,9 +36294,19 @@ qui portent sur des bateaux de sport ou de plaisance.
 
 (3) Arrêté du 30 décembre 1983 (JO du 25 janvier 1984).
 
-(4)  Annexe IV, art. 42 à 46.
+(4) Annexe IV, art. 42 à 46.
 
-(5)  Annexe IV, art. 50 nonies et 50 decies.
+(5) Annexe IV, art. 50 decies.
+
+(6) Annexe III, art. 71 A.
+
+**Nota:**
+
+NOTA : Loi 91-716 art. 4 III " - Les dispositions du présent article entrent en vigueur le 15 juillet 1991. Toutefois, si la
+présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-dessus entrent en vigueur le premier lundi
+qui suit cette promulgation."
+
+Art. 5 VII "Ces dispositions sont applicables à compter du 1er octobre 1991."
 
 **Liens relatifs à cet article**
 
@@ -36356,24 +36315,19 @@ _Cite_:
   - Arrêté 1983-12-30
   - Arrêté 1986-01-15
   - CEE règlement 3599-82 1982-12-21 Conseil
-  - CGI 261 1 3° a
-  - CGI 262 II 2° A 5°
-  - CGI 733
-  - CGIAN3 73 F
-  - CGIAN3 73 G
-  - CGIAN3 73 H
-  - CGIAN4 42
-  - CGIAN4 43
-  - CGIAN4 44
-  - CGIAN4 45
-  - CGIAN4 46
+  - CGI 262 I II 2° A 5°, 261 1 3° a, 733
+  - CGIAN3 71 A, CGIAN3 73 F à 73 H
+  - CGIAN4 42 à CGIAN4 46
   - CGIAN4 50 decies
-  - CGIAN4 50 nonies
 
 _Modifié par_:
 
-  - Loi n°85-1404 1985-12-30 art. 18 II, III finances rectificative pour 1985, JORF 31 décembre 1985
-  - Loi n°85-1404 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985
+  - Loi n°91-716 1991-07-26 art. 4 I 3, art. 5 IV JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 4 III
+  - Loi n°91-716 du 26 juillet 1991 - art. 4 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 4 III
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 4 III, art. 5 VII
 
 _Cité par_:
 
@@ -36828,12 +36782,20 @@ au taux de (1) :
 
 a. 1,05 % [*pourcentage*] pour les opérations visées à l'article 281 quater;
 
-b. 1,75 % pour les opérations visées à l'article 281 sexies;
+b. 1,75 % pour les opérations visées à l'article 281 sexies;    c. (Abrogé) (à compter du 29 juillet 1991, loi 91-716 art. 10
+VI);
 
-c. 5,25 % pour les opérations visées à l'article 281 quinquies (2).   d. 14 % pour les opérations visées à l'article 281
-septies.
+d. 14 % pour les opérations visées à l'article 281 septies.
 
-(1) Taux applicables à compter du 1er juillet 1986.
+**Nota:**
+
+NOTA : Loi 91-716 art. 10 VI " - Les dispositions du présent article entrent en vigueur le 15 juillet 1991. Toutefois, si la
+présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-dessus entrent en vigueur le premier lundi
+qui suit cette promulgation.
+
+"Toutefois, le redevable de la taxe peut bénéficier des dispositions actuellement en vigueur pour les acquisitions de
+terrains à bâtir réalisées avant le 1er janvier 1992, pour autant que l'accord des parties ait été formalisé par un acte
+enregistré avant le 15 juillet 1991."    (1) Taux applicables à compter du 1er juillet 1986.
 
 (2) Voir annexe II, art. 255.
 
@@ -36842,14 +36804,18 @@ septies.
 _Cite_:
 
   - CGI 281 quater
-  - CGI 281 quinquies
   - CGI 281 septies
   - CGI 281 sexies
   - CGIAN2 255
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 10 VI
+
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 17 () JORF 31 décembre 1985 en vigueur le 1er janvier 1988
+  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 10 VI
+  - Modification incorporée dans l'édition du 4 juillet 1992
 
 
 ##### II : Corse<a id=327></a>
@@ -36982,14 +36948,14 @@ vendus en l'état ou sous forme d'autres produits pétroliers.
 1° bis. Ouvrent droit à déduction de la taxe sur la valeur ajoutée, dans les conditions fixées par les articles 271 à 273,
 les achats, importations, livraisons et services portant sur :
 
-a) Les fiouls lourds (ex 27-10-00-79 du tarif des douanes) utilisés comme combustibles;
+a Les fiouls lourds (ex 27-10-00-79 du tarif des douanes) utilisés comme combustibles;
 
-b) Les fractions légères (ex 27-10-00-25 et ex 27-10-00-39 du tarif des douanes) utilisées comme combustibles;
+b Les fractions légères (ex 27-10-00-25 et ex 27-10-00-39 du tarif des douanes) utilisées comme combustibles;
 
-c) Les propanes (ex 27-11-12-99 du tarif des douanes) et les butanes (ex 27-11-13-90 du tarif des douanes) utilisés comme
+c  Les propanes (ex 27-11-12-99 du tarif des douanes) et les butanes (ex 27-11-13-90 du tarif des douanes) utilisés comme
 combustibles;
 
-d) Les produits pétroliers et assimilés visés au tableau B de l'article 265 du code des douanes, utilisés comme matières
+d  Les produits pétroliers et assimilés visés au tableau B de l'article 265 du code des douanes, utilisés comme matières
 premières ou agents de fabrication.
 
 Pour l'application du d, on entend par matières premières les produits entrant dans la composition de produits passibles de
@@ -36998,13 +36964,13 @@ produit fini, sont détruits ou perdent leurs qualités spécifiques au cours de
 à la taxe sur la valeur ajoutée à l'exclusion des produits utilisés pour la carburation, la lubrification proprement dite ou
 la combustion, sous réserve de ce qui est dit aux a, b et c.
 
-1° ter a) La valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le gazole utilisé comme
+1° ter a. La valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le gazole utilisé comme
 carburant est déductible dans les conditions prévues aux articles 271 à 273.
 
 La déduction est limitée à 95 p. 100 du montant de la taxe pour le premier semestre de 1991. Toutefois, cette limitation
 n'est pas applicable à la taxe afférente au gazole utilisé pour la réalisation de transports internationaux.
 
-La déductibilité de la taxe sur la valeur ajoutée est limitée à 80 p. 100 de son montant pour les dépenses afférentes au
+La déductibilité de la taxe sur la valeur ajoutée est limitée à 50 p. 100 (1) de son montant pour les dépenses afférentes au
 gazole utilisé pour un véhicule, un engin ou leur location, exclu du droit à déduction en application des dispositions de
 l'article 273. Cette disposition n'est pas applicable aux véhicules ou engins affectés à l'enseignement de la conduite.
 
@@ -37014,7 +36980,7 @@ articles 262 et 291-II.
 Le gazole visé au présent article s'entend du produit relevant de la position 27-10-00-69 du tarif des douanes et repris au
 tableau B de l'article 265 du code des douanes sous l'indice d'identification 22.
 
-b) Les dispositions du a sont applicables au gaz de pétrole liquéfié (ex 27-11-19 du tarif des douanes) utilisé comme
+b. Les dispositions du a sont applicables au gaz de pétrole liquéfié (ex 27-11-19 du tarif des douanes) utilisé comme
 carburant routier ;
 
 1° quater. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le fioul
@@ -37031,6 +36997,12 @@ conditions prévues aux articles 271 à 273, lorsqu'ils sont utilisés pour les 
 voyageurs ou de marchandises.
 
 En 1989 et en 1990, la déduction est limitée respectivement à un tiers et à deux tiers de son montant. 
+
+1° sexies. La taxe sur la valeur ajoutée afférente aux achats, importations, acquisitions intra communautaires, livraisons et
+services portant sur les produits pétroliers utilisés pour la lubrification est déductible dans les conditions prévues aux
+articles 271 à 273, lorsqu'ils sont utilisés pour des véhicules et engins ouvrant droit à déduction. Cette disposition
+s'applique également si ces produits pétroliers sont utilisés dans les véhicules et engins pris en location quand le prenur
+peut déduire la taxe relative à cette location (2).
 
 2° La taxe sur la valeur ajoutée ayant grevé les biens ou les services utilisés pour l'extraction, la fabrication, le
 transport par pipe-line ou le stockage des produits pétroliers ne peut être déduite, lorsque ces opérations sont effectuées
@@ -37059,13 +37031,13 @@ impôts.
 relevant des positions 27-11-11, 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et repris au tableau B de
 l'article 265 du code des douanes sous les indices d'identification 30, 33, 35, 37, 38 et 39.
 
-7 (Transféré sous l'article L 45 C du livre des procédures fiscales).
+7  (Transféré sous l'article L 45 C du livre des procédures fiscales).
+
+(1) A compter du 29 juillet 1991.
+
+(2) A compter du 1er janvier 1993.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi - art. 7 () JORF 30 décembre 1990
 
 _Cité par_:
 
@@ -37086,9 +37058,14 @@ _Cite_:
   - CGI 266, 267, 271 à 273, 262, 291 II, L45 C
   - Code des douanes - art. 265 (M)
 
+_Modifié par_:
+
+  - Loi n°91-716 1991-07-26 art. 12 I, III 2, IV JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 12 IV
+  - Loi n°91-716 du 26 juillet 1991 - art. 12 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 12 IV
+
 **Liens**:
 
-  - HISTO: Edition du 24 juin 1991
+  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 12 IV premier alinéa
 
 
 ##### IV : Exploitants agricoles<a id=329></a>
@@ -48365,26 +48342,40 @@ _Codifié par_:
 
 ###### Article 733
 
+Sont assujetties à un droit d'enregistrement de 1,10 p. 100 les ventes publiques mentionnées au 6° du 2 de l'article 635 :
+
+1° Des biens meubles incorporels lorsque ces ventes ne sont pas soumises, en raison de leur objet, à un tarif différent ;
+
+2° Des biens meubles corporels lorsque le vendeur n'est pas un assujetti à la taxe sur la valeur ajoutée redevable de la taxe
+au titre de cette opération ou exonéré en application du I de l'article 262.
+
 Lorsqu'elles ne sont pas soumises, en raison de leur objet, à un tarif différent, les ventes publiques mentionnées à
-l'article 635-2-6° des biens meubles corporels désignés à l'article 261-1-3°-a ou de biens meubles incorporels, sont
-assujetties à un droit d'enregistrement de 1,10 % [*taux*].
+l'article 635 2 6° des biens meubles corporels désignés à l'article 261 1 3° a ou de biens meubles incorporels, sont
+assujetties à un droit d'enregistrement de 1,10 %.
 
 Le droit est assis sur le montant des sommes que contient cumulativement le procès-verbal de la vente, augmenté des charges
-imposées aux acquéreurs [*assiette*].
+imposées aux acquéreurs.
 
 Les adjudications à la folle enchère de biens mentionnés au premier alinéa sont assujetties au même droit mais seulement sur
 ce qui excède le prix de la précédente adjudication, si le droit en a été acquitté.
+
+(1) Ces dispositions ne sont pas applicables aux ventes réalisées entre le 15 septembre et le 31 décembre 1991.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 261 1 3° a
-  - CGI 635 2 6°
+  - CGI 635, 262, 635-2, 261-1, 4
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
+  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 4 III
+  - SPEC_APPLI: Loi n°91-1322 1991-12-30 art. 25
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 30 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+  - Loi n°91-716 du 26 juillet 1991 - art. 4 (V) JORF 27 juillet 1991, art. 4 III en vigueur le 29 juillet 1991
 
 
 ##### H : Ventes simultanées de meubles et d'immeubles<a id=660></a>
@@ -65968,14 +65959,20 @@ _Abrogé par_:
 classées comme stations balnéaires, thermales, climatiques, de tourisme et de sports d'hiver, une taxe additionnelle aux
 droits d'enregistrement ou à la taxe de publicité foncière exigibles sur les mutations à titre onéreux :
 
-1° D'immeubles et de droits immobiliers situés sur leur territoire; 2° De meubles corporels mentionnés à l'article 261-1-3°-a
-vendus publiquement dans la commune; 3° D'offices ministériels ayant leur siège dans la commune; 4° De fonds de commerce ou
-de clientèle établis sur leur territoire et des marchandises neuves dépendant de ces fonds; 5° De droit à bail ou de bénéfice
-d'une promesse de bail portant sur tout ou partie d'un immeuble, quelle que soit la forme donnée par les parties, qu'elle
-soit qualifiée cession de pas de porte, indemnité de départ ou autrement. Cette taxe, dont la perception est confiée au
-service des impôts, est fixée à 1,20 p. cent. Le taux est fixé à 0,40 p. cent pour les mutations à titre onéreux visées au
-2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées par un acte passé ou une convention conclue à compter du
-1er octobre 1989, les taux de la taxe sont fixés à :
+1° D'immeubles et de droits immobiliers situés sur leur territoire ;
+
+2° De meubles corporels mentionnés au 2° de l'article 733 vendus publiquement dans la commune ;
+
+3° D'offices ministériels ayant leur siège dans la commune ;
+
+4° De fonds de commerce ou de clientèle établis sur leur territoire et des marchandises neuves dépendant de ces fonds ;
+
+5° De droit à bail ou de bénéfice d'une promesse de bail portant sur tout ou partie d'un immeuble, quelle que soit la forme
+donnée par les parties, qu'elle soit qualifiée cession de pas de porte, indemnité de départ ou autrement.
+
+Cette taxe, dont la perception est confiée au service des impôts, est fixée à 1,20 p. cent. Le taux est fixé à 0,40 p. cent
+pour les mutations à titre onéreux visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées par un acte
+passé ou une convention conclue à compter du 1er octobre 1989, les taux de la taxe sont fixés à :
 
 FRACTION DE LA VALEUR TAXABLE :
 
@@ -65997,8 +65994,10 @@ TARIF APPLICABLE : 1 %.
 
 Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental d'enregistrement ou à la taxe départementale
 de publicité foncière mentionnés aux articles 1594 A et 1594 F , sauf lorsque la mutation est soumise au droit proportionnel
-de 0,60 %. La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits ou de la
-taxe auxquels elle s'ajoute (1).
+de 0,60 %.
+
+La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits ou de la taxe
+auxquels elle s'ajoute (1).
 
 2. La taxe additionnelle prévue au 1 ne s'applique pas aux ventes publiques de meubles énumérées ci-après :
 
@@ -66027,25 +66026,31 @@ intérieure, autres que les yachts ou bateaux de plaisance ;
 (1) La perception de cette taxe a été étendue aux communes du département de la Guyane par l'article 10-I de la loi n°
 71-1025 du 24 décembre 1971.
 
+**Nota:**
+
+Nota : Loi 91-716 art. 4 III " - Les dispositions du présent article entrent en vigueur le 15 juillet 1991. Toutefois, si la
+présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-dessus entrent en vigueur le premier lundi
+qui suit cette promulgation."
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1594 A
   - CGI 1594 F
-  - CGI 261 1 3° a
-  - Loi n°71-1025 1971-12-24 art. 10 I
-  - Code de commerce 93
+  - CGI 733
   - Loi n°1906-04-30 art. 11
   - Loi n°1913-08-08
+  - Loi n°71-1025 1971-12-24 art. 10 I
+  - Code de commerce 93
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 4 III
 
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 27 Finances pour 1990 JORF 30 décembre 1989
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
+  - Loi n°91-716 du 26 juillet 1991 - art. 4 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 4 III, modification directe incorporée dans l'édition du 4 juillet 1992
 
 _Cité par_:
 
