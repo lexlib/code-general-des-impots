@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1977-12-31
+Version Consolidée au 1978-06-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 40 à 1618 septies)](#1)
     - [Première Partie : Impôts d'État (art. 40 à 1090 A)](#2)
