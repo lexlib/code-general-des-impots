@@ -23,9 +23,6 @@ des participants ayant quitté l'employeur ou le groupement d'employeurs ;
 plan d'épargne individuelle pour la retraite défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ou vers un
 autre contrat respectant les règles fixées au b ;
 
-- que l'employeur ait mis en place un plan d'épargne mentionné à l'article L. 443-1 ou à l'article L. 443-1-1 du code du
-travail ;
-
 c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique et aux autres
 régimes de retraite complémentaire constitués au profit des fonctionnaires et agents de l'Etat, des collectivités locales et
 des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises régies par le
@@ -35,20 +32,24 @@ code des assurances et auxquels les dispositions du 1° bis de l'article 83, en 
 B. - 1. Les cotisations ou les primes mentionnées au A sont déductibles pour chaque membre du foyer fiscal dans une limite
 annuelle égale à la différence constatée au titre de l'année précédente entre :
 
-a) Un pourcentage, fixé par la loi, de ses revenus d'activité professionnelle ou, si ce montant est plus élevé, un
-pourcentage, également fixé par la loi, du plafond annuel de la sécurité sociale ;
+a) Une fraction égale à 10 % de ses revenus d'activité professionnelle tels que définis au II, retenus dans la limite de huit
+fois le montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale ou, si elle est plus élevée,
+une somme égale à 10 % du montant annuel du plafond précité ;
 
-b) Et le montant cumulé des cotisations ou primes déductibles en application du 2° de l'article 83, y compris les versements
-de l'employeur, des cotisations ou primes déductibles au titre du deuxième alinéa de l'article 154 bis et de l'article 154
-bis-0 A, pour une part déterminée par la loi, ainsi que de l'abondement de l'entreprise au plan partenarial d'épargne
-salariale volontaire pour la retraite défini à l'article L. 443-1-2 du code du travail.
+b) Et le montant cumulé des cotisations ou primes déductibles en application du 2° et, au titre de la retraite, du 2°-0 bis
+et, au titre de la retraite, du 2°-0 ter de l'article 83 ou, au titre de la retraite supplémentaire, du 2° 0 bis, y compris
+les versements de l'employeur, des cotisations ou primes déductibles au titre du 1° du II de l'article 154 bis, de l'article
+154 bis-0 A et du 13° du II de l'article 156 compte non tenu de leur fraction correspondant à 15 % de la quote-part du
+bénéfice comprise entre une fois et huit fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, ainsi
+que des sommes versées par l'entreprise au plan d'épargne pour la retraite collectif défini à l'article L. 443-1-2 du code du
+travail et exonérées en application du 18° de l'article 81.
 
 2. La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au 1 et,
 d'autre part, les cotisations ou primes mentionnées au A peut être utilisée au cours de l'une des trois années suivantes.
 
 3. Lorsque le montant des cotisations ou primes mentionnées au A excède la limite définie au 1, l'excédent qui correspond à
-des rachats de cotisations ou de primes mentionnés au c du A effectués par les personnes affiliées à ces régimes au 15 juin
-2003 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2012, dans la limite de :
+des rachats de cotisations ou de primes mentionnés au c du A effectués par les personnes affiliées à ces régimes au 31
+décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2012, dans la limite de :
 
 - six années de cotisations au titre de chacune des années 2005 et 2006 ;
 
@@ -66,27 +67,29 @@ B. - Des bénéfices industriels et commerciaux définis aux articles 34 et 35, 
 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant
 imposable.
 
-Les revenus exonérés en application des articles 44 sexies à 44 decies sont retenus pour l'appréciation du montant des
-revenus définis au premier alinéa. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
-
-**Nota:**
-
-NOTA : Ces dispositions sont applicables à compter de l'imposition des revenus de l'année 2004.
+Les revenus exonérés en application des articles 44 sexies à 44 decies ainsi que l'abattement prévu à l'article 73 B sont
+retenus pour l'appréciation du montant des revenus définis au premier alinéa. Il n'est pas tenu compte des plus-values et
+moins-values professionnelles à long terme.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 154 bis, 154 bis-0 A, 79, 62, 34, 35, 63, 92, 44 sexies à 44 decies, 83 à 84 A
+  - CGI L443-1, 83, 154 bis, 154 bis-0, 156, 81, 79, 62, 34, 35, 63, 92, 44 sexies à 44 decies, 73
   - Loi n°2003-775 2003-08-21 art. 108
-  - Code du travail - art. L443-1 (Ab)
   - Code du travail - art. L443-1-1 (M)
   - Code du travail - art. L443-1-2 (M)
+  - Code de la sécurité sociale. - art. L241-3 (M)
   - Code de la sécurité sociale. - art. L911-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-775 du 21 août 2003 - art. 111 (V) JORF 22 août 2003
+  - Loi - art. 23 (V) JORF 31 décembre 2003
+  - Loi - art. 82 (V) JORF 31 décembre 2003
+
+_Codifié par_:
+
+  - Décret n°2004-304 2004-03-26
 
 _Cité par_:
 
@@ -108,4 +111,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 1er janvier 2004
