@@ -36,15 +36,15 @@ L'exclusion des terrains et participations prévue à la dernière phrase du pre
 l'utilisation de la provision constituée en vertu du premier alinéa (1).
 
 1 bis A bis. Les entreprises de presse mentionnées au 1 sont autorisées à constituer en franchise d'impôt, par prélèvement
-sur les résultats imposables des exercices 1980 et 1981, une provision exclusivement affectée à l'acquisition de matériels et
-constructions strictement nécessaires à l'exploitation du journal ou à déduire de ces résultats les dépenses exposées en vue
-du même objet. Sont notamment exclues de la présente provision les acquisitions de terrains et les participations dans les
-entreprises.
+sur les résultats imposables des exercices 1980, 1981 et 1982, une provision exclusivement affectée à l'acquisition de
+matériels et constructions strictement nécessaires à l'exploitation du journal ou à déduire de ces résultats les dépenses
+exposées en vue du même objet. Sont notamment exclues de la présente provision les acquisitions de terrains et les
+participations dans les entreprises.
 
 Les sommes prélevées ou déduites en vertu de l'alinéa précédent sont limitées à :
 
 - 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980,    - 30 % pour la
-généralité des publications et 60 % pour les quotidiens du bénéfice de l'exercice 1981.
+généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 et 1982.
 
 1 bis B. Pour l'application des 1 bis, 1 bis A et 1 bis A bis, sont assimilées à des quotidiens [*définition*], les
 publications à diffusion départementale ou régionale consacrées principalement à l'information politique et générale,
@@ -65,7 +65,7 @@ qu'au financement d'une fraction du prix de revient des matériels et constructi
 acquis au moyen des sommes prélevées ou déduites des bénéfices de l'exercice 1980, cette fraction est égale à 55 % pour la
 généralité des publications et à 90 % pour les quotidiens et les publications assimilées définies au 1 bis B, premier alinéa.
 Ces pourcentages sont ramenés respectivement à 40 % et à 80 % pour les éléments acquis au moyen des sommes prélevées ou
-déduites des bénéfices de l'exercice 1981.
+déduites des bénéfices des exercices 1981 et 1982.
 
 1 bis C. Pour la détermination des résultats des exercices 1975 et suivants, sont exclues du bénéfice du régime prévu aux 1
 bis, 1 bis A et 1 bis A bis les publications pornographiques, perverses ou de violence figurant sur une liste établie, après
@@ -109,13 +109,13 @@ _Cite_:
   - Loi n°54-782 du 2 août 1954 - art. 9 (V)
   - Ordonnance 1944-09-30
 
-_Modifié par_:
-
-  - Loi n°80-30 du 18 janvier 1980 - art. 80 (P) JORF 19 JANVIER 1980
-
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°82-881 1982-10-15
+
+_Modifié par_:
+
+  - Loi n°81-1160 du 30 décembre 1981 - art. 40 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 _Cité par_:
 
