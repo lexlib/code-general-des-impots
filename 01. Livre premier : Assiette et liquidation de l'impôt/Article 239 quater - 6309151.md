@@ -1,34 +1,24 @@
 # Article 239 quater
 
-I  Les groupements d'intérêt économique constitués et fonctionnant dans les conditions prévues par l'ordonnance n° 67-821 du
-23 septembre 1967 n'entrent pas dans le champ d'application de l'article 206-1, mais chacun de leurs membres est
-personnellement passible, pour la part des bénéfices correspondant à ses droits dans le groupement, soit de l'impôt sur le
-revenu, soit de l'impôt sur les sociétés s'il s'agit de personnes morales relevant de cet impôt.
+I. Les groupements d'intérêt économique constitués et fonctionnant dans les conditions prévues par l'ordonnance n° 67-821 du
+23 septembre 1967 ((modifiée)) (M) n'entrent pas dans le champ d'application du 1 de l'article 206, mais chacun de leurs
+membres est personnellement passible, pour la part des bénéfices correspondant à ses droits dans le groupement, soit de
+l'impôt sur le revenu, soit de l'impôt sur les sociétés s'il s'agit de personnes morales relevant de cet impôt.
 
 Pour l'application de cette disposition, la répartition est effectuée dans les conditions fixées par le contrat de groupement
 ou, à défaut, par fractions égales.
 
-II  (Périmé).
+II. (Périmé).
 
-III  Les membres d'un groupement d'intérêt économique bénéficient des mêmes avantages fiscaux que les membres des sociétés
-conventionnées instituées par l'ordonnance n° 59-248 du 4 février 1959 (1) et des groupements visés aux articles 39 octies-2
-et 39 octies A, lorsqu'ils remplissent toutes les conditions prévues par ces dispositions.
+III. Les membres d'un groupement d'intérêt économique bénéficient des mêmes avantages fiscaux que les membres des sociétés
+conventionnées instituées par l'ordonnance n° 59-248 du 4 février 1959 (1) et des groupements visés au 2 de l'articles 39
+octies et à l'article 39 octies A, lorsqu'ils remplissent toutes les conditions prévues par ces dispositions.
 
-(1) Voir art. 39 quinquies C, 40 quinquies et 93 ter
+(M) Modification de la loi.
+
+(1) Voir art. 39 quinquies C, 40 quinquies et 93 ter.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 67-821 1967-09-23
-  - CGI 206 1
-  - CGI 39 octies 2
-  - CGI 39 octies A
-  - CGI 39 quinquies C
-  - CGI 40 quinquies
-  - CGI 93 ter
-  - Ordonnance 59-248 1959-02-04
-  - Loi n°1901-07-01
 
 _Cité par_:
 
@@ -60,6 +50,20 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZO (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (V)
 
+_Cite_:
+
+  - CGI 206 1, 39 octies 2, 39 octies A, 39 quinquies C, 40 quinquies, 93 ter
+  - Ordonnance 59-248 1959-02-04
+  - Ordonnance 67-821 1967-09-23
+
+_Modifié par_:
+
+  - Loi n°94-475 du 10 juin 1994 - art. 8 () JORF 11 juin 1994
+
 _Codifié par_:
 
-  - Décret n°83-899 1983-10-06
+  - Décret n°94-899 1994-10-17
+
+**Liens**:
+
+  - HISTO: Edition du 2 septembre 1994
