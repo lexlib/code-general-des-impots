@@ -26,6 +26,8 @@ La filiale ou l'établissement doit avoir pour activité la commercialisation à
 l'entreprise qui constitue la provision dans l'un de ses établissements dont les résultats sont soumis à l'impôt sur les
 sociétés ou par les sociétés membres d'un groupe mentionné à l'article 223 A dont elle fait également partie.
 
+Les dispositions du présent I ne sont plus applicables aux investissements réalisés après le 31 décembre 2003.
+
 II. La dotation aux provisions, déduite du résultat d'un exercice en application du présent article, est rapportée
 successivement aux résultats imposables des exercices suivants, à hauteur des bénéfices réalisés au titre de chacun de ces
 exercices par l'établissement ou la filiale situé à l'étranger et, au plus tard, au résultat de l'exercice ou de la période
@@ -44,7 +46,7 @@ de l'article 201 et aux 2 et 5 de l'article 221.
 III. Pour l'application des dispositions du présent article, les résultats de l'établissement ou de la filiale étranger sont
 déterminés selon les règles fixées par le présent code à partir du bilan de départ établi dans les conditions fixées par
 décret. Toutefois, les dispositions légales particulières qui autorisent des provisions ou des déductions spéciales ou des
-amortissements exceptionnels ne sont pas applicables (1).
+amortissements exceptionnels ne sont pas applicables.
 
 IV. Le bénéfice des dispositions du présent article peut être accordé sur agrément préalable du ministre chargé du budget
 dans les conditions et limites prévues par cet agrément, aux entreprises françaises exerçant une activité mentionnée à
@@ -62,17 +64,16 @@ s'appliquent, dans les mêmes conditions et limites, aux entreprises françaises
 sens du 1 de l'article 92 et sont soumises à l'impôt sur les sociétés dans les conditions de droit commun, lorsque
 l'implantation réalisée à l'étranger, mentionnée au premier alinéa, a pour objet exclusif l'exercice de ces activités.
 
+Les dispositions du premier alinéa ne sont plus applicables aux investissements qui n'ont pas fait l'objet d'une demande
+d'agrément déposée avant le 1er janvier 2004.
+
 V. Le bénéfice des dispositions du présent article peut également être accordé sur agrément du ministre chargé du budget dans
 les conditions et limites prévues par cet agrément, aux établissements de crédit et aux entreprises mentionnées au V de
 l'article 39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises.
 
 VI. Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1992,
 sous réserve des dispositions du cinquième alinéa du I quater et du deuxième alinéa du II bis de l'article 39 octies A, du
-deuxième alinéa du V de l'article 39 octies B et du quatrième alinéa du IV du présent article (1).
-
-**Nota:**
-
-(1) Voir 10 GA quinquies et 10 GA sexies de l'annexe III.
+deuxième alinéa du V de l'article 39 octies B et du quatrième alinéa du IV du présent article.
 
 **Liens relatifs à cet article**
 
@@ -80,14 +81,9 @@ _Cite_:
 
   - CGI 223 A, 201, 221, 34, 92, 39 octies A, 39 octies B
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 31 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -97,3 +93,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quinquies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA sexies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA ter (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
