@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -33661,6 +33661,38 @@ _Modifié par_:
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1600 (V)
+
+
+###### Article 1456
+
+Sont exonérées de la taxe professionnelle, les sociétés coopératives ouvrières de production dont les statuts et le
+fonctionnement sont reconnus conformes aux dispositions de la loi n° 78-763 du 19 juillet 1978 (1) portant statut des
+sociétés coopératives ouvrières de production.
+
+Sont exclues du bénéfice de cette éxonération les sociétés coopératives ouvrières de production [*SCOP*] qui font application
+des dispositions prévues à l'article 26 de la loi précitée et dont un ou plusieurs associés non employés détiennent
+directement ou indirectement plus de la moitié du capital.
+
+(1) Modifiée par la loi n° 85-703 du 1er juillet 1985 relative à certaines activités d'économie sociale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°70-763 1970-07-19 art. 26
+  - Loi n°85-703 1985-07-12
+
+_Modifié par_:
+
+  - Loi n°85-703 du 12 juillet 1985 - art. 9 () JORF 13 juillet 1985
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
+
+_Cité par_:
+
+  - Décret n°2014-1758 du 31 décembre 2014 (V)
 
 
 ###### Article 1457
