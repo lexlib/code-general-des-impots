@@ -33,12 +33,13 @@ compter de leur achèvement ou de leur acquisition si elle est postérieure à d
 société, leur conjoint ou les membres de leur foyer fiscal, qui en font leur habitation principale. Les souscripteurs doivent
 s'engager à conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ;
 
-e) Au montant des travaux de réhabilitation réalisés par une entreprise et portant sur des logements achevés depuis plus de
-quarante ans, situés dans les départements, collectivités ou territoires visés au 1, que le propriétaire prend l'engagement,
-pour une durée de cinq ans, soit d'affecter dès l'achèvement des travaux à son habitation principale, soit de louer nu dans
-les six mois qui suivent l'achèvement des travaux à des personnes qui en font leur habitation principale et autres que son
-conjoint ou un membre de son foyer fiscal. Un décret détermine les conditions d'application de ces dispositions, et notamment
-la nature des travaux de réhabilitation éligibles ;
+e) Au montant des travaux de réhabilitation réalisés par une entreprise, à l'exclusion de ceux qui constituent des charges
+déductibles des revenus fonciers en application de l'article 31, et portant sur des logements achevés depuis plus de quarante
+ans, situés dans les départements, collectivités ou territoires visés au 1, que le propriétaire prend l'engagement, pour une
+durée de cinq ans, soit d'affecter dès l'achèvement des travaux à son habitation principale, soit de louer nu dans les six
+mois qui suivent l'achèvement des travaux à des personnes qui en font leur habitation principale et autres que son conjoint
+ou un membre de son foyer fiscal. Un décret détermine les conditions d'application de ces dispositions, et notamment la
+nature des travaux de réhabilitation éligibles ;
 
 f) Aux souscriptions en numéraire au capital des sociétés de développement régional des départements, territoires ou
 collectivités visés au 1 ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant
@@ -88,12 +89,13 @@ précède la date de référence (1).
 
 6. La réduction d'impôt est effectuée, pour les investissements mentionnés au a du 2, pour le calcul de l'impôt dû au titre
 de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, et des neuf années suivantes. Pour les
-investissements visés aux b, c, d, e, f, g et h du 2, elle est effectuée pour le calcul de l'impôt dû au titre de l'année
+investissements visés aux b, c, d, f, g et h du 2, elle est effectuée pour le calcul de l'impôt dû au titre de l'année
 d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, ou de la souscription des parts ou actions, et des
-quatre années suivantes. Chaque année, la base de la réduction est égale, pour les investissements mentionnés au a du 2, à 10
-% des sommes effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né et, pour
-les investissements visés aux b, c, d, e, f, g et h du 2, à 20 % des sommes effectivement payées au 31 décembre de l'année au
-cours de laquelle le droit à réduction d'impôt est né.
+quatre années suivantes. Pour les investissements visés au e, elle est effectuée pour le calcul dû au titre de l'année
+d'achèvement des travaux de réhabilitation et des quatre années suivantes. Chaque année, la base de la réduction est égale,
+pour les investissements mentionnés au a du 2, à 10 % des sommes effectivement payées au 31 décembre de l'année au cours de
+laquelle le droit à réduction d'impôt est né et, pour les investissements visés aux b, c, d, e, f, g et h du 2, à 20 % des
+sommes effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né.
 
 La réduction d'impôt est égale à 25 % de la base définie au premier alinéa, pour les investissements mentionnés au a et au e
 du 2, à 40 % de la même base, pour les investissements mentionnés aux b, c et d du 2, et à 50 % de la même base pour les
@@ -142,14 +144,14 @@ NOTA (1) : Ces dispositions s'appliquent aux investissements réalisés outre-me
 
 _Cite_:
 
-  - CGI 4, 199 undecies, 217 undecies, 210
+  - CGI 4 B, 31, 199 undecies B, 217 undecies, 210 A, 210 B
   - Loi n°70-1300 1970-12-31
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
   - Loi n°2003-660 2003-07-21
 
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 58 (V) JORF 31 décembre 2004
+  - Loi n°2005-157 du 23 février 2005 - art. 101 () JORF 24 février 2005
 
 _Cité par_:
 
@@ -209,3 +211,7 @@ _Cité par_:
   - Code monétaire et financier - art. L221-31 (V)
   - Code monétaire et financier - art. L221-32-5 (V)
   - Livre des procédures fiscales - art. L45 F (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

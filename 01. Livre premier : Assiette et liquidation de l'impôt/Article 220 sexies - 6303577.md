@@ -9,13 +9,14 @@ pour 1996 (n° 95-1346 du 30 décembre 1995).
 
 2. N'ouvrent pas droit au crédit d'impôt mentionné au 1 :
 
-- les oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre 1975) ;
+a. - les oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre
+1975) ;
 
-- les oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ;
+b. - les oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ;
 
-- les programmes d'information, les débats d'actualité et les émissions sportives, de variétés ou de jeux ;
+c. - les programmes d'information, les débats d'actualité et les émissions sportives, de variétés ou de jeux ;
 
-- tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
+d. - tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
 
 3. Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de production déléguées, de la législation
 sociale. Il ne peut notamment être accordé aux entreprises de production déléguées qui ont recours à des contrats de travail
@@ -135,7 +136,7 @@ d) Les dépenses de post-production, y compris les effets spéciaux ;
 
 e) Les dépenses de pellicules et autres supports d'images et les dépenses de laboratoires.
 
-2. - Pour les dépenses correspondant aux prestations mentionnées au A, les prestataires auxquels fait appel l'entreprise de
+2. - Pour les dépenses correspondant aux prestations mentionnées au 1, les prestataires auxquels fait appel l'entreprise de
 production doivent être établis en France et y effectuer personnellement ces prestations.
 
 3. - Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance par le directeur général du Centre national de
@@ -143,7 +144,7 @@ la cinématographie d'un agrément à titre provisoire attestant que l'oeuvre ci
 remplira les conditions prévues au 3 du I et aux 1 et 2 du II. Cet agrément est délivré sur la base de pièces justificatives,
 comprenant notamment un devis détaillé des dépenses de production individualisant les dépenses prévues en France ainsi que la
 liste nominative des salariés, industries techniques et prestataires spécialisés, précisant leur nationalité. Pour les
-salariés mentionnés aux a des 1° et 2 ° des 1 et 2 du II, l'entreprise de production doit également fournir copie de la
+salariés mentionnés aux a des 1° et 2° des 1 et 2 du II, l'entreprise de production doit également fournir copie de la
 déclaration prévue à l'article L. 320 du code du travail et du document en accusant réception par l'organisme destinataire.
 
 IV. - Les subventions publiques non remboursables reçues par les entreprises et directement affectées aux dépenses visées au
@@ -163,11 +164,6 @@ artistiques et techniques communs, les dépenses mentionnées au III communes à
 être éligibles qu'au titre d'un seul crédit d'impôt. Les dépenses mentionnées au III qui ne sont pas communes à la production
 de ces deux oeuvres ouvrent droit à un crédit d'impôt dans les conditions prévues au présent article.
 
-**Nota:**
-
-NOTA : Ces dispositions s'appliquent aux dépenses exposées pour la production d'oeuvres cinématographiques ou audiovisuelles
-dont les prises de vues commencent à compter du 1er janvier 2005.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -181,6 +177,10 @@ _Cite_:
 _Modifié par_:
 
   - Loi n°2004-1485 du 30 décembre 2004 - art. 48 (V) JORF 31 décembre 2004
+
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
 
 _Cité par_:
 
@@ -207,3 +207,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YM (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YP (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

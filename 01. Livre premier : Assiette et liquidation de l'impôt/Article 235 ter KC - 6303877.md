@@ -1,35 +1,31 @@
 # Article 235 ter KC
 
-Lorsqu'un employeur n'a pas effectué le versement à un organisme collecteur visé à l'article 235 ter KA avant le 1er mars de
-l'année suivant celle au titre de laquelle est due la contribution ou a effectué un versement insuffisant, le montant de sa
-participation au financement de la formation professionnelle continue est majoré de l'insuffisance constatée. L'employeur est
-tenu de verser au Trésor public, lors du dépôt de la déclaration prévue à l'article 235 ter KD, un montant égal à la
-différence constatée entre sa participation ainsi majorée au financement de la formation professionnelle continue et son
-versement à l'organisme collecteur. Le montant de ce versement est établi et recouvré selon les modalités ainsi que sous les
-sûretés, garanties et sanctions applicables en matière de taxe sur le chiffre d'affaires.
+Cet article reproduit les dispositions de l'article L. 952-3 du code du travail :
 
-Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 991-1 et L. 991-4 du
-code du travail pour les litiges relatifs à la réalité et à la validité des versements faits aux organismes collecteurs visés
-à l'article 235 ter KA, sont effectués selon les règles applicables en matière de taxe sur le chiffre d'affaires.
+"Lorsqu'un employeur n'a pas effectué les versements à l'organisme collecteur mentionné à l'avant-dernier alinéa de l'article
+L. 952-1 avant le 1er mars de l'année suivant celle au titre de laquelle est due la contribution, ou a effectué un versement
+insuffisant, le montant de sa participation au financement de la formation professionnelle continue est majoré de
+l'insuffisance constatée. L'employeur est tenu de verser au Trésor public, lors du dépôt de la déclaration prévue à l'article
+L. 952-4, un montant égal à la différence constatée entre sa participation ainsi majorée au financement de la formation
+professionnelle continue et son versement à l'organisme collecteur. Le montant de ce versement est établi et recouvré selon
+les modalités ainsi que sous les sûretés, garanties et sanctions applicables en matière de taxe sur le chiffre d'affaires.
 
-Le reversement mentionné à l'article 235 ter KB est soumis aux dispositions des premier et deuxième alinéas.
+Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 991-1 et L. 991-4
+pour les litiges relatifs à la réalité et à la validité des versements faits aux organismes collecteurs visés à l'article L.
+952-1 sont effectués selon les règles applicables en matière de taxe sur le chiffre d'affaires.
+
+Le reversement mentionné au dernier alinéa de l'article L. 952-2 est soumis aux dispositions des deux alinéas précédents."
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 235 ter KA, 235 ter KD, 235 ter KB
-  - Code du travail - art. L991-1 (M)
-  - Code du travail - art. L991-4 (T)
-
 _Codifié par_:
 
-  - Décret n°2002-923 2002-06-06
+  - Décret n°2005-330 2005-04-06
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2005

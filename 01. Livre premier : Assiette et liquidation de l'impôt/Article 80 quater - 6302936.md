@@ -1,24 +1,26 @@
 # Article 80 quater
 
 Sont soumises au même régime fiscal que les pensions alimentaires les versements de sommes d'argent mentionnés à l'article
-275-1 du code civil lorsqu'ils sont effectués sur une période supérieure à douze mois à compter de la date à laquelle le
-jugement de divorce, que celui-ci résulte ou non d'une demande conjointe (1), est passé en force de chose jugée et les rentes
-versées en application des articles 276 ou 278 du même code (1), la rente prévue à l'article 294 du code civil dans la limite
-de 2 700 euros ainsi que la contribution aux charges du mariage définie à l'article 214 du code civil lorsque son versement
-résulte d'une décision de justice et que les époux font l'objet d'une imposition distincte.
+275 du code civil lorsqu'ils sont effectués sur une période supérieure à douze mois à compter de la date à laquelle le
+jugement de divorce, que celui-ci résulte ou non d'une demande conjointe, est passé en force de chose jugée et les rentes
+versées en application des articles 276, 278 ou 279-1 du même code, la rente prévue à l'article 373-2-3 du code civil dans la
+limite de 2 700 € ainsi que la contribution aux charges du mariage définie à l'article 214 du code civil lorsque son
+versement résulte d'une décision de justice et que les époux font l'objet d'une imposition distincte.
 
-(1) Ces dispositions s'appliquent aux jugements prononcés en application de la loi n° 2000-596 du 30 juin 2000 relative à la
-prestation compensatoire en matière de divorce.
+**Nota:**
+
+La loi 2004-439 du 26 mai 2004 entre en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 2 III
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2001-01-19 5B-3-01
-  - TXT_ASSOCIE: Instruction 2002-04-25 5B-9-02
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+  - HISTO: Edition du 1er janvier 2005
+
+_Modifié par_:
+
+  - Loi n°2004-439 du 26 mai 2004 - art. 25 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -27,12 +29,8 @@ _Cité par_:
 _Cite_:
 
   - Code civil - art. 214 (V)
-  - Code civil - art. 275-1 (M)
+  - Code civil - art. 275 (M)
   - Code civil - art. 276 (M)
   - Code civil - art. 278 (M)
-  - Code civil - art. 294 (M)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 2 (V) JORF 29 décembre 2001
+  - Code civil - art. 279-1 (V)
+  - Code civil - art. 373-2-3 (V)

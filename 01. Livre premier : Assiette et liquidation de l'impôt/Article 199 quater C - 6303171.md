@@ -1,11 +1,10 @@
 # Article 199 quater C
 
-A compter de l'imposition des revenus de 1989, les cotisations versées aux organisations syndicales représentatives de
-salariés et de fonctionnaires au sens de l'article L. 133-2 du code du travail ouvrent droit à une réduction d'impôt sur le
-revenu.
+Les cotisations versées aux organisations syndicales représentatives de salariés et de fonctionnaires au sens de l'article L.
+133-2 du code du travail ouvrent droit à une réduction d'impôt sur le revenu.
 
-La réduction d'impôt est égale à 50 % des cotisations versées prises dans la limite de 1 p. 100 du montant du revenu brut
-désigné à l'article 83, après déduction des cotisations et des contributions mentionnées aux 1° à 2° ter du même article.
+La réduction d'impôt est égale à 66 % des cotisations versées prises dans la limite de 1 p. 100 du montant du revenu brut
+désigné à l'article 83, après déduction des cotisations et des contributions mentionnées aux 1° à 2° ter du même article (1).
 
 La réduction d'impôt ne s'applique pas aux bénéficiaires de traitements et salaires admis à justifier du montant de leurs
 frais réels.
@@ -16,11 +15,15 @@ Le bénéfice de la réduction d'impôt est subordonné à la condition que soit
 syndicat mentionnant le montant et la date du versement. A défaut, la réduction d'impôt est refusée sans proposition de
 rectification préalable.
 
-Par dérogation aux dispositions du cinquième alinéa et jusqu'à l'imposition des revenus de l'année 2003, les contribuables
+Par dérogation aux dispositions du cinquième alinéa et jusqu'à l'imposition des revenus de l'année 2006, les contribuables
 qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649 quater B ter, sont
 dispensés de joindre à cette déclaration les reçus délivrés par les syndicats. La réduction d'impôt accordée est remise en
 cause lorsque ces contribuables ne peuvent pas justifier du versement des cotisations par la présentation des reçus
 mentionnés au cinquième alinéa.
+
+**Nota:**
+
+NOTA : dispositions applicables aux cotisations versées à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -28,6 +31,11 @@ _Cite_:
 
   - CGI 83, 197, 1649 quater B ter
   - Code du travail - art. L133-2 (M)
+
+_Modifié par_:
+
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 31 (V) JORF 31 décembre 2004
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 35 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -39,8 +47,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
-
-_Modifié par_:
-
-  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
+  - HISTO: Edition du 1er janvier 2005

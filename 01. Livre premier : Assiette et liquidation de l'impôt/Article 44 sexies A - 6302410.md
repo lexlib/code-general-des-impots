@@ -31,25 +31,31 @@ c. Les produits de créances et d'opérations financières pour le montant qui e
 cours du même exercice ou de la période d'imposition.
 
 III. - Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44
-sexies, 44 octies, 44 decies, 244 quater E ou du régime prévu au présent article, la jeune entreprise innovante réalisant des
-projets de recherche et de développement peut opter pour ce dernier régime jusqu'au 30 septembre 2004 si elle est déjà créée
-au 1er janvier 2004, dans les neuf mois suivant celui de son début d'activité si elle se crée après cette dernière date, ou
-dans les neuf premiers mois de l'exercice ou de la période au titre duquel ou de laquelle l'option est exercée. L'option est
-irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre duquel ou de laquelle elle a été exercée les
-conditions fixées à l'article 44 sexies-0 A sont remplies.
+sexies, 44 septies, 44 octies, 44 decies, 244 quater E ou du régime prévu au présent article, la jeune entreprise innovante
+réalisant des projets de recherche et de développement peut opter pour ce dernier régime jusqu'au 30 septembre 2004 si elle
+est déjà créée au 1er janvier 2004, dans les neuf mois suivant celui de son début d'activité si elle se crée après cette
+dernière date, ou dans les neuf premiers mois de l'exercice ou de la période au titre duquel ou de laquelle l'option est
+exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre duquel ou de laquelle elle
+a été exercée les conditions fixées à l'article 44 sexies-0 A sont remplies.
 
 IV. - L'exonération prévue au I s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission du 12
 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+
+**Nota:**
+
+Nota : Loi 2004-1485 2004-12-30 art. 41 II 1° : Ces dispositions sont applicables aux résultats des exercices clos à compter
+du 16 décembre 2003, et jusqu'au 31 décembre 2006 inclus.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 44 sexies-0, 50-0, 53, 96 à 100, 102 ter, 103, 8
+  - CGI 44 sexies-0 A, 50-0, 53, 96 à 100, 102 ter, 103, 8, 44 septies, 44 octies, 44 decies, 244 quater E
+  - Règlement CE 26-2001 2001-01-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 13 (V) JORF 31 décembre 2003
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -70,4 +76,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2005
