@@ -19,31 +19,19 @@ exonérées en application du 3° sexies de l'article 208 ;    6° Par les soci�
 proviennent de produits et plus-values nets exonérés en application du 3° septies de l'article 208.    7° Par les personnes
 morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le
 Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de produits nets
-exonérés en application de l'article 208 quinquies.
+exonérés en application de l'article 208 quinquies.    8° Par les sociétés exonérées de précompte dans les conditions prévues
+au 8° du 3 de l'article 223 sexies.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 158 ter, 207 2, 208 1° ter, 1° quater, 1°quinquies, 3° sexies, 3° septies, 208 quinquies
+  - CGI 158 bis, 158 ter, 208 A, 207 2, 208 1° ter, 1° quater, 1° quinquies, 3° quater, 3° quinquies, 3° sexies, 3° septies, 208 quinquies, 223 sexies 3 8°
   - Ordonnance 45-2710 1945-11-02
   - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
-  - Loi n°69-1160 1969-12-24 art. 1 Finances rectificative pour 1969
   - Loi n°86-793 1986-07-02 art. 2 5°
-  - Ordonnance n°86-1113 du 15 octobre 1986 - art. 3, v. init.
-  - Ordonnance n°86-1113 du 15 octobre 1986 - art. 4 (V)
   - Loi n°88-1201 1988-12-23
-
-**Liens**:
-
-  - HISTO: Edition du 14 juillet 1989
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 74 () JORF 28 décembre 1988
-  - Loi n°88-1149 du 23 décembre 1988 - art. 75 (V) JORF 28 décembre 1988
-  - Loi n°88-1201 du 23 décembre 1988 - art. 44 () JORF 31 décembre 1988
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°89-936 1989-12-29 art. 28 II Finances rectificative pour 1989 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
