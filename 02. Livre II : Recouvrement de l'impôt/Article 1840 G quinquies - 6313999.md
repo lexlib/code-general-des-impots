@@ -1,7 +1,7 @@
 # Article 1840 G quinquies
 
 I. A défaut de revente dans le délai prévu à l'article 1115 l'acheteur est tenu d'acquitter le montant des impositions dont
-la perception a été différée et un droit supplémentaire de 1 %.
+la perception a été différée.
 
 Les sommes dues doivent être versées dans le mois suivant l'expiration dudit délai.
 
@@ -26,14 +26,19 @@ _Cite_:
 
   - CGI 1115, 1594 DA
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2002-923 2002-06-06
+  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 10 () JORF 27 mars 2004
 
-**Liens**:
+_Abrogé par_:
 
-  - HISTO: Edition du 31 mars 2002
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 20 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
