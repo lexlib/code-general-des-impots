@@ -139,8 +139,10 @@ prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative �
 ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées
 antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n°
 86-1317 du 30 décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire
-diminué du coût net des charges transférées calculé dans les conditions définies au IV. Cette attribution est recalculée,
-dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+diminué du coût net des charges transférées calculé dans les conditions définies au IV. L'attribution de compensation est
+majorée d'une fraction de la contribution d'une commune définie à l'article L302-8 du code de la construction et de
+l'habitation. Cette fraction est égale à la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal de
+la commune. Cette attribution est recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
 
 3° Lorsqu'il est fait application à un établissement public de coopération intercommunale doté d'une fiscalité propre des
 dispositions du présent article, l'attribution de compensation versée chaque année aux communes membres est égale à la
@@ -256,6 +258,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5216-2 (Ab)
   - Code général des collectivités territoriales - art. L5334-8 (M)
   - Code général des collectivités territoriales - art. L5341-2 (M)
+  - Code de la construction et de l'habitation. - art. L302-8 (M)
 
 _Cité par_:
 
@@ -351,13 +354,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 26 () JORF 30 décembre 1999
-  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
-
-_Codifié par_:
-
-  - Décret n°2000-477 2000-06-02
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 57 () JORF 14 décembre 2000
