@@ -6,9 +6,9 @@ l'impôt sur le revenu des trois années suivantes et, s'il y a lieu, restitué 
 excédent est immédiatement restituable pour les entreprises dont les résultats bénéficient, en tout ou partie, de
 l'exonération prévue à la première phrase du I de l'article 44 sexies.
 
-En cas de fusion ou opération assimilée intervenant au cours de la période visée à l'alinéa précédent, la fraction de
-l'excédent qui n'a pas encore été imputée par la société apporteuse ou absorbée est transférée à la société bénéficiant de
-l'apport ou absorbante.
+En cas de fusion ou opération assimilée intervenant au cours de la période visée au premier alinéa, la fraction de l'excédent
+qui n'a pas encore été imputée par la société apporteuse ou absorbée est transférée à la société bénéficiant de l'apport ou
+absorbante.
 
 La fraction du crédit d'impôt recherche correspondant aux parts des personnes physiques autres que celles mentionnées au I de
 l'article 151 nonies n'est ni imputable ni restituable.
@@ -20,19 +20,27 @@ d'impôts suivants. Ce pourcentage est porté à 50 p. 100 pour les dépenses ex
 
 III. (Périmé).
 
+(1) Ces dispositions sont applicables pour le crédit d'impôt recherche des années 1992 à 1998.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 244 quater B I, 44 sexies I, 151 nonies
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°95-1346 1995-12-30 art. 73 II Finances pour 1996
+  - HISTO: Edition du 12 mai 1996
+  - TXT_ASSOCIE: Instruction 1993-02-10 4A-4-93
+
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°96-556 1996-06-21
 
 _Modifié par_:
 
-  - Décret n°93-1127 du 24 septembre 1993 - art. 1 () JORF 28 septembre 1993
+  - Décret n°96-556 du 21 juin 1995 - art. 1 () JORF 23 juin 1996
 
 _Cité par_:
 
@@ -43,8 +51,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 220 B (V)
   - Code général des impôts, CGI. - art. 223 O (V)
   - Code général des impôts, CGI. - art. 244 quater B (V)
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
-  - TXT_ASSOCIE: Instruction 1993-02-10 4A-4-93
