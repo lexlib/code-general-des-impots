@@ -1,9 +1,8 @@
 # Article 1649 quater A
 
 Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
-l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité et au contrôle des
-établissements de crédit, ou d'un organisme cité à l'article 8 modifié de ladite loi, doivent en faire la déclaration dans
-les conditions fixées par décret (1).
+l'intermédiaire d'un organisme soumis aux dispositions du du titre Ier du livre V du code monétaire et financier, ou d'un
+organisme cité à l'article L. 518-1 dudit code, doivent en faire la déclaration dans les conditions fixées par décret (1).
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 50 000 F.
 
@@ -16,12 +15,16 @@ des revenus imposables lorsque le contribuable n'a pas rempli les obligations pr
 
 _Cite_:
 
-  - Loi n°84-46 1984-01-24 art. 8
+  - CGIAN3 344 I bis
+  - Code monétaire et financier - art. L518-1 (M)
 
 _Modifié par_:
 
-  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
-  - Loi n°98-261 du 6 avril 1998 - art. 7 () JORF 7 avril 1998
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I 73°, 83°, 85° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -32,4 +35,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
+  - HISTO: Edition du 31 mars 2001

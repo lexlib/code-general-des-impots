@@ -33,7 +33,7 @@ priorité sur les titres de même nature acquis ou souscrits à la date la plus 
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif soumis au
 régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport constituent deux
-catégories distinctes de titres jusqu'à la fin du délai de trois ans (2) prévu à l'article 210 B. Les cessions de titres
+catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les cessions de titres
 intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération
 d'apport.
 
@@ -45,14 +45,13 @@ Le régime fiscal des plus-values prévu par le présent article et les articles
 réalisées par les sociétés de crédit-bail ou plus généralement les sociétés qui ont pour objet social la location
 d'équipements, sur la vente des éléments de l'actif immobilisé faisant l'objet d'une location dans le cadre de leur activité.
 
-DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A COMPTER DU 1er JANVIER 1995.
+DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A COMPTER DU 1er JANVIER 1996.
 
 Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-values
 réalisées :
 
-a. par les entreprises effectuant des opérations visées aux 1° et 2° de la loi n° 66-455 du 2 juillet 1966 relative aux
-entreprises pratiquant le crédit-bail lors de la cession des éléments de leur actif immobilisé faisant l'objet d'un contrat
-de crédit-bail ;
+a. par les entreprises effectuant des opérations visées aux 1 et 2 de l'article L. 313-7 du code monétaire et financier lors
+de la cession des éléments de leur actif immobilisé faisant l'objet d'un contrat de crédit-bail ;
 
 b. par les sociétés qui ont pour objet social la location d'équipements lors de la cession des éléments de l'actif immobilisé
 faisant l'objet d'une location dans le cadre de leur activité.
@@ -61,8 +60,8 @@ Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalab
 le locataire lui-même.
 
 8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue d'un contrat de prêt mentionné à
-l'article 31 modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne, le délai de deux ans prévu aux 2 et 4 s'apprécie à
-compter de la date de la première inscription à son bilan des titres prêtés.
+l'article L. 432-6 du code monétaire et financier, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de
+la première inscription à son bilan des titres prêtés.
 
 9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours
 duquel la vente est intervenue, le cédant inscrit à son bilan cet élément ainsi que les amortissements et provisions de toute
@@ -90,21 +89,21 @@ l'application du b du 2.
 (1) Ces dispositions sont applicables pour la détermination des plus-values ou moins-values réalisées au cours des exercices
 clos à compter du 31 décembre 1993.
 
-(2) Ces dispositions s'appliquent aux opérations d'apports partiels d'actif et de scissions réalisées à compter du 15
-septembre 1999 et à celles déjà réalisées à cette date pour lesquelles les engagements de conservation sont en cours au 15
-septembre 1999.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 38, 39 B, 210 B, 202 ter
-  - Loi n°66-455 1966-07-02
-  - Loi n°87-416 1987-06-17 art. 31
+  - Code monétaire et financier - art. L313-7 (M)
+  - Code monétaire et financier - art. L432-6 (M)
 
 _Modifié par_:
 
-  - Loi - art. 22 (P) JORF 31 décembre 1999
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47°, 77° JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -145,10 +144,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 1996-01-31 4B-1-96
-  - TXT_ASSOCIE: Instruction 1996-09-30 4B-3-96
-  - TXT_ASSOCIE: Instruction 1997-08-21 5G-15-97
-  - TXT_ASSOCIE: Instruction 1998-02-17 4B-1-98
-  - TXT_ASSOCIE: Instruction 1998-02-17 8M-2-98
+  - HISTO: Edition du 31 mars 2001
   - TXT_ASSOCIE: Instruction 2001-02-12 5E-3-01

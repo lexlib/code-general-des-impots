@@ -1,14 +1,13 @@
 # Article 163 octodecies A
 
-I.  Lorsqu'une société constituée à compter du 1er janvier 1994 se trouve en cessation de paiement dans les huit ans (1) qui
+I.  Lorsqu'une société constituée à compter du 1er janvier 1994 se trouve en cessation de paiement dans les huit ans qui
 suivent sa constitution, les personnes physiques qui ont souscrit en numéraire à son capital peuvent déduire de leur revenu
 net global une somme égale au montant de leur souscription, après déduction éventuelle des sommes récupérées.
 
 La déduction est opérée, dans la limite annuelle de 100 000 F, sur le revenu net global de l'année au cours de laquelle
-intervient la réduction du capital de la société, en exécution d'un plan de redressement visé aux articles 69 et suivants de
-la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, ou la cession de
-l'entreprise ordonnée par le tribunal en application des articles 81 et suivants de la même loi, ou le jugement de clôture de
-la liquidation judiciaire.
+intervient la réduction du capital de la société, en exécution d'un plan de redressement visé aux articles L. 621-70 et
+suivants du code de commerce, ou la cession de l'entreprise ordonnée par le tribunal en application des articles 81 et
+suivants de la même loi, ou le jugement de clôture de la liquidation judiciaire.
 
 La limite annuelle de 100 000 F est doublée pour les personnes mariées soumises à une imposition commune.
 
@@ -19,7 +18,7 @@ Toutefois, pour l'application du premier alinéa du II de l'article 44 sexies, l
 risque, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la
 condition qu'il n'existe pas de lien de dépendance au sens du 1 bis de l'article 39 terdecies entre la société bénéficiaire
 de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas compte des participations des fonds communs de
-placement à risques ou des fonds communs de placement dans l'innovation (2)
+placement à risques ou des fonds communs de placement dans l'innovation.
 
 La condition mentionnée au III de l'article 44 sexies n'est pas exigée lorsque la société a été créée dans le cadre de la
 reprise d'activités préexistantes répondant aux conditions prévues par le I de l'article 39 quinquies H (1).
@@ -35,46 +34,54 @@ du revenu imposable des sommes versées au titre de l'exécution d'un engagement
 mentionnée au I ;
 
 3° Les souscriptions effectuées par les personnes à l'encontre desquelles le tribunal a prononcé l'une des condamnations
-mentionnées aux articles 180, 181, 182, 188, 189, 190, 192, 197 ou 201 modifiés de la loi n° 85-98 du 25 janvier 1985
-précitée.
+mentionnées aux articles L. 624-3, L. 624-4, L. 624-5, L. 625-4, L. 625-5, L. 625-6, L. 625-8, L. 626-2 ou L. 626-6 du code
+de commerce.
 
 II bis. Le régime fiscal défini au I s'applique, dans les mêmes limites, aux souscriptions en numéraire par des personnes
 physiques à une augmentation de capital réalisée, à compter du 1er janvier 1994, par une société dans le cadre d'un plan de
-redressement organisant la continuation de l'entreprise et arrêté conformément aux dispositions de l'article 61 modifié de la
-loi n° 85-98 du 25 janvier 1985 précitée.
+redressement organisant la continuation de l'entreprise et arrêté conformément aux dispositions de l'article L. 621-62 du
+code de commerce.
 
 Sous réserve des exclusions visées aux 1°, 2° et 3° du II, la déduction intervient si la société se trouve en cessation de
 paiement dans les huit ans suivant la date du plan de redressement visé au premier alinéa.
 
 La société en difficulté doit être soumise à l'impôt sur les sociétés et exercer une activité industrielle, commerciale ou
-artisanale au sens du I de l'article 44 sexies ou une activité agricole.
+artisanale au sens du I de l'article 44 sexies ou une activité agricole (2).
 
 III. Un décret en Conseil d'Etat précise les modalités d'application du présent article ainsi que les obligations mises à la
 charge des sociétés ou de leurs représentants légaux et des souscripteurs.
 
-(1) Cette modification s'applique aux souscriptions effectuées à compter du 1er septembre 1998 : Loi 98-1266 1998-12-30 art.
-95 III 2 Finances pour 1999.
+(1) Les dispositions des 2è et 3è alinéas s'appliquent aux souscriptions effectuées à compter du 1er septembre 1998.
+
+(2) Pour les sociétés exerçant une activité agricole, disposition applicable aux versements des souscriptions au capital
+effectuées à compter du 1er janvier 1995.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 44 sexies, 39 terdecies, 39 quinquies, 83, 83 bis, 83 ter, 163 septdecies, 199 undecies, 199 terdecies A
-  - Loi n°85-98 1985-01-25 art. 69, art. 81, art. 61, art. 180, art. 181, art. 182, art. 188, art. 189, art. 190, art. 192, art. 197, art. 201
-  - Loi n°85-98 du 25 janvier 1985 - art. 180 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 182 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 188 (Ab)
-  - Loi n°85-98 du 25 janvier 1985 - art. 189 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 190 (Ab)
-  - Loi n°85-98 du 25 janvier 1985 - art. 192 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 197 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 201 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1999-05-14 5B-10-99
+  - CGI 44 sexies, 39 terdecies, 39 quinquies A, 83, 83 bis, 83 ter, 163 septdecies, 199 undecies, 199 undecies A, 199 terdecies A
+  - Code de commerce. - art. L621-62 (Ab)
+  - Code de commerce. - art. L621-70 (Ab)
+  - Code de commerce. - art. L624-3 (M)
+  - Code de commerce. - art. L624-4 (M)
+  - Code de commerce. - art. L624-5 (M)
+  - Code de commerce. - art. L625-4 (M)
+  - Code de commerce. - art. L625-5 (M)
+  - Code de commerce. - art. L625-6 (M)
+  - Code de commerce. - art. L625-8 (M)
+  - Code de commerce. - art. L626-2 (M)
+  - Code de commerce. - art. L626-6 (M)
 
 _Modifié par_:
 
-  - Loi - art. 19 (V) JORF 31 décembre 2000
-  - Loi n°2000-1352 2000-12-30 art. 19 I, D, 4 Finances pour 2001 JORF 31 décembre 2000
+  - Ordonnance 2000-912 2000-09-18 art. 4 I 33° JORF 21 septembre 2000
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+  - TXT_ASSOCIE: Instruction 1999-05-14 5B-10-99
