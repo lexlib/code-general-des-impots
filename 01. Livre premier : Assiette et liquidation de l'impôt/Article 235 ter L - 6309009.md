@@ -1,6 +1,6 @@
 # Article 235 ter L
 
-Un prélèvement spécial de 25 % [*taux*] (1) est perçu sur la fraction des bénéfices industriels et commerciaux imposables à
+Un prélèvement spécial de 30 % [*taux*] (1) est perçu sur la fraction des bénéfices industriels et commerciaux imposables à
 l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de la distribution ou de la représentation
 de films pornographiques ou d'incitation à la violence.
 
@@ -19,7 +19,7 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 d'établissement et de recouvrement du prélèvement, les obligations des redevables, les règles de contentieux, les garanties
 de recouvrement et les sanctions applicables (3).
 
-1) Le taux de 25 % s'applique aux bénéfices des exercices ouverts à compter du 1er janvier 1990.
+1) Le taux de 30 % s'applique aux bénéfices des exercices ouverts compter du 1er janvier 1991.
 
 2) Annexe II, art. 163 septdecies à 163 vicies.
 
@@ -31,12 +31,17 @@ _Cite_:
 
   - CGI 281 bis A I
   - CGI L172 B
-  - CGIAN2 163 septdecies A CGIAN2 163 vicies
-
-_Modifié par_:
-
-  - Loi n°89-935 1989-12-29 art. 8 IV, VI 3 Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - CGIAN2 163 septdecies à CGIAN2 163 vicies
 
 _Cité par_:
 
   - Code de l'industrie cinématographique - art. 44-1 (VT)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
+
+_Modifié par_:
+
+  - Loi - art. 13 (V) JORF 30 décembre 1990
+  - Loi n°90-1168 1990-12-29 art. 13 II, IV 3 Finances pour 1991 JORF 30 décembre 1990
