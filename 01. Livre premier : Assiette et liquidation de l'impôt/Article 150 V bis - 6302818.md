@@ -4,8 +4,8 @@ I. Sous réserve des dispositions particulières qui sont propres aux bénéfice
 sont soumises à une taxe de 7,5 p. 100.
 
 Sous la même réserve, les ventes de bijoux, d'objets d'art, de collection et d'antiquité sont soumises à une taxe de 4,5 p.
-100 (1) lorsque leur montant excède 20 000 F ; dans le cas où ce montant est compris entre 20 000 F et 30 000 F, la base
-d'imposition est réduite d'un montant égal à la différence entre 30 000 F et ledit montant.
+100 lorsque leur montant excède 3 050 euros ; dans le cas où ce montant est compris entre 3 050 euros et 4 600 euros, la base
+d'imposition est réduite d'un montant égal à la différence entre 4 600 euros et ledit montant.
 
 Ces dispositions sont également applicables aux ventes réalisées dans un autre Etat membre de la Communauté européenne.
 
@@ -19,15 +19,14 @@ collectivité publique. Cette disposition s'applique aux ventes réalisées à c
 La vente par enchères publiques des objets désignés au deuxième alinéa du I est exonérée du paiement de la taxe lorsque leur
 propriétaire n'a pas en France son domicile fiscal.
 
-(1) Ces dispositions s'appliquent aux cessions réalisées à compter du 1er janvier 2000.
-
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 2000-02-10 8O-1-00
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Modifié par_:
 
-  - Loi - art. 42 (P) JORF 31 décembre 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
