@@ -16,10 +16,10 @@ c) Et qui n'ont pas été financés par une société visée au premier alinéa.
 
 Par dérogation aux premier et deuxième alinéas, les sociétés agréées peuvent :
 
-- dans la limite de 10 % de leur capital social libéré, mettre ou laisser leurs disponibilités en comptes productifs
+a) - dans la limite de 10 % de leur capital social libéré, mettre ou laisser leurs disponibilités en comptes productifs
 d'intérêts si la créance correspondante est liquide ;
 
-- et, dans la limite de 15 % du capital souscrit pour le financement de navires visés au premier alinéa, prendre en charge
+b) - et, dans la limite de 15 % du capital souscrit pour le financement de navires visés au premier alinéa, prendre en charge
 des travaux d'équipement et de modernisation, tels que définis par le règlement (CE) n° 2369/2002 du Conseil du 20 décembre
 2002 modifiant le règlement (CE) n° 2792/1999 définissant les modalités et conditions des actions structurelles de la
 Communauté dans le secteur de la pêche, sur ces navires, à la condition qu'ils soient réalisés dans un délai de cinq années à
@@ -57,10 +57,10 @@ b) Et n'ayant pas ouvert droit au bénéfice des dispositions des articles 199 u
 
 Par dérogation au premier alinéa, les sociétés agréées peuvent :
 
-- dans la limite de 25 % de leur capital social libéré, mettre ou laisser leurs disponibilités en comptes productifs
+a) - dans la limite de 25 % de leur capital social libéré, mettre ou laisser leurs disponibilités en comptes productifs
 d'intérêts si la créance correspondante est liquide ;
 
-- et, dans la limite de 15 % du capital souscrit pour le financement de navires visés au premier alinéa, prendre en charge
+b) - et, dans la limite de 15 % du capital souscrit pour le financement de navires visés au premier alinéa, prendre en charge
 des travaux d'équipement et de modernisation, tels que définis par le règlement (CE) n° 2369/2002 du Conseil du 20 décembre
 2002 précité, sur ces navires, à la condition qu'ils soient réalisés dans un délai de cinq années à compter du versement
 effectif de la souscription au capital de la société agréée. A défaut d'utilisation dans ce délai de cinq ans, les sommes
@@ -80,9 +80,13 @@ _Cite_:
 
   - CGI 238 bis HO, 44 nonies, 199 undecies A, 199 undecies B, 217 undecies
 
+_Codifié par_:
+
+  - Décret n°2004-304 2004-03-26
+
 _Modifié par_:
 
-  - Loi - art. 103 (V) JORF 31 décembre 2003
+  - Décret n°2004-304 du 26 mars 2004 - art. 1 () JORF 30 mars 2004
 
 _Cité par_:
 
