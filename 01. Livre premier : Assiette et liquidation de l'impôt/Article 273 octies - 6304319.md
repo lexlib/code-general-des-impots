@@ -22,19 +22,25 @@ b) Ou qui aboutissent à la livraison de produits imposables par des personnes q
 l'exception des opérations portant sur les objets d'occasion et les animaux vivants de boucherie et de charcuterie ;
 
 c) Ou qui sont réalisées par des personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution
-des services par des redevables qui n'ont pas établi dans la Communauté économique européenne le siège de leur activité, un
+des services par des redevables qui n'ont pas établi dans la Communauté européenne le siège de leur activité, un
 établissement stable, leur domicile ou leur résidence habituelle.
 
 **Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Article incorporé dans l'édition du 18 août 1993
 
 _Cite_:
 
   - CGI 256, 256 bis
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 24 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 30 mars 2007
+  - HISTO: Edition du 1er janvier 2007
+  - HISTO: Edition du 27 octobre 1995

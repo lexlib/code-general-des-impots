@@ -1,7 +1,7 @@
 # Article 163 quinquies D
 
 I. Les contribuables dont le domicile fiscal est situé en France peuvent ouvrir un plan d'épargne en actions dans les
-conditions définies par la loi n° 92-666 du 16 juillet 1992.
+conditions définies par la loi n° 92-666 du 16 juillet 1992 modifiée (1).
 
 Chaque contribuable ou chacun des époux soumis à imposition commune ne peut être titulaire que d'un plan. Un plan ne peut
 avoir qu'un titulaire.
@@ -14,9 +14,9 @@ Les sommes versées sur un plan d'épargne en actions ne peuvent être employée
 conditions mentionnées à l'article 80 bis.
 
 2. Les titres ou parts dont la souscription a permis au titulaire du plan de bénéficier des avantages fiscaux résultant des
-dispositions du dernier alinéa de l'article 62, des 2° quater et 2° quinquies de l'article 83, des articles 150 U, 150 V, 163
-quinquies A, 163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A, du ((troisième alinéa de
-l'article 726)) (1) ainsi que du III ter de l'article 810 ne peuvent figurer dans le plan.
+dispositions du ((deuxième alinéa de l'article 62)) (1), des 2° quater et 2° quinquies de l'article 83, des articles 150 U,
+150 V, 163 quinquies A, 163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A, du troisième alinéa
+de l'article 726 ainsi que du III ter de l'article 810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne doivent pas, pendant la durée du plan, détenir
 ensemble, directement ou indirectement, plus de 25 p. 100 des droits dans les bénéfices de sociétés dont les titres figurent
@@ -33,7 +33,7 @@ la clôture du plan.
 IV. Les avoirs fiscaux et crédits d'impôt attachés aux produits encaissés dans le cadre du plan sont restitués dans des
 conditions fixées par décret.
 
-(1) Modification de la loi.
+(1) Modification.
 
 **Liens relatifs à cet article**
 
@@ -42,13 +42,13 @@ _Cite_:
   - CGI 92 D, 80 bis, 62, 83, 726, 810, 150 U, 150 V, 163 quinquies A, 163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies, 199 terdecies A
   - Loi n°92-666 1992-07-16
 
-_Créé par_:
-
-  - Loi n°93-1444 1993-12-31 art. 12 IX 4° JORF 5 janvier 1994
-
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1281 1995-12-11
+
+_Modifié par_:
+
+  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
 
 _Cité par_:
 
@@ -67,3 +67,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 885-0 V bis (MMN)
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E bis (V)
   - Livre des procédures fiscales - art. R96 D-1 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
