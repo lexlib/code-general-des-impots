@@ -1,21 +1,21 @@
 # Article 199 decies E
 
-Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2002, acquiert un logement neuf ou en l'état futur
+Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2006, acquiert un logement neuf ou en l'état futur
 d'achèvement faisant partie d'une résidence de tourisme classée dans une zone de revitalisation rurale et qui le destine à
 une location dont le produit est imposé dans la catégorie des revenus fonciers bénéficie d'une réduction d'impôt sur le
 revenu.
 
-Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 300 000 F pour une personne
-célibataire, veuve ou divorcée et de 600 000 F pour un couple marié. Son taux est de 15 %. Il ne peut être opéré qu'une seule
-réduction d'impôt à la fois et elle est répartie sur quatre années au maximum. Elle est accordée au titre de l'année
+Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 45 760 euros pour une personne
+célibataire, veuve ou divorcée et de 91 520 euros pour un couple marié. Son taux est de 15 %. Il ne peut être opéré qu'une
+seule réduction d'impôt à la fois et elle est répartie sur quatre années au maximum. Elle est accordée au titre de l'année
 d'achèvement du logement ou de son acquisition si elle est postérieure et imputée sur l'impôt dû au titre de cette même année
-à raison du quart des limites de 45 000 F ou 90 000 F, puis, le cas échéant, pour le solde les trois années suivantes dans
-les mêmes conditions (1).
+à raison du quart des limites de 6 864 euros ou 13 728 euros puis, le cas échéant, pour le solde les trois années suivantes
+dans les mêmes conditions (1).
 
 Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, les logements faisant partie d'une résidence de
 tourisme classée dans une zone rurale, autre qu'une zone de revitalisation rurale précitée, inscrite sur la liste pour la
 France des zones concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260/1999 du Conseil du 21 juin
-1999 portant dispositions générales sur les fonds structurels (2).
+1999 portant dispositions générales sur les fonds structurels (1).
 
 Le propriétaire doit s'engager à louer le logement nu pendant au moins neuf ans à l'exploitant de la résidence de tourisme.
 Cette location doit prendre effet dans le mois qui suit la date d'achèvement de l'immeuble ou de son acquisition, si elle est
@@ -34,9 +34,9 @@ commune, le conjoint survivant attributaire du bien ou titulaire de son usufruit
 les mêmes conditions et selon les mêmes modalités, du bénéfice de la réduction prévue au présent article pour la période
 restant à courir à la date du décès.
 
-(1) Les sommes citées dans cet alinéa sont applicables aux logements achevés ou acquis à compter du 1er janvier 2001.
+**Nota:**
 
-(2) Les dispositions de cet alinéa sont applicables aux logements achevés ou acquis à compter du 1er janvier 2001.
+(1) Limites applicables aux logements achevés ou acquis à compter du 1er janvier 2001.
 
 **Liens relatifs à cet article**
 
@@ -46,14 +46,15 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 78 () JORF 31 décembre 2000
-  - Loi - art. 79 (V) JORF 31 décembre 2000
+  - Loi - art. 51 (V) JORF 29 décembre 2001
+  - Loi - art. 80 () JORF 29 décembre 2001
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2000-1352 2000-12-30 art. 78 II, art. 79 II
-  - HISTO: Edition du 31 mars 2001
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 1999-10-04 5B-18-99
+  - TXT_ASSOCIE: Instruction 2002-02-15 5B-6-02
 
 _Cité par_:
 

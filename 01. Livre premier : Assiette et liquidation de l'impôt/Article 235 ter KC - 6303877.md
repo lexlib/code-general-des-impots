@@ -12,7 +12,7 @@ Le contrôle et le contentieux de la participation des employeurs, autres que ce
 code du travail pour les litiges relatifs à la réalité et à la validité des versements faits aux organismes collecteurs visés
 à l'article 235 ter KA, sont effectués selon les règles applicables en matière de taxe sur le chiffre d'affaires.
 
-Le reversement mentionné à l'article 235 ter KB est soumis au x dispositions des deux alinéas précédents.
+Le reversement mentionné à l'article 235 ter KB est soumis aux dispositions des premier et deuxième alinéas.
 
 **Liens relatifs à cet article**
 
@@ -24,12 +24,12 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
-
-_Créé par_:
-
-  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
+  - HISTO: Edition du 31 mars 2002

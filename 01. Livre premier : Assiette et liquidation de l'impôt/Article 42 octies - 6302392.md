@@ -1,11 +1,11 @@
 # Article 42 octies
 
-Les primes à la construction allouées en vertu des articles R 311-1 et R 324-1 du code de la construction et de l'habitation
-ne sont pas comprises dans les résultats de l'exercice en cours à la date de leur versement.
+Les primes à la construction allouées en vertu de l'article R. 311-1 du code de la construction et de l'habitation ne sont
+pas comprises dans les résultats de l'exercice en cours à la date de leur versement. 
 
 Le montant des primes perçues au cours d'un exercice doit être rapporté aux bénéfices imposables de cet exercice ou, le cas
 échéant, du ou des exercices suivants à concurrence du montant des amortissements pratiqués, à la clôture de chacun desdits
-exercices, sur le prix de revient des immeubles donnant droit à l'attribution des primes.
+exercices, sur le prix de revient des immeubles donnant droit à l'attribution des primes. 
 
 En cas de cession ou de cessation ou de transfert de propriété de ces immeubles, la fraction non encore rapportée aux bases
 de l'impôt des primes annuelles antérieurement perçues est retranchée de la valeur comptable desdites immobilisations pour la
@@ -17,8 +17,18 @@ propriété deviendront, en outre, imposables dans les conditions de droit commu
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2001-351 2001-04-20 art. 4 JORF 22 avril 2001
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
 _Cite_:
 
-  - Code de la construction R311-1, R324-1
-  - Décret n°50-898 1950-08-02 Art. 13
-  - Décret n°61-856 1961-07-31
+  - Code de la construction et de l'habitation. - art. R*311-1 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
