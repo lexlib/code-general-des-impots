@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1965-07-14
+Version Consolidée au 1966-07-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 850 à 1043 A)](#1)
     - [Première Partie : Impôts d'État (art. 850 à 1043 A)](#2)
@@ -12,11 +12,14 @@ Version Consolidée au 1965-07-14
         - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#9)
           - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#10)
             - [9° : Départements d'outre-mer (art. 1043 A)](#11)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563)](#12)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563 à 1628 quater)](#12)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#13)
       - [IMPOSITIONS COMMUNALES (art. 1563)](#14)
         - [CONTRIBUTIONS INDIRECTES (art. 1563)](#15)
           - [TAXES OBLIGATOIRES. (art. 1563)](#16)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#17)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#18)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#19)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -149,5 +152,56 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1565 (M)
   - Code général des impôts, annexe 4, CGIAN4. - art. 145 (V)
   - Livre des procédures fiscales - art. A85-1 (P)
+
+
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=17></a>
+
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=18></a>
+
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=19></a>
+
+###### Article 1628 quater
+
+I. Le fonds de garantie institué par l'article L. 420-1 du code des assurances, au profit des victimes d'accidents
+d'automobile est alimenté par des contributions des sociétés d'assurances ou assureurs, des automobilistes assurés et des
+responsables d'accidents d'automobile non bénéficiaires d'une assurance (1).
+
+II. Les dépenses résultant de l'application du premier alinéa de l'article 366 ter du code rural relatif à l'indemnisation
+des accidents corporels de chasse sont couvertes notamment par des contributions des sociétés d'assurances, des chasseurs
+assurés et des responsables d'accidents corporels de chasse non bénéficiaires d'une assurance.
+
+Les taux, assiette, modalités de liquidation et de recouvrement de ces contributions sont déterminés par un décret en Conseil
+d'Etat, pris après avis du conseil national des assurances (2).
+
+(1) Annexe I, art. 305 AA à 305 AG.
+
+(2) Annexe II, art. 325 à 327.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN1 305 AA A CGIAN1 305 AG
+  - CGIAN2 325
+  - CGIAN2 326
+  - CGIAN2 327
+  - Code rural 366 ter
+  - Code des assurances - art. L420-1 (M)
+
+_Modifié par_:
+
+  - Loi n°51-1508 1951-12-31 ART. 15 : code des assurances art. 420-4 JORF 1er janvier 1952
+  - Loi n°66-497 1966-07-11 : code rural art. 366 ter JORF 12 juillet 1966
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 322 (P)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 322 A (P)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 323 (P)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
 
 
