@@ -10,8 +10,8 @@ capital fait l'objet de la souscription :
 a. Exercent en France une activité industrielle, commerciale ou artisanale au sens de l'article 34 ;
 
 b. Sont nouvelles au sens de l'article 44 sexies ou créées dans le cadre de l'extension d'une activité préexistante si elles
-remplissent les conditions du II du même article ou créées dans les conditions des cinq premiers alinéas de l'article 44
-septies et, s'il s'agit de sociétés, ne sont pas détenues à plus de 50 p. 100 par une entreprise individuelle ;
+remplissent les conditions du II du même article ou créées dans les conditions du I de l'article 44 septies et, s'il s'agit
+de sociétés, ne sont pas détenues à plus de 50 p. 100 par une entreprise individuelle ;
 
 c. Réalisent à la clôture de l'exercice de création ou de reprise et des deux exercices suivants un chiffre d'affaires qui
 n'excède pas 4 600 000 euros lorsque l'activité principale est de vendre des marchandises, objets, fournitures et denrées à
@@ -76,15 +76,9 @@ _Cite_:
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
   - Code de la sécurité sociale. - art. L615-1 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - HISTO: Edition du 31 mars 2002
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
