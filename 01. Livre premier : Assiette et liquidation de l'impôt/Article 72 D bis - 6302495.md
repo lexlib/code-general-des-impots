@@ -9,25 +9,25 @@ ouvert auprès d'un établissement de crédit une somme provenant des recettes d
 au montant de la déduction. L'épargne professionnelle ainsi constituée doit être inscrite à l'actif du bilan de
 l'exploitation.
 
-Les sommes déposées sur le compte peuvent être utilisées au cours des cinq exercices qui suivent celui de leur versement en
+Les sommes déposées sur le compte peuvent être utilisées au cours des sept exercices qui suivent celui de leur versement en
 cas d'intervention de l'un des aléas d'exploitation dont la liste est fixée par décret.
 
 Lorsque les sommes déposées sur le compte sont utilisées en cas d'intervention de l'un des aléas d'exploitation mentionnés au
 troisième alinéa, la déduction correspondante est rapportée au résultat de l'exercice au cours duquel le retrait est
 intervenu.
 
-Lorsque les sommes déposées sur le compte ne sont pas utilisées au cours des cinq exercices qui suivent celui de leur
-versement, la déduction correspondante est rapportée aux résultats du cinquième exercice suivant celui au titre duquel elle a
+Lorsque les sommes déposées sur le compte ne sont pas utilisées au cours des sept exercices qui suivent celui de leur
+versement, la déduction correspondante est rapportée aux résultats du septième exercice suivant celui au titre duquel elle a
 été pratiquée.
 
-Lorsque des sommes déposées sur le compte sont utilisées à des emplois autres que celui défini ci-dessus au cours des cinq
+Lorsque des sommes déposées sur le compte sont utilisées à des emplois autres que celui défini ci-dessus au cours des sept
 exercices qui suivent celui de leur dépôt, l'ensemble des déductions correspondant aux sommes figurant sur le compte au jour
 de cette utilisation est rapporté au résultat de l'exercice au cours duquel cette utilisation a été effectuée.
 
 II. - L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies, à une société civile
 agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas
 considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les
-conditions et s'engage à utiliser les sommes déposées sur le compte au cours des cinq exercices qui suivent celui au titre
+conditions et s'engage à utiliser les sommes déposées sur le compte au cours des sept exercices qui suivent celui au titre
 duquel la déduction correspondante a été pratiquée.
 
 III. - Le compte ouvert auprès d'un établissement de crédit est un compte courant qui retrace exclusivement les opérations
@@ -41,7 +41,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 101 (V) JORF 31 décembre 2003
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 10 () JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -50,8 +50,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 75 A (Ab)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies J (P)
   - Code rural et de la pêche maritime - art. L731-15 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2003-01-31 5E-1-03
