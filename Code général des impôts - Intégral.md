@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1993-02-01
+Version Consolidée au 1993-02-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -24219,10 +24219,10 @@ _Cite_:
 ###### Article 217 bis
 
 I. Les résultats provenant d'exploitations situées dans les départements d'outre-mer ne sont retenus pour l'assiette de
-l'impôt sur les sociétés que pour les deux tiers de leur montant [*abattement, réfaction*].
+l'impôt sur les sociétés que pour les deux tiers de leur montant.
 
 II. Pour les exercices clos à compter du 1er janvier 1983, les dispositions du I ne sont applicables qu'aux exploitations
-appartenant aux secteurs de l'agriculture, de l'industrie, du tourisme et de la pe^che.
+appartenant aux secteurs de l'agriculture, de l'industrie, du tourisme et de la pêche.
 
 Les résultats provenant des exploitations appartenant à d'autres secteurs ne sont retenus, pour les exercices clos en 1983,
 qu'à concurrence de 80 % de leur montant.
@@ -24231,14 +24231,18 @@ III. Pour les exercices clos à compter du 31 décembre 1986, les dispositions d
 applicables aux exploitations appartenant aux secteurs des énergies nouvelles, du bâtiment et des travaux publics, des
 transports et de l'artisanat.
 
+Pour les exercices clos à compter du 31 décembre 1992, les dispositions du I sont également applicables aux exploitations
+appartenant aux secteurs de la maintenance au profit d'activités industrielles et de la production et de la diffusion
+audiovisuelles et cinématographiques.
+
 IV. Les dispositions du paragraphe I, du premier alinéa du paragraphe II et du paragraphe III ci-dessus s'appliquent aux
-résultats des exercices clos jusqu'au 31 décembre 1996 [*date limite*].
+résultats des exercices clos jusqu'au 31 décembre 2001.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°86-1318 du 30 décembre 1986 - art. 27 ()
+  - Loi - art. 53 () JORF 5 janvier 1993
 
 _Cité par_:
 
@@ -24252,6 +24256,7 @@ _Cité par_:
 
 **Liens**:
 
+  - HISTO: Edition du 18 août 1993
   - TXT_ASSOCIE: Instruction 1987-04-02 4H-4-87
 
 
