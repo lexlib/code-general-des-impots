@@ -6,28 +6,28 @@ l'activité ait été exercée pendant au moins cinq ans et que le bien n'entre 
 
 a. La totalité de leur montant lorsque les recettes annuelles n'excèdent pas :
 
-1° 250 000 Euros s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et
+1° 250 000 euros s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et
 denrées à emporter ou à consommer sur place ou de fournir le logement ;
 
-2° 90 000 Euros s'il s'agit d'autres entreprises ou de titulaires de bénéfices non commerciaux ;
+2° 90 000 euros s'il s'agit d'autres entreprises ou de titulaires de bénéfices non commerciaux ;
 
-b. Une partie de leur montant, lorsque les recettes sont comprises entre 250 000 Euros et 350 000 Euros pour les entreprises
-mentionnées au 1° du a et entre 90 000 Euros et 126 000 Euros pour les entreprises mentionnées au 2° du a, le montant
+b. Une partie de leur montant, lorsque les recettes sont comprises entre 250 000 euros et 350 000 euros pour les entreprises
+mentionnées au 1° du a et entre 90 000 euros et 126 000 euros pour les entreprises mentionnées au 2° du a, le montant
 imposable de la plus-value étant déterminé en lui appliquant un taux fixé selon les modalités qui suivent.
 
-Pour les entreprises mentionnées au 1° du a, ce taux est égal à 0 % lorsque le montant des recettes est égal à 250 000 Euros
-et à 100 % lorsque le montant des recettes est au moins égal à 350 000 Euros.
+Pour les entreprises mentionnées au 1° du a, ce taux est égal à 0 % lorsque le montant des recettes est égal à 250 000 euros
+et à 100 % lorsque le montant des recettes est au moins égal à 350 000 euros.
 
 Lorsque le montant des recettes est compris entre les deux montants figurant à l'alinéa précédent, le taux est égal au
-rapport entre, d'une part, la différence entre le montant des recettes et 250 000 Euros et, d'autre part, le montant de 100
-000 Euros.
+rapport entre, d'une part, la différence entre le montant des recettes et 250 000 euros et, d'autre part, le montant de 100
+000 euros.
 
-Pour les entreprises mentionnées au 2° du a, ce taux est égal à 0 % lorsque le montant des recettes est égal à 90 000 Euros
-et à 100 % lorsque le montant des recettes est au moins égal à 126 000 Euros.
+Pour les entreprises mentionnées au 2° du a, ce taux est égal à 0 % lorsque le montant des recettes est égal à 90 000 euros
+et à 100 % lorsque le montant des recettes est au moins égal à 126 000 euros.
 
 Lorsque le montant des recettes annuelles est compris entre les deux montants figurant à l'alinéa précédent, le taux est égal
-au rapport entre, d'une part, la différence entre le montant des recettes et 90 000 Euros et, d'autre part, le montant de 36
-000 Euros.
+au rapport entre, d'une part, la différence entre le montant des recettes et 90 000 euros et, d'autre part, le montant de 36
+000 euros.
 
 II. - Les plus-values réalisées dans le cadre d'une activité agricole sont exonérées dans les conditions applicables aux
 entreprises mentionnées au 1° du a du I. Le terme de recettes s'entend de la moyenne des recettes encaissées au cours des
@@ -36,11 +36,11 @@ condition que l'activité agricole ait été exercée pendant au moins cinq ans 
 
 III. - Lorsque l'activité de l'entreprise se rattache aux deux catégories définies aux 1° et 2° du a du I :
 
-a. L'exonération totale n'est applicable que si le montant global des recettes n'excède pas 250 000 Euros et si le montant
-des recettes afférentes aux activités définies au 2° du a du I n'excède pas 90 000 Euros ;
+a. L'exonération totale n'est applicable que si le montant global des recettes n'excède pas 250 000 euros et si le montant
+des recettes afférentes aux activités définies au 2° du a du I n'excède pas 90 000 euros ;
 
-b. Lorsque ces conditions ne sont pas remplies, si le montant global des recettes n'excède pas 350 000 Euros et si le montant
-des recettes afférentes aux activités définies au 2° du a du I n'excède pas 126 000 Euros, le montant imposable de la plus-
+b. Lorsque ces conditions ne sont pas remplies, si le montant global des recettes n'excède pas 350 000 euros et si le montant
+des recettes afférentes aux activités définies au 2° du a du I n'excède pas 126 000 euros, le montant imposable de la plus-
 value est déterminé en appliquant le plus élevé des deux taux qui aurait été déterminé dans les conditions fixées au b du I
 si l'entreprise avait réalisé le montant global de ses recettes dans les catégories visées au 1° du a du I ou si l'entreprise
 n'avait réalisé que des activités visées au 2° du a du I.
@@ -76,17 +76,22 @@ activité au moins 50 % de leur revenu.
 
 VI. - Pour l'application des dispositions du présent article, les recettes s'entendent tous droits et taxes compris.
 
+VII. - Pour l'appréciation des limites prévues au présent article applicables aux titulaires de bénéfices non commerciaux
+membres d'une société civile de moyens mentionnée à l'article 239 quater A non soumise à l'impôt sur les sociétés, il est
+tenu compte des recettes réalisées par cette société, à proportion de leurs droits dans les bénéfices comptables. Toutefois,
+ces limites sont appréciées en tenant compte du montant global des recettes, lorsque la plus-value est réalisée par la
+société.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1594-0, 39 duodecies à 39 quindecies, 93 quater, 150 à 150
+  - CGI 1594-0, 39 duodecies à 39 quindecies, 93 quater, 150 à 150, 239 quater A
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
 
 _Modifié par_:
 
-  - Loi - art. 10 (V) JORF 31 décembre 2003
-  - Loi n°2003-1311 2003-12-30 art. 10 II J, K Finances pour 2004 JORF 31 décembre 2003
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 21 () JORF 31 décembre 2004 Rectificatif JORF 1er février 2005
 
 _Cité par_:
 
@@ -105,8 +110,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 70 (V)
   - Code général des impôts, CGI. - art. 93 quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2002-08-23 5E-6-02
