@@ -2,8 +2,8 @@
 
 I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres, selon le cas, dans des conditions prévues à
 l'article 92 B, 150 A bis ou 160 si les actions acquises revêtent la forme nominative et demeurent indisponibles, suivant des
-modalités fixées par décret en Conseil d'Etat, de la date de la levée de l'option jusqu'à l'achèvement d'une période de cinq
-années à compter de la date d'attribution de cette option et, en tout état de cause, pendant au moins un an.
+modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de cinq années à compter de la date
+d'attribution de l'option (1).
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une mère ou une filiale dont le siège social est
 situé à l'étranger, les obligations déclaratives incombent à la filiale ou à la mère française.
@@ -31,21 +31,29 @@ déterminer le quotient.
 Lorsque le revenu global net est négatif, il est compensé à due concurrence, avec le montant net de l'avantage. L'excédent
 éventuel de ce montant net est ensuite imposé suivant les règles du premier alinéa.
 
-Les dispositions de l'article 163 ne sont pas applicables.
+Les dispositions de l'article 163-0 A ne sont pas applicables (2).
+
+(1) Ces dispositions sont applicables aux actions cédées à compter du 1er janvier 1993.
+
+(2) Ces dispositions sont applicables à compter de l'imposition des revenus de 1992 ; elles ne s' appliquent qu'aux seuls
+revenus exceptionnels ou différés imposés d'après le barême progressif prévu à l'article 197 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 80 bis, 92 B, 83 ter, 150 A bis, 199 terdecies A, 220 quater, 160, 163
+  - CGI 80 bis, 92 B, 83 ter, 199 terdecies A, 220 quater, 163-0 A, 197, 150 A bis, 160
 
 _Modifié par_:
 
-  - Loi n°91-1322 1991-12-30 art. 90 Finances pour 1992 JORF 31 décembre 1991
+  - Loi - art. 74 (V) JORF 5 janvier 1993
+  - Loi n°93-859 1993-06-22 art. 39 I Finances rectificative pour 199 JORF 23 juin 1993
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°92-836 1992-08-27
+  - SPEC_APPLI: Loi n°92-1476 1992-12-31 art. 74 IV V Finances rectificative pour 1992
+  - HISTO: Edition du 18 août 1993
+  - TXT_ASSOCIE: Instruction 1998-06-18 5F-12-98
 
 _Cité par_:
 
