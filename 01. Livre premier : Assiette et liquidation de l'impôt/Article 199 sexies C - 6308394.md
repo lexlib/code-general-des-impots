@@ -52,6 +52,11 @@ impôt sur le revenu égale à 25 p. 100 de la somme remboursée, dans la limite
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
 dépenses ont été payées.
 
+(( d) La condition d'ancienneté des immeubles n'est pas exigée lorsque ceux-ci sont situés dans une zone classée en état de
+catastrophe naturelle et que les dépenses sont effectuées dans l'année qui suit la date de constatation de cet état par
+arrêté ministériel, par un contribuable qui a déposé un dossier d'indemnisation auprès de la préfecture ou d'un organisme
+régi par le code des assurances.)) (Modification de la loi 93-1352).
+
 (1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 1993.
 
 (2) Voir article 1740 quater.
@@ -74,8 +79,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°92-655 du 15 juillet 1992 - art. 2 (V) JORF 16 juillet 1992
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Loi n°93-1352 du 30 décembre 1993 - art. 4 () JORF 31 décembre 1993
+  - Modifications directes incorporées dans l'édition du 2 septembre 1994
