@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-12-30
+Version Consolidée au 1988-12-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -1561,6 +1561,144 @@ _Cité par_:
   - Livre des procédures fiscales - art. L286 A (V)
 
 
+###### Article 8
+
+Sous réserve des dispositions de l'article 6, les associés des sociétés en nom collectif et les commandités des sociétés en
+commandite simple sont, lorsque ces sociétés n'ont pas opté pour le régime fiscal des sociétés de capitaux, personnellement
+soumis à l'impôt sur le revenu pour la part de bénéfices sociaux correspondant à leurs droits dans la société.    Il en est
+de même, sous les mêmes conditions :
+
+1° Des membres des sociétés civiles qui ne revêtent pas, en droit ou en fait, l'une des formes de sociétés visées à l'article
+206-1 et qui, sous réserve des exceptions prévues à l'article 239 ter, ne se livrent pas à une exploitation ou à des
+opérations visées aux articles 34 et 35 ;    2° Des membres des sociétés en participation - y compris les syndicats
+financiers - qui sont indéfiniment responsables et dont les noms et adresses ont été indiqués à l'administration ;    3° Des
+membres des sociétés à responsabilité limitée qui ont opté pour le régime fiscal des sociétés de personnes dans les
+conditions prévues à l'article 3-IV du décret n° 55-594 du 20 mai 1955 modifié ou dans celles prévues par l'article 239 bis
+AA.    4° De l'associé unique d'une société à responsabilité limitée lorsque cet associé est une personne physique ;    5° a)
+De l'associé unique d'une exploitation agricole à responsabilité limitée ;
+
+b) Des associés d'une exploitation agricole à responsabilité limitée formée uniquement entre personnes parentes en ligne
+directe ou entre frères et soeurs et, le cas échéant, les conjoints de ces personnes ;
+
+c) Des associés d'une exploitation agricole à responsabilité limitée créée à compter du 1er janvier 1989 à l'occasion de
+l'apport de tout ou partie d'une exploitation individuelle et constituée uniquement entre l'apporteur et un exploitant qui
+s'installe ainsi que, le cas échéant, entre les membres de leurs familles qui leur sont apparentés dans les conditions fixées
+au b ci-dessus sous réserve que l'exploitation agricole à responsabilité limitée réponde aux conditions fixées au 1° de
+l'article 9 du décret n° 88-176 du 23 février 1988 relatif aux aides à l'installation des jeunes agriculteurs.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°88-1202 du 30 décembre 1988 - art. 9 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Arrêté du 29 juillet 2008 - art. 2 (V)
+  - Arrêté du 4 décembre 2008 - art. (VD)
+  - Arrêté du 4 mai 2009 - art. Annexe (V)
+  - Arrêté du 4 juin 2018 (V)
+  - Décret n°2009-707 du 16 juin 2009 - art. 4 (V)
+  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 6 (V)
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies M (V)
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies ZX (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 151 octies C (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies B (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 208 C ter (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
+  - Code général des impôts, CGI. - art. 103 (V)
+  - Code général des impôts, CGI. - art. 13 (VD)
+  - Code général des impôts, CGI. - art. 150 U (V)
+  - Code général des impôts, CGI. - art. 150 UA (V)
+  - Code général des impôts, CGI. - art. 150 UB (V)
+  - Code général des impôts, CGI. - art. 150 VF (V)
+  - Code général des impôts, CGI. - art. 150-0 A (V)
+  - Code général des impôts, CGI. - art. 151 nonies (V)
+  - Code général des impôts, CGI. - art. 151 septies A (M)
+  - Code général des impôts, CGI. - art. 154 (V)
+  - Code général des impôts, CGI. - art. 158 (V)
+  - Code général des impôts, CGI. - art. 1609 nonies G (V)
+  - Code général des impôts, CGI. - art. 162 (V)
+  - Code général des impôts, CGI. - art. 1663 bis (V)
+  - Code général des impôts, CGI. - art. 200 B (V)
+  - Code général des impôts, CGI. - art. 202 quater (V)
+  - Code général des impôts, CGI. - art. 202 ter (V)
+  - Code général des impôts, CGI. - art. 206 (V)
+  - Code général des impôts, CGI. - art. 208 C (V)
+  - Code général des impôts, CGI. - art. 208 quinquies (V)
+  - Code général des impôts, CGI. - art. 209-0 B (V)
+  - Code général des impôts, CGI. - art. 218 bis (V)
+  - Code général des impôts, CGI. - art. 220 septies (P)
+  - Code général des impôts, CGI. - art. 234 terdecies (V)
+  - Code général des impôts, CGI. - art. 238 bis K (V)
+  - Code général des impôts, CGI. - art. 238 bis M (V)
+  - Code général des impôts, CGI. - art. 238 octies B (V)
+  - Code général des impôts, CGI. - art. 238 quater J (V)
+  - Code général des impôts, CGI. - art. 238 quater M (V)
+  - Code général des impôts, CGI. - art. 238 quindecies (V)
+  - Code général des impôts, CGI. - art. 239 bis AA (V)
+  - Code général des impôts, CGI. - art. 239 bis AB (V)
+  - Code général des impôts, CGI. - art. 244 bis A (V)
+  - Code général des impôts, CGI. - art. 244 quater B (VD)
+  - Code général des impôts, CGI. - art. 244 quater C (V)
+  - Code général des impôts, CGI. - art. 244 quater E (VD)
+  - Code général des impôts, CGI. - art. 244 quater F (V)
+  - Code général des impôts, CGI. - art. 244 quater G (VT)
+  - Code général des impôts, CGI. - art. 244 quater H (Ab)
+  - Code général des impôts, CGI. - art. 244 quater K (P)
+  - Code général des impôts, CGI. - art. 244 quater L (V)
+  - Code général des impôts, CGI. - art. 244 quater M (V)
+  - Code général des impôts, CGI. - art. 244 quater N (P)
+  - Code général des impôts, CGI. - art. 244 quater O (V)
+  - Code général des impôts, CGI. - art. 244 quater P (P)
+  - Code général des impôts, CGI. - art. 244 quater Q (V)
+  - Code général des impôts, CGI. - art. 244 quater R (P)
+  - Code général des impôts, CGI. - art. 244 quater T (V)
+  - Code général des impôts, CGI. - art. 244 quater U (VT)
+  - Code général des impôts, CGI. - art. 244 quater V (V)
+  - Code général des impôts, CGI. - art. 244 quater W (V)
+  - Code général des impôts, CGI. - art. 34 (V)
+  - Code général des impôts, CGI. - art. 39 C (V)
+  - Code général des impôts, CGI. - art. 44 sexies A (V)
+  - Code général des impôts, CGI. - art. 44 terdecies (V)
+  - Code général des impôts, CGI. - art. 60 (V)
+  - Code général des impôts, CGI. - art. 69 D (V)
+  - Code général des impôts, CGI. - art. 73 D (V)
+  - Code général des impôts, CGI. - art. 730 bis (V)
+  - Code général des impôts, CGI. - art. 75-0 B (V)
+  - Code général des impôts, CGI. - art. 787 B (V)
+  - Code général des impôts, CGI. - art. 885 I bis (Ab)
+  - Code général des impôts, CGI. - art. 885 I quater (Ab)
+  - Code général des impôts, CGI. - art. 885 O (Ab)
+  - Code général des impôts, CGI. - art. 93 B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 376 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 75 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 81 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies M (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 novovicies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies K (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies O (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies S (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies W (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZO (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZT (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZ (M)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (V)
+  - Code monétaire et financier - art. L214-80 (V)
+  - Code rural - art. D731-25 (V)
+
+_Cite_:
+
+  - CGI 206 1
+  - CGI 239 bis AA
+  - CGI 239 ter
+  - CGI 34
+  - CGI 35
+  - CGI 6
+  - Décret n°88-176 du 23 février 1988 - art. 9 (M)
+  - Décret n°55-594 1955-05-20 ART. 3 IV
+
+
 ###### Article 8 bis
 
 Les associés ou actionnaires des sociétés visées à l'article 1655 ter sont personnellement soumis à l'impôt sur le revenu
@@ -2070,6 +2208,68 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R731-32 (V)
 
 
+###### Article 38 bis
+
+I. 1 Les titres prêtés par une entreprise dans les conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne
+sont prélevés par priorité sur les titres de même nature acquis ou souscrits à la date la plus récente.
+
+La créance représentative des titres prêtés est inscrite distinctement au bilan à la valeur d'origine de ces titres.
+
+A l'expiration du prêt, les titres restitués sont inscrits au bilan à cette même valeur.
+
+2 La rémunération allouée en rémunération du prêt de titres constitue un revenu de créance. Lorsque la période du prêt couvre
+la date de paiement des revenus attachés aux titres prêtés, le montant de la rémunération ne peut être inférieur à la valeur
+des revenus auxquels le prêteur a renoncé. La fraction de la rémunération qui correspond à ces produits est soumise au même
+régime fiscal que les revenus des titres prêtés .
+
+II. 1 Les titres empruntés dans les conditions du chapitre V de la loi citée au I et la dette représentative de l'obligation
+de restitution de ces titres sont inscrits distinctement au bilan de l'emprunteur au prix du marché au jour du prêt.
+
+A la clôture de l'exercice, les titres empruntés qui figurent au bilan de l'emprunteur et la dette représentative de
+l'obligation de restitution qui résulte des contrats en cours sont inscrits au prix que ces titres ont sur le marché à cette
+date.
+
+A l'expiration du prêt, les titres empruntés sont réputés restitués à la valeur pour laquelle la dette représentative de
+l'obligation de restitution figure au bilan.
+
+1 bis. Les titres empruntés peuvent faire l'objet d'un prêt. Dans ce cas, la créance représentative des titres mentionnés au
+1 ci-dessus doit être inscrite au bilan au prix que ces titres ont sur le marché à la date du nouveau prêt. A la clôture de
+l'exercice, cette créance doit être évaluée au prix des titres à cette date. Lors de leur restitution, les titres empruntés
+qui ont fait l'objet d'un prêt sont repris pour la valeur de la créance à cette date et sont ensuite évalués selon les
+modalités prévues au 1 jusqu'à leur cession ou leur restitution au prêteur initial. 
+
+2 Lorsque l'emprunteur cède des titres, ceux-ci sont prélevés par priorité sur les titres de même nature empruntés à la date
+la plus ancienne. Les achats ultérieurs de titres de même nature sont affectés par priorité au remplacement des titres
+empruntés.
+
+**Nota:**
+
+Nota : cf. Instruction 1993-03-26 4A-10-93.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°87-416 1987-06-17
+
+_Modifié par_:
+
+  - Loi n°88-1201 1988-12-23 art. 43 II, III JORF 31 décembre 1988
+  - Loi n°88-1201 du 23 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
+  - Code général des impôts, CGI. - art. 145 (V)
+  - Code général des impôts, CGI. - art. 38 (M)
+  - Code général des impôts, CGI. - art. 38 bis A (VD)
+  - Code monétaire et financier - art. L211-23 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1993-03-26 4A-10-93
+
+
 ###### Article 38 quater
 
 Par dérogation aux dispositions de l'article 38, lorsqu'un contrat d'assurance sur la vie a été souscrit par une entreprise,
@@ -2335,6 +2535,96 @@ _Cité par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L251-1 (V)
+
+
+###### Article 39 duodecies
+
+1  Par dérogation aux dispositions de l'article 38, les plus-values provenant de la cession d'éléments de l'actif immobilisé
+sont soumises à des régimes distincts suivant qu'elles sont réalisées à court ou à long terme.
+
+2  Le régime des plus-values à court terme est applicable :
+
+a  Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans;
+
+b  Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles
+correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas échéant, ces plus-values sont majorées du
+montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en
+contravention aux dispositions de l'article 39 B;
+
+c (Dispositions devenues sans objet).
+
+3  Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2.
+
+4  Le régime des moins-values à court terme s'applique :
+
+a  Aux moins-values subies lors de la cession de biens non amortissables détenus depuis moins de deux ans;
+
+b  Aux moins-values subies lors de la cession de biens amortissables, quelle que soit la durée de leur détention. Le cas
+échéant, ces moins-values sont diminuées du montant des amortissements expressément exclus des charges déductibles ainsi que
+de ceux qui ont été différés en contravention aux dispositions de l'article 39 B.
+
+5  Le régime des moins-values à long terme s'applique aux moins-values autres que celles définies au 4.
+
+6  Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par
+priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
+
+7  Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-
+values réalisées par les sociétés de crédit-bail ou plus généralement les sociétés qui ont pour objet social la location
+d'équipements, sur la vente des éléments de l'actif immobilisé faisant l'objet d'une location dans le cadre de leur activité.
+
+8  En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue d'un contrat de prêt mentionné à
+l'article 31 de la loi n° 87-416 du 17 juin 1987 sur l'épargne, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de
+la date de la première inscription à son bilan des titres prêtés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 244 quinquies
+  - CGI 244 septies
+  - CGI 39 B
+  - Loi n°87-416 1987-06-17 art. 31
+
+_Modifié par_:
+
+  - Loi n°88-1201 du 23 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 217 quinquies (VD)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
+  - Code général des impôts, CGI. - art. 112 (VT)
+  - Code général des impôts, CGI. - art. 150 UC (V)
+  - Code général des impôts, CGI. - art. 151 octies (V)
+  - Code général des impôts, CGI. - art. 151 octies B (V)
+  - Code général des impôts, CGI. - art. 151 septies (VD)
+  - Code général des impôts, CGI. - art. 151 septies A (M)
+  - Code général des impôts, CGI. - art. 151 septies B (V)
+  - Code général des impôts, CGI. - art. 155 (VD)
+  - Code général des impôts, CGI. - art. 164 B (V)
+  - Code général des impôts, CGI. - art. 201 (V)
+  - Code général des impôts, CGI. - art. 204 G (VD)
+  - Code général des impôts, CGI. - art. 210 (V)
+  - Code général des impôts, CGI. - art. 219 (VT)
+  - Code général des impôts, CGI. - art. 221 bis (V)
+  - Code général des impôts, CGI. - art. 223 D (V)
+  - Code général des impôts, CGI. - art. 237 septies (V)
+  - Code général des impôts, CGI. - art. 238 quaterdecies (P)
+  - Code général des impôts, CGI. - art. 238 quindecies (V)
+  - Code général des impôts, CGI. - art. 238 sexdecies (V)
+  - Code général des impôts, CGI. - art. 239 sexies C (V)
+  - Code général des impôts, CGI. - art. 38 (V)
+  - Code général des impôts, CGI. - art. 38 bis A (VD)
+  - Code général des impôts, CGI. - art. 39 duodecies A (V)
+  - Code général des impôts, CGI. - art. 40 (V)
+  - Code général des impôts, CGI. - art. 41 (V)
+  - Code général des impôts, CGI. - art. 50-0 (V)
+  - Code général des impôts, CGI. - art. 73 E (V)
+  - Code général des impôts, CGI. - art. 93 quater (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 171 N (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 29 A (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 46 (V)
 
 
 ###### Article 39 nonies
@@ -28689,6 +28979,67 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 96 A (V)
 
 
+###### Article 261 C
+
+Sont exonérées de la taxe sur la valeur ajoutée :
+
+1° Les opérations bancaires et financières suivantes :
+
+a  L'octroi et la négociation de crédits, la gestion de crédits effectuée par celui qui les a octroyés et les prêts de titres
+effectués dans les conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne ;
+
+b  La négociation et la prise en charge d'engagements, de cautionnements et d'autres sûretés et garanties ainsi que la
+gestion de garanties de crédits effectuée par celui qui a octroyé les crédits;
+
+c  Les opérations, y compris la négociation, concernant les dépôts de fonds, comptes courants, paiements, virements,
+créances, chèques et autres effets de commerce, à l'exception du recouvrement de créances;
+
+d  Les opérations, y compris la négociation, portant sur les devises, les billets de banque et les monnaies qui sont des
+moyens de paiement légaux à l'exception des monnaies et billets de collection (1).
+
+Sont considérés comme des monnaies et billets de collection les pièces en or, en argent, ou autre métal, ainsi que les
+billets qui ne sont pas normalement utilisés dans leur fonction comme moyen de paiement légal ou qui présentent un intérêt
+numismatique;
+
+e  Les opérations, autres que celles de garde et de gestion portant sur les actions, les parts de sociétés ou d'associations,
+les obligations et les autres titres, à l'exclusion des titres représentatifs de marchandises et des parts d'intérêt dont la
+possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un
+bien immeuble ;
+
+f  La gestion de fonds communs de placement et de fonds communs de créances ;
+
+g  Les opérations relatives à l'or, autre que l'or à usage industriel, lorsqu'elles sont réalisées par les établissements de
+crédit, sociétés de bourse, changeurs, escompteurs et remisiers, ou par toute autre personne qui en fait son activité
+principale (1) ;
+
+2° Les opérations d'assurance et de réassurance ainsi que les prestations de services afférentes à ces opérations effectuées
+par les courtiers et intermédiaires d'assurances;
+
+3° Les livraisons à leur valeur officielle de timbres fiscaux et de timbres-poste ayant cours ou valeur d'affranchissement en
+France.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-1240 1978-12-29 ART. 33, ART. 49 FINANCES RECTIFICATIVE POUR 1978
+  - Loi n°78-1240 du 29 décembre 1978 - art. 33 ()
+
+_Cite_:
+
+  - Loi n°87-416 1987-06-17
+
+_Modifié par_:
+
+  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V) JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 260 C (VD)
+  - Code général des impôts, CGI. - art. 266 (V)
+  - Code général des impôts, CGI. - art. 271 (VD)
+
+
 ###### Article 261 D
 
 Sont exonérées de la taxe sur la valeur ajoutée :
@@ -50307,6 +50658,38 @@ _Cite_:
 _Abrogé par_:
 
   - Loi n°2007-1822 du 24 décembre 2007 - art. 11
+
+
+###### Article 980 bis
+
+Le droit de timbre sur les opérations de bourse n'est pas applicable :
+
+1° Aux opérations de contrepartie réalisées par les intermédiaires professionnels et enregistrées comme telles dans les
+comptes ouverts à cet effet dans les écritures des sociétés de bourse ;
+
+2° Aux opérations d'achat et de vente portant sur des obligations inscrites à la cote officielle de la bourse de Paris ou à
+la cote du second marché ou figurant au relevé quotidien des valeurs non admises à la cote officielle de cette bourse.
+
+L'exonération ne s'applique pas aux obligations échangeables ou convertibles en actions, aux valeurs assorties de clauses
+d'indexation ou de clauses de participation aux bénéfices de la société émettrice;
+
+3° Aux opérations de bourse effectuées dans le cadre de placements en report par les personnes qui font de tels placements ;
+
+4° Aux opérations portant sur des valeurs mobilières inscrites à la cote officielle d'une bourse de province, à la cote du
+second marché ou figurant au relevé quotidien des valeurs non admises à la cote officielle d'une de ces bourses ;
+
+5° Aux achats ou ventes portant sur les titres participatifs visés à l'article 21 de la loi n° 83-1 du 3 janvier 1983 sur le
+6° Aux opérations d'achat et de vente portant sur les parts émises par les fonds communs de créances.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°83-1 1983-01-03 ART. 21
+
+_Modifié par_:
+
+  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V) JORF 31 décembre 1988
 
 
 ###### Article 981
