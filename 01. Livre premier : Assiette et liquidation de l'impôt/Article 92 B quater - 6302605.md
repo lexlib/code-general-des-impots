@@ -1,7 +1,7 @@
 # Article 92 B quater
 
-1. Avant le 1er janvier 1993, les versements sur un plan d'épargne en actions [*PEA*] défini à l'article 163 quinquies D
-peuvent être constitués en tout ou partie par le transfert de titres détenus par le contribuable.
+1. Avant le 1er janvier 1993, les versements sur un plan d'épargne en actions défini à l'article 163 quinquies D peuvent être
+constitués en tout ou partie par le transfert de titres détenus par le contribuable.
 
 Ces opérations de transfert sont assimilées à des cessions po ur l'application des dispositions de l'article 92 B sauf si
 elles portent sur des titres acquis ou souscrits à compter du 1er avril 1992.
@@ -22,8 +22,15 @@ actions mentionnées au I bis de l'article 92 B est reportée dans les mêmes co
 immédiatement investi dans un plan en un contrat de capitalisation visé au f du 1 du I de l'article 2 de la loi n° 92-666 du
 16 juillet 1992.
 
+Les limites mentionnées au I et au 1 bis de l'article 92 B du code général des impôts sont appréciées, pour l'imposition des
+autres gains nets réalisés au cours de la même année par le foyer fiscal, en faisant abstraction du montant des transferts ou
+des cessions réalisés du 23 juin au 31 décembre 1993 correspondant à la plus-value dont le report de l'imposition est
+demandé.
+
 La plus-value dont l'imposition a été reportée est exonérée lorsque le plan d'épargne en actions n'est pas clos avant
-l'expiration de la cinquième année.
+l'expiration de la cinquième année (1).
+
+(1) Voir l'article 41 octovicies de l'annexe III.
 
 **Liens relatifs à cet article**
 
@@ -32,15 +39,13 @@ _Cite_:
   - CGI 163 quinquies D, 92 B
   - Loi n°92-666 1992-07-16 art. 2
 
-**Liens**:
-
-  - HISTO: Loi n°92-1476 1992-12-31 art. 77 Finances rectificative pour 1992 JORF 5 janvier 1993)
-  - HISTO: Loi n°93-859 1993-06-22 art. 28 Finances rectificative pour 1993 JORF 23 juin 1993)
-
-_Créé par_:
-
-  - Loi n°92-666 1992-07-16 art. 5-1, art. 3 JORF 18 juillet 1992
-
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°94-899 1994-10-17
+  - Décret n°99-382 1999-05-18
+
+**Liens**:
+
+  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+  - HISTO: Edition du 2 septembre 1994
+  - HISTO: Edition du 31 mars 1999

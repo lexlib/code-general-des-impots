@@ -1,6 +1,6 @@
 # Article 199 duodecies
 
-I. Les contribuables domicilés en France au sens de l'article  4 B peuvent bénéficier d'une réduction de leur impôt sur le
+I. Les contribuables domicilés en France au sens de l'article 4 B peuvent bénéficier d'une réduction de leur impôt sur le
 revenu égale à 25 p. 100 des sommes versées pour les apports en numéraire aux sociétés qui se constituent entre le 1er
 janvier 1988 et le 31 décembre 1988, ou aux sociétés créées entre ces deux dates qui procèdent à des augmentations de capital
 dans les deux années suivant leur constitution.
@@ -22,8 +22,7 @@ préexistantes ou pour la reprise de telles activités ;
 
 " 4° Les souscriptions donnant lieu aux déductions prévues au dernier alinéa de l'article 62, au 2° quater de l'article 83,
 aux articles 163 quindecies et 163 septdecies ou aux réductions d'impôt prévues aux articles 199 quinquies et 199 undecies ne
-peuvent ouvrir droit à la réduction d'impôt mentionnée au I. Cette réduction d'impôt est exclusive du bénéfice des
-dispositions de l'article 163 octodecies.
+peuvent ouvrir droit à la réduction d'impôt mentionnée au I.
 
 III. La réduction d'impôt s'applique sur l'impôt calculé dans les conditions fixées par l'article 197 avant l'application, le
 cas échéant, du VI de cet article ; elle ne peut donner lieu à remboursement.
@@ -43,22 +42,26 @@ contribuables et aux sociétés nouvelles (Voir Annexe III, art. 46 AH).
 
 **Liens relatifs à cet article**
 
+_Abrogé par_:
+
+  - Article 163 octodecies périmé)
+
 _Cite_:
 
-  - CGI 163 octodecies
-  - CGI 163 quindecies
-  - CGI 163 septdecies
-  - CGI 1733
-  - CGI 197 VI
-  - CGI 199 quinquies
-  - CGI 199 undecies
-  - CGI 34
-  - CGI 4 B
-  - CGI 62
-  - CGI 83 2 ° quater
-  - CGI 91 C
+  - CGI 4 B, 34, 62, 83, 163 quindecies, 163 septdecies, 199 quinquies, 199 undecies, 197, 91 C, 1733
   - CGIAN3 46 AH
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
+  - Décret n°95-1281 1995-12-11
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 72 (P) JORF 28 décembre 1988
+  - Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994 :
+  - Modifications incorporées dans l'édition du 2 septembre 1994
+
+**Liens**:
+
+  - PEREMPTION: Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+  - HISTO: Edition du 27 octobre 1995
