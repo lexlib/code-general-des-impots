@@ -18,13 +18,13 @@ neufs situés dans ces départements et qu'elles donnent en location nue pendant
 dans les deux ans qui suivent la clôture de chaque souscription annuelle. Les souscripteurs doivent s'engager à conserver les
 parts ou actions pendant cinq ans au moins à compter de la date d'achèvement des immeubles ;
 
-c. Aux souscriptions au capital de sociétés civiles régies par la section 3 du chapitre IV du titre premier du livre II du
-code monétaire et financier, lorsque la société s'engage à affecter intégralement le produit de la souscription annuelle,
-dans les six mois qui suivent la clôture de celle-ci, à l'acquisition de logements neufs situés dans ces départements et
-affectés pour 90 p. 100 au moins à usage d'habitation. Les souscripteurs doivent s'engager à conserver les parts pendant cinq
-ans au moins à compter de la date de souscription. Ces sociétés doivent s'engager à les donner en location nue pendant cinq
-ans au moins à compter de leur achèvement, ou de leur acquisition si elle est postérieure à des locataires qui en font leur
-habitation principale. Ces dispositions s'appliquent aux souscriptions réalisées à compter du 1er juillet 1993 ;
+c. Aux souscriptions au capital de sociétés civiles régies par la section 3 du chapitre IV du titre Ier du livre II du code
+monétaire et financier, lorsque la société s'engage à affecter intégralement le produit de la souscription annuelle, dans les
+six mois qui suivent la clôture de celle-ci, à l'acquisition de logements neufs situés dans ces départements et affectés pour
+90 p. 100 au moins à usage d'habitation. Les souscripteurs doivent s'engager à conserver les parts pendant cinq ans au moins
+à compter de la date de souscription. Ces sociétés doivent s'engager à les donner en location nue pendant cinq ans au moins à
+compter de leur achèvement, ou de leur acquisition si elle est postérieure, à des locataires qui en font leur habitation
+principale. Ces dispositions s'appliquent aux souscriptions réalisées à compter du 1er juillet 1993 ;
 
 d. Au montant des souscriptions en numéraire au capital des sociétés de développement régional de ces départements ou de
 sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant dans les douze mois de la clôture
@@ -54,10 +54,10 @@ Les souscripteurs de parts ou actions des sociétés mentionnées au présent 1 
 ans à compter de la date de la souscription.
 
 2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1 et
-dont le montant est supérieur à 30 000 000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du
+dont le montant est supérieur à 4 600 000 euros doit avoir été portée, préalablement à sa réalisation, à la connaissance du
 ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. Il en est de
 même de la construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de construire dont le prix de revient
-est supérieur à 30 000 000 F ou de l'acquisition de logements situés dans de tels immeubles.
+est supérieur à 4 600 000 euros ou de l'acquisition de logements situés dans de tels immeubles.
 
 3. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble, ou de son
 acquisition si elle est postérieure, ou de souscription des parts ou actions, et des quatre années suivantes. Chaque année,
@@ -83,8 +83,8 @@ ont pour objet de construire ou d'acquérir de tels logements ;
 
 2° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si
 elle est postérieure et pendant six ans au moins à des personnes qui en font leur habitation principale. En cas de
-souscription au capital de sociétés visées aux b et c du 1, le contribuable s'engage à conserver ses parts ou actions pendant
-au moins six ans ;
+souscription au capital de sociétés visées aux b et c du deuxième alinéa du 1, le contribuable s'engage à conserver ses parts
+ou actions pendant au moins six ans ;
 
 3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret (3).
 
@@ -128,13 +128,20 @@ _Cite_:
 
   - CGI 217 undecies, 210 B, 210 A, 199 sexies, 199 nonies à 199 decies B, 197
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - TXT_ASSOCIE: Instruction 1999-01-25 5B-5-99
+  - TXT_ASSOCIE: Instruction 1999-01-29 4A-1-99
+  - TXT_ASSOCIE: Instruction 1999-06-17 5B-14-99
+  - TXT_ASSOCIE: Instruction 2000-02-21 5B-11-00
+  - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
+  - TXT_ASSOCIE: Instruction 2000-03-06 5B-13-00
+  - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
+
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 58° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -148,14 +155,3 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 294 E (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG octies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 1999-01-25 5B-5-99
-  - TXT_ASSOCIE: Instruction 1999-01-29 4A-1-99
-  - TXT_ASSOCIE: Instruction 1999-06-17 5B-14-99
-  - TXT_ASSOCIE: Instruction 2000-02-21 5B-11-00
-  - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
-  - TXT_ASSOCIE: Instruction 2000-03-06 5B-13-00
-  - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
