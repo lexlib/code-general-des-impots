@@ -3,9 +3,9 @@
 Des centres de gestion dont l'objet est d'apporter une assistance en matière de gestion aux industriels, commerçants,
 artisans et agriculteurs peuvent être agréés dans des conditions fixées par décret en Conseil d'Etat (1).
 
-Ces centres sont créés à l'initiative soit d'experts comptables et comptables agréés ou de sociétés membres de l'ordre, soit
-de chambres de commerce et d'industrie, de chambres de métiers ou de chambres d'agriculture, soit d'organisations
-professionnelles légalement constituées d'industriels, de commerçants, d'artisans ou d'agriculteurs.
+Ces centres sont créés à l'initiative soit d'experts comptables ou de sociétés membres de l'ordre, soit de chambres de
+commerce et d'industrie, de chambres de métiers ou de chambres d'agriculture, soit d'organisations professionnelles
+légalement constituées d'industriels, de commerçants, d'artisans ou d'agriculteurs.
 
 (1) Annexe II, art. 371 A à 371 L.
 
@@ -29,10 +29,14 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 I (Ab)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z quater (V)
 
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
+
 _Cite_:
 
-  - CGIAN2 371 A A CGIAN2 371 L
+  - CGIAN2 371 A à 371 L
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 27 octobre 1995
