@@ -9,8 +9,8 @@ La taxe est due par le producteur et acquittée pour son compte par les industri
 sont livrées.
 
 Cette taxe est perçue sur les betteraves qui sont directement exportées, qui font l'objet d'une livraison exonérée en vertu
-du I de l'article 262 ter ou d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté économique
-européenne en application de l'article 258 A.
+du I de l'article 262 ter ou d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en
+application de l'article 258 A.
 
 **Liens relatifs à cet article**
 
@@ -22,25 +22,18 @@ _Cite_:
 
   - CGI 262 ter, 258 A
 
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
+
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
-
-_Créé par_:
-
-  - Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
+  - HISTO: Edition du 12 mai 1996
 
 _Modifié par_:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 48 () JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 49 () JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 50 () JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 51 () JORF 19 juillet 1992
-  - Loi - art. 53 ()
-  - Loi n°92-1376 1992-12-30 art. 33 II, art. 53 Finances pour 1993
-  - Loi n°92-1476 1992-12-31 art. 35 4 5 Finances rectificative pour 1992 JORF 5 janvier 1993
+  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Loi - art. 41 (V) JORF 31 décembre 1995
