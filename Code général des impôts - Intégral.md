@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1991-07-15
+Version Consolidée au 1991-07-19
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -966,7 +966,7 @@ Version Consolidée au 1991-07-15
           - [Section IV : Dispositions communes aux taxes foncières et à la taxe d'habitation (art. 1415 à 1417)](#963)
           - [Section V : Cotisation foncière des entreprises (art. 1447 à 1479)](#964)
             - [I : Personnes et activités imposables (art. 1447 à 1448)](#965)
-            - [II : Exonérations et abattements (art. 1449 à 1466)](#966)
+            - [II : Exonérations et abattements (art. 1449 à 1466 A)](#966)
             - [III : Base d'imposition (art. 1467 à 1472 A bis)](#967)
               - [1° : Ecrêtement des bases appliqué de 1976 à 1979. (art. 1472)](#968)
               - [2° : Ecrêtement des bases applicable à compter de 1980. (art. 1472 A)](#969)
@@ -2044,18 +2044,22 @@ _Cité par_:
 Sous réserve des dispositions des articles 33 ter et 33 quater, le revenu brut des immeubles ou parties d'immeubles donnés en
 location, est constitué par le montant des recettes brutes perçues par le propriétaire, augmenté du montant des dépenses
 incombant normalement à ce dernier et mises par les conventions à la charge des locataires et diminué du montant des dépenses
-supportées par le propriétaire pour le compte des locataires [*définition, calcul*].
+supportées par le propriétaire pour le compte des locataires. Les subventions et indemnités destinées à financer des charges
+déductibles sont comprises dans le revenu brut.
 
-Dans les recettes brutes de la propriété [*définition*] sont comprises notamment celles qui proviennent de la location du
-droit d'affichage [*publicité commerciale*] ou du droit de chasse, de la concession du droit d'exploitation des carrières, de
-redevances tréfoncières ou autres redevances analogues ayant leur origine dans le droit de propriété ou d'usufruit.
+Dans les recettes brutes de la propriété sont comprises notamment celles qui proviennent de la location du droit d'affichage
+ou du droit de chasse, de la concession du droit d'exploitation des carrières, de redevances tréfoncières ou autres
+redevances analogues ayant leur origine dans le droit de propriété ou d'usufruit.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 33 QUATER
-  - CGI 33 TER
+  - CGI 33 ter, 33 quater
+
+_Modifié par_:
+
+  - Loi - art. 22 () JORF 19 juillet 1991
 
 _Cité par_:
 
@@ -2068,7 +2072,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 30
@@ -58032,7 +58036,8 @@ _Cite_:
 ###### Article 1042
 
 I. - Sous réserve des dispositions de l'article 257-7°, les acquisitions immobilière faites à l'amiable et à titre onéreux
-par les communes ou syndicats de communes, les départements, les régions et par les établissemements publics communaux,
+par les communes ou syndicats de communes, les établissements publics fonciers créés en application des articles L. 324-1 et
+suivants du code de l'urbanisme (1), les départements, les régions et par les établissements publics communaux,
 départementaux ou régionaux ne donnent lieu à aucune perception au profit du Trésor.
 
 Il en est de même des acquisitions de fonds de commerce réalisées par les collectivités ou établissements publics mentionnés
@@ -58045,6 +58050,9 @@ de l'article premier de la loi n° 83-597 du 7 juillet 1983 sur les sociétés d
 perception au profit du Trésor, sous réserve que la décision de l'assemblée délibérante compétente pour décider de
 l'opération fasse référence à la disposition législative en cause et soit annexée à l'acte.
 
+(1) Pour l'application de cette disposition, les dispositions de l'article 2 de la loi n° 86-29 du 9 janvier 1986 portant
+dispositions diverses relatives aux collectivités locales ne sont pas applicables.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -58053,15 +58061,13 @@ _Cite_:
   - Loi n°82-213 1982-03-02 art. 5, art. 48, art. 66
   - Loi n°82-213 du 2 mars 1982 - art. 48 (M)
   - Loi n°82-213 du 2 mars 1982 - art. 66 (V)
-  - Loi n°83-597 du 7 juillet 1983 - art. 1 (M)
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
+  - Loi n°83-597 1983-07-07
+  - Loi n°86-29 du 9 janvier 1986 - art. 2 ()
+  - Code de l'urbanisme - art. L324-1 (M)
 
 _Modifié par_:
 
-  - Loi n°83-1179 1983-12-29 art. 31 II 4 finances pour 1984 JORF 30 décembre 1983
+  - Loi - art. 29 (V) JORF 19 juillet 1991
 
 _Cité par_:
 
@@ -62633,6 +62639,100 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°90-1169 du 29 décembre 1990 - art. 36 () JORF 30 décembre 1990
+
+
+###### Article 1466 A
+
+I. – Les communes peuvent, dans des parties de leur territoire caractérisées par la présence de grands ensembles ou de
+quartiers d'habitat dégradé dont la liste sera fixée par décret et par un déséquilibre accentué entre l'habitat et l'emploi,
+délimiter, par délibération prise dans les conditions de l'article 1639 A bis, des périmètres à l'intérieur desquels sont
+exonérées de la taxe professionnelle les créations ou extensions d'établissement, dans la limite d'un montant de base nette
+imposable fixé pour 1992 à un million de francs et actualisé chaque année en fonction de la variation des prix constatée par
+l'Institut national de la statistique et des études économiques pour l'année de référence définie à l'article 1467 A. La
+délibération fixe le taux d'exonération ainsi que sa durée ; elle ne peut avoir pour effet de reporter de plus de cinq ans
+l'application du régime d'imposition de droit commun. Elle porte sur la totalité de la part revenant à chaque commune. Seuls
+les établissements employant moins de cent cinquante salariés peuvent bénéficier de cette mesure.
+
+Les délibérations des conseils municipaux s'appliquent à la cotisation de péréquation de la taxe professionnelle.
+
+II. – Pour bénéficier de l'exonération, les contribuables déclarent, chaque année, dans les conditions prévues à l'article
+1477, les éléments entrant dans le champ d'application de l'exonération.
+
+Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464
+A, 1464 B, 1464 D ou 1465 et de celles prévues au I du présent article, le contribuable doit opter pour l'un ou l'autre de
+ces régimes. L'option est irrévocable.
+
+Pour l'application du I :
+
+a) Deux périodes d'exonération ne peuvent courir simultanément ;
+
+b) L'extension d'établissement [*définition*] s'entend de l'augmentation nette des bases par rapport à celles de l'année
+précédente multipliées par la variation des prix à la consommation constatée par l'Institut national de la statistique et des
+études économiques pour l'année de référence définie à l'article 1467 A.
+
+III. – Les groupements de communes dotés d'une fiscalité propre, les départements et les régions peuvent exonérer de taxe
+professionnelle les créations ou extensions d'établissements comprises dans un périmètre défini au I et dans les conditions
+définies aux I et II.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1639 A bis, 1464 A, 14664 B, 1464 D, 1465, 1467 A, 1477, 1467
+
+_Créé par_:
+
+  - Loi - art. 26 () JORF 19 juillet 1991, article créé directement et incorporé dans l'édition du 4 juillet 1992
+
+_Cité par_:
+
+  - Loi n°95-115 du 4 février 1995 - art. 52 (V)
+  - Loi n°95-115 du 4 février 1995 - art. 43 (VD)
+  - Loi n°96-987 du 14 novembre 1996 - art. 4 (V)
+  - Loi n°2003-710 du 1 août 2003 - art. 27 (V)
+  - Loi n°2006-396 du 31 mars 2006 - art. 29 (M)
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 130 (VD)
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+  - Décret n°2008-98 du 30 janvier 2008 - art. 2 (V)
+  - Décret n°2008-1478 du 30 décembre 2008 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (VD)
+  - Loi n°2009-122 du 4 février 2009 - art. 14 (V)
+  - Décret n°2012-1534 du 28 décembre 2012 - art. 1 (V)
+  - Arrêté du 12 mars 2013 - art. (V)
+  - Arrêté du 18 février 2014 - art. (V)
+  - Décret n°2015-643 du 9 juin 2015 (V)
+  - Loi n°2015-991 du 7 août 2015 - art. 59
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 50 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 722 bis (V)
+  - Code de la construction et de l'habitation. - art. L452-4 (V)
+  - Code de la construction et de l'habitation. - art. R323-7 (V)
+  - Code de la construction et de l'habitation. - art. R441-1-1 (V)
+  - Code de la construction et de l'habitation. - art. R441-31 (VD)
+  - Code de la sécurité sociale. - art. D634-11-2 (V)
+  - Code général des impôts, CGI. - art. 1383 B (V)
+  - Code général des impôts, CGI. - art. 1383 C (V)
+  - Code général des impôts, CGI. - art. 1383 C bis (V)
+  - Code général des impôts, CGI. - art. 1383 C ter (V)
+  - Code général des impôts, CGI. - art. 1383 H (V)
+  - Code général des impôts, CGI. - art. 1383 I (V)
+  - Code général des impôts, CGI. - art. 1466 C (V)
+  - Code général des impôts, CGI. - art. 1466 D (V)
+  - Code général des impôts, CGI. - art. 1466 F (V)
+  - Code général des impôts, CGI. - art. 1586 nonies (V)
+  - Code général des impôts, CGI. - art. 1639 A ter (VD)
+  - Code général des impôts, CGI. - art. 1640 (VD)
+  - Code général des impôts, CGI. - art. 1647 C septies (M)
+  - Code général des impôts, CGI. - art. 39 quinquies D (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 315 quindecies A (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 315 septies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 315 septies A (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1993-05-25 6E-14-93
+  - TXT_ASSOCIE: Instruction 1994-03-24 6E-5-94
+  - TXT_ASSOCIE: Instruction 1995-02-21 6E-3-95
 
 
 ##### III : Base d'imposition<a id=967></a>
