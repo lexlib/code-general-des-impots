@@ -17,7 +17,8 @@ c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 II. – Les taux de la taxe sont révisés chaque année au mois de décembre, par arrêté du ministre chargé du budget publié au
 Journal officiel, en fonction de l'évolution prévisionnelle en moyenne annuelle pour l'année suivante des prix à la
 consommation de tous les ménages hors les prix du tabac. Les évolutions prévisionnelles prises en compte sont celles qui
-figurent au rapport économique, social et financier annexé au dernier projet de loi de finances.
+figurent au rapport économique, social et financier annexé au dernier projet de loi de finances. Ces taux sont fixés comme
+suit :
 
 Huile d'olive, 0,981 F/Kg, 0,883 F/litre
 
@@ -64,6 +65,10 @@ _Modifié par_:
 
   - Loi - art. 53 () JORF 31 décembre 1999
 
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
+
 _Cité par_:
 
   - Arrêté du 24 décembre 2007 (V)
@@ -92,3 +97,9 @@ _Anciens textes_:
 _Cite_:
 
   - CGI 262 ter, 258 A
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 2000-03-13 3P-5-00
+  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01

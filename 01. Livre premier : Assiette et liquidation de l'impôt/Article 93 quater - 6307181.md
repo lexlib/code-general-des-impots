@@ -13,15 +13,15 @@ entreprise créée à cet effet à compter du 1er janvier 1984, les dispositions
 s'appliquent pas l'année de la création de cette entreprise et les deux années suivantes à condition que, pendant cette
 période, l'exploitation des droits concédés représente au moins la moitié du chiffre d'affaires de l'entreprise.
 
-((I ter. L'imposition de la plus-value constatée lors de l'apport, par un inventeur personne physique, d'un brevet, d'une
+I ter. L'imposition de la plus-value constatée lors de l'apport, par un inventeur personne physique, d'un brevet, d'une
 invention brevetable, ou d'un procédé de fabrication industriel qui remplit les conditions mentionnées aux a, b et c du 1 de
 l'article 39 terdecies, à une société chargée de l'exploiter peut, sur demande expresse du contribuable, faire l'objet d'un
 report jusqu'à la cinquième année suivant celle au cours de laquelle l'apport a été effectué ou jusqu'à la date de la cession
 ou du rachat des droits sociaux reçus en rémunération de l'apport, si cette cession ou ce rachat intervient avant
 l'expiration de ce délai de report.
 
-((Les dispositions des quatrième et cinquième alinéas du II de l'article 151 octies sont applicables aux plus-values dont
-l'imposition est reportée en application du premier alinéa)) (M) (1).
+Les dispositions du dernier alinéa (4) du II de l'article 151 octies sont applicables aux plus-values dont l'imposition est
+reportée en application du premier alinéa (1).
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de la clientèle ou des éléments d'actif affectés
 à l'exercice de sa profession, à une société civile professionnelle, constituée conformément aux dispositions de la loi n°
@@ -29,10 +29,11 @@ II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 cet associé. L'application de cette disposition est subordonnée à la condition que l'apport soit réalisé dans le délai de dix
 ans à compter de la publication du décret en Conseil d'Etat propre à la profession considérée.
 
-Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas de transformation de la société civile
-professionnelle en société d'exercice libéral jusqu'à la date de transmission, de rachat ou d'annulation des parts ou actions
-de l'associé. Les dispositions des quatrième et cinquième alinéas du II de l'article 151 octies sont applicables à l'associé
-à compter de la transformation (2).
+Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas d'opérations soumises aux dispositions du I de
+l'article 151 octies A ou de transformation de la société civile professionnelle en société d'exercice libéral jusqu'à la
+date de transmission, de rachat ou d'annulation des parts ou actions de l'associé. Les dispositions du dernier alinéa (4) du
+II de l'article 151 octies sont applicables à l'associé à compter de la réalisation des opérations soumises aux dispositions
+du I de l'article 151 octies A ou de la transformation de la société civile professionnelle en société d'exercice libéral ;
 
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visés
 aux I et II de l'article 151 octies.
@@ -56,13 +57,12 @@ de l'imposition de la plus-value dans les conditions prévues au 1. A défaut, l
 
 4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables.
 
-((V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de droits
+V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de droits
 sociaux résultant d'une fusion ou d'une scission de sociétés bénéficiant du régime prévu à l'article 210 B, lorsque ces
 droits sont affectés à l'exercice de la profession au sens de l'article 93.
 
-((Ce régime est applicable sous les conditions et sanctions prévues à l'article 54 septies)) (M) (3).
-
-(M) Modification de la loi 96-1181.
+Les personnes placées sous le régime prévu à l'alinéa précédent sont soumises aux obligations définies à l'article 54
+septies.(4)
 
 (1) La disposition s'applique aux apports réalisés à compter du 1er janvier 1997.
 
@@ -70,22 +70,20 @@ droits sont affectés à l'exercice de la profession au sens de l'article 93.
 
 (3) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er janvier 1997.
 
+(4) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er janvier 2000.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39 duodecies, 39 terdecies 1 bis, 39 quaterdecies, 39 quindecies, 151 octies, 93
+  - CGI 39 duodecies, 39 terdecies 1 bis, 39 quaterdecies, 39 quindecies, 151 octies, 93, 151 octies A, 54 septies
   - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
   - Loi n°66-879 1966-11-29
 
 _Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 103 (V) JORF 31 décembre 1996
-  - Loi n°96-1181 du 30 décembre 1996 - art. 104 (V) JORF 31 décembre 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - Loi - art. 19 (V) JORF 31 décembre 1999
+  - Loi - art. 20 (V) JORF 31 décembre 1999
 
 _Cité par_:
 
@@ -104,6 +102,6 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 1997-08-14 5G-14-97
   - TXT_ASSOCIE: Instruction 1998-06-17 5G-3-98

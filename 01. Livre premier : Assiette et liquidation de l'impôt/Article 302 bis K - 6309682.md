@@ -81,8 +81,7 @@ Les droits sont assortis des pénalités prévues à l'article 1728.
 3. Le droit de rectification de la taxe se prescrit en trois ans. Cette prescription est suspendue et interrompue dans les
 conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
-4. Les sanctions prévues ci-dessus ne peuvent être mises en recouvrement avant l'expiration d'un délai de trente jours à
-compter de leur notification. Durant ce délai, l'entreprise peut présenter toute observation.
+4. (abrogé)
 
 V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
 annexe de l'aviation civile selon les procédures, sûretés, garanties et sanctions applicables en matière de taxes sur le
@@ -93,19 +92,9 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1729, 1728
-  - Règlement CEE 2407/92 1992-07-23 art. 1er (Conseil)
-
 _Modifié par_:
 
-  - Loi n°98-1266 1998-12-30 art. 51 I Finances pour 1999 JORF 31 décembre 1998
-  - Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
+  - Loi - art. 26 (V) JORF 31 décembre 1999
 
 _Cité par_:
 
@@ -134,6 +123,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 99 (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 duodecies B (V)
 
+_Cite_:
+
+  - CGI 1729, 1728
+  - Règlement CEE 2407/92 1992-07-23 art. 1er (Conseil)
+
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
+  - HISTO: Edition du 31 mars 2000
