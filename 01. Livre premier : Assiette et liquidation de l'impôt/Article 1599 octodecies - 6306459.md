@@ -18,20 +18,28 @@ b) Ledit taux unitaire pour tous les autres véhicules.
 3. Aucune taxe n'est due lorsque la délivrance du certificat d'immatriculation est consécutive à un changement d'état
 matrimonial ou à un changement de domicile.
 
+4. Aucune taxe n'est due au titre de la délivrance des certificats d'immatriculation des cyclomoteurs à deux roues et des
+cyclomoteurs à trois roues non carrossés.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1599 sexdecies
 
 _Anciens textes_:
 
   - CGI 1635 bis J
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°88-1001 1988-10-20
-  - Décret n°92-836 1992-08-27
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 2000-02-21 7M-5-00
+  - TXT_ASSOCIE: Instruction 2002-10-17 7M-2-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-1001 1988-10-20 art. 1 JORF 22 octobre 1988
+  - Loi n°99-505 du 18 juin 1999 - art. 15 () JORF 19 juin 1999
 
 _Cité par_:
 
@@ -40,7 +48,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 novodecies A (VD)
   - Code général des impôts, CGI. - art. 1628-0 bis (V)
   - Code général des impôts, CGI. - art. 961 (T)
-
-**Liens**:
-
-  - HISTO: Edition du 15 juillet 1988
