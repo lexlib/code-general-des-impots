@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-07-04
+Version Consolidée au 1992-07-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -1140,8 +1140,8 @@ Version Consolidée au 1992-07-04
         - [Chapitre III : Fonds de péréquation (art. 1648 AA à 1648 D)](#1137)
           - [Section I : Fonds régional et départemental (art. 1648 AA)](#1138)
             - [I : Fonds départementaux de péréquation de la taxe professionnelle. (art. 1648 AA)](#1139)
-          - [Section II : Fonds nationaux de péréquation (art. 1648 D)](#1140)
-            - [Sous-section II : Fonds national de péréquation. (art. 1648 D)](#1141)
+          - [Section II : Fonds nationaux de péréquation (art. 1648 C à 1648 D)](#1140)
+            - [Sous-section II : Fonds national de péréquation. (art. 1648 C à 1648 D)](#1141)
         - [Chapitre III : Fonds de péréquation de la taxe professionnelle (art. 1648 A à 1648 B ter)](#1142)
           - [Section I : Fonds départementaux de péréquation de la taxe professionnelle. (art. 1648 A)](#1143)
           - [Section II : Fonds national de péréquation de la taxe professionnelle. (art. 1648 A bis à 1648 B ter)](#1144)
@@ -23675,11 +23675,7 @@ et distribués à ces derniers au prorata de la commande de chacun d'eux;
 
 2° En ce qui concerne les sociétés coopératives ouvrières de production [*SCOP*], la part des bénéfices nets qui est
 distribuée aux travailleurs dans les conditions prévues au 3° de l'article 33 de la loi n° 78-763 du 19 juillet 1978 portant
-statut des sociétés coopératives ouvrières de production sauf lorsqu'il est fait application des dispositions prévues à
-l'article 26 de cette loi et qu'un ou plusieurs associés non-employés détiennent directement ou indirectement plus de la
-moitié du capital;
-
-3° (Abrogé)
+statut des sociétés coopératives ouvrières de production ;    3° (Abrogé)
 
 4° (Disposition périmée).
 
@@ -23701,6 +23697,12 @@ bonis égale à :
 6° La fraction éventuelle des ristournes déduites en vertu des 1°, 2° et 5° qui dépasse 50 p. 100 des excédents pouvant être
 répartis d'un exercice est réintégrée au résultat du même exercice à concurrence des sommes apportées ou mises à disposition
 de la coopérative par les bénéficiaires au cours des deux exercices suivants.
+
+7° Les dispositions des 1° et 2° ne sont pas applicables aux sociétés dont plus de 50 p. 100 du capital est détenu par des
+associés non coopérateurs, définis au 1 quinquies de l'article 207, et des titulaires de certificats coopératifs
+d'investissement ou de certificats coopératifs d'associés, à l'exception des sociétés coopératives ouvrières de production
+dont la majorité du capital est détenue par une autre société coopérative ouvrière de production dans les conditions prévues
+à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives ouvrières de production.
 
 1 bis. Lorsqu'une société exerce l'option pour le régime de groupe mentionné à l'article 223 A, les dispositions du 1 ci-
 dessus ne sont pas applicables pour la détermination des résultats des exercices clos au cours de la période de cinq ans à
@@ -23728,18 +23730,11 @@ l'augmentation de leur capital entre le 31 décembre 1961 et le 31 décembre 196
 
 _Cite_:
 
-  - CGI 223 A
+  - CGI 207, 223 A
   - CGIAN2 96 à 99
   - Code rural L522-1
-  - Loi n°78-763 du 19 juillet 1978 - art. 26 (Ab)
+  - Loi n°78-763 du 19 juillet 1978 - art. 25 (V)
   - Loi n°78-763 du 19 juillet 1978 - art. 33 (M)
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 223 A (V)
-  - Code général des impôts, CGI. - art. 223 B (V)
-  - Code général des impôts, CGI. - art. 223 L (V)
-  - Décret n°2014-1758 du 31 décembre 2014 (V)
 
 **Liens**:
 
@@ -23747,8 +23742,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 99 () JORF 31 décembre 1991
-  - Modification directe incorporée dans l'édition du 4 juillet 1992
+  - Loi n°92-643 du 13 juillet 1992 - art. 70 () JORF 14 juillet 1992
+  - Modifications directes incorporées dans l'édition du 18 août 1993
+
+_Cité par_:
+
+  - Décret n°2014-1758 du 31 décembre 2014 (V)
+  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 223 B (V)
+  - Code général des impôts, CGI. - art. 223 L (V)
 
 
 ###### Article 214 A
@@ -63704,11 +63706,24 @@ Sont exonérées de la taxe professionnelle, les sociétés coopératives et uni
 que les sociétés coopératives et unions de sociétés coopératives de patrons bateliers, lorsque ces différents organismes sont
 constitués et fonctionnent conformément aux dispositions législatives et réglementaires qui les régissent.
 
+L'exonération prévue à l'alinéa précédent n'est pas applicable aux sociétés coopératives et unions de sociétés coopératives
+qui font appel public à l'épargne ou dont le capital est détenu à concurrence de 20 p. 100 au moins par des associés non
+coopérateurs au sens du 1 quinquies de l'article 207 et des titulaires de certificats coopératifs d'investissement sque les
+statuts prévoient qu'ils peuvent être rémunérés.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 207
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 18 août 1993
+
+_Modifié par_:
+
+  - Loi n°92-643 du 13 juillet 1992 - art. 71 () JORF 14 juillet 1992
 
 
 ###### Article 1455
@@ -63723,19 +63738,25 @@ la pêche et effectuent eux-mêmes la vente de ces produits;
 3° Les sociétés coopératives maritimes constituées et fonctionnant conformément aux dispositions des articles 35 à 58 de la
 loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale.
 
+L'exonération prévue ci-dessus n'est pas applicable aux sociétés coopératives maritimes qui font appel public à l'épargne ou
+dont le capital est détenu à concurrence de 20 p. 100 au moins par des associés non coopérateurs au sens du 1 quinquies de
+l'article 207 et des titulaires de certificats coopératifs d'investissement lorsque les statuts prévoient qu'ils peuvent être
+rémunérés.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
 
 _Cite_:
 
-  - Loi n°83-657 1983-07-20 art. 35 à art. 58
+  - CGI 207
+  - Loi n°83-657 1983-07-20 art. 35 à 58
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 _Modifié par_:
 
-  - Loi n°83-657 du 20 juillet 1983 - art. 63 (V) JORF 21 juillet 1983
+  - Loi n°92-643 du 13 juillet 1992 - art. 71 () JORF 14 juillet 1992
 
 _Cité par_:
 
@@ -64652,16 +64673,22 @@ lorsque ces coopératives et sociétés ont bénéficié au titre de 1991 de la 
 prestations de services et pour lesquels la rémunération du travail représente plus de 50 % du chiffre d'affaires global,
 tous droits et taxes compris :
 
-– des trois-quarts, lorsqu'ils emploient un salarié et pour lesquels la rémunération du travail représente plus de 50 p. 100
-du chiffre d'affaires global, tous droits et taxes compris (3).
+Des trois-quarts, lorsqu'ils emploient un salarié et pour lesquels la rémunération du travail représente plus de 50 p. 100 du
+chiffre d'affaires global, tous droits et taxes compris (3).
 
-– de la moitié, lorsqu'ils emploient deux salariés ;
+De la moitié, lorsqu'ils emploient deux salariés ;
 
-– d'un quart, lorsqu'ils emploient trois salariés.
+D'un quart, lorsqu'ils emploient trois salariés.
 
 Les apprentis sous contrat ne sont pas comptés au nombre des salariés.
 
 La rémunération du travail s'entend de la somme du bénéfice, des salaires versés et des cotisations sociales y afférentes.
+
+3° Pour les sociétés coopératives et unions de sociétés coopératives d'artisans, les sociétés coopératives et unions de
+sociétés coopératives de patrons-bateliers et les sociétés coopératives maritimes, de moitié, lorsque leur capital est détenu
+à concurrence de 20 p. 100 au moins et de 50 p. 100 au plus par des associés non coopérateurs au sens du 1 quinquies de
+l'article 207 et des titulaires de certificats coopératifs d'investissement lorsque les statuts prévoient qu'ils peuvent être
+rémunérés.
 
 II. – (Dispositions devenues sans objet).
 
@@ -64673,17 +64700,17 @@ II. – (Dispositions devenues sans objet).
 
 _Cite_:
 
-  - CGI 1649 quater BA
+  - CGI 1649 quater BA, 207
   - CGIAN2 310 HA
   - Code rural L522-1
 
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
 _Modifié par_:
 
-  - Loi - art. 102 (V) JORF 30 décembre 1990
-
-_Codifié par_:
-
-  - Décret n°91-883 1991-09-09
+  - Loi n°92-643 du 13 juillet 1992 - art. 71 () JORF 14 juillet 1992
 
 
 ###### Article 1468 bis
@@ -74242,6 +74269,54 @@ _Codifié par_:
 ##### Section II : Fonds nationaux de péréquation<a id=1140></a>
 
 ##### Sous-section II : Fonds national de péréquation.<a id=1141></a>
+
+###### Article 1648 C
+
+A compter du 1er janvier 1993, sont institués des fonds départementaux de solidarité pour l'environnement, au profit des
+communes sur le territoire desquelles est située une installation de stockage de déchets industriels spéciaux ou ultimes et,
+le cas échéant, des communes limitrophes qui subissent directement des nuisances provenant de ces déchets.
+
+Ces fonds sont alimentés par une cotisation de péréquation de la taxe professionnelle à la charge des communes où sont situés
+des établissements produisant des déchets au-delà de seuils fixés par décret et propres à chaque catégorie de déchets.
+
+Le montant de cette cotisation est proportionnel aux bases de taxe professionnelle imposés l'année précédente au profit de la
+commune siège d'un des établissements mentionnés à l'alinéa précédent.
+
+Le taux de la cotisation est fixé par décret, sans toutefois que la contribution incombant à la commune puisse excéder, au
+titre des établissements existants, 1 p. 100 du produit de la part communale de taxe professionnelle dont ceux-ci étaient
+redevables en 1992.
+
+Le produit du fonds est réparti entre les communes bénéficiaires au prorata du tonnage des déchets industriels spéciaux
+stockés.
+
+Les modalités de gestion du fonds sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Article incorporé dans l'édition du 18 août 1993
+
+_Nouveaux textes_:
+
+  - CGI 1648 AB
+
+_Créé par_:
+
+  - Loi n°92-646 du 13 juillet 1992 - art. 3 () JORF 14 juillet 1992
+
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
+
+_Transféré par_:
+
+  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+
 
 ###### Article 1648 D
 
