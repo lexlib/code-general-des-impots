@@ -16,7 +16,7 @@ entreprises qui excède le montant des apports en capital ouvrant droit au profi
 II du présent article et aux articles 199 undecies ou 199 undecies A.
 
 La déduction prévue au premier alinéa s'applique aux investissements productifs réalisés dans le secteur de la maintenance au
-profit d'activités exercées dans l'un des secteurs mentionnés au premier et au quatrième alinéa et dans celui de la
+profit d'activités exercées dans l'un des secteurs mentionnés au premier et au quatrième alinéas et dans celui de la
 production et de la diffusion audiovisuelles et cinématographiques ainsi qu'aux travaux de rénovation d'hôtel et aux
 logiciels nécessaires à l'utilisation des investissements éligibles, lorsque ces travaux et logiciels constituent des
 éléments de l'actif immobilisé.
@@ -74,9 +74,9 @@ l'imputation du déficit provenant de la location du bien acquis et de la moins-
 ou des titres de la société bailleresse sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et, le cas
 échéant, du prix de cession du bien à l'exploitant.
 
-Si l'une des conditions énumérées aux treizième à dix-huitième alinéas cesse d'être respectée dans le délai mentionné au
-quatorzième alinéa, les sommes déduites sont rapportées au résultat imposable de l'entreprise propriétaire de
-l'investissement au titre de l'exercice au cours duquel cet événement se réalise.
+Si l'une des conditions énumérées au onzième alinéa cesse d'être respectée dans le délai mentionné au 1° du onzième alinéa,
+les sommes déduites sont rapportées au résultat imposable de l'entreprise propriétaire de l'investissement au titre de
+l'exercice au cours duquel cet événement se réalise.
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur revenu imposable une somme égale au montant total
 des souscriptions au capital des sociétés de développement régional des départements d'outre-mer ou des sociétés effectuant
@@ -97,8 +97,8 @@ mentionné à la phrase qui précède pour la fraction du délai restant à cour
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de sociétés effectuant dans les départements
 d'outre-mer des investissements productifs dans le secteur de la maintenance au profit d'activités exercées dans l'un des
-secteurs mentionnés au premier et au quatrième alinéa et dans celui de la production et de la diffusion audiovisuelles et
-cinématographiques ainsi qu'aux travaux de rénovation d'hôtel et aux logiciels nécessaires à l'utilisation des
+secteurs mentionnés au premier et au quatrième alinéas du I et dans celui de la production et de la diffusion audiovisuelles
+et cinématographiques ainsi qu'aux travaux de rénovation d'hôtel et aux logiciels nécessaires à l'utilisation des
 investissements éligibles, lorsque ces travaux et logiciels constituent des éléments de l'actif immobilisé.
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de sociétés concessionnaires effectuant dans
@@ -123,12 +123,12 @@ b) (abrogé)
 
 c) (abrogé)
 
-d)- l'opération a reçu l'agrément préalable du ministre du budget dans les conditions prévues au III.
+d) l'opération a reçu l'agrément préalable du ministre du budget dans les conditions prévues au III.
 
 II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt
 sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions
-mentionnées au cinquième alinéa du I du présent article.
+mentionnées au cinquième alinéa du I.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à l'exception de celle mentionnée à la troisième
 phrase du premier alinéa du même II.
@@ -144,7 +144,7 @@ mentionnés à l'avant-dernière phrase du premier alinéa de ce même I.
 III. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la
 navigation de plaisance, de la production et de la diffusion audiovisuelles et cinématographiques, des services informatiques
 ainsi que les investissements portant sur la construction d'hôtels ou de résidences à vocation touristique ou parahôtelière
-ou la rénovation d'hôtel les investissements nécessaires à l'exploitation d'une concession de service public local à
+ou la rénovation d'hôtel, les investissements nécessaires à l'exploitation d'une concession de service public local à
 caractère industriel et commercial et les souscriptions au capital des sociétés concessionnaires mentionnées au troisième
 alinéa du II doivent avoir reçu l'agrément préalable du ministre du budget. Il en est de même des investissements mentionnés
 au I réalisés à compter du 1er janvier 1998 dans le secteur de la pêche maritime.
@@ -158,19 +158,19 @@ l'administration dans un délai de trois mois à compter de la réception de la 
 
 Toutefois, les investissements mentionnés au I, dont le montant total n'excède pas 1 000 000 F par programme et par exercice,
 sont dispensés de la procédure d'agrément préalable, lorsqu'ils sont réalisés par une entreprise qui exerce son activité dans
-les départements visés au I depuis au moins deux ans, dans l'un des secteurs mentionnés au premier alinéa du présent III ter.
-Dans ce cas, l'entreprise joint à sa déclaration de résultat un état récapitulatif des investissements réalisés au cours de
-l'exercice et au titre desquels la déduction fiscale est pratiquée.
+les départements visés au I depuis au moins deux ans, dans l'un des secteurs mentionnés au premier alinéa. Dans ce cas,
+l'entreprise joint à sa déclaration de résultat un état récapitulatif des investissements réalisés au cours de l'exercice et
+au titre desquels la déduction fiscale est pratiquée.
 
-III bis. (Abrogé).
+III bis (Abrogé).
 
-III ter. (transféré).
+III ter (transféré).
 
-III quater. (abrogé).
+III quater (abrogé).
 
 IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits par les entreprises avec le
-bénéfice des déductions prévues aux II, II bis ou II ter les sommes déduites sont rapportées au résultat imposable de l'année
-de cession, dans la limite, de la totalité du prix de cession.
+bénéfice des déductions prévues aux II, II bis ou II ter, les sommes déduites sont rapportées au résultat imposable de
+l'année de cession, dans la limite de la totalité du prix de cession.
 
 Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le délai de cinq ans, l'entreprise propriétaire des
 titres ayant ouvert droit à la déduction prévue aux II, II bis ou II ter fait l'objet d'une transmission dans le cadre des
@@ -190,7 +190,7 @@ IV bis. L'abattement prévu à l'article 217 bis n'est applicable ni pour le cal
 article ni aux résultats provenant de l'exploitation des investissements ayant donné lieu à cette déduction et qui sont
 acquis pendant le délai de cinq ans suivant leur réalisation ou leur durée normale d'utilisation si elle est inférieure.
 
-Si, avant l'expiration du délai visé à l'alinéa précédent l'un de ces investissements est cédé ou cesse d'être affecté à
+Si, avant l'expiration du délai visé au premier alinéa, l'un de ces investissements est cédé ou cesse d'être affecté à
 l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage résultant de l'application du
 premier alinéa est rapporté au résultat imposable de l'exercice au cours duquel cet événement se réalise, majoré d'un montant
 égal au produit de cet avantage par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué
@@ -213,7 +213,7 @@ l'administration avant cette date ;
 
 2° Des immeubles ayant fait l'objet avant cette date d'une déclaration d'ouverture de chantier à la mairie de la commune ;
 
-3° Des biens meubles corporels commandés, mais non encore livrés au 15 septembre 1997, si la commande a été accompagnée du
+3° De biens meubles corporels commandés, mais non encore livrés au 15 septembre 1997, si la commande a été accompagnée du
 versement d'acomptes égaux à 50 % au moins de leur prix.
 
 Les dispositions du présent article sont applicables aux seuls investissements neufs et travaux de rénovation d'hôtel
@@ -227,6 +227,10 @@ _Modifié par_:
 
   - Loi - art. 19 (V) JORF 31 décembre 2000
 
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
+
 _Cité par_:
 
   - Loi n°2009-594 du 27 mai 2009 - art. 26 (Ab)
@@ -236,8 +240,6 @@ _Cité par_:
   - Décret n°2010-89 du 22 janvier 2010 - art. 6 (Ab)
   - Loi n°2010-1657 du 29 décembre 2010 - art. 101 (V)
   - Loi n°2010-1657 du 29 décembre 2010 - art. 170 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
-  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 1 (Saint-Martin) (V)
   - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 2 (Polynésie) (V)
   - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 3 (Saint-Barthélemy) (V)
   - Décret n°2011-566         du 24 mai 2011 - art. 4 (V)
@@ -288,14 +290,17 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (M)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quater (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L ter (Ab)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
+  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 1 (Saint-Martin) (V)
   - Livre des procédures fiscales - art. L45 F (VD)
 
 _Cite_:
 
-  - CGI 156, 8, 239 quater, 239 quater C, 199 undecies, 199 undecies A, 210 A, 210 B, 44 septies, 217 bis, 1727, 1727 A
+  - CGI 8, 239 quater, 239 quater C, 199 undecies, 199 undecies A, 210 A, 210 B, 44 septies, 217 bis, 1727, 1727 A, 209
 
 **Liens**:
 
+  - HISTO: Edition du 31 mars 2001
   - TXT_ASSOCIE: Instruction 1999-01-25 5B-5-99
   - TXT_ASSOCIE: Instruction 1999-01-29 4A-1-99
   - TXT_ASSOCIE: Instruction 1999-07-20 4A-7-99

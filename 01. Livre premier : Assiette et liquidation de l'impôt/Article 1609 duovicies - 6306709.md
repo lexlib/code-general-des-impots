@@ -4,6 +4,11 @@ Il est perçu une taxe spéciale incluse dans le prix des billets d'entrée dans
 quels que soient le procédé de fixation ou de transmission et la nature du support des oeuvres ou documents audiovisuels qui
 y sont présentés.
 
+Le prix des billets d'entrée s'entend du prix effectivement acquitté par le spectateur ou, en cas de formule d'accès au
+cinéma donnant droit à des entrées multiples, du prix de référence par place sur lequel s'engage l'exploitant de salle et qui
+constitue la base de la répartition des recettes entre ce dernier et le distributeur et les ayants droit de chaque oeuvre
+cinématographique (1).
+
 Les représentations assujetties au paiement de la taxe spéciale sont soumises aux dispositions du code de l'industrie
 cinématographique.
 
@@ -82,25 +87,33 @@ cinématographiques.
 Le contentieux de la taxe est assuré et les infractions en matière d'assiette sont sanctionnées selon les règles propres à la
 taxe sur la valeur ajoutée.
 
+Les sanctions applicables à la taxe spéciale sur le prix des places cinématographiques ne peuvent être mises en recouvrement
+avant l'expiration d'un délai de trente jours à compter de la notification du document par lequel l'administration a fait
+connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose
+l'intéressé de présenter dans ce délai ses observations.
+
 Le produit de la taxe est porté en recettes au compte d'affectation spéciale institué par l'article 76 de la loi de finances
 pour 1960 (n° 59-1454 du 26 décembre 1959).
 
 La taxe spéciale prévue au premier alinéa n'est pas perçue dans les salles des départements de la Guadeloupe, de la Guyane,
 de la Martinique et de la Réunion.
 
+(1) Ces dispositions entrent en vigueur à compter du 1er janvier 2001.
+
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 mars 2001
+  - SPEC_APPLI: Loi n°2000-1353 2000-12-30 art. 7 II
 
 _Cite_:
 
-  - Loi n°59-1454 du 26 décembre 1959 - art. 76, v. init.
+  - Loi n°59-1454 1959-12-26 art. 76 Finances pour 1960
 
 _Modifié par_:
 
-  - Loi - art. 26 (V) JORF 31 décembre 1999
+  - Loi - art. 7 (V) JORF 31 décembre 2000
 
 _Cité par_:
 

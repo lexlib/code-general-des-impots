@@ -69,12 +69,21 @@ coopération intercommunale à compter de 1995.
 
 4. et 5. (périmés).
 
-I bis. Dans les communes où le taux ou les bases de la taxe professionnelle étaient nuls l'année précédente, le conseil
+I bis. 1. Dans les communes où le taux ou les bases de la taxe professionnelle étaient nuls l'année précédente, le conseil
 municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la
 taxe professionnelle l'année précédente dans l'ensemble des communes ne doit pas excéder le rapport entre d'une part, le taux
 moyen de la taxe d'habitation et des taxes foncières, pondéré par l'importance relative des bases de ces trois taxes dans la
 commune pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de ces trois taxes constaté l'année précédente
 dans l'ensemble des communes.
+
+2. Dans les établissements publics de coopération intercommunale à fiscalité propre additionnelle où le taux de la taxe
+professionnelle était nul l'année précédente, l'organe délibérant de l'établissement public de coopération intercommunale
+peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la taxe
+professionnelle l'année précédente dans l'ensemble des communes membres de l'établissement public de coopération
+intercommunale ne doit pas excéder le rapport entre, d'une part, le taux moyen de la taxe d'habitation et des taxes
+foncières, pondéré par l'importance relative des bases de ces trois taxes dans l'établissement public de coopération
+intercommunale pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de ces trois taxes constaté l'année
+précédente dans l'ensemble des communes membres de l'établissement public.
 
 I ter. (périmé).
 
@@ -82,6 +91,9 @@ II. En cas de création d'un établissement public de coopération intercommunal
 entre les taux des quatre taxes établies par l'établissement public de coopération intercommunale doivent être égaux, la
 première année, aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des
 communes membres.
+
+Les dispositions du premier alinéa sont applicables l'année qui suit celle au titre de laquelle l'établissement public de
+coopération intercommunale a voté un taux égal à zéro pour les quatre taxes.
 
 **Liens relatifs à cet article**
 
@@ -110,8 +122,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-656 2000-07-13 art. 11 II 1 Finances rectificative pour 2000 JORF 14 juillet 2000
+  - Loi - art. 80 () JORF 31 décembre 2000
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2000-656 2000-07-13 art. 11 VI 1 Finances rectificative pour 2000
+  - HISTO: Edition du 31 mars 2001
+  - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
+  - TXT_ASSOCIE: Instruction 2001-03-30 6A-3-01
