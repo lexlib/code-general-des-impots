@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1989-01-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -40542,6 +40542,98 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Loi n°92-1376 1992-12-30 art. 33 III Finances pour 1993
+
+
+###### Article 575 A
+
+Pour les différents groupes de produits définis à l'article 575, le taux normal et le minimum de perception sont fixés
+conformément au tableau ci-après :
+
+Groupe de produits :
+
+Cigarettes
+
+Taux normal : 49,76
+
+Minimum de perception par mille unités  ou par mille    grammes : 30 F
+
+Groupe de produits :
+
+Cigares à enveloppe extérieure en tabac naturel
+
+:
+
+Taux normal : 25,95
+
+Minimum de perception par mille unités  ou par mille    grammes : 34 F
+
+Groupe de produits :
+
+Cigares à enveloppe extérieure en tabac reconstitué
+
+:
+
+Taux normal : 29,80
+
+Minimum de perception par mille unités  ou par mille    grammes : 39
+
+Groupe de produits :
+
+Tabacs à fumer
+
+Taux normal : 41,55
+
+Minimum de perception par mille unités  ou par mille    grammes : 12
+
+Groupe de produits :
+
+Tabacs à priser
+
+Taux normal : 35,23
+
+Minimum de perception par mille unités  ou par mille    grammes : 8
+
+Groupe de produits :
+
+Tabacs à mâcher
+
+Taux normal : 22,93
+
+Minimum de perception par mille unités  ou par mille    grammes : 7
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 575
+
+_Modifié par_:
+
+  - Loi n°88-1149 du 23 décembre 1988 - art. 37 (P) JORF 28 décembre 1988 en vigueur le 2 janvier 1989
+
+_Cité par_:
+
+  - Loi n°98-1194 du 23 décembre 1998 - art. 46 (V)
+  - Loi n°2005-157 du 23 février 2005 - art. 15 (Ab)
+  - Arrêté du 15 mai 2014 - art. 1 (Ab)
+  - Arrêté du 15 mai 2014 - art. 4 (Ab)
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 18 (V)
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 22
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 69
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 57
+  - Arrêté du 4 février 2015 - art. 1 (VD)
+  - Arrêté du 4 février 2015 - art. 2 (VD)
+  - Loi n°2015-992 du 17 août 2015 - art. 114
+  - Loi n°2015-992 du 17 août 2015 - art. 50
+  - Loi n°2016-1048 du 1er août 2016 - art. 16 (VD)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
+  - Loi n°2017-86 du 27 janvier 2017 - art. 12 (V)
+  - Loi n°2017-256 du 28 février 2017 - art. 129 (V)
+  - Code des douanes - art. 268 (M)
+  - Code général des impôts, CGI. - art. 575 (V)
+  - Code général des impôts, CGI. - art. 575 E bis (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VD)
 
 
 ###### Article 575 B
