@@ -23,7 +23,7 @@ de chaque exercice de la période d'application des dispositions du présent art
 il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
 
 Ces dispositions ne s'appliquent pas aux entreprises qui exercent une activité bancaire, financière, d'assurances, de gestion
-ou de location d'immeubles.
+ou de location d'immeubles, ni aux entreprises exerçant une activité de pêche maritime créées à compter du 1er janvier 1997.
 
 II. Le capital des sociétés nouvelles ne doit pas être détenu, directement ou indirectement, pour plus de 50 p. 100 par
 d'autres sociétés.
@@ -50,11 +50,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°96-987 du 14 novembre 1996 - art. 6 () JORF 15 novembre 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - Loi n°97-1051 du 18 novembre 1997 - art. 26 (V) JORF 19 novembre 1997
 
 _Cité par_:
 
@@ -117,7 +113,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 22 avril 1998
   - TXT_ASSOCIE: Instruction 1995-07-06 4A-5-95
   - TXT_ASSOCIE: Instruction 1995-07-27 5G-10-95
   - TXT_ASSOCIE: Instruction 1996-06-20 4A-5-96

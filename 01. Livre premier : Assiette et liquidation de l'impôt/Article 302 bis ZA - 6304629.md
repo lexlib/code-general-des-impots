@@ -1,20 +1,18 @@
 # Article 302 bis ZA
 
-Les titulaires d'ouvrages hydroélectriques concédés d'une puissance ((électrique totale supérieure à 8000 kilovoltampères))
-(M) implantés sur les voies navigables acquittent une taxe assise sur le nombre de kilowattheures produits. ((Le tarif de la
-taxe est de 4,24 centimes par kilowattheure produit)) (M).
+Les titulaires d'ouvrages hydroélectriques concédés d'une puissance électrique totale supérieure à 8000 kilovoltampères
+implantés sur les voies navigables acquittent une taxe assise sur le nombre de kilowattheures produits. Le tarif de la taxe
+est de 8,48 centimes par kilowattheure produit.
 
 La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges
 que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à
 cette même taxe.
 
-(M) Modification de la loi 96-1181.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 27 () JORF 31 décembre 1996
+  - Loi - art. 43 () JORF 31 décembre 1997
 
 _Cité par_:
 
@@ -26,5 +24,6 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 22 avril 1998
   - TXT_ASSOCIE: Instruction 1997-02-04 3P-1-97
+  - TXT_ASSOCIE: Instruction 1998-01-15 3P-1-98

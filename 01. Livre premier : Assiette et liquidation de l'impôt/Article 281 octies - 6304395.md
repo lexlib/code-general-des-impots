@@ -7,17 +7,14 @@ remplissent les conditions de l'article L. 162-17 du code de la sécurité socia
 prévues par les articles L. 618 et L. 619 du code de la santé publique et sur les produits visés à l'article L. 666 du code
 de la santé publique.
 
+Le taux de 2,10 % s'applique également aux opérations d'importation, d'acquisition intracommunautaire ou de livraison portant
+sur les médicaments soumis à autorisation temporaire d'utilisation visés à l'article L. 601-2 du code de la santé publique.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-  - Loi n°92-677 du 17 juillet 1992 - art. 26 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-  - Loi n°92-1279 du 8 décembre 1992 - art. 24 () JORF 11 décembre 1992
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Loi - art. 34 () JORF 30 décembre 1997
 
 _Cité par_:
 
@@ -26,6 +23,7 @@ _Cité par_:
 _Cite_:
 
   - Code de la santé publique - art. L601 (M)
+  - Code de la santé publique - art. L601-2 (M)
   - Code de la santé publique - art. L618 (M)
   - Code de la santé publique - art. L619 (Ab)
   - Code de la santé publique - art. L666 (P)
@@ -33,4 +31,5 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 22 avril 1998
+  - TXT_ASSOCIE: Instruction 1998-05-04 3C-2-98
