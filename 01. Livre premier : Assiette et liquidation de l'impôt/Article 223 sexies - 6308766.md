@@ -1,7 +1,7 @@
 # Article 223 sexies
 
-1. Sous réserve des dispositions des articles 209 quinquies et 209 sexies, lorsque les produits distribués par une société
-sont prélevés sur des sommes à raison desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux normal prévu au
+1. Sous réserve des dispositions des articles 209 quinquies et 223 H, lorsque les produits distribués par une société sont
+prélevés sur des sommes à raison desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux normal prévu au
 deuxième alinéa du I de l'article 219, cette société est tenue d'acquitter un précompte égal au montant du crédit [*d'impôt,
 avoir fiscal*] prévu à l'article 158 bis et attaché à ces distributions [*calcul*]. Ce précompte est dû quels que soient les
 bénéficiaires des distributions.
@@ -55,33 +55,27 @@ régime prévu aux articles 145 et 216 et retirent de ces participations deux ti
 plus-values.
 
 Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces
-participations (Ces dispositions s'appliquent aux distributions effectuées à compter du 1er janvier 1990.
+participations (2).
+
+effectuées à compter du 1er janvier 1990.
 
 (1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
+
+(2) Annexe III, art. 46 quater-0 FA.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 145
-  - CGI 158 bis
-  - CGI 207 2
-  - CGI 208 1° ter quater, 1° ter, 1° quater, 1° quinquies, 3° quater, 3° quinquies, 3° sexies, 3° septies
-  - CGI 208 A
-  - CGI 208 quinquies
-  - CGI 209 quinquies
-  - CGI 209 sexies
-  - CGI 216
-  - CGI 219 I al. 2, c
-  - CGI 220 quinquies I
-  - CGIAN3 381 T
-  - CGIAN3 46 quater-0 C à CGIAN3 46 quater-0 F
-  - Loi n°86-793  1986-07-02 art. 2 5°
+  - CGI 209 quinquies, 223 H, 219, 158 bis, 220 quinquies I, 208 A, 207 2, 208 ter, 208, 208 quinquies
+  - CGIAN3 46 quater-0 C à CGIAN3 46 quater-0 F, 46 quater-0 FA, 381 T
+  - Loi n°86-793 du 2 juillet 1986 - art. 2, v. init.
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1992-01-17 7D-2-92
 
 _Modifié par_:
 
-  - Loi - art. 96 () JORF 30 décembre 1990
-
-_Codifié par_:
-
-  - Décret n°91-883 1991-09-09
+  - Loi - art. 98 (V) JORF 31 décembre 1991
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
