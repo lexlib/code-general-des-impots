@@ -1,10 +1,10 @@
 # Article 220 octies
 
 1. Les entreprises soumises à l'impôt sur les sociétés dans les conditions de droit commun peuvent bénéficier d'un crédit
-d'impôt au titre des emplois créés.
+d'impôt au titre des emplois créés en 1998.
 
-Ce crédit d'impôt est égal au produit de la somme de 10 000 F par la variation constatée pendant l'année par rapport à
-l'année précédente de l'effectif salarié.
+Ce crédit d'impôt est égal au produit de la somme de 10 000 F par la variation de l'effectif salarié déterminée dans les
+conditions prévues au 3.
 
 Le crédit d'impôt s'apprécie en prenant en compte la variation de l'effectif salarié moyen de l'entreprise et la fraction de
 celle, correspondant aux droits de cette entreprise, constatée dans les sociétés de personnes mentionnées aux articles 8, 238
@@ -15,33 +15,37 @@ En cas de transfert de personnels entre entreprises ayant des liens de dépendan
 bis de l'article 39 terdecies, ou résultant de fusions, scissions, apports ou opérations assimilées, il est fait abstraction
 pour le calcul de la variation de l'effectif salarié de la part de cette variation provenant de ce transfert.
 
-Le crédit d'impôt est applicable aux variations d'effectifs constatées au cours des années 1998 à 2000.
-
-2. Le crédit d'impôt calculé au titre d'une année est imputé sur la contribution prévue à l'article 235 ter ZA, due au titre
-de l'exercice ouvert au cours de cette même année, dans la limite de 500 000 F.
-
-La fraction du crédit qui n'a pu faire l'objet d'une imputation au titre d'une année est ajoutée aux crédits d'impôt ou
-imputée sur les débits dégagés ultérieurement.
-
-Lorsque le produit défini au deuxième alinéa du 1 est négatif, il constitue un débit qui est imputé sur le ou les crédits
-suivants et, le cas échéant, sur la fraction du crédit d'impôt qui n'a pu précédemment faire l'objet d'une imputation. Les
-débits subsistant à la date de cessation de l'entreprise ou à compter du 1er janvier 2001 feront l'objet d'un reversement à
-hauteur des crédits de même nature qui auront été imputés par l'entreprise.
+2. Le crédit d'impôt est imputé sur la contribution prévue à l'article 235 ter ZA, due au titre de l'exercice ouvert en 1998,
+dans la limite de 500 000 F.
 
 Le crédit d'impôt n'est pas restituable.
 
-3. Pour le calcul du crédit d'impôt mentionné au 1 afférent à 1998, la variation d'effectif sera déterminée en rapportant les
-douze quinzièmes de l'effectif salarié moyen occupé pendant la période du 1er octobre 1997 au 31 décembre 1998 aux douze
-neuvièmes de celui occupé du 1er janvier 1997 au 30 septembre 1997.
+3. Pour le calcul du crédit d'impôt, la variation d'effectif sera déterminée en rapportant les douze quinzièmes de l'effectif
+salarié moyen occupé pendant la période du 1er octobre 1997 au 31 décembre 1998 aux douze neuvièmes de celui occupé du 1er
+janvier 1997 au 30 septembre 1997.
 
 4. Un décret précise les modalités d'application du présent article, notamment les conditions du calcul de l'effectif salarié
 mentionné au deuxième alinéa du 1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Loi - art. 81 () JORF 31 décembre 1997
+  - CGI 8, 238 bis L, 238 ter, 239 ter, 239 quater, 239 quater A, 239 quater B, 239 quater C, 239 quinquies, 39 terdecies, 235 ter ZA
+
+_Modifié par_:
+
+  - Loi - art. 23 () JORF 31 décembre 1999
+
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 1998-05-20 4L-3-98
 
 _Cité par_:
 
@@ -71,9 +75,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YS (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YT (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YU (V)
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1998-05-20 4L-3-98
-  - TXT_ASSOCIE: Instruction 2000-02-21 4L-1-00
