@@ -2,11 +2,11 @@
 
 Les entreprises qui achètent, à compter du 1er juillet 1987 des oeuvres originales d'artistes vivants et les inscrivent à un
 compte d'actif immobilisé peuvent déduire du résultat imposable de l'exercice d'acquisition et des dix-neuf années suivantes,
-par fractions égales, une somme égale au prix d'acquisition ; ((pour les oeuvres achetées à compter du 1er janvier 1994,
-cette déduction est pratiquée, par fractions égales, sur l'exercice d'acquisition et les neuf années suivantes)) (1).
+par fractions égales, une somme égale au prix d'acquisition ; pour les oeuvres achetées à compter du 1er janvier 1994, cette
+déduction est pratiquée, par fractions égales, sur l'exercice d'acquisition et les neuf années suivantes .
 
-La déduction ainsi effectuée au titre de chaque exercice ne peut excéder la limite de 3 p. 1 000 du chiffre d'affaires,
-minorée du total des déductions mentionnées à l'article 238 bis AA du code général des impôts.
+La déduction ainsi effectuée au titre de chaque exercice ne peut excéder la limite mentionnée au premier alinéa du 2 de
+l'article 238 bis, minorée du total des déductions mentionnées à l'article 238 bis AA du code général des impôts.
 
 Pour bénéficier de la déduction prévue au premier alinéa, l'entreprise doit exposer au public le bien qu'elle a acquis.
 
@@ -17,23 +17,21 @@ cession de l'oeuvre ou de prélèvement sur le compte de réserve.
 L'entreprise peut constituer une provision pour dépréciation lorsque la dépréciation de l'oeuvre excède le montant des
 déductions déjà opérées au titre des alinéas qui précèdent.
 
-(1) Modification de la loi 93-1353.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 238 bis AA
 
-**Liens**:
-
-  - HISTO: Edition du 2 septembre 1994
-  - TXT_ASSOCIE: Instruction 1994-02-08 4C-3-94
-
 _Modifié par_:
 
-  - Loi n°93-1353 du 30 décembre 1993 - art. 42 () JORF 31 décembre 1993
+  - Loi n°96-559 du 24 juin 1996 - art. 6 () JORF 25 juin 1996
 
 _Cité par_:
 
   - Code du patrimoine. - art. L122-8 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1994-02-08 4C-3-94

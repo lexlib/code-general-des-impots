@@ -3,13 +3,19 @@
 Toute personne qui fait abattre un animal dans un abattoir acquitte une redevance sanitaire d'abattage au profit de l'Etat.
 Toutefois, en cas d'abattage à façon, la redevance est acquittée par le tiers abatteur pour le compte du propriétaire.
 
-Le fait générateur de la redevance est constitué par l'opération d'abattage.
+Cette redevance est également acquittée par toute personne qui fait traiter du gibier sauvage par un atelier ayant reçu
+l'agrément prévu à l'article 260 du code rural. En cas de traitement à façon, la redevance est acquittée par l'atelier agréé
+pour le compte du propriétaire.
+
+Le fait générateur de la redevance est constitué par l'opération d'abattage ou, s'agissant du gibier sauvage, par l'opération
+de traitement des pièces entières.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°90-798 1990-09-10
+  - Loi n°96-1182 1996-12-30 art. 27 I, II Finances rectificative pour 1996 JORF 31 décembre 1996
+  - Loi n°96-1182 du 30 décembre 1996 - art. 27 (V) JORF 31 décembre 1996
 
 _Cité par_:
 
@@ -28,10 +34,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. R102 AA-1 (V)
   - Livre des procédures fiscales - art. R135 ZB-1 (V)
 
+_Cite_:
+
+  - Code rural 260
+
 **Liens**:
 
-  - HISTO: Edition du 15 juin 1990
-
-_Créé par_:
-
-  - Loi n°89-936 du 29 décembre 1989 - art. 55 () JORF 30 décembre 1989
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1997-03-06 3P-3-97
+  - TXT_ASSOCIE: Instruction 1999-01-18 3P-1-99
+  - TXT_ASSOCIE: Instruction 1999-10-08 3P-5-99
