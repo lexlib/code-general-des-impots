@@ -1,29 +1,53 @@
 # Article 235 ter E
 
-Le taux de la participation prévue à l'article L950-1 du code du travail est fixé à 1,2 % du montant entendu au sens du 1 de
-l'article 231, des salaires payés pendant l'année en cours (1) ; les exonérations mentionnées aux articles 231 bis C à 231
-bis N s'appliquent. Ce pourcentage est fixé à 2 p. 100 pour les entreprises de travail temporaire.
+Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter D :
 
-(1) Taux applicable aux salaires versés à compter du 1er janvier 1987. Voir également Annexe II, art. 163 decies.
+" a) Jusqu'au terme prévu par le contrat ou, à défaut, jusqu'à l'expiration d'une période de deux ans à compter de sa
+conclusion, les titulaires des contrats de travail définis aux articles L. 981-1, L. 981-6 et L. 981-7 du code du travail ne
+sont pas pris en compte ;
+
+" b) Les salariés à temps partiel sont pris en compte dans les conditions fixées par l'article L. 212-4-4 du même code ;
+
+" c) L'effectif des salariés employés par les entreprises de travail temporaire est calculé en ajoutant au nombre des
+salariés permanents le nombre moyen par jour ouvrable des salariés qui ont été liés par un contrat de travail temporaire au
+cours de l'exercice ;
+
+" d) Les titulaires de contrats de retour à l'emploi prévus à l'article L. 322-4-2 du code du travail ne sont pas pris en
+compte jusqu'à l'expiration d'une période d'un an à compter de la date d'embauche ;
+
+" e) Les titulaires des contrats emploi-solidarité et des contrats locaux d'orientation définis aux articles L. 322-4-7 et
+suivants du code du travail ne sont pas pris en compte pendant toute la durée du contrat ;
+
+" f) Les apprentis avec lesquels un contrat régulier d'apprentissage a été conclu dans les conditions prévues aux articles L.
+117-1 à L. 117-18 du code du travail ne sont pas pris en compte.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 231
-  - CGI 231 bis C à CGI 231 bis N
-  - CGIAN2 163 decies
-  - Code du travail - art. L910-1 (M)
-  - Code du travail - art. L950-1 (M)
+  - CGI 235 ter D
+  - Code du travail - art. L212-4-4 (M)
+  - Code du travail - art. L322-4-2 (M)
+  - Code du travail - art. L322-4-7 (M)
+  - Code du travail - art. L981-1 (M)
+  - Code du travail - art. L981-6 (Ab)
+  - Code du travail - art. L981-7 (Ab)
+  - Code du travail L981-1, L981-6, L981-7, L212-4-4, L322-4-2, L322-4-7, L117-1 à L117-18
+
+**Liens**:
+
+  - TXT_SOURCE: CGI 235 ter D
 
 _Modifié par_:
 
-  - Loi n°90-613 du 12 juillet 1990 - art. 27 () JORF 14 juillet 1990
-  - Loi n°90-613 du 12 juillet 1990 - art. 43 (V) JORF 14 juillet 1990
+  - Loi n°91-1405 du 31 décembre 1991 - art. 1 ()
+  - Loi n°91-1405 du 31 décembre 1991 - art. 27 ()
+  - Loi n°91-1405 du 31 décembre 1991 - art. 4 ()
+  - Loi n°91-1405 du 31 décembre 1991 - art. 9 ()
 
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
