@@ -1,6 +1,6 @@
 # Article 278 sexies
 
-I. La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 p. 100 en ce qui concerne :
+I. La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 % en ce qui concerne :
 
 1. Les ventes et les apports en société de terrains à bâtir et de biens assimilés à ces terrains par les 1° et 3° du I de
 l'article 1594-0 G consentis aux organismes d'habitations à loyer modéré visés à l'article L. 411-2 du code de la
@@ -12,8 +12,9 @@ immeubles un droit de propriété ou de jouissance.
 
 2. Les livraisons à soi-même mentionnées au quatrième alinéa du c du 1 du 7° de l'article 257 de logements sociaux à usage
 locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation dont la construction a
-été financée au moyen d'un prêt prévu à l'article R. 331-1 du même code qui bénéficient de la décision favorable prise dans
-les conditions prévues aux articles R. 331-3 et R. 331-6 du même code.
+été financée au moyen d'un prêt prévu à l'article R. 331-1 du même code ou d'une subvention de l'Agence nationale pour la
+rénovation urbaine qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
+331-6 du même code.
 
 3. Les ventes de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
 construction et de l'habitation et qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R.
@@ -38,12 +39,12 @@ _Cité par_:
   - Arrêté du 16 mars 1992 - art. 2 bis (Ab)
   - Arrêté du 3 mai 2002 - art. Annexe I (Ab)
   - Arrêté du 29 avril 2009 - art. 3 (Ab)
-  - Arrêté du 1er août 2014 - art. 3 (V)
-  - Arrêté du 30 septembre 2014 (V)
   - Décret n°2010-1269 du 26 octobre 2010 - art. 2 (V)
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
   - Décret n°2011-544 du 18 mai 2011 - art. 4 (V)
+  - Arrêté du 1er août 2014 - art. 3 (V)
   - Loi n°2014-891 du 8 août 2014 - art. 27 (V)
+  - Arrêté du 30 septembre 2014 (V)
   - Arrêté du 30 septembre 2014 - art. 6 (V)
   - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
   - Décret n°2019-831 du 3 août 2019 - art.
@@ -66,6 +67,10 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 70 quinquies B (P)
   - Livre des procédures fiscales - art. L176 (VT)
 
+_Modifié par_:
+
+  - Loi n°2003-710 du 1 août 2003 - art. 16 () JORF 2 août 2003
+
 _Cite_:
 
   - CGI 257, 1594-0 G
@@ -75,11 +80,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-3 (M)
   - Code de la construction et de l'habitation. - art. R331-6 (M)
 
-_Modifié par_:
-
-  - Loi - art. 24 () JORF 31 décembre 2002
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 31 août 2003
   - TXT_ASSOCIE: Instruction 2001-11-19 8A-2-01
