@@ -5,7 +5,7 @@ les conditions prévues aux articles 208-1 à 208-8-2 de la loi n° 66-537 du 24
 le prix de souscription ou d'achat de cette action constitue pour le bénéficiaire un complément de salaire imposable dans les
 conditions prévues au II de l'article 163 bis C. 
 
-II. Lorsque le prix d'acquisition des actions offertes dans les conditions prévues au I est inférieur à 90 p. 100 de la
+II. Lorsque le prix d'acquisition des actions offertes dans les conditions prévues au I est inférieur à 95 p. 100 de la
 moyenne des cours ou du cours moyen d'achat respectivement mentionnés aux articles 208-1 et 208-3 de la loi n° 66-537 du 24
 juillet 1966, la différence est imposée dans la catégorie des traitements et salaires au titre de l'année au cours de
 laquelle l'option est levée. 
@@ -22,12 +22,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-416 du 17 juin 1987 - art. 19 () JORF 18 juin 1987
-  - Loi n°89-935 1989-12-29 art. 12 I Finances pour 1990 JORF 30 décembre 1989
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
+  - Loi n°93-859 1993-06-22 art. 39 II Finances rectificative pour 1993 JORF 23 juin 1993
+  - Modification directe incorporée dans l'édition du 18 août 1993
 
 _Cité par_:
 
