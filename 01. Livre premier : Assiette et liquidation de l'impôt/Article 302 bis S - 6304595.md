@@ -1,11 +1,11 @@
 # Article 302 bis S
 
 Toute personne qui procède à des opérations de découpage de viande avec os acquitte une redevance sanitaire de découpage au
-profit de l'Etat. La redevance est perçue auprès de l'abatteur ou du tiers abatteur pour le compte du propriétaire des
-viandes à découper.
+profit de l'Etat. La redevance est perçue auprès de l'abatteur, du tiers abatteur ou de l'atelier de traitement du gibier
+sauvage ayant reçu l'agrément prévu à l'article 260 du code rural, pour le compte du propriétaire des viandes à découper.
 
-Le fait générateur de la redevance est soit l'opération de découpage chez l'abatteur, soit l'enlèvement chez ce dernier des
-viandes à découper.
+Le fait générateur de la redevance est soit l'opération de découpage chez l'abatteur, le tiers abatteur ou dans l'atelier de
+traitement du gibier sauvage, soit l'enlèvement des viandes à découper chez ces derniers.
 
 La redevance sanitaire de découpage n'est pas due lorsque les viandes à découper font l'objet d'achat par les organismes
 d'intervention ou sont destinées à être exportées, à faire l'objet d'une livraison exonérée en vertu du I de l'article 262
@@ -21,22 +21,22 @@ l'acquisition.
 _Cite_:
 
   - CGI 262 ter, 258 A
-
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995
-  - TXT_ASSOCIE: Instruction 1997-03-06 3P-3-97
-
-_Modifié par_:
-
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - Code rural 260
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 302 bis U (V)
   - Code général des impôts, CGI. - art. 302 bis V (V)
   - Code général des impôts, CGI. - art. 302 bis W (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1997-03-06 3P-3-97
+  - TXT_ASSOCIE: Instruction 1999-01-18 3P-1-99
+  - TXT_ASSOCIE: Instruction 1999-10-08 3P-5-99
+  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 30 II
+
+_Modifié par_:
+
+  - Loi - art. 30 (V) JORF 31 décembre 1998
