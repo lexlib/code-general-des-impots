@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-07-09
+Version Consolidée au 1987-07-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
