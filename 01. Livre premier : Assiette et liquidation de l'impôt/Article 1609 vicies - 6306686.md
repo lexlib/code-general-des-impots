@@ -16,21 +16,21 @@ c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 
 II. – ((Les taux de la taxe sont fixés comme suit :
 
-((Huile d'olive, 0,917 F/Kg, 0,826 F/litre
+((Huile d'olive, 0,936 F/Kg, 0,843 F/litre
 
-((Huiles d'arachide et de maïs, 0,826 F/Kg, 0,752 F/Litre
+((Huiles d'arachide et de maïs, 0,843 F/Kg, 0,768 F/Litre
 
-((Huiles de colza et de pépins de raisin, 0,423 F/Kg, 0,385 F/litre
+((Huiles de colza et de pépins de raisin, 0,432 F/Kg, 0,393 F/litre
 
 ((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
-internationales ou nationales relatives aux espèces protégées, 0,720 F/Kg, 0,629 F/litre
+internationales ou nationales relatives aux espèces protégées, 0,735 F/Kg, 0,642 F/litre
 
-((Huiles de coprah et de palmiste, 0,550F/Kg, 0,629 F / litre
+((Huiles de coprah et de palmiste, 0,562F/Kg
 
-((Huile de palme, 0,503 F/Kg, 0,629 F/litre
+((Huile de palme, 0,514 F/Kg
 
 ((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives
-aux espèces protégées, 0,917F F/Kg, 0,629 F/litre)) (M).
+aux espèces protégées, 0,936F F/Kg)) (M).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition intracommunautaire incorporant des huiles
 imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition.
@@ -39,7 +39,7 @@ Toutefois, pour les produits autres que la margarine, le redevable peut demander
 par arrêté du ministre du budget sur des bases équivalentes à celles qui sont retenues pour les produits similaires d'origine
 nationale.
 
-III. – Les huiles, y compris celles qui sont contenues dans l es produits alimentaires visés ci-dessus, exportées de France
+III. – Les huiles, y compris celles qui sont contenues dans les produits alimentaires visés ci-dessus, exportées de France
 continentale et de Corse, qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou d'une livraison
 dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A, ne sont pas
 soumises à la taxe spéciale.
@@ -53,9 +53,13 @@ qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, 
 l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de
 l'article 258 A.
 
-(M) Modification de la loi 94-1162.
+(M) Modification de la loi..
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi - art. 40 (P) JORF 31 décembre 1995
 
 _Cité par_:
 
@@ -86,16 +90,8 @@ _Cite_:
 
   - CGI 262 ter, 258 A, 1609 sexdecies
 
-_Modifié par_:
-
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-  - Loi n°94-1162 du 29 décembre 1994 - art. 32 () JORF 30 décembre 1994
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
-
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 12 mai 1996
   - TXT_ASSOCIE: Instruction 1995-03-23 3P-6-95
+  - TXT_ASSOCIE: Instruction 1996-06-20 3P-5-96
