@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-01-15
+Version Consolidée au 1987-01-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -1120,7 +1120,7 @@ Version Consolidée au 1987-01-15
     - [Chapitre IV : Sûretés et privilèges (art. 1920 à 1929 ter)](#1117)
       - [Section I : Impôts directs et taxes assimilées (art. 1920 à 1925 bis)](#1118)
       - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1926)](#1119)
-      - [Section III : Contributions indirectes (art. 1928)](#1120)
+      - [Section III : Contributions indirectes (art. 1927 à 1928)](#1120)
       - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés (art. 1929)](#1121)
       - [Section V : Dispositions communes (art. 1929 quater à 1929 ter)](#1122)
     - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1960 à 1965 A)](#1123)
@@ -1129,7 +1129,7 @@ Version Consolidée au 1987-01-15
         - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#1126)
         - [9 : Dispositions particulières aux contributions indirectes (art. 1965 FA)](#1127)
       - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis à 1965 A)](#1128)
-  - [RECOUVREMENT DE L'IMPOT (art. 1658 à 1927)](#1129)
+  - [RECOUVREMENT DE L'IMPOT (art. 1658 à 1840 W bis)](#1129)
     - [PAIEMENT DE L'IMPOT (art. 1658 à 1723 undecies)](#1130)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1658 à 1679 quater B)](#1131)
       - [IMPOTS DIRECTS. (art. 1664 à 1668 A)](#1132)
@@ -1139,8 +1139,6 @@ Version Consolidée au 1987-01-15
     - [PENALITES (art. 1726 à 1840 W bis)](#1136)
       - [DISPOSITIONS COMMUNES. (art. 1726 à 1756 ter)](#1137)
       - [DISPOSITIONS PARTICULIERES. (art. 1757 à 1840 W bis)](#1138)
-    - [SURETES ET PRIVILEGES (art. 1927)](#1139)
-      - [CONTRIBUTIONS INDIRECTES. (art. 1927)](#1140)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -53892,6 +53890,31 @@ _Codifié par_:
   - Décret n°83-899 1983-10-06
 
 
+###### Article 1795
+
+Pour toute infraction aux dispositions législatives ou réglementaires concernant le régime de l'alcool de betterave, la
+pénalité de une à trois fois le montant des droits est remplacée par une pénalité dont le montant est compris entre une et
+trois fois celui des recettes nettes dont l'Etat a été frustré du fait de l'infraction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+  - Décret n°99-382 1999-05-18
+
+**Liens**:
+
+  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+  - HISTO: Edition du 10 août 1987
+  - HISTO: Edition du 31 mars 1999
+  - SPEC_APPLI: La péremption est la conséquence de la péremption des articles 358 à 361
+
+_Modifié par_:
+
+  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+
+
 ###### Article 1797
 
 En ce qui concerne les infractions commises en matière d'impôts sur les cercles et maisons de jeux, si les droits fraudés ou
@@ -55781,6 +55804,28 @@ _Cité par_:
 
 
 ### Section III : Contributions indirectes<a id=1120></a>
+
+###### Article 1927
+
+Pour le recouvrement des droits, taxes, redevances, soultes et autres impositions dont la perception lui est confiée,
+l'administration a, sur les meubles et effets mobiliers des redevables, privilège et préférence à tous les créanciers, à
+l'exception des frais de justice, de ce qui est dû pour six mois de loyer seulement et sauf aussi la revendication dûment
+formée par le propriétaire des marchandises en nature qui sont encore sous balle et sous corde.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1928 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 10 août 1987
+
 
 ###### Article 1928
 
@@ -58186,19 +58231,6 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 1795
-
-Pour toute infraction aux dispositions législatives ou réglementaires concernant le régime économique de l'alcool, la
-pénalité de une à trois fois le montant des droits est remplacée par une pénalité dont le montant est compris entre une fois
-et trois fois celui des recettes nettes dont le service des alcools a été frustré du fait de l'infraction.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 1827
 
 En cas de dissimulation de partie du prix stipulé dans un contrat, et nonobstant l'application éventuelle des dispositions de
@@ -58590,31 +58622,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°88-1001 1988-10-20
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-## SURETES ET PRIVILEGES<a id=1139></a>
-
-### CONTRIBUTIONS INDIRECTES.<a id=1140></a>
-
-###### Article 1927
-
-Pour le recouvrement des droits, taxes, redevances, soultes et autres impositions dont la perception lui est confiée,
-l'administration a, sur les meubles et effets mobiliers des redevables, privilège et préférence à tous les créanciers, à
-l'exception des frais de justice, de ce qui est dû pour six mois de loyer seulement et sauf aussi la revendication dûment
-formée par le propriétaire des marchandises en nature qui sont encore sous balle et sous corde.
-
-Pour la sûreté de ses créances, le service des alcools jouit, sur les meubles et effets mobiliers des débiteurs, d'un
-privilège de même rang.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1928 (V)
 
 **Liens**:
 
