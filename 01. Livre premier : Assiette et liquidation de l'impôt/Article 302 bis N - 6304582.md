@@ -4,8 +4,8 @@ Toute personne qui fait abattre un animal dans un abattoir acquitte une redevanc
 Toutefois, en cas d'abattage à façon, la redevance est acquittée par le tiers abatteur pour le compte du propriétaire.
 
 Cette redevance est également acquittée par toute personne qui fait traiter du gibier sauvage par un atelier ayant reçu
-l'agrément prévu à l'article 260 du code rural. En cas de traitement à façon, la redevance est acquittée par l'atelier agréé
-pour le compte du propriétaire.
+l'agrément prévu à l'article L233-2 du code rural. En cas de traitement à façon, la redevance est acquittée par l'atelier
+agréé pour le compte du propriétaire.
 
 Le fait générateur de la redevance est constitué par l'opération d'abattage ou, s'agissant du gibier sauvage, par l'opération
 de traitement des pièces entières.
@@ -14,8 +14,13 @@ de traitement des pièces entières.
 
 _Modifié par_:
 
-  - Loi n°96-1182 1996-12-30 art. 27 I, II Finances rectificative pour 1996 JORF 31 décembre 1996
-  - Loi n°96-1182 du 30 décembre 1996 - art. 27 (V) JORF 31 décembre 1996
+  - Rapport - art. 2 (V) JORF 22 juin 2000
+  - Rapport - art. 7 (V) JORF 22 juin 2000
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
 
 _Cité par_:
 
@@ -36,11 +41,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural 260
+  - Code rural L233-2
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1997-03-06 3P-3-97
+  - HISTO: Edition du 31 mars 2001
   - TXT_ASSOCIE: Instruction 1999-01-18 3P-1-99
   - TXT_ASSOCIE: Instruction 1999-10-08 3P-5-99
