@@ -6,10 +6,12 @@ taxe sur la valeur ajoutée ou à l'exportation.
 I bis. A partir du 1er janvier 1969 et jusqu'à la date à laquelle les taux de la taxe sur la valeur ajoutée seraient
 modifiés, le taux du remboursement forfaitaire est fixé, sous réserve des dispositions du I ter :
 
-1° A 3,65 % pour les ventes d'oeufs, d'animaux de basse-cour, d'animaux de boucherie et de charcuterie définis par décret
+1° A 3,65 % pour les ventes d'oeufs, d'animaux de basse-cour ;
+
+2° A 3,75 % pour les ventes faites à compter du 1er janvier 1990 d'animaux de boucherie et de charcuterie définis par décret
 (1) ;
 
-2° A 2,55 % pour les ventes d'autres produits.
+3° A 2,55 % pour les ventes d'autres produits.
 
 I ter. 1. Lorsque les produits sont commercialisés par l'intermédiaire de groupements de producteurs constitués pour la
 réalisation des objectifs définis par la loi d'orientation agricole n° 60-808 du 5 août 1960, les taux prévus au I bis sont
@@ -20,7 +22,7 @@ portés à :
 2° 3,05 % Pour les ventes de vins, de fruits et légumes, de produits de l'horticulture et des pépinières faites du 1er
 janvier 1986 au 31 décembre 1991 ;
 
-2. Le taux prévu au 2° du I bis est porté à 3,65 % pour les ventes de lait effectuées du 1er janvier 1986 au 31 décembre
+2. Le taux prévu au 3° du I bis est porté à 3,65 % pour les ventes de lait effectuées du 1er janvier 1986 au 31 décembre
 1991.
 
 II. Des décrets en Conseil d'Etat (2) fixent, en tant que de besoin, les conditions d'application des I à I ter, notamment
@@ -45,18 +47,18 @@ la production agricole, par décret (4) pris après avis des organisations profe
 
 _Cite_:
 
-  - CGIAN2 261 A CGIAN2 267 bis
+  - CGIAN2 261 à CGIAN2 267 bis
   - CGIAN3 65 A
   - CGIAN3 98 bis
   - Loi n°60-808 1960-08-05
 
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 13 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+  - Loi n°89-935 1989-12-29 art. 37 Finances pour 1990 JORF 30 décembre 1989
 
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°90-798 1990-09-10
 
 _Cité par_:
 

@@ -12,12 +12,10 @@ visées à l'alinéa précédent doivent distinguer la partie de la prime ou cot
 Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou cotisations d'assurance payées par les entreprises
 artisanales et de 25,5 % en ce qui concerne les autres primes ou cotisations d'assurance.
 
-Cette contribution est recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur
-les conventions d'assurance prévue aux articles 991 et suivants.
+Cette contribution, appelée lors de l'émission annuelle de la prime, est recouvrée suivant les mêmes règles, sous les mêmes
+garanties et les mêmes sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article (1).
-
-(1) Voir code des assurances art. R. 431-59.
+(Sans objet).
 
 **Liens relatifs à cet article**
 
@@ -30,9 +28,9 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°85-863 1985-08-02 art. 4, art. 5 JORF 15 août 1985
-  - Loi n°85-1404 du 30 décembre 1985 - art. 26 () JORF 31 décembre 1985
+  - Décret n°85-864 1985-08-02 art. 6 JORF 15 août 1985
+  - Loi n°89-936 1989-12-29 art. 42 Finances rectificative pour 1989 JORF 30 décembre 1989
 
 _Codifié par_:
 
-  - Décret n°86-1086 1986-10-07
+  - Décret n°90-798 1990-09-10
