@@ -6,7 +6,7 @@ ne donne lieu à aucune perception au titre de l'impôt sur les sociétés ou de
 
 La même immunité s'applique à la répartition des indemnités entre les actionnaires, porteurs de parts et personnes ayant des
 droits similaires, lorsque la société distributrice exploitait directement à l'étranger des établissements ayant fait l'objet
-de mesures visées à l'alinéa précédent, à la condition :
+de mesures visées au premier alinéa, à la condition :
 
 1° Que la répartition intervienne dans un délai maximal d'un an à compter de l'encaissement effectif des sommes reçues au
 titre de l'indemnité ou de la date de la loi n° 57-198 du 22 février 1957 si l'encaissement a eu lieu antérieurement;
@@ -18,7 +18,19 @@ nationalisation de l'électricité dans les départements d'outre-mer ne donne l
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
+
 _Cite_:
 
   - Loi n°57-198 1957-02-22
   - Loi n°75-622 1975-07-11 art. 4
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002

@@ -31,11 +31,11 @@ de ceux qui ont été différés en contravention aux dispositions de l'article 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par
 priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
-Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif soumis au
-régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport constituent deux
-catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les cessions de titres
-intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération
-d'apport.
+Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif ou d'une
+scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport
+ou de scission constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B.
+Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits
+indépendamment de l'opération d'apport ou de scission.
 
 7.
 
@@ -86,6 +86,8 @@ apprécié à compter de la date d'ouverture de cet exercice ou de cette périod
 correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour
 l'application du b du 2.
 
+**Nota:**
+
 (1) Ces dispositions sont applicables pour la détermination des plus-values ou moins-values réalisées au cours des exercices
 clos à compter du 31 décembre 1993.
 
@@ -99,11 +101,13 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47°, 77° JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+  - Loi - art. 85 (V) JORF 29 décembre 2001
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2001-435 2001-05-21
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 85 II B Finances pour 2002
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2001-02-12 5E-3-01
 
 _Cité par_:
 
@@ -141,8 +145,3 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 N (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 29 A (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 46 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 2001-02-12 5E-3-01

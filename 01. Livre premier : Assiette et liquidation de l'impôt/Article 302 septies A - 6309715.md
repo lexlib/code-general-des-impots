@@ -1,9 +1,9 @@
 # Article 302 septies A
 
-I. Il est institué par décret en conseil d'Etat un régime simplifié de liquidation des taxes sur le chiffre d'affaires dues
-par les personnes dont le chiffre d'affaires n'excède pas 5.000.000 F, s'il s'agit d'entreprises dont le commerce principal
+I. Il est institué par décret en Conseil d'Etat un régime simplifié de liquidation des taxes sur le chiffre d'affaires dues
+par les personnes dont le chiffre d'affaires n'excède pas 763 000 euros, s'il s'agit d'entreprises dont le commerce principal
 est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement,
-ou 1.500.000 F, s'il s'agit d'autres entreprises. Ces limites s'apprécient en faisant abstraction de la taxe sur la valeur
+ou 230 000 euros, s'il s'agit d'autres entreprises. Ces limites s'apprécient en faisant abstraction de la taxe sur la valeur
 ajoutée et des taxes assimilées.
 
 II. Le régime simplifié prévu au I demeure applicable pour l'établissement de l'imposition due au titre de la première année
@@ -17,27 +17,21 @@ suivent la clôture de cet exercice. Un décret en Conseil d'Etat fixe les modal
 paragraphe; il procède aux adaptations nécessaires de la législation en vigueur, notamment pour les entreprises qui n'ont
 clôturé aucun exercice au cours d'une année civile.
 
-**Nota:**
-
-NOTA : Loi 98-1266 1998-12-30 art. 7 IV : Ces dispositions sont applicables pour la détermination des résultats des années
-1999 et suivantes.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGIAN2 204 ter, 204 quater, 242-0 C, 242-0 D, 242 quater à 242 septies, 267 quinquies à 267 septies
 
-_Modifié par_:
-
-  - Loi - art. 7 (V) JORF 31 décembre 1998
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1996-02-22 3E-2-96
-  - TXT_ASSOCIE: Instruction 1996-02-22 4G-2-96
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 mars 2002
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 

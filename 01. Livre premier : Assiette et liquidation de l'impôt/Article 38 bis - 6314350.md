@@ -34,7 +34,7 @@ la plus ancienne. Les achats ultérieurs de titres de même nature sont affecté
 empruntés. 
 
 II bis. Les dispositions des articles L. 432-6 à L. 432-10 précités s'appliquent sous les mêmes conditions aux remises en
-pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au quatrième alinéa de l'article L. 431-7 du code
+pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au cinquième alinéa de l'article L. 431-7 du code
 monétaire et financier effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré, aux
 remises de titres prévues au 3 de l'article L. 432-6, ainsi qu'aux remises prévues à l'article L. 330-2 du même code.
 
@@ -53,13 +53,13 @@ _Cite_:
   - Code monétaire et financier - art. L431-7 (M)
   - Code monétaire et financier L432-6 à L432-10, L431-7, L330-2
 
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 73°, 77°, 93° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -71,4 +71,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002

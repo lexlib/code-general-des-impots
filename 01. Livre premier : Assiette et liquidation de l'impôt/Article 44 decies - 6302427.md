@@ -44,8 +44,8 @@ Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération a
 dans la limite du résultat d'ensemble du groupe.
 
 II. Le bénéfice ouvrant droit à l'exonération au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les
-modalités prévues aux articles 50-0, 53 A, 72, 74 A ou fixé conformément à l'article 65 A et diminué des produits bruts ci-
-après qui restent imposables dans les conditions de droit commun :
+modalités prévues aux articles 50-0, 53 A, 72, 74 A ou fixé conformément aux articles 65 A et 65 B et diminué des produits
+bruts ci-après qui restent imposables dans les conditions de droit commun :
 
 a) produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8
 lorsqu'ils ne proviennent pas d'une activité exercée en Corse, et résultats de cession des titres de ces sociétés ;
@@ -150,18 +150,18 @@ XII. Les modalités d'application du présent article sont fixées par décret.
 
 _Cite_:
 
-  - CGI 34, 63, 92, 223 A, 223 I, 50-0, 53 A, 72, 74 A, 65 A, 8, 1467, 1649 nonies, 44 sexies, 208 sexies, 208 quater A
+  - CGI 34, 63, 92, 223 A, 223 I, 50-0, 53 A, 72, 74 A, 65 A, 65 B, 8, 1467, 1649 nonies, 44 sexies, 208 sexies, 208 quater A
   - Règlement CEE 2078-92 1992-06-30 (Conseil)
   - Règlement CEE 2328-91 1991-07-15 (Conseil)
   - Règlement CEE 866-90 1990-03-29 (Conseil)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 84 () JORF 29 décembre 2001
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
 
 _Cité par_:
 
@@ -181,3 +181,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 S (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 T (P)
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies G (P)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002

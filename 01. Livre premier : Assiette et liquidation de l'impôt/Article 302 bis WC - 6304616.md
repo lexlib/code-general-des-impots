@@ -41,30 +41,28 @@ viandes, aux produits de l'aquaculture et au lait sont fixés par produit dans l
 en euro par décision du Conseil de l'Union européenne.
 
 Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie, du ministre de l'agriculture et de la pêche et
-du secrétaire d'Etat au budget fixe les taux de la redevance à partir des taux de conversion en francs de l'euro.
+du secrétaire d'Etat au budget fixe les taux de la redevance (1).
 
 Le taux de la redevance applicable aux ovoproduits est fixé, par arrêté conjoint du ministre de l'économie, des finances et
-de l'industrie, du ministre de l'agriculture et de la pêche et du secrétaire d'Etat au budget, dans la limite de 5 F par
-tonne d'oeufs en coquille.
+de l'industrie, du ministre de l'agriculture et de la pêche et du secrétaire d'Etat au budget, dans la limite de 0,76 euro
+par tonne d'oeufs en coquille.
 
 III. - La redevance est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
 privilèges que la taxe sur la valeur ajoutée.
 
 Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
-IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article (2).
+
+(1) Voir l'article 50 quaterdecies-0 A ter de l'annexe IV.
+
+(2) Voir l'article 267 quater H de l'annexe II.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Rapport - art. 2 (V) JORF 22 juin 2000
-  - Rapport - art. 7 (V) JORF 22 juin 2000
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
-
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2002-923 2002-06-06
 
 _Cité par_:
 
@@ -76,4 +74,10 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002
+
+_Modifié par_:
+
+  - Règlement CE 1103-97 1997-06-17 art. 5 JOCE 19 juin 1997 en vigueur le 1er janvier 2002
+  - Règlement CE 2866-98 1998-12-31 art. 1, art. 2 JOCE 31 décembre 1998 en vigueur le 1er janvier 2002
+  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 en vigueur le 1er janvier 2002
