@@ -1,10 +1,10 @@
 # Article 237 bis A
 
 I. Les sommes portées au cours d'un exercice à la réserve spéciale de participation constituée en application du chapitre II
-de l'ordonnance n° 86-1134 du 21 octobre 1986 sont déductibles pour l'assiette de l'impôt sur les sociétés ou de l'impôt sur
-le revenu exigible au titre de l'exercice au cours duquel elles sont réparties entre les salariés. L'application de cette
-disposition est subordonnée au dépôt de l'accord de participation à la direction départementale du travail et de l'emploi du
-lieu où cet accord a été conclu.
+de l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée sont déductibles pour l'assiette de l'impôt sur les sociétés ou de
+l'impôt sur le revenu exigible au titre de l'exercice au cours duquel elles sont réparties entre les salariés. L'application
+de cette disposition est subordonnée au dépôt de l'accord de participation à la direction départementale du travail et de
+l'emploi du lieu où cet accord a été conclu.
 
 II. 1. Les entreprises peuvent constituer, en franchise d'impôt, une provision pour investissement égale à une fraction du
 montant des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des
@@ -45,19 +45,13 @@ le 23 octobre 1986.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance 86-1134 1986-10-21 art. 14 I, IV, art. 32, art. 33  JORF 23 octobre 1986
-  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 32 () JORF 23 octobre 1986
-  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
-
 _Cite_:
 
   - Ordonnance 86-1134 1986-10-21 chapitre II, art. 12
 
 _Codifié par_:
 
-  - Décret n°87-940 1987-11-23
+  - Décret n°91-883 1991-09-09
 
 _Cité par_:
 

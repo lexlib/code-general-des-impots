@@ -22,17 +22,29 @@ ans à compter de la publication du décret en Conseil d'Etat propre à la profe
 Les dispositions du premier alinéa cessent de s'appliquer aux plus-values constatées à l'occasion d'apports en sociétés
 réalisés à compter du 1er avril 1981.
 
+III. Pour l'application des dispositions du premier alinéa du I, les contrats de crédit-bail conclus dans les conditions
+prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-
+bail sont considérés comme des immobilisations lorsque les loyers versés ont été déduits pour la détermination du bénéfice
+non commercial.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39 duodecies, 39 terdecies 1 bis, 39 quaterdecies, 39 quindecies
+  - CGI 39 duodecies
+  - CGI 39 quaterdecies
+  - CGI 39 quindecies
+  - CGI 39 terdecies 1 bis
+  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
   - Loi n°66-879 1966-11-29
 
 _Modifié par_:
 
-  - Loi - art. 19 (V)
-  - Loi n°90-1169 du 29 décembre 1990 - art. 40 () JORF 30 décembre 1990
+  - Loi - art. 19 (V) JORF 30 décembre 1990
+
+_Codifié par_:
+
+  - Décret n°91-883 1991-09-09
 
 _Cité par_:
 
@@ -48,7 +60,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 quindecies (V)
   - Code général des impôts, CGI. - art. 93 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 novovicies (V)
-
-**Liens**:
-
-  - HISTO: modifications directes incorporées dans l'édition du 24 juin 1991

@@ -1,7 +1,6 @@
 # Article 1649 quater A
 
-Sans préjudice des dispositions de la loi n° 66-1008 du 28 décembre 1966 relative aux relations financières avec l'étranger,
-les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
+Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
 l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
 établissements de crédit, ou d'un organisme cité à l'article 8 de ladite loi, doivent en faire la déclaration dans les
 conditions fixées par décret.
@@ -15,16 +14,15 @@ des revenus imposables lorsque le contribuable n'a pas rempli les obligations pr
 
 _Cite_:
 
-  - Loi n°66-1008 1966-12-28
   - Loi n°84-46 1984-01-24 art. 8
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 98 Finances pour 1990 JORF 30 décembre 1989
+  - Loi n°90-614 1990-07-12 art. 23 JORF 14 juillet 1990
 
 _Codifié par_:
 
-  - Décret n°90-798 1990-09-10
+  - Décret n°91-883 1991-09-09
 
 _Cité par_:
 

@@ -1,8 +1,8 @@
 # Article 163 bis B
 
 I  Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise, constitué conformément aux
-dispositions du chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986 sont exonérées de l'impôt sur le revenu établi au
-nom du salarié. alinéa)
+dispositions du chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée, sont exonérées de l'impôt sur le revenu
+établi au nom du salarié.
 
 II Lorsqu'ils sont réemployés dans le plan d'épargne d'entreprise, les revenus du portefeuille collectif ou des titres
 détenus individuellement qui sont acquis en application de l'ordonnance visée au I sont exonérés de l'impôt sur le revenu.
@@ -16,6 +16,11 @@ III  Un décret en conseil d'Etat fixe les modalités d'application du présent 
 
 1) Annexe II, art. 82.
 
+**Nota:**
+
+NOTA : Loi 94-640 1994-07-25 art. 33 IV : les articles 20 à 28 de l'ordonnance 86-1134 du 21 octobre 1986 sont codifiés sous
+les articles L442-15 à L443-8 du code du travail.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -25,13 +30,13 @@ _Cite_:
   - CGIAN2 82
   - Ordonnance 86-1134 1986-10-21 chapitre III
 
-_Modifié par_:
-
-  - Loi n°87-1061 du 30 décembre 1987 - art. 19 (V) JORF 31 décembre 1987
-
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°91-883 1991-09-09
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°94-640 1994-07-25 art. 33 IV
 
 _Cité par_:
 
