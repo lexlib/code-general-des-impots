@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1967-12-29
+Version Consolidée au 1968-12-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 247 à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 247 à 1043 A)](#2)
@@ -7,30 +7,35 @@ Version Consolidée au 1967-12-29
         - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 247)](#4)
           - [Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III (art. 247)](#5)
             - [I : Entreprises de navigation maritime ou aérienne (art. 247)](#6)
-      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 850 à 1043 A)](#7)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 850)](#8)
-          - [Section III : Obligations diverses (art. 850)](#9)
-            - [I : Obligations des redevables et des officiers publics et ministériels (art. 850)](#10)
-              - [A : Obligations des redevables (art. 850)](#11)
-                - [Affirmation de sincérité. (art. 850)](#12)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#13)
-          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#14)
-            - [9° : Départements d'outre-mer (art. 1043 A)](#15)
-    - [Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 1515)](#16)
-      - [Titre premier : Impositions communales (art. 1515)](#17)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1515)](#18)
-          - [Section VI : Règles d'évaluation de la valeur locative des biens imposables (art. 1515)](#19)
-            - [II : Évaluation des propriétés non bâties (art. 1515)](#20)
-              - [B : Procédure d'évaluation (art. 1515)](#21)
-                - [2 : Règles particulières à la révision quinquennale 1970-1974 (art. 1515)](#22)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 1563 à 1628 quater)](#23)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#24)
-      - [IMPOSITIONS COMMUNALES (art. 1563)](#25)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#26)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#27)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#28)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#29)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#30)
+      - [Titre III : Contributions indirectes et monopoles fiscaux - taxes diverses (art. 564 sexies)](#7)
+        - [Chapitre III quinquies : Cotisation de solidarité sur les graines oléagineuses. (art. 564 sexies)](#8)
+      - [Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre (art. 850 à 1043 A)](#9)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 850)](#10)
+          - [Section III : Obligations diverses (art. 850)](#11)
+            - [I : Obligations des redevables et des officiers publics et ministériels (art. 850)](#12)
+              - [A : Obligations des redevables (art. 850)](#13)
+                - [Affirmation de sincérité. (art. 850)](#14)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 1043 A)](#15)
+          - [Section II : Collectivités publiques, établissements publics ou d'utilité publique (art. 1043 A)](#16)
+            - [9° : Départements d'outre-mer (art. 1043 A)](#17)
+    - [Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 1515)](#18)
+      - [Titre premier : Impositions communales (art. 1515)](#19)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 1515)](#20)
+          - [Section VI : Règles d'évaluation de la valeur locative des biens imposables (art. 1515)](#21)
+            - [II : Évaluation des propriétés non bâties (art. 1515)](#22)
+              - [B : Procédure d'évaluation (art. 1515)](#23)
+                - [2 : Règles particulières à la révision quinquennale 1970-1974 (art. 1515)](#24)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 564 quinquies à 1628 quater)](#25)
+    - [IMPOTS D'ETAT (art. 564 quinquies)](#26)
+      - [CONTRIBUTIONS INDIRECTES (art. 564 quinquies)](#27)
+        - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#28)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563)](#29)
+      - [IMPOSITIONS COMMUNALES (art. 1563)](#30)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#31)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#32)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#33)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#34)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#35)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -52,17 +57,48 @@ sur le revenu des personnes physiques dont ces derniers sont passibles.
 
 
 
-### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre<a id=7></a>
+### Titre III : Contributions indirectes et monopoles fiscaux - taxes diverses<a id=7></a>
 
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=8></a>
+#### Chapitre III quinquies : Cotisation de solidarité sur les graines oléagineuses.<a id=8></a>
 
-##### Section III : Obligations diverses<a id=9></a>
+###### Article 564 sexies
 
-##### I : Obligations des redevables et des officiers publics et ministériels<a id=10></a>
+Il est institué une cotisation de solidarité à la charge des producteurs de colza, de tournesol et de navette portant
+[*redevables*] sur toutes les quantités livrées aux intermédiaires agréés.
 
-##### A : Obligations des redevables<a id=11></a>
+Le taux de cette cotisation est fixé par décret pour chaque campagne, dans la limite d'un montant de 2 F par quintal
+[*tarif*].
 
-##### Affirmation de sincérité.<a id=12></a>
+La cotisation est perçue par la direction générale des impôts auprès des intermédiaires agréés. Son contrôle et son
+recouvrement sont effectués selon les règles et sous les garanties et sanctions générales prévues en matière de contributions
+indirectes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°68-1172 1968-12-27 ART. 30 2° JORF 29 DECEMBRE 1968
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 406 undecies (M)
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
+
+
+### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre<a id=9></a>
+
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=10></a>
+
+##### Section III : Obligations diverses<a id=11></a>
+
+##### I : Obligations des redevables et des officiers publics et ministériels<a id=12></a>
+
+##### A : Obligations des redevables<a id=13></a>
+
+##### Affirmation de sincérité.<a id=14></a>
 
 ###### Article 850
 
@@ -94,11 +130,11 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°570 DU 13 JUILLET 1965 CODIFIEE SOUS L'ARTICLE 216 DU CODE CIVIL
 
 
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=13></a>
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=15></a>
 
-##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=14></a>
+##### Section II : Collectivités publiques, établissements publics ou d'utilité publique<a id=16></a>
 
-##### 9° : Départements d'outre-mer<a id=15></a>
+##### 9° : Départements d'outre-mer<a id=17></a>
 
 ###### Article 1043 A
 
@@ -121,19 +157,19 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-## Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=16></a>
+## Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=18></a>
 
-### Titre premier : Impositions communales<a id=17></a>
+### Titre premier : Impositions communales<a id=19></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=18></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=20></a>
 
-##### Section VI : Règles d'évaluation de la valeur locative des biens imposables<a id=19></a>
+##### Section VI : Règles d'évaluation de la valeur locative des biens imposables<a id=21></a>
 
-##### II : Évaluation des propriétés non bâties<a id=20></a>
+##### II : Évaluation des propriétés non bâties<a id=22></a>
 
-##### B : Procédure d'évaluation<a id=21></a>
+##### B : Procédure d'évaluation<a id=23></a>
 
-##### 2 : Règles particulières à la révision quinquennale 1970-1974<a id=22></a>
+##### 2 : Règles particulières à la révision quinquennale 1970-1974<a id=24></a>
 
 ###### Article 1515
 
@@ -194,15 +230,48 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 ter (VT)
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=23></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=25></a>
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=24></a>
+## IMPOTS D'ETAT<a id=26></a>
 
-### IMPOSITIONS COMMUNALES<a id=25></a>
+### CONTRIBUTIONS INDIRECTES<a id=27></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=26></a>
+#### COTISATION DE SOLIDARITE SUR LES CEREALES.<a id=28></a>
 
-##### TAXES OBLIGATOIRES.<a id=27></a>
+###### Article 564 quinquies
+
+Il est institué une cotisation de solidarité à la charge des producteurs de blé et d'orge, portant sur toutes les quantités
+livrées aux collecteurs agréés.
+
+Le taux de cette cotisation est fixé par décret pour chaque campagne, dans la limite d'un montant de 0,65 F par quintal.
+
+La cotisation est perçue par la direction générale des impôts auprès des collecteurs agréés. Elle est recouvrée et les
+infractions sont poursuivies selon les mêmes procédures et sous les mêmes garanties que celles applicables en matière de
+contributions indirectes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°68-1172 1968-12-27 ART. 30 1° JORF 29 DECEMBRE 1968
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1698 D (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 406 undecies (V)
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
+
+
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=29></a>
+
+### IMPOSITIONS COMMUNALES<a id=30></a>
+
+#### CONTRIBUTIONS INDIRECTES<a id=31></a>
+
+##### TAXES OBLIGATOIRES.<a id=32></a>
 
 ###### Article 1563
 
@@ -255,11 +324,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. A85-1 (P)
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=28></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=33></a>
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=29></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=34></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=30></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=35></a>
 
 ###### Article 1628 quater
 
