@@ -8,17 +8,16 @@ la redevance pour enlèvement des ordures, déchets et résidus ;
 
 b) La taxe de balayage ;
 
-c) La taxe de séjour, lorsqu'elle répond aux conditions fixées à l'article L. 233-45 du code des communes ; dans ce cas, les
-communautés de villes peuvent instituer la taxe par délibération du conseil de communauté statuant à la majorité des deux
-tiers ;
+c) ((La taxe de séjour, lorsqu'elle répond aux conditions fixées à l'article L. 233-45 du code des communes)) (M) ;    d) La
+taxe sur la publicité mentionnée à l'article L. 233-15 du code des communes.
 
-d) La taxe sur la publicité mentionnée à l'article L. 233-15 du code des communes.
+(M) Modification de la loi 95-885.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-125 du 6 février 1992 - art. 94 () JORF 8 février 1992
+  - Loi - art. 32 () JORF 6 août 1995
 
 _Cité par_:
 
