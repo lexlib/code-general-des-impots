@@ -83,7 +83,7 @@ publics de coopération intercommunale auxquels elle appartenait ;
 b. Le taux effectivement appliqué dans la commune.
 
 Ces modalités sont applicables dans les mêmes conditions lorsqu'il est fait application dans les établissements publics de
-coopération intercommunale visés au premier alinéa des dispositions prévues aux I et V de l'article 1638 quater.
+coopération intercommunale visés au premier alinéa des dispositions prévues aux I, II bis et V de l'article 1638 quater.
 
 3. La cotisation de chaque établissement est majorée du montant de l cotisation prévue à l'article 1648 D et des taxes
 spéciales d'équipement prévues aux articles 1599 quinquies, 1607 bis, 1608, 1609 à 1609 F, calculées dans les mêmes
@@ -147,7 +147,7 @@ impositions établies au titre de 1995 et des années suivantes.
 
 _Cite_:
 
-  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609 F, 1467, 39, 50-0, 102 ter
+  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609, 1467, 39, 50-0, 102 ter
 
 _Cité par_:
 
@@ -170,20 +170,14 @@ _Cité par_:
   - Livre des procédures fiscales - art. L135 B (VD)
   - Livre des procédures fiscales - art. R*190-1 (V)
 
+_Modifié par_:
+
+  - Loi - art. 61 (V) JORF 31 décembre 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 61 III
+  - HISTO: Edition du 1er janvier 2004
   - TXT_ASSOCIE: Instruction 2001-02-20 6E-4-01
   - TXT_ASSOCIE: Instruction 2001-09-10 6A-4-01
   - TXT_ASSOCIE: Instruction 2003-02-20 6D-1-03
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 36 (V) JORF 29 décembre 2001
-  - Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
