@@ -9,6 +9,10 @@ La valeur résiduelle des immeubles est amortissable sur leur durée normale d'u
 Les dispositions du présent article s'appliquent aux constructions achevées avant le 31 décembre 1990 à condition qu'elle
 s'incorporent à des installations de production existant au 31 décembre 1980.
 
+Les constructions répondant aux critères définis au premier alinéa et achevées entre le 1er janvier 1990 et le 31 décembre
+1992 peuvent faire l'objet d'un amortissement exceptionnel sur douze mois à condition qu'elles s'incorporent à des
+installations de production.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -17,11 +21,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 37 (P) JORF 28 décembre 1988, incorporé au code le 14 juillet 1989
+  - Loi n°89-935 1989-12-29 art. 24 Finances pour 1990 JORF 30 décembre 1989
 
 _Codifié par_:
 
-  - Décret n°89-801 1989-10-27
+  - Décret n°90-798 1990-09-10
 
 _Cité par_:
 

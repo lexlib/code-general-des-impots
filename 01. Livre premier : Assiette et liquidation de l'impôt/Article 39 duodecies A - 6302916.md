@@ -19,7 +19,10 @@ application du 2.
 4. En cas de cession ultérieure d'un bien acquis à l'échéance d'un contrat de crédit-bail, la plus-value réalisée est
 considérée comme une plus-value à court terme à hauteur des amortissements pratiqués sur le prix de revient du bien augmentés
 des amortissements que l'entreprise aurait pu pratiquer comme il est indiqué au 1 pendant la période au cours de laquelle
-elle a été titulaire du contrat.
+elle a été titulaire du contrat.    5. Les dispositions du 4 s'appliquent aux cessions de biens intervenues à compter du 1er
+octobre 1989.
+
+Un décret fixe les modalités d'application des dispositions du présent article ainsi que les obligations déclaratives.
 
 **Liens relatifs à cet article**
 
@@ -28,9 +31,17 @@ _Cite_:
   - CGI 39 duodecies et s.
   - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 22 I, III Finances pour 1990 JORF 30 décembre 1989, article créé directement et incorporé dans l'édition du 15 juin 1990
+  - Loi n°89-935 1989-12-29 art. 22 Finances pour 1990 JORF 30 décembre 1989
+
+_Codifié par_:
+
+  - Décret n°90-798 1990-09-10
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°90-1169 1990-12-29 art. 17 V 2 Finances rectificative pour 1990
 
 _Cité par_:
 
