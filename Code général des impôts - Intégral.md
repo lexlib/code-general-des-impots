@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-07-17
+Version Consolidée au 1992-07-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -57820,8 +57820,7 @@ Le droit de timbre sur les opérations de bourse n'est pas applicable :
 1° Aux opérations de contrepartie réalisées par les intermédiaires professionnels et enregistrées comme telles dans les
 comptes ouverts à cet effet dans les écritures des sociétés de bourse ;
 
-2° Aux opérations d'achat et de vente portant sur des obligations inscrites à la cote officielle de la bourse de Paris ou à
-la cote du second marché ou figurant au relevé quotidien des valeurs non admises à la cote officielle de cette bourse.
+2° Aux opérations d'achat et de vente portant sur des obligations (1) ;
 
 L'exonération ne s'applique pas aux obligations échangeables ou convertibles en actions, aux valeurs assorties de clauses
 d'indexation ou de clauses de participation aux bénéfices de la société émettrice;
@@ -57837,9 +57836,11 @@ développement des investissements et la protection de l'épargne.
 6° Aux opérations d'achat et de vente portant sur les parts émises par les fonds communs de créances.
 
 7° Aux offres publiques de vente et aux opérations liées aux augmentations de capital et à l'introduction d'une valeur à la
-cote officielle ou à la cote du second marché (1).
+cote officielle ou à la cote du second marché (2).
 
-(1) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er novembre 1991.
+(1) Les dispositions de l'article 12 de la loi 92-666 s'appliquent aux opérations conclues à compter du 20 juillet 1992.
+
+(2) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er novembre 1991.
 
 **Liens relatifs à cet article**
 
@@ -57854,8 +57855,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 31 (V) JORF 31 décembre 1991
-  - Modification directe incorporée dans l'édition du 4 juillet 1992
+  - Loi n°92-666 du 16 juillet 1992 - art. 12 () JORF 18 juillet 1992
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 981
