@@ -14,7 +14,7 @@ Les plus-values à long terme visées à l'alinéa précédent ne peuvent être 
 autres éléments de l'actif immobilisé.
 
 En cas de non-respect de cet engagement, il est dû par l'acquéreur, au titre de l'exercice au cours duquel le délai de quatre
-ans a expiré, un complément de droit calculé en tenant compte, selon le cas, du taux mentionné soit au quatrième alinéa du a
+ans a expiré, un complément de droit calculé en tenant compte, selon le cas, du taux mentionné soit au septième alinéa du a
 du I de l'article 219, soit au 1 du II de l'article 39 quindecies, sans préjudice de l'intérêt de retard prévu à l'article
 1727 et compté de la date à laquelle ce droit devait être acquitté.
 
@@ -22,13 +22,23 @@ du I de l'article 219, soit au 1 du II de l'article 39 quindecies, sans préjudi
 
 _Cite_:
 
-  - CGI 1727
-  - CGI 219 I a al. 1, al. 4
-  - CGI 39 quindecies I 1, II 1
+  - CGI 219 I a al. 1, al. 7, 39 quindecies I 1, II 1, 1727
 
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 37 I Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°89-935 1989-12-29 art. 19 Finances pour 1990 JORF 30 décembre 1989
+  - Loi - art. 17 (V) JORF 30 décembre 1990
+
+_Codifié par_:
+
+  - Décret n°92-836 1992-08-27
+  - Décret n°97-661 1997-05-28
+
+**Liens**:
+
+  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
+  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 4 juillet 1992
 
 _Cité par_:
 
