@@ -4,8 +4,7 @@
 39 undecies, les participations versées en espèces aux travailleurs en application d'un accord d'intéressement sont exonérées
 de la taxe sur les salaires prévue à l'article 231.
 
-2. L'attribution gratuite par une société d'actions ou parts sociales de son capital à l'ensemble de son personnel, dans les
-conditions prévues à l'article 220 bis, est également exonérée de la taxe sur les salaires.
+2. (Disjoint).
 
 3. (Périmé).
 
@@ -19,17 +18,17 @@ Cette disposition s'applique à compter du 1er janvier 1991.
 
 _Cite_:
 
-  - CGI 39 undecies, 231, 220 bis
+  - CGI 39 undecies, 231
   - Loi n°1917-04-26
-
-_Modifié par_:
-
-  - Loi n°90-1002 du 7 novembre 1990 - art. 8 (V) JORF 11 novembre 1990
 
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - Décret n°2000-477 2000-06-02
+
+_Modifié par_:
+
+  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
 
 **Liens**:
 
-  - HISTO: Edition du 24 juin 1991
+  - HISTO: Edition du 31 mars 2000

@@ -10,22 +10,30 @@ montant cumulé de la quote-part de loyers déjà acquis prise en compte pour la
 cession éventuelle de l'immeuble à l'issue du contrat sur le total des amortissements pratiqués dans les conditions du 2° du
 1 de l'article 39 et des frais supportés par le crédit-bailleur lors de l'acquisition de l'immeuble.
 
-La provision est rapportée en totalité au résultat imposable de l'exercice au cours duquel la location prend fin (1).
+Ces dispositions sont également applicables aux entreprises qui donnent en location des biens d'équipement ou des matériels
+d'outillage dans les conditions prévues au 1° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 précitée et qui n'ont
+pas opté pour le mode d'amortissement mentionné au quatrième alinéa de l'article 39 C ainsi qu'aux entreprises ayant opté
+pour ce mode d'amortissement, pour les contrats au titre desquels elles cèdent leurs créances de crédit-bail à des fonds
+communs de créances. La provision est alors égale à l'excédent du montant cumulé de la quote-part de loyers déjà acquis,
+prise en compte pour la fixation du prix convenu pour la cession éventuelle du bien ou du matériel à l'issue du contrat, sur
+le total des amortissements pratiqués.
 
-(1) Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 1996.
+La provision est rapportée en totalité au résultat imposable de l'exercice au cours duquel le preneur lève l'option d'achat
+du bien. Lorsque l'option n'est pas levée, la provision est rapportée sur la durée résiduelle d'amortissement, au rythme de
+cet amortissement, et, au plus tard, au résultat imposable de l'exercice au cours duquel le bien est cédé.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39
+  - CGI 39, 39 C
   - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
-  - SPEC_APPLI: Loi n°95-115 1995-02-04 art. 57 XIII, XIV
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 57 () JORF 5 février 1995
+  - Loi - art. 29 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000

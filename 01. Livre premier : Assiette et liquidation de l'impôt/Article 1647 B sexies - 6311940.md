@@ -17,10 +17,6 @@ l'article 1647 C.
 Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 B ni aux prélèvements opérés par l'Etat sur ces taxes en
 application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
 
-Par exception, pour les impositions établies au titre de 1995 , le taux prévu à l'alinéa précédent est porté à 3,8 p. 100
-pour les entreprises dont le chiffre d'affaires de cette même année est compris entre 140 millions de francs et 500 millions
-de francs, et à 4 p. 100 pour celles dont le chiffre d'affaires excède cette dernière limite.
-
 I ter. 1. Pour l'application du plafonnement en fonction de la valeur ajoutée des impositions établies au titre de 1996 et
 des années suivantes, la cotisation de taxe professionnelle s'entend de la somme des cotisations de chaque établissement
 calculées en retenant :
@@ -58,10 +54,10 @@ taux de la commune pour 1995 et le taux de cette collectivité pour l'année d'i
 de coopération intercommunale pour l'année d'imposition si la somme des taux de la commune et de l'établissement public de
 coopération intercommunale pour cette même année est inférieure au taux de la commune pour 1995.
 
-2. Pour l'application des trois premiers alinéas du 1, lorsqu'un établissement public de coopération intercommunale perçoit,
-pour la première fois, à compter de l'année 2000, la taxe professionnelle au lieu et place des communes conformément à
-l'article 1609 nonies C, le taux à retenir pour le calcul de la cotisation éligible au plafonnement est le plus faible des
-deux taux suivants :
+2. Pour l'application du premier alinéa du 1, lorsqu'un établissement public de coopération intercommunale perçoit, pour la
+première fois, à compter de l'année 2000, la taxe professionnelle au lieu et place des communes conformément à l'article 1609
+nonies C, le taux à retenir pour le calcul de la cotisation éligible au plafonnement est le plus faible des deux taux
+suivants :
 
 a. Le taux retenu pour le calcul des cotisations éligibles au plafonnement l'année précédant la première année où
 l'établissement public de coopération intercommunale perçoit la taxe professionnelle conformément à l'article 1609 nonies C
@@ -112,10 +108,6 @@ Lorsqu'en application du deuxième alinéa sont exclus des consommations de bien
 ou redevances que verse le preneur, les amortissements visés au 2° du 1 de l'article 39, autres que ceux comptabilisés en
 amortissements dérogatoires et se rapportant aux biens loués, sont déduits de la valeur ajoutée du bailleur.
 
-Lorsqu'en application du deuxième ou troisième alinéa, les loyers sont exclus des consommations de biens et services en
-provenance de tiers du contribuable qui les verse, les provisions et les amortissements se rapportant aux biens loués sont
-déduits de la valeur ajoutée du bailleur.
-
 3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs
 mobilières est égale à la différence entre :
 
@@ -146,13 +138,13 @@ IV. Les dégrèvements résultant de l'application du présent article sont ordo
 de la demande.
 
 V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour les
-impositions établies au titre de 1994 et 500 millions de francs au titre de 1995.
+impositions établies au titre de 1994 et 500 millions de francs au titre de 1995 et des années suivantes.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1600, 1601 B, 1641, 1647 C, 1647 D, 1609 nonies BA, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609, 1467, 1609 nonies C, 1638 quater
+  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1648, 1599 quinquies, 1607 bis, 1608, 1609, 1467, 39, 50-0, 102 ter
 
 _Cité par_:
 
@@ -177,11 +169,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 128 () JORF 31 décembre 1999
   - Loi - art. 24 () JORF 31 décembre 1999
+
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
 
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 1997-07-31 6E-14-97
-  - TXT_ASSOCIE: Instruction 1998-02-12 6E-4-98
-  - TXT_ASSOCIE: Instruction 2000-01-13 6E-1-00
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 2001-02-20 6E-4-01

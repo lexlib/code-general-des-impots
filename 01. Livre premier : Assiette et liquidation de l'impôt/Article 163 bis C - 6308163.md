@@ -1,9 +1,9 @@
 # Article 163 bis C
 
 I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres, selon le cas, dans des conditions prévues à
-l'article 92 B, 150 A bis ou 160 si les actions acquises revêtent la forme nominative et demeurent indisponibles, suivant des
+l'article 150-0 A ou 150 A bis si les actions acquises revêtent l forme nominative et demeurent indisponibles, suivant des
 modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de cinq années à compter de la date
-d'attribution de l'option (1).
+d'attribution de l'option.
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une mère ou une filiale dont le siège social est
 situé à l'étranger, les obligations déclaratives incombent à la filiale ou à la mère française.
@@ -31,29 +31,17 @@ déterminer le quotient.
 Lorsque le revenu global net est négatif, il est compensé à due concurrence, avec le montant net de l'avantage. L'excédent
 éventuel de ce montant net est ensuite imposé suivant les règles du premier alinéa.
 
-Les dispositions de l'article 163-0 A ne sont pas applicables (2).
-
-(1) Ces dispositions sont applicables aux actions cédées à compter du 1er janvier 1993.
-
-(2) Ces dispositions sont applicables à compter de l'imposition des revenus de 1992 ; elles ne s' appliquent qu'aux seuls
-revenus exceptionnels ou différés imposés d'après le barême progressif prévu à l'article 197 du code général des impôts.
+Les dispositions de l'article 163-0 A ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 80 bis, 92 B, 83 ter, 199 terdecies A, 220 quater, 163-0 A, 197, 150 A bis, 160
+  - CGI 80 bis, 83 ter, 199 terdecies A, 220 quater, 163-0 A, 197, 150 A bis, 150-0 A
 
 _Modifié par_:
 
-  - Loi - art. 74 (V) JORF 5 janvier 1993
-  - Loi n°93-859 1993-06-22 art. 39 I Finances rectificative pour 199 JORF 23 juin 1993
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1476 1992-12-31 art. 74 IV V Finances rectificative pour 1992
-  - HISTO: Edition du 18 août 1993
-  - TXT_ASSOCIE: Instruction 1998-06-18 5F-12-98
+  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
 
 _Cité par_:
 
@@ -66,3 +54,8 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
   - Code monétaire et financier - art. L221-31 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 1998-06-18 5F-12-98

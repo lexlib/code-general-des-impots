@@ -14,8 +14,8 @@ salarié, ainsi qu'à leurs dirigeants soumis au régime fiscal des salariés, d
 d'entreprise, incessibles, et émis dans les conditions prévues à l'article 339-5 de la loi n° 66-537 du 24 juillet 1966
 modifiée sur les sociétés commerciales, lorsque les conditions suivantes sont remplies :
 
-1. La société doit exercer une activité autre que celles mentionnées au deuxième alinéa du 2 du I de l'article 44 sexies et
-être passible en France de l'impôt sur les sociétés ;
+1. La société doit exercer une activité autre que celles mentionnées au quatrième alinéa du I de l'article 44 sexies et être
+passible en France de l'impôt sur les sociétés ;
 
 2. Le capital de la société doit être détenu directement et de manière continue pour 25 % au moins par des personnes
 physiques ou par des personnes morales détenues par des personnes physiques. Pour la détermination de ce pourcentage, les
@@ -48,7 +48,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
+  - Loi - art. 92 () JORF 31 décembre 1999
+
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
 
 _Cité par_:
 
@@ -68,5 +72,6 @@ _Cité par_:
 
 **Liens**:
 
+  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 1998-07-06 5F-13-98
   - TXT_ASSOCIE: Instruction 1999-04-27 5F-11-99
