@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-04-11
+Version Consolidée au 1987-05-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -722,8 +722,8 @@ Version Consolidée au 1987-04-11
                 - [3° : Expéditions en groupage. (art. 940 à 941)](#719)
                 - [4° : Transports routiers. (art. 942)](#720)
                 - [5° : Colis exonérés. (art. 943)](#721)
-          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 946 à 968 A)](#722)
-            - [I : Cartes d'entrée dans les casinos. (art. 946)](#723)
+          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 945 à 968 A)](#722)
+            - [I : Cartes d'entrée dans les casinos. (art. 945 à 946)](#723)
             - [II : Cartes d'identité et de séjour (art. 947 à 952)](#724)
               - [A : Régime normal (art. 947 à 950)](#725)
               - [B : Exonérations (art. 952)](#726)
@@ -36751,6 +36751,43 @@ _Abrogé par_:
 ##### Section II : Droits de délivrance de documents et perceptions diverses<a id=722></a>
 
 ##### I : Cartes d'entrée dans les casinos.<a id=723></a>
+
+###### Article 945
+
+I. Nul ne peut pénétrer dans les salles où, conformément à la loi du 15 juin 1907, les jeux de hasard sont autorisés, sans
+être muni d'une carte délivrée par le directeur de l'établissement et passible d'un droit de timbre (1) dont la quotité est
+fixée comme suit :
+
+50 F si l'entrée est valable pour la journée ;
+
+185 F si l'entrée est valable pour la semaine ;
+
+450 F si l'entrée est valable pour un mois ;
+
+900 F [*montant*] si l'entrée est valable pour la saison.
+
+II. Les dispositions qui précèdent ne sont pas applicables aux cartes d'entrée dans les salles de jeux de boule ainsi que
+dans les salles où sont exploités des appareils de jeux automatiques sauf, dans ce dernier cas, s'il s'agit de salles dont
+l'accès est subordonné à la délivrance d'une carte assujettie au droit de timbre prévu au paragraphe I (2).
+
+(1) Annexe III, art. 313 AR.
+
+(2) Les cartes d'entrée dans les salles de jeux de vingt-trois échappent également au droit de timbre (décret n° 59-1489 du
+22 décembre 1959 art. 14 modifié par le décret n° 87-684 du 20 août 1987).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 313 AR
+  - Décret n°59-1489 1959-12-22
+  - Décret n°87-684 1987-08-20
+  - Loi n°1907-06-15
+
+_Modifié par_:
+
+  - Loi n°87-306 1987-05-05 art. 2 JORF 6 mai 1987
+
 
 ###### Article 946
 
