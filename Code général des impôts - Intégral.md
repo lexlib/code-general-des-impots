@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-10-16
+Version Consolidée au 1986-10-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -167,7 +167,7 @@ Version Consolidée au 1986-10-16
         - [Chapitre III : Taxes diverses (art. 223 decies à 235 ter Y)](#164)
           - [Section 0II : Imposition forfaitaire annuelle des sociétés (art. 223 decies à 223 septies)](#165)
           - [Section I : Taxe d'apprentissage (art. 225 à 230 G)](#166)
-          - [Section II : Taxe sur les salaires (art. 231 bis D à 231 bis L)](#167)
+          - [Section II : Taxe sur les salaires (art. 231 bis C à 231 bis L)](#167)
           - [Section V : Redevance fixe des mines. (art. 234)](#168)
           - [Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction. (art. 235 bis)](#169)
           - [Section VIII : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion. (art. 235 ter)](#170)
@@ -2438,6 +2438,28 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 C bis (P)
 
 
+###### Article 39 undecies
+
+Les entreprises où un accord d'intéressement est mis en oeuvre dans les conditions prévues aux articles 1er à 4 de
+l'ordonnance n° 86-1134 du 21 octobre 1986, relative à l'intéressement et à la participation des salariés aux résultats de
+l'entreprise et à l'actionnariat des salariés, peuvent déduire des bases retenues pour l'assiette de l'impôt sur les sociétés
+ou de l'impôt sur le revenu le montant des participations versées en espèces aux salariés en application de cet accord.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 86-1134 1986-10-21 art. 1 à art. 4
+
+_Modifié par_:
+
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 5 (T) JORF 23 octobre 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+
 ###### Article 40
 
 I. Sous réserve de ce qui est dit à l'article 238 octies, et par dérogation aux dispositions du 1 de l'article 38, les plus-
@@ -4699,6 +4721,60 @@ _Cite_:
 **Liens**:
 
   - HISTO: Edition du 31 mars 2000
+
+_Abrogé par_:
+
+  - Loi - art. 94 (V) JORF 31 décembre 1999
+
+
+###### Article 92 D
+
+Les dispositions de l'articles 92 B ne s'appliquent pas :
+
+1° Aux cessions mentionnées à l'article 160 ;
+
+2° Aux titres cédés dans le cadre de leur gestion par les fonds communs de placement, constitués en application des
+législations sur la participation des salariés aux résultats des entreprises et les plans d'épargne d'entreprise ainsi qu'aux
+rachats de parts de tels fonds ;
+
+3° Aux titres cédés dans le cadre de leur gestion par les autres fonds communs de placement sous réserve qu'aucune personne
+physique agissant directement ou par personne interposée ne possède plus de 10 % des parts du fonds ;
+
+4° A la cession des titres acquis dans le cadre de la législation sur la participation des salariés aux résultats de
+l'entreprise et sur l'actionnariat des salariés, à la condition que ces titres revêtent la forme nominative et comportent la
+mention d'origine.
+
+5° A la cession de titres effectuée dans le cadre d'un engagement d'épargne à long terme lorsque les conditions fixées par
+l'article 163 bis A sont respectées ;
+
+6° Aux profits réalisés dans le cadre des placements en report par les contribuables qui effectuent de tels placements.
+
+**Nota:**
+
+NOTA : Cet article demeure applicable aux plus-values en report d'imposition à la date du 1er janvier 2000. L'imposition de
+ces plus-values est reportée de plein droit lorsque les titres reçus en échange font l'objet d'une nouvelle opération
+d'échange dans les conditions prévues à l'article 150-0 B du code général des impôts.
+
+En cas de vente ultérieure de titres reçus avant le 1er janvier 2000 à l'occasion d'une opération de conversion, de division
+ou de regroupement ainsi qu'en cas de vente ultérieure de titres reçus, avant le 1er janvier 1992, à l'occasion d'une
+opération d'offre publique, de fusion, de scission, d'absorption d'un fonds commun de placement par une société
+d'investissement à capital variable, le gain net est calculé à partir du prix ou de la valeur d'acquisition des titres
+échangés, diminué de la soulte reçue ou majoré de la soulte versée lors de l'échange.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 92 B, 160, 163 bis A, 150-0 B
+
+_Modifié par_:
+
+  - Ordonnance 86-1134 1986-10-21 art. 7 JORF 23 octobre 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 du 23 novembre 1987, v. init.
+  - Décret n°88-1001 1988-10-20
 
 _Abrogé par_:
 
@@ -13142,6 +13218,36 @@ _Codifié par_:
 
 ##### Section II : Taxe sur les salaires<a id=167></a>
 
+###### Article 231 bis C
+
+1. Dans la mesure où elles sont admises en déduction des bénéfices imposables de l'entreprise versante, en vertu de l'article
+39 undecies, les participations versées en espèces aux travailleurs en application d'un accord d'intéressement sont exonérées
+de la taxe sur les salaires prévue à l'article 231.
+
+2. L'attribution gratuite par une société d'actions ou parts sociales de son capital à l'ensemble de son personnel, dans les
+conditions prévues à l'article 220 bis, est également exonérée de la taxe sur les salaires.
+
+3. (Périmé).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 220 bis
+  - CGI 231
+  - CGI 39 undecies
+
+_Modifié par_:
+
+  - Ordonnance 86-1134 1986-10-21 art. 1, art. 5, art. 33  JORF 23 octobre 1986
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 5 (T) JORF 23 octobre 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+
 ###### Article 231 bis D
 
 Les allocations d'assurance et de solidarité versées aux travailleurs involontairement privés d'emploi, en application des
@@ -13176,6 +13282,52 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°84-875 1984-10-01
+
+
+###### Article 231 bis DA
+
+Les sommes portées à la réserve spéciale de participation des salariés aux résultats de l'entreprise conformément aux
+dispositions de l'article 8 de l'ordonnance n° 86-1134 du 21 octobre 1986 sont exonérées de la taxe sur les salaires prévue à
+l'article 231.
+
+Cette exonération s'applique sous réserve du dépôt de l'accord de participation à la direction départementale du travail du
+lieu où il a été conclu.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 231
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 8 (T)
+
+_Modifié par_:
+
+  - Ordonnance 86-1134 1986-10-21 art. 14 JORF 23 octobre 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+
+###### Article 231 bis E
+
+Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise établi conformément aux dispositions du
+chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986 sont exonérées de la taxe sur les salaires prévue à l'article 231.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 231
+  - Ordonnance 86-1134 1986-10-21
+
+_Modifié par_:
+
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 28 (T) JORF 23 octobre 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
 
 
 ###### Article 231 bis G
@@ -13549,26 +13701,18 @@ _Codifié par_:
 
 Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter C :
 
-a. Les titulaires de contrats de travail définis aux articles L. 980-2 et L. 980-6 du code du travail ne sont pas pris en
-compte ;
+a. Jusqu'au terme prévu par le contrat ou, à défaut, jusqu'à l'expiration d'une période de deux ans à compter de sa
+conclusion, les titulaires des contrats de travail définis aux articles L. 980-2 et L. 980-6 du code du travail, ainsi que
+les titulaires des contrats définis à l'article L. 980-14 de ce code, lorsque ces contrats ont été passés dans les conditions
+prévues par l'article L. 322-4-1 du même code, ne sont pas pris en compte ;
 
 b. Les salariés à temps partiel sont pris en compte dans les conditions fixées par l'article L. 212-4-4 du même code ;
 
-c. L'effectif des salariés employés par les entreprises de travail temporaire est calculé dans les conditions fixées au
-troisième alinéa du I de l'article 237 bis A.
-
-(1) Voir Annexe II, art. 163 nonies.
+c. L'effectif des salariés employés par les entreprises de travail temporaire est calculé en ajoutant au nombre des salariés
+permanents le nombre moyen par jour ouvrable des salariés qui ont été liés par un contrat de travail temporaire au cours de
+l'exercice.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 235 ter C
-  - CGI 237 bis à I al. 3
-  - CGIAN2 163 nonies
-  - Code du travail - art. L212-4-4 (M)
-  - Code du travail - art. L980-2 (T)
-  - Code du travail - art. L980-6 (T)
 
 _Anciens textes_:
 
@@ -13576,12 +13720,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°85-772 du 25 juillet 1985 - art. 53 () JORF 26 juillet 1985
-  - Loi n°85-772 du 25 juillet 1985 - art. 54 () JORF 26 juillet 1985
+  - Ordonnance 86-1134 1986-10-21 art. 7 JORF 23 octobre 1986
+  - Loi n°87-518 du 10 juillet 1987 - art. 3 () JORF 12 juillet 1987
 
 _Codifié par_:
 
-  - Décret n°86-1086 1986-10-07
+  - Décret n°87-940 1987-11-23
 
 _Cité par_:
 
@@ -13596,6 +13740,14 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 nonies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 undecies A (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZB (V)
+
+_Cite_:
+
+  - Code du travail - art. L212-4-4 (M)
+  - Code du travail - art. L322-4-1 (M)
+  - Code du travail - art. L980-14 (Ab)
+  - Code du travail - art. L980-2 (T)
+  - Code du travail - art. L980-6 (T)
 
 
 ##### 3° : Calcul et prise en compte de l'effectif salarié<a id=174></a>
@@ -14204,6 +14356,74 @@ _Cite_:
   - Code des débits de boissons L17, L18, L20
 
 
+###### Article 237 bis A
+
+I. Les sommes portées au cours d'un exercice à la réserve spéciale de participation constituée en application du chapitre II
+de l'ordonnance n° 86-1134 du 21 octobre 1986 sont déductibles pour l'assiette de l'impôt sur les sociétés ou de l'impôt sur
+le revenu exigible au titre de l'exercice au cours duquel elles sont réparties entre les salariés. L'application de cette
+disposition est subordonnée au dépôt de l'accord de participation à la direction départementale du travail et de l'emploi du
+lieu où cet accord a été conclu.
+
+II. 1. Les entreprises peuvent constituer, en franchise d'impôt, une provision pour investissement égale à une fraction du
+montant des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des
+bénéfices imposables, qui sont attribuées en plus de la participation de droit commun en application d'accords qui répondent
+aux conditions prévues à l'article 12 de l'ordonnance n° 86-1134 du 21 octobre 1986. Cette fraction est égale à 50 p. 100
+lorsque les accords reconduits ont été signés avant le 1er octobre 1973 et à 30 p. 100 lorsqu'ils l'ont été depuis cette
+date.
+
+Cette fraction est réduite de moitié lorsque les accords prévoient que les sommes attribuées sont indisponibles pendant trois
+ans seulement.
+
+2. Les sociétés anonymes à participation ouvrière peuvent constituer, en franchise d'impôt, à la clôture de chaque exercice,
+une provision pour investissement d'un montant égal à 50 p. 100 des sommes portées à la réserve spéciale de participation au
+cours du même exercice et admises en déduction du bénéfice imposable. Ce montant est porté à 75 p. 100 lorsque les
+entreprises concernées affectent, au titre de chaque exercice, à un compte de réserve non distribuable, par prélèvement sur
+les résultats, une somme égale à 25 p. 100 des sommes portées à la réserve spéciale de participation au cours du même
+exercice et admises en déduction des bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation
+ne peut être répartie qu'entre les seuls détenteurs d'actions de travail.
+
+3. Le montant de la provision pour investissement que les sociétés coopératives ouvrières de production peuvent constituer à
+la clôture d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale de participation au titre du même
+exercice. Les dotations à la réserve légale et au fonds de développement de ces sociétés peuvent tenir lieu, à due
+concurrence, de provision pour investissement.
+
+4. La provision visée aux 1 à 3 est rapportée au bénéfice imposable si elle n'est pas utilisée dans le délai d'un an à
+l'acquisition ou la création d'immobilisations. Ce délai est porté à quatre ans pour les sociétés coopératives ouvrières de
+production lorsque la provision pour investissement est représentée par des dotations à la réserve légale et au fonds de
+développement.
+
+5. Lorsqu'un accord est conclu au sein d'un groupe de sociétés et aboutit à dégager une réserve globale de participation, la
+provision pour investissement est constituée par chacune des sociétés intéressées dans la limite de sa contribution effective
+à la participation globale. Toutefois, chacune de ces sociétés peut, sur autorisation du ministre chargé des finances,
+transférer tout ou partie de son droit à constitution de ladite provision à l'une des autres sociétés du groupe dont il
+s'agit, ou à plusieurs d'entre elles.
+
+III. Les dispositions du présent article s'appliquent pour chaque entreprise au premier jour du premier exercice ouvert après
+le 23 octobre 1986.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance 86-1134 1986-10-21 art. 14 I, IV, art. 32, art. 33  JORF 23 octobre 1986
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 32 () JORF 23 octobre 1986
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+
+_Cite_:
+
+  - Ordonnance 86-1134 1986-10-21 chapitre II, art. 12
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cité par_:
+
+  - Décret n°2014-1758 du 31 décembre 2014 (V)
+  - Code du travail - art. D3325-5 (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 171 bis (V)
+
+
 ###### Article 237 quinquies
 
 Les contributions mises à la charge des employeurs et des membres des professions non salariées, destinées à alimenter les
@@ -14224,6 +14444,28 @@ _Modifié par_:
 
   - Loi n°78-754 1978-07-17 art. 11 JORF 18 juillet 1978
   - Loi n°84-130 1984-02-28 art. 11 III JORF 25 février 1984
+
+
+###### Article 237 ter
+
+Les sommes versées par l'entreprise, en application d'un plan d'épargne d'entreprise établi conformément aux dispositions du
+chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986 relative à l'intéressement et à la participation des salariés aux
+résultats de l'entreprise et à l'actionnariat des salariés sont déduites de son bénéfice pour l'assiette de l'impôt sur le
+revenu ou de l'impôt sur les sociétés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 86-1134 1986-10-21 chapitre III
+
+_Modifié par_:
+
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 28 (T) JORF 23 octobre 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
 
 
 ###### Article 238
