@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1981-08-04
+Version Consolidée au 1981-10-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -1050,7 +1050,7 @@ Version Consolidée au 1981-08-04
       - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 302 bis F à 302 bis J)](#1047)
         - [TAXE DE PROTECTION SANITAIRE ET D'ORGANISATION DES MARCHES DES VIANDES. (art. 302 bis F à 302 bis J)](#1048)
   - [Livre II : Recouvrement de l'impôt (art. 1659 A à 1961 bis)](#1049)
-    - [Chapitre premier : Paiement de l'impôt (art. 1659 A à 1723 terdecies)](#1050)
+    - [Chapitre premier : Paiement de l'impôt (art. 1659 A à 1724 quater)](#1050)
       - [Section I : Impôts directs et taxes assimilées (art. 1659 A à 1691)](#1051)
         - [I : Rôles et avis d'imposition (art. 1659 A à 1660)](#1052)
           - [1 : Établissement et mise en recouvrement des rôles (art. 1659 A)](#1053)
@@ -1087,90 +1087,91 @@ Version Consolidée au 1981-08-04
         - [VII A : Droits de timbre (art. 1723 ter-0 A)](#1084)
         - [VIII : Taxe locale d'équipement (art. 1723 quinquies à 1723 sexies)](#1085)
         - [IX : Versement pour dépassement du plafond légal de densité (1) (art. 1723 decies à 1723 terdecies)](#1086)
-    - [Chapitre II : Pénalités (art. 1725 à 1840 T ter)](#1087)
-      - [Section I : Dispositions communes (art. 1725 à 1756)](#1088)
-        - [A : Sanctions fiscales. (art. 1725 à 1737)](#1089)
-        - [B : Sanctions fiscales (art. 1731)](#1090)
-          - [3 : Retard de paiement des impôts (art. 1731)](#1091)
-            - [b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts (art. 1731)](#1092)
-        - [B : Sanctions pénales. (art. 1742 à 1753 bis A)](#1093)
-        - [C : Autres sanctions et mesures diverses. (art. 1756)](#1094)
-      - [Section II : Dispositions particulières (art. 1758 bis à 1840 T ter)](#1095)
-        - [A : Impôts directs et taxes assimilées (art. 1758 bis à 1783 B)](#1096)
-          - [1 : Majorations de droits (art. 1758 bis à 1762 ter)](#1097)
-          - [2 : Amendes fiscales (art. 1764 à 1770 ter)](#1098)
-          - [3 : Sanctions pénales (art. 1773 à 1783 B)](#1099)
-        - [B : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1784 à 1788 ter)](#1100)
-          - [1 : Sanctions fiscales (art. 1784 à 1788 ter)](#1101)
-        - [C : Contributions indirectes (art. 1791 à 1825 F)](#1102)
-          - [1 : Sanctions fiscales (art. 1791 à 1804 B)](#1103)
-          - [2 : Responsabilité des infractions (art. 1805 à 1809)](#1104)
-          - [3 : Sanctions pénales (art. 1810 à 1821)](#1105)
-          - [4 : Autres sanctions et mesures diverses (art. 1822 à 1825 F)](#1106)
-        - [D : Enregistrement et publicité foncière (art. 1826 à 1840 G ter)](#1107)
-          - [1 : Sanctions fiscales (art. 1826 à 1836)](#1108)
-          - [2 : Sanctions pénales (art. 1838 à 1839)](#1109)
-          - [3 : Autres sanctions et mesures diverses (art. 1840 à 1840 G ter)](#1110)
-        - [E : Droits de timbre, autres droits et taxes (art. 1840 H à 1840 T ter)](#1111)
-          - [1 : Sanctions fiscales (art. 1840 H à 1840 N ter)](#1112)
-          - [2 : Sanctions pénales (art. 1840 P à 1840 Q)](#1113)
-          - [3 : Autres sanctions et mesures diverses (art. 1840 S à 1840 T ter)](#1114)
-    - [Chapitre III : Procédures (art. 1849 à 1919)](#1115)
-      - [Section I : Impôts directs et taxes assimilées (art. 1849 à 1851)](#1116)
-      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes (art. 1881 à 1894)](#1117)
-        - [I : Modes de preuve - Constatation des infractions (art. 1881 à 1883)](#1118)
-          - [2 : Mutations (art. 1881 à 1883)](#1119)
-        - [II : Poursuites et instances (art. 1894)](#1120)
-      - [Section V : Dispositions communes (art. 1919)](#1121)
-        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 1919)](#1122)
-    - [Chapitre IV : Sûretés et privilèges (art. 1923)](#1123)
-      - [Section I : Impôts directs et taxes assimilées (art. 1923)](#1124)
-    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1930 à 1961 bis)](#1125)
-      - [Section I (art. 1930)](#1126)
-      - [Section II : Juridiction contentieuse (art. 1960 à 1965 E)](#1127)
-        - [7 : Dispositions particulières aux impôts directs et taxes assimilées (art. 1960)](#1128)
-        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#1129)
-      - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis)](#1130)
-  - [RECOUVREMENT DE L'IMPOT (art. 1657 à 2026)](#1131)
-    - [PAIEMENT DE L'IMPOT (art. 1657 à 1724 ter)](#1132)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1657 à 1685)](#1133)
-      - [IMPOTS DIRECTS. (art. 1664 à 1668 bis)](#1134)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1693 bis)](#1135)
-      - [CONTRIBUTIONS INDIRECTES (VOIR ANNEXE IV ART. 193) (art. 1698 à 1699)](#1136)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A à 1723 undecies)](#1137)
-      - [DISPOSITIONS COMMUNES. (art. 1724 à 1724 ter)](#1138)
-    - [PENALITES (art. 1726 à 1840 W bis)](#1139)
-      - [DISPOSITIONS COMMUNES. (art. 1726 à 1756 ter)](#1140)
-      - [DISPOSITIONS PARTICULIERES. (art. 1757 à 1840 W bis)](#1141)
-    - [PROCEDURES (art. 1841 à 1918)](#1142)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1841 à 1850)](#1143)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1852 à 1852 ter)](#1144)
-      - [CONTRIBUTIONS INDIRECTES. (art. 1853 à 1879)](#1145)
-      - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES. (art. 1880 à 1893)](#1146)
-      - [DROITS DE TIMBRE. (art. 1888 à 1891)](#1147)
-      - [DISPOSITIONS COMMUNES. (art. 1906 à 1918)](#1148)
-    - [SURETES ET PRIVILEGES (art. 1920 à 1929 ter)](#1149)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1920 à 1925)](#1150)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1926 à 1926 bis)](#1151)
-      - [CONTRIBUTIONS INDIRECTES. (art. 1927 à 1928)](#1152)
-      - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT. (art. 1929 à 1929 A)](#1153)
-      - [DISPOSITIONS COMMUNES. (art. 1929 bis à 1929 ter)](#1154)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 1965 FA à 1965 J)](#1155)
-      - [JURIDICTION CONTENTIEUSE. (art. 1931 à 1965 D)](#1156)
-      - [JURIDICTION GRACIEUSE. (art. 1965 G à 1965 J)](#1157)
-    - [PRESCRIPTIONS (art. 1966 à 1976)](#1158)
-      - [DISPOSITIONS PARTICULIERES. (art. 1966 à 1973 ter)](#1159)
-      - [DISPOSITIONS COMMUNES (1). (art. 1974 à 1976)](#1160)
-    - [DROIT DE COMMUNICATION (art. 1987 à 2003)](#1161)
-      - [DROIT DE COMMUNICATION AUPRES DES ADMINISTRATIONS PUBLIQUES. (art. 1987 à 1990)](#1162)
-      - [DROIT DE COMMUNICATION AUPRES DES ENTREPRISES PRIVEES (1). (art. 1991 à 1993)](#1163)
-      - [DISPOSITIONS PARTICULIERES. (art. 1994 à 2001 ter)](#1164)
-      - [DISPOSITIONS COMMUNES. (art. 2002 à 2003)](#1165)
-    - [SECRET PROFESSIONNEL. (art. 2006 à 2026)](#1166)
-  - [REMISES ET TRANSACTIONS (art. 1965 I)](#1167)
-    - [RECOUVREMENT DE L'IMPOT (art. 1965 I)](#1168)
-      - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 1965 I)](#1169)
-        - [JURIDICTION GRACIEUSE. (art. 1965 I)](#1170)
+      - [Section V : Dispositions communes (art. 1724 quater)](#1087)
+    - [Chapitre II : Pénalités (art. 1725 à 1840 T ter)](#1088)
+      - [Section I : Dispositions communes (art. 1725 à 1756)](#1089)
+        - [A : Sanctions fiscales. (art. 1725 à 1737)](#1090)
+        - [B : Sanctions fiscales (art. 1731)](#1091)
+          - [3 : Retard de paiement des impôts (art. 1731)](#1092)
+            - [b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts (art. 1731)](#1093)
+        - [B : Sanctions pénales. (art. 1742 à 1753 bis A)](#1094)
+        - [C : Autres sanctions et mesures diverses. (art. 1756)](#1095)
+      - [Section II : Dispositions particulières (art. 1758 bis à 1840 T ter)](#1096)
+        - [A : Impôts directs et taxes assimilées (art. 1758 bis à 1783 B)](#1097)
+          - [1 : Majorations de droits (art. 1758 bis à 1762 ter)](#1098)
+          - [2 : Amendes fiscales (art. 1764 à 1770 ter)](#1099)
+          - [3 : Sanctions pénales (art. 1773 à 1783 B)](#1100)
+        - [B : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1784 à 1788 ter)](#1101)
+          - [1 : Sanctions fiscales (art. 1784 à 1788 ter)](#1102)
+        - [C : Contributions indirectes (art. 1791 à 1825 F)](#1103)
+          - [1 : Sanctions fiscales (art. 1791 à 1804 B)](#1104)
+          - [2 : Responsabilité des infractions (art. 1805 à 1809)](#1105)
+          - [3 : Sanctions pénales (art. 1810 à 1821)](#1106)
+          - [4 : Autres sanctions et mesures diverses (art. 1822 à 1825 F)](#1107)
+        - [D : Enregistrement et publicité foncière (art. 1826 à 1840 G ter)](#1108)
+          - [1 : Sanctions fiscales (art. 1826 à 1836)](#1109)
+          - [2 : Sanctions pénales (art. 1838 à 1839)](#1110)
+          - [3 : Autres sanctions et mesures diverses (art. 1840 à 1840 G ter)](#1111)
+        - [E : Droits de timbre, autres droits et taxes (art. 1840 H à 1840 T ter)](#1112)
+          - [1 : Sanctions fiscales (art. 1840 H à 1840 N ter)](#1113)
+          - [2 : Sanctions pénales (art. 1840 P à 1840 Q)](#1114)
+          - [3 : Autres sanctions et mesures diverses (art. 1840 S à 1840 T ter)](#1115)
+    - [Chapitre III : Procédures (art. 1849 à 1919)](#1116)
+      - [Section I : Impôts directs et taxes assimilées (art. 1849 à 1851)](#1117)
+      - [Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes (art. 1881 à 1894)](#1118)
+        - [I : Modes de preuve - Constatation des infractions (art. 1881 à 1883)](#1119)
+          - [2 : Mutations (art. 1881 à 1883)](#1120)
+        - [II : Poursuites et instances (art. 1894)](#1121)
+      - [Section V : Dispositions communes (art. 1919)](#1122)
+        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 1919)](#1123)
+    - [Chapitre IV : Sûretés et privilèges (art. 1923)](#1124)
+      - [Section I : Impôts directs et taxes assimilées (art. 1923)](#1125)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1930 à 1961 bis)](#1126)
+      - [Section I (art. 1930)](#1127)
+      - [Section II : Juridiction contentieuse (art. 1960 à 1965 E)](#1128)
+        - [7 : Dispositions particulières aux impôts directs et taxes assimilées (art. 1960)](#1129)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1961 à 1965 E)](#1130)
+      - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances. (art. 1961 bis)](#1131)
+  - [RECOUVREMENT DE L'IMPOT (art. 1657 à 2026)](#1132)
+    - [PAIEMENT DE L'IMPOT (art. 1657 à 1724 ter)](#1133)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1657 à 1685)](#1134)
+      - [IMPOTS DIRECTS. (art. 1664 à 1668 bis)](#1135)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1693 bis)](#1136)
+      - [CONTRIBUTIONS INDIRECTES (VOIR ANNEXE IV ART. 193) (art. 1698 à 1699)](#1137)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1716 A à 1723 undecies)](#1138)
+      - [DISPOSITIONS COMMUNES. (art. 1724 à 1724 ter)](#1139)
+    - [PENALITES (art. 1726 à 1840 W bis)](#1140)
+      - [DISPOSITIONS COMMUNES. (art. 1726 à 1756 ter)](#1141)
+      - [DISPOSITIONS PARTICULIERES. (art. 1757 à 1840 W bis)](#1142)
+    - [PROCEDURES (art. 1841 à 1918)](#1143)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1841 à 1850)](#1144)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1852 à 1852 ter)](#1145)
+      - [CONTRIBUTIONS INDIRECTES. (art. 1853 à 1879)](#1146)
+      - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES. (art. 1880 à 1893)](#1147)
+      - [DROITS DE TIMBRE. (art. 1888 à 1891)](#1148)
+      - [DISPOSITIONS COMMUNES. (art. 1906 à 1918)](#1149)
+    - [SURETES ET PRIVILEGES (art. 1920 à 1929 ter)](#1150)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 1920 à 1925)](#1151)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 1926 à 1926 bis)](#1152)
+      - [CONTRIBUTIONS INDIRECTES. (art. 1927 à 1928)](#1153)
+      - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT. (art. 1929 à 1929 A)](#1154)
+      - [DISPOSITIONS COMMUNES. (art. 1929 bis à 1929 ter)](#1155)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 1965 FA à 1965 J)](#1156)
+      - [JURIDICTION CONTENTIEUSE. (art. 1931 à 1965 D)](#1157)
+      - [JURIDICTION GRACIEUSE. (art. 1965 G à 1965 J)](#1158)
+    - [PRESCRIPTIONS (art. 1966 à 1976)](#1159)
+      - [DISPOSITIONS PARTICULIERES. (art. 1966 à 1973 ter)](#1160)
+      - [DISPOSITIONS COMMUNES (1). (art. 1974 à 1976)](#1161)
+    - [DROIT DE COMMUNICATION (art. 1987 à 2003)](#1162)
+      - [DROIT DE COMMUNICATION AUPRES DES ADMINISTRATIONS PUBLIQUES. (art. 1987 à 1990)](#1163)
+      - [DROIT DE COMMUNICATION AUPRES DES ENTREPRISES PRIVEES (1). (art. 1991 à 1993)](#1164)
+      - [DISPOSITIONS PARTICULIERES. (art. 1994 à 2001 ter)](#1165)
+      - [DISPOSITIONS COMMUNES. (art. 2002 à 2003)](#1166)
+    - [SECRET PROFESSIONNEL. (art. 2006 à 2026)](#1167)
+  - [REMISES ET TRANSACTIONS (art. 1965 I)](#1168)
+    - [RECOUVREMENT DE L'IMPOT (art. 1965 I)](#1169)
+      - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 1965 I)](#1170)
+        - [JURIDICTION GRACIEUSE. (art. 1965 I)](#1171)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -59975,11 +59976,51 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Chapitre II : Pénalités<a id=1087></a>
+### Section V : Dispositions communes<a id=1087></a>
 
-### Section I : Dispositions communes<a id=1088></a>
+###### Article 1724 quater
 
-#### A : Sanctions fiscales.<a id=1089></a>
+Celui qui, en application des dispositions des articles L 324-9 à L 324-13 du code du travail, relatifs au travail
+clandestin, a été condamné pour avoir recouru aux services d'un travailleur clandestin est tenu solidairement avec celui-ci
+au paiement des impôts et taxes dus par ce dernier au Trésor, à raison des travaux ou services effectués pour son compte.
+
+En ce qui concerne les impôts et taxes établis annuellement, le paiement exigible en vertu du premier alinéa est fixé au
+prorata de la valeur des travaux ou services exécutés par le travailleur clandestin.
+
+Celui qui confie à un entrepreneur inscrit au registre du commerce ou au répertoire des métiers l'exécution d'un certain
+travail ou la fourniture de certains services, alors que cet entrepreneur, ne possédant manifestement pas lui-même les moyens
+pour assurer ces prestations, les sous-traite à son tour à un entrepreneur clandestin, est tenu obligatoirement avec celui
+avec lequel il a traité et l'entrepreneur clandestin au paiement des impôts et taxes dus au Trésor à raison des travaux ou
+services effectués pour son compte.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°81-941 1981-10-17 art. 5 : Code du travail art. L324 JORF 20 octobre 1981
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+_Anciens textes_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1724 quater A (T)
+
+_Cite_:
+
+  - Code du travail - art. L324-10 (M)
+  - Code du travail - art. L324-11 (M)
+  - Code du travail - art. L324-12 (M)
+  - Code du travail - art. L324-13 (M)
+  - Code du travail - art. L324-9 (M)
+
+
+## Chapitre II : Pénalités<a id=1088></a>
+
+### Section I : Dispositions communes<a id=1089></a>
+
+#### A : Sanctions fiscales.<a id=1090></a>
 
 ###### Article 1725
 
@@ -60035,11 +60076,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. L80 H (V)
 
 
-#### B : Sanctions fiscales<a id=1090></a>
+#### B : Sanctions fiscales<a id=1091></a>
 
-##### 3 : Retard de paiement des impôts<a id=1091></a>
+##### 3 : Retard de paiement des impôts<a id=1092></a>
 
-##### b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts<a id=1092></a>
+##### b : Retard de paiement des impôts recouvrés par les comptables de la direction générale des impôts<a id=1093></a>
 
 ###### Article 1731
 
@@ -60099,7 +60140,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### B : Sanctions pénales.<a id=1093></a>
+#### B : Sanctions pénales.<a id=1094></a>
 
 ###### Article 1742
 
@@ -60387,7 +60428,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L143 (V)
 
 
-#### C : Autres sanctions et mesures diverses.<a id=1094></a>
+#### C : Autres sanctions et mesures diverses.<a id=1095></a>
 
 ###### Article 1756
 
@@ -60416,11 +60457,11 @@ _Cite_:
   - CGI 1734
 
 
-### Section II : Dispositions particulières<a id=1095></a>
+### Section II : Dispositions particulières<a id=1096></a>
 
-#### A : Impôts directs et taxes assimilées<a id=1096></a>
+#### A : Impôts directs et taxes assimilées<a id=1097></a>
 
-##### 1 : Majorations de droits<a id=1097></a>
+##### 1 : Majorations de droits<a id=1098></a>
 
 ###### Article 1758 bis
 
@@ -60525,7 +60566,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
 
 
-##### 2 : Amendes fiscales<a id=1098></a>
+##### 2 : Amendes fiscales<a id=1099></a>
 
 ###### Article 1764
 
@@ -60717,7 +60758,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
 
 
-##### 3 : Sanctions pénales<a id=1099></a>
+##### 3 : Sanctions pénales<a id=1100></a>
 
 ###### Article 1773
 
@@ -60915,9 +60956,9 @@ _Cite_:
   - CGI 1770 ter, 242 ter, 1743
 
 
-#### B : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1100></a>
+#### B : Taxes sur le chiffre d'affaires et taxes assimilées<a id=1101></a>
 
-##### 1 : Sanctions fiscales<a id=1101></a>
+##### 1 : Sanctions fiscales<a id=1102></a>
 
 ###### Article 1784
 
@@ -61005,9 +61046,9 @@ _Transféré par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### C : Contributions indirectes<a id=1102></a>
+#### C : Contributions indirectes<a id=1103></a>
 
-##### 1 : Sanctions fiscales<a id=1103></a>
+##### 1 : Sanctions fiscales<a id=1104></a>
 
 ###### Article 1791
 
@@ -61229,7 +61270,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L235 (V)
 
 
-##### 2 : Responsabilité des infractions<a id=1104></a>
+##### 2 : Responsabilité des infractions<a id=1105></a>
 
 ###### Article 1805
 
@@ -61304,7 +61345,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1810 (V)
 
 
-##### 3 : Sanctions pénales<a id=1105></a>
+##### 3 : Sanctions pénales<a id=1106></a>
 
 ###### Article 1810
 
@@ -61566,7 +61607,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 4 : Autres sanctions et mesures diverses<a id=1106></a>
+##### 4 : Autres sanctions et mesures diverses<a id=1107></a>
 
 ###### Article 1822
 
@@ -61761,9 +61802,9 @@ _Cite_:
   - Code pénal 373
 
 
-#### D : Enregistrement et publicité foncière<a id=1107></a>
+#### D : Enregistrement et publicité foncière<a id=1108></a>
 
-##### 1 : Sanctions fiscales<a id=1108></a>
+##### 1 : Sanctions fiscales<a id=1109></a>
 
 ###### Article 1826
 
@@ -61840,7 +61881,7 @@ _Codifié par_:
   - Décret n°2006-356 2006-03-24
 
 
-##### 2 : Sanctions pénales<a id=1109></a>
+##### 2 : Sanctions pénales<a id=1110></a>
 
 ###### Article 1838
 
@@ -61869,7 +61910,7 @@ prononcées pour le faux.
 
 
 
-##### 3 : Autres sanctions et mesures diverses<a id=1110></a>
+##### 3 : Autres sanctions et mesures diverses<a id=1111></a>
 
 ###### Article 1840
 
@@ -62067,9 +62108,9 @@ _Cité par_:
   - Code rural - art. L142-3 (V)
 
 
-#### E : Droits de timbre, autres droits et taxes<a id=1111></a>
+#### E : Droits de timbre, autres droits et taxes<a id=1112></a>
 
-##### 1 : Sanctions fiscales<a id=1112></a>
+##### 1 : Sanctions fiscales<a id=1113></a>
 
 ###### Article 1840 H
 
@@ -62137,7 +62178,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2 : Sanctions pénales<a id=1113></a>
+##### 2 : Sanctions pénales<a id=1114></a>
 
 ###### Article 1840 P
 
@@ -62185,7 +62226,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3 : Autres sanctions et mesures diverses<a id=1114></a>
+##### 3 : Autres sanctions et mesures diverses<a id=1115></a>
 
 ###### Article 1840 S
 
@@ -62344,9 +62385,9 @@ _Abrogé par_:
   - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
 
 
-## Chapitre III : Procédures<a id=1115></a>
+## Chapitre III : Procédures<a id=1116></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=1116></a>
+### Section I : Impôts directs et taxes assimilées<a id=1117></a>
 
 ###### Article 1849
 
@@ -62381,11 +62422,11 @@ _Cite_:
   - Loi n°63-156 du 23 février 1963 - art. 60, v. init.
 
 
-### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes<a id=1117></a>
+### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes<a id=1118></a>
 
-#### I : Modes de preuve - Constatation des infractions<a id=1118></a>
+#### I : Modes de preuve - Constatation des infractions<a id=1119></a>
 
-##### 2 : Mutations<a id=1119></a>
+##### 2 : Mutations<a id=1120></a>
 
 ###### Article 1881
 
@@ -62414,7 +62455,7 @@ imposées aux fermiers, locataires et détenteurs temporaires.
 
 
 
-#### II : Poursuites et instances<a id=1120></a>
+#### II : Poursuites et instances<a id=1121></a>
 
 ###### Article 1894
 
@@ -62424,9 +62465,9 @@ comptes. L'état est taxé sans frais par le tribunal de grande instance du dép
 
 
 
-### Section V : Dispositions communes<a id=1121></a>
+### Section V : Dispositions communes<a id=1122></a>
 
-#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=1122></a>
+#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=1123></a>
 
 ###### Article 1919
 
@@ -62439,9 +62480,9 @@ _Nouveaux textes_:
   - CGI 1947 2, 1956 1, 3
 
 
-## Chapitre IV : Sûretés et privilèges<a id=1123></a>
+## Chapitre IV : Sûretés et privilèges<a id=1124></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=1124></a>
+### Section I : Impôts directs et taxes assimilées<a id=1125></a>
 
 ###### Article 1923
 
@@ -62457,9 +62498,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1929 (VD)
 
 
-## Chapitre V : Dégrèvements et restitutions d'impôts<a id=1125></a>
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=1126></a>
 
-### Section I<a id=1126></a>
+### Section I<a id=1127></a>
 
 ###### Article 1930
 
@@ -62499,9 +62540,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L281
 
 
-### Section II : Juridiction contentieuse<a id=1127></a>
+### Section II : Juridiction contentieuse<a id=1128></a>
 
-#### 7 : Dispositions particulières aux impôts directs et taxes assimilées<a id=1128></a>
+#### 7 : Dispositions particulières aux impôts directs et taxes assimilées<a id=1129></a>
 
 ###### Article 1960
 
@@ -62524,7 +62565,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
 
 
-#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=1129></a>
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=1130></a>
 
 ###### Article 1961
 
@@ -62642,7 +62683,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances.<a id=1130></a>
+### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances.<a id=1131></a>
 
 ###### Article 1961 bis
 
@@ -62672,11 +62713,11 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-# RECOUVREMENT DE L'IMPOT<a id=1131></a>
+# RECOUVREMENT DE L'IMPOT<a id=1132></a>
 
-## PAIEMENT DE L'IMPOT<a id=1132></a>
+## PAIEMENT DE L'IMPOT<a id=1133></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1133></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1134></a>
 
 ###### Article 1657
 
@@ -63229,7 +63270,7 @@ _Cité par_:
   - Loi n°2007-1822 du 24 décembre 2007 - art. 9 (V)
 
 
-### IMPOTS DIRECTS.<a id=1134></a>
+### IMPOTS DIRECTS.<a id=1135></a>
 
 ###### Article 1664
 
@@ -63397,7 +63438,7 @@ _Abrogé par_:
   - Loi n°81-1180 du 31 décembre 1981 - art. 4 () JORF 1 JANVIER 1982
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1135></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1136></a>
 
 ###### Article 1693 bis
 
@@ -63441,7 +63482,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### CONTRIBUTIONS INDIRECTES (VOIR ANNEXE IV ART. 193)<a id=1136></a>
+### CONTRIBUTIONS INDIRECTES (VOIR ANNEXE IV ART. 193)<a id=1137></a>
 
 ###### Article 1698
 
@@ -63553,7 +63594,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=1137></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=1138></a>
 
 ###### Article 1716 A
 
@@ -63750,7 +63791,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS COMMUNES.<a id=1138></a>
+### DISPOSITIONS COMMUNES.<a id=1139></a>
 
 ###### Article 1724
 
@@ -63818,34 +63859,6 @@ _Abrogé par_:
   - Loi n°85-1403 du 30 décembre 1985 - art. 65 ()
 
 
-###### Article 1724 quater
-
-Celui qui, en application des dispositions des articles L 324-9 à L 324-13 du code du travail, relatifs au travail
-clandestin, a été condamné pour avoir recouru aux services d'un travailleur clandestin est tenu solidairement avec celui-ci
-au paiement des impôts et taxes dus par ce dernier au Trésor, à raison des travaux ou services effectués pour son compte.
-
-En ce qui concerne les impôts et taxes établis annuellement, le paiement exigible en vertu du premier alinéa est fixé au
-prorata de la valeur des travaux ou services exécutés par le travailleur clandestin.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1724 quater A (T)
-
-_Cite_:
-
-  - Code du travail - art. L324-10 (M)
-  - Code du travail - art. L324-11 (M)
-  - Code du travail - art. L324-12 (M)
-  - Code du travail - art. L324-13 (M)
-  - Code du travail - art. L324-9 (M)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 1724 ter
 
 Lorsque le recouvrement des impositions de toute nature et pénalités fiscales visées à l'article 1907, dues par une société à
@@ -63879,9 +63892,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L. 266
 
 
-## PENALITES<a id=1139></a>
+## PENALITES<a id=1140></a>
 
-### DISPOSITIONS COMMUNES.<a id=1140></a>
+### DISPOSITIONS COMMUNES.<a id=1141></a>
 
 ###### Article 1726
 
@@ -64911,7 +64924,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS PARTICULIERES.<a id=1141></a>
+### DISPOSITIONS PARTICULIERES.<a id=1142></a>
 
 ###### Article 1757
 
@@ -66439,9 +66452,9 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-## PROCEDURES<a id=1142></a>
+## PROCEDURES<a id=1143></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1143></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1144></a>
 
 ###### Article 1841
 
@@ -66744,7 +66757,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L. 274
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1144></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1145></a>
 
 ###### Article 1852
 
@@ -66834,7 +66847,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### CONTRIBUTIONS INDIRECTES.<a id=1145></a>
+### CONTRIBUTIONS INDIRECTES.<a id=1146></a>
 
 ###### Article 1853
 
@@ -67401,7 +67414,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - Art. L. 248
 
 
-### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES.<a id=1146></a>
+### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES.<a id=1147></a>
 
 ###### Article 1880
 
@@ -67580,7 +67593,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### DROITS DE TIMBRE.<a id=1147></a>
+### DROITS DE TIMBRE.<a id=1148></a>
 
 ###### Article 1888
 
@@ -67669,7 +67682,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - Art. L. 217
 
 
-### DISPOSITIONS COMMUNES.<a id=1148></a>
+### DISPOSITIONS COMMUNES.<a id=1149></a>
 
 ###### Article 1906
 
@@ -68012,9 +68025,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L257
 
 
-## SURETES ET PRIVILEGES<a id=1149></a>
+## SURETES ET PRIVILEGES<a id=1150></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1150></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=1151></a>
 
 ###### Article 1920
 
@@ -68223,7 +68236,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L264 (AL. 2)
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1151></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=1152></a>
 
 ###### Article 1926
 
@@ -68295,7 +68308,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L264
 
 
-### CONTRIBUTIONS INDIRECTES.<a id=1152></a>
+### CONTRIBUTIONS INDIRECTES.<a id=1153></a>
 
 ###### Article 1927
 
@@ -68336,7 +68349,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT.<a id=1153></a>
+### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, AUTRES DROITS ET TAXES ASSIMILES, CREANCES RECOUVREES COMME EN MATIERE D'ENREGISTREMENT.<a id=1154></a>
 
 ###### Article 1929
 
@@ -68406,7 +68419,7 @@ droit.
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS COMMUNES.<a id=1154></a>
+### DISPOSITIONS COMMUNES.<a id=1155></a>
 
 ###### Article 1929 bis
 
@@ -68538,7 +68551,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=1155></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=1156></a>
 
 ###### Article 1965 FA
 
@@ -68563,7 +68576,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### JURIDICTION CONTENTIEUSE.<a id=1156></a>
+### JURIDICTION CONTENTIEUSE.<a id=1157></a>
 
 ###### Article 1931
 
@@ -69994,7 +70007,7 @@ _Cite_:
   - Ordonnance 1944-11-14 ART. 12, ART. 13
 
 
-### JURIDICTION GRACIEUSE.<a id=1157></a>
+### JURIDICTION GRACIEUSE.<a id=1158></a>
 
 ###### Article 1965 G
 
@@ -70125,9 +70138,9 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## PRESCRIPTIONS<a id=1158></a>
+## PRESCRIPTIONS<a id=1159></a>
 
-### DISPOSITIONS PARTICULIERES.<a id=1159></a>
+### DISPOSITIONS PARTICULIERES.<a id=1160></a>
 
 ###### Article 1966
 
@@ -70486,7 +70499,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales L184
 
 
-### DISPOSITIONS COMMUNES (1).<a id=1160></a>
+### DISPOSITIONS COMMUNES (1).<a id=1161></a>
 
 ###### Article 1974
 
@@ -70624,9 +70637,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L188
 
 
-## DROIT DE COMMUNICATION<a id=1161></a>
+## DROIT DE COMMUNICATION<a id=1162></a>
 
-### DROIT DE COMMUNICATION AUPRES DES ADMINISTRATIONS PUBLIQUES.<a id=1162></a>
+### DROIT DE COMMUNICATION AUPRES DES ADMINISTRATIONS PUBLIQUES.<a id=1163></a>
 
 ###### Article 1987
 
@@ -70741,7 +70754,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L100
 
 
-### DROIT DE COMMUNICATION AUPRES DES ENTREPRISES PRIVEES (1).<a id=1163></a>
+### DROIT DE COMMUNICATION AUPRES DES ENTREPRISES PRIVEES (1).<a id=1164></a>
 
 ###### Article 1991
 
@@ -70809,7 +70822,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS PARTICULIERES.<a id=1164></a>
+### DISPOSITIONS PARTICULIERES.<a id=1165></a>
 
 ###### Article 1994
 
@@ -71131,7 +71144,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS COMMUNES.<a id=1165></a>
+### DISPOSITIONS COMMUNES.<a id=1166></a>
 
 ###### Article 2002
 
@@ -71210,7 +71223,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-## SECRET PROFESSIONNEL.<a id=1166></a>
+## SECRET PROFESSIONNEL.<a id=1167></a>
 
 ###### Article 2006
 
@@ -72316,13 +72329,13 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L138
 
 
-# REMISES ET TRANSACTIONS<a id=1167></a>
+# REMISES ET TRANSACTIONS<a id=1168></a>
 
-## RECOUVREMENT DE L'IMPOT<a id=1168></a>
+## RECOUVREMENT DE L'IMPOT<a id=1169></a>
 
-### DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=1169></a>
+### DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=1170></a>
 
-#### JURIDICTION GRACIEUSE.<a id=1170></a>
+#### JURIDICTION GRACIEUSE.<a id=1171></a>
 
 ###### Article 1965 I
 
