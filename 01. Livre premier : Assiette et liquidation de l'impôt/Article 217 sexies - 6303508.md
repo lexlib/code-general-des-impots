@@ -1,7 +1,7 @@
 # Article 217 sexies
 
-Le versement complémentaire de l'entreprise [*abondement*] effectué à l'occasion de l'émission ou de l'achat en bourse
-d'actions réservées aux salariés et mentionné aux articles 208-14 et 208-18 de la loi n° 66-537 du 24 juillet 1966 (1) est
+Le versement complémentaire de l'entreprise effectué à l'occasion de l'émission ou de l'achat en bourse d'actions réservées
+aux salariés et mentionné aux articles 208-14 et 208-18 ((modifiés)) (M) de la loi n° 66-537 du 24 juillet 1966 (1) est
 déductible de son bénéfice pour l'assiette de l'impôt sur les sociétés.
 
 Il en est de même du versement complémentaire effectué par les sociétés coopératives ouvrières de production en application
@@ -10,14 +10,20 @@ sociales destinées exclusivement à leurs salariés.
 
 (1) Cf. Loi n° 73-1196 du 27 décembre 1973.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 27 octobre 1995
 
 _Cite_:
 
-  - Loi n°66-537 1966-07-24 ART. 208 14, 18
+  - Loi n°66-537 1966-07-24 art. 208-14, 208-18
   - Loi n°73-1196 1973-12-27
   - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
+
+_Modifié par_:
+
+  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
