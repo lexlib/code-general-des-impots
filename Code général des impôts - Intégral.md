@@ -1,7 +1,7 @@
 # Code général des impôts  
-Version Consolidée au 1978-12-30
+Version Consolidée au 1979-01-01
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 40 à 1618 septies)](#1)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 40 à 1649 quater E-O bis)](#1)
     - [Première Partie : Impôts d'État (art. 40 à 1090 A)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 40 à 247)](#3)
         - [Chapitre premier : Impôt sur le revenu (art. 40 à 151 sexies)](#4)
@@ -62,53 +62,60 @@ Version Consolidée au 1978-12-30
         - [Chapitre II : Contributions indirectes (art. 1618 septies)](#59)
           - [Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles (art. 1618 septies)](#60)
             - [J : Farines. (art. 1618 septies)](#61)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 80 bis à 1628 quater)](#62)
-    - [IMPOTS D'ETAT (art. 80 bis à 862)](#63)
-      - [IMPOTS DIRECTS (art. 80 bis à 219)](#64)
-        - [IMPOT SUR LE REVENU (art. 80 bis)](#65)
-          - [REVENUS IMPOSABLES. (art. 80 bis)](#66)
-        - [IMPOT SUR LES BENEFICES DES SOCIETES *IS* ET AUTRES PERSONNES MORALES (art. 219)](#67)
-          - [CALCUL DE L'IMPOT. (art. 219)](#68)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 209 sexies à 227)](#69)
-        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES (art. 209 sexies)](#70)
-          - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 209 sexies)](#71)
-        - [TAXES DIVERSES (art. 224 à 227)](#72)
-          - [TAXE D'APPRENTISSAGE. (art. 224 à 227)](#73)
-      - [CONTRIBUTIONS INDIRECTES (art. 564 ter à 564 quinquies)](#74)
-        - [REGIME ECONOMIQUE DU SUCRE. (art. 564 ter)](#75)
-        - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#76)
-      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 635 à 862)](#77)
-        - [DISPOSITIONS GENERALES (art. 635)](#78)
-        - [OBLIGATIONS DIVERSES. (art. 862)](#79)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563 à 1585 C)](#80)
-      - [IMPOSITIONS COMMUNALES (art. 1563 à 1585 C)](#81)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#82)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#83)
-        - [ENREGISTREMENT (art. 1585 C)](#84)
-          - [TAXE LOCALE D'EQUIPEMENT. (art. 1585 C)](#85)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#86)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#87)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#88)
-  - [Livre II : Recouvrement de l'impôt (art. 1694 bis à 1965 E)](#89)
-    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis à 1705)](#90)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#91)
-        - [III bis : Régime simplifié (art. 1694 bis)](#92)
-      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1703 à 1705)](#93)
-        - [II : Obligations des agents (art. 1703)](#94)
-        - [III : Obligation au paiement (art. 1705)](#95)
-    - [Chapitre II : Pénalités (art. 1753 bis A à 1800)](#96)
-      - [Section I : Dispositions communes (art. 1753 bis A)](#97)
-        - [B : Sanctions pénales. (art. 1753 bis A)](#98)
-      - [Section II : Dispositions particulières (art. 1800)](#99)
-        - [C : Contributions indirectes (art. 1800)](#100)
-          - [1 : Sanctions fiscales (art. 1800)](#101)
-    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#102)
-      - [Section II : Juridiction contentieuse (art. 1965 E)](#103)
-        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#104)
-  - [RECOUVREMENT DE L'IMPOT (art. 1736 à 1840 C)](#105)
-    - [PENALITES (art. 1736 à 1840 C)](#106)
-      - [DISPOSITIONS COMMUNES. (art. 1736)](#107)
-      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#108)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 1649 quater E à 1649 quater E-O bis)](#62)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 1649 quater E à 1649 quater E-O bis)](#63)
+        - [Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés (art. 1649 quater E à 1649 quater E-O bis)](#64)
+          - [I : Centres de gestion agréés et associations de gestion et de comptabilité (art. 1649 quater E à 1649 quater E-O bis)](#65)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 80 bis à 1628 quater)](#66)
+    - [IMPOTS D'ETAT (art. 80 bis à 862)](#67)
+      - [IMPOTS DIRECTS (art. 80 bis à 219)](#68)
+        - [IMPOT SUR LE REVENU (art. 80 bis)](#69)
+          - [REVENUS IMPOSABLES. (art. 80 bis)](#70)
+        - [IMPOT SUR LES BENEFICES DES SOCIETES *IS* ET AUTRES PERSONNES MORALES (art. 219)](#71)
+          - [CALCUL DE L'IMPOT. (art. 219)](#72)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 209 sexies à 227)](#73)
+        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES (art. 209 sexies)](#74)
+          - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 209 sexies)](#75)
+        - [TAXES DIVERSES (art. 224 à 227)](#76)
+          - [TAXE D'APPRENTISSAGE. (art. 224 à 227)](#77)
+      - [CONTRIBUTIONS INDIRECTES (art. 564 ter à 564 quinquies)](#78)
+        - [REGIME ECONOMIQUE DU SUCRE. (art. 564 ter)](#79)
+        - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#80)
+      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 635 à 862)](#81)
+        - [DISPOSITIONS GENERALES (art. 635)](#82)
+        - [OBLIGATIONS DIVERSES. (art. 862)](#83)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563 à 1585 C)](#84)
+      - [IMPOSITIONS COMMUNALES (art. 1563 à 1585 C)](#85)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#86)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#87)
+        - [ENREGISTREMENT (art. 1585 C)](#88)
+          - [TAXE LOCALE D'EQUIPEMENT. (art. 1585 C)](#89)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#90)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#91)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#92)
+  - [Livre II : Recouvrement de l'impôt (art. 1694 bis à 1965 E)](#93)
+    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis à 1705)](#94)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#95)
+        - [III bis : Régime simplifié (art. 1694 bis)](#96)
+      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1703 à 1705)](#97)
+        - [II : Obligations des agents (art. 1703)](#98)
+        - [III : Obligation au paiement (art. 1705)](#99)
+    - [Chapitre II : Pénalités (art. 1753 bis A à 1800)](#100)
+      - [Section I : Dispositions communes (art. 1753 bis A)](#101)
+        - [B : Sanctions pénales. (art. 1753 bis A)](#102)
+      - [Section II : Dispositions particulières (art. 1800)](#103)
+        - [C : Contributions indirectes (art. 1800)](#104)
+          - [1 : Sanctions fiscales (art. 1800)](#105)
+    - [Chapitre III : Procédures (art. 1919)](#106)
+      - [Section V : Dispositions communes (art. 1919)](#107)
+        - [II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 1919)](#108)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#109)
+      - [Section II : Juridiction contentieuse (art. 1965 E)](#110)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#111)
+  - [RECOUVREMENT DE L'IMPOT (art. 1736 à 1840 C)](#112)
+    - [PENALITES (art. 1736 à 1840 C)](#113)
+      - [DISPOSITIONS COMMUNES. (art. 1736)](#114)
+      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#115)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -967,15 +974,91 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=62></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=62></a>
 
-## IMPOTS D'ETAT<a id=63></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=63></a>
 
-### IMPOTS DIRECTS<a id=64></a>
+#### Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés<a id=64></a>
 
-#### IMPOT SUR LE REVENU<a id=65></a>
+##### I : Centres de gestion agréés et associations de gestion et de comptabilité<a id=65></a>
 
-##### REVENUS IMPOSABLES.<a id=66></a>
+###### Article 1649 quater E
+
+Les centres sont notamment habilités à élaborer, pour le compte de leurs adhérents placés sous un régime réel d'imposition,
+les déclarations destinées à l'administration fiscale ; un agent de l'administration fiscale apporte son assistance technique
+au centre de gestion agréé, dans les conditions prévues par la convention passée entre le centre et l'administration fiscale
+(1).
+
+(1) Annexe II, art. 371 C et annexe IV, art. 164 F vicies.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°78-1239 du 29 décembre 1978 - art. 86 (V) JORF 30 décembre 1978 en vigueur le 1er janvier 1979
+
+_Cité par_:
+
+  - Arrêté du 25 novembre 2010 (Ab)
+  - Arrêté du 25 novembre 2010 - art. (Ab)
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+  - Arrêté du 22 novembre 2016 - art. (V)
+  - Code général des impôts, CGI. - art. 158 (VD)
+  - Code général des impôts, CGI. - art. 1649 quater N (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 B (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 C (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 E (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 EA (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis F (V)
+  - Livre des procédures fiscales - art. L169 (VD)
+  - Livre des procédures fiscales - art. L176 (VD)
+
+_Nouveaux textes_:
+
+  - CGI 1649 quater E-0 bis
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+**Liens**:
+
+  - HISTO: Edition du 10 juillet 1983
+
+
+###### Article 1649 quater E-O bis
+
+Sous réserve de l'article 1649 quater D-II, III et IV, les dispositions relatives aux missions comptables des centres de
+gestion agréés ne peuvent déroger aux dispositions des articles 2 et 8 de l'ordonnance n° 45-2138 du 19 septembre 1945,
+modifiée par la loi n° 68-946 du 31 octobre 1968.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1649 quater D II, III, IV
+  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 2 (M)
+  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 8 (M)
+  - Loi n°68-946 1968-10-31
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Créé par_:
+
+  - Loi n°78-1239 du 29 décembre 1978 - art. 86 (V) JORF 30 DECEMBRE 1978 date d'entrée en vigueur 1 JANVIER 1979
+
+
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=66></a>
+
+## IMPOTS D'ETAT<a id=67></a>
+
+### IMPOTS DIRECTS<a id=68></a>
+
+#### IMPOT SUR LE REVENU<a id=69></a>
+
+##### REVENUS IMPOSABLES.<a id=70></a>
 
 ###### Article 80 bis
 
@@ -1022,9 +1105,9 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-#### IMPOT SUR LES BENEFICES DES SOCIETES *IS* ET AUTRES PERSONNES MORALES<a id=67></a>
+#### IMPOT SUR LES BENEFICES DES SOCIETES *IS* ET AUTRES PERSONNES MORALES<a id=71></a>
 
-##### CALCUL DE L'IMPOT.<a id=68></a>
+##### CALCUL DE L'IMPOT.<a id=72></a>
 
 ###### Article 219
 
@@ -1148,11 +1231,11 @@ _Cité par_:
   - SPEC_APPLI: CONSEQUENCE DE LA LOI 1467 DU 30 DECEMBRE 1977 FINANCES POUR 1978 : LA REFERENCE A L'ARTICLE 39 SEXDECIES A ETE SUPPRIMEE
 
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=69></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=73></a>
 
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES<a id=70></a>
+#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES<a id=74></a>
 
-##### DETERMINATION DU BENEFICE IMPOSABLE.<a id=71></a>
+##### DETERMINATION DU BENEFICE IMPOSABLE.<a id=75></a>
 
 ###### Article 209 sexies
 
@@ -1186,9 +1269,9 @@ _Codifié par_:
   - Décret n°87-940 1987-11-23
 
 
-#### TAXES DIVERSES<a id=72></a>
+#### TAXES DIVERSES<a id=76></a>
 
-##### TAXE D'APPRENTISSAGE.<a id=73></a>
+##### TAXE D'APPRENTISSAGE.<a id=77></a>
 
 ###### Article 224
 
@@ -1303,9 +1386,9 @@ _Codifié par_:
   - Décret n°83-899 1983-10-06
 
 
-### CONTRIBUTIONS INDIRECTES<a id=74></a>
+### CONTRIBUTIONS INDIRECTES<a id=78></a>
 
-#### REGIME ECONOMIQUE DU SUCRE.<a id=75></a>
+#### REGIME ECONOMIQUE DU SUCRE.<a id=79></a>
 
 ###### Article 564 ter
 
@@ -1331,7 +1414,7 @@ _Modifié par_:
   - Règlement CEE 3330-74 1974-12-19 art. 44 3 JOCE 31 décembre 1974
 
 
-#### COTISATION DE SOLIDARITE SUR LES CEREALES.<a id=76></a>
+#### COTISATION DE SOLIDARITE SUR LES CEREALES.<a id=80></a>
 
 ###### Article 564 quinquies
 
@@ -1360,9 +1443,9 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE<a id=77></a>
+### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE<a id=81></a>
 
-#### DISPOSITIONS GENERALES<a id=78></a>
+#### DISPOSITIONS GENERALES<a id=82></a>
 
 ###### Article 635
 
@@ -1447,7 +1530,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L68 (V)
 
 
-#### OBLIGATIONS DIVERSES.<a id=79></a>
+#### OBLIGATIONS DIVERSES.<a id=83></a>
 
 ###### Article 862
 
@@ -1480,13 +1563,13 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=80></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=84></a>
 
-### IMPOSITIONS COMMUNALES<a id=81></a>
+### IMPOSITIONS COMMUNALES<a id=85></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=82></a>
+#### CONTRIBUTIONS INDIRECTES<a id=86></a>
 
-##### TAXES OBLIGATOIRES.<a id=83></a>
+##### TAXES OBLIGATOIRES.<a id=87></a>
 
 ###### Article 1563
 
@@ -1539,9 +1622,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. A85-1 (P)
 
 
-#### ENREGISTREMENT<a id=84></a>
+#### ENREGISTREMENT<a id=88></a>
 
-##### TAXE LOCALE D'EQUIPEMENT.<a id=85></a>
+##### TAXE LOCALE D'EQUIPEMENT.<a id=89></a>
 
 ###### Article 1585 C
 
@@ -1606,11 +1689,11 @@ _Modifié par_:
   - Décret n°73-1022 1973-11-08 ART. 3 JORF 13 NOVEMBRE 1973
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=86></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=90></a>
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=87></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=91></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=88></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=92></a>
 
 ###### Article 1628 quater
 
@@ -1657,13 +1740,13 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
 
 
-# Livre II : Recouvrement de l'impôt<a id=89></a>
+# Livre II : Recouvrement de l'impôt<a id=93></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=90></a>
+## Chapitre premier : Paiement de l'impôt<a id=94></a>
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=91></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=95></a>
 
-#### III bis : Régime simplifié<a id=92></a>
+#### III bis : Régime simplifié<a id=96></a>
 
 ###### Article 1694 bis
 
@@ -1690,9 +1773,9 @@ _Modifié par_:
   - Loi n°69-1161 1969-12-24 art. 12 I Finances pour 1970 JORF 27 décembre 1969
 
 
-### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=93></a>
+### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=97></a>
 
-#### II : Obligations des agents<a id=94></a>
+#### II : Obligations des agents<a id=98></a>
 
 ###### Article 1703
 
@@ -1718,7 +1801,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### III : Obligation au paiement<a id=95></a>
+#### III : Obligation au paiement<a id=99></a>
 
 ###### Article 1705
 
@@ -1767,11 +1850,11 @@ _Cité par_:
   - TXT_ASSOCIE: Jurisprudence 1997-12-04 13L-6-97
 
 
-## Chapitre II : Pénalités<a id=96></a>
+## Chapitre II : Pénalités<a id=100></a>
 
-### Section I : Dispositions communes<a id=97></a>
+### Section I : Dispositions communes<a id=101></a>
 
-#### B : Sanctions pénales.<a id=98></a>
+#### B : Sanctions pénales.<a id=102></a>
 
 ###### Article 1753 bis A
 
@@ -1800,11 +1883,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. L143 (V)
 
 
-### Section II : Dispositions particulières<a id=99></a>
+### Section II : Dispositions particulières<a id=103></a>
 
-#### C : Contributions indirectes<a id=100></a>
+#### C : Contributions indirectes<a id=104></a>
 
-##### 1 : Sanctions fiscales<a id=101></a>
+##### 1 : Sanctions fiscales<a id=105></a>
 
 ###### Article 1800
 
@@ -1846,11 +1929,28 @@ _Cite_:
   - Code pénal 463
 
 
-## Chapitre V : Dégrèvements et restitutions d'impôts<a id=102></a>
+## Chapitre III : Procédures<a id=106></a>
 
-### Section II : Juridiction contentieuse<a id=103></a>
+### Section V : Dispositions communes<a id=107></a>
 
-#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=104></a>
+#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=108></a>
+
+###### Article 1919
+
+Article transféré.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - CGI 1947 2, 1956 1, 3
+
+
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=109></a>
+
+### Section II : Juridiction contentieuse<a id=110></a>
+
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=111></a>
 
 ###### Article 1965 E
 
@@ -1877,11 +1977,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# RECOUVREMENT DE L'IMPOT<a id=105></a>
+# RECOUVREMENT DE L'IMPOT<a id=112></a>
 
-## PENALITES<a id=106></a>
+## PENALITES<a id=113></a>
 
-### DISPOSITIONS COMMUNES.<a id=107></a>
+### DISPOSITIONS COMMUNES.<a id=114></a>
 
 ###### Article 1736
 
@@ -1941,7 +2041,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 990 C (Ab)
 
 
-### DISPOSITIONS PARTICULIERES.<a id=108></a>
+### DISPOSITIONS PARTICULIERES.<a id=115></a>
 
 ###### Article 1840 C
 
