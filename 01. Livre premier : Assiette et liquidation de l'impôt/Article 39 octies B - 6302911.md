@@ -1,10 +1,10 @@
 # Article 39 octies B
 
-I. - Les entreprises françaises peuvent constituer une provision en franchise d'impôt à raison des pertes subies par les
-filiales commerciales dans un Etat de la Communauté économique européenne [*CEE*]  dont elles acquièrent le capital.
-L'acquisition de titres doit conférer à l'entreprise française la détention de 50 p. 100 au moins du capital de la filiale
-commerciale ou, lorsque son taux de détention est au moins égal à 50 p. 100, lui permettre de le maintenir ou de l'augmenter
-d'une fraction égale à 10 p. 100 au moins du capital.
+I. Les entreprises françaises peuvent constituer une provision en franchise d'impôt à raison des pertes subies par les
+filiales commerciales dans un Etat de la Communauté européenne dont elles acquièrent le capital. L'acquisition de titres doit
+conférer à l'entreprise française la détention de 50 p. 100 au moins du capital de la filiale commerciale ou, lorsque son
+taux de détention est au moins égal à 50 p. 100, lui permettre de le maintenir ou de l'augmenter d'une fraction égale à 10 p.
+100 au moins du capital.
 
 La dotation à la provision est égale au montant des pertes subies par la filiale au cours des exercices clos après la date
 d'acquisition des titres et pendant les quatre années suivant celle de cette acquisition, dans la proportion que ceux de ces
@@ -14,8 +14,8 @@ par la filiale, et dans la limite du montant de l'investissement.
 L'investissement est le montant des sommes versées au titre de chaque acquisition de titres représentatifs du capital de la
 filiale, dans la limite des dépenses effectivement engagées pour les besoins de l'activité commerciale définie ci-après.
 
-La filiale doit avoir son siège dans un Etat de la Communauté économique européenne. Elle doit être constituée sous la forme
-d'une société de capitaux et soumise à l'étranger à une imposition de ses bénéfices comparable à celle qui résulterait de
+La filiale doit avoir son siège dans un Etat de la Communauté européenne. Elle doit être constituée sous la forme d'une
+société de capitaux et soumise à l'étranger à une imposition de ses bénéfices comparable à celle qui résulterait de
 l'application de l'impôt sur les sociétés. Elle doit avoir pour activité la commercialisation à l'étranger de biens produits
 principalement par l'entreprise dans un de ses établissements dont les résultats sont soumis à l'impôt sur les sociétés.
 
@@ -27,7 +27,7 @@ déduction des déficits subis au cours d'exercices antérieurs, dans la même p
 pertes qui ont servi de base au calcul de la dotation.
 
 Si le taux de détention du capital de la filiale qui résulte d'une acquisition de titres ayant donné lieu à la provision
-mentionnée au présent article est réduit au cours de la période de dix ans définie à l'alinéa précédent, la ou les dotations
+mentionnée au présent article est réduit au cours de la période de dix ans définie au premier alinéa, la ou les dotations
 constituées à raison de cette acquisition et qui figurent au bilan de l'entreprise sont rapportées au résultat imposable de
 l'exercice au cours duquel ce taux a diminué. Il en est de même si l'une des conditions prévues au I cesse d'être satisfaite.
 
@@ -38,12 +38,10 @@ exceptionnels ne sont pas applicables.
 
 IV. Le bénéfice des dispositions du présent article peut être accordé, sur agrément du ministre chargé du budget et dans les
 conditions et limites prévues par cet agrément, aux établissements de crédit et aux entreprises mentionnées au V de l'article
-39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises
-
-.
+39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises.
 
 V. - Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1988,
-sous réserve du dernier alinéa des I et I bis de l'article 39 octies A.
+sous réserve du quatrième alinéa du I et du sixième alinéa du I bis de l'article 39 octies A.
 
 Elles cessent de s'appliquer aux investissements réalisés après le 31 décembre 1991.
 
@@ -53,10 +51,15 @@ _Cite_:
 
   - CGI 39 octies A I, I bis, V
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 27 octobre 1995
+
 _Modifié par_:
 
-  - Loi - art. 86 () JORF 31 décembre 1991
+  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°92-836 1992-08-27
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 1 () JORF 27 mars 2004
