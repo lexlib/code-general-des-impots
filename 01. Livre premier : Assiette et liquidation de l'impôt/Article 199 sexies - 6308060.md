@@ -29,6 +29,10 @@ l'article 1729 ;
 c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux compris dans des exploitations agricoles et affectés
 à l'habitation des propriétaires exploitants ;
 
+d. Pour les prêts contractés et les dépenses payées à compter du 1er janvier 1990, les réductions d'impôt prévues aux a, b et
+c s'appliquent aux contribuables dont le revenu net imposable par part n'excède pas la limite inférieure de la douzième
+tranche du barème de l'impôt sur le revenu.
+
 2° a. Dépenses effectuées par un contribuable pour sa résidence principale, qu'il en soit ou non propriétaire, lorsque ces
 dépenses ont pour objet d'améliorer l'isolation thermique ou la mesure et la régulation du chauffage, ou encore de remplacer
 une chaudière dans des conditions permettant une économie de produits pétroliers.
@@ -66,8 +70,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 13
