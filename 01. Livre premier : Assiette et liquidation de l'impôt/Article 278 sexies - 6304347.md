@@ -1,19 +1,31 @@
 # Article 278 sexies
 
-I. La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 p. 100 en ce qui concerne les ventes et les apports en
-société de terrains à bâtir et de biens assimilés à ces terrains par les 1° et 3° du I de l'article 691 aux organismes
-d'habitations à loyer modéré visés à l'article L. 411-2 du code de la construction et de l'habitation, ainsi qu'aux personnes
-bénéficiaires des aides de l'Etat prévues aux articles L. 301-1 et suivants du même code pour la construction de logements
-visés ((au 3° de l'article L. 351-2 du code de la construction et de l'habitation et de logements financés au moyen d'un prêt
-aidé par l'Etat destiné à l'accession à la propriété prévu par l'article R. 331-32 du code de la construction et de
-l'habitation.)) (M) Le taux réduit de 5,50 p. 100 s'applique également aux indemnités de toute nature perçues par les
-personnes qui exercent sur ces immeubles un droit de propriété ou de jouissance.
+((I. La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 p. 100 en ce qui concerne :
+
+((1. Les ventes, les apports en société de terrains à bâtir et de biens assimilés à ces terrains par les 1° et 3° du I de
+l'article 691 aux organismes d'habitations à loyer modéré visés à l'article L. 411-2 du code de la construction et de
+l'habitation, ainsi qu'aux personnes bénéficiaires des aides de l'Etat prévues aux articles L. 301-1 et suivants du même code
+pour la construction de logements visés au 3° de l'article L. 351-2 du même code et de logements financés au moyen d'un prêt
+aidé par l'Etat destiné à l'accession à la propriété prévu par l'article R. 331-32 du même code. Le taux réduit de 5,5 p. 100
+s'applique également aux indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de
+propriété ou de jouissance.
+
+((2. Les livraisons à soi-même mentionnées au dernier alinéa du c du 1 du 7° de l'article 257 de logements sociaux à usage
+locatif mentionnés au 3° de l'article L. 351-2 du code de la construction et de l'habitation dont la construction a été
+financée au moyen d'un prêt prévu à l'article R. 331-1 du même code qui bénéficient de la décision favorable prise dans les
+conditions prévues aux articles R. 331-3 et R. 331-6 du même code.
+
+((3. Les ventes de logements sociaux neufs à usage locatif mentionnés au 3° de l'article L. 351-2 du code de la construction
+et de l'habitation et qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
+331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de cette date,
+lorsque l'acquéreur bénéficie pour cette acquisition d'un prêt prévu à l'article R. 331-1 du même code et a conclu avec
+l'Etat une convention en application du 3° de l'article L. 351-2 du même code)) (M).
 
 II. Les acquisitions de terrains visés au 3 du 7° de l'article 257 sont soumises au taux réduit de 5,50 p. 100 lorsqu'elles
-sont réalisées par des personnes physiques bénéficiaires ((d'un prêt aidé par l'Etat destiné à l'accession à la propriété
-prévu par l'article R. 331-32 du code de la construction et de l'habitation.)) (M)
+sont réalisées par des personnes physiques bénéficiaires d'un prêt aidé par l'Etat destiné à l'accession à la propriété prévu
+par l'article R. 331-32 du code de la construction et de l'habitation.
 
-(M) Modification.
+(M) Modification de la loi 96-1181.
 
 **Liens relatifs à cet article**
 
@@ -22,12 +34,12 @@ _Cité par_:
   - Arrêté du 16 mars 1992 - art. 2 bis (Ab)
   - Arrêté du 3 mai 2002 - art. Annexe I (Ab)
   - Arrêté du 29 avril 2009 - art. 3 (Ab)
-  - Arrêté du 1er août 2014 - art. 3 (V)
-  - Arrêté du 30 septembre 2014 (V)
   - Décret n°2010-1269 du 26 octobre 2010 - art. 2 (V)
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
   - Décret n°2011-544 du 18 mai 2011 - art. 4 (V)
+  - Arrêté du 1er août 2014 - art. 3 (V)
   - Loi n°2014-891 du 8 août 2014 - art. 27 (V)
+  - Arrêté du 30 septembre 2014 (V)
   - Arrêté du 30 septembre 2014 - art. 6 (V)
   - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
   - Décret n°2019-831 du 3 août 2019 - art.
@@ -49,9 +61,15 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 70 quinquies B (P)
   - Livre des procédures fiscales - art. L176 (VT)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°96-1181 1996-12-30 art. 17 VI
+  - HISTO: Edition du 11 avril 1997
+  - TXT_ASSOCIE: Instruction 1997-02-18 8A-1-97
+
 _Modifié par_:
 
-  - Loi - art. 12 () JORF 31 décembre 1995
+  - Loi n°96-1181 du 30 décembre 1996 - art. 17 (V) JORF 31 décembre 1996
 
 _Cite_:
 
@@ -59,8 +77,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L301-1 (M)
   - Code de la construction et de l'habitation. - art. L351-2 (M)
   - Code de la construction et de l'habitation. - art. L411-2 (M)
+  - Code de la construction et de l'habitation. - art. R331-1 (M)
+  - Code de la construction et de l'habitation. - art. R331-3 (M)
   - Code de la construction et de l'habitation. - art. R331-32 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 12 mai 1996
+  - Code de la construction et de l'habitation. - art. R331-6 (M)

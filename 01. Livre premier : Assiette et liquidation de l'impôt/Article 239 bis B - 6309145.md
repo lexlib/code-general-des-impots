@@ -13,8 +13,8 @@ l'application de l'article 220. Elle n'est pas admise en déduction pour l'assie
 les sociétés.
 
 II. L'application des dispositions du I est réservée aux sociétés qui auront obtenu à cette fin, préalablement à leur
-dissolution, un agrément du ministre de l'économie et des finances délivré après avis du conseil de direction du fonds de
-développement économique et social. L'agrément peut comporter des limitations et être assorti de conditions particulières,
+dissolution, un agrément du ministre de l'économie et des finances délivré après avis du comité des investissements à
+caractère économique et social. L'agrément peut comporter des limitations et être assorti de conditions particulières,
 notamment en ce qui concerne les modalités de la liquidation et la destination à donner aux éléments d'actif liquidés. Pour
 les petites entreprises, l'agrément est accordé selon une procédure décentralisée, dans des conditions qui sont fixées par
 arrêté du ministre de l'économie et des finances (2).
@@ -42,14 +42,14 @@ lorsqu'elles ont été soumises à la taxe forfaitaire de 15 % libératoire de l
 _Cite_:
 
   - Arrêté 1976-05-17
-  - CGI 108, 119 bis, 220, 219, 158 bis
-  - CGI Livre des procédures fiscales L169 A
+  - CGI 119 bis 2, 220, 158 bis, 219 I a, 108
   - CGIAN4 170 septies
+  - Livre des procédures fiscales - art. L169 A (M)
 
 **Liens**:
 
-  - HISTO: Edition du 15 juin 1990
+  - HISTO: Edition du 11 avril 1997
 
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 37 I Finances pour 1990 JORF 30 décembre 1989
+  - Loi n°96-1182 du 30 décembre 1996 - art. 16 () JORF 31 décembre 1996

@@ -6,7 +6,7 @@ racheter tout ou partie du capital de leur entreprise peuvent bénéficier d'une
 versements afférents à leurs souscriptions. Ces versements doivent intervenir dans les trois ans suivant la date de
 constitution de la société et sont retenus dans une limite qui ne peut excéder pendant cette période 40 000 F pour les
 contribuables célibataires, veufs ou divorcés, et 80 000 F pour les contribuables mariés soumis à imposition commune. Les
-dispositions du premier alinéa du IV de l'article 199 terdecies s'appliquent à cette réduction.
+dispositions du 5 du I de l'article 197 sont applicables.
 
 Un salarié ne peut bénéficier que de l'un des avantages mentionnés à l'alinéa précédent ou à l'article 83 ter et pour les
 souscriptions au capital d'une seule société.
@@ -37,19 +37,13 @@ III.
 
 _Cite_:
 
-  - CGI 199 terdecies, 83 ter
+  - CGI 199 terdecies, 83 ter, 197
   - CGIAN3 46 AM à 46 AO
 
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
+  - HISTO: Edition du 11 avril 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 2 () JORF 31 décembre 1991
-  - Loi - art. 3 () JORF 31 décembre 1991
-  - Loi n°91-1322 1991-12-30 art. 90 I 1 b, 2, 3, II, III, V, VIII, IX, X Finances pour 1992 JORF 31 décembre 1991
-
-_Codifié par_:
-
-  - Décret n°92-836 1992-08-27
+  - Loi n°96-1181 du 30 décembre 1996 - art. 83 () JORF 31 décembre 1996
