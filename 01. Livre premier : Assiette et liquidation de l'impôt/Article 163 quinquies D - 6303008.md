@@ -34,8 +34,7 @@ la clôture du plan.
 conditions prévues dans la deuxième phrase du 2 du II de l'article 150-0 A n'entraînent pas la clôture du plan. Toutefois,
 aucun versement n'est possible après le premier retrait ou le premier rachat.
 
-IV. Les avoirs fiscaux et crédits d'impôt attachés aux produits encaissés dans le cadre du plan sont restitués dans des
-conditions fixées par décret.
+IV. abrogé
 
 **Liens relatifs à cet article**
 
@@ -44,9 +43,14 @@ _Cite_:
   - CGI 150-0 A, 80 bis, 83, 83 ter, 726, 810, 163 septdecies, 199 undecies, 199 terdecies, 199 terdecies A, 163 bis C
   - Loi n°92-666 1992-07-16
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005
+
 _Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 31 () JORF 5 août 2003
+  - Loi - art. 93 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -65,8 +69,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 885-0 V bis (MMN)
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E bis (V)
   - Livre des procédures fiscales - art. R96 D-1 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2003
-  - TXT_ASSOCIE: Instruction 2003-06-04 5I-2-03
