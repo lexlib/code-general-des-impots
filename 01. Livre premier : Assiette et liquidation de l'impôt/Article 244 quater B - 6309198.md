@@ -11,7 +11,8 @@ recherche exposées au cours de cette période.
 Le crédit d'impôt est plafonné pour chaque entreprise à 3 millions de francs [*montant limite*].
 
 Le crédit d'impôt afférent aux années 1985 et suivantes est porté à 50 p. 100 : son montant est plafonné pour chaque
-entreprise à 5 millions de francs.
+entreprise à 5 millions de francs. Ce plafond est porté à 40 millions de francs pour le calcul du crédit d'impôt attribué au
+titre des années 1991 et suivantes.
 
 Pour le calcul du crédit d'impôt attribué au titre des années 1986 et suivantes, le crédit est égal à 50 % des dépenses de
 recherche de la première année au cours de laquelle l'entreprise expose des dépenses de cette nature.
@@ -19,30 +20,33 @@ recherche de la première année au cours de laquelle l'entreprise expose des d�
 Si au titre d'une année l'entreprise augmente ses dépenses de recherche et de développement expérimental externes visées au d
 du II, le plafond de 5 millions de francs est majoré de la part du crédit d'impôt qui provient de l'augmentation de ces
 dépenses, dans la limite globale de 10 millions de francs, pour le calcul du crédit d'impôt attribué au titre des années 1987
-et suivantes.
+à 1990.
 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont [*champ d'application*] : 
 
-a. Les dotations aux amortissements des immobilisations, autres que les immeubles, créées ou acquises à l'état neuf et
-affectées directement à la réalisation en France d'opérations de recherche scientifique et technique, y compris la
-réalisation de prototypes ou d'installations pilotes ; 
+a) Les dotations aux amortissements des immobilisations, créées ou acquises à l'état neuf et affectées directement à la
+réalisation en France d'opérations de recherche scientifique et technique, y compris la réalisation de prototypes ou
+d'installations pilotes. Toutefois, les dotations aux amortissements des immeubles acquis ou achevés avant le 1er janvier
+1991 ainsi que celles des immeubles dont le permis de construire a été délivré avant le 1er janvier 1991 ne sont pas prises
+en compte ;
 
-b. Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à
+b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à
 ces opérations ; 
 
-c. Les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 55 %
-des dépenses de personnel mentionnées au b ; 
+c) Les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 %
+des dépenses de personnel mentionnées au b. Ce pourcentage est porté à 75 p. 100 pour le calcul du crédit d'impôt attribué au
+titre des années 1991 et suivantes.
 
-d. Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou
+d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou
 privés agréés par le ministre de la recherche et de l'industrie, ou à des experts scientifiques ou techniques agréés dans les
 mêmes conditions ; 
 
-e. Les frais de prise et de maintenance de brevets ;
+e) Les frais de prise et de maintenance de brevets ;
 
-f. Les dotations aux amortissements des brevets acquis en vue de réaliser des opérations de recherche et de développement
+f) Les dotations aux amortissements des brevets acquis en vue de réaliser des opérations de recherche et de développement
 expérimental (2) ;
 
-g. Les dépenses de normalisation afférentes aux produits de l'entreprise, définies comme suit, pour la moitié de leur
+g) Les dépenses de normalisation afférentes aux produits de l'entreprise, définies comme suit, pour la moitié de leur
 montant :
 
 1° Les salaires et charges sociales afférents aux périodes pendant lesquelles les salariés participent aux réunions
@@ -50,6 +54,10 @@ officielles de normalisation ;
 
 2° Les autres dépenses exposées à raison de ces mêmes opérations ; ces dépenses sont fixées forfaitairement à 30 p. 100 des
 salaires mentionnés au 1° (3).
+
+3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle pour sa
+participation aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 3.000 F par jour de
+présence auxdites réunions ;
 
 III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont
 déduites des bases de calcul de ce crédit. Il en est de même des sommes reçues par les organismes ou experts désignés au II-
@@ -70,7 +78,7 @@ a) Au cours des années 1985 à 1988 par les entreprises n'ayant pas exercé l'o
 b) En 1988 par les entreprises ayant exercé l'option prévue au paragraphe IV ou créées en 1988 et remplissant les conditions
 prévues aux 1° et 3° du paragraphe II et au paragraphe III de l'article 44 bis.
 
-c. Au cours des années 1990 à 1992 par les entreprises n'ayant pas encore bénéficié du dispositif du crédit d'impôt-
+c) Au cours des années 1990 à 1992 par les entreprises n'ayant pas encore bénéficié du dispositif du crédit d'impôt-
 recherche.
 
 IV ter. L'entreprise qui a bénéficié du crédit d'impôt prévu au I au titre de l'année 1986 ou d'une année antérieure, ou qui
@@ -94,23 +102,27 @@ inégale ou ne coïncidant pas avec l'année civile (4).
 
 (1) Moyenne de référence retenue pour la détermination du crédit d'impôt afférent aux années 1990 à 1992.
 
-(2) Ces dépenses sont prises en compte pour la première fois pour le calcul du crédit d'impôt de l'année 1987.
+(3) Ces dépenses sont prises en compte pour la première fois pour le calcul du crédit d'impôt de l'année 1987.
 
-(3) Dépenses de normalisation retenue pour la détermination du crédit d'impôt afférent aux années 1990 à 1992.
+(3) Dépenses de normalisation retenues pour la détermination du crédit d'impôt afférent aux années 1990 à 1992.
 
-En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L45 B.
+(4) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L45 B.
 
-(4) Annexe III, art. 49 septies F à 49 septies N.
+(5) Annexe III, art. 49 septies F à 49 septies N.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGIAN3 49 septies F à CGIAN3 49 septies N
+  - CGI 44 bis II 1°, 3°, III
+  - CGI L45 B
+
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 20 I III, IV V Finances pour 1990 JORF 30 décembre 1989
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
+  - Loi - art. 29 (V)
+  - Loi n°90-1168 1990-12-29 art. 29 II 2, art. 82 3 Finances pour 1991
+  - Loi n°90-1169 du 29 décembre 1990 - art. 21 () JORF 30 décembre 1990
 
 _Cité par_:
 
@@ -161,12 +173,10 @@ _Cité par_:
   - Livre des procédures fiscales - art. R60-1 A (V)
   - Livre des procédures fiscales - art. R60-2 A (VD)
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 44 bis II 1°, 3°, III
-  - CGI L45 B
-  - CGIAN3 49 septies F à CGIAN3 49 septies N
+  - Décret n°91-883 1991-09-09
 
 **Liens**:
 
-  - HISTO: Edition du 15 juin 1990
+  - HISTO: Edition du 24 juin 1991
