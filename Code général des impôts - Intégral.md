@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-05-31
+Version Consolidée au 1980-07-03
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -13229,6 +13229,33 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°81-866 1981-09-15
+
+
+###### Article 567
+
+Les monopoles de fabrication, d'importation et de commercialisation en gros, réservés à l'Etat sont confiés à la Société
+nationale d'exploitation industrielle des tabacs et allumettes.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 1er juillet 1981
+  - HISTO: Edition du 27 octobre 1995
+
+_Modifié par_:
+
+  - Loi n°80-495 1980-07-02 art. 1 JORF 3 juillet 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+  - Décret n°95-1281 1995-12-11
+
+_Abrogé par_:
+
+  - Loi n°93-923 du 19 juillet 1993 - art. 17 () JORF 21 juillet 1993
+  - Décret n°95-6 du 4 janvier 1995 - art. 1 (V) JORF 5 janvier 1995
 
 
 ###### Article 572
@@ -43885,23 +43912,6 @@ _Cite_:
   - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
 
 
-###### Article 567
-
-Le monopole de fabrication ainsi que celui d'importation et de commercialisation en gros définis à l'article 565 sont confiés
-au "Service d'exploitation industrielle des tabacs et des allumettes" (SEITA).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 565
-  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 568
 
 Le monopole de vente au détail est confié à l'administration des impôts qui l'exerce par l'intermédiaire de débitants
@@ -44348,29 +44358,33 @@ _Abrogé par_:
 
 ###### Article 576
 
-La fabrication et l'importation des allumettes sont réservées à l'Etat et confiées au Service d'exploitation industrielle des
-tabacs et des allumettes (S.E.I.T.A.).     Toutefois, cette disposition n'est pas opposable aux importations d'allumettes en
-provenance des Etats membres de la Communauté économique européenne, sous réserve des dispositions que le Gouvernement
-français pourrait être amené à prendre en application du traité instituant cette Communauté et compte tenu du traité
-d'adhésion du 22 janvier 1972.
+La fabrication et l'importation des allumettes sont réservées à l'Etat et confiées à la Société nationale d'exploitation
+industrielle des tabacs et des allumettes.
 
-La direction générale des impôts prête son concours au S.E.I.T.A. dans les conditions fixées par décret en conseil d'Etat
-(1).
+Toutefois, cette disposition n'est pas opposable aux importations d'allumettes en provenance des Etats membres de la
+Communauté économique européenne [*CEE*], sous réserve des dispositions que le Gouvernement français pourrait être amené à
+prendre en application du traité instituant cette Communauté et compte tenu du traité d'adhésion du 22 janvier 1972.
 
-1)  Annexe II, art. 280 et 282.
+La direction générale des impôts prête son concours à la Société nationale d'exploitation industrielle des tabacs et
+allumettes dans les conditions fixées par décret en Conseil d'Etat (1).
+
+(1) Annexe II, art. 280 et 282.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGIAN2 280
-  - CGIAN2 282
+  - CGIAN2 280, 282
   - Traité CEE 1972-01-22
   - Traité de Rome CEE 1957-03-25
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°80-495 1980-07-02 ART. 1 JORF 3 JUILLET 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 585 A
