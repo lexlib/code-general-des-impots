@@ -3,7 +3,7 @@
 Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration indiquant notamment les montants de
 la participation à laquelle ils étaient tenus et du versement effectué ainsi que la désignation de l'organisme destinataire.
 
-La déclaration doit être produite au plus tard le 5 avril de l'année suivant celle au cours de laquelle est due la
+La déclaration doit être produite au plus tard le 30 avril de l'année suivant celle au cours de laquelle est due la
 participation.
 
 En cas de cession d'entreprise ou de cessation d'activité, la déclaration afférente à l'année en cours et, le cas échéant,
@@ -17,14 +17,10 @@ Les modalités d'établissement et le contenu de la déclaration sont détermin�
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°92-836 1992-08-27
-
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
+  - HISTO: Edition du 31 mars 1999
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
+  - Loi n°98-546 du 2 juillet 1998 - art. 3
