@@ -1,7 +1,7 @@
 # Article 163 bis AA
 
 Les sommes revenant aux salariés au titre de la participation des salariés aux résultats de l'entreprise, en application du
-chapitre II de l'ordonnance n° 86-1134 du 21 octobre 1986, sont exonérées d'impôt sur le revenu.
+chapitre II de l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée, sont exonérées d'impôt sur le revenu.
 
 L'exonération porte seulement sur la moitié des sommes en cause lorsque la durée de l'indisponibilité a été fixée à trois
 ans. Toutefois, l'exonération est totale lorsque les sommes reçues sont, à la demande des salariés, affectées à un plan
@@ -32,6 +32,11 @@ direction départementale du travail et de l'emploi du lieu où ils ont été co
 
 (1) Annexe II, art. 81 bis.
 
+**Nota:**
+
+NOTA - Loi 94-640 1994-07-25 art. 33 IV : les articles 11 et 26 de l'ordonnance 86-1134 du 21 octobre 1986 sont codifiés sous
+les articles L442-5 et L443-6 du code du travail.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -43,13 +48,13 @@ _Cite_:
   - Ordonnance 86-1134 1986-10-21 art. 11 3, art. 26
   - Ordonnance n°86-1134 du 21 octobre 1986 - art. 26 (M)
 
-_Modifié par_:
-
-  - Loi n°87-1061 du 30 décembre 1987 - art. 19 (V) JORF 31 décembre 1987
-
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°91-883 1991-09-09
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°94-640 1994-07-25 art. 33 IV
 
 _Cité par_:
 
