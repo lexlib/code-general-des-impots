@@ -57,7 +57,7 @@ plan de restructuration présenté par l'entreprise n'altère pas les échanges 
 
 II. - Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou
 de l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44
-sexies, 44 sexies A, 208 sexies et 208 quater A. Elle est irrévocable.
+sexies, 44 sexies A, 44 septies, 208 sexies et 208 quater A. Elle est irrévocable.
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime d'imposition de l'article 8 ou par les
 groupements mentionnés aux articles 239 quater ou 239 quater C, le crédit d'impôt peut être utilisé par leurs associés,
@@ -84,21 +84,26 @@ l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces par
 IV. - Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours
 d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
+**Nota:**
+
+NOTA : Loi 2005-845 2005-07-26 art. 165 II :
+
+Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
+redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
+et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
+plans de sauvegarde ou de redressement judiciaire.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CEE Règlement 1257/99 1999-05-17 Conseil
-  - CGI 39 terdecies, 223 A, 39 A, 1649 nonies, 44 sexies, 208 sexies, 208 quater A, 8, 239 quater, 239 quater C, 156, 41, 151 octies, 210 A, 210 B, 44 sexies A
+  - CGI 39 terdecies, 223 A, 39 A, 1649 nonies, 44 sexies, 208 sexies, 208 quater A, 8, 239 quater, 239 quater C, 156, 41, 151 octies, 210 A, 210 B, 44 sexies A, 44 septies
   - Loi n°2002-92 2002-01-22
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
+  - Règlement 1257/99 1999-05-17 Conseil
 
 _Modifié par_:
 
-  - Loi - art. 13 (V) JORF 31 décembre 2003
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -111,3 +116,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WE (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WG (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WH (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005

@@ -4,11 +4,11 @@ I. Par dérogation aux dispositions du troisième alinéa du I de l'article 209,
 ouvert à compter du 1er janvier 1984 par une entreprise soumise à l'impôt sur les sociétés peut, sur option, être considéré
 comme une charge déductible du bénéfice de l'antépénultième exercice et, le cas échéant, de celui de l'avant-dernier exercice
 puis de celui de l'exercice précédent, dans la limite de la fraction non distribuée de ces bénéfices et à l'exclusion des
-bénéfices exonérés en application des articles 44 sexies, 44 sexies A, 44 septies et 207 à 208 sexies ou qui ont bénéficié
-des dispositions du premier alinéa du f du I de l'article 219 ou qui ont ouvert droit au crédit d'impôt prévu aux articles
-220 quater et 220 quater A ou qui ont donné lieu à un impôt payé au moyen de crédits d'impôts. Cette option porte, pour les
-exercices ouverts à compter du 1er janvier 1985, sur les déficits reportables à la clôture d'un exercice en application du
-troisième alinéa du I de l'article 209.
+bénéfices exonérés en application des articles 44 sexies, 44 sexies A, 44 septies, 44 undecies et 207 à 208 sexies ou qui ont
+bénéficié des dispositions du premier alinéa du f du I de l'article 219 ou qui ont ouvert droit au crédit d'impôt prévu aux
+articles 220 quater et 220 quater A ou qui ont donné lieu à un impôt payé au moyen de crédits d'impôts. Cette option porte,
+pour les exercices ouverts à compter du 1er janvier 1985, sur les déficits reportables à la clôture d'un exercice en
+application du troisième alinéa du I de l'article 209.
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être reportable sur les résultats des exercices
 suivant celui au titre duquel il a été constaté.
@@ -58,15 +58,12 @@ articles 209 quinquies et 209 sexies.
 
 _Cite_:
 
-  - CGI 209, 44 sexies, 44 septies, 207 à 208 sexies, 219, 220 quater, 220 quater A, 1649 nonies, 209 quinquies, 209 sexies, 44 sexies A
+  - CGI 209, 44 sexies, 44 septies, 207 à 208 sexies, 219, 220 quater, 220 quater A, 1649 nonies, 209 quinquies, 209 sexies, 44 sexies A, 44 undecies
   - Code monétaire et financier L313-23 à L313-35
 
 _Modifié par_:
 
-  - Loi - art. 13 (V) JORF 31 décembre 2003
-  - Loi - art. 14 (V) JORF 31 décembre 2003
-  - Loi - art. 89 (V) JORF 31 décembre 2003
-  - Loi - art. 93 (V) JORF 31 décembre 2003
+  - Loi n°2004-1484 2004-12-30 art. 24 II F Finances pour 2005 JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -87,4 +84,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2005

@@ -39,14 +39,15 @@ neuf ainsi que celui des brevets. Ces investissements doivent être liés à l'a
 correspondre à l'opération de relocalisation réalisée. Ils doivent être exécutés et inscrits dans les écritures de
 l'entreprise bénéficiaire pendant la période de réalisation de l'opération de relocalisation.
 
-Pour être éligibles au dispositif prévu au présent article, les investissements réalisés par les entreprises autres que les
-petites et moyennes entreprises mentionnées au VI et composés d'actifs immatériels doivent remplir les conditions suivantes :
+Pour être éligibles au dispositif, les investissements réalisés par les entreprises autres que les petites et moyennes
+entreprises mentionnées au VI et composés d'actifs immatériels doivent remplir les conditions suivantes :
 
-- être exploités exclusivement dans l'intérêt de l'entreprise bénéficiaire ;
+a. - être exploités exclusivement dans l'intérêt de l'entreprise bénéficiaire ;
 
-- avoir été acquis auprès d'un tiers aux conditions du marché ;
+b. - avoir été acquis auprès d'un tiers aux conditions du marché ;
 
-- être considérés comme des éléments d'actif amortissables et être inscrits à l'actif du bilan de l'entreprise bénéficiaire.
+c. - être considérés comme des éléments d'actif amortissables et être inscrits à l'actif du bilan de l'entreprise
+bénéficiaire.
 
 Le montant des investissements éligibles réalisés par les entreprises autres que les petites et moyennes entreprises
 mentionnées au VI et composés d'actifs immatériels ne doit en outre pas dépasser 25 % du montant total des investissements
@@ -97,24 +98,25 @@ présent article.
 XIII. - Les emplois ou les investissements afférents à l'opération de relocalisation dont le coût a déjà été pris en compte
 dans le cadre d'un régime d'aides ne sont pas pris en compte pour le calcul du crédit d'impôt.
 
-**Nota:**
-
-NOTA : Un décret fixe les conditions d'application de ces dispositions, notamment les obligations déclaratives incombant aux
-entreprises concernées et les conditions d'octroi et de retrait de l'agrément.
-
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 4 B, 209, 8, 238 bis L, 239 quater, 239 quater A, 239 quater B, 239 quater C, 156, 1649 nonies, 239 ter
-  - Règlement CE 69-2001 2001-01-12
-  - Règlement CE 70-2001 2001-01-12 annexe I
-  - Traité de Rome 1957-03-25 art. 87, art. 88
+  - Décret n°2005-330 2005-04-06
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+
+**Liens**:
+
+  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 1
+  - HISTO: Edition du 1er janvier 2005
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 O (V)
+
+_Cite_:
+
+  - Traité de Rome 1957-03-25 art. 87, art. 88
