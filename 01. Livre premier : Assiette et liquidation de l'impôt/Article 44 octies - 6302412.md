@@ -5,7 +5,8 @@ au B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'ori
 du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités
 implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui de la délimitation de la zone pour les
 contribuables qui y exercent déjà leur activité ou, dans le cas contraire, celui de leur début d'activité dans l'une de ces
-zones.
+zones. La date de délimitation des zones franches urbaines visée au présent article est réputée correspondre, dans tous les
+cas, au 1er janvier 1997.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
@@ -30,8 +31,8 @@ b) produits correspondant aux subventions, libéralités et abandons de créance
 
 c) produits de créances et d'opérations financières pour le montant qui excède le montant des frais financiers engagés au
 cours du même exercice ou de la même année d'imposition, si le contribuable n'est pas un établissement de crédit visé à
-l'article 1er de la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative à l'activité et au contrôle des établissements
-de crédit ;
+l'article 1er de la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité et au contrôle des établissements de
+crédit ;
 
 d) produits tirés des droits de la propriété industrielle et commerciale, lorsque ces droits n'ont pas leur origine dans
 l'activité exercée dans l'une des zones franches urbaines.
@@ -65,28 +66,18 @@ d'activité. L'option est irrévocable.
 
 IV. Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 34, 35, 92, 44 sexies, 1465 A, 1466 A, 50-0, 53 A, 96 à 100, 102 ter, 103, 8, 1467, 223 I
-  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+  - CGI 34, 35, 92, 44 sexies, 1465 A, 1466 A, 50-0, 53 A, 96 à 100, 102 ter, 103, 8, 1467, 223 A, 223 I
   - Loi n°84-46 1984-01-24 art. 1
-
-_Modifié par_:
-
-  - Loi - art. 7 (V) JORF 31 décembre 1998
-  - Loi n°98-261 du 6 avril 1998 - art. 7 () JORF 7 avril 1999
-  - Loi n°98-1266 1998-12-30 art. 7 II 3, IV Finances pour 1999 JORF 31 décembre 1998
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
+  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
 
 _Cité par_:
 
+  - Loi n°96-987 du 14 novembre 1996 - art. 12 (V)
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 130 (VD)
   - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (VD)
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
   - Code de la sécurité sociale. - art. L131-6 (V)
@@ -112,10 +103,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 M (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 N (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 P (V)
-  - Loi n°96-987 du 14 novembre 1996 - art. 12 (V)
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 130 (VD)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1997-03-14 4A-7-97
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 86 () JORF 14 décembre 2000
