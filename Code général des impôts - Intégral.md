@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-07-31
+Version Consolidée au 1986-08-07
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -136,8 +136,8 @@ Version Consolidée au 1986-07-31
               - [II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France (art. 164 A à 165 bis)](#133)
               - [III : Revenus de l'année de l'acquisition d'un domicile en France (art. 166)](#134)
               - [IV : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile hors de France (art. 167)](#135)
-            - [2eme Sous-section : Revenu global (art. 160 bis à 164 B)](#136)
-              - [I : Revenu imposable. (art. 160 bis à 163 quinquies C)](#137)
+            - [2eme Sous-section : Revenu global (art. 157 à 164 B)](#136)
+              - [I : Revenu imposable. (art. 157 à 163 quinquies C)](#137)
               - [II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France. (art. 164 B)](#138)
           - [Section III : Déclarations des contribuables (art. 170 bis à 175 A)](#139)
           - [Section V : Calcul de l'impôt (art. 182 A à 200 A)](#140)
@@ -8353,6 +8353,34 @@ _Cité par_:
   - HISTO: Edition du 31 juillet 1986
 
 
+###### Article 163 bis D
+
+Les avantages résultant des rabais sur les prix de cession, de la distribution gratuite d'actions et des délais de paiement,
+prévus par les articles 11, 12 et 13 de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application des
+privatisations décidées par la loi n° 86-793 du 2 juillet 1986, sont exonérés de l'impôt sur le revenu.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-793 1986-07-02
+  - Loi n°86-912 1986-08-06 art. 11, art. 12, art. 13
+  - Loi n°86-912 du 6 août 1986 - art. 12 (M)
+
+_Modifié par_:
+
+  - Loi n°86-912 1986-08-06 art. 14 JORF 7 août 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 157 (V)
+  - Code général des impôts, CGI. - art. 231 bis O (MMN)
+
+
 ###### Article 163 quinquies
 
 Lorsque le délai-congé se répartit sur plus d'une année civile, l'indemnité compensatrice due en application du code du
@@ -8837,6 +8865,171 @@ _Cite_:
 ##### 2eme Sous-section : Revenu global<a id=136></a>
 
 ##### I : Revenu imposable.<a id=137></a>
+
+###### Article 157
+
+N'entrent pas en compte pour la détermination du revenu net global :
+
+1° et 2° (Abrogés) ;
+
+2° bis (Périmé) ;
+
+3° Les lots et les primes de remboursement attachés aux bons et obligations émis en France avec l'autorisation du ministre de
+l'économie et des finances à l'exception des primes de remboursement attachées aux titres émis à compter du 1er juin 1985
+lorsqu'elles sont supérieures à 5 % du nominal (1) ;
+
+3° bis (Dispositions transférées sous le 3 °) ;
+
+4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de l'article 81 ;
+
+5° Les produits et plus-values que procurent les placements effectués dans le cadre d'un plan d'épargne en vue de la retraite
+ainsi que les avoirs fiscaux et crédits d'impôt attachés à ces produits et remboursés par l'Etat ; ces sommes s'ajoutent aux
+versements effectués sur le plan (2) ;
+
+6° Les gratifications allouées aux vieux travailleurs à l'occasion de la délivrance de la médaille d'honneur par le ministère
+des affaires sociales ;
+
+7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à l'exception des intérêts des livrets
+supplémentaires ouverts dans les conditions prévues au décret n° 65-1158 du 24 décembre 1965 ;
+
+7° bis. (Disposition périmée) ;
+
+7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire ouverts dans les conditions prévues par la loi
+n° 82-357 du 27 avril 1982 ;
+
+8° (Devenu sans objet)    8° bis. Les intérêts des titres de l'emprunt 4 1/2 % 1973 autorisé par la loi n° 73-965 du 16
+octobre 1973, ainsi que les plus-values éventuelles de cession ou de remboursement de ces titres ;
+
+8° ter. Les plus-values éventuelles de cession ou de remboursement des titres de l'emprunt d'Etat 8,80 % 1977 autorisé par la
+loi n° 77-486 du 13 mai 1977 ;
+
+9° (Dispositions devenues sans objet) ;
+
+9° bis. Les intérêts des sommes inscrites sur les comptes d'épargne-logement ouverts en application des articles L 315-1 à L
+315-6 du code de la construction et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces comptes ;
+
+9° ter. Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n°
+76-1232 du 29 décembre 1976 (3) :
+
+- aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de l'agriculture ;
+
+- aux aides familiaux ou aux associés d'exploitation désignés à l'article 1106-1-I-2° du code rural ;
+
+- aux aides familiaux et associés d'exploitation de l'artisanat désignés à l'article 2 du décret n° 83-487 du 10 juin 1983
+relatif au répertoire des métiers.
+
+Il en est de même de la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une
+entreprise artisanale ;
+
+9° quater. Le produit des placements en valeurs mobilières effectués sur un compte pour le développement industriel ouvert
+par les personnes physiques ayant leur domicile fiscal en France dans les établissements et organismes autorisés à recevoir
+des dépôts.
+
+Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux soumis à une imposition commune.
+
+Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un plafond fixé par décret (4) dans la limite de
+20.000 F par compte.
+
+Les valeurs mobilières sont celles servant au financement de l'industrie française et entrant dans des catégories fixées par
+décret (5) ;
+
+9° quinquies. Les intérêts des sommes inscrites sur les livrets d'épargne-entreprise ouverts dans les conditions fixées par
+l'article 1er de la loi n° 84-578 du 8 juillet 1984 sur le développement de l'initiative économique.
+
+10° à 13° (Dispositions périmées) ;
+
+14° et 15° (Devenus sans objet).
+
+16° Les produits des placements en valeurs mobilières effectués en vertu des engagements d'épargne à long terme pris par les
+personnes physiques dans les conditions prévues à l'article 163 bis A ;
+
+16° bis. Les sommes et revenus visés à l'article 163 bis AA ;
+
+17° Les sommes et revenus visés à l'article 163 bis B ;
+
+18° (Dispositions codifiées sous les articles 81-16° quater et 81-20°) ;
+
+19° L'indemnité de départ versée aux adhérents des caisses d'assurance-vieillesse des artisans et commerçants, en application
+de l'article 106 de la loi n° 81-1160 du 30 décembre 1981 ;
+
+20° Les intérêts des titres d'indemnisation prioritaires et des titres d'indemnisation créés en application de la loi n° 78-1
+du 2 janvier 1978 relative à l'indemnisation des français rapatriés d'outre-mer.
+
+21° Les avantages visés à l'article 163 bis D.
+
+(1) Voir article 125 D.
+
+(2) Annexe III, 41 ZC et 41 ZG.
+
+(3) A compter de la date de promulgation de la loi n°84-578 du 9 juillet 1984, il ne peut plus être ouvert de livrets. Les
+livrets d'épargne au profit des travailleurs manuels peuvent être transformés en livret d'épargne-entreprise dans les
+conditions fixées par le décret n° 85-68 du 22 janvier 1985 (J.O. du 23).
+
+(4) Plafond fixé à 10.000 F par compte (décret n° 83-872 du 30 septembre 1983, JO du 2 octobre).
+
+(5) Décret n° 83-872 du 30 septembre 1983 (JO du 2 octobre).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 125 D
+  - CGI 163 bis B
+  - CGI 163 bis D
+  - CGI 81, 163 bis A, 163 bis AA
+  - CGIAN3 41 ZC
+  - CGIAN3 41 ZG
+  - Code de la construction L315-1 à L315-6
+  - Code de la construction L315-19 à L315-32
+  - Code de la construction L315-8 à L315-18
+  - Code rural 1106 1 I 2°
+  - Loi n°52-565 1952-05-21
+  - Ordonnance 58-529 1958-06-11
+  - Décret n°65-1158 1965-12-24
+  - Loi n°72-657 1972-07-13
+  - Loi n°73-965 1973-10-16
+  - Loi n°76-1232 1976-12-29 ART. 80 FINANCES POUR 1977
+  - Loi n°77-486 1977-05-13
+  - Loi n°78-1 1978-01-02
+  - Loi n°81-1160 1981-12-30 ART. 106 FINANCES POUR 1982
+  - Loi n°82-357 1982-04-27
+  - Décret n°83-487 du 10 juin 1983 - art. 2 (M)
+  - Décret n°83-872 1983-09-30
+  - Loi n°84-578 du 9 juillet 1984 - art. 1, v. init.
+  - Décret n°85-68 1985-01-22
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1739 A (VD)
+  - Code de la construction et de l'habitation. - art. L315-4 (V)
+  - Code de la sécurité sociale. - art. L136-7 (V)
+  - Code de la sécurité sociale. - art. L136-7 (VD)
+  - Code général des impôts, CGI. - art. 125 A (VD)
+  - Code général des impôts, CGI. - art. 125 ter (V)
+  - Code général des impôts, CGI. - art. 1391 B ter (V)
+  - Code général des impôts, CGI. - art. 150-0 D (V)
+  - Code général des impôts, CGI. - art. 150-0 D bis (Ab)
+  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+  - Code général des impôts, CGI. - art. 158 (M)
+  - Code général des impôts, CGI. - art. 1600-0 J (VT)
+  - Code général des impôts, CGI. - art. 1649-0 A (P)
+  - Code général des impôts, CGI. - art. 242 ter (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater H (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater J (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies C (V)
+  - Code monétaire et financier - art. D221-109 (V)
+  - Code monétaire et financier - art. D221-113-1 (V)
+  - Livre des procédures fiscales - art. L16 (M)
+
+_Modifié par_:
+
+  - Loi n°85-695 1987-07-11 art. 14 I, V JORF 12 juillet 1985
+
 
 ###### Article 160 bis
 
@@ -11323,6 +11516,38 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°86-1086 1986-10-07
+
+
+###### Article 214 BA
+
+Les déductions prévues par l'article 214 A peuvent être opérées pendant les dix premiers exercices qui suivent la date
+d'émission des titres participatifs remis en échange d'actions en application de l'article 1er de la loi n° 86-912 du 6 août
+1986 relative aux modalités d'application des privatisations décidées par la loi n° 86-793 du 2 juillet 1986 (1).
+
+**Nota:**
+
+(1) Dispositions devenues sans objet pour les exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 214 A
+  - Loi n°86-793 1986-07-02
+  - Loi n°86-912 1986-08-06 art. 1
+
+_Créé par_:
+
+  - Loi n°86-912 du 6 août 1986 - art. 18 (Ab) JORF 7 août 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+  - Décret n°93-1127 1993-09-24
+
+**Liens**:
+
+  - PEREMPTION: Loi - art. 13 (V) JORF 31 décembre 1992
 
 
 ###### Article 216
