@@ -2,9 +2,9 @@
 
 Conformément à l'article L. 431-14 du code des assurances, il est perçu au profits du fonds de compensation des risque de
 l'assurance de la construction une contribution des assurés assise sur les primes ou cotisation d'assurance correspondant aux
-garanties d'assurance obligatoire des dommages à la construction ainsi qu'aux garanties d'assurance décénnale souscrites par
-toute personne, qu'elle soit ou non liée au maître d'ouvrage par un contrat de louage d'ouvrage, pour couvrir sa
-responsabilité dans les travaux de bâtiment.
+garanties d'assurance des dommages à la construction ainsi qu'aux garanties d'assurance décennale souscrites par toute
+personne, qu'elle soit ou non liée au maître d'ouvrage par un contrat de louage d'ouvrage, pour couvrir sa responsabilité
+dans les travaux de bâtiment.
 
 Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et comportant des garanties autres que celles
 visées à l'alinéa précédent doivent distinguer la partie de la prime ou cotisation afférente à ces dernières garanties.
@@ -15,22 +15,22 @@ artisanales et de 25,5 % en ce qui concerne les autres primes ou cotisations d'a
 Cette contribution, appelée lors de l'émission annuelle de la prime, est recouvrée suivant les mêmes règles, sous les mêmes
 garanties et les mêmes sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants.
 
-(Sans objet).
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 991 et s
-  - Loi n°82-540 du 28 juin 1982 - art. 30, v. init.
+  - CGI 991
   - Code des assurances - art. L431-14 (M)
-  - Code des assurances - art. R431-59 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
+  - TXT_ASSOCIE: Instruction 2001-03-27 7K-1-01
 
 _Modifié par_:
 
-  - Décret n°85-864 1985-08-02 art. 6 JORF 15 août 1985
-  - Loi n°89-936 1989-12-29 art. 42 Finances rectificative pour 1989 JORF 30 décembre 1989
+  - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 _Codifié par_:
 
-  - Décret n°90-798 1990-09-10
+  - Décret n°91-883 1991-09-09
