@@ -14,7 +14,9 @@ leurs groupements situés dans le ressort de ces établissements.
 III. - Pour l'application du II, les recettes s'entendent de celles figurant dans des rôles généraux ainsi que de la
 compensation prévue au D de l'article 44 modifié de la loi de finances pour 1999, n° 98-1266 du 30 décembre 1998, versée au
 titre de l'année précédente en contrepartie de la suppression de la part des salaires et rémunérations visés au b du 1° de
-l'article 1467 dans la base d'imposition à la taxe professionnelle.
+l'article 1467 dans la base d'imposition à la taxe professionnelle, et de la compensation prévue au B de l'article 26 de la
+loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002) versée au titre de l'année précédente en contrepartie de la
+réduction de la fraction imposable des recettes visée au 2° de l'article 1467.
 
 IV. Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre les
 taxes foncières, la taxe d'habitation et la taxe professionnelle proportionnellement aux recettes que chacune de ces taxes
@@ -23,10 +25,14 @@ procurerait à la commune, si l'on appliquait les taux de l'année précédente 
 IV bis. - Pour l'application du IV, les recettes afférentes à la taxe professionnelle sont majorées du montant, calculé à
 partir du seul taux communal, de la compensation prévue pour l'année d'imposition au D de l'article 44 modifié de la loi de
 finances pour 1999 précitée en contrepartie de la suppression de la part des salaires et rémunérations visés au b du 1° de
-l'article 1467 dans la base d'imposition à la taxe professionnelle.
+l'article 1467 dans la base d'imposition à la taxe professionnelle et diminuées du prélèvement effectué en application du 1
+du III de l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002), ainsi que de la compensation
+prévue pour l'année d'imposition au B de l'article 26 de la loi de finances pour 2003 précitée en contrepartie de la
+réduction de la fraction imposable des recettes visée au 2° de l'article 1467.
 
 Pour l'application du IV, le produit fiscal à recouvrer est minoré de la part reversée par la commune au syndicat du montant
-de la compensation visée au premier alinéa.
+des compensations mentionnées au premier alinéa et majoré du prélèvement effectué en application du 1 du III de l'article 29
+de la loi de finances pour 2003 précitée.
 
 V. Les dispositions du présent article entreront en vigueur à compter de 1981.
 
@@ -36,11 +42,12 @@ _Cite_:
 
   - CGI 1467
   - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
+  - Loi n°2002-1575 2002-12-30 art. 26 B, art. 29 III 1 Finances pour 2003
   - Code de l'urbanisme - art. L324-1 (M)
 
 _Modifié par_:
 
-  - Loi - art. 36 (V) JORF 29 décembre 2001
+  - Loi n°2002-1575 2002-12-30 art. 26 C, art. 29 V Finances pour 2003 JORF 31 décembre 2002
 
 _Cité par_:
 
@@ -51,8 +58,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 B (V)
   - Code général des impôts, CGI. - art. 1609 quater (VT)
   - Code général des impôts, CGI. - art. 1636 C (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 1999-06-29 6F-4-99
