@@ -1,18 +1,18 @@
 # Article 238 septies E
 
-I. - Constitue une prime de remboursement :
+I. Constitue une prime de remboursement :
 
-1. Pour les emprunts négociables visés à l'article 118, les titres de créances négociables visés à l'article 124 B et tous
-autres titres ou contrats d'emprunt ou de capitalisation non négociables, émis ou conclus à compter du 1er janvier 1993, la
-différence entre les sommes ou valeurs à recevoir quelle que soit leur nature, à l'exception des intérêts linéaires versés
-chaque année à échéances régulières et restant à recevoir après l'acquisition, et celles versées lors de la souscription ou
-de l'acquisition ;
+1. Pour les emprunts négociables visés à l'article 118 (( et aux 6° et 7° de l'article 120 )) (1) , les titres de créances
+négociables visés à l'article 124 B et tous autres titres ou contrats d'emprunt ou de capitalisation (( négociables ou non ))
+(1), émis ou conclus à compter du 1er janvier 1993, la différence entre les sommes ou valeurs à recevoir quelle que soit leur
+nature, à l'exception des intérêts linéaires versés chaque année à échéances régulières et restant à recevoir après
+l'acquisition, et celles versées lors de la souscription ou de l'acquisition ;
 
 2. Pour les emprunts ou titres de même nature démembrés à compter du 1er janvier 1993, la différence entre les sommes ou
 valeurs à recevoir quelle que soit leur nature et le prix d'acquisition du droit au paiement du principal, d'intérêts ou de
 toute autre rémunération de l'emprunt, ou du titre représentatif de l'un de ces droits.
 
-Le cas échéant, pour l'application du présent article, la prime    comprend la différence entre la valeur actuelle du titre
+Le cas échéant, pour l'application du présent article, la prime comprend la différence entre la valeur actuelle du titre
 après détachement des droits d'achat, de souscription, d'échange ou d'option prévus au contrat et sa valeur de remboursement.
 
 Les dispositions du présent I sont applicables à un emprunt qui fait l'objet d'émissions successives et d'une cotation en
@@ -70,20 +70,22 @@ l'administration.
 V. - Les dispositions du présent article ne sont pas applicables aux titres détenus par les personnes physiques dans le cadre
 de la gestion de leur patrimoine privé.
 
+(1) Modifications de la loi 93-1353.
+
+**Nota:**
+
+NOTA : Ces dispositions s'appliquent aux emprunts, titres ou droits émis ou démembrés à compter du 1er janvier 1993, ainsi
+qu'aux emprunts mentionnés au dernier alinéa du I  si une partie de ces emprunts a été émise à compter de la même date.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 118, 124 B, 39, 53 A
+  - CGI 118, 120, 124 B, 39, 53 A
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 14 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°92-1376 1992-12-30 art. 14 II 2°
-  - HISTO: Edition du 18 août 1993
+  - Loi n°93-1353 du 30 décembre 1993 - art. 3 (V) JORF 31 décembre 1993
 
 _Cité par_:
 
@@ -94,3 +96,8 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 septies D (V)
   - Code général des impôts, CGI. - art. 38 bis B bis (V)
   - Code général des impôts, CGI. - art. 39 quinquies GC (V)
+
+**Liens**:
+
+  - HISTO: Edition du 2 septembre 1994
+  - TXT_ASSOCIE: Instruction 1994-02-01 4A-4-94
