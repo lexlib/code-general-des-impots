@@ -2,8 +2,9 @@
 
 La taxe prévue à l'article 150 V bis est supportée par le vendeur. Elle est versée par l'intermédiaire participant à la
 transaction ou, à défaut, par l'acheteur, dans les trente jours et sous les mêmes garanties qu'en matière de taxes sur le
-chiffre d'affaires. Toutefois, la taxe est versée, dans les mêmes conditions, par le vendeur, lorsque la vente est réalisée
-dans un autre Etat membre de la Communauté européenne.
+chiffre d'affaires. Lorsque la vente est réalisée dans un autre Etat membre de la Communauté européenne, la taxe est versée
+dans les mêmes conditions par l'intermédiaire participant à la transaction s'il est domicilié en France ou, à défaut, par le
+vendeur.
 
 La taxe n'est pas perçue lorsque le vendeur fait commerce des biens concernés, à titre professionnel.
 
@@ -13,19 +14,18 @@ _Cite_:
 
   - CGI 150 V bis
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - CGI 302 bis B
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - CGI 150 VJ
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
-  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+  - HISTO: Edition du 1er janvier 2004
 
 _Modifié par_:
 
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 19 () JORF 27 mars 2004
+
+_Transféré par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 68 (V) JORF 31 décembre 2005

@@ -75,8 +75,9 @@ par une entreprise française, à compter du 1er janvier 1988, par l'intermédia
 moins du capital et qui a pour objet principal d'assurer un service nécessaire à une activité de commercialisation de biens
 produits par des entreprises ou établissements dont les résultats sont soumis à l'impôt sur les sociétés. Toutefois, lorsque
 l'investissement est réalisé dans un Etat membre de la Communauté européenne, la provision est égale aux pertes subies au
-cours des cinq premières années d'exploitation dans la proportion définie au deuxième alinéa du I de l'article 39 octies B,
-et dans la limite de la moitié de l'investissement.
+cours des cinq premières années d'exploitation dans la proportion, calculée en valeur nominale, des titres de la filiale
+ouvrant droit à dividendes détenus par l'entreprise française sur l'ensemble des titres ouvrant droit à dividendes émis par
+la filiale, et dans la limite de la moitié de l'investissement.
 
 Les dispositions du premier alinéa ne sont plus applicables aux investissements qui font l'objet d'une demande d'agrément
 déposée après le 31 décembre 1991.
@@ -101,14 +102,11 @@ l'agrément est subordonné, les dispositions de l'article 1756 sont applicables
 
 _Cite_:
 
-  - CGI 1756, 35
-  - CGIAN3 10 GA
-  - CGIAN4 4 D
-  - Décret n°55-570 1955-05-20 art. 1
+  - CGI 35, 1756
 
 _Modifié par_:
 
-  - Loi - art. 31 () JORF 31 décembre 2003
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 1 () JORF 27 mars 2004
 
 _Cité par_:
 

@@ -7,10 +7,9 @@ communautés urbaines soumises de plein droit ou après option aux dispositions 
 communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des I et II des
 articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
 
-2° Les communautés de communes faisant application des dispositions fiscales prévues au III de l'article 1609 quinquies C et,
-jusqu'au 1er janvier 2002, les districts faisant application des dispositions de l'article 1609 quinquies A et les
-communautés de villes sont substitués aux communes membres pour l'application des dispositions relatives à la taxe
-professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
+2° Les communautés de communes faisant application des dispositions fiscales prévues au III de l'article 1609 quinquies C
+sont substituées aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception
+des I et II des articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
 
 II. 1° Les établissements publics de coopération intercommunale visés au I peuvent décider, par délibération du conseil de
 l'établissement public de coopération intercommunale statuant à la majorité simple de ses membres, de percevoir la taxe
@@ -263,7 +262,7 @@ pour le régime fiscal prévu au présent article ou dont la communauté de comm
 
 _Cite_:
 
-  - CGI 1648 A, 1648 AA, 1609 quinquies C, 1609 quinquies A, 1639 A, 1636 B decies, 1638 quater, 1383 B, 1390, 1391, 1414
+  - CGI 1648 A, 1648 AA, 1609 quinquies C, 1639 A, 1636 B decies, 1638 quater, 1383 B, 1390, 1391, 1414
   - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
   - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992
   - Loi n°96-987 du 14 novembre 1996 - art. 4 ()
@@ -373,14 +372,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 61 (V) JORF 31 décembre 2003
-  - Loi - art. 62 () JORF 31 décembre 2003
-  - Loi - art. 63 () JORF 31 décembre 2003
-  - Loi n°2003-1311 2003-12-30 art. 53 VI 4 Finances pour 2003 JORF 31 décembre 2003
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 7 () JORF 27 mars 2004
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 61 III
   - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
-  - TXT_ASSOCIE: Instruction 2002-07-03 6A-4-02
