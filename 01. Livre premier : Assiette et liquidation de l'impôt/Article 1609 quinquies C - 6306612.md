@@ -40,6 +40,9 @@ relative des bases de ces trois taxes la même année.
 c) La variation des taux définis aux a et b est celle constatée l'année précédant celle au titre de laquelle la communauté de
 communes vote le taux de taxe professionnelle applicable dans la zone d'activités économiques.
 
+((2° bis En cas d'incorporation d'une commune ou partie de commune dans une zone d'activités économiques, les dispositions du
+III de l'article 1638 quater sont applicables)) (1) ;
+
 3° Les groupements de communes soumis aux dispositions du présent paragraphe bénéficient de la compensation prévue au IV bis
 de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par l'article 46 de la loi de
 finances pour 1992 (n° 91-1322 du 30 décembre 1991), et de l'article 124 de la loi n° 92-125 du 6 février 1992 d'orientation
@@ -64,39 +67,25 @@ III. Les dispositions de l'article 1609 nonies C sont applicables aux communaut�
 communauté statuant à la majorité des trois quarts. Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans
 les mêmes conditions.
 
+(1) Modification de la loi.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1469 A bis, 1478
-  - CGI 1609 nonies D, 1609 nonies C, 1636 B sexies, 1636 B septies
-  - Loi n°86-1317 1986-12-30 art. 6 finances pour 1987
-  - Loi n°91-1322 1991-12-30 art. 46 finances pour 1992
+  - CGI 1609 nonies D, 1609 nonies C, 1636 B sexies, 1636 B septies, 1638 quater, 1469 A bis, 1478
+  - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
+  - Loi n°91-1322 1991-12-30 art. 46 Finances pour 1992
   - Loi n°92-125 1992-02-06 art. 124
 
-_Modifié par_:
+_Codifié par_:
 
-  - Loi - art. 40 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-  - Modifications directes incorporées dans l'édition du 18 août 1993
+  - Décret n°94-899 1994-10-17
 
 _Cité par_:
 
-  - Loi n°94-1131 du 27 décembre 1994 - art. 2 (V)
-  - Loi n°96-987 du 14 novembre 1996 - art. 4 (V)
-  - Loi n°96-1143 du 26 décembre 1996 - art. 3 (V)
-  - Loi n°97-1269 du 30 décembre 1997 - art. 95 (V)
-  - Loi - art. 44 (V)
-  - Loi n°2002-1575 du 30 décembre 2002 - art. 26 (V)
-  - Loi n°2002-1575 du 30 décembre 2002 - art. 29 (V)
-  - Loi n°2004-809 du 13 août 2004 - art. 154 (V)
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 46 (V)
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
-  - Loi n°2006-396 du 31 mars 2006 - art. 29 (VD)
   - Décret n°2008-98 du 30 janvier 2008 - art. 1 (V)
   - Décret n°2008-98 du 30 janvier 2008 - art. 2 (V)
-  - Loi n°2009-594 du 27 mai 2009 - art. 5 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (VD)
   - Code général des collectivités territoriales - art. L2313-1 (VT)
   - Code général des collectivités territoriales - art. L2332-2 (V)
   - Code général des collectivités territoriales - art. L2334-4 (V)
@@ -118,7 +107,26 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1647-0 B septies (Ab)
   - Code général des impôts, CGI. - art. 1648 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
+  - Loi n°94-1131 du 27 décembre 1994 - art. 2 (V)
+  - Loi n°96-987 du 14 novembre 1996 - art. 4 (V)
+  - Loi n°96-1143 du 26 décembre 1996 - art. 3 (V)
+  - Loi n°97-1269 du 30 décembre 1997 - art. 95 (V)
+  - Loi - art. 44 (V)
+  - Loi n°2002-1575 du 30 décembre 2002 - art. 26 (V)
+  - Loi n°2002-1575 du 30 décembre 2002 - art. 29 (V)
+  - Loi n°2004-809 du 13 août 2004 - art. 154 (V)
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 46 (V)
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+  - Loi n°2006-396 du 31 mars 2006 - art. 29 (VD)
+  - Loi n°2009-594 du 27 mai 2009 - art. 5 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (VD)
 
 **Liens**:
 
+  - HISTO: Edition du 2 septembre 1994
   - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
+
+_Modifié par_:
+
+  - Loi n°93-1352 du 30 décembre 1993 - art. 93 (V) JORF 31 décembre 1993

@@ -20,14 +20,20 @@ inférieur à un plafond fixé par décret (2).
 Ces dispositions sont également applicables aux loueurs non professionnels qui concluent un contrat de location ou de sous-
 location avec des bénéficiaires du revenu minimum d'insertion ou des étudiants bénéficiant d'une bourse à caractère social.
 
+((Les exonérations prévues au premier et au deuxième alinéa sont prorogées par périodes de trois ans si les conditions
+prévues aux premier et deuxième alinéas sont toujours remplies au début de chaque période. Il en est de même en cas de
+reconduction ou de renouvellement du contrat de location ou de sous-location)) (2').
+
 Les modalités d'agrément ainsi que le contenu des déclarations à souscrire par les personnes et organismes mentionnés au
 présent article sont fixés par décret (3).
 
----(1) Voir Annexe II, art. 74 T.
+(1) Voir Annexe II, art. 74 T.
 
----(2) Voir Annexe III, art. 41 DC.
+(2) Voir Annexe III, art. 41 DC.
 
----(3) Voir Annexe III, art. 41 DD à 41 DG.
+(2') Modification.
+
+(3) Voir Annexe III, art. 41 DD à 41 DG.
 
 **Liens relatifs à cet article**
 
@@ -38,10 +44,18 @@ _Cite_:
   - CGIAN3 41 DC, 41 DD à 41 DG
   - Loi n°90-449 1990-05-31 art. 1
 
-_Modifié par_:
-
-  - Loi n°90-449 du 31 mai 1990 - art. 9 () JORF 2 juin 1990
-
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - Décret n°94-899 1994-10-17
+
+**Liens**:
+
+  - HISTO: Edition du 2 septembre 1994
+  - TXT_ASSOCIE: Instruction 1996-01-04 4F-1-96
+  - TXT_ASSOCIE: Instruction 1996-12-19 4F-4-96
+  - TXT_ASSOCIE: Instruction 1997-12-09 4F-2-97
+  - TXT_ASSOCIE: Instruction 1998-04-10 4F-2-98
+
+_Modifié par_:
+
+  - Loi n°94-624 du 21 juillet 1994 - art. 26 () JORF 24 juillet 1994

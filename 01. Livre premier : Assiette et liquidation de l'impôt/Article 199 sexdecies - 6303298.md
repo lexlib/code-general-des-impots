@@ -6,8 +6,8 @@ située en France, ainsi que les sommes versées aux mêmes fins soit à une ass
 la fourniture de services aux personnes à leur domicile, soit à un organisme à but non lucratif ayant pour objet l'aide à
 domicile et habilité au titre de l'aide sociale ou conventionné par un organisme de sécurité sociale.
 
-La réduction d'impôt est égale à 50 p. 100 du montant des dépenses effectivement supportées, retenues dans la limite de 25
-000 F.
+La réduction d'impôt est égale à 50 p. 100 du montant des dépenses effectivement supportées, retenues dans la limite de
+(( 26.000 F )) (Modification de la loi).
 
 La réduction d'impôt est accordée sur présentation des pièces justifiant du paiement des salaires et des cotisations
 sociales, de l'identité du bénéficiaire, ou de la nature et du montant des prestations fournies par l'intermédiaire de
@@ -29,9 +29,10 @@ _Cite_:
   - CGI 197
   - Décret n°92-18 1992-01-06
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 17 (V) JORF 31 décembre 1991
+  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
+  - Modifications directes incorporées dans l'édition du 2 septembre 1994
 
 _Cité par_:
 

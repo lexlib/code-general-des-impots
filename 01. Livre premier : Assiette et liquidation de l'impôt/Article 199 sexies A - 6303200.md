@@ -5,9 +5,11 @@ I. La réduction d'impôt prévue à l'article 199 sexies est égale à 20 % du 
 réparations d'immeubles dont le propriétaire se réserve la jouissance ou lorsque le paiement des dépenses de ravalement
 interviennent à partir du 1er janvier 1984 ;
 
-II. La réduction s'applique sur l'impôt calculé dans les conditions fixées aux I et VII de l'article 197 avant, le cas
-échéant, application des dispositions du VI du même article et avant imputation de l'avoir fiscal, des crédits d'impôt et des
-prélèvements ou retenues non libératoires ; elle ne peut donner lieu à remboursement.
+II. La réduction s'applique sur l'impôt calculé ((dans les conditions fixées à l'article 197)) (M) et avant imputation de
+l'avoir fiscal, des crédits d'impôt et des prélèvements ou retenues non libératoires ; elle ne peut donner lieu à
+remboursement.
+
+(M) Modification de la loi.
 
 **Liens relatifs à cet article**
 
@@ -17,12 +19,12 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
-
-_Créé par_:
-
-  - Décret n°91-883 du 9 septembre 1991 - art. 1 () JORF 10 septembre 1991
+  - Décret n°94-899 1994-10-17
 
 **Liens**:
 
-  - HISTO: Edition du 24 juin 1991
+  - HISTO: Edition du 2 septembre 1994
+
+_Modifié par_:
+
+  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
