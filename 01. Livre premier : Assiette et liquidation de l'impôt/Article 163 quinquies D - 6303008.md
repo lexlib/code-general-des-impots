@@ -15,8 +15,8 @@ conditions mentionnées à l'article 80 bis.
 
 2. Les titres ou parts dont la souscription a permis au titulaire du plan de bénéficier des avantages fiscaux résultant des
 dispositions des 2° quater et 2° quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 quinquies B, 163
-septdecies, 199 undecies et 199 terdecies A, du I bis de l'article 163 bis C, du deuxième alinéa du II de l'article 726 ainsi
-que du III ter de l'article 810 ne peuvent figurer dans le plan.
+septdecies, 199 undecies, 199 undecies A et 199 terdecies A, du I bis de l'article 163 bis C, du deuxième alinéa du II de
+l'article 726 ainsi que du III ter de l'article 810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne doivent pas, pendant la durée du plan, détenir
 ensemble, directement ou indirectement, plus de 25 p. 100 des droits dans les bénéfices de sociétés dont les titres figurent
@@ -42,11 +42,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°94-126 du 11 février 1994 - art. 26 (V) JORF 13 février 1994
-
-_Codifié par_:
-
-  - Décret n°2000-477 2000-06-02
+  - Loi - art. 19 (V) JORF 31 décembre 2000
+  - Loi n°2000-1352 2000-12-30 art. 19 I, D, 4 Finances pour 2001 JORF 31 décembre 2000
 
 _Cité par_:
 
@@ -76,4 +73,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 mars 2001
