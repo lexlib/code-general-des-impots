@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1968-12-29
+Version Consolidée au 1969-12-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 564 sexies à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 564 sexies à 1043 A)](#2)
@@ -32,6 +32,10 @@ Version Consolidée au 1968-12-29
     - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#29)
       - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#30)
         - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#31)
+  - [Livre II : Recouvrement de l'impôt (art. 1694 bis)](#32)
+    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis)](#33)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#34)
+        - [III bis : Régime simplifié (art. 1694 bis)](#35)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -353,5 +357,38 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 322 A (P)
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 (P)
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
+
+
+# Livre II : Recouvrement de l'impôt<a id=32></a>
+
+## Chapitre premier : Paiement de l'impôt<a id=33></a>
+
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=34></a>
+
+#### III bis : Régime simplifié<a id=35></a>
+
+###### Article 1694 bis
+
+Il est institué, par décret en Conseil d'Etat (1), un régime simplifié de recouvrement des taxes sur le chiffre d'affaires
+dues par les personnes mentionnées au I de l'article 302 septies. 
+
+(1) Annexe II, art. 204 ter, 204 quater, 242 quater à 242 septies et 383 ter.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 204 ter (Ab)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242 quater (Ab)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 383 ter (V)
+  - Code général des impôts, CGI. - art. 302 septies (Ab)
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
+
+_Modifié par_:
+
+  - Loi n°69-1161 1969-12-24 art. 12 I Finances pour 1970 JORF 27 décembre 1969
 
 
