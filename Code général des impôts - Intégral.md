@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1972-08-30
+Version Consolidée au 1972-12-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 564 sexies à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 564 sexies à 1090 A)](#2)
@@ -42,16 +42,19 @@ Version Consolidée au 1972-08-30
     - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#39)
       - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#40)
         - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#41)
-  - [Livre II : Recouvrement de l'impôt (art. 1694 bis à 1705)](#42)
+  - [Livre II : Recouvrement de l'impôt (art. 1694 bis à 1965 E)](#42)
     - [Chapitre premier : Paiement de l'impôt (art. 1694 bis à 1705)](#43)
       - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#44)
         - [III bis : Régime simplifié (art. 1694 bis)](#45)
       - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1703 à 1705)](#46)
         - [II : Obligations des agents (art. 1703)](#47)
         - [III : Obligation au paiement (art. 1705)](#48)
-  - [RECOUVREMENT DE L'IMPOT (art. 1840 C)](#49)
-    - [PENALITES (art. 1840 C)](#50)
-      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#51)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#49)
+      - [Section II : Juridiction contentieuse (art. 1965 E)](#50)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#51)
+  - [RECOUVREMENT DE L'IMPOT (art. 1840 C)](#52)
+    - [PENALITES (art. 1840 C)](#53)
+      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#54)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -708,11 +711,42 @@ _Cité par_:
   - TXT_ASSOCIE: Jurisprudence 1997-12-04 13L-6-97
 
 
-# RECOUVREMENT DE L'IMPOT<a id=49></a>
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=49></a>
 
-## PENALITES<a id=50></a>
+### Section II : Juridiction contentieuse<a id=50></a>
 
-### DISPOSITIONS PARTICULIERES.<a id=51></a>
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=51></a>
+
+###### Article 1965 E
+
+1. La taxe spéciale sur les conventions d'assurances et les pénalités payées à tort peuvent être restituées.
+
+2. La taxe dûment payée ne peut être restituée qu'en cas de résiliation, d'annulation ou de résolution judiciaire de la
+convention, à concurrence de la fraction afférente :
+
+a. Aux sommes stipulées au profit de l'assureur et à leurs accessoires dont le remboursement à l'assuré est ordonné par le
+jugement ou arrêt ;
+
+b. Aux sommes stipulées au profit de l'assureur et à leurs accessoires qui, ayant donné lieu à un paiement effectif de la
+taxe, bien que n'ayant pas encore été payées à l'assureur, ne peuvent plus, d'après les dispositions de la décision
+judiciaire, être exigées par lui de l'assuré.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°72-1116 1972-12-08 art. 4 JORF 17 décembre 1972
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+# RECOUVREMENT DE L'IMPOT<a id=52></a>
+
+## PENALITES<a id=53></a>
+
+### DISPOSITIONS PARTICULIERES.<a id=54></a>
 
 ###### Article 1840 C
 
