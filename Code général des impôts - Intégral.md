@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-01-08
+Version Consolidée au 1988-01-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -757,9 +757,9 @@ Version Consolidée au 1988-01-08
               - [B : Exonérations (art. 903 à 904)](#754)
               - [C : Tarifs (art. 905 à 907)](#755)
               - [D : Prescriptions et prohibitions (art. 908)](#756)
-            - [III : Timbre des effets de commerce (art. 911 à 916)](#757)
-              - [Champ d'application et tarif (art. 911 à 916)](#758)
-                - [1 : Effets imposables. (art. 911 à 912)](#759)
+            - [III : Timbre des effets de commerce (art. 910 à 916)](#757)
+              - [Champ d'application et tarif (art. 910 à 916)](#758)
+                - [1 : Effets imposables. (art. 910 à 912)](#759)
                 - [2 : Exonérations (art. 913 à 916)](#760)
                   - [a : Chèques et ordres de virement. (art. 913 à 915)](#761)
                   - [b : Autres effets. (art. 916)](#762)
@@ -43395,6 +43395,27 @@ _Abrogé par_:
 ##### Champ d'application et tarif<a id=758></a>
 
 ##### 1 : Effets imposables.<a id=759></a>
+
+###### Article 910
+
+I. Sous réserve de ce qui est dit au II, les lettres de change, même tirées par seconde, troisième et duplicata, les billets
+à ordre ou au porteur, les warrants et tous autres effets négociables ou de commerce sont soumis à un droit de 11 F
+[*montant*].
+
+Ce droit est applicable aux effets créés en France et payables hors de France [*à l'étranger*].
+
+II. Sont soumis à un droit de 3,50 F les effets de commerce revêtus, dès leur création, d'une mention de domiciliation dans
+un établissement de crédit ou un bureau de chèques postaux.
+
+Les effets qui, tirés hors de France, sont susceptibles de donner lieu à la perception du droit prévu au I, bénéficient du
+même régime, à condition d'être revêtus d'une mention identique au moment où l'impôt devient exigible en France.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°87-1060 du 30 décembre 1987 - art. 2 (P) JORF 31 décembre 1987 en vigueur le 15 janvier 1988
+
 
 ###### Article 911
 
