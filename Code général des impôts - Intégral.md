@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1977-01-01
+Version Consolidée au 1977-12-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 74 B à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 74 B à 1090 A)](#2)
@@ -72,13 +72,17 @@ Version Consolidée au 1977-01-01
       - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1703 à 1705)](#69)
         - [II : Obligations des agents (art. 1703)](#70)
         - [III : Obligation au paiement (art. 1705)](#71)
-    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#72)
-      - [Section II : Juridiction contentieuse (art. 1965 E)](#73)
-        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#74)
-  - [RECOUVREMENT DE L'IMPOT (art. 1736 à 1840 C)](#75)
-    - [PENALITES (art. 1736 à 1840 C)](#76)
-      - [DISPOSITIONS COMMUNES. (art. 1736)](#77)
-      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#78)
+    - [Chapitre II : Pénalités (art. 1800)](#72)
+      - [Section II : Dispositions particulières (art. 1800)](#73)
+        - [C : Contributions indirectes (art. 1800)](#74)
+          - [1 : Sanctions fiscales (art. 1800)](#75)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#76)
+      - [Section II : Juridiction contentieuse (art. 1965 E)](#77)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#78)
+  - [RECOUVREMENT DE L'IMPOT (art. 1736 à 1840 C)](#79)
+    - [PENALITES (art. 1736 à 1840 C)](#80)
+      - [DISPOSITIONS COMMUNES. (art. 1736)](#81)
+      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#82)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -1086,11 +1090,59 @@ _Cité par_:
   - TXT_ASSOCIE: Jurisprudence 1997-12-04 13L-6-97
 
 
-## Chapitre V : Dégrèvements et restitutions d'impôts<a id=72></a>
+## Chapitre II : Pénalités<a id=72></a>
 
-### Section II : Juridiction contentieuse<a id=73></a>
+### Section II : Dispositions particulières<a id=73></a>
 
-#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=74></a>
+#### C : Contributions indirectes<a id=74></a>
+
+##### 1 : Sanctions fiscales<a id=75></a>
+
+###### Article 1800
+
+En matière de contributions indirectes et par application de l'article 463 du code pénal, si les circonstances paraissent
+atténuantes, les tribunaux sont autorisés à modérer le montant des amendes et à libérer le contrevenant de la confiscation,
+sauf pour les objets prohibés, par le paiement d'une somme que le tribunal arbitre.
+
+Le minimum des condamnations encourues est fixé au tiers de la somme servant de base au calcul de la pénalité
+proportionnelle.
+
+Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues.
+
+Les circonstances atténuantes cessent d'être applicables, en cas de récidive, dans le délai d'un an.
+
+**Nota:**
+
+Loi 92-1336 1992-12-16 art. 323 : sont abrogées toutes les dispositions faisant référence à l'article 463 du code pénal. 
+
+La loi 93-913 du 19 juillet 1993 reporte au 1er mars 1994 l'entrée en vigueur des livres I à V du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+
+**Liens**:
+
+  - HISTO: Edition du 20 juillet 1984
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
+
+_Modifié par_:
+
+  - Loi n°77-1453 du 29 décembre 1977 - art. 9 (V) JORF 30 décembre 1977
+
+_Cite_:
+
+  - Code pénal 463
+
+
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=76></a>
+
+### Section II : Juridiction contentieuse<a id=77></a>
+
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=78></a>
 
 ###### Article 1965 E
 
@@ -1117,11 +1169,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# RECOUVREMENT DE L'IMPOT<a id=75></a>
+# RECOUVREMENT DE L'IMPOT<a id=79></a>
 
-## PENALITES<a id=76></a>
+## PENALITES<a id=80></a>
 
-### DISPOSITIONS COMMUNES.<a id=77></a>
+### DISPOSITIONS COMMUNES.<a id=81></a>
 
 ###### Article 1736
 
@@ -1182,7 +1234,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 990 C (Ab)
 
 
-### DISPOSITIONS PARTICULIERES.<a id=78></a>
+### DISPOSITIONS PARTICULIERES.<a id=82></a>
 
 ###### Article 1840 C
 
