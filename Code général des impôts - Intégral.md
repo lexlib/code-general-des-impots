@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-03-22
+Version Consolidée au 1983-06-03
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -126,8 +126,8 @@ Version Consolidée au 1983-03-22
           - [Section VI : Dispositions spéciales applicables en cas de cession, de cessation ou de décès (art. 201 ter)](#123)
         - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 205 à 223 ter)](#124)
           - [Section I : Généralités (art. 205)](#125)
-          - [Section II : Champ d'application de l'impôt (art. 208 ter A à 208 ter B)](#126)
-            - [II : Exonérations et régimes particuliers. (art. 208 ter A à 208 ter B)](#127)
+          - [Section II : Champ d'application de l'impôt (art. 208 ter à 208 ter B)](#126)
+            - [II : Exonérations et régimes particuliers. (art. 208 ter à 208 ter B)](#127)
           - [Section III : Détermination du bénéfice imposable (art. 209 B à 217 sexies)](#128)
           - [Section IV : Personnes imposables - Lieu d'imposition (art. 218 A à 218 bis)](#129)
           - [Section V : Calcul de l'impôt (art. 219 quater à 220 bis)](#130)
@@ -6678,6 +6678,45 @@ _Cite_:
 ##### Section II : Champ d'application de l'impôt<a id=126></a>
 
 ##### II : Exonérations et régimes particuliers.<a id=127></a>
+
+###### Article 208 ter
+
+Les collectivités imposables en vertu de l'article 206-5 n'ont pas à comprendre dans leurs revenus imposables : [*exonération
+de l'impôt sur les sociétés*]     a. Les intérêts des sommes inscrites sur les livrets de caisse d'épargne (1), sur les
+comptes d'épargne-construction, mentionnés aux articles L 315-19 à L 315-32 du code de la construction et de l'habitation et
+sur les comptes d'épargne-crédit mentionnés aux articles L 315-8 à L 315-18 du même code;
+
+b. Dans les conditions et sous les réserves prévues par l'article 133-1°, les intérêts, arrérages et autres produits des
+emprunts non négociables contractés par les départements, communes, syndicats de communes et établissements publics;
+
+c. Même s'ils ne sont pas représentés par des titres négociables, les produits des emprunts visés aux articles 138-4° et 146
+quater [*HLM, crédit immobilier, ZUP*].
+
+1)  Voir Annexe III, art. 46 quater-0B.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 138 4°
+  - CGI 146 quater
+  - CGI 206 5
+  - CGIAN3 46 quater-0 B CGI 133 1°
+  - Code de la construction L315-19 A Code de la construction L315-32
+  - Code de la construction L315-8 A Code de la construction L315-18
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 B (V)
+
 
 ###### Article 208 ter A
 
