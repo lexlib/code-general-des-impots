@@ -1,26 +1,24 @@
 # Article 39 quinquies F
 
 Les entreprises qui construisent ou font construire des immeubles destinés à satisfaire aux obligations prévues par la loi n°
-61-842 du 2 août 1961 modifiée relative à la lutte contre les pollutions atmosphériques et les odeurs ((et par la loi n°
-96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie)) (M) peuvent pratiquer, dès achèvement de
-ces constructions un amortissement exceptionnel égal à 50 % de leur prix de revient.
+61-842 du 2 août 1961 modifiée relative à la lutte contre les pollutions atmosphériques et les odeurs et par la loi n°
+96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie peuvent pratiquer, dès achèvement de ces
+constructions un amortissement exceptionnel égal à 50 % de leur prix de revient.
 
 La valeur résiduelle des immeubles est amortissable sur leur durée normale d'utilisation.
 
 Les dispositions du présent article s'appliquent aux constructions achevées avant le 31 décembre 1990 à condition qu'elle
 s'incorporent à des installations de production existant au 31 décembre 1980.
 
-Les constructions répondant aux critères définis au premier alinéa et achevées entre le 1er janvier 1990 et le 31 décembre
-1998 (1) peuvent faire l'objet d'un amortissement exceptionnel sur douze mois à condition qu'elles s'incorporent à des
-installations de production.
-
-(M) Modification.
+Les constructions répondant aux critères définis au premier alinéa et achevées avant le 1er janvier 2003 peuvent faire
+l'objet d'un amortissement exceptionnel sur douze mois à condition qu'elles s'incorporent à des installations de production.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 31 mars 1999
+  - TXT_ASSOCIE: Instruction 1999-05-14 4D-1-99
 
 _Cite_:
 
@@ -29,11 +27,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°96-1236 1996-12-30 art. 44 I IV JORF 1er janvier 1997
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - Loi - art. 97 () JORF 31 décembre 1998
 
 _Cité par_:
 
