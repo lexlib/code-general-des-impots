@@ -1,8 +1,8 @@
 # Article 163 unvicies
 
-Le montant maximal des sommes déductibles annuellement en application des dispositions de l'article 238 bis HN est de 500 000
-F pour les contribuables célibataires, veufs ou divorcés, et de 1 000 000 F pour les contribuables mariés soumis à imposition
-commune. La déduction, pour un investissement déterminé, est opérée au titre de chaque année de versement.
+Le montant maximal des sommes déductibles annuellement en application des dispositions de l'article 238 bis HN est de 76 000
+euros pour les contribuables célibataires, veufs ou divorcés, et de 152 000 euros pour les contribuables mariés soumis à
+imposition commune. La déduction, pour un investissement déterminé, est opérée au titre de chaque année de versement.
 
 Les dispositions du premier alinéa sont applicables en cas de souscription des parts de copropriété par l'intermédiaire de
 sociétés à responsabilité limitée mentionnées à l'article 239 bis AA qui ont opté pour le régime fiscal des sociétés de
@@ -27,22 +27,15 @@ _Cite_:
 
   - CGI 238 bis HN, 238 bis HA, 163 vicies, 239 bis AA
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°96-607 du 5 juillet 1996 - art. 1 () JORF 9 juillet 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Modifié par_:
 
-  - Décret n°97-661 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1417 (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
