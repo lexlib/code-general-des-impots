@@ -17,7 +17,7 @@ d'une année, la variation à la hausse du taux de taxe d'habitation ou du taux 
 taxes foncières à prendre en compte pour la détermination du taux de taxe professionnelle conformément au deuxième alinéa du
 b du 1 du I de l'article 1636 B sexies est réduite de moitié pendant les deux années suivantes.
 
-Pour l'application du b du I, ainsi que des 2 et 3 du I de l'article 1636 B sexies :
+Pour l'application du b du 1, ainsi que des 2 et 3 du I de l'article 1636 B sexies :
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté dans l'ensemble des communes membres de
 l'établissement public de coopération intercommunale. Pour les établissements publics de coopération intercommunale qui font
@@ -47,9 +47,13 @@ _Cite_:
 
   - CGI 1609 nonies B, 1609 nonies C, 1609 quinquies C, 1636 B sexies, 1636 B septies
 
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
+
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 87 () JORF 13 juillet 1999
+  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
 
 _Cité par_:
 
@@ -64,3 +68,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1640 C (V)
   - Code général des impôts, CGI. - art. 1656 (V)
   - Code général des impôts, CGI. - art. 1656 bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2000
