@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-07-18
+Version Consolidée au 1992-07-19
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -461,7 +461,7 @@ Version Consolidée au 1992-07-18
             - [II : Matières absorbantes (art. 514)](#458)
             - [III : Vinaigres (art. 515)](#459)
             - [IV : Prélèvements d'échantillons (art. 516)](#460)
-            - [VI : Dispositions spéciales (art. 518)](#461)
+            - [VI : Dispositions spéciales (art. 518 à 519)](#461)
             - [VII : Importations (art. 520)](#462)
         - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 525 à 553 bis)](#463)
           - [Section II : Poinçons (art. 525 à 526)](#464)
@@ -38409,9 +38409,14 @@ _Codifié par_:
 
 2  Pour l'application de la taxe sur la valeur ajoutée, les départements de la Guadeloupe, de la Martinique et de la Réunion,
 d'une part, et la France métropolitaine d'autre part, sont considérés respectivement comme territoires d'exportation. Il en
-est de même pour chacun de ces trois départements par rapport aux deux autres.
+est de même pour le département de la Réunion par rapport aux départements de la Guadeloupe ou de Martinique.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°92-676 1992-07-17 art. 12 1 JORF 19 juillet 1992
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
@@ -38419,10 +38424,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 277 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 85 E (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 85 F (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 295
@@ -42734,6 +42735,26 @@ Les dispositions du présent chapitre ne font pas échec aux dispositions spéci
 cidres, poirés et hydromels par les textes en vigueur, à l'égard des départements de la Corse, du Bas-Rhin, du Haut-Rhin et
 de la Moselle.
 
+
+
+###### Article 519
+
+A l'égard des formalités à la circulation prévues par la réglementation des contributions indirectes, les départements de la
+Guadeloupe, de la Guyane, de la Martinique et de la Réunion, d'une part, et la France métropolitaine, d'autre part, sont
+considérés respectivement comme territoires d'exportation.
+
+Il en est de même pour chacun de ces quatre départements par rapport aux trois autres sauf entre la Guadeloupe et la
+Martinique.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+_Modifié par_:
+
+  - Loi n°92-676 1992-07-17 art. 12 2 JORF 19 juillet 1992
 
 
 ##### VII : Importations<a id=462></a>
