@@ -9,7 +9,7 @@ autre assujetti.
 
 3. Les assujettis qui interviennent au nom et pour le compte d'autrui dans des opérations mentionnées au a du 1 de l'article
 298 sexdecies A peuvent, sur option, soumettre à la taxe sur la valeur ajoutée leur prestation lorsque l'opération dans
-laquelle ils s'entremettent est imposée en application du 1 ou du 2 ci-dessus.
+laquelle ils s'entremettent est imposée en application du 1 ou du 2.
 
 4. Lorsqu'ils ont exercé l'une des options ci-dessus, les assujettis portent sur la facture qu'ils délivrent la mention :
 
@@ -22,10 +22,19 @@ _Cite_:
 
   - CGI 298 sexdecies A
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi - art. 15 (V) JORF 31 décembre 1999
+  - Décret n°2000-477 2000-06-02
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 298 sexdecies D (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 2000-06-22 3L-1-00
+
+_Modifié par_:
+
+  - Loi - art. 15 (V) JORF 31 décembre 1999

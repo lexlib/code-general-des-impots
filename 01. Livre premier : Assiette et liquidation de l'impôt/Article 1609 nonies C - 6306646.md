@@ -68,10 +68,10 @@ Pour l'application de cette disposition, la réduction des écarts de taux s'op�
 cas où le dispositif de réduction des écarts de taux est déjà en cours, l'écart est réduit chaque année, par parts égales en
 proportion du nombre d'années restant à courir conformément à la durée fixée par la délibération.
 
-Lorsqu'un établissement public de coopération intercommunale faisant application du régime prévu au II de l'article 1609
+c. Lorsqu'un établissement public de coopération intercommunale faisant application du régime prévu au II de l'article 1609
 quinquies C opte pour le régime prévu au présent article ou devient soumis à ce régime, le taux constaté dans une commune
 l'année précédente est le taux appliqué en dehors des zones d'activités économiques existant sur son territoire
-antérieurement au changement de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de zone si celle-çi
+antérieurement au changement de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de zone si celle-ci
 est implantée sur le territoire de plusieurs communes est alors assimilé à celui d'une commune membre supplémentaire pour
 l'application des dispositions du présent III.
 
@@ -134,13 +134,13 @@ intercommunale réduit le montant de l'attribution de compensation à due concur
 contribution demandée aux communes par le syndicat.
 
 2° L'attribution de compensation est égale au produit de taxe professionnelle, y compris la compensation prévue au I du D de
-l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les compensations prévues
-au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville ou
-au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées antérieurement aux
-communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
-1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût net des
-charges transférées calculé dans les conditions définies au IV. Cette attribution est recalculée, dans les conditions prévues
-au IV, lors de chaque nouveau transfert de charges.
+l'article 44 modifié de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les compensations
+prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la
+ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées
+antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n°
+86-1317 du 30 décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire
+diminué du coût net des charges transférées calculé dans les conditions définies au IV. Cette attribution est recalculée,
+dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
 
 3° Lorsqu'il est fait application à un établissement public de coopération intercommunale doté d'une fiscalité propre des
 dispositions du présent article, l'attribution de compensation versée chaque année aux communes membres est égale à la
@@ -204,10 +204,10 @@ critères de répartition sont fixés par le conseil communautaire, statuant à 
 
 Ces critères sont déterminés notamment en fonction :
 
-- de l'écart du revenu par habitant de la commune au revenu moyen par habitant de l'établissement public de coopération
+a. de l'écart du revenu par habitant de la commune au revenu moyen par habitant de l'établissement public de coopération
 intercommunale ;
 
-- de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal communal moyen par habitant
+b. de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal communal moyen par habitant
 sur le territoire de l'établissement public de coopération intercommunale.
 
 Des critères complémentaires peuvent être choisis par le conseil.
@@ -351,4 +351,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-1126 du 28 décembre 1999 - art. 13 () JORF 29 décembre 1999
+  - Loi - art. 26 () JORF 30 décembre 1999
+  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2000

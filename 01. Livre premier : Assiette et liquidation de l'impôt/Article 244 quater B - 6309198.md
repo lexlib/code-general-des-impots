@@ -106,18 +106,7 @@ provenant exclusivement du transfert.
 
 IV. (Périmé).
 
-IV bis. Sur option de l'entreprise, les dispositions du présent article sont également applicables aux dépenses exposées :
-
-a) b) c) (Périmés).
-
-d) Au cours des années 1993 à 1995 par les entreprises qui ont bénéficié du crédit d'impôt recherche au titre de l'année 1992
-ou par celles qui n'ont jamais bénéficié du dispositif du crédit d'impôt recherche ou qui n'ont pas renouvelé leur option au
-titre des périodes 1987 à 1989 et 1990 à 1992.
-
-e. au cours des années 1996 à 1998 par les entreprises qui ont fait application du crédit d'impôt recherche au titre de 1995
-ou par celles qui n'ont jamais opté pour le régime du crédit d'impôt recherche. L'option doit être exercée au titre de 1996
-ou au titre de l'année de création de l'entreprise, ou au titre de l'année au cours de laquelle l'entreprise réalise ses
-premières dépenses de recherche éligibles au crédit d'impôt recherche.
+IV bis. (Périmé).
 
 IV ter. (Périmé).
 
@@ -178,18 +167,22 @@ _Cité par_:
   - Livre des procédures fiscales - art. R60-1 A (V)
   - Livre des procédures fiscales - art. R60-2 A (VD)
 
-_Modifié par_:
-
-  - Loi - art. 16 (V) JORF 31 décembre 1999
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°99-1173 1999-12-30 art. 16 II Finances rectificative pour 1999
-  - TXT_ASSOCIE: Instruction 1997-03-07 4A-3-97
-  - TXT_ASSOCIE: Instruction 1998-02-02 4A-2-98
+  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 1999-02-04 4A-2-99
   - TXT_ASSOCIE: Instruction 2000-01-21 4A-1-00
+  - TXT_ASSOCIE: Instruction 2001-02-06 4A-1-01
+
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
+
+_Modifié par_:
+
+  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
 
 _Cite_:
 
-  - CGI 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 199 ter B, 1465, 151 nonies, 220 septies
+  - CGI 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 199 ter B, 151 nonies, 220 septies
