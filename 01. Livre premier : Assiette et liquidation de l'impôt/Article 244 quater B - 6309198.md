@@ -91,7 +91,8 @@ IV bis. Sur option de l'entreprise, les dispositions du présent article sont é
 a) b) c) (Périmés).
 
 d) Au cours des années 1993 à 1995 par les entreprises qui ont bénéficié du crédit d'impôt recherche au titre de l'année 1992
-ou par celles qui n'ont jamais bénéficié du dispositif du crédit d'impôt recherche (2).
+ou par celles qui n'ont jamais bénéficié du dispositif du crédit d'impôt recherche ((ou qui n'ont pas renouvelé leur option
+au titre des périodes 1987 à 1989 et 1990 à 1992)) (Modification de la loi 93-1352) (2).
 
 IV ter. (Périmé).
 
@@ -104,7 +105,7 @@ inégale ou ne coïncidant pas avec l'année civile (7).
 
 Ces dispositions sont applicables, sur option de l'entreprise exercée en 1993, pour le calcul du crédit d'impôt recherche
 afférent à l'année 1992.    (2) Ces dispositions s'appliquent pour le calcul du crédit d'impôt-recherche des années 1992 à
-1995.
+1995. Cf. Instruction 1994-04-21 4A-8-94.
 
 (3) Ces dépenses sont prises en compte pour la première fois pour le calcul du crédit d'impôt de l'année 1987.
 
@@ -133,6 +134,7 @@ _Cité par_:
   - Décret n°2015-1292 du 15 octobre 2015 (V)
   - Décret n°2015-1412 du 4 novembre 2015 (V)
   - Décret n°2016-766 du 9 juin 2016 - art. 2
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 133 (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies J (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies M (V)
   - Code de la recherche - art. L131-1 (Ab)
@@ -156,7 +158,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies I ter (V)
   - Code monétaire et financier - art. L214-30 (V)
   - Code monétaire et financier - art. L214-41 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 133 (V)
   - Livre des procédures fiscales - art. L13 CA (V)
   - Livre des procédures fiscales - art. L172 G (V)
   - Livre des procédures fiscales - art. L45 B (V)
@@ -168,24 +169,18 @@ _Cité par_:
   - Livre des procédures fiscales - art. R60-1 A (V)
   - Livre des procédures fiscales - art. R60-2 A (VD)
 
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
-  - TXT_ASSOCIE: Instruction 1992-05-25 4A-8-92
-  - TXT_ASSOCIE: Instruction 1993-02-10 4A-4-93
-
 _Modifié par_:
 
-  - Loi - art. 20 (P) JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-  - Loi n°92-1376 1992-12-30 art. 20 I, II IV Finances pour 1993 JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-  - Loi - art. 51 (V) JORF 5 janvier 1993
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Loi n°93-1352 du 30 décembre 1993 - art. 19 () JORF 31 décembre 1993
 
 _Cite_:
 
   - CGI 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 220 septies
   - CGI Livre des procédures fiscales L45 B
   - CGIAN3 49 septies F à CGIAN3 49 septies N
+
+**Liens**:
+
+  - HISTO: Edition du 2 septembre 1994
+  - TXT_ASSOCIE: Instruction 1994-04-21 4A-8-94
+  - TXT_ASSOCIE: Note 1994-03-16 4A-7-94

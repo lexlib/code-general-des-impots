@@ -15,8 +15,8 @@ conditions mentionnées à l'article 80 bis.
 
 2. Les titres ou parts dont la souscription a permis au titulaire du plan de bénéficier des avantages fiscaux résultant des
 dispositions du dernier alinéa de l'article 62, des 2° quater et 2° quinquies de l'article 83, des articles 150 U, 150 V, 163
-quinquies A, 163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A, du dernier alinéa de l'article
-726 ainsi que du III ter de l'article 810 ne peuvent figurer dans le plan.
+quinquies A, 163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A, du ((troisième alinéa de
+l'article 726)) (1) ainsi que du III ter de l'article 810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne doivent pas, pendant la durée du plan, détenir
 ensemble, directement ou indirectement, plus de 25 p. 100 des droits dans les bénéfices de sociétés dont les titres figurent
@@ -33,6 +33,8 @@ la clôture du plan.
 IV. Les avoirs fiscaux et crédits d'impôt attachés aux produits encaissés dans le cadre du plan sont restitués dans des
 conditions fixées par décret.
 
+(1) Modification de la loi.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -42,11 +44,11 @@ _Cite_:
 
 _Créé par_:
 
-  - Loi n°92-666 1992-07-16 art. 1, art. 2, art. 3, art. 4 JORF 18 juillet 1992
+  - Loi n°93-1444 1993-12-31 art. 12 IX 4° JORF 5 janvier 1994
 
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°94-899 1994-10-17
 
 _Cité par_:
 
@@ -73,7 +75,3 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K bis (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K ter (V)
   - Livre des procédures fiscales - art. R96 D-1 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993

@@ -6,15 +6,17 @@ l'impôt sur le revenu exigible au titre de l'exercice au cours duquel elles son
 de cette disposition est subordonnée au dépôt de l'accord de participation à la direction départementale du travail et de
 l'emploi du lieu où cet accord a été conclu.
 
-II. 1. Les entreprises peuvent constituer, en franchise d'impôt, une provision pour investissement égale à une fraction du
-montant des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des
+II. 1. Les entreprises peuvent constituer, en franchise d'impôt, une provision pour investissement égale à ((50 p. 100)) (1)
+du montant des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des
 bénéfices imposables, qui sont attribuées en plus de la participation de droit commun en application d'accords qui répondent
-aux conditions prévues à l'article 12 de l'ordonnance n° 86-1134 du 21 octobre 1986. Cette fraction est égale à 50 p. 100
-lorsque les accords reconduits ont été signés avant le 1er octobre 1973 et à 30 p. 100 lorsqu'ils l'ont été depuis cette
-date.
+aux conditions prévues à l'article 12 de l'ordonnance n° 86-1134 du 21 octobre 1986.
 
-Cette fraction est réduite de moitié lorsque les accords prévoient que les sommes attribuées sont indisponibles pendant trois
-ans seulement.
+((Les entreprises ayant adopté un régime facultatif conformément à l'article L. 442-15 du code du travail peuvent également
+constituer, dans les mêmes conditions, une provision pour investissement égale à 25 p. 100 du montant des sommes portées à la
+réserve de participation au cours du même exercice et qui correspondent à la participation de droit commun.)) (1)
+
+((Le montant de la provision visée aux premier et deuxième alinéas est réduit)) (1) de moitié lorsque les accords prévoient
+que les sommes attribuées sont indisponibles pendant trois ans seulement.
 
 2. Les sociétés anonymes à participation ouvrière peuvent constituer, en franchise d'impôt, à la clôture de chaque exercice,
 une provision pour investissement d'un montant égal à 50 p. 100 des sommes portées à la réserve spéciale de participation au
@@ -49,6 +51,8 @@ s'agit, ou à plusieurs d'entre elles.
 III. Les dispositions du présent article s'appliquent pour chaque entreprise au premier jour du premier exercice ouvert après
 le 23 octobre 1986.
 
+(1) Modification de la loi.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -56,14 +60,21 @@ _Cite_:
   - CGI 207
   - Loi n°78-763 du 19 juillet 1978 - art. 25 (V)
   - Ordonnance 86-1134 1986-10-21 art. 12
+  - Code du travail - art. L442-15 (M)
 
 _Modifié par_:
 
-  - Loi n°92-643 du 13 juillet 1992 - art. 70 () JORF 14 juillet 1992
+  - Loi n°94-640 du 25 juillet 1994 - art. 20 () JORF 27 juillet 1994
+  - Loi n°94-640 du 25 juillet 1994 - art. 34 (V) JORF 27 juillet 1994
+  - Modifications incorporées dans l'édition du 2 septembre 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°94-640 du 25 juillet 1994 - art. 34 (V)
 
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°94-899 1994-10-17
 
 _Cité par_:
 
