@@ -5,18 +5,7 @@ sociétés anonymes soumises à l'impôt sur les sociétés dans les conditions 
 le financement en capital d'oeuvres cinématographiques ou audiovisuelles agréées sont admises en déduction dans les
 conditions définies aux articles 163 septdecies et 217 septies.
 
-Les titres acquis dans le cadre d'un plan d'épargne en vue de la retraite ne sont pas pris en compte pour l'application du
-présent article.
-
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°87-416 du 17 juin 1987 - art. 14 (V) JORF 18 juin 1987
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
 
 _Cité par_:
 
@@ -46,9 +35,12 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 163 septdecies
-  - CGI 217 septies
+  - CGI 217 septies, 163 septdecies
+
+_Modifié par_:
+
+  - Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
 
 **Liens**:
 
-  - HISTO: Edition du 10 août 1987
+  - HISTO: Edition du 31 mars 2000

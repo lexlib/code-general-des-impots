@@ -5,24 +5,24 @@ sont soumises à des régimes distincts suivant qu'elles sont réalisées à cou
 
 2. Le régime des plus-values à court terme est applicable :
 
-a Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans. Le cas échéant, ces plus-
+a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans. Le cas échéant, ces plus-
 values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été
 différés en méconnaissance des dispositions de l'article 39 B (1) ;
 
-b Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles
+b. Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles
 correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas échéant, ces plus-values sont majorées du
 montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en
-contravention aux dispositions de l'article 39 B;
+contravention aux dispositions de l'article 39 B ;
 
-c (Dispositions devenues sans objet).
+c. (Disposition périmée).
 
 3. Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2.
 
 4. Le régime des moins-values à court terme s'applique :
 
-a Aux moins-values subies lors de la cession de biens non amortissables détenus depuis moins de deux ans ;
+a. aux moins-values subies lors de la cession de biens non amortissables détenus depuis moins de deux ans ;
 
-b Aux moins-values subies lors de la cession de biens amortissables, quelle que soit la durée de leur détention. Le cas
+b. aux moins-values subies lors de la cession de biens amortissables, quelle que soit la durée de leur détention. Le cas
 échéant, ces moins-values sont diminuées du montant des amortissements expressément exclus des charges déductibles ainsi que
 de ceux qui ont été différés en contravention aux dispositions de l'article 39 B.
 
@@ -33,26 +33,36 @@ priorité sur les titres de même nature acquis ou souscrits à la date la plus 
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif soumis au
 régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport constituent deux
-catégories distinctes de titres jusqu'à la fin du délai de cinq ans prévu à l'article 210 B. Les cessions de titres
+catégories distinctes de titres jusqu'à la fin du délai de trois ans (2) prévu à l'article 210 B. Les cessions de titres
 intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération
 d'apport.
 
-7. Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-
-values réalisées :
+7.
 
-a) Par les entreprises effectuant des opérations visées aux 1° et 2° de la loi n° 66-455 du 2 juillet 1966 relative aux
+DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS JUSQU'AU 31 DECEMBRE 1995.
+
+Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-values
+réalisées par les sociétés de crédit-bail ou plus généralement les sociétés qui ont pour objet social la location
+d'équipements, sur la vente des éléments de l'actif immobilisé faisant l'objet d'une location dans le cadre de leur activité.
+
+DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A COMPTER DU 1er JANVIER 1995.
+
+Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-values
+réalisées :
+
+a. par les entreprises effectuant des opérations visées aux 1° et 2° de la loi n° 66-455 du 2 juillet 1966 relative aux
 entreprises pratiquant le crédit-bail lors de la cession des éléments de leur actif immobilisé faisant l'objet d'un contrat
 de crédit-bail ;
 
-b) Par les sociétés qui ont pour objet social la location d'équipements lors de la cession des éléments de l'actif immobilisé
+b. par les sociétés qui ont pour objet social la location d'équipements lors de la cession des éléments de l'actif immobilisé
 faisant l'objet d'une location dans le cadre de leur activité.
 
 Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalablement loué avant d'être vendu et que l'acheteur est
-le locataire lui-même (2).
+le locataire lui-même.
 
-8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue ((d'un contrat de prêt mentionné à
-l'article 31 modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne)) (M), le délai de deux ans prévu aux 2 et 4
-s'apprécie à compter de la date de la première inscription à son bilan des titres prêtés.
+8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue d'un contrat de prêt mentionné à
+l'article 31 modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne, le délai de deux ans prévu aux 2 et 4 s'apprécie à
+compter de la date de la première inscription à son bilan des titres prêtés.
 
 9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours
 duquel la vente est intervenue, le cédant inscrit à son bilan cet élément ainsi que les amortissements et provisions de toute
@@ -80,9 +90,9 @@ l'application du b du 2.
 (1) Ces dispositions sont applicables pour la détermination des plus-values ou moins-values réalisées au cours des exercices
 clos à compter du 31 décembre 1993.
 
-(2) Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 1996.
-
-(M) Modification de la loi.
+(2) Ces dispositions s'appliquent aux opérations d'apports partiels d'actif et de scissions réalisées à compter du 15
+septembre 1999 et à celles déjà réalisées à cette date pour lesquelles les engagements de conservation sont en cours au 15
+septembre 1999.
 
 **Liens relatifs à cet article**
 
@@ -94,11 +104,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°96-597 1996-07-02 art. 104 1° 2° JORF 4 juillet 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - Loi - art. 22 (P) JORF 31 décembre 1999
 
 _Cité par_:
 
@@ -139,9 +145,10 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 31 mars 2000
   - TXT_ASSOCIE: Instruction 1996-01-31 4B-1-96
   - TXT_ASSOCIE: Instruction 1996-09-30 4B-3-96
   - TXT_ASSOCIE: Instruction 1997-08-21 5G-15-97
   - TXT_ASSOCIE: Instruction 1998-02-17 4B-1-98
   - TXT_ASSOCIE: Instruction 1998-02-17 8M-2-98
+  - TXT_ASSOCIE: Instruction 2001-02-12 5E-3-01
