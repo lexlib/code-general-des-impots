@@ -1,8 +1,9 @@
 # Article 1618 septies
 
-Il est institué au profit du budget annexe des prestations sociales agricoles une taxe portant sur les quantités de farines,
-semoules et gruaux de blé tendre livrées ou mises en oeuvre en vue de la consommation humaine, ainsi que sur les mêmes
-produits introduits en provenance d'autres Etats membres de la Communauté européenne ou importés de pays tiers.
+Il est institué au profit du Fonds de financement des prestations sociales des non-salariés agricoles mentionné à l'article
+L. 731 du code rural une taxe portant sur les quantités de farines, semoules et gruaux de blé tendre livrées ou mises en
+oeuvre en vue de la consommation humaine, ainsi que sur les mêmes produits introduits en provenance d'autres Etats membres de
+la Communauté européenne ou importés de pays tiers.
 
 Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats membres de la Communauté européenne, exportés ou
 destinés à être exportés vers des pays tiers ou vers les départements d'outre-mer, par l'acquéreur, ainsi que les farines
@@ -23,30 +24,30 @@ Toutefois, à l'importation en provenance de pays non membres de la Communauté 
 infractions sont recherchées, constatées, poursuivies et sanctionnées selon les règles, privilèges et garanties prévus en
 matière de douane.
 
-**Nota:**
-
-NOTA : Dans les dispositions de nature réglementaire, les références au "budget annexe des prestations sociales agricoles"
-sont remplacées par les références à "l'établissement de gestion du fonds de financement des prestations sociales des non-
-salariés agricoles", cf décret 2004-1428 du 23 décembre 2004 article 14.
-
-Ces dispositions entrent en vigueur le 1er janvier 2005.
-
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 14 () JORF 27 mars 2004
 
 _Cité par_:
 
   - Arrêté du 12 juin 2009 - art. 1 (V)
-  - Décret n°2018-206 du 26 mars 2018 - art. 1 (V)
   - Code général des impôts, CGI. - art. 1647 (VD)
   - Code général des impôts, CGI. - art. 1698 D (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 333 H bis (V)
+  - Décret n°2018-206 du 26 mars 2018 - art. 1 (V)
   - Code rural et de la pêche maritime - art. L731-2 (VD)
   - Code rural et de la pêche maritime - art. L731-3 (V)
 
+_Cite_:
+
+  - Code rural L731
+
+_Modifié par_:
+
+  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
+
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2005

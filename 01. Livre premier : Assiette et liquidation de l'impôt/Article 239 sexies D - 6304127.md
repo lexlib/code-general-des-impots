@@ -5,25 +5,22 @@ aux conditions des 1, 2 et 3 de l'article 39 quinquies D sont dispensés de tout
 d'immeubles à usage industriel et commercial pris en location par un contrat de crédit-bail d'une durée effective d'au moins
 quinze ans.
 
-Ces dispositions s'appliquent aux opérations conclues entre le 1er janvier 1996 et le 31 décembre 2004, pour la location, par
+Ces dispositions s'appliquent aux opérations conclues entre le 1er janvier 1996 et le 31 décembre 2006, pour la location, par
 un contrat de crédit-bail, d'immeubles situés dans les zones d'aménagement du territoire et dans les territoires ruraux de
-développement prioritaire définis à la dernière phrase du premier alinéa de l'article 1465 et dans les zones de
-redynamisation urbaine définies au I bis et, à compter du 1er janvier 1997, au I ter de l'article 1466 A.
+développement prioritaire définis à la dernière phrase du premier alinéa de l'article 1465, dans les zones de revitalisation
+rurale définies au II de l'article 1465 A et dans les zones de redynamisation urbaine définies au I bis et, à compter du 1er
+janvier 1997, au I ter de l'article 1466 A.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 239 sexies, 239 sexies B, 39 quinquies D, 1465, 1466 A
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
-_Modifié par_:
-
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - CGI 239 sexies, 239 sexies B, 39 quinquies D, 1465, 1465 A, 1466 A
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2005
+
+_Modifié par_:
+
+  - Loi n°2005-157 2005-02-23 art. 2 III JORF 24 février 2005

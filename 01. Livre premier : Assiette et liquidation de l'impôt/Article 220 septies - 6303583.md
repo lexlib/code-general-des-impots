@@ -52,11 +52,11 @@ période normale d'utilisation de ces biens si elle est inférieure à cette pé
 avant l'expiration du même délai.
 
 Si le crédit d'impôt a été imputé en totalité à la date de l'événement qui motive son reversement, l'entreprise doit verser
-spontanément au comptable du Trésor l'impôt sur les sociétés correspondant, majoré de l'intérêt de retard prévu à l'article
-1727, au plus tard à la date de paiement du solde de l'impôt sur les sociétés de l'exercice au cours duquel intervient cet
-événement. Si le crédit d'impôt n'a pas été imputé, la quote-part restante est supprimée à hauteur du crédit d'impôt
-provenant des biens cédés ou des biens loués qui font l'objet d'une restitution ou dont le contrat de crédit-bail est cédé ou
-résilié sans rachat.
+spontanément au comptable de la direction générale des impôts l'impôt sur les sociétés correspondant, majoré de l'intérêt de
+retard prévu à l'article 1727, au plus tard à la date de paiement du solde de l'impôt sur les sociétés de l'exercice au cours
+duquel intervient cet événement. Si le crédit d'impôt n'a pas été imputé, la quote-part restante est supprimée à hauteur du
+crédit d'impôt provenant des biens cédés ou des biens loués qui font l'objet d'une restitution ou dont le contrat de crédit-
+bail est cédé ou résilié sans rachat.
 
 La personne morale perd le bénéfice du crédit d'impôt et doit, dans les conditions mentionnées aux deux alinéas précédents,
 verser l'impôt sur les sociétés non acquitté en raison de l'imputation du crédit d'impôt si, pendant la période au cours de
@@ -99,20 +99,17 @@ de crédit-bail.
 _Cite_:
 
   - CGI 39 A, 8, 8 quater, 239 quater, 239 quater B, 239 quater C, 223, 210 A, 1727, 221, 34, 44 sexies, 44 septies, 223 A
-  - Loi n°92-1476 1992-12-31 art. 51
+  - Loi n°92-1476 1992-12-31 art. 51 Finances rectificative pour 1992
   - Code monétaire et financier L313-7 à L313-11
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
 
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+  - Loi - art. 21 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2005
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2001-435 2001-05-21
+  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 21 III
+  - HISTO: Edition du 1er janvier 2003
 
 _Cité par_:
 
