@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1978-07-20
+Version Consolidée au 1978-08-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 40 à 1618 septies)](#1)
     - [Première Partie : Impôts d'État (art. 40 à 1090 A)](#2)
@@ -66,37 +66,38 @@ Version Consolidée au 1978-07-20
       - [CONTRIBUTIONS INDIRECTES (art. 564 ter à 564 quinquies)](#63)
         - [REGIME ECONOMIQUE DU SUCRE. (art. 564 ter)](#64)
         - [COTISATION DE SOLIDARITE SUR LES CEREALES. (art. 564 quinquies)](#65)
-      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 862)](#66)
-        - [OBLIGATIONS DIVERSES. (art. 862)](#67)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563 à 1585 C)](#68)
-      - [IMPOSITIONS COMMUNALES (art. 1563 à 1585 C)](#69)
-        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#70)
-          - [TAXES OBLIGATOIRES. (art. 1563)](#71)
-        - [ENREGISTREMENT (art. 1585 C)](#72)
-          - [TAXE LOCALE D'EQUIPEMENT. (art. 1585 C)](#73)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#74)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#75)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#76)
-  - [Livre II : Recouvrement de l'impôt (art. 1694 bis à 1965 E)](#77)
-    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis à 1705)](#78)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#79)
-        - [III bis : Régime simplifié (art. 1694 bis)](#80)
-      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1703 à 1705)](#81)
-        - [II : Obligations des agents (art. 1703)](#82)
-        - [III : Obligation au paiement (art. 1705)](#83)
-    - [Chapitre II : Pénalités (art. 1753 bis A à 1800)](#84)
-      - [Section I : Dispositions communes (art. 1753 bis A)](#85)
-        - [B : Sanctions pénales. (art. 1753 bis A)](#86)
-      - [Section II : Dispositions particulières (art. 1800)](#87)
-        - [C : Contributions indirectes (art. 1800)](#88)
-          - [1 : Sanctions fiscales (art. 1800)](#89)
-    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#90)
-      - [Section II : Juridiction contentieuse (art. 1965 E)](#91)
-        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#92)
-  - [RECOUVREMENT DE L'IMPOT (art. 1736 à 1840 C)](#93)
-    - [PENALITES (art. 1736 à 1840 C)](#94)
-      - [DISPOSITIONS COMMUNES. (art. 1736)](#95)
-      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#96)
+      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 635 à 862)](#66)
+        - [DISPOSITIONS GENERALES (art. 635)](#67)
+        - [OBLIGATIONS DIVERSES. (art. 862)](#68)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 1563 à 1585 C)](#69)
+      - [IMPOSITIONS COMMUNALES (art. 1563 à 1585 C)](#70)
+        - [CONTRIBUTIONS INDIRECTES (art. 1563)](#71)
+          - [TAXES OBLIGATOIRES. (art. 1563)](#72)
+        - [ENREGISTREMENT (art. 1585 C)](#73)
+          - [TAXE LOCALE D'EQUIPEMENT. (art. 1585 C)](#74)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 1628 quater)](#75)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 1628 quater)](#76)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE. (art. 1628 quater)](#77)
+  - [Livre II : Recouvrement de l'impôt (art. 1694 bis à 1965 E)](#78)
+    - [Chapitre premier : Paiement de l'impôt (art. 1694 bis à 1705)](#79)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 1694 bis)](#80)
+        - [III bis : Régime simplifié (art. 1694 bis)](#81)
+      - [Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre (art. 1703 à 1705)](#82)
+        - [II : Obligations des agents (art. 1703)](#83)
+        - [III : Obligation au paiement (art. 1705)](#84)
+    - [Chapitre II : Pénalités (art. 1753 bis A à 1800)](#85)
+      - [Section I : Dispositions communes (art. 1753 bis A)](#86)
+        - [B : Sanctions pénales. (art. 1753 bis A)](#87)
+      - [Section II : Dispositions particulières (art. 1800)](#88)
+        - [C : Contributions indirectes (art. 1800)](#89)
+          - [1 : Sanctions fiscales (art. 1800)](#90)
+    - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#91)
+      - [Section II : Juridiction contentieuse (art. 1965 E)](#92)
+        - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#93)
+  - [RECOUVREMENT DE L'IMPOT (art. 1736 à 1840 C)](#94)
+    - [PENALITES (art. 1736 à 1840 C)](#95)
+      - [DISPOSITIONS COMMUNES. (art. 1736)](#96)
+      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#97)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -1161,7 +1162,92 @@ _Codifié par_:
 
 ### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE<a id=66></a>
 
-#### OBLIGATIONS DIVERSES.<a id=67></a>
+#### DISPOSITIONS GENERALES<a id=67></a>
+
+###### Article 635
+
+Doivent être enregistrés dans le délai d'un mois à compter de leur date [*point de départ*] :
+
+1. Sous réserve des dispositions des articles 637 et 647 :
+
+1° Les actes des notaires à l'exception de ceux visés à l'article 636 ;
+
+2° Les actes des huissiers de justice ;
+
+3° Les actes portant transmission de propriété ou d'usufruit de biens immeubles ;
+
+4° Les actes portant mutation de jouissance à vie ou à durée illimitée de biens immeubles ;
+
+5° Les actes constatant la formation, la prorogation, la transformation ou la dissolution d'une société, l'augmentation,
+l'amortissement ou la réduction de son capital ;
+
+6° Les actes constatant la formation de groupement d'intérêt économique ;
+
+7° Les actes constatant un partage de biens à quelque titre que ce soit.
+
+2. 1° Les décisions des juridictions de l'ordre judiciaire lorsqu'elles donnent ouverture à un droit proportionnel ou
+progressif ;
+
+2° Les actes portant acceptation ou répudiation de successions, legs ou communautés ;
+
+3° Les certificats de propriétés (1) ;
+
+4° Les inventaires de meubles (1), titres et papiers et les prisées de meubles ;
+
+5° Les actes portant transmission de propriété ou d'usufruit de fonds de commerce, de clientèles ou d'offices, ou cession de
+droit à un bail ou du bénéfice d'une promesse de bail portant sur tout ou partie d'un immeuble ;
+
+6° Les procès-verbaux constatant une adjudication aux enchères publiques de biens meubles corporels ou incorporels ou toute
+autre vente de mêmes biens faite avec publicité et concurrence ;
+
+7° Les actes portant cession d'actions, de parts de fondateurs ou de parts bénéficiaires ou cession de parts sociales dans
+les sociétés dont le capital n'est pas divisé en actions ;
+
+8° Lorsque le loyer annuel excède 200 F [*montant*], les actes portant mutation de jouissance de fonds de commerce ou de
+clientèles et de droits de chasse ou de droits de pêche ;
+
+9° Lorsque le loyer annuel excède 200 F, les actes portant mutation de jouissance à durée limitée d'immeubles ruraux.
+
+(1) Voir Annexe IV, art. 60.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 636
+  - CGI 637
+  - CGI 647
+  - CGIAN4 60
+
+_Modifié par_:
+
+  - Décret n°72-788 1972-08-28 ART. 2 JORF 30 AOUT 1978
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L600-8 (VD)
+  - Code général des impôts, CGI. - art. 150 VM (VD)
+  - Code général des impôts, CGI. - art. 1655 sexies (V)
+  - Code général des impôts, CGI. - art. 1717 bis (V)
+  - Code général des impôts, CGI. - art. 244 quater A (V)
+  - Code général des impôts, CGI. - art. 302 bis Y (V)
+  - Code général des impôts, CGI. - art. 647 (VD)
+  - Code général des impôts, CGI. - art. 662 (V)
+  - Code général des impôts, CGI. - art. 664 (VD)
+  - Code général des impôts, CGI. - art. 680 (VD)
+  - Code général des impôts, CGI. - art. 733 (V)
+  - Code général des impôts, CGI. - art. 790 G (V)
+  - Code général des impôts, CGI. - art. 867 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 266 bis (V)
+  - Livre des procédures fiscales - art. L68 (V)
+
+
+#### OBLIGATIONS DIVERSES.<a id=68></a>
 
 ###### Article 862
 
@@ -1194,13 +1280,13 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=68></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=69></a>
 
-### IMPOSITIONS COMMUNALES<a id=69></a>
+### IMPOSITIONS COMMUNALES<a id=70></a>
 
-#### CONTRIBUTIONS INDIRECTES<a id=70></a>
+#### CONTRIBUTIONS INDIRECTES<a id=71></a>
 
-##### TAXES OBLIGATOIRES.<a id=71></a>
+##### TAXES OBLIGATOIRES.<a id=72></a>
 
 ###### Article 1563
 
@@ -1253,9 +1339,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. A85-1 (P)
 
 
-#### ENREGISTREMENT<a id=72></a>
+#### ENREGISTREMENT<a id=73></a>
 
-##### TAXE LOCALE D'EQUIPEMENT.<a id=73></a>
+##### TAXE LOCALE D'EQUIPEMENT.<a id=74></a>
 
 ###### Article 1585 C
 
@@ -1320,11 +1406,11 @@ _Modifié par_:
   - Décret n°73-1022 1973-11-08 ART. 3 JORF 13 NOVEMBRE 1973
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=74></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=75></a>
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=75></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=76></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=76></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE ET DE CHASSE.<a id=77></a>
 
 ###### Article 1628 quater
 
@@ -1371,13 +1457,13 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
 
 
-# Livre II : Recouvrement de l'impôt<a id=77></a>
+# Livre II : Recouvrement de l'impôt<a id=78></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=78></a>
+## Chapitre premier : Paiement de l'impôt<a id=79></a>
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=79></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=80></a>
 
-#### III bis : Régime simplifié<a id=80></a>
+#### III bis : Régime simplifié<a id=81></a>
 
 ###### Article 1694 bis
 
@@ -1404,9 +1490,9 @@ _Modifié par_:
   - Loi n°69-1161 1969-12-24 art. 12 I Finances pour 1970 JORF 27 décembre 1969
 
 
-### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=81></a>
+### Section IV : Enregistrement, publicité foncière, impôt de solidarité sur la fortune, timbre<a id=82></a>
 
-#### II : Obligations des agents<a id=82></a>
+#### II : Obligations des agents<a id=83></a>
 
 ###### Article 1703
 
@@ -1432,7 +1518,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### III : Obligation au paiement<a id=83></a>
+#### III : Obligation au paiement<a id=84></a>
 
 ###### Article 1705
 
@@ -1481,11 +1567,11 @@ _Cité par_:
   - TXT_ASSOCIE: Jurisprudence 1997-12-04 13L-6-97
 
 
-## Chapitre II : Pénalités<a id=84></a>
+## Chapitre II : Pénalités<a id=85></a>
 
-### Section I : Dispositions communes<a id=85></a>
+### Section I : Dispositions communes<a id=86></a>
 
-#### B : Sanctions pénales.<a id=86></a>
+#### B : Sanctions pénales.<a id=87></a>
 
 ###### Article 1753 bis A
 
@@ -1514,11 +1600,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. L143 (V)
 
 
-### Section II : Dispositions particulières<a id=87></a>
+### Section II : Dispositions particulières<a id=88></a>
 
-#### C : Contributions indirectes<a id=88></a>
+#### C : Contributions indirectes<a id=89></a>
 
-##### 1 : Sanctions fiscales<a id=89></a>
+##### 1 : Sanctions fiscales<a id=90></a>
 
 ###### Article 1800
 
@@ -1560,11 +1646,11 @@ _Cite_:
   - Code pénal 463
 
 
-## Chapitre V : Dégrèvements et restitutions d'impôts<a id=90></a>
+## Chapitre V : Dégrèvements et restitutions d'impôts<a id=91></a>
 
-### Section II : Juridiction contentieuse<a id=91></a>
+### Section II : Juridiction contentieuse<a id=92></a>
 
-#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=92></a>
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances<a id=93></a>
 
 ###### Article 1965 E
 
@@ -1591,11 +1677,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# RECOUVREMENT DE L'IMPOT<a id=93></a>
+# RECOUVREMENT DE L'IMPOT<a id=94></a>
 
-## PENALITES<a id=94></a>
+## PENALITES<a id=95></a>
 
-### DISPOSITIONS COMMUNES.<a id=95></a>
+### DISPOSITIONS COMMUNES.<a id=96></a>
 
 ###### Article 1736
 
@@ -1655,7 +1741,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 990 C (Ab)
 
 
-### DISPOSITIONS PARTICULIERES.<a id=96></a>
+### DISPOSITIONS PARTICULIERES.<a id=97></a>
 
 ###### Article 1840 C
 
