@@ -14,25 +14,25 @@ l'assujettissement à la taxe spéciale, sont assimilées aux huiles végétales
 
 c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de l'acquisition.
 
-II. – Les taux de la taxe sont fixés comme suit :
+II. – ((Les taux de la taxe sont fixés comme suit :
 
-PAR KILOGRAMME (en francs) / PAR LITRE (en francs)
+((PAR KILOGRAMME (en francs) / PAR LITRE (en francs)
 
-Huile d'olive, 0,884, 0,796
+((Huile d'olive, 0,902, 0,812
 
-Huiles d'arachide et de maïs, 0,796, 0,725
+((Huiles d'arachide et de maïs, 0,812, 0,739
 
-Huiles de colza et de pépins de raisin, 0,408, 0,372
+((Huiles de colza et de pépins de raisin, 0,416, 0,379
 
-Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
-internationales ou nationales relatives aux espèces protégées, 0,694, 0,606
+((Autres huiles végétales fluides et huiles d'animaux marins dont le ((commerce et l'utilisation ne sont pas soumis aux
+règles ((internationales ou nationales relatives aux espèces protégées, ((0,708, 0,618
 
-Huiles de coprah et de palmiste, 0,530, 0,606
+((Huiles de coprah et de palmiste, 0,541, 0,618
 
-Huile de palme, 0,485, 0,606
+((Huile de palme, 0,495, 0,618
 
-Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux
-espèces protégées, 0,884, 0,606
+((Huiles d'animaux marins dont le commerce et l'utilisation sont ((soumis aux règles internationales ou nationales relatives
+aux ((espèces protégées, 0,902, 0,618)) (Modification de la loi 93-1352).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition intracommunautaire incorporant des huiles
 imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition.
@@ -57,26 +57,10 @@ application de l'article 258 A.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGI 1618 quinquies
-  - Code général des impôts, CGI. - art. 1618 quinquies (T)
-
-_Créé par_:
-
-  - Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
-  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 48 () JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 49 () JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 50 () JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 51 () JORF 19 juillet 1992
-  - Loi - art. 53 ()
-  - Loi n°92-1376 1992-12-30 art. 33 II, art. 53 Finances pour 1993
-  - Loi n°92-1476 1992-12-31 art. 35 4 5 Finances rectificative pour 1992 JORF 5 janvier 1993
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Loi n°93-1352 du 30 décembre 1993 - art. 51 (V) JORF 31 décembre 1993
+  - Modifications directes incorporées dans l'édition du 2 septembre 1994
 
 _Cité par_:
 
@@ -98,10 +82,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L731-2 (VD)
   - Code rural et de la pêche maritime - art. L732-58 (V)
 
+_Anciens textes_:
+
+  - CGI 1618 quinquies
+  - Code général des impôts, CGI. - art. 1618 quinquies (T)
+
 _Cite_:
 
   - CGI 262 ter, 258 A, 1609 sexdecies
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993

@@ -7,22 +7,26 @@ des revenus de 1984 ;
 
 - 25 % du montant de celles mentionnées au 2° de l'article 199 septies.
 
-II. La réduction s'applique sur l'impôt calculé dans les conditions fixées aux I et VII de l'article 197 avant, le cas
-échéant, application des dispositions du VI du même article et avant imputation de l'avoir fiscal, des crédits d'impôt et des
-prélèvements ou retenues non libératoires ; elle ne peut donner lieu à remboursement.
+II. La réduction s'applique sur l'impôt calculé ((dans les conditions fixées à l'article 197)) (M) et avant imputation de
+l'avoir fiscal, des crédits d'impôt et des prélèvements ou retenues non libératoires ; elle ne peut donner lieu à
+remboursement.
+
+(M) Modification de la loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 197 I, VI, VII
-  - CGI 199 septies 1°, 2°
+  - CGI 199 septies, 197
+
+_Modifié par_:
+
+  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
 
 _Codifié par_:
 
-  - Décret n°84-875 1984-10-01
+  - Décret n°94-899 1994-10-17
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°83-1179 1983-12-29 art. 3 I 1, II 2, III finances pour 1984 JORF 30 décembre 1983
-  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
+  - HISTO: Edition du 2 septembre 1994
