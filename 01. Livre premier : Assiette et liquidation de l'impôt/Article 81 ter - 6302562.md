@@ -1,6 +1,6 @@
 # Article 81 ter
 
-Sont affranchis de l'impôt dans la limite annuelle de 3 000 F :
+Sont affranchis de l'impôt dans la limite annuelle de 460 € :
 
 1. Le montant des prélèvements opérés sur les salaires à l'occasion de l'émission et de l'achat en bourse d'actions réservées
 aux salariés, en application des articles L. 225-192 et L. 225-196 du code de commerce ;
@@ -13,21 +13,12 @@ articles 35 à 44 de la loi n° 78-763 du 19 juillet 1978 portant statut de ces 
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
-
-_Cite_:
-
-  - Loi n°78-763 1978-07-19 art. 35 à 44
-  - Code de commerce. - art. L225-192 (Ab)
-  - Code de commerce. - art. L225-196 (Ab)
+  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Modifié par_:
 
-  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 

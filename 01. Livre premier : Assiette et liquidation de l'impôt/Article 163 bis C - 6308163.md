@@ -1,8 +1,8 @@
 # Article 163 bis C
 
 I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres, selon le cas, dans des conditions prévues à
-l'article 150-0 A ou 150 A bis si les actions acquises revêtent l forme nominative et demeurent indisponibles, suivant des
-modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de cinq années à compter de la date
+l'article 150-0 A ou 150 A bis si les actions acquises revêtent la forme nominative et demeurent indisponibles, suivant des
+modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de quatre années (1) à compter de la date
 d'attribution de l'option.
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une mère ou une filiale dont le siège social est
@@ -33,15 +33,25 @@ Lorsque le revenu global net est négatif, il est compensé à due concurrence, 
 
 Les dispositions de l'article 163-0 A ne sont pas applicables.
 
+**Nota:**
+
+(1) Délai applicable aux options attribuées à compter du 27 avril 2000.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 80 bis, 83 ter, 199 terdecies A, 220 quater, 163-0 A, 197, 150 A bis, 150-0 A
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 133 IV
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 1998-06-18 5F-12-98
+
 _Modifié par_:
 
-  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
+  - Loi n°2001-420 du 15 mai 2001 - art. 133 (V)
 
 _Cité par_:
 
@@ -54,8 +64,3 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
   - Code monétaire et financier - art. L221-31 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 1998-06-18 5F-12-98
