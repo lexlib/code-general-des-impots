@@ -4,8 +4,7 @@ I. Les établissements de crédit, les entreprises d'assurances, de capitalisati
 que les sociétés immobilières pour le financement du commerce et de l'industrie, doivent acquitter une contribution annuelle
 sur certaines dépenses et charges comptabilisées au cours de l'année précédente.
 
-I bis. Les fonds d'épargne retraite prévus par la loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite ne sont
-pas assujettis à cette contribution.
+I bis. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002).
 
 II. La contribution est assise sur les dépenses et charges comptabilisées au cours de l'année précédente au titre des frais
 de personnel, des travaux, fournitures et services extérieurs, des frais de transport et de déplacement, des frais divers de
@@ -21,7 +20,7 @@ versement est accompagné du dépôt d'une déclaration établie dans les condit
 finances et du budget.
 
 La contribution est exclue des charges déductibles pour la détermination du résultat imposable de l'exercice au titre duquel
-elle est due. 
+elle est due.
 
 Si une entreprise soumise à la contribution présente un résultat déficitaire au titre du dernier exercice clos avant le 16
 octobre d'une année, elle peut reporter le paiement de la contribution, dans la limite d'une somme égale au déficit, au 15
@@ -32,12 +31,11 @@ mai de l'année suivante.
 _Cite_:
 
   - CGI 119 bis
-  - Loi n°97-277 1997-03-25
 
 **Liens**:
 
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 mars 2002
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-73 du 17 janvier 2002 - art. 48 () JORF 18 janvier 2002

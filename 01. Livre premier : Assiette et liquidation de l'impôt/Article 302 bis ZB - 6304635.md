@@ -3,7 +3,7 @@
 Il est institué une taxe due par les concessionnaires d'autoroutes à raison du nombre de kilomètres parcourus par les
 usagers.
 
-Le tarif de la taxe est fixé à 4,5 centimes par kilomètre parcouru.
+Le tarif de la taxe est fixé à 6,86 euros par 1 000 kilomètres parcourus.
 
 La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges
 que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à
@@ -13,14 +13,14 @@ cette même taxe.
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 1998-02-09 3P-3-98
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 1999-02-01 3P-2-99
   - TXT_ASSOCIE: Instruction 2000-01-31 3P-1-00
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Modifié par_:
 
-  - Loi - art. 61 () JORF 31 décembre 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 

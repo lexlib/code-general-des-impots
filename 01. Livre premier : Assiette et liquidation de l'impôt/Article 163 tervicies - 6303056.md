@@ -34,12 +34,12 @@ de la réalisation de l'investissement. A défaut, ils doivent ajouter à leur r
 montant des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la proportion de leurs droits dans la société ou
 le groupement des sommes déjà réintégrées en application des dispositions du quatrième alinéa.
 
-II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 5 000 000 F
-ne peuvent ouvrir droit à déduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions
-prévues au deuxième alinéa du III de l'article 217 undecies.
+II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 760 000
+euros ne peuvent ouvrir droit à déduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les
+conditions prévues au deuxième alinéa du III de l'article 217 undecies.
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
-par programme et par exercice est supérieur à 2 000 000 F, lorsque les résultats provenant de leur exploitation sont
+par programme et par exercice est supérieur à 300 000 euros, lorsque les résultats provenant de leur exploitation sont
 susceptibles de relever des dispositions du 1° bis du I de l'article 156.
 
 2. Ceux des investissements mentionnés au I qui concernent les secteurs des transports, de la navigation de plaisance, de la
@@ -75,10 +75,16 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - PEREMPTION: Décret n°2003-933 du 30 septembre 2003 - art. 1 () JORF 2 octobre 2003
+  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 1999-07-20 5B-15-99
 
 _Modifié par_:
 
-  - Loi - art. 89 (V) JORF 31 décembre 1998
-  - Loi n°98-1266 1998-12-30 art. 88 2°, art. 89 I 1°, II Finances pour 1999 JORF 31 décembre 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Codifié par_:
+
+  - Décret n°2003-933 2003-09-30

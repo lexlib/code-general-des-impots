@@ -4,11 +4,11 @@ En cas de cession de titres mentionnés à l'article 118, aux 6° et 7° de l'ar
 bons du Trésor sur formules et inscrits au bilan d'une entreprise à la clôture du premier exercice ouvert à compter du 1er
 janvier 1993, le résultat de la cession est sur le plan fiscal calculé par rapport à leur coût d'acquisition, y compris le
 montant des revenus acquis à la date d'achat des titres et non encore déduits du résultat imposable diminué d'une somme égale
-au montant des revenus de ces titres, acquis et non imposés à l'ouverture de cet exercice.
+au montant des revenus de ces titres, acquis et non imposés à l'ouverture de cet exercice. 
 
 Lorsque ces titres sont apportés dans le cadre d'une fusion o u d'une opération assimilée placée sous le régime défini à
 l'article 210 A, puis font l'objet d'une cession ultérieure, le résultat de la cession des titres par la société absorbante
-ou par la société bénéficiaire des apports est déterminé selon les modalités prévues à l'alinéa précédent.
+ou par la société bénéficiaire des apports est déterminé selon les modalités prévues au premier alinéa. 
 
 Pour chaque exercice, la différence entre le montant des revenus acquis à la date d'acquisition des titres concernés et non
 encore déduits du résultat imposable et celui des revenus de ces titres, acquis et non imposés à l'ouverture de cet exercice,
@@ -20,18 +20,22 @@ réquisition de l'administration.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Anciens textes_:
 
-  - CGI 118, 120, 1678 bis, 210 A, 53 A
+  - Loi n°93-859 du 22 juin 1993 - art. 37 (Ab)
 
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°2002-923 2002-06-06
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 18 août 1993
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°93-859 1993-06-22 art. 37 Finances rectificative pour 1993 JORF 23 juin 1993
+  - Code général des impôts, CGI. - art. 118 (V)
+  - Code général des impôts, CGI. - art. 120 (V)
+  - Code général des impôts, CGI. - art. 1678 bis (V)
+  - Code général des impôts, CGI. - art. 210 A (V)
+  - Code général des impôts, CGI. - art. 53 A (V)

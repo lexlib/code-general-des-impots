@@ -9,10 +9,10 @@ B. Sans préjudice de l'application des dispositions du 7° de l'article 257, le
 propriétaires participant aux opérations de rénovation urbaine et l'organisme de rénovation. Toutefois, en ce qui concerne la
 taxe ou le droit afférents aux biens remis aux anciens propriétaires en contre-partie de leur créance sur un organisme de
 rénovation, le bénéfice de la réduction de taux ne peut être invoqué qu'à concurrence du montant de la créance sur
-l'organisme de rénovation.
+l'organisme de rénovation ;
 
 C. Les cessions gratuites aux collectivités publiques de terrains classés, visées à l'article L. 130-2 du code de
-l'urbanisme.
+l'urbanisme ;
 
 D. I. Les acquisitions d'immeubles ruraux à condition :
 
@@ -53,17 +53,17 @@ E. I. Les acquisitions d'immeubles ruraux situés dans les territoires ruraux de
 décret n° 94-1139 du 26 décembre 1994 modifié qui sont effectuées par les agriculteurs bénéficiaires des aides à
 l'installation des jeunes agriculteurs prévue aux articles R343-9 et R343-13 du code rural, que les intéressés soient
 exploitants individuels ou associés d'une société civile à objet agricole, pour la fraction du prix ou de la valeur
-n'excédant pas 650.000 F, quel que soit le nombre des acquisitions, sous réserve qu'elles interviennent au cours des quatre
-années suivant l'octroi des aides, que l'acte précise la valeur des terres acquises depuis cette date par l'acquéreur ayant
-bénéficié du tarif réduit et soit appuyé d'un certificat délivré sans frais par le directeur départemental de l'agriculture
-et de la forêt précisant la date de l'octroi des aides.
+n'excédant pas 99 000 euros, quel que soit le nombre des acquisitions, sous réserve qu'elles interviennent au cours des
+quatre années suivant l'octroi des aides, que l'acte précise la valeur des terres acquises depuis cette date par l'acquéreur
+ayant bénéficié du tarif réduit et soit appuyé d'un certificat délivré sans frais par le directeur départemental de
+l'agriculture et de la forêt précisant la date de l'octroi des aides.
 
 II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, sous réserve que l'acquéreur prenne, dans l'acte
 d'acquisition, l'engagement, pour lui et ses ayants cause à titre gratuit, de justifier, au plus tard au terme d'un délai
 d'un an à compter de la date du transfert de propriété, que le bien acquis a été donné à bail à long terme à un jeune
 agriculteur bénéficiaire des aides à l'installation.
 
-Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 650 000 F.
+Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 99 000 euros.
 
 F. Les ventes résultant de l'application des articles L128-4 à L128-7 du code rural relatifs à la mise en valeur agricole des
 terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique,
@@ -85,12 +85,16 @@ H. Les acquisitions, par une société de crédit-bail, d'immeubles dont elle co
 un contrat de crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si cette formalité est obligatoire
 en application des dispositions de l'article 28 du décret n° 55-22 du 4 janvier 1955 modifié.
 
-I. (supprimé)
+I. (Disposition abrogée).
 
-J. Les cessions de constructions provisoires, réalisées en application de l'article L 60 du code du domaine de l'Etat.
+J. Les cessions de constructions provisoires, réalisées en application de l'article L. 60 du code du domaine de l'Etat.
 
 K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans le périmètre de lotissements qui sont agréés
 dans des conditions fixées par décret.
+
+L. - Les acquisitions en vue de leur revente de lots de copropriétés faisant l'objet d'un plan de sauvegarde, en application
+de l'article L. 615-1 du code de la construction et de l'habitation, par des sociétés anonymes et des sociétés anonymes
+coopératives de production d'habitations à loyers modérés ainsi que par des sociétés d'économie mixte.
 
 **Liens relatifs à cet article**
 
@@ -103,28 +107,31 @@ _Anciens textes_:
 
 _Cite_:
 
-  - CGI 257, 691, 208, 1564-0 G
-  - Code du domaine de l'Etat - art. L60 (Ab)
-  - Code de l'urbanisme - art. L130-2 (M)
+  - CGI 257, 1564-0 G
   - Code rural R343-9, R343-13, L128-4 à L128-7
   - Décret n°55-22 1955-01-04 art. 28
-  - Loi n°69-1168 1969-12-26
   - Décret n°94-1139 1994-12-26
+  - Code de l'urbanisme - art. L130-2 (M)
+  - Loi n°69-1168 1969-12-26
+  - Code du domaine de l'Etat - art. L60 (Ab)
 
 _Cité par_:
 
-  - Code général des impôts, CGI. - art. 1599 sexies (V)
-  - Code général des impôts, CGI. - art. 1754 (VD)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 251 (V)
   - Décret n°2010-1075 du 10 septembre 2010 - art. 1
+  - Code général des impôts, CGI. - art. 1599 sexies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 251 (V)
+  - Code général des impôts, CGI. - art. 1754 (VD)
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
-  - TXT_ASSOCIE: Instruction 2001-03-19 7C-1-01
+  - TXT_ASSOCIE: Instruction 2002-06-17 7C-4-02
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
   - TXT_ASSOCIE: Réponse ministérielle 1999-07-28 7C-3-99
 
 _Modifié par_:
 
-  - Loi - art. 29 (V) JORF 31 décembre 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 13 () JORF 29 décembre 2001

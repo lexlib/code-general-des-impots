@@ -11,7 +11,7 @@ sont exonérés de la taxe.
 La taxe est perçue auprès des meuniers, des opérateurs qui procèdent à l'introduction des produits sur le marché national et
 des importateurs de produits en provenance de pays tiers.
 
-Le montant de la taxe est fixé à 100 F par tonne de farine, semoule ou gruaux et par campagne.
+Le montant de la taxe est fixé à 16 euros par tonne de farine, semoule ou gruaux et par campagne.
 
 Des modalités particulières de liquidation peuvent être déterminées par un décret qui précise également les obligations
 déclaratives des assujettis (1).
@@ -23,7 +23,9 @@ Toutefois, à l'importation en provenance de pays non membres de la Communauté 
 infractions sont recherchées, constatées, poursuivies et sanctionnées selon les règles, privilèges et garanties prévus en
 matière de douane (2).
 
-(1) Voir annexe III art. 333 H bis à 333 H quinquies.
+**Nota:**
+
+(1) Voir les articles 333 H bis à 333 H quinquies de l'annexe III.
 
 (2) Ces dispositions sont applicables à compter du 1er janvier 1994.
 
@@ -31,16 +33,12 @@ matière de douane (2).
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°93-1353 1993-12-30 art. 25 II
-  - HISTO: Edition du 27 octobre 1995
+  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 31 mars 2002
 
 _Modifié par_:
 
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
