@@ -1,22 +1,22 @@
 # Article 237 bis A
 
 I. Les sommes portées au cours d'un exercice à la réserve spéciale de participation constituée en application du chapitre II
-de l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée sont déductibles pour l'assiette de l'impôt sur les sociétés ou de
-l'impôt sur le revenu exigible au titre de l'exercice au cours duquel elles sont réparties entre les salariés. L'application
-de cette disposition est subordonnée au dépôt de l'accord de participation à la direction départementale du travail et de
-l'emploi du lieu où cet accord a été conclu.
+((du titre IV du livre IV du code du travail)) (M) sont déductibles pour l'assiette de l'impôt sur les sociétés ou de l'impôt
+sur le revenu exigible au titre de l'exercice au cours duquel elles sont réparties entre les salariés. L'application de cette
+disposition est subordonnée au dépôt de l'accord de participation à la direction départementale du travail et de l'emploi du
+lieu où cet accord a été conclu.
 
-II. 1. Les entreprises peuvent constituer, en franchise d'impôt, une provision pour investissement égale à ((50 p. 100)) (1)
-du montant des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des
+II. 1. Les entreprises peuvent constituer, en franchise d'impôt, une provision pour investissement égale à 50 p. 100 du
+montant des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des
 bénéfices imposables, qui sont attribuées en plus de la participation de droit commun en application d'accords qui répondent
-aux conditions prévues à l'article 12 de l'ordonnance n° 86-1134 du 21 octobre 1986.
+aux conditions prévues à ((l'article L442-6 du code du travail)) (M).
 
-((Les entreprises ayant adopté un régime facultatif conformément à l'article L. 442-15 du code du travail peuvent également
+Les entreprises ayant adopté un régime facultatif conformément à l'article L. 442-15 du code du travail peuvent également
 constituer, dans les mêmes conditions, une provision pour investissement égale à 25 p. 100 du montant des sommes portées à la
-réserve de participation au cours du même exercice et qui correspondent à la participation de droit commun.)) (1)
+réserve de participation au cours du même exercice et qui correspondent à la participation de droit commun. (1)
 
-((Le montant de la provision visée aux premier et deuxième alinéas est réduit)) (1) de moitié lorsque les accords prévoient
-que les sommes attribuées sont indisponibles pendant trois ans seulement.
+Le montant de la provision visée aux premier et deuxième alinéas est réduit (1) de moitié lorsque les accords prévoient que
+les sommes attribuées sont indisponibles pendant trois ans seulement.
 
 2. Les sociétés anonymes à participation ouvrière peuvent constituer, en franchise d'impôt, à la clôture de chaque exercice,
 une provision pour investissement d'un montant égal à 50 p. 100 des sommes portées à la réserve spéciale de participation au
@@ -51,7 +51,10 @@ s'agit, ou à plusieurs d'entre elles.
 III. Les dispositions du présent article s'appliquent pour chaque entreprise au premier jour du premier exercice ouvert après
 le 23 octobre 1986.
 
-(1) Modification de la loi.
+(M) Modification de la loi..
+
+(1) Ces dispositions s'appliquent pour la détermination des résultats imposables du premier exercice ouvert à compter du 1er
+janvier 1994.
 
 **Liens relatifs à cet article**
 
@@ -59,22 +62,21 @@ _Cite_:
 
   - CGI 207
   - Loi n°78-763 du 19 juillet 1978 - art. 25 (V)
-  - Ordonnance 86-1134 1986-10-21 art. 12
   - Code du travail - art. L442-15 (M)
-
-_Modifié par_:
-
-  - Loi n°94-640 du 25 juillet 1994 - art. 20 () JORF 27 juillet 1994
-  - Loi n°94-640 du 25 juillet 1994 - art. 34 (V) JORF 27 juillet 1994
-  - Modifications incorporées dans l'édition du 2 septembre 1994
+  - Code du travail - art. L442-6 (M)
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°94-640 du 25 juillet 1994 - art. 34 (V)
+  - HISTO: Edition du 27 octobre 1995
+  - TXT_ASSOCIE: Instruction 1996-04-29 4N-1-96
+
+_Modifié par_:
+
+  - Loi n°94-640 du 25 juillet 1994 - art. 33 () JORF 27 juillet 1994
 
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1281 1995-12-11
 
 _Cité par_:
 

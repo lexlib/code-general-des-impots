@@ -19,6 +19,11 @@ II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 cet associé. L'application de cette disposition est subordonnée à la condition que l'apport soit réalisé dans le délai de dix
 ans à compter de la publication du décret en Conseil d'Etat propre à la profession considérée.
 
+((Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas de transformation de la société civile
+professionnelle en société d'exercice libéral jusqu'à la date de transmission, de rachat ou d'annulation des parts ou actions
+de l'associé. Les dispositions des quatrième et cinquième alinéas du II de l'article 151 octies sont applicables à l'associé
+à compter de la transformation)) (M) (1).
+
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visés
 aux I et II de l'article 151 octies.
 
@@ -43,7 +48,9 @@ applicables.
 ((4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables))
 (M).
 
-(M) Modification de la loi.
+(M) Modification.
+
+(1) Ces dispositions s'appliquent aux apports et aux transformations réalisés à compter du 1er janvier 1994.
 
 **Liens relatifs à cet article**
 
@@ -53,13 +60,18 @@ _Cite_:
   - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
   - Loi n°66-879 1966-11-29
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°94-1163 1994-12-29 art. 25 III
+  - HISTO: Edition du 27 octobre 1995
+
 _Modifié par_:
 
-  - Loi n°94-126 du 11 février 1994 - art. 31 (V) JORF 13 février 1994
+  - Loi n°94-1163 du 29 décembre 1994 - art. 25 (V) JORF 30 décembre 1994
 
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1281 1995-12-11
 
 _Cité par_:
 
