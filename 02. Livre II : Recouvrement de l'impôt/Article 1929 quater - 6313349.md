@@ -12,9 +12,11 @@ au titre du plafonnement en fonction de la valeur ajoutée, en application des a
 
 3. L'inscription ne peut être requise, selon la nature de la créance, qu'à partir de la date à laquelle :
 
-1° Le redevable a encouru une majoration pour défaut de paiement pour les impôts directs ;
+1° Le redevable a encouru une majoration pour défaut de paiement pour les impôts directs recouvrés par les comptables de la
+direction générale de la comptabilité publique ;
 
-2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes.
+2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes,
+ainsi que pour les impôts directs et taxes assimilées recouvrés par les comptables de la direction générale des impôts.
 
 4. La publicité est obligatoire lorsque les sommes dues par un redevable à un même poste comptable ou service assimilé et
 susceptibles d'être inscrites dépassent 12 200 euros au dernier jour d'un trimestre civil. Les sommes qui ne dépassent pas le
@@ -28,22 +30,20 @@ mois au moins après le paiement.
 
 6. Les frais de l'inscription du privilège sont à la charge du Trésor.
 
-7. En cas de redressement ou de liquidation judiciaires (1) du redevable ou de liquidation des biens du redevable, ou d'un
-tiers tenu légalement au paiement des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège pour les
-créances qui étaient soumises à titre obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été
-régulièrement requise à l'encontre du redevable.
+7. En cas de redressement ou de liquidation judiciaires du redevable ou de liquidation des biens du redevable, ou d'un tiers
+tenu légalement au paiement des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège pour les créances
+qui étaient soumises à titre obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été régulièrement
+requise à l'encontre du redevable.
 
 8. Les inscriptions prises en application des 1 à 5 se prescrivent par quatre ans, sauf renouvellement.
 
 9. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation
 sont fixées par un décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et du garde des
-sceaux, ministre de la justice (2).
+sceaux, ministre de la justice.
 
 **Nota:**
 
-(1) De règlement judiciaire ou de liquidation de biens pour les procédures ouvertes avant le 1er janvier 1986.
-
-(2) Voir l'article 396 bis de l'annexe II.
+NOTA : Ces dispositions entrent en vigueur à des dates fixées par décret et au plus tard le 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -51,14 +51,14 @@ _Cite_:
 
   - CGI 1647 B sexies, 1679 quinquies
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - HISTO: Edition du 31 mars 2002
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 37 (V) JORF 31 décembre 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 37 B
+  - HISTO: Edition du 1er janvier 2004
 
 _Cité par_:
 
