@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-06-07
+Version Consolidée au 1984-07-10
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -254,8 +254,8 @@ Version Consolidée au 1984-06-07
                 - [5° : Rachat des alambics par l'État (art. 310 bis)](#251)
                 - [6° : Mesures d'application (art. 311)](#252)
               - [III : Compteurs (art. 314)](#253)
-              - [IV : Bouilleurs de cru (art. 316 à 326)](#254)
-                - [1° : Définition (art. 316 à 317)](#255)
+              - [IV : Bouilleurs de cru (art. 315 à 326)](#254)
+                - [1° : Définition (art. 315 à 317)](#255)
                 - [2° : Lieux de distillation (art. 318 à 320)](#256)
                 - [4° : Cautionnement (art. 322)](#257)
                 - [5° : Liquidation de l'impôt (art. 324)](#258)
@@ -15142,6 +15142,46 @@ _Cité par_:
 ##### IV : Bouilleurs de cru<a id=254></a>
 
 ##### 1° : Définition<a id=255></a>
+
+###### Article 315
+
+Sont considérés comme bouilleurs de cru les propriétaires, fermiers, métayers ou vignerons qui distillent ou font distiller
+des vins, cidres ou poirés, marcs, lies, cerises, prunes et prunelles provenant exclusivement de leur récolte et qui ne se
+livrent pas au commerce des alcools dans le canton du lieu de distillation et les communes limitrophes de ce canton.
+
+Est admise également sous le régime des bouilleurs de cru la distillation de vins, marcs et lies provenant de vendanges ou de
+moûts chaptalisés dans les limites et conditions légales.
+
+Sont seules admises à bénéficier des dispositions du présent code relatives aux bouilleurs de cru les personnes assujetties
+au régime de la mutualité sociale agricole en application des articles 1061 à 1066 et 1073 du code rural et dont
+l'exploitation agricole constitue l'activité principale.
+
+Toutefois, par dérogation à l'alinéa précédent, le régime des bouilleurs de cru est maintenu au profit des personnes qui en
+ont bénéficié au cours de l'une au moins des trois campagnes ayant précédé la campagne 1952-1953.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 317 (V)
+  - Code général des impôts, CGI. - art. 332 (V)
+
+_Cite_:
+
+  - Code rural 1061, 1062, 1063, 1064, 1065, 1066, 1073
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1985
+
 
 ###### Article 316
 
