@@ -2,7 +2,7 @@
 
 I  Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration en double exemplaire, indiquant
 notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties en vertu de
-l'article L 950-2 du code du travail.
+l'article L 951-1 du code du travail.
 
 La déclaration des employeurs mentionnés à l'article 235 ter F doit être accompagnée soit du procès-verbal de la délibération
 du comité d'entreprise, soit du procès-verbal de carence.
@@ -21,11 +21,15 @@ En cas de redressement judiciaire , elles sont produites, [*delai*] dans les soi
 _Cite_:
 
   - CGI 235 ter F
-  - Code du travail - art. L950-2 (M)
+  - Code du travail - art. L951-1 (M)
 
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 87 () JORF 31 décembre 1987
+  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
+
+_Codifié par_:
+
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 

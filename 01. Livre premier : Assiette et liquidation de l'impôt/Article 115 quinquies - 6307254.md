@@ -9,8 +9,8 @@ montant total des résultats, imposables ou exonérés, après déduction de l'i
 1 bis Le supplément d'impôt sur les sociétés prévu au c du paragraphe I de l'article 219 est dû à raison des sommes qui
 cessent d'être à la disposition de l'exploitation française au cours des exercices ouverts à compter du 1er janvier 1989 dans
 la limite de la somme des bénéfices réputés distribués en application du I au titre des mêmes exercices diminués des plus-
-values nettes à long terme soumises au régime prévu au a du I de l'article 219 réalisées au cours de ces exercices et
-augmentés du montant des plus-values nettes qui cessent d'être à la disposition de l'exploitation française.
+values nettes à long terme soumises au régime prévu aux a et a bis du I de l'article 219 réalisées au cours de ces exercices
+et augmentés du montant des plus-values nettes qui cessent d'être à la disposition de l'exploitation française.
 
 2  Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de l'article 119
 bis-2 fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le
@@ -35,14 +35,14 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 4 () JORF 30 décembre 1990
+  - Loi - art. 11 () JORF 31 décembre 1991
+
+_Codifié par_:
+
+  - Décret n°92-836 1992-08-27
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1673 bis (VD)
   - Code général des impôts, CGI. - art. 235 ter ZCA (Ab)
   - Code général des impôts, annexe 2, CGIAN2. - art. 379 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 24 juin 1991
