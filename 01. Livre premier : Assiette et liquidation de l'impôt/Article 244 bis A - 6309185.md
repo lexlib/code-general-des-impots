@@ -2,7 +2,7 @@
 
 I  Sous réserve des conventions internationales, les personnes qui ne sont pas fiscalement domiciliées en France au sens de
 l'article 4 B, ou dont le siège social est situé hors de France [*à l'étranger*], sont soumises à un prélèvement d'un tiers
-sur les plus-values imposables en application des articles 35 A et 150 A et résultant de la cession d'immeubles, de droits
+sur les plus-values imposables en application de l'article 150 A et résultant de la cession d'immeubles, de droits
 immobiliers ou d'actions et parts de sociétés non cotées en bourse dont l'actif est constitué principalement par de tels
 biens et droits.
 
@@ -16,9 +16,9 @@ ces Etats sont exonérés dans les conditions prévues à l'article 131 sexies.
 II  Le prélèvement mentionné au I est libératoire de l'impôt sur le revenu dû en raison des sommes qui ont supporté ce
 prélèvement.
 
-1)  Voir art. 289 A.
+(1)  Voir art. 289 A.
 
-2)  Voir annexe II, art. 171 ter A et 171 quater.
+(2)  Voir annexe II, art. 171 ter A et 171 quater.
 
 **Liens relatifs à cet article**
 
@@ -27,10 +27,13 @@ _Cite_:
   - CGI 131 sexies
   - CGI 150 A
   - CGI 289 A
-  - CGI 35 A
   - CGI 4 B
   - CGIAN2 171 quater
   - CGIAN2 171 ter A
+
+_Modifié par_:
+
+  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 _Cité par_:
 
@@ -53,6 +56,10 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 quater (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 317 B (V)
 
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - TXT_ASSOCIE: Instruction 1994-09-07 8M-5-94
