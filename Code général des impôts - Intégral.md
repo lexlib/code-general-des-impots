@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1993-07-28
+Version Consolidée au 1993-08-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -997,7 +997,7 @@ Version Consolidée au 1993-07-28
             - [II : Impôt sur les spectacles, jeux et divertissements (art. 1559 à 1566)](#994)
               - [Champ d'application. (art. 1559)](#995)
               - [Tarif (art. 1560)](#996)
-              - [3° : Appareils automatiques - Obligations (art. 1560 bis à 1560 quater)](#997)
+              - [3° : Appareils automatiques - Obligations (art. 1560 bis à 1560 ter)](#997)
               - [Exonérations (art. 1561)](#998)
               - [Demi-tarif (art. 1562)](#999)
               - [Assiette et liquidation. (art. 1563)](#1000)
@@ -68596,6 +68596,34 @@ _Créé par_:
 _Abrogé par_:
 
   - Loi - art. 27 (V) JORF 30 décembre 1997, en vigueur le 1er janvier 1998
+
+
+###### Article 1560 ter
+
+Lors de l'installation d'un appareil automatique chez un tiers, l'exploitant est tenu de déclarer à l'administration la part
+des recettes revenant à ce tiers. Le modèle de la déclaration est fixé par arrêté.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - CGI 1565 quinquies
+
+_Modifié par_:
+
+  - Décision du Conseil Constitutionnel 92-172L 1992-12-29
+  - Décret n°92-1431 1993-12-30 art. 1 à 6 JORF 31 décembre 1992
+  - Décret n°93-309 1993-03-09 art. 14 1° et 22 JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°93-309 1993-03-09 art. 22
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 22 avril 1998
+
+_Transféré par_:
+
+  - Loi - art. 27 (V) JORF 31 décembre 1997, en vigueur le 1er janvier 1998
 
 
 ##### Exonérations<a id=998></a>
