@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1976-12-29
+Version Consolidée au 1976-12-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 74 B à 1515)](#1)
     - [Première Partie : Impôts d'État (art. 74 B à 1090 A)](#2)
@@ -78,9 +78,10 @@ Version Consolidée au 1976-12-29
     - [Chapitre V : Dégrèvements et restitutions d'impôts (art. 1965 E)](#75)
       - [Section II : Juridiction contentieuse (art. 1965 E)](#76)
         - [8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances (art. 1965 E)](#77)
-  - [RECOUVREMENT DE L'IMPOT (art. 1840 C)](#78)
-    - [PENALITES (art. 1840 C)](#79)
-      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#80)
+  - [RECOUVREMENT DE L'IMPOT (art. 1736 à 1840 C)](#78)
+    - [PENALITES (art. 1736 à 1840 C)](#79)
+      - [DISPOSITIONS COMMUNES. (art. 1736)](#80)
+      - [DISPOSITIONS PARTICULIERES. (art. 1840 C)](#81)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première Partie : Impôts d'État<a id=2></a>
@@ -1139,7 +1140,67 @@ _Codifié par_:
 
 ## PENALITES<a id=79></a>
 
-### DISPOSITIONS PARTICULIERES.<a id=80></a>
+### DISPOSITIONS COMMUNES.<a id=80></a>
+
+###### Article 1736
+
+Les amendes, majorations, indemnités et intérêts de retard prévus aux articles 1725 à 1734, 1740 ter, 1756, 1756 ter, 1759
+bis, 1763 à 1768, 1768 bis, 1768 ter, 1770 bis, 1784, 1785 D-III, 1826 à 1836 et 1840 H à 1840 N quater ainsi que les droits
+en sus sont constatés par l'administration fiscale.
+
+Le recouvrement et le contentieux de ces sanctions sont assurés et suivis, dans les délais et selon les règles applicables à
+la catégorie d'impôts qu'ils concernent, contre tous les débiteurs tenus du principal desdits impôts ou déclarés solidaires
+par le présent code pour le paiement des pénalités.
+
+En cas de décès du contrevenant ou s'il s'agit d'une société, en cas de dissolution, les amendes, majorations, indemnités et
+intérêts dont il s'agit constituent une charge de la succession ou de la liquidation.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: "compartiment spécial du hors-cote" sont remplacés, dans toutes les dispositions législatives existantes, par les mots : "second marché" et après les mots : "cote officielle", sont insérés les mots : "ou à la cote du second marché" aux articles 200,
+  - SPEC_APPLI: Loi n°83-1 du 3 janvier 1983 - art. 47, v. init.
+  - HISTO: JORF 30 DECEMBRE 1976)
+  - SPEC_APPLI: Les mots :
+
+_Cite_:
+
+  - CGI 1725 A CGI 1734
+  - CGI 1740 ter
+  - CGI 1756
+  - CGI 1756 ter
+  - CGI 1759 bis
+  - CGI 1763 A CGI 1768
+  - CGI 1768 bis
+  - CGI 1768 ter
+  - CGI 1770 bis
+  - CGI 1784
+  - CGI 1785 D III
+  - CGI 1826 A CGI 1836
+  - CGI 1840 H A CGI 1840 N quater
+
+_Modifié par_:
+
+  - Loi n°76-1232 du 29 décembre 1976 - art. 70 (P)
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 10 (V)
+  - Code général des impôts, CGI. - art. 1649 A bis (V)
+  - Code général des impôts, CGI. - art. 1649 A quater (V)
+  - Code général des impôts, CGI. - art. 1649 A ter (V)
+  - Code général des impôts, CGI. - art. 1729-0 A (V)
+  - Code général des impôts, CGI. - art. 1754 (VD)
+  - Code général des impôts, CGI. - art. 240 (V)
+  - Code général des impôts, CGI. - art. 990 C (Ab)
+
+
+### DISPOSITIONS PARTICULIERES.<a id=81></a>
 
 ###### Article 1840 C
 
