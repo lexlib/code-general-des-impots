@@ -29,7 +29,7 @@ c) Emballages industriels :
 
 44 15 20 90. - Caisses-palettes ;
 
-2° ((1,30 p. 100 de la valeur des produits suivants, énumérés selon la même référence)) (1) :
+2° 1,2 p. 100 de la valeur des produits suivants énumérés selon la même référence :
 
 a) Sciages :
 
@@ -50,7 +50,7 @@ c) Bois contre-plaqués :
 
 44 12 11 00, 44 12 12 00, 44 12 19 00. - Bois contre-plaqués ;
 
-2° bis. ((0,68 p. 100)) (1) de la valeur des produits suivants énumérés selon la même référence :
+2° bis. 0,68 p. 100 (1) de la valeur des produits suivants énumérés selon la même référence :
 
 44-10-10-10, 44-10-10-30, 44-10-10-50, 44-10-10-90.  Panneaux de particules, à l'exclusion des panneaux revêtus d'autres
 matières que le bois ;
@@ -75,7 +75,7 @@ b) Emballages légers :
 
 c) Supprimé ;
 
-4° ((0,12 p. 100)) (1) de la valeur des produits suivants, énumérés selon la même référence :
+4° 0,12 p. 100 (1) de la valeur des produits suivants, énumérés selon la même référence :
 
 48 01. - Papier journal en rouleaux ou en feuilles ;
 
@@ -142,9 +142,7 @@ par le service des douanes selon les mêmes règles, sous les mêmes garanties e
 La base d'imposition est constituée par la valeur définie par la législation douanière conformément aux règlements
 communautaires en vigueur.
 
-**Nota:**
-
-(1) Modification de la loi. [*Cf. Instruction 1995-02-03 3P-1-95.*]
+(1) Taux applicable à compter du 1er janvier 1995.
 
 **Liens relatifs à cet article**
 
@@ -156,19 +154,19 @@ _Cite_:
 
   - CGI 262 ter, 258 A, 275, 1725 à 1740, 287, 1697
 
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
-
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
-  - TXT_ASSOCIE: Instruction 1995-02-03 3P-1-95
+  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 1996-01-26 3P-2-96
 
 _Modifié par_:
 
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-  - Loi n°94-1162 du 29 décembre 1994 - art. 30 () JORF 30 décembre 1994
+  - Loi - art. 38 () JORF 31 décembre 1995
+
+_Abrogé par_:
+
+  - Loi - art. 57 () JORF 31 décembre 1999
 
 _Cité par_:
 

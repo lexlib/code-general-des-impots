@@ -1,6 +1,6 @@
 # Article 39 quinquies DA
 
-Les matériels acquis ou fabriqués entre le 1er janvier 1992 et le 31 décembre (( 1995 )) (M), qui figurent sur une liste
+Les matériels acquis ou fabriqués entre le 1er janvier 1992 et le 31 décembre ((1998)) (M), qui figurent sur une liste
 établie par arrêté conjoint du ministre du budget et du ministre de l'environnement (1) et qui sont destinés à réduire le
 niveau acoustique d'installations existant au 31 décembre 1990, peuvent faire l'objet d'un amortissement exceptionnel sur
 douze mois à compter de leur mise en service.
@@ -9,7 +9,7 @@ Cet amortissement exceptionnel peut également, sur agrément préalable délivr
 1649 nonies après avis du ministre de l'environnement et dans la limite fixée par cet agrément, s'appliquer aux matériels
 permettant de réduire d'au moins 50 p. 100 le niveau acoustique d'installations existant au 31 décembre 1990.
 
-(M) Modification de la loi.
+(M) Modification de la loi. [*Cf. Instruction 1996-02-16 4D-1-96.*]
 
 (1) Voir Annexe IV, art. 06.
 
@@ -22,7 +22,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°94-1162 du 29 décembre 1994 - art. 67 () JORF 30 décembre 1994
+  - Loi - art. 78 () JORF 31 décembre 1995
 
 _Cité par_:
 
@@ -33,4 +33,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 12 mai 1996
+  - TXT_ASSOCIE: Instruction 1996-02-16 4D-1-96

@@ -1,9 +1,9 @@
 # Article 1723 octies
 
 Conformément à l'article L. 333-2 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989
-((modifiée)) (M), le montant du versement pour dépassement du plafond légal de densité, défini à l'article L. 112-2 du même
-code, es t dû par le bénéficiaire de l'autorisation de construire. Ce versement peut être mis à la charge du lotisseur ou de
-l'association foncière urbaine de remembrement (1). En cas de désaccord sur la valeur du terrain, il est provisoirement
+modifiée, le montant du versement pour dépassement du plafond légal de densité, défini à l'article L. 112-2 du même code, est
+dû par le bénéficiaire de l'autorisation de construire. Ce versement peut être mis à la charge du lotisseur ou de
+l'association foncière urbaine de remembrement (2). En cas de désaccord sur la valeur du terrain, il est provisoirement
 arrêté, puis mis en recouvrement sur la base de l'estimation administrative. Lorsqu'il n'excède pas 80 F le versement n'est
 pas mis en recouvrement.
 
@@ -17,8 +17,8 @@ date.
 
 Après décision définitive de la juridiction de l'expropriation, il est procédé, selon le cas, à la mise en recouvrement d'une
 somme complémentaire ou à la restitution du montant excédentaire. Le paiement du complément doit intervenir en même temps que
-le paiement de la deuxième partie du versement ou, au plus tard, dans les six mois de la notification du titre rendu
-exécutoire par le préfet pour le recouvrement du complément.
+le paiement de la deuxième partie du versement ou, au plus tard, dans les six mois de la notification du titre délivré par
+l'autorité compétente pour procéder à leur liquidation pour le recouvrement du complément.
 
 La juridiction de l'expropriation doit se prononcer dans les six mois de sa saisine ; en cas d'appel de sa décision, la
 juridiction d'appel doit statuer dans les six mois de l'appel.
@@ -26,15 +26,13 @@ juridiction d'appel doit statuer dans les six mois de l'appel.
 Le montant donnant lieu à restitution est majoré des intérêts au taux légal courus depuis la date à laquelle la première
 fraction du versement a été acquittée.
 
-(1) Code de l'urbanisme, art. L. 333-9-1.
+(1) Les dispositions des articles 1723 octies à 1723 quaterdecies demeurent applicables dans les communes où un plafond légal
+de densité était institué le 31 décembre 1999, voir le II de l'article 50 de la loi n° 2000-1208 du 13 décembre 2000. Les
+références au code de l'urbanisme sont celles dans leur rédaction antérieure à l'entrée en vigueur de cette loi).
 
-(M) Modification.
+(2) Code de l'urbanisme, art. L. 333-9-1.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995
 
 _Cite_:
 
@@ -48,10 +46,14 @@ _Cité par_:
   - Loi n°89-935 du 29 décembre 1989 - art. 118 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 C (P)
 
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
-
 _Modifié par_:
 
-  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+  - Loi n°94-112 1994-02-09 art. 14-1 JORF 10 février 1994
+
+_Codifié par_:
+
+  - Décret n°96-556 1996-06-21
+
+**Liens**:
+
+  - HISTO: Edition du 12 mai 1996

@@ -1,9 +1,9 @@
 # Article 239 bis AA
 
-Les sociétés à responsabilité limitée exerçant une activité industrielle, commerciale ou artisanale, et formées uniquement
-entre personnes parentes en ligne directe ou entre frères et soeurs, ainsi que les conjoints, peuvent opter pour le régime
-fiscal des sociétés de personnes mentionné à l'article 8. L'option ne peut être exercée qu'avec l'accord de tous les
-associés. Elle cesse de produire ses effets dès que des personnes autres que celles prévues dans le présent article
+Les sociétés à responsabilité limitée exerçant une activité industrielle, commerciale artisanale ou agricole, et formées
+uniquement entre personnes parentes en ligne directe ou entre frères et soeurs, ainsi que les conjoints, peuvent opter pour
+le régime fiscal des sociétés de personnes mentionné à l'article 8. L'option ne peut être exercée qu'avec l'accord de tous
+les associés. Elle cesse de produire ses effets dès que des personnes autres que celles prévues dans le présent article
 deviennent associées.
 
 **Liens relatifs à cet article**
@@ -11,14 +11,6 @@ deviennent associées.
 _Cite_:
 
   - CGI 8
-
-_Modifié par_:
-
-  - Loi n°84-1208 1984-12-29 art. 83 Finances pour 1985 JORF 30 décembre 1984
-
-_Codifié par_:
-
-  - Décret n°85-1007 1985-09-24
 
 _Cité par_:
 
@@ -34,4 +26,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 15 juillet 1985
+  - HISTO: Edition du 12 mai 1996
+  - TXT_ASSOCIE: Instruction 1997-07-25 4H-5-97
