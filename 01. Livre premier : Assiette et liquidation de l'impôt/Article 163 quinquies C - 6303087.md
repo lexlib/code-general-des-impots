@@ -22,30 +22,34 @@ actions de la société de capital-risque (1).
 Les sommes qui ont été exonérées d'impôt sur le revenu sont ajoutées au revenu imposable de l'année au cours de laquelle la
 société ou le contribuable cesse de remplir les conditions fixées au précédent alinéa.
 
-Toutefois, l'exonération est maintenue en cas de cession des actions par le contribuable lorsque lui-même ou son conjoint se
-trouve dans l'un des cas prévus au troisième alinéa de l'article 199 quinquies B.
+((Toutefois, l'exonération est maintenue en cas de cession des actions par le contribuable lorsque lui-même ou l'un des époux
+soumis à une imposition commune se trouve dans l'un des cas suivants : invalidité correspondant au classement dans la
+deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite
+ou licenciement.)) (M)
 
 Les dispositions du présent article sont applicables lorsque les plus-values ou les revenus distribués ont été réalisés au
 cours de l'exercice au titre duquel la distribution est effectuée ou des trois exercices précédents.
 
 (1) Annexe II, art. 60 A.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 200 A, 199 quinquies B
+  - CGI 200 A
   - CGIAN2 60 A
   - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
+  - Code de la sécurité sociale. - art. L341-4 (V)
 
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°94-899 1994-10-17
 
 _Modifié par_:
 
-  - Décret n°93-1127 du 24 septembre 1993 - art. 1 () JORF 28 septembre 1993
-  - Modification incorporée à la date du 18 août 1993
+  - Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
 
 _Cité par_:
 
@@ -60,3 +64,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 60 A (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 60 B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 DGA (V)
+
+**Liens**:
+
+  - HISTO: Edition du 2 septembre 1994
