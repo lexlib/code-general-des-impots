@@ -1,8 +1,9 @@
 # Article 1636 B decies
 
-I. – Les communes membres d'une communauté ou d'un syndicat d'agglomération nouvelle visés à l'article 1609 nonies B votent
-les taux des taxes foncières, de la taxe d'habitation, à l'exclusion de la taxe professionnelle, conformément aux
-dispositions applicables aux communes.
+I. – Les communes membres d'une communauté ou d'un syndicat d'agglomération nouvelle mentionnés à l'article 1609 nonies B ou
+d'un établissement public de coopération intercommunale soumis, de plein droit ou après option, au régime fiscal prévu à
+l'article 1609 nonies C votent les taux des taxes foncières, de la taxe d'habitation, à l'exclusion de la taxe
+professionnelle, conformément aux dispositions applicables aux communes.
 
 II. – La communauté ou le syndicat d'agglomération nouvelle visés à l'article 1609 nonies B vote le taux de la taxe
 professionnelle dans les limites définies au b du 1, ainsi qu'aux 2 et 3 du I de l'article 1636 B sexies et à l'article 1636
@@ -27,15 +28,11 @@ d'agglomération nouvelle s'est substitué.
 
 _Cite_:
 
-  - CGI 1609 nonies B, 1636 B sexies I, 1636 B septies
+  - CGI 1609 nonies B, 1609 nonies C, 1636 B sexies, 1636 B septies
 
 _Modifié par_:
 
-  - Loi n°88-1193 du 29 décembre 1988 - art. 17 (V) JORF 30 décembre 1988 incorporé au code le 14 juillet 1989
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
+  - Loi n°92-125 du 6 février 1992 - art. 97 () JORF 8 février 1992
 
 _Cité par_:
 
@@ -50,3 +47,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1640 C (V)
   - Code général des impôts, CGI. - art. 1656 (VT)
   - Code général des impôts, CGI. - art. 1656 bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
