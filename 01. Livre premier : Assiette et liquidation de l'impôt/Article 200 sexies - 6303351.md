@@ -5,25 +5,25 @@ dénommé prime pour l'emploi, au profit des personnes physiques fiscalement dom
 Cette prime est accordée au foyer fiscal à raison des revenus d'activité professionnelle de chacun de ses membres, lorsque
 les conditions suivantes sont réunies :
 
-A. - Le montant des revenus du foyer fiscal tel que défini au IV de l'article 1417 ne doit pas excéder 11 772 euros pour la
-première part de quotient familial des personnes célibataires, veuves ou divorcées et 23 544 euros pour les deux premières
-parts de quotient familial des personnes soumises à imposition commune. Ces limites sont majorées de 3 253 euros pour chacune
-des demi-parts suivantes.
+A. - Le montant des revenus du foyer fiscal tel que défini au IV de l'article 1417 ne doit pas excéder 11 972 euros pour la
+première part de quotient familial des personnes célibataires, veuves ou divorcées et 23 944 euros pour les deux premières
+parts de quotient familial des personnes soumises à imposition commune. Ces limites sont majorées de 3 308 euros pour chacune
+des demi-parts suivantes et de la moitié de cette somme pour chacun des quarts de part suivants (1).
 
 Pour l'appréciation de ces limites, lorsqu'au cours d'une année civile survient l'un des événements mentionnés aux 4, 5 et 6
 de l'article 6, le montant des revenus, tel que défini au IV de l'article 1417, déclaré au titre de chacune des déclarations
 souscrites est converti en base annuelle.
 
 B. - 1° Le montant des revenus déclarés par chacun des membres du foyer fiscal bénéficiaire de la prime, à raison de
-l'exercice d'une ou plusieurs activités professionnelles, ne doit être ni inférieur à 3 187 euros ni supérieur à 14 872
+l'exercice d'une ou plusieurs activités professionnelles, ne doit être ni inférieur à 3 265 euros ni supérieur à 15 235
 euros.
 
-La limite de 14 872 euros est portée à 22 654 euros pour les personnes soumises à imposition commune lorsqu'un des membres du
+La limite de 15 235 euros est portée à 23 207 euros pour les personnes soumises à imposition commune lorsqu'un des membres du
 couple n'exerce aucune activité professionnelle ou dispose de revenus d'activité professionnelle d'un montant inférieur à 3
-187 euros ;
+265 euros ;
 
 2° Lorsque l'activité professionnelle n'est exercée qu'à temps partiel ou sur une fraction seulement de l'année civile, ou
-dans les situations citées au deuxième alinéa du A, l'appréciation des limites de 14 872 euros et de 22 654 euros s'effectue
+dans les situations citées au deuxième alinéa du A, l'appréciation des limites de 15 235 euros et de 23 207 euros s'effectue
 par la conversion en équivalent temps plein du montant des revenus définis au 1°.
 
 Pour les salariés, la conversion résulte de la multiplication de ces revenus par le rapport entre 1 820 heures et le nombre
@@ -63,35 +63,44 @@ II. - Lorsque les conditions définies au I sont réunies, la prime, au titre de
 échéant, après application de la règle fixée au III, selon les modalités suivantes :
 
 A. - 1° Pour chaque personne dont les revenus professionnels évalués conformément au 1° du B du I, et convertis, en tant que
-de besoin, en équivalent temps plein sont inférieurs à 10 623 euros, la prime est égale à 4,4 % du montant de ces revenus.
+de besoin, en équivalent temps plein sont inférieurs à 10 882 euros, la prime est égale à 4,4 % du montant de ces revenus.
 
-Lorsque ces revenus sont supérieurs à 10 623 euros et inférieurs à 14 872 euros, la prime est égale à 11 % de la différence
-entre 14 872 euros et le montant de ces revenus ;
+Lorsque ces revenus sont supérieurs à 10 862 euros et inférieurs à 15 235 euros, la prime est égale à 11 % de la différence
+entre 15 235 euros et le montant de ces revenus ;
 
 2° Pour les personnes dont les revenus ont fait l'objet d'une conversion en équivalent temps plein, le montant de la prime
 est divisé par les coefficients de conversion définis au 2° du B du I ;
 
+Lorsque ces coefficients sont supérieurs ou égaux à 2, le montant de la prime ainsi obtenu est majoré de 45 %.
+
+Lorsque ces coefficients sont inférieurs à 2 et supérieurs à  1, le montant résultant des dispositions du premier alinéa est
+multiplié par un coefficient égal à 0,55. La prime est égale au produit ainsi obtenu, majoré de 45 % du montant de la prime
+calculé dans les conditions prévues au 1° ;
+
 3° Pour les couples dont l'un des membres n'exerce aucune activité professionnelle ou dispose de revenus d'activité
-professionnelle d'un montant inférieur à 3 187 euros :
+professionnelle d'un montant inférieur à 3 265 euros :
 
-a) Lorsque les revenus professionnels de l'autre membre du couple, évalués conformément au 1°, sont inférieurs ou égaux à 14
-872 euros, la prime calculée conformément aux 1° et 2° est majorée de 78 euros ;
+a) Lorsque les revenus professionnels de l'autre membre du couple, évalués conformément au 1°, sont inférieurs ou égaux à 15
+235 euros, la prime calculée conformément aux 1° et 2° est majorée de 79 euros ;
 
-b) Lorsque ces revenus sont supérieurs à 14 872 euros et inférieurs ou égaux à 21 246 euros, le montant de la prime est fixé
-forfaitairement à 78 euros ;
+b) Lorsque ces revenus sont supérieurs à 15 235 euros et inférieurs ou égaux à 21 764 euros, le montant de la prime est fixé
+forfaitairement à 79 euros ;
 
-c) Lorsque ces revenus sont supérieurs à 21 246 euros et inférieurs à 22 654 euros, la prime est égale à 5,5 % de la
-différence entre 22 654 euros et le montant de ces revenus.
+c) Lorsque ces revenus sont supérieurs à 21 764 euros et inférieurs à 23 207 euros, la prime est égale à 5,5 % de la
+différence entre 23 207 euros et le montant de ces revenus.
 
-B. - Le montant total de la prime déterminé pour le foyer fiscal conformément aux 1°, 2° et a du 3° du A est majoré de 31
+B. - Le montant total de la prime déterminé pour le foyer fiscal conformément aux 1°, 2° et a du 3° du A est majoré de 32
 euros par personne à charge au sens des articles 196 à 196 B, n'exerçant aucune activité professionnelle ou disposant de
-revenus d'activité professionnelle d'un montant inférieur à 3 187 euros.
+revenus d'activité professionnelle d'un montant inférieur à 3 265 euros. Toutefois, la majoration est divisée par deux pour
+les enfants réputés à charge égale de l'un et l'autre de leurs parents (1).
 
-Pour les personnes définies au II de l'article 194, la majoration de 31 euros est portée à 62 euros pour le premier enfant à
-charge qui remplit les conditions énoncées au premier alinéa.
+Pour les personnes définies au II de l'article 194, la majoration de 32 euros est portée à 64 euros pour le premier enfant à
+charge qui remplit les conditions énoncées au premier alinéa. Lorsque les contribuables entretiennent uniquement des enfants
+dont la charge est réputée également partagée entre l'un et l'autre des parents, la majoration de 64 euros est divisée par
+deux et appliquée à chacun des deux premiers enfants (1).
 
 C. - Pour les personnes placées dans les situations mentionnées aux b et c du 3° du A et au deuxième alinéa du B, dont le
-montant total des revenus d'activité professionnelle est compris entre 14 872 euros et 22 654 euros, la majoration pour
+montant total des revenus d'activité professionnelle est compris entre 15 235 euros et 23 207 euros, la majoration pour
 charge de famille est fixée forfaitairement aux montants mentionnés au B, quel que soit le nombre d'enfants à charge.
 
 III. - Pour l'application du B du I et du II, les revenus des activités professionnelles mentionnées aux c, d et e du 3° du B
@@ -116,6 +125,10 @@ l'administration fiscale au plus tard le 31 décembre de la deuxième année sui
 VI. - Un décret précise, en tant que de besoin, les modalités d'application du présent article, et notamment celles relatives
 aux obligations des employeurs.
 
+**Nota:**
+
+(1) Ces dispositions s'appliquent pour l'imposition des revenus des années 2003 et suivantes.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -126,11 +139,11 @@ _Cite_:
 
 **Liens**:
 
+  - HISTO: Edition du 1er janvier 2003
   - TXT_ASSOCIE: Instruction 2001-06-15 5B-12-01
-  - TXT_ASSOCIE: Instruction 2003-06-06 5B-12-03
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II
-  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 2002-06-06 5B-12-02
+  - TXT_ASSOCIE: Instruction 2003-06-06 5B-12-03
+  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 30 VIII
 
 _Cité par_:
 
@@ -141,9 +154,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 5 () JORF 29 décembre 2001
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
+  - Loi - art. 3 () JORF 31 décembre 2002
+  - Loi - art. 30 (V) JORF 31 décembre 2002

@@ -19,8 +19,8 @@ ayant à leur charge une personne, vivant sous leur toit, mentionnée au 3° dud
 complément d'allocation d'éducation spéciale prévu par le deuxième alinéa de l'article L. 541-1 du code de la sécurité
 sociale.
 
-L'aide financière mentionnée à l'article L129-3 du code du travail n'est pas déduite du montant des dépenses mentionnées au
-troisième alinéa.
+Ainsi qu'il est dit au premier alinéa de l'article L. 129-3 du code du travail, l'aide financière mentionnée à cet article
+n'est pas déduite du montant des dépenses à retenir pour l'assiette de la réduction d'impôt mentionnée au présent article.
 
 La réduction d'impôt est accordée sur présentation des pièces justifiant du paiement des salaires et des cotisations
 sociales, de l'identité du bénéficiaire, de la nature et du montant des prestations payées à l'association, l'entreprise ou
@@ -47,9 +47,13 @@ _Cite_:
   - Code de la sécurité sociale. - art. L541-1 (M)
   - Code de l'action sociale et des familles - art. L232-2 (M)
 
+_Codifié par_:
+
+  - Décret n°2003-298 2003-03-31
+
 _Modifié par_:
 
-  - Loi - art. 8 () JORF 31 décembre 2002
+  - Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
 
 _Cité par_:
 
@@ -77,4 +81,6 @@ _Cité par_:
 
 **Liens**:
 
+  - SPEC_APPLI: Conséquence de l'application du 1er alinéa de l'article L. 129-3 du code du travail
+  - HISTO: Edition du 1er janvier 2003
   - TXT_ASSOCIE: Instruction 2003-02-21 5B-8-03

@@ -66,8 +66,7 @@ afférents à l'activité exercée en Corse et relatifs à la période d'imposit
 éléments d'imposition à la taxe professionnelle du contribuable définis au même article pour ladite période. Pour la
 détermination de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est celle déterminée,
 conformément à l'article 1467, au 1er janvier de l'année au cours de laquelle est clos l'exercice, ou au 1er janvier de
-l'année d'imposition des bénéfices et, par dérogation aux dispositions du b du 1° de l'article 1467, les salaires afférents à
-l'activité exercée en Corse sont pris en compte pour 36 p. 100 de leur montant.
+l'année d'imposition des bénéfices.
 
 IV. 1° Pour les entreprises créées après le 1er janvier 1997 et jusqu'au 31 décembre 2001, le bénéfice ainsi calculé est
 exonéré dans la limite prévue au IX.
@@ -157,11 +156,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 84 () JORF 29 décembre 2001
+  - Loi n°98-1266 1998-12-30 art. 44 A I 1 Finances pour 1999 JORF 31 décembre 1998
 
 _Codifié par_:
 
-  - Décret n°2002-923 2002-06-06
+  - Décret n°2003-298 2003-03-31
 
 _Cité par_:
 
@@ -184,4 +183,6 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2003
+  - TXT_ASSOCIE: Instruction 2003-04-10 4A-5-03
+  - TXT_ASSOCIE: Instruction 2003-04-23 4A-6-03

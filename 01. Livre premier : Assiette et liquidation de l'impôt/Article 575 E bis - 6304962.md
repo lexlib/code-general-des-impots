@@ -1,22 +1,83 @@
 # Article 575 E bis
 
-Pour les tabacs expédiés en Corse et ceux qui y sont fabriqués, le droit de consommation est perçu au taux en vigueur dans
-les départements de la Corse. Il reçoit l'affectation prévue pour les droits de consommation sur les tabacs par l'article 20
-de la loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967), modifié par l'article 23 de la loi n° 82-659 du 30 juillet
-1982 portant statut particulier de la région de Corse.
+I. - Les tabacs manufacturés vendus dans les départements de Corse et les tabacs qui y sont importés sont soumis à un droit
+de consommation.
 
-Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration (1).
+Pour les cigarettes, ce droit de consommation, par dérogation au taux normal mentionné à l'article 575 A, est déterminé
+conformément au dispositions des deuxième, quatrième et cinquième alinéas de l'article 575.
 
-**Nota:**
+La part spécifique est égale à 5 % de la charge fiscale totale afférente aux cigarettes de la classe de prix la plus demandée
+et comprenant le droit de consommation et la taxe sur la valeur ajoutée.
 
-(1) Voir l'article 56 AQ de l'annexe IV.
+Les tabacs manufacturés autres que les cigarettes sont soumis à un taux normal applicable à leur prix de vente au détail dans
+les départements de Corse.
+
+Pour les différents groupes de produits mentionnés aux alinéas précédents, le taux normal du droit de consommation applicable
+dans les départements de Corse est fixé conformément au tableau ci-après :
+
+GROUPE DE PRODUITS : Cigarettes
+
+TAUX NORMAL (en %) : 34,5
+
+GROUPE DE PRODUITS : Cigares
+
+TAUX NORMAL (en %) : 10
+
+GROUPE DE PRODUITS : Tabacs fine coupe destinés à rouler les cigarettes
+
+TAUX NORMAL (en %) : 27
+
+GROUPE DE PRODUITS : Autres tabacs à fumer
+
+TAUX NORMAL (en %) : 22
+
+GROUPE DE PRODUITS : Tabacs à priser
+
+TAUX NORMAL (en %) : 15
+
+GROUPE DE PRODUITS : Tabacs à mâcher
+
+TAUX NORMAL (en %) : 13.
+
+II. - Pour les cigarettes, le prix de vente au détail appliqué dans les départements de Corse est au moins égal à 68 % des
+prix de vente continentaux des mêmes produits.
+
+Pour les tabacs fine coupe destinés à rouler les cigarettes, les autres tabacs à fumer, les tabacs à priser et les tabacs à
+mâcher, le prix de vente au détail appliqué dans les départements de Corse est au moins égal aux deux tiers des prix
+continentaux des mêmes produits.
+
+Pour les cigares et les cigarillos, le prix de vente au détail appliqué dans les départements de Corse est au moins égal à 85
+% des prix continentaux des mêmes produits.
+
+III. - Outre les cas prévus aux 1°, 2° et 4° du 1 du I de l'article 302 D et au II du même article en ce qui concerne les
+tabacs manufacturés directement introduits dans les départements de Corse en provenance d'un autre Etat membre de la
+Communauté européenne, le droit de consommation est également exigible soit à l'importation, soit à l'issue d'un régime
+suspensif de l'accise. Dans ces cas, le droit est dû par la personne qui importe les produits ou qui sort les biens du régime
+suspensif.
+
+IV. - Le droit de consommation est recouvré dans les conditions prévues par les deuxième à cinquième alinéas de l'article 575
+C. A l'exclusion des tabacs directement importés dans les départements de Corse qui demeurent soumis aux dispositions de
+l'article 575 M, les infractions aux dispositions du présent article sont recherchées, constatées, poursuivies et réprimées
+comme en matière de contributions indirectes.
+
+V. - Le produit du droit de consommation est affecté au financement de travaux de mise en valeur de la Corse et versé à
+concurrence :
+
+a. d'un quart au budget des départements de la Corse ;
+
+b. de trois quarts au budget de la collectivité territoriale de Corse.
+
+VI. - Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - Loi n°67-1114 1967-12-21 art. 20 Finances pour 1968
-  - Loi n°82-659 1982-07-30 art. 23
+  - Décret n°2003-298 2003-03-31
+
+_Modifié par_:
+
+  - Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
 
 _Cité par_:
 
@@ -54,6 +115,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 572 (VD)
   - Code général des impôts, CGI. - art. 575 M (V)
 
+_Cite_:
+
+  - CGI 575 A, 575, 302 D, 575 C, 575 M
+
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
+  - HISTO: Edition du 1er janvier 2003

@@ -14,7 +14,7 @@ du taux de la taxe d'habitation ou à celle du taux moyen pondéré de la taxe d
 plus importante de ces diminutions lorsque ces deux taux sont en baisse, prévue au b du 1 du I de l'article 1636 B sexies, ne
 s'applique pas.
 
-Pour l'application du b du 1, ainsi qu'aux 2 et 3, au premier alinéa du 4 et au 5 du I de l'article 1636 B sexies :
+Pour l'application du b du 1, ainsi que des 2 et 3, du premier alinéa du 4 et du 5 du I de l'article 1636 B sexies :
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté dans l'ensemble des communes membres de
 l'établissement public de coopération intercommunale. Pour les établissements publics de coopération intercommunale qui font
@@ -48,10 +48,13 @@ _Cite_:
 
   - CGI 1609 nonies B, 1609 nonies C, 1609 quinquies C, 1636 B sexies, 1636 B septies
 
+_Codifié par_:
+
+  - Décret n°2003-298 2003-03-31
+
 _Modifié par_:
 
-  - Loi - art. 31 (V) JORF 31 décembre 2002
-  - Loi - art. 32 () JORF 31 décembre 2002
+  - Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
 
 _Cité par_:
 
@@ -66,3 +69,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1640 C (V)
   - Code général des impôts, CGI. - art. 1656 (VT)
   - Code général des impôts, CGI. - art. 1656 bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2003
+  - TXT_ASSOCIE: Instruction 2003-04-04 6A-2-03
+  - TXT_ASSOCIE: Instruction 2003-06-30 6A-4-03

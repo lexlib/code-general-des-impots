@@ -6,7 +6,7 @@ conditions définies par la loi n° 92-666 du 16 juillet 1992 modifiée.
 Chaque contribuable ou chacun des époux soumis à imposition commune ne peut être titulaire que d'un plan. Un plan ne peut
 avoir qu'un titulaire.
 
-Le titulaire d'un plan effectue des versements en numéraire dans une limite de 120 000 euros (1).
+Le titulaire d'un plan effectue des versements en numéraire dans une limite de 132 000 euros (1).
 
 II. 1. Les parts des fonds mentionnés au 3 du III de l'article 150-0 A ne peuvent figurer dans le plan d'épargne en actions.
 
@@ -35,7 +35,7 @@ conditions fixées par décret (3).
 
 **Nota:**
 
-(1) Ces dispositions s'appliquent à compter du 1er janvier 2002.
+(1) Ces dispositions s'appliquent à compter du 1er janvier 2003.
 
 (2) : Les actions de sociétés de capital-risque et les parts de fonds communs de placements à risques donnant lieu à des
 droits différents sur l'actif net ou sur les produits de la société ou du fonds, attribuées en fonction de la qualité de la
@@ -50,13 +50,15 @@ _Cite_:
   - CGI 150-0 A, 80 bis, 83, 83 ter, 726, 810, 163 septdecies, 199 undecies, 199 terdecies, 199 terdecies A, 163 bis C
   - Loi n°92-666 1992-07-16
 
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
+  - Loi - art. 7 (V) JORF 31 décembre 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-1575 2002-12-30 art. 7 III
+  - HISTO: Edition du 1er janvier 2003
+  - TXT_ASSOCIE: Instruction 2003-06-04 5I-2-03
 
 _Cité par_:
 
@@ -83,7 +85,3 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K bis (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K ter (V)
   - Livre des procédures fiscales - art. R96 D-1 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
