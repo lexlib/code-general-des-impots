@@ -1,28 +1,32 @@
 # Article 200 quater
 
-1. Les dépenses payées entre le 15 septembre 1999 et le 31 décembre 2002 pour l'acquisition de gros équipements fournis dans
+1. Les dépenses payées entre le 15 septembre 1999 et le 31 décembre 2005 pour l'acquisition de gros équipements fournis dans
 le cadre de travaux d'installation ou de remplacement du système de chauffage, des ascenseurs ou de l'installation sanitaire
 ouvrent droit à un crédit d'impôt sur le revenu lorsque ces travaux sont afférents à la résidence principale du contribuable
 située en France et sont éligibles au taux réduit de la taxe sur la valeur ajoutée en application de l'article 279-0 bis.
 Ouvrent également droit au crédit d'impôt sur le revenu, dans les mêmes conditions, les dépenses payées entre le 1er octobre
-2001 et le 31 décembre 2002 pour l'acquisition de matériaux d'isolation thermique et d'appareils de régulation de chauffage
+2001 et le 31 décembre 2005 pour l'acquisition de matériaux d'isolation thermique et d'appareils de régulation de chauffage
 définis par arrêté du ministre chargé du budget.
 
 Ouvre également droit au crédit d'impôt le coût des équipements de production d'énergie utilisant une source d'énergie
 renouvelable intégrés à un logement situé en France acquis neuf ou en l'état futur d'achèvement entre le 1er janvier 2001 et
-le 31 décembre 2002 et que le contribuable affecte, dès son achèvement ou son acquisition si elle est postérieure, à son
+le 31 décembre 2005 et que le contribuable affecte, dès son achèvement ou son acquisition si elle est postérieure, à son
 habitation principale. Cet avantage est également applicable, dans les mêmes conditions, au coût des mêmes équipements
 intégrés dans un logement que le contribuable fait construire et qui a fait l'objet, entre les mêmes dates, de la déclaration
 d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Il en est de même des dépenses payées entre le
-1er janvier 2001 et le 31 décembre 2002 au titre de l'acquisition des mêmes équipements fournis dans le cadre de travaux
+1er janvier 2001 et le 31 décembre 2005 au titre de l'acquisition des mêmes équipements fournis dans le cadre de travaux
 d'installation réalisés dans l'habitation principale du contribuable.
 
 Un arrêté du ministre chargé du budget fixe la liste des équipements ouvrant droit au crédit d'impôt.
 
-2. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, pour l'ensemble de sa
-période d'application, la somme de 4 000 euros pour une personne célibataire, veuve ou divorcée et de 8 000 euros pour un
-couple marié soumis à imposition commune. Cette somme est majorée de 400 euros par personne à charge au sens des articles 196
-à 196 B. Cette majoration est fixée à 500 euros pour le second enfant et à 600 euros par enfant à partir du troisième.
+2. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, respectivement pour la
+période du 15 septembre 1999 au 31 décembre 2002 et pour la période du 1er janvier 2003 au 31 décembre 2005, la somme de 4
+000 euros pour une personne célibataire, veuve ou divorcée et de 8 000 euros pour un couple marié soumis à imposition
+commune. Cette somme est majorée de 400 euros par personne à charge au sens des articles 196 à 196 B. Cette majoration est
+fixée à 500 euros pour le second enfant et à 600 euros par enfant à partir du troisième. Les sommes de 400 euros, 500 euros
+et 600 euros sont divisées par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
+Pour l'application de ces dispositions, les enfants réputés à charge égale de chacun des parents sont décomptés en premier
+(1).
 
 Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement du logement auquel s'intègrent les
 équipements ou de son acquisition si elle est postérieure, ou du paiement de la dépense par le contribuable dans les cas
@@ -47,23 +51,26 @@ dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'a
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
 dépenses ont été payées.
 
+**Nota:**
+
+(1) Ces dispositions s'appliquent pour l'imposition des revenus des années 2003 et suivantes.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi - art. 78 () JORF 31 décembre 2002
+  - Loi - art. 30 (V) JORF 31 décembre 2002
 
 **Liens**:
 
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 14 II A
-  - HISTO: Edition du 31 mars 2002
+  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 30 VIII
+  - HISTO: Edition du 1er janvier 2003
   - TXT_ASSOCIE: Instruction 2000-05-03 5B-15-00
   - TXT_ASSOCIE: Instruction 2001-07-13 5B-15-01
   - TXT_ASSOCIE: Instruction 2001-09-25 5B-16-01
   - TXT_ASSOCIE: Instruction 2002-06-06 5B-13-02
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi n°2001-1275 2001-12-28 art. 14 I C Finances pour 2002 JORF 29 décembre 2001
+  - TXT_ASSOCIE: Instruction 2003-01-31 5B-7-03
 
 _Cité par_:
 
