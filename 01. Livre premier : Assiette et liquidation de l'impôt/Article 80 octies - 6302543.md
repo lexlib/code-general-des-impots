@@ -1,25 +1,12 @@
 # Article 80 octies
 
-Conformément aux articles L. 443-1 et L. 443-10 du code de l'action sociale et des familles ci-après reproduits, les
-rémunérations journalières pour services rendus fixées dans les conditions prévues par ces articles sont soumises à l'impôt
-sur le revenu suivant les règles applicables aux traitements et salaires :
+Conformément aux articles L. 442-1 et L. 443-10 du code de l'action sociale et des familles, obéissent au même régime fiscal
+que celui des salaires :
 
-Art. L. 443-1 : Le contrat passé entre les parties en vertu des articles L. 441-1 et L. 442-1 précise les éléments suivants
-de la rémunération versée à la personne agréée :
+- la rémunération journalière des services rendus ainsi que les indemnités visées aux 1° et 2° de l'article L. 442-1
+précité ;
 
-1° Une rémunération journalière des services rendus majorée, le cas échéant, pour sujétions particulières ;
-
-2° Une indemnité représentative des frais d'entretien courant de la personne accueillie ;
-
-3° Un loyer pour la ou les pièces qui lui sont réservées.
-
-La rémunération journalière des services rendus, mentionnée au 1°, obéit au même régime fiscal que celui des salaires si elle
-est comprise entre un minimum, fixé par décret, qui évolue comme le minimum garanti prévu par l'article L. 141-8 du code du
-travail et un maximum fixé par le président du conseil général et si l'indemnité mentionnée au 2° est comprise entre un
-minimum et un maximum fixés par décret, par référence au minimum garanti prévu par l'article L. 141-8 du code du travail.
-
-Lorsque le loyer atteint un montant abusif, le président du conseil général enjoint à la personne accueillante de revoir le
-montant du loyer. En cas de refus, le président du conseil général retire l'agrément.
+- la rémunération journalière des services rendus mentionnée au 1° de l'article L. 443-10 du même code.
 
 Art. L. 443-10 : Sans préjudice des dispositions relatives à l'accueil thérapeutique, les personnes agréées mentionnées aux
 articles L. 441-1 et L. 442-1 peuvent accueillir des malades mentaux en accueil familial thérapeutique organisé sous la
@@ -39,25 +26,57 @@ article et obéit au même régime fiscal que celui des salaires ;
 4° Une indemnité correspondant aux prestations de soutien offertes au patient, dont le montant minimum est fixé par le
 représentant de l'Etat dans le département et qui est modulé selon les prestations demandées à la famille d'accueil.
 
+**Nota:**
+
+Code de l'action sociale et des familles, article L. 442-1 : 
+
+Toute personne accueillie au domicile d'un accueillant familial ou, s'il y a lieu, son représentant légal passe avec ledit
+accueillant un contrat écrit. 
+
+Ce contrat est conforme aux stipulations d'un contrat type établi par voie réglementaire aprés avis des représentants des
+présidents de conseil général. Ce contrat type précise la durée de la période d'essai et, passé cette période, les conditions
+dans lesquelles les parties peuvent modifier ou dénoncer ledit contrat, le délai de prévenance qui ne peut être inférieur à
+deux mois ainsi que les indemnités éventuellement dues. 
+
+Ce contrat précise la nature ainsi que les conditions matérielles et financières de l'accueil. Il prévoit notamment : 
+
+1° une rémunération journalière des services rendus ainsi qu'une indemnité de congé calculée conformément aux dispositions de
+l'article L. 223-11 du code du travail ; 
+
+2° le cas échéant, une indemnité en cas de sujétions particulières ; 
+
+3° une indemnité représentative des frais d'entretien courant de la personne accueillie ; 
+
+4° une indemnité représentative de mise à disposition de la ou des pièces réservées à la personne accueillie. 
+
+La rémunération ainsi que les indemnités visées aux 1° et 2° obéissent au même régime fiscal et de cotisations sociales
+obligatoires que celui des salaires. Cette rémunération, qui ne peut être inférieure à un minimum fixé part décret et évolue
+comme le salaire minimum de croissance prévu à l'article L. 141-2 du code du travail, donne lieu au versement d'un minimum de
+cotisations permettant la validation des périodes considérées pour la détermination du droit à pension conformément aux
+dispositions du premier alinéa de l'article L. 351-2 du code de la sécurité sociale. Les indemnités mentionnées
+respectivement aux 2° et 3° sont comprises entre un minimum et un maximum fixés par décret. Les montants minimaux sont
+revalorisés conformément à l'évolution des prix à la consommation, hors les prix du tabac, qui est prévue, pour l'année
+civile considérée, dans le rapport économique et financier annexé à la loi de finances. 
+
+Ce contrat prévoit également les droits et obligations des parties ainsi que les droits en matière de congés annuels des
+accueillants familiaux et les modalités de remplacement de ceux-ci.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Rapport au Président de la République relatif à l' - art. 3 (V) JORF 23 décembre 2000
-  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
-
-_Cite_:
-
-  - Code du travail - art. L141-8 (AbD)
-  - Code de l'action sociale et des familles - art. L441-1 (M)
-  - Code de l'action sociale et des familles - art. L442-1 (M)
-  - Code de l'action sociale et des familles - art. L443-1 (Ab)
-  - Code de l'action sociale et des familles - art. L443-10 (M)
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - SPEC_APPLI: Conséquence de l'application des articles L442-1 et L443-10 du code de l'action sociale et des familles
+  - HISTO: Edition du 31 mars 2002
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L442-1 (M)
+  - Code de l'action sociale et des familles - art. L443-10 (M)

@@ -22,10 +22,12 @@ Pour les vélomoteurs, il est perçu une taxe fixe dont le montant est égal à 
 II. Les concessionnaires et les agents de marques de véhicules automobiles sont exonérés des taxes édictées au I pour les
 véhicules neufs affectés à la démonstration et dont le poids total en charge n'excède par 3,5 tonnes.
 
-III. Lorsque l'application du tarif prévu au I fait apparaître des décimes, le montant de la taxe exigible est arrondi au
-franc le plus proche. La fraction de franc égale à 0,50 est comptée pour 1.
+III. Lorsque l'application du tarif prévu au I fait apparaître des décimes, le montant de la taxe exigible est arrondi à
+l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
-(1) Annexe IV, art. 155 quater.
+**Nota:**
+
+(1) Voir l'article 155 quater de l'annexe IV.
 
 **Liens relatifs à cet article**
 
@@ -36,16 +38,6 @@ _Anciens textes_:
 _Cite_:
 
   - CGIAN4 155 quater
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2001-766 du 29 août 2001 - art. 14 (V)
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 2000-02-21 7M-5-00
 
 _Cité par_:
 
@@ -58,3 +50,12 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 quindecies (V)
   - Code général des impôts, CGI. - art. 1599 septdecies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 155 quater (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
+  - TXT_ASSOCIE: Instruction 2002-10-17 7M-2-02
+
+_Modifié par_:
+
+  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 en vigueur le 1er janvier 2002

@@ -32,21 +32,21 @@ répartitions doivent être imputées ainsi que l'ordre de cette imputation.
 2° Par les sociétés d'investissement remplissant les conditions prévues à l'article 208 A et par les sociétés visées au 1°
 ter de l'article 208 ;
 
-3° Par les sociétés immobilières pour le commerce et l'industrie visés au cinquième alinéa du 3° quater de l'article 208 et
-prélevés sur les bénéfices exonérés visés au quatrième alinéa du 3° quater du même article ;
+3° Par les sociétés immobilières pour le commerce et l'industrie visés au dixième alinéa du 3° quater de l'article 208 et
+prélevés sur les bénéfices exonérés visés au neuvième alinéa du 3° quater du même article ;
 
 4° Par les sociétés agréées pour le financement des télécommunications lorsqu'ils sont prélevés sur des résultats exonérés en
 application des premier et deuxième alinéas du 3° quinquies de l'article 208 ou lorsqu'ils sont distribués en application du
-quatrième alinéa du même article ;
+neuvième alinéa du même article ;
 
-5° (Abrogé pour les exercices ouverts à compter du 1er janvier 2000).
+5° (Abrogé pour les exercices ouverts à compter du 1er janvier 2000) ;
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de produits et plus-values nets exonérés en
-application du 3° septies de l'article 208.
+application du 3° septies de l'article 208 ;
 
 7° Par les personnes morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986
 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de
-produits nets exonérés en application de l'article 208 quinquies.
+produits nets exonérés en application de l'article 208 quinquies ;
 
 8° Par les sociétés qui, à la date de la distribution ainsi qu'à la clôture de l'exercice dont les résultats sont distribués,
 ont pour activité exclusive la gestion d'un portefeuille de titres de participations, ont deux tiers au moins de leur actif
@@ -64,15 +64,21 @@ _Cite_:
   - CGI 209 quinquies, 223 H, 219, 158 bis, 220 quinquies I, 208 A, 207 2, 208 ter, 208, 208 quinquies
   - Loi n°86-793 du 2 juillet 1986 - art. 2, v. init.
 
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
+_Modifié par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002
   - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
   - TXT_ASSOCIE: Instruction 2001-03-21 4J-1-01
   - TXT_ASSOCIE: Instruction 2001-12-14 4J-2-01
   - TXT_ASSOCIE: Instruction 2002-01-03 4J-1-02
+  - TXT_ASSOCIE: Instruction 2002-02-18 4J-2-02
+  - TXT_ASSOCIE: Instruction 2002-10-11 4H-4-02
   - SPEC_APPLI: Loi n°2000-1352 2000-12-30 art. 7 VII
-
-_Modifié par_:
-
-  - Loi - art. 7 (V) JORF 31 décembre 2000
