@@ -11,14 +11,14 @@ les bases d'imposition sont établies conformément aux dispositions des article
 
 2° En ce qui concerne la taxe professionnelle :
 
-a) La base d'imposition est établie conformément à l'article 1447, au 1° de l'article 1467, à l'article 1467 A, aux 1°, 2° et
-3° de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B sexies.
+a) La base d'imposition est établie conformément au I de l'article 1447 (1), au 1° de l'article 1467, à l'article 1467 A, aux
+1°, 2° et 3 de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B sexies.
 
-((Au titre de 1999,)) (M) la base d'imposition est réduite ((de 25 % du montant)) (M) qui excède la base de l'année
-précédente multipliée par la variation des prix à la consommation constatée par l'Institut national de la statistique et des
-études économiques pour l'année de référence définie à l'article 1467 A ;
+Au titre de 1999, la base d'imposition est réduite de 25 % du montant qui excède la base de l'année précédente multipliée par
+la variation des prix à la consommation constatée par l'Institut national de la statistique et des études économiques pour
+l'année de référence définie à l'article 1467 A ;
 
-((Cette réduction est supprimée à compter des impositions établies au titre de 2000.)) (M)
+Cette réduction est supprimée à compter des impositions établies au titre de 2000.
 
 b) La base d'imposition est déclarée avant le 1er mai de l'année précédant celle de l'imposition au lieu du principal
 établissement ;
@@ -27,8 +27,8 @@ b) La base d'imposition est déclarée avant le 1er mai de l'année précédant 
 contraintes de desserte de l'ensemble du territoire national et de participation à l'aménagement du territoire qui s'imposent
 à cet exploitant. L'abattement ne donne pas lieu à compensation par l'Etat ;
 
-((A compter de 1999, la valeur ajoutée retenue pour l'application de l'article 1647 E fait l'objet d'un abattement de 70 % de
-son montant ;)) (M)
+A compter de 1999, la valeur ajoutée retenue pour l'application de l'article 1647 E fait l'objet d'un abattement de 70 % de
+son montant ;
 
 4° Le taux applicable aux bases des taxes foncières et de la taxe professionnelle est, pour chacune de ces taxes, le taux
 moyen pondéré national qui résulte des taux appliqués l'année précédente par l'ensemble des collectivités locales, des
@@ -57,7 +57,7 @@ territoire desquelles sont implantés des établissements de La Poste et de Fran
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent article, après consultation
 du comité des finances locales.
 
-(M) Modification.
+(1) dispositions applicables pour les impositions établies au titre de l'an 2000 et des années suivantes.
 
 **Liens relatifs à cet article**
 
@@ -65,10 +65,6 @@ _Cite_:
 
   - CGI 1380 à 1383, 1388, 1393, 1396, 1402 à 1406, 1415, 1520 à 1528, 1447, 1467, 1467 A, 1469, 1472 A bis, 1478, 1647 B sexies, 1641, 1648 A bis, 1647 E
   - Loi n°86-1317 du 30 décembre 1986 - art. 6, v. init.
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
 
 _Cité par_:
 
@@ -88,4 +84,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-1266 1998-12-30 art. 44 A V 2, 3 Finances pour 1999 JORF 31 décembre 1998
+  - Loi - art. 15 (P) JORF 31 décembre 1999
