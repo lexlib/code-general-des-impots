@@ -6,16 +6,16 @@ le sous-locataire en meublé sa résidence principale et que le prix de location
 
 II. A compter du 1er janvier 1984, les personnes qui mettent de façon habituelle à la disposition du public une ou plusieurs
 pièces de leur habitation principale sont exonérées de l'impôt sur le revenu sur le produit de ces locations lorsque celui-ci
-n'excède pas 5.000 F par an.
+n'excède pas 5 000 F par an.
 
 Cette exonération ne peut se cumuler avec les dispositions de l'article 50-0.
 
 III Les personnes qui concluent un contrat de location en meublé d'un logement, conforme aux normes minimales définies par
 décret en Conseil d'Etat (1), avec un organisme sans but lucratif qui met ce logement à la disposition de personnes
-défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement
-et qui est agréé à cet effet par le représentant de l'Etat dans le département sont exonérées, pendant les trois premières
-années de location, de l'impôt sur le revenu pour les produits de cette location, sous réserve que le prix de celle-ci soit
-inférieur à un plafond fixé par décret (2).
+défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 modifiée visant à la mise en oeuvre du droit au
+logement et qui est agréé à cet effet par le représentant de l'Etat dans le département sont exonérées, pendant les trois
+premières années de location, de l'impôt sur le revenu pour les produits de cette location, sous réserve que le prix de
+celle-ci soit inférieur à un plafond fixé par décret (2).
 
 Ces dispositions sont également applicables aux loueurs non professionnels qui concluent un contrat de location ou de sous-
 location avec des bénéficiaires du revenu minimum d'insertion ou des étudiants bénéficiant d'une bourse à caractère social.
@@ -25,7 +25,9 @@ aux premier et deuxième alinéas sont toujours remplies au début de chaque pé
 ou de renouvellement du contrat de location ou de sous-location.
 
 Les modalités d'agrément ainsi que le contenu des déclarations à souscrire par les personnes et organismes mentionnés au
-présent article sont fixés par décret (3).
+premier et au deuxième alinéa, sont fixés par décret (3).
+
+**Nota:**
 
 (1) Voir Annexe II, art. 74 T.
 
@@ -44,13 +46,14 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1997-12-09 4F-2-97
-  - TXT_ASSOCIE: Instruction 1998-04-10 4F-2-98
-  - TXT_ASSOCIE: Instruction 1998-12-17 4F-4-98
+  - HISTO: Edition du 31 mars 2001
   - TXT_ASSOCIE: Instruction 2000-11-23 4F-3-00
-  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV
 
 _Modifié par_:
 
-  - Loi - art. 7 (V) JORF 31 décembre 1998
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 140 () JORF 14 décembre 2000
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 84 () JORF 14 décembre 2000
+
+_Codifié par_:
+
+  - Décret n°2001-435 2001-05-21
