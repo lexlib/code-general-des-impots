@@ -140,14 +140,14 @@ III. (Abrogé pour les impositions établies au titre de 1993 et des années sui
 IV. Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du dépôt
 de la demande.
 
-V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder 76 225 000 euros pour les
-impositions établies au titre de 1995 et des années suivantes.
+V. - Le montant total des dégrèvements accordés à un contribuable en application du présent article et de l'article 1647 C
+quinquies ne peut excéder 76 225 000 euros.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1609 bis, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609, 1467, 39, 50-0, 102 ter
+  - CGI 1647, 1600 à 1601, 1641, 1609 nonies, 1638, 1638 bis, 1638 quater, 1609 quinquies, 1609 bis, 1648, 1599 quinquies, 1607 bis, 1608, 1609 à 1609, 1467, 39, 50-0, 102 ter, 1647 C quinquies
 
 _Cité par_:
 
@@ -172,8 +172,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 7 () JORF 27 mars 2004
+  - Loi n°2004-804 du 9 août 2004 - art. 11 () JORF 11 août 2004
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 31 août 2004
