@@ -5,10 +5,10 @@ bénéficier d'une réduction de leur impôt sur le revenu égale à 25 p. 100 d
 initial ou aux augmentations de capital qui interviennent dans les trois années suivant la date de constitution de sociétés
 soumises à l'impôt sur les sociétés dans les conditions de droit commun qui sont :
 
-Créées entre le 1er janvier 1988 et le 31 décembre 1991 et qui remplissent les conditions mentionnées soit à l'article 44
+Créées entre le 1er janvier 1988 et le 31 décembre 1992 et qui remplissent les conditions mentionnées soit à l'article 44
 sexies, soit à l'article 44 septies ;
 
-Ou créées avant le 31 décembre 1991 et dont la situation nette comptable est représentée à hauteur de 75 p. 100 au moins de
+Ou créées avant le 31 décembre 1992 et dont la situation nette comptable est représentée à hauteur de 75 p. 100 au moins de
 titres souscrits en numéraire dans les trois ans de la constitution de sociétés mentionnées à l'alinéa précédent.
 
 II. Les versements, qui sont retenus dans la limite annuelle de 10 000 F pour les contribuables célibataires, veufs ou
@@ -54,21 +54,19 @@ _Cite_:
   - CGI 197 VI
   - CGI 199 quinquies
   - CGI 199 undecies
+  - CGI 34
   - CGI 4 B
-  - CGI 44 septies
-  - CGI 44 sexies
   - CGI 62
   - CGI 83 2 ° quater
   - CGI 91 C
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°88-1149 1988-12-23 art. 72 I, II, III Finances pour 1989 JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
-  - Loi n°88-1149 du 23 décembre 1988 - art. 72 (P) JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
+  - Loi n°89-936 du 29 décembre 1989 - art. 111 () JORF 30 décembre 1989
 
 _Codifié par_:
 
-  - Décret n°89-801 1989-10-27
+  - Décret n°90-798 1990-09-10
 
 _Cité par_:
 
