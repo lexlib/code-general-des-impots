@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-05-23
+Version Consolidée au 1985-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -14363,6 +14363,39 @@ _Cité par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 261 E
+
+Sont exonérés de la taxe sur la valeur ajoutée :
+
+1° L'organisation de jeux de hasard ou d'argent soumis au prélèvement progressif visé à l'article 24 de la loi n° 55-366 du 3
+avril 1955 ou à l'impôt sur les spectacles, jeux et divertissements;
+
+2° Le produit de l'exploitation de la loterie nationale, du loto national et des paris mutuels hippiques, à l'exception des
+rémunérations perçues par les organisateurs et les intermédiaires qui participent à l'organisation de ces jeux;
+
+3° Les droits d'entrée perçus par les organisateurs de réunions sportives soumises à l'impôt sur les spectacles, jeux et
+divertissements.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°55-366 1955-04-03 art. 24
+
+_Anciens textes_:
+
+  - Loi n°78-1240 1978-12-29 ART. 33, ART. 49 FINANCES RECTIFICATIVE POUR 1978
+  - Loi n°78-1240 du 29 décembre 1978 - art. 33 ()
+
+_Modifié par_:
+
+  - Loi n°84-1208 du 29 décembre 1984 - art. 16 (P) JORF 30 décembre 1984, entrée en vigueur le 1er juillet 1985
+
+_Cité par_:
+
+  - Arrêté du 9 mars 2006 - art. 1 (VT)
 
 
 ###### Article 261 F
