@@ -51,7 +51,7 @@ III de l'article 1638 quater sont applicables.
 3° Les établissements publics de coopération intercommunale soumis aux dispositions du présent paragraphe bénéficient de la
 compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), au lieu et
 place de leurs communes membres pour les pertes de bases de taxe professionnelle résultant, dans la zone d'activités
-économiques, de l'application de l'article 1469 A bis et du dernier alinéa du II de l'article 1478.
+économiques, de l'application du dernier alinéa du II de l'article 1478.
 
 Pour le calcul de cette compensation :
 
@@ -98,14 +98,17 @@ importante.
 
 _Cite_:
 
-  - CGI 1636 B sexies, 1609 nonies D, 1609 nonies C, 1636 B decies, 1638 quater, 1469 A bis, 1478, 6
+  - CGI 1636 B sexies, 1609 nonies D, 1609 nonies C, 1636 B decies, 1638 quater, 1478, 1609 quinquies B
   - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
-  - Loi n°99-586 1999-07-12
+  - Loi n°99-586 du 12 juillet 1999 - art. 51 (V)
+  - Loi n°99-586 du 12 juillet 1999 - art. 56 (V)
   - Code général des collectivités territoriales - art. L2224-13 (M)
 
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
+  - HISTO: Edition du 31 mars 2000
+  - TXT_ASSOCIE: Instruction 2000-05-16 6F-2-00
+  - TXT_ASSOCIE: Instruction 2001-01-26 6F-3-01
 
 _Cité par_:
 
@@ -147,6 +150,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1648 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
 
+_Codifié par_:
+
+  - Décret n°2000-477 2000-06-02
+
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 83 () JORF 13 juillet 1999
+  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
