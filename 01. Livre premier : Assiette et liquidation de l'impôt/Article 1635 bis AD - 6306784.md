@@ -5,9 +5,9 @@ alimenté par un prélèvement sur le produit des primes ou cotisations addition
 de catastrophes naturelles, prévues à l'article L. 125-2 du code des assurances. Il est versé par les entreprises
 d'assurances ou leur représentant fiscal visé à l'article 1004 bis.
 
-Le taux de ce prélèvement est fixé par arrêté conjoint des ministres chargés de la prévention des risques et de l'économie
-dans la limite de 2,5 %. Le prélèvement est recouvré suivant les mêmes règles, sous les mêmes garanties et les mêmes
-sanctions que la taxe sur les conventions d'assurances prévue aux articles 991 et suivants.
+Le taux de ce prélèvement est fixé par l'autorité administrative dans la limite de 4 %. Le prélèvement est recouvré suivant
+les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur les conventions d'assurances prévue aux
+articles 991 et suivants.
 
 **Liens relatifs à cet article**
 
@@ -19,12 +19,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 75 (V) JORF 31 décembre 2002
+  - Loi n°2003-699 2003-07-30 art. 61 4° JORF 31 juillet 2003
 
 _Codifié par_:
 
-  - Décret n°2003-298 2003-03-31
+  - Décret n°2003-933 2003-09-30
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 31 août 2003
