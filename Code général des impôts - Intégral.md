@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-07-24
+Version Consolidée au 1987-07-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -16503,6 +16503,33 @@ _Cite_:
   - Code du travail - art. L900-2 (M)
 
 
+###### Article 235 ter GA
+
+Les employeurs assujettis à la participation au développement de la formation professionnelle continue doivent s'acquitter
+d'une partie de leurs obligations en effectuant au Trésor public, au plus tard le 15 septembre [*date limite*], un versement
+égal à 0,3 p. 100 [*pourcentage*] du montant, entendu au sens des articles 235 ter E et 235 ter EA, des salaires versés au
+cours de l'année précédente, majorés du taux d'évolution du salaire moyen par tête tel qu'il ressort des hypothèses
+économiques associées au projet de loi de finances.
+
+Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les mêmes garanties et sanctions que la
+participation des employeurs au financement de la formation professionnelle continue.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 235 ter E CGI 235 ter EA
+
+_Modifié par_:
+
+  - Loi n°86-1317 du 30 décembre 1986 - art. 36 () JORF 31 décembre 1986 en vigueur le 1etr janvier 1987
+  - Loi n°87-588 du 30 juillet 1987 - art. 72 (V) JORF 31 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+
 ###### Article 235 ter GB
 
 Les employeurs sont exonérés totalement ou partiellement de la cotisation prévue à l'article 235 ter GA lorsqu'ils ont
@@ -16622,34 +16649,35 @@ _Cite_:
 
 ###### Article 235 ter E
 
-Le taux de la participation prévue à l'article L 950-1 du code du travail est fixé à 1,1 % du montant des salaires payés
-pendant l'année en cours, déterminé selon les modalités prévus aux articles 231 et suivants ; toutefois les exonérations
+Le taux de la participation prévue à l'article L950-1 du code du travail est fixé à 1,2 % du montant entendu au sens du 1 de
+l'article 231, des salaires payés pendant l'année en cours (1) ; les exonérations mentionnées aux articles 231 bis K et 231
+bis L ne sont pas applicables. Ce taux peut être revalorisé par la loi après consultation du conseil national de la formation
+professionnelle, de la promotion sociale et de l'emploi prévu à l'article L910-1 du code précité. Toutefois les exonérations
 mentionnées aux articles 231 bis K et 231 bis L ne sont pas applicables.
 
-Le taux prévu au premier alinéa peut être revalorisé par la loi de finances après consultation du conseil national de la
-formation professionnelle, de la promotion sociale et de l'emploi prévu à l'article L. 910-1 du code précité.
+(1) Taux applicable aux salaires versés à compter du 1er janvier 1987. Voir également Annexe II, art. 163 decies.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 231 bis K
-  - CGI 231 bis L
+  - CGI 231 bis L CGIAN2 163 decies
   - CGI 231 et S.
   - Code du travail - art. L910-1 (M)
   - Code du travail - art. L950-1 (M)
 
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 72 (V) JORF 31 juillet 1987
+
 _Codifié par_:
 
-  - Décret n°84-875 1984-10-01
+  - Décret n°87-940 1987-11-23
 
 _Cité par_:
 
   - Code monétaire et financier - art. D214-61 (V)
-
-_Modifié par_:
-
-  - Loi n°84-130 1984-12-24 art. 26 JORF 25 février 1984
 
 
 ###### Article 235 ter EA
