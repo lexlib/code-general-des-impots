@@ -10,7 +10,7 @@ Du prix des constructions en ce qui concerne les biens de cette nature ;
 
 Du prix des matériels et outillages en ce qui concerne les autres immobilisations amortissables.
 
-Ces indices sont déterminés par arrêté du ministre de l'économie et des finances (1).
+Ces indices sont déterminés par arrêté du ministre de l'économie et des finances.
 
 II. - Les plus-values de réévaluation des immobilisations amortissables sont portées directement, en franchise d'impôt, à une
 provision spéciale figurant au passif du bilan. Il doit être produit un état détaillé de cette provision en annexe au bilan
@@ -40,25 +40,19 @@ déduction seront fixés, pour chacune des années au cours desquelles elle sera
 IV. - La réévaluation des immobilisations prévues au présent article peut être effectuée dans les écritures du premier
 exercice clos à dater du 31 décembre 1976 ou des trois exercices suivants.
 
-V. - Un décret en Conseil d'Etat, pris après avis du conseil national de la comptabilité (2), fixe les conditions
-d'application du présent article, les modalités de réévaluation, notamment celles applicables aux immeubles bâtis, la nature
-des obligations incombant aux entreprises.
+V. - Un décret en Conseil d'Etat, pris après avis du conseil national de la comptabilité, fixe les conditions d'application
+du présent article, les modalités de réévaluation, notamment celles applicables aux immeubles bâtis, la nature des
+obligations incombant aux entreprises.
 
 Il précise les règles de détermination, d'un point de vue fiscal, des plus ou moins-values de cession d'immobilisations
 amortissables, réévaluées de telle façon que la réévaluation prévue au présent article s'accompagne d'une parfaite neutralité
-fiscale, ainsi que des amortissements différés ou réputés différés. Il adapte les dispositions du présent article aux
-professions agricoles et libérales.
+fiscale, ainsi que des amortissements différés. Il adapte les dispositions du présent article aux professions agricoles et
+libérales.
 
 VI. - Les déficits reportables au 31 décembre 1976 peuvent être imputés, du point de vue fiscal, sur la provision spéciale.
 
 VII. - La présente réévaluation, telle qu'elle est définie aux paragraphes I à V, n'aura pas d'effet sur l'assiette des
 impôts locaux (taxe professionnelle et taxes foncières).
-
-**Nota:**
-
-(1) Voir l'article 23 L bis de l'annexe IV.
-
-(2) Voir les articles 171 A à 171 P de l'annexe II.
 
 **Liens relatifs à cet article**
 
@@ -68,10 +62,22 @@ _Cite_:
   - CGIAN2 171 A à 171 P
   - CGIAN4 23 L bis
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+
 _Anciens textes_:
 
   - Loi n°77-1467 1977-12-30 art. 69 A VII Finances pour 1978
   - Loi n°78-1239 1978-12-29 art. 83 Finances pour 1979
+
+_Modifié par_:
+
+  - Loi - art. 89 (V) JORF 31 décembre 2003
+
+_Codifié par_:
+
+  - Décret n°2004-304 2004-03-26
 
 _Cité par_:
 
