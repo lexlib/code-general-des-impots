@@ -3,15 +3,15 @@
 I. - A. - Sont déductibles du revenu net global, dans les conditions et limites mentionnées au B, les cotisations ou les
 primes versées par chaque membre du foyer fiscal :
 
-a) Aux plans d'épargne individuelle pour la retraite créés par l'article 108 de la loi n° 2003-775 du 21 août 2003 portant
-réforme des retraites ;
+a) Aux plans d'épargne retraite populaire créés par l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des
+retraites ;
 
 b) A titre individuel et facultatif aux contrats souscrits dans le cadre de régimes de retraite supplémentaire, auxquels
 l'affiliation est obligatoire et mis en place dans les conditions prévues à l'article L. 911-1 du code de la sécurité
 sociale, lorsque ces contrats sont souscrits par un employeur ou un groupement d'employeurs et non par un groupement
-d'épargne individuelle pour la retraite défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, et sous
-réserve, d'une part, que ces contrats respectent les règles applicables au plan d'épargne individuelle pour la retraite
-défini par le même article, à l'exception des V et XII du même article, et à condition, d'autre part :
+d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, et sous réserve, d'une
+part, que ces contrats respectent les règles applicables au plan d'épargne retraite populaire défini par le même article, à
+l'exception des V et XII du même article, et à condition, d'autre part :
 
 - que le contrat prévoie les modalités de financement des missions du comité de surveillance ;
 
@@ -20,8 +20,8 @@ moins deux sièges soient réservés, le cas échéant, à un représentant élu
 des participants ayant quitté l'employeur ou le groupement d'employeurs ;
 
 - que le contrat prévoie la faculté pour l'adhérent, lorsqu'il n'est plus tenu d'y adhérer, de transférer ses droits vers un
-plan d'épargne individuelle pour la retraite défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ou vers un
-autre contrat respectant les règles fixées au b ;
+plan d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ou vers un autre
+contrat respectant les règles fixées au b ;
 
 c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique et aux autres
 régimes de retraite complémentaire constitués au profit des fonctionnaires et agents de l'Etat, des collectivités locales et
@@ -75,8 +75,8 @@ moins-values professionnelles à long terme.
 
 _Cite_:
 
-  - CGI L443-1, 83, 154 bis, 154 bis-0, 156, 81, 79, 62, 34, 35, 63, 92, 44 sexies à 44 decies, 73
   - Loi n°2003-775 2003-08-21 art. 108
+  - CGI L443-1, 83, 154 bis, 154 bis-0, 156, 81, 79, 62, 34, 35, 63, 92, 44 sexies à 44 decies, 73
   - Code du travail - art. L443-1-1 (M)
   - Code du travail - art. L443-1-2 (M)
   - Code de la sécurité sociale. - art. L241-3 (M)
@@ -84,12 +84,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 23 (V) JORF 31 décembre 2003
-  - Loi - art. 82 (V) JORF 31 décembre 2003
-
-_Codifié par_:
-
-  - Décret n°2004-304 2004-03-26
+  - Décret n°2004-346 du 21 avril 2004 - art. 3 () JORF 22 avril 2004
 
 _Cité par_:
 
@@ -111,4 +106,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 31 août 2004
