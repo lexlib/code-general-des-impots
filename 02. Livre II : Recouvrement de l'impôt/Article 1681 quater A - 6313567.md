@@ -11,16 +11,17 @@ titre de l'article 1647 B sexies.
 S'il estime que les prélèvements mensuels effectués ont atteint le montant des taxes qui seront mises en recouvrement, le
 contribuable peut demander la suspension des prélèvements suivants.
 
-S'il estime que le montant des taxes mises en recouvrement différera d'au moins 10 p. 100 de celui qui a servi de base aux
-prélèvements, il peut demander la modification du montant de ces derniers.
+S'il estime que le montant des taxes mises en recouvrement différera de celui qui a servi de base aux prélèvements, il peut
+demander la modification du montant de ces derniers.
 
-Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 10 septembre de chaque année, doit préciser le montant
-présumé des taxes, être datée, signée et adressée au comptable du Trésor avant le 10 d'un mois donné pour prendre effet le
-mois suivant.
+Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 30 septembre de chaque année, doit préciser le montant
+présumé des taxes et doit être formulée auprès du Trésor public au plus tard le dernier jour du mois qui précède celui du
+prélèvement effectif.
 
-Lorsque le montant des taxes mises en recouvrement est supérieur de plus de 10 % à celui présumé par le contribuable, la
-différence entre la moitié des taxes dues et le montant des prélèvements effectués conformément à la demande du contribuable
-ainsi que la majoration de 10 % appliquée sur ce montant sont acquittées avec le prélèvement du deuxième mois suivant.
+Si le montant des taxes présumé par le contribuable est inférieur de plus de 20 % au montant des taxes mises en recouvrement,
+une majoration de 10 % est appliquée à la différence entre la moitié des taxes dues et les prélèvements effectués entre le
+mois de janvier et le mois de juin. Cette différence ainsi que la majoration s'ajoutent au montant du prélèvement qui a lieu
+le deuxième mois qui suit le mois de la mise en recouvrement des taxes.
 
 C. Le solde des taxes est prélevé en novembre à concurrence du montant de l'un des prélèvements visé au B. Le complément
 éventuel est prélevé en décembre.
@@ -38,9 +39,14 @@ F. Un décret en Conseil d'Etat fixe les modalités d'application du présent ar
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2003-1235 2003-12-22 art. 5 V
+  - HISTO: Edition du 1er janvier 2004
+
 _Modifié par_:
 
-  - Loi - art. 4 () JORF 31 décembre 1997
+  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 5 (V) JORF 24 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cite_:
 
@@ -55,7 +61,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C octies (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C sexies (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C ter (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
