@@ -1,30 +1,33 @@
 # Article 80 bis
 
-Pour l'établissement de l'impôt, l'avantage correspondant à la différence entre la valeur réelle de l'action à la date de
-levée d'une option accordée dans les conditions prévues aux articles 208-1 à 208-8, modifiés, de la loi n° 66-537 du 24
-juillet 1966 sur les sociétés commerciales et le prix de souscription ou d'achat de cette action constitue, sous réserve des
-dispositions de l'article 163 bis C, un complément de salaire pour le bénéficiaire. 
+I. L'avantage correspondant à la différence entre la valeur réelle de l'action à la date de levée d'une option accordée dans
+les conditions prévues aux articles 208-1 à 208-8-2 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, et
+le prix de souscription ou d'achat de cette action constitue pour le bénéficiaire un complément de salaire imposable dans les
+conditions prévues au II de l'article 163 bis C. 
 
-Il en est de même lorsque l'option est accordée, dans les mêmes conditions, par une société dont le siège est situé à
-l'étranger et qui est mère ou filiale de l'entreprise dans laquelle le bénéficiaire exerce son activité.
+II. Lorsque le prix d'acquisition des actions offertes dans les conditions prévues au I est inférieur à 90 p. 100 de la
+moyenne des cours ou du cours moyen d'achat respectivement mentionnés aux articles 208-1 et 208-3 de la loi n° 66-537 du 24
+juillet 1966, la différence est imposée dans la catégorie des traitements et salaires au titre de l'année au cours de
+laquelle l'option est levée. 
 
-**Nota:**
-
-(*) En ce qui concerne la taxe sur les salaires, voir art. 231.
+III. Les dispositions des I et II s'appliquent lorsque l'option est accordée, dans les mêmes conditions, par une société dont
+le siège est situé à l'étranger et qui est mère ou filiale de l'entreprise dans laquelle le bénéficiaire exerce son activité.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°66-537 du 24 juillet 1966 (Ab)
+  - Code général des impôts, CGI. - art. 163 bis C (Ab)
 
 _Modifié par_:
 
   - Loi n°87-416 du 17 juin 1987 - art. 19 () JORF 18 juin 1987
+  - Loi n°89-935 1989-12-29 art. 12 I Finances pour 1990 JORF 30 décembre 1989
 
 _Codifié par_:
 
-  - Décret n°87-940 1987-11-23
+  - Décret n°90-798 1990-09-10
 
 _Cité par_:
 
