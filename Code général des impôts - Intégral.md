@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-07-16
+Version Consolidée au 1980-10-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -31392,73 +31392,88 @@ _Cite_:
 
 ###### Article 157
 
-N'entrent pas en compte pour la détermination du revenu net global : [*non imposition*]     1° et 2° (Abrogés);
+N'entrent pas en compte pour la détermination du revenu net global :
 
-2° bis  Les intérêts des bons à échéance de cinq ans au plus émis par le Trésor avant le 1er janvier 1966 [*date*] ;
+1° et 2° (Abrogés) ;
+
+2° bis. Les intérêts des bons à échéance de cinq ans au plus émis par le Trésor avant le 1er janvier 1966 ;
 
 3° Les lots et les primes de remboursement attachés aux bons et obligations émis en France avec l'autorisation du ministre de
-l'économie et des finances;
+l'économie et des finances ;
 
-4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de l'article 81;
+4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de l'article 81 ;
 
-5° (Disposition périmée);
+5° (Disposition périmée) ;
 
 6° Les gratifications allouées aux vieux travailleurs à l'occasion de la délivrance de la médaille d'honneur par le ministère
-des affaires sociales;
+des affaires sociales ;
 
 7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à l'exception des intérêts des livrets
-supplémentaires ouverts dans les conditions prévues au décret n° 65-1158 du 24 décembre 1965;
+supplémentaires ouverts dans les conditions prévues au décret n° 65-1158 du 24 décembre 1965 ;
 
-7° bis  (Disposition périmée);
+7° bis. (Disposition périmée) ;
 
 8° Les arrérages des titres de l'emprunt 3 1/2 % 1952, autorisé par la loi n° 52-565 du 21 mai 1952 et de l'emprunt 3 1/2 %
 1958, autorisé par l'ordonnance n° 58-529 du 11 juin 1958, ainsi que les plus-values éventuelles de cession ou de
-remboursement de ces titres;     8° bis  Les intérêts des titres de l'emprunt 4 1/2 % 1973 autorisé par la loi n° 73-965 du
-16 octobre 1973, ainsi que les plus-values éventuelles de cession ou de remboursement de ces titres;     8° ter  Les plus-
-values éventuelles de cession ou de remboursement des titres de l'emprunt d'Etat 8,80 % 1977 autorisé par la loi n° 77-486 du
-13 mai 1977;
+remboursement de ces titres ;
+
+8° bis. Les intérêts des titres de l'emprunt 4 1/2 % 1973 autorisé par la loi n° 73-965 du 16 octobre 1973, ainsi que les
+plus-values éventuelles de cession ou de remboursement de ces titres ;
+
+8° ter. Les plus-values éventuelles de cession ou de remboursement des titres de l'emprunt d'Etat 8,80 % 1977 autorisé par la
+loi n° 77-486 du 13 mai 1977 ;
 
 9° Les intérêts des sommes inscrites sur les comptes d'épargne-construction définis aux articles L 315-19 à L 315-32 du code
 de la construction et de l'habitation ainsi que sur les comptes d'épargne-crédit mentionnés aux articles L 315-8 à L 315-18
-du même code;
+du même code ;
 
-9° bis  Les intérêts des sommes inscrites sur les comptes d'épargne-logement ouverts en application des articles L 315-1 à L
-315-7 du code de la construction et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces comptes;
+9° bis. Les intérêts des sommes inscrites sur les comptes d'épargne-logement ouverts en application des articles L 315-1 à L
+315-7 du code de la construction et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces comptes ;
 
-9° ter  Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n°
-76-1232 du 29 décembre 1976 aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de
-l'agriculture, aux aides familiaux désignés à l'article 1106-1 du code rural ou aux associés d'exploitation désignés par la
-loi n° 73-650 du 13 juillet 1973 relative au statut des associés d'exploitation et à la modification de l'assurance
-vieillesse des personnes non salariées agricoles; il en est de même de la prime versée au travailleur manuel qui procède
-effectivement à la création ou au rachat d'une entreprise artisanale;     10° à 13° (Dispositions périmées);
+9° ter. Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n°
+76-1232 du 29 décembre 1976 :
 
-14° Les intérêts des titres de l'emprunt 4,25 % 1963 émis en vertu du décret n° 63-494 du 18 mai 1963;
+- aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de l'agriculture ;
+
+- aux aides familiaux ou aux associés d'exploitation désignés à l'article 1106-1-I-2° du code rural ;
+
+- aux aides familiaux et associés d'exploitation de l'artisanat désignés à l'article 3-1° et 2° du décret n° 62-235 du 1er
+mars 1962 relatif au répertoire des métiers et aux titres d'artisan et de maître artisan.
+
+Il en est de même de la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une
+entreprise artisanale ;
+
+10° à 13° (Dispositions périmées) ;
+
+14° Les intérêts des titres de l'emprunt 4,25 % 1963 émis en vertu du décret n° 63-494 du 18 mai 1963 ;
 
 15° L'intérêt représenté par les dix premiers coupons de chaque titre de l'emprunt 4,25 % - 4,75 % 1963 émis en vertu soit du
-décret n°  63-967 du 21 septembre 1963, soit du décret n° 64-224 du 14 mars 1964;
+décret n° 63-967 du 21 septembre 1963, soit du décret n° 64-224 du 14 mars 1964 ;
 
 16° Les produits des placements en valeurs mobilières effectués en vertu des engagements d'épargne à long terme pris par les
-personnes physiques dans les conditions prévues à l'article 163 bis A;
+personnes physiques dans les conditions prévues à l'article 163 bis A ;
 
-16° bis  Les sommes et revenus visés à l'article 163 bis AA [*participation des salariés aux fruits de l'expansion des
-entreprises*] ;
+16° bis. Les sommes et revenus visés à l'article 163 bis AA ;
 
-17° Les sommes et revenus visés à l'article 163 bis B [*plan d'épargne d'entreprise*] ;
+17° Les sommes et revenus visés à l'article 163 bis B ;
 
 18° Les attributions gratuites d'actions faites en application :
 
-a  De l'article 2 de la loi n° 70-11 du 2 janvier 1970 relative à la Régie nationale des usines Renault;
+a. De l'article 2 de la loi n° 70-11 du 2 janvier 1970 relative à la Régie nationale des usines Renault ;
 
-b  De l'article 1er de la loi n° 73-8 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat du personnel dans les
-banques nationales;
+b. De l'article 1er de la loi n° 73-8 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat du personnel dans les
+banques nationales ;
 
-c  Des articles L 322-13 et L 322-22 du code des assurances relatifs aux entreprises nationales d'assurances;
+c. Des articles L 322-13 et L 322-22 du code des assurances relatifs aux entreprises nationales d'assurances ;
 
-d  De la loi n° 73-9 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat du personnel à la société nationale
-industrielle aérospatiale et à la société nationale d'études et de construction de moteurs d'aviation.
+d. De la loi n° 73-9 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat du personnel à la société nationale
+industrielle aérospatiale [*SNIAS*] et à la société nationale d'études et de construction de moteurs d'aviation [*SNECMA*] ;
+
+e. De la loi n° 80-834 du 24 octobre 1980 créant une distribution d'actions en faveur des salariés des entreprises
+industrielles et commerciales ;
 
 19° L'aide spéciale compensatrice versée aux adhérents des caisses d'assurance-vieillesse des artisans et commerçants, en
-application de la loi n° 72-657 du 13 juillet 1972.
+application de la loi n° 72-657 du 13 juillet 1972 ;
 
 20° Les intérêts des titres d'indemnisation prioritaires et des titres d'indemnisation créés en application de la loi n° 78-1
 du 2 janvier 1978 relative à l'indemnisation des français rapatriés d'outre-mer.
@@ -31467,16 +31482,12 @@ du 2 janvier 1978 relative à l'indemnisation des français rapatriés d'outre-m
 
 _Cite_:
 
-  - CGI 163 bis A
-  - CGI 163 bis AA
   - CGI 163 bis B
-  - CGI 81
-  - Code de la construction L315-1 A Code de la construction L315-7
-  - Code de la construction L315-19 A Code de la construction L315-32
-  - Code de la construction L315-8 A Code de la construction L315-18
-  - Code rural 1106-1
+  - CGI 81, 163 bis A, 163 bis AA
+  - Code de la construction L315-19 à L315-32, L315-1 à L315-7, L315-8 à L315-18
+  - Code rural 1106 1 I 2°
   - Loi n°52-565 1952-05-21
-  - Ordonnance 58-529 1958-06-11
+  - Décret n°62-235 1962-03-01 ART. 3 1°, 2°
   - Décret n°63-494 1963-05-18
   - Décret n°63-967 1963-09-21
   - Décret n°64-224 1964-03-14
@@ -31484,18 +31495,22 @@ _Cite_:
   - Loi n°70-11 du 2 janvier 1970 - art. 2 (V)
   - Loi n°72-657 1972-07-13
   - Loi n°73-9 1973-01-04
-  - Loi n°73-8 1973-01-04
-  - Loi n°73-650 1973-07-13
+  - Loi n°73-8 1973-01-04 ART. 1
   - Loi n°73-965 1973-10-16
   - Loi n°76-1232 1976-12-29 ART. 80 FINANCES POUR 1977
   - Loi n°77-486 1977-05-13
   - Loi n°78-1 1978-01-02
-  - Code des assurances - art. L322-13 (M)
-  - Code des assurances - art. L322-22 (M)
+  - Loi n°80-834 1980-10-24
+  - Code des assurances L322-13 à L322-22
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°80-30 1980-01-18 ART. 96 I FINANCES POUR 1980 JORF 19 JANVIER 1980
+  - Loi n°80-834 1980-10-24 ART. 12 JORF 25 OCTOBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 _Cité par_:
 
@@ -36451,12 +36466,16 @@ _Cité par_:
 
 ###### Article 231 bis C
 
-1  Dans la mesure où elles sont admises en déduction des bénéfices imposables de l'entreprise versante, en vertu de l'article
+1. Dans la mesure où elles sont admises en déduction des bénéfices imposables de l'entreprise versante, en vertu de l'article
 39 undecies, les participations versées en espèces aux travailleurs en application d'un contrat d'intéressement ou
 d'association sont exonérées de la taxe sur les salaires prévue à l'article 231.
 
-2  L'attribution gratuite par une société d'actions ou parts sociales de son capital à l'ensemble de son personnel, dans les
+2. L'attribution gratuite par une société d'actions ou parts sociales de son capital à l'ensemble de son personnel, dans les
 conditions prévues à l'article 220 bis, est également exonérée de la taxe sur les salaires.
+
+3. Les sommes correspondant aux actions distribuées aux salariés en application de la loi n° 80-834 du 24 octobre 1980 créant
+une distribution d'actions en faveur des salariés des entreprises industrielles et commerciales sont exonérées de la taxe sur
+les salaires.
 
 **Liens relatifs à cet article**
 
@@ -36465,10 +36484,15 @@ _Cite_:
   - CGI 220 bis
   - CGI 231
   - CGI 39 undecies
+  - Loi n°80-834 1980-10-24
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°80-834 1980-10-24 ART. 12 JORF 25 OCTOBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 231 bis D
@@ -46536,21 +46560,30 @@ _Codifié par_:
 Sont exonérées du droit d'apport les augmentations de capital réalisées :
 
 - en application des articles 208-9 et suivants, relatifs à l'émission d'actions réservées aux salariés de la loi n° 66-537
-du 24 juillet 1966 sur les sociétés commerciales;
+du 24 juillet 1966 sur les sociétés commerciales ;
+
+- en application de la loi n° 80-834 du 24 octobre 1980 créant une distribution d'actions en faveur des salariés des
+entreprises industrielles et commerciales ;
 
 - ou dans les conditions prévues au Titre II, chapitre III de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés
 coopératives ouvrières de production.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 _Cite_:
 
-  - Loi n°66-537 1966-07-24 ART. 208 9
+  - CGI 208 9
+  - Loi n°66-537 1966-07-24
   - Loi n°78-763 1978-07-19 TITRE II, CHAPITRE III
+  - Loi n°80-834 1980-10-24
+
+_Modifié par_:
+
+  - Loi n°80-834 1980-10-24 ART. 12 JORF 25 OCTOBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 815
