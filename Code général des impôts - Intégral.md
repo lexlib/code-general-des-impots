@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-07-24
+Version Consolidée au 1984-07-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 1656)](#1)
     - [Première Partie : Impôts d'État (art. 1 à 1378 ter)](#2)
@@ -7418,6 +7418,34 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 172 bis
+
+Un décret précise la nature et la teneur des documents qui doivent être produits ou présentés à l'administration par les
+sociétés immobilières non soumises à l'impôt sur les sociétés qui donnent leurs immeubles en location ou en confèrent la
+jouissance à leurs associés (1). 
+
+Les dispositions qui précèdent ne sont pas applicables aux sociétés immobilières de copropriété visées à l'article 1655 ter. 
+
+(1) Annexe III, art. 46 B à 46 D.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°84-706 du 17 juillet 1984 - art. 1 (V) JORF 25 juillet 1984
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1655 ter (V)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1763 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41-00 A (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 B (V)
 
 
 ###### Article 173
