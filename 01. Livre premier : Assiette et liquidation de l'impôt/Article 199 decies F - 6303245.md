@@ -3,7 +3,7 @@
 La réduction d'impôt mentionnée à l'article 199 decies E est accordée au titre des dépenses de reconstruction,
 d'agrandissement, de grosses réparations ou d'amélioration.
 
-La réduction est calculée, au taux de 10 %, sur le montant de s travaux de reconstruction, d'agrandissement, de grosses
+La réduction est calculée, au taux de 20 %, sur le montant de s travaux de reconstruction, d'agrandissement, de grosses
 réparations et d'amélioration, à l'exclusion de ceux qui constituent des charges déductibles des revenus fonciers en
 application de l'article 31, réalisés à l'occasion de cette opération. Elle est accordée au titre de l'année d'achèvement des
 travaux. Les travaux doivent avoir nécessité l'obtention d'un permis de construire.
@@ -20,16 +20,9 @@ _Cite_:
 
   - CGI 199 decies E, 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 13 (V) JORF 31 décembre 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°99-180 du 10 mars 1999 - art. 1 ()
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1999-10-04 5B-18-99
-  - TXT_ASSOCIE: Instruction 2002-02-15 5B-6-02
+  - Loi - art. 9 (V) JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -39,3 +32,7 @@ _Cité par_:
   - Code du tourisme. - art. L421-3-1 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGG bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
