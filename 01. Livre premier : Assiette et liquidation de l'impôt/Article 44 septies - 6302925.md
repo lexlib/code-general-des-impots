@@ -20,9 +20,11 @@ c) A une société dans laquelle cette personne exerce en droit ou en fait la fo
 général, président du conseil du surveillance ou membre du directoire.
 
 Cette exonération peut être accordée sur agrément du ministre chargé du budget si la procédure de redressement judiciaire
-n'est pas mise en oeuvre ou si la reprise concerne des branches complètes et autonomes d'activité et est effectuée dans le
-cadre de cessions ordonnées par le juge-commissaire en application de l'article 155 de la loi n° 85-98 du 25 janvier 1985
-précitée.
+n'est pas mise en oeuvre ou si la reprise concerne des branches complètes et autonomes d'activité industrielle et est
+effectuée dans le cadre de cessions ordonnées par le juge-commissaire en application de l'article 155 de la loi n° 85-98 du
+25 janvier 1985 précitée. Il en est de même si la reprise porte sur un ou plusieurs établissements industriels en difficulté
+d'une entreprise industrielle et dans la mesure où la société créée pour cette reprise est indépendante juridiquement et
+économiquement de l'entreprise cédante.
 
 Lorsqu'une société créée dans les conditions prévues aux trois alinéas ci-dessus interrompt, au cours des trois premières
 années d'exploitation, l'activité reprise ou est affectée au cours de la même période par l'un des événements mentionnés au
@@ -34,13 +36,14 @@ partir de la date à laquelle il aurait dû être acquitté.
 
 _Cite_:
 
+  - CGI 53, 221, 1727
   - Loi n°85-98 1985-01-25 art. 81, art. 155
   - Loi n°85-98 du 25 janvier 1985 - art. 155 (M)
-  - Code général des impôts, CGI 53, 221, 1727
 
 _Modifié par_:
 
-  - Loi n°91-716 du 26 juillet 1991 - art. 28 () JORF 27 juillet 1991
+  - Loi - art. 15 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Modification directe incorporée dans l'édition du 18 août 1993
 
 _Cité par_:
 
