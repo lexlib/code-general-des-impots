@@ -76,11 +76,10 @@ activité au moins 50 % de leur revenu.
 
 VI. - Pour l'application des dispositions du présent article, les recettes s'entendent tous droits et taxes compris.
 
-VII. - Pour l'appréciation des limites prévues au présent article applicables aux titulaires de bénéfices non commerciaux
-membres d'une société civile de moyens mentionnée à l'article 239 quater A non soumise à l'impôt sur les sociétés, il est
-tenu compte des recettes réalisées par cette société, à proportion de leurs droits dans les bénéfices comptables. Toutefois,
-ces limites sont appréciées en tenant compte du montant global des recettes, lorsque la plus-value est réalisée par la
-société.
+VII. - Pour l'appréciation des limites applicables aux titulaires de bénéfices non commerciaux membres d'une société civile
+de moyens mentionnée à l'article 239 quater A non soumise à l'impôt sur les sociétés, il est tenu compte des recettes
+réalisées par cette société, à proportion de leurs droits dans les bénéfices comptables. Toutefois, ces limites sont
+appréciées en tenant compte du montant global des recettes, lorsque la plus-value est réalisée par la société.
 
 **Liens relatifs à cet article**
 
@@ -89,9 +88,13 @@ _Cite_:
   - CGI 1594-0, 39 duodecies à 39 quindecies, 93 quater, 150 à 150, 239 quater A
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
 
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
+
 _Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 21 () JORF 31 décembre 2004 Rectificatif JORF 1er février 2005
+  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
 
 _Cité par_:
 
@@ -110,3 +113,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 70 (V)
   - Code général des impôts, CGI. - art. 93 quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2005
