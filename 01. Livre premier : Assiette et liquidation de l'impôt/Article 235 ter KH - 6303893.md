@@ -1,6 +1,6 @@
 # Article 235 ter KH
 
-Cet article reproduit les dispositions de l'article L. 920-9 du code du travail :
+Cet article reproduit les dispositions de l'article L. 991-6 du code du travail :
 
 "Faute de réalisation totale ou partielle d'une prestation de formation, l'organisme prestataire doit rembourser au
 cocontractant les sommes indûment perçues de ce fait.
@@ -14,18 +14,14 @@ _Anciens textes_:
 
   - CGI 235 ter HD
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2005-330 2005-04-06
+  - HISTO: Edition du 1er janvier 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Ordonnance n°2005-731 du 30 juin 2005 - art. 3 () JORF 1er juillet 2005
 
 _Cite_:
 
-  - Code du travail - art. L920-9 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
+  - Code du travail - art. L991-6 (T)
