@@ -23,6 +23,13 @@ des personnes physiques, soit par une ou plusieurs sociétés formées uniquemen
 entre frères et soeurs ainsi qu'entre conjoints, ayant pour seul objet de détenir des participations dans une ou plusieurs
 sociétés répondant aux conditions des c et d.
 
+Pour la détermination du pourcentage prévu au premier alinéa, les participations des sociétés de capital-risque, des sociétés
+unipersonnelles d'investissement à risque, des sociétés de développement régional et des sociétés financières d'innovation ne
+sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
+société bénéficiaire de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas compte des participations
+des fonds communs de placement à risques, des fonds d'investissement de proximité ou des fonds communs de placement dans
+l'innovation (1).
+
 La condition prévue au premier alinéa n'est pas exigée en cas de souscription au capital d'entreprises solidaires au sens de
 l'article L. 443-3-1 du code du travail.
 
@@ -95,6 +102,11 @@ différents sur l'actif net ou sur les produits du fonds, attribuées en fonctio
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
 
+**Nota:**
+
+NOTA (1) Loi 2005-842 2005-07-26 art. 2 II : Les dispositions du présent alinéa s'appliquent aux versements réalisés à
+compter du 1er janvier 2005.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -108,8 +120,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 13 (V) JORF 31 décembre 2003
-  - Loi - art. 91 (V) JORF 31 décembre 2003
+  - Loi n°2005-842 du 26 juillet 2005 - art. 2 (V) JORF 27 juillet 2005
 
 _Cité par_:
 
@@ -142,5 +153,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2002-08-22 5B-16-02
+  - HISTO: Edition du 1er janvier 2006
