@@ -17,7 +17,12 @@ ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur le
 participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 IV. - Le nombre moyen annuel d'apprentis mentionné au I s'apprécie en fonction du nombre d'apprentis dont le contrat avec
-l'entreprise a été conclu depuis au moins six mois.
+l'entreprise a été conclu depuis au moins un mois.
+
+**Nota:**
+
+NOTA : Loi 2005-841 2005-07-26 art. 36 VII : Les dispositions du IV s'appliquent aux exercices ouverts à compter du 1er
+janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -28,9 +33,9 @@ _Cite_:
   - Code du travail - art. L323-10 (M)
   - Code du travail L117-1 à L117-18, L323-10, L322-4-17-2
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 31 (V) JORF 19 janvier 2005
+  - Loi n°2005-841 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
 
 _Cité par_:
 
@@ -43,7 +48,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YL (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YO (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
