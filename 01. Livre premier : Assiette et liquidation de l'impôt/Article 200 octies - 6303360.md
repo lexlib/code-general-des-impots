@@ -17,7 +17,8 @@ parties sur leurs obligations respectives et en contrôle le respect. Elle déli
 bonne exécution de la convention lorsque celle-ci prend fin.
 
 II. - La réduction d'impôt, d'un montant forfaitaire de 1 000 Euros, est accordée au titre de l'année au cours de laquelle la
-convention prend fin.
+convention prend fin. Cette réduction d'impôt est majorée dans des conditions définies par décret lorsque l'aide est apportée
+à une personne handicapée au sens de l'article L. 114 du code de l'action sociale et des familles.
 
 III. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment :
 
@@ -32,9 +33,9 @@ bénéficier de la réduction d'impôt.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 61 () JORF 19 janvier 2005
+  - Loi n°2005-841 du 26 juillet 2005 - art. 15 () JORF 27 juillet 2005
 
 _Cité par_:
 
@@ -60,10 +61,6 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 Z (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AY (V)
 
-_Cite_:
-
-  - Code du travail - art. L311-10 (M)
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
