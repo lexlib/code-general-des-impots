@@ -14,7 +14,12 @@ L. 122-25-4, L. 122-26 et L. 122-28-1 et aux deux premiers alinéas de l'article
 
 d. Des dépenses visant à indemniser les salariés de l'entreprise qui ont dû engager des frais exceptionnels de garde
 d'enfants à la suite d'une obligation professionnelle imprévisible survenant en dehors des horaires habituels de travail,
-dans la limite des frais réellement engagés.
+dans la limite des frais réellement engagés ;
+
+e. 
+
+f. Des dépenses engagées au titre de l'aide financière de l'entreprise mentionnée à l'article L. 129-13 du code du travail
+(1).
 
 II. - Les subventions publiques reçues par les entreprises à raison des dépenses ouvrant droit au crédit d'impôt sont
 déduites des bases de calcul de ce crédit.
@@ -31,6 +36,13 @@ l'article 156.
 
 IV. - Un décret fixe les conditions d'application du présent article.
 
+**Nota:**
+
+NOTA : (1) : Loi 2005-841 2005-07-26 art. 36 IV : le crédit d'imp<cb>ts prévu au f. du I s'applique aux dépenses engagées à
+compter du 1er janvier 2006.
+
+</cb>
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -38,15 +50,12 @@ _Cite_:
   - CGI 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
   - Code du travail - art. L122-28-1 (M)
   - Code du travail - art. L122-28-8 (AbD)
+  - Code du travail - art. L129-13 (M)
   - Code de la santé publique - art. L2324-1 (M)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 1er janvier 2004
-
-_Créé par_:
-
-  - Loi - art. 98 (V) JORF 31 décembre 2003
+  - Loi n°2005-841 du 26 juillet 2005 - art. 8 () JORF 27 juillet 2005
 
 _Cité par_:
 
@@ -58,3 +67,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YA (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YB (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YC (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
