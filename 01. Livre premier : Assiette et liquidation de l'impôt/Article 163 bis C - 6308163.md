@@ -1,9 +1,9 @@
 # Article 163 bis C
 
 I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres, selon le cas, dans des conditions prévues à
-l'article 150-0 A ou 150 UB si les actions acquises revêtent la forme nominative et demeurent indisponibles, suivant des
-modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de quatre années à compter de la date
-d'attribution de l'option.
+l'article 150-0 A ou 150 UB si les actions acquises revêtent la forme nominative et demeurent indisponibles sans être données
+en location, suivant des modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de quatre années à
+compter de la date d'attribution de l'option.
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une mère ou une filiale dont le siège social est
 situé à l'étranger, les obligations déclaratives incombent à la filiale ou à la mère française.
@@ -17,7 +17,8 @@ dispositions des articles 83 ter, 199 terdecies A et 220 quater ne fait pas perd
 alinéa du I. Les conditions mentionnées à cet alinéa continuent à être applicables aux actions reçues en échange.
 
 II. - Si les conditions prévues au I ne sont pas remplies, l'avantage mentionné à l'article 80 bis est ajouté au revenu
-imposable de l'année au cours de laquelle le salarié aura converti les actions au porteur ou en aura disposé.
+imposable de l'année au cours de laquelle le salarié aura converti les actions au porteur, en aura disposé ou les aura
+données en location.
 
 Toutefois, si les actions sont cédées pour un prix inférieur à leur valeur réelle à la date de levée de l'option, la
 différence est déductible du montant brut de l'avantage mentionné au premier alinéa et dans la limite de ce montant, lorsque
@@ -41,7 +42,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 10 (V) JORF 31 décembre 2003
+  - Loi n°2005-882 du 2 août 2005 - art. 26 (V) JORF 3 août 2005
 
 _Cité par_:
 
@@ -57,4 +58,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2006
