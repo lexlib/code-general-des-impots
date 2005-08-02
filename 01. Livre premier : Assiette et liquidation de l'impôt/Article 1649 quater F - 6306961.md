@@ -1,30 +1,31 @@
 # Article 1649 quater F
 
-Des associations ayant pour objet de développer l'usage de la comptabilité et de faciliter l'accomplissement de leurs
-obligations administratives et fiscales par les membres des professions libérales et les titulaires des charges et offices
-peuvent être agréées dans des conditions fixées par décret en Conseil d'Etat pris après avis des organisations
-professionnelles (1).
+Des associations ayant pour objet de développer l'usage de la comptabilité, de fournir une analyse des informations
+économiques, comptables et financières en matière de prévention des difficultés économiques et financières et de faciliter
+l'accomplissement de leurs obligations administratives et fiscales par les membres des professions libérales et les
+titulaires des charges et offices peuvent être agréées dans des conditions fixées par décret en Conseil d'Etat pris après
+avis des organisations professionnelles.
 
 Ces associations ont pour fondateurs soit des ordres ou des organisations professionnelles légalement constituées des membres
 des professions mentionnées au premier alinéa, soit des experts comptables ou des sociétés inscrites à l'ordre des experts
 comptables et des comptables agréés.
 
 Seuls peuvent adhérer à ces associations les membres des professions libérales et les titulaires de charges et offices qui
-souscrivent à l'engagement pris, dans des conditions fixées par décret (2), par les ordres ou les organisations
-professionnelles dont ils relèvent, d'améliorer la connaissance des revenus de leurs ressortissants.
-
-(1) Annexe II, art. 371 M à 371 W.
-
-(2) Annexe II, art. 371 X à 371 Z.
+souscrivent à l'engagement pris, dans des conditions fixées par décret, par les ordres ou les organisations professionnelles
+dont ils relèvent, d'améliorer la connaissance des revenus de leurs ressortissants.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2005-882 du 2 août 2005 - art. 9 () JORF 3 août 2005
 
 _Cité par_:
 
   - Arrêté du 26 juin 2009 (V)
-  - Arrêté du 25 novembre 2010 - art. (Ab)
   - Arrêté du 26 juin 2009 - art. (V)
   - Arrêté du 26 juin 2009 - art. 1 (V)
+  - Arrêté du 25 novembre 2010 - art. (Ab)
   - Décret n°2016-1356 du 11 octobre 2016 - art. 1
   - Arrêté du 22 novembre 2016 - art. (V)
   - Code général des impôts, CGI. - art. 1649 quater G (V)
@@ -37,15 +38,6 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexdecies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quatervicies (V)
 
-_Cite_:
-
-  - CGIAN2 371 M à 371 Z
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
-
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
-  - TXT_ASSOCIE: Instruction 1997-08-28 5J-2-97
+  - HISTO: Edition du 1er janvier 2006
