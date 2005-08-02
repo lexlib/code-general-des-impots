@@ -1,0 +1,41 @@
+# Article 244 quater M
+
+I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
+octies et 44 decies peuvent bénéficier d'un crédit d'impôt égal au produit du nombre d'heures passées par le chef
+d'entreprise en formation par le taux horaire du salaire minimum de croissance établi en exécution des articles L. 141-2 à L.
+141-7 du code du travail.
+
+II. - Le crédit d'impôt est plafonné à la prise en compte de quarante heures de formation par année civile.
+
+III. - Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8, 238 bis L, 239 ter et 239 quater A
+ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne sont pas
+soumis à l'impôt sur les sociétés peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés
+ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques
+participant à l'exploitation au sens du 1° bis du I de l'article 156.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies quinquies, 156
+  - Code du travail L141-2 à L141-7
+
+_Créé par_:
+
+  - Loi n°2005-882 du 2 août 2005 - art. 3 (V) JORF 3 août 2005
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 199 ter L (V)
+  - Code général des impôts, CGI. - art. 220 N (V)
+  - Code général des impôts, CGI. - art. 223 O (VD)
+  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZC (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZE (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZF (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZG (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZH (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
