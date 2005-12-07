@@ -4,7 +4,7 @@ I. La taxe d'apprentissage est recouvrée selon les modalités ainsi que sous le
 aux taxes sur le chiffre d'affaires.
 
 II. L'employeur peut imputer sur le montant du versement de la taxe d'apprentissage, le montant des dépenses effectivement
-faites et à raison desquelles il déclare ou demande l'exonération.
+faites et à raison desquelles il déclare être exonéré.
 
 III. Le versement de la taxe d'apprentissage doit accompagner le dépôt de la déclaration prévue à l'article 229.
 
@@ -30,3 +30,11 @@ _Cité par_:
 _Cite_:
 
   - CGI 229
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
