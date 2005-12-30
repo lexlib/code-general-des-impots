@@ -4,6 +4,12 @@ I. - Les communes membres d'une communauté ou d'un syndicat d'agglomération no
 d'un établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C votent les taux
 des taxes foncières et de la taxe d'habitation, conformément aux dispositions applicables aux communes.
 
+Toutefois, pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle qui
+devient soumis aux dispositions de l'article 1609 nonies C, et pour la première année d'application de ces dispositions, le
+dernier alinéa du 1 du I de l'article 1636 B sexies n'est pas applicable lorsque le taux de taxe foncière sur les propriétés
+non bâties voté l'année précédente par la commune est inférieur de plus d'un tiers au taux moyen constaté la même année au
+niveau national dans l'ensemble des collectivités de même nature.
+
 II. - La communauté ou le syndicat d'agglomération nouvelle visés à l'article 1609 nonies B ou les établissements publics de
 coopération intercommunale visés soit au I de l'article 1609 nonies C, soit au II de l'article 1609 quinquies C votent le
 taux de la taxe professionnelle dans les limites définies au b du 1, ainsi qu'aux 2 et 3, au premier alinéa du a du 4 et au 5
@@ -66,18 +72,13 @@ précédente au niveau national pour l'ensemble des syndicats d'agglomération n
 
 _Cite_:
 
-  - CGI 1609 nonies B, 1609 nonies C, 1609 quinquies C, 1636 B sexies, 1636 B septies, 1639 A
+  - CGI 1609 nonies B, 1609 nonies C, 1636 B sexies, 1609 quinquies C, 1636 B septies, 1639 A
   - Code général des collectivités territoriales - art. L5311-1 (V)
   - Code général des collectivités territoriales - art. L5334-19 (V)
 
 _Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 103 () JORF 31 décembre 2004
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 99 (V) JORF 31 décembre 2004
-
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 88 () JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -95,4 +96,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
