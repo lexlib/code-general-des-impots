@@ -4,26 +4,24 @@ I. - Il est institué une taxe due par toute personne ayant reçu l'agrément sa
 qui exploite un établissement d'abattage d'animaux des espèces bovine, ovine, caprine, porcine, ainsi que des espèces
 chevaline et asine et de leurs croisements, et de volailles, ratites, lapins et gibier d'élevage.
 
-II. - La taxe est assise sur le poids de viande avec os des animaux abattus et le poids des déchets collectés à l'abattoir
-relevant de l'article L. 226-1 du code rural.
+II. - La taxe est assise sur le poids de viande avec os des animaux abattus.
 
 III. - Le fait générateur de la taxe est constitué par l'opération d'abattage.
 
 IV. - Un arrêté conjoint du ministre chargé du budget et du ministre chargé de l'agriculture fixe les tarifs d'imposition par
-tonne de viande avec os et par espèce animale dans la limite de 150 Euros et par tonne de déchets dans la limite de 750
-Euros.
+tonne de viande avec os et par espèce animale dans la limite de 150 Euros.
 
-V. - La taxe est déclarée et liquidée sur les déclarations mentionnées à l'article 287. Elle est acquittée lors du dépôt de
-ces déclarations.
+V. - La taxe est déclarée et liquidée, selon le cas, sur les déclarations mentionnées aux articles 287, 298 bis ou 1693 bis,
+ou sur une déclaration dont le modèle est fixé par l'administration et qui est déposée avant le 25 avril de l'année suivant
+le fait générateur de la taxe. Elle est acquittée lors du dépôt de ces déclarations.
 
 La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges
 que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à
 cette même taxe.
 
-VI. - Le produit de la taxe mentionnée au I est affecté au Centre national pour l'aménagement des structures des
-exploitations agricoles. Cet établissement crée un fonds à comptabilité distincte auquel est rattaché ce produit, à
-l'exception d'une part fixée par décret dans la limite de 3 % de ce produit, qui est destinée à financer la gestion des
-opérations imputées sur le fonds.
+VI. - Le produit de la taxe mentionnée au I est affecté à l'office chargé des viandes, de l'élevage et de l'aviculture. Cet
+établissement crée un fonds à comptabilité distincte auquel est rattaché ce produit, à l'exception d'une part fixée par
+décret dans la limite de 3 % de ce produit, qui est destinée à financer la gestion des opérations imputées sur le fonds.
 
 Ce fonds a pour objet de contribuer au financement des dépenses du service public de l'équarrissage ainsi qu'au financement
 des mesures concourant au stockage, au transport et à l'élimination des farines d'origine animale.
@@ -31,11 +29,17 @@ des mesures concourant au stockage, au transport et à l'élimination des farine
 VII. - Un décret en Conseil d'Etat précise les conditions d'application du présent article et notamment les obligations
 déclaratives des redevables.
 
+**Nota:**
+
+NOTA : Loi 2005-1719 2005-12-30 art. 151 X Finances pour 2006 :
+
+Ces dispositions entrent en vigueur à compter du 1er janvier 2006.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 28 (V) JORF 31 décembre 2003
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 151 (V) JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -46,9 +50,9 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 287
-  - Code rural L233-2, L226-1
+  - CGI 287, 298 bis, 1693 bis
+  - Code rural L233-2
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2006

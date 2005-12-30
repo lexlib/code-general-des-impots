@@ -2,9 +2,9 @@
 
 Cet article reproduit les dispositions de l'article L. 951-12 du code du travail :
 
-"I. - Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration en double exemplaire,
-indiquant notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties, en
-vertu de l'article L. 951-1.
+"I. - Les employeurs sont tenus de remettre au service des impôts compétent une déclaration en double exemplaire, indiquant
+notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties, en vertu de
+l'article L. 951-1.
 
 Les employeurs qui occupent au moins cinquante salariés attestent sur l'honneur qu'ils ont satisfait à l'obligation de
 consultation du comité d'entreprise prévue à l'article L. 951-8. A la demande de l'administration, ils doivent produire les
@@ -22,13 +22,9 @@ jugement."
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Loi n°2005-1720 2005-12-30 art. 103 3° Finances rectificative pour 2005 JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -36,10 +32,6 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 duodecies (Dis)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (M)
 
-_Cite_:
-
-  - Code du travail - art. L951-12 (M)
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006

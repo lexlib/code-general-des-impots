@@ -86,14 +86,23 @@ VII. - Les personnes redevables de la taxe doivent déposer pour chaque salle de
 conforme au modèle prescrit par la direction générale des impôts et comportant les indications nécessaires à l'assiette et à
 la perception de la taxe.
 
-Cette déclaration est souscrite auprès de la recette des impôts dont relève la salle de spectacles cinématographiques. Elle
-est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les opérations imposables ont été
-réalisées. La taxe est acquittée dans le même délai.
+Cette déclaration est souscrite auprès du service des impôts dont relève la salle de spectacles cinématographiques. Elle est
+déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les opérations imposables ont été réalisées.
+La taxe est acquittée dans le même délai.
 
 VIII. - La taxe spéciale est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties,
 sûretés et privilèges que la taxe sur la valeur ajoutée.
 
 Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
+
+**Nota:**
+
+Loi 2006-1771 2006-12-30 Finances rectificative pour 2006 art. 104 V : 
+
+dispositions applicables pour la taxe due sur les entrées délivrées jusqu'au 31 décembre 2006, nonobstant le fait que la
+semaine cinématographique n'est pas achevée à cette date. 
+
+dispositions abrogées pour les entrées délivrées à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -103,12 +112,15 @@ _Anciens textes_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2002-06-10 3P-3-02
+  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Loi - art. 52 () JORF 29 décembre 2001
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 104 (V)
 
 _Cité par_:
 
