@@ -1,24 +1,34 @@
 # Article 38 quinquies
 
-L'entreposage de céréales chez un organisme collecteur agréé au sens des articles L. 621-16 et suivants du code rural puis,
-le cas échéant, leur reprise par un exploitant soumis à un régime réel d'imposition n'entraîne pas la constatation d'un
-profit ou d'une perte pour la détermination du résultat imposable, sous réserve que les marchandises restent inscrites dans
-les stocks de l'exploitant.
+L'entreposage d'une production agricole par un exploitant soumis à un régime réel d'imposition chez un tiers puis, le cas
+échéant, sa reprise n'entraînent pas la constatation d'un profit ou d'une perte pour la détermination du résultat imposable,
+sous réserve que les produits agricoles restent inscrits dans les stocks au bilan de l'exploitant.
+
+Pour l'application du premier alinéa, constitue une convention d'entreposage le contrat par lequel une production agricole
+fait l'objet d'un dépôt non individualisé dans les magasins d'une entreprise qui est chargée de la stocker, de la transformer
+ou de réaliser d'autres prestations sur cette production et peut être reprise à l'identique ou à l'équivalent par
+l'exploitant.
+
+La production agricole qui fait l'objet d'un entreposage demeure inscrite dans les stocks au bilan de l'exploitant jusqu'au
+transfert du contrôle et des avantages économiques futurs attachés à cette production.
+
+**Nota:**
+
+Loi n° 2005-1720 du 30 décembre 2005, art. 33 II : Ces dispositions entrent en vigueur pour les exercices ouverts à compter
+du 1er janvier 2006. 
+
+Art. 33 III : Un décret fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 32 (V) JORF 31 décembre 2004
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 33 (V) JORF 31 décembre 2005
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 F (V)
-
-_Cite_:
-
-  - Code rural L621-16
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
