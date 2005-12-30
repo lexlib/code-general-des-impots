@@ -13,8 +13,8 @@ cadre du plan de formation et les conditions qui doivent être respectées par l
 les conditions d'application des dispositions prévues à l'article L. 951-8 aux entreprises occupant au moins cinquante
 salariés dans lesquelles l'institution d'un comité d'entreprise n'est pas obligatoire ;
 
-les modalités d'établissement et le contenu de la déclaration prévus à l'article L. 951-12, ainsi que la recette des impôts
-compétente pour recevoir cette déclaration."
+les modalités d'établissement et le contenu de la déclaration prévus à l'article L. 951-12, ainsi que le service des impôts
+compétent pour recevoir cette déclaration."
 
 "Article L. 992-7 : Un décret en Conseil d'Etat apportera aux dispositions des titres III et V du présent livre les
 adaptations nécessaires à leur application dans les départements d'outre-mer, qui devra se faire à la même date qu'en France
@@ -22,19 +22,16 @@ métropolitaine."
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
-
-_Cite_:
-
-  - Code du travail - art. L951-13 (M)
-  - Code du travail - art. L992-7 (M)
+  - Loi n°2005-1720 2005-12-30 art. 103 3° Finances rectificative pour 2005 JORF 31 décembre 2005
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 1
+  - HISTO: Edition du 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail - art. L951-13
+  - Code du travail - art. L992-7

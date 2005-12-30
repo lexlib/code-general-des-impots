@@ -74,12 +74,14 @@ Pour l'application de cette disposition, la réduction des écarts de taux s'op�
 cas où le dispositif de réduction des écarts de taux est déjà en cours, l'écart est réduit chaque année, par parts égales en
 proportion du nombre d'années restant à courir conformément à la durée fixée par la délibération.
 
-c. Lorsqu'un établissement public de coopération intercommunale faisant application du régime prévu au II de l'article 1609
-quinquies C opte pour le régime prévu au présent article ou devient soumis à ce régime, le taux constaté dans une commune
-l'année précédente est le taux appliqué en dehors des zones d'activités économiques existant sur son territoire
-antérieurement au changement de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de zone si celle-ci
-est implantée sur le territoire de plusieurs communes est alors assimilé à celui d'une commune membre supplémentaire pour
-l'application des dispositions du présent III.
+c. Lorsqu'un établissement public de coopération intercommunale faisant application de la première phrase du premier alinéa
+du II de l'article 1609 quinquies C opte pour le régime prévu au présent article ou devient soumis à ce régime, le taux
+constaté dans une commune l'année précédente est le taux appliqué en dehors des zones d'activités économiques existant sur
+son territoire antérieurement au changement de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de
+zone si celle-ci est implantée sur le territoire de plusieurs communes est alors assimilé à celui d'une commune membre
+supplémentaire pour l'application des dispositions du présent III. Ce dispositif est applicable dans les mêmes conditions
+lorsque l'établissement public de coopération intercommunale fait application de la deuxième phrase du premier alinéa du II
+de l'article 1609 quinquies C.
 
 2° Au titre des années suivant la première année d'application des dispositions du 1°, le taux de taxe professionnelle est
 fixé par le conseil de l'établissement public de coopération intercommunale dans les conditions prévues au II de l'article
@@ -227,13 +229,13 @@ instituer au bénéfice de ses communes membres et, le cas échéant, d'établis
 fiscalité propre limitrophes une dotation de solidarité communautaire, dont le principe et les critères de répartition sont
 fixés par le conseil communautaire statuant à la majorité des deux tiers. Le montant de cette dotation est fixé librement par
 le conseil de l'établissement public de coopération intercommunale. Elle est répartie en tenant compte prioritairement de
-l'importance de la population et du potentiel fiscal par habitant, les autres critères étant fixés librement par le conseil.
-Toutefois, en cas d'application par l'établissement public de coopération intercommunale des dispositions du II, cette
-dotation ne peut être augmentée, sauf pour assurer le respect d'accords conventionnels de partage de fiscalité avec d'autres
-établissements publics de coopération intercommunale. Lorsqu'une zone d'activités économiques d'intérêt départemental est
-située en tout ou partie sur le territoire de l'établissement public de coopération intercommunale, celui-ci peut étendre le
-versement de la dotation de solidarité communautaire aux établissements publics de coopération intercommunale à fiscalité
-propre constituant un ensemble sans discontinuité territoriale et limitrophe de son territoire.
+l'importance de la population et du potentiel fiscal ou financier par habitant, les autres critères étant fixés librement par
+le conseil. Toutefois, en cas d'application par l'établissement public de coopération intercommunale des dispositions du II,
+cette dotation ne peut être augmentée, sauf pour assurer le respect d'accords conventionnels de partage de fiscalité avec
+d'autres établissements publics de coopération intercommunale. Lorsqu'une zone d'activités économiques d'intérêt
+départemental est située en tout ou partie sur le territoire de l'établissement public de coopération intercommunale, celui-
+ci peut étendre le versement de la dotation de solidarité communautaire aux établissements publics de coopération
+intercommunale à fiscalité propre constituant un ensemble sans discontinuité territoriale et limitrophe de son territoire.
 
 L'établissement public de coopération intercommunale autre qu'une communauté urbaine créé sans être issu d'une transformation
 et soumis dès la première année aux dispositions des I et II du présent article ne peut instituer de dotation de solidarité
@@ -255,8 +257,8 @@ Ces critères sont déterminés notamment en fonction :
 a. de l'écart du revenu par habitant de la commune au revenu moyen par habitant de l'établissement public de coopération
 intercommunale ;
 
-b. de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal communal moyen par habitant
-sur le territoire de l'établissement public de coopération intercommunale.
+b. de l'insuffisance de potentiel fiscal ou financier par habitant de la commune au regard du potentiel fiscal ou financier
+communal moyen par habitant sur le territoire de l'établissement public de coopération intercommunale.
 
 Des critères complémentaires peuvent être choisis par le conseil.
 
@@ -307,6 +309,10 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5334-8 (M)
   - Code général des collectivités territoriales - art. L5341-2 (M)
   - Code de la construction et de l'habitation. - art. L302-8 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
 
 _Cité par_:
 
@@ -401,9 +407,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 73 (V) JORF 31 décembre 2004
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 102 () JORF 31 décembre 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 97 () JORF 31 décembre 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
