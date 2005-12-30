@@ -2,9 +2,8 @@
 
 Cet article reproduit les dispositions de l'article L. 952-4 du code du travail :
 
-"Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration indiquant notamment les montants de
-la participation à laquelle ils étaient tenus et des versements effectués ainsi que la désignation de l'organisme
-destinataire.
+"Les employeurs sont tenus de remettre au service des impôts compétent une déclaration indiquant notamment les montants de la
+participation à laquelle ils étaient tenus et des versements effectués ainsi que la désignation de l'organisme destinataire.
 
 La déclaration doit être produite au plus tard le 30 avril de l'année suivant celle au cours de laquelle est due la
 participation.
@@ -33,18 +32,18 @@ plans de sauvegarde ou de redressement judiciaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Loi n°2005-1720 2005-12-30 art. 103 3° Finances rectificative pour 2005 JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 12 (V)
 
 _Cite_:
 
-  - Code du travail - art. L952-4 (M)
+  - Code du travail - art. L952-4
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006

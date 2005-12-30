@@ -48,7 +48,7 @@ l'année retenue pour la détermination du montant total des ressources, les rev
 compte de la variation des revenus résultant de cette modification, le cas échéant de manière forfaitaire. Les modalités de
 calcul de ces revenus sont définies par décret en Conseil d'Etat.
 
-Le montant total des ressources à prendre en compte ne doit pas excéder 38 690 euros.
+Le montant total des ressources à prendre en compte ne doit pas excéder 51 900 euros.
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros.
 
@@ -68,6 +68,11 @@ Le crédit d'impôt résultant de l'application des premier et deuxième alinéa
 crédit une créance, inaliénable et incessible, d'égal montant. Cette créance constitue un produit imposable rattaché à
 hauteur d'un cinquième au titre de l'exercice au cours duquel l'établissement de crédit a versé des avances remboursables
 sans intérêt et par fractions égales sur les exercices suivants.
+
+En cas de fusion, la créance de la société absorbée est transférée à la société absorbante. En cas de scission ou d'apport
+partiel d'actif, la créance est transmise à la société bénéficiaire des apports à la condition que l'ensemble des prêts à
+taux zéro y afférents et versés à des personnes physiques par la société scindée ou apporteuse soient transférés à la société
+bénéficiaire des apports.
 
 III. - Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une convention entre l'établissement de crédit
 mentionné au I et l'Etat, conforme à une convention type approuvée par arrêté conjoint du ministre chargé de l'économie et du
@@ -89,12 +94,18 @@ les associés proportionnellement à leurs droits dans ces sociétés ou ces gro
 redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
 
+**Nota:**
+
+NOTA : Loi 2005-1719 2005-12-30 art. 31 III Finances pour 2006 :
+
+dispositions d'application.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-  - CGI 1417, 239 quater, 239 quater B, 239 quater C, 8, 238 bis L, 156
+  - CGI 1417, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 156
   - Code monétaire et financier - art. L511-1 (V)
   - Code de la sécurité sociale L341-4, L821-1 à L821-9, L541-1 à L541-3
   - Code de la sécurité sociale. - art. L341-4 (V)
@@ -144,14 +155,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YT (V)
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 31 (V) JORF 31 décembre 2005
