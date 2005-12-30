@@ -7,7 +7,7 @@ sont soumises à des régimes distincts suivant qu'elles sont réalisées à cou
 
 a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans. Le cas échéant, ces plus-
 values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été
-différés en méconnaissance des dispositions de l'article 39 B (1) ;
+différés en méconnaissance des dispositions de l'article 39 B ;
 
 b. Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles
 correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas échéant, ces plus-values sont majorées du
@@ -36,6 +36,9 @@ scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou 
 ou de scission constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B.
 Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits
 indépendamment de l'opération d'apport ou de scission.
+
+6 bis. Le régime fiscal des plus et moins-values à long terme prévu par le présent article et les articles suivants n'est pas
+applicable à la quote-part des profits distribués par un fonds de placement immobilier mentionné à l'article 239 nonies.
 
 7.
 
@@ -86,28 +89,17 @@ apprécié à compter de la date d'ouverture de cet exercice ou de cette périod
 correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour
 l'application du b du 2.
 
-**Nota:**
-
-(1) Ces dispositions sont applicables pour la détermination des plus-values ou moins-values réalisées au cours des exercices
-clos à compter du 31 décembre 1993.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 38, 39 B, 210 B, 202 ter
+  - CGI 38, 39 B, 210 B, 202 ter, 239 nonies
   - Code monétaire et financier - art. L313-7 (M)
   - Code monétaire et financier - art. L432-6 (M)
 
 _Modifié par_:
 
-  - Loi - art. 85 (V) JORF 29 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 85 II B Finances pour 2002
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2001-02-12 5E-3-01
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (V) JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -145,3 +137,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 N (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 29 A (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 46 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
