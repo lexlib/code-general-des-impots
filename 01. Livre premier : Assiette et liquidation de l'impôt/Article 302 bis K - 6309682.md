@@ -1,7 +1,7 @@
 # Article 302 bis K
 
-I. 1. A compter du 1er janvier 2005, une taxe de l'aviation civile au profit du budget annexe de l'aviation civile et du
-budget général de l'Etat est due par les entreprises de transport aérien public.
+I. 1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du budget annexe "Contrôle et exploitation
+aériens" et du budget général de l'Etat est due par les entreprises de transport aérien public.
 
 La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués en France, quelles que soient les
 conditions tarifaires accordées par le transporteur, à l'exception :
@@ -28,9 +28,10 @@ licences des transporteurs aériens.
 
 II. - Le tarif de la taxe est le suivant :
 
-4,48 euros par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
+3,92 Euros par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen ;
 
-7,60 euros par passager embarqué vers d'autres destinations ;
+7,04 Euros par passager embarqué vers d'autres destinations ;
 
 1,17 euro par tonne de courrier ou de fret embarquée.
 
@@ -41,13 +42,14 @@ Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fou
 le nombre de passagers et la masse de fret et de courrier embarqués le mois précédent pour les vols effectués au départ de la
 France.
 
-Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe de l'aviation civile.
+Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe "Contrôle et
+exploitation aériens.
 
-III. - Les quotités du produit de la taxe affectées respectivement au budget annexe de l'aviation civile et au budget général
-sont déterminées par la loi de finances.
+III. - Les quotités du produit de la taxe affectées respectivement au budget annexe "Contrôle et exploitation aériens" et au
+budget général sont déterminées par la loi de finances.
 
-Les sommes encaissées au titre du budget général par les comptables du budget annexe de l'aviation civile sont transférées
-mensuellement aux comptables publics assignataires.
+Les sommes encaissées au titre du budget général par les comptables du budget annexe "Contrôle et exploitation aériens" sont
+transférées mensuellement aux comptables publics assignataires.
 
 IV. - 1. - La déclaration visée au II est contrôlée par les services de la direction générale de l'aviation civile. A cette
 fin, les agents assermentés peuvent examiner sur place les documents utiles.
@@ -58,7 +60,8 @@ Les insuffisances constatées et les sanctions y afférentes sont notifiées à 
 jours pour présenter ses observations.
 
 Après examen des observations éventuelles, le directeur général de l'aviation civile émet, s'il y a lieu, un titre exécutoire
-comprenant les droits supplémentaires maintenus, assortis des pénalités prévues à l'article 1729.
+comprenant les droits supplémentaires maintenus, assortis de l'intérêt de retard prévu à l'article 1727 et, le cas échéant,
+des majorations prévues à l'article 1729.
 
 2. A défaut de déclaration dans les délais, il est procédé à la taxation d'office sur la base des capacités d'emport offertes
 par les types d'aéronefs utilisés pour l'ensemble des vols du mois au départ de chaque aérodrome et exprimées comme suit :
@@ -73,7 +76,7 @@ c) charge marchande totale pour les avions cargos.
 L'entreprise peut toutefois, dans les trente jours de la notification du titre exécutoire, déposer une déclaration qui se
 substitue à ce titre s'agissant des droits, sous réserve d'un contrôle ultérieur dans les conditions prévues au 1.
 
-Les droits sont assortis des pénalités prévues à l'article 1728.
+Les droits sont assortis de l'intérêt de retard prévu à l'article 1727 et de la majoration prévue au 1 de l'article 1728.
 
 3. Le droit de rectification de la taxe se prescrit en trois ans. Cette prescription est suspendue et interrompue dans les
 conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions visées au 2.
@@ -81,17 +84,49 @@ conditions de droit commun et notamment par le dépôt d'une déclaration dans l
 4. (abrogé à compter du 1er janvier 2001).
 
 V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
-annexe de l'aviation civile selon les procédures, sûretés, garanties et sanctions applicables en matière de taxes sur le
-chiffre d'affaires.
+annexe "contrôle et exploitation aériens" selon les procédures, sûretés, garanties et sanctions applicables en matière de
+taxes sur le chiffre d'affaires.
 
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et
 jugées comme en matière de taxes sur le chiffre d'affaires.
+
+VI. - Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet d'une majoration au profit du fonds de
+solidarité pour le développement. Un décret fixe le montant de cette majoration, dans la limite respectivement de 1 euros et
+de 4 euros, ou, lorsque le passager peut bénéficier sans supplément de prix à bord de services auxquels l'ensemble des
+passagers ne pourrait accéder gratuitement, de 10 euros et de 40 euros.
+
+La majoration est perçue selon la destination finale du passager. Elle n'est pas perçue lorsqu'il est en correspondance. Est
+considéré comme passager en correspondance celui qui remplit les trois conditions suivantes :
+
+a) L'arrivée a eu lieu par voie aérienne sur l'aéroport considéré ou sur un aéroport faisant partie du même système
+aéroportuaire au sens du règlement (CEE) n° 2408/92 du Conseil, du 23 juillet 1992, concernant l'accès des transporteurs
+aériens communautaires aux liaisons aériennes intracommunautaires ;
+
+b) Le délai maximum entre les heures programmées respectives de l'arrivée et du départ n'excède pas vingt-quatre heures ;
+
+c) L'aéroport de destination finale est distinct de celui de provenance initiale et ne fait pas partie du même système
+aéroportuaire.
+
+Ces sommes sont recouvrées dans les conditions fixées au V. Elles sont reversées mensuellement à l'Agence française de
+développement.
+
+**Nota:**
+
+NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 22 III : le VI de l'article 302 bis K est applicable à compter du 1er
+juillet 2006.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 58 () JORF 31 décembre 2004
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 61 (V) JORF 31 décembre 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V) JORF 31 décembre 2005 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Loi n°2005-1720 2005-12-30 art. 22
+  - CGI 1727, 1729, 1728
+  - Règlement 2408-92 CEE 1992-07-23
 
 _Cité par_:
 
@@ -115,11 +150,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1647 (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 99 (V)
 
-_Cite_:
-
-  - CGI 1729, 1728
-  - Règlement CEE 2407/92 1992-07-23 art. 1er (Conseil)
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006

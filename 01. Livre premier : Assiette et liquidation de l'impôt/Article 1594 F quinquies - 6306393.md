@@ -2,8 +2,8 @@
 
 Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au taux de 0,60 % :
 
-A. Lorsqu'elles donnent lieu au paiement de la taxe sur la valeur ajoutée en vertu du 7° de l'article 257, les mutations à
-titre onéreux d'immeubles autres que ceux mentionnés au I du A de l'article 1594-0 G ;
+A. Lorsqu'elles entrent dans le champ d'application de la taxe sur la valeur ajoutée en vertu du 7° de l'article 257, les
+mutations à titre onéreux d'immeubles autres que ceux mentionnés au I du A de l'article 1594-0 G ;
 
 B. Sans préjudice de l'application des dispositions du 7° de l'article 257, les mutations de propriété faites entre les
 propriétaires participant aux opérations de rénovation urbaine et l'organisme de rénovation. Toutefois, en ce qui concerne la
@@ -108,13 +108,21 @@ _Anciens textes_:
 _Cite_:
 
   - CGI 257, 1594-0 G, 1465 A
+  - Code rural R343-9, R343-13, L128-4 à L128-7
   - Décret n°55-22 1955-01-04 art. 28
+  - Loi n°69-1168 1969-12-26
   - Décret n°94-1139 1994-12-26
   - Code du domaine de l'Etat - art. L60 (Ab)
   - Code de l'urbanisme - art. L130-2 (M)
   - Code de la construction et de l'habitation. - art. L615-1 (M)
-  - Code rural R343-9, R343-13, L128-4 à L128-7
-  - Loi n°69-1168 1969-12-26
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 89 () JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -122,16 +130,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 sexies (V)
   - Code général des impôts, CGI. - art. 1754 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 251 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
-  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
-  - TXT_ASSOCIE: Instruction 2002-06-17 7C-4-02
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
-  - TXT_ASSOCIE: Réponse ministérielle 1999-07-28 7C-3-99
-
-_Modifié par_:
-
-  - Loi n°2005-157 2005-02-23 art. 2 III JORF 24 février 2005
