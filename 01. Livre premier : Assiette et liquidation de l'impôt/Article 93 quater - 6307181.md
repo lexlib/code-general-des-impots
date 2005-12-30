@@ -16,6 +16,8 @@ report jusqu'à la cinquième année suivant celle au cours de laquelle l'apport
 ou du rachat des droits sociaux reçus en rémunération de l'apport, si cette cession ou ce rachat intervient avant
 l'expiration de ce délai de report.
 
+L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au premier alinéa.
+
 Les dispositions du sixième alinéa du II de l'article 151 octies sont applicables aux plus-values dont l'imposition est
 reportée en application du premier alinéa.
 
@@ -52,40 +54,31 @@ de l'imposition de la plus-value dans les conditions prévues au 1. A défaut, l
 
 4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables (1).
 
-V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de droits
-sociaux résultant d'une fusion ou d'une scission de sociétés, lorsque ces droits sont affectés à l'exercice de la profession
-au sens de l'article 93.
+V. Les dispositions du 5 bis et du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange
+de titres résultant des opérations mentionnées aux articles précités, lorsque ces titres sont affectés à l'exercice de la
+profession au sens de l'article 93.
 
 Les personnes placées sous le régime prévu au premier alinéa sont soumises aux obligations définies à l'article 54 septies.
 
 **Nota:**
 
-(1) Voir l'article 41 novovicies de l'annexe III.
+NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 38 VIII : Ces dispositions sont applicables aux opérations d'apport,
+d'échange ou de transmission à titre gratuit réalisées à compter du 1er janvier 2006.
+
+NOTA : (1) Voir l'article 41 novovicies de l'annexe III.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39 duodecies à 39 quindecies, 39 terdecies, 151 octies, 151 octies A, 93, 38, 54 septies
+  - CGI 39 duodecies à 39 quindecies, 39 terdecies, 151 octies, 151 octies A, 93, 38, 54 septies, 151 septies
   - Loi n°66-879 1966-11-29
   - Code monétaire et financier - art. L313-7 (M)
 
 _Modifié par_:
 
-  - Loi - art. 54 (V) JORF 29 décembre 2001
-  - Loi - art. 85 (V) JORF 29 décembre 2001
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 54 III A
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 85 II A
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2002-12-04 5G-13-02
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (V) JORF 31 décembre 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 38 (V) JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -101,3 +94,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 quindecies (V)
   - Code général des impôts, CGI. - art. 93 (VT)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 novovicies (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
