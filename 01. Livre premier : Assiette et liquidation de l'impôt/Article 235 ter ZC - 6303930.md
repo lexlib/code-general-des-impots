@@ -25,8 +25,7 @@ III. - Pour les entreprises placées sous le régime prévu à l'article 209 qui
 montant de l'impôt sur les sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en l'absence d'application
 de ce régime. Elle n'est ni imputable ni remboursable.
 
-III bis - Les sociétés d'investissements immobiliers cotées visées au I de l'article 208 C et leurs filiales détenues à 95 %
-au moins, directement ou indirectement, de manière continue au cours de l'exercice ne sont pas assujetties à la présente
+III bis - Les sociétés ayant opté pour le régime prévu au II de l'article 208 C ne sont pas assujetties à la présente
 contribution sur les plus-values imposées en application du IV de l'article 219.
 
 IV. - Les crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et l'imposition forfaitaire
@@ -48,11 +47,11 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 27 (V) JORF 31 décembre 2004
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (V) JORF 31 décembre 2005
 
 _Cité par_:
 
