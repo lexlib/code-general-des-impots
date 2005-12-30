@@ -23,11 +23,14 @@ des participants ayant quitté l'employeur ou le groupement d'employeurs ;
 plan d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ou vers un autre
 contrat respectant les règles fixées au b ;
 
-c) au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique et aux autres
-régimes de retraite complémentaire constitués au profit des fonctionnaires et agents de l'Etat, des collectivités locales et
-des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises régies par le
-code des assurances et auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er janvier 2004, avaient été
-étendues avant cette date.
+c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique ainsi qu'aux
+autres régimes de retraite complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er
+janvier 2004, avaient été étendues avant cette date, constitués au profit des fonctionnaires et agents de l'Etat, des
+collectivités territoriales et des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit
+auprès d'entreprises régies par le code des assurances, ou institués par les organismes mentionnés au VII de l'article 5 de
+l'ordonnance n° 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les directives 92/49/CEE et 92/96/
+CEE du Conseil, des 18 juin et 10 novembre 1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de la
+mutualité.
 
 2. - a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour chaque membre du foyer fiscal dans une limite
 annuelle égale à la différence constatée au titre de l'année précédente entre :
@@ -57,6 +60,9 @@ décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, e
 
 3° deux années de cotisations au titre de chacune des années 2010 à 2012 incluse.
 
+Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la qualité de fonctionnaire ou d'agent public,
+en activité, affiliées après le 31 décembre 2004.
+
 II. - Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I s'entendent :
 
 1. - Des traitements et salaires définis à l'article 79 et des rémunérations allouées aux gérants et associés des sociétés
@@ -67,28 +73,33 @@ alinéa de l'article 62 ;
 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant
 imposable.
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies ainsi que l'abattement prévu à l'article 73 B sont
-retenus pour l'appréciation du montant des revenus définis au premier alinéa. Il n'est pas tenu compte des plus-values et
-moins-values professionnelles à long terme.
+Les revenus exonérés en application des articles 44 sexies à 44 undecies ou au 9 de l'article 93 ainsi que l'abattement prévu
+à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Il n'est pas tenu compte
+des plus-values et moins-values professionnelles à long terme.
+
+**Nota:**
+
+NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 50 VII et art. 55 II : Modalités d'application.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI L443-1, 83, 154 bis, 154 bis-0, 156, 81, 79, 62, 34, 35, 63, 92, 44 sexies à 44 undecies, 73
+  - Ordonnance 2001-350 2001-04-19 art. 5
   - Loi n°2003-775 2003-08-21 art. 108
-  - Code du travail - art. L443-1-1 (M)
+  - CGI 83, 154 bis, 154 bis-0, 156, 81, 79, 62, 34, 35, 63, 92, 44 sexies à 44 undecies, 93, 73
   - Code du travail - art. L443-1-2 (M)
   - Code de la sécurité sociale. - art. L241-3 (M)
   - Code de la sécurité sociale. - art. L911-1 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
+  - Code de la mutualité - art. L222-1 (V)
+  - Directive 92-49 CEE 1992-06-18
+  - Directive 92-96 CEE 1992-11-10
 
 _Modifié par_:
 
-  - Loi n°2004-1484 2004-12-30 art. 24 II C Finances pour 2005 JORF 31 décembre 2004
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 50 (V) JORF 31 décembre 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 55 (V) JORF 31 décembre 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 59 () JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -107,3 +118,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 ZZ bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 ZZ quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 ZZ ter (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
