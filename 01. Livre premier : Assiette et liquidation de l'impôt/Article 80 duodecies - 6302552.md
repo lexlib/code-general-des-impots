@@ -18,8 +18,7 @@ rupture de son contrat de travail, ou 50 % du montant de l'indemnité si ce seui
 plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités ;
 
 b) Soit le montant de l'indemnité de licenciement prévue par la convention collective de branche, par l'accord professionnel
-ou interprofessionnel ou, à défaut, par la loi, si ce montant est supérieur à six fois le plafond mentionné à l'article L.
-241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités ;
+ou interprofessionnel ou, à défaut, par la loi ;
 
 4° La fraction des indemnités de mise à la retraite qui n'excède pas :
 
@@ -27,9 +26,8 @@ a) Soit deux fois le montant de la rémunération annuelle brute perçue par le 
 rupture de son contrat de travail, ou 50 % du montant de l'indemnité si ce seuil est supérieur, dans la limite de cinq fois
 le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités ;
 
-b) Soit le montant de l'indemnité de licenciement prévue par la convention collective de branche, par l'accord professionnel
-ou interprofessionnel ou, à défaut, par la loi, si ce montant est supérieur à cinq fois le plafond mentionné à l'article L.
-241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités.
+b) Soit le montant de l'indemnité de mise à la retraite prévue par la convention collective de branche, par l'accord
+professionnel ou interprofessionnel ou, à défaut, par la loi.
 
 2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions,
 aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des
@@ -48,10 +46,14 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-1579 du 19 décembre 2005 - art. 13 (V) JORF 20 décembre 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 56 () JORF 31 décembre 2005
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. L136-2 (V)
   - Code de la sécurité sociale. - art. L242-1 (V)
   - Code rural - art. L741-10 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
