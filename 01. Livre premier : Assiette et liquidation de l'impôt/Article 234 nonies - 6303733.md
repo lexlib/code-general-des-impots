@@ -1,7 +1,8 @@
 # Article 234 nonies
 
 I. - Il est institué une contribution annuelle sur les revenus retirés de la location de locaux situés dans des immeubles
-achevés depuis quinze ans au moins au 1er janvier de l'année d'imposition, acquittée par les bailleurs.
+achevés depuis quinze ans au moins au 1er janvier de l'année d'imposition, acquittée par les bailleurs mentionnés au I de
+l'article 234 duodecies et aux articles 234 terdecies et 234 quaterdecies.
 
 II. - (Abrogé)
 
@@ -50,14 +51,15 @@ IV. et V. (Abrogés).
 
 **Nota:**
 
-Nota : Loi 2004-1485 2004-12-30 art. 49 II : Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année
-2004.
+NOTA : Loi 2005-1719 2005-12-30 art. 76 XV Finances pour 2006 :
+
+Ces dispositions s'appliquent à compter de l'imposition des revenus de 2006.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 49 II
+  - CGI 234 duodecies, 234 terdecies, 234 quaterdecies
   - Loi n°64-1278 1964-12-23 art. 11 Finances rectificative pour 1964
   - Loi n°90-449 1990-05-31 art. 1
   - Code de la construction et de l'habitation. - art. L351-2 (M)
@@ -86,9 +88,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 111 () JORF 19 janvier 2005
-  - Loi n°2005-32 du 18 janvier 2005 - art. 112 () JORF 19 janvier 2005
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006

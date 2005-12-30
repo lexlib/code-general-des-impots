@@ -79,7 +79,7 @@ parts du fonds et, directement ou indirectement, plus de 25 p. 100 des droits da
 figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la
 souscription des parts du fonds ou l'apport des titres.
 
-2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux effectués jusqu'au 31 décembre 2006. Les
+2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux effectués jusqu'au 31 décembre 2010. Les
 versements sont retenus dans les limites annuelles de 12 000 euros pour les contribuables célibataires, veufs ou divorcés et
 de 24 000 euros pour les contribuables mariés soumis à imposition commune.
 
@@ -92,7 +92,7 @@ imposition commune.
 
 VI bis. - Les dispositions du 1 et du 3 du VI s'appliquent aux souscriptions en numéraire de parts de fonds d'investissement
 de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier. Les versements ouvrant droit à la réduction
-d'impôt sont ceux effectués jusqu'au 31 décembre 2006. Ils sont retenus dans les limites annuelles de 12 000 Euros pour les
+d'impôt sont ceux effectués jusqu'au 31 décembre 2010. Ils sont retenus dans les limites annuelles de 12 000 Euros pour les
 contribuables célibataires, veufs ou divorcés et de 24 000 Euros pour les contribuables mariés soumis à imposition commune.
 Les réductions d'impôt prévues au VI et au VI bis sont exclusives l'une de l'autre pour les souscriptions dans un même fonds.
 
@@ -101,11 +101,6 @@ différents sur l'actif net ou sur les produits du fonds, attribuées en fonctio
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
-
-**Nota:**
-
-NOTA (1) Loi 2005-842 2005-07-26 art. 2 II : Les dispositions du présent alinéa s'appliquent aux versements réalisés à
-compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -120,7 +115,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-842 du 26 juillet 2005 - art. 2 (V) JORF 27 juillet 2005
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 81 (V) JORF 31 décembre 2005
 
 _Cité par_:
 

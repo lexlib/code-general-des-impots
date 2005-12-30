@@ -14,7 +14,7 @@ d'application de la déduction prévue au h du 1° du I de l'article 31 sont ré
 l'engagement de louer le logement dans les conditions et limites prévues au h du 1° du I dudit article. L'associé doit
 s'engager à conserver la totalité de ses titres jusqu'à l'expiration de l'engagement souscrit par la société. Le produit de
 la souscription annuelle doit être intégralement investi dans les dix-huit mois qui suivent la clôture de celle-ci. La
-société ne peut pas bénéficier de la déduction forfaitaire majorée au taux de 40 % ou de 60 % durant la période couverte par
+société ne peut pas bénéficier de la déduction prévue au j du 1° du I de l'article 31 durant la période couverte par
 l'engagement de location.
 
 Tant que la condition de loyer prévue au troisième alinéa du h du 1° du I de l'article 31 reste remplie, l'associé peut, par
@@ -25,6 +25,12 @@ droit commun.
 
 Un décret fixe les obligations incombant aux associés et aux sociétés mentionnées au présent article.
 
+**Nota:**
+
+NOTA : Loi 2005-1719 2005-12-30 art. 76 XV Finances pour 2006 :
+
+Ces dispositions s'appliquent à compter de l'imposition des revenus de 2006.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -32,13 +38,9 @@ _Cite_:
   - CGI 8, 31
   - Code monétaire et financier - art. L214-50 (V)
 
-_Codifié par_:
-
-  - Décret n°2004-304 2004-03-26
-
 _Modifié par_:
 
-  - Décret n°2004-304 du 26 mars 2004 - art. 1 () JORF 30 mars 2004
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -55,4 +57,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2006

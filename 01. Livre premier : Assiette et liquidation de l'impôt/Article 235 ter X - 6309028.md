@@ -11,10 +11,10 @@ au cours de l'exercice par prélèvement sur la provision correspondante, d'autr
 constituées à la clôture du même exercice en vue de faire face à l'aggravation du coût estimé des sinistres advenus au cours
 d'autres exercices antérieurs. Chaque excédent de provision, après application de la franchise, et chaque dotation
 complémentaire sont rattachés à l'exercice au titre duquel la provision initiale a été constituée. La taxe est calculée au
-taux de 0,75 p. 100 par mois écoulé depuis la constitution de la provision en faisant abstraction du nombre d'années
-correspondant au nombre d'exercices au titre desquels il n'était pas dû d'impôt sur les sociétés (1). Pour le calcul de la
-taxe due au titre de l'exercice clos le 31 décembre 2001, le taux de la franchise est fixé à 6 %. Si la différence entre la
-taxe qui aurait été due au titre de 2001 en la liquidant avec un taux de franchise fixé à 3 % et la taxe effectivement due au
+taux de 0,40 p. 100 par mois écoulé depuis la constitution de la provision en faisant abstraction du nombre d'années
+correspondant au nombre d'exercices au titre desquels il n'était pas dû d'impôt sur les sociétés. Pour le calcul de la taxe
+due au titre de l'exercice clos le 31 décembre 2001, le taux de la franchise est fixé à 6 %. Si la différence entre la taxe
+qui aurait été due au titre de 2001 en la liquidant avec un taux de franchise fixé à 3 % et la taxe effectivement due au
 titre de cette même année excède la moitié du montant moyen de la taxe acquittée par l'entreprise considérée en 2000 et 1999,
 la taxe due est majorée de cet excédent.
 
@@ -31,18 +31,15 @@ entreprises pratiquant la réassurance de dommages.
 
 **Nota:**
 
-(1) Taux applicable aux excédents de provisions réintégrés aux résultats imposables des exercices ouverts à compter du 1er
-janvier 1988. Pour les exercices ouverts antérieurement, le taux était de 1 %.
+Loi 2005-1719 2005-12-30 art. 29 V Finances pour 2006 : 
+
+dispositions d'application.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-
 _Modifié par_:
 
-  - Loi - art. 28 () JORF 29 décembre 2001
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 29 (V) JORF 31 décembre 2005
 
 _Cité par_:
 

@@ -1,16 +1,19 @@
 # Article 302 septies A
 
 I. Il est institué par décret en Conseil d'Etat un régime simplifié de liquidation des taxes sur le chiffre d'affaires dues
-par les personnes dont le chiffre d'affaires n'excède pas 763 000 euros, s'il s'agit d'entreprises dont le commerce principal
-est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement,
-ou 230 000 euros, s'il s'agit d'autres entreprises. Ces limites s'apprécient en faisant abstraction de la taxe sur la valeur
-ajoutée et des taxes assimilées.
+par les personnes dont le chiffre d'affaires, ajusté s'il y a lieu au prorata du temps d'exploitation au cours de l'année
+civile, n'excède pas 763 000 euros, s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises,
+objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 230 000 euros, s'il s'agit
+d'autres entreprises. Ces limites s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des taxes
+assimilées.
 
 II. Le régime simplifié prévu au I demeure applicable pour l'établissement de l'imposition due au titre de la première année
 au cours de laquelle les chiffres d'affaires limites prévus pour ce régime sont dépassés. Cette imposition est établie compte
 tenu de ces dépassements.
 
-Ces dispositions ne sont pas applicables en cas de changement d'activité.
+Ces dispositions ne sont pas applicables si le chiffre d'affaires excède 840 000 euros s'il s'agit d'entreprises dont le
+commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de
+fournir le logement, et 260 000 euros s'il s'agit d'autres entreprises.
 
 III. La régularisation de la taxe sur la valeur ajoutée due au titre d'un exercice peut intervenir dans les trois mois qui
 suivent la clôture de cet exercice. Un décret en Conseil d'Etat fixe les modalités d'application pratique du présent
@@ -23,15 +26,9 @@ _Cite_:
 
   - CGIAN2 204 ter, 204 quater, 242-0 C, 242-0 D, 242 quater à 242 septies, 267 quinquies à 267 septies
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - HISTO: Edition du 31 mars 2002
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 90 (V) JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -74,3 +71,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater U (V)
   - Livre des procédures fiscales - art. L16 D (V)
   - Livre des procédures fiscales - art. L52 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006

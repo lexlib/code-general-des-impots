@@ -30,11 +30,9 @@ par ces derniers.
 Le ou les bénéficiaires ayant opté pour le régime défini au 1 communiquent à l'administration un état faisant apparaître le
 montant des plus-values réalisées lors de la transmission et dont l'imposition est reportée conformément au 1.
 
-Le ou les bénéficiaires mentionnés au premier alinéa du présent 2 doivent joindre à la déclaration prévue à l'article 170 au
-titre de l'année en cours à la date de la transmission et des années suivantes un état faisant apparaître les renseignements
-nécessaires au suivi des plus-values dont l'imposition est reportée conformément au 1.
-
 3. Un décret précise le contenu des obligations déclaratives mentionnées au 2.
+
+4. L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au 2.
 
 III. En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au paragraphe I ou de sa transformation en
 société passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou
@@ -48,14 +46,28 @@ IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activ
 value constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou
 d'annulation de ces parts. Ce report est maintenu dans les conditions prévues au paragraphe III.
 
+V. - Les reports d'impositions mentionnés aux II, III et IV sont maintenus en cas d'échange de droits sociaux résultant d'une
+fusion ou d'une scission jusqu'à la date de cession, de rachat ou d'annulation des droits reçus lors de l'échange.
+
+VI. - Pour l'application des II à V, le ou les bénéficiaires du report d'imposition doivent joindre à la déclaration prévue à
+l'article 170 au titre de l'année au cours de laquelle les plus-values bénéficiant d'un report d'imposition sont réalisées et
+des années suivantes un état faisant apparaître les renseignements nécessaires au suivi des plus-values dont l'imposition est
+reportée. Un décret précise le contenu de cet état.
+
+**Nota:**
+
+NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 38 VIII : Ces dispositions sont applicables aux opérations d'apport,
+d'échange ou de transmission à titre gratuit réalisées à compter du 1er janvier 2006.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 8, 8 ter, 38, 72, 93, 170
+  - CGI 8, 8 ter, 38, 72, 93, 151 septies, 170
 
 _Cité par_:
 
+  - Loi n°81-1160 du 30 décembre 1981 - art. 4 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater E (V)
   - Code général des impôts, CGI. - art. 151 septies A (M)
   - Code général des impôts, CGI. - art. 151 sexies (VD)
@@ -67,13 +79,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 70 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A ter (V)
-  - Loi n°81-1160 du 30 décembre 1981 - art. 4 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2003-03-20 4F-3-03
 
 _Modifié par_:
 
-  - Loi - art. 52 () JORF 31 décembre 2003
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 38 (V) JORF 31 décembre 2005
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006

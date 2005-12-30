@@ -1,0 +1,95 @@
+# Article 244 quater O
+
+I. - Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44
+sexies, 44 sexies A, 44 septies, 44 octies, 44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la
+somme :
+
+1° Des salaires et charges sociales afférents aux salariés directement et exclusivement chargés de la conception de nouveaux
+produits dans un des secteurs ou métiers mentionnés au III et aux ingénieurs et techniciens de production chargés de la
+réalisation de prototypes ou d'échantillons non vendus ;
+
+2° Des dotations aux amortissements des immobilisations créées ou acquises à l'état neuf qui sont directement affectées à la
+conception des nouveaux produits mentionnés au 1° et à la réalisation de prototypes ;
+
+3° Des frais de dépôt des dessins et modèles relatifs aux nouveaux produits mentionnés au 1° ;
+
+4° Des frais de défense des dessins et modèles, dans la limite de 60 000 euros par an ;
+
+5° Des autres dépenses de fonctionnement exposées à raison des opérations de conception de nouveaux produits et à la
+réalisation de prototypes ; ces dépenses sont fixées forfaitairement à 75 % des dépenses de personnel mentionnées au 1° ;
+
+6° Des dépenses liées à l'élaboration de nouvelles collections confiées par ces entreprises à des stylistes ou bureaux de
+style externes.
+
+II. - Le taux de 10 % visé au I est porté à 15 % pour les entreprises visées au 3° du III.
+
+III. - Les entreprises pouvant bénéficier du crédit d'impôt mentionné au I sont :
+
+1° Les entreprises dont les charges de personnel afférentes aux salariés qui exercent un des métiers d'art énumérés dans un
+arrêté du ministre chargé des petites et moyennes entreprises représentent au moins 30 % de la masse salariale totale ;
+
+2° Les entreprises industrielles des secteurs de l'horlogerie, de la bijouterie, de la joaillerie, de l'orfèvrerie, de la
+lunetterie, des arts de la table, du jouet, de la facture instrumentale et de l'ameublement ; les nomenclatures des activités
+et des produits concernés sont définies par arrêté du ministre chargé de l'industrie ;
+
+3° Les entreprises portant le label "Entreprise du patrimoine vivant" au sens de l'article 23 de la loi n° 2005-882 du 2 août
+2005 en faveur des petites et moyennes entreprises.
+
+IV. - Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt mentionné au I est
+calculé par année civile.
+
+V. - Les subventions publiques reçues par les entreprises à raison de dépenses ouvrant droit au crédit d'impôt sont déduites
+des bases de calcul de ce crédit.
+
+VI. - Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du crédit d'impôt mentionné au I et dans celle
+d'un autre crédit d'impôt.
+
+VII. - Le crédit d'impôt prévu au I s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission, du
+12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis. Ce plafond s'apprécie en
+prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés de personnes mentionnées aux
+articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239
+quater C. Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être
+utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse
+de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
+l'article 156.
+
+**Nota:**
+
+NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 45 V, VI :
+
+"V. - Un décret fixe les conditions d'application des I à IV et notamment les obligations déclaratives incombant aux
+entreprises concernées.
+
+"VI - Les dispositions du présent article s'appliquent aux crédits d'impôt calculés au titre des dépenses exposées entre le
+1er janvier 2006 et le 31 décembre 2007."
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 decies, 44 undecies, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 156
+  - Loi n°2005-882 2005-08-02 art. 23
+  - Règlement 69-2001 CE 2001-01-12
+  - Traité de Rome 1957-03-25 art. 87, art. 88
+
+_Créé par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 45 (V) JORF 31 décembre 2005
+
+_Cité par_:
+
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+  - Décret n°2013-1287 du 27 décembre 2013 (V)
+  - Code général des impôts, CGI. - art. 199 ter N (V)
+  - Code général des impôts, CGI. - art. 220 P (V)
+  - Code général des impôts, CGI. - art. 223 O (VD)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZM (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZN (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZO (V)
+  - Livre des procédures fiscales - art. L172 G (V)
+  - Livre des procédures fiscales - art. L45 BA (V)
+  - Livre des procédures fiscales - art. R45 BA-1 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
