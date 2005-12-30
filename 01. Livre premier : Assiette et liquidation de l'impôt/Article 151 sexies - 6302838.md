@@ -1,26 +1,35 @@
 # Article 151 sexies
 
-I. - La plus-value réalisée dans le cadre d'une activité agricole, artisanale, commerciale ou libérale est calculée, si le
-bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition dans le patrimoine privé du contribuable, suivant
-les règles des articles 150 U à 150 VH, pour la partie correspondant à cette période. Cette partie est exonérée s'il s'agit
-d'une terre agricole qui n'entre pas dans le champ d'application du A de l'article 1594-0 G et qui est exploitée par un
-agriculteur ayant exercé son activité à titre principal pendant au moins cinq ans.
-
-Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du II de l'article L. 13-15 du code de
-l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du A
-de l'article 1594-0 G.
+I. - La plus-value réalisée dans le cadre d'une activité agricole, artisanale, commerciale, industrielle ou libérale est
+calculée, si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition dans le patrimoine privé du
+contribuable, suivant les règles des articles 150 U à 150 VH, pour la partie correspondant à cette période. Cette partie est
+exonérée s'il s'agit d'une terre agricole qui n'entre pas dans le champ d'application du A de l'article 1594-0 G et qui est
+exploitée par un agriculteur ayant exercé son activité à titre principal pendant au moins cinq ans. Les terrains expropriés
+qui ne remplissent pas les conditions mentionnées aux a et b du II de l'article L. 13-15 du code de l'expropriation pour
+cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du A de l'article 1594-0
+G.
 
 II. - La plus-value réalisée lors de la cession d'actions ou de parts sociales louées dans les conditions des articles L.
-239-1 à L. 239-5 du code de commerce est calculée, si ces titres ont figuré pendant une partie du temps écoulé depuis leur
-acquisition dans le patrimoine privé du contribuable, suivant les règles des articles 150-0 A à 150-0 E, pour la partie du
-gain net correspondant à cette période.
+239-1 à L. 239-5 du code de commerce, ou celle réalisée dans le cadre d'une activité agricole, artisanale, commerciale,
+industrielle ou libérale, est calculée, si les titres ont figuré pendant une partie du temps écoulé depuis leur acquisition
+dans le patrimoine privé du contribuable, suivant les règles des articles 150-0 A à 150-0 E, pour la partie du gain net
+correspondant à cette période.
 
-Lors de la cession à titre onéreux d'actions ou de parts sociales mentionnées à l'article 150-0 A, ayant successivement fait
-partie du patrimoine privé, été louées dans les conditions des articles L. 239-1 à L. 239-5 du code de commerce, puis
-reprises dans le patrimoine privé, les gains nets sont constitués par la somme des gains nets relatifs aux périodes de
-détention dans le patrimoine privé, calculés suivant les règles des articles 150-0 A à 150-0 E.
+Lors de la cession à titre onéreux de titres ou de droits mentionnés à l'article 150-0 A, ayant successivement fait partie du
+patrimoine privé, été inscrits à l'actif d'une entreprise ou considérés comme des éléments d'actif affectés à l'exercice de
+la profession en application des dispositions des articles 93 ou 151 nonies ou été loués dans les conditions des articles L.
+239-1 à L. 239-5 du code de commerce, puis étant revenus dans le patrimoine privé, les gains nets sont constitués par la
+somme des gains nets relatifs aux périodes de détention dans le patrimoine privé, calculés suivant les règles des articles
+150-0 A à 150-0 E.
 
 Le seuil d'imposition prévu au 1 du I de l'article 150-0 A s'apprécie au moment de la cession des titres ou droits.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent II.
+
+**Nota:**
+
+Loi n° 2005-1720 du 30 décembre 2005, art. 29 XVIII C : Ces dispositions s'appliquent aux cessions réalisées à compter du 1er
+janvier 2006.
 
 **Liens relatifs à cet article**
 
@@ -29,6 +38,10 @@ _Cite_:
   - CGI 150 U à 150 VH, 1594-0 G, 150-0 A à 150-0 E, 150-0 A
   - Code de commerce L239-1 à L239-5
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
 
 _Cité par_:
 
@@ -40,4 +53,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-882 du 2 août 2005 - art. 26 (V) JORF 3 août 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 29 (V) JORF 31 décembre 2005
