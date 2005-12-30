@@ -38,17 +38,21 @@ entreprises adhérentes quelle que soit l'évolution de leur chiffre d'affaires.
 Les experts-comptables, les sociétés membres de l'ordre et les experts-comptables stagiaires autorisés exercent, sous leur
 responsabilité, une mission de surveillance sur chaque dossier et délivrent le visa mentionné au I, dans des conditions
 fixées par arrêté du ministre chargé du budget. Ils peuvent refuser d'accomplir cette formalité si leurs observations n'ont
-pas été suivies d'effet avant la clôture des comptes de l'exercice. Dans ce cas, l'administration fiscale apprécie, au vu des
-observations présentées par le contribuable, s'il y a lieu ou non d'accorder l'abattement prévu à l'article 158 4 bis. La
-rémunération de cette mission de surveillance peut être versée directement par le centre ; elle ne peut excéder une limite
-déterminée par arrêté du ministre chargé du budget.
+pas été suivies d'effet avant la clôture des comptes de l'exercice. La rémunération de cette mission de surveillance peut
+être versée directement par le centre ; elle ne peut excéder une limite déterminée par arrêté du ministre chargé du budget.
+
+**Nota:**
+
+Loi 2005-1719 2005-12-30 art. 76 XV Finances pour 2006 : 
+
+Ces dispositions s'appliquent à compter de l'imposition des revenus de 2006.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1649 quater C, 302 septies A bis, 302 septies A, 69, 158 4 bis
   - Ordonnance n°45-2138 du 19 septembre 1945 - art. 2 (M)
+  - CGI 1649 quater C, 302 septies A bis, 302 septies A, 69, 158 4 bis
 
 _Cité par_:
 
@@ -61,8 +65,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-279 du 25 mars 2004 - art. 5 (V) JORF 27 mars 2004
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 10 (V)
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2006
