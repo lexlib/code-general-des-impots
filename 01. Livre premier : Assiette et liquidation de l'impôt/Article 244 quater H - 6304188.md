@@ -2,8 +2,7 @@
 
 I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44
 sexies, 44 sexies A, 44 octies et 44 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles exposent des dépenses de
-prospection commerciale afin d'exporter en dehors de l'Espace économique européen des services, des biens et des
-marchandises.
+prospection commerciale afin d'exporter des services, des biens et des marchandises.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont
 soit réalisé un chiffre d'affaires inférieur à 50 millions d'euros au cours de chaque période d'imposition ou exercice clos
@@ -27,16 +26,16 @@ libérales.
 
 II. - Les dépenses ouvrant droit au crédit d'impôt sont, à condition qu'elles soient déductibles du résultat imposable :
 
-a. Les frais et indemnités de déplacement et d'hébergement liés à la prospection commerciale en vue d'exporter en dehors de
-l'Espace économique européen ;
+a. Les frais et indemnités de déplacement et d'hébergement liés à la prospection commerciale en vue d'exporter ;
 
-b. Les dépenses visant à réunir des informations sur les marchés et les clients situés en dehors de l'Espace économique
-européen ;
+b. Les dépenses visant à réunir des informations sur les marchés et les clients ;
 
-c. Les dépenses de participation à des salons et à des foires-expositions en dehors de l'Espace économique européen ;
+c. Les dépenses de participation à des salons et à des foires-expositions ;
 
-d. Les dépenses visant à faire connaître les produits et services de l'entreprise en vue d'exporter en dehors de l'Espace
-économique européen.
+d. Les dépenses visant à faire connaître les produits et services de l'entreprise en vue d'exporter ;
+
+e) Les indemnités mensuelles et les prestations mentionnées à l'article L. 122-12 du code du service national lorsque
+l'entreprise a recours à un volontaire international en entreprise comme indiqué au III.
 
 Le crédit d'impôt, calculé au titre de chaque période d'imposition ou exercice clos au cours desquels des dépenses éligibles
 ont été exposées, est égal à 50 % de ces dépenses. Les subventions publiques reçues par les entreprises à raison des dépenses
@@ -67,6 +66,13 @@ l'article 156.
 
 Le crédit d'impôt ne peut être obtenu qu'une fois par l'entreprise.
 
+**Nota:**
+
+NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 52 II, art. 53 III : Ces dispositions s'appliquent aux dépenses exposées
+pendant les vingt-quatre mois qui suivent le recrutement de la personne mentionnée au III de l'article 244 quater H du code
+général des impôts ou la signature de la convention prévue à l'article L. 122-7 du code du service national intervenant à
+compter du ler janvier 2006.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -74,16 +80,14 @@ _Cite_:
   - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 39, 223 A, 206, 239 quater, 8, 238 bis L, 239 quater B, 239 quater C, 156
   - Loi n°90-1258 1990-12-31
   - Code du service national - art. L122-1 (V)
+  - Code du service national - art. L122-12 (M)
   - Code du service national - art. L122-7 (M)
   - Loi n°1901-07-01
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 52 (V) JORF 31 décembre 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 53 (V) JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -96,4 +100,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
