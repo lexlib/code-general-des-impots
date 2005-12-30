@@ -4,16 +4,27 @@ Sous réserve des dispositions de l'article 151 quater, les loyers et prestation
 bail à construction passé dans les conditions prévues par les articles L 251-1 à L 251-8 du code de la construction et de
 l'habitation, ont le caractère de revenus fonciers au sens de l'article 14.
 
-Le revenu imposable correspondant est déterminé en faisant application de la déduction prévue au e du 1° du I de l'article 31
-pour les propriétés urbaines.
+**Nota:**
+
+Loi 2005-1719 2005-12-30 art. 76 XV Finances pour 2006 : 
+
+Ces dispositions s'appliquent à compter de l'imposition des revenus de 2006.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
+
 _Cite_:
 
-  - CGI 151 quater, 14, 31
-  - Code de la construction et de l'habitation L251-1 à L251-8
+  - Code général des impôts, CGI. - art. 14 (V)
+  - Code de la construction et de l'habitation. - art. L251-1 (V)
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 151 quater (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006

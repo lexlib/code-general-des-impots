@@ -18,7 +18,11 @@ Ils votent le taux de cette taxe dans les conditions fixées à l'article 1639 A
 Ils peuvent définir, dans les conditions prévues au premier alinéa du 1 du II de l'article 1639 A bis, des zones de
 perception de la taxe d'enlèvement des ordures ménagères sur lesquelles ils votent des taux différents en vue de
 proportionner le montant de la taxe à l'importance du service rendu apprécié en fonction des conditions de réalisation du
-service et de son coût.
+service et de son coût. Les syndicats de communes et les syndicats mixtes sur le territoire desquels est située une
+installation de transfert ou d'élimination des déchets prévue par un plan départemental d'élimination des déchets ménagers
+peuvent également définir une zone, d'un rayon d'un kilomètre au maximum, sur laquelle ils votent un taux différent ; dans ce
+cas, le syndicat de communes ou le syndicat mixte ne peut définir sur ce périmètre des zones en fonction de l'importance du
+service rendu (1).
 
 Toutefois, à titre dérogatoire, ils peuvent, pour une période qui ne peut excéder dix ans, voter des taux différents sur leur
 périmètre, afin de limiter les hausses de cotisations liées à l'harmonisation du mode de financement. Cette disposition peut
@@ -36,13 +40,19 @@ communes ou d'établissements publics de coopération intercommunale.
 
 Les dispositions des cinquième et sixième alinéas peuvent être appliquées simultanément.
 
+Toutefois, lorsqu'un syndicat de communes qui dispose de la compétence prévue à l'article L. 2224-13 du code général des
+collectivités territoriales et qui assure au moins la collecte des déchets des ménages a adopté, avant le 15 février 2006,
+une délibération de principe par laquelle il approuve sa transformation en syndicat mixte en application des dispositions du
+dernier alinéa de l'article L. 5214-21 du même code, le représentant de l'Etat dans le département peut accorder, à titre
+exceptionnel, à ses communes membres la prorogation au titre de l'année 2006 des dispositions du 2 du II de l'article 1639 A
+bis du présent code et de l'article 16 de la loi n° 99-1126 du 28 décembre 1999 modifiant le code général des collectivités
+territoriales et relative à la prise en compte du recensement général de la population de 1999 pour la répartition des
+dotations de l'Etat aux collectivités locales.
+
 **Nota:**
 
-NOTA : Ces dispositions sont applicables pour l'établissement de la taxe d'enlèvement des ordures ménagères due au titre des
-années 2005 et suivantes.
-
-Pour 2005, les délibérations relatives au sixième alinéa peuvent être prises jusqu'au 15 janvier 2005 ; ces délibérations ne
-peuvent prévoir de nouveaux zonages infracommunaux.
+(1) Loi 2005-1719 2005-12-30 art. 100 III Finances pour 2006 : dispositions applicables à compter des impositions établies au
+titre de 2007.
 
 **Liens relatifs à cet article**
 
@@ -50,12 +60,15 @@ _Cite_:
 
   - CGI 1379, 1636 B octies, 1520, 1639 A, 1639 A bis
   - Loi n°99-586 1999-07-12
+  - Loi n°99-1126 du 28 décembre 1999 - art. 16 (M)
   - Code général des collectivités territoriales - art. L2224-13 (M)
   - Code général des collectivités territoriales - art. L5212-20 (M)
+  - Code général des collectivités territoriales - art. L5214-21 (M)
 
 _Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 101 (V) JORF 31 décembre 2004
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 101 () JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -66,4 +79,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
