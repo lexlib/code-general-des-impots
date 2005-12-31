@@ -1,33 +1,26 @@
 # Article 1929 septies
 
-En cas de redressement judiciaire, des cessions de rang de privilège ou d'hypothèque visant à garantir les créances du Trésor
-public ou l'abandon de ces sûretés peuvent être consentis dans les conditions précisées par décret en Conseil d'Etat (1).
-
-(1) Annexe II 396 bis A.
-
-**Nota:**
-
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
+Conformément au quatrième alinéa de l'article L. 626-6 du code de commerce, et au I de l'article L. 631-19 du même code, les
+administrations financières peuvent, dans le cadre du plan de sauvegarde ou du plan de redressement prévus respectivement aux
+articles L. 626-1 et L. 631-2, décider des cessions de rang de privilège ou d'hypothèque ou de l'abandon de ces sûretés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGIAN2 396 bis A
-
-_Créé par_:
-
-  - Loi n°85-98 1985-01-25 art. 24 JORF 26 janvier 1985 en vigueur le 1er janvier 1985
-
 _Codifié par_:
 
-  - Décret n°86-1086 1986-10-07
+  - Décret n°2006-356 2006-03-24
+
+_Modifié par_:
+
+  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+
+_Cite_:
+
+  - Code de commerce. - art. L626-1 (M)
+  - Code de commerce. - art. L626-6 (M)
+  - Code de commerce. - art. L631-19 (V)
+  - Code de commerce. - art. L631-2 (V)
 
 **Liens**:
 
-  - HISTO: Edition du 31 juillet 1986
+  - HISTO: Edition du 1er janvier 2006
