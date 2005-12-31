@@ -1,36 +1,27 @@
 # Article 1649 quater B
 
-Tout règlement d'un montant supérieur à 3 000 euros effectué par un particulier non commerçant, en paiement d'un bien ou d'un
-service, doit être opéré soit par chèque répondant aux caractéristiques de barrement d'avance et de non-transmissibilité par
-voie d'endossement mentionné à l'article L. 96 du livre des procédures fiscales, soit par tout autre moyen inscrivant le
-montant réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise d'investissement ou une institution
-mentionnée à l'article L. 518-1 du code monétaire et financier. Toutefois, les dispositions du présent alinéa ne font pas
-obstacle au paiement d'un acompte, réglé par tout moyen, dans la limite de 460 euros.
+Le règlement d'un bien ou d'un service d'un montant supérieur à 3 000 euros par un particulier non commerçant et le versement
+d'une prime ou d'une cotisation d'assurance d'un même montant sont opérés conformément aux dispositions de l'article L. 112-8
+du code monétaire et financier.
 
-Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en France peuvent continuer d'effectuer le
-règlement de tout bien ou service d'un montant supérieur à 3 000 euros en chèque de voyage ou en espèces, après relevé, par
-le vendeur du bien ou le prestataire de services, de leurs identité et domicile justifiés.
+**Nota:**
 
-Tout règlement d'un montant supérieur à 3 000 euros en paiement d'un ou de plusieurs biens vendus aux enchères, à l'occasion
-d'une même vente, doit être opéré selon les modalités prévues au premier alinéa.
-
-Tout versement d'une prime ou d'une cotisation d'assurance au titre d'un contrat d'assurance vie ou d'assurance décès doit
-être opéré selon les modalités prévues au premier alinéa, au-delà de 3 000 euros par an et par contrat.
+Dispositions devenues sans objet conséquence de l'article 1er [1°, b] del'ordonnance n° 2009-104 du 30 janvier 2009.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 1999-06-03 13K-7-99
-  - TXT_ASSOCIE: Instruction 2000-02-08 13K-3-00
-  - TXT_ASSOCIE: Instruction 2001-02-01 13K-3-01
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - Décret n°2006-356 2006-03-24
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 51 (V) JORF 29 décembre 2001
+  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+
+**Liens**:
+
+  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 1
+  - HISTO: Edition du 1er janvier 2006
 
 _Cité par_:
 
@@ -38,5 +29,4 @@ _Cité par_:
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L96 (M)
-  - Code monétaire et financier - art. L518-1 (M)
+  - Code monétaire et financier - art. L112-8

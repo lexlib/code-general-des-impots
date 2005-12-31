@@ -4,64 +4,53 @@
 minérales solides présentant un intérêt pour l'économie française et inscrites sur une liste établie par un arrêté du
 ministre de l'économie et des finances, du ministre du développement industriel et scientifique et du ministre délégué auprès
 du Premier ministre chargé du plan et de l'aménagement du territoire peuvent constituer, en franchise d'impôt, des provisions
-pour reconstitution des gisements (1).
+pour reconstitution des gisements. 
 
-2 Le montant de la provision ne peut excéder pour chaque exercice :
+2 Le montant de la provision ne peut excéder pour chaque exercice : 
 
 Ni 15 % du montant des ventes de produits marchands extraits des gisements exploités par l'entreprise, lorsqu'elles sont
-prises en compte pour la détermination du bénéfice imposable en France ;
+prises en compte pour la détermination du bénéfice imposable en France ; 
 
-Ni 50 % du bénéfice net imposable provenant des ventes, en l'état ou après transformation, de ces mêmes produits.
+Ni 50 % du bénéfice net imposable provenant des ventes, en l'état ou après transformation, de ces mêmes produits. 
 
 Sont assimilées à des ventes de produits extraits de gisements exploités par l'entreprise, les ventes de produits acquis par
 celle-ci auprès de filiales étrangères dans lesquelles elle détient directement ou indirectement 50 % au moins des droits de
-vote.
+vote. 
 
 3 La provision doit être remployée dans un délai de cinq ans sous la forme soit d'immobilisations ou de travaux de recherches
 réalisés pour la mise en valeur de gisements de substances mentionnées au 1 et situés en France métropolitaine ou dans les
-départements d'outre-mer (2) soit de participations dans des sociétés et organismes ayant pour objet la mise en valeur de
-tels gisements.
+départements d'outre-mer soit de participations dans des sociétés et organismes ayant pour objet la mise en valeur de tels
+gisements. 
 
 Les entreprises qui réalisent des investissements amortissables en remploi de la provision doivent rapporter à leurs
 résultats imposables, au même rythme que l'amortissement, une somme égale au montant de ces investissements. Lorsque la
-provision est remployée sous une autre forme, la même réintégration est effectuée en une seule fois (2).
+provision est remployée sous une autre forme, la même réintégration est effectuée en une seule fois.
 
 A défaut de remploi dans le délai de cinq ans, les fonds non utilisés sont rapportés au bénéfice imposable de l'exercice au
 cours duquel ce délai a expiré et l'impôt correspondant à cette réintégration est majoré de l'intérêt de retard prévu à
-l'article 1729 (3).
+l'article 1727. 
 
-4 Un décret fixera les modalités d'application du présent article (4).
-
-(1) La liste des substances minérales solides est mentionnée à l'article 4 C bis de l'annexe IV.
-
-(2) Ces dispositions s'appliquent aux investissements et travaux réalisés :
-
-- à compter du 1er janvier 2003, en remploi des provisions pour reconstitution des gisements constituées au titre des
-exercices clos à compter du 1er janvier 2001 et jusqu'au 31 décembre 2001 ;
-
-- à compter du 1er janvier 2002, en remploi des provisions pour reconstitution des gisements constituées au titre des
-exercices clos à compter de la même date.
-
-(3) Ces dispositions s'appliquent aux provisions constituées au titre des exercices clos à compter du 1er janvier 2001.
-
-(4) Voir les articles 10 C quinquies, 10 C sexies et 10 D à 10 G de l'annexe III.
+4 Un décret fixera les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 54 III B, C, D
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
 
 _Cite_:
 
-  - Instruction 2003-01-03 4E-1-03
-
-_Modifié par_:
-
-  - Loi - art. 54 (V) JORF 29 décembre 2001
+  - Code général des impôts, CGI. - art. 1727
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies (P)
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 C bis (P)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
