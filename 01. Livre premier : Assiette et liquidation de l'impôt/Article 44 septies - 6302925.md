@@ -1,17 +1,16 @@
 # Article 44 septies
 
 I. - Les sociétés créées pour reprendre une entreprise industrielle en difficulté qui fait l'objet d'une cession ordonnée par
-le tribunal en application des articles L. 621-83 et suivants du code de commerce bénéficient d'une exonération d'impôt sur
-les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments
-d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités
-prévues à l'article 53 A. Le montant de cette exonération est déterminé dans les conditions prévues par les dispositions des
-II à IX.
+le tribunal en application de l'article L. 626-1, de l'article L. 631-22 ou des articles L. 642-1 et suivants du code de
+commerce bénéficient d'une exonération d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-
+values constatées lors de la réévaluation des éléments d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant
+celui de leur création et déclarés selon les modalités prévues à l'article 53 A. Le montant de cette exonération est
+déterminé dans les conditions prévues par les dispositions des II à IX.
 
-Cette exonération peut être également accordée lorsque la procédure de redressement judiciaire n'est pas mise en oeuvre, ou
-lorsque la reprise concerne des branches complètes et autonomes d'activité industrielle et est effectuée dans le cadre de
-cessions ordonnées par le juge-commissaire en application de l'article L. 622-17 du code de commerce, ou lorsque la reprise
-porte sur un ou plusieurs établissements industriels en difficulté d'une entreprise industrielle et dans la mesure où la
-société créée pour cette reprise est indépendante juridiquement et économiquement de l'entreprise cédante.
+Cette exonération peut être également accordée lorsque les procédures de sauvegarde ou de redressement judiciaire ne sont pas
+mises en oeuvre, ou lorsque la reprise porte sur un ou plusieurs établissements industriels en difficulté d'une entreprise
+industrielle et dans la mesure où la société créée pour cette reprise est indépendante juridiquement et économiquement de
+l'entreprise cédante.
 
 N'ouvrent pas droit au bénéfice de l'exonération les activités exercées dans l'un des secteurs suivants : transports,
 construction de véhicules automobiles, construction de navires civils, fabrication de fibres artificielles ou synthétiques,
@@ -152,31 +151,25 @@ alinéa du 2 de l'article 221, l'impôt sur les sociétés dont elle a été dis
 immédiatement exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et décompté à partir de la date à
 laquelle il aurait dû être acquitté.
 
-**Nota:**
-
-Nota : Loi 2004-1485 2004-12-30 art. 41 II 1° : Les obligations déclaratives des sociétés concernées par l'exonération prévue
-à l'article 44 septies du code général des impôts sont fixées par décret.
-
-Les dispositions de l'article 44 septies sont applicables aux résultats des exercices clos à compter du 16 décembre 2003, et
-jusqu'au 31 décembre 2006 inclus.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 53, 39, 44 octies, 221, 1727, 44 septies
-  - Code de commerce. - art. L621-83 (Ab)
-  - Code de commerce. - art. L622-17 (M)
+  - Code de commerce. - art. L626-1 (M)
+  - Code de commerce. - art. L631-22 (V)
+  - Code de commerce. - art. L642-1 (M)
   - Règlement CE 69-2001 2001-01-12
   - Règlement CE 70-2001 2001-01-12
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2005-845 du 26 juillet 2005 - art. 166 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
@@ -205,4 +198,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
