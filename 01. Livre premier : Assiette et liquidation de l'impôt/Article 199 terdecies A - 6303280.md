@@ -21,6 +21,9 @@ II. Les dispositions du II de l'article 83 ter sont applicables.
 
 III. Le bénéfice de la réduction d'impôt est subordonné au respect des conditions énumérées au III de l'article 83 ter.
 
+Les avantages prévus au I cessent de s'appliquer à compter de l'année au cours de laquelle l'une des conditions fixées au
+présent article et à l'article 83 ter n'est plus satisfaite.
+
 IV. En cas de cession d'actions ou de parts dans les conditions mentionnées au IV de l'article 83 ter, le total des
 réductions d'impôt obtenues antérieurement en application du présent article fait l'objet d'une reprise l'année de la
 cession, selon les modalités fixées au même IV de l'article 83 ter.
@@ -28,26 +31,19 @@ cession, selon les modalités fixées au même IV de l'article 83 ter.
 V. Les souscriptions au capital de la société nouvelle qui ont ouvert droit au bénéfice d'une autre déduction du revenu,
 d'une réduction ou d'un crédit d'impôt ne peuvent bénéficier de l'avantage prévu au 1 du I.
 
-VI. Les dispositions des VI et VII de l'article 83 ter s'appliquent au présent article (1).
-
-(1) En ce qui concerne les conditions d'application de l'article 199 terdecies A, voir les articles 46 AM à 46 AO de l'annexe
-III.
+VI. Les dispositions des VI et VII de l'article 83 ter s'appliquent au présent article.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 199 terdecies, 83 ter, 197
-  - CGIAN3 46 AM à 46 AO
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
+  - CGI 197, 83 ter
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 1
+  - HISTO: Edition du 1er janvier 2006
