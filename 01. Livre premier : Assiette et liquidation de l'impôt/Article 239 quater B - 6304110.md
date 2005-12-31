@@ -1,29 +1,29 @@
 # Article 239 quater B
 
-Les groupements d'intérêt public constitués et fonctionnant dans les conditions prévues à l'article 21 modifié de la loi n°
-82-610 et aux articles L. 1112-2 et L. 1112-3 du code général des collectivités territoriales n'entrent pas dans le champ
-d'application de l'article 206 1, mais chacun de leurs membres est personnellement passible, pour la part des excédents
-correspondant à ses droits dans le groupement, soit de l'impôt sur le revenu, soit de l'impôt sur les sociétés s'il s'agit
-d'une personne morale relevant de cet impôt.
+Les groupements d'intérêt public constitués et fonctionnant dans les conditions prévues aux articles L. 341-1 à L. 341-4 et
+L. 351-1, L. 352-1, L. 353-1, L. 354-1 et L. 355-1 du code de la recherche et aux articles L. 1115-2 et L. 1115-3 du code
+général des collectivités territoriales  n'entrent pas dans le champ d'application de l'article 206 1, mais chacun de leurs
+membres est personnellement passible, pour la part des excédents correspondant à ses droits dans le groupement, soit de
+l'impôt sur le revenu, soit de l'impôt sur les sociétés s'il s'agit d'une personne morale relevant de cet impôt.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 206
-  - Loi n°82-610 1982-07-15 art. 21
-  - Code général des collectivités territoriales - art. L1112-2 (T)
-  - Code général des collectivités territoriales - art. L1112-3 (T)
-
 _Modifié par_:
 
-  - Loi n°96-142 1996-02-21 art. 1, art. 11, art. 12 111° JORF 24 février 1996
-  - Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
-  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+  - Loi n°2003-705 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2004-758 du 29 juillet 2004 - art. 1 () JORF 30 juillet 2004
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
+**Liens**:
+
+  - HISTO: Ordonnance 2004-545 2004-06-11 art. 1, art. 3, art. 6 4° JORF 16 juin 2004
+  - HISTO: Ordonnance n°2004-545 du 11 juin 2004 - art. 1 (V) JORF 16 juin 2004
+  - HISTO: Ordonnance n°2004-545 du 11 juin 2004 - art. 3 (V) JORF 16 juin 2004
+  - HISTO: Edition du 1er janvier 2006
 
 _Codifié par_:
 
-  - Décret n°97-661 1997-05-28
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
@@ -46,6 +46,8 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 quater W (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZO (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 11 avril 1997
+  - CGI 206
+  - Code général des collectivités territoriales - art. L1115-2 (V)
+  - Code général des collectivités territoriales - art. L1115-3 (V)
