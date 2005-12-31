@@ -1,19 +1,15 @@
 # Article 1649 quater C
 
-Des centres de gestion dont l'objet est d'apporter une assistance en matière de gestion aux industriels, commerçants,
-artisans et agriculteurs peuvent être agréés dans des conditions fixées par décret en Conseil d'Etat (1).
+Des centres de gestion, dont l'objet est d'apporter aux industriels, commerçants, artisans et agriculteurs une assistance en
+matière de gestion et de leur fournir une analyse des informations économiques, comptables et financières en matière de
+prévention des difficultés économiques et financières, peuvent être agréés dans des conditions définies par un décret en
+Conseil d'Etat.
 
 Ces centres sont créés à l'initiative soit d'experts comptables ou de sociétés membres de l'ordre, soit de chambres de
-commerce et d'industrie, de chambres de métiers ou de chambres d'agriculture, soit d'organisations professionnelles
-légalement constituées d'industriels, de commerçants, d'artisans ou d'agriculteurs.
-
-(1) Annexe II, art. 371 A à 371 L.
+commerce et d'industrie, de chambres de métiers et de l'artisanat ou de chambres d'agriculture, soit d'organisations
+professionnelles légalement constituées d'industriels, de commerçants, d'artisans ou d'agriculteurs.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 371 A à 371 L
 
 _Cité par_:
 
@@ -33,10 +29,15 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 I (Ab)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z quater (V)
 
+_Modifié par_:
+
+  - Loi n°2005-882 du 2 août 2005 - art. 8 () JORF 3 août 2005
+  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+
 _Codifié par_:
 
-  - Décret n°95-1281 1995-12-11
+  - Décret n°2006-356 2006-03-24
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 1er janvier 2006

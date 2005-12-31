@@ -15,7 +15,7 @@ entreprises qui excède le montant des apports en capital ouvrant droit au profi
 II du présent article et aux articles 199 undecies ou 199 undecies A et le montant des financements, apports en capital et
 prêts participatifs, apportés par les sociétés de financement définies au g du 2 de l'article 199 undecies A.
 
-La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de réhabilitation d'h<CB>tel, de résidence de
+La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de
 tourisme et de village de vacances classés et aux logiciels nécessaires à l'utilisation des investissements éligibles,
 lorsque ces travaux et logiciels constituent des éléments de l'actif immobilisé.
 
@@ -214,8 +214,7 @@ acquis pendant le délai de cinq ans suivant leur réalisation ou leur durée no
 Si, avant l'expiration du délai visé au premier alinéa l'un de ces investissements est cédé ou cesse d'être affecté à
 l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage résultant de l'application du
 premier alinéa est rapporté au résultat imposable de l'exercice au cours duquel cet événement se réalise, majoré d'un montant
-égal au produit de cet avantage par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué
-dans les conditions mentionnées à l'article 1727 A.
+égal au produit de cet avantage par le taux de l'intérêt de retard prévu à l'article 1727.
 
 Toutefois, la reprise de l'avantage n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans
 le cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si le bénéficiaire de la transmission s'engage à
@@ -239,14 +238,9 @@ déclaratives.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2003-660 2003-07-21
-  - CGI 199 undecies B, 209, 8, 239 quater, 239 quater C, 199 undecies, 199 undecies A, 210 A, 210 B, 44 septies, 217 bis, 1727, 1727 A
-
 _Modifié par_:
 
-  - Loi - art. 57 () JORF 31 décembre 2003
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -313,9 +307,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2001-02-16 4A-2-01
-  - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
-  - TXT_ASSOCIE: Instruction 2002-05-21 4A-5-02
-  - TXT_ASSOCIE: Instruction 2002-05-21 5B-11-02
-  - TXT_ASSOCIE: Instruction 2003-03-24 4A-4-03
+  - HISTO: Edition du 1er janvier 2006
