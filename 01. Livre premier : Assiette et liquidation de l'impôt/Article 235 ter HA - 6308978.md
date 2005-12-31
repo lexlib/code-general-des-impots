@@ -1,8 +1,8 @@
 # Article 235 ter HA
 
-Les fonds non employés à l'issue des actions de formation au bénéfice de travailleurs privés d'emploi, prévues par le 3° de
-l'article L. 951-1 du code du travail et organisées dans des centres de formation conventionnés, sont versés au Trésor public
-par ces centres.
+Les fonds non employés à l'issue des actions de formation au bénéfice de travailleurs privés d'emploi, prévues au huitième
+alinéa de l'article L. 951-1 du code du travail et organisées dans des centres de formation conventionnés, sont versés au
+Trésor public par ces centres.
 
 **Liens relatifs à cet article**
 
@@ -10,22 +10,18 @@ _Anciens textes_:
 
   - Loi n°76-656 1976-07-16 ART. 2 AL. 2
 
-_Modifié par_:
-
-  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
-
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
+  - Décret n°2006-356 2006-03-24
+
+_Modifié par_:
+
+  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 381 U (P)
 
-_Cite_:
-
-  - Code du travail - art. L951-1 (M)
-
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
+  - HISTO: Edition du 1er janvier 2006

@@ -25,7 +25,7 @@ carte d'invalidité correspondant au classement dans la deuxième ou la troisiè
 du code de la sécurité sociale ;
 
 b) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal bénéficie d'une
-allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-9 ou L. 541-1 à L. 541-3 du même code ;
+allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-8 ou L. 541-1 à L. 541-3 du même code ;
 
 c) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal est victime d'une
 catastrophe ayant conduit à rendre inhabitable de manière définitive sa résidence principale.
@@ -94,12 +94,6 @@ les associés proportionnellement à leurs droits dans ces sociétés ou ces gro
 redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
 
-**Nota:**
-
-NOTA : Loi 2005-1719 2005-12-30 art. 31 III Finances pour 2006 :
-
-dispositions d'application.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -107,7 +101,7 @@ _Cite_:
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
   - CGI 1417, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 156
   - Code monétaire et financier - art. L511-1 (V)
-  - Code de la sécurité sociale L341-4, L821-1 à L821-9, L541-1 à L541-3
+  - Code de la sécurité sociale L341-4, L821-1 à L821-8, L541-1 à L541-3
   - Code de la sécurité sociale. - art. L341-4 (V)
   - Code de la construction et de l'habitation. - art. L312-1 (M)
 
@@ -158,4 +152,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 31 (V) JORF 31 décembre 2005
+  - Loi n°2005-102 du 11 février 2005 - art. 16 () JORF 12 février 2005
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006

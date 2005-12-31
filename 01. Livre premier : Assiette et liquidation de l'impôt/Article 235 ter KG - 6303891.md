@@ -1,16 +1,8 @@
 # Article 235 ter KG
 
-Cet article reproduit les dispositions du II de l'article L. 991-5 du code du travail :
-
-"II. - Les organismes prestataires d'actions entrant dans le champ de la formation professionnelle défini à l'article L.
-900-2 doivent, solidairement avec leurs dirigeants de fait ou de droit, verser au Trésor public une somme égale au montant
-des dépenses ayant fait l'objet d'une décision de rejet en application du I.
-
-Les versements au Trésor public prévus au présent article ainsi qu'à l'article L. 920-9 sont recouvrés selon les modalités,
-ainsi que sous les sûretés, garanties et pénalités applicables aux taxes sur le chiffre d'affaires.
-
-En cas de mauvaise foi ou de manoeuvres frauduleuses, les sanctions prévues aux articles 1741, 1743 et 1750 du code général
-des impôts sont applicables. Les poursuites seront engagées sur plainte de l'autorité administrative."
+Conformément au II de l'article L. 991-5 du code du travail, les organismes prestataires d'actions entrant dans le champ de
+la formation professionnelle doivent verser au Trésor public une somme égale au montant des dépenses ayant fait l'objet d'une
+décision de rejet en application du I du même article.
 
 **Liens relatifs à cet article**
 
@@ -20,16 +12,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2005-330 2005-04-06
+  - Décret n°2006-356 2006-03-24
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
-
-_Cite_:
-
-  - Code du travail - art. L991-5 (T)
+  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 1
+  - HISTO: Edition du 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail - art. L991-5

@@ -1,12 +1,7 @@
 # Article 235 ter KH
 
-Cet article reproduit les dispositions de l'article L. 991-6 du code du travail :
-
-"Faute de réalisation totale ou partielle d'une prestation de formation, l'organisme prestataire doit rembourser au
-cocontractant les sommes indûment perçues de ce fait.
-
-En cas de manoeuvres frauduleuses, le ou les contractants sont, de plus, assujettis à un versement d'égal montant au profit
-du Trésor public."
+Conformément à l'article L. 991-6 du code du travail, faute de réalisation totale ou partielle d'une prestation de formation,
+l'organisme prestataire doit rembourser au cocontractant les sommes indûment perçues de ce fait.
 
 **Liens relatifs à cet article**
 
@@ -14,14 +9,19 @@ _Anciens textes_:
 
   - CGI 235 ter HD
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 1er janvier 2006
+  - Décret n°2006-356 2006-03-24
 
 _Modifié par_:
 
-  - Ordonnance n°2005-731 du 30 juin 2005 - art. 3 () JORF 1er juillet 2005
+  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+
+**Liens**:
+
+  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 1
+  - HISTO: Edition du 1er janvier 2006
 
 _Cite_:
 
-  - Code du travail - art. L991-6 (T)
+  - Code du travail - art. L991-6

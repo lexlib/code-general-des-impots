@@ -46,18 +46,18 @@ suivants.
 7. Sans préjudice de l'application des dispositions du seizième alinéa du 5° du 1 de l'article 39, les provisions non
 utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux
 bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant égal au produit de ces provisions par le taux de
-l'intérêt de retard prévu au troisième alinéa de l'article 1727, appliqué dans les conditions mentionnées à l'article 1727 A.
+l'intérêt de retard prévu à l'article 1727.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39, 1727, 1727 A
+  - CGI 39, 1727
 
 _Cité par_:
 
-  - Loi n°86-897 du 1 août 1986 - art. 2-1 (V)
   - Décret n°97-1065 du 20 novembre 1997 - art. 1-1 (V)
+  - Loi n°86-897 du 1 août 1986 - art. 2-1 (V)
   - Loi n°2010-1657 du 29 décembre 2010 - art. 17
   - Code général des impôts, CGI. - art. 199 terdecies O C (M)
   - Code général des impôts, CGI. - art. 200 (V)
@@ -68,16 +68,8 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 16 () JORF 29 décembre 2001
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
