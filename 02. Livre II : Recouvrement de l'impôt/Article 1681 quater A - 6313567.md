@@ -27,7 +27,7 @@ C. Le solde des taxes est prélevé en novembre à concurrence du montant de l'u
 éventuel est prélevé en décembre.
 
 Toutefois, si les taxes sont mises en recouvrement après le 31 octobre, le solde est acquitté dans les conditions fixées par
-les articles 1663, 1761 et le II de l'article 1762 quater.
+les articles 1663 et 1730.
 
 D. Il est mis fin aux prélèvements mensuels dès qu'ils ont atteint le montant des taxes mises en recouvrement. Le trop-perçu
 qui apparaît éventuellement lors de la mise en recouvrement des taxes est immédiatement, et au plus tard à la fin du mois qui
@@ -39,18 +39,13 @@ F. Un décret en Conseil d'Etat fixe les modalités d'application du présent ar
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2003-1235 2003-12-22 art. 5 V
-  - HISTO: Edition du 1er janvier 2004
-
 _Modifié par_:
 
-  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 5 (V) JORF 24 décembre 2003 en vigueur le 1er janvier 2004
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 _Cite_:
 
-  - CGI 1679 quinquies, 1681 D, 1647 B sexies, 1663, 1761, 1762 quater, 1762 A
+  - CGI 1679 quinquies, 1681 D, 1647 B sexies, 1663, 1730, 1762 A
 
 _Cité par_:
 
@@ -61,3 +56,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C octies (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C sexies (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C ter (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
