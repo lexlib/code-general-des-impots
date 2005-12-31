@@ -22,19 +22,19 @@ au premier alinéa a été exercée. Toutefois, l'entreprise peut utiliser la cr
 sociétés dû au titre des exercices clos au cours de ces cinq années. Dans ce cas, la créance n'est remboursée qu'à hauteur de
 la fraction qui n'a pas été utilisée dans ces conditions.
 
-Par exception aux dispositions du quatrième alinéa, les entreprises ayant fait l'objet d'un redressement ou d'une liquidation
-judiciaires peuvent demander le remboursement de leur créance non utilisée à compter de la date du jugement qui a ouvert ces
-procédures. Ce remboursement est effectué sous déduction d'un intérêt appliqué à la créance restant à imputer. Cet intérêt,
-dont le taux est celui de l'intérêt légal applicable le mois suivant la demande de l'entreprise, est calculé à compter du
-premier jour du mois suivant cette demande jusqu'au terme des cinq années suivant celle de la clôture de l'exercice au titre
-duquel l'option a été exercée.
+Par exception aux dispositions du quatrième alinéa, les entreprises ayant fait l'objet d'une procédure de sauvegarde, d'un
+redressement ou d'une liquidation judiciaires peuvent demander le remboursement de leur créance non utilisée à compter de la
+date du jugement qui a ouvert ces procédures. Ce remboursement est effectué sous déduction d'un intérêt appliqué à la créance
+restant à imputer. Cet intérêt, dont le taux est celui de l'intérêt légal applicable le mois suivant la demande de
+l'entreprise, est calculé à compter du premier jour du mois suivant cette demande jusqu'au terme des cinq années suivant
+celle de la clôture de l'exercice au titre duquel l'option a été exercée.
 
 La créance est inaliénable et incessible, sauf dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code
 monétaire et financier, ou dans des conditions fixées par décret.
 
 II. L'option visée au I ne peut pas être exercée au titre d'un exercice au cours duquel intervient une cession ou une
 cessation totale d'entreprise, une fusion de sociétés ou une opération assimilée, ou un jugement prononçant la liquidation
-des biens ou la liquidation judiciaire de la société.
+judiciaire de la société.
 
 En cas de fusion, de scission ou d'opération assimilée intervenant au cours des cinq années suivant celle de la cl<cb>ture de
 l'exercice au titre duquel l'option visée au I a été exercée, la créance de la société absorbée, scindée ou apporteuse peut
@@ -63,7 +63,13 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2004-1484 2004-12-30 art. 24 II F Finances pour 2005 JORF 31 décembre 2004
+  - Loi n°85-98 du 25 janvier 1985 - art. 238 (Ab) JORF 26 janvier 1985
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
+  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V) JORF 27 juillet 2005
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
@@ -84,4 +90,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006

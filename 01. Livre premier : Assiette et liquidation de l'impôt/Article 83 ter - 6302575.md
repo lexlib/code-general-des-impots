@@ -3,7 +3,7 @@
 I. 1. Les salariés d'une entreprise qui souscrivent en numéraire au capital initial ou aux augmentations de capital
 intervenant dans les trois ans qui suivent la date de constitution d'une société nouvelle ayant pour objet exclusif de
 racheter tout ou partie du capital de leur entreprise peuvent déduire du montant brut de la rémunération qui leur est versée
-par l'entreprise rachetée, dans la limite de ce montant et de 100 000 F (1) par an, les intérêts des emprunts contractés pour
+par l'entreprise rachetée, dans la limite de ce montant et de 100 000 F par an, les intérêts des emprunts contractés pour
 financer leurs souscriptions, acquittés l'année de la souscription et chacune des cinq années suivantes.
 
 Un salarié ne peut bénéficier que de l'un des avantages mentionnés au premier alinéa ou à l'article 199 terdecies A et pour
@@ -67,6 +67,9 @@ compris ceux qu'ils détiennent par personne ou sociétés interposées ;
 c) A une société dans laquelle il exerce en droit ou en fait la fonction de gérant ou de président, directeur général,
 président du conseil de surveillance ou membre du directoire.
 
+3. Les avantages prévus au I cessent de s'appliquer à compter de l'année au cours de laquelle l'une des conditions fixées au
+présent article et à l'article 199 terdecies A n'est plus satisfaite.
+
 IV. En cas de cession d'actions ou parts de la société nouvelle ayant ouvert droit aux avantages prévus au 1 du I, de parts
 de la société civile ou du fonds commun de placement visés au 2 du I, avant le 31 décembre de la cinquième année suivant
 celle au cours de laquelle les salariés ont souscrit les titres de la société nouvelle, le total des intérêts déduits en
@@ -87,29 +90,24 @@ aux souscriptions qui seront libérées au plus tard le 31 décembre 1999.
 VII. Les conditions d'application du présent article, notamment les obligations déclaratives des salariés et des sociétés ou
 organismes concernés, sont fixées par décret.
 
-(1) Montant périmé au 1er janvier 2002.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 199 terdecies A, 34, 92
-  - Code monétaire et financier - art. L214-39 (M)
-  - Code monétaire et financier - art. L214-40 (M)
-  - Code de la sécurité sociale. - art. L341-4 (V)
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
+  - Code monétaire et financier - art. L214-39
+  - Code monétaire et financier - art. L214-40
+  - Code de la sécurité sociale. - art. L341-4
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+**Liens**:
+
+  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 1
+  - HISTO: Edition du 1er janvier 2006
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002

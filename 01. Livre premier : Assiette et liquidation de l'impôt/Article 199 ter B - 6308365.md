@@ -5,7 +5,7 @@ le contribuable au titre de l'année au cours de laquelle les dépenses de reche
 d'impôt ont été exposées.L'excédent de crédit d'impôt constitue au profit de l'entreprise une créance sur l'Etat d'égal
 montant. Cette créance est utilisée pour le paiement de l'impôt sur le revenu dû au titre des trois années suivant celle au
 titre de laquelle elle est constatée puis, s'il y a lieu, la fraction non utilisée est remboursée à l'expiration de cette
-période. Toutefois, la créance constatée au titre de l'année de création et des deux années suivantes est immédiatement
+période. Toutefois, la créance constatée au titre de l'année de création et des quatre années suivantes est immédiatement
 remboursable aux entreprises créées à compter du 1er janvier 2004 qui remplissent les conditions mentionnées au III de
 l'article 44 sexies et dont le capital est entièrement libéré et détenu de manière continue à 50 % au moins : 
 
@@ -28,12 +28,12 @@ l'apport ;
 La fraction du crédit d'impôt recherche correspondant aux parts des personnes physiques autres que celles mentionnées au I de
 l'article 151 nonies n'est ni imputable ni restituable. 
 
-Par exception aux dispositions du premier alinéa, les entreprises ayant fait l'objet d'un redressement ou d'une liquidation
-judiciaires peuvent demander le remboursement de leur créance non utilisée à compter de la date du jugement qui a ouvert ces
-procédures. Ce remboursement est effectué sous déduction d'un intérêt appliqué à la créance restant à imputer. Cet intérêt,
-dont le taux est celui de l'intérêt légal applicable le mois suivant la demande de l'entreprise, est calculé à compter du
-premier jour du mois suivant la demande de l'entreprise jusqu'au terme des trois années suivant celle au titre de laquelle la
-créance est constatée. 
+Par exception aux dispositions du premier alinéa, les entreprises ayant fait l'objet d'une procédure de sauvegarde, d'un
+redressement ou d'une liquidation judiciaires peuvent demander le remboursement de leur créance non utilisée à compter de la
+date du jugement qui a ouvert ces procédures. Ce remboursement est effectué sous déduction d'un intérêt appliqué à la créance
+restant à imputer. Cet intérêt, dont le taux est celui de l'intérêt légal applicable le mois suivant la demande de
+l'entreprise, est calculé à compter du premier jour du mois suivant la demande de l'entreprise jusqu'au terme des trois
+années suivant celle au titre de laquelle la créance est constatée. 
 
 II. (Abrogé).
 
@@ -46,13 +46,19 @@ _Cite_:
   - CGI 244 quater B, 44 sexies, 39, 151 nonies nonies
   - Loi n°81-1 1981-01-02
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2004-304 2004-03-26
+  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Décret n°2004-304 du 26 mars 2004 - art. 1 () JORF 30 mars 2004
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
+  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V) JORF 27 juillet 2005
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 22 (V) JORF 31 décembre 2005
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
@@ -63,7 +69,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 220 B (V)
   - Code général des impôts, CGI. - art. 223 O (V)
   - Code général des impôts, CGI. - art. 244 quater B (M)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
