@@ -24,13 +24,13 @@ II. En cas de construction sans autorisation ou en infraction aux obligations r�
 ou du complément de taxe éventuellement exigibles est notifiée au trésorier payeur général par le directeur départemental de
 l'équipement ou par le maire.
 
-Le recouvrement de la taxe ou du complément de taxe, augmenté de l'amende fiscale prévue à l'article 1836, est immédiatement
+Le recouvrement de la taxe ou du complément de taxe, augmenté de l'amende fiscale prévue à l'article 1828, est immédiatement
 poursuivi contre le constructeur.
 
-III. A défaut de paiement de la taxe dans les délais impartis au I, le recouvrement de cette taxe et de l'intérêt de retard
-et la majoration prévus à l'article 1731 est poursuivi par les comptables du Trésor dans les conditions fixées au titre IV du
-livre des procédures fiscales. Il en est de même du recouvrement de la taxe ou du complément de taxe et de l'amende fiscale
-dans l'hypothèse visée au II.
+III. A défaut de paiement de la taxe dans les délais impartis au I, le recouvrement de cette taxe, de l'intérêt de retard
+prévu à l'article 1727 et de la majoration prévue à l'article 1731 est poursuivi par les comptables du Trésor dans les
+conditions fixées au titre IV du livre des procédures fiscales. Il en est de même du recouvrement de la taxe ou du complément
+de taxe et de l'amende fiscale dans l'hypothèse visée au II.
 
 IV. Le recouvrement de la taxe est garanti par le privilège prévu au 1 de l'article 1929.
 
@@ -38,16 +38,15 @@ IV. Le recouvrement de la taxe est garanti par le privilège prévu au 1 de l'ar
 
 _Cite_:
 
-  - CGI 1585 A, 1836, 1731, 1929
+  - CGI 1585, 1828, 1727, 1731, 1929
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 

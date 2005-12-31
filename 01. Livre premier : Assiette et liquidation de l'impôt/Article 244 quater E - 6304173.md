@@ -49,8 +49,8 @@ attribuées en vue de financer ces investissements.
 
 4° Les investissements réalisés par les petites et moyennes entreprises en difficulté peuvent ouvrir droit au crédit d'impôt
 prévu au 1° si elles ont reçu un agrément préalable délivré dans les conditions prévues à l'article 1649 nonies. Une
-entreprise est considérée comme étant en difficulté lorsqu'elle fait l'objet d'une procédure de redressement judiciaire ou
-lorsque sa situation financière rend imminente sa cessation d'activité.
+entreprise est considérée comme étant en difficulté lorsqu'elle fait l'objet d'une procédure de sauvegarde ou de redressement
+judiciaire ou lorsque sa situation financière rend imminente sa cessation d'activité.
 
 L'agrément mentionné au premier alinéa est accordé si l'octroi du crédit d'impôt aux investissements prévus dans le cadre du
 plan de restructuration présenté par l'entreprise n'altère pas les échanges dans une mesure contraire à l'intérêt commun.
@@ -84,15 +84,6 @@ l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces par
 IV. - Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours
 d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
-**Nota:**
-
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -103,7 +94,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V) JORF 27 juillet 2005
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
@@ -119,4 +115,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006

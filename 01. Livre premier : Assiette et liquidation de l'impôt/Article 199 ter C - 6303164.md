@@ -4,29 +4,30 @@ Le crédit d'impôt pour dépenses de formation défini à l'article 244 quater 
 de l'année au cours de laquelle l'entreprise a accru ses dépenses. S'il excède l'impôt dû, l'excédent est restitué.
 
 En cas d'inexécution partielle ou totale de conventions de formation, le crédit d'impôt obtenu à raison des actions de
-formation qui n'ont pas été réalisées est reversé, nonobstant toute disposition contraire. Ce montant est majoré de l'intérêt
-de retard prévu à l'article 1727, décompté de la date à laquelle le crédit d'impôt a été imputé ou restitué à l'entreprise
-(1).
+formation qui n'ont pas été réalisées est reversé, nonobstant toute disposition contraire.
 
 Lorsque le crédit d'impôt mentionné à l'article 244 quater C est négatif, il est pratiqué une imputation d'égal montant sur
 le ou les crédits d'impôt suivants.
-
-(1) Ces dispositions s'appliquent au titre des années 1991 et suivantes.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 244 quater C, 1727
+  - CGI 244 quater C
 
 _Modifié par_:
 
-  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 79 II, III JORF 13 avril 1996
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°96-314 1996-04-12 art. 79 III
-  - HISTO: Edition du 12 mai 1996
+  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
 
 _Cité par_:
 

@@ -33,8 +33,7 @@ Si les sommes réinvesties sont inférieures au prix de cession, le montant bén
 de la plus-value à court terme par le rapport entre le prix de cession affecté à l'acquisition du navire et la totalité de ce
 prix. Dans ce cas, la régularisation à effectuer est comprise dans le résultat imposable de l'exercice en cours à
 l'expiration du délai de dix-huit mois fixé au premier alinéa, majorée d'un montant égal au produit de cette régularisation
-par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué dans les conditions mentionnées à
-l'article 1727 A.
+par le taux de l'intérêt de retard prévu à l'article 1727.
 
 Lorsque l'entreprise visée au premier alinéa est une société soumise au régime d'imposition prévu à l'article 8, la condition
 tenant à la nature de l'activité de cette entreprise doit être également remplie par ses associés personnes morales.
@@ -65,11 +64,11 @@ exercice.
 
 _Cite_:
 
-  - CGI 1465, 1466, 1727, 1727 A, 8, 223 F, 41, 210 A à 210 C, 151 octies
+  - CGI 1465, 1466, 1727, 8, 223 F, 41, 210 A à 210 C, 151 octies
 
 _Modifié par_:
 
-  - Loi n°2003-1312 2003-12-30 art. 51 1° Finances rectificative pour 2003 JORF 31 décembre 2003
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -80,4 +79,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2006
