@@ -27,8 +27,8 @@ communes restent applicables l'année qui suit cette transformation.
 II. – Le conseil d'une communauté de communes ayant créé, créant ou gérant une zone d'activités économiques qui se situe sur
 le territoire d'une ou de plusieurs communes membres peut, à la majorité simple de ses membres, décider de se substituer à
 ces dernières pour la perception de la taxe professionnelle acquittée par les entreprises implantées dans la zone. Il peut,
-dans les mêmes conditions, décider de se substituer à ses communes membres pour percevoir la taxe professionnelle acquittée
-par les installations de production d'électricité utilisant l'énergie mécanique du vent implantées sur le territoire de ces
+dans les mêmes conditions, décider de se substituer à ses communes membres pour percevoir la taxe professionnelle afférente
+aux installations de production d'électricité utilisant l'énergie mécanique du vent implantées sur le territoire de ces
 communes à compter de la publication de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la
 politique énergétique. Pour les communautés de communes créées, ou issues de la transformation d'un établissement public de
 coopération intercommunale préexistant, à compter de la date de publication de la loi n° 99-586 du 12 juillet 1999 relative
@@ -36,6 +36,13 @@ au renforcement et à la simplification de la coopération intercommunale, seul 
 moins de 50 000 habitants ou le conseil d'une communauté de communes de plus de 50 000 habitants et dont la ou les communes
 centre ont une population inférieure à 15 000 habitants peut décider de percevoir une taxe professionnelle de zone
 d'activités économiques.
+
+Lorsque l'établissement public de coopération intercommunale décide de se substituer à ses communes membres pour la
+perception de la taxe professionnelle acquittée par les entreprises dans une zone d'activités économiques et pour la
+perception de la taxe professionnelle afférente aux installations de production d'électricité utilisant l'énergie mécanique
+du vent, il peut fixer deux taux différents pour chacun de ces régimes. Dans ce cas, et lorsqu'une installation de production
+d'électricité utilisant l'énergie mécanique du vent est implantée dans une zone d'activités économiques, les dispositions de
+la deuxième phrase du premier alinéa lui sont applicables.
 
 1° Le taux de taxe professionnelle voté par la communauté de communes en application de cette disposition ne peut, la
 première année, excéder le taux moyen de taxe professionnelle constaté l'année de la décision mentionnée au premier alinéa
@@ -51,13 +58,16 @@ commune membre et le taux communautaire sont réduits dans les conditions prévu
 2° Pour les années suivantes, le taux est fixé par le conseil de la communauté de communes dans les conditions prévues au II
 de l'article 1636 B decies.
 
-2° bis En cas d'incorporation d'une commune ou partie de commune dans une zone d'activités économiques, les dispositions du
-III de l'article 1638 quater sont applicables.
+2° bis Les dispositions du III de l'article 1638 quater sont applicables en cas d'incorporation d'une commune ou partie de
+commune dans une zone d'activités économiques ou en cas de rattachement d'une commune sur le territoire de laquelle sont
+implantées des installations de production d'électricité utilisant l'énergie mécanique du vent à un établissement public de
+coopération intercommunale faisant application de la deuxième phrase du premier alinéa du II.
 
 3° Les établissements publics de coopération intercommunale soumis aux dispositions du présent II bénéficient de la
 compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), au lieu et
 place de leurs communes membres pour les pertes de bases de taxe professionnelle résultant, dans la zone d'activités
-économiques, de l'application du troisième alinéa du II de l'article 1478.
+économiques ou pour les installations de production d'électricité utilisant l'énergie mécanique du vent de l'application du
+troisième alinéa du II de l'article 1478.
 
 Pour le calcul de cette compensation :
 
@@ -68,9 +78,10 @@ présent II ou dont la communauté de communes est issue ; ces taux sont multipl
 
 b. Les recettes fiscales à retenir la première année d'application des dispositions du présent II pour le calcul de la
 réfaction de 2 % prévue au IV bis de l'article 6 précité s'entendent du montant de la taxe professionnelle perçu par les
-communes membres, l'année précédente, dans la zone d'activités économiques ; ce montant est, le cas échéant, majoré des
-recettes fiscales perçues, la même année, par l'établissement public de coopération intercommunale qui a opté pour le régime
-fiscal prévu au présent II ou dont la communauté de communes est issue.
+communes membres, l'année précédente, dans la zone d'activités économiques ou afférent aux installations de production
+d'électricité utilisant l'énergie mécanique du vent ; ce montant est, le cas échéant, majoré des recettes fiscales perçues,
+la même année, par l'établissement public de coopération intercommunale qui a opté pour le régime fiscal prévu au présent II
+ou dont la communauté de communes est issue.
 
 4° La perception de la taxe professionnelle selon les dispositions prévues ci-dessus est applicable aux communautés de
 communes issues, dans les conditions prévues au II de l'article 51 de la loi n° 99-586 du 12 juillet 1999 précitée, de
@@ -105,11 +116,6 @@ communes dont le nombre d'habitants est supérieur à 500 000, sauf délibérati
 municipaux des communes intéressées, cette majorité devant comprendre le conseil municipal de la commune dont la population
 est supérieure à la moitié de la population totale concernée ou, à défaut, de la commune dont la population est la plus
 importante.
-
-**Nota:**
-
-NOTA : Ces dispositions sont applicables pour l'établissement de la taxe d'enlèvement des ordures ménagères due au titre des
-années 2005 et suivantes.
 
 **Liens relatifs à cet article**
 
@@ -164,4 +170,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-781 du 13 juillet 2005 - art. 39 () JORF 14 juillet 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
+  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006

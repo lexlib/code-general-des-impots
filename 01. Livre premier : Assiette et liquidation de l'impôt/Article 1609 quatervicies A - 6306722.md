@@ -58,7 +58,8 @@ conditions, garanties et sanctions que celles prévues pour la taxe de l'article
 
 2. A défaut de déclaration dans les délais, il est procédé à une taxation d'office. Le montant de la taxe établie d'office
 résulte du produit de la taxe relative au décollage de l'aéronef le plus fortement taxable du redevable par le nombre de
-décollages relevés sur le mois ou le trimestre. Les droits sont assortis des pénalités prévues à l'article 1728.
+décollages relevés sur le mois ou le trimestre. Les droits sont assortis de l'intérêt de retard prévu à l'article 1727 et de
+la majoration prévue au 1 de l'article 1728.
 
 Les éléments nécessaires à l'établissement de cette taxation sont communiqués par l'autorité responsable de la circulation
 aérienne. Les bases servant au calcul de la taxation d'office ainsi que les pénalités sont portées à la connaissance du
@@ -93,6 +94,11 @@ VII. - Le contentieux est suivi par la direction générale de l'aviation civile
 et jugées comme en matière de taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 302 bis K, 1727, 1728
+  - Code de l'environnement L571-14 à L571-16
 
 _Cité par_:
 
@@ -130,19 +136,10 @@ _Cité par_:
   - Code des transports - art. L6362-2 (V)
   - Code des transports - art. L6363-1 (V)
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
-
-_Cite_:
-
-  - CGI 302 bis K, 1728
-  - Code de l'environnement L571-14 à L571-16
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
