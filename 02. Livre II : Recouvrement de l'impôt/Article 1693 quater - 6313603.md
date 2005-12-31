@@ -8,23 +8,23 @@ Le complément de taxe exigible au vu de la déclaration mentionnée à l'articl
 
 Les exploitants d'un service de télévision qui estiment que les acomptes déjà payés au titre de l'année atteignent le montant
 de la taxe dont ils seront en définitive redevables peuvent surseoir aux paiements des acomptes suivants. Si le montant de la
-taxe est supérieur de plus de 20 % au montant des acomptes versés, l'intérêt de retard et la majoration prévus à l'article
-1731 sont applicables.
+taxe est supérieur de plus de 20 % au montant des acomptes versés, l'intérêt de retard prévu à l'article 1727 et la
+majoration prévue à l'article 1731 sont applicables.
 
-(1) Ces dispositions s'appliquent à compter du 1er janvier 1998.
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 302 bis KB, 1731
+  - CGI 302 bis KB, 1727, 1731
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1998-02-16 3P-4-98
+  - HISTO: Edition du 1er janvier 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 28 (V) JORF 30 décembre 1997
-  - Loi n°97-1239 1997-12-29 art. 28 A, D, F Finances rectificative pour 1997 en vigueur le 1er janvier 1998 JORF 30 décembre 1997
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
