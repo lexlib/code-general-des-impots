@@ -1,8 +1,8 @@
 # Article 1723 decies
 
 Conformément à l'article L. 333-11 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989
-modifiée, à défaut de paiement dans les délais impartis, l'intérêt de retard et la majoration prévus à l'article 1731 sont
-dus par le redevable du versement. 
+modifiée, à défaut de paiement dans les délais impartis, l'intérêt de retard prévu à l'article 1727 et la majoration prévue à
+l'article 1731 sont dus par le redevable du versement. 
 
 Le recouvrement, tant de la créance du Trésor que de l'intérêt de retard et de la majoration , est poursuivi par les
 comptables du Trésor dans les conditions fixées au titre IV du livre des procédures fiscales. Il est garanti par le privilège
@@ -18,28 +18,20 @@ b. Les titulaires successifs de l'autorisation de construire ainsi que leurs aya
 acquis les droits sur l'immeuble à construire en vertu d'un contrat régi par les articles L. 261-9 à L. 261-22 du code de la
 construction et de l'habitation.
 
-(1) Les dispositions des articles 1723 octies à 1723 quaterdecies demeurent applicables dans les communes où un plafond légal
-de densité était institué le 31 décembre 1999, voir le II de l'article 50 de la loi n° 2000-1208 du 13 décembre 2000. Les
-références au code de l'urbanisme sont celles dans leur rédaction antérieure à l'entrée en vigueur de cette loi).
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1731, 1929 1
-  - Code de la construction L261-9 à L261-22
-  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990
+  - CGI 1727, 1731, 1929
+  - Loi n°89-935 1989-12-29 art. 118
   - Code de l'urbanisme - art. L112-2 (M)
   - Code de l'urbanisme - art. L333-11 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - Code de la construction et de l'habitation L261-9 à L261-22
 
 _Modifié par_:
 
-  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
