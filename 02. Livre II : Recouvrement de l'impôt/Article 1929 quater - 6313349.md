@@ -18,9 +18,8 @@ direction générale de la comptabilité publique ;
 2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes,
 ainsi que pour les impôts directs et taxes assimilées recouvrés par les comptables de la direction générale des impôts.
 
-4. La publicité est obligatoire lorsque les sommes dues par un redevable à un même poste comptable ou service assimilé et
-susceptibles d'être inscrites dépassent 12 200 euros au dernier jour d'un trimestre civil. Les sommes qui ne dépassent pas le
-montant minimum peuvent également être inscrites.
+4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre civil, par un redevable à un même poste
+comptable ou service assimilé et susceptibles d'être inscrites demeurent impayées.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le
 présent article à la charge de l'administration, quel que soit le montant du paiement.
@@ -30,35 +29,31 @@ mois au moins après le paiement.
 
 6. Les frais de l'inscription du privilège sont à la charge du Trésor.
 
-7. En cas de redressement ou de liquidation judiciaires du redevable ou de liquidation des biens du redevable, ou d'un tiers
-tenu légalement au paiement des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège pour les créances
-qui étaient soumises à titre obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été régulièrement
-requise à l'encontre du redevable.
+7. En cas de procédures de sauvegarde, de redressement ou de liquidation judiciaires du redevable ou de liquidation des biens
+du redevable, ou d'un tiers tenu légalement au paiement des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son
+privilège pour les créances qui étaient soumises à titre obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription
+n'a pas été régulièrement requise à l'encontre du redevable.
 
 8. Les inscriptions prises en application des 1 à 5 se prescrivent par quatre ans, sauf renouvellement.
+
+8 bis. Le comptable compétent demande, dans un délai d'un mois, la radiation totale de l'inscription devenue sans objet, dès
+lors que le débiteur s'est acquitté de sa dette.
 
 9. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation
 sont fixées par un décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et du garde des
 sceaux, ministre de la justice.
 
-**Nota:**
-
-NOTA : Ces dispositions entrent en vigueur à des dates fixées par décret et au plus tard le 1er janvier 2005.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1647 B sexies, 1679 quinquies
 
 _Modifié par_:
 
-  - Loi - art. 37 (V) JORF 31 décembre 2003
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
+  - Loi n°2005-845 du 26 juillet 2005 - art. 175 () JORF 27 juillet 2005
+  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V) JORF 27 juillet 2005
 
-**Liens**:
+_Codifié par_:
 
-  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 37 B
-  - HISTO: Edition du 1er janvier 2004
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
@@ -71,3 +66,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 396 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 416 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 416 ter (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
