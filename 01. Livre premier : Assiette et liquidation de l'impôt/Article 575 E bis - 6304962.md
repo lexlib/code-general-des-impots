@@ -18,7 +18,7 @@ dans les départements de Corse est fixé conformément au tableau ci-après :
 
 GROUPE DE PRODUITS : Cigarettes
 
-TAUX NORMAL (en %) : 35
+TAUX NORMAL (en %) : 36,5
 
 GROUPE DE PRODUITS : Cigares
 
@@ -40,7 +40,7 @@ GROUPE DE PRODUITS : Tabacs à mâcher
 
 TAUX NORMAL (en %) : 13.
 
-II. - Pour les cigarettes, le prix de vente au détail appliqué dans les départements de Corse est au moins égal à 68 % des
+II. - Pour les cigarettes, le prix de vente au détail appliqué dans les départements de Corse est au moins égal à 70 % des
 prix de vente continentaux des mêmes produits.
 
 Pour les tabacs fine coupe destinés à rouler les cigarettes, les autres tabacs à fumer, les tabacs à priser et les tabacs à
@@ -73,7 +73,8 @@ VI. - Les unités de conditionnement doivent être revêtues des mentions prescr
 
 _Modifié par_:
 
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
+  - Loi n°2005-1720 2005-12-30 art. 96 I, III Finances rectificative pour 2005 JORF 31 décembre 2005 en vigueur le 2 janvier 2006
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 96 (V) JORF 31 décembre 2005 en vigueur le 2 janvier 2006
 
 _Cité par_:
 
@@ -117,4 +118,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2006
