@@ -60,8 +60,8 @@ frais par le directeur départemental de l'agriculture et de la forêt précisan
 
 II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, sous réserve que l'acquéreur prenne, dans l'acte
 d'acquisition, l'engagement, pour lui et ses ayants cause à titre gratuit, de justifier, au plus tard au terme d'un délai
-d'un an à compter de la date du transfert de propriété, que le bien acquis a été donné à bail à long terme à un jeune
-agriculteur bénéficiaire des aides à l'installation.
+d'un an à compter de la date du transfert de propriété, que le bien acquis a été donné à bail à long terme ou à bail cessible
+à un jeune agriculteur bénéficiaire des aides à l'installation.
 
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 99 000 euros.
 
@@ -122,7 +122,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 89 () JORF 31 décembre 2005
+  - Loi n°2006-11 du 5 janvier 2006 - art. 2 () JORF 6 janvier 2006
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
