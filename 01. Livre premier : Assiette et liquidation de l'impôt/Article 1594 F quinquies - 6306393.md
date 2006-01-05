@@ -60,8 +60,8 @@ frais par le directeur départemental de l'agriculture et de la forêt précisan
 
 II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, sous réserve que l'acquéreur prenne, dans l'acte
 d'acquisition, l'engagement, pour lui et ses ayants cause à titre gratuit, de justifier, au plus tard au terme d'un délai
-d'un an à compter de la date du transfert de propriété, que le bien acquis a été donné à bail à long terme à un jeune
-agriculteur bénéficiaire des aides à l'installation.
+d'un an à compter de la date du transfert de propriété, que le bien acquis a été donné à bail à long terme ou à bail cessible
+à un jeune agriculteur bénéficiaire des aides à l'installation.
 
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 99 000 euros.
 
@@ -101,17 +101,25 @@ coopératives de production d'habitations à loyers modérés ainsi que par des 
 _Cite_:
 
   - CGI 257, 1594-0 G, 1465 A
+  - Code rural R343-9, R343-13, L128-4 à L128-7
   - Décret n°55-22 1955-01-04 art. 28
   - Loi n°69-1168 1969-12-26
   - Décret n°94-1139 1994-12-26
   - Code du domaine de l'Etat - art. L60 (Ab)
   - Code de l'urbanisme - art. L130-2 (M)
   - Code de la construction et de l'habitation. - art. L615-1 (M)
-  - Code rural R343-9, R343-13, L128-4 à L128-7
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 89 () JORF 31 décembre 2005
+  - Loi n°2006-11 du 5 janvier 2006 - art. 2 () JORF 6 janvier 2006
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
@@ -119,7 +127,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 sexies (V)
   - Code général des impôts, CGI. - art. 1754 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 251 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
