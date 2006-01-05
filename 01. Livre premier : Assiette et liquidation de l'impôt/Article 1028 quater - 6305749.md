@@ -1,25 +1,19 @@
 # Article 1028 quater
 
-Les conventions conclues en application des premier et deuxième alinéas de l'article L. 142-6 du code rural sont exonérées
-des droits d'enregistrement.
-
-**Nota:**
-
-Nota : Loi 2004-1485 2004-12-30 art. 95 IV : Ces dispositions s'appliquent aux conventions conclues et actes passés à compter
-du 1er janvier 2006 lorsqu'ils sont obligatoirement déclarés ou soumis à la formalité de l'enregistrement, et dans les autres
-cas, lorsque leur présentation volontaire à la formalité intervient à compter de cette date.
+Les conventions conclues en application du premier alinéa de l'article L. 142-6 et de l'article L. 144-6 du code rural sont
+exonérées des droits d'enregistrement.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L142-6
+  - Code rural L144-6
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
   - PILOTE_SUIVEUR: Code rural et de la pêche maritime - art. L142-6 (VD)
+  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Loi n°2004-1485 2004-12-30 art. 95 I D Finances rectificative pour 2004 JORF 31 décembre 2004
+  - Loi n°2006-11 du 5 janvier 2006 - art. 98 () JORF 6 janvier 2006
