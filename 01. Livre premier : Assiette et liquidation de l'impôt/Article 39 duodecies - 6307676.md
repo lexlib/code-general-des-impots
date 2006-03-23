@@ -31,6 +31,10 @@ de ceux qui ont été différés en contravention aux dispositions de l'article 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par
 priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
+Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis
+aux règles de l'article L. 142-4, de l'article L. 143-7, de l'article L. 441-8 du code des assurances, ou du VII de l'article
+108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, constituent un portefeuille distinct.
+
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif ou d'une
 scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport
 ou de scission constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B.
@@ -93,13 +97,15 @@ l'application du b du 2.
 
 _Cite_:
 
-  - CGI 38, 39 B, 210 B, 202 ter, 239 nonies
+  - CGI 38, 39 B, 210 B, 239 nonies, 202 ter
+  - Loi n°2003-775 2003-08-21 art. 108
   - Code monétaire et financier - art. L313-7 (M)
   - Code monétaire et financier - art. L432-6 (M)
+  - Code des assurances - art. L441-8 (M)
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (V) JORF 31 décembre 2005
+  - Ordonnance n°2006-344 du 23 mars 2006 - art. 2 () JORF 24 mars 2006
 
 _Cité par_:
 
