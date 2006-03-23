@@ -9,17 +9,18 @@ salariés ;
 b. Des dépenses de formation engagées en faveur des salariés de l'entreprise bénéficiant d'un congé parental d'éducation dans
 les conditions prévues à l'article L. 122-28-1 du code du travail ;
 
-c. Des rémunérations versées par l'entreprise à ses salariés bénéficiant d'un congé dans les conditions prévues aux articles
+c. Des dépenses de formation engagées par l'entreprise en faveur de nouveaux salariés recrutés à la suite d'une démission ou
+d'un licenciement pendant un congé parental d'éducation mentionné à l'article L. 122-28-1 du code du travail, lorsque cette
+formation débute dans les trois mois de l'embauche et dans les six mois qui suivent le terme de ce congé ;
+
+d. Des rémunérations versées par l'entreprise à ses salariés bénéficiant d'un congé dans les conditions prévues aux articles
 L. 122-25-4, L. 122-26 et L. 122-28-1 et aux deux premiers alinéas de l'article L. 122-28-8 du code du travail ;
 
-d. Des dépenses visant à indemniser les salariés de l'entreprise qui ont dû engager des frais exceptionnels de garde
+e. Des dépenses visant à indemniser les salariés de l'entreprise qui ont dû engager des frais exceptionnels de garde
 d'enfants à la suite d'une obligation professionnelle imprévisible survenant en dehors des horaires habituels de travail,
 dans la limite des frais réellement engagés ;
 
-e. 
-
-f. Des dépenses engagées au titre de l'aide financière de l'entreprise mentionnée à l'article L. 129-13 du code du travail
-(1).
+f. Des dépenses engagées au titre de l'aide financière de l'entreprise mentionnée à l'article L. 129-13 du code du travail.
 
 II. - Les subventions publiques reçues par les entreprises à raison des dépenses ouvrant droit au crédit d'impôt sont
 déduites des bases de calcul de ce crédit.
@@ -36,26 +37,11 @@ l'article 156.
 
 IV. - Un décret fixe les conditions d'application du présent article.
 
-**Nota:**
-
-NOTA : (1) : Loi 2005-841 2005-07-26 art. 36 IV : le crédit d'imp<cb>ts prévu au f. du I s'applique aux dépenses engagées à
-compter du 1er janvier 2006.
-
-</cb>
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
-  - Code du travail - art. L122-28-1 (M)
-  - Code du travail - art. L122-28-8 (AbD)
-  - Code du travail - art. L129-13 (M)
-  - Code de la santé publique - art. L2324-1 (M)
 
 _Modifié par_:
 
-  - Loi n°2005-841 du 26 juillet 2005 - art. 8 () JORF 27 juillet 2005
+  - Loi n°2006-340 du 23 mars 2006 - art. 12 () JORF 24 mars 2006
 
 _Cité par_:
 
