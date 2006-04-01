@@ -1,9 +1,9 @@
 # Article 244 quater M
 
 I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
-octies et 44 decies peuvent bénéficier d'un crédit d'impôt égal au produit du nombre d'heures passées par le chef
-d'entreprise en formation par le taux horaire du salaire minimum de croissance établi en exécution des articles L. 141-2 à L.
-141-7 du code du travail.
+octies, 44 octies A, et 44 decies peuvent bénéficier d'un crédit d'impôt égal au produit du nombre d'heures passées par le
+chef d'entreprise en formation par le taux horaire du salaire minimum de croissance établi en exécution des articles L. 141-2
+à L. 141-7 du code du travail.
 
 II. - Le crédit d'impôt est plafonné à la prise en compte de quarante heures de formation par année civile.
 
@@ -17,12 +17,12 @@ participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 _Cite_:
 
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies quinquies, 156
+  - CGI 44 sexies, 44 sexies A, 44 octies, 44 octies A, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies quinquies, 156
   - Code du travail L141-2 à L141-7
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-882 du 2 août 2005 - art. 3 (V) JORF 3 août 2005
+  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
 
 _Cité par_:
 
@@ -38,4 +38,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
