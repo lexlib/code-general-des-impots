@@ -1,9 +1,9 @@
 # Article 244 quater N
 
 I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
-octies, 44 decies et 44 undecies qui emploient des salariés réservistes ayant souscrit un engagement à servir dans la réserve
-opérationnelle au titre des articles 8 et 9 de la loi n° 99-894 du 22 octobre 1999 portant organisation de la réserve
-militaire et du service de défense peuvent bénéficier d'un crédit d'impôt.
+octies, 44 octies A, 44 decies et 44 undecies qui emploient des salariés réservistes ayant souscrit un engagement à servir
+dans la réserve opérationnelle au titre des articles 8 et 9 de la loi n° 99-894 du 22 octobre 1999 portant organisation de la
+réserve militaire et du service de défense peuvent bénéficier d'un crédit d'impôt.
 
 Ce crédit d'impôt est égal à 25 % de la différence entre :
 
@@ -30,32 +30,23 @@ sociétés, le crédit d'impôt peut être utilisé par les associés proportion
 groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à
 l'exploitation au sens du 1° bis du I de l'article 156.
 
-**Nota:**
-
-NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 108 V, VI :
-
-V. - Un décret fixe les conditions d'application des I à IV, et notamment les obligations déclaratives incombant aux
-entreprises concernées.
-
-VI. - Les dispositions des I à IV s'appliquent aux dépenses exposées entre le 1er janvier 2006 et le 31 décembre 2007.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 44 undecies, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
+  - CGI 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
   - Loi n°99-894 du 22 octobre 1999 - art. 8 (M)
   - Loi n°99-894 du 22 octobre 1999 - art. 9 (Ab)
 
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 223 O (V)
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 94 (V)
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 108 (V) JORF 31 décembre 2005
+  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
+
+_Cité par_:
+
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 94 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 223 O (V)
