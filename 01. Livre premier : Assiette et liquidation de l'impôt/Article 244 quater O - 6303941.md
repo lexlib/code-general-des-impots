@@ -1,8 +1,8 @@
 # Article 244 quater O
 
 I. - Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 septies, 44 octies, 44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la
-somme :
+sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt égal
+à 10 % de la somme :
 
 1° Des salaires et charges sociales afférents aux salariés directement et exclusivement chargés de la conception de nouveaux
 produits dans un des secteurs ou métiers mentionnés au III et aux ingénieurs et techniciens de production chargés de la
@@ -53,28 +53,16 @@ utilisé par les associés proportionnellement à leurs droits dans ces sociét�
 de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
 
-**Nota:**
-
-NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 45 V, VI :
-
-"V. - Un décret fixe les conditions d'application des I à IV et notamment les obligations déclaratives incombant aux
-entreprises concernées.
-
-"VI - Les dispositions du présent article s'appliquent aux crédits d'impôt calculés au titre des dépenses exposées entre le
-1er janvier 2006 et le 31 décembre 2007."
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 decies, 44 undecies, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 156
+  - CGI 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 156
   - Loi n°2005-882 2005-08-02 art. 23
-  - Règlement 69-2001 CE 2001-01-12
-  - Traité de Rome 1957-03-25 art. 87, art. 88
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 45 (V) JORF 31 décembre 2005
+  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
 
 _Cité par_:
 
@@ -92,4 +80,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
