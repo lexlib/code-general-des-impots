@@ -8,9 +8,9 @@ Cette exonération s'applique au titre de la même période aux personnes morale
 application de l'article 208 quinquies.
 
 Sont également exonérées de l'imposition forfaitaire annuelle prévue à l'article 223 septies les sociétés dont les résultats
-sont exonérés ou bénéficient d'un allégement d'impôt sur les sociétés par application de l'article 44 octies, lorsqu'elles
-exercent l'ensemble de leur activité dans des zones franches urbaines. Cette exonération s'applique au titre des périodes et
-dans les proportions mentionnées au premier alinéa de cet article.
+sont exonérés ou bénéficient d'un allégement d'impôt sur les sociétés par application des article 44 octies et 44 octies A,
+lorsqu'elles exercent l'ensemble de leur activité dans des zones franches urbaines. Cette exonération s'applique au titre des
+périodes et dans les proportions mentionnées au premier alinéa de cet article.
 
 **Liens relatifs à cet article**
 
@@ -24,8 +24,8 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 1er janvier 2007
 
 _Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 33 (V) JORF 5 août 2003
+  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006

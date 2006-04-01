@@ -1,8 +1,8 @@
 # Article 244 quater H
 
 I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 octies et 44 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles exposent des dépenses de
-prospection commerciale afin d'exporter des services, des biens et des marchandises.
+sexies, 44 sexies A, 44 octies, 44 octies A, et 44 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles exposent des
+dépenses de prospection commerciale afin d'exporter des services, des biens et des marchandises.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont
 soit réalisé un chiffre d'affaires inférieur à 50 millions d'euros au cours de chaque période d'imposition ou exercice clos
@@ -66,28 +66,24 @@ l'article 156.
 
 Le crédit d'impôt ne peut être obtenu qu'une fois par l'entreprise.
 
-**Nota:**
-
-NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 52 II, art. 53 III : Ces dispositions s'appliquent aux dépenses exposées
-pendant les vingt-quatre mois qui suivent le recrutement de la personne mentionnée au III de l'article 244 quater H du code
-général des impôts ou la signature de la convention prévue à l'article L. 122-7 du code du service national intervenant à
-compter du ler janvier 2006.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 39, 223 A, 206, 239 quater, 8, 238 bis L, 239 quater B, 239 quater C, 156
+  - CGI 44 sexies, 44 sexies A, 44 octies, 44 octies A, 39, 223 A, 206, 239 quater, 8, 238 bis L, 239 quater B, 239 quater C, 156
   - Loi n°90-1258 1990-12-31
   - Code du service national - art. L122-1 (V)
   - Code du service national - art. L122-12 (M)
   - Code du service national - art. L122-7 (M)
   - Loi n°1901-07-01
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
+
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 52 (V) JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 53 (V) JORF 31 décembre 2005
+  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
 
 _Cité par_:
 
@@ -97,7 +93,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 93-0 A (Ab)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YU (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
