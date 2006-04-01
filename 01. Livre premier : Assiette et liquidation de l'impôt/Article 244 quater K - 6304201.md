@@ -1,8 +1,8 @@
 # Article 244 quater K
 
 I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 octies, 44 decies et 44 undecies qui exposent des dépenses d'équipement en nouvelles technologies
-peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses.
+sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies et 44 undecies qui exposent des dépenses d'équipement en nouvelles
+technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont
 réalisé soit un chiffre d'affaires inférieur à 50 millions d'euros au cours de l'année au titre de laquelle les dépenses
@@ -50,20 +50,15 @@ l'article 156.
 
 VI. - Un décret fixe les conditions d'application du présent article.
 
-**Nota:**
-
-Nota : Loi 2004-1485 2004-12-30 art. 46 II : Ces dispositions s'appliquent aux dépenses exposées entrent le 1er janvier 2005
-et le 31 décembre 2007.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 44 undecies, 39, 223 A, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156, 46 II
+  - CGI 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 39, 223 A, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 46 (V) JORF 31 décembre 2004 Rectificatif JORF 1er février 2005
+  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
 
 _Cité par_:
 
@@ -71,4 +66,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2007
