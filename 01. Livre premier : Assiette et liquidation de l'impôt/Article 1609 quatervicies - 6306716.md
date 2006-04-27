@@ -75,7 +75,14 @@ taxe de l'article 302 bis K.
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et
 jugées selon les règles applicables à la taxe de l'aviation civile.
 
-VI. - (abrogé)
+VI. - Les dispositions des I à V du présent article sont applicables aux aérodromes appartenant à l'Etat en Polynésie
+française et en Nouvelle-Calédonie, sous réserve des dispositions particulières suivantes :
+
+- le nombre des unités de trafic prévues au I est supérieur à 400 000 ;
+
+- sur un même aérodrome, des tarifs différents peuvent être fixés pour les vols intérieurs en fonction de leur destination ;
+
+- la limite inférieure des tarifs est fixée à 0,50 euros par passager effectuant un vol intérieur à la Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -128,13 +135,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 157 () JORF 31 décembre 2005
+  - Ordonnance n°2006-482 du 26 avril 2006 - art. 1 () JORF 28 avril 2006
 
 _Cite_:
 
   - CGI 302 bis K
-  - Règlement CEE 2408/92 1992-07-23 art. 2 (Conseil)
+  - Règlement CEE 2408/92 1992-07-23 art. 2
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
