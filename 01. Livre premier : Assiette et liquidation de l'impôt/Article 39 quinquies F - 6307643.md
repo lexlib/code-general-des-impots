@@ -1,9 +1,10 @@
 # Article 39 quinquies F
 
-Les entreprises qui construisent ou font construire des immeubles destinés à satisfaire aux obligations prévues par la loi n°
-61-842 du 2 août 1961 modifiée relative à la lutte contre les pollutions atmosphériques et les odeurs et par la loi n°
-96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie peuvent pratiquer, dès achèvement de ces
-constructions un amortissement exceptionnel égal à 50 % de leur prix de revient.
+Les entreprises qui construisent ou font construire des immeubles destinés à satisfaire aux obligations prévues (par la loi
+n° 61-842 du 2 août 1961 modifiée relative à la lutte contre les pollutions atmosphériques et les odeurs et) (1) par la loi
+n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie et par la loi n° 2006-686 du 13 juin 2006
+relative à la transparence et à la sécurité en matière nucléaire peuvent pratiquer, dès achèvement de ces constructions un
+amortissement exceptionnel égal à 50 % de leur prix de revient.
 
 La valeur résiduelle des immeubles est amortissable sur leur durée normale d'utilisation.
 
@@ -13,20 +14,25 @@ s'incorporent à des installations de production existant au 31 décembre 1980.
 Les constructions répondant aux critères définis au premier alinéa et achevées avant le 1er janvier 2007 peuvent faire
 l'objet d'un amortissement exceptionnel sur douze mois à condition qu'elles s'incorporent à des installations de production.
 
+**Nota:**
+
+NOTA : (1) dispositions supprimées à compter du 1er janvier 2008.
+
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
 
 _Cite_:
 
   - Loi n°61-842 1961-08-02
   - Loi n°96-1236 1996-12-30
+  - Loi n°2006-686 2006-06-13
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 111 () JORF 31 décembre 2005
+  - Loi n°2006-686 du 13 juin 2006 - art. 62 (V) JORF 14 juin 2006
 
 _Cité par_:
 
