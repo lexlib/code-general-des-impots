@@ -10,7 +10,7 @@ l'article R. 331-1 du même code pour la construction de logements visés aux 3�
 Le taux réduit de 5,5 % s'applique également aux indemnités de toute nature perçues par les personnes qui exercent sur ces
 immeubles un droit de propriété ou de jouissance.
 
-2. Les livraisons à soi-même mentionnées aux neuvième et dixième alinéas du c du 1 du 7° de l'article 257.
+2. Les livraisons à soi-même mentionnées aux neuvième à douzième alinéas du c du 1 du 7° de l'article 257.
 
 3. Les ventes de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
 construction et de l'habitation et qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R.
@@ -29,35 +29,43 @@ dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissa
 immobilière, qui font l'objet, dans des conditions fixées par décret, d'une convention et d'une décision d'agrément prise par
 le représentant de l'Etat dans le département.
 
-4. Les livraisons à soi-même mentionnées au 7° bis de l'article 257.
+3 quater Les ventes et apports de logements aux structures d'hébergement temporaire ou d'urgence bénéficiant d'une aide de
+l'Etat et destinées aux personnes visées au II de l'article L. 301-1 du code de la construction et de l'habitation.
+
+3 quinquies Les ventes et apports de logements sociaux à usage locatif à l'association mentionnée à l'article 116 de la loi
+de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) lorsqu'elle a conclu avec l'Etat une convention en application du 4°
+de l'article L. 351-2 du code de la construction et de l'habitation.
+
+4. Les livraisons à soi-même mentionnées au 7° bis et au 7° quater de l'article 257.
 
 5. Les ventes de droits immobiliers démembrés de logements sociaux neufs à usage locatif mentionnés aux 2 et 3, lorsque
 l'usufruitier bénéficie d'un prêt prévu à l'article R. 331-1 du code de la construction et de l'habitation et a conclu avec
 l'Etat une convention en application du 3° et du 5° de l'article L. 351-2 du même code.
 
+6. Les ventes et livraisons à soi-même d'immeubles au sens du 7° de l'article 257, à usage de résidence principale, destinés
+à des personnes physiques dont les ressources ne dépassent pas de plus de 30 % les plafonds de ressources prévus à l'article
+L. 441-1 du code de la construction et de l'habitation et situés dans des quartiers faisant l'objet d'une convention prévue à
+l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine
+ou entièrement situés à une distance de moins de 500 mètres de la limite de ces quartiers.
+
+7. Les apports des immeubles sociaux neufs aux sociétés civiles immobilières d'accession progressive à la propriété effectués
+dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation.
+
+II. (abrogé)
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°84-595 1984-07-12
-  - CGI 1594-0 G, 257
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-  - Code de la construction et de l'habitation. - art. L411-2 (M)
-  - Code de la construction et de l'habitation. - art. R331-1 (M)
-  - Code de la construction et de l'habitation. - art. R331-3 (M)
-  - Code de la construction et de l'habitation. - art. R331-6 (M)
 
 _Cité par_:
 
   - Arrêté du 16 mars 1992 - art. 2 bis (Ab)
-  - Arrêté du 3 mai 2002 - art. Annexe I (Ab)
   - Arrêté du 29 avril 2009 - art. 3 (Ab)
+  - Arrêté du 1er août 2014 - art. 3 (V)
+  - Arrêté du 30 septembre 2014 (V)
+  - Arrêté du 3 mai 2002 - art. Annexe I (Ab)
   - Décret n°2010-1269 du 26 octobre 2010 - art. 2 (V)
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
   - Décret n°2011-544 du 18 mai 2011 - art. 4 (V)
-  - Arrêté du 1er août 2014 - art. 3 (V)
   - Loi n°2014-891 du 8 août 2014 - art. 27 (V)
-  - Arrêté du 30 septembre 2014 (V)
   - Arrêté du 30 septembre 2014 - art. 6 (V)
   - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
   - Décret n°2019-831 du 3 août 2019 - art.
@@ -80,10 +88,28 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 70 quinquies B (P)
   - Livre des procédures fiscales - art. L176 (VT)
 
+_Cite_:
+
+  - CGI 1594-0 G, 257
+  - Loi n°84-595 1984-07-12
+  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+  - Loi n°2003-710 2003-08-01 art. 10
+  - Code de la construction et de l'habitation. - art. L301-1 (M)
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation. - art. L411-2 (M)
+  - Code de la construction et de l'habitation. - art. L441-1 (M)
+  - Code de la construction et de l'habitation. - art. L443-6-2 (V)
+  - Code de la construction et de l'habitation. - art. R331-1 (M)
+  - Code de la construction et de l'habitation. - art. R331-3 (M)
+  - Code de la construction et de l'habitation. - art. R331-6 (M)
+
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 88 () JORF 31 décembre 2005
+  - Loi n°2006-872 du 13 juillet 2006 - art. 102 () JORF 16 juillet 2006
+  - Loi n°2006-872 du 13 juillet 2006 - art. 28 () JORF 16 juillet 2006
+  - Loi n°2006-872 du 13 juillet 2006 - art. 34 () JORF 16 juillet 2006
+  - Loi n°2006-872 du 13 juillet 2006 - art. 73 () JORF 16 juillet 2006
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
