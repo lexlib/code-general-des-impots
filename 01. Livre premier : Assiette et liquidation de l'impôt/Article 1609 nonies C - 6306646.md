@@ -165,16 +165,21 @@ et, le cas échéant, des compensations prévues au B de l'article 4 de la loi n
 en oeuvre du pacte de relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la
 zone franche de Corse, versées antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi
 de finances pour 1987 (n° 86-1317 du 30 décembre 1986). L'attribution de compensation est majorée d'une fraction de la
-contribution d'une commune définie à l'article L302-8 du code de la construction et de l'habitation. Cette fraction est égale
-à la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal de la commune. Cette attribution est
-recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+contribution d'une commune définie à l'article L302-8 du code de la construction et de l'habitation, à condition que
+l'établissement public de coopération intercommunale ait, dans les conditions prévues à l'article L. 302-7 du même code,
+perçu le prélèvement visé à cet article et que cette fraction soit affectée à la réalisation d'opérations de logements
+locatifs sociaux. Cette fraction est égale à la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal
+de la commune. Cette attribution est recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de
+charges.
 
 Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de coopération intercommunale faisant application
 du régime fiscal du présent article pour adhérer à un autre établissement public de coopération intercommunale faisant
 application du même régime fiscal, le produit de taxe professionnelle est majoré du montant perçu, l'année de cette
 modification, par l'établissement public de coopération intercommunale auquel elle a cessé d'appartenir, au titre de la part
 de la dotation de compensation prévue à l'article L. 5211-28-1 du code général des collectivités territoriales correspondant
-au montant antérieurement versé en application du I du D de l'article 44 de la loi de finances pour 1999 précitée.
+au montant antérieurement versé en application du I du D de l'article 44 de la loi de finances pour 1999 précitée. L'organe
+délibérant de l'établissement public de coopération intercommunale transmet chaque année au représentant de l'Etat dans le
+département un rapport sur l'application de la deuxième phrase du premier alinéa du présent 2°.
 
 2° bis Abrogé
 
@@ -308,6 +313,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5216-2 (Ab)
   - Code général des collectivités territoriales - art. L5334-8 (M)
   - Code général des collectivités territoriales - art. L5341-2 (M)
+  - Code de la construction et de l'habitation. - art. L302-7 (M)
   - Code de la construction et de l'habitation. - art. L302-8 (M)
 
 _Cité par_:
@@ -403,9 +409,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 97 () JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - Loi n°2006-872 du 13 juillet 2006 - art. 22 () JORF 16 juillet 2006
