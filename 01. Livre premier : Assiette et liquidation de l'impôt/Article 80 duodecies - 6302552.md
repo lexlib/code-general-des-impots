@@ -27,7 +27,12 @@ rupture de son contrat de travail, ou 50 % du montant de l'indemnité si ce seui
 le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités ;
 
 b) Soit le montant de l'indemnité de mise à la retraite prévue par la convention collective de branche, par l'accord
-professionnel ou interprofessionnel ou, à défaut, par la loi.
+professionnel ou interprofessionnel ou, à défaut, par la loi ;
+
+5° La fraction des indemnités de départ volontaire versées aux salariés dans le cadre d'un accord collectif de gestion
+prévisionnelle des emplois et des compétences dans les conditions prévues au II de l'article L. 320-2 du code du travail,
+n'excédant pas quatre fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du
+versement des indemnités.
 
 2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions,
 aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des
@@ -36,17 +41,9 @@ imposable.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 81, 80 ter
-  - Code du travail - art. L122-14-4 (M)
-  - Code du travail - art. L321-4 (M)
-  - Code du travail - art. L321-4-1 (M)
-  - Code de la sécurité sociale. - art. L241-3 (M)
-
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 56 () JORF 31 décembre 2005
+  - Loi n°2006-1640 du 21 décembre 2006 - art. 16 () JORF 22 décembre 2006
 
 _Cité par_:
 
@@ -56,4 +53,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
