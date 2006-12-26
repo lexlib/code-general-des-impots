@@ -28,37 +28,37 @@ l'apport ;
 La fraction du crédit d'impôt recherche correspondant aux parts des personnes physiques autres que celles mentionnées au I de
 l'article 151 nonies n'est ni imputable ni restituable. 
 
-Par exception aux dispositions du premier alinéa, les entreprises ayant fait l'objet d'une procédure de sauvegarde, d'un
-redressement ou d'une liquidation judiciaires peuvent demander le remboursement de leur créance non utilisée à compter de la
-date du jugement qui a ouvert ces procédures. Ce remboursement est effectué sous déduction d'un intérêt appliqué à la créance
-restant à imputer. Cet intérêt, dont le taux est celui de l'intérêt légal applicable le mois suivant la demande de
-l'entreprise, est calculé à compter du premier jour du mois suivant la demande de l'entreprise jusqu'au terme des trois
-années suivant celle au titre de laquelle la créance est constatée. 
+Par exception aux dispositions de la troisième phrase du premier alinéa, les entreprises ayant fait l'objet d'une procédure
+de sauvegarde, d'un redressement ou d'une liquidation judiciaires peuvent demander le remboursement de leur créance non
+utilisée à compter de la date du jugement qui a ouvert ces procédures. Ce remboursement est effectué sous déduction d'un
+intérêt appliqué à la créance restant à imputer. Cet intérêt, dont le taux est celui de l'intérêt légal applicable le mois
+suivant la demande de l'entreprise, est calculé à compter du premier jour du mois suivant la demande de l'entreprise jusqu'au
+terme des trois années suivant celle au titre de laquelle la créance est constatée. 
+
+Par exception aux dispositions de la troisième phrase du premier alinéa, la créance constatée par les petites et moyennes
+entreprises mentionnées à l'article 220 decies au titre des années au cours desquelles elles bénéficient de la réduction
+d'impôt prévue au même article ou celle constatée par les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A
+est immédiatement remboursable (1). 
 
 II. (Abrogé).
 
 III. (Périmé).
 
+**Nota:**
+
+(1) Ces dispositions s'appliquent aux créances déterminées à partir du crédit d'impôt recherche calculé au titre des dépenses
+exposées à compter du 1er janvier 2006.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 244 quater B, 44 sexies, 39, 151 nonies nonies
+  - CGI 244 quater B, 44 sexies, 39, 151 nonies
   - Loi n°81-1 1981-01-02
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
-  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V) JORF 27 juillet 2005
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 22 (V) JORF 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°2006-356 2006-03-24
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 13 (V) JORF 27 décembre 2006
 
 _Cité par_:
 
@@ -69,3 +69,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 220 B (V)
   - Code général des impôts, CGI. - art. 223 O (VD)
   - Code général des impôts, CGI. - art. 244 quater B (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
