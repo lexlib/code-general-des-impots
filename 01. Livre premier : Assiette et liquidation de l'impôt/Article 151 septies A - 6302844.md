@@ -11,8 +11,9 @@ détenus par un contribuable qui exerce son activité professionnelle dans le ca
 bénéfices sont, en application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu et qui sont considérés
 comme des éléments d'actif affectés à l'exercice de la profession au sens du I de l'article 151 nonies ;
 
-3° Dans l'année suivant la cession, le cédant doit cesser toute fonction dans l'entreprise individuelle cédée ou dans la
-société ou le groupement dont les droits ou parts sont cédés et faire valoir ses droits à la retraite ;
+3° Le cédant cesse toute fonction dans l'entreprise individuelle cédée ou dans la société ou le groupement dont les droits ou
+parts sont cédés et fait valoir ses droits à la retraite, soit dans l'année suivant la cession, soit dans l'année précédant
+celle-ci si ces événements sont postérieurs au 31 décembre 2005 ;
 
 4° Le cédant ne doit pas détenir, directement ou indirectement, plus de 50 % des droits de vote ou des droits dans les
 bénéfices sociaux de l'entreprise cessionnaire ;
@@ -28,6 +29,9 @@ des fonds communs de placement à risques, des sociétés de développement rég
 des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien
 de dépendance au sens du 12 de l'article 39 entre la société ou le groupement en cause et ces dernières sociétés ou ces
 fonds. Cette condition s'apprécie de manière continue au cours de l'exercice.
+
+I bis - L'exonération prévue au I s'applique dans les mêmes conditions aux plus-values en report d'imposition sur le
+fondement du I ter de l'article 93 quater, du a du I de l'article 151 octies et des I et II de l'article 151 octies A.
 
 II. - L'exonération prévue au I est remise en cause si le cédant relève de la situation mentionnée au 4° du I à un moment
 quelconque au cours des trois années qui suivent la réalisation de l'opération ayant bénéficié du régime prévu au présent
@@ -51,6 +55,38 @@ satisfaites :
 
 2° La cession est réalisée au profit du locataire.
 
+IV bis. - En cas de cession à titre onéreux de parts ou d'actions de sociétés passibles de l'impôt sur les sociétés ou d'un
+impôt équivalent ou soumises sur option à cet impôt, rendant imposable une plus-value en report d'imposition sur le fondement
+du I ter de l'article 93 quater, du a du I de l'article 151 octies, des I et II de l'article 151 octies A ou du III de
+l'article 151 nonies, cette plus-value en report est exonérée, lorsque les conditions suivantes sont réunies :
+
+1° Le cédant :
+
+a) Doit avoir exercé, de manière continue pendant les cinq années précédant la cession, l'une des fonctions énumérées au 1°
+de l'article 885 O bis et dans les conditions prévues au même 1° dans la société dont les titres sont cédés ;
+
+b) Cesse toute fonction dans la société dont les titres sont cédés et fait valoir ses droits à la retraite, soit dans l'année
+suivant la cession, soit dans l'année précédant celle-ci si ces événements sont postérieurs au 31 décembre 2005 ;
+
+c) Remplit la condition prévue au 4° du I ;
+
+2° La cession porte sur l'intégralité des titres de la société ;
+
+3° La société dont les titres sont cédés :
+
+a) Répond aux conditions prévues aux 5° et 6° du I ;
+
+b) A son siège social dans un État membre de la Communauté européenne ou dans un autre État partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en
+vue de lutter contre la fraude ou l'évasion fiscale ;
+
+c) Doit avoir exercé, de manière continue pendant les cinq années précédant la cession, une activité commerciale,
+industrielle, artisanale, libérale ou agricole, à l'exception de la gestion de son propre patrimoine mobilier ou immobilier.
+
+L'exonération mentionnée au premier alinéa du présent IV bis est remise en cause si le cédant relève de la situation
+mentionnée au 4° du I à un moment quelconque au cours des trois années qui suivent la réalisation de la cession de
+l'intégralité des titres.
+
 V. - 1. L'indemnité compensatrice versée à un agent général d'assurances exerçant à titre individuel par la compagnie
 d'assurances qu'il représente à l'occasion de la cessation du mandat bénéficie du régime mentionné au I si les conditions
 suivantes sont réunies :
@@ -71,11 +107,24 @@ d'assurances.
 VI. - L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au I ter de
 l'article 93 quater et aux articles 151 octies et 151 octies A.
 
+**Nota:**
+
+NOTA : Ces dispositions sont applicables aux cessions réalisées à compter du 1er janvier 2006.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 35 (V) JORF 31 décembre 2005
+  - Code général des impôts, CGI 39 duodecies à 39 quindecies, 8, 8 ter, 151 nonies, 39, 93 quater, 151 octies, 885, 719, 151 octies A, 885 O bis
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
+
+_Modifié par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 19 (V) JORF 27 décembre 2006
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 20 (V) JORF 27 décembre 2006
 
 _Cité par_:
 
@@ -87,11 +136,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 151 octies B (VD)
   - Code général des impôts, CGI. - art. 1600-0 H (V)
   - Code rural et de la pêche maritime - art. L731-15 (VD)
-
-_Cite_:
-
-  - Code général des impôts, CGI 39 duodecies à 39 quindecies, 8, 8 ter, 151 nonies, 39
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
