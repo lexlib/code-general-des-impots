@@ -4,7 +4,8 @@
 l'exception de ceux dus à raison des revenus, produits et gains mentionnés aux I et II de l'article 125 D, ainsi que la
 retenue à la source prévue à l'article 119 bis et les retenues liquidées et recouvrées selon les mêmes règles sont acquittés
 par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant
-excède 1 500 euros.
+excède 1 500 euros. Cette disposition ne s'applique pas à la retenue à la source acquittée dans les conditions prévues au 3
+de l'article 1672 (1).
 
 2. Les dispositions visées au 1 entrent en vigueur à des dates fixées par décret et au plus tard le 31 décembre 1992.
 
@@ -15,11 +16,19 @@ l'exercice précédent par l'entreprise est supérieur à 760 000 euros.
 4. Les paiements afférents à la taxe sur les salaires mentionnée à l'article 231 sont effectués par virement directement
 opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant excède 50 000 euros.
 
+**Nota:**
+
+NOTA : (1) Ces dispositions sont applicables aux revenus distribués payés à compter du 1er janvier 2007.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 125 A, 119 bis, 125 D, 1668, 231
+  - CGI 125 A, 119 bis, 125 D, 1672, 1668, 231
+
+_Modifié par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 63 (V) JORF 27 décembre 2006
 
 _Cité par_:
 
@@ -27,8 +36,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
-
-_Modifié par_:
-
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 40 (V) JORF 31 décembre 2004
+  - HISTO: Edition du 1er janvier 2007
