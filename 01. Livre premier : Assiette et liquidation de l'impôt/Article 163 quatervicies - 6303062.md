@@ -33,7 +33,9 @@ CEE du Conseil, des 18 juin et 10 novembre 1992, pour leurs opérations collecti
 mutualité.
 
 2. - a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour chaque membre du foyer fiscal dans une limite
-annuelle égale à la différence constatée au titre de l'année précédente entre :
+annuelle égale à la différence constatée au titre de l'année précédente ou, pour les personnes qui n'ont pas été fiscalement
+domiciliées en France au cours des trois années civiles précédant celle au cours de laquelle elles s'y domicilient, au titre
+de cette dernière année, entre :
 
 1° une fraction égale à 10 % de ses revenus d'activité professionnelle tels que définis au II, retenus dans la limite de huit
 fois le montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale ou, si elle est plus élevée,
@@ -46,6 +48,10 @@ l'article 156 compte non tenu de leur fraction correspondant à 15 % de la quote
 huit fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, ainsi que des sommes versées par
 l'entreprise au plan d'épargne pour la retraite collectif défini à l'article L. 443-1-2 du code du travail et exonérées en
 application du 18° de l'article 81.
+
+Les membres d'un couple marié ou les partenaires liés par un pacte civil de solidarité défini à l'article 515-1 du code
+civil, soumis à imposition commune, peuvent déduire les cotisations ou primes mentionnées au 1, dans une limite annuelle
+égale au total des montants déductibles pour chaque membre du couple ou chaque partenaire du pacte (1).
 
 b) La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au a et,
 d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée au cours de l'une des trois années suivantes.
@@ -63,6 +69,11 @@ décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, e
 Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la qualité de fonctionnaire ou d'agent public,
 en activité, affiliées après le 31 décembre 2004.
 
+d) Les personnes qui, pour des raisons qui ne sont pas liées à la mise en oeuvre de procédures judiciaires, fiscales ou
+douanières, n'ont pas été fiscalement domiciliées en France au cours des trois années civiles précédant celle au cours de
+laquelle elles s'y domicilient bénéficient au titre de cette dernière année d'un plafond complémentaire de déduction égal au
+triple du montant de la différence définie au a.
+
 II. - Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I s'entendent :
 
 1. - Des traitements et salaires définis à l'article 79 et des rémunérations allouées aux gérants et associés des sociétés
@@ -79,15 +90,16 @@ des plus-values et moins-values professionnelles à long terme.
 
 **Nota:**
 
-NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 50 VII et art. 55 II : Modalités d'application.
+NOTA : (1) Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2007.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI 83, 154 bis, 154 bis-0, 156, 81, 79, 62, 34, 35, 63, 92, 44 sexies à 44 undecies, 93, 73
   - Ordonnance 2001-350 2001-04-19 art. 5
   - Loi n°2003-775 2003-08-21 art. 108
-  - CGI 83, 154 bis, 154 bis-0, 156, 81, 79, 62, 34, 35, 63, 92, 44 sexies à 44 undecies, 93, 73
+  - Code civil - art. 515-1 (AbD)
   - Code du travail - art. L443-1-2 (M)
   - Code de la sécurité sociale. - art. L241-3 (M)
   - Code de la sécurité sociale. - art. L911-1 (M)
@@ -97,9 +109,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 50 (V) JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 55 (V) JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 59 () JORF 31 décembre 2005
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 3 () JORF 27 décembre 2006
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 62 (V) JORF 27 décembre 2006
 
 _Cité par_:
 
@@ -121,4 +132,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
