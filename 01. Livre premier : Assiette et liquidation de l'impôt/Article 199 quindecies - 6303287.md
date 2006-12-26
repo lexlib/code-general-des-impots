@@ -1,26 +1,26 @@
 # Article 199 quindecies
 
-Les sommes effectivement supportées par les contribuables à raison des dépenses afférentes à la dépendance ouvrent droit à
-une réduction d'impôt égale à 25 % de leur montant, retenu dans la limite de 3 000 Euros par personne hébergée dans un
-établissement ayant conclu la convention pluriannuelle visée à l'article L. 313-12 du code de l'action sociale et des
-familles ou dans un établissement dont la tarification répond aux conditions définies à l'article 5 de la loi n° 2001-647 du
-20 juillet 2001 relative à la prise en charge de la perte d'autonomie des personnes âgées et à l'allocation personnalisée
-d'autonomie.
-
-Les personnes qui n'ont pas leur domicile fiscal en France au sens de l'article 4 B ne bénéficient pas de cette réduction
-d'impôt. Les dispositions du 5 du I de l'article 197 sont applicables.
+Les contribuables, domiciliés en France au sens de l'article 4 B et qui sont accueillis dans un établissement ou dans un
+service mentionné au 6° du I de l'article L. 312-1 du code de l'action sociale et des familles, dans un établissement
+mentionné au 2° de l'article L. 6111-2 du code de la santé publique ou dans un établissement ayant pour objet de fournir des
+prestations de nature et de qualité comparables et situé dans un autre État membre de la Communauté européenne ou dans un
+autre État partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient
+une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, bénéficient d'une réduction
+d'impôt égale à 25 % du montant des dépenses qu'ils supportent effectivement tant au titre de la dépendance que de
+l'hébergement. Le montant annuel des dépenses ouvrant droit à la réduction d'impôt ne peut pas excéder 10 000 euros par
+personne hébergée.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 4 B, 197
-  - Loi n°2001-647 du 20 juillet 2001 - art. 5 (MMN)
-  - Code de l'action sociale et des familles - art. L313-12 (M)
+  - CGI 4 B
+  - Code de la santé publique - art. L6111-2 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 _Modifié par_:
 
-  - Loi - art. 4 (V) JORF 31 décembre 2003
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 11 () JORF 27 décembre 2006
 
 _Cité par_:
 
@@ -29,5 +29,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2001-06-21 5B-13-01
+  - HISTO: Edition du 1er janvier 2007
