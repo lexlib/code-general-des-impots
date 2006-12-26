@@ -1,6 +1,6 @@
 # Article 1595 quater
 
-I. - Il est institué, à compter du 1er janvier 2007, une taxe annuelle d'habitation des résidences mobiles terrestres, due
+I. - Il est institué, à compter du 1er janvier 2008, une taxe annuelle d'habitation des résidences mobiles terrestres, due
 par les personnes dont l'habitat principal est constitué d'une résidence mobile terrestre. Cette taxe est établie pour
 l'année entière d'après les faits existants au 1er janvier de l'année d'imposition.
 
@@ -45,8 +45,8 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 92 () JORF 31 décembre 2005
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 80 () JORF 27 décembre 2006
