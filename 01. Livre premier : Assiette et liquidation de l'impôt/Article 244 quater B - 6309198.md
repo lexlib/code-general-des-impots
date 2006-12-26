@@ -21,7 +21,7 @@ En cas de fusion ou opération assimilée, la part en accroissement négative du
 encore imputée est transférée à la société bénéficiaire de l'apport.
 
 A l'exception du crédit d'impôt imputable par la société mère dans les conditions prévues à l'article 223 O, le crédit
-d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 10 000 000 Euros. Il s'apprécie en
+d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 10 000 000 euros. Il s'apprécie en
 prenant en compte la fraction de la part en accroissement et de la part en volume du crédit d'impôt correspondant aux parts
 des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements
 mentionnés aux articles 239 quater, 239 quater B et 239 quater C, le cas échéant majoré de la part en accroissement et de la
@@ -90,12 +90,12 @@ correspondant à des opérations confiées aux organismes mentionnés aux d et d
 de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit
 d'impôt et ces organismes ;
 
-e) Les frais de prise et de maintenance de brevets ;
+e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale (1) ;
 
-e bis) Les frais de défense de brevets, dans la limite de 120 000 Euros par an ;
+e bis) Les frais de défense de brevets et de certificats d'obtention végétale (1) ;
 
-f) Les dotations aux amortissements des brevets acquis en vue de réaliser des opérations de recherche et de développement
-expérimental ;
+f) Les dotations aux amortissements des brevets et des certificats d'obtention végétale (1) acquis en vue de réaliser des
+opérations de recherche et de développement expérimental ;
 
 g) Les dépenses de normalisation afférentes aux produits de l'entreprise, définies comme suit, pour la moitié de leur
 montant :
@@ -125,13 +125,13 @@ réalisation d'opérations visées au 1° ;
 
 4° Les frais de dépôt des dessins et modèles.
 
-5° Les frais de défense des dessins et modèles, dans la limite de 60 000 Euros par an ;
+5° Les frais de défense des dessins et modèles, dans la limite de 60 000 euros par an ;
 
 i) Les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-
 habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
 
 j) Les dépenses de veille technologique exposées lors de la réalisation d'opérations de recherche, dans la limite de 60 000
-Euros par an.
+euros par an.
 
 Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à j doivent être des
 dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les
@@ -156,6 +156,11 @@ IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
 VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de
 durée inégale ou ne coïncidant pas avec l'année civile.
+
+**Nota:**
+
+NOTA : (1) Ces dispositions s'appliquent aux crédits d'impôts calculés au titre des dépenses exposées à compter du 1er
+janvier 2006.
 
 **Liens relatifs à cet article**
 
@@ -210,7 +215,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 15 () JORF 27 décembre 2006
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 16 (V) JORF 27 décembre 2006
 
 _Cite_:
 
