@@ -5,8 +5,8 @@ chapitre II du titre IV du livre IV du code du travail, sont exonérées d'impô
 
 L'exonération porte seulement sur la moitié des sommes en cause lorsque la durée de l'indisponibilité a été fixée à trois
 ans. Toutefois, l'exonération est totale lorsque les sommes reçues sont, à la demande des salariés, affectées aux plans
-d'épargne constitués conformément au chapitre III du titre IV du livre IV du code du travail dans les conditions prévues au
-dixième alinéa de l'article L. 442-5 du code précité. Les dispositions de l'article L443-6 de ce code sont alors applicables.
+d'épargne constitués conformément au chapitre III du titre IV du livre IV du code du travail dans les conditions prévues à
+l'article L. 442-5 du code précité. Les dispositions de l'article L443-6 de ce code sont alors applicables.
 
 Les revenus provenant de sommes attribuées au titre de la participation et recevant la même affectation qu'elles, sont
 exonérés dans les mêmes conditions. Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont
@@ -32,15 +32,9 @@ direction départementale du travail et de l'emploi du lieu où ils ont été co
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 158 bis, 199 ter, 83 bis
-  - Code du travail - art. L442-5 (M)
-  - Code du travail - art. L443-6 (M)
-
 _Modifié par_:
 
-  - Loi - art. 93 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 17 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -51,4 +45,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2007
