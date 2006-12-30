@@ -84,22 +84,20 @@ l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces par
 IV. - Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours
 d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
+V. - Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier du crédit d'impôt prévu au
+1° du I dans les conditions et limites prévues par le règlement (CE) n° 1628/2006 de la Commission, du 24 octobre 2006,
+concernant l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 39 terdecies, 223 A, 39 A, 1649 nonies, 44 sexies, 208 sexies, 208 quater A, 8, 239 quater, 239 quater C, 156, 41, 151 octies, 210 A, 210 B, 44 sexies A, 44 septies
+  - CGI 39 terdecies, 223 A, 39 A, 1649 nonies, 44 sexies, 44 sexies A, 44 septies, 208 sexies, 208 quater A, 8, 239 quater, 239 quater C, 156, 41, 151 octies, 210 A, 210 B
   - Loi n°2002-92 2002-01-22
-  - Règlement 1257/99 1999-05-17 Conseil
 
 _Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
-  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V) JORF 27 juillet 2005
-
-_Codifié par_:
-
-  - Décret n°2006-356 2006-03-24
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 87 (V) JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -115,4 +113,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
