@@ -12,7 +12,8 @@ les bases d'imposition sont établies conformément aux dispositions des article
 2° En ce qui concerne la taxe professionnelle :
 
 a) La base d'imposition est établie conformément au I de l'article 1447, au 1° de l'article 1467, à l'article 1467 A, aux 1°,
-2° et 3° de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B sexies.
+2°, 3°, 3° bis, 3° quater, 5° et 6° de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B
+sexies.
 
 Au titre de 1999, la base d'imposition est réduite de 25 % du montant qui excède la base de l'année précédente multipliée par
 la variation des prix à la consommation constatée par l'Institut national de la statistique et des études économiques pour
@@ -61,11 +62,6 @@ _Cite_:
   - CGI 1380 à 1383, 1388, 1393, 1396, 1402 à 1406, 1415, 1520 à 1528, 1447, 1467, 1467 A, 1469, 1472 A bis, 1478, 1647 B sexies, 1641, 1648 A bis, 1647 E
   - Loi n°86-1317 du 30 décembre 1986 - art. 6, v. init.
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-  - TXT_ASSOCIE: Instruction 2003-08-18 6A-5-03
-
 _Cité par_:
 
   - Loi n°90-568 du 2 juillet 1990 - art. 6 (V)
@@ -83,4 +79,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-1311 2003-12-30 art. 53 III 2° Finances pour 2004 JORF 31 décembre 2003
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 123 (V) JORF 31 décembre 2006
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007

@@ -17,7 +17,7 @@ insuffisant au plus tard à la date précitée, le montant de la contribution es
 des impôts, lors du dépôt de la déclaration prévue à l'article 229, majoré de l'insuffisance constatée.
 
 Les organismes mentionnés au quatrième alinéa reversent au comptable de la direction générale des impôts les sommes perçues
-en application du même alinéa au plus tard le 31 mars de la même année.
+en application du même alinéa au plus tard le 30 avril de la même année.
 
 II. - Les dépenses visées aux articles 226 bis, 227 et 227 bis ne sont pas admises en exonération de la contribution
 mentionnée au I.
@@ -27,13 +27,9 @@ des I et III de l'article 1678 quinquies sont applicables à cette contribution.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 128 (V) JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -59,4 +55,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2007

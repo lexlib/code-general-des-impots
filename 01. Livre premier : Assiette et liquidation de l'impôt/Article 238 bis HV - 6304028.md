@@ -1,6 +1,6 @@
 # Article 238 bis HV
 
-Pour l'établissement de l'impôt sur les sociétés, les souscriptions en numéraire, effectuées avant le 1er janvier 2007, au
+Pour l'établissement de l'impôt sur les sociétés, les souscriptions en numéraire, effectuées avant le 1er janvier 2008, au
 capital de sociétés de capitaux agréées, soumises à l'impôt sur les sociétés dans les conditions de droit commun et qui ont
 pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité sont admises en déduction dans les
 conditions définies à l'article 217 quindecies et dans la limite du montant du capital agréé.
@@ -30,10 +30,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 bis HZ bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies R (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 43 (V) JORF 31 décembre 2005
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 90 () JORF 31 décembre 2006
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007

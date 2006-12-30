@@ -16,7 +16,7 @@ ou la mise en oeuvre effective d'un plan de sauvegarde de l'emploi au sens des a
 3° La nouvelle habitation principale doit se situer à plus de 200 kilomètres de celle précédemment occupée avant le début de
 l'activité mentionnée au 1°.
 
-II. - Le crédit d'impôt sur le revenu est égal à 1 500 euros. Il est accordé au titre de l'année au cours de laquelle
+II. - Le crédit d'impôt sur le revenu est égal à 2 000 euros. Il est accordé au titre de l'année au cours de laquelle
 s'achève la période de six mois mentionnée au 1° du I et s'impute sur l'impôt afférent aux revenus de l'année considérée,
 après prise en compte des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis et à l'article 200 octies, des
 autres crédits d'impôt et des prélèvements ou retenues non libératoires. Si le montant du crédit d'impôt sur le revenu est
@@ -25,21 +25,19 @@ supérieur à celui de l'impôt dû, l'excédent est restitué.
 Le crédit d'impôt sur le revenu est accordé une seule fois par bénéficiaire au titre de la période d'activité qui a débuté
 entre le 1er juillet 2005 et le 31 décembre 2007.
 
-III. - Un décret précise les modalités d'application du présent article.
+III. - (abrogé)
+
+**Nota:**
+
+Loi 2006-1771 2006-12-30 art. 74 II : " Le 1° du I est applicable aux contribuables dont la période de six mois d'activité
+mentionnée au 1° du I de l'article 200 duodecies du code général des impôts s'achève après le 31 décembre 2006. "
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 4 B, 199 quater B à 200 bis, 200 octies
-  - Code du travail - art. L321-1 (M)
-  - Code du travail - art. L321-4 (M)
-  - Code du travail - art. L321-4-1 (M)
-
-_Créé par_:
-
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 11 () JORF 31 décembre 2005
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
+
+_Modifié par_:
+
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 74 (V) JORF 31 décembre 2006
