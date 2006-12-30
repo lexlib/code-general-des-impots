@@ -24,9 +24,9 @@ d'assistance administrative en vue de lutter contre la fraude ou l'évasion fisc
 2. 1° Lorsque le prélèvement est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values sont
 déterminées selon les modalités définies :
 
-a. au I et aux 2° à 6° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VE ;
+a. Au I et aux 2° à 8° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VE ;
 
-b. au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de la Communauté européenne ou
+b. Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de la Communauté européenne ou
 d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui
 contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.
 
@@ -74,12 +74,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (V) JORF 31 décembre 2005
-  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 140 () JORF 31 décembre 2006
+  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
 
 _Codifié par_:
 
-  - Décret n°2006-356 2006-03-24
+  - Décret n°2007-484 2007-03-30
 
 _Cité par_:
 
@@ -104,4 +104,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007

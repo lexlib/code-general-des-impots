@@ -33,29 +33,23 @@ au 1 jusqu'à leur cession ou leur restitution au prêteur initial.
 la plus ancienne. Les achats ultérieurs de titres de même nature sont affectés par priorité au remplacement des titres
 empruntés. 
 
-II bis. Les dispositions des articles L. 432-6 à L. 432-10 précités s'appliquent sous les mêmes conditions aux remises en
-pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3 du code monétaire et
-financier effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré, aux remises de
-titres prévues au 3 de l'article L. 432-6, ainsi qu'aux remises prévues à l'article L. 330-2 du même code.
+II bis. (abrogé)
 
-III. 1. A défaut de restitution des espèces, des valeurs, titres ou effets remis en garantie ou des titres prêtés
-correspondant à ces remises, leur cession est, d'un point de vue fiscal, réalisée à la date de la défaillance.
+III. - 1. A défaut de restitution des titres prêtés, leur cession est, d'un point de vue fiscal, réalisée à la date de la
+défaillance.
 
-2. Pour l'application des dispositions de l'article 39 duodecies, les valeurs, titres ou effets transférés sont censés avoir
-été détenus jusqu'à la date de leur remise en garantie ou, pour les titre prêtés mentionnés au 1, jusqu'à la date du prêt.
+2. Pour l'application de l'article 39 duodecies, les titres prêtés sont censés avoir été détenus jusqu'à la date du prêt.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 39 duodecies
-  - Code monétaire et financier - art. L330-2 (M)
-  - Code monétaire et financier - art. L431-7-3 (V)
-  - Code monétaire et financier L432-6 à L432-10, L431-7-3, L330-2
+  - Code monétaire et financier L432-6 à L432-10
 
 _Modifié par_:
 
-  - Loi n°2005-842 du 26 juillet 2005 - art. 31 (V) JORF 27 juillet 2005
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 83 (V) JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -67,4 +61,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
