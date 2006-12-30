@@ -12,7 +12,7 @@ cession éventuelle de l'immeuble à l'issue du contrat sur le total des amortis
 
 Ces dispositions sont également applicables aux entreprises qui donnent en location des biens d'équipement ou des matériels
 d'outillage dans les conditions prévues au 1 de l'article L. 313-7 précité ou qui pratiquent des opérations de location avec
-option d'achat, et qui n'ont pas opté pour le mode d'amortissement mentionné au quatrième alinéa de l'article 39 C ainsi
+option d'achat, et qui n'ont pas opté pour le mode d'amortissement mentionné au deuxième alinéa du I de l'article 39 C ainsi
 qu'aux entreprises ayant opté pour ce mode d'amortissement, pour les contrats au titre desquels elles cèdent leurs créances
 de crédit-bail à des fonds communs de créances. La provision est alors égale à l'excédent du montant cumulé de la quote-part
 de loyers déjà acquis, prise en compte pour la fixation du prix convenu pour la cession éventuelle du bien ou du matériel à
@@ -24,16 +24,11 @@ cet amortissement, et, au plus tard, au résultat imposable de l'exercice au cou
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 39, 39 C
-  - Code monétaire et financier - art. L313-7 (M)
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2007
   - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 50 III
 
 _Modifié par_:
 
-  - Loi - art. 50 (V) JORF 31 décembre 2003
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 77 (V) JORF 31 décembre 2006
