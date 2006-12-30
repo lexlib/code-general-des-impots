@@ -15,7 +15,9 @@ Les entreprises ayant adopté un régime facultatif conformément à l'article L
 constituer, dans les mêmes conditions, une provision pour investissement égale à 25 p. 100 du montant des sommes portées à la
 réserve de participation au cours du même exercice et qui correspondent à la participation de droit commun. Ce taux est porté
 à 50 % pour les accords existant à la date de publication de la loi n° 2001-152 du 19 février 2001 sur l'épargne salariale et
-ceux conclus au plus tard deux ans après cette publication.
+ceux conclus au plus tard deux ans après cette publication. Ce taux est porté à 50 % pour les accords conclus dans les trois
+ans de la publication de la loi n° 2006-1770 du 30 décembre 2006 pour le développement de la participation et de
+l'actionnariat salarié et portant diverses dispositions d'ordre économique et social.
 
 Le montant de la provision visée aux premier et deuxième alinéas est réduit de moitié lorsque les accords prévoient que les
 sommes attribuées sont indisponibles pendant trois ans seulement.
@@ -83,26 +85,9 @@ le 23 octobre 1986.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 207, 223 A
-  - Loi n°78-763 du 19 juillet 1978 - art. 25 (V)
-  - Loi n°2001-152 2001-02-19
-  - Code monétaire et financier - art. L214-39 (M)
-  - Code du travail - art. L442-15 (M)
-  - Code du travail - art. L442-6 (M)
-  - Code du travail - art. L443-1-2 (M)
-  - Code du travail - art. L443-7 (M)
-  - Code du travail - art. L444-1 (M)
-  - Code du travail - art. L444-3 (M)
-
 _Modifié par_:
 
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 20 () JORF 27 mars 2004
-
-_Codifié par_:
-
-  - Décret n°2004-304 2004-03-26
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 11 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -112,4 +97,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 1er janvier 2007

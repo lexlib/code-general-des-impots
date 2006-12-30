@@ -3,7 +3,7 @@
 Pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés, les souscriptions en numéraire au capital de
 sociétés anonymes soumises à l'impôt sur les sociétés dans les conditions de droit commun et qui ont pour activité exclusive
 le financement en capital d'oeuvres cinématographiques ou audiovisuelles agréées sont admises en déduction dans les
-conditions définies aux articles 163 septdecies et 217 septies.
+conditions définies à l'article 217 septies et ouvrent droit à la réduction d'impôt prévue à l'article 199 unvicies.
 
 **Liens relatifs à cet article**
 
@@ -35,12 +35,12 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 217 septies, 163 septdecies
+  - CGI 217 septies, 199 unvicies
 
 _Modifié par_:
 
-  - Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 102 (V) JORF 31 décembre 2006
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 1er janvier 2007
