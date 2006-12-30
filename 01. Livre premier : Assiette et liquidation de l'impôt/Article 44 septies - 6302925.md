@@ -65,18 +65,22 @@ prévues au 1, en retenant les coûts éligibles définis au 2 des seuls emplois
 Lorsque l'activité est implantée dans des zones éligibles dont les taux d'intensité d'aide diffèrent, le bénéfice exonéré ne
 peut excéder la somme des limites calculées pour chacune des zones éligibles.
 
+5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2013 dans les
+zones d'aide à finalité régionale et dans les conditions et limites prévues par le règlement (CE) n° 1628/2006 de la
+Commission, du 24 octobre 2006, concernant l'application des articles 87 et 88 du traité CE aux aides nationales à
+l'investissement à finalité régionale.
+
 III. - 1. Sur agrément du ministre chargé du budget, les petites et moyennes entreprises peuvent bénéficier de l'exonération
 prévue au I dans les limites prévues par le règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001, concernant
 l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et moyennes entreprises.
 
-2. Lorsque les entreprises visées au 1 sont situées en dehors des zones éligibles à la prime d'aménagement du territoire
-classées pour les projets industriels, l'exonération est appliquée à leurs bénéfices réalisés dans la limite de 21 % du
-montant des coûts éligibles définis au 2 du II. Cette limite est portée à 42 % du montant des coûts éligibles pour les
-petites entreprises.
+2. Lorsque les entreprises visées au 1 sont situées en dehors des zones d'aide à finalité régionale, l'exonération est
+appliquée à leurs bénéfices réalisés dans la limite de 21 % du montant des coûts éligibles définis au 2 du II. Cette limite
+est portée à 43 % du montant des coûts éligibles pour les petites entreprises.
 
-3. Les petites et moyennes entreprises créées dans les zones éligibles à la prime d'aménagement du territoire classées pour
-les projets industriels peuvent bénéficier de l'exonération prévue au I dans les conditions prévues au II. Dans ce cas, le
-montant du bénéfice exonéré ne peut dépasser les limites fixées au 1 du II majorées de 28 points de pourcentage.
+3. Ces dispositions s'appliquent aux petites et moyennes entreprises créées à compter du 1er janvier 2007 et jusqu'au 31
+décembre 2013 dans les zones d'aide à finalité régionale dans les conditions et limites prévues par le règlement (CE) n°
+1628/2006 de la Commission, du 24 octobre 2006, précité.
 
 4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ne peut dépasser 42 000 000 Euros.
 
@@ -113,10 +117,10 @@ sont pas prises en compte à la condition qu'il n'existe pas de lien de dépenda
 société en cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de
 l'exercice.
 
-VI. - Sans préjudice de l'application des II et III, les sociétés créées pour reprendre une entreprise industrielle en
-difficulté visées au I peuvent bénéficier d'une exonération d'impôt sur les sociétés dans les limites prévues par le
-règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE
-aux aides de minimis.
+VI. - Lorsqu'elles ne remplissent pas les conditions mentionnées aux II et III, les sociétés créées pour reprendre une
+entreprise industrielle en difficulté visées au I peuvent bénéficier d'une exonération d'impôt sur les sociétés dans les
+limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles
+87 et 88 du traité CE aux aides de minimis.
 
 VII. - 1. Les limites prévues au II s'appliquent à l'ensemble des aides à finalité régionale au sens des a et c du paragraphe
 3 de l'article 87 du traité instituant la Communauté européenne qui ont été obtenues.
@@ -127,7 +131,7 @@ petites et moyennes entreprises.
 
 Les limites prévues au VI s'appliquent à l'ensemble des aides perçues en application du règlement (CE) n° 69/2001 précité.
 
-2. Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 octies et du
+2. Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 octies A et du
 régime prévu au présent article, la société peut opter pour ce dernier régime dans les six mois suivant celui du début
 d'activité. Cette option est irrévocable.
 
@@ -151,25 +155,21 @@ alinéa du 2 de l'article 221, l'impôt sur les sociétés dont elle a été dis
 immédiatement exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et décompté à partir de la date à
 laquelle il aurait dû être acquitté.
 
+**Nota:**
+
+NOTA : Loi 2006-1771 2006-12-30 art. 87 IV 5° : dispositions applicables aux opérations réalisées à compter du 1er janvier
+2007 et jusqu'au 31 décembre 2013.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 53, 39, 44 octies, 221, 1727, 44 septies
-  - Code de commerce. - art. L626-1 (M)
-  - Code de commerce. - art. L631-22 (V)
-  - Code de commerce. - art. L642-1 (M)
-  - Règlement CE 69-2001 2001-01-12
-  - Règlement CE 70-2001 2001-01-12
 
 _Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-  - Loi n°2005-845 du 26 juillet 2005 - art. 166 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 87 (V) JORF 31 décembre 2006
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-356 2006-03-24
+  - Code de commerce. - art. L642-1 (M)
+  - Code général des impôts, CGI L626-1, L631-22, 53, 39, 44 octies, 221, 1727
 
 _Cité par_:
 
@@ -199,4 +199,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
