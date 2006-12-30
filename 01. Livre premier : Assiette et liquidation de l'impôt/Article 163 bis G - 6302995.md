@@ -14,8 +14,8 @@ Conseil d'Etat, notamment en cas de première cotation ou d'opération de restru
 moyenne des cours d'ouverture des soixante jours de bourse précédant celui de l'émission des bons, est inférieure à 150
 millions d'euros, peuvent, à condition d'avoir été immatriculées au registre du commerce et des sociétés depuis moins de
 quinze ans, attribuer aux membres de leur personnel salarié, ainsi qu'à leurs dirigeants soumis au régime fiscal des
-salariés, des bons de souscription de parts de créateur d'entreprise, incessibles, et émis dans les conditions prévues à
-l'article L. 228-95 du code de commerce, lorsque les conditions suivantes sont remplies :
+salariés, des bons de souscription de parts de créateur d'entreprise, incessibles, et émis dans les conditions prévues aux
+articles L. 228-91 et L. 228-92 du code de commerce, lorsque les conditions suivantes sont remplies :
 
 1. La société doit être passible en France de l'impôt sur les sociétés ;
 
@@ -35,24 +35,19 @@ extraordinaire, sur le rapport du conseil d'administration ou du directoire et s
 comptes. Il est au moins égal, lorsque la société émettrice a procédé dans les six mois précédant l'attribution du bon à une
 augmentation de capital, au prix d'émission des titres alors fixé.
 
-L'assemblée générale extraordinaire peut déléguer selon le cas, au conseil d'administration ou au directoire, le soin de
-fixer la liste des bénéficiaires de bons de souscription de parts de créateurs d'entreprise. Dans ce cas, le conseil
-d'administration ou le directoire indique le nom des attributaires desdits bons et le nombre de titres attribués à chacun
-d'eux.
+L'assemblée générale extraordinaire, qui détermine le délai pendant lequel les bons peuvent être exercés, peut déléguer selon
+le cas, au conseil d'administration ou au directoire, le soin de fixer la liste des bénéficiaires de bons de souscription de
+parts de créateurs d'entreprise. Dans ce cas, le conseil d'administration ou le directoire indique le nom des attributaires
+desdits bons et le nombre de titres attribués à chacun d'eux.
 
 IV. - Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 titulaires des bons et aux sociétés émettrices.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 200 A, 39, 39 quinquies H, 150-0 A
-  - Code de commerce. - art. L228-95 (M)
-
 _Modifié par_:
 
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 44 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -75,4 +70,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2007
