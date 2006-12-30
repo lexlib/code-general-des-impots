@@ -10,7 +10,7 @@ Cette réduction d'impôt s'applique lorsque les conditions suivantes sont rempl
 a) L'acquéreur prend l'engagement de conserver les titres de la société reprise jusqu'au 31 décembre de la cinquième année
 suivant celle de l'acquisition ;
 
-b) L'acquisition confère à l'acquéreur la majorité des droits de vote attachés aux titres de la société reprise ;
+b) L'acquisition confère à l'acquéreur 50 % au moins des droits de vote attachés aux titres de la société reprise ;
 
 c) A compter de l'acquisition, l'acquéreur exerce dans la société reprise l'une des fonctions énumérées au 1° de l'article
 885 O bis et dans les conditions qui y sont prévues ;
@@ -50,19 +50,9 @@ janvier de l'année considérée.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 4 B, 885 O bis, 163 quinquies D, 197
-  - Loi n°2003-721 2003-08-01
-  - Code de la sécurité sociale. - art. L341-4 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2003
-
-_Créé par_:
-
-  - Loi n°2003-721 du 1 août 2003 - art. 42 () JORF 5 août 2003
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 56 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -71,3 +61,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 terdecies-0 C (V)
   - Code général des impôts, CGI. - art. 200-0 A (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007

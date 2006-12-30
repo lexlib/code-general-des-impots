@@ -33,12 +33,23 @@ par une installation de cogénération :
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er
 janvier 2006 et le 31 décembre 2009.
 
+e) Au coût des équipements de récupération et de traitement des eaux pluviales :
+
+1° Payés entre le 1er janvier 2007 et le 31 décembre 2009 dans le cadre de travaux réalisés dans un logement achevé ;
+
+2° Intégrés à un logement acquis neuf entre le 1er janvier 2007 et le 31 décembre 2009 ;
+
+3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er
+janvier 2007 et le 31 décembre 2009.
+
 2. Un arrêté du ministre chargé du budget fixe la liste des équipements, matériaux et appareils qui ouvrent droit au crédit
 d'impôt. Il précise les caractéristiques techniques et les critères de performances minimales requis pour l'application du
-crédit d'impôt.
+crédit d'impôt. Pour les équipements mentionnés au e du 1, un arrêté des ministres chargés de l'environnement et du logement
+fixe la liste de ces derniers qui ouvrent droit au crédit d'impôt et précise les conditions d'usage de l'eau de pluie dans
+l'habitat et les conditions d'installation, d'entretien et de surveillance de ces équipements.
 
 3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le
-contribuable ou, dans les cas prévus aux 2° et 3° des c et d du 1, au titre de l'année d'achèvement du logement ou de son
+contribuable ou, dans les cas prévus aux 2° et 3° des c, d et e du 1, au titre de l'année d'achèvement du logement ou de son
 acquisition si elle est postérieure.
 
 4. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, pour la période du 1er
@@ -57,11 +68,11 @@ année suivant celle de son acquisition à titre onéreux ou gratuit ;
 
 c. 50 % du montant des équipements mentionnés au c du 1.
 
-d. 25 % du montant des équipements mentionnés au d du 1.
+d. 25 % du montant des équipements mentionnés aux d et e du 1.
 
 6. Les équipements, matériaux et appareils mentionnés au 1 s'entendent de ceux figurant sur la facture d'une entreprise ou,
-le cas échéant, dans les cas prévus aux 2° et 3° des c et d du 1, des équipements figurant sur une attestation fournie par le
-vendeur ou le constructeur du logement.
+le cas échéant, dans les cas prévus aux 2° et 3° des c, d et e du 1, des équipements figurant sur une attestation fournie par
+le vendeur ou le constructeur du logement.
 
 Le crédit d'impôt est accordé sur présentation de l'attestation mentionnée à l'alinéa précédent ou des factures, autres que
 les factures d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289,
@@ -88,8 +99,7 @@ les dépenses ont été payées.
 
 _Modifié par_:
 
-  - Loi n°2005-1719 2005-12-30 art. 83 I, II Finances pour 2006 JORF 31 décembre 2005
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 83 (V) JORF 31 décembre 2005
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 49 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -121,36 +131,36 @@ _Cité par_:
   - Arrêté du 16 juillet 2014 - art. 4 (VT)
   - Arrêté du 16 juillet 2014 - art. Annexe II (VT)
   - Décret n°2014-812 du 16 juillet 2014 (V)
+  - Décret n°2014-812 du 16 juillet 2014 - art. 1 (VD)
   - Arrêté du 9 septembre 2014 (V)
+  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
   - Arrêté du 2 décembre 2014 (V)
   - Arrêté du 22 décembre 2014 - art. 5 (V)
   - Arrêté du 27 février 2015 (V)
   - Arrêté du 23 juillet 2015 (V)
+  - Décret n°2015-1262 du 9 octobre 2015 (V)
   - Arrêté du 1er décembre 2015 (V)
   - Arrêté du 1er décembre 2015 - art. (VD)
   - Arrêté du 1er décembre 2015 - art. 1 (VD)
   - Arrêté du 1er décembre 2015 - art. 2 (VD)
   - Arrêté du 1er décembre 2015 - art. 3 (VD)
   - Arrêté du 1er décembre 2015 - art. 4 (VD)
+  - Décret n°2016-235 du 1er mars 2016 (V)
+  - Décret n°2016-555 du 6 mai 2016 - art. 1
   - Loi n°2016-1917 du 29 décembre 2016 - art. 23
   - Arrêté du 30 décembre 2016 (V)
   - Arrêté du 30 décembre 2017 (V)
   - Arrêté du 30 décembre 2017 - art. 1
+  - Décret n°2018-416 du 30 mai 2018 (V)
+  - Décret n°2018-416 du 30 mai 2018 - art. 1 (VD)
+  - Décret n°2019-88 du 11 février 2019 (V)
+  - Décret n°2019-88 du 11 février 2019 - art. 1
   - Arrêté du 1er mars 2019 (V)
   - Arrêté du 1er mars 2019 - art. 1
   - Arrêté du 19 août 2019 - art. 11
   - Arrêté du 19 août 2019 - art. 4
   - Arrêté du 19 août 2019 - art. 5
   - Arrêté du 19 août 2019 - art. 8
-  - Décret n°2014-812 du 16 juillet 2014 - art. 1 (VD)
-  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
-  - Décret n°2015-1262 du 9 octobre 2015 (V)
-  - Décret n°2016-235 du 1er mars 2016 (V)
-  - Décret n°2016-555 du 6 mai 2016 - art. 1
-  - Décret n°2018-416 du 30 mai 2018 (V)
-  - Décret n°2018-416 du 30 mai 2018 - art. 1 (VD)
-  - Décret n°2019-88 du 11 février 2019 (V)
-  - Décret n°2019-88 du 11 février 2019 - art. 1
   - Décret n°2019-839 du 19 août 2019 (V)
   - Décret n°2019-839 du 19 août 2019 - art. 1
   - Arrêté du 6 janvier 2020 (V)
@@ -190,4 +200,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007

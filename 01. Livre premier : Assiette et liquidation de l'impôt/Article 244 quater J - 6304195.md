@@ -48,12 +48,20 @@ l'année retenue pour la détermination du montant total des ressources, les rev
 compte de la variation des revenus résultant de cette modification, le cas échéant de manière forfaitaire. Les modalités de
 calcul de ces revenus sont définies par décret en Conseil d'Etat.
 
-Le montant total des ressources à prendre en compte ne doit pas excéder 51 900 euros.
+Le montant total des ressources à prendre en compte ne doit pas excéder 64 875 euros.
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros.
 
 Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans les zones franches urbaines mentionnées à
 l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
+
+Jusqu'au 31 décembre 2010, le montant de l'avance remboursable sans intérêt est majoré d'un montant maximum de 15 000 Euros
+pour les opérations d'accession sociale à la propriété portant sur la construction ou l'acquisition de logements neufs et
+donnant lieu à une aide à l'accession sociale à la propriété attribuée par une ou plusieurs collectivités territoriales ou
+par un groupement de collectivités territoriales du lieu d'implantation du logement, dans les conditions prévues à l'article
+L. 312-2-1 du code de la construction et de l'habitation. Les ressources des ménages bénéficiaires de cette majoration
+doivent être inférieures ou égales aux plafonds de ressources permettant l'accès aux logements locatifs sociaux visés au I de
+l'article R. 331-1 du même code.
 
 Un décret en Conseil d'Etat définit les caractéristiques financières et les conditions d'attribution de l'avance remboursable
 sans intérêt.
@@ -94,28 +102,23 @@ les associés proportionnellement à leurs droits dans ces sociétés ou ces gro
 redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
 
+**Nota:**
+
+NOTA : Loi 2006-1771 2006-12-30 art. 75 II : dispositions applicables aux offres d'avance émises à compter du 1er avril 2007.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-  - CGI 1417, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 156
-  - Code monétaire et financier - art. L511-1 (V)
-  - Code de la sécurité sociale L341-4, L821-1 à L821-8, L541-1 à L541-3
-  - Code de la sécurité sociale. - art. L341-4 (V)
-  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 _Cité par_:
 
   - Arrêté du 4 octobre 2001 - art. 3 (V)
   - Arrêté du 31 janvier 2005 - art. 3-1 (V)
-  - Décret n°2008-1468 du 22 décembre 2008 (V)
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 30 (V)
   - Arrêté du 29 avril 2009 - art. 3 (Ab)
   - Arrêté du 4 mai 2009 - art. Annexe (M)
+  - Arrêté du 25 mai 2011 - art. (V)
+  - Décret n°2008-1468 du 22 décembre 2008 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 30 (V)
   - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (V)
   - Décret n°2010-1728 du 30 décembre 2010 (V)
-  - Arrêté du 25 mai 2011 - art. (V)
   - Décret n°2015-28 du 15 janvier 2015 - art. (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 257 (V)
   - Code de la construction et de l'habitation. - art. L215-1 (V)
@@ -150,14 +153,21 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YT (V)
 
+_Cite_:
+
+  - CGI 1417, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C, 156
+  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+  - Code monétaire et financier - art. L511-1 (V)
+  - Code de la sécurité sociale L341-4, L821-1 à L821-8, L541-1 à L541-3
+  - Code de la sécurité sociale. - art. L341-4 (V)
+  - Code de la construction et de l'habitation. - art. L312-1 (M)
+  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
+  - Code de la construction et de l'habitation. - art. R331-1 (M)
+
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 16 () JORF 12 février 2005
-
-_Codifié par_:
-
-  - Décret n°2006-356 2006-03-24
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 75 (V) JORF 31 décembre 2006
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
