@@ -6,23 +6,26 @@ les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-val
 d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues à
 l'article 53 A. Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, le bénéfice des dispositions du
 présent article est également accordé aux entreprises qui exercent une activité professionnelle au sens du 1 de l'article 92,
-ainsi qu'aux contribuables visés au 5° du I de l'article 35 (1). Le contribuable exerçant une activité de location
-d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone de revitalisation
-rurale. Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou
-les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la seconde ou de la
-troisième période de douze mois suivant cette période d'exonération.
+ainsi qu'aux contribuables visés au 5° du I de l'article 35. Le contribuable exerçant une activité de location d'immeubles
+n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone de revitalisation rurale. Les
+bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les trois
+quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la seconde ou de la troisième
+période de douze mois suivant cette période d'exonération.
 
-Le bénéfice des dispositions du présent article est réservé aux entreprises qui se créent à compter du 1er janvier 1995
-jusqu'au 31 décembre 2009 dans les zones d'aménagement du territoire ou dans les zones de revitalisation rurale mentionnées à
-l'article 1465 A ou dans les zones de redynamisation urbaine définies au I bis et, à compter du 1er janvier 1997, au I ter de
-l'article 1466 A et aux entreprises qui se créent à compter du 1er janvier 1995 jusqu'au 31 décembre 2006 dans les
-territoires ruraux de développement prioritaire définis au premier alinéa de l'article 1465, à la condition que le siège
-social ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés dans l'une de ces zones. Lorsqu'une
-entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation
-est réputée satisfaite dès lors qu'elle réalise au plus 15 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 15
-%, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit
-commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires
-s'apprécie exercice par exercice.
+Le bénéfice du présent article est réservé aux entreprises qui se créent dans les zones et durant les périodes suivantes, à
+la condition que le siège social ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés dans l'une
+de ces zones :
+
+1° A compter du 1er janvier 1995 et jusqu'au 31 décembre 2009, dans les zones de revitalisation rurale mentionnées à
+l'article 1465 A ou dans les zones de redynamisation urbaine définies au I ter de l'article 1466 A ;
+
+2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2009, dans les zones d'aide à finalité régionale.
+
+Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition
+d'implantation est réputée satisfaite dès lors qu'elle réalise au plus 15 % de son chiffre d'affaires en dehors de ces zones.
+Au-delà de 15 %, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions
+de droit commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre
+d'affaires s'apprécie exercice par exercice.
 
 Toutefois, les entreprises qui se sont créées à compter du 1er janvier 2004 jusqu'au 31 décembre 2009 dans les zones de
 revitalisation rurale mentionnées à l'article 1465 A, et à la condition que le siège social ainsi que l'ensemble de
@@ -32,9 +35,6 @@ d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur créat
 l'article 53 A. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80
 % de leur montant selon qu'ils sont réalisés respectivement au cours des cinq premières, des sixième et septième ou des
 huitième et neuvième périodes de douze mois suivant cette période d'exonération.
-
-Les zones d'aménagement du territoire visées au deuxième alinéa s'entendent des zones éligibles à la prime d'aménagement du
-territoire classées pour les projets industriels.
 
 Ces dispositions s'appliquent également aux sociétés soumises à l'impôt sur les sociétés qui exercent une activité
 professionnelle au sens du 1 de l'article 92 dont l'effectif de salariés bénéficiant d'un contrat de travail à durée
@@ -70,24 +70,38 @@ telles que cette entreprise est placée dans une situation de dépendance.
 IV. Pour les entreprises créées à compter du 1er janvier 2000, le bénéfice exonéré ne peut en aucun cas excéder 225 000 euros
 par période de trente-six mois.
 
-**Nota:**
-
-Nota : (1) Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2004.
+En outre, pour les entreprises créées à compter du 1er janvier 2007 qui remplissent les conditions mentionnées aux IV ou V de
+l'article 44 septies, l'exonération s'applique dans les conditions et limites prévues par le règlement (CE) n° 70/2001 de la
+Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des
+petites et moyennes entreprises, modifié par le règlement (CE) n° 364/2004 du 25 février 2004. Pour les entreprises créées
+dans les zones d'aide à finalité régionale à compter du 1er janvier 2007, l'exonération s'applique dans les conditions et
+limites prévues par le règlement (CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant l'application des
+articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale. Pour les autres entreprises
+créées à compter du 1er janvier 2007, elle s'applique dans les conditions et limites prévues par le règlement (CE) n° 69/2001
+de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code général des impôts, CGI 34, 53, 1465, 92, 35, 1466, 44 septies
+
+_Modifié par_:
+
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 87 (V) JORF 31 décembre 2006
+
 _Cité par_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
-  - Code de la sécurité sociale. - art. L131-6 (V)
-  - Code du travail - art. L3324-1 (VD)
   - Décret n°2007-94 du 24 janvier 2007 - art. 2 (V)
   - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (V)
   - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
   - Décret n°2012-114 du 27 janvier 2012 (V)
   - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
+  - Code de la sécurité sociale. - art. L131-6 (V)
   - Code de la sécurité sociale. - art. L136-4 (V)
+  - Code du travail - art. L3324-1 (VD)
   - Code général des impôts, CGI. - art. 1383 A (V)
   - Code général des impôts, CGI. - art. 1417 (VD)
   - Code général des impôts, CGI. - art. 1464 B (V)
@@ -135,16 +149,6 @@ _Cité par_:
   - Code monétaire et financier - art. L221-32-2 (V)
   - Livre des procédures fiscales - art. L80 B (V)
 
-_Cite_:
-
-  - Code général des impôts, CGI 34, 53, 1465, 92, 35, 1466
-
-_Modifié par_:
-
-  - Loi n°2005-157 2005-02-23 art. 2 III, art. 7 IV, art. 8 JORF 24 février 2005
-  - Loi n°2005-157 du 23 février 2005 - art. 7 (V) JORF 24 février 2005
-  - Loi n°2005-157 du 23 février 2005 - art. 8 () JORF 24 février 2005
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2007
