@@ -1,6 +1,6 @@
 # Article 238 septies E
 
-I. Constitue une prime de remboursement :
+I. – Constitue une prime de remboursement :
 
 1. Pour les emprunts négociables visés à l'article 118 et aux 6° et 7° de l'article 120, les titres de créances négociables
 visés à l'article 124 B et tous autres titres ou contrats d'emprunt ou de capitalisation négociables ou non, émis ou conclus
@@ -18,12 +18,12 @@ après détachement des droits d'achat, de souscription, d'échange ou d'option 
 Les dispositions du présent I sont applicables à un emprunt qui fait l'objet d'émissions successives et d'une cotation en
 bourse unique si une partie de cet emprunt a été émise à compter du 1er janvier 1993.
 
-II. 1. Pour les emprunts ou titres ainsi que pour les opérations de démembrement visés au I, la prime de remboursement et les
-intérêts versés chaque année sont imposés au titre de chaque exercice après une répartition actuarielle quand la prime excède
-10 p. 100 du prix d'acquisition.
+II. – 1. Pour les emprunts ou titres ainsi que pour les opérations de démembrement visés au I, la prime de remboursement et
+les intérêts versés chaque année sont imposés au titre de chaque exercice après une répartition actuarielle quand la prime
+excède 10% du prix d'acquisition.
 
 Cependant, cette répartition actuarielle n'est pas applicable aux emprunts ou titres visés au 1 du I dont le prix moyen à
-l'émission est supérieur à 90 p. 100 de leur valeur de remboursement.
+l'émission est supérieur à 90% de leur valeur de remboursement.
 
 2. La fraction de la prime et des intérêts à rattacher aux résultats imposables de chaque exercice jusqu'au remboursement est
 déterminée en appliquant au prix d'acquisition le taux d'intérêt actuariel déterminé à la date d'acquisition ; le prix
@@ -35,10 +35,10 @@ actuelles des montants à verser et des montants à recevoir.
 
 3. Lorsque le contrat ou le titre comporte une clause rendant aléatoire la détermination avant l'échéance de la valeur de
 remboursement, les dispositions du 2 s'appliquent en considérant que le taux d'intérêt actuariel à la date d'acquisition est
-égal à 105 p. 100 du dernier taux hebdomadaire des emprunts d'Etat à long terme connu lors de l'acquisition, et en retenant
-comme date de remboursement la date la plus éloignée prévue au contrat. Toutefois, ces dispositions ne s'appliquent pas si la
-prime de remboursement déterminée par application de ce même taux, diminuée des intérêts linéaires versés chaque année à
-échéances régulières, est inférieure à 10 p. 100 de la valeur d'émission.
+égal à 105% du dernier taux mensuel des emprunts d'Etat à long terme connu lors de l'acquisition, et en retenant comme date
+de remboursement la date la plus éloignée prévue au contrat. Toutefois, ces dispositions ne s'appliquent pas si la prime de
+remboursement déterminée par application de ce même taux, diminuée des intérêts linéaires versés chaque année à échéances
+régulières, est inférieure à 10% de la valeur d'émission.
 
 Par exception aux dispositions du premier alinéa, si le contrat comporte une clause d'indexation, la prime de remboursement
 est calculée à la clôture de chaque exercice en retenant la valeur de remboursement telle qu'elle apparaît compte tenu de la
@@ -60,30 +60,35 @@ Si le contrat prévoit une clause de garantie d'une valeur de remboursement mini
 titre d'un exercice donné ne peut être inférieure à celle qui résulte de l'application des dispositions du présent paragraphe
 en retenant, pour le calcul de la prime, la valeur de remboursement garantie.
 
-III. - Pour l'application des dispositions du 5° du 1 de l'article 39, les provisions pour dépréciation de ces emprunts,
+III. – Pour l'application des dispositions du 5° du 1 de l'article 39, les provisions pour dépréciation de ces emprunts,
 titres ou droits sont calculées par rapport à leur valeur lors de l'entrée à l'actif du bilan.
 
-IV. - Pour chaque exercice, les sommes imposées en application du II sont indiquées en annexe à la déclaration prévue à
+IV. – Pour chaque exercice, les sommes imposées en application du II sont indiquées en annexe à la déclaration prévue à
 l'article 53 A et sont déterminées à partir d'un état qui fait apparaître, pour chaque catégorie de titres ou contrats de
 même nature, les éléments retenus pour le calcul de ces sommes. Cet état doit être représenté à toute réquisition de
 l'administration.
 
-V. - Les dispositions du présent article ne sont pas applicables aux titres détenus par les personnes physiques dans le cadre
+V. – Les dispositions du présent article ne sont pas applicables aux titres détenus par les personnes physiques dans le cadre
 de la gestion de leur patrimoine privé.
+
+**Nota:**
+
+Loi 2006-1771 2006-12-30 art. 84 II : dispositions applicables pour la détermination des résultats des exercices ouverts à
+compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 118, 120, 124 B, 39, 53 A
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 84 (V) JORF 31 décembre 2006
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 118 (V)
+  - Code général des impôts, CGI. - art. 120 (V)
+  - Code général des impôts, CGI. - art. 124 B (V)
+  - Code général des impôts, CGI. - art. 39 (V)
+  - Code général des impôts, CGI. - art. 53 A (V)
 
 _Cité par_:
 
@@ -94,7 +99,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 septies D (V)
   - Code général des impôts, CGI. - art. 38 bis B bis (V)
   - Code général des impôts, CGI. - art. 39 quinquies GC (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
