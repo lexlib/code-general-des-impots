@@ -1,7 +1,7 @@
 # Article 208 C bis
 
 I. - Les dispositions des articles 210 A, 210 B et 210 B bis s'appliquent aux opérations auxquelles participent les sociétés
-d'investissements immobiliers cotées, ou leurs filiales, et les sociétés mentionnées au III bis de l'article 208 C qui ont
+d'investissements immobiliers cotées, ou leurs filiales, et les sociétés mentionnées au III bis de l'article 208 C, qui ont
 opté pour le régime prévu au II du même article.
 
 L'application de ces dispositions est subordonnée à la condition que la société absorbante s'engage, dans l'acte de fusion, à
@@ -25,14 +25,14 @@ _Cite_:
 
   - CGI 210 A, 210 B, 210 B bis, 208 C
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
+
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (V) JORF 31 décembre 2005
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 128 (V) JORF 31 décembre 2006
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 210-0 A (M)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
