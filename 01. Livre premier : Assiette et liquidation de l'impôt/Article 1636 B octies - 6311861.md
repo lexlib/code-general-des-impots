@@ -4,12 +4,12 @@ I. (Abrogé).
 
 II. Les produits des taxes spéciales d'équipement perçues au profit des établissements publics fonciers visés à l'article L.
 324-1 du code de l'urbanisme et au b de l'article L. 321-1 du même code, de l'établissement public foncier de Normandie, de
-l'établissement public foncier de Lorraine, de l'établissement public foncier du Nord - Pas-de-Calais, de l'établissement
-public d'aménagement de la Guyane, des agences pour la mise en valeur des espaces urbains de la zone dite des cinquante pas
-géométriques en Guadeloupe et en Martinique, de l'établissement public foncier de l'Ouest Rhône-Alpes et de l'établissement
-public foncier de Provence-Alpes-Côte d'Azur sont répartis entre les taxes foncières, la taxe d'habitation et la taxe
-professionnelle proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble des
-communes et de leurs groupements situés dans le ressort de ces établissements.
+l'établissement public foncier de Lorraine, de l'établissement public d'aménagement de la Guyane, des agences pour la mise en
+valeur des espaces urbains de la zone dite des cinquante pas géométriques en Guadeloupe et en Martinique, de l'établissement
+public foncier de l'Ouest Rhône-Alpes et de l'établissement public foncier de Provence-Alpes-Côte d'Azur sont répartis entre
+les taxes foncières, la taxe d'habitation et la taxe professionnelle proportionnellement aux recettes que chacune de ces
+taxes a procurées l'année précédente à l'ensemble des communes et de leurs groupements situés dans le ressort de ces
+établissements.
 
 III. - Pour l'application du II, les recettes s'entendent de celles figurant dans des rôles généraux. Elles sont majorées du
 montant perçu l'année précédente au titre de la part de la dotation forfaitaire prévue à l'article L. 2334-7 du code général
@@ -52,16 +52,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2001-1235 du 20 décembre 2001 - art. 1 () JORF 22 décembre 2001
-  - Décret n°2004-1149 du 28 octobre 2004 - art. 1 () JORF 29 octobre 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
+  - Loi n°2006-1771 2006-12-30 art. 128 III, XII Finances rectificative pour 2006 JORF 31 décembre 2006
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 128 (V) JORF 31 décembre 2006
 
 _Codifié par_:
 
-  - Décret n°2005-330 2005-04-06
+  - Décret n°2007-484 2007-03-30
 
 _Cité par_:
 
@@ -72,3 +68,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 B (V)
   - Code général des impôts, CGI. - art. 1609 quater (VT)
   - Code général des impôts, CGI. - art. 1636 C (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
