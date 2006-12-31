@@ -85,9 +85,9 @@ H. Les acquisitions, par une société de crédit-bail, d'immeubles dont elle co
 un contrat de crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si cette formalité est obligatoire
 en application des dispositions de l'article 28 du décret n° 55-22 du 4 janvier 1955 modifié.
 
-I. (Disposition abrogée).
+I. (Disposition abrogée)
 
-J. Les cessions de constructions provisoires, réalisées en application de l'article L. 60 du code du domaine de l'Etat.
+J. (Dispositions devenues sans objet)
 
 K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans le périmètre de lotissements qui sont agréés
 dans des conditions fixées par décret.
@@ -98,28 +98,14 @@ coopératives de production d'habitations à loyers modérés ainsi que par des 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 257, 1594-0 G, 1465 A
-  - Code rural R343-9, R343-13, L128-4 à L128-7
-  - Décret n°55-22 1955-01-04 art. 28
-  - Loi n°69-1168 1969-12-26
-  - Décret n°94-1139 1994-12-26
-  - Code du domaine de l'Etat - art. L60 (Ab)
-  - Code de l'urbanisme - art. L130-2 (M)
-  - Code de la construction et de l'habitation. - art. L615-1 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
 _Modifié par_:
 
-  - Loi n°2006-11 du 5 janvier 2006 - art. 2 () JORF 6 janvier 2006
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 13 (V) JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006
 
 _Codifié par_:
 
-  - Décret n°2006-356 2006-03-24
+  - Décret n°2007-484 2007-03-30
 
 _Cité par_:
 
@@ -127,3 +113,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 sexies (V)
   - Code général des impôts, CGI. - art. 1754 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 251 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
