@@ -1,6 +1,6 @@
 # Article 199 terdecies-0 A
 
-I. 1°  Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu
+I.  1° Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu
 égale à 25 % des souscriptions en numéraire au capital initial ou aux augmentations de capital de sociétés.
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° est subordonné au respect, par la société bénéficiaire de la souscription,
@@ -22,8 +22,8 @@ e) La société doit répondre à la définition des petites et moyennes entrepr
 70/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en
 faveur des petites et moyennes entreprises, modifié par le règlement (CE) n° 364/2004 du 25 février 2004 ;
 
-La condition tenant à la composition du capital prévu au e n'est pas exigée en cas de souscription au capital d'entreprises
-solidaires au sens de l'article L. 443-3-1 du code du travail.
+Les conditions tenant à la composition du capital prévue au e et à la nature de l'activité exercée prévue au d ne sont pas
+exigées en cas de souscription au capital d'entreprises solidaires au sens de l'article L. 443-3-2 du code du travail.
 
 3° L'avantage fiscal prévu au 1° trouve également à s'appliquer lorsque la société bénéficiaire de la souscription remplit
 les conditions suivantes :
@@ -45,7 +45,7 @@ prise en compte au dénominateur ;
 - et au dénominateur, le montant total du capital initial ou de l'augmentation de capital auquel le contribuable a souscrit.
 
 La réduction d'impôt sur le revenu est accordée au titre de l'année de la clôture de l'exercice de la société mentionnée au
-premier alinéa du présent 3° au cours duquel le contribuable a procédé à la souscription.
+premier alinéa au cours duquel le contribuable a procédé à la souscription.
 
 II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2010. Ils
 sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000
@@ -54,8 +54,8 @@ euros pour les contribuables mariés soumis à imposition commune.
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au premier alinéa ouvre droit à la réduction
 d'impôt dans les mêmes conditions au titre des quatre années suivantes.
 
-III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de l'article 83, aux articles 163 septdecies et 163
-duovicies ou à la réduction d'impôt prévue à l'article 199 undecies A ainsi que les souscriptions financées au moyen de
+III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de l'article 83, et à l'article 163 duovicies ou aux
+réductions d'impôt prévues aux articles 199 undecies A et 199 unvicies ainsi que les souscriptions financées au moyen de
 l'aide financière de l'Etat exonérée en application du 35° de l'article 81 et les souscriptions au capital de sociétés uni-
 personnelles d'investissement à risque visées à l'article 208 D n'ouvrent pas droit à la réduction d'impôt mentionnée au I.
 
@@ -74,7 +74,7 @@ remboursement des apports en numéraire aux souscripteurs.
 
 Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement, d'invalidité correspondant au classement dans
 la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou du décès du
-contribuable ou de l'un des époux soumis à une imposition commune. Il en est de même en cas en cas de donation à une personne
+contribuable ou de l'un des époux soumis à une imposition commune. Il en est de même en cas de donation à une personne
 physique des titres reçus en contrepartie de la souscription au capital de la société si le donataire reprend l'obligation de
 conservation des titres transmis prévue au deuxième alinéa. A défaut, la reprise de la réduction d'impôt sur le revenu
 obtenue est effectuée au nom du donateur.
@@ -110,8 +110,8 @@ imposition commune.
 
 VI bis. - Les dispositions du 1 et du 3 du VI s'appliquent aux souscriptions en numéraire de parts de fonds d'investissement
 de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier. Les versements ouvrant droit à la réduction
-d'impôt sont ceux effectués jusqu'au 31 décembre 2010. Ils sont retenus dans les limites annuelles de 12 000 euros pour les
-contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune.
+d'impôt sont ceux effectués jusqu'au 31 décembre 2010. Ils sont retenus dans les limites annuelles de 12 000 Euros pour les
+contribuables célibataires, veufs ou divorcés et de 24 000 Euros pour les contribuables mariés soumis à imposition commune.
 Les réductions d'impôt prévues au VI et au VI bis sont exclusives l'une de l'autre pour les souscriptions dans un même fonds.
 
 Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits
@@ -126,29 +126,26 @@ des sociétés qui exercent leurs activités exclusivement dans des établisseme
 Les a et b du 1 et du 3 du VI sont applicables.
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2010. Ils sont retenus dans les
-limites annuelles de 12 000  pour les contribuables célibataires, veufs ou divorcés et de 24 000  pour les contribuables
-mariés soumis à imposition commune. Les réductions d'impôts prévues aux VI, VI bis et au présent VI ter sont exclusives les
-unes des autres pour les souscriptions dans un même fonds. Les présentes dispositions ne s'appliquent pas aux parts de fonds
-d'investissement de proximité donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds, attribuées
-en fonction de la qualité de la personne.
+limites annuelles de 12 000 euros pour les contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les
+contribuables mariés soumis à imposition commune. Les réductions d'impôts prévues aux VI, VI bis et au présent VI ter sont
+exclusives les unes des autres pour les souscriptions dans un même fonds. Les présentes dispositions ne s'appliquent pas aux
+parts de fonds d'investissement de proximité donnant lieu à des droits différents sur l'actif net ou sur les produits du
+fonds, attribuées en fonction de la qualité de la personne.
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
-
-**Nota:**
-
-NOTA : Les modifications induites par l'article 59 IV, à l'exclusion du c du 3° de la loi n° 2006-1666, s'appliquent aux
-versements réalisés par le contribuable à compter du 1er janvier 2007.
-
-Les modifications induites par le c du 3° du IV de l'article 59 de la loi n° 2006-1666 s'appliquent à compter du 1er janvier
-2007.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 59 (V) JORF 27 décembre 2006
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 76 () JORF 27 décembre 2006
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 102 (V) JORF 31 décembre 2006
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 85 () JORF 31 décembre 2006
+  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
 
 _Cité par_:
 
@@ -178,13 +175,6 @@ _Cité par_:
   - Code monétaire et financier - art. D214-80-2 (V)
   - Code monétaire et financier - art. D214-80-4 (V)
 
-_Cite_:
+**Liens**:
 
-  - CGI 83, 163 septdecies, 163 duovicies, 199 undecies A, 81, 208 D, 163 quinquies D, 197, 150-0 A
-  - Code monétaire et financier - art. L214-41 (M)
-  - Code monétaire et financier - art. L214-41-1 (M)
-  - Code du travail - art. L443-3-1 (M)
-  - Code de la sécurité sociale. - art. L341-4 (V)
-  - Loi n°2006-1666 2007-01-01 art. 59
-  - Règlement 364-2004 CE 2004-02-25
-  - Règlement 70-2001 CE 2001-01-12
+  - HISTO: Edition du 1er janvier 2007
