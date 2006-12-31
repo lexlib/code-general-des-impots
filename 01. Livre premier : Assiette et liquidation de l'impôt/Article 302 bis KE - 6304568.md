@@ -12,7 +12,9 @@ activité la vente ou la location de vidéogrammes.
 
 La taxe est assise sur le montant hors taxe sur la valeur ajoutée du prix acquitté au titre des opérations visées ci-dessus.
 
-Le taux est fixé à 2 %.
+Le taux est fixé à 2 %. Le taux de la taxe est porté à 10 % lorsque les opérations visées au présent article concernent des
+oeuvres et documents cinématographiques ou audiovisuels à caractère pornographique ou d'incitation à la violence. Les
+conditions dans lesquelles les redevables procèdent à l'identification de ces oeuvres et documents sont fixées par décret.
 
 La taxe est exigible dans les mêmes conditions que celles applicables en matière de taxe sur la valeur ajoutée.
 
@@ -24,14 +26,10 @@ règles applicables à cette même taxe.
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 113 (V) JORF 10 juillet 2004 en vigueur le 1er juillet 2004
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 166 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2007
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 26 () JORF 31 décembre 2006
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1647 (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 102 (T)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2004
-  - TXT_ASSOCIE: Instruction 2003-07-18 3P-4-03
