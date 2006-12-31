@@ -52,20 +52,13 @@ dissolution.
 unilatérale de vente doit indiquer si le nouveau propriétaire, ou les associés s'il s'agit d'une société, demandent le report
 de l'imposition de la plus-value dans les conditions prévues au 1. A défaut, les dispositions du 1 ne sont pas applicables.
 
-4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables (1).
+4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables.
 
 V. Les dispositions du 5 bis et du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange
-de titres résultant des opérations mentionnées aux articles précités, lorsque ces titres sont affectés à l'exercice de la
-profession au sens de l'article 93.
+de titres résultant des opérations mentionnées au 5 bis et au 7 bis précités, lorsque ces titres sont affectés à l'exercice
+de la profession au sens de l'article 93.
 
 Les personnes placées sous le régime prévu au premier alinéa sont soumises aux obligations définies à l'article 54 septies.
-
-**Nota:**
-
-NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 38 VIII : Ces dispositions sont applicables aux opérations d'apport,
-d'échange ou de transmission à titre gratuit réalisées à compter du 1er janvier 2006.
-
-NOTA : (1) Voir l'article 41 novovicies de l'annexe III.
 
 **Liens relatifs à cet article**
 
@@ -75,10 +68,13 @@ _Cite_:
   - Loi n°66-879 1966-11-29
   - Code monétaire et financier - art. L313-7 (M)
 
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
+
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (V) JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 38 (V) JORF 31 décembre 2005
+  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
 
 _Cité par_:
 
@@ -97,4 +93,5 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
+  - HISTO: décembre 1993)
