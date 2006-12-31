@@ -73,7 +73,7 @@ montant d'investissement de 1 525 000 euros.
 
 Toutefois, sur demande du contribuable qui, dans le cadre de l'activité ayant ouvert droit à réduction, participe à
 l'exploitation au sens des dispositions du 1° bis du I de l'article 156, la fraction non utilisée peut être remboursée à
-compter de la troisième année, dans la limite de 40 % du crédit d'impôt et d'un montant d'investissement de 1 525 000 Euros.
+compter de la troisième année, dans la limite de 40 % du crédit d'impôt et d'un montant d'investissement de 1 525 000 euros.
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa durée normale d'utilisation si elle est
 inférieure, l'investissement ayant ouvert droit à réduction d'impôt est cédé ou cesse d'être affecté à l'activité pour
@@ -101,7 +101,7 @@ La réduction d'impôt prévue au présent I s'applique aux investissements prod
 le cadre d'un contrat de location si les conditions mentionnées aux quatorzième à dix-septième alinéas du I de l'article 217
 undecies sont remplies et si 60 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution
 du loyer et du prix de cession du bien à l'exploitant. Ce taux est ramené à 50 % pour les investissements dont le montant par
-programme et par exercice est inférieur à 300 000 Euros par exploitant. Si, dans le délai de cinq ans de la mise à
+programme et par exercice est inférieur à 300 000 euros par exploitant. Si, dans le délai de cinq ans de la mise à
 disposition du bien loué ou pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au
 présent alinéa cesse d'être respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours
 de laquelle cet événement se réalise. Le revenu global de cette même année est alors majoré des déficits indûment imputés en
@@ -109,9 +109,9 @@ application du I bis du présent article.
 
 I bis. - 1. En cas de location, dans les conditions mentionnées au dernier alinéa du I, d'un hôtel, d'une résidence de
 tourisme ou d'un village de vacances classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant droit
-au bénéfice des dispositions du dix-huitième alinéa du I, les dispositions du deuxième alinéa de l'article 39 C et, pour la
-partie de déficit provenant des travaux bénéficiant des dispositions du dix-huitième alinéa du I, les dispositions du 1° bis
-du I de l'article 156 ne sont pas applicables.
+au bénéfice des dispositions du dix-huitième alinéa du I, les dispositions du II de l'article 39 C et, pour la partie de
+déficit provenant des travaux bénéficiant des dispositions du dix-huitième alinéa du I, les dispositions du 1° bis du I de
+l'article 156 ne sont pas applicables.
 
 2. Les dispositions du 1 sont applicables sur agrément préalable du ministre chargé du budget dans les conditions prévues aux
 1 et 2 du III de l'article 217 undecies et si 60 % de l'avantage en impôt procuré par l'imputation des déficits provenant de
@@ -130,7 +130,7 @@ conditions prévues au III de l'article 217 undecies.
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
 par programme et par exercice est supérieur à 300 000 euros, lorsque le contribuable ne participe pas à l'exploitation au
-sens des dispositions du 1° bis du I de l'article 156. Le seuil de 300 000 Euros s'apprécie au niveau de l'entreprise,
+sens des dispositions du 1° bis du I de l'article 156. Le seuil de 300 000 euros s'apprécie au niveau de l'entreprise,
 société ou groupement qui inscrit l'investissement à l'actif de son bilan ou qui en est locataire lorsqu'il est pris en
 crédit-bail auprès d'un établissement financier.
 
@@ -159,16 +159,17 @@ article et notamment les obligations déclaratives.
 
 _Cite_:
 
-  - CGI 4, 34, 8, 239 quater, 156, 41, 151 octies, 217 undecies, 39
   - Loi n°2003-660 2003-07-21
+  - CGI 4 B, 34, 8, 239 quater C, 156, 41, 151 octies, 217 undecies, 39 C
 
 _Modifié par_:
 
-  - Loi n°2003-660 du 21 juillet 2003 - art. 21 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 22 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 23 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 24 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 25 () JORF 22 juillet 2003
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 77 (V) JORF 31 décembre 2006
+  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
 
 _Cité par_:
 
@@ -237,4 +238,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 1er janvier 2007

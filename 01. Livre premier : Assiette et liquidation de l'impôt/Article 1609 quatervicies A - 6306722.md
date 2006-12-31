@@ -1,9 +1,8 @@
 # Article 1609 quatervicies A
 
-I. - A compter du 1er janvier 2005, une taxe dénommée taxe sur les nuisances sonores aériennes est perçue au profit des
-personnes publiques ou privées exploitant des aérodromes pour lesquels le nombre annuel des mouvements d'aéronefs de masse
-maximale au décollage supérieure ou égale à 20 tonnes a dépassé vingt mille lors de l'une des cinq années civiles
-précédentes.
+I. - Une taxe dénommée taxe sur les nuisances sonores aériennes est perçue au profit des personnes publiques ou privées
+exploitant des aérodromes pour lesquels le nombre annuel des mouvements d'aéronefs de masse maximale au décollage supérieure
+ou égale à 20 tonnes a dépassé vingt mille lors de l'une des cinq années civiles précédentes.
 
 II. - La taxe est due par tout exploitant d'aéronefs ou, à défaut, leur propriétaire. Elle ne s'applique pas :
 
@@ -22,22 +21,24 @@ Un décret précise les conditions d'application du présent III.
 
 IV. - Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait générateur, au financement des aides versées à
 des riverains en application des articles L. 571-14 à L. 571-16 du code de l'environnement et, le cas échéant, dans la limite
-de la moitié du produit annuel de la taxe, au remboursement à des personnes publiques des annuités des emprunts qu'elles ont
-contractés pour financer des travaux de réduction des nuisances sonores prévus par des conventions passées avec l'exploitant
-de l'aérodrome sur avis conformes de la commission prévue par l'article L. 571-16 du code de l'environnement et du ministre
-chargé de l'aviation civile.
+des deux tiers du produit annuel de la taxe, au remboursement à des personnes publiques des annuités des emprunts qu'elles
+ont contractés ou des avances qu'elles ont consenties pour financer des travaux de réduction des nuisances sonores prévus par
+des conventions passées avec l'exploitant de l'aérodrome sur avis conformes de la commission prévue par l'article L. 571-16
+du code de l'environnement et du ministre chargé de l'aviation civile.
 
 Le tarif de la taxe applicable sur chaque aérodrome est compris entre les valeurs inférieure et supérieure du groupe dont il
 relève, en fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à accorder en
 application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des coûts
 d'insonorisation.
 
-1er groupe : aérodromes de Paris - Charles-de-Gaulle, Paris-Orly, Toulouse-Blagnac : de 10 Euros à 22 Euros ;
+1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 Euros à 40 Euros ;
 
-2e groupe : aérodromes de Bordeaux-Mérignac, Lyon - Saint-Exupéry, Marseille-Provence, Nantes-Atlantique, Nice-Côte d'Azur :
+2e groupe : aérodrome de Paris - Charles-de-Gaulle : de 10  à 22  ;
+
+3e groupe : aérodromes de Bordeaux-Mérignac, Lyon - Saint-Exupéry, Marseille-Provence, Nantes-Atlantique, Nice-Côte d'Azur :
 de 4 Euros à 8 Euros.
 
-3e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 Euros à 3 Euros.
+4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 Euros à 3 Euros.
 
 Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de l'environnement, fixe le tarif de la taxe
 applicable pour chaque aérodrome.
@@ -135,8 +136,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 41 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
