@@ -1,26 +1,31 @@
 # Article 39 quinquies FC
 
-I. Les constructions qui s'incorporent à des installations de production agricole destinées à satisfaire aux obligations
-prévues par les textes d'application de la loi n° 76-663 du 19 juillet 1976 modifiée relative aux installations classées pour
-la protection de l'environnement peuvent bénéficier de l'amortissement exceptionnel prévu aux articles 39 quinquies E et 39
-quinquies F.
+I. - Les constructions qui s'incorporent à des installations de production agricole destinées à satisfaire aux obligations
+prévues au titre Ier du livre V du code de l'environnement relatif aux installations classées pour la protection de
+l'environnement peuvent bénéficier de l'amortissement exceptionnel prévu aux articles 39 quinquies E et 39 quinquies F.
 
-II. Les dispositions du présent article s'appliquent aux investissements réalisés avant le 1er janvier 2007.
+II. - Les dispositions du présent article s'appliquent aux investissements réalisés avant le 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 39 quinquies E, 39 quinquies F
-  - Loi n°76-663 1976-07-19
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 111 () JORF 31 décembre 2005
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 28 () JORF 31 décembre 2006
+
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
 
 _Cité par_:
 

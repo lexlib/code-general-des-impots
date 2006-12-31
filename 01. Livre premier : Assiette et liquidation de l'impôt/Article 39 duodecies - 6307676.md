@@ -66,9 +66,10 @@ faisant l'objet d'une location dans le cadre de leur activité.
 Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalablement loué avant d'être vendu et que l'acheteur est
 le locataire lui-même.
 
-8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue d'un contrat de prêt mentionné à
-l'article L. 432-6 du code monétaire et financier, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de
-la première inscription à son bilan des titres prêtés.
+8. En cas de cession par le prêteur ou le constituant initial de titres restitués à l'issue d'un prêt mentionné à l'article
+L. 432-6 du code monétaire et financier ou d'une remise en garantie réalisée dans les conditions prévues à l'article 38 bis-0
+A bis, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de la première inscription à son bilan des
+titres restitués.
 
 9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours
 duquel la vente est intervenue, le cédant inscrit à son bilan cet élément ainsi que les amortissements et provisions de toute
@@ -95,17 +96,14 @@ l'application du b du 2.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 38, 39 B, 210 B, 239 nonies, 202 ter
-  - Loi n°2003-775 2003-08-21 art. 108
-  - Code monétaire et financier - art. L313-7 (M)
-  - Code monétaire et financier - art. L432-6 (M)
-  - Code des assurances - art. L441-8 (M)
-
 _Modifié par_:
 
-  - Ordonnance n°2006-344 du 23 mars 2006 - art. 2 () JORF 24 mars 2006
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 83 (V) JORF 31 décembre 2006
+  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
 
 _Cité par_:
 
@@ -146,4 +144,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007

@@ -39,8 +39,8 @@ mettent à la disposition de personnes défavorisées mentionnées à l'article 
 mise en oeuvre du droit au logement et qui ont été agréés à cet effet par le représentant de l'Etat dans le département ;
 
 11° Des logements qui ont fait l'objet de travaux de réhabilitation définis par décret, lorsque ces travaux ont été financés
-à hauteur d'au moins 15 % de leur montant par une subvention versée par l'Agence nationale pour l'amélioration de l'habitat,
-pour les quinze années suivant celle de l'achèvement des travaux.
+à hauteur d'au moins 15 % de leur montant par une subvention versée par l'Agence nationale de l'habitat, pour les quinze
+années suivant celle de l'achèvement des travaux.
 
 12° Des logements qui ont fait l'objet, après une vacance continue de plus de douze mois, d'une mise en location assortie
 d'une convention conclue à compter du 1er juillet 2004 en l'application du 4° de l'article L. 351-2 du code de la
@@ -49,21 +49,7 @@ celle de la conclusion du bail.
 
 IV. et V. (Abrogés).
 
-**Nota:**
-
-NOTA : Loi 2005-1719 2005-12-30 art. 76 XV Finances pour 2006 :
-
-Ces dispositions s'appliquent à compter de l'imposition des revenus de 2006.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 234 duodecies, 234 terdecies, 234 quaterdecies
-  - Loi n°64-1278 1964-12-23 art. 11 Finances rectificative pour 1964
-  - Loi n°90-449 1990-05-31 art. 1
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-  - Code de la construction et de l'habitation. - art. L365-1 (M)
 
 _Cité par_:
 
@@ -88,8 +74,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
+  - Loi n°2006-872 du 13 juillet 2006 - art. 37 (V) JORF 16 juillet 2006
+
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
