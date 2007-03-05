@@ -10,7 +10,7 @@ l'article R. 331-1 du même code pour la construction de logements visés aux 3�
 Le taux réduit de 5,5 % s'applique également aux indemnités de toute nature perçues par les personnes qui exercent sur ces
 immeubles un droit de propriété ou de jouissance.
 
-2. Les livraisons à soi-même mentionnées aux neuvième à douzième alinéas du c du 1 du 7° de l'article 257.
+2. Les livraisons à soi-même mentionnées aux neuvième à quatorzième alinéas du c du 1 du 7° de l'article 257.
 
 3. Les ventes de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
 construction et de l'habitation et qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R.
@@ -29,14 +29,27 @@ dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissa
 immobilière, qui font l'objet, dans des conditions fixées par décret, d'une convention et d'une décision d'agrément prise par
 le représentant de l'Etat dans le département.
 
-3 quater Les ventes et apports de logements aux structures d'hébergement temporaire ou d'urgence bénéficiant d'une aide de
-l'Etat et destinées aux personnes visées au II de l'article L. 301-1 du code de la construction et de l'habitation.
+3 quater Les ventes et apports de logements aux structures d'hébergement temporaire ou d'urgence faisant l'objet d'une
+convention entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département et destinées
+aux personnes visées au II de l'article L. 301-1 du code de la construction et de l'habitation.
 
 3 quinquies Les ventes et apports de logements sociaux à usage locatif à l'association mentionnée à l'article 116 de la loi
 de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) lorsqu'elle a conclu avec l'Etat une convention en application du 4°
 de l'article L. 351-2 du code de la construction et de l'habitation.
 
-4. Les livraisons à soi-même mentionnées au 7° bis et au 7° quater de l'article 257.
+3 sexies Les ventes et apports de logements à usage locatif à l'association mentionnée à l'article 116 de la loi de finances
+pour 2002 précitée ou à des sociétés civiles immobilières dont cette association détient la majorité des parts, situés dans
+des quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et
+de programmation pour la ville et la rénovation urbaine et destinés à être occupés par des ménages dont le total des
+ressources n'excède pas le montant mentionné à l'article R. 391-8 du code de la construction et de l'habitation.
+
+3° septies Les ventes et apports de locaux aux établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de
+l'action sociale et des familles, agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils accueillent des
+personnes handicapées ou, lorsqu'ils accueillent des personnes âgées s'ils remplissent les critères d'éligibilité au prêt
+prévu à l'article R. 331-1 du code de la construction et de l'habitation, et qui font l'objet d'une convention entre le
+propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département.
+
+4. Les livraisons à soi-même mentionnées au 7° bis, au 7° quater, au 7° quinquies et au 7° sexies de l'article 257.
 
 5. Les ventes de droits immobiliers démembrés de logements sociaux neufs à usage locatif mentionnés aux 2 et 3, lorsque
 l'usufruitier bénéficie d'un prêt prévu à l'article R. 331-1 du code de la construction et de l'habitation et a conclu avec
@@ -55,17 +68,34 @@ II. (abrogé)
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°84-595 1984-07-12
+  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+  - Loi n°2003-710 2003-08-01 art. 10
+  - CGI 1594-0 G, 257
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+  - Code de la construction et de l'habitation. - art. L301-1 (M)
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation. - art. L411-2 (M)
+  - Code de la construction et de l'habitation. - art. L441-1 (M)
+  - Code de la construction et de l'habitation. - art. L443-6-2 (V)
+  - Code de la construction et de l'habitation. - art. R331-1 (M)
+  - Code de la construction et de l'habitation. - art. R331-3 (M)
+  - Code de la construction et de l'habitation. - art. R331-6 (M)
+  - Code de la construction et de l'habitation. - art. R391-8 (V)
+
 _Cité par_:
 
   - Arrêté du 16 mars 1992 - art. 2 bis (Ab)
-  - Arrêté du 29 avril 2009 - art. 3 (Ab)
-  - Arrêté du 1er août 2014 - art. 3 (V)
-  - Arrêté du 30 septembre 2014 (V)
   - Arrêté du 3 mai 2002 - art. Annexe I (Ab)
+  - Arrêté du 29 avril 2009 - art. 3 (Ab)
   - Décret n°2010-1269 du 26 octobre 2010 - art. 2 (V)
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
   - Décret n°2011-544 du 18 mai 2011 - art. 4 (V)
+  - Arrêté du 1er août 2014 - art. 3 (V)
   - Loi n°2014-891 du 8 août 2014 - art. 27 (V)
+  - Arrêté du 30 septembre 2014 (V)
   - Arrêté du 30 septembre 2014 - art. 6 (V)
   - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
   - Décret n°2019-831 du 3 août 2019 - art.
@@ -88,27 +118,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 70 quinquies B (P)
   - Livre des procédures fiscales - art. L176 (VT)
 
-_Cite_:
-
-  - CGI 1594-0 G, 257
-  - Loi n°84-595 1984-07-12
-  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
-  - Loi n°2003-710 2003-08-01 art. 10
-  - Code de la construction et de l'habitation. - art. L301-1 (M)
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-  - Code de la construction et de l'habitation. - art. L411-2 (M)
-  - Code de la construction et de l'habitation. - art. L441-1 (M)
-  - Code de la construction et de l'habitation. - art. L443-6-2 (V)
-  - Code de la construction et de l'habitation. - art. R331-1 (M)
-  - Code de la construction et de l'habitation. - art. R331-3 (M)
-  - Code de la construction et de l'habitation. - art. R331-6 (M)
-
 _Modifié par_:
 
-  - Loi n°2006-872 du 13 juillet 2006 - art. 102 () JORF 16 juillet 2006
-  - Loi n°2006-872 du 13 juillet 2006 - art. 28 () JORF 16 juillet 2006
-  - Loi n°2006-872 du 13 juillet 2006 - art. 34 () JORF 16 juillet 2006
-  - Loi n°2006-872 du 13 juillet 2006 - art. 73 () JORF 16 juillet 2006
+  - Loi n°2007-290 du 5 mars 2007 - art. 44 () JORF 6 mars 2007
+  - Loi n°2007-290 du 5 mars 2007 - art. 3 (V)
+  - Loi n°2007-290 du 5 mars 2007 - art. 45 (V)
 
 **Liens**:
 
