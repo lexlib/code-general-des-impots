@@ -17,18 +17,20 @@ Le montant de la taxe résultant de l'application des dispositions précédentes
 radiodiffusion et de télévision d'outre-mer et pour les services de télévision dont l'exploitant est établi dans les
 départements d'outre-mer.
 
+Pour les services de télévision diffusés en haute définition, les taux qui précèdent sont majorés de 0,2.
+
+Pour les services de télévision diffusés en télévision mobile personnelle, les taux qui précèdent sont majorés de 0,1.
+
+**Nota:**
+
+NOTA : Une anomalie dans l'article 35 de la loi n° 2007-309 empêche la mise à jour de façon complète et correcte de cet
+article.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi n°2007-309 du 5 mars 2007 - art. 35 (V)
-  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 en vigueur le 1er janvier 2002
+  - Loi n°2007-309 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
 
 _Cité par_:
 
