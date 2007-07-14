@@ -1,27 +1,23 @@
 # Article 217 duodecies
 
-Les bénéfices investis à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles
-Wallis et Futuna et les Terres australes et antarctiques françaises peuvent, dans les mêmes conditions, bénéficier du régime
-prévu à l'article 217 undecies.
+Les bénéfices investis à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin,
+à Saint-Barthélemy, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises peuvent, dans les mêmes
+conditions, bénéficier du régime prévu à l'article 217 undecies. 
 
-Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Pierre-et-Miquelon et Mayotte
-dans le cadre de leur compétence fiscale propre au titre de projets d'investissements sont sans incidence pour la
-détermination du montant des dépenses éligibles retenues pour l'application de l'article 217 undecies.
+Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Martin, Saint-Barthélemy,
+Saint-Pierre-et-Miquelon et Mayotte dans le cadre de leur compétence fiscale propre au titre de projets d'investissements
+sont sans incidence pour la détermination du montant des dépenses éligibles retenues pour l'application de l'article 217
+undecies. 
 
-Pour l'application des régimes issus des articles 199 undecies A, 199 undecies B, 199 undecies C, 217 undecies ainsi que du
-présent article, les mots : "restaurant de tourisme classé" et "hôtel classé" s'apprécient au regard de la réglementation
+Pour l'application des régimes issus des articles 199 undecies A,199 undecies B,199 undecies C,217 undecies ainsi que du
+présent article, les mots : " restaurant de tourisme classé " et " hôtel classé " s'apprécient au regard de la réglementation
 propre à chaque collectivité d'outre-mer.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 217 undecies, 199 undecies A, 199 undecies B, 199 undecies C
-
 _Modifié par_:
 
-  - Loi n°2003-660 du 21 juillet 2003 - art. 35 () JORF 22 juillet 2003
-  - Loi n°2003-660 du 21 juillet 2003 - art. 37 () JORF 22 juillet 2003
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 105 (V)
 
 _Cité par_:
 
@@ -40,11 +36,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L ter (Ab)
   - Livre des procédures fiscales - art. L45 F (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 août 2003
-  - TXT_ASSOCIE: Instruction 2001-02-16 4A-2-01
-  - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
-  - TXT_ASSOCIE: Instruction 2002-05-21 4A-5-02
-  - TXT_ASSOCIE: Instruction 2002-05-21 5B-11-02
-  - TXT_ASSOCIE: Instruction 2003-03-24 4A-4-03
+  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 217 undecies
