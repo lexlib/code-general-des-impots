@@ -1,19 +1,15 @@
 # Article 199 undecies C
 
-Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Pierre-et-Miquelon et Mayotte
-dans le cadre de leur compétence fiscale propre au titre de projets d'investissements sont sans incidence pour la
-détermination du montant des dépenses éligibles retenues pour l'application de l'article 199 undecies B. Les dispositions du
-présent article sont applicables dans les délais définis au III de l'article 199 undecies B.
+Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Martin, Saint-Barthélemy,
+Saint-Pierre-et-Miquelon et Mayotte dans le cadre de leur compétence fiscale propre au titre de projets d'investissements
+sont sans incidence pour la détermination du montant des dépenses éligibles retenues pour l'application de l'article 199
+undecies B. Les dispositions du présent article sont applicables dans les délais définis au III de l'article 199 undecies B.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 199 undecies B
-
-_Créé par_:
-
-  - Loi n°2003-660 du 21 juillet 2003 - art. 26 () JORF 22 juillet 2003
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 105 (V)
 
 _Cité par_:
 
@@ -45,6 +41,6 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 août 2003
+  - Code général des impôts, CGI. - art. 199 undecies B
