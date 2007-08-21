@@ -57,6 +57,9 @@ d) Des bénéfices agricoles mentionnés à l'article 63 ;
 
 e) Des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92.
 
+Les revenus exonérés en application de l'article 81 quater sont retenus pour l'appréciation du montant des revenus définis au
+a.
+
 Les revenus exonérés en application des articles 44 sexies à 44 undecies ou du 9 de l'article 93 sont retenus pour
 l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu compte des déficits des années antérieures
 ainsi que des plus-values et moins-values professionnelles à long terme.
@@ -150,9 +153,13 @@ NOTA :(1) applicable aux revenus 2004.
 
 _Cite_:
 
-  - CGI 4 B, 1417, 6, 79, 62, 34, 35, 63, 92, 93, 196 à 196 B, 194, 199 quater B à 200 bis, 200 octies, 170, 885 A
+  - CGI 4 B, 1417, 6, 79, 62, 34, 35, 63, 92, 93, 196 à 196 B, 194, 199 quater B à 200 bis, 200 octies, 170, 885 A, 81 quater
   - Loi n°86-33 1986-01-09 art. 2
   - Code de la sécurité sociale. - art. L136-2 (M)
+
+_Codifié par_:
+
+  - L'article sera codifié ultérieurement
 
 _Cité par_:
 
@@ -163,14 +170,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-1666 2006-12-21 art. 5 I, II Finances pour 2007 JORF 27 décembre 2006
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 5 (V) JORF 27 décembre 2006
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Loi n°2007-1223 du 21 août 2007 - art. 1 (V) JORF 22 août 2007
+  - Loi n°2007-1223 du 21 août 2007 - art. 1 (V)
