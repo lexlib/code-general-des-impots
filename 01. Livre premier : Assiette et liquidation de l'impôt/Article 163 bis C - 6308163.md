@@ -1,8 +1,8 @@
 # Article 163 bis C
 
-I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres, selon le cas, dans des conditions prévues à
-l'article 150-0 A ou 150 UB si les actions acquises revêtent la forme nominative et demeurent indisponibles sans être données
-en location, suivant des modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de quatre années à
+I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres dans les conditions prévues au 6 de
+l'article 200 A si les actions acquises revêtent la forme nominative et demeurent indisponibles sans être données en
+location, suivant des modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de quatre années à
 compter de la date d'attribution de l'option.
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une mère ou une filiale dont le siège social est
@@ -15,6 +15,9 @@ I bis. L'échange sans soulte d'actions résultant d'une opération d'offre publ
 regroupement réalisée conformément à la réglementation en vigueur, ou de l'apport à une société créée dans les conditions
 prévues à l'article 220 nonies ne fait pas perdre le bénéfice des dispositions du premier alinéa du I. Les conditions
 mentionnées à cet alinéa continuent à être applicables aux actions reçues en échange.
+
+En cas d'échange sans soulte résultant d'une opération mentionnée à l'alinéa précédent, l'impôt est dû au titre de l'année de
+la cession des actions reçues en échange.
 
 II. - Si les conditions prévues au I ne sont pas remplies, l'avantage mentionné à l'article 80 bis est ajouté au revenu
 imposable de l'année au cours de laquelle le salarié aura converti les actions au porteur, en aura disposé ou les aura
@@ -38,11 +41,15 @@ Les dispositions de l'article 163-0 A ne sont pas applicables.
 
 _Cite_:
 
-  - CGI 80 bis, 150-0 A, 220 nonies, 163-0 A
+  - CGI 80 bis, 200 A, 220 nonies, 163-0 A
 
 _Modifié par_:
 
-  - Loi n°2006-1770 du 30 décembre 2006 - art. 38 () JORF 31 décembre 2006
+  - Loi n°2007-1223 du 21 août 2007 - art. 8 (V)
+
+_Abrogé par_:
+
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 11 (VD)
 
 _Cité par_:
 
@@ -56,6 +63,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
   - Code monétaire et financier - art. L221-31 (V)
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - L'article sera codifié ultérieurement
