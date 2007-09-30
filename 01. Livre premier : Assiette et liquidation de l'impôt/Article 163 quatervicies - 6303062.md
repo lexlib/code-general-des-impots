@@ -3,15 +3,14 @@
 I. - 1. - Sont déductibles du revenu net global, dans les conditions et limites mentionnées au 2, les cotisations ou les
 primes versées par chaque membre du foyer fiscal :
 
-a) aux plans d'épargne retraite populaire créés par l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des
-retraites ;
+a) aux plans d'épargne retraite populaire prévus à l'article L. 144-2 du code des assurances portant réforme des retraites ;
 
 b) à titre individuel et facultatif aux contrats souscrits dans le cadre de régimes de retraite supplémentaire, auxquels
 l'affiliation est obligatoire et mis en place dans les conditions prévues à l'article L. 911-1 du code de la sécurité
 sociale, lorsque ces contrats sont souscrits par un employeur ou un groupement d'employeurs et non par un groupement
-d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, et sous réserve, d'une
-part, que ces contrats respectent les règles applicables au plan d'épargne retraite populaire défini par le même article, à
-l'exception des V et XII du même article, et à condition, d'autre part :
+d'épargne retraite populaire défini à l'article L. 144-2 du code des assurances, et sous réserve, d'une part, que ces
+contrats respectent les règles applicables au plan d'épargne retraite populaire défini par le même article, à l'exception des
+V et XII du même article, et à condition, d'autre part :
 
 1° que le contrat prévoie les modalités de financement des missions du comité de surveillance ;
 
@@ -20,8 +19,8 @@ moins deux sièges soient réservés, le cas échéant, à un représentant élu
 des participants ayant quitté l'employeur ou le groupement d'employeurs ;
 
 3° que le contrat prévoie la faculté pour l'adhérent, lorsqu'il n'est plus tenu d'y adhérer, de transférer ses droits vers un
-plan d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ou vers un autre
-contrat respectant les règles fixées au b ;
+plan d'épargne retraite populaire défini à l'article L. 144-2 du code des assurances ou vers un autre contrat respectant les
+règles fixées au b ;
 
 c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique ainsi qu'aux
 autres régimes de retraite complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er
@@ -51,7 +50,7 @@ application du 18° de l'article 81.
 
 Les membres d'un couple marié ou les partenaires liés par un pacte civil de solidarité défini à l'article 515-1 du code
 civil, soumis à imposition commune, peuvent déduire les cotisations ou primes mentionnées au 1, dans une limite annuelle
-égale au total des montants déductibles pour chaque membre du couple ou chaque partenaire du pacte (1).
+égale au total des montants déductibles pour chaque membre du couple ou chaque partenaire du pacte.
 
 b) La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au a et,
 d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée au cours de l'une des trois années suivantes.
@@ -88,29 +87,11 @@ Les revenus exonérés en application des articles 44 sexies à 44 undecies ou a
 à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Il n'est pas tenu compte
 des plus-values et moins-values professionnelles à long terme.
 
-**Nota:**
-
-NOTA : (1) Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2007.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 2001-350 2001-04-19 art. 5
-  - Loi n°2003-775 2003-08-21 art. 108
-  - CGI 83, 154 bis, 154 bis-0, 156, 81, 79, 62, 34, 35, 63, 92, 44 sexies à 44 undecies, 93, 73
-  - Code civil - art. 515-1 (AbD)
-  - Code du travail - art. L443-1-2 (M)
-  - Code de la sécurité sociale. - art. L241-3 (M)
-  - Code de la sécurité sociale. - art. L911-1 (M)
-  - Code de la mutualité - art. L222-1 (V)
-  - Directive 92-49 CEE 1992-06-18
-  - Directive 92-96 CEE 1992-11-10
 
 _Modifié par_:
 
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 3 () JORF 27 décembre 2006
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 62 (V) JORF 27 décembre 2006
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 1er octobre 2007
 
 _Cité par_:
 
