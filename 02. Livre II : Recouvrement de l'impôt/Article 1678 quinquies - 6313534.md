@@ -6,13 +6,20 @@ aux taxes sur le chiffre d'affaires.
 II. – L'employeur peut imputer sur le montant du versement de la taxe d'apprentissage, le montant des dépenses effectivement
 faites et à raison desquelles il déclare être exonéré.
 
-III. – Le versement de la taxe d'apprentissage doit accompagner le dépôt de la déclaration prévue à l'article 229.
+III. – Le versement de la taxe d'apprentissage prévu à l'article 228 bis est effectué auprès du comptable de la direction
+générale des impôts, accompagné du bordereau établi selon un modèle fixé par l'administration, et déposé au plus tard le 30
+avril de l'année qui suit celle du versement des rémunérations.
+
+**Nota:**
+
+Loi n° 2007-1787 du 20 décembre 2007, article 12 V : Les I à IV sont applicables à raison des rémunérations versées à compter
+du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 12 (V)
 
 _Cité par_:
 
@@ -30,11 +37,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 228 bis (T)
   - Code général des impôts, CGI. - art. 230 H (T)
   - Code général des impôts, annexe 3, CGIAN3. - art. 381 XA (P)
-
-_Cite_:
-
-  - CGI 229
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
