@@ -4,29 +4,32 @@
 50 % du montant des revenus imposés selon les modalités du 2° du 3 de l'article 158 avant application des abattements prévus
 aux 2° et 5° du 3 du même article, ainsi que des revenus de même nature et de même origine perçus dans un plan d'épargne en
 actions et exonérés d'impôt sur le revenu dans les conditions prévues au 5° bis de l'article 157. Pour l'application de ces
-dispositions, les revenus perçus dans un plan d'épargne en actions sont déclarés dans les conditions du 1 de l'article 170.
+dispositions, les revenus perçus dans un plan d'épargne en actions sont déclarés dans les conditions du 1 de l'article 170. 
+
+Ce crédit d'impôt n'est pas applicable aux revenus sur lesquels a été opéré le prélèvement prévu à l'article 117 quater. 
 
 Ce crédit est retenu dans les limites annuelles de 115 Euros pour les contribuables célibataires, divorcés ou veufs et 230
-Euros pour les contribuables mariés soumis à une imposition commune.
+Euros pour les contribuables mariés soumis à une imposition commune. 
 
 2. Le crédit d'impôt est imputé sur l'impôt sur le revenu dû a u titre de l'année au cours de laquelle les revenus sont
 perçus après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200, des autres crédits d'impôt et des
-prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+prélèvements ou retenues non libératoires.S'il excède l'impôt dû, l'excédent est restitué.
+
+**Nota:**
+
+dispositions applicables aux revenus perçus et aux gains et profits réalisés à compter du 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 4 B, 158, 157, 170, 199 quater B à 200
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
-
-_Créé par_:
-
-  - Loi - art. 93 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+  - Code général des impôts, CGI. - art. 117 quater
 
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 10
+
+_Abrogé par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 7
