@@ -15,27 +15,21 @@ Le bénéfice de la réduction d'impôt est subordonné à la condition que soit
 syndicat mentionnant le montant et la date du versement. A défaut, la réduction d'impôt est refusée sans proposition de
 rectification préalable.
 
-Par dérogation aux dispositions du cinquième alinéa et jusqu'à l'imposition des revenus de l'année 2006, les contribuables
-qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649 quater B ter, sont
-dispensés de joindre à cette déclaration les reçus délivrés par les syndicats. La réduction d'impôt accordée est remise en
-cause lorsque ces contribuables ne peuvent pas justifier du versement des cotisations par la présentation des reçus
-mentionnés au cinquième alinéa.
+Par dérogation aux dispositions du cinquième alinéa, les contribuables qui transmettent la déclaration de leurs revenus par
+voie électronique, en application de l'article 1649 quater B ter, sont dispensés de joindre à cette déclaration les reçus
+délivrés par les syndicats. La réduction d'impôt accordée est remise en cause lorsque ces contribuables ne peuvent pas
+justifier du versement des cotisations par la présentation des reçus mentionnés au cinquième alinéa.
 
 **Nota:**
 
-NOTA : dispositions applicables aux cotisations versées à compter du 1er janvier 2005.
+Loi n° 2007-1822 du 24 décembre 2007 finances pour 2008 art. 8 II. : Ces dispositions s'appliquent à compter de l'imposition
+des revenus de l'année 2007
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 83, 197, 1649 quater B ter
-  - Code du travail - art. L133-2 (M)
-
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 31 (V) JORF 31 décembre 2004
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 35 (V) JORF 31 décembre 2004
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 8 (V)
 
 _Cité par_:
 
@@ -44,7 +38,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 200 quater (V)
   - Code général des impôts, CGI. - art. 200-0 A (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
