@@ -10,16 +10,27 @@ I bis. (Abrogé pour les redevances prises en compte à compter du 1er janvier 2
 concessionnaires).
 
 I ter. L'imposition de la plus-value constatée lors de l'apport, par un inventeur personne physique, d'un brevet, d'une
-invention brevetable, ou d'un procédé de fabrication industriel qui remplit les conditions mentionnées aux a, b et c du 1 de
+invention brevetable ou d'un procédé de fabrication industriel qui satisfait aux conditions mentionnées aux a, b et c du 1 de
 l'article 39 terdecies, à une société chargée de l'exploiter peut, sur demande expresse du contribuable, faire l'objet d'un
-report jusqu'à la cinquième année suivant celle au cours de laquelle l'apport a été effectué ou jusqu'à la date de la cession
-ou du rachat des droits sociaux reçus en rémunération de l'apport, si cette cession ou ce rachat intervient avant
-l'expiration de ce délai de report.
+report jusqu'à la cession, au rachat, à l'annulation ou à la transmission à titre gratuit des droits sociaux reçus en
+rémunération de l'apport ou, si elle intervient antérieurement, jusqu'à la cession par la société bénéficiaire de l'apport du
+brevet, de l'invention brevetable ou du procédé de fabrication industriel. La plus-value en report d'imposition est réduite
+d'un abattement d'un tiers pour chaque année de détention échue des droits reçus en rémunération de l'apport au-delà de la
+cinquième.
+
+Le report d'imposition prévu au premier alinéa est maintenu en cas d'échange de droits sociaux mentionnés au même alinéa
+résultant d'une fusion ou d'une scission jusqu'à la cession, au rachat, à l'annulation ou à la transmission à titre gratuit
+des droits sociaux reçus lors de l'échange.
+
+En cas de transmission à titre gratuit à une personne physique des droits sociaux reçus en rémunération de l'apport ou reçus
+lors de l'échange mentionné au deuxième alinéa, le report d'imposition est maintenu si le bénéficiaire de la transmission
+prend l'engagement d'acquitter l'impôt sur la plus-value lors de la cession, du rachat, de l'annulation ou de la transmission
+à titre gratuit des droits sociaux.
 
 L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au premier alinéa.
 
 Les dispositions du sixième alinéa du II de l'article 151 octies sont applicables aux plus-values dont l'imposition est
-reportée en application du premier alinéa.
+reportée en application du premier alinéa ou dont le report est maintenu en application des deuxième ou troisième alinéas.  
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de la clientèle ou des éléments d'actif affectés
 à l'exercice de sa profession, à une société civile professionnelle, constituée conformément aux dispositions de la loi n°
@@ -60,21 +71,21 @@ de la profession au sens de l'article 93.
 
 Les personnes placées sous le régime prévu au premier alinéa sont soumises aux obligations définies à l'article 54 septies.
 
+**Nota:**
+
+dispositions applicables aux apports réalisés à compter du 26 septembre 2007 .
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 39 duodecies à 39 quindecies, 39 terdecies, 151 octies, 151 octies A, 93, 38, 54 septies, 151 septies
-  - Loi n°66-879 1966-11-29
-  - Code monétaire et financier - art. L313-7 (M)
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
+  - Loi n°66-879 du 29 novembre 1966
+  - Code monétaire et financier - art. L313-7
 
 _Modifié par_:
 
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 14
 
 _Cité par_:
 
@@ -90,8 +101,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 quindecies (V)
   - Code général des impôts, CGI. - art. 93 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 novovicies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-  - HISTO: décembre 1993)
