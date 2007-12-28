@@ -3,7 +3,8 @@
 I. - Les entreprises soumises à l'impôt sur les sociétés peuvent bénéficier d'une réduction d'impôt égale à 25 % du montant
 des sommes versées au titre des souscriptions en numéraire réalisées entre le 1er janvier 2007 et le 31 décembre 2009 au
 capital de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun et exploitant soit un journal
-quotidien, soit une publication de périodicité au maximum mensuelle consacrée à l'information politique et générale.
+quotidien, soit une publication de périodicité au maximum mensuelle consacrée à l'information politique et générale telle que
+définie à l'article 39 bis A .
 
 II. - L'entreprise souscriptrice doit conserver, pendant cinq ans à compter de la souscription en numéraire, les titres ayant
 ouvert droit à la réduction d'impôt.
@@ -23,8 +24,7 @@ reportable.
 VI. - En cas de non-respect de la condition prévue au II, le montant de la réduction d'impôt vient majorer l'impôt sur les
 sociétés dû au titre de l'exercice au cours duquel cette condition n'est plus respectée.
 
-VII. - Un décret en Conseil d'État précise les caractéristiques, notamment de contenu et de surface rédactionnelle, des
-publications mentionnées au I qui sont regardées comme se consacrant à l'information politique et générale.
+VII. (abrogé)
 
 VIII. - Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant
 aux entreprises.
@@ -35,14 +35,10 @@ _Cite_:
 
   - CGI 39
 
+_Modifié par_:
+
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 52
+
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YZD (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-_Créé par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 14 () JORF 27 décembre 2006
