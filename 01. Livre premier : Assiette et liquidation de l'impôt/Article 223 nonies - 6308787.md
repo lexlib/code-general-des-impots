@@ -14,12 +14,7 @@ périodes et dans les proportions mentionnées au premier alinéa de cet article
 
 Sont également exonérées de l'imposition forfaitaire annuelle prévue à l'article 223 septies les sociétés dont les résultats
 sont exonérés d'impôt sur les sociétés par application de l'article 44 duodecies, lorsqu'elles exercent l'ensemble de leur
-activité dans des bassins d'emploi à redynamiser. Lorsque l'activité est créée dans une zone d'aide à finalité régionale,
-l'exonération s'applique au titre de la période mentionnée au premier alinéa du même article 44 duodecies et dans les
-conditions et limites prévues par le règlement (CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant
-l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale. Dans le cas
-contraire, elle s'applique dans les conditions et limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12
-janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+activité dans des bassins d'emploi à redynamiser.
 
 **Liens relatifs à cet article**
 
@@ -27,14 +22,15 @@ _Cite_:
 
   - CGI 44 sexies, 44 septies, 44 decies, 223 septies, 208 quinquies, 44 octies, 44 duodecies
 
+_Modifié par_:
+
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 20
+
+_Abrogé par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 14 (V)
+
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-_Modifié par_:
-
-  - Loi n°2006-1771 2006-12-30 art. 130 III Finances rectificative pour 2006 JORF 31 décembre 2006
