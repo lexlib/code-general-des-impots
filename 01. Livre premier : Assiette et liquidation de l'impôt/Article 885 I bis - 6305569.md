@@ -43,10 +43,20 @@ partielle accordée au titre de l'année en cours et de celles précédant cette
 signataires respectent l'engagement prévu au a jusqu'à son terme. Les titres reçus en contrepartie de la fusion doivent être
 conservés jusqu'au même terme.
 
-c) A compter de la date d'expiration de l'engagement collectif, l'exonération partielle est subordonnée à la condition que
+En cas de non-respect des dispositions du huitième alinéa du présent b par suite d'une donation ou d'une cession de titres
+d'une société possédant une participation dans la société dont les parts ou actions font l'objet de l'engagement de
+conservation ou de titres d'une société possédant une participation dans une société qui détient les titres de la société
+dont les parts ou actions font l'objet de l'engagement de conservation, l'exonération partielle accordée au titre de l'année
+en cours et de celles précédant l'opération n'est pas remise en cause, sous réserve que l'opération intervienne entre
+associés bénéficiaires de cette exonération partielle et que les titres reçus soient au moins conservés jusqu'au terme du
+délai prévu au d. Dans cette hypothèse, le cessionnaire ou le donataire bénéficie de l'exonération partielle au titre des
+années suivant celle de la cession ou de la donation, sous réserve que les titres reçus soient conservés au moins jusqu'au
+même terme. 
+
+c. A compter de la date d'expiration de l'engagement collectif, l'exonération partielle est subordonnée à la condition que
 les parts ou actions restent la propriété du redevable ; 
 
-d) L'exonération partielle est acquise au terme d'un délai global de conservation de six ans. Au-delà de ce délai, est seule
+d. L'exonération partielle est acquise au terme d'un délai global de conservation de six ans. Au-delà de ce délai, est seule
 remise en cause l'exonération partielle accordée au titre de l'année au cours de laquelle l'une des conditions prévues aux a
 et b ou au c n'est pas satisfaite ;
 
@@ -87,14 +97,9 @@ incombant aux redevables et aux sociétés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 8, 8 ter, 885 O bis, 885 W, 817 A
-  - Code de commerce - art. L233-11
-
 _Modifié par_:
 
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 15 (V)
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 41
 
 _Cité par_:
 
