@@ -127,6 +127,9 @@ partiel sont pris en compte au prorata de la durée du temps de travail prévue 
 
 IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 61 000 euros par période de douze mois.
 
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
+concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+
 X. (abrogé)
 
 XI. Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44
@@ -138,12 +141,8 @@ XII. Les modalités d'application du présent article sont fixées par décret.
 
 **Nota:**
 
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -153,7 +152,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 33 (V) JORF 5 août 2003
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 
@@ -173,9 +172,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 S (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 T (P)
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies G (P)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2003
-  - TXT_ASSOCIE: Instruction 2003-04-10 4A-5-03
-  - TXT_ASSOCIE: Instruction 2003-04-23 4A-6-03

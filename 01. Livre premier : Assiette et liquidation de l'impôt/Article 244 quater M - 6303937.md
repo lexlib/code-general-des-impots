@@ -15,14 +15,9 @@ participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+**Liens**:
 
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 octies A, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies quinquies, 156
-  - Code du travail L141-2 à L141-7
-
-_Modifié par_:
-
-  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
+  - DEPLACE: Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 
@@ -35,7 +30,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZF (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZG (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZH (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007

@@ -87,10 +87,15 @@ VII. - Les entreprises qui ont bénéficié de la réduction d'impôt mentionné
 première année au cours de laquelle, parmi les conditions mentionnées au I, elles ne satisfont pas à la condition énumérée au
 4° du même I et relative à l'augmentation des dépenses de personnel.
 
-VIII. - Les I à VII s'appliquent dans les limites et conditions prévues par le règlement (CE) n° 69/2001 de la Commission du
-12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+VIII. - Le bénéfice de la réduction d'impôt mentionnée au II est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
+Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 IX. - Un décret fixe les conditions d'application du présent article et notamment les obligations déclaratives.
+
+**Nota:**
+
+La loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -100,23 +105,11 @@ _Cite_:
   - Règlement 69-2001 CE 2001-01-12
   - Traité de Rome 1957-03-25 art. 87, art. 88
 
-_Créé par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 13 (V) JORF 27 décembre 2006
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
-
 _Modifié par_:
 
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 O (V)
   - Code rural et de la pêche maritime - art. R741-8-1 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
