@@ -87,11 +87,15 @@ ou d'une restructuration d'activités préexistantes exercées dans les zones fr
 activités, sauf pour la durée restant à courir, si l'activité reprise ou transférée bénéficie ou a bénéficié du régime
 d'exonération prévu au présent article.
 
+Le bénéfice des exonérations accordées dans les zones franches urbaines mentionnées au I est subordonné au respect du
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité
+aux aides de minimis. 
+
 VI. - Les dispositions des I à IV sont applicables aux contribuables qui exercent des activités entre le 1er janvier 2004 et
 le 31 décembre 2008 inclus ou qui créent des activités entre le 1er janvier 2004 et la date de publication de la loi n°
-2006-396 du 31 mars 2006  pour l'égalité des chances dans les zones franches urbaines définies au B du 3 de l'article 42 de
-la loi n° 95-115 du 4 février 1995 précitée et dont la liste figure au I bis de l'annexe à la loi n° 96-987 du 14 novembre
-1996 précitée.
+2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones franches urbaines définies au B du 3 de l'article 42 de la
+loi n° 95-115 du 4 février 1995 précitée et dont la liste figure au I bis de l'annexe à la loi n° 96-987 du 14 novembre 1996
+précitée.
 
 Toutefois, pour bénéficier de l'exonération, l'entreprise doit répondre cumulativement aux conditions suivantes :
 
@@ -121,23 +125,24 @@ L'exonération s'applique à l'exercice ou la création d'activités résultant 
 ou d'une restructuration d'activités préexistantes. Toutefois, lorsque celles-ci bénéficient ou ont bénéficié du régime prévu
 au présent article, l'exonération ne s'applique que pour sa durée restant à courir.
 
-Pour les contribuables qui exercent ou qui créent des activités dans les zones franches urbaines visées au présent VI avant
-le 1er janvier 2004, l'exonération s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission du
-12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+Pour les contribuables qui exercent ou qui créent des activités dans les zones franches urbaines mentionnées au présent VI
+avant le 1er janvier 2004, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
+Commission du 15 décembre 2006 précité.
+
+**Nota:**
+
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 34, 35, 92, 44 sexies, 1465, 1466, 50-0, 53, 96 à 100, 102 ter, 103, 8, 1467, 223, 39
-  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-  - Loi n°96-987 1996-11-14 annexe
-  - Loi n°2006-396 2006-03-31
-  - Code monétaire et financier - art. L511-1 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Loi n°95-115 du 4 février 1995 - art. 42
+  - Loi n°96-987 du 14 novembre 1996
+  - Loi n°2006-396 du 31 mars 2006
+  - Code monétaire et financier - art. L511-1
 
 _Cité par_:
 
@@ -173,5 +178,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-396 du 31 mars 2006 - art. 28 () JORF 2 avril 2006
-  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)

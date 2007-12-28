@@ -74,28 +74,24 @@ bénéfice du soutien financier à la promotion d'oeuvres audiovisuelles.
 VII. - Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de distribution de
 l'oeuvre.
 
-VIII. - Le crédit d'impôt prévu au I s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission,
-du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+VIII. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
+Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 **Nota:**
 
-NOTA : Loi 2006-1771 2006-12-30 art. 103 II : dispositions applicables au titre des exercices clos entre le 31 décembre 2006
-et le 31 décembre 2008.
+Loi 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+
+**Liens**:
+
+  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. L331-2 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-_Créé par_:
-
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 103 (V) JORF 31 décembre 2006
-
-_Cite_:
-
-  - Règlement CE 69/2001 2001-01-12
