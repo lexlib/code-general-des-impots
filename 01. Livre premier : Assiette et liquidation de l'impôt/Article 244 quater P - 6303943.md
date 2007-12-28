@@ -32,31 +32,29 @@ III. Ce plafond s'apprécie en prenant en compte la fraction du crédit d'impôt
 sociétés de personnes mentionnées aux articles 8, 238 bis L, 239 ter et 239 quater A, et aux droits des membres de
 groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies.
 
-Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par
-les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de
-redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
-l'article 156.
+V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission
+du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
-V. - Le crédit d'impôt prévu au I s'applique dans les limites et conditions prévues par le règlement (CE) n° 69/2001 de la
-Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L,238
+ter,239 ter,239 quater,239 quater A,239 quater B,239 quater C,239 quater D et 239 quinquies qui ne sont pas soumis à l'impôt
+sur les sociétés doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité.
+Le crédit d'impôt peut être utilisé par les associés de ces sociétés ou les membres de ces groupements proportionnellement à
+leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous
+réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation
+au sens du 1° bis du I de l'article 156. 
 
 VI. - Un décret fixe les conditions d'application du présent article.
 
+**Nota:**
+
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
+
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 44 undecies, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
-  - Code du travail - art. L443-1 (Ab)
-  - Code du travail - art. L443-3 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-_Créé par_:
-
-  - Loi n°2006-1770 du 30 décembre 2006 - art. 46 () JORF 31 décembre 2006
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 
