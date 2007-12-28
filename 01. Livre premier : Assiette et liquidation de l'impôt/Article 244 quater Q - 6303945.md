@@ -92,14 +92,15 @@ des bases de calcul de ce crédit.
 III. - Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt mentionné au I est
 calculé par année civile.
 
-IV. - Le crédit d'impôt mentionné au I s'applique dans les limites et conditions prévues par le règlement (CE) n° 69/2001 de
-la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+IV. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
+Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
-Ces limites s'apprécient en prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés
-de personnes mentionnées aux articles 8 et 238 bis L. Lorsque ces sociétés ne sont pas soumises à l'impôt sur les sociétés,
-le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés, à condition qu'il
-s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis
-du I de l'article 156.
+Pour l'application du précédent alinéa, les sociétés de personnes mentionnées aux articles 8 et 238 bis L qui ne sont pas
+soumises à l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15
+décembre 2006 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs
+droits dans ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de
+redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
+l'article 156.
 
 V. - Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la délivrance du titre de maître-restaurateur entre
 le 15 novembre 2006 et le 31 décembre 2009.
@@ -110,23 +111,16 @@ et le cahier des charges est établi sont définies par décret en Conseil d'Eta
 Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux
 entreprises.
 
+**Nota:**
+
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 44 sexies, 44 septies, 44 octies, 44 decies, 8, 238 bis L, 156
-
-_Créé par_:
-
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 63 (V) JORF 31 décembre 2006
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
 
 _Modifié par_:
 
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 
@@ -140,7 +134,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZS (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZT (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZU (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
