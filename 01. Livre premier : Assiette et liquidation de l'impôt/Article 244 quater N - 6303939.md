@@ -35,18 +35,14 @@ l'exploitation au sens du 1° bis du I de l'article 156.
 _Cite_:
 
   - CGI 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
-  - Loi n°99-894 du 22 octobre 1999 - art. 8 (M)
-  - Loi n°99-894 du 22 octobre 1999 - art. 9 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-_Modifié par_:
-
-  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
+  - Loi n°99-894 du 22 octobre 1999 - art. 8
+  - Loi n°99-894 du 22 octobre 1999 - art. 9
 
 _Cité par_:
 
   - Loi n°2007-1822 du 24 décembre 2007 - art. 94 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 O (V)
+
+**Liens**:
+
+  - DEPLACE: Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
