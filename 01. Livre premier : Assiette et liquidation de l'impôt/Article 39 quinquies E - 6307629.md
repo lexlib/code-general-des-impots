@@ -9,18 +9,14 @@ La valeur résiduelle des immeubles est amortissable sur leur durée normale d'u
 Les dispositions du présent article s'appliquent aux constructions achevées avant le 31 décembre 1990 à condition qu'elles
 s'incorporent à des installations de production existant au 31 décembre 1980.
 
-Les constructions répondant aux critères définis au premier alinéa et achevées avant le 1er janvier 2008 peuvent faire
+Les constructions répondant aux critères définis au premier alinéa et achevées avant le 1er janvier 2009 peuvent faire
 l'objet d'un amortissement exceptionnel sur douze mois à condition qu'elles s'incorporent à des installations de production.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°64-1245 1964-12-16
-
-_Modifié par_:
-
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 28 () JORF 31 décembre 2006
+  - Loi n°64-1245 du 16 décembre 1964
 
 _Cité par_:
 
@@ -30,6 +26,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 39 quinquies FC (V)
   - Livre des procédures fiscales - art. L80 B (V)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 47

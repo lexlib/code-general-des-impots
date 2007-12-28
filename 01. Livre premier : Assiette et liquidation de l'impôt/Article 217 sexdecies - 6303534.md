@@ -62,36 +62,32 @@ imposable, calculé dans les conditions de droit commun, de la société bénéf
 cours duquel la condition a cessé d'être remplie. Si la condition prévue au b du II n'est pas remplie, le montant rapporté
 est limité à la fraction du montant qui n'a pas été utilisé conformément aux dispositions du même b.
 
-IV. - Le I s'applique dans les conditions et limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier
-2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+IV. - Le bénéfice de la déduction mentionnée au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission
+du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 V. - Lorsque l'entreprise versante a choisi de bénéficier des dispositions prévues au présent article, les sommes versées ne
 peuvent ouvrir droit à une autre déduction, à une réduction d'impôt ou à un crédit d'impôt.
 
 Un décret fixe les obligations déclaratives.
 
+**Nota:**
+
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 44 sexies, 1465 A, 1466 A, 39, 34, 35, 92, 223 A
-  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+  - Loi n°95-115 du 4 février 1995 - art. 42
 
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 87 (V) JORF 31 décembre 2006
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ nonies (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ octies (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ septies (P)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007)
