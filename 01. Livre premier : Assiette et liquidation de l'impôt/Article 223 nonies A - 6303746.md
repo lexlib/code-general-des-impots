@@ -19,28 +19,26 @@ janvier de l'année suivant celle au cours de laquelle elle ne bénéficie plus 
 à l'article 44 undecies et au plus tard le 1er janvier de la cinquième année suivant celle au cours de laquelle l'entreprise
 a bénéficié de l'exonération d'imposition forfaitaire annuelle prévue aux 1 et 2 pour la première fois.
 
-II. - L'exonération prévue au I s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission du 12
-janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+**Nota:**
+
+La loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 44 sexies-0 A, 223 septies, 44 undecies
-  - Loi n°2004-1484 2004-12-30 art. 24 Finances pour 2005
-
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
+  - Loi n°2004-1484 du 30 décembre 2004
 
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+
+_Abrogé par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 14 (V)
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 undecies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
