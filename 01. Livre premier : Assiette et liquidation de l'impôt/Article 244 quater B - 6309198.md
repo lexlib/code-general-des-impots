@@ -1,11 +1,10 @@
 # Article 244 quater B
 
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application
-des articles 44 sexies,
-44 sexies A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies peuvent bénéficier d'un crédit d'impôt au
-titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction
-des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche
-supérieure à ce montant. 
+des articles 44 sexies,44 sexies A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies peuvent bénéficier
+d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est
+de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des
+dépenses de recherche supérieure à ce montant. 
 
 Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre respectivement de la première et de la deuxième
 année qui suivent l'expiration d'une période de cinq années consécutives au titre desquelles l'entreprise n'a pas bénéficié
@@ -16,9 +15,6 @@ Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou 
 quater,239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des
 dispositions prévues au septième alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à
 leurs droits dans ces sociétés ou ces groupements. 
-
-La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses prévues au h et au i du II exposées à compter du
-1er janvier 1999 est plafonnée pour chaque entreprise à 100 000 euros par période de trois ans consécutifs. 
 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont : 
 
@@ -33,8 +29,8 @@ sont prises en compte pour le double de leur montant pendant les vingt-quatre pr
 à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne
 soit pas inférieur à celui de l'année précédente ; 
 
-c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75
-p. 100 des dépenses de personnel mentionnées à la première phrase du b ; 
+c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 %
+des dépenses de personnel mentionnées à la première phrase du b ; 
 
 Ce pourcentage est fixé à : 
 
@@ -70,7 +66,7 @@ dépenses correspondant aux opérations confiées aux organismes mentionnés au 
 
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ; 
 
-e bis) Les frais de défense de brevets et de certificats d'obtention végétale, ainsi que, dans la limite de 60 000 EUR par
+e bis) Les frais de défense de brevets et de certificats d'obtention végétale, ainsi que, dans la limite de 60 000 euros par
 an, les primes et cotisations ou la part des primes et cotisations afférentes à des contrats d'assurance de protection
 juridique prévoyant la prise en charge des dépenses exposées, à l'exclusion de celles procédant d'une condamnation
 éventuelle, dans le cadre de litiges portant sur un brevet ou un certificat d'obtention végétale dont l'entreprise est
@@ -125,6 +121,18 @@ l'évasion fiscale.
 Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les
 immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies. 
 
+Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i du II est
+subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité aux aides de minimis (1). 
+
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L,239
+quater,239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. La fraction du crédit d'impôt mentionnée à
+l'alinéa précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement
+à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous
+réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation
+au sens du 1° bis du I de l'article 156 (1). 
+
 III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont
 déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de
 même des sommes reçues par les organismes ou experts désignés au d et au d bis du II, pour le calcul de leur propre crédit
@@ -138,8 +146,11 @@ durée inégale ou ne coïncidant pas avec l'année civile.
 
 **Nota:**
 
-dispositions applicables aux crédits d'impôt calculés au titre des dépenses de recherche exposées à compter du 1er janvier
-2008 .
+Dispositions applicables aux crédits d'impôt calculés au titre des dépenses de recherche exposées à compter du 1er janvier
+2008.
+
+(1) Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -195,22 +206,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 69
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 70
-
-_Cite_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis L (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater B (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater C (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 44 decies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 44 octies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 44 octies A (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 44 septies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 44 sexies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 44 sexies A (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 44 undecies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
-  - Code général des impôts, CGI. - art. 44 duodecies
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)

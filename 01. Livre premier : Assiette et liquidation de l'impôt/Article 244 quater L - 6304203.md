@@ -1,49 +1,51 @@
 # Article 244 quater L
 
-I. - Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années comprises entre 2005 et 2007 au
+I.-Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années comprises entre 2005 et 2010 au
 cours desquelles au moins 40 % de leurs recettes proviennent d'activités mentionnées à l'article 63 qui ont fait l'objet
-d'une certification en agriculture biologique au sens de l'article 8 du règlement (CEE) n° 2092/91 du Conseil, du 24 juin
+d'une certification en agriculture biologique au sens de l'article 8 du règlement (CEE) n° 2092 / 91 du Conseil, du 24 juin
 1991, concernant le mode de production biologique de produits agricoles et sa présentation sur les produits agricoles et les
-denrées alimentaires.
+denrées alimentaires. 
 
 Les dispositions du premier alinéa ne s'appliquent pas aux entreprises agricoles titulaires, au 1er mai de l'année civile ou
 de l'exercice au cours duquel le crédit d'impôt mentionné au premier alinéa est calculé, d'un contrat territorial
 d'exploitation ou d'un contrat d'agriculture durable comprenant une mesure d'aide à la conversion à l'agriculture biologique,
 sauf si au moins 50 % de la surface de leur exploitation est en mode de production biologique, ces mêmes 50 % ne bénéficiant
-pas d'aide à la conversion.
+pas d'aide à la conversion. 
 
-II. - 1. - Le montant du crédit d'impôt mentionné au I s'élève à 1 200 euros. Il est majoré, dans la limite de 800 euros, de
-200 euros par hectare exploité selon le mode de production biologique.
+II.-1.-Le montant du crédit d'impôt mentionné au I s'élève à 1 200 euros. Il est majoré, dans la limite de 800 euros, de 200
+euros par hectare exploité selon le mode de production biologique. 
 
-2. - Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en commun, le montant mentionné au A est
+2.-Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en commun, le montant mentionné au A est
 multiplié par le nombre d'associés, sans que le crédit d'impôt ainsi obtenu puisse excéder trois fois le crédit d'impôt
-calculé dans les conditions prévues au A.
+calculé dans les conditions prévues au A. 
 
-III. - Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou les groupements
-mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies, qui ne sont pas soumis à l'impôt
-sur les sociétés, peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou ces
-groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à
-l'exploitation au sens du 1° bis du I de l'article 156.
+III.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou les groupements
+mentionnés aux articles 238 ter,239 quater,239 quater B,239 quater C et 239 quinquies, qui ne sont pas soumis à l'impôt sur
+les sociétés, peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à
+condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au
+sens du 1° bis du I de l'article 156. 
 
-IV. - Un décret fixe les conditions d'application du présent article.
+IV.-Un décret fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+**Liens**:
 
-  - CGI 63, 8, 238 bis L, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
-
-_Créé par_:
-
-  - Loi n°2006-11 du 5 janvier 2006 - art. 75 () JORF 6 janvier 2006
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
+  - DEPLACE: Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Modifié par_:
 
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 56
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 238 bis L
+  - Code général des impôts, CGI. - art. 238 ter
+  - Code général des impôts, CGI. - art. 239 quater
+  - Code général des impôts, CGI. - art. 239 quinquies
+  - Code général des impôts, CGI. - art. 63
+  - Code général des impôts, CGI. - art. 8
 
 _Cité par_:
 
@@ -53,8 +55,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies Z (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZB (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZB bis (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-  - HISTO: Edition du 1er janvier 2007
