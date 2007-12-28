@@ -4,20 +4,23 @@ Pour l'établissement de l'impôt sur les sociétés, les entreprises peuvent pr
 l'investissement, un amortissement exceptionnel égal à 50 % du montant des sommes effectivement versées pour la souscription
 au capital des sociétés définies à l'article 238 bis HV.
 
+Le bénéfice de l'amortissement exceptionnel est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15
+décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+
+**Nota:**
+
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 238 bis HV
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 1er janvier 2006
-
-_Créé par_:
-
-  - Loi n°2005-1720 2005-12-30 art. 43 I, III Finances rectificative pour 2005 JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 43 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 

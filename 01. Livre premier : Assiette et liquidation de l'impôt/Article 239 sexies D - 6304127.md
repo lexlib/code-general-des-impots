@@ -10,16 +10,19 @@ un contrat de crédit-bail, d'immeubles situés dans les zones d'aide à finalit
 rurale définies au II de l'article 1465 A et dans les zones de redynamisation urbaine définies au I ter de l'article 1466
 A. ;
 
-Le présent article s'applique dans les conditions et limites prévues par le règlement (CE) n° 70/2001 de la Commission, du 12
-janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et moyennes
-entreprises pour les immeubles situés dans les zones de revitalisation rurale ou dans les zones de redynamisation urbaine, et
-dans les conditions et limites prévues par le règlement (CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant
-l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale pour les
-immeubles situés dans les zones d'aide à finalité régionale.
+Pour les immeubles neufs situés dans les zones de revitalisation rurale ou dans les zones de redynamisation urbaine, le
+bénéfice de la dispense de réintégration est subordonné au respect du règlement (CE) n° 70 / 2001 de la Commission du 12
+janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et moyennes
+entreprises. Pour les immeubles neufs situés dans les zones d'aide à finalité régionale, le bénéfice de la dispense de
+réintégration est subordonné au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides nationales à l'investissement à finalité régionale. Pour les autres
+immeubles situés dans ces zones, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de
+la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 **Nota:**
 
-NOTA : Loi 2006-1771 2006-12-30 art. 87 XV : dispositions applicables aux contrats conclus à compter du 1er janvier 2007.
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -27,10 +30,6 @@ _Cite_:
 
   - CGI 239 sexies, 239 sexies B, 39 quinquies D, 1465 A, 1466 A
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 87 (V) JORF 31 décembre 2006
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
