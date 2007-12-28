@@ -37,33 +37,30 @@ déduites des bases de calcul de ce crédit.
 IV. - Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du crédit d'impôt mentionné au I et dans celle
 d'un autre crédit d'impôt.
 
-V. - Le crédit d'impôt prévu au I s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission, du
-12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis. Ce plafond s'apprécie en
-prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés de personnes mentionnées aux
-articles 8, 238 bis L, 239 ter et 239 quater A, et aux droits des membres de groupements mentionnés aux articles 238 ter, 239
-quater, 239 quater B, 239 quater C et 239 quinquies.
+V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission
+du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
-Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par
-les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de
-redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
-l'article 156.
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L,238
+ter,239 ter,239 quater,239 quater A,239 quater B,239 quater C,239 quater D et 239 quinquies qui ne sont pas soumis à l'impôt
+sur les sociétés doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité.
+Le crédit d'impôt peut être utilisé par les associés de ces sociétés ou les membres de ces groupements proportionnellement à
+leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous
+réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation
+au sens du 1° bis du I de l'article 156. 
 
 VI. - Un décret fixe les conditions d'application du présent article.
 
+**Nota:**
+
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 39, 223 A, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
 
 _Modifié par_:
 
-  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 223 O (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
