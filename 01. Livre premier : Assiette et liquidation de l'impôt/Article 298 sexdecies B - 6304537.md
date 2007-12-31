@@ -11,30 +11,20 @@ autre assujetti.
 298 sexdecies A peuvent, sur option, soumettre à la taxe sur la valeur ajoutée leur prestation lorsque l'opération dans
 laquelle ils s'entremettent est imposée en application du 1 ou du 2.
 
-4. Lorsqu'ils ont exercé l'une des options ci-dessus, les assujettis portent sur la facture qu'ils délivrent la mention :
-
-"application de l'article 26 ter C de la directive 77/388/CEE modifiée". A défaut, l'option est réputée ne pas avoir été
-exercée.
+4. Lorsqu'ils ont exercé l'une des options ci-dessus, les assujettis portent sur la facture qu'ils délivrent la mention : "
+Application des articles 348 à 351 de la directive 2006/112/CE du Conseil, du 28 novembre 2006 ". A défaut, l'option est
+réputée ne pas avoir été exercée.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 57
+
 _Cite_:
 
-  - CGI 298 sexdecies A
-
-_Codifié par_:
-
-  - Décret n°2000-477 2000-06-02
+  - Code général des impôts, CGI. - art. 298 sexdecies A
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 298 sexdecies D (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-  - TXT_ASSOCIE: Instruction 2000-06-22 3L-1-00
-
-_Modifié par_:
-
-  - Loi - art. 15 (V) JORF 31 décembre 1999
