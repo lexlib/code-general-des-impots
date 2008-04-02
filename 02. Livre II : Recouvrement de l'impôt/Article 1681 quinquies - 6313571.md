@@ -7,7 +7,7 @@ France lorsque leur montant excède 1 500 euros. Cette disposition ne s'applique
 les conditions prévues au 3 de l'article 1672, ainsi qu'aux prélèvements dus dans les conditions du III de l'article 117
 quater et de l'article 125 D. 
 
-2. Les dispositions visées au 1 entrent en vigueur à des dates fixées par décret et au plus tard le 31 décembre 1992. 
+2. (Périmé) 
 
 3. Les paiements afférents à l'impôt mentionné à l'article 1668 sont effectués par virement directement opéré sur le compte
 du Trésor ouvert dans les écritures de la Banque de France lorsque le chiffre d'affaires hors taxes réalisé au titre de
@@ -24,7 +24,16 @@ dispositions applicables aux revenus perçus et aux gains et profits réalisés 
 
 _Modifié par_:
 
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 10
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 117 quater
+  - Code général des impôts, CGI. - art. 119 bis
+  - Code général des impôts, CGI. - art. 125 A
+  - Code général des impôts, CGI. - art. 1668
+  - Code général des impôts, CGI. - art. 1672
+  - Code général des impôts, CGI. - art. 231
 
 _Cité par_:
 
