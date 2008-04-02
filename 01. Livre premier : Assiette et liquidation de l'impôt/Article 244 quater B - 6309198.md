@@ -1,7 +1,7 @@
 # Article 244 quater B
 
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application
-des articles 44 sexies,44 sexies A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies peuvent bénéficier
+des articles 44 sexies,44 sexies A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies  peuvent bénéficier
 d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est
 de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des
 dépenses de recherche supérieure à ce montant. 
@@ -61,8 +61,8 @@ correspondant à des opérations confiées aux organismes mentionnés aux d et d
 de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit
 d'impôt et ces organismes ; 
 
-Le plafond de 10 millions d'euros mentionné au premier alinéa du présent d ter est majoré de 2 millions d'euros à raison des
-dépenses correspondant aux opérations confiées aux organismes mentionnés au d ; 
+Le plafond de 10 millions d'euros mentionné au premier alinéa est majoré de 2 millions d'euros à raison des dépenses
+correspondant aux opérations confiées aux organismes mentionnés au d ; 
 
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ; 
 
@@ -123,7 +123,7 @@ immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'art
 
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i du II est
 subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides de minimis (1). 
+articles 87 et 88 du traité aux aides de minimis. 
 
 Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L,239
 quater,239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
@@ -148,9 +148,6 @@ durée inégale ou ne coïncidant pas avec l'année civile.
 
 Dispositions applicables aux crédits d'impôt calculés au titre des dépenses de recherche exposées à compter du 1er janvier
 2008.
-
-(1) Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
-octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -205,4 +202,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 151 nonies
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 220 septies
+  - Code général des impôts, CGI. - art. 238 bis L
+  - Code général des impôts, CGI. - art. 239 quater
+  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 44 duodecies
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 8
