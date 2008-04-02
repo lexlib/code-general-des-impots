@@ -6,7 +6,7 @@ ne sont pas domiciliées en France au sens de l'article 4 B ou par des personnes
 forme, ayant leur siège social hors de France, sont déterminés et imposés selon les modalités prévues aux articles 150-0 A à
 150-0 E.
 
-L'impôt est acquitté dans les conditions fixées au 3 du I de l'article 244 bis A .
+L'impôt est acquitté dans les conditions fixées au IV de l'article 244 bis A. 
 
 Les organisations internationales, les Etats étrangers, les banques centrales et les institutions financières publiques de
 ces Etats sont exonérés lorsque les cessions se rapportent à des titres remplissant les conditions prévues à l'article 131
@@ -14,14 +14,9 @@ sexies.
 
 **Nota:**
 
-Ces dispositions s'appliquent pour l'imposition des plus-values réalisées lors des cessions à titre onéreux intervenues à
-compter du 1er janvier 2006.
+Modification effectuée en conséquence de l'article 27-IV et V de la loi n° 2007-1822 du 24 décembre 2007.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
 
 _Anciens textes_:
 
@@ -30,7 +25,14 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 29 (V) JORF 31 décembre 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Cite_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 A (V)
+  - Code général des impôts, CGI. - art. 164 B
+  - Code général des impôts, CGI. - art. 244 bis A
+  - Code général des impôts, CGI. - art. 4 B
 
 _Cité par_:
 

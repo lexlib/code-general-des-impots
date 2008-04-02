@@ -1,28 +1,22 @@
 # Article 1649 quater A
 
-Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
-l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du livre V du code monétaire et financier, ou d'un
-organisme cité à l'article L. 518-1 dudit code, doivent en faire la déclaration dans les conditions fixées par décret (1).
-
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 600 euros.
+Les transferts des sommes, titres ou valeurs réalisés par des personnes physiques vers un Etat membre de l'Union européenne
+ou en provenance d'un Etat membre de l'Union européenne sont effectués conformément à l' article L. 152-1 du code monétaire
+et financier . 
 
 Les sommes, titres ou valeurs transférés vers l'étranger ou en provenance de l'étranger constituent, sauf preuve contraire,
-des revenus imposables lorsque le contribuable n'a pas rempli les obligations prévues aux premier et deuxième alinéas.
+des revenus imposables lorsque le contribuable n'a pas rempli les obligations prévues à l'article L. 152-1 du code monétaire
+et financier.
 
 **Nota:**
 
-(1) Voir l'article 344 I bis de l'annexe III.
+Modification effectuée en conséquence de l'article L. 152-1 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
 _Cité par_:
 
@@ -30,3 +24,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1758 (V)
   - Code général des impôts, CGI. - art. 1759 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I bis (P)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L152-1
