@@ -59,8 +59,8 @@ IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activ
 value constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou
 d'annulation de ces parts. Ce report est maintenu dans les conditions prévues au paragraphe III. 
 
-IV bis.-Le I de l'article 151 octies B est applicable à l'apport de l'intégralité des droits ou parts mentionnés au I du
-présent article dans les conditions suivantes : 
+IV bis.-Le I de l'article 151 octies B est applicable à l'apport de l'intégralité des droits ou parts mentionnés au I dans
+les conditions suivantes : 
 
 1° L'actif de la société ou du groupement dont les droits ou parts sont apportés n'est pas principalement constitué de biens
 immobiliers bâtis ou non bâtis qui ne sont pas affectés par la société ou le groupement à sa propre exploitation, de droits
@@ -93,11 +93,6 @@ l'article 170 au titre de l'année au cours de laquelle les plus-values bénéfi
 des années suivantes un état faisant apparaître les renseignements nécessaires au suivi des plus-values dont l'imposition est
 reportée. Un décret précise le contenu de cet état.
 
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 art. 19 VI : L'article 19 de la loi n° 2007-1824 est applicable aux apports réalisés à
-compter du 1er janvier 2007.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -117,5 +112,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 43
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 19 (V)
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 151 octies B
+  - Code général des impôts, CGI. - art. 151 septies
+  - Code général des impôts, CGI. - art. 170
+  - Code général des impôts, CGI. - art. 38
+  - Code général des impôts, CGI. - art. 72
+  - Code général des impôts, CGI. - art. 8
+  - Code général des impôts, CGI. - art. 8 ter
+  - Code général des impôts, CGI. - art. 885 O bis
+  - Code général des impôts, CGI. - art. 93
+  - Code monétaire et financier - art. L313-7
