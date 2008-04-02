@@ -9,48 +9,46 @@ et le 31 décembre 2017.
 2. La réduction d'impôt s'applique : 
 
 a) Au prix de revient de l'acquisition ou de la construction régulièrement autorisée par un permis de construire d'un
-immeuble neuf situé dans les départements, territoires ou collectivités visés au 1, que le propriétaire prend l'engagement
-d'affecter dès l'achèvement ou l'acquisition si elle est postérieure à son habitation principale pendant une durée de cinq
-ans ; 
+immeuble neuf situé dans les départements ou collectivités visés au 1, que le propriétaire prend l'engagement d'affecter dès
+l'achèvement ou l'acquisition si elle est postérieure à son habitation principale pendant une durée de cinq ans ; 
 
 b) Au prix de revient de l'acquisition ou de la construction régulièrement autorisée par un permis de construire d'un
-immeuble neuf situé dans les départements, territoires ou collectivités visés au 1, que le propriétaire prend l'engagement de
-louer nu dans les six mois de l'achèvement ou de l'acquisition si elle est postérieure pendant cinq ans au moins à des
-personnes, autres que son conjoint ou un membre de son foyer fiscal, qui en font leur habitation principale ; 
+immeuble neuf situé dans les départements ou collectivités visés au 1, que le propriétaire prend l'engagement de louer nu
+dans les six mois de l'achèvement ou de l'acquisition si elle est postérieure pendant cinq ans au moins à des personnes,
+autres que son conjoint ou un membre de son foyer fiscal, qui en font leur habitation principale ; 
 
 c) Au prix de souscription de parts ou actions de sociétés dont l'objet réel est exclusivement de construire des logements
-neufs situés dans les départements, territoires ou collectivités visés au 1 et qu'elles donnent en location nue pendant cinq
-ans au moins à compter de leur achèvement à des personnes, autres que les associés de la société, leur conjoint ou les
-membres de leur foyer fiscal, qui en font leur habitation principale. Ces sociétés doivent s'engager à achever les fondations
-des immeubles dans les deux ans qui suivent la clôture de chaque souscription annuelle. Les souscripteurs doivent s'engager à
-conserver les parts ou actions pendant cinq ans au moins à compter de la date d'achèvement des immeubles ; 
+neufs situés dans les départements ou collectivités visés au 1 et qu'elles donnent en location nue pendant cinq ans au moins
+à compter de leur achèvement à des personnes, autres que les associés de la société, leur conjoint ou les membres de leur
+foyer fiscal, qui en font leur habitation principale. Ces sociétés doivent s'engager à achever les fondations des immeubles
+dans les deux ans qui suivent la clôture de chaque souscription annuelle. Les souscripteurs doivent s'engager à conserver les
+parts ou actions pendant cinq ans au moins à compter de la date d'achèvement des immeubles ; 
 
 d) Aux souscriptions au capital de sociétés civiles régies par la loi n° 70-1300 du 31 décembre 1970 fixant le régime
 applicable aux sociétés civiles autorisées à faire publiquement appel à l'épargne, lorsque la société s'engage à affecter
 intégralement le produit de la souscription annuelle, dans les six mois qui suivent la clôture de celle-ci, à l'acquisition
-de logements neufs situés dans les départements, territoires ou collectivités visés au 1 et affectés pour 90 % au moins de
-leur superficie à usage d'habitation. Ces sociétés doivent s'engager à louer les logements nus pendant cinq ans au moins à
-compter de leur achèvement ou de leur acquisition si elle est postérieure à des locataires, autres que les associés de la
-société, leur conjoint ou les membres de leur foyer fiscal, qui en font leur habitation principale. Les souscripteurs doivent
-s'engager à conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ; 
+de logements neufs situés dans les départements ou collectivités visés au 1 et affectés pour 90 % au moins de leur superficie
+à usage d'habitation. Ces sociétés doivent s'engager à louer les logements nus pendant cinq ans au moins à compter de leur
+achèvement ou de leur acquisition si elle est postérieure à des locataires, autres que les associés de la société, leur
+conjoint ou les membres de leur foyer fiscal, qui en font leur habitation principale. Les souscripteurs doivent s'engager à
+conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ; 
 
 e) Au montant des travaux de réhabilitation réalisés par une entreprise, à l'exclusion de ceux qui constituent des charges
 déductibles des revenus fonciers en application de l'article 31, et portant sur des logements achevés depuis plus de quarante
-ans, situés dans les départements, collectivités ou territoires visés au 1, que le propriétaire prend l'engagement, pour une
-durée de cinq ans, soit d'affecter dès l'achèvement des travaux à son habitation principale, soit de louer nu dans les six
-mois qui suivent l'achèvement des travaux à des personnes qui en font leur habitation principale et autres que son conjoint
-ou un membre de son foyer fiscal. Un décret détermine les conditions d'application de ces dispositions, et notamment la
-nature des travaux de réhabilitation éligibles ; 
+ans, situés dans les départements ou collectivités visés au 1, que le propriétaire prend l'engagement, pour une durée de cinq
+ans, soit d'affecter dès l'achèvement des travaux à son habitation principale, soit de louer nu dans les six mois qui suivent
+l'achèvement des travaux à des personnes qui en font leur habitation principale et autres que son conjoint ou un membre de
+son foyer fiscal. Un décret détermine les conditions d'application de ces dispositions, et notamment la nature des travaux de
+réhabilitation éligibles ; 
 
-f) Aux souscriptions en numéraire au capital des sociétés de développement régional des départements, territoires ou
-collectivités visés au 1 ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant
-dans les douze mois de la clôture de la souscription des investissements productifs neufs dans ces départements, territoires
-ou collectivités et dont l'activité réelle se situe dans les secteurs éligibles pour l'application des dispositions du I de
-l'article 199 undecies B. Lorsque la société affecte tout ou partie de la souscription à la construction d'immeubles destinés
-à l'exercice d'une activité située dans l'un de ces secteurs, elle doit s'engager à en achever les fondations dans les deux
-ans qui suivent la clôture de la souscription. La société doit s'engager à maintenir l'affectation des biens à l'activité
-dans les secteurs visés ci-dessus pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale
-d'utilisation si elle est inférieure ; 
+f) Aux souscriptions en numéraire au capital des sociétés de développement régional des départements ou collectivités visés
+au 1 ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant dans les douze mois de
+la clôture de la souscription des investissements productifs neufs dans ces départements ou collectivités et dont l'activité
+réelle se situe dans les secteurs éligibles pour l'application des dispositions du I de l'article 199 undecies B. Lorsque la
+société affecte tout ou partie de la souscription à la construction d'immeubles destinés à l'exercice d'une activité située
+dans l'un de ces secteurs, elle doit s'engager à en achever les fondations dans les deux ans qui suivent la clôture de la
+souscription. La société doit s'engager à maintenir l'affectation des biens à l'activité dans les secteurs visés ci-dessus
+pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est inférieure ; 
 
 g) Aux souscriptions en numéraire, agréées par le ministre chargé du budget, au capital de sociétés qui ont pour objet le
 financement par souscriptions en numéraire au capital ou par prêts participatifs, selon des modalités et limites fixées par
@@ -59,7 +57,7 @@ undecies B et qui affectent ces prêts et souscriptions à l'acquisition et à l
 neufs. 
 
 Ces sociétés spécialisées ne bénéficient pas, pour la détermination de leur propre résultat, des déductions prévues à
-l'article 217 undecies.
+l'article 217 undecies. 
 
 L'équivalent de 60 % de la réduction d'impôt ainsi obtenue doit bénéficier à l'entreprise qui acquiert et exploite
 l'investissement ; 
@@ -82,7 +80,7 @@ le montant est supérieur à 4 600 000 euros doit avoir été portée, préalabl
 ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. 
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour
-les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 1 959 euros hors taxes par mètre carré de surface
+les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 058 euros hors taxes par mètre carré de surface
 habitable. Cette limite est relevée chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur
 quatre trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique
 et des études économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui
@@ -137,11 +135,25 @@ Le décès du contribuable ou de l'un des époux soumis à imposition commune au
 La location d'un logement neuf consentie dans les conditions fixées par décret à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 5 et 8 de la loi n° 2003-276 du 28 mars 2003 et de l'article 58-I de la
+loi n° 2004-1485 du 30 décembre 2004.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°70-1300 du 31 décembre 1970
+  - Loi n°95-115 du 4 février 1995 - art. 42
+  - Loi n°2003-660 du 21 juillet 2003
+  - Code général des impôts, CGI. - art. 210 A
+  - Code général des impôts, CGI. - art. 210 B
+  - Code général des impôts, CGI. - art. 4 B
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 105 (V)
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
 _Cité par_:
 

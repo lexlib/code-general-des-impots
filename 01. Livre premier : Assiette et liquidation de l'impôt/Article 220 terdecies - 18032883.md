@@ -12,9 +12,9 @@ ligne intégrant des éléments de création artistique et technologique, propos
 d'interactions s'appuyant sur une trame scénarisée ou des situations simulées et se traduisant sous forme d'images animées,
 sonorisées ou non. 
 
-III.- A.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent répondre aux conditions suivantes : 
+III.- 1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent répondre aux conditions suivantes : 
 
-1° Avoir un coût de développement supérieur ou égal à 150 000 € ; 
+1° Avoir un coût de développement supérieur ou égal à 150 000 euros ; 
 
 2° Etre destinés à une commercialisation effective auprès du public ; 
 
@@ -31,10 +31,10 @@ artistiques.
 Le respect des conditions de création prévues aux 3° et 4° est vérifié au moyen d'un barème de points dont le contenu est
 fixé par décret.
 
-B.- N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou
+2.- N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou
 de très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs. 
 
-IV.- A.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du
+IV.- 1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du
 montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de la
 Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France
 une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion
@@ -60,7 +60,7 @@ frais postaux et de communication électronique ;
 entreprises ou organismes. Ces dépenses entrent dans la base de calcul du crédit d'impôt dans la limite d'un million d'euros
 par exercice.
 
-B.- Les dépenses mentionnées au A ouvrent droit au bénéfice du crédit d'impôt à compter de la date de réception par le
+2.- Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt à compter de la date de réception par le
 directeur général du Centre national de la cinématographie d'une demande d'agrément provisoire. Cet agrément est délivré
 après sélection par un comité d'experts chargé de vérifier que le jeu vidéo remplit les conditions prévues au III.
 
@@ -118,9 +118,14 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 223 O (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YZH (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 91
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L113-1
+  - Code général des impôts, CGI. - art. 44 sexies
 
 _Anciens textes_:
 
