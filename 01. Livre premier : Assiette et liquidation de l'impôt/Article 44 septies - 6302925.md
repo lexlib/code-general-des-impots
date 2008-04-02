@@ -120,10 +120,11 @@ l'exercice.
 
 VI. - Lorsque les sociétés créées pour reprendre une entreprise industrielle en difficulté mentionnées au I ne satisfont pas
 aux conditions mentionnées aux II et III, le bénéfice de l'exonération prévue au I est subordonné au respect du règlement
-(CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. 
+(CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides
+de minimis. 
 
-VII. - Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 octies A et
-du régime prévu au présent article, la société peut opter pour ce dernier régime dans les six mois suivant celui du début
+VII. 2. - Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 octies A
+et du régime prévu au présent article, la société peut opter pour ce dernier régime dans les six mois suivant celui du début
 d'activité. Cette option est irrévocable.
 
 VIII. - L'agrément prévu aux II et III est accordé lorsque sont remplies les conditions suivantes :
@@ -153,9 +154,14 @@ octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code général des impôts, CGI L626-1, L631-22, 53, 39, 44 octies, 221, 1727
+  - Code de commerce - art. L642-1
+
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
 _Cité par_:
 
