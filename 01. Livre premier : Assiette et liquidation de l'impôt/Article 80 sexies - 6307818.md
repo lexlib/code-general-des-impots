@@ -1,31 +1,31 @@
 # Article 80 sexies
 
 Pour l'assiette de l'impôt sur le revenu dont sont redevables les assistants maternels et les assistants familiaux régis par
-les articles L. 421-1 et suivants du code de l'action sociale et des familles et par les articles L. 773-1 et suivants du
-code du travail, le revenu brut à retenir est égal à la différence entre, d'une part, le total des sommes versées tant à
-titre de rémunération que d'indemnités pour l'entretien et l'hébergement des enfants et, d'autre part, une somme égale à
-trois fois le montant horaire du salaire minimum de croissance, par jour et pour chacun des enfants qui leur sont confiés.
+les articles L. 421-1 et suivants et L. 423-1 et suivants du code de l'action sociale et des familles, le revenu brut à
+retenir est égal à la différence entre, d'une part, le total des sommes versées tant à titre de rémunération que d'indemnités
+pour l'entretien et l'hébergement des enfants et, d'autre part, une somme égale à trois fois le montant horaire du salaire
+minimum de croissance, par jour et pour chacun des enfants qui leur sont confiés. 
 
 Cette somme est portée à quatre fois le montant horaire du salaire minimum de croissance par jour et par enfant ouvrant droit
-à la majoration prévue à l'article L. 773-10 du code du travail.
+à la majoration prévue à l'article L. 423-13 du code de l'action sociale et des familles.
 
-Pour les revenus perçus depuis le 1er janvier 1980, il est ajouté aux sommes prévues ci-dessus une somme égale à une fois le
-montant horaire du salaire minimum de croissance lorsque la durée de garde de l'enfant est de vingt-quatre heures
-consécutives.
+Il est ajouté aux sommes prévues ci-dessus une somme égale à une fois le montant horaire du salaire minimum de croissance
+lorsque la durée de garde de l'enfant est de vingt-quatre heures consécutives. 
 
 Le montant de l'abattement retenu pour déterminer la rémunération imposable des assistants maternels et des assistants
 familiaux ne peut excéder le total des sommes versées tant à titre de rémunération que d'indemnités pour l'entretien et
 l'hébergement des enfants.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 16-II-4° de la loi n° 2005-706 du 27 juin 2005 et de l'article 5-6° de
+l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Loi n°2005-706 du 27 juin 2005 - art. 40 () JORF 28 juin 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
 _Cité par_:
 
@@ -35,3 +35,9 @@ _Cité par_:
   - Décret n°2019-1574 du 30 décembre 2019 - art. 26 (V)
   - Code de la sécurité sociale. - art. D133-13-10 (V)
   - Code général des impôts, CGI. - art. 204 F (VD)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L421-1
+  - Code de l'action sociale et des familles - art. L423-1
+  - Code de l'action sociale et des familles - art. L423-13
