@@ -1,6 +1,6 @@
 # Article 200 duodecies
 
-I. - Les personnes domiciliées en France au sens de l'article 4 B qui changent d'habitation principale pour exercer une
+I. – Les personnes domiciliées en France au sens de l'article 4 B qui changent d'habitation principale pour exercer une
 activité salariée bénéficient d'un crédit d'impôt sur le revenu, lorsque les conditions suivantes sont réunies :
 
 1° L'activité doit avoir débuté entre le 1er juillet 2005 et le 31 décembre 2007 et être exercée pendant une durée au moins
@@ -10,34 +10,38 @@ activité salariée bénéficient d'un crédit d'impôt sur le revenu, lorsque l
 veuvage, de l'allocation supplémentaire d'invalidité, de l'allocation de parent isolé, de l'allocation aux adultes
 handicapés, de l'allocation supplémentaire du Fonds de solidarité vieillesse, du revenu minimum d'insertion ou de
 l'allocation de solidarité spécifique, pendant les douze mois précédant le début de l'activité mentionnée au 1°, ou avoir
-pris cette activité consécutivement à un licenciement pour motif économique au sens de l'article L. 321-1 du code du travail
-ou la mise en oeuvre effective d'un plan de sauvegarde de l'emploi au sens des articles L. 321-4 et L. 321-4-1 du même code ;
+pris cette activité consécutivement à un licenciement pour motif économique au sens de l'article L. 1233-3 du code du travail
+ou la mise en oeuvre effective d'un plan de sauvegarde de l'emploi au sens des articles L. 1233-61 à L. 1233-64 du même
+code ;
 
 3° La nouvelle habitation principale doit se situer à plus de 200 kilomètres de celle précédemment occupée avant le début de
 l'activité mentionnée au 1°.
 
-II. - Le crédit d'impôt sur le revenu est égal à 2 000 euros. Il est accordé au titre de l'année au cours de laquelle
-s'achève la période de six mois mentionnée au 1° du I et s'impute sur l'impôt afférent aux revenus de l'année considérée,
-après prise en compte des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis et à l'article 200 octies, des
-autres crédits d'impôt et des prélèvements ou retenues non libératoires. Si le montant du crédit d'impôt sur le revenu est
-supérieur à celui de l'impôt dû, l'excédent est restitué.
+II. – Le crédit d'impôt sur le revenu est égal à 2 000 €. Il est accordé au titre de l'année au cours de laquelle s'achève la
+période de six mois mentionnée au 1° du I et s'impute sur l'impôt afférent aux revenus de l'année considérée, après prise en
+compte des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis et à l'article 200 octies, des autres crédits
+d'impôt et des prélèvements ou retenues non libératoires. Si le montant du crédit d'impôt sur le revenu est supérieur à celui
+de l'impôt dû, l'excédent est restitué.
 
 Le crédit d'impôt sur le revenu est accordé une seule fois par bénéficiaire au titre de la période d'activité qui a débuté
 entre le 1er juillet 2005 et le 31 décembre 2007.
 
-III. - (abrogé)
+III. – (abrogé)
 
 **Nota:**
 
-Loi 2006-1771 2006-12-30 art. 74 II : " Le 1° du I est applicable aux contribuables dont la période de six mois d'activité
-mentionnée au 1° du I de l'article 200 duodecies du code général des impôts s'achève après le 31 décembre 2006. "
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 74 (V) JORF 31 décembre 2006
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 199 quater B
+  - Code général des impôts, CGI. - art. 200 octies
+  - Code général des impôts, CGI. - art. 4 B
+  - Code du travail - art. L1233-3
+  - Code du travail - art. L1233-61
