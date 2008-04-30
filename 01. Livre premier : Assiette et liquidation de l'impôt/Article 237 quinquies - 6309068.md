@@ -1,20 +1,23 @@
 # Article 237 quinquies
 
-Les contributions mises à la charge des employeurs et des membres des professions non salariées, destinées à alimenter les
-fonds d'assurance-formation prévus aux articles L. 961-9 et L. 961-10 du code du travail, sont déductibles pour
-l'établissement de l'impôt sur le revenu et de l'impôt sur les sociétés.
+Conformément aux dispositions du deuxième alinéa de l'article L. 6332-8 du code du travail, les contributions versées par les
+employeurs aux fonds d'assurance-formation sont déductibles pour l'établissement de l'impôt sur le revenu ou de l'impôt sur
+les sociétés dû par ces employeurs.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
-
-**Liens**:
-
-  - HISTO: Edition du 20 juillet 1984
-
 _Modifié par_:
 
-  - Loi n°78-754 1978-07-17 art. 11 JORF 18 juillet 1978
-  - Loi n°84-130 1984-02-28 art. 11 III JORF 25 février 1984
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2018-771 du 5 septembre 2018 - art. 37 (V)
+
+_Cite_:
+
+  - Code du travail - art. L6332-8
