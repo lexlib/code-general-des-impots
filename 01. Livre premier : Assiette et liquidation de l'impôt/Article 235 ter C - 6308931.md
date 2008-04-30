@@ -1,20 +1,18 @@
 # Article 235 ter C
 
-Cet article reproduit les dispositions de l'article L. 950-1 du code du travail :
+Conformément aux dispositions de l'article L. 6331-1 du code du travail, tout employeur, à l'exception de l'Etat, des
+collectivités locales et de leurs établissements publics à caractère administratif, concourt au développement de la formation
+professionnelle continue dans les conditions définies par ce même article.
 
-"Tout employeur, à l'exception de l'Etat, des collectivités locale et de leurs établissements publics à caractère
-administratif, doit concourir au développement de la formation professionnelle continue en participant, chaque année, au
-financement des actions mentionnées à l'article L. 900-2 et à l'article L. 900-3."
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
 _Cité par_:
 
@@ -26,6 +24,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1655 septies (V)
   - Code général des impôts, CGI. - art. 235 ter F (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2005
+  - Code du travail - art. L6331-1

@@ -1,31 +1,26 @@
 # Article 1724 quater
 
-Cet article reproduit les dispositions de l'article L. 324-13-1 du code du travail :
+Toute personne qui ne procède pas aux vérifications prévues à l'article L. 8222-1 du code du travail ou qui a été condamnée
+pour avoir recouru directement ou par personne interposée aux services de celui qui exerce un travail dissimulé est,
+conformément à l'article L. 8222-2 du même code, tenue solidairement au paiement des sommes mentionnées à ce même article
+dans les conditions prévues à l'article L. 8222-3 du code précité.
 
-"Toute personne condamnée pour avoir recouru directement ou par personne interposée aux services de celui qui exerce un
-travail dissimulé est tenue solidairement avec ce dernier :
+**Nota:**
 
-1° Au paiement des impôts, taxes et cotisations obligatoires ainsi que des pénalités et majorations dus par celui-ci au
-Trésor et aux organismes de protection sociale ;
-
-2° Le cas échéant, au remboursement des sommes correspondant au montant des aides publiques dont il a bénéficié ;
-
-3° Au paiement des rémunérations, indemnités et charges dues par celui-ci à raison de l'emploi de salariés n'ayant pas fait
-l'objet de l'une des formalités prévues aux articles L. 143-3 et L. 320.
-
-Les sommes dont le paiement est exigible en application des alinéas précédents sont déterminées au prorata de la valeur des
-travaux réalisés, des services fournis, du bien vendu et de la rémunération en vigueur dans la profession."
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
-**Liens**:
+_Anciens textes_:
 
-  - HISTO: Edition du 1er janvier 2005
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1724 quater A (T)
+
+_Cite_:
+
+  - Code du travail - art. L8222-1
+  - Code du travail - art. L8222-2
+  - Code du travail - art. L8222-3
