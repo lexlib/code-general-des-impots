@@ -1,31 +1,23 @@
 # Article 235 ter KC
 
-Cet article reproduit les dispositions de l'article L. 952-3 du code du travail :
+Conformément et dans les conditions prévues à l'article L. 6331-6 du code du travail, le versement prévu à l'article 235 ter
+KA est majoré du montant de l'insuffisance constatée.
 
-"Lorsqu'un employeur n'a pas effectué les versements à l'organisme collecteur mentionné à l'avant-dernier alinéa de l'article
-L. 952-1 avant le 1er mars de l'année suivant celle au titre de laquelle est due la contribution, ou a effectué un versement
-insuffisant, le montant de sa participation au financement de la formation professionnelle continue est majoré de
-l'insuffisance constatée. L'employeur est tenu de verser au Trésor public, lors du dépôt de la déclaration prévue à l'article
-L. 952-4, un montant égal à la différence constatée entre sa participation ainsi majorée au financement de la formation
-professionnelle continue et son versement à l'organisme collecteur. Le montant de ce versement est établi et recouvré selon
-les modalités ainsi que sous les sûretés, garanties et sanctions applicables en matière de taxe sur le chiffre d'affaires.
+**Nota:**
 
-Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 991-1 et L. 991-4
-pour les litiges relatifs à la réalité et à la validité des versements faits aux organismes collecteurs visés à l'article L.
-952-1 sont effectués selon les règles applicables en matière de taxe sur le chiffre d'affaires.
-
-Le reversement mentionné au dernier alinéa de l'article L. 952-2 est soumis aux dispositions des deux alinéas précédents."
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
-**Liens**:
+_Abrogé par_:
 
-  - HISTO: Edition du 1er janvier 2005
+  - Loi n°2018-771 du 5 septembre 2018 - art. 37 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 235 ter KA (VT)
+  - Code du travail - art. L6331-6

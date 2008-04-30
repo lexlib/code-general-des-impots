@@ -1,21 +1,19 @@
 # Article 1724 quater C
 
-Cet article reproduit les dispositions de l'article L. 324-14-2 du code du travail :
+Conformément à l'article L. 8222-4 du code du travail, lorsque le cocontractant est établi ou domicilié à l'étranger, les
+obligations dont le respect fait l'objet de vérifications sont celles qui résultent de la réglementation de son pays
+d'origine et celles qui lui sont applicables au titre de son activité en France.
 
-"Lorsque le cocontractant intervenant sur le territoire national est établi ou domicilié à l'étranger, les obligations dont
-le respect doit être vérifié sont celles qui résultent de la réglementation d'effet équivalent de son pays d'origine et
-celles qui lui sont applicables au titre de son activité en France."
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2005-330 2005-04-06
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
+  - Code du travail - art. L8222-4

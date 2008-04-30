@@ -3,31 +3,28 @@
 I. Les intérêts des sommes inscrites aux comptes spéciaux sur livrets ouverts, dans des conditions définies par décret, par
 les caisses de crédit mutuel adhérentes à la confédération nationale du crédit mutuel au nom des organismes énumérés au II
 sont soumis au prélèvement sur les produits de placements à revenu fixe selon les modalités prévues au II bis de l'article
-125 A.
+125 A. 
 
 Les organismes qui reçoivent de tels intérêts n'ont pas à les comprendre dans leurs revenus imposables. 
 
-II. Peuvent bénéficier des dispositions du I :
+II. Peuvent bénéficier des dispositions du I : 
 
 1° Les associations à but non lucratif régies par la loi du 1er juillet 1901 ou régies par la loi locale maintenue en vigueur
 dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ; 
 
-2° Les organismes sans but lucratif à caractère cultuel ;
+2° Les organismes sans but lucratif à caractère cultuel ; 
 
-3° Les syndicats professionnels et leurs unions visés au chapitre Ier du titre Ier du livre IV du code du travail ;
+3° Les syndicats professionnels et leurs unions mentionnés au titre III du livre Ier de la deuxième partie du code du
+travail ; 
 
 4° Les comités d'entreprise.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°83-899 1983-10-06
-
-**Liens**:
-
-  - HISTO: Edition du 10 juillet 1983
-
-_Créé par_:
-
-  - Loi n°82-1152 du 30 décembre 1982 - art. 24 (V) JORF 31 décembre 1982
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
