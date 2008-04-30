@@ -1,18 +1,23 @@
 # Article 235 ter H bis
 
-Les règles particulières relatives aux versements prévus au troisième et quatrième alinéas de l'article L. 951-1 du code du
-travail sont fixées par l'article L. 951-3 du même code.
+Conformément et dans les conditions prévues à l'article L. 6331-30 du code du travail, le versement prévu à l'article 235 ter
+G est majoré du montant de l'insuffisance constatée.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-356 2006-03-24
-
 _Modifié par_:
 
-  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
-**Liens**:
+_Abrogé par_:
 
-  - HISTO: Edition du 1er janvier 2006
+  - Loi n°2018-771 du 5 septembre 2018 - art. 37 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 235 ter G (VT)
+  - Code du travail - art. L6331-30
