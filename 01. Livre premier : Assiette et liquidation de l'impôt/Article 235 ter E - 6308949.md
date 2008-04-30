@@ -1,38 +1,25 @@
 # Article 235 ter E
 
-Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter D :
+Le seuil d'effectif salarié mentionné à l'article 235 ter D est apprécié conformément aux dispositions prévues aux articles
+L. 1111-2 et L. 1111-3 du code du travail. S'agissant des entreprises de travail temporaire, l'effectif salarié est calculé
+conformément aux dispositions de l'article L. 1251-54 du même code.
 
-a) (disjoint)
+**Nota:**
 
-b) (sans objet)
-
-c) L'effectif des salariés employés par les entreprises de travail temporaire est calculé en ajoutant au nombre des salariés
-permanents le nombre moyen par jour ouvrable des salariés qui ont été liés par un contrat de travail temporaire au cours de
-l'exercice ;
-
-d) e) et f) (disjoint)
-
-Conformément aux dispositions des articles L. 981-8, L. 322-4-9, L. 117-11-1 et au V de l'article L. 832-2 du code du
-travail, les titulaires des contrats de travail définis à l'article L. 981-1 du code précité, les bénéficiaires des contrats
-mentionnés aux articles L. 322-4-7 et L. 322-4-10 du même code, les apprentis et dans les départements d'outre-mer et la
-collectivité territoriale de Saint-Pierre-et-Miquelon les salariés bénéficiaires d'un contrat d'accès à l'emploi ne sont pas
-pris en compte dans le calcul de l'effectif dont ils relèvent pour l'application des dispositions législatives et
-réglementaires qui se réfèrent à une condition d'effectif minimum de salariés.
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
-
 _Modifié par_:
 
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 235 ter D
+  - Code du travail - art. L1111-2
+  - Code du travail - art. L1251-54
 
 _Cité par_:
 
   - Code monétaire et financier - art. D214-61 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
