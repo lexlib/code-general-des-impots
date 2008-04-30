@@ -1,21 +1,18 @@
 # Article 235 ter JA
 
-Cet article reproduit les dispositions du II de l'article L. 951-9 du code du travail :
+Conformément aux dispositions de l'article L. 6331-33 du code du travail, le contrôle et le contentieux de la participation
+des employeurs sont réalisés selon les règles applicables en matière de taxe sur le chiffre d'affaires.
 
-"II.- Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 991-1 à L.
-991-8 pour les litiges relatifs à la réalité et à la validité des dépenses de formation, sont effectués selon les règles
-applicables en matière de taxe sur le chiffre d'affaires."
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2005
+  - Code du travail - art. L6331-33

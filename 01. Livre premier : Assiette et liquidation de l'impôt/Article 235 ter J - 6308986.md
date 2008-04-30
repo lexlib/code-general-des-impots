@@ -1,37 +1,29 @@
 # Article 235 ter J
 
-Cet article reproduit les dispositions de l'article L. 951-12 du code du travail :
+Conformément aux dispositions de l'article L. 6331-32 du code du travail, l'employeur dépose, auprès du service des impôts
+compétent, une déclaration contenant les éléments mentionnés à ce même article.
 
-"I. - Les employeurs sont tenus de remettre au service des impôts compétent une déclaration en double exemplaire, indiquant
-notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties, en vertu de
-l'article L. 951-1.
+**Nota:**
 
-Les employeurs qui occupent au moins cinquante salariés attestent sur l'honneur qu'ils ont satisfait à l'obligation de
-consultation du comité d'entreprise prévue à l'article L. 951-8. A la demande de l'administration, ils doivent produire les
-procès-verbaux justifiant du respect de cette obligation.
-
-II. - La déclaration prévue au I ci-dessus doit être produite au plus tard le 30 avril de l'année suivant celle au cours de
-laquelle les dépenses définies à l'article L. 951-1 ont été effectuées.
-
-En cas de cession ou de cessation d'entreprise, la déclaration afférente à l'année en cours et, le cas échéant, celle
-afférente à l'année précédente, sont déposées dans les soixante jours de la cession ou de la cessation. En cas de décès de
-l'employeur, ces déclarations sont déposées dans les six mois qui suivent la date du décès.
-
-En cas de règlement judiciaire ou de liquidation des biens, elles sont produites dans les soixante jours de la date du
-jugement."
+Modifications effectuées en conséquence de l'article 10-I [12°] et II de la loi n° 2014-288 du 5 mars 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2005-1720 2005-12-30 art. 103 3° Finances rectificative pour 2005 JORF 31 décembre 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+**Liens**:
+
+  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 235 ter KL (Dis)
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 duodecies (Dis)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 163 quaterdecies (Dis)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (M)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2006
+  - Code du travail - art. L6331-32
