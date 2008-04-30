@@ -1,25 +1,25 @@
 # Article 231 bis P
 
 Les rémunérations versées par un particulier pour l'emploi d'un seul salarié à domicile dans les conditions prévues à
-l'article 199 sexdecies ou d'un seul assistant maternel régi par les articles L. 421-1 et suivants du code de l'action
-sociale et des familles et par les articles L. 773-1 et suivants du code du travail sont exonérées de taxe sur les salaires.
+l'article 199 sexdecies ou d'un seul assistant maternel régi par les articles L. 421-1 et suivants et L. 423-1 et suivants du
+code de l'action sociale et des familles sont exonérées de taxe sur les salaires. 
 
 La même exonération s'applique pour l'emploi de plusieurs salariés à domicile dont la présence au domicile de l'employeur est
 nécessitée par l'obligation pour ce dernier ou toute autre personne présente à son foyer de recourir à l'assistance d'une
 tierce personne pour accomplir les actes ordinaires de la vie.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 5-6° de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-356 2006-03-24
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
 
 _Modifié par_:
 
-  - Loi n°2005-706 du 27 juin 2005 - art. 16 () JORF 28 juin 2005
-  - Loi n°2005-706 du 27 juin 2005 - art. 6 () JORF 28 juin 2005
-  - Loi n°2005-706 du 27 juin 2005 - art. 7 () JORF 28 juin 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 199 sexdecies
+  - Code de l'action sociale et des familles - art. L421-1 (V)
+  - Code de l'action sociale et des familles - art. L423-1 (V)
