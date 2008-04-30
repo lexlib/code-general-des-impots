@@ -1,22 +1,21 @@
 # Article 235 ter H ter
 
-Cet article reproduit les dispositions du dixième alinéa de l'article L. 951-3 du code du travail :
+Conformément aux dispositions de l'article L. 6331-31 du code du travail, le montant mentionné à l'article 235 ter D est
+majoré de 50 % lorsque les employeurs de cinquante salariés et plus ne satisfont pas à l'obligation de consultation prévue à
+l'article 235 ter F.
 
-"Les emplois de fonds qui ne répondent pas aux règles posées par le présent article et par les textes pris pour son
-application donnent lieu à un reversement de même montant par l'organisme paritaire agréé au Trésor public."
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-356 2006-03-24
-
-**Liens**:
-
-  - DISJONCTION: Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
-  - HISTO: Edition du 1er janvier 2005
-  - HISTO: Edition du 1er janvier 2006
+  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter D (VT)
+  - Code général des impôts, CGI. - art. 235 ter F
+  - Code du travail - art. L6331-31
