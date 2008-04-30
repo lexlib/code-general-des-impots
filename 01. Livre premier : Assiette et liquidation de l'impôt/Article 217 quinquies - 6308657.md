@@ -1,6 +1,6 @@
 # Article 217 quinquies
 
-I. - Pour la détermination de leurs résultats fiscaux, les sociétés peuvent déduire les charges exposées du fait de la levée
+I. – Pour la détermination de leurs résultats fiscaux, les sociétés peuvent déduire les charges exposées du fait de la levée
 des options de souscription ou d'achat d'actions consenties à leurs salariés en application des articles L. 225-177 à L.
 225-184 du code de commerce ainsi que du fait de l'attribution gratuite d'actions en application des articles L. 225-197-1 à
 L. 225-197-3 du même code.
@@ -8,10 +8,10 @@ L. 225-197-3 du même code.
 Les dispositions de l'article 39 duodecies s'appliquent aux moins-values qui résultent de la différence entre le prix de
 souscription des actions par les salariés et leur valeur d'origine.
 
-II. - Les entreprises peuvent pratiquer une déduction au titre de l'exercice au cours duquel elles ont émis des actions au
+II. – Les entreprises peuvent pratiquer une déduction au titre de l'exercice au cours duquel elles ont émis des actions au
 profit de leurs salariés en application d'une attribution gratuite d'actions à émettre ou de la levée d'options de
 souscription d'actions mentionnées au premier alinéa du I ou en application d'une augmentation de capital réservée aux
-adhérents d'un plan d'épargne d'entreprise mentionnée à l'article L. 443-5 du code du travail.
+adhérents d'un plan d'épargne d'entreprise mentionnée à l'article L. 3332-18 du code du travail.
 
 Le premier alinéa s'applique sous réserve que :
 
@@ -26,21 +26,23 @@ capital et leur prix de souscription.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2006-1770 du 30 décembre 2006 - art. 34 () JORF 31 décembre 2006
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2007-484 2007-03-30
+  - Code de commerce - art. L225-177
+  - Code de commerce - art. L225-197
+  - Code général des impôts, CGI. - art. 39 duodecies
+  - Code du travail - art. L3332-18
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YD (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
