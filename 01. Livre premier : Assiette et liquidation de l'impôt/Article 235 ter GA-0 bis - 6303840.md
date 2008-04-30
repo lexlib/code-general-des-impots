@@ -1,8 +1,12 @@
 # Article 235 ter GA-0 bis
 
-Conformément aux dispositions de l'article L. 951-10 du code du travail, les employeurs qui effectuent, au cours d'une année,
-un montant de dépenses supérieur à celui prévu à l'article 235 ter D, peuvent reporter l'excédent sur les trois années
+Conformément aux dispositions de l'article L. 6331-29 du code du travail, les employeurs qui effectuent, au cours d'une
+année, un montant de dépenses supérieur à celui prévu à l'article 235 ter D, peuvent reporter l'excédent sur les trois années
 suivantes.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
@@ -10,14 +14,15 @@ _Anciens textes_:
 
   - CGI 235 ter H
 
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
-
 _Modifié par_:
 
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Décret n°2008-294 du 1er avril 2008 - art. 1
 
-**Liens**:
+_Abrogé par_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Loi n°2014-288 du 5 mars 2014 - art. 10 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 235 ter D
+  - Code du travail - art. L6331-29
