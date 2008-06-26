@@ -34,23 +34,41 @@ prévisionnelle des emplois et des compétences dans les conditions prévues à 
 n'excédant pas quatre fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du
 versement des indemnités. 
 
+6° La fraction des indemnités prévues à l'article L. 1237-13 du code du travail versées à l'occasion de la rupture
+conventionnelle du contrat de travail d'un salarié lorsqu'il n'est pas en droit de bénéficier d'une pension de retraite d'un
+régime légalement obligatoire, qui n'excède pas : 
+
+a) Soit deux fois le montant de la rémunération annuelle brute perçue par le salarié au cours de l'année civile précédant la
+rupture de son contrat de travail, ou 50 % du montant de l'indemnité si ce seuil est supérieur, dans la limite de six fois le
+plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date de versement des indemnités ; 
+
+b) Soit le montant de l'indemnité de licenciement prévue par la convention collective de branche, par l'accord professionnel
+ou interprofessionnel ou, à défaut, par la loi. 
+
 2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions,
 aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des
 fonctions, notamment de révocation, seule la fraction des indemnités qui excède les montants définis aux 3 et 4 du 1 est
 imposable.
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-596 du 25 juin 2008 - art. 5
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. L136-2 (V)
   - Code de la sécurité sociale. - art. L242-1 (V)
   - Code rural - art. L741-10 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 80 ter
+  - Code général des impôts, CGI. - art. 81
+  - Code du travail - art. L1233-32
+  - Code du travail - art. L1233-61
+  - Code du travail - art. L1235-2
+  - Code du travail - art. L1237-13
+  - Code du travail - art. L2242-17
+  - Code de la sécurité sociale. - art. L241-3
