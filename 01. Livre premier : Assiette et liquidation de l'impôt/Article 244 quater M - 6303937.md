@@ -7,21 +7,29 @@ chef d'entreprise en formation par le taux horaire du salaire minimum de croissa
 
 II.-Le crédit d'impôt est plafonné à la prise en compte de quarante heures de formation par année civile. 
 
-III.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8,238 bis L, 239 ter et 239 quater A ou
-les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne sont pas
-soumis à l'impôt sur les sociétés peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés
-ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques
-participant à l'exploitation au sens du 1° bis du I de l'article 156.
+II bis. - Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en commun, le plafond horaire mentionné
+au II est multiplié par le nombre d'associés chefs d'exploitation .
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+III.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8,
+238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C
+et 239 quinquies qui ne sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés proportionnellement à
+leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de
+personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-776 du 4 août 2008 - art. 63
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 238 bis L
+  - Code général des impôts, CGI. - art. 238 ter
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 8
+  - Code du travail - art. L3231-2
 
 _Cité par_:
 
