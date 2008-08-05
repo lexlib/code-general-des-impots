@@ -26,24 +26,22 @@ sur le revenu selon le régime d'imposition prévu au I, lorsque leur chiffre d'
 s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à
 emporter ou à consommer sur place, ou de fournir le logement, ou 54 000 euros hors taxes s'il s'agit d'autres entreprises.
 
-Ces montants sont calculés dans les conditions prévues au 1 de l'article 50-0.
+Ces seuils sont calculés dans les conditions prévues au 1 de l'article 50-0. Ils sont actualisés chaque année dans la même
+proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros
+le plus proche. 
 
 Ces entreprises sont dispensées de présenter leur bilan lors des vérifications de comptabilité.
 
+**Nota:**
+
+Loi n° 2008-776 du 4 août 2008 article 3 IX : Les I à VII s'appliquent aux chiffres d'affaires réalisés à compter du 1er
+janvier 2010.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 302 septies A, 302 ter, 239 quater A
-  - Loi n°66-879 du 29 novembre 1966 - art. 36 (M)
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Loi n°2008-776 du 4 août 2008 - art. 3 (V)
 
 _Cité par_:
 
@@ -61,7 +59,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
   - Livre des procédures fiscales - art. L135 D (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
