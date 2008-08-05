@@ -15,20 +15,24 @@ Ces dispositions ne sont pas applicables si le chiffre d'affaires excède 840 00
 commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de
 fournir le logement, et 260 000 euros s'il s'agit d'autres entreprises.
 
+II bis. - Les seuils mentionnés aux I et II sont actualisés chaque année dans la même proportion que la limite supérieure de
+la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros le plus proche (1).
+
 III. La régularisation de la taxe sur la valeur ajoutée due au titre d'un exercice peut intervenir dans les trois mois qui
 suivent la clôture de cet exercice. Un décret en Conseil d'Etat fixe les modalités d'application pratique du présent
 paragraphe; il procède aux adaptations nécessaires de la législation en vigueur, notamment pour les entreprises qui n'ont
 clôturé aucun exercice au cours d'une année civile.
 
+**Nota:**
+
+(1) Loi n° 2008-776 du 4 août 2008 article 3 IX : Les I à VII s'appliquent aux chiffres d'affaires réalisés à compter du 1er
+janvier 2010.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 204 ter, 204 quater, 242-0 C, 242-0 D, 242 quater à 242 septies, 267 quinquies à 267 septies
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 90 (V) JORF 31 décembre 2005
+  - Loi n°2008-776 du 4 août 2008 - art. 3 (V)
 
 _Cité par_:
 
@@ -63,7 +67,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater U (V)
   - Livre des procédures fiscales - art. L16 D (V)
   - Livre des procédures fiscales - art. L52 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
