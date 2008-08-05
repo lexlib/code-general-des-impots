@@ -18,7 +18,10 @@ général, à but non lucratif ;
 
 6° Des entreprises adaptées mentionnées à l'article L. 5213-13 du même code ; 
 
-7° De l'Agence nationale de la recherche. 
+7° De l'Agence nationale de la recherche ; 
+
+8° Des fondations universitaires et des fondations partenariales mentionnées respectivement aux articles L. 719-12 et L.
+719-13 du code de l'éducation lorsqu'elles répondent aux conditions fixées au b du 1 de l'article 200 du présent code. 
 
 II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la
 déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition. 
@@ -40,15 +43,11 @@ et la date des versements ainsi que l'identité des bénéficiaires.
 
 V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-776 du 4 août 2008 - art. 141
 
 _Cité par_:
 
@@ -70,3 +69,14 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 299 undecies (Ab)
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 Z sexies (M)
   - Livre des procédures fiscales - art. L102 E (M)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 200
+  - Code général des impôts, CGI. - art. 885-0 V bis
+  - Code de l'éducation - art. L719-12
+  - Code du travail - art. L5132-15
+  - Code du travail - art. L5132-5
+  - Code du travail - art. L5132-6
+  - Code du travail - art. L5132-7
+  - Code du travail - art. L5213-13
