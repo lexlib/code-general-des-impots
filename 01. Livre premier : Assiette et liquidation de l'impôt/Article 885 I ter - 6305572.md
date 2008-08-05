@@ -34,10 +34,10 @@ en contrepartie de souscriptions au capital de sociétés exerçant leur activit
 cinq ans vérifiant les conditions prévues au 1 du I de l'article 885-0 V bis. 
 
 4.L'exonération s'applique dans les mêmes conditions aux parts de fonds communs de placement dans l'innovation définis par
-l'article L. 214-41 du code monétaire et financier et de fonds communs de placement à risques définis par l'article L. 214-36
-du même code dont l'actif est constitué au moins à hauteur de 40 % de titres reçus en contrepartie de souscriptions au
-capital de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant les conditions
-prévues au 1 du I de l'article 885-0 V bis du présent code.
+l'article L. 214-41 du code monétaire et financier et de fonds communs de placement à risques définis par les articles L.
+214-36 et L. 214-37 du même code dont l'actif est constitué au moins à hauteur de 40 % de titres reçus en contrepartie de
+souscriptions au capital de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant
+les conditions prévues au 1 du I de l'article 885-0 V bis du présent code.
 
 L'exonération est limitée à la fraction de la valeur des parts de ces fonds représentative de titres reçus en contrepartie de
 souscriptions au capital de sociétés vérifiant les conditions prévues au même 1. 
@@ -45,14 +45,27 @@ souscriptions au capital de sociétés vérifiant les conditions prévues au mê
 II.-Un décret fixe les obligations déclaratives incombant aux redevables et aux sociétés ainsi qu'aux gérants de fonds visés
 au I.
 
+**Nota:**
+
+Conformément à l'article 36 II de la loi n° 2008-776 du 4 août 2008, les dispositions introduites par le I s'appliquent aux
+versements effectués à compter de la promulgation de la présente loi.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 38 (M)
+  - Loi n°2008-776 du 4 août 2008 - art. 36 (V)
 
 _Cité par_:
 
   - Décret n°2010-915 du 3 août 2010 (V)
   - Code général des impôts, CGI. - art. 81 C (T)
   - Code général des impôts, annexe 3, CGIAN3. - art. 299 bis (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 885 O quater
+  - Code général des impôts, CGI. - art. 885-0 V bis
+  - Code monétaire et financier - art. L214-36
+  - Code monétaire et financier - art. L214-41 (V)
+  - Code monétaire et financier - art. L214-41-1
