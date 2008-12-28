@@ -23,6 +23,9 @@ l'article 81, n'est pas prise en compte pour le bénéfice des dispositions du p
 3. Les dépenses mentionnées au 1 sont retenues, pour leur montant effectivement supporté, dans la limite de 12 000 Euros, en
 tenant compte prioritairement de celles ouvrant droit au bénéfice du crédit d'impôt mentionné au 4. 
 
+La limite de 12 000 € est portée à 15 000 € pour la première année d'imposition pour laquelle le contribuable bénéficie des
+dispositions du présent article au titre du a du 1. 
+
 Cette limite est portée à 20 000 euros pour les contribuables mentionnés au 3° de l'article L. 341-4 du code de la sécurité
 sociale, ainsi que pour les contribuables ayant à leur charge une personne, vivant sous leur toit, mentionnée au même 3°, ou
 un enfant donnant droit au complément d'allocation d'éducation de l'enfant handicapé prévu par le deuxième alinéa de
@@ -32,7 +35,8 @@ La limite de 12 000 euros est majorée de 1 500 euros par enfant à charge au se
 chacun des membres du foyer fiscal âgé de plus de soixante-cinq ans. La majoration s'applique également aux ascendants visés
 au premier alinéa du 2 remplissant la même condition d'âge. Le montant de 1 500 euros est divisé par deux pour les enfants
 réputés à charge égale de l'un et l'autre de leurs parents. La limite de 12 000 euros augmentée de ces majorations ne peut
-excéder 15 000 euros. 
+excéder 15 000 euros. Toutefois, lorsque les dispositions du deuxième alinéa sont applicables, la limite de 15 000 € fait
+l'objet des majorations prévues au présent alinéa et le montant total des dépenses ne peut excéder 18 000 €. 
 
 4. L'aide prend la forme d'un crédit d'impôt sur le revenu égal à 50 % des dépenses mentionnées au 3 au titre des services
 définis à l'article D. 129-35 du code du travail, supportées au titre de l'emploi, à leur résidence, d'un salarié ou en cas
@@ -61,13 +65,14 @@ définis au 1.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Conformément à l'article 98 de la loi n° 2008-1425 du 27 décembre 2008, les dispositions introduites par la présente loi
+s'appliquent à compter de l'imposition des revenus de 2009.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 98 (V)
 
 _Cité par_:
 
