@@ -34,6 +34,11 @@ I bis-L'exonération prévue au I s'applique dans les mêmes conditions aux plus
 du I ter de l'article 93 quater, du a du I de l'article 151 octies, des I et II de l'article 151 octies A et du I de
 l'article 151 octies B. 
 
+I ter-Sont également éligibles au présent dispositif, dans les conditions du I et pour la seule plus-value imposable au nom
+de l'associé, les cessions d'activité réalisées par les sociétés visées au 2° du I à condition qu'il soit procédé à la
+dissolution de la société de manière concomitante à la cession et que ledit associé fasse valoir ses droits à la retraite
+dans les douze mois suivant ou précédant la cession.
+
 II.-L'exonération prévue au I est remise en cause si le cédant relève de la situation mentionnée au 4° du I à un moment
 quelconque au cours des trois années qui suivent la réalisation de l'opération ayant bénéficié du régime prévu au présent
 article. 
@@ -116,6 +121,10 @@ compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 11
+
 _Cité par_:
 
   - Loi n°2010-1658 du 29 décembre 2010 - art. 58 (V)
@@ -129,9 +138,9 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 151 octies A (V)
   - Code général des impôts, CGI. - art. 151 nonies
   - Code général des impôts, CGI. - art. 151 octies
+  - Code général des impôts, CGI. - art. 151 octies A
   - Code général des impôts, CGI. - art. 39 duodecies
   - Code général des impôts, CGI. - art. 719
   - Code général des impôts, CGI. - art. 885 O bis
