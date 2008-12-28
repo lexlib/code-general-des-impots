@@ -24,6 +24,10 @@ transmis est effectuée au nom du donateur ou du défunt.
 Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de la date de la transmission à titre gratuit visée au
 premier alinéa, la plus-value en report est définitivement exonérée. 
 
+En cas de partage avec soulte, le report d'imposition est maintenu si le ou les attributaires des droits sociaux visés ci-
+dessus prennent l'engagement d'acquitter l'impôt sur la plus-value en report à la date où l'un des événements cités au
+premier alinéa se réalise. 
+
 2. Le régime défini au 1 s'applique sur option exercée par le ou les bénéficiaires lors de l'acceptation de la transmission
 par ces derniers. 
 
@@ -112,7 +116,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 81
 
 _Cite_:
 
