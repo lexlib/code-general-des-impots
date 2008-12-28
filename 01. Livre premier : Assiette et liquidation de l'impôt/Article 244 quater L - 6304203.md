@@ -1,10 +1,9 @@
 # Article 244 quater L
 
 I.-Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années comprises entre 2005 et 2010 au
-cours desquelles au moins 40 % de leurs recettes proviennent d'activités mentionnées à l'article 63 qui ont fait l'objet
-d'une certification en agriculture biologique au sens de l'article 8 du règlement (CEE) n° 2092 / 91 du Conseil, du 24 juin
-1991, concernant le mode de production biologique de produits agricoles et sa présentation sur les produits agricoles et les
-denrées alimentaires. 
+cours desquelles au moins 40 % de leurs recettes proviennent d'activités mentionnées à l'article 63 relevant du mode de
+production biologique conformément aux règles fixées dans le règlement (CE) n° 834 / 2007 du conseil, du 28 juin 2007,
+relatif à la production biologique et à l'étiquetage de produits biologiques et abrogeant le règlement (CEE) n° 2092 / 91. 
 
 Les dispositions du premier alinéa ne s'appliquent pas aux entreprises agricoles titulaires, au 1er mai de l'année civile ou
 de l'exercice au cours duquel le crédit d'impôt mentionné au premier alinéa est calculé, d'un contrat territorial
@@ -12,7 +11,7 @@ d'exploitation ou d'un contrat d'agriculture durable comprenant une mesure d'aid
 sauf si au moins 50 % de la surface de leur exploitation est en mode de production biologique, ces mêmes 50 % ne bénéficiant
 pas d'aide à la conversion. 
 
-II.-1.-Le montant du crédit d'impôt mentionné au I s'élève à 1 200 euros. Il est majoré, dans la limite de 800 euros, de 200
+II.-1.-Le montant du crédit d'impôt mentionné au I s'élève à 2400 euros. Il est majoré, dans la limite de 1600 euros, de 400
 euros par hectare exploité selon le mode de production biologique. 
 
 2.-Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en commun, le montant mentionné au A est
@@ -20,31 +19,34 @@ multiplié par le nombre d'associés, sans que le crédit d'impôt ainsi obtenu 
 calculé dans les conditions prévues au A. 
 
 III.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou les groupements
-mentionnés aux articles 238 ter,239 quater,239 quater B,239 quater C et 239 quinquies, qui ne sont pas soumis à l'impôt sur
-les sociétés, peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à
-condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au
-sens du 1° bis du I de l'article 156. 
+mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies, qui ne sont pas soumis à l'impôt
+sur les sociétés, peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou ces
+groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à
+l'exploitation au sens du 1° bis du I de l'article 156. 
 
 IV.-Un décret fixe les conditions d'application du présent article.
 
+**Nota:**
+
+Loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 art. 121 : les présentes dispositions s'appliquent à compter de
+l'impôt sur le revenu dû au titre de 2009 et à l'impôt  dû par les sociétés sur les résultats des exercices clos à  compter
+du 1er janvier 2009
+.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 56
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 121 (V)
 
 _Cite_:
 
+  - CODE GENERAL DES IMPOTS, CGI. - art. 63 (V)
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 238 ter
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quinquies
-  - Code général des impôts, CGI. - art. 63
   - Code général des impôts, CGI. - art. 8
 
 _Cité par_:
