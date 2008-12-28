@@ -63,6 +63,11 @@ L. 312-2-1 du code de la construction et de l'habitation. Les ressources des mé
 doivent être inférieures ou égales aux plafonds de ressources permettant l'accès aux logements locatifs sociaux visés au I de
 l'article R. 331-1 du même code. 
 
+Le montant de l'avance remboursable sans intérêt est majoré, dans des conditions fixées par décret en Conseil d'Etat, d'un
+montant maximum de 20 000 € pour les opérations portant sur la construction ou l'acquisition de logements neufs ou en l'état
+futur d'achèvement dont le niveau élevé de performance énergétique globale, déterminé dans des conditions fixées par décret
+et justifié par le bénéficiaire de l'avance, est supérieur à celui qu'impose la législation en vigueur (1). 
+
 Un décret en Conseil d'Etat définit les caractéristiques financières et les conditions d'attribution de l'avance remboursable
 sans intérêt. 
 
@@ -97,27 +102,33 @@ informations relatives aux avances remboursables sans intérêt versées par cha
 des crédits d'impôt correspondants obtenus ainsi que leur suivi. 
 
 VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239
-quater,239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par
+quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par
 les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de
 redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
+
+**Nota:**
+
+(1) Loi n° 2008-1425 du 27 décembre 2008 article 100 II : Le I s'applique aux avances remboursables émises pour la
+construction ou l'acquisition de logements neufs ou en l'état futur d'achèvement à compter du premier jour du premier mois
+suivant la publication du décret en Conseil d'Etat mentionné au I, et au plus tard à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 42
+  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
   - Code général des impôts, CGI. - art. 1417
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 238 bis
   - Code général des impôts, CGI. - art. 239 quater
-  - Code monétaire et financier - art. L511-1
-  - Code de la sécurité sociale. - art. L341-4
+  - Code monétaire et financier - art. L511-1 (V)
+  - Code de la sécurité sociale. - art. L341-4 (V)
   - Code de la sécurité sociale. - art. L541-1
   - Code de la sécurité sociale. - art. L821-1
-  - Code de la construction et de l'habitation. - art. L312-1
-  - Code de la construction et de l'habitation. - art. L312-2-1
-  - Code de la construction et de l'habitation. - art. R331-1
+  - Code de la construction et de l'habitation. - art. L312-1 (V)
+  - Code de la construction et de l'habitation. - art. L312-2-1 (V)
+  - Code de la construction et de l'habitation. - art. R331-1 (V)
 
 _Cité par_:
 
@@ -165,4 +176,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 26
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 100 (V)
