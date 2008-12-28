@@ -1,8 +1,8 @@
 # Article 1599 sexdecies
 
 I. 1 Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur donnent lieu au
-paiement d'une taxe proportionnelle dont le taux unitaire par cheval-vapeur, arrêté par la région, est déterminé chaque année
-par délibération du conseil régional.
+paiement d'une taxe proportionnelle dont le taux unitaire par cheval-vapeur, arrêté par la région ou la collectivité
+territoriale de Corse, est déterminé chaque année par délibération du conseil régional ou de l'assemblée de Corse.
 
 2 Le taux unitaire prévu au 1 est réduit de moitié en ce qui concerne :
 
@@ -31,13 +31,9 @@ l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGI 1635 bis H
-
-_Cite_:
-
-  - CGIAN4 155 quater
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 135
 
 _Cité par_:
 
@@ -49,12 +45,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 quindecies (V)
   - Code général des impôts, CGI. - art. 1599 septdecies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 155 quater (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2002-10-17 7M-2-02
-
-_Modifié par_:
-
-  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 en vigueur le 1er janvier 2002

@@ -37,7 +37,10 @@ d. Les dépenses visant à faire connaître les produits et services de l'entrep
 e) Les indemnités mensuelles et les prestations mentionnées à l'article L. 122-12 du code du service national lorsque
 l'entreprise a recours à un volontaire international en entreprise comme indiqué au III ; 
 
-f) Les dépenses liées aux activités de conseil fournies par les opérateurs spécialisés du commerce international. 
+f) Les dépenses liées aux activités de conseil fournies par les opérateurs spécialisés du commerce international ; 
+
+g) Les dépenses exposées par un cabinet d'avocats pour l'organisation ou la participation à des manifestations hors de France
+ayant pour objet de faire connaître les compétences du cabinet. 
 
 Le crédit d'impôt, calculé au titre de chaque période d'imposition ou exercice clos au cours desquels des dépenses éligibles
 ont été exposées, est égal à 50 % de ces dépenses. Les subventions publiques reçues par les entreprises à raison des dépenses
@@ -58,21 +61,28 @@ dispositions du 1 de l'article 206, et les groupements mentionnés à l'article 
 au I et ayant pour membres des petites et moyennes entreprises définies au même I lorsqu'ils exposent des dépenses de
 prospection commerciale pour le compte de leurs membres afin d'exporter des services, des biens et des marchandises. Ces
 plafonds s'apprécient en prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés de
-personnes mentionnées aux articles 8,238 bis L, aux parts des associés de sociétés de professions libérales mentionnées au I
-et aux droits des membres de groupements mentionnés aux articles 239 quater,239 quater B et 239 quater C. 
+personnes mentionnées aux articles 8, 238 bis L, aux parts des associés de sociétés de professions libérales mentionnées au I
+et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C. 
 
 Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par
 les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de
 redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
-l'article 156.
+l'article 156. 
 
 Le crédit d'impôt ne peut être obtenu qu'une fois par l'entreprise.
+
+**Nota:**
+
+Loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 art. 111 II : Le présent article s'applique aux dépenses engagées
+à partir du 1er janvier  2009
+.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°90-1258 du 31 décembre 1990
+  - Loi n°90-1258 du 31 décembre 1990 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 206
   - Code général des impôts, CGI. - art. 223 A
@@ -80,14 +90,13 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code du service national - art. L122-1
-  - Code du service national - art. L122-12
-  - Code du service national - art. L122-7
-  - Loi n°1901-07-01
+  - Code du service national - art. L122-1 (V)
+  - Code du service national - art. L122-12 (V)
+  - Code du service national - art. L122-7 (V)
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 55
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 111 (V)
 
 _Cité par_:
 
