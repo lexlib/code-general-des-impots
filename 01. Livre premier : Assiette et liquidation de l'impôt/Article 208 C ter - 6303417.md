@@ -2,26 +2,24 @@
 
 Lorsque, postérieurement à l'exercice de l'option prévue au premier alinéa du II de l'article 208 C, des immeubles, des
 droits réels mentionnés au sixième alinéa du II de ce même article, des droits afférents à un contrat de crédit-bail portant
-sur un immeuble ou des participations dans des personnes visées à l'article 8 deviennent éligibles à l'exonération mentionnée
-à cet alinéa, la société doit réintégrer à son résultat fiscal soumis à l'impôt sur les sociétés une somme correspondant à la
-plus-value calculée par différence entre la valeur réelle de ces biens à cette date et leur valeur fiscale. Cette
-réintégration est effectuée par parts égales sur une période de quatre ans. La cession des biens concernés entraîne
-l'imposition immédiate de la plus-value qui n'a pas encore été réintégrée.
+sur un immeuble, des droits portant sur un immeuble dont la jouissance a été conférée à titre temporaire par l'Etat, une
+collectivité territoriale ou un de leurs établissements publics ou des participations dans des personnes visées à l'article 8
+deviennent éligibles à l'exonération mentionnée à cet alinéa, la société doit réintégrer à son résultat fiscal soumis à
+l'impôt sur les sociétés une somme correspondant à la plus-value calculée par différence entre la valeur réelle de ces biens
+à cette date et leur valeur fiscale. Cette réintégration est effectuée par parts égales sur une période de quatre ans. La
+cession des biens concernés entraîne l'imposition immédiate de la plus-value qui n'a pas encore été réintégrée.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 208 C, 8
-
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 138 (V) JORF 31 décembre 2006
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 24 (V)
+
+_Cite_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 208 C (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 219 (VT)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
