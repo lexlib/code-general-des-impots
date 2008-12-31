@@ -16,8 +16,12 @@ l'urbanisme ;
 
 D. I. Les acquisitions d'immeubles ruraux à condition : 
 
-1° Qu'au jour de l'acquisition les immeubles soient exploités en vertu d'un bail consenti à l'acquéreur, à son conjoint, à
-ses ascendants ou aux ascendants de son conjoint et enregistré ou déclaré depuis au moins deux ans ; 
+1° Qu'au jour de l'acquisition les immeubles soient exploités depuis au moins deux ans : 
+
+― soit en vertu d'un bail consenti à l'acquéreur personne physique, à son conjoint, à ses ascendants ou aux ascendants de son
+conjoint ou à la personne morale acquéreur ; 
+
+― soit en vertu d'une mise à disposition par le preneur au profit de la personne morale acquéreur ; 
 
 2° Que l'acquéreur prenne l'engagement, pour lui et ses ayants cause à titre gratuit, de mettre personnellement en valeur
 lesdits biens pendant un délai minimal de cinq ans à compter de la date du transfert de la propriété. A défaut d'exécution de
@@ -98,8 +102,8 @@ coopératives de production d'habitations à loyers modérés ainsi que par des 
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-II de la loi n° 2005-157 du 23 février 2005 et de l'article 4-II et VI
-du décret n° 2007-1261 du 21 août 2007.
+Conformément à l'article 42 II de la loi n° 2008-1443 du 30 décembre 2008, les dispositions introduites par l'article 42 I
+s'appliquent aux opérations intervenues à compter du 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -124,7 +128,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 42 (V)
 
 _Cité par_:
 
