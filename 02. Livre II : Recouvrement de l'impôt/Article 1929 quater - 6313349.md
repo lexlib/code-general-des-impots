@@ -18,9 +18,13 @@ direction générale de la comptabilité publique ;
 2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes,
 ainsi que pour les impôts directs et taxes assimilées recouvrés par les comptables de la direction générale des impôts. 
 
-4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre civil, par un redevable à un même poste
-comptable ou service assimilé et susceptibles d'être inscrites demeurent impayées et dépassent un seuil fixé par décret en
-fonction du chiffre d'affaires ou du montant des recettes. 
+4. La  publicité est obligatoire lorsqu'il est constaté, à l'issue des neuf mois qui  suivent la première date de l'un ou
+l'autre des événements mentionnés au 3, que  le montant des sommes dues à compter de cette date par le redevable à un même
+poste comptable ou service assimilé et susceptibles d'être inscrites dépasse un  seuil fixé par décret.
+
+Ne sont pas soumises à la publicité  les sommes visées à l'alinéa précédent lorsque le débiteur respecte un plan  d'apurement
+échelonné de sa dette ainsi que ses obligations fiscales courantes.  Dès que le plan est dénoncé, le comptable public doit
+procéder à la publication  dans un délai de deux mois. 
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le
 présent article à la charge de l'administration, quel que soit le montant du paiement. 
@@ -46,13 +50,15 @@ sceaux, ministre de la justice.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 102 de la loi n° 2005-1720 du 30 décembre 2005.
+LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 58 IV : le présent article s'applique aux
+créances nées à compter du 1er juillet  2008
+.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 58 (V)
 
 _Cité par_:
 
