@@ -12,8 +12,9 @@ IV.-Un arrêté conjoint du ministre chargé du budget et du ministre chargé de
 tonne de viande avec os et par espèce animale dans la limite de 150 Euros.
 
 V.-La taxe est déclarée et liquidée, selon le cas, sur les déclarations mentionnées aux articles 287, 298 bis ou 1693 bis, ou
-sur une déclaration dont le modèle est fixé par l'administration et qui est déposée avant le 25 avril de l'année suivant le
-fait générateur de la taxe. Elle est acquittée lors du dépôt de ces déclarations. 
+sur une déclaration dont le modèle est fixé par l'administration et qui est déposée l'année suivant le fait générateur de la
+taxe et jusqu'à une  date fixée par décret et au plus tard le deuxième jour ouvré suivant le 1er  mai. Elle est acquittée
+lors du dépôt de ces déclarations. 
 
 La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges
 que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à
@@ -34,13 +35,7 @@ déclaratives des redevables.
 
 _Modifié par_:
 
-  - Décret n°2005-1780 2005-12-30 art. 3 I, VI, art. 4 JORF 31 décembre 2005
-  - Décret n°2005-1780 du 30 décembre 2005 - art. 3 (V) JORF 31 décembre 2005
-  - Décret n°2005-1780 du 30 décembre 2005 - art. 4 (V) JORF 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 60 (V)
 
 _Cité par_:
 
@@ -55,7 +50,3 @@ _Cite_:
   - Code général des impôts, CGI. - art. 287
   - Code général des impôts, CGI. - art. 298 bis
   - Code rural - art. L233-2
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
