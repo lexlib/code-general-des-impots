@@ -1,18 +1,18 @@
 # Article 244 quater B
 
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application
-des articles 44 sexies,44 sexies A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies  peuvent bénéficier
-d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est
-de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des
-dépenses de recherche supérieure à ce montant. 
+des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies et 44 duodecies peuvent
+bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit
+d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la
+fraction des dépenses de recherche supérieure à ce montant. 
 
 Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre respectivement de la première et de la deuxième
 année qui suivent l'expiration d'une période de cinq années consécutives au titre desquelles l'entreprise n'a pas bénéficié
 du crédit d'impôt et à condition qu'il n'existe aucun lien de dépendance au sens du 12 de l'article 39 entre cette entreprise
 et une autre entreprise ayant bénéficié du crédit d'impôt au cours de la même période de cinq années. 
 
-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239
-quater,239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des
+Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater,
+239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des
 dispositions prévues au septième alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à
 leurs droits dans ces sociétés ou ces groupements. 
 
@@ -42,9 +42,13 @@ personnes soit à durée indéterminée et que l'effectif salarié de l'entrepri
 précédente. 
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou à
-des universités. Ces dépenses sont retenues pour le double de leur montant à la condition qu'il n'existe pas de liens de
-dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt
-et l'organisme ou l'université. 
+des établissements d'enseignement supérieur délivrant un diplôme conférant un grade de master, des fondations de coopération
+scientifique et des établissements publics de coopération scientifique ou à des fondations reconnues d'utilité publique du
+secteur de la recherche agréées conformément au d bis. Ces dépenses sont retenues pour le double de leur montant à la
+condition qu'il n'existe pas de liens de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre
+l'entreprise qui bénéficie du crédit d'impôt et l'organisme ou l'établissement d'enseignement supérieur délivrant un diplôme
+conférant un grade de master, la fondation de coopération scientifique ou l'établissement public de coopération
+scientifique. 
 
 d bis) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés
 agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions.
@@ -125,8 +129,8 @@ Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en com
 subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis. 
 
-Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L,239
-quater,239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8, 238 bis L, 239
+quater, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
 règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. La fraction du crédit d'impôt mentionnée à
 l'alinéa précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement
 à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous
@@ -147,7 +151,7 @@ durée inégale ou ne coïncidant pas avec l'année civile.
 **Nota:**
 
 Dispositions applicables aux crédits d'impôt calculés au titre des dépenses de recherche exposées à compter du 1er janvier
-2008.
+2009.
 
 **Liens relatifs à cet article**
 
@@ -203,16 +207,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 27
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 101 (V)
 
 _Cite_:
 
+  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater B (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater C (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
   - Code général des impôts, CGI. - art. 151 nonies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 220 septies
   - Code général des impôts, CGI. - art. 238 bis L
-  - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 39
-  - Code général des impôts, CGI. - art. 44 duodecies
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 8
