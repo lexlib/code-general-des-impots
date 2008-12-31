@@ -59,8 +59,9 @@ soit le lieu d'établissement du bailleur.
 Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
 concernant l'application des articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des entreprises qui
 procèdent aux opérations mentionnées au I dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est
-subordonné au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant l'application des
-articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale. 
+subordonné au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
+catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général
+d'exemption par catégorie). 
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'exonération. Elle doit être exercée dans les six
 mois suivant les opérations mentionnées au I.
@@ -114,4 +115,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 114 (V)
