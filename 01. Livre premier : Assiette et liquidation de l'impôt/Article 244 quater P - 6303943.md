@@ -6,10 +6,9 @@ formation de leurs salariés à l'économie de l'entreprise et aux dispositifs d
 qu'elles exposent auprès d'organismes de formation figurant sur une liste arrêtée par le préfet de région, après avis du
 comité de coordination régional de l'emploi et de la formation professionnelle. 
 
-II.-Les petites et moyennes entreprises mentionnées au I sont celles qui répondent aux conditions définies à l'annexe I au
-règlement (CE) n° 70 / 2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE
-aux aides d'Etat en faveur des petites et moyennes entreprises, modifié par le règlement (CE) n° 364 / 2004 de la Commission,
-du 25 février 2004. 
+II.-Les entreprises mentionnées au I sont des petites et moyennes entreprises au sens de l'annexe I au règlement (CE) n°
+800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en
+application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie). 
 
 Le bénéfice du crédit d'impôt est réservé aux entreprises qui disposent, au 1er janvier 2007, d'un plan d'épargne
 d'entreprise prévu à l'article L. 3332-1 du code du travail dont les sommes recueillies sont affectées au moins en partie à
@@ -54,7 +53,7 @@ Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordon
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 114 (V)
 
 _Cité par_:
 

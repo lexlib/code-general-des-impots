@@ -1,17 +1,17 @@
 # Article 1618 septies
 
-Il est institué une taxe portant sur les quantités de farines, semoules et gruaux de blé tendre livrées ou mises en oeuvre en
-vue de la consommation humaine, ainsi que sur les mêmes produits introduits en provenance d'autres Etats membres de la
-Communauté européenne ou importés de pays tiers.
+Il est institué au profit de l'organisme mentionné à l' article L. 731-1 du code  rural une taxe portant sur les quantités de
+farines, semoules et gruaux de blé tendre livrées ou mises en oeuvre en vue de la consommation humaine, ainsi que sur les
+mêmes produits introduits en provenance d'autres Etats membres de la Communauté européenne ou importés de pays tiers.
 
-Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats membres de la Communauté européenne, exportés ou
-destinés à être exportés vers des pays tiers ou vers les départements d'outre-mer, par l'acquéreur, ainsi que les farines
-utilisées pour la fabrication d'amidon, sont exonérés de la taxe.
+Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats membres de la Communauté européenne ou vers les
+départements de Corse, exportés ou destinés à être exportés vers des pays tiers ou vers les départements d'outre-mer, par
+l'acquéreur, ainsi que les farines utilisées pour la fabrication d'amidon, sont exonérés de la taxe.
 
 La taxe est perçue en France continentale auprès des meuniers, des opérateurs qui procèdent à l'introduction des produits sur
 ce territoire et des importateurs de produits en provenance de pays tiers.
 
-Le montant de la taxe est fixé à 16 euros par tonne de farine, semoule ou gruaux.
+Le montant de la taxe est fixé à 15,24 euros par tonne de farine, semoule ou gruaux.
 
 Des modalités particulières de liquidation peuvent être déterminées par un décret qui précise également les obligations
 déclaratives des assujettis.
@@ -27,7 +27,8 @@ matière de douane.
 
 _Modifié par_:
 
-  - Loi n°2008-1330 du 17 décembre 2008 - art. 17 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 140 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)
 
 _Cité par_:
 

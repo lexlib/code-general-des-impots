@@ -26,29 +26,25 @@ revenus et profits distribués par le fonds, au titre de l'année au cours de la
 3. Les dispositions prévues aux b ter et h du 1° du I de l'article 31, à l'article 31 bis, au premier alinéa du 3° du I de
 l'article 156 relatives aux immeubles classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait
 l'objet d'un agrément ministériel ou ayant reçu le label délivré par la Fondation du patrimoine, aux troisième et quatrième
-alinéas du 3° du I de l'article 156, aux articles 199 decies E à 199 decies H et à l'article 199 undecies A ne sont pas
-applicables lorsque les immeubles, droits immobiliers ou parts sont détenus directement ou indirectement par des fonds de
-placement immobilier autres que ceux qui sont issus de la transformation des sociétés civiles mentionnées à l'article 239
-septies et pour lesquelles l'application de ces dispositions a été demandée avant la date limite de dépôt des déclarations
-des revenus de l'année 2006.
+alinéas du 3° du I de l'article 156, aux articles 199 decies E à 199 decies H , à l'article  199 undecies A et à l'article
+199 septvicies  ne sont pas applicables lorsque les immeubles, droits immobiliers ou parts sont détenus directement ou
+indirectement par des fonds de placement immobilier autres que ceux qui sont issus de la transformation des sociétés civiles
+mentionnées à l'article 239 septies et pour lesquelles l'application de ces dispositions a été demandée avant la date limite
+de dépôt des déclarations des revenus de l'année 2006.
 
 III. - Pour les autres porteurs de parts, les revenus et profits mentionnés au I de l'article L. 214-140 du code monétaire et
 financier sont imposés à la date de leurs distributions pour la fraction correspondant à leurs droits.
-
-**Nota:**
-
-Loi 2006-1771 2006-12-30 art. 32 V : dispositions applicables à compter de l'imposition des revenus de l'année 2007.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 14 A à 33 quinquies, 137 ter, 150 UC à 150 VH, 244 bis A, 150-0 F, 31, 31 bis, 156, 199 decies E à 199 decies H, 199 undecies A, 239 septies
-  - Code monétaire et financier - art. L214-140 (MMN)
+  - Code monétaire et financier - art. L214-140
 
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 32 (V) JORF 31 décembre 2006
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 31 (V)
 
 _Cité par_:
 
@@ -72,7 +68,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 (VT)
   - Code général des impôts, CGI. - art. 39 duodecies (V)
   - Code général des impôts, CGI. - art. 50-0 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
