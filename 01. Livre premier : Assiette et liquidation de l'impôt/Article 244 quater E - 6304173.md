@@ -82,11 +82,11 @@ réalisation de l'investissement. A défaut, le crédit d'impôt qu'ils ont impu
 l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces parts ou actions. 
 
 IV.-Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un
-exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse. 
+exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
-V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1628 / 2006 de la Commission
-du 24 octobre 2006 concernant l'application des articles 87 et 88 du traité aux aides nationales à l'investissement à
-finalité régionale.
+V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 13 du règlement (CE) n° 800 / 2008
+de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
+articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
 
 **Liens relatifs à cet article**
 
@@ -107,7 +107,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 114 (V)
 
 _Cité par_:
 

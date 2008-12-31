@@ -18,12 +18,13 @@ conditions si l'activité était exercée en France ;
 d) La société exerce une activité commerciale, industrielle, artisanale, libérale, agricole ou financière, à l'exception de
 la gestion de son propre patrimoine mobilier ou immobilier ; 
 
-e) La société doit répondre à la définition des petites et moyennes entreprises figurant à l'annexe I au règlement (CE) n°
-70 / 2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat
-en faveur des petites et moyennes entreprises, modifié par le règlement (CE) n° 364 / 2004 du 25 février 2004 ; 
+e) La société doit être une petite et moyenne entreprise qui satisfait à la définition des petites et moyennes entreprises
+qui figure à l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide
+compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par
+catégorie).
 
 Les conditions tenant à la composition du capital prévue au e et à la nature de l'activité exercée prévue au d ne sont pas
-exigées en cas de souscription au capital d'entreprises solidaires au sens de l'article L. 443-3-2 du code du travail. 
+exigées en cas de souscription au capital d'entreprises solidaires au sens de l'article L. 443-3-2 du code du travail ; 
 
 3° L'avantage fiscal prévu au 1° trouve également à s'appliquer lorsque la société bénéficiaire de la souscription remplit
 les conditions suivantes : 
@@ -52,7 +53,20 @@ sont retenus dans la limite annuelle de 20 000 euros pour les contribuables cél
 euros pour les contribuables mariés soumis à imposition commune. 
 
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au premier alinéa ouvre droit à la réduction
-d'impôt dans les mêmes conditions au titre des quatre années suivantes. 
+d'impôt dans les mêmes conditions au titre des quatre années suivantes.
+
+II bis. ― Les limites mentionnées au premier alinéa du II sont portées respectivement à 50 000 € pour les contribuables
+célibataires, veufs ou divorcés et à 100 000 € pour les contribuables mariés soumis à imposition commune pour les
+souscriptions ouvrant droit à la réduction d'impôt mentionnée au I au capital initial ou aux augmentations de capital des
+sociétés vérifiant les conditions mentionnées au I du présent article, aux 2° et 3° du II de l'article 239 bis AB et aux f et
+g du 1 du I de l'article 885-0 V bis.
+
+Le dernier alinéa du II du présent article n'est pas applicable au titre des souscriptions mentionnées à l'alinéa précédent.
+
+II ter. ― La réduction d'impôt prévue au I est calculée sur le montant total des versements mentionnés aux II et II bis
+retenus dans leur limite annuelle respective. Le montant total ainsi déterminé ne peut excéder les limites mentionnées au
+premier alinéa du II bis. La fraction des versements pour laquelle le contribuable entend bénéficier de la réduction d'impôt
+dans la limite prévue au II ne peut ouvrir droit à la réduction d'impôt dans la limite prévue au II bis, et inversement. 
 
 III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de l'article 83, et à l'article 163 duovicies ou aux
 réductions d'impôt prévues aux articles 199 undecies A et 199 unvicies ainsi que les souscriptions financées au moyen de
@@ -136,6 +150,12 @@ fonds, attribuées en fonction de la qualité de la personne.
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
 
+**Nota:**
+
+LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 86 II : le présent article s'applique aux
+versements effectués à compter du  1er janvier 2009
+.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -169,11 +189,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 114 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 86 (V)
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 A (V)
+  - Code général des impôts, CGI. - art. 150-0 A
   - Code général des impôts, CGI. - art. 163 duovicies
   - Code général des impôts, CGI. - art. 163 quinquies D
   - Code général des impôts, CGI. - art. 197

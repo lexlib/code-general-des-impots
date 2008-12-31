@@ -1,11 +1,10 @@
 # Article 199 unvicies
 
 1. Les contribuables domiciliés en France au sens de l'article 4 B bénéficient d'une réduction d'impôt au titre des
-souscriptions en numéraire, réalisées entre le 1er janvier 2006 et le 31 décembre 2008, au capital initial ou aux
+souscriptions en numéraire, réalisées entre le 1er janvier 2006 et le 31 décembre 2011, au capital initial ou aux
 augmentations de capital des sociétés définies à l'article 238 bis HE.
 
-Le bénéfice de la réduction d'impôt est subordonné à l'agrément du capital de la société par le ministre de l'économie et des
-finances.
+Le bénéfice de la réduction d'impôt est subordonné à l'agrément du capital de la société par le ministre chargé du  budget.
 
 2. La réduction d'impôt s'applique aux sommes effectivement versées pour les souscriptions mentionnées au 1, retenues dans la
 limite de 25 % du revenu net global et de 18 000 euros.
@@ -31,17 +30,9 @@ _Cite_:
 
   - CGI 4 B, 238 bis HE, 238 bis HG
 
-_Créé par_:
-
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 102 (V) JORF 31 décembre 2006 Rectificatif JORF 20 janvier 2007
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
-
 _Modifié par_:
 
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 87
 
 _Cité par_:
 
@@ -61,7 +52,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies E (V)
   - Code monétaire et financier - art. L221-31 (V)
   - Code monétaire et financier - art. L221-32-5 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007

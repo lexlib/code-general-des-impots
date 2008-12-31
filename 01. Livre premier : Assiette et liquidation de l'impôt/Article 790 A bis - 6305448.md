@@ -5,11 +5,10 @@ défaut d'une telle descendance, un neveu ou une nièce, sont exonérés de droi
 30 000 € si les conditions suivantes sont réunies :
 
 a) Les sommes sont affectées avant la fin de la deuxième année suivant la date du transfert soit à la souscription au capital
-initial d'une société répondant à la définition des petites et moyennes entreprises figurant à l'annexe I au règlement (CE)
-n° 70/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat
-en faveur des petites et moyennes entreprises, modifié par le règlement (CE) n° 364/2004, du 25 février 2004, soit à
-l'acquisition de biens meubles ou immeubles affectés à l'exploitation d'une entreprise individuelle répondant à cette
-définition ;
+initial d'une société qui satisfait à la définition des petites et moyennes entreprises qui figure à l'annexe I au règlement
+(CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché commun en
+application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie), soit à l'acquisition de biens
+meubles ou immeubles affectés à l'exploitation d'une entreprise individuelle répondant à cette définition ;
 
 b) Le donataire exerce son activité professionnelle principale dans la société ou l'entreprise pendant une période de cinq
 ans à compter de l'affectation des sommes mentionnées au a ;
@@ -23,15 +22,14 @@ II. - Les dispositions du I s'appliquent aux sommes versées entre le 1er janvie
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 114 (V)
+
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
-
-_Créé par_:
-
-  - Loi n°2005-882 du 2 août 2005 - art. 6 () JORF 3 août 2005
+  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
   - Règlement (CE) 364/2004 2004-02-25
-  - Règlement (CE) 70/2001 2001-01-12

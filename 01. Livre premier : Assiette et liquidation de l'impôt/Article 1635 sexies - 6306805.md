@@ -21,8 +21,8 @@ l'année de référence définie à l'article 1467 A.
 
 Cette réduction est supprimée à compter des impositions établies au titre de 2000 ;
 
-b) La base d'imposition est déclarée avant le 1er mai de l'année précédant celle de l'imposition au lieu du principal
-établissement ;
+b) La base d'imposition est déclarée l'année précédant celle de l'imposition au lieu du principal établissement jusqu'à une
+date fixée par décret et au plus tard le deuxième jour ouvré suivant le 1er mai ;
 
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 % de leur montant, en raison des contraintes de
 desserte de l'ensemble du territoire national et de participation à l'aménagement du territoire qui s'imposent à cet
@@ -82,8 +82,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 123 (V) JORF 31 décembre 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 60 (V)
