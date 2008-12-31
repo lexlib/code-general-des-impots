@@ -101,6 +101,11 @@ l'établissement public de coopération intercommunale une attribution visant à
 aux installations utilisant l'énergie mécanique du vent. Cette attribution ne peut être supérieure au produit de la taxe
 professionnelle perçue sur ces installations.
 
+Le potentiel  fiscal de chaque commune et groupement doté d'une fiscalité propre est corrigé  symétriquement pour tenir
+compte de l'application du présent 5°. Cette  correction est toutefois supprimée pour le groupement dans le calcul du
+potentiel fiscal pris en compte pour déterminer la dotation d'intercommunalité  reçue lors de la première année d'adoption du
+régime prévu à l'article 1609  nonies C. 
+
 III. Le conseil d'une communauté de communes peut, à la majorité simple de ses membres, décider de percevoir la taxe
 professionnelle selon les dispositions de l'article 1609 nonies C. Cette décision doit être prise avant le 31 décembre pour
 être applicable au 1er janvier de l'année suivante ; elle ne peut être rapportée pendant la période d'unification des taux
@@ -122,11 +127,11 @@ importante.
 _Cite_:
 
   - CGI 1636 B sexies, 1609 nonies D, 1609 nonies C, 1636 B decies, 1638 quater, 1478, 6
-  - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
-  - Loi n°99-586 du 12 juillet 1999 - art. 51 (V)
-  - Loi n°99-586 du 12 juillet 1999 - art. 56 (V)
-  - Loi n°2005-781 2005-07-13
-  - Code général des collectivités territoriales - art. L2224-13 (M)
+  - Loi n°86-1317 du 30 décembre 1986
+  - Loi n°99-586 du 12 juillet 1999 - art. 51
+  - Loi n°99-586 du 12 juillet 1999 - art. 56
+  - Loi n°2005-781 du 13 juillet 2005
+  - Code général des collectivités territoriales - art. L2224-13
 
 _Cité par_:
 
@@ -170,13 +175,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
-  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
-
-_Codifié par_:
-
-  - Décret n°2006-356 2006-03-24
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 32

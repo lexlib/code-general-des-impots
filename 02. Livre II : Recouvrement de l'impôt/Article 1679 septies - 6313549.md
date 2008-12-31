@@ -9,26 +9,21 @@ Les entreprises peuvent, sous leur responsabilité, limiter le montant de l'acom
 taxe professionnelle effectivement due au titre de l'année d'imposition, lorsqu'elles estiment que cet acompte lui serait
 supérieur. 
 
-Au plus tard le 30 avril de l'année suivant celle de l'imposition, le redevable doit procéder à la liquidation définitive de
-la cotisation minimale de taxe professionnelle sur la déclaration visée au IV de l'article 1647 E. Cette dernière est
-accompagnée, le cas échéant, du versement du solde correspondant. Si la liquidation définitive fait apparaître que l'acompte
-versé est supérieur à la cotisation effectivement due, l'excédent, déduction faite des autres impôts directs dus par
-l'entreprise, est restitué dans les trente jours de la date de dépôt de la déclaration. 
+L'année suivant celle de l'imposition jusqu'à une  date fixée par décret et au plus tard le deuxième jour ouvré suivant le
+1er  mai,  le redevable doit procéder à la liquidation définitive de la cotisation minimale de taxe professionnelle sur la
+déclaration visée au IV de l'article 1647 E. Cette dernière est accompagnée, le cas échéant, du versement du solde
+correspondant. Si la liquidation définitive fait apparaître que l'acompte versé est supérieur à la cotisation effectivement
+due, l'excédent, déduction faite des autres impôts directs dus par l'entreprise, est restitué dans les trente jours de la
+date de dépôt de la déclaration. 
 
 Le recouvrement de tout ou partie de la cotisation minimale de taxe professionnelle non réglée, mentionnée au II de l'article
 1647 E est poursuivi par voie d'avis de mise en recouvrement.
-
-**Nota:**
-
-NOTA : Loi n° 2007-1824 du 25 décembre 2007 de finances rectificative pour 2007, article 68 VI : Le présent article entre en
-vigueur à une date fixée par décret et au plus tard le 1er janvier 2009. L'article 1 du décret n° 2008-591 du 23 juin 2008 a
-fixé cette date au 1er novembre 2008.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 68
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 60 (V)
 
 _Cité par_:
 
@@ -39,7 +34,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1731 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I-0 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 terdecies (V)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1647 E
