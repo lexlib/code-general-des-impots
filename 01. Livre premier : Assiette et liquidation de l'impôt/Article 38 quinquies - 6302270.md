@@ -9,25 +9,20 @@ fait l'objet d'un dépôt non individualisé dans les magasins d'une entreprise 
 ou de réaliser d'autres prestations sur cette production et peut être reprise à l'identique ou à l'équivalent par
 l'exploitant.
 
-La production agricole qui fait l'objet d'un entreposage demeure inscrite dans les stocks au bilan de l'exploitant jusqu'au
-transfert du contrôle et des avantages économiques futurs attachés à cette production.
+La  production agricole entreposée qui ne fait pas l'objet d'une reprise demeure  inscrite dans les stocks au bilan de
+l'exploitant pour sa valeur à la date de  clôture de l'exercice au cours duquel l'entreposage est intervenu, majorée des
+seuls frais facturés par l'organisme entrepositaire, jusqu'à la date de  perception des sommes représentatives de la cession
+des produits considérés ou  des acomptes perçus sur ces sommes. 
 
-**Nota:**
-
-Loi n° 2005-1720 du 30 décembre 2005, art. 33 II : Ces dispositions entrent en vigueur pour les exercices ouverts à compter
-du 1er janvier 2006. 
-
-Art. 33 III : Un décret fixe les modalités d'application du présent article.
+La production agricole qui fait l'objet d'un entreposage , puis d'une  reprise par l'exploitant demeure inscrite dans les
+stocks au bilan de l'exploitant jusqu'au transfert du contrôle et des avantages économiques futurs attachés à cette
+production.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 33 (V) JORF 31 décembre 2005
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 84
 
 _Cité par_:
 
