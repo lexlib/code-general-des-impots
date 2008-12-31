@@ -3,12 +3,6 @@
 Les personnes morales passibles de l'impôt sur les sociétés sont assujetties à une imposition forfaitaire annuelle d'un
 montant fixé à :
 
-1 300 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 400 000
-euros et 750 000 euros ;
-
-2 000 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 750 000
-euros et 1 500 000 euros ;
-
 3 750 euros pour les personnes morales dont le chiffre d'affaires majoré des produits financiers est compris entre 1 500 000
 euros et 7 500 000 euros ;
 
@@ -43,7 +37,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 17 () JORF 27 décembre 2006
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 14 (V)
 
 _Cité par_:
 
@@ -55,7 +49,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 235 ter ZCA (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 366 A bis (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
