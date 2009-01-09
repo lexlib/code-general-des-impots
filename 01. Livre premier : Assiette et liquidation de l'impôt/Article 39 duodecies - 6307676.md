@@ -68,8 +68,8 @@ Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalab
 le locataire lui-même. 
 
 8. En cas de cession par le prêteur ou le constituant initial de titres restitués à l'issue d'un prêt mentionné à l'article
-L. 432-6 du code monétaire et financier ou d'une remise en garantie réalisée dans les conditions prévues à l'article 38 bis-0
-A bis, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de la première inscription à son bilan des
+L. 211-22 du code monétaire et financier ou d'une remise en garantie réalisée dans les conditions prévues à l'article 38
+bis-0 A bis, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de la première inscription à son bilan des
 titres restitués. 
 
 9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours
@@ -95,15 +95,11 @@ apprécié à compter de la date d'ouverture de cet exercice ou de cette périod
 correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour
 l'application du b du 2.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 65-IV a et VI de la loi n° 2006-1770 du 30 décembre 2006.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 8
 
 _Cité par_:
 
@@ -144,11 +140,13 @@ _Cité par_:
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 202 ter
   - Code général des impôts, CGI. - art. 210 B
   - Code général des impôts, CGI. - art. 239 nonies
+  - Code général des impôts, CGI. - art. 38 bis-0 A
   - Code général des impôts, CGI. - art. 39 B
+  - Code monétaire et financier - art. L211-22
   - Code monétaire et financier - art. L313-7
-  - Code monétaire et financier - art. L432-6
   - Code des assurances - art. L142-4
   - Code des assurances - art. L143-7
   - Code des assurances - art. L144-2
