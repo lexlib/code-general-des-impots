@@ -1,13 +1,13 @@
 # Article 38 bis-0 A bis
 
-I. - Les remises en garantie de titres emportant leur transfert de propriété et réalisées dans les conditions prévues aux I
-ou III de l'article L. 431-7-3 du code monétaire et financier sont soumises au régime prévu au présent article lorsque les
+I. – Les remises en garantie de titres emportant leur transfert de propriété et réalisées dans les conditions prévues aux I
+ou III de l'article L. 211-38 du code monétaire et financier sont soumises au régime prévu au présent article lorsque les
 conditions suivantes sont respectées :
 
 1° Le constituant et le bénéficiaire de la garantie sont imposables sur leur bénéfice selon un régime réel d'imposition ;
 
-2° Les remises portent sur les valeurs, titres ou effets définis à l'article L. 432-12 du code monétaire et financier et
-respectent les conditions prévues à l'article L. 432-13 du même code ;
+2° Les remises portent sur les titres financiers mentionnés à l'article L. 211-27 ou les effets mentionnés à l'article L.
+211-34 du code monétaire et financier et respectent les conditions prévues à l'article L. 211-28 du même code ;
 
 3° La restitution au constituant de la garantie porte sur des titres équivalents et de même nature que ceux remis en
 garantie ;
@@ -16,7 +16,7 @@ garantie ;
 gré, de prêts ou de mises en pension de titres prévus aux articles 38 bis et 38 bis-0 A, ou dans le cadre des opérations
 prévues à l'article L. 330-2 du code monétaire et financier.
 
-II. - 1. Les titres remis par le constituant de la garantie dans les conditions prévues au I sont réputés prélevés par
+II. – 1. Les titres remis par le constituant de la garantie dans les conditions prévues au I sont réputés prélevés par
 priorité sur les titres de même nature acquis ou souscrits à la date la plus récente.
 
 La créance représentative des titres remis est inscrite distinctement au bilan à la valeur d'origine de ces titres. Lors de
@@ -27,7 +27,7 @@ garantie couvre la date de paiement des revenus attachés aux titres remis, le m
 inférieur à la valeur des revenus auxquels le constituant a renoncé. La fraction de la rémunération qui correspond à ces
 produits est soumise au même régime fiscal que les revenus des titres remis en garantie.
 
-III. - 1. Les titres reçus par le bénéficiaire de la garantie dans les conditions prévues au I et la dette représentative de
+III. – 1. Les titres reçus par le bénéficiaire de la garantie dans les conditions prévues au I et la dette représentative de
 l'obligation de restitution de ces titres sont inscrits distinctement au bilan du bénéficiaire de cette garantie au prix du
 marché au jour de la remise en garantie.
 
@@ -46,7 +46,7 @@ respectivement prévues au 1 bis de l'article 38 bis et au II de l'article 38 bi
 reçus en garantie dans les conditions prévues au présent article à la date la plus ancienne. Les achats ultérieurs de titres
 de même nature sont affectés par priorité au remplacement de ces titres.
 
-IV. - En cas de défaillance de l'une des parties, la cession est, d'un point de vue fiscal, réputée réalisée à la date de la
+IV. – En cas de défaillance de l'une des parties, la cession est, d'un point de vue fiscal, réputée réalisée à la date de la
 défaillance. Dans ce cas, le résultat de la cession des titres par le constituant qui les a remis en garantie est égal à la
 différence entre leur valeur réelle au jour de la défaillance et leur prix de revient fiscal dans ses écritures.
 
@@ -55,31 +55,20 @@ remise en garantie.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 38 bis, 38 bis-0 A, 39 duodecies
-  - Code monétaire et financier - art. L330-2 (M)
-  - Code monétaire et financier - art. L431-7-3 (V)
-  - Code monétaire et financier - art. L432-12 (M)
-  - Code monétaire et financier - art. L432-13 (M)
-
-_Créé par_:
-
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 83 (V) JORF 31 décembre 2006
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
-
 _Modifié par_:
 
-  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 8
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 39 duodecies (V)
   - Code général des impôts, CGI. - art. 39 (VD)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, CGI. - art. 38 bis
+  - Code général des impôts, CGI. - art. 38 bis-0 A
+  - Code monétaire et financier - art. L211-28
+  - Code monétaire et financier - art. L211-34
+  - Code monétaire et financier - art. L211-38 (V)
+  - Code monétaire et financier - art. L330-2

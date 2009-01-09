@@ -1,6 +1,6 @@
 # Article 38 bis
 
-I. - 1. Les titres prêtés par une entreprise dans les conditions prévues aux articles L. 432-6 à L. 432-10 du code monétaire
+I. - 1. Les titres prêtés par une entreprise dans les conditions prévues aux articles L. 211-22 à L. 211-26 du code monétaire
 et financier sont prélevés par priorité sur les titres de même nature acquis ou souscrits à la date la plus récente.
 
 La créance représentative des titres prêtés est inscrite distinctement au bilan à la valeur d'origine de ces titres.
@@ -12,7 +12,7 @@ couvre la date de paiement des revenus attachés aux titres prêtés, le montant
 valeur des revenus auxquels le prêteur a renoncé. La fraction de la rémunération qui correspond à ces produits est soumise au
 même régime fiscal que les revenus des titres prêtés.
 
-II. - 1. Les titres empruntés dans les conditions prévues aux articles L. 432-6 à L. 432-10 précités et la dette
+II. - 1. Les titres empruntés dans les conditions prévues aux articles L. 211-22 à L. 211-26 précités et la dette
 représentative de l'obligation de restitution de ces titres sont inscrits distinctement au bilan de l'emprunteur au prix du
 marché au jour du prêt.
 
@@ -24,7 +24,7 @@ A l'expiration du prêt, les titres empruntés sont réputés restitués à la v
 l'obligation de restitution figure au bilan.
 
 1 bis Les titres empruntés peuvent faire l'objet d'un prêt. Dans ce cas, la créance représentative des titres mentionnés au 1
-doit être inscrite au bilan au prix que ces titres ont sur le marché à la date du nouveau prêt. A la clôture de l'exercice,
+doit être inscrite au bilan au prix que ces titres ont sur le marché à la date du nouveau prêt.A la clôture de l'exercice,
 cette créance doit être évaluée au prix des titres à cette date. Lors de leur restitution, les titres empruntés qui ont fait
 l'objet d'un prêt sont repris pour la valeur de la créance à cette date et sont ensuite évalués selon les modalités prévues
 au 1 jusqu'à leur cession ou leur restitution au prêteur initial.
@@ -35,21 +35,16 @@ empruntés.
 
 II bis. - (abrogé)
 
-III. - 1. A défaut de restitution des titres prêtés, leur cession est, d'un point de vue fiscal, réalisée à la date de la
+III. - 1.A défaut de restitution des titres prêtés, leur cession est, d'un point de vue fiscal, réalisée à la date de la
 défaillance.
 
 2. Pour l'application de l'article 39 duodecies, les titres prêtés sont censés avoir été détenus jusqu'à la date du prêt.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 39 duodecies
-  - Code monétaire et financier L432-6 à L432-10
-
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 83 (V) JORF 31 décembre 2006
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 8
 
 _Cité par_:
 
@@ -59,6 +54,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 bis A (VD)
   - Code monétaire et financier - art. L211-23 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, CGI. - art. 39 duodecies
+  - Code monétaire et financier - art. L211-22

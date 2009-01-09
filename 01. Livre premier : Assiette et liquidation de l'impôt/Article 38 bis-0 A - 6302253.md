@@ -1,7 +1,7 @@
 # Article 38 bis-0 A
 
 I. - 1. Les valeurs, titres ou effets mis en pension par une personne morale dans les conditions prévues aux articles L.
-432-12 à L. 432-19 du code monétaire et financier sont, pour l'application des dispositions du présent code, réputés ne pas
+211-27 à L. 211-34 du code monétaire et financier sont, pour l'application des dispositions du présent code, réputés ne pas
 avoir été cédés sous réserve des dispositions des articles précités.
 
 2. Les valeurs, titres ou effets mis en pension sont maintenus à l'actif du bilan du cédant ; le montant de la dette vis-à-
@@ -36,21 +36,9 @@ souscrits à la date la plus récente antérieure à la défaillance.
 
 _Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I 91° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 8
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
   - Code général des impôts, CGI. - art. 39 duodecies (V)
-
-_Cite_:
-
-  - Code monétaire et financier L432-12 à L432-19
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
