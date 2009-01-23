@@ -40,9 +40,9 @@ déduction seront fixés, pour chacune des années au cours desquelles elle sera
 IV. - La réévaluation des immobilisations prévues au présent article peut être effectuée dans les écritures du premier
 exercice clos à dater du 31 décembre 1976 ou des trois exercices suivants.
 
-V. - Un décret en Conseil d'Etat, pris après avis du conseil national de la comptabilité, fixe les conditions d'application
-du présent article, les modalités de réévaluation, notamment celles applicables aux immeubles bâtis, la nature des
-obligations incombant aux entreprises.
+V. - Un décret en Conseil d'Etat, pris après avis de l'Autorité des normes comptables, fixe les conditions d'application du
+présent article, les modalités de réévaluation, notamment celles applicables aux immeubles bâtis, la nature des obligations
+incombant aux entreprises.
 
 Il précise les règles de détermination, d'un point de vue fiscal, des plus ou moins-values de cession d'immobilisations
 amortissables, réévaluées de telle façon que la réévaluation prévue au présent article s'accompagne d'une parfaite neutralité
@@ -62,10 +62,6 @@ _Cite_:
   - CGIAN2 171 A à 171 P
   - CGIAN4 23 L bis
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
 _Anciens textes_:
 
   - Loi n°77-1467 1977-12-30 art. 69 A VII Finances pour 1978
@@ -73,11 +69,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi - art. 89 (V) JORF 31 décembre 2003
-
-_Codifié par_:
-
-  - Décret n°2004-304 2004-03-26
+  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 _Cité par_:
 
