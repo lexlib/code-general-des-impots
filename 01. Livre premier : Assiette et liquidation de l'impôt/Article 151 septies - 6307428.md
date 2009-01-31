@@ -99,6 +99,9 @@ l'achèvement du local, à la date de cet achèvement.L'année où commence la l
 échéant, ramenées à douze mois pour l'appréciation des seuils mentionnés aux 2° et 3°. Il en est de même l'année de cessation
 totale de l'activité de location.
 
+VIII.-Les dispositions du présent article ne s'appliquent pas aux transferts de biens ou de droits dans un patrimoine
+fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'article 2011 du code civil.
+
 **Nota:**
 
 Conformément à l'article 1 de la décision n° 2017-689 QPC du 8 février 2018, le mot " trois " figurant dans la seconde phrase
@@ -111,16 +114,7 @@ d'inconstitutionnalité de l'article 1er prend effet dans les conditions fixées
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 90 (V)
-
-_Cite_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 150 U (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1594-0 G (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 39 duodecies (V)
-  - Code de la construction et de l'habitation. - art. L261-2 (V)
-  - Code de la construction et de l'habitation. - art. L262-1 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 10
 
 _Cité par_:
 
@@ -139,3 +133,13 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 70 (V)
   - Code général des impôts, CGI. - art. 93 quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 150 U
+  - Code général des impôts, CGI. - art. 1594-0 G
+  - Code général des impôts, CGI. - art. 39 duodecies
+  - Code civil - art. 2011
+  - Code de la construction et de l'habitation. - art. L261-2
+  - Code de la construction et de l'habitation. - art. L262-1
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-15
