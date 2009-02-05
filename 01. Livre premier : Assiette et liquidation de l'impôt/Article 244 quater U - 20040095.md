@@ -62,7 +62,9 @@ décret fixe les modalités d'application du présent 5.
 6. Il ne peut être accordé qu'une seule avance remboursable par logement. 
 
 7. Les dépenses de travaux financées par une avance remboursable ne peuvent ouvrir droit au crédit d'impôt de l'article 200
-quater. 
+quater. Cette disposition ne s'applique pas aux bénéficiaires d'une avance émise avant le 1er janvier 2011 lorsque le montant
+des revenus du foyer fiscal tel que défini au IV de l'article 1417 n'excède pas 45 000 € l'avant-dernière année précédant
+celle de l'offre de l'avance. 
 
 II.-Le montant du crédit d'impôt est égal à la somme actualisée des écarts entre les mensualités dues au titre de l'avance
 remboursable sans intérêt et les mensualités d'un prêt consenti sur une durée maximale de cent vingt mois à des conditions
@@ -107,6 +109,8 @@ au II, ainsi que les caractéristiques financières et les conditions d'attribut
 Conformément à la loi n° 2008-1425 du 27 décembre 2008, article 99 VII les I à IV du même article s'appliquent aux avances
 remboursables émises entre le premier jour du troisième mois suivant la publication du décret en Conseil d'Etat prévu au VII
 de l'article 244 quater U du code général des impôts et le 31 décembre 2013.
+
+L'article 9 de la loi n° 2009-122 a remplacé "troisième" mois par "premier" mois.
 
 **Liens relatifs à cet article**
 
@@ -193,14 +197,19 @@ _Créé par_:
 
   - Loi n°2008-1425 du 27 décembre 2008 - art. 99 (V)
 
+_Modifié par_:
+
+  - Loi n°2009-122 du 4 février 2009 - art. 8
+
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 200 quater (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis L (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater B (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater C (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
-  - Code monétaire et financier - art. L511-1 (V)
-  - Code de la construction et de l'habitation. - art. L312-1 (V)
+  - Code général des impôts, CGI. - art. 1417
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 200 quater
+  - Code général des impôts, CGI. - art. 238 bis L
+  - Code général des impôts, CGI. - art. 239 quater
+  - Code général des impôts, CGI. - art. 239 quater B
+  - Code général des impôts, CGI. - art. 239 quater C
+  - Code général des impôts, CGI. - art. 8
+  - Code monétaire et financier - art. L511-1
+  - Code de la construction et de l'habitation. - art. L312-1
