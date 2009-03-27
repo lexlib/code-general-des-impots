@@ -8,7 +8,7 @@ II.-(Abrogé)
 
 III.-Sont exonérés de la contribution les revenus tirés de la location : 
 
-1° dont le montant annuel n'excède pas 1 830 euros par local ; 
+1° dont le montant annuel n'excède pas 1 830 € par local ; 
 
 2° qui donne lieu au paiement de la taxe sur la valeur ajoutée ; 
 
@@ -34,10 +34,9 @@ aux houillères de bassin ;
 
 9° des immeubles faisant partie de villages de vacances ou de maisons familiales de vacances agréés ; 
 
-10° Des logements appartenant aux organismes sans but lucratif ou aux unions d'économie sociale visées à l'article L. 365-1
-du code de la construction et de l'habitation, et dont les dirigeants de droit ou de fait ne sont pas rémunérés, qui les
-mettent à la disposition de personnes défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la
-mise en oeuvre du droit au logement et qui ont été agréés à cet effet par le représentant de l'Etat dans le département ; 
+10° Des logements appartenant aux organismes sans but lucratif ou aux unions d'économie sociale réalisant les activités
+mentionnées à l'article L. 365-1 du code de la construction et de l'habitation, et dont les dirigeants de droit ou de fait ne
+sont pas rémunérés ; 
 
 11° Des logements qui ont fait l'objet de travaux de réhabilitation définis par décret, lorsque ces travaux ont été financés
 à hauteur d'au moins 15 % de leur montant par une subvention versée par l'Agence nationale de l'habitat, pour les quinze
@@ -55,7 +54,6 @@ IV. et V. (Abrogés).
 _Cite_:
 
   - Loi n°64-1278 du 23 décembre 1964
-  - Loi n°90-449 du 31 mai 1990 - art. 1
   - Code général des impôts, CGI. - art. 1048 ter
   - Code de la construction et de l'habitation. - art. L351-2
   - Code de la construction et de l'habitation. - art. L365-1
@@ -82,4 +80,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-735 du 28 juillet 2008 - art. 39
+  - Loi n°2009-323 du 25 mars 2009 - art. 2 (V)
