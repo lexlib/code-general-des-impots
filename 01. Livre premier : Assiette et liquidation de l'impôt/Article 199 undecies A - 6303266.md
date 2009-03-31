@@ -24,14 +24,13 @@ foyer fiscal, qui en font leur habitation principale. Ces sociétés doivent s'e
 dans les deux ans qui suivent la clôture de chaque souscription annuelle. Les souscripteurs doivent s'engager à conserver les
 parts ou actions pendant cinq ans au moins à compter de la date d'achèvement des immeubles ; 
 
-d) Aux souscriptions au capital de sociétés civiles régies par la loi n° 70-1300 du 31 décembre 1970 fixant le régime
-applicable aux sociétés civiles autorisées à faire publiquement appel à l'épargne, lorsque la société s'engage à affecter
-intégralement le produit de la souscription annuelle, dans les six mois qui suivent la clôture de celle-ci, à l'acquisition
-de logements neufs situés dans les départements ou collectivités visés au 1 et affectés pour 90 % au moins de leur superficie
-à usage d'habitation. Ces sociétés doivent s'engager à louer les logements nus pendant cinq ans au moins à compter de leur
-achèvement ou de leur acquisition si elle est postérieure à des locataires, autres que les associés de la société, leur
-conjoint ou les membres de leur foyer fiscal, qui en font leur habitation principale. Les souscripteurs doivent s'engager à
-conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ; 
+d) Aux souscriptions au capital de sociétés civiles autorisées à procéder à une offre au public de titres financiers, lorsque
+la société s'engage à affecter intégralement le produit de la souscription annuelle, dans les six mois qui suivent la clôture
+de celle-ci, à l'acquisition de logements neufs situés dans les départements ou collectivités visés au 1 et affectés pour 90
+% au moins de leur superficie à usage d'habitation. Ces sociétés doivent s'engager à louer les logements nus pendant cinq ans
+au moins à compter de leur achèvement ou de leur acquisition si elle est postérieure à des locataires, autres que les
+associés de la société, leur conjoint ou les membres de leur foyer fiscal, qui en font leur habitation principale. Les
+souscripteurs doivent s'engager à conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ; 
 
 e) Au montant des travaux de réhabilitation réalisés par une entreprise, à l'exclusion de ceux qui constituent des charges
 déductibles des revenus fonciers en application de l'article 31, et portant sur des logements achevés depuis plus de quarante
@@ -153,7 +152,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 16
 
 _Cité par_:
 
