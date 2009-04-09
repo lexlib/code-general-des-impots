@@ -4,9 +4,9 @@ I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent bén
 au titre de l'acquisition, à compter du 1er janvier 2009, d'un logement neuf ou en l'état futur d'achèvement ou d'un logement
 achevé depuis au moins quinze ans ayant fait l'objet d'une réhabilitation ou d'une rénovation ou qui fait l'objet de travaux
 de réhabilitation ou de rénovation si les travaux de réhabilitation ou de rénovation permettent, après leur réalisation, de
-satisfaire à l'ensemble des performances techniques mentionnées au II de l'article 2 quindecies B de l'annexe III du présent
-code, qu'ils destinent à une location meublée n'étant pas exercée à titre professionnel et dont le produit est imposé dans la
-catégorie des bénéfices industriels et commerciaux lorsque ce logement est compris dans : 
+satisfaire à l'ensemble des performances techniques mentionnées au II de l'article 2 quindecies B de l'annexe III , qu'ils
+destinent à une location meublée n'étant pas exercée à titre professionnel et dont le produit est imposé dans la catégorie
+des bénéfices industriels et commerciaux lorsque ce logement est compris dans : 
 
 1° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de l'action sociale et des familles ou
 l'ensemble des logements affectés à l'accueil familial salarié de personnes âgées ou handicapées, prévu par les articles L.
@@ -38,12 +38,12 @@ logement concerné.
 III.-Le propriétaire doit s'engager à louer le logement pendant au moins neuf ans à l'exploitant de l'établissement ou de la
 résidence. Cette location doit prendre effet dans le mois qui suit la date :
 
-- d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, pour les logements acquis neuf ou en l'état futur
-d'achèvement ;
+1° d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, pour les logements acquis neuf ou en l'état
+futur d'achèvement ;
 
-- d'acquisition pour les logements neufs achevés depuis au moins quinze ans ayant fait l'objet d'une réhabilitation ;
+2° d'acquisition pour les logements neufs achevés depuis au moins quinze ans ayant fait l'objet d'une réhabilitation ;
 
-- d'achèvement des travaux pour les logements achevés depuis au moins quinze ans et qui font l'objet de travaux de
+3° d'achèvement des travaux pour les logements achevés depuis au moins quinze ans et qui font l'objet de travaux de
 réhabilitation. 
 
 En cas de non-respect de l'engagement de location ou de cession du logement, la réduction pratiquée fait l'objet d'une
@@ -63,9 +63,9 @@ undecies A et 199 undecies B et des dispositions du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 90 (V)
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -79,10 +79,10 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 quindecies B (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 197 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies A (V)
-  - Code de la santé publique - art. L6111-2 (V)
-  - Code de la sécurité sociale. - art. L341-4 (V)
-  - Code de l'action sociale et des familles - art. L312-1 (V)
-  - Code de l'action sociale et des familles - art. L444-1 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies B
+  - Code général des impôts, CGI. - art. 197
+  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code de la santé publique - art. L6111-2
+  - Code de la sécurité sociale. - art. L341-4
+  - Code de l'action sociale et des familles - art. L312-1
+  - Code de l'action sociale et des familles - art. L444-1
