@@ -18,13 +18,13 @@ direction générale de la comptabilité publique ;
 2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes,
 ainsi que pour les impôts directs et taxes assimilées recouvrés par les comptables de la direction générale des impôts. 
 
-4. La  publicité est obligatoire lorsqu'il est constaté, à l'issue des neuf mois qui  suivent la première date de l'un ou
-l'autre des événements mentionnés au 3, que  le montant des sommes dues à compter de cette date par le redevable à un même
-poste comptable ou service assimilé et susceptibles d'être inscrites dépasse un  seuil fixé par décret.
+4. La publicité est obligatoire lorsqu'il est constaté, à l'issue des neuf mois qui suivent la première date de l'un ou
+l'autre des événements mentionnés au 3, que le montant des sommes dues à compter de cette date par le redevable à un même
+poste comptable ou service assimilé et susceptibles d'être inscrites dépasse un seuil fixé par décret.
 
-Ne sont pas soumises à la publicité  les sommes visées à l'alinéa précédent lorsque le débiteur respecte un plan  d'apurement
-échelonné de sa dette ainsi que ses obligations fiscales courantes.  Dès que le plan est dénoncé, le comptable public doit
-procéder à la publication  dans un délai de deux mois. 
+Ne sont pas soumises à la publicité les sommes visées au premier alinéa lorsque le débiteur respecte un plan d'apurement
+échelonné de sa dette ainsi que ses obligations fiscales courantes. Dès que le plan est dénoncé, le comptable public doit
+procéder à la publication dans un délai de deux mois. 
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le
 présent article à la charge de l'administration, quel que soit le montant du paiement. 
@@ -48,17 +48,7 @@ lors que le débiteur s'est acquitté de sa dette.
 sont fixées par un décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et du garde des
 sceaux, ministre de la justice.
 
-**Nota:**
-
-LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 58 IV : le présent article s'applique aux
-créances nées à compter du 1er juillet  2008
-.
-
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 58 (V)
 
 _Cité par_:
 
@@ -70,6 +60,10 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 416 bis (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 396 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 416 ter (V)
+
+_Modifié par_:
+
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cite_:
 

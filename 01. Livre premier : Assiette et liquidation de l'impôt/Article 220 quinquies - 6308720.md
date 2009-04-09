@@ -44,24 +44,19 @@ nominale.
 En cas de scission ou d'apport partiel d'actif, la créance est transmise au prorata du montant de l'actif net réel apporté à
 la ou aux sociétés bénéficiaires des apports apprécié à la date d'effet de l'opération.
 
-Un décret précise les modalités de transfert de la créance.
+(Alinéa disjoint).
 
 III. (Abrogé).
 
 IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises
-ainsi que les modalités et limites dans lesquelles les dispositions du I sont applicables aux sociétés agréées visées aux
-articles 209 quinquies et 209 sexies.
+ainsi que les modalités et limites dans lesquelles les dispositions du I sont applicables aux sociétés agréées visées à
+l'article 209 quinquies.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 68 A de la loi n° 87-1060 du 30 décembre 1987.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 209, 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 undecies, 207 à 208 sexies, 219, 220 quater, 220 quater A, 209 quinquies, 209 sexies
-  - Code monétaire et financier L313-23 à L313-35
-
-_Modifié par_:
-
-  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V) JORF 2 avril 2006
 
 _Cité par_:
 
@@ -80,6 +75,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 W (V)
   - Livre des procédures fiscales - art. L171 A (V)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
