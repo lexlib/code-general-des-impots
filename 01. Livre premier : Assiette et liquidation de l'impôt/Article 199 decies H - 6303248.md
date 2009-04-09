@@ -48,11 +48,11 @@ d) Aux dépenses de travaux forestiers effectués dans une propriété lorsqu'el
 hectares d'un seul tenant et qu'elle présente l'une des garanties de gestion durable prévues à l'article L. 8 du code
 forestier, sous réserve des deux conditions suivantes : 
 
-― le contribuable doit prendre l'engagement de conserver cette propriété jusqu'au 31 décembre de la huitième année suivant
+1° le contribuable doit prendre l'engagement de conserver cette propriété jusqu'au 31 décembre de la huitième année suivant
 celle des travaux et d'appliquer, pendant la même durée, l'une des garanties de gestion durable prévues à l'article L. 8 du
 même code ; 
 
-― les travaux de plantation doivent être effectués avec des graines et des plants forestiers conformes aux prescriptions des
+2° les travaux de plantation doivent être effectués avec des graines et des plants forestiers conformes aux prescriptions des
 arrêtés régionaux relatifs aux aides de l'Etat à l'investissement forestier pris conformément au titre V du livre V de la
 partie réglementaire du même code ; 
 
@@ -61,14 +61,14 @@ contribuable est membre, lorsque la propriété du groupement ou de la société
 une unité de gestion d'au moins 10 hectares d'un seul tenant et qu'elle présente l'une des garanties de gestion durable
 prévues à l'article L. 8 du même code, sous réserve des trois conditions suivantes : 
 
-― l'associé doit prendre l'engagement de conserver les parts du groupement ou de la société jusqu'au 31 décembre de la
+1° l'associé doit prendre l'engagement de conserver les parts du groupement ou de la société jusqu'au 31 décembre de la
 quatrième année suivant celle des travaux ; 
 
-― le groupement ou la société doit prendre l'engagement de conserver les parcelles qui ont fait l'objet de travaux ouvrant
+2° le groupement ou la société doit prendre l'engagement de conserver les parcelles qui ont fait l'objet de travaux ouvrant
 droit à réduction d'impôt jusqu'au 31 décembre de la huitième année suivant celle des travaux et d'appliquer, pendant la même
 durée, l'une des garanties de gestion durable prévues à l'article L. 8 du même code ; 
 
-― les travaux de plantation doivent être effectués avec des graines et des plants forestiers conformes aux prescriptions des
+3° les travaux de plantation doivent être effectués avec des graines et des plants forestiers conformes aux prescriptions des
 arrêtés régionaux relatifs aux aides de l'Etat à l'investissement forestier pris conformément au titre V du livre V de la
 partie réglementaire du même code ; 
 
@@ -78,14 +78,14 @@ contribuable est membre, pour la réalisation d'un contrat conclu pour la gestio
 organisation de producteurs au sens de l'article L. 551-1 du même code ou avec l'Office national des forêts en application de
 l'article L. 224-6 du code forestier, sous réserve des trois conditions suivantes : 
 
-― le contrat de gestion doit prévoir la réalisation de programmes de travaux et de coupes sur des terrains en nature de bois
+1° le contrat de gestion doit prévoir la réalisation de programmes de travaux et de coupes sur des terrains en nature de bois
 et forêts dans le respect de l'une des garanties de gestion durable prévues à l'article L. 8 du même code ; 
 
-― ces coupes doivent être cédées soit dans le cadre d'un mandat de vente avec un expert forestier, soit en exécution d'un
+2° ces coupes doivent être cédées soit dans le cadre d'un mandat de vente avec un expert forestier, soit en exécution d'un
 contrat d'apport conclu avec une coopérative ou une organisation de producteurs, soit dans les conditions prescrites à
 l'article L. 224-6 du même code ; 
 
-― ces coupes doivent être commercialisées à destination d'unités de transformation du bois ou de leurs filiales
+3° ces coupes doivent être commercialisées à destination d'unités de transformation du bois ou de leurs filiales
 d'approvisionnement par voie de contrats d'approvisionnement annuels reconductibles ou pluriannuels. 
 
 Les conditions et les modalités d'application de ces dispositions sont fixées par décret. 
@@ -172,24 +172,24 @@ dépenses payées à compter du 1er janvier  2009
 
 _Cite_:
 
-  - Décret du 28 juin 1930, v. init.
-  - Loi n°85-30 du 9 janvier 1985 - art. 5 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1398 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 170 (V)
+  - Décret du 28 juin 1930
+  - Loi n°85-30 du 9 janvier 1985 - art. 5
+  - Code général des impôts, CGI. - art. 1398
+  - Code général des impôts, CGI. - art. 170
   - Code général des impôts, CGI. - art. 4 B
-  - Code rural - art. L171-1 (V)
-  - Code rural - art. L551-1 (V)
-  - Code forestier - art. L224-6 (V)
-  - Code forestier - art. L4 (V)
-  - Code forestier - art. L6 (V)
-  - Code forestier - art. L8 (V)
-  - Code monétaire et financier - art. L214-85 (V)
-  - Code monétaire et financier - art. L214-87 (V)
-  - Code de la sécurité sociale. - art. L341-4 (V)
+  - Code rural - art. L171-1
+  - Code rural - art. L551-1
+  - Code forestier - art. L224-6
+  - Code forestier - art. L4
+  - Code forestier - art. L6
+  - Code forestier - art. L8
+  - Code monétaire et financier - art. L214-85
+  - Code monétaire et financier - art. L214-87
+  - Code de la sécurité sociale. - art. L341-4
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 112 (V)
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 

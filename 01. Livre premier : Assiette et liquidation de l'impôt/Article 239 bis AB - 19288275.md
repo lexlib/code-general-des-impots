@@ -19,8 +19,8 @@ Pour l'application du 1° du II de l'article 163 quinquies B, du 1 du I de l'art
 l'article L. 214-41 et du premier alinéa du 1 de l'article L. 214-41-1 du code monétaire et financier et du troisième alinéa
 du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et
 financier, les sociétés ayant exercé l'option prévue au I sont réputées soumises à l'impôt sur les sociétés dans les
-conditions de droit commun au taux normal. Il en va de même pour l'application du c du 2° du I de l'article 199 terdecies-0 A
-du présent code. 
+conditions de droit commun au taux normal. Il en va de même pour l'application du c du 2° du I de l'article 199 terdecies-0
+A. 
 
 II.-L'option prévue au I est subordonnée au respect des conditions suivantes : 
 
@@ -36,7 +36,7 @@ Les conditions mentionnées aux 1° et 2° ainsi que la condition de détention 
 manière continue au cours des exercices couverts par l'option. Lorsque l'une d'entre elles n'est plus respectée au cours de
 l'un de ces exercices, l'article 206 est applicable à la société, à compter de ce même exercice. 
 
-La condition mentionnée au 3° du présent II s'apprécie à la date d'ouverture du premier exercice d'application de l'option. 
+La condition mentionnée au 3° s'apprécie à la date d'ouverture du premier exercice d'application de l'option. 
 
 III.-L'option ne peut être exercée qu'avec l'accord de tous les associés, à l'exclusion des associés mentionnés au deuxième
 alinéa du I. Elle doit être notifiée au service des impôts auprès duquel est souscrite la déclaration de résultats dans les
@@ -53,17 +53,17 @@ opter à nouveau pour ce régime en application du présent article.
 _Cite_:
 
   - Loi n°85-695 du 11 juillet 1985 - art. 1-1
-  - CODE GENERAL DES IMPOTS, CGI. - art. 206 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 6 (V)
   - Code général des impôts, CGI. - art. 163 quinquies B
+  - Code général des impôts, CGI. - art. 206
   - Code général des impôts, CGI. - art. 208 D
+  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 6
   - Code monétaire et financier - art. L214-41
   - Code monétaire et financier - art. L214-41-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 30
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
