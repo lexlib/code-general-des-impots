@@ -6,9 +6,9 @@ gratuitement à leur disposition, peuvent bénéficier d'un crédit d'impôt sur
 contractés auprès d'un établissement financier à raison de cette opération, tels que définis à l'article L. 312-2 du code de
 la consommation. 
 
-Le premier alinéa du présent I s'applique également aux contribuables qui font construire un logement destiné à être affecté,
-dès son achèvement, à leur habitation principale. Dans cette situation, les prêts mentionnés au premier alinéa s'entendent de
-ceux qui sont contractés en vue de financer l'acquisition du terrain et les dépenses de construction. 
+Le premier alinéa s'applique également aux contribuables qui font construire un logement destiné à être affecté, dès son
+achèvement, à leur habitation principale. Dans cette situation, les prêts mentionnés au premier alinéa s'entendent de ceux
+qui sont contractés en vue de financer l'acquisition du terrain et les dépenses de construction. 
 
 Le logement doit, au jour de l'affectation à usage d'habitation principale du bénéficiaire du crédit d'impôt, satisfaire aux
 normes minimales de surface et d'habitabilité mentionnées à l'article 244 quater J. En outre, le logement acquis neuf, en
@@ -101,10 +101,6 @@ compter de l'entrée en vigueur du décret mentionné au même 1° du I et au pl
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 103 (V)
-
 _Cité par_:
 
   - Décret n°2009-1 du 2 janvier 2009 (V)
@@ -112,13 +108,17 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AZA sexies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA septies (V)
 
+_Modifié par_:
+
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
+
 _Cite_:
 
-  - Code de la consommation - art. L312-2 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1729 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 196 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 quater B (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies A (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater J (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 4 B (V)
-  - Code de la construction et de l'habitation. - art. L111-9 (V)
+  - Code de la consommation - art. L312-2
+  - Code général des impôts, CGI. - art. 1729
+  - Code général des impôts, CGI. - art. 196
+  - Code général des impôts, CGI. - art. 199 quater B
+  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 244 quater J
+  - Code général des impôts, CGI. - art. 4 B
+  - Code de la construction et de l'habitation. - art. L111-9
