@@ -2,8 +2,8 @@
 
 La réduction d'impôt mentionnée à l'article 199 decies E est accordée au titre de l'acquisition d'un logement achevé depuis
 quinze ans au moins et qui fait l'objet de travaux de réhabilitation. Par dérogation aux premier et troisième alinéas de
-l'article précité, la réduction d'impôt s'applique aux logements situés dans les stations classées en application du premier
-alinéa de l'article L. 133-11 du code du tourisme et dans les communes touristiques dont la liste est fixée par décret. 
+l'article précité, la réduction d'impôt s'applique aux logements situés dans les stations classées en application des
+articles L. 133-13 à L. 133-17 du code du tourisme et dans les communes touristiques dont la liste est fixée par décret. 
 
 La réduction est calculée sur le prix de revient de ces logements majoré des travaux de réhabilitation définis par décret,
 dans la limite de 50 000 euros pour une personne célibataire, veuve ou divorcée et de 100 000 euros pour un couple marié. Le
@@ -24,15 +24,13 @@ logements pour les salariés saisonniers.
 
 **Nota:**
 
-Conformément aux articles 94 III et 95 II de la loi n° 2008-1425 du 27 décembre 2008, les dispositions introduites par ces
-articles sont applicables aux revenus perçus à compter du 1er janvier 2009.
+Modifications effectuées en conséquence de l'article 7-III (2°) de la loi n° 2006-437 du 14 avril 2006.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 94
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 95 (V)
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -45,5 +43,6 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 decies E (V)
-  - Code du tourisme. - art. L133-11 (VT)
+  - Code général des impôts, CGI. - art. 199 decies E
+  - Code général des impôts, CGI. - art. 32 (V)
+  - Code du tourisme. - art. L133-13
