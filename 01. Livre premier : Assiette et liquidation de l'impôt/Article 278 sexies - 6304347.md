@@ -43,7 +43,7 @@ situés dans des quartiers faisant l'objet d'une convention prévue à l'article
 d'orientation et de programmation pour la ville et la rénovation urbaine et destinés à être occupés par des ménages dont le
 total des ressources n'excède pas le montant mentionné à l'article R. 391-8 du code de la construction et de l'habitation. 
 
-3° septies Les ventes et apports de locaux aux établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de
+3 septies Les ventes et apports de locaux aux établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de
 l'action sociale et des familles, agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils accueillent des
 personnes handicapées ou, lorsqu'ils accueillent des personnes âgées s'ils remplissent les critères d'éligibilité au prêt
 prévu à l'article R. 331-1 du code de la construction et de l'habitation, et qui font l'objet d'une convention entre le
@@ -135,5 +135,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 52 (V)
-  - Loi n°2009-323 du 25 mars 2009 - art. 53
+  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
