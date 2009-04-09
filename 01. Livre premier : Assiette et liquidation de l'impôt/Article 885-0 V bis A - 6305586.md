@@ -21,7 +21,7 @@ général, à but non lucratif ;
 7° De l'Agence nationale de la recherche ; 
 
 8° Des fondations universitaires et des fondations partenariales mentionnées respectivement aux articles L. 719-12 et L.
-719-13 du code de l'éducation lorsqu'elles répondent aux conditions fixées au b du 1 de l'article 200 du présent code. 
+719-13 du code de l'éducation lorsqu'elles répondent aux conditions fixées au b du 1 de l'article 200.
 
 II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la
 déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition. 
@@ -47,7 +47,7 @@ V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 141
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
