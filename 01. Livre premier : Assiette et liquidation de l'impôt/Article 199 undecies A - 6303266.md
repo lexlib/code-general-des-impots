@@ -79,7 +79,7 @@ le montant est supérieur à 4 600 000 euros doit avoir été portée, préalabl
 ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. 
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour
-les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 058 euros hors taxes par mètre carré de surface
+les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 194 euros hors taxes par mètre carré de surface
 habitable. Cette limite est relevée chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur
 quatre trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique
 et des études économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui
@@ -136,23 +136,18 @@ logement à usage d'habitation principale de son personnel ne fait pas obstacle 
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 5 et 8 de la loi n° 2003-276 du 28 mars 2003 et de l'article 58-I de la
-loi n° 2004-1485 du 30 décembre 2004.
+Modifications effectuées en conséquence de l'article 58-I (1°)  de la loi n° 2004-1485 du 30 décembre 2004.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°70-1300 du 31 décembre 1970
   - Loi n°95-115 du 4 février 1995 - art. 42
   - Loi n°2003-660 du 21 juillet 2003
-  - Code général des impôts, CGI. - art. 210 A
-  - Code général des impôts, CGI. - art. 210 B
-  - Code général des impôts, CGI. - art. 4 B
 
 _Modifié par_:
 
-  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 16
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
