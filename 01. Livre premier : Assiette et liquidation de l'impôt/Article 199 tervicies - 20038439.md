@@ -26,11 +26,11 @@ parts est démembré.
 II. ― Les dépenses mentionnées au I s'entendent des charges énumérées aux a, a bis, b, b bis, c et e du 1° du I de l'article
 31, des frais d'adhésion à des associations foncières urbaines de restauration, ainsi que des dépenses de travaux imposés ou
 autorisés en application des dispositions législatives ou réglementaires relatives aux secteurs et zones mentionnés aux
-deuxième et troisième alinéas du I du présent article, y compris les travaux effectués dans des locaux d'habitation et ayant
-pour objet de transformer en logement tout ou partie de ces locaux, supportées à compter soit de la date de délivrance du
-permis de construire, soit de l'expiration du délai d'opposition à la déclaration préalable et jusqu'au 31 décembre de la
-troisième année suivante. Le cas échéant, cette durée est prolongée du délai durant lequel les travaux sont interrompus ou
-ralentis en application des articles L. 531-14 à L. 531-16 du code du patrimoine ou par l'effet de la force majeure. 
+deuxième et troisième alinéas du I, y compris les travaux effectués dans des locaux d'habitation et ayant pour objet de
+transformer en logement tout ou partie de ces locaux, supportées à compter soit de la date de délivrance du permis de
+construire, soit de l'expiration du délai d'opposition à la déclaration préalable et jusqu'au 31 décembre de la troisième
+année suivante. Le cas échéant, cette durée est prolongée du délai durant lequel les travaux sont interrompus ou ralentis en
+application des articles L. 531-14 à L. 531-16 du code du patrimoine ou par l'effet de la force majeure. 
 
 Ouvre également droit à la réduction d'impôt la fraction des provisions versées par le propriétaire pour dépenses de travaux
 de la copropriété et pour le montant effectivement employé par le syndic de la copropriété au paiement desdites dépenses. 
@@ -95,7 +95,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 27
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 

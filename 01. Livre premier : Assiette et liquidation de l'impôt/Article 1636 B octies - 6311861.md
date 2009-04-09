@@ -36,28 +36,23 @@ l'article 29 de la loi de finances pour 2003 précitée, indexé chaque année c
 L. 2334-7 du code général des collectivités territoriales ainsi que du montant de la compensation mentionnée au premier
 alinéa.
 
-V. – Les dispositions du présent article entreront en vigueur à compter de 1981.
+V. – (Disjoint)
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1467
-  - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
-  - Loi n°2002-1575 2002-12-30 art. 26, art. 29 Finances pour 2003
-  - Code général des collectivités territoriales - art. L2334-7 (M)
-  - Code général des collectivités territoriales - art. L5211-28-1 (M)
-  - Code de l'urbanisme - art. L321-1 (M)
-  - Code de l'urbanisme - art. L324-1 (M)
+  - Loi
+  - Loi n°2002-1575 du 30 décembre 2002
+  - Code général des collectivités territoriales - art. L2334-7
+  - Code général des collectivités territoriales - art. L5211-28-1
+  - Code de l'urbanisme - art. L321-1
+  - Code de l'urbanisme - art. L324-1
 
 _Modifié par_:
 
-  - Loi n°2006-1771 2006-12-30 art. 128 III, XII Finances rectificative pour 2006 JORF 31 décembre 2006
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 128 (V) JORF 31 décembre 2006
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -68,7 +63,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 B (VD)
   - Code général des impôts, CGI. - art. 1609 quater (VT)
   - Code général des impôts, CGI. - art. 1636 C (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
