@@ -2,14 +2,14 @@
 
 I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
 octies et 44 decies peuvent bénéficier d'un crédit d'impôt égal au produit du montant de 1 600 euros par le nombre moyen
-annuel d'apprentis dont le contrat est régi par les dispositions des articles L. 117-1 à L. 117-18 du code du travail. Ce
+annuel d'apprentis dont le contrat est régi par les dispositions des articles L. 6221-1 à L. 6225-8 du code du travail. Ce
 montant est porté à 2 200 euros dans les cas suivants :
 
-1° lorsque la qualité de travailleur handicapé est reconnue à l'apprenti en application de l'article L. 323-10 du code du
-travail ;
+1° lorsque la qualité de travailleur handicapé est reconnue à l'apprenti en application des articles L. 5213-1 et L. 5213-2
+du code du travail ;
 
-2° lorsque l'apprenti bénéficie de l'accompagnement personnalisé prévu à la dernière phrase du premier alinéa de l'article L.
-322-4-17-2 du même code ;
+2° lorsque l'apprenti bénéficie de l'accompagnement personnalisé et renforcé prévu par décret en application du 1° de
+l'article L. 5131-7 du code du travail ;
 
 3° lorsque l'apprenti est employé par une entreprise portant le label "Entreprise du patrimoine vivant" au sens de l'article
 23 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises.
@@ -38,27 +38,19 @@ et par semaine de présence dans l'entreprise, dans la limite annuelle de vingt-
 
 **Nota:**
 
-Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2006.
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 decies, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies quinquies, 156
-  - Loi n°2005-882 2005-08-02 art. 23
-  - Code de l'éducation - art. L337-3 (M)
-  - Code du service national - art. L130-1 (V)
-  - Code du travail - art. L322-4-17-2 (AbD)
-  - Code du travail - art. L323-10 (M)
-  - Code du travail L117-1 à L117-18, L323-10, L322-4-17-2
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Loi n°2005-882 du 2 août 2005 - art. 23
+  - Code du service national - art. L130-1
+  - Code du travail - art. L5131-7
 
 _Modifié par_:
 
-  - Loi n°2006-396 du 31 mars 2006 - art. 4 () JORF 2 avril 2006
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
