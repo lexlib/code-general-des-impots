@@ -1,8 +1,8 @@
 # Article 199 undecies D
 
-I. ― 1. La somme des réductions d'impôt sur le revenu mentionnées aux articles 199 undecies A et 199 undecies B et des
-reports de ces réductions d'impôts, dont l'imputation est admise pour un contribuable au titre d'une même année d'imposition,
-ne peut excéder un montant de 40 000 €. 
+I. ― 1. La somme des réductions d'impôt sur le revenu mentionnées aux articles 199 undecies A, 199 undecies B et 199 undecies
+C et des reports de ces réductions d'impôts, dont l'imputation est admise pour un contribuable au titre d'une même année
+d'imposition, ne peut excéder un montant de 40 000 €. 
 
 2. Pour l'appréciation de la limite mentionnée au 1, la réduction d'impôt au titre des investissements mentionnés à la
 première phrase des vingt-sixième et vingt-septième alinéas du I de l'article 199 undecies B ainsi que les reports résultant
@@ -12,12 +12,18 @@ d'une réduction d'impôt au titre des mêmes investissements sont retenus pour 
 deuxième phrase du vingt-sixième alinéa du I de l'article 199 undecies B ainsi que les reports résultant d'une réduction
 d'impôt au titre des mêmes investissements sont retenus pour la moitié de leur montant. 
 
-4. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues en application des 2 et 3 peuvent être
-imputées dans la limite annuelle : 
+3 bis. Pour l'appréciation de la limite mentionnée au 1, la réduction d'impôt acquise au titre des investissements mentionnés
+à l'article 199 undecies C ainsi que les reports résultant d'une réduction d'impôt au titre des mêmes investissements sont
+retenus pour 35 % de leur montant. 
 
-― d'une fois et demie le montant mentionné au 1 pour la fraction non retenue en application du 2 ; 
+4. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues en application des 2, 3 et 3 bis peuvent être
+imputées dans la limite annuelle :
 
-― du montant mentionné au 1 pour la fraction non retenue en application du 3. 
+- d'une fois et demie le montant mentionné au 1 pour la fraction non retenue en application du 2 ;
+
+- de sept fois le treizième du montant mentionné au 1 pour la fraction non retenue en application du 3 bis ;
+
+- du montant mentionné au 1 pour la fraction non retenue en application du 3. 
 
 II. ― Lorsque le contribuable personne physique réalise directement des investissements mentionnés au I de l'article 199
 undecies B au titre et pour les besoins de l'activité pour laquelle il participe à l'exploitation au sens du 1° bis du I de
@@ -32,9 +38,9 @@ servant de base au calcul de l'impôt sur le revenu dans les conditions prévues
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 87 (V)
+  - Loi n°2009-594 du 27 mai 2009 - art. 40
 
 _Cité par_:
 
@@ -43,5 +49,6 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies A (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies B (V)
+  - Code général des impôts, CGI. - art. 197
+  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 199 undecies B
