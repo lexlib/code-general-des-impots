@@ -1,10 +1,10 @@
 # Article 244 quater B
 
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application
-des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies et 44 duodecies peuvent
-bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit
-d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la
-fraction des dépenses de recherche supérieure à ce montant. 
+des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies , 44 duodecies, 44 terdecies
+et 44 quaterdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de
+l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions
+d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. 
 
 Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre respectivement de la première et de la deuxième
 année qui suivent l'expiration d'une période de cinq années consécutives au titre desquelles l'entreprise n'a pas bénéficié
@@ -148,11 +148,6 @@ IV., IV. bis, IV. ter, V. (Dispositions périmées).
 VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de
 durée inégale ou ne coïncidant pas avec l'année civile.
 
-**Nota:**
-
-Dispositions applicables aux crédits d'impôt calculés au titre des dépenses de recherche exposées à compter du 1er janvier
-2009.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -206,18 +201,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 27
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 101 (V)
+  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater B (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 239 quater C (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
   - Code général des impôts, CGI. - art. 151 nonies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 220 septies
   - Code général des impôts, CGI. - art. 238 bis L
+  - Code général des impôts, CGI. - art. 239 quater
+  - Code général des impôts, CGI. - art. 239 quater B
+  - Code général des impôts, CGI. - art. 239 quater C
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 8
