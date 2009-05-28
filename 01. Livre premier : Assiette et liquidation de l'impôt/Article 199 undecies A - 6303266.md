@@ -8,9 +8,11 @@ et le 31 décembre 2017.
 
 2. La réduction d'impôt s'applique : 
 
-a) Au prix de revient de l'acquisition ou de la construction régulièrement autorisée par un permis de construire d'un
-immeuble neuf situé dans les départements ou collectivités visés au 1, que le propriétaire prend l'engagement d'affecter dès
-l'achèvement ou l'acquisition si elle est postérieure à son habitation principale pendant une durée de cinq ans ; 
+a) Dans la limite d'une surface habitable comprise entre 50 et 150 mètres carrés et fixée par décret selon le nombre de
+personnes destinées à occuper à titre principal le logement, au prix de revient de l'acquisition ou de la construction
+régulièrement autorisée par un permis de construire d'un immeuble neuf situé dans les départements ou collectivités visés au
+1, que le propriétaire prend l'engagement d'affecter dès l'achèvement ou l'acquisition si elle est postérieure à son
+habitation principale pendant une durée de cinq ans ; 
 
 b) Au prix de revient de l'acquisition ou de la construction régulièrement autorisée par un permis de construire d'un
 immeuble neuf situé dans les départements ou collectivités visés au 1, que le propriétaire prend l'engagement de louer nu
@@ -33,12 +35,12 @@ associés de la société, leur conjoint ou les membres de leur foyer fiscal, qu
 souscripteurs doivent s'engager à conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ; 
 
 e) Au montant des travaux de réhabilitation réalisés par une entreprise, à l'exclusion de ceux qui constituent des charges
-déductibles des revenus fonciers en application de l'article 31, et portant sur des logements achevés depuis plus de quarante
+déductibles des revenus fonciers en application de l'article 31, et portant sur des logements achevés depuis plus de vingt
 ans, situés dans les départements ou collectivités visés au 1, que le propriétaire prend l'engagement, pour une durée de cinq
 ans, soit d'affecter dès l'achèvement des travaux à son habitation principale, soit de louer nu dans les six mois qui suivent
 l'achèvement des travaux à des personnes qui en font leur habitation principale et autres que son conjoint ou un membre de
-son foyer fiscal. Un décret détermine les conditions d'application de ces dispositions, et notamment la nature des travaux de
-réhabilitation éligibles ; 
+son foyer fiscal, ainsi qu'au montant des travaux de confortation de logements contre le risque sismique. Un décret détermine
+les conditions d'application de ces dispositions, et notamment la nature des travaux de réhabilitation éligibles ; 
 
 f) Aux souscriptions en numéraire au capital des sociétés de développement régional des départements ou collectivités visés
 au 1 ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant dans les douze mois de
@@ -56,7 +58,7 @@ undecies B et qui affectent ces prêts et souscriptions à l'acquisition et à l
 neufs. 
 
 Ces sociétés spécialisées ne bénéficient pas, pour la détermination de leur propre résultat, des déductions prévues à
-l'article 217 undecies. 
+l'article 217 undecies.
 
 L'équivalent de 60 % de la réduction d'impôt ainsi obtenue doit bénéficier à l'entreprise qui acquiert et exploite
 l'investissement ; 
@@ -74,9 +76,15 @@ l'immeuble, des parts ou des actions, ou titulaire de leur usufruit peut demande
 conditions et selon les mêmes modalités, du bénéfice de la réduction prévue au présent article pour la période restant à
 courir à la date du décès. 
 
-4. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 2 dont
-le montant est supérieur à 4 600 000 euros doit avoir été portée, préalablement à sa réalisation, à la connaissance du
-ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. 
+3 bis. La réduction d'impôt n'est applicable au titre des investissements mentionnés au a du 2 que lorsque ceux-ci sont
+réalisés par des personnes physiques pour l'acquisition ou la construction d'une résidence principale en accession à la
+première propriété au sens du troisième alinéa du I de l'article 244 quater J ainsi que par des personnes physiques dont la
+résidence principale est visée par un arrêté, une mise en demeure ou une injonction pris en application de l'article L. 511-1
+du code de la construction et de l'habitation ou des articles L. 1331-22 et L. 1331-24 du code de la santé publique. 
+
+4. Lorsque le montant des investissements mentionnés aux b, c, d, f, g et h du 2 est supérieur à deux millions d'euros, le
+bénéfice de la réduction d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du
+budget dans les conditions prévues au III de l'article 217 undecies. 
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour
 les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 194 euros hors taxes par mètre carré de surface
@@ -89,18 +97,20 @@ précède la date de référence.
 de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, et des neuf années suivantes. Pour les
 investissements visés aux b, c, d, f, g et h du 2, elle est effectuée pour le calcul de l'impôt dû au titre de l'année
 d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, ou de la souscription des parts ou actions, et des
-quatre années suivantes. Pour les investissements visés au e, elle est effectuée pour le calcul dû au titre de l'année
-d'achèvement des travaux de réhabilitation et des quatre années suivantes. Chaque année, la base de la réduction est égale,
-pour les investissements mentionnés au a du 2, à 10 % des sommes effectivement payées au 31 décembre de l'année au cours de
-laquelle le droit à réduction d'impôt est né et, pour les investissements visés aux b, c, d, e, f, g et h du 2, à 20 % des
-sommes effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né. 
+quatre années suivantes. Pour les investissements visés au e du même 2, elle est effectuée pour le calcul dû au titre de
+l'année d'achèvement des travaux et des quatre années suivantes. Chaque année, la base de la réduction est égale, pour les
+investissements mentionnés au a du 2, à 10 % des sommes effectivement payées au 31 décembre de l'année au cours de laquelle
+le droit à réduction d'impôt est né et, pour les investissements visés aux b, c, d, e, f, g et h du 2, à 20 % des sommes
+effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né. 
 
-La réduction d'impôt est égale à 25 % de la base définie au premier alinéa, pour les investissements mentionnés au a et au e
-du 2, à 40 % de la même base, pour les investissements mentionnés aux b, c et d du 2, et à 50 % de la même base pour les
-investissements mentionnés aux f, g et h du 2. 
+La réduction d'impôt est égale à 25 % de la base définie au premier alinéa du présent 6 pour les investissements mentionnés
+aux a et e du 2. 
 
-La réduction d'impôt est portée à 50 % de la base définie au premier alinéa pour les investissements mentionnés aux b, c et d
-du 2, si les conditions suivantes sont réunies : 
+La réduction d'impôt est égale à 40 % de la base définie au premier alinéa du présent 6 pour les investissements mentionnés
+aux b, c et d du 2 et à 50 % de la même base pour les investissements mentionnés aux f, g et h du 2. 
+
+Pour les investissements mentionnés aux b, c et d du 2, la réduction d'impôt est portée à 50 % si les conditions suivantes
+sont réunies : 
 
 1° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si
 elle est postérieure et pendant six ans au moins à des personnes qui en font leur habitation principale. En cas de
@@ -110,14 +120,44 @@ au moins six ans à compter de la date d'achèvement des logements ou de leur ac
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret. 
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer et la collectivité départementale de Mayotte
-mentionnés aux a, b, c, d et e du 2, les taux de 25 %,40 % et 50 % visés aux deuxième et troisième alinéas sont majorés de
-dix points lorsque le logement est situé dans une zone urbaine sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4
-février 1995 d'orientation pour l'aménagement et le développement du territoire. 
+mentionnés aux a, b, c, d et e du 2, les taux prévus aux deuxième à quatrième alinéas du présent 6 sont majorés de dix points
+lorsque le logement est situé dans une zone urbaine sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février
+1995d'orientation pour l'aménagement et le développement du territoire. 
 
-En outre, lorsque des dépenses d'équipements de production d'énergie utilisant une source d'énergie renouvelable sont
-réalisées dans le logement, les taux de la réduction d'impôt visés aux deuxième, troisième et sixième alinéas sont majorés de
-quatre points. Un arrêté du ministre chargé du budget fixe la nature des dépenses d'équipements qui ouvrent droit à cette
-majoration. 
+En outre, lorsque des dépenses d'équipement de production d'énergie utilisant une source d'énergie renouvelable sont
+réalisées dans le logement, les taux de la réduction d'impôt visés aux deuxième à quatrième et septième alinéas du présent 6
+sont majorés de quatre points. Un arrêté du ministre chargé du budget fixe la nature des dépenses d'équipement qui ouvrent
+droit à cette majoration. 
+
+6 bis. La réduction d'impôt ne s'applique pas aux investissements mentionnés aux b, c et d du 2 engagés après le 31 décembre
+2010. 
+
+Toutefois, la réduction d'impôt s'applique également : 
+
+1° Aux investissements mentionnés aux b, c et d du 2 engagés entre le 1er janvier 2011 et le 31 décembre 2011. Par dérogation
+au 6, le taux de la réduction d'impôt est, pour ces investissements, de 30 %. Ce taux est porté à 45 % pour ceux de ces
+investissements au titre desquels les conditions mentionnées aux 1° et 2° du 6 sont réunies. Les majorations prévues aux deux
+derniers alinéas du 6 sont, le cas échéant, applicables à ces taux ; 
+
+2° Au taux de 35 % aux investissements mentionnés aux b, c et d du 2 engagés entre le 1er janvier 2012 et le 31 décembre 2012
+et au titre desquels les conditions mentionnées aux 1° et 2° du 6 sont réunies. 
+
+Au sens du présent 6 bis, sont considérés comme engagés :
+
+- les investissements mentionnés au b du 2 au titre de logements que le contribuable fait construire ou acquiert neufs ou en
+l'état futur d'achèvement, dont les permis de construire ont été délivrés ;
+
+- les investissements mentionnés au c du même 2 correspondant à des souscriptions de parts ou d'actions de sociétés dont
+l'objet réel est exclusivement de construire des logements neufs dont les permis de construire ont été délivrés ;
+
+- les investissements mentionnés au d du même 2 correspondant à des souscriptions dont le produit est affecté à l'acquisition
+de logements neufs dont les permis de construire ont été délivrés. 
+
+La réduction d'impôt acquise au titre des investissements mentionnés au présent 6 bis est reprise lorsque les logements
+acquis ou construits ne sont pas loués au plus tard le dernier jour du trente-sixième mois suivant celui de la délivrance du
+permis de construire. Le cas échéant, cette date est repoussée d'un délai égal à celui durant lequel les travaux sont
+interrompus par l'effet de la force majeure ou durant lequel la légalité du permis de construire est contestée par la voie
+contentieuse. 
 
 7. En cas de non-respect des engagements mentionnés aux 2 et 6, ou de cession ou de démembrement du droit de propriété, dans
 des situations autres que celle prévue au 3, de l'immeuble ou des parts et titres, ou de non-respect de leur objet exclusif
@@ -142,12 +182,8 @@ Modifications effectuées en conséquence de l'article 58-I (1°)  de la loi n°
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 42
+  - Loi n°95-115 du 4 février 1995 (V)
   - Loi n°2003-660 du 21 juillet 2003
-
-_Modifié par_:
-
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -206,3 +242,7 @@ _Cité par_:
   - Code monétaire et financier - art. L221-31 (V)
   - Code monétaire et financier - art. L221-32-5 (V)
   - Livre des procédures fiscales - art. L45 F (VD)
+
+_Modifié par_:
+
+  - Loi n°2009-594 du 27 mai 2009 - art. 38 (V)
