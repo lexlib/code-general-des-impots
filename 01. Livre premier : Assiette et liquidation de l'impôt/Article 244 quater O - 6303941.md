@@ -1,8 +1,8 @@
 # Article 244 quater O
 
 I.-Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt égal
-à 10 % de la somme : 
+sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies  , 44 undecies , 44 terdecies et 44 quaterdecies peuvent
+bénéficier d'un crédit d'impôt égal à 10 % de la somme : 
 
 1° Des salaires et charges sociales afférents aux salariés directement chargés de la conception de nouveaux produits dans un
 des secteurs ou métiers mentionnés au III et aux ingénieurs et techniciens de production chargés de la réalisation de
@@ -36,7 +36,7 @@ et des produits concernés sont définies par arrêté du ministre chargé de l'
 août 2005 en faveur des petites et moyennes entreprises. 
 
 IV.-Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt mentionné au I est
-calculé par année civile. 
+calculé par année civile.
 
 V.-Les subventions publiques reçues par les entreprises à raison de dépenses ouvrant droit au crédit d'impôt sont déduites
 des bases de calcul de ce crédit. 
@@ -47,19 +47,13 @@ autre crédit d'impôt.
 VII.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission
 du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
-Pour l'application du premier alinéa, les sociétés de personnes et groupements mentionnés aux articles 8, ,238 bis L, 239
+Pour l'application du premier alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,, 238 bis L, 239
 quater, 239 quater A, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également
 respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. Le crédit d'impôt peut être utilisé
 par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou
 groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables
 soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article
 156.
-
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L, LI : Dispositions applicables aux avantages
-octroyés à compter du 1er janvier 2007 et aux crédits d'impôt calculés au titre des dépenses exposées jusqu'au 31 décembre
-2010.
 
 **Liens relatifs à cet article**
 
@@ -87,4 +81,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)

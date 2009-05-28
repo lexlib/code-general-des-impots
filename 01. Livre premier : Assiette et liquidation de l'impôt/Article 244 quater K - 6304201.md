@@ -1,12 +1,12 @@
 # Article 244 quater K
 
 I.-Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies,44 sexies A,44 octies,44 octies A,44 decies et 44 undecies qui exposent des dépenses d'équipement en nouvelles
-technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses. 
+sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies  , 44 undecies , 44 terdecies et 44 quaterdecies qui exposent des
+dépenses d'équipement en nouvelles technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses. 
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont
 réalisé soit un chiffre d'affaires inférieur à 50 millions d'euros au cours de l'année au titre de laquelle les dépenses
-mentionnées au II ont été exposées, soit un total de bilan inférieur à 43 millions d'euros. L'effectif de l'entreprise est
+mentionnées au II ont été exposées, soit un total de bilan inférieur à 43 millions d'euros.L'effectif de l'entreprise est
 apprécié par référence au nombre moyen de salariés employés au cours de cette période. Le capital des sociétés doit être
 entièrement libéré et être détenu de manière continue, pour 75 % au moins, par des personnes physiques ou par une société
 répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-
@@ -35,14 +35,14 @@ III.-Les subventions publiques reçues par les entreprises à raison de dépense
 des bases de calcul de ce crédit. 
 
 IV.-Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du crédit d'impôt mentionné au I et dans celle d'un
-autre crédit d'impôt. 
+autre crédit d'impôt.
 
 V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission
 du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
-Pour l'application du premier alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,
-238 bis L,238 ter,239 ter,239 quater,239 quater A,239 quater B,239 quater C,239 quater D et 239 quinquies qui ne sont pas
-soumis à l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15
+Pour l'application du premier alinéa, les sociétés de personnes et groupements mentionnés aux articles 8, 
+238 bis L, 238 ter, 239 ter, 239 quater, 239 quater A, 239 quater B, 239 quater C, 239 quater D et 239 quinquies qui ne sont
+pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15
 décembre 2006 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés ou les membres de ces groupements
 proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même
 règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques
@@ -50,16 +50,15 @@ participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 VI.-Un décret fixe les conditions d'application du présent article.
 
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
-octroyés à compter du 1er janvier 2007.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+
+**Liens**:
+
+  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
