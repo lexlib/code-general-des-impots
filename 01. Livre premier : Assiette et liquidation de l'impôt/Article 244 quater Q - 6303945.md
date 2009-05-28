@@ -1,9 +1,9 @@
 # Article 244 quater Q
 
-I.-1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies,44 septies,44
-octies ou 44 decies, dont le dirigeant est titulaire du titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt
-égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des
-charges relatif au titre de maître-restaurateur. 
+I.-1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44
+octies  , 44 decies, 44 terdecies ou 44 quaterdecies , dont le dirigeant est titulaire du titre de maître-restaurateur,
+peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de
+fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur. 
 
 Lorsque le titulaire du titre de maître-restaurateur est dirigeant d'une entreprise disposant de plusieurs établissements, le
 crédit d'impôt est calculé au titre des dépenses exposées par les établissements contrôlés dans le cadre de la délivrance de
@@ -100,7 +100,7 @@ soumises à l'impôt sur les sociétés doivent également respecter le règleme
 décembre 2006 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs
 droits dans ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de
 redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
-l'article 156. 
+l'article 156.
 
 V.-Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la délivrance du titre de maître-restaurateur entre le
 15 novembre 2006 et le 31 décembre 2009. 
@@ -111,16 +111,11 @@ et le cahier des charges est établi sont définies par décret en Conseil d'Eta
 Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux
 entreprises.
 
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
-octroyés à compter du 1er janvier 2007.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
 
 _Cité par_:
 
