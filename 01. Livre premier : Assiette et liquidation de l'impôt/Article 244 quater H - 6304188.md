@@ -1,8 +1,9 @@
 # Article 244 quater H
 
 I.-Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 octies, 44 octies A, et 44 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles exposent des
-dépenses de prospection commerciale afin d'exporter des services, des biens et des marchandises. 
+sexies, 44 sexies A, 44 octies, 44 octies A,  , 44 decies, 44 terdecies et 44 quaterdecies  peuvent bénéficier d'un crédit
+d'impôt lorsqu'elles exposent des dépenses de prospection commerciale afin d'exporter des services, des biens et des
+marchandises. 
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont
 soit réalisé un chiffre d'affaires inférieur à 50 millions d'euros au cours de chaque période d'imposition ou exercice clos
@@ -71,18 +72,11 @@ l'article 156.
 
 Le crédit d'impôt ne peut être obtenu qu'une fois par l'entreprise.
 
-**Nota:**
-
-Loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 art. 111 II : Le présent article s'applique aux dépenses engagées
-à partir du 1er janvier  2009
-.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°90-1258 du 31 décembre 1990 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
+  - Loi n°90-1258 du 31 décembre 1990
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 206
   - Code général des impôts, CGI. - art. 223 A
@@ -90,13 +84,14 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code du service national - art. L122-1 (V)
-  - Code du service national - art. L122-12 (V)
-  - Code du service national - art. L122-7 (V)
+  - Code général des impôts, CGI. - art. 8
+  - Code du service national - art. L122-1
+  - Code du service national - art. L122-12
+  - Code du service national - art. L122-7
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 111 (V)
+  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
 
 _Cité par_:
 
