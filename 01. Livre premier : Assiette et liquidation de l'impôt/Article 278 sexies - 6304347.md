@@ -43,11 +43,15 @@ situés dans des quartiers faisant l'objet d'une convention prévue à l'article
 d'orientation et de programmation pour la ville et la rénovation urbaine et destinés à être occupés par des ménages dont le
 total des ressources n'excède pas le montant mentionné à l'article R. 391-8 du code de la construction et de l'habitation. 
 
-3 septies Les ventes et apports de locaux aux établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de
-l'action sociale et des familles, agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils accueillent des
-personnes handicapées ou, lorsqu'ils accueillent des personnes âgées s'ils remplissent les critères d'éligibilité au prêt
-prévu à l'article R. 331-1 du code de la construction et de l'habitation, et qui font l'objet d'une convention entre le
-propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département. 
+3 septies Les ventes et apports de locaux destinés à l'hébergement aux établissements mentionnés au 2° du I de l'article L.
+312-1 du code de l'action sociale et des familles et les ventes et apports de locaux aux établissements mentionnés aux 6° et
+7° du I du même article, agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils hébergent des personnes
+handicapées à titre permanent ou temporaire ou, lorsqu'ils hébergent des personnes âgées à titre permanent ou temporaire aux
+établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, agissant sans
+but lucratif et dont la gestion est désintéressée, lorsqu'ils accueillent des personnes handicapées ou, lorsqu'ils
+accueillent des personnes âgées s'ils remplissent les critères d'éligibilité au prêt prévu à l'article R. 331-1 du code de la
+construction et de l'habitation, et qui font l'objet d'une convention entre le propriétaire ou le gestionnaire des locaux et
+le représentant de l'Etat dans le département. 
 
 3 octies Les ventes de terrains à bâtir et de droit au bail à construction, en vue de l'acquisition de logements neufs à
 titre de première résidence principale dans le cadre d'une opération d'accession à la propriété assortie d'une acquisition
@@ -87,7 +91,10 @@ II. (abrogé)
 **Nota:**
 
 Loi n° 2009-323 du 25 mars 2009 article 52 VI : Le I est applicable aux opérations engagées, définies par décret, à compter
-de la date de publication de la présente loi et jusqu'au 31 décembre 2010.
+de la date de publication de la présente loi et jusqu'au 31 décembre 2010. 
+
+Les modifications prévues par la loi n° 2009-879 du 21 juillet 2009, art 124 I s'appliquent aux locaux acquis, aménagés ou
+construits à compter de l'entrée en vigueur de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -97,6 +104,7 @@ _Cite_:
   - Loi n°2003-710 du 1 août 2003 - art. 10
   - Code général des impôts, CGI. - art. 1594-0 G
   - Code général des impôts, CGI. - art. 244 quater J
+  - Code de l'action sociale et des familles - art. L312-1
   - Code de la construction et de l'habitation. - art. L301-1
   - Code de la construction et de l'habitation. - art. L351-2
   - Code de la construction et de l'habitation. - art. L411-2
@@ -138,5 +146,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
+  - Loi n°2009-879 du 21 juillet 2009 - art. 124 (V)
