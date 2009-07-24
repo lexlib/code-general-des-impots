@@ -10,7 +10,10 @@ Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements ré
 
 a) Commerce ; 
 
-b) La restauration, à l'exception des restaurants de tourisme classés, les cafés, débits de tabac et débits de boissons ; 
+b) Les cafés, débits de tabac et débits de boisson ainsi que la restauration, à l'exception des restaurants dont le dirigeant
+est titulaire du titre de maître-restaurateur mentionné à l'article 244 quater Q et qui ont été contrôlés dans le cadre de la
+délivrance de ce titre ainsi que, le cas échéant, des restaurants de tourisme classés à la date de publication de la loi n°
+2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques ; 
 
 c) Conseils ou expertise ; 
 
@@ -124,15 +127,15 @@ troisième phrase du présent alinéa, la reprise de la réduction d'impôt est 
 réduction d'impôt. Il n'est pas procédé à la reprise mentionnée à la troisième phrase du présent alinéa lorsque, en cas de
 défaillance de l'entreprise locataire, les biens ayant ouvert droit à la réduction d'impôt sont donnés en location à une
 nouvelle entreprise qui s'engage à les maintenir dans l'activité pour laquelle ils ont été acquis ou créés pendant la
-fraction du délai de cinq ans restant à courir dans les conditions prévues au présent alinéa. L'octroi de la réduction
-d'impôt prévue au premier alinéa est subordonné au respect par les entreprises réalisant l'investissement et, le cas échéant,
-les entreprises exploitantes de leurs obligations fiscales et sociales et de l'obligation de dépôt de leurs comptes annuels
-selon les modalités prévues aux articles L. 232-21 à L. 232-23 du code de commerce à la date de réalisation de
-l'investissement. Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont
-souscrit et respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours
-à leur date normale d'exigibilité. Pour l'application de la première phrase du présent alinéa en Nouvelle-Calédonie et en
-Polynésie française, les références aux dispositions du code de commerce sont remplacées par les dispositions prévues par la
-réglementation applicable localement.
+fraction du délai de cinq ans restant à courir dans les conditions prévues au présent alinéa.L'octroi de la réduction d'impôt
+prévue au premier alinéa est subordonné au respect par les entreprises réalisant l'investissement et, le cas échéant, les
+entreprises exploitantes de leurs obligations fiscales et sociales et de l'obligation de dépôt de leurs comptes annuels selon
+les modalités prévues aux articles L. 232-21 à L. 232-23 du code de commerce à la date de réalisation de l'investissement.
+Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et
+respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date
+normale d'exigibilité. Pour l'application de la première phrase du présent alinéa en Nouvelle-Calédonie et en Polynésie
+française, les références aux dispositions du code de commerce sont remplacées par les dispositions prévues par la
+réglementation applicable localement. 
 
 La réduction d'impôt prévue au présent I s'applique, dans les conditions prévues au vingt-sixième alinéa, aux investissements
 réalisés par une société soumise de plein droit à l'impôt sur les sociétés dont les actions sont détenues intégralement et
@@ -321,18 +324,20 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quater (V)
   - Livre des procédures fiscales - art. L45 F (VD)
 
-_Modifié par_:
-
-  - Loi n°2009-594 du 27 mai 2009 - art. 16
-  - Loi n°2009-594 du 27 mai 2009 - art. 21
-
 _Cite_:
 
+  - Loi n°2009-888 du 22 juillet 2009
   - Code général des impôts, CGI. - art. 1010
   - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 239 quater
+  - Code général des impôts, CGI. - art. 244 quater Q
+  - Code général des impôts, CGI. - art. 34 (V)
   - Code général des impôts, CGI. - art. 4 B
   - Code général des impôts, CGI. - art. 41
   - Code des postes et des communications électroniques - art. L36-8
   - Code monétaire et financier - art. L313-23
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 21
