@@ -10,7 +10,8 @@ sont sans incidence pour la détermination du montant des dépenses éligibles r
 undecies. 
 
 Pour l'application des régimes issus des articles 199 undecies A, 199 undecies B, 217 undecies ainsi que du présent article,
-les mots : " restaurant de tourisme classé " et " hôtel classé " s'apprécient au regard de la réglementation propre à chaque
+les mots : " restaurants dont le dirigeant est titulaire du titre de maître-restaurateur mentionné à l'article 244 quater Q,
+restaurants de tourisme classés " et " hôtel classé " s'apprécient au regard de la réglementation propre à chaque
 collectivité d'outre-mer. 
 
 Le I bis de l'article 217 undecies est applicable à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en
@@ -31,10 +32,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 199 undecies B
   - Code général des impôts, CGI. - art. 217 undecies
-
-_Modifié par_:
-
-  - Loi n°2009-594 du 27 mai 2009 - art. 18
+  - Code général des impôts, CGI. - art. 244 quater Q (V)
 
 _Cité par_:
 
@@ -52,3 +50,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 242 septies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L ter (Ab)
   - Livre des procédures fiscales - art. L45 F (V)
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 21
