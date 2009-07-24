@@ -1,7 +1,7 @@
 # Article 244 quater Q
 
 I.-1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44
-octies  , 44 decies, 44 terdecies ou 44 quaterdecies , dont le dirigeant est titulaire du titre de maître-restaurateur,
+octies , 44 decies, 44 terdecies ou 44 quaterdecies , dont le dirigeant est titulaire du titre de maître-restaurateur,
 peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de
 fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur. 
 
@@ -103,7 +103,7 @@ redevables soumis à l'impôt sur les sociétés ou de personnes physiques parti
 l'article 156.
 
 V.-Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la délivrance du titre de maître-restaurateur entre le
-15 novembre 2006 et le 31 décembre 2009. 
+15 novembre 2006 et le 31 décembre 2012. 
 
 VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants
 et le cahier des charges est établi sont définies par décret en Conseil d'Etat. 
@@ -115,7 +115,7 @@ entreprises.
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Loi n°2009-888 du 22 juillet 2009 - art. 21
 
 _Cité par_:
 
