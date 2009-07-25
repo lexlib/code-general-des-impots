@@ -1,8 +1,8 @@
 # Article 238 bis HF
 
-L'agrément prévu à l'article 238 bis HE est délivré par le directeur général du Centre national de la cinématographie aux
-oeuvres, réalisées en version originale, en langue française, de nationalité d'un Etat de la Communauté européenne,
-et éligibles aux aides du Centre national de la cinématographie, à l'exclusion : 
+L'agrément prévu à l'article 238 bis HE est délivré par le président du Centre national du cinéma et de l'image animée aux
+oeuvres, réalisées en version originale, en langue française, de nationalité d'un Etat de la Communauté européenne, et
+éligibles aux aides financières à la production du Centre national du cinéma et de l'image animée, à l'exclusion : 
 
 Des oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976 n° 75-1278 du 30 décembre 1975 ; 
 
@@ -12,22 +12,21 @@ Des programmes d'information, des débats d'actualité et des émissions sportiv
 
 De tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale. 
 
-Toutefois, dans la limite de 20 p. 100 des financements annuels visés à l'article 238 bis HE, l'agrément prévu au même
-article peut être délivré aux oeuvres de coproduction réalisées dans une langue du pays du coproducteur majoritaire établi
-dans un Etat membre de la Communauté européenne.
+Toutefois, dans la limite de 20 % des financements annuels visés à l'article 238 bis HE, l'agrément prévu au même article
+peut être délivré aux oeuvres de coproduction réalisées dans une langue du pays du coproducteur majoritaire établi dans un
+Etat membre de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 238 bis HE
-  - Loi n°59-1454 du 26 décembre 1959
-  - Loi n°75-1278 du 30 décembre 1975
-  - Loi n°83-1179 du 29 décembre 1983
+  - Loi n°75-1278 du 30 décembre 1975 - art. 12
+  - Code général des impôts, CGI. - art. 238 bis HE
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 55 (V)
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 3 (V)
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 4
 
 _Cité par_:
 
