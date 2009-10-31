@@ -1,14 +1,23 @@
 # Article 217 undecies
 
 I. Les entreprises soumises à l'impôt sur les sociétés peuvent déduire de leurs résultats imposables une somme égale au
-montant des investissements productifs, diminuée de la fraction de leur prix de revient financée par une subvention publique,
-qu'elles réalisent dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion pour l'exercice
-d'une activité éligible en application du I de l'article 199 undecies B. La déduction est opérée sur le résultat de
-l'exercice au cours duquel l'investissement est réalisé, le déficit éventuel de l'exercice étant reporté dans les conditions
-prévues au I de l'article 209. Elle s'applique également aux investissements réalisés par une société soumise au régime
-d'imposition prévu à l'article 8 ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont
-détenues directement par des entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les
-associés ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
+montant, hors taxes et hors frais de toute nature, notamment les commissions d'acquisition, à l'exception des frais de
+transport, d'installation et de mise en service amortissables, des investissements productifs, diminuée de la fraction de
+leur prix de revient financée par une subvention publique, qu'elles réalisent dans les départements de la Guadeloupe, de la
+Guyane, de la Martinique et de la Réunion pour l'exercice d'une activité éligible en application du I de l'article 199
+undecies B. Pour les projets d'investissement comportant l'acquisition, l'installation ou l'exploitation d'équipements de
+production d'énergie renouvelable, ce montant est pris en compte dans la limite d'un montant par watt installé fixé par
+arrêté conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type
+d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements. La
+déduction est opérée sur le résultat de l'exercice au cours duquel l'investissement est réalisé, le déficit éventuel de
+l'exercice étant reporté dans les conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à
+construire ou de construction d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les
+fondations sont achevées. Si l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la
+somme déduite est rapportée au résultat imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. La
+déduction s'applique également aux investissements réalisés par une société soumise au régime d'imposition prévu à l'article
+8 ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues directement par des
+entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés ou membres dans une
+proportion correspondant à leurs droits dans la société ou le groupement. 
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
@@ -23,6 +32,15 @@ La déduction prévue au premier alinéa s'applique à la réalisation d'investi
 concession de service public local à caractère industriel et commercial et réalisés dans des secteurs éligibles définis par
 ce même alinéa, quelles que soient la nature des biens et leur affectation finale. 
 
+La déduction prévue au premier alinéa s'applique aux investissements mentionnés au premier alinéa du I ter de l'article 199
+undecies B à hauteur de la moitié de leur coût de revient, hors taxes et hors frais de toute nature, notamment les
+commissions d'acquisition, à l'exception des frais de transport, diminuée du montant des subventions publiques accordées pour
+leur financement, lorsque les conditions prévues à ce même I ter sont satisfaites. Pour les équipements et opérations de pose
+du câble de secours mentionnés au dernier alinéa de ce même I ter, la déduction s'applique aux investissements à hauteur du
+quart de leur coût de revient, sous réserve du respect des conditions prévues à la phrase précédente. Le montant de l'aide
+fiscale peut être réduit de moitié au plus, compte tenu du besoin de financement de la société exploitante pour la
+réalisation de ce projet et de l'impact de l'aide sur les tarifs. 
+
 La déduction prévue au premier alinéa s'applique aux acquisitions ou constructions de logements neufs à usage locatif situés
 dans les départements d'outre-mer si les conditions suivantes sont réunies : 
 
@@ -35,12 +53,12 @@ Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant
 inférieure, l'investissement ayant ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitation de l'entreprise
 utilisatrice ou si l'acquéreur cesse son activité, les sommes déduites sont rapportées au résultat imposable de l'entreprise
 ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise ; ces conséquences sont également
-applicables si les conditions prévues aux sixième et septième alinéas cessent d'être respectées. 
+applicables si les conditions prévues aux septième et huitième alinéas cessent d'être respectées. 
 
 Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans
 le cadre des opérations mentionnées aux articles 210 A ou 210 B si le bénéficiaire de la transmission s'engage à maintenir
 l'exploitation des biens outre-mer dans le cadre d'une activité éligible pendant la fraction du délai de conservation restant
-à courir. 
+à courir.
 
 L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous seing privé ayant date certaine,
 établi à cette occasion. 
@@ -51,9 +69,9 @@ laquelle les biens transmis ont ouvert droit.
 
 Lorsque l'investissement est réalisé par une société ou un groupement visés aux deux dernières phrases du premier alinéa, les
 associés ou membres doivent, en outre, conserver les parts de cette société ou de ce groupement pendant un délai de cinq ans
-à compter de la réalisation de l'investissement. A défaut, ils doivent ajouter à leur résultat imposable de l'exercice de
+à compter de la réalisation de l'investissement.A défaut, ils doivent ajouter à leur résultat imposable de l'exercice de
 cession le montant des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la proportion de leurs droits dans la
-société ou le groupement, des sommes déjà réintégrées en application des dispositions du huitième alinéa. 
+société ou le groupement, des sommes déjà réintégrées en application des dispositions du neuvième alinéa. 
 
 La déduction prévue au premier alinéa s'applique aux investissements productifs mis à la disposition d'une entreprise dans le
 cadre d'un contrat de location si les conditions suivantes sont réunies : 
@@ -73,9 +91,30 @@ l'imputation du déficit provenant de la location du bien acquis et de la moins-
 ou des titres de la société bailleresse sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et du prix
 de cession du bien à l'exploitant. 
 
-Si l'une des conditions énumérées aux quatorzième à dix-huitième alinéas cesse d'être respectée dans le délai mentionné au
-quatorzième alinéa, les sommes déduites sont rapportées au résultat imposable de l'entreprise propriétaire de
-l'investissement au titre de l'exercice au cours duquel cet événement se réalise. 
+Si l'une des conditions énumérées aux quinzième à dix-neuvième alinéas cesse d'être respectée dans le délai mentionné au
+quinzième alinéa, les sommes déduites sont rapportées au résultat imposable de l'entreprise propriétaire de l'investissement
+au titre de l'exercice au cours duquel cet événement se réalise. Les sommes déduites ne sont pas rapportées lorsque, en cas
+de défaillance de l'entreprise locataire, les biens ayant ouvert droit à déduction sont donnés en location à une nouvelle
+entreprise, qui s'engage à les maintenir dans l'activité pour laquelle ils ont été acquis ou créés pendant la fraction du
+délai de cinq ans restant à courir, sous réserve que la condition mentionnée au dix-neuvième alinéa demeure vérifiée. 
+
+Pour les investissements dont la durée normale d'utilisation est au moins égale à sept ans, les quinzième à vingtième alinéas
+sont applicables lorsque l'entreprise locataire prend l'engagement d'utiliser effectivement pendant sept ans au moins ces
+investissements dans le cadre de l'activité pour laquelle ils ont été acquis ou créés.
+
+I bis.-La déduction prévue au premier alinéa du I s'applique également aux acquisitions ou constructions de logements neufs
+situés en Guadeloupe, en Guyane, en Martinique ou à La Réunion si les conditions suivantes sont réunies : 
+
+1° L'entreprise signe avec une personne physique, dans les six mois de l'achèvement de l'immeuble, ou de son acquisition si
+elle est postérieure, un contrat de location-accession dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984
+définissant la location-accession à la propriété immobilière ; 
+
+2° L'acquisition ou la construction de l'immeuble a été financée au moyen d'un prêt mentionné au I de l'article R. 331-76-5-1
+du code de la construction et de l'habitation ; 
+
+3° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au titre de l'acquisition ou la construction de
+l'immeuble sont rétrocédés à la personne physique signataire du contrat mentionné au 1° sous forme de diminution de la
+redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984 précitée et du prix de cession de l'immeuble. 
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leurs résultats imposables une somme égale au montant
 total des souscriptions au capital des sociétés de développement régional des départements d'outre-mer ou des sociétés
@@ -135,7 +174,7 @@ programme et par exercice est supérieur à 1 000 000 euros ne peuvent ouvrir dr
 préalable du ministre chargé du budget dans les conditions prévues au III. 
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
-par programme et par exercice est supérieur à 300 000 euros, lorsqu'ils sont réalisés par une société ou un groupement
+par programme et par exercice est supérieur à 250 000 euros (1), lorsqu'ils sont réalisés par une société ou un groupement
 mentionnés à l'avant-dernière phrase du premier alinéa de ce même I. 
 
 III.-1. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la
@@ -143,9 +182,9 @@ navigation de plaisance, de l'agriculture, de la pêche maritime et de l'aquacul
 sidérurgie, de la construction navale, des fibres synthétiques, de l'industrie automobile, ou concernant la rénovation et la
 réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés ou des entreprises en difficultés, ou qui
 sont nécessaires à l'exploitation d'une concession de service public local à caractère industriel et commercial doivent avoir
-reçu l'agrément préalable du ministre chargé du budget, après avis du ministre chargé de l'outre-mer. L'organe exécutif des
+reçu l'agrément préalable du ministre chargé du budget, après avis du ministre chargé de l'outre-mer.L'organe exécutif des
 collectivités d'outre-mer compétentes à titre principal en matière de développement économique est tenu informé des
-opérations dont la réalisation le concerne. 
+opérations dont la réalisation le concerne.
 
 L'agrément est délivré lorsque l'investissement : 
 
@@ -157,13 +196,13 @@ b) Poursuit comme l'un de ses buts principaux la création ou le maintien d'empl
 
 c) S'intègre dans la politique d'aménagement du territoire, de l'environnement et de développement durable ; 
 
-d) Garantit la protection des investisseurs et des tiers. 
+d) Garantit la protection des investisseurs et des tiers.
 
 L'octroi de l'agrément est subordonné au respect par les bénéficiaires directs ou indirects de leurs obligations fiscales et
 sociales et à l'engagement pris par ces mêmes bénéficiaires que puissent être vérifiées sur place les modalités de
 réalisation et d'exploitation de l'investissement aidé. 
 
-2. L'agrément est tacite à défaut de réponse de l'administration dans un délai de trois mois à compter de la réception de la
+2.L'agrément est tacite à défaut de réponse de l'administration dans un délai de trois mois à compter de la réception de la
 demande d'agrément. Ce délai est ramené à deux mois lorsque la décision est prise et notifiée par l'un des directeurs des
 services fiscaux des départements d'outre-mer. 
 
@@ -176,12 +215,16 @@ l'avis de la commission. La commission dispose, pour rendre cet avis, d'un déla
 Le délai mentionné au premier alinéa peut être interrompu par une demande de l'administration fiscale de compléments
 d'informations. Il est suspendu en cas de notification du projet pour examen et avis de la Commission européenne. 
 
-3. Toutefois, les investissements mentionnés au I, dont le montant total n'excède pas 300 000 Euros par programme et par
-exercice, sont dispensés de la procédure d'agrément préalable lorsqu'ils sont réalisés par une entreprise qui exerce son
-activité dans les départements visés au I depuis au moins deux ans, dans l'un des secteurs mentionnés au premier alinéa du 1
-du présent III. Il en est de même lorsque ces investissements sont donnés en location à une telle entreprise. L'entreprise
+3. Toutefois, les investissements mentionnés au I dont le montant total n'excède pas 250 000 euros par programme et par
+exercice sont dispensés de la procédure d'agrément préalable lorsqu'ils sont réalisés par une entreprise qui exerce son
+activité dans les départements visés au I depuis au moins deux ans dans l'un des secteurs mentionnés au premier alinéa du 1
+du présent III. Il en est de même lorsque ces investissements sont donnés en location à une telle entreprise.L'entreprise
 propriétaire des biens ou qui les a acquis en crédit-bail joint à sa déclaration de résultat un état récapitulatif des
-investissements réalisés au cours de l'exercice et au titre desquels la déduction fiscale est pratiquée. 
+investissements réalisés au cours de l'exercice et au titre desquels la déduction fiscale est pratiquée (1). 
+
+Le premier alinéa ne s'applique pas au secteur des transports, à l'exception des véhicules neufs de moins de sept places
+acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits
+transports lorsque les conditions de transport sont conformes à un tarif réglementaire (1). 
 
 III bis. (Abrogé).
 
@@ -197,7 +240,7 @@ Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le dé
 titres ayant ouvert droit à la déduction prévue aux II, II bis ou II ter fait l'objet d'une transmission dans le cadre des
 dispositions prévues aux articles 210 A ou 210 B si l'entreprise qui devient propriétaire des titres remplit les conditions
 nécessaires pour bénéficier de cette déduction et s'engage à conserver les titres pendant la fraction du délai de
-conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par acte sous seing
+conservation restant à courir.L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par acte sous seing
 privé ayant date certaine, établi à cette occasion. 
 
 En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter à ses résultats imposables, au
@@ -207,9 +250,8 @@ cas où les titres souscrits avec le bénéfice de la déduction prévue aux II,
 le cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes
 conditions et sanctions, les titres nouveaux qui se sont substitués aux titres d'origine. 
 
-IV bis. L'abattement prévu à l'article 217 bis n'est applicable ni pour le calcul de la déduction prévue par le présent
-article ni aux résultats provenant de l'exploitation des investissements ayant donné lieu à cette déduction et qui sont
-acquis pendant le délai de cinq ans suivant leur réalisation ou leur durée normale d'utilisation si elle est inférieure. 
+IV bis. Le montant de la déduction prévue par le présent article n'est pas pris en compte pour le calcul des abattements
+prévus aux articles 44 quaterdecies et 217 bis. 
 
 Si, avant l'expiration du délai visé au premier alinéa l'un de ces investissements est cédé ou cesse d'être affecté à
 l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage résultant de l'application du
@@ -219,15 +261,28 @@ premier alinéa est rapporté au résultat imposable de l'exercice au cours duqu
 Toutefois, la reprise de l'avantage n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans
 le cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si le bénéficiaire de la transmission s'engage à
 maintenir l'exploitation des biens outre-mer dans le cadre d'une activité éligible pendant la fraction du délai de
-conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous
+conservation restant à courir.L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous
 seing privé ayant date certaine, établi à cette occasion. En cas de non-respect de cet engagement, le bénéficiaire de la
 transmission doit rapporter à son résultat imposable, au titre de l'exercice au cours duquel l'engagement de conservation
 cesse d'être respecté, l'avantage et la majoration correspondante mentionnés au deuxième alinéa qui, à défaut d'engagement,
 auraient dû être rapportés au résultat imposable de l'entreprise apporteuse. 
 
+IV ter.-La déduction prévue aux I, II, II bis ou II ter est subordonnée au respect par les sociétés réalisant
+l'investissement ou la souscription et, le cas échéant, les entreprises exploitantes, de leurs obligations fiscales et
+sociales et de l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23
+du code de commerce à la date de réalisation de l'investissement ou de la souscription. 
+
+Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et
+respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date
+normale d'exigibilité. 
+
+Pour l'application du premier alinéa en Nouvelle-Calédonie et en Polynésie française, les références aux dispositions du code
+de commerce sont remplacées par les dispositions prévues par la réglementation applicable localement.
+
 V.-Les dispositions du présent article sont applicables aux investissements réalisés ou aux souscriptions versées à compter
-de la date de promulgation de la loi n° 2003-660 du 21 juillet 2003 de programme pour l'outre-mer, à l'exception des
-investissements et des souscriptions pour l'agrément desquels une demande est parvenue à l'administration avant cette date. 
+de la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer, à l'exception
+des investissements et des souscriptions pour l'agrément desquels une demande est parvenue à l'administration avant cette
+date. 
 
 Les dispositions du présent article sont applicables aux seuls investissements neufs et travaux de rénovation et de
 réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés réalisés ou aux souscriptions versées
@@ -238,7 +293,15 @@ déclaratives.
 
 **Nota:**
 
-Modification effectuée en conséquence des articles 5 et 8 de la loi n° 2003-276 du 28 mars 2003.
+(1) Les dispositions introduites par les B et C du I de l'article 17 de la loi n° 2009-594 du 27 mai 2009 entrent en
+application à compter du 1er novembre 2009 (six mois suivant la date d'entrée en vigueur de ladite loi).
+
+Conformément à l'article 17-II de la loi n° 2009-594 du 27 mai 2009, l'article 17 est applicable aux investissements réalisés
+entre la date de publication de la présente loi et le 31 décembre 2017.
+
+Restent soumis à l'article 217 undecies du code général des impôts, dans sa rédaction antérieure à la publication de la
+présente loi, les investissements pour l'agrément desquels une demande est parvenue à l'administration avant la date de cette
+publication.
 
 **Liens relatifs à cet article**
 
@@ -248,17 +311,15 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°2003-660 du 21 juillet 2003
+  - Loi n°2009-594 du 27 mai 2009
+  - Code de commerce - art. L232-21
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 199 undecies
   - Code général des impôts, CGI. - art. 210 A
   - Code général des impôts, CGI. - art. 210 B
-  - Code général des impôts, CGI. - art. 217 bis
   - Code général des impôts, CGI. - art. 239 quater
-
-_Modifié par_:
-
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Code général des impôts, CGI. - art. 239 quater C
+  - Code général des impôts, CGI. - art. 44 septies
 
 _Cité par_:
 
@@ -323,3 +384,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quater (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L ter (Ab)
   - Livre des procédures fiscales - art. L45 F (VD)
+
+_Modifié par_:
+
+  - Loi n°2009-594 du 27 mai 2009 - art. 21
+  - Loi n°2009-594 du 27 mai 2009 - art. 38 (V)
+  - Loi n°2009-594 du 27 mai 2009 - art. 17 (V)
