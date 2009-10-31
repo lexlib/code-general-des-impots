@@ -16,7 +16,7 @@ d. aux opérations de change réalisées pour leur propre compte par les personn
 
 La taxe est due par les établissements de crédit, les institutions et les services mentionnés à l'article L. 518-1 du code
 monétaire et financier, les entreprises d'investissement visées à l'article L. 531-4 du même code et par les personnes
-physiques ou morales visées à l'article L. 520-1 du même code. Elle n'est pas due par la Banque de France et par le Trésor
+physiques ou morales visées à l'article L. 524-1 du même code. Elle n'est pas due par la Banque de France et par le Trésor
 public.
 
 II. - La taxe est établie, liquidée et recouvrée sous les mêmes garanties et sanctions que le prélèvement mentionné à
@@ -31,34 +31,14 @@ des Etats membres, d'une taxe sur les transactions sur devises, et au plus tôt 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 125 A
-  - Décret n°89-938 1989-12-29
-  - Code monétaire et financier - art. L518-1 (M)
-  - Code monétaire et financier - art. L520-1 (M)
-  - Code monétaire et financier - art. L531-4 (M)
-
-_Anciens textes_:
-
-  - CGI 986
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
-_Créé par_:
-
-  - Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
-
 _Cité par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
   - Arrêté du 12 juillet 2012 (Ab)
   - Arrêté du 11 janvier 2013 (Ab)
   - Arrêté du 11 janvier 2013 - art. 1 (Ab)
   - Arrêté du 27 décembre 2013 (V)
   - Arrêté du 27 décembre 2013 - art. 1 (V)
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
   - Loi n°2015-1785 du 29 décembre 2015 - art. 43 (Ab)
   - Code général des impôts, CGI. - art. 1736 (VD)
   - Code général des impôts, CGI. - art. 1788 C (V)
@@ -68,6 +48,18 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 58 Q (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 58 R (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2002
+  - CGI 125 A
+  - Décret n°89-938 du 29 décembre 1989
+  - Code monétaire et financier - art. L518-1
+  - Code monétaire et financier - art. L520-1
+  - Code monétaire et financier - art. L531-4
+
+_Anciens textes_:
+
+  - CGI 986
+
+_Modifié par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
