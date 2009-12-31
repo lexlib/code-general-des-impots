@@ -18,6 +18,9 @@ tourisme classé inclus dans le périmètre d'une opération de réhabilitation 
 318-5 du code de l'urbanisme, qui est destiné à la location dont le produit est imposé dans la catégorie des revenus
 fonciers. 
 
+Pour les logements visés aux a et c, l'indexation d'une part minoritaire du loyer sur le chiffre d'affaires ne fait pas
+obstacle à l'imposition dans la catégorie des revenus fonciers. 
+
 2. La réduction d'impôt est accordée au titre de l'année du paiement des dépenses de travaux. Les dispositions du 5 du I de
 l'article 197 sont applicables. 
 
@@ -41,11 +44,20 @@ annuel normalement dû par l'exploitant en l'absence de toute occupation par le 
 Pour les logements mentionnés au b du 1, le propriétaire doit s'engager à les louer meublés à des personnes physiques à
 raison de douze semaines au minimum par année et pendant les neuf années suivant celle de l'achèvement des travaux. 
 
-En cas de non-respect de l'engagement ou de cession du logement, la réduction pratiquée fait l'objet d'une reprise au titre
-de l'année de la rupture de l'engagement ou de celle de la cession. Toutefois, en cas d'invalidité correspondant au
-classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de
-licenciement ou de décès du contribuable ou de l'un des époux soumis à imposition commune, la réduction d'impôt n'est pas
-reprise. 
+En cas de cession du logement, la réduction pratiquée fait l'objet d'une reprise au titre de l'année de la cession. En cas de
+rupture de l'engagement de location pendant une durée supérieure à douze mois en cas de liquidation judiciaire de
+l'exploitant, de résiliation ou de cession du bail commercial par l'exploitant, ou de mise en œuvre par les propriétaires du
+bénéfice de la clause contractuelle prévoyant la résiliation du contrat à défaut de paiement du loyer par l'exploitant, la
+réduction d'impôt fait l'objet d'une reprise pour le tiers de son montant au titre de l'année de la rupture de l'engagement
+de location et de chacune des deux années suivantes. Toutefois, en cas d'invalidité correspondant au classement dans la
+deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de licenciement ou de
+décès du contribuable ou de l'un des époux soumis à imposition commune, la réduction d'impôt n'est pas reprise. 
+
+La réduction pratiquée ne fait pas l'objet d'une reprise si les copropriétaires substituent au gestionnaire défaillant de la
+résidence de tourisme une ou un ensemble d'entreprises qui assurent les mêmes prestations sur la période de location restant
+à couvrir conformément aux prescriptions légales, dans des conditions fixées par décret. Cette faculté leur est ouverte dès
+lors que la candidature d'un autre gestionnaire n'a pu être retenue après un délai d'un an et qu'ils détiennent au moins 50 %
+des appartements de la résidence. 
 
 5. La réduction d'impôt n'est pas applicable au titre des logements dont le droit de propriété est démembré. Le contribuable
 qui demande le bénéfice de la réduction d'impôt renonce à la faculté de déduire ces dépenses, pour leur montant réel ou sous
@@ -54,15 +66,16 @@ dispositions prévues à l'article 32 ou à l'article 50-0.
 
 **Nota:**
 
-Conformément aux articles 94 III et 95 II de la loi n° 2008-1425 du 27 décembre 2008, les dispositions introduites par ces
-articles sont applicables aux revenus perçus à compter du 1er janvier 2009.
+Loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 article 23 III : Les I et II de l'article 23 s'appliquent à
+compter de l'imposition des revenus de 2009.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 93
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 95 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 23 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 86
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 87
 
 _Cité par_:
 
@@ -75,9 +88,9 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 197 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 32 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 4 B (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 50-0 (V)
-  - Code de la sécurité sociale. - art. L341-4 (V)
-  - Code de l'urbanisme - art. L318-5 (V)
+  - Code général des impôts, CGI. - art. 197
+  - Code général des impôts, CGI. - art. 32
+  - Code général des impôts, CGI. - art. 4 B
+  - Code général des impôts, CGI. - art. 50-0
+  - Code de la sécurité sociale. - art. L341-4
+  - Code de l'urbanisme - art. L318-5

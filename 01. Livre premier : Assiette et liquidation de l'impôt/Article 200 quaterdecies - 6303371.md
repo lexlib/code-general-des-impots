@@ -14,14 +14,14 @@ Le logement doit, au jour de l'affectation à usage d'habitation principale du b
 normes minimales de surface et d'habitabilité mentionnées à l'article 244 quater J. En outre, le logement acquis neuf, en
 l'état futur d'achèvement ou que le contribuable fait construire doit présenter des caractéristiques thermiques et une
 performance énergétique conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le
-contribuable justifie du respect de cette dernière condition selon des modalités définies par décret (1). 
+contribuable justifie du respect de cette dernière condition selon des modalités définies par décret. 
 
 II.-Le I ne s'applique pas aux intérêts des prêts affectés : 
 
 1° Au remboursement en tout ou partie d'autres crédits ou découverts en compte. Toutefois, les intérêts des emprunts
 souscrits pour se substituer aux prêts mentionnés au I ou rembourser ceux-ci ouvrent droit au crédit d'impôt, dans la limite
-des intérêts qui figurent sur les échéanciers des emprunts initiaux et de celles des annuités mentionnées au premier alinéa
-du III restant à courir ; 
+des intérêts qui figurent sur les échéanciers des emprunts initiaux et de celles des annuités mentionnées au III restant à
+courir ; 
 
 2° A l'acquisition d'un logement par l'intermédiaire d'une société non soumise à l'impôt sur les sociétés, lorsque ce
 logement a antérieurement appartenu au contribuable directement ou par l'intermédiaire d'une société non soumise à l'impôt
@@ -39,7 +39,7 @@ société correspondant au logement concerné.
 Par dérogation aux dispositions du premier alinéa, lorsque le contribuable acquiert ou fait construire un logement neuf dont
 le niveau élevé de performance énergétique globale, déterminé dans des conditions fixées par décret et justifié par le
 bénéficiaire, est supérieur à celui qu'impose la législation en vigueur, les intérêts ouvrant droit au crédit d'impôt sont
-ceux payés au titre des sept premières annuités (2). 
+ceux payés au titre des sept premières annuités. 
 
 IV.-Le montant des intérêts mentionnés au III ouvrant droit au crédit d'impôt ne peut excéder, au titre de chaque année
 d'imposition, la somme de 3 750 euros pour une personne célibataire, veuve ou divorcée et de 7 500 euros pour un couple
@@ -54,8 +54,19 @@ V.-Le crédit d'impôt est égal à 20 % du montant des intérêts mentionnés a
 
 Ce taux est porté à 40 % pour les intérêts payés au titre de la première annuité de remboursement. 
 
-Le taux mentionné au premier alinéa est porté à 40 % lorsque l'acquisition ou la construction porte sur un logement mentionné
-au troisième alinéa du III (2). 
+Toutefois, pour les logements acquis neufs, en l'état futur d'achèvement ou que le contribuable fait construire :
+
+1° Lorsque l'acquisition ou la construction porte sur un logement mentionné au dernier alinéa du III, le taux mentionné au
+premier alinéa du présent V est porté à 40 % ;
+
+2° Lorsque l'acquisition ou la construction porte sur un logement autre que celui visé au 1°, les taux mentionnés aux premier
+et deuxième alinéas sont respectivement ramenés à :
+
+- 15 % et 30 % pour les logements acquis ou construits en 2010 ;
+
+- 10 % et 25 % pour les logements acquis ou construits en 2011 ;
+
+- 5 % et 15 % pour les logements acquis ou construits en 2012. 
 
 VI.-Le I s'applique à la condition que le logement faisant l'objet du prêt soit, à la date de paiement des intérêts, affecté
 à l'usage d'habitation principale du contribuable. 
@@ -91,14 +102,6 @@ d'assistance administrative en vue de lutter contre la fraude ou l'évasion fisc
 
 IX.-Les dispositions du présent article sont exclusives de celles mentionnées au a du 2 de l'article 199 undecies A.
 
-**Nota:**
-
-Loi n° 2008-1425 du 27 décembre 2008 article 103 II : (1) Le 1° du I s'applique aux logements acquis neufs, en l'état futur
-d'achèvement ou que le contribuable fait construire, qui ont fait l'objet d'une demande de permis de construire déposée à
-compter de l'entrée en vigueur du décret mentionné au même 1° du I et au plus tard à compter du 1er janvier 2010. 
-
-(2) Les 2° à 4° du I s'appliquent aux logements acquis à compter du 1er janvier 2009.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -110,7 +113,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 84
 
 _Cite_:
 
