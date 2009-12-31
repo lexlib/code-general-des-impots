@@ -1,8 +1,8 @@
 # Article 1681 quater A
 
-A. A compter du 1er janvier 1997, la taxe professionnelle et les taxes additionnelles sont recouvrées, soit dans les
-conditions prévues à l'article 1679 quinquies, soit, sur demande du contribuable, au moyen de prélèvements mensuels opérés
-conformément à l'article 1681 D.
+A. La cotisation foncière des entreprises et les taxes additionnelles sont recouvrées, soit dans les conditions prévues à
+l'article 1679 quinquies, soit, sur demande du contribuable, au moyen de prélèvements mensuels opérés conformément à
+l'article 1681 D.
 
 B. De janvier à octobre, chaque prélèvement est égal au dixième du montant des taxes mises en recouvrement au titre de
 l'année précédente jusqu'au 31 décembre de cette même année, éventuellement diminuées du montant du dégrèvement attendu au
@@ -12,11 +12,11 @@ S'il estime que les prélèvements mensuels effectués ont atteint le montant de
 contribuable peut demander la suspension des prélèvements suivants.
 
 S'il estime que le montant des taxes mises en recouvrement différera de celui qui a servi de base aux prélèvements, il peut
-demander la modification du montant de ces derniers.
+demander la modification du montant de ces derniers. 
 
 Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 30 septembre de chaque année, doit préciser le montant
 présumé des taxes et doit être formulée auprès du Trésor public au plus tard le dernier jour du mois qui précède celui du
-prélèvement effectif.
+prélèvement effectif. 
 
 Si le montant des taxes présumé par le contribuable est inférieur de plus de 20 % au montant des taxes mises en recouvrement,
 une majoration de 10 % est appliquée à la différence entre la moitié des taxes dues et les prélèvements effectués entre le
@@ -24,7 +24,7 @@ mois de janvier et le mois de juin. Cette différence ainsi que la majoration s'
 le deuxième mois qui suit le mois de la mise en recouvrement des taxes.
 
 C. Le solde des taxes est prélevé en novembre à concurrence du montant de l'un des prélèvements visé au B. Le complément
-éventuel est prélevé en décembre.
+éventuel est prélevé en décembre. 
 
 Toutefois, si les taxes sont mises en recouvrement après le 31 octobre, le solde est acquitté dans les conditions fixées par
 les articles 1663 et 1730.
@@ -41,11 +41,16 @@ F. Un décret en Conseil d'Etat fixe les modalités d'application du présent ar
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cite_:
 
-  - CGI 1679 quinquies, 1681 D, 1647 B sexies, 1663, 1730, 1762 A
+  - Code général des impôts, CGI. - art. 1647 B sexies (V)
+  - Code général des impôts, CGI. - art. 1663 (V)
+  - Code général des impôts, CGI. - art. 1679 quinquies (V)
+  - Code général des impôts, CGI. - art. 1681 D (V)
+  - Code général des impôts, CGI. - art. 1730 (V)
+  - Code général des impôts, CGI. - art. 1762 A (T)
 
 _Cité par_:
 
@@ -56,7 +61,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C octies (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C sexies (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 382-0 C ter (VD)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006

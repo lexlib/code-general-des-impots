@@ -8,15 +8,15 @@ pour une période inférieure à quinze ans.
 
 Les actions de la société agréée ne peuvent être souscrites que par des entreprises exerçant une activité industrielle et
 éligibles au sens du premier alinéa du I de l'article 22 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation
-et au développement du service public de l'électricité à la condition que, au titre du dernier  exercice clos en 2005, le
-rapport existant entre la quantité consommée d'électricité et la valeur ajoutée produite définie au II de l'article 1647 B
+et au développement du service public de l'électricité à la condition que, au titre du dernier exercice clos en 2005, le
+rapport existant entre la quantité consommée d'électricité et la valeur ajoutée produite définie aux articles 1586 ter à 1586
 sexies soit supérieur à deux kilowattheures et demi par euro. 
 
 Les droits à consommation sont cédés en application du IV de l'article 22 de la loi n° 2000-108 précitée. 
 
 Les droits à consommation acquis par un associé sont exercés, sur la durée du contrat, sous forme d'une puissance constante
-et sont limités en volume  à la consommation de ses sites qui vérifient individuellement, au titre du dernier exercice clos
-en 2005, les conditions cumulatives suivantes : 
+et sont limités en volume à la consommation de ses sites qui vérifient individuellement, au titre du dernier exercice clos en
+2005, les conditions cumulatives suivantes : 
 
 a. La consommation annuelle d'électricité du site en heures creuses, c'est-à-dire réalisées entre 20 heures et 8 heures en
 semaine, ainsi que le samedi et le dimanche, représente au moins 55 % de la consommation annuelle totale d'électricité ; 
@@ -46,7 +46,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 89 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cité par_:
 
