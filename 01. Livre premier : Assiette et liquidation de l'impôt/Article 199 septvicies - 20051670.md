@@ -63,7 +63,8 @@ quote-part du prix de revient correspondant à ses droits dans l'indivision.
 
 Lorsque le logement est la propriété d'une société non soumise à l'impôt sur les sociétés autre qu'une société civile de
 placement immobilier, le contribuable bénéficie de la réduction d'impôt dans la limite de la quote-part du prix de revient
-correspondant à ses droits sur le logement concerné. 
+correspondant à ses droits sur le logement concerné. Il s'engage à conserver ses parts jusqu'au terme de l'engagement de
+location mentionné au I. 
 
 Au titre d'une même année d'imposition, le contribuable ne peut bénéficier de la réduction d'impôt qu'à raison de
 l'acquisition, de la construction ou de la transformation d'un seul logement. 
@@ -98,7 +99,7 @@ d'une déduction pour la détermination des revenus fonciers.
 
 VII. ― La réduction d'impôt obtenue fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient : 
 
-1° La rupture de l'engagement de location ou de l'engagement de conservation des parts mentionné aux I ou VIII ; 
+1° La rupture de l'engagement de location ou de l'engagement de conservation des parts mentionné aux I, IV ou VIII ; 
 
 2° Le démembrement du droit de propriété de l'immeuble concerné ou des parts. Toutefois, aucune remise en cause n'est
 effectuée lorsque le démembrement de ce droit ou le transfert de la propriété du bien résulte du décès de l'un des membres du
@@ -118,8 +119,8 @@ Le taux de la réduction d'impôt est de :
 
 - 10 % pour les souscriptions réalisées en 2012.
 
-Toutefois, lorsque 95 % de la souscription servent exclusivement à financer les logements mentionnés au sixième alinéa du IV,
-la réduction d'impôt est majorée de dix points pour les logements acquis ou construits en 2011 et 2012. 
+Toutefois, lorsque 95 % de la souscription sert exclusivement à financer les logements mentionnés au sixième alinéa du IV, la
+réduction d'impôt est majorée de dix points pour les logements acquis ou construits en 2011 et 2012. 
 
 La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de propriété est démembré, est subordonnée à la
 condition que 95 % de la souscription serve exclusivement à financer un investissement pour lequel les conditions
@@ -184,6 +185,9 @@ mentionnées au deuxième alinéa du l du 1° du I de l'article 31 peuvent être
 (1) Loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 article 83 II : Le I de l'article 83 s'applique à compter de
 l'imposition des revenus de 2010.
 
+Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2010 article 39 IV : le II de l'article 39 s'applique à
+compter de l'imposition des revenus de l'année 2009.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -229,5 +233,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 82 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 83 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 39 (V)
