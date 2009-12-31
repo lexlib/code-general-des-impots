@@ -55,12 +55,12 @@ l'activité exercée dans une zone de restructuration de la défense.
 
 Lorsque le contribuable n'exerce pas l'ensemble de son activité dans une zone de restructuration de la défense, le bénéfice
 exonéré est déterminé en affectant le montant résultant du calcul ainsi effectué du rapport entre, d'une part, la somme des
-éléments d'imposition à la taxe professionnelle définis à l'article 1467, à l'exception de la valeur locative des moyens de
-transport, afférents à l'activité exercée dans une zone de restructuration de la défense et relatifs à la période
-d'imposition des bénéfices et, d'autre part, la somme des éléments d'imposition à la taxe professionnelle du contribuable
-définis au même article pour ladite période. Pour la fixation de ce rapport, la valeur locative des immobilisations passibles
-d'une taxe foncière est celle déterminée conformément à l'article 1467 au 1er janvier de l'année au cours de laquelle est
-clos l'exercice ou au 1er janvier de l'année d'imposition des bénéfices. 
+éléments d'imposition à la cotisation foncière des entreprises définis à l'article 1467              afférents à l'activité
+exercée dans une zone de restructuration de la défense et relatifs à la période d'imposition des bénéfices et, d'autre part,
+la somme des éléments d'imposition à la cotisation foncière des entreprises du contribuable définis au même article pour
+ladite période. Pour la fixation de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est
+celle déterminée conformément à l'article 1467 au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er
+janvier de l'année d'imposition des bénéfices. 
 
 Par exception au sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré qu'à raison des
 bénéfices provenant des seuls immeubles situés dans une zone de restructuration de la défense. Cette disposition s'applique
@@ -100,9 +100,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 53 A
-  - Code général des impôts, CGI. - art. 63 (V)
-  - Code général des impôts, CGI. - art. 8 (V)
-  - Code général des impôts, CGI. - art. 92 (V)
+  - Code général des impôts, CGI. - art. 63
+  - Code général des impôts, CGI. - art. 8
+  - Code général des impôts, CGI. - art. 92
   - Code général des impôts, CGI. - art. 96
   - Code monétaire et financier - art. L511-1
   - article 13 du règlement (CE) n°800/2008
@@ -110,7 +110,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cité par_:
 
