@@ -5,7 +5,8 @@ fixée, la somme qui devait être prélevée est acquittée avec le prélèvemen
 
 II. – En cas de deuxième retard de paiement au cours de la même année, le contribuable perd pour cette année le bénéfice de
 son option et est soumis soit aux dispositions du 2 de l'article 1663 et de l'article 1730 et, le cas échéant de l'article
-1664, soit, en matière de taxe professionnelle et de taxes additionnelles, aux dispositions de l'article 1679 quinquies.
+1664, soit, en matière de cotisation foncière des entreprises et de taxes additionnelles, aux dispositions de l'article 1679
+quinquies.
 
 III. – (Abrogé)
 
@@ -15,21 +16,23 @@ IV. – Un décret en Conseil d'Etat fixe les modalités d'application du prése
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1681 A, 1681 quater A, 1663, 1730, 1664, 1679 quinquies
-
 _Anciens textes_:
 
   - CGI 1762 A
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
 _Modifié par_:
 
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (M)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1663 (V)
+  - Code général des impôts, CGI. - art. 1664 (V)
+  - Code général des impôts, CGI. - art. 1679 quinquies (V)
+  - Code général des impôts, CGI. - art. 1681 A (V)
+  - Code général des impôts, CGI. - art. 1681 quater A (V)
+  - Code général des impôts, CGI. - art. 1730 (V)
 
 _Cité par_:
 
