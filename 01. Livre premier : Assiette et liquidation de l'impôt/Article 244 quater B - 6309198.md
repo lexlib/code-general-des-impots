@@ -95,7 +95,7 @@ normalisation, à concurrence d'un forfait journalier de 450 euros par jour de p
 h) Les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-
 habillement-cuir et définies comme suit : 
 
-1° Les salaires et charges sociales afférents aux stylistes et techniciens des bureaux de style directement et exclusivement
+1° Les dépenses de personnel afférentes (1) aux stylistes et techniciens des bureaux de style directement et exclusivement
 chargés de la conception de nouveaux produits et aux ingénieurs et techniciens de production chargés de la réalisation de
 prototypes ou d'échantillons non vendus ; 
 
@@ -147,6 +147,11 @@ IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
 VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de
 durée inégale ou ne coïncidant pas avec l'année civile.
+
+**Nota:**
+
+(1) Loi n° 2009-1674 du 30 décembre 2009, article 65 II : les dipositions de l'article 65 I s'appliquent aux crédits d'impôts
+calculés au titre des dépenses engagées à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
@@ -202,7 +207,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 65 (V)
 
 _Cite_:
 
