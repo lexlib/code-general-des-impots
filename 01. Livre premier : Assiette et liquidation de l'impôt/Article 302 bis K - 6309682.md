@@ -28,12 +28,15 @@ licences des transporteurs aériens.
 
 II. - Le tarif de la taxe est le suivant :
 
-3,92 euros par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre
+4,11 euros par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre
 Etat partie à l'accord sur l'Espace économique européen, ou de la Confédération suisse ;
 
-7,04 euros par passager embarqué vers d'autres destinations ;
+7,38 euros par passager embarqué vers d'autres destinations ;
 
-1,17 euro par tonne de courrier ou de fret embarquée.
+1,23 euro par tonne de courrier ou de fret embarquée.
+
+A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de
+croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année. 
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois
 considéré, arrondi à la tonne inférieure.
@@ -56,22 +59,22 @@ fin, les agents assermentés peuvent examiner sur place les documents utiles.
 
 Préalablement, un avis de vérification est adressé à l'entreprise afin qu'elle puisse se faire assister d'un conseil.
 
-Au cours de la  vérification, l'entreprise peut régulariser les erreurs, inexactitudes,  omissions ou insuffisances dans les
-déclarations souscrites dans les délais,  moyennant le paiement d'un intérêt de retard égal à 70 % de l'intérêt de retard
+Au cours de la vérification, l'entreprise peut régulariser les erreurs, inexactitudes, omissions ou insuffisances dans les
+déclarations souscrites dans les délais, moyennant le paiement d'un intérêt de retard égal à 70 % de l'intérêt de retard
 prévu à l'article 1727.
 
-Cette procédure de régularisation  spontanée est subordonnée au respect des conditions suivantes :
+Cette procédure de régularisation spontanée est subordonnée au respect des conditions suivantes :
 
-1° L'entreprise en fait la demande avant toute proposition de  rectification ;
+1° L'entreprise en fait la demande avant toute proposition de rectification ;
 
-2° La régularisation ne concerne pas une  infraction exclusive de bonne foi ;
+2° La régularisation ne concerne pas une infraction exclusive de bonne foi ;
 
-3° L'entreprise dépose  une déclaration complémentaire dans les trente jours de sa demande et acquitte  l'intégralité des
-suppléments de droits simples et des intérêts de retard au  moment du dépôt de cette déclaration. 
+3° L'entreprise dépose une déclaration complémentaire dans les trente jours de sa demande et acquitte l'intégralité des
+suppléments de droits simples et des intérêts de retard au moment du dépôt de cette déclaration. 
 
 Les insuffisances constatées et les sanctions y afférentes sont notifiées à l'entreprise qui dispose d'un délai de trente
-jours pour présenter ses observations. Sur demande de  l'entreprise reçue avant l'expiration du délai précité par les
-services de la  direction générale de l'aviation civile, ce délai est prorogé de trente jours.
+jours pour présenter ses observations. Sur demande de l'entreprise reçue avant l'expiration du délai précité par les services
+de la direction générale de l'aviation civile, ce délai est prorogé de trente jours.
 
 Après examen des observations éventuelles, le directeur général de l'aviation civile émet, s'il y a lieu, un titre exécutoire
 comprenant les droits supplémentaires maintenus, assortis de l'intérêt de retard prévu à l'article 1727 et, le cas échéant,
@@ -92,8 +95,8 @@ substitue à ce titre s'agissant des droits, sous réserve d'un contrôle ultér
 
 Les droits sont assortis de l'intérêt de retard prévu à l'article 1727 et de la majoration prévue au 1 de l'article 1728.
 
-2 bis. Lorsque les rehaussements opérés en vertu des 1 et 2 sont passibles de  plusieurs des majorations prévues au 1 de
-l'article 1728 et à l'article 1729,  l'article 1729 A est applicable. 
+2 bis. Lorsque les rehaussements opérés en vertu des 1 et 2 sont passibles de plusieurs des majorations prévues au 1 de
+l'article 1728 et à l'article 1729, l'article 1729 A est applicable. 
 
 3. Le droit de rectification de la taxe se prescrit en trois ans. Cette prescription est suspendue et interrompue dans les
 conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions visées au 2.
@@ -157,4 +160,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 56
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 110
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 54
