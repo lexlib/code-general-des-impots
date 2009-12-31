@@ -16,21 +16,13 @@ l'exercice précédent par l'entreprise est supérieur à 760 000 euros.
 4. Les paiements afférents à la taxe sur les salaires mentionnée à l'article 231 sont effectués par virement directement
 opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant excède 50 000 euros. 
 
-5. Les paiements relatifs à la cotisation minimale de taxe professionnelle mentionnée à l'article 1647 E sont effectués par
-virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant
-excède 50 000 euros.
-
-**Nota:**
-
-NOTA : Loi n° 2007-1824 du 25 décembre 2007 de finances rectificative pour 2007, article 68 VI : Le présent article entre en
-vigueur à une date fixée par décret et au plus tard le 1er janvier 2009. L'article 1 du décret n° 2008-591 du 23 juin 2008 a
-fixé cette date au 1er novembre 2008.
+5. (Abrogé)
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 68
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cite_:
 

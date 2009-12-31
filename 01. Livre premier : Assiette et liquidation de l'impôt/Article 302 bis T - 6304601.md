@@ -1,20 +1,16 @@
 # Article 302 bis T
 
-Le tarif de la redevance est fixé par tonne de viande avec os à désosser, dans la limite d'un plafond de 150 p. 100 du niveau
-moyen forfaitaire défini en euro par décision du Conseil des communautés européennes.
+Le tarif de la redevance est fixé par tonne de viande avec os à désosser, dans la limite d'un plafond de 150 % du niveau
+moyen forfaitaire défini en euros par décision du Conseil de l'Union européenne.
+
+Cette redevance peut être modulée, dans la limite d'une augmentation ou d'une réduction de 20 % de son montant, compte tenu
+notamment des résultats des contrôles officiels pratiqués dans l'établissement ainsi que des mesures d'autocontrôle et de
+traçabilité qu'il met en œuvre, au sens de l'article 27 du règlement (CE) n° 882/2004 du Parlement européen et du Conseil du
+29 avril 2004 relatif aux contrôles officiels effectués pour s'assurer de la conformité avec la législation sur les aliments
+pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1999-01-18 3P-1-99
-  - TXT_ASSOCIE: Instruction 1999-10-08 3P-5-99
-
 _Modifié par_:
 
-  - Règlement CE 2866-98 1998-12-31 art. 1, art. 2, JOCE 31 décembre 1998
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 90

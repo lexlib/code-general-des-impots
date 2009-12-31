@@ -5,7 +5,7 @@ application des articles 44 sexies, 44 septies, 44 octies ou 44 decies peuvent b
 dépenses portant sur la rénovation des linéaires, la rénovation des vitrines ou l'acquisition de terminaux informatiques. 
 
 II.-1. Les dépenses mentionnées au I sont prises en compte pour le calcul du crédit d'impôt dans la limite de 10 000 Euros au
-titre des exercices ouverts entre le 1er janvier 2007 et le 31 décembre 2009. 
+titre des exercices ouverts entre le 1er janvier 2007 et le 31 décembre 2011. 
 
 2. Les dépenses mentionnées au I doivent satisfaire aux conditions suivantes : 
 
@@ -30,18 +30,13 @@ droits dans ces sociétés s'ils satisfont aux conditions d'application de ce m�
 redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156. 
 
-V.-Les I à III s'appliquent aux dépenses éligibles engagées entre le 15 décembre 2006 et le 31 décembre 2009.
-
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
-octroyés à compter du 1er janvier 2007.
+V.-Les I à III s'appliquent aux dépenses éligibles engagées entre le 15 décembre 2006 et le 31 décembre 2011.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 66
 
 _Cité par_:
 
