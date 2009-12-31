@@ -16,12 +16,17 @@ général, à but non lucratif ;
 
 5° Des ateliers et chantiers d'insertion mentionnés à l'article L. 5132-15 du même code ; 
 
-6° Des entreprises adaptées mentionnées à l'article L. 5213-13 du même code ; 
+6° Des entreprises adaptées mentionnées à l'article L. 5213-13 du même code ;
+
+6° bis Des groupements d'employeurs régis par les articles L. 1253-1 et suivants du code du travail qui bénéficient du label
+GEIQ délivré par le Comité national de coordination et d'évaluation des groupements d'employeurs pour l'insertion et la
+qualification, et qui organisent des parcours d'insertion et de qualification dans les conditions mentionnées à l'article L.
+6325-17 du même code ; 
 
 7° De l'Agence nationale de la recherche ; 
 
 8° Des fondations universitaires et des fondations partenariales mentionnées respectivement aux articles L. 719-12 et L.
-719-13 du code de l'éducation lorsqu'elles répondent aux conditions fixées au b du 1 de l'article 200.
+719-13 du code de l'éducation lorsqu'elles répondent aux conditions fixées au b du 1 de l'article 200. 
 
 II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la
 déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition. 
@@ -47,7 +52,7 @@ V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux
 
 _Modifié par_:
 
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 105 (V)
 
 _Cité par_:
 

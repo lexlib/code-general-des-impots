@@ -1,7 +1,7 @@
 # Article 220 undecies
 
 I. - Les entreprises soumises à l'impôt sur les sociétés peuvent bénéficier d'une réduction d'impôt égale à 25 % du montant
-des sommes versées au titre des souscriptions en numéraire réalisées entre le 1er janvier 2007 et le 31 décembre 2009 au
+des sommes versées au titre des souscriptions en numéraire réalisées entre le 1er janvier 2007 et le 31 décembre 2010 au
 capital de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun et exploitant soit un journal
 quotidien, soit une publication de périodicité au maximum mensuelle consacrée à l'information politique et générale telle que
 définie à l'article 39 bis A .
@@ -37,7 +37,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 52
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 64
 
 _Cité par_:
 
