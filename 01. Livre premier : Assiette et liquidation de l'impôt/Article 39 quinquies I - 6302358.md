@@ -20,23 +20,19 @@ l'issue du contrat, sur le total des amortissements pratiqués.
 
 La provision est rapportée en totalité au résultat imposable de l'exercice au cours duquel le preneur lève l'option d'achat
 du bien. Lorsque l'option n'est pas levée, la provision est rapportée sur la durée résiduelle d'amortissement, au rythme de
-cet amortissement, et, au plus tard, au résultat imposable de l'exercice au cours duquel le bien est cédé. 
+cet amortissement, et, au plus tard, au résultat imposable de l'exercice au cours duquel le bien est cédé.
 
-Les entreprises titulaires d'un contrat de partenariat peuvent également constituer en franchise d'impôt une provision au
-titre de l'exercice au cours duquel elles cèdent, dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code
-monétaire et financier, les créances résultant de ce contrat qu'elles détiennent sur une personne publique. 
+**Nota:**
 
-Cette provision est égale à l'excédent du montant de créances cédées qui correspond aux coûts d'investissement définis à
-l'article L. 313-29-1 du code monétaire et financier et incorporés au prix de revient, sur le total des amortissements
-pratiqués dans les conditions du 2° du 1 de l'article 39. Elle est rapportée sur la durée résiduelle d'amortissement, au
-rythme de cet amortissement et, au plus tard, au résultat imposable de l'exercice au cours duquel intervient la cession des
-investissements ou au cours duquel le contrat prend fin, de manière anticipée ou non, s'il est antérieur.
+Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 85 VIII : La provision constituée en
+application des alinéas mentionnés au III de l'article 85, dans leur rédaction antérieure à la présente loi, est rapportée au
+résultat imposable du premier exercice clos à compter du 31 décembre 2009.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 85 (V)
 
 _Cite_:
 
