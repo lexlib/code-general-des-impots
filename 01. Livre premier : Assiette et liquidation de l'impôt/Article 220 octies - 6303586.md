@@ -25,12 +25,12 @@ la propriété intellectuelle.S'agissant des albums de nouveaux talents, le bén
 l'entreprise redevable de l'impôt sur les sociétés pour l'ensemble des albums qu'elle produit chaque année. 
 
 **III**.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes
-engagées entre le 1er juillet 2007 et le 31 décembre 2009, pour des opérations mentionnées au II effectuées en France, dans
+engagées entre le 1er juillet 2007 et le  31 décembre 2012, pour des opérations mentionnées au II effectuées en France, dans
 un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen
 ayant conclu avec la France une convention fiscale contenant une clause administrative en vue de lutter contre la fraude ou
 l'évasion fiscale, dès lors qu'elles entrent dans la détermination du résultat imposable : 
 
-**1°** Pour les dépenses correspondant aux frais de production d'un enregistrement phonographique ou vidéographique
+**1° **Pour les dépenses correspondant aux frais de production d'un enregistrement phonographique ou vidéographique
 musical : 
 
 a.-les frais de personnel non permanent de l'entreprise : les salaires et charges sociales afférents aux artistes-
@@ -50,7 +50,7 @@ d.-les dépenses de post-production : montage, mixage, codage, matriçage et fra
 
 e.-les dépenses liées au coût de numérisation et d'encodage des productions ; 
 
-**2°** Pour les dépenses liées au développement de productions phonographiques ou vidéographiques musicales mentionnées au
+**2° **Pour les dépenses liées au développement de productions phonographiques ou vidéographiques musicales mentionnées au
 II : 
 
 a.-les frais de répétition des titres ayant fait l'objet d'un enregistrement dans les conditions mentionnées au II (location
@@ -139,10 +139,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 51 (V)
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 56 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 51
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L123-1 (V)
-  - Code de la propriété intellectuelle - art. L213-1 (V)
+  - Code de la propriété intellectuelle - art. L123-1
+  - Code de la propriété intellectuelle - art. L213-1

@@ -37,17 +37,22 @@ III. - Les opérateurs qui veulent bénéficier des exonérations prévues au I 
 alcools totalement dénaturés mentionnés au a du I doivent en faire préalablement déclaration à l'administration selon des
 modalités fixées par décret.
 
+IV. - Sont exonérés des droits mentionnés aux articles 575 et 575 E bis les tabacs manufacturés :
+
+a) Dénaturés, utilisés pour des usages industriels ou horticoles ;
+
+b) Détruits sous la surveillance des services des douanes et droits indirects ;
+
+c) Exclusivement destinés à des tests scientifiques ou à des tests en relation avec la qualité des produits.
+
+Les opérateurs qui veulent bénéficier des exonérations prévues au présent IV doivent en faire préalablement la demande auprès
+du directeur régional des douanes et droits indirects territorialement compétent.
+
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 302 B, 302 M, 508 à 513
-  - Code de la santé publique - art. L5111-1 (M)
-  - Directive 92/83/CEE 1992-10-19 art. 27 (Conseil)
-
-_Créé par_:
-
-  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 _Cité par_:
 
@@ -69,6 +74,6 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 H (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 I (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2002
+  - Code de la santé publique - art. L5111-1
