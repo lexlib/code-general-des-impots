@@ -2,11 +2,12 @@
 
 1. Donnent lieu à publicité, dans les conditions prévues aux 2 à 5, les sommes restant dues à titre privilégié par des
 commerçants et personnes morales de droit privé, même non commerçantes, au titre de l'impôt sur le revenu, de l'impôt sur les
-bénéfices des sociétés et autres personnes morales, de la taxe sur les salaires, de la taxe professionnelle et des taxes
-annexes, des taxes sur le chiffre d'affaires et des taxes annexes, et des contributions indirectes. 
+bénéfices des sociétés et autres personnes morales, de la taxe sur les salaires, de la cotisation foncière des entreprises et
+des taxes annexes, des taxes sur le chiffre d'affaires et des taxes annexes, et des contributions indirectes. 
 
-N'est pas soumise à la publicité la part de la taxe professionnelle correspondant à la réduction effectuée par le redevable
-au titre du plafonnement en fonction de la valeur ajoutée, en application des articles 1647 B sexies et 1679 quinquies. 
+N'est pas soumise à la publicité la part de la cotisation foncière des entreprises correspondant à la réduction effectuée par
+le redevable au titre du plafonnement en fonction de la valeur ajoutée, en application des articles 1647 B sexies et 1679
+quinquies. 
 
 2. La publicité est faite à la diligence de l'administration chargée du recouvrement. 
 
@@ -20,7 +21,7 @@ ainsi que pour les impôts directs et taxes assimilées recouvrés par les compt
 
 4. La publicité est obligatoire lorsqu'il est constaté, à l'issue des neuf mois qui suivent la première date de l'un ou
 l'autre des événements mentionnés au 3, que le montant des sommes dues à compter de cette date par le redevable à un même
-poste comptable ou service assimilé et susceptibles d'être inscrites dépasse un seuil fixé par décret.
+poste comptable ou service assimilé et susceptibles d'être inscrites dépasse un seuil fixé par décret. 
 
 Ne sont pas soumises à la publicité les sommes visées au premier alinéa lorsque le débiteur respecte un plan d'apurement
 échelonné de sa dette ainsi que ses obligations fiscales courantes. Dès que le plan est dénoncé, le comptable public doit
@@ -64,8 +65,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1647 B sexies
+  - Code général des impôts, CGI. - art. 1647 B sexies (VT)
+  - Code général des impôts, CGI. - art. 1679 quinquies (VT)
