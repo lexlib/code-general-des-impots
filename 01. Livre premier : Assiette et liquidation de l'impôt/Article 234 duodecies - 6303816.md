@@ -1,9 +1,9 @@
 # Article 234 duodecies
 
 I.-Lorsque la location est consentie par une personne morale ou un organisme devant souscrire la déclaration prévue au 1 de
-l'article 223, à l'exclusion de ceux imposés aux taux de l'impôt sur les sociétés prévus au I de l'article 219 bis, la
-contribution prévue à l'article 234 nonies est assise sur les recettes nettes définies à l'article 29 qui ont été perçues au
-cours de l'exercice ou de la période d'imposition définie au deuxième alinéa de l'article 37. 
+l'article 223, à l'exclusion de ceux imposés aux taux de l'impôt sur les sociétés prévus à l'article 219 bis, la contribution
+prévue à l'article 234 nonies est assise sur les recettes nettes définies à l'article 29 qui ont été perçues au cours de
+l'exercice ou de la période d'imposition définie au deuxième alinéa de l'article 37. 
 
 II.-La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles et sous les mêmes garanties et sanctions
 qu'en matière d'impôt sur les sociétés. 
@@ -22,26 +22,20 @@ période, l'entreprise peut réduire ce versement à concurrence de l'excédent 
 IV.-Les crédits d'impôt de toute nature ainsi que la créance mentionnée à l'article 220 quinquies et l'imposition forfaitaire
 annuelle mentionnée à l'article 223 septies ne sont pas imputables sur cette contribution.
 
-**Nota:**
-
-Loi 2005-1719 2005-12-30 art. 76 XV Finances pour 2006 : 
-
-Ces dispositions s'appliquent à compter de l'imposition des revenus de 2006.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 34 (V)
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1668 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 220 quinquies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 223 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 223 septies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 29 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 37 (V)
+  - Code général des impôts, CGI. - art. 1668
+  - Code général des impôts, CGI. - art. 220 quinquies
+  - Code général des impôts, CGI. - art. 223
+  - Code général des impôts, CGI. - art. 223 septies
+  - Code général des impôts, CGI. - art. 29
+  - Code général des impôts, CGI. - art. 37
 
 _Cité par_:
 
@@ -50,7 +44,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 234 terdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 375 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 376 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006

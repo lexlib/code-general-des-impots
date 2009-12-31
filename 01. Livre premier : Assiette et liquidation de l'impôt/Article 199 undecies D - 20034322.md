@@ -21,7 +21,7 @@ imputées dans la limite annuelle :
 
 - d'une fois et demie le montant mentionné au 1 pour la fraction non retenue en application du 2 ;
 
-- de sept fois le treizième du montant mentionné au 1 pour la fraction non retenue en application du 3 bis ;
+- de treize fois le septième du montant mentionné au 1 pour la fraction non retenue en application du 3 bis ;
 
 - du montant mentionné au 1 pour la fraction non retenue en application du 3. 
 
@@ -32,15 +32,20 @@ est admise au titre d'une même année d'imposition, ne peut excéder deux fois 
 montant de 300 000 € par période de trois ans. 
 
 III. ― Par dérogation aux I et II, le montant total des réductions d'impôt sur le revenu mentionnées aux articles 199
-undecies A et 199 undecies B et des reports de ces réductions d'impôt, dont l'imputation est admise pour un contribuable au
-titre d'une même année d'imposition, peut être porté, sur option du contribuable, à 15 % du revenu de l'année considérée
-servant de base au calcul de l'impôt sur le revenu dans les conditions prévues au I de l'article 197.
+undecies A, 199 undecies B et 199 undecies C et des reports de ces réductions d'impôt, dont l'imputation est admise pour un
+contribuable au titre d'une même année d'imposition, peut être porté, sur option du contribuable, à 15 % du revenu de l'année
+considérée servant de base au calcul de l'impôt sur le revenu dans les conditions prévues au I de l'article 197.
+
+**Nota:**
+
+Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 57 II :  Le I de l'article 57 est applicable
+à compter de l'imposition des revenus de l'année 2009.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 40
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 57 (V)
 
 _Cité par_:
 
