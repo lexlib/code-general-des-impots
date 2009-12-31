@@ -3,7 +3,8 @@
 Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2012, acquiert un logement neuf ou en l'état futur
 d'achèvement faisant partie d'une résidence de tourisme classée dans une zone de revitalisation rurale et qui le destine à
 une location dont le produit est imposé dans la catégorie des revenus fonciers bénéficie d'une réduction d'impôt sur le
-revenu. 
+revenu. L'indexation d'une part minoritaire du loyer sur le chiffre d'affaires ne fait pas obstacle à l'imposition dans la
+catégorie des revenus fonciers. 
 
 Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 50 000 euros pour une personne
 célibataire, veuve ou divorcée et de 100 000 euros pour un couple marié. Son taux est de 25 %. Il ne peut être opéré qu'une
@@ -29,12 +30,20 @@ Cette location doit prendre effet dans le mois qui suit la date d'achèvement de
 postérieure. Dès lors que la commune et les services de l'Etat dans le département auront identifié un déficit de logements
 pour les travailleurs saisonniers dans la station, l'exploitant de la résidence de tourisme devra s'engager à réserver une
 proportion significative de son parc immobilier pour le logement des saisonniers, proportion au moins équivalente au nombre
-de salariés de la résidence. En cas de non-respect de l'engagement ou de cession du logement, la réduction pratiquée fait
-l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou de celle de la cession. Le paiement d'une partie
-du loyer par compensation avec le prix des prestations d'hébergement facturées par l'exploitant au propriétaire, lorsque le
-logement est mis à la disposition de ce dernier pour une durée totale n'excédant pas huit semaines par an, ne fait pas
-obstacle au bénéfice de la réduction à condition que le revenu brut foncier déclaré par le bailleur corresponde au loyer
-annuel normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire. 
+de salariés de la résidence. En cas de cession du logement, la réduction pratiquée fait l'objet d'une reprise au titre de
+l'année de la cession. En cas de rupture de l'engagement de location pendant une durée supérieure à douze mois en cas de
+liquidation judiciaire de l'exploitant, de résiliation ou de cession du bail commercial par l'exploitant, ou de mise en œuvre
+par les propriétaires du bénéfice de la clause contractuelle prévoyant la résiliation du contrat à défaut de paiement du
+loyer par l'exploitant, la réduction d'impôt fait l'objet d'une reprise pour le tiers de son montant au titre de l'année de
+la rupture de l'engagement de location et de chacune des deux années suivantes.  La réduction pratiquée ne fait pas l'objet
+d'une reprise si les copropriétaires substituent au gestionnaire défaillant de la résidence de tourisme une ou un ensemble
+d'entreprises qui assurent les mêmes prestations sur la période de location restant à couvrir conformément aux prescriptions
+légales, dans des conditions fixées par décret. Cette faculté leur est ouverte dès lors que la candidature d'un autre
+gestionnaire n'a pu être retenue après un délai d'un an et qu'ils détiennent au moins 50 % des appartements de la résidence.
+Le paiement d'une partie du loyer par compensation avec le prix des prestations d'hébergement facturées par l'exploitant au
+propriétaire, lorsque le logement est mis à la disposition de ce dernier pour une durée totale n'excédant pas huit semaines
+par an, ne fait pas obstacle au bénéfice de la réduction à condition que le revenu brut foncier déclaré par le bailleur
+corresponde au loyer annuel normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire. 
 
 Les dispositions du 5 du I de l'article 197 sont applicables. 
 
@@ -44,17 +53,23 @@ commune, le conjoint survivant attributaire du bien ou titulaire de son usufruit
 les mêmes conditions et selon les mêmes modalités, du bénéfice de la réduction prévue au présent article pour la période
 restant à courir à la date du décès.
 
+**Nota:**
+
+Loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 article 23 III : Les I et II de l'article 23 s'appliquent à
+compter de l'imposition des revenus de 2009.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°70-610 du 10 juillet 1970 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 197 (V)
+  - Loi n°70-610 du 10 juillet 1970
+  - Code général des impôts, CGI. - art. 197
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 93
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 94
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 23 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 86
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 87
 
 _Cité par_:
 

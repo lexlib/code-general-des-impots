@@ -14,12 +14,12 @@ c) Des exportations de produits agricoles.
 I bis. - Le taux du remboursement forfaitaire est fixé pour les ventes faites à compter du 1er janvier 1993 :
 
 1° A 4 % pour le lait, les animaux de basse-cour, les oeufs, les animaux de boucherie et de charcuterie définis par décret,
-ainsi que les céréales, les graines oléagineuses et les protéagineux mentionnés à l'annexe IX du règlement (CE) n° 1782 /
-2003 du Conseil du 29 septembre 2003.
+ainsi que les céréales, les graines oléagineuses et les protéagineux mentionnés  à l'annexe I du règlement (CE) n° 73/2009 du
+Conseil du 19 janvier 2009.
 
-2° A 3,05 % pour les autres produits.
+2° A 3, 05 % pour les autres produits.
 
-I ter. - 1. Périmé
+I ter. -1. Périmé
 
 2. (Abrogé à compter du 1er janvier 1993) ;
 
@@ -43,7 +43,7 @@ la production agricole, par décret (3) pris après avis des organisations profe
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 57
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 14
 
 _Cité par_:
 

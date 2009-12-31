@@ -52,15 +52,9 @@ libérales.
 VI. - Les déficits reportables au 31 décembre 1976 peuvent être imputés, du point de vue fiscal, sur la provision spéciale.
 
 VII. - La présente réévaluation, telle qu'elle est définie aux paragraphes I à V, n'aura pas d'effet sur l'assiette des
-impôts locaux (taxe professionnelle et taxes foncières).
+impôts locaux (cotisation foncière des entreprises et taxes foncières).
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 238 bis I
-  - CGIAN2 171 A à 171 P
-  - CGIAN4 23 L bis
 
 _Anciens textes_:
 
@@ -69,7 +63,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 238 bis I (V)
 
 _Cité par_:
 
