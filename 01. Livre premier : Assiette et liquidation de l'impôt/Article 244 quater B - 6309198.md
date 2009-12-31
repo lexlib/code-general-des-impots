@@ -29,8 +29,11 @@ sont prises en compte pour le double de leur montant pendant les vingt-quatre pr
 à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne
 soit pas inférieur à celui de l'année précédente ; 
 
+b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de l'article L. 611-7 du code de la propriété
+intellectuelle, au profit des salariés auteurs d'une invention résultant d'opérations de recherche ; 
+
 c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 %
-des dépenses de personnel mentionnées à la première phrase du b ; 
+des dépenses de personnel mentionnées à la première phrase du b et au b bis ; 
 
 Ce pourcentage est fixé à : 
 
@@ -41,14 +44,29 @@ pendant les vingt-quatre premiers mois suivant leur premier recrutement à la co
 personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année
 précédente. 
 
-d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou à
-des établissements d'enseignement supérieur délivrant un diplôme conférant un grade de master, des fondations de coopération
-scientifique et des établissements publics de coopération scientifique ou à des fondations reconnues d'utilité publique du
-secteur de la recherche agréées conformément au d bis. Ces dépenses sont retenues pour le double de leur montant à la
-condition qu'il n'existe pas de liens de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre
-l'entreprise qui bénéficie du crédit d'impôt et l'organisme ou l'établissement d'enseignement supérieur délivrant un diplôme
-conférant un grade de master, la fondation de coopération scientifique ou l'établissement public de coopération
-scientifique. 
+d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à :
+
+1° Des organismes de recherche publics ;
+
+2° Des établissements d'enseignement supérieur délivrant un diplôme conférant un grade de master ;
+
+3° Des fondations de coopération scientifique agréées conformément au d bis ;
+
+4° Des établissements publics de coopération scientifique ;
+
+5° Des fondations reconnues d'utilité publique du secteur de la recherche agréées conformément au d bis ;
+
+6° Des associations régies par la loi du 1er juillet 1901 relative au contrat d'association ayant pour fondateur et membre
+l'un des organismes mentionnés aux 1° ou 2° du présent d ou des sociétés de capitaux dont le capital ou les droits de vote
+sont détenus pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées
+conformément au d bis et avoir conclu une convention en application de l'article L. 313-2 du code de la recherche ou de
+l'article L. 762-3 du code de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein
+d'une ou plusieurs unités de recherche relevant de l'organisme mentionné aux 1° ou 2° du présent d ayant conclu la
+convention.
+
+Ces dépenses sont retenues pour le double de leur montant à la condition qu'il n'existe pas de lien de dépendance au sens des
+deuxième à quatrième alinéas du 12 de l'article 39 du présent code entre l'entreprise qui bénéficie du crédit d'impôt et
+l'entité mentionnée aux 1° à 6° du présent d ; 
 
 d bis) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés
 agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions.
@@ -151,7 +169,10 @@ durée inégale ou ne coïncidant pas avec l'année civile.
 **Nota:**
 
 (1) Loi n° 2009-1674 du 30 décembre 2009, article 65 II : les dipositions de l'article 65 I s'appliquent aux crédits d'impôts
-calculés au titre des dépenses engagées à compter du 1er janvier 2010.
+calculés au titre des dépenses engagées à compter du 1er janvier 2010. 
+
+Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 87 III : Le II de l'article 87 s'applique
+aux crédits d'impôt calculés au titre des dépenses de recherche exposées à partir du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
@@ -206,7 +227,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 65 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 87 (V)
 
 _Cite_:
 
