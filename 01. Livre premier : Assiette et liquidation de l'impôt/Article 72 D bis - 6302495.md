@@ -27,8 +27,8 @@ l'exploitation de cet exercice égale au montant de la déduction.L'épargne pro
 à l'actif du bilan de l'exploitation. Les intérêts produits par cette épargne professionnelle et qui sont capitalisés dans le
 compte d'affectation ne sont pas soumis à l'impôt. 
 
-La déduction est pratiquée après application          des abattements prévus aux articles 44 quaterdecies et 73 B et de la
-déduction pour investissement prévue à l'article 72 D. 
+La déduction est pratiquée après application des abattements prévus aux articles 44 quaterdecies et 73 B et de la déduction
+pour investissement prévue à l'article 72 D. 
 
 Les sommes déduites et leurs intérêts capitalisés non soumis à l'impôt peuvent être utilisés au cours des dix exercices qui
 suivent celui de leur inscription au compte d'affectation : 
@@ -42,7 +42,15 @@ limite des franchises ;
 c) Au titre de l'exercice de survenance d'un aléa non assuré d'origine climatique, naturelle ou sanitaire, reconnu par une
 autorité administrative compétente, ou déclaré par l'exploitant lorsque la différence positive entre la moyenne des chiffres
 d'affaires hors taxes des trois exercices précédents et le chiffre d'affaires hors taxes de l'exercice, réalisé dans des
-conditions comparables, excède 10 % de cette moyenne, dans la limite de cette différence. 
+conditions comparables, excède 10 % de cette moyenne, dans la limite de cette différence ;
+
+d) Au titre de l'exercice de survenance d'un aléa d'origine économique lorsque la différence positive entre la moyenne des
+valeurs ajoutées des trois exercices précédents et la valeur ajoutée de l'exercice, réalisée dans des conditions comparables,
+excède 10 % de cette moyenne, dans la limite de cette différence. Pour l'application du présent d, la valeur ajoutée s'entend
+de la différence entre d'une part, la somme hors taxes, des ventes, des variations d'inventaire, de la production immobilisée
+et autoconsommée et des indemnités et subventions d'exploitation et, d'autre part, la somme hors taxes et sous déduction des
+transferts de charges d'exploitation affectés, du coût d'achat des marchandises vendues et de la consommation de l'exercice
+en provenance de tiers. 
 
 Les sommes et intérêts ainsi utilisés sont rapportés au résultat de l'exercice au cours duquel leur retrait du compte est
 intervenu. 
@@ -50,7 +58,7 @@ intervenu.
 Lorsque ces sommes et intérêts ne sont pas utilisés au cours des dix exercices qui suivent celui de leur inscription au
 compte, ils sont rapportés aux résultats du dixième exercice suivant celui au titre duquel ils ont été inscrits. 
 
-Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux mentionnés aux a à c au cours des dix exercices qui
+Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux mentionnés aux a à d au cours des dix exercices qui
 suivent celui de leur inscription, ils sont rapportés au résultat de l'exercice au cours duquel ce prélèvement a été effectué
 et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu à l'article 1727. 
 
@@ -81,7 +89,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 91
 
 _Cité par_:
 

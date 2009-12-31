@@ -15,10 +15,15 @@ b. Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, pay
 
 1° L'acquisition de chaudières à condensation ; 
 
-2° L'acquisition de matériaux d'isolation thermique et d'appareils de régulation de chauffage ; 
+2° L'acquisition de matériaux d'isolation thermique des parois vitrées ; 
+
+3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques ;
+
+4° L'acquisition d'appareils de régulation de chauffage ; 
 
 c. Au coût des équipements de production d'énergie utilisant une source d'énergie renouvelable ou des pompes à chaleur,
-autres que air / air, dont la finalité essentielle est la production de chaleur : 
+autres que air / air, dont la finalité essentielle est la production de chaleur ou d'eau chaude sanitaire, ainsi qu'au coût
+de la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques : 
 
 1° Payés entre le 1er janvier 2005 et le 31 décembre 2012 dans le cadre de travaux réalisés dans un logement achevé ; 
 
@@ -49,7 +54,7 @@ janvier 2007 et le 31 décembre 2012.
 f) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, payées entre le 1er janvier 2009 et le 31 décembre
 2012, au titre de : 
 
-1° La pose de matériaux d'isolation thermique des parois opaques ; 
+1° (Abrogé); 
 
 2° La réalisation, en dehors des cas où la réglementation le rend obligatoire, du diagnostic de performance énergétique
 défini à l'article L. 134-1 du code de la construction et de l'habitation. Pour un même logement, un seul diagnostic de
@@ -82,21 +87,120 @@ fiscal.
 
 a. (Abrogé) 
 
-b. 25 % du montant des équipements, matériaux et appareils mentionnés au b du 1. Ce taux est porté à 40 % lorsque les
-dépenses concernent un logement achevé avant le 1er janvier 1977 et sont réalisées au plus tard le 31 décembre de la deuxième
-année suivant celle de son acquisition à titre onéreux ou gratuit ; 
+b) 15 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ;
 
-c) 50 % du montant des équipements mentionnés au c du 1. Toutefois, pour les chaudières et équipements de chauffage ou de
-production d'eau chaude indépendants fonctionnant au bois ou autres biomasses et les pompes à chaleur, ce taux est ramené à
-40 % pour les dépenses payées en 2009 et à 25 % pour les dépenses payées à compter du 1er janvier 2010 ; lorsque ces
-appareils sont installés dans un logement achevé avant le 1er janvier 1977 et que les dépenses sont réalisées au plus tard le
-31 décembre de la deuxième année suivant celle de son acquisition à titre onéreux ou gratuit, le taux est fixé à 40 % ; 
+c) 25 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ;
 
-d. 25 % du montant des équipements mentionnés aux d et e du 1 ; 
+d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du 1 :
 
-e) 25 % du montant des dépenses mentionnées au 1° du f du 1. Toutefois, lorsque les dépenses concernent un logement achevé
-avant le 1er janvier 1977 et sont réalisées au plus tard le 31 décembre de la deuxième année suivant celle de son acquisition
-à titre onéreux ou gratuit, le taux est fixé à 40 % ; 
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+</th>
+      <th>
+
+2009</th>
+      <th>
+
+A COMPTER
+
+de 2010</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cas général</td>
+      <td align="center">
+
+50 %</td>
+      <td align="center">
+
+50 %</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pompes à chaleur (autres que air/air) dont la finalité essentielle est la production de chaleur, à l'exception des pompes à
+chaleur géothermiques.</td>
+      <td align="center">
+
+40 %</td>
+      <td align="center">
+
+25 %</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur.</td>
+      <td align="center">
+
+40 %</td>
+      <td align="center">
+
+40 %</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pompes à chaleur (autres que air/air) thermodynamiques.</td>
+      <td align="center">
+
+Non applicable</td>
+      <td align="center">
+
+40 %</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques.</td>
+      <td align="center">
+
+Non applicable</td>
+      <td align="center">
+
+40 %</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses :</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- cas général ;</td>
+      <td align="center">
+
+40 %</td>
+      <td align="center">
+
+25 %</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- en cas de remplacement des mêmes matériels.</td>
+      <td align="center">
+
+40 %</td>
+      <td align="center">
+
+40 %</td>
+    </tr>
+  </tbody>
+</table>
+
+e) 25 % du montant des équipements mentionnés aux d et e du 1 ;
 
 f) 50 % du montant des dépenses mentionnées au 2° du f du 1. 
 
@@ -112,19 +216,25 @@ factures d'acompte, des personnes ayant réalisé le diagnostic de performance �
 travaux. Ces factures comportent, outre les mentions prévues à l'article 289, le lieu de réalisation des travaux ou du
 diagnostic de performance énergétique, la nature de ces travaux ainsi que la désignation, le montant et, le cas échéant, les
 caractéristiques et les critères de performance mentionnés à la deuxième phrase du 2 des équipements, matériaux et appareils.
-Dans le cas d'un logement achevé avant le 1er janvier 1977, le bénéfice du taux de 40 % mentionné au b, à la dernière phrase
-du c et au e du 5 est subordonné à la justification de la date d'acquisition et de l'ancienneté du logement. Lorsque le
-bénéficiaire du crédit d'impôt n'est pas en mesure de produire une facture ou une attestation mentionnant les
-caractéristiques et les critères de performance conformément à l'arrêté mentionné au 2 ou de justifier, selon le cas, de la
-réalisation d'un diagnostic de performance énergétique, de l'ancienneté du logement et de sa date d'acquisition, il fait
-l'objet, au titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale à 25 %, 40 % ou 50
-% de la dépense non justifiée, selon le taux du crédit d'impôt qui s'est appliqué. 
+Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou d'un équipement de chauffage ou de production d'eau
+chaude indépendant fonctionnant au bois ou autres biomasses, le bénéfice du taux de 40 % mentionné au d du 5 est accordé sur
+présentation d'une facture comportant, outre les mentions précitées, la mention de la reprise, par l'entreprise qui a réalisé
+les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction. Lorsque le bénéficiaire du
+crédit d'impôt n'est pas en mesure de produire une facture ou une attestation mentionnant les caractéristiques et les
+critères de performance conformément à l'arrêté mentionné au 2 ou de justifier, selon le cas, de la réalisation d'un
+diagnostic de performance énergétique, de la reprise de l'ancienne chaudière à bois ou autres biomasses ou de l'ancien
+équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, il fait l'objet,
+au titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale à 15%, 25 %, 40 % ou 50 % de
+la dépense non justifiée, selon le taux du crédit d'impôt qui s'est appliqué. 
 
 6 bis. La durée de l'engagement de location mentionné au premier alinéa du 1 s'apprécie à compter de la date de réalisation
 des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet,
 pour chaque logement concerné, dans les douze mois qui suivent la réalisation des dépenses. En cas de non-respect de cet
 engagement, le ou les crédits d'impôt obtenus pour chaque logement concerné font l'objet d'une reprise au titre de l'année au
 cours de laquelle l'engagement n'est pas respecté. 
+
+6 ter. Un contribuable ne peut, pour une même dépense, bénéficier à la fois de l'aide prévue à l'article 199 sexdecies et des
+dispositions du présent article.
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles
 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires.S'il excède l'impôt dû,
@@ -138,8 +248,8 @@ les dépenses ont été payées.
 
 **Nota:**
 
-Loi n° 2008-1425 du 27 décembre 2008 article 109 III : Le présent article s'applique aux dépenses payées à compter du 1er
-janvier 2009.
+Loi n° 2009-1674 du 30 décembre 2009 article 58 II : Le I de l'article 58 s'applique aux dépenses payées à compter du 1er
+janvier 2010.
 
 **Liens relatifs à cet article**
 
@@ -207,12 +317,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 109 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 58 (V)
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 199 quater B (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 289 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 4 B (V)
-  - Code de la construction et de l'habitation. - art. L134-1 (V)
-  - Code de la construction et de l'habitation. - art. L271-6 (V)
+  - Code général des impôts, CGI. - art. 199 quater B
+  - Code général des impôts, CGI. - art. 289
+  - Code général des impôts, CGI. - art. 4 B
+  - Code de la construction et de l'habitation. - art. L134-1
+  - Code de la construction et de l'habitation. - art. L271-6
