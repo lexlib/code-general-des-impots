@@ -16,11 +16,7 @@ jusqu'à l'échéance des contrats concernés.
 Pour l'application des dispositions du premier alinéa, la valeur de marché du contrat est déterminée, à la clôture de
 l'exercice, par actualisation des flux de trésorerie futurs en fonction du taux d'intérêt du marché correspondant ; cette
 valeur est corrigée afin de tenir compte des risques de contrepartie et de la valeur actualisée des charges afférentes au
-contrat. Le taux d'intérêt est pour chaque marché égal à la moyenne des cotations retenues, selon les cas, par les
-établissements de crédit et les entreprises d'investissement visés à l'article 38 bis A ou les établissements ou entreprises
-comparables établis à l'étranger, qui exercent leur activité d'une manière significative sur le marché concerné. La
-commission instituée par l'article L. 613-1 du code monétaire et financier publie chaque année pour chaque marché la liste
-des établissements et entreprises dont les cotations doivent être retenues pour le calcul du taux d'intérêt du marché. 
+contrat. 
 
 Les provisions pour pertes afférentes à des contrats d'échange de taux d'intérêt ou de devises non soumis aux dispositions du
 premier alinéa ne sont pas déductibles des résultats imposables. 
@@ -48,7 +44,7 @@ Un décret fixe les modalités d'application du présent article.
 
 _Modifié par_:
 
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 85 (V)
 
 _Cite_:
 

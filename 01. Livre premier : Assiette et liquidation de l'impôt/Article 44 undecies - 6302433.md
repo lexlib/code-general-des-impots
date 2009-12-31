@@ -1,10 +1,10 @@
 # Article 44 undecies
 
-I.-1. Les entreprises qui participent à un projet de recherche et de développement et sont implantées dans une zone de
-recherche et de développement, tels que mentionnés au I de l'article 24 de la loi de finances pour 2005 (n° 2004-1484 du 30
-décembre 2004), sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices qu'elles y réalisent
-au titre des trois premiers exercices ou périodes d'imposition bénéficiaires, cette période d'exonération totale des
-bénéfices réalisés ne pouvant excéder trente-six mois. 
+I.-1. Les entreprises qui participent, au 16 novembre 2009, à un projet de recherche et de développement et sont implantées
+dans une zone de recherche et de développement, tels que mentionnés au I de l'article 24 de la loi de finances pour 2005 (n°
+2004-1484 du 30 décembre 2004), sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices
+qu'elles y réalisent au titre des trois premiers exercices ou périodes d'imposition bénéficiaires, cette période
+d'exonération totale des bénéfices réalisés ne pouvant excéder trente-six mois. 
 
 Les bénéfices réalisés au titre des deux exercices ou périodes d'imposition bénéficiaires suivant cette période d'exonération
 ne sont soumis à l'impôt sur le revenu ou l'impôt sur les sociétés que pour la moitié de leur montant. 
@@ -47,22 +47,7 @@ activité ou, dans le cas contraire, dans les six mois suivant celui du début d
 IV.-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre
 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 : Dispositions applicables aux avantages
-octroyés à compter du 1er janvier 2007.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 53 A, 50-0, 96 à 100, 102 ter, 103, 8, 44 sexies, 44 sexies A, 44 octies, 44 decies, 244 quater E
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 24
-  - Traité de Rome 1957-03-25 art. 87, art. 88
-
-_Modifié par_:
-
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 _Cité par_:
 
@@ -74,3 +59,16 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 220 quinquies (V)
   - Code général des impôts, CGI. - art. 244 quater T (V)
   - Livre des procédures fiscales - art. L80 B (V)
+
+_Cite_:
+
+  - CGI 53 A, 50-0, 96 à 100, 102 ter, 103, 8, 44 sexies, 44 sexies A, 44 octies, 44 decies, 244 quater E
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 24
+
+_Modifié par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 59
+
+**Liens**:
+
+  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 1
