@@ -25,9 +25,9 @@ revenus et profits distribués par le fonds, au titre de l'année au cours de la
 
 3. Les dispositions prévues aux b ter et h du 1° du I de l'article 31, à l'article 31 bis, au premier alinéa du 3° du I de
 l'article 156 relatives aux immeubles classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait
-l'objet d'un agrément ministériel ou ayant reçu le label délivré par la Fondation du patrimoine, aux troisième et quatrième
+l'objet d'un agrément ministériel ou ayant reçu le label délivré par la Fondation du patrimoine, aux deuxième et troisième
 alinéas du 3° du I de l'article 156, aux articles 199 decies E à 199 decies H, à l'article 199 undecies A, à l'article 199
-tervicies (1) et à l'article 199 septvicies ne sont pas applicables lorsque les immeubles, droits immobiliers ou parts sont
+tervicies et à l'article 199 septvicies ne sont pas applicables lorsque les immeubles, droits immobiliers ou parts sont
 détenus directement ou indirectement par des fonds de placement immobilier autres que ceux qui sont issus de la
 transformation des sociétés civiles mentionnées à l'article 239 septies et pour lesquelles l'application de ces dispositions
 a été demandée avant la date limite de dépôt des déclarations des revenus de l'année 2006. 
@@ -37,8 +37,11 @@ financier sont imposés à la date de leurs distributions pour la fraction corre
 
 **Nota:**
 
-(1) Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2010 article 39 IV : le III de l'article 39
-s'applique à compter de l'imposition des revenus de l'année 2009.
+Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2010 article 39 IV : le III de l'article 39 s'applique à
+compter de l'imposition des revenus de l'année 2009.
+
+Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2010 article 95 II : Le I de l'article 95 s'applique à
+compter de l'imposition des revenus de l'année 2010 et pour les trois années suivantes.
 
 **Liens relatifs à cet article**
 
@@ -49,7 +52,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 39 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 95 (V)
 
 _Cité par_:
 
