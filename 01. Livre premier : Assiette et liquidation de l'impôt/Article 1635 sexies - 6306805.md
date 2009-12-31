@@ -1,7 +1,7 @@
 # Article 1635 sexies
 
 I. La Poste est assujettie, à partir du 1er janvier 1994 et au lieu de son principal établissement, aux impositions directes
-locales perçues au profit des collectivités locales et des établissements et organismes divers.
+locales perçues au profit des collectivités territoriales et des établissements et organismes divers.
 
 II. Les impositions visées au I sont établies et perçues dans les conditions suivantes :
 
@@ -9,32 +9,20 @@ II. Les impositions visées au I sont établies et perçues dans les conditions 
 les bases d'imposition sont établies conformément aux dispositions des articles 1380 à 1383, 1388, 1393, 1396, 1402 à 1406,
 1415 et 1520 à 1528 ;
 
-2° En ce qui concerne la taxe professionnelle :
-
-a) La base d'imposition est établie conformément au I de l'article 1447, au 1° de l'article 1467, à l'article 1467 A, aux 1°,
-2°, 3°, 3° bis, 3° quater, 5° et 6° de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B
-sexies.
-
-Au titre de 1999, la base d'imposition est réduite de 25 % du montant qui excède la base de l'année précédente multipliée par
-la variation des prix à la consommation constatée par l'Institut national de la statistique et des études économiques pour
-l'année de référence définie à l'article 1467 A.
-
-Cette réduction est supprimée à compter des impositions établies au titre de 2000 ;
-
-b) La base d'imposition est déclarée l'année précédant celle de l'imposition au lieu du principal établissement  jusqu'à une
-date fixée par décret et au plus tard le deuxième jour ouvré suivant le 1er mai ;
+2° En ce qui concerne la cotisation foncière des entreprises, l'imposition est établie conformément au I de l'article 1447,
+au 1° de l'article 1467, à l'article 1467 A, au I de l'article 1478 et à l'article 1647 B sexies ; 
 
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 % de leur montant, en raison des contraintes de
 desserte de l'ensemble du territoire national et de participation à l'aménagement du territoire qui s'imposent à cet
 exploitant. L'abattement ne donne pas lieu à compensation par l'Etat ;
 
-A compter de 1999, la valeur ajoutée retenue pour l'application de l'article 1647 E fait l'objet d'un abattement de 70 % de
-son montant ;
+3° bis En ce qui concerne la cotisation sur la valeur ajoutée des entreprises, la valeur ajoutée retenue pour l'application
+de l'article 1586 ter fait l'objet d'un abattement de 70 % de son montant ; 
 
-4° Le taux applicable aux bases des taxes foncières et de la taxe professionnelle est, pour chacune de ces taxes, le taux
-moyen pondéré national qui résulte des taux appliqués l'année précédente par l'ensemble des collectivités locales, des
-groupements et des établissements et organismes divers habilités à percevoir le produit des impositions directes locales et
-de leurs taxes additionnelles ;
+4° Le taux applicable aux bases des taxes foncières et de la cotisation foncière des entreprises est le taux moyen pondéré
+national qui résulte des taux appliqués l'année précédente par l'ensemble des collectivités territoriales, des groupements et
+des établissements et organismes divers habilités à percevoir le produit des impositions directes locales et de leurs taxes
+additionnelles ;
 
 5° Les règles relatives au contrôle, au recouvrement et au contentieux des impositions directes locales ainsi que les
 dispositions de l'article 1641 sont applicables. Toutefois, pour les impositions acquittées par La Poste, le taux mentionné
@@ -57,11 +45,6 @@ du comité des finances locales.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1380 à 1383, 1388, 1393, 1396, 1402 à 1406, 1415, 1520 à 1528, 1447, 1467, 1467 A, 1469, 1472 A bis, 1478, 1647 B sexies, 1641, 1648 A bis, 1647 E
-  - Loi n°86-1317 du 30 décembre 1986 - art. 6, v. init.
-
 _Cité par_:
 
   - Loi n°90-568 du 2 juillet 1990 - art. 6 (V)
@@ -79,4 +62,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 60 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)

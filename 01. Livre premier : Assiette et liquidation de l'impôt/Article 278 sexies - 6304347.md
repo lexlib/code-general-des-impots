@@ -77,11 +77,11 @@ l'Etat une convention en application du 3° et du 5° de l'article L. 351-2 du m
 
 6. Les ventes et livraisons à soi-même d'immeubles au sens du 7° de l'article 257, à usage de résidence principale, destinés
 à des personnes physiques dont les ressources, à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à
-défaut, à la date du contrat de vente ou du contrat ayant pour objet la construction du logement, ne dépassent pas de plus de
-30 % les plafonds de ressources prévus à l'article L. 441-1 du code de la construction et de l'habitation et situés dans des
-quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de
-programmation pour la ville et la rénovation urbaine ou entièrement situés à une distance de moins de 500 mètres de la limite
-de ces quartiers. 
+défaut, à la date du contrat de vente ou du contrat ayant pour objet la construction du logement, ne dépassent pas les
+plafonds prévus à la première phrase du huitième alinéa de l'article L. 411-2 du code de la construction et de l'habitation
+et situés dans des quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003
+d'orientation et de programmation pour la ville et la rénovation urbaine ou entièrement situés à une distance de moins de 500
+mètres de la limite de ces quartiers. 
 
 7. Les apports des immeubles sociaux neufs aux sociétés civiles immobilières d'accession progressive à la propriété effectués
 dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation. 
@@ -91,10 +91,7 @@ II. (abrogé)
 **Nota:**
 
 Loi n° 2009-323 du 25 mars 2009 article 52 VI : Le I est applicable aux opérations engagées, définies par décret, à compter
-de la date de publication de la présente loi et jusqu'au 31 décembre 2010. 
-
-Les modifications prévues par la loi n° 2009-879 du 21 juillet 2009, art 124 I s'appliquent aux locaux acquis, aménagés ou
-construits à compter de l'entrée en vigueur de ladite loi.
+de la date de publication de la présente loi et jusqu'au 31 décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -143,4 +140,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-879 du 21 juillet 2009 - art. 124 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 103

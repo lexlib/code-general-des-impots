@@ -1,17 +1,24 @@
 # Article 298 nonies
 
 L'exigibilité de la taxe sur la valeur ajoutée intervient lors de l'encaissement des acomptes ou du prix en ce qui concerne
-les ventes des publications désignées à l'article 298 septies ainsi que les ventes de papier réalisées par la société
-professionnelle des papiers de presse. En ce qui concerne les acquisitions intracommunautaires portant sur ces produits,
-l'exigibilité de la taxe sur la valeur ajoutée intervient dans les conditions fixées au d du 2 de l'article 269.
+les ventes des publications désignées à l'article 298 septies ainsi que les ventes de papier réalisées par les sociétés
+participant à la constitution, au maintien et au financement d'un stock de précaution de papier de presse équivalant à trois
+mois de consommation de papier des éditeurs de presse qu'elles fournissent. En ce qui concerne les acquisitions
+intracommunautaires portant sur ces produits, l'exigibilité de la taxe sur la valeur ajoutée intervient dans les conditions
+fixées au d du 2 de l'article 269.
+
+**Nota:**
+
+Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 88 II : Le I de l'article 88 est applicable
+aux opérations pour lesquelles le fait générateur est intervenu à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 298 septies, 269
-
 _Modifié par_:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 43 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
-  - Modifications directes incorporées dans l'édition du 18 août 1993
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 88 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 269 (V)
+  - Code général des impôts, CGI. - art. 298 septies (V)
