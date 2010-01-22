@@ -4,11 +4,11 @@ I. - Par dérogation aux dispositions du 1 de l'article 38, le résultat imposab
 base des règles comptables définies en application de l'article L. 144-4 du code monétaire et financier et de la convention
 visée à l'article L. 141-2 du même code. 
 
-Le résultat imposable de la Banque de France est établi :
+Le résultat imposable de la Banque de France est établi : 
 
 1° Après déduction des montants mentionnés au quatrième alinéa de l'article L. 612-18 du code monétaire et financier ; 
 
-2° Après intégration des montants mentionnés au cinquième alinéa de l'article L. 612-18 du code monétaire et financier. 
+2° Après intégration des montants mentionnés au cinquième alinéa de l'article L. 612-18 du code monétaire et financier.
 
 II. - Pour l'application des dispositions du 2 de l'article 38, les éléments suivants ne sont pas retenus dans la définition
 de l'actif net de la Banque de France : 
@@ -25,7 +25,7 @@ centrale européenne.
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 14
 
 _Cité par_:
 
