@@ -1,10 +1,17 @@
 # Article 244 bis B
 
 Sous réserve des dispositions de l'article 244 bis A, les gains mentionnés à l'article 150-0 A résultant de la cession ou du
-rachat de droits sociaux détenus dans les conditions du f du I de l'article 164 B, réalisés par des personnes physiques qui
-ne sont pas domiciliées en France au sens de l'article 4 B ou par des personnes morales ou organismes quelle qu'en soit la
-forme, ayant leur siège social hors de France, sont déterminés et imposés selon les modalités prévues aux articles 150-0 A à
-150-0 E.
+rachat de droits sociaux mentionnés au  f du I de l'article 164 B, réalisés par des personnes physiques qui ne sont pas
+domiciliées en France au sens de l'article 4 B ou par des personnes morales ou organismes quelle qu'en soit la forme, ayant
+leur siège social hors de France, sont déterminés et imposés selon les modalités prévues aux articles 150-0 A à 150-0 E
+lorsque les droits dans les bénéfices de la société détenus par le cédant ou l'actionnaire ou l'associé, avec son conjoint,
+leurs ascendants et leurs descendants, ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq
+dernières années.
+
+Les gains mentionnés au premier alinéa sont imposés au taux forfaitaire de 50 %, par dérogation au taux prévu au 2 de
+l'article 200 A et, quel que soit le pourcentage de droits détenus dans les bénéfices de la société concernée, lorsqu'ils
+sont réalisés par des personnes ou organismes domiciliés, établis ou constitués hors de France dans un Etat ou territoire non
+coopératif au sens de l'article 238-0 A.
 
 L'impôt est acquitté dans les conditions fixées au IV de l'article 244 bis A. 
 
@@ -12,22 +19,11 @@ Les organisations internationales, les Etats étrangers, les banques centrales e
 ces Etats sont exonérés lorsque les cessions se rapportent à des titres remplissant les conditions prévues à l'article 131
 sexies.
 
-**Nota:**
-
-Modification effectuée en conséquence de l'article 27-IV et V de la loi n° 2007-1822 du 24 décembre 2007.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
-
-_Cite_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 A (V)
-  - Code général des impôts, CGI. - art. 164 B
-  - Code général des impôts, CGI. - art. 244 bis A
-  - Code général des impôts, CGI. - art. 4 B
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
 
 _Cité par_:
 
@@ -35,3 +31,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 167 bis (V)
   - Code général des impôts, CGI. - art. 200 A (V)
   - Code général des impôts, CGI. - art. 244 bis C (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 150-0 A
+  - Code général des impôts, CGI. - art. 164 B
+  - Code général des impôts, CGI. - art. 244 bis A
+  - Code général des impôts, CGI. - art. 4 B
