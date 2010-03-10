@@ -15,9 +15,11 @@ b. Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, pay
 
 1° L'acquisition de chaudières à condensation ; 
 
-2° L'acquisition de matériaux d'isolation thermique des parois vitrées ; 
+2° L'acquisition de matériaux d'isolation thermique des parois vitrées, de volets isolants ou de portes d'entrée donnant sur
+l'extérieur ; 
 
-3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques ;
+3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques ainsi que l'acquisition de matériaux de
+calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire ;
 
 4° L'acquisition d'appareils de régulation de chauffage ; 
 
@@ -145,7 +147,7 @@ Pompes à chaleur géothermiques dont la finalité essentielle est la production
     <tr>
       <td align="center">
 
-Pompes à chaleur (autres que air/air) thermodynamiques.</td>
+Pompes à chaleur (autres que air/air) thermodynamiques dédiées à la production d'eau chaude sanitaire (1).</td>
       <td align="center">
 
 Non applicable</td>
@@ -248,8 +250,8 @@ les dépenses ont été payées.
 
 **Nota:**
 
-Loi n° 2009-1674 du 30 décembre 2009 article 58 II : Le I de l'article 58 s'applique aux dépenses payées à compter du 1er
-janvier 2010.
+(1) Loi n° 2010-237 du 9 mars 2010 de finances rectificative pour 2010 article 15 : Le I de l'article 15 s'applique aux
+dépenses payées à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
@@ -331,7 +333,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 58 (V)
+  - Loi n°2010-237 du 9 mars 2010 - art. 15 (V)
 
 _Cite_:
 
