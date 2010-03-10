@@ -5,57 +5,53 @@ janvier 1972, par les entreprises relevant de l'impôt sur le revenu au titre de
 l'impôt sur les sociétés, à l'occasion de la cession d'immeubles qu'elles ont construits ou fait construire et qui ne
 présentent pas le caractère d'éléments de l'actif immobilisé au sens de l'article 40, peuvent néanmoins bénéficier des
 dispositions de cet article lorsqu'elles se rapportent à des immeubles affectés à l'habitation pour les trois quarts au moins
-de leur superficie totale et dont la construction était achevée à la date de la cession (2).
+de leur superficie totale et dont la construction était achevée à la date de la cession (2). 
 
 Toutefois, le montant de la somme à réinvestir est, le cas échéant, déterminé sous déduction des sommes empruntées pour la
-construction ou l'acquisition des éléments cédés et non encore remboursées à la date de la cession.
+construction ou l'acquisition des éléments cédés et non encore remboursées à la date de la cession. 
 
 D'autre part, sous les sanctions prévues au 4 de l'article 40, le remploi correspondant doit être obligatoirement effectué,
 soit dans la construction d'immeubles affectés à l'habitation pour les trois quarts au moins de leur superficie totale, soit
-en l'achat de terrains ayant fait l'objet de la perception de la taxe sur la valeur ajoutée dans les conditions prévues au 2
-de l'article 266, au 1 de l'article 269, à l'article 285 et au 2 de l'article 290, soit en la souscription d'actions ou de
-parts de sociétés ayant pour objet principal de concourir directement ou indirectement à la construction d'immeubles dans des
-conditions qui sont fixées par un arrêté du ministre de l'économie et des finances (3). Dans le cas où le remploi ayant été
-effectué en achat de terrains, les conditions fixées au A de l'article 1594-0 G n'ont pas été remplies, la plus-value est
-rapportée aux bénéfices de l'exercice en cours à l'expiration du délai prévu audit article.
+en l'achat de terrains pour lesquels un engagement de construire prévu au I du A de l'article 1594-0 G a été souscrit, soit
+en la souscription d'actions ou de parts de sociétés ayant pour objet principal de concourir directement ou indirectement à
+la construction d'immeubles dans des conditions qui sont fixées par un arrêté du ministre de l'économie et des finances (3).
+Dans le cas où le remploi ayant été effectué en achat de terrains, les conditions fixées au A de l'article 1594-0 G n'ont pas
+été remplies, la plus-value est rapportée aux bénéfices de l'exercice en cours à l'expiration du délai prévu audit article. 
 
 Sous réserve des exceptions qui peuvent être prévues par décret (4), les plus-values provenant de ventes précédées de
 versements d'acomptes ou d'avances faits à quelque titre que ce soit, directement ou par personne interposée, sont exclues du
-bénéfice des dispositions du présent paragraphe.
+bénéfice des dispositions du présent paragraphe. 
 
 Pour l'application de ce paragraphe, les ventes d'immeubles en l'état futur d'achèvement peuvent être assimilées à des ventes
-d'immeubles achevés dans des conditions qui sont fixées par décret (5).
+d'immeubles achevés dans des conditions qui sont fixées par décret (5). 
 
-II. Les plus-values visées au I peuvent bénéficier des dispositions de l'article 41.
+II. Les plus-values visées au I peuvent bénéficier des dispositions de l'article 41. 
 
 Elles peuvent également être placées sous le régime d'exonération prévu à l'article 210, en cas de fusion de sociétés ou
-d'opérations assimilées remplissant les conditions prévues au 2 dudit article 210.
+d'opérations assimilées remplissant les conditions prévues au 2 dudit article 210. 
 
-III. (Périmé).
+III. (Périmé). 
 
-(1) Annexe III, art. 10 H bis et 46 quater-0 R.
+(1) Annexe III, art. 10 H bis et 46 quater-0 R. 
 
-(2) Voir Annexe II, art. 165.
+(2) Voir Annexe II, art. 165. 
 
-(3) Annexe IV, art. 23 J et 23 K.
+(3) Annexe IV, art. 23 J et 23 K. 
 
-(4) Annexe II, art. 168.
+(4) Annexe II, art. 168. 
 
-(5) Annexe II, art. 166, 167 et 169.
+(5) Annexe II, art. 166,167 et 169.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 40, 266, 269, 285, 290, 41, 210, 1594-0 G
-
 _Modifié par_:
 
-  - Loi n°98-1266 1998-12-30 art. 39 I 23 Finances pour 1999 JORF 31 décembre 1998
+  - Loi n°2010-237 du 9 mars 2010 - art. 16
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°99-382 1999-05-18
+  - Code général des impôts, CGI. - art. 1594-0 G (V)
+  - Code général des impôts, CGI. - art. 41 (V)
 
 _Cité par_:
 
@@ -71,7 +67,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 H bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 R (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 J (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
