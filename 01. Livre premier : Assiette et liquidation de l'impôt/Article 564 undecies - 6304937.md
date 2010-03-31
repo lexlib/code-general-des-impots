@@ -1,31 +1,21 @@
 # Article 564 undecies
 
-Les dispositions du a et du b du II de l'article 302 D et des articles 302 H et 302 I ne sont pas applicables en France
-métropolitaine aux produits désignés à l'article 564 decies.
-
-(1) Modifications.
+Les dispositions de l'article 302 H ter, du II de l'article 302 K et des articles 302 U bis et 302 V bis ne sont pas
+exclusives des dispositions spécifiques relatives à la vente au détail des produits du tabac.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 302 D, 302 H, 302 I, 564 decies
-
-**Liens**:
-
-  - HISTO: Edition du 2 septembre 1994
-
 _Modifié par_:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 57 (V) JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 61 (V) JORF 19 juillet 1992
-  - Loi n°92-677 du 17 juillet 1992 - art. 62 (V) JORF 19 juillet 1992
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 _Cité par_:
 
   - Arrêté du 30 août 2011 - art. Annexes IV à VI (V)
   - Code général des impôts, CGI. - art. 302 B (VD)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 302 H ter
+  - Code général des impôts, CGI. - art. 302 K
+  - Code général des impôts, CGI. - art. 302 U bis
