@@ -50,10 +50,10 @@ continentaux des mêmes produits.
 Pour les cigares et les cigarillos, le prix de vente au détail appliqué dans les départements de Corse est au moins égal à 85
 % des prix continentaux des mêmes produits. 
 
-III.-Outre les cas prévus au 1 du I et au II de l'article 302 D en ce qui concerne les tabacs manufacturés directement
-introduits dans les départements de Corse en provenance d'un autre Etat membre de la Communauté européenne, le droit de
-consommation est également exigible soit à l'importation, soit à l'issue d'un régime suspensif de l'accise. Dans ces cas, le
-droit est dû par la personne qui importe les produits ou qui sort les biens du régime suspensif. 
+III.-Outre les cas prévus au 1 du I de l'article 302 D en ce qui concerne les tabacs manufacturés directement introduits dans
+les départements de Corse en provenance d'un autre Etat membre de la Communauté européenne, le droit de consommation est
+également exigible soit à l'importation, soit à l'issue d'un régime suspensif de l'accise. Dans ces cas, le droit est dû par
+la personne qui importe les produits ou qui sort les biens du régime suspensif. 
 
 IV.-Le droit de consommation est recouvré dans les conditions prévues par les deuxième à cinquième alinéas de l'article 575
 C.A l'exclusion des tabacs directement importés dans les départements de Corse qui demeurent soumis aux dispositions de
@@ -73,7 +73,7 @@ VI.-Les unités de conditionnement doivent être revêtues des mentions prescrit
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 64
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 _Cité par_:
 

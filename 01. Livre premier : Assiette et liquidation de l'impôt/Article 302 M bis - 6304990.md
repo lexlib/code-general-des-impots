@@ -1,20 +1,17 @@
 # Article 302 M bis
 
-I. L'entrepositaire agréé qui expédie des produits en suspension de droits peut modifier le document d'accompagnement visé au
-I de l'article 302 M pour indiquer au verso soit un nouveau destinataire qui doit être un entrepositaire agréé ou un
-opérateur enregistré, soit un nouveau lieu de livraison.
+I. L'entrepositaire agréé ou l'expéditeur enregistré qui expédie des produits en suspension de droits peut modifier le
+document d'accompagnement visé au I de l'article 302 M pour indiquer au verso soit un nouveau destinataire qui doit être un
+entrepositaire agréé ou un destinataire enregistré, soit un nouveau lieu de livraison. 
 
-II. L'entrepositaire agréé expéditeur doit aviser immédiatement l'administration de ces changements (1).
-
-**Nota:**
-
-(1) Ces dispositions s'appliquent à compter du 1er juillet 1999.
+II. L'entrepositaire agréé expéditeur ou l'expéditeur enregistré doit aviser immédiatement l'administration de ces
+changements.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 2 (V) JORF 31 décembre 1995
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 _Cité par_:
 
@@ -33,8 +30,4 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 302 M
-
-**Liens**:
-
-  - HISTO: Edition du 12 mai 1996
+  - Code général des impôts, CGI. - art. 302 M (V)
