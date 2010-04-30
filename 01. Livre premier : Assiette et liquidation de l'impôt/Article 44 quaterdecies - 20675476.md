@@ -99,10 +99,10 @@ des jeunes.
 
 A défaut de la réalisation de ces deux conditions, la quote-part exonérée est réintégrée au résultat imposable de l'exercice
 au cours duquel les dépenses auraient dû être exposées. Ces dépenses ne sont pas prises en compte pour l'application des
-articles 244 quater M et 244 quater P du présent code. 
+articles 244 quater M et 244 quater P. 
 
 Ces deux obligations sont cumulatives. Elles doivent représenter ensemble au moins 5 % de la quote-part des bénéfices
-exonérée en application des abattements mentionnés aux II et III du présent article. 
+exonérée en application des abattements mentionnés aux II et III. 
 
 Le présent V n'est pas applicable lorsque la quote-part des bénéfices exonérée est inférieure à 500 €. 
 
@@ -113,8 +113,8 @@ Les abattements prévus aux II et III s'imputent sur les résultats des exploita
 avant imputation de celui prévu à l'article 217 bis. 
 
 Le cas échéant, les abattements prévus aux II et III et à l'article 217 bis s'imputent sur les résultats des exploitations
-déclarés en application de l'article 53 A avant réintégration, en application du quatrième alinéa du V du présent article, de
-la quote-part des bénéfices exonérée au titre de l'exercice précédent. 
+déclarés en application de l'article 53 A avant réintégration, en application du quatrième alinéa du V, de la quote-part des
+bénéfices exonérée au titre de l'exercice précédent. 
 
 La quote-part des bénéfices exonérée au titre d'un exercice, mentionnée au quatrième alinéa du V, s'entend du seul montant
 réel de l'abattement imputé en application du II ou du III au titre de cet exercice. 
@@ -144,10 +144,6 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-2
   - Code du travail - art. L6331-19
 
-_Créé par_:
-
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
-
 _Cité par_:
 
   - Loi n°2009-594 du 27 mai 2009 - art. 74 (M)
@@ -167,3 +163,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZA (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZB (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZC (V)
+
+_Modifié par_:
+
+  - Décret n°2010-421  du 27 avril 2010 - art. 1

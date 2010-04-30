@@ -1,7 +1,7 @@
 # Article 1693 sexies
 
 Les redevables de la taxe prévue à l'article 302 bis KH acquittent cette taxe par acomptes mensuels ou trimestriels au moins
-égaux, respectivement, au douzième ou au quart du montant de la taxe due au titre l'année civile précédente. 
+égaux, respectivement, au douzième ou au quart du montant de la taxe due au titre de l'année civile précédente. 
 
 Le complément de taxe exigible au vu de la déclaration mentionnée au V de l'article 302 bis KH est versé lors du dépôt de
 celle-ci. 
@@ -23,9 +23,9 @@ douzième ou au quart des montants et sommes mentionnés au II de l'article 302 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-258 du 5 mars 2009 - art. 33 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
@@ -33,6 +33,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1727
-  - Code général des impôts, CGI. - art. 1731
-  - Code général des impôts, CGI. - art. 302 bis KH
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1731 (VT)
+  - Code général des impôts, CGI. - art. 302 bis KH (V)

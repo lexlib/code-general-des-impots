@@ -13,20 +13,20 @@ l'article 1609 nonies C et dépendant du rapport entre le moins élevé de ces d
 Le c du 1° du III de l'article 1609 nonies C est applicable ; 
 
 b) Lorsque, en application du 1° du III de l'article 1609 nonies C, des taux différents du taux de l'établissement public de
-coopération intercommunale sont appliqués dans les communes déjà membres de cet établissement, l'écart de taux visé au a du
-présent I peut être réduit chaque année par parts égales, en proportion du nombre d'années restant à courir jusqu'à
-l'application d'un taux unique dans les communes déjà membres ; l'application de cette disposition ne peut toutefois avoir
-pour effet de supprimer cet écart dans un délai plus court que celui résultant des dispositions du a. 
+coopération intercommunale sont appliqués dans les communes déjà membres de cet établissement, l'écart de taux visé au a peut
+être réduit chaque année par parts égales, en proportion du nombre d'années restant à courir jusqu'à l'application d'un taux
+unique dans les communes déjà membres ; l'application de cette disposition ne peut toutefois avoir pour effet de supprimer
+cet écart dans un délai plus court que celui résultant des dispositions du a. 
 
-II. Pour l'application des dispositions du I, le taux de cotisation foncière des entreprises  de la commune doit, lorsque
+II. Pour l'application des dispositions du I, le taux de cotisation foncière des entreprises de la commune doit, lorsque
 celle-ci appartient également à une communauté urbaine, ou à une communauté de communes, être majoré du taux de cotisation
-foncière des entreprises  voté par ces établissements publics de coopération intercommunale l'année au cours de laquelle le
+foncière des entreprises voté par ces établissements publics de coopération intercommunale l'année au cours de laquelle le
 rattachement est décidé.
 
 II bis. - 1. Toutefois, par exception aux dispositions du I et pour l'année suivant celle du rattachement de la commune,
 l'établissement public de coopération intercommunale peut, sur délibération du conseil communautaire statuant à la majorité
 simple de ses membres dans les conditions prévues par l'article 1639 A, voter son taux de cotisation foncière des entreprises
-dans la limite du taux moyen de la cotisation foncière des entreprises  de l'établissement public de coopération
+dans la limite du taux moyen de la cotisation foncière des entreprises de l'établissement public de coopération
 intercommunale et de la commune rattachée constaté l'année précédente, pondéré par l'importance relative des bases imposées
 au profit de l'établissement public de coopération intercommunale et de la commune.
 
@@ -60,18 +60,18 @@ des installations de production d'électricité utilisant l'énergie mécanique 
 intercommunale faisant application du II du même article.
 
 Toutefois, le conseil municipal de la commune et l'organe délibérant de l'établissement public de coopération intercommunale
-peuvent décider, par délibérations concordantes, que le taux de cotisation foncière des entreprises  appliqué dans la commune
+peuvent décider, par délibérations concordantes, que le taux de cotisation foncière des entreprises appliqué dans la commune
 ou partie de commune incorporée dans la zone ou aux installations de production d'électricité utilisant l'énergie mécanique
 du vent est, dès la première année, celui fixé par l'établissement public de coopération intercommunale.
 
 IV. En cas de rattachement volontaire ou à la suite d'une transformation dans les conditions prévues à l'article L. 5211-41-1
 du code général des collectivités territoriales d'une commune à un établissement public de coopération intercommunale à
 fiscalité additionnelle, l'organe délibérant vote les taux de taxe d'habitation, de foncier bâti, de foncier non bâti et de
-cotisation foncière des entreprises  dans les conditions prévues à l'article 1636 B sexies.
+cotisation foncière des entreprises dans les conditions prévues à l'article 1636 B sexies.
 
-V. - Les I, II et III du présent article sont également applicables aux communes faisant l'objet d'un rattachement à une
-communauté urbaine ou à une communauté d'agglomération dont le périmètre est étendu en application du renouvellement de la
-procédure prévue aux articles L. 5215-40-1 et L. 5216-10 du code général des collectivités territoriales.
+V. - Les I, II et III sont également applicables aux communes faisant l'objet d'un rattachement à une communauté urbaine ou à
+une communauté d'agglomération dont le périmètre est étendu en application du renouvellement de la procédure prévue aux
+articles L. 5215-40-1 et L. 5216-10 du code général des collectivités territoriales.
 
 VI. - Lorsqu'il fait application des dispositions des I, II et III à la suite du rattachement volontaire d'une commune à un
 établissement public de coopération intercommunale à fiscalité propre, le produit communiqué à l'établissement public en
@@ -89,7 +89,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cite_:
 

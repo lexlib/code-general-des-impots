@@ -87,7 +87,7 @@ bénéfice de la réduction d'impôt est conditionné à l'obtention d'un agrém
 budget dans les conditions prévues au III de l'article 217 undecies. 
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour
-les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 194 euros hors taxes par mètre carré de surface
+les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 247 € hors taxes par mètre carré de surface
 habitable. Cette limite est relevée chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur
 quatre trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique
 et des études économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui
@@ -103,11 +103,11 @@ investissements mentionnés au a du 2, à 10 % des sommes effectivement payées 
 le droit à réduction d'impôt est né et, pour les investissements visés aux b, c, d, e, f, g et h du 2, à 20 % des sommes
 effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né. 
 
-La réduction d'impôt est égale à 25 % de la base définie au premier alinéa du présent 6 pour les investissements mentionnés
-aux a et e du 2. 
+La réduction d'impôt est égale à 25 % de la base définie au premier alinéa pour les investissements mentionnés aux a et e du
+2. 
 
-La réduction d'impôt est égale à 40 % de la base définie au premier alinéa du présent 6 pour les investissements mentionnés
-aux b, c et d du 2 et à 50 % de la même base pour les investissements mentionnés aux f, g et h du 2. 
+La réduction d'impôt est égale à 40 % de la base définie au premier alinéa pour les investissements mentionnés aux b, c et d
+du 2 et à 50 % de la même base pour les investissements mentionnés aux f, g et h du 2. 
 
 Pour les investissements mentionnés aux b, c et d du 2, la réduction d'impôt est portée à 50 % si les conditions suivantes
 sont réunies : 
@@ -120,15 +120,14 @@ au moins six ans à compter de la date d'achèvement des logements ou de leur ac
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret. 
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer et la collectivité départementale de Mayotte
-mentionnés aux a, b, c, d et e du 2, les taux prévus aux deuxième à quatrième alinéas du présent 6 sont majorés de dix points
-lorsque le logement est situé dans une zone urbaine sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février
-1995
+mentionnés aux a, b, c, d et e du 2, les taux prévus aux deuxième à quatrième alinéas sont majorés de dix points lorsque le
+logement est situé dans une zone urbaine sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
 d'orientation pour l'aménagement et le développement du territoire. 
 
 En outre, lorsque des dépenses d'équipement de production d'énergie utilisant une source d'énergie renouvelable sont
-réalisées dans le logement, les taux de la réduction d'impôt visés aux deuxième à quatrième et septième alinéas du présent 6
-sont majorés de quatre points. Un arrêté du ministre chargé du budget fixe la nature des dépenses d'équipement qui ouvrent
-droit à cette majoration. 
+réalisées dans le logement, les taux de la réduction d'impôt visés aux deuxième à quatrième et septième alinéas sont majorés
+de quatre points. Un arrêté du ministre chargé du budget fixe la nature des dépenses d'équipement qui ouvrent droit à cette
+majoration. 
 
 6 bis. La réduction d'impôt ne s'applique pas aux investissements mentionnés aux b, c et d du 2 engagés après le 31 décembre
 2010. 
@@ -137,22 +136,22 @@ Toutefois, la réduction d'impôt s'applique également :
 
 1° Aux investissements mentionnés aux b, c et d du 2 engagés entre le 1er janvier 2011 et le 31 décembre 2011. Par dérogation
 au 6, le taux de la réduction d'impôt est, pour ces investissements, de 30 %. Ce taux est porté à 45 % pour ceux de ces
-investissements au titre desquels les conditions mentionnées aux 1° et 2° du 6 sont réunies. Les majorations prévues aux deux
-derniers alinéas du 6 sont, le cas échéant, applicables à ces taux ; 
+investissements au titre desquels les conditions mentionnées aux 1° et 2° du 6 sont réunies. Les majorations prévues aux
+septième et huitième alinéas du 6 sont, le cas échéant, applicables à ces taux ; 
 
 2° Au taux de 35 % aux investissements mentionnés aux b, c et d du 2 engagés entre le 1er janvier 2012 et le 31 décembre 2012
 et au titre desquels les conditions mentionnées aux 1° et 2° du 6 sont réunies. 
 
-Au sens du présent 6 bis, sont considérés comme engagés :
+Pour l'application du présent 6 bis, sont considérés comme engagés :
 
 - les investissements mentionnés au b du 2 au titre de logements que le contribuable fait construire ou acquiert neufs ou en
 l'état futur d'achèvement, dont les permis de construire ont été délivrés ;
 
-- les investissements mentionnés au c du même 2 correspondant à des souscriptions de parts ou d'actions de sociétés dont
-l'objet réel est exclusivement de construire des logements neufs dont les permis de construire ont été délivrés ;
+- les investissements mentionnés au c du 2 correspondant à des souscriptions de parts ou d'actions de sociétés dont l'objet
+réel est exclusivement de construire des logements neufs dont les permis de construire ont été délivrés ;
 
-- les investissements mentionnés au d du même 2 correspondant à des souscriptions dont le produit est affecté à l'acquisition
-de logements neufs dont les permis de construire ont été délivrés. 
+- les investissements mentionnés au d du 2 correspondant à des souscriptions dont le produit est affecté à l'acquisition de
+logements neufs dont les permis de construire ont été délivrés. 
 
 La réduction d'impôt acquise au titre des investissements mentionnés au présent 6 bis est reprise lorsque les logements
 acquis ou construits ne sont pas loués au plus tard le dernier jour du trente-sixième mois suivant celui de la délivrance du
@@ -183,7 +182,7 @@ Modifications effectuées en conséquence de l'article 58-I (1°)  de la loi n°
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995 (V)
+  - Loi n°95-115 du 4 février 1995
   - Loi n°2003-660 du 21 juillet 2003
 
 _Cité par_:
@@ -246,4 +245,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 38 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
