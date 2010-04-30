@@ -10,8 +10,8 @@ Une déclaration collective est souscrite par les personnes désignées aux prem
 collective regroupe les déclarations individuelles de chaque acquéreur et doit être adressée à l'administration chargée du
 contrôle de la contribution à l'audiovisuel public dans les trente jours suivant la vente. Cette déclaration précise la date
 d'achat, l'identité de l'acquéreur, sa date et son lieu de naissance. Un double de cette déclaration doit être conservé
-pendant trois ans par les professionnels désignés ci-dessus et présenté à toute réquisition des agents du Trésor public ou de
-l'administration des impôts. 
+pendant trois ans par les professionnels désignés ci-dessus et présenté à toute réquisition des agents         de la
+direction générale des finances publiques. 
 
 Les opérations de vente entre professionnels sont dispensées de déclaration.
 
@@ -24,4 +24,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 32
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 43
