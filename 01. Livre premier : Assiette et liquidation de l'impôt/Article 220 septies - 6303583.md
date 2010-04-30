@@ -23,12 +23,13 @@ Les personnes morales créées dans le cadre d'une concentration ou d'une restru
 zones ou qui reprennent de telles activités ne peuvent pas bénéficier de ce crédit d'impôt. 
 
 II. Le crédit d'impôt prévu au I est imputable sur le montant de l'impôt sur les sociétés dû par la personne morale au titre
-des exercices clos dans les dix ans de sa constitution. Il ne peut être restitué.
+des exercices clos dans les dix ans de sa constitution. Il ne peut être restitué. 
 
 L'imputation du crédit d'impôt ne peut être appliquée sur l'impôt sur les sociétés résultant de l'imposition : 
 
 1° des produits des actions ou parts de société, et des résultats de participations dans des organismes mentionnés aux
-articles 8, 8 quater, 239 quater, 239 quater B et 239 quater C ; 
+articles 8,
+8 quater, 239 quater, 239 quater B et 239 quater C ; 
 
 2° des subventions, libéralités et abandons de créances ; 
 
@@ -48,7 +49,7 @@ est inférieure à cette période, d'un bien ayant ouvert droit au crédit d'imp
 bien, la quote-part de crédit d'impôt correspondant à cet investissement est reversée. Le reversement est également effectué,
 à raison de la quote-part de crédit d'impôt correspondant aux biens pris en location en vertu d'un contrat de crédit-bail, en
 cas de résiliation du contrat sans rachat des biens loués pendant la période prévue au premier alinéa du II ou pendant la
-période normale d'utilisation de ces biens si elle est inférieure à cette période, ou en cas de restitution des biens loués
+durée normale d'utilisation de ces biens si elle est inférieure à cette période, ou en cas de restitution des biens loués
 avant l'expiration du même délai. 
 
 Si le crédit d'impôt a été imputé en totalité à la date de l'événement qui motive son reversement, l'entreprise doit verser
@@ -85,7 +86,7 @@ doit être égal ou supérieur à dix au cours de chaque exercice de la période
 varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice. 
 
 Si l'effectif minimal prévu à l'alinéa précédent n'est pas atteint au cours des deux premiers exercices, le bénéfice du
-crédit d'impôt est accordé sous réserve que l'effectif soit d'au moins dix salariés au cours du troisième exercice.
+crédit d'impôt est accordé sous réserve que l'effectif soit d'au moins dix salariés au cours du troisième exercice. 
 
 V. Les entreprises créées dans l'une des zones prévues au I de l'article 51 de la loi n° 92-1476 du 31 décembre 1992 sont
 exclues du bénéfice de toute aide à l'aménagement du territoire accordée par l'Etat. 
@@ -94,17 +95,31 @@ VI. Un décret fixe les modalités d'application du présent article ainsi que l
 notamment pour les investissements réalisés au profit des personnes morales bénéficiaires du crédit d'impôt par les sociétés
 de crédit-bail.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 51-III à VIII de la loi n° 92-1476 du 31 décembre 1992.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°92-1476 du 31 décembre 1992 - art. 51
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 210 A (V)
+  - Code général des impôts, CGI. - art. 223 (V)
+  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 239 quater (V)
+  - Code général des impôts, CGI. - art. 239 quater A (V)
   - Code général des impôts, CGI. - art. 39 A
+  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Code général des impôts, CGI. - art. 8 (V)
+  - Code général des impôts, CGI. - art. 8 quater (V)
   - Code monétaire et financier - art. L313-7
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 9
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 9 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
