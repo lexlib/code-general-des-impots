@@ -1,6 +1,6 @@
 # Article 1586 quinquies
 
-I. - 1. Sous réserve des 2, 3 et 4, la cotisation sur la valeur ajoutée des entreprises est déterminée en fonction du chiffre
+I. – 1. Sous réserve des 2, 3 et 4, la cotisation sur la valeur ajoutée des entreprises est déterminée en fonction du chiffre
 d'affaires réalisé et de la valeur ajoutée produite au cours de l'année au titre de laquelle l'imposition est établie ou au
 cours du dernier exercice de douze mois clos au cours de cette même année lorsque cet exercice ne coïncide pas avec l'année
 civile.
@@ -18,13 +18,13 @@ d'imposition.
 
 4. Lorsque plusieurs exercices sont clôturés au cours d'une même année, la cotisation sur la valeur ajoutée des entreprises
 est établie à partir du chiffre d'affaires réalisé et de la valeur ajoutée produite au cours des exercices clos, quelles que
-soient leurs durées respectives. Néanmoins, il n'est pas tenu compte, le cas échéant, de la fraction d'exercice clos qui se
-rapporte à une période retenue pour l'établissement de l'impôt dû au titre d'une ou plusieurs années précédant celle de
-l'imposition.
+soient leurs durées respectives.
 
-II. - Le montant du chiffre d'affaires déterminé conformément aux 2, 3 et 4 du I du présent article est, pour l'application
-du premier alinéa du I de l'article 1586 ter et pour l'application de l'article 1586 quater, corrigé pour correspondre à une
-année pleine.
+5. Dans les situations mentionnées aux 1 à 4, il n'est pas tenu compte de la fraction d'exercice clos qui se rapporte à une
+période retenue pour l'établissement de l'impôt dû au titre d'une ou de plusieurs années précédant celle de l'imposition.
+
+II. – Le montant du chiffre d'affaires déterminé conformément aux 2, 3 et 4 du I est, pour l'application du premier alinéa du
+I de l'article 1586 ter et pour l'application de l'article 1586 quater, corrigé pour correspondre à une année pleine.
 
 **Liens relatifs à cet article**
 
@@ -47,3 +47,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 G sexies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 G ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 39 (V)
+
+_Modifié par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1586 ter (V)
