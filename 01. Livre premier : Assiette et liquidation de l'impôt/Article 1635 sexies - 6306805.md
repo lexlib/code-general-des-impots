@@ -14,16 +14,15 @@ au 1° de l'article 1467, à l'article 1467 A, au I de l'article 1478 et à l'ar
 
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 % de leur montant, en raison des contraintes de
 desserte de l'ensemble du territoire national et de participation à l'aménagement du territoire qui s'imposent à cet
-exploitant.L'abattement ne donne pas lieu à compensation par l'Etat ;
+exploitant.L'abattement ne donne pas lieu à compensation par l'Etat. En ce qui concerne la cotisation sur la valeur ajoutée
+des entreprises, la valeur ajoutée retenue pour l'application de l'article 1586 ter fait l'objet d'un abattement de 70 % de
+son montant ;
 
 Chaque année, à partir de l'exercice 2011, le taux des abattements mentionnés au premier alinéa du présent 3° est fixé, dans
 la limite de 95 %, de manière à ce que le produit de ces abattements contribue au financement du coût du maillage territorial
 complémentaire de La Poste tel qu'il est évalué par l'Autorité de régulation des communications électroniques et des postes,
 conformément au IV de l'article 6 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la
 poste et à France Télécom et dans des conditions définies par décret en Conseil d'Etat ;
-
-3° bis En ce qui concerne la cotisation sur la valeur ajoutée des entreprises, la valeur ajoutée retenue pour l'application
-de l'article 1586 ter fait l'objet d'un abattement de 70 % de son montant ;
 
 4° Le taux applicable aux bases des taxes foncières et de la cotisation foncière des entreprises est le taux moyen pondéré
 national qui résulte des taux appliqués l'année précédente par l'ensemble des collectivités territoriales, des groupements et
@@ -70,4 +69,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-123 du 9 février 2010 - art. 4
+  - Décret n°2010-421  du 27 avril 2010 - art. 1

@@ -6,13 +6,13 @@ contrôle du respect des conditions d'agrément donnent lieu à perception aupr�
 sanitaire. Cette redevance doit être acquittée l'année suivant celle de la délivrance, du renouvellement ou du contrôle de
 l'agrément de l'établissement, au plus tard le 31 mars. 
 
-La redevance est due par l'établissement visé au précédent alinéa.
+La redevance est due par l'établissement visé au premier alinéa.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 90
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 

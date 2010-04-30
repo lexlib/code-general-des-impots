@@ -55,7 +55,7 @@ date de rachat jusqu'à la date de chaque échéance, et le prix de rachat de la
 exercices suivant le rachat. La fraction du profit prise en compte dans le résultat imposable est majorée d'un montant égal
 au produit de cette fraction par une fois et demie le taux de l'intérêt de retard prévu à l'article 1727.
 
-L'alinéa précédent ne s'applique ni aux établissements de crédit, ni aux rachats dont le débiteur et le créancier ont la
+Le premier alinéa ne s'applique ni aux établissements de crédit, ni aux rachats dont le débiteur et le créancier ont la
 qualité d'entreprises liées au sens du 12 de l'article 39. Toutefois, dans ce dernier cas, lorsque la créance a été acquise
 par le créancier auprès d'une personne à laquelle elle n'est pas liée au sens du 12 de l'article 39, le premier alinéa reste
 applicable, dans les mêmes conditions, à concurrence de la fraction du profit constaté par le débiteur qui n'excède pas la
@@ -95,7 +95,7 @@ créances intervenus entre l'entrée en vigueur de la présente loi et le 31 dé
 
 _Modifié par_:
 
-  - Loi n°2009-431 du 20 avril 2009 - art. 2 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cite_:
 

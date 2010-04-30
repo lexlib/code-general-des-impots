@@ -203,8 +203,8 @@ sociales et à l'engagement pris par ces mêmes bénéficiaires que puissent êt
 réalisation et d'exploitation de l'investissement aidé. 
 
 2.L'agrément est tacite à défaut de réponse de l'administration dans un délai de trois mois à compter de la réception de la
-demande d'agrément. Ce délai est ramené à deux mois lorsque la décision est prise et notifiée par l'un des directeurs des
-services fiscaux des départements d'outre-mer. 
+demande d'agrément. Ce délai est ramené à deux mois lorsque la décision est prise et notifiée par l'autorité compétente de
+l'Etat dans les départements d'outre-mer. 
 
 Lorsque l'administration envisage une décision de refus d'agrément, elle doit en informer le contribuable par un courrier qui
 interrompt le délai mentionné au premier alinéa et offre la possibilité au contribuable, s'il le sollicite, de saisir, dans
@@ -294,7 +294,7 @@ déclaratives.
 **Nota:**
 
 (1) Les dispositions introduites par les B et C du I de l'article 17 de la loi n° 2009-594 du 27 mai 2009 entrent en
-application à compter du 1er novembre 2009 (six mois suivant la date d'entrée en vigueur de ladite loi).
+application à compter du 29 novembre 2009 (six mois suivant la date d'entrée en vigueur de ladite loi).
 
 Conformément à l'article 17-II de la loi n° 2009-594 du 27 mai 2009, l'article 17 est applicable aux investissements réalisés
 entre la date de publication de la présente loi et le 31 décembre 2017.
@@ -304,10 +304,6 @@ présente loi, les investissements pour l'agrément desquels une demande est par
 publication.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 238 bis HA
 
 _Cite_:
 
@@ -385,8 +381,10 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L ter (Ab)
   - Livre des procédures fiscales - art. L45 F (VD)
 
+_Anciens textes_:
+
+  - CGI 238 bis HA
+
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 21
-  - Loi n°2009-594 du 27 mai 2009 - art. 38 (V)
-  - Loi n°2009-594 du 27 mai 2009 - art. 17 (V)
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 8
