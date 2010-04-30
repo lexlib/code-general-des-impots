@@ -18,11 +18,11 @@ II. ― L'application du I est subordonnée aux conditions suivantes :
 2° L'apport porte sur l'intégralité des droits ou parts nécessaires à l'exercice de l'activité, détenus par le contribuable
 et inscrits à l'actif de son bilan ou dans le tableau des immobilisations. 
 
-Pour l'application du présent 2°, ne sont pas réputés nécessaires à l'exercice de l'activité les droits ou parts de sociétés
-dont l'actif est principalement constitué de biens immobiliers bâtis ou non bâtis qui ne sont pas affectés par l'entreprise à
-sa propre exploitation, de droits afférents à un contrat de crédit-bail portant sur de tels biens et conclu dans les
-conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, de droits ou parts de sociétés dont l'actif est
-principalement constitué des mêmes biens, droits ou parts ; 
+Pour l'application du premier alinéa, ne sont pas réputés nécessaires à l'exercice de l'activité les droits ou parts de
+sociétés dont l'actif est principalement constitué de biens immobiliers bâtis ou non bâtis qui ne sont pas affectés par
+l'entreprise à sa propre exploitation, de droits afférents à un contrat de crédit-bail portant sur de tels biens et conclu
+dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, de droits ou parts de sociétés dont
+l'actif est principalement constitué des mêmes biens, droits ou parts ; 
 
 3° La société bénéficiaire reçoit, à l'occasion de l'apport mentionné au 2° ou d'autres apports concomitants, plus de 50 %
 des droits de vote ou du capital de la société dont les droits et parts sont apportés ; 
@@ -57,12 +57,15 @@ au suivi des plus-values dont l'imposition est reportée. Un décret précise le
 L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au II de l'article 93
 quater et aux articles 151 septies, 151 septies A ,151 octies, 151 octies A et 238 quindecies.
 
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 art. 19 VI : L'article 19 de la loi n° 2007-1824 est applicable aux apports réalisés à
-compter du 1er janvier 2007.
-
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 19 (V)
+
+_Modifié par_:
+
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
@@ -75,10 +78,10 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 151 octies (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 151 octies A (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 93 quater (V)
+  - Code général des impôts, CGI. - art. 151 octies
+  - Code général des impôts, CGI. - art. 151 octies A
   - Code général des impôts, CGI. - art. 151 septies
   - Code général des impôts, CGI. - art. 238 quindecies
   - Code général des impôts, CGI. - art. 39 duodecies
+  - Code général des impôts, CGI. - art. 93 quater
   - Code monétaire et financier - art. L313-7

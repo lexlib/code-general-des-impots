@@ -4,7 +4,7 @@ Les centres sont notamment habilités à élaborer, pour le compte de leurs adh�
 les déclarations destinées à l'administration fiscale ; un agent de l'administration fiscale apporte son assistance technique
 au centre de gestion agréé, dans les conditions prévues par la convention passée entre le centre et l'administration fiscale.
 Les modalités d'assistance et de contrôle des centres de gestion agréés par l'administration fiscale sont précisées dans la
-convention visée à l'article 371 C de l'annexe II au présent code. 
+convention visée à l'article 371 C de l'annexe II. 
 
 Les centres demandent à leurs adhérents tous renseignements utiles afin de procéder chaque année, sous leur propre
 responsabilité, à un examen en la forme des déclarations de résultats et de leurs annexes, des déclarations de taxes sur le
@@ -31,7 +31,7 @@ arrêté ministériel.
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 129 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
