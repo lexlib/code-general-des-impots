@@ -1,28 +1,22 @@
 # Article 234 terdecies
 
-Lorsque la location est consentie par une société ou un groupement soumis au régime prévu aux articles 8, 8 ter, 238 ter, 239
-ter à 239 quinquies, 239 septies et 239 nonies dont l'un des membres est soumis, à la date de clôture de l'exercice, à
-l'impôt sur les sociétés au taux de droit commun, la contribution prévue à l'article 234 nonies, établie dans les conditions
-définies au I de l'article 234 duodecies, est acquittée par cette société ou ce groupement, auprès du comptable de la
-direction générale des impôts, au vu d'une déclaration spéciale, au plus tard à la date prévue pour le dépôt de la
-déclaration de leur résultat.
+Lorsque la location est consentie par une société ou un groupement soumis au régime prévu aux articles 8,8 ter, 
+238 ter, 239 ter à 239 quinquies, 239 septies et 239 nonies dont l'un des membres est soumis, à la date de clôture de
+l'exercice, à l'impôt sur les sociétés au taux de droit commun, la contribution prévue à l'article 234 nonies, établie dans
+les conditions définies au I de l'article 234 duodecies, est acquittée par cette société ou ce groupement, auprès du
+comptable public compétent, au vu d'une déclaration spéciale, au plus tard à la date prévue pour le dépôt de la déclaration
+de leur résultat. 
 
 Elle donne lieu au préalable au versement d'un acompte payable au plus tard le 15 du dernier mois de l'exercice, dont le
-montant est déterminé selon les modalités définies au III de l'article 234 duodecies.
+montant est déterminé selon les modalités définies au III de l'article 234 duodecies. 
 
 La contribution est contrôlée et recouvrée selon les mêmes garanties et sanctions qu'en matière d'impôt sur les sociétés.
 
-**Nota:**
-
-Loi 2005-1719 2005-12-30 art. 76 XV Finances pour 2006 : 
-
-Ces dispositions s'appliquent à compter de l'imposition des revenus de 2006.
-
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 8, 8 ter, 238 ter, 239 ter à 239 quinquies, 239 septies, 239 nonies, 234 nonies, 234 duodecies
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 13
 
 _Cité par_:
 
@@ -31,11 +25,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 378 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 379 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2006
-
-_Modifié par_:
-
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (V) JORF 31 décembre 2005
+  - Code général des impôts, CGI. - art. 234 duodecies (V)
+  - Code général des impôts, CGI. - art. 234 nonies (V)
+  - Code général des impôts, CGI. - art. 238 ter (V)
+  - Code général des impôts, CGI. - art. 239 septies (V)
+  - Code général des impôts, CGI. - art. 239 ter (V)
+  - Code général des impôts, CGI. - art. 8 (V)

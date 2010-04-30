@@ -114,7 +114,7 @@ de l'imposition des revenus de l'année 2009.
 
 **Liens**:
 
-  - DEPLACE: Loi n°2009-1674 du 30 décembre 2009 - art. 19 (V)
+  - DEPLACE: Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 

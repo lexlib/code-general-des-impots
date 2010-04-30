@@ -15,38 +15,116 @@ dont il relève.
 
 Les aérodromes sont répartis en trois classes en fonction du nombre d'unités de trafic embarquées ou débarquées au cours de
 la dernière année civile connue sur l'aérodrome ou le système aéroportuaire dont il dépend au sens du m de l'article 2 du
-règlement (CEE) n° 2408 / 92 du Conseil, du 23 juillet 1992, concernant l'accès des transporteurs aériens communautaires aux
+règlement (CEE) n° 2408/92 du Conseil, du 23 juillet 1992, concernant l'accès des transporteurs aériens communautaires aux
 liaisons aériennes intracommunautaires. 
 
 Les classes d'aérodromes sont fixées comme suit : 
 
-CLASSE : 1 
+<table align="center" width="605" cellpadding="0" cellspacing="0" border="1">
+  <tbody>
+    <tr>
+      <td width="161">
 
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : A partir de 10 000 001 
+CLASSE
 
-CLASSE : 2 
+</td>
+      <td width="444">
 
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 2 200 001 à 10 000 000 
+Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire
 
-CLASSE : 3 
+</td>
+    </tr>
+    <tr>
+      <td width="161">
 
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 5 001 à 2 200 000 
+1
+
+</td>
+      <td width="444">
+
+A partir de 10 000 001
+
+</td>
+    </tr>
+    <tr>
+      <td width="161">
+
+2
+
+</td>
+      <td width="444">
+
+De 2 200 001 à 10 000 000
+
+</td>
+    </tr>
+    <tr>
+      <td width="161">
+
+3
+
+</td>
+      <td width="444">
+
+De 5 001 à 2 200 000
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 Les limites supérieures et inférieures des tarifs correspondant aux classes d'aérodromes sont fixées comme suit : 
 
-CLASSE : 1 
+<table cellpadding="0" border="1" cellspacing="0" width="605" align="center">
+  <tbody>
+    <tr>
+      <td width="161">
 
-Tarifs par passager : De 4, 3 à 10 euros 
+CLASSE
 
-CLASSE : 2 
+</td>
+      <td width="142">
 
-Tarifs par passager : De 3, 5 à 9,5 euros. 
+1
 
-CLASSE : 3 
+</td>
+      <td width="151">
 
-Tarifs par passager : De 2, 6 à 11,5 euros. 
+2
 
-Le tarif de la taxe est égal à 1 par tonne de fret et de courrier pour tous les aérodromes visés au I. 
+</td>
+      <td width="151">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="161">
+
+Tarifs par passager
+
+</td>
+      <td width="142">
+
+De 4,3 à 10 euros
+
+</td>
+      <td width="151">
+
+De 3,5 à 9,5 euros.
+
+</td>
+      <td width="151">
+
+De 2,6 à 11,5 euros
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Le tarif de la taxe est égal à 1 euro par tonne de fret et de courrier pour tous les aérodromes visés au I. 
 
 Un arrêté, pris par le ministre chargé du budget et le ministre chargé de l'aviation civile, fixe la liste des aérodromes
 concernés par classe et, au sein de chaque classe, le tarif de la taxe applicable pour chaque aérodrome. 
@@ -64,11 +142,11 @@ coûts qui ne sont pas directement ou totalement imputables aux missions défini
 
 Ces données peuvent faire l'objet de contrôles sur l'année en cours et les deux années antérieures, diligentés par les
 services de la direction générale de l'aviation civile. Les exploitants d'aérodromes sont tenus de présenter les pièces
-justificatives et toutes les informations relatives aux données mentionnées à l'alinéa précédent. En cas de contrôle sur
-place, la direction générale de l'aviation civile en informe préalablement l'exploitant par l'envoi d'un avis qui précise
-l'identité des personnes qui en sont chargées et la période visée par le contrôle. L'exploitant peut se faire assister par un
-conseil de son choix. A l'issue du contrôle, un rapport est adressé à l'exploitant concerné qui dispose d'un délai de deux
-mois pour faire part de ses observations.
+justificatives et toutes les informations relatives aux données mentionnées au huitième alinéa. En cas de contrôle sur place,
+la direction générale de l'aviation civile en informe préalablement l'exploitant par l'envoi d'un avis qui précise l'identité
+des personnes qui en sont chargées et la période visée par le contrôle. L'exploitant peut se faire assister par un conseil de
+son choix. A l'issue du contrôle, un rapport est adressé à l'exploitant concerné qui dispose d'un délai de deux mois pour
+faire part de ses observations.
 
 Le tarif défini pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois considéré,
 arrondi à la tonne inférieure. 
@@ -169,7 +247,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 111
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cite_:
 
