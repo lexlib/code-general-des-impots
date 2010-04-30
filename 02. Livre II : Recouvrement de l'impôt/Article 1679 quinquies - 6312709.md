@@ -11,7 +11,7 @@ recouvrement et celui du solde de la taxe. Cet acompte est arrondi à l'euro le 
 est comptée pour 1. 
 
 Le redevable qui estime que sa base d'imposition sera réduite d'au moins 25 % ou qui prévoit la cessation de son activité en
-cours d'année, au sens du I de l'article 1478, peut réduire le montant de son acompte en remettant au comptable du Trésor,
+cours d'année, au sens du I de l'article 1478, peut réduire le montant de son acompte en remettant au comptable public,
 chargé du recouvrement de la cotisation foncière des entreprises du lieu d'imposition, quinze jours avant la date
 d'exigibilité de l'acompte, une déclaration datée et signée. 
 
@@ -19,7 +19,7 @@ Le versement du solde ne sera exigible qu'à partir du 1er décembre.
 
 Les redevables peuvent, sous leur responsabilité, réduire le montant du solde de cotisation foncière des entreprises du
 montant du dégrèvement attendu du plafonnement de la contribution économique territoriale due au titre de la même année, en
-remettant au comptable du Trésor chargé du recouvrement de la cotisation foncière des entreprises une déclaration datée et
+remettant au comptable public chargé du recouvrement de la cotisation foncière des entreprises une déclaration datée et
 signée. 
 
 Les contribuables doivent, un mois au moins avant l'échéance, être informés par l'administration du montant de l'acompte
@@ -33,8 +33,8 @@ _Modifié par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1478 (V)
-  - Code général des impôts, CGI. - art. 1664 (V)
+  - Code général des impôts, CGI. - art. 1478
+  - Code général des impôts, CGI. - art. 1664
 
 _Cité par_:
 

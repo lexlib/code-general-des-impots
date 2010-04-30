@@ -42,10 +42,10 @@ société rachetée est assimilé à un salarié de cette dernière.
 
 Ces droits ne doivent pas être détenus, directement ou indirectement, pour plus de 50 p. 100 par d'autres sociétés.
 
-Pour l'application des dispositions du présent paragraphe, les droits de vote de la société nouvelle qui sont détenus par une
-société en nom collectif ou une société civile, n'ayant pas opté pour l'impôt sur les sociétés, constituée exclusivement
-entre les personnes salariées mentionnées au premier alinéa du présent c, sont considérés comme détenus par ces mêmes
-personnes, si la société a pour seul objet la détention des titres de la société nouvelle.
+Pour l'application des dispositions du présent II, les droits de vote de la société nouvelle qui sont détenus par une société
+en nom collectif ou une société civile, n'ayant pas opté pour l'impôt sur les sociétés, constituée exclusivement entre les
+personnes salariées mentionnées au premier alinéa, sont considérés comme détenus par ces mêmes personnes, si la société a
+pour seul objet la détention des titres de la société nouvelle.
 
 Si des titres de la société nouvelle sont cédés par la société en nom collectif ou la société civile ou si des titres de
 l'une de ces deux dernières sociétés sont cédés par les salariés, les sanctions prévues aux quatrième et cinquième alinéas du
@@ -61,11 +61,11 @@ mentionnés au c ne peuvent être cédés à la société nouvelle que contre re
 En cas de fusion des deux sociétés, les salariés en cause doivent détenir plus de 50 p. 100 des droits de vote de la société
 qui résulte de la fusion.
 
-Les emprunts mentionnés au deuxième alinéa du paragraphe I doivent être contractés pour une durée égale à quinze ans au plus.
-Leur taux actuariel brut est au plus égal au taux moyen de rendement brut à l'émission des obligations des sociétés privées
-du mois qui précède la date du contrat, majoré de deux points et demi. Ils ne doivent comporter aucun autre avantage ou droit
-au profit du prêteur autres que ceux attachés à des obligations convertibles ou à des obligations assorties de bons de
-souscription d'actions mentionnées au dernier alinéa du I.
+Les emprunts mentionnés au deuxième alinéa du I doivent être contractés pour une durée égale à quinze ans au plus. Leur taux
+actuariel brut est au plus égal au taux moyen de rendement brut à l'émission des obligations des sociétés privées du mois qui
+précède la date du contrat, majoré de deux points et demi. Ils ne doivent comporter aucun autre avantage ou droit au profit
+du prêteur autres que ceux attachés à des obligations convertibles ou à des obligations assorties de bons de souscription
+d'actions mentionnées au dernier alinéa du I.
 
 Le rachat est effectué entre le 15 avril 1987 et le 31 décembre 1991.
 
@@ -73,11 +73,6 @@ III. - Les avantages prévus au I ne sont plus applicables à compter de l'anné
 prévues au II cesse d'être satisfaite.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 34, 92 1, 83 bis II
-  - CGIAN3 46 quater-0 RA, 46 quater-0 RC, 46 quater-0 RD, 46 quater-0 RE, 46 quater-0 RG
 
 _Cité par_:
 
@@ -102,14 +97,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-356 2006-03-24
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - Code général des impôts, CGI. - art. 34 (V)
+  - Code général des impôts, CGI. - art. 92 (V)

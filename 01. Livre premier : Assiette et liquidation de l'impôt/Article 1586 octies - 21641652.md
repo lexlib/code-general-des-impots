@@ -21,7 +21,7 @@ Lorsqu'un contribuable dispose de locaux ou emploie des salariés exerçant leur
 communes, la valeur ajoutée qu'il produit est imposée dans chacune de ces communes et répartie entre elles au prorata de
 l'effectif qui y est employé.
 
-Pour l'application de l'alinéa précédent, l'effectif employé dans un établissement pour lequel les valeurs locatives des
+Pour l'application du deuxième alinéa, l'effectif employé dans un établissement pour lequel les valeurs locatives des
 immobilisations industrielles évaluées dans les conditions prévues aux articles 1499 et 1501 représentent plus de 20 % de la
 valeur locative des immobilisations imposables à la cotisation foncière des entreprises est pondéré par un coefficient de 2.
 
@@ -35,12 +35,12 @@ puissance électrique installée. Lorsqu'un établissement est établi sur plusi
 entre les communes d'implantation en fonction des bases de cotisation foncière des entreprises, à l'exception de celle
 afférente aux ouvrages hydroélectriques mentionnés au premier alinéa de l'article 1475, qui est répartie comme la valeur
 locative de ces ouvrages selon la règle fixée par ce même article. La valeur ajoutée afférente aux autres établissements du
-contribuable est répartie selon les règles définies aux deuxième et troisième alinéas du présent III. Les modalités
-d'application de ces dispositions sont définies par décret.
+contribuable est répartie selon les règles définies aux deuxième et troisième alinéas. Les modalités d'application de ces
+dispositions sont définies par décret.
 
-Lorsque la déclaration des salariés par établissement mentionnée au II du présent article fait défaut, la valeur ajoutée du
-contribuable est répartie entre les communes où le contribuable dispose d'immobilisations imposables à la cotisation foncière
-des entreprises au prorata de leur valeur locative.
+Lorsque la déclaration des salariés par établissement mentionnée au II fait défaut, la valeur ajoutée du contribuable est
+répartie entre les communes où le contribuable dispose d'immobilisations imposables à la cotisation foncière des entreprises
+au prorata de leur valeur locative.
 
 Pour l'application du présent III, la valeur locative des immobilisations imposables à la cotisation foncière des entreprises
 s'entend avant application éventuelle de l'abattement prévu au second alinéa du 1° de l'article 1467.
@@ -87,6 +87,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1

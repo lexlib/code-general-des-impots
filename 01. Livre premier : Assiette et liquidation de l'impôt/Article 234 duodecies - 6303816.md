@@ -8,8 +8,8 @@ l'exercice ou de la période d'imposition définie au deuxième alinéa de l'art
 II.-La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles et sous les mêmes garanties et sanctions
 qu'en matière d'impôt sur les sociétés. 
 
-III.-La contribution est payée spontanément au comptable de la direction générale des impôts, au plus tard à la date prévue
-au 2 de l'article 1668. 
+III.-La contribution est payée spontanément au comptable public compétent, au plus tard à la date prévue au 2 de l'article
+1668. 
 
 Elle donne lieu au préalable, à la date prévue pour le paiement du dernier acompte d'impôt sur les sociétés de l'exercice ou
 de la période d'imposition, à un acompte égal à 2, 5 % des recettes nettes définies à l'article 29 qui ont été perçues au
@@ -30,16 +30,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 34 (V)
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 12
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1668
-  - Code général des impôts, CGI. - art. 220 quinquies
-  - Code général des impôts, CGI. - art. 223
-  - Code général des impôts, CGI. - art. 223 septies
-  - Code général des impôts, CGI. - art. 29
-  - Code général des impôts, CGI. - art. 37
+  - Code général des impôts, CGI. - art. 219 bis (V)
+  - Code général des impôts, CGI. - art. 223 (V)
 
 _Cité par_:
 
