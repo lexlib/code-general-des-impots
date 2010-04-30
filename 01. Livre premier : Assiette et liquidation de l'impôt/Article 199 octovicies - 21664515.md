@@ -8,7 +8,7 @@ du maintien et de la protection du patrimoine naturel et effectuées sur des esp
 143-2 du code du patrimoine. Ce label prévoit les conditions de l'accès au public des espaces concernés, sauf exception
 justifiée par la fragilité du milieu naturel. 
 
-La réduction d'impôt s'applique aux dépenses mentionnées au présent I ayant reçu un avis favorable du service de l'Etat
+La réduction d'impôt s'applique aux dépenses mentionnées au premier alinéa ayant reçu un avis favorable du service de l'Etat
 compétent en matière d'environnement. 
 
 II.-La réduction d'impôt est égale à 25 % des dépenses mentionnées au I effectivement supportées au titre de l'année
@@ -35,9 +35,9 @@ compter de l'imposition des revenus de l'année 2010 et pour les trois années s
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 95 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 

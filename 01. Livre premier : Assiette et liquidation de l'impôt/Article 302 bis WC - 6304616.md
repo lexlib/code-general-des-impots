@@ -24,14 +24,13 @@ La redevance est assise sur le poids d'oeufs de poule en coquille introduits dan
 Le fait générateur est constitué par l'introduction des oeufs en coquille dans ces établissements.
 
 II. - Les taux de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus applicables au lait
-sont fixés par produit dans la limite de 150 % du niveau forfaitaire défini en euro par décision du Conseil de l'Union
+sont fixés par produit dans la limite de 150 % du niveau forfaitaire défini en euros par décision du Conseil de l'Union
 européenne.
 
 Un arrêté conjoint du ministre chargé du budget et du ministre chargé de l'agriculture fixe les taux de la redevance. 
 
-Le taux de la redevance applicable aux ovoproduits est fixé, par arrêté conjoint du ministre de l'économie, des finances et
-de l'industrie, du ministre de l'agriculture et de la pêche et du secrétaire d'Etat au budget, dans la limite de 0,76 euro
-par tonne d'oeufs en coquille.
+Le taux de la redevance applicable aux ovoproduits est fixé, par arrêté conjoint du ministre chargé du budget et duministre
+chargé de l'agriculture, dans la limite de 0,76 euro par tonne d'oeufs en coquille.
 
 III. - La redevance est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
 privilèges que la taxe sur la valeur ajoutée.
@@ -40,11 +39,11 @@ Les réclamations sont présentées, instruites et jugées selon les règles app
 
 IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 90-I F [2°] de la loi n° 2009-1674 du 30 décembre 2009.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 90
 
 _Cité par_:
 
@@ -53,3 +52,7 @@ _Cité par_:
 _Cite_:
 
   - Code rural L233-2
+
+_Modifié par_:
+
+  - Décret n°2010-421  du 27 avril 2010 - art. 1

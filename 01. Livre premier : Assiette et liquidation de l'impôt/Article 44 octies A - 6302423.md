@@ -71,15 +71,14 @@ l'activité exercée dans l'une des zones franches urbaines.
 
 Lorsque le contribuable n'exerce pas l'ensemble de son activité dans une zone franche urbaine, le bénéfice exonéré est
 déterminé en affectant le montant résultant du calcul ainsi effectué du rapport entre, d'une part, la somme des éléments
-d'imposition à la cotisation foncière des entreprises définis à l'article 1467              afférents à l'activité exercée
-dans les zones franches urbaines et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme des éléments
-d'imposition à la cotisation foncière des entreprises du contribuable définis au même article pour ladite période. Pour la
-fixation de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est déterminée conformément à
-l'article 1467, au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition
-des bénéfices. 
+d'imposition à la cotisation foncière des entreprises définis à l'article 1467 afférents à l'activité exercée dans les zones
+franches urbaines et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme des éléments d'imposition à
+la cotisation foncière des entreprises du contribuable définis au même article pour ladite période. Pour la fixation de ce
+rapport, la valeur locative des immobilisations passibles d'une taxe foncière est déterminée conformément à l'article 1467,
+au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition des bénéfices. 
 
-Par exception aux dispositions du sixième alinéa du présent II, le contribuable exerçant une activité de location d'immeubles
-n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition
+Par exception aux dispositions du sixième alinéa , le contribuable exerçant une activité de location d'immeubles n'est
+exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition
 s'applique quel que soit le lieu d'établissement du bailleur. 
 
 Le bénéfice exonéré ne peut excéder 100 000 Euros par contribuable et par période de douze mois, majoré de 5 000 Euros par
@@ -97,7 +96,7 @@ bénéfice exonéré est celui de cette société déterminé dans les condition
 l'article 223 I. 
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération accordée ne peut excéder le montant total calculé
-conformément aux dispositions de l'avant-dernier alinéa du II, dans la limite du résultat d'ensemble du groupe. 
+conformément aux dispositions du huitième alinéa du II, dans la limite du résultat d'ensemble du groupe. 
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 sexies et du régime
 prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois qui suivent la publication du
@@ -115,7 +114,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 

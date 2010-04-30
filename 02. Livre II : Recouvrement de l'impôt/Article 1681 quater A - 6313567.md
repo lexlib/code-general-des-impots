@@ -15,8 +15,8 @@ S'il estime que le montant des taxes mises en recouvrement différera de celui q
 demander la modification du montant de ces derniers. 
 
 Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 30 septembre de chaque année, doit préciser le montant
-présumé des taxes et doit être formulée auprès du Trésor public au plus tard le dernier jour du mois qui précède celui du
-prélèvement effectif. 
+présumé des taxes et doit être formulée auprès  de l'administration fiscale au plus tard le dernier jour du mois qui précède
+celui du prélèvement effectif. 
 
 Si le montant des taxes présumé par le contribuable est inférieur de plus de 20 % au montant des taxes mises en recouvrement,
 une majoration de 10 % est appliquée à la différence entre la moitié des taxes dues et les prélèvements effectués entre le
@@ -41,16 +41,16 @@ F. Un décret en Conseil d'Etat fixe les modalités d'application du présent ar
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 60
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1647 B sexies (V)
-  - Code général des impôts, CGI. - art. 1663 (V)
-  - Code général des impôts, CGI. - art. 1679 quinquies (V)
-  - Code général des impôts, CGI. - art. 1681 D (V)
-  - Code général des impôts, CGI. - art. 1730 (V)
-  - Code général des impôts, CGI. - art. 1762 A (T)
+  - Code général des impôts, CGI. - art. 1647 B sexies
+  - Code général des impôts, CGI. - art. 1663
+  - Code général des impôts, CGI. - art. 1679 quinquies
+  - Code général des impôts, CGI. - art. 1681 D
+  - Code général des impôts, CGI. - art. 1730
+  - Code général des impôts, CGI. - art. 1762 A
 
 _Cité par_:
 

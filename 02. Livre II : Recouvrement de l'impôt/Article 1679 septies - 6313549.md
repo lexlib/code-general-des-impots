@@ -28,7 +28,7 @@ la valeur ajoutée des entreprises dans la proportion entre :
 titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I et des articles 1465 à 1466
 F ;
 
-- et, d'autre part, le montant visé à l'alinéa précédent majoré du montant total des cotisations foncières des entreprises dû
+- et, d'autre part, le montant visé au septième alinéa majoré du montant total des cotisations foncières des entreprises dû
 au titre de l'année précédente.
 
 Un décret précise les conditions d'application des sixième à huitième alinéas.
@@ -51,7 +51,7 @@ Toutefois, les redevables sont dispensés du paiement de l'acompte si celui-ci e
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
