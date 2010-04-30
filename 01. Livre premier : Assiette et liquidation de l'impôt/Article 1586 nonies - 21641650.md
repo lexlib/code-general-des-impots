@@ -25,9 +25,9 @@ bénéficiant d'un abattement de leur base nette d'imposition à la cotisation f
 l'article 1466 F fait l'objet, à la demande de l'entreprise, d'un abattement de même taux, dans la limite de 2 millions
 d'euros de valeur ajoutée.
 
-V. - Le bénéfice des exonérations de cotisation sur la valeur ajoutée des entreprises prévues aux I à III du présent article
-et de l'abattement prévu au IV est perdu lorsque les conditions de l'exonération ou de l'abattement correspondant de
-cotisation foncière des entreprises ne sont plus réunies.
+V. - Le bénéfice des exonérations de cotisation sur la valeur ajoutée des entreprises prévues aux I à III et de l'abattement
+prévu au IV est perdu lorsque les conditions de l'exonération ou de l'abattement correspondant de cotisation foncière des
+entreprises ne sont plus réunies.
 
 Le bénéfice de l'exonération de cotisation sur la valeur ajoutée des entreprises est, le cas échéant, subordonné au respect
 du même règlement communautaire que celui appliqué pour l'exonération de cotisation foncière des entreprises dont
@@ -49,6 +49,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1586 ter (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
