@@ -21,8 +21,8 @@ proportion correspondant à leurs droits dans la société ou le groupement.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
-II du présent article et aux articles 199 undecies ou 199 undecies A et le montant des financements, apports en capital et
-prêts participatifs, apportés par les sociétés de financement définies au g du 2 de l'article 199 undecies A. 
+II et aux articles 199 undecies ou 199 undecies A et le montant des financements, apports en capital et prêts participatifs,
+apportés par les sociétés de financement définies au g du 2 de l'article 199 undecies A. 
 
 La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de
 tourisme et de village de vacances classés et aux logiciels nécessaires à l'utilisation des investissements éligibles,
@@ -114,7 +114,7 @@ du code de la construction et de l'habitation ;
 
 3° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au titre de l'acquisition ou la construction de
 l'immeuble sont rétrocédés à la personne physique signataire du contrat mentionné au 1° sous forme de diminution de la
-redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984 précitée et du prix de cession de l'immeuble. 
+redevance prévue à l' article 5 de la loi n° 84-595 du 12 juillet 1984 précitée  et du prix de cession de l'immeuble. 
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leurs résultats imposables une somme égale au montant
 total des souscriptions au capital des sociétés de développement régional des départements d'outre-mer ou des sociétés
@@ -164,7 +164,7 @@ d) l'opération a reçu l'agrément préalable du ministre du budget dans les co
 II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt
 sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions
-mentionnées aux sixième et septième alinéas du I. 
+mentionnées aux septième et huitième alinéas du I. 
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à l'exception de celle mentionnée à la troisième
 phrase du premier alinéa du même II. 
@@ -217,10 +217,10 @@ d'informations. Il est suspendu en cas de notification du projet pour examen et 
 
 3. Toutefois, les investissements mentionnés au I dont le montant total n'excède pas 250 000 euros par programme et par
 exercice sont dispensés de la procédure d'agrément préalable lorsqu'ils sont réalisés par une entreprise qui exerce son
-activité dans les départements visés au I depuis au moins deux ans dans l'un des secteurs mentionnés au premier alinéa du 1
-du présent III. Il en est de même lorsque ces investissements sont donnés en location à une telle entreprise.L'entreprise
-propriétaire des biens ou qui les a acquis en crédit-bail joint à sa déclaration de résultat un état récapitulatif des
-investissements réalisés au cours de l'exercice et au titre desquels la déduction fiscale est pratiquée (1). 
+activité dans les départements visés au I depuis au moins deux ans dans l'un des secteurs mentionnés au premier alinéa du 1.
+Il en est de même lorsque ces investissements sont donnés en location à une telle entreprise.L'entreprise propriétaire des
+biens ou qui les a acquis en crédit-bail joint à sa déclaration de résultat un état récapitulatif des investissements
+réalisés au cours de l'exercice et au titre desquels la déduction fiscale est pratiquée (1). 
 
 Le premier alinéa ne s'applique pas au secteur des transports, à l'exception des véhicules neufs de moins de sept places
 acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits
@@ -303,19 +303,22 @@ Restent soumis à l'article 217 undecies du code général des impôts, dans sa 
 présente loi, les investissements pour l'agrément desquels une demande est parvenue à l'administration avant la date de cette
 publication.
 
+Modifications effectuées en conséquence de l'article 17-I A [2°] de la loi n° 2009-594 du 27 mai 2009.
+
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGI 238 bis HA
 
 _Cite_:
 
-  - Loi n°2009-594 du 27 mai 2009
-  - Code de commerce - art. L232-21
-  - Code général des impôts, CGI. - art. 1727
-  - Code général des impôts, CGI. - art. 199 undecies
-  - Code général des impôts, CGI. - art. 210 A
-  - Code général des impôts, CGI. - art. 210 B
-  - Code général des impôts, CGI. - art. 239 quater
-  - Code général des impôts, CGI. - art. 239 quater C
-  - Code général des impôts, CGI. - art. 44 septies
+  - Loi n°84-595 du 12 juillet 1984 - art. 5 (M)
+  - Loi n°2009-594 du 27 mai 2009 (V)
+  - Code général des impôts, CGI. - art. 210 A (V)
+  - Code général des impôts, CGI. - art. 210 B (V)
+  - Code général des impôts, CGI. - art. 239 quater (V)
+  - Code général des impôts, CGI. - art. 239 quater C (V)
 
 _Cité par_:
 
@@ -381,10 +384,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L ter (Ab)
   - Livre des procédures fiscales - art. L45 F (VD)
 
-_Anciens textes_:
-
-  - CGI 238 bis HA
-
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 8
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 8 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
