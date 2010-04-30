@@ -7,7 +7,7 @@ sont définis aux deuxième à dixième alinéas du I de l'article 1649 quater B
 
 2 Le paiement par télérèglement, des taxes foncières sur les propriétés bâties et non bâties et de leurs taxes additionnelles
 et annexes est également obligatoire pour les contribuables qui ont opté pour le paiement de ces taxes auprès du service
-chargé des grandes entreprises au sein de l'administration des impôts dans des conditions fixées par décret. 
+chargé des grandes entreprises au sein de    l'administration fiscale dans des conditions fixées par décret. 
 
 3. Le paiement de la cotisation sur la valeur ajoutée des entreprises est effectué par télérèglement.
 
@@ -15,7 +15,7 @@ chargé des grandes entreprises au sein de l'administration des impôts dans des
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 61
 
 _Cité par_:
 
@@ -24,4 +24,4 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1681 sexies (VT)
+  - Code général des impôts, CGI. - art. 1681 sexies
