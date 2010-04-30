@@ -4,7 +4,7 @@ L'agrément prévu à l'article 238 bis HE est délivré par le président du Ce
 oeuvres, réalisées en version originale, en langue française, de nationalité d'un Etat de la Communauté européenne, et
 éligibles aux aides financières à la production du Centre national du cinéma et de l'image animée, à l'exclusion : 
 
-Des oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976 n° 75-1278 du 30 décembre 1975 ; 
+Des oeuvres figurant sur la liste prévue à l'article L. 311-2 du code du cinéma et de l'image animée ; 
 
 Des oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ; 
 
@@ -16,19 +16,24 @@ Toutefois, dans la limite de 20 % des financements annuels visés à l'article 2
 peut être délivré aux oeuvres de coproduction réalisées dans une langue du pays du coproducteur majoritaire établi dans un
 Etat membre de la Communauté européenne.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 2, 3, 2e alinéa et 9 [14°] de l'ordonnance n° 2009-901 du 24 juillet
+2009.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°75-1278 du 30 décembre 1975 - art. 12
-  - Code général des impôts, CGI. - art. 238 bis HE
 
 _Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 3 (V)
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 4
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 55 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. L111-3 (V)
   - Code général des impôts, CGI. - art. 238 bis HG (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 238 bis HE
+  - Code du cinéma et de l'image animée - art. L311-2 (V)
