@@ -57,16 +57,15 @@ d) Les dépenses exposées pour la réalisation d'opérations de même nature co
 5° Des fondations reconnues d'utilité publique du secteur de la recherche agréées conformément au d bis ;
 
 6° Des associations régies par la loi du 1er juillet 1901 relative au contrat d'association ayant pour fondateur et membre
-l'un des organismes mentionnés aux 1° ou 2° du présent d ou des sociétés de capitaux dont le capital ou les droits de vote
-sont détenus pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées
-conformément au d bis et avoir conclu une convention en application de l'article L. 313-2 du code de la recherche ou de
-l'article L. 762-3 du code de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein
-d'une ou plusieurs unités de recherche relevant de l'organisme mentionné aux 1° ou 2° du présent d ayant conclu la
-convention.
+l'un des organismes mentionnés aux 1° ou 2° ou des sociétés de capitaux dont le capital ou les droits de vote sont détenus
+pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées conformément au d bis
+et avoir conclu une convention en application de l'article L. 313-2 du code de la recherche ou de l'article L. 762-3 du code
+de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein d'une ou plusieurs unités de
+recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention.
 
 Ces dépenses sont retenues pour le double de leur montant à la condition qu'il n'existe pas de lien de dépendance au sens des
-deuxième à quatrième alinéas du 12 de l'article 39 du présent code entre l'entreprise qui bénéficie du crédit d'impôt et
-l'entité mentionnée aux 1° à 6° du présent d ; 
+deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et l'entité mentionnée
+aux 1° à 6° ; 
 
 d bis) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés
 agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions.
@@ -227,7 +226,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 87 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cite_:
 

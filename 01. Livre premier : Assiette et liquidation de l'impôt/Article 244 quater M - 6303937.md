@@ -6,8 +6,7 @@ nombre d'heures passées par le chef d'entreprise en formation par le taux horai
 exécution des articles L. 3231-2 à L. 3231-11 du code du travail. 
 
 II.-Le crédit d'impôt est plafonné à la prise en compte de quarante heures de formation par année civile. Les heures de
-formation correspondant aux dépenses mentionnées au V de l'article 44 quaterdecies du présent code ne sont pas prises en
-compte.
+formation correspondant aux dépenses mentionnées au V de l'article 44 quaterdecies ne sont pas prises en compte.
 
 II bis.-Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en commun, le plafond horaire mentionné au
 II est multiplié par le nombre d'associés chefs d'exploitation. 
@@ -22,7 +21,7 @@ participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
