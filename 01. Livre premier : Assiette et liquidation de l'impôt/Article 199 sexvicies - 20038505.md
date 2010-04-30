@@ -11,15 +11,16 @@ produit est imposé dans la catégorie des bénéfices industriels et commerciau
 1° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, une
 résidence avec services pour personnes âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L. 7232-3 du
 code du travail ou l'ensemble des logements affectés à l'accueil familial salarié de personnes âgées ou handicapées, prévu
-par les articles L. 444-1 à L. 444-9 du même code géré par un groupement de coopération sociale ou médico-sociale ; 
+par les articles L. 444-1 à L. 444-9 du codede l'action sociale et des familles géré par un groupement de coopération sociale
+ou médico-sociale ; 
 
 2° Une résidence avec services pour étudiants ; 
 
 3° Une résidence de tourisme classée ; 
 
-4° Un établissement                  délivrant des soins de longue durée, mentionné au dixième alinéa du 3° de l'article L.
-6143-5 du code de la santé publique, et comportant un hébergement, à des personnes n'ayant pas leur autonomie de vie dont
-l'état nécessite une surveillance médicale constante et des traitements d'entretien. 
+4° Un établissement délivrant des soins de longue durée, mentionné au dixième alinéa du 3° de l'article L. 6143-5 du code de
+la santé publique, et comportant un hébergement, à des personnes n'ayant pas leur autonomie de vie dont l'état nécessite une
+surveillance médicale constante et des traitements d'entretien. 
 
 II.-La réduction d'impôt est calculée sur le prix de revient des logements retenu pour sa fraction inférieure à 300 000 €.
 Lorsqu'elle est acquise au titre d'un logement achevé depuis au moins quinze ans et qui fait l'objet de travaux de
@@ -73,12 +74,15 @@ restant à courir à la date du décès.
 IV.-Un contribuable ne peut, pour un même logement, bénéficier à la fois des réductions d'impôt mentionnées aux articles 199
 undecies A et 199 undecies B et des dispositions du présent article.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 15-I [2°] de la loi n° 2009-431 du 20 avril 2009.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 71
-  - Ordonnance n°2010-177 du 23 février 2010 - art. 3
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 
