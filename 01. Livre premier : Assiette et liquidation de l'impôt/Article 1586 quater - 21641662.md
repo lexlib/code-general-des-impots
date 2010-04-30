@@ -37,7 +37,7 @@ l'entreprise cédante, apporteuse ou scindée ou par une entreprise qui détient
 dans les mêmes proportions, tant que les conditions suivantes sont simultanément remplies :
 
 – la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante,
-apporteuse ou scindée et, d'autre part, par le nouvel exploitant est inférieure, sans application de l'alinéa précédent, d'au
+apporteuse ou scindée et, d'autre part, par le nouvel exploitant est inférieure, sans application du premier alinéa, d'au
 moins 10 % aux impositions au titre de la cotisation sur la valeur ajoutée des entreprises qui auraient été dues par ces
 mêmes redevables en l'absence de réalisation de l'opération, minorées des dégrèvements prévus au présent article ;
 
@@ -50,9 +50,9 @@ scission d'entreprise en cause.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 _Cité par_:
 

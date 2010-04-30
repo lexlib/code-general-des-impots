@@ -45,10 +45,10 @@ l'activité exercée dans un bassin d'emploi à redynamiser.
 
 Lorsque le contribuable n'exerce pas l'ensemble de son activité dans un bassin d'emploi à redynamiser, le bénéfice exonéré
 est déterminé en affectant le montant résultant du calcul ainsi effectué du rapport entre, d'une part, la somme des éléments
-d'imposition à la cotisation foncière des entreprises définis à l'article 1467              afférents à l'activité exercée
-dans un bassin d'emploi à redynamiser et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme des
-éléments d'imposition à la cotisation foncière des entreprises du contribuable définis au même article pour ladite période.
-Pour la fixation de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est celle déterminée
+d'imposition à la cotisation foncière des entreprises définis à l'article 1467 afférents à l'activité exercée dans un bassin
+d'emploi à redynamiser et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme des éléments
+d'imposition à la cotisation foncière des entreprises du contribuable définis au même article pour ladite période. Pour la
+fixation de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est celle déterminée
 conformément à l'article 1467 au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er janvier de l'année
 d'imposition des bénéfices. 
 
@@ -67,24 +67,18 @@ L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'e
 mois suivant les opérations mentionnées au I. 
 
 III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice
-exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article, dans la limite du résultat
-d'ensemble du groupe. 
+exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du résultat d'ensemble du
+groupe. 
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 sexies ou à
 l'article 44 octies A et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six
-mois suivant celui du début d'activité.L'option est irrévocable. 
+mois suivant celui du début d'activité. L'option est irrévocable. 
 
 IV.-Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
 V.-(disjoint)
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°95-115 du 4 février 1995 - art. 42
-  - Code monétaire et financier - art. L511-1
-  - Règlement CE 1628/2006 2006-10-24
 
 _Cité par_:
 
@@ -107,4 +101,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
+
+_Cite_:
+
+  - Règlement CE 1628/2006 2006-10-24
