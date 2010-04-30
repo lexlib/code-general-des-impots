@@ -36,8 +36,7 @@ II. ― La réduction d'impôt n'est applicable qu'aux logements dont les caract
 énergétique sont conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le respect
 de cette condition est justifié par le contribuable selon des modalités définies par décret. 
 
-Le premier alinéa s'applique à compter de la publication du décret mentionné au même alinéa et au plus tard à compter du 1er
-janvier 2010. 
+Le premier alinéa s'applique à compter du 1er janvier 2010. 
 
 III. ― L'engagement de location mentionné au I doit prendre effet dans les douze mois qui suivent la date d'achèvement de
 l'immeuble ou de son acquisition si elle est postérieure. Cet engagement prévoit que le loyer ne doit pas excéder un plafond
@@ -177,8 +176,8 @@ décembre 2013 ;
 décembre 2017, dès lors que le propriétaire s'engage à ce que les logements restent loués à l'issue de la période couverte
 par l'engagement mentionné au I selon les conditions prévues au V. 
 
-Pour l'application du présent XI, le plafond de loyer mentionné au III du présent article ainsi que les conditions
-mentionnées au deuxième alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
+Pour l'application du présent XI, le plafond de loyer mentionné au III ainsi que les conditions mentionnées au deuxième
+alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
 
 **Nota:**
 
@@ -233,4 +232,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 39 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 1
