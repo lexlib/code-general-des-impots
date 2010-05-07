@@ -1,13 +1,13 @@
 # Article 1388 quater
 
 La base d'imposition à la taxe foncière sur les propriétés bâties des locaux d'habitation affectés exclusivement à
-l'hébergement de salariés agricoles saisonniers dans les conditions prévues par l'article L. 716-1 du code rural, ainsi qu'à
-l'hébergement des apprentis, dont le statut est régi par les dispositions du livre II de la sixième partie du code du
-travail, dans les conditions prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports
-locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, est calculée au prorata de la durée d'utilisation
-de ces locaux pour l'hébergement de salariés et d'apprentis l'année précédant celle au titre de laquelle l'imposition est
-établie ; les salariés s'entendent des personnes autres que le propriétaire du logement, son conjoint, les membres du foyer
-fiscal, les ascendants et descendants de l'exploitant agricole. 
+l'hébergement de salariés agricoles saisonniers dans les conditions prévues par l'article L. 716-1 du code rural et de la
+pêche maritime, ainsi qu'à l'hébergement des apprentis, dont le statut est régi par les dispositions du livre II de la
+sixième partie du code du travail, dans les conditions prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à
+améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, est calculée au prorata de
+la durée d'utilisation de ces locaux pour l'hébergement de salariés et d'apprentis l'année précédant celle au titre de
+laquelle l'imposition est établie ; les salariés s'entendent des personnes autres que le propriétaire du logement, son
+conjoint, les membres du foyer fiscal, les ascendants et descendants de l'exploitant agricole. 
 
 Pour bénéficier des dispositions du premier alinéa, le propriétaire doit adresser aux services des impôts du lieu de
 situation des biens, avant le 1er janvier de chaque année, une déclaration conforme au modèle établi par l'administration,
@@ -24,13 +24,13 @@ Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordon
 
 _Cite_:
 
-  - Loi n°86-1290 du 23 décembre 1986
   - Loi n°89-462 du 6 juillet 1989 - art. 6
   - Code rural - art. L716-1
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
 
 _Cité par_:
 
