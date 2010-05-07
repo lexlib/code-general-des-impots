@@ -74,9 +74,9 @@ partie réglementaire du même code ;
 
 f) A la rémunération versée par le contribuable, par un groupement forestier ou une société d'épargne forestière dont le
 contribuable est membre, pour la réalisation d'un contrat conclu pour la gestion de bois et forêts d'une surface inférieure à
-25 hectares avec un expert forestier au sens de l'article L. 171-1 du code rural, avec une coopérative forestière ou une
-organisation de producteurs au sens de l'article L. 551-1 du même code ou avec l'Office national des forêts en application de
-l'article L. 224-6 du code forestier, sous réserve des trois conditions suivantes : 
+25 hectares avec un expert forestier au sens de l'article L. 171-1 du code rural et de la pêche maritime, avec une
+coopérative forestière ou une organisation de producteurs au sens de l'article L. 551-1 du même code ou avec l'Office
+national des forêts en application de l'article L. 224-6 du code forestier, sous réserve des trois conditions suivantes : 
 
 1° le contrat de gestion doit prévoir la réalisation de programmes de travaux et de coupes sur des terrains en nature de bois
 et forêts dans le respect de l'une des garanties de gestion durable prévues à l'article L. 8 du même code ; 
@@ -187,10 +187,6 @@ _Cite_:
   - Code monétaire et financier - art. L214-87
   - Code de la sécurité sociale. - art. L341-4
 
-_Modifié par_:
-
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
-
 _Cité par_:
 
   - Décret n°2009-810 du 30 juin 2009 - art. 1
@@ -203,3 +199,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGK (V)
   - Code monétaire et financier - art. R214-147 (V)
   - Code monétaire et financier - art. R214-164 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1

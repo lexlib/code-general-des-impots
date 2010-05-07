@@ -1,43 +1,43 @@
 # Article 302 bis WC
 
-I. - Il est institué au profit de l'Etat une redevance sanitaire pour le contrôle de certaines substances et de leurs
-résidus.
+I. – Il est institué au profit de l'Etat une redevance sanitaire pour le contrôle de certaines substances et de leurs
+résidus. 
 
-Cette redevance est due par :
+Cette redevance est due par : 
 
-1 (Abrogé) ;
+1 (Abrogé) ; 
 
-2 (Abrogé) ;
+2 (Abrogé) ; 
 
 3 Les centres de collecte ou les établissements de transformation recevant du lait cru titulaires de l'agrément prévu à
-l'article L233-2 du code rural.
+l'article L. 233-2 du code rural et de la pêche maritime. 
 
-La redevance est assise sur le volume de lait cru introduit dans le centre ou l'établissement.
+La redevance est assise sur le volume de lait cru introduit dans le centre ou l'établissement. 
 
-Le fait générateur est constitué par l'introduction du lait cru dans le centre ou l'établissement ;
+Le fait générateur est constitué par l'introduction du lait cru dans le centre ou l'établissement ; 
 
-4 Les établissements de fabrication ou de traitement d'ovoproduits ayant reçu l'agrément prévu à l'article L233-2 du code
-rural.
+4 Les établissements de fabrication ou de traitement d'ovoproduits ayant reçu l'agrément prévu à l'article L. 233-2 du code
+rural et de la pêche maritime. 
 
-La redevance est assise sur le poids d'oeufs de poule en coquille introduits dans ces établissements.
+La redevance est assise sur le poids d'oeufs de poule en coquille introduits dans ces établissements. 
 
-Le fait générateur est constitué par l'introduction des oeufs en coquille dans ces établissements.
+Le fait générateur est constitué par l'introduction des oeufs en coquille dans ces établissements. 
 
-II. - Les taux de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus applicables au lait
+II. – Les taux de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus applicables au lait
 sont fixés par produit dans la limite de 150 % du niveau forfaitaire défini en euros par décision du Conseil de l'Union
-européenne.
+européenne. 
 
 Un arrêté conjoint du ministre chargé du budget et du ministre chargé de l'agriculture fixe les taux de la redevance. 
 
 Le taux de la redevance applicable aux ovoproduits est fixé, par arrêté conjoint du ministre chargé du budget et duministre
-chargé de l'agriculture, dans la limite de 0,76 euro par tonne d'oeufs en coquille.
+chargé de l'agriculture, dans la limite de 0,76 € par tonne d'oeufs en coquille. 
 
-III. - La redevance est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
-privilèges que la taxe sur la valeur ajoutée.
+III. – La redevance est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
+privilèges que la taxe sur la valeur ajoutée. 
 
-Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
+Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe. 
 
-IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+IV. – Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Nota:**
 
@@ -45,14 +45,15 @@ Modifications effectuées en conséquence de l'article 90-I F [2°] de la loi n�
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
+
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 267 quater H (V)
 
 _Cite_:
 
-  - Code rural L233-2
-
-_Modifié par_:
-
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Code rural - art. L233-2 (V)
