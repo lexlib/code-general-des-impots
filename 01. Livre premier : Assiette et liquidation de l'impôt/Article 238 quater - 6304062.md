@@ -26,7 +26,7 @@ II. Le bénéfice des dispositions du I est subordonné aux conditions suivantes
 ou morale auteur de l'apport depuis une date antérieure au 1er janvier 1962 ou y être entrés depuis cette date par succession
 ou par donation ; toutefois, aucune condition de date d'entrée dans le patrimoine n'est exigée pour les apports effectués par
 les sociétés d'aménagement foncier et d'établissement rural constituées et fonctionnant conformément aux dispositions des
-articles L141-1 à L142-6, L142-8, L144-2 et L144-3 du code rural ;
+articles L141-1 à L142-6, L142-8, L144-2 et L144-3 du code rural et de la pêche maritime ;
 
 3° La transformation ou l'apport ne doit pas comporter de transmission de biens meubles ou immeubles entre les membres du
 groupement ou d'autres personnes.
@@ -39,14 +39,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°92-1283 1992-12-11 art. 2, art. 3, art. 5, annexe JORF 12 décembre 1992
-  - Loi n°92-1283 du 11 décembre 1992 - art. 2 (V) JORF 12 décembre 1992
-  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
-  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
 
 _Cité par_:
 
