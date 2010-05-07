@@ -1,8 +1,8 @@
 # Article 1609 vicies
 
-I. – Il est institué au profit de l'organisme mentionné à l'article L. 731-1 du code rural, en France continentale et en
-Corse, une taxe spéciale sur les huiles végétales, fluides ou concrètes, effectivement destinées, en l'état ou après
-incorporation dans tous produits alimentaires, à l'alimentation humaine.
+I. – Il est institué au profit de l'organisme mentionné à l'article L. 731-1 du code rural et de la pêche maritime, en France
+continentale et en Corse, une taxe spéciale sur les huiles végétales, fluides ou concrètes, effectivement destinées, en
+l'état ou après incorporation dans tous produits alimentaires, à l'alimentation humaine.
 
 Cette taxe est due :
 
@@ -62,11 +62,18 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L731-2 (VD)
   - Code rural et de la pêche maritime - art. L732-58 (VD)
 
-_Modifié par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)
-
 _Anciens textes_:
 
   - CGI 1618 quinquies
   - Code général des impôts, CGI. - art. 1618 quinquies (T)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 258 A (V)
+  - Code général des impôts, CGI. - art. 262 ter (V)
+  - Code rural - art. L731-1 (V)
