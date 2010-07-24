@@ -9,7 +9,7 @@ quindecies B de l'annexe III, qu'ils destinent à une location meublée n'étant
 produit est imposé dans la catégorie des bénéfices industriels et commerciaux lorsque ce logement est compris dans : 
 
 1° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, une
-résidence avec services pour personnes âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L. 7232-3 du
+résidence avec services pour personnes âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L. 7232-1 du
 code du travail ou l'ensemble des logements affectés à l'accueil familial salarié de personnes âgées ou handicapées, prévu
 par les articles L. 444-1 à L. 444-9 du codede l'action sociale et des familles géré par un groupement de coopération sociale
 ou médico-sociale ; 
@@ -74,15 +74,11 @@ restant à courir à la date du décès.
 IV.-Un contribuable ne peut, pour un même logement, bénéficier à la fois des réductions d'impôt mentionnées aux articles 199
 undecies A et 199 undecies B et des dispositions du présent article.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 15-I [2°] de la loi n° 2009-431 du 20 avril 2009.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2010-853 du 23 juillet 2010 - art. 31 (V)
 
 _Cité par_:
 
@@ -97,9 +93,9 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies B
-  - Code général des impôts, CGI. - art. 197
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code de la santé publique - art. L6111-2
+  - Code général des impôts, CGI. - art. 4 B (V)
+  - Code de la santé publique - art. L6143-5 (V)
   - Code de la sécurité sociale. - art. L341-4
   - Code de l'action sociale et des familles - art. L312-1
   - Code de l'action sociale et des familles - art. L444-1
