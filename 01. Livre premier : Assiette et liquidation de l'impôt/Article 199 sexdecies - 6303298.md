@@ -3,10 +3,11 @@
 1. Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, ouvrent droit à une aide
 les sommes versées par un contribuable domicilié en France au sens de l'article 4 B pour : 
 
-a) L'emploi d'un salarié qui rend des services définis aux articles D. 129-35 et D. 129-36 du code du travail ; 
+a) L'emploi d'un salarié qui rend des services définis aux articles L. 7231-1 et D. 7231-1 du code du travail ; 
 
-b) Le recours à une association, une entreprise ou un organisme ayant reçu un agrément délivré par l'Etat et qui rend des
-services mentionnés au a ; 
+b) Le recours à une association, une entreprise ou un organisme déclaré en application de l'article L. 7232-1-1 du même code
+et qui rend exclusivement des services mentionnés au a du présent 1 ou qui bénéficie d'une dérogation à la condition
+d'activité exclusive selon l'article L. 7232-1-2 du code du travail ; 
 
 c) Le recours à un organisme à but non lucratif ayant pour objet l'aide à domicile et habilité au titre de l'aide sociale ou
 conventionné par un organisme de sécurité sociale. 
@@ -39,8 +40,8 @@ excéder 15 000 euros. Toutefois, lorsque les dispositions du deuxième alinéa 
 l'objet des majorations prévues au présent alinéa et le montant total des dépenses ne peut excéder 18 000 €. 
 
 4. L'aide prend la forme d'un crédit d'impôt sur le revenu égal à 50 % des dépenses mentionnées au 3 au titre des services
-définis à l'article D. 129-35 du code du travail, supportées au titre de l'emploi, à leur résidence, d'un salarié ou en cas
-de recours à une association, une entreprise ou un organisme, mentionné aux b ou c du 1 par : 
+définis aux articles L. 7231-1 et D. 7231-1 du code du travail, supportées au titre de l'emploi, à leur résidence, d'un
+salarié ou en cas de recours à une association, une entreprise ou un organisme, mentionné aux b ou c du 1 par : 
 
 a) Le contribuable célibataire, veuf ou divorcé qui exerce une activité professionnelle ou est inscrit sur la liste des
 demandeurs d'emplois prévue à l'article L. 5411-1 du code du travail durant trois mois au moins au cours de l'année du
@@ -65,14 +66,14 @@ définis au 1.
 
 **Nota:**
 
-Conformément à l'article 98 de la loi n° 2008-1425 du 27 décembre 2008, les dispositions introduites par la présente loi
-s'appliquent à compter de l'imposition des revenus de 2009.
+Conformément à l'article 31 IV de la loi n° 2010-853 du 23 juillet 2010, les dispositions introduites par la présente loi
+s'appliquent à compter de l'imposition des revenus de 2010.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 98 (V)
+  - Loi n°2010-853 du 23 juillet 2010 - art. 31 (V)
 
 _Cité par_:
 
@@ -103,8 +104,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 quater B
   - Code général des impôts, CGI. - art. 4 B
   - Code général des impôts, CGI. - art. 81
-  - Code du travail - art. D129-35
+  - Code du travail - art. D7231-1 (V)
   - Code du travail - art. L5411-1 (V)
+  - Code du travail - art. L7231-1 (V)
   - Code du travail - art. L7233-4
   - Code de la sécurité sociale. - art. L341-4
   - Code de la sécurité sociale. - art. L541-1
