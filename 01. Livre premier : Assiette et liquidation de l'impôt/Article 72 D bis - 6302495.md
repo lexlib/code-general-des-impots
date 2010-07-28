@@ -14,18 +14,19 @@ civile, la conversion en équivalent temps plein résulte pour chaque salarié d
 pour lesquelles une dépense a été engagée au cours de l'exercice et 1 607 heures. Cette conversion n'est pas effectuée si ce
 rapport est supérieur à un. Le total obtenu est arrondi à l'unité supérieure. 
 
-Toutefois, la déduction pour aléas est plafonnée à la différence positive entre la somme de 150 000 euros et le montant des
+Toutefois, la déduction pour aléas est plafonnée à la différence positive entre la somme de 150 000 € et le montant des
 déductions pratiquées et non encore rapportées au résultat, majoré des intérêts capitalisés en application du sixième
 alinéa. 
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux,
 les plafonds sont multipliés par le nombre des associés exploitants dans la limite de trois. 
 
-La déduction pour aléas s'exerce à la condition que, dans les trois mois de la clôture de l'exercice, l'exploitant ait
+La déduction pour aléas s'exerce à la condition que, dans les six mois de la clôture de l'exercice et au plus tard à la date
+de dépôt de déclaration des résultats se rapportant à l'exercice au titre duquel la déduction est pratiquée, l'exploitant ait
 inscrit à un compte d'affectation ouvert auprès d'un établissement de crédit une somme provenant des recettes de
-l'exploitation de cet exercice égale au montant de la déduction.L'épargne professionnelle ainsi constituée doit être inscrite
-à l'actif du bilan de l'exploitation. Les intérêts produits par cette épargne professionnelle et qui sont capitalisés dans le
-compte d'affectation ne sont pas soumis à l'impôt. 
+l'exploitation de cet exercice égale au montant de la déduction. L'épargne professionnelle ainsi constituée doit être
+inscrite à l'actif du bilan de l'exploitation. Les intérêts produits par cette épargne professionnelle et qui sont
+capitalisés dans le compte d'affectation ne sont pas soumis à l'impôt. 
 
 La déduction est pratiquée après application des abattements prévus aux articles 44 quaterdecies et 73 B et de la déduction
 pour investissement prévue à l'article 72 D. 
@@ -42,7 +43,7 @@ limite des franchises ;
 c) Au titre de l'exercice de survenance d'un aléa non assuré d'origine climatique, naturelle ou sanitaire, reconnu par une
 autorité administrative compétente, ou déclaré par l'exploitant lorsque la différence positive entre la moyenne des chiffres
 d'affaires hors taxes des trois exercices précédents et le chiffre d'affaires hors taxes de l'exercice, réalisé dans des
-conditions comparables, excède 10 % de cette moyenne, dans la limite de cette différence ;
+conditions comparables, excède 10 % de cette moyenne, dans la limite de cette différence ; 
 
 d) Au titre de l'exercice de survenance d'un aléa d'origine économique lorsque la différence positive entre la moyenne des
 valeurs ajoutées des trois exercices précédents et la valeur ajoutée de l'exercice, réalisée dans des conditions comparables,
@@ -53,14 +54,16 @@ transferts de charges d'exploitation affectés, du coût d'achat des marchandise
 en provenance de tiers. 
 
 Les sommes et intérêts ainsi utilisés sont rapportés au résultat de l'exercice au cours duquel leur retrait du compte est
-intervenu. 
+intervenu ou de l'exercice au cours duquel est survenu l'aléa visé au d à condition que ce prélèvement soit intervenu dans
+les six mois de la clôture de cet exercice et au plus tard à la date de dépôt de la déclaration des résultats s'y
+rapportant. 
 
 Lorsque ces sommes et intérêts ne sont pas utilisés au cours des dix exercices qui suivent celui de leur inscription au
 compte, ils sont rapportés aux résultats du dixième exercice suivant celui au titre duquel ils ont été inscrits. 
 
 Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux mentionnés aux a à d au cours des dix exercices qui
 suivent celui de leur inscription, ils sont rapportés au résultat de l'exercice au cours duquel ce prélèvement a été effectué
-et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu à l'article 1727. 
+et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu à l'article 1727.
 
 II.-L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies, à une société civile
 agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas
@@ -83,13 +86,16 @@ définies au I.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 72 D ter, 151 octies, 41
-
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 91
+  - Loi n°2010-874 du 27 juillet 2010 - art. 33
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1727
+  - Code général des impôts, CGI. - art. 44 quaterdecies
+  - Code général des impôts, CGI. - art. 72 D
+  - Code général des impôts, CGI. - art. 73 B
 
 _Cité par_:
 
