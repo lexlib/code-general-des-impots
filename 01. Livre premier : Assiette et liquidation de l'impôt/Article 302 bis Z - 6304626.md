@@ -1,33 +1,43 @@
 # Article 302 bis Z
 
-A compter du 15 janvier 1995, il est institué une taxe due par les entreprises de transport public aérien sur le nombre de
-passagers embarquant dans les aéroports situés en France continentale, quelle que soit leur destination. Cette taxe s'ajoute
-aux prix demandés aux passagers.
+Sont soumises à une contribution annuelle les ventes deproduits alimentaires à consommer sur place ou à emporter, réalisées
+par des personnes qui exploitent en France métropolitaine :
 
-Son tarif est de 1 F par passager.
+des établissements d'hébergement ;
 
-Les règles de déclaration, paiement, contrôle, sanctions, recouvrement et contentieux applicables à cette taxe sont celles
-prévues à l'article 302 bis K.
+des établissements qui réalisent des ventes à consommer sur place de produitsalimentaires et dont l'activité principale
+résulte des ventes mentionnées aupremier alinéa, à l'exception des cantines d'entreprises. 
+
+La contribution est calculée au taux de 0, 12 % sur la fraction qui excède 200 000 € du montant hors taxe sur la valeur
+ajoutée des sommes encaissées enrémunération des ventes mentionnées au premier alinéa réalisées au cours de l'année
+précédente ou du dernier exercice clos. 
+
+Les redevables déclarent et acquittent la contribution due lors du dépôt de la déclaration mentionnée au 1 de l'article 287
+au titre du mois de mars ou autitre du premier trimestre de l'année civile, ou, pour les redevables placéssous le régime
+simplifié d'imposition prévu à l'article 302 septies A, lors dudépôt de la déclaration mentionnée au 3 de l'article 287. 
+
+La contribution n'est pas recouvrée lorsque le montant de la contribution due est inférieur à 50 €. 
+
+La contribution est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
+privilèges que la taxe sur la valeur ajoutée. 
+
+Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2010-893 du 29 juillet 2010 - art. 1
+
+**Liens**:
+
+  - PERIME: Décret n°2020-897 du 22 juillet 2020 - art. 1
+
 _Cite_:
 
-  - CGI 302 bis K
+  - Code général des impôts, CGI. - art. 287
+  - Code général des impôts, CGI. - art. 302 septies A
 
 _Anciens textes_:
 
   - Code général des impôts, CGI. - art. 302 bis ZG (T)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - HISTO: Edition du 31 mars 1999
-
-_Modifié par_:
-
-  - Loi n°96-1181 du 30 décembre 1996 - art. 45 () JORF 31 décembre 1996
-
-_Abrogé par_:
-
-  - Loi n°98-1266 1998-12-30 art. 51 III Finances pour 1999 JORF 31 décembre 1998
