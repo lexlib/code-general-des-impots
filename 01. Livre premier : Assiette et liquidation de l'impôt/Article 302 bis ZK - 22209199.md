@@ -2,12 +2,14 @@
 
 Le taux des prélèvements mentionnés aux articles 302 bis ZG, 302 bis ZH et 302 bis ZI est fixé à : 
 
-5, 7 % des sommes engagées au titre des paris hippiques et des paris sportifs ; 
+4,6 % des sommes engagées au titre des paris hippiques ;
+
+5,7 % des sommes engagées au titre des paris sportifs ; 
 
 1, 8 % des sommes engagées au titre des jeux de cercle en ligne.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-476 du 12 mai 2010 - art. 47
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 34 (V)
