@@ -9,20 +9,17 @@ quater et de l'article 125 D.
 
 2. (Périmé). 
 
-3. Les paiements afférents à l'impôt mentionné à l'article 1668 sont effectués par virement directement opéré sur le compte
-du Trésor ouvert dans les écritures de la Banque de France lorsque le chiffre d'affaires hors taxes réalisé au titre de
-l'exercice précédent par l'entreprise est supérieur à 760 000 euros. 
+3. (Abrogé). 
 
 4. Les paiements afférents à la taxe sur les salaires mentionnée à l'article 231 sont effectués par virement directement
-opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant excède 50 000 euros. 
-
-5. (Abrogé)
+opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant excède 50 000 euros.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 29 (V)
 
 _Cite_:
 
@@ -30,8 +27,6 @@ _Cite_:
   - Code général des impôts, CGI. - art. 119 bis
   - Code général des impôts, CGI. - art. 125 A
   - Code général des impôts, CGI. - art. 125 D
-  - Code général des impôts, CGI. - art. 1647 E
-  - Code général des impôts, CGI. - art. 1668
   - Code général des impôts, CGI. - art. 1672
   - Code général des impôts, CGI. - art. 231
 
