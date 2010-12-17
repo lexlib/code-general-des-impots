@@ -1,18 +1,19 @@
 # Article 1609 nonies C
 
-**I.** - 1° Les communautés d'agglomération définies aux articles L. 5216-1 et L. 5216-2 du code général des collectivités
-territoriales ou issues de la transformation d'un syndicat d'agglomération nouvelle ou d'une communauté d'agglomération
-nouvelle conformément aux dispositions de l'article L. 5341-2 du code général des collectivités territoriales, les
-communautés urbaines soumises de plein droit ou après option aux dispositions du présent article sont substituées aux
-communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des I et II des
-articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
+I
+  **.** - 1° Les communautés d'agglomération définies aux articles L. 5216-1 et L. 5216-2 du code général des collectivités
+territoriales ou issues de la transformation d'un syndicat d'agglomération nouvelle conformément aux dispositions de
+l'article L. 5341-2 du code général des collectivités territoriales, les communautés urbaines soumises de plein droit ou
+après option aux dispositions du présent article sont substituées aux communes membres pour l'application des dispositions
+relatives à la taxe professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit de
+cette taxe.
 
 2° Les communautés de communes faisant application des dispositions fiscales prévues au III de l'article 1609 quinquies C
 sont substituées aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception
 des I et II des articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
 
-**II**. 1° Les établissements publics de coopération intercommunale visés au I peuvent décider, par délibération du conseil
-de l'établissement public de coopération intercommunale statuant à la majorité simple de ses membres, de percevoir la taxe
+II. 1° Les établissements publics de coopération intercommunale visés au I peuvent décider, par délibération du conseil de
+l'établissement public de coopération intercommunale statuant à la majorité simple de ses membres, de percevoir la taxe
 d'habitation et les taxes foncières. Cette délibération est applicable à compter du 1er janvier de l'année suivant celle au
 cours de laquelle elle est intervenue.
 
@@ -35,7 +36,7 @@ de taxes foncières votés par lui l'année précédente.
 Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que
 le taux de la taxe d'habitation jusqu'à la date de la prochaine révision.
 
-**III**. 1° a. La première année d'application des dispositions du I, le taux de taxe professionnelle voté par le conseil de
+III. 1° a. La première année d'application des dispositions du I, le taux de taxe professionnelle voté par le conseil de
 l'établissement public de coopération intercommunale ne peut excéder le taux moyen de la taxe professionnelle des communes
 membres constaté l'année précédente, pondéré par l'importance relative des bases de ces communes.
 
@@ -93,9 +94,11 @@ présent article, les dispositions des I, II, II bis et V de l'article 1638 quat
 Pour le rattachement de toute nouvelle commune à une communauté d'agglomération issue de la transformation d'un syndicat
 d'agglomération nouvelle, les dispositions de l'article 1638 quater sont applicables.
 
-**IV**. Il est créé entre l'établissement public de coopération intercommunale soumis aux dispositions fiscales du I du
-présent article et les communes membres une commission locale chargée d'évaluer les transferts de charges. Elle est composée
-de membres des conseils municipaux des communes concernées ; chaque conseil municipal dispose d'au moins un représentant.
+IV. Il est créé entre l'établissement public de coopération intercommunale soumis aux dispositions fiscales du I du présent
+article et les communes membres une commission locale chargée d'évaluer les transferts de charges. Cette commission est créée
+par l'organe délibérant de l'établissement public qui en détermine la composition à la majorité des deux tiers. Elle est
+composée de membres des conseils municipaux des communes concernées ; chaque conseil municipal dispose d'au moins un
+représentant.
 
 La commission élit son président et un vice-président parmi ses membres. Le président convoque la commission et détermine son
 ordre du jour ; il en préside les séances. En cas d'absence ou d'empêchement, il est remplacé par le vice-président.
@@ -124,8 +127,8 @@ la commission d'évaluation des transferts de charges doit rendre ses conclusion
 transférées à l'établissement public de coopération intercommunale et celui de la fiscalité ou des contributions des communes
 qui étaient perçues pour les financer.
 
-**V**. - 1° L'établissement public de coopération intercommunale verse à chaque commune membre une attribution de
-compensation. Elle ne peut être indexée.
+V. - 1° L'établissement public de coopération intercommunale verse à chaque commune membre une attribution de compensation.
+Elle ne peut être indexée.
 
 Lorsque l'attribution de compensation est négative, l'établissement public de coopération intercommunale peut demander à la
 commune d'effectuer, à due concurrence, un versement à son profit.
@@ -224,9 +227,9 @@ Cette attribution est recalculée dans les conditions prévues au IV lors de cha
 être indexée.
 
 4° Lorsqu'il est fait application des dispositions du présent article à une communauté d'agglomération issue de la
-transformation d'un syndicat d'agglomération nouvelle ou d'une communauté d'agglomération nouvelle, l'attribution de
-compensation versée chaque année aux communes membres est égale à la dotation de coopération définie à l'article L. 5334-8 du
-code général des collectivités territoriales perçue l'année précédant celle de la première application de ces dispositions.
+transformation d'un syndicat d'agglomération nouvelle, l'attribution de compensation versée chaque année aux communes membres
+est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des collectivités territoriales perçue
+l'année précédant celle de la première application de ces dispositions.
 
 Cette attribution est recalculée dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elle ne peut
 être indexée.
@@ -253,10 +256,10 @@ au 3°. Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de co
 est respectivement diminuée ou majorée du montant net des charges tranférées calculé dans les conditions définies au IV.
 
 L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un syndicat
-d'agglomération nouvelle ou d'une communauté d'agglomération nouvelle est égale à la dotation de coopération définie à
-l'article L. 5334-8 du code général des collectivités territoriales perçue l'année de la fusion. Lorsque la fusion
-s'accompagne d'un transfert ou d'une restitution de compétences, l'attribution de compensation est respectivement diminuée ou
-majorée du montant net des charges transférées calculé dans les conditions définies au IV.
+d'agglomération nouvelle est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des
+collectivités territoriales perçue l'année de la fusion. Lorsque la fusion s'accompagne d'un transfert ou d'une restitution
+de compétences, l'attribution de compensation est respectivement diminuée ou majorée du montant net des charges transférées
+calculé dans les conditions définies au IV.
 
 L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un établissement
 public de coopération intercommunale sans fiscalité propre est calculée dans les conditions prévues au 2°.
@@ -347,27 +350,6 @@ coopération intercommunale et, le cas échéant, au profit de l'établissement 
 pour le régime fiscal prévu au présent article ou dont la communauté de communes est issue.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1648 A, 1648 AA, 1609 quinquies C, 1609 bis, 1639 A, 1636 B decies, 1638 quater, 1383 B, 1390, 1391, 1414, 1638-0 bis
-  - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
-  - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992
-  - Loi n°96-987 du 14 novembre 1996 - art. 4 ()
-  - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
-  - Loi n°99-586 1999-07-12
-  - Loi n°2002-1575 2002-12-30 art. 26 Finances pour 2003
-  - Loi n°2003-1311 2003-12-30 art. 53 Finances pour 2004
-  - Code général des collectivités territoriales - art. L5211-41-1 (M)
-  - Code général des collectivités territoriales - art. L5211-41-3 (M)
-  - Code général des collectivités territoriales - art. L5211-5 (M)
-  - Code général des collectivités territoriales - art. L5215-40-1 (M)
-  - Code général des collectivités territoriales - art. L5216-10 (M)
-  - Code général des collectivités territoriales - art. L5216-2 (Ab)
-  - Code général des collectivités territoriales - art. L5334-8 (M)
-  - Code général des collectivités territoriales - art. L5341-2 (M)
-  - Code de la construction et de l'habitation. - art. L302-7 (M)
-  - Code de la construction et de l'habitation. - art. L302-8 (M)
 
 _Cité par_:
 
@@ -460,6 +442,25 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1656 bis (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 sexdecies (P)
 
+_Cite_:
+
+  - Loi n°86-1317 du 30 décembre 1986
+  - Loi
+  - Loi n°96-987 du 14 novembre 1996 - art. 4
+  - Loi n°99-586 du 12 juillet 1999
+  - Loi n°2002-1575 du 30 décembre 2002
+  - Loi de finances pour 2004 (n°2003-1311 du 30 décembre 2003
+  - Code général des collectivités territoriales - art. L5211-41-1
+  - Code général des collectivités territoriales - art. L5211-41-3
+  - Code général des collectivités territoriales - art. L5211-5
+  - Code général des collectivités territoriales - art. L5215-40-1
+  - Code général des collectivités territoriales - art. L5216-10
+  - Code général des collectivités territoriales - art. L5216-2
+  - Code général des collectivités territoriales - art. L5334-8
+  - Code général des collectivités territoriales - art. L5341-2
+  - Code de la construction et de l'habitation. - art. L302-7
+  - Code de la construction et de l'habitation. - art. L302-8
+
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 I 4° (V)
+  - Loi n°2010-1563 du 16 décembre 2010 - art. 31
