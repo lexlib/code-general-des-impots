@@ -1,8 +1,8 @@
 # Article 1636 B decies
 
-I. - Les communes membres d'une communauté ou d'un syndicat d'agglomération nouvelle mentionnés à l'article 1609 nonies B ou
-d'un établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C votent les taux
-des taxes foncières et de la taxe d'habitation, conformément aux dispositions applicables aux communes.
+I. - Les communes membres d'un syndicat d'agglomération nouvelle mentionné à l'article 1609 nonies B ou d'un établissement
+public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C votent les taux des taxes foncières
+et de la taxe d'habitation, conformément aux dispositions applicables aux communes.
 
 Toutefois, pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle qui
 devient soumis aux dispositions de l'article 1609 nonies C, et pour la première année d'application de ces dispositions, le
@@ -10,10 +10,10 @@ dernier alinéa du 1 du I de l'article 1636 B sexies n'est pas applicable lorsqu
 non bâties voté l'année précédente par la commune est inférieur de plus d'un tiers au taux moyen constaté la même année au
 niveau national dans l'ensemble des collectivités de même nature.
 
-II. - La communauté ou le syndicat d'agglomération nouvelle visés à l'article 1609 nonies B ou les établissements publics de
-coopération intercommunale visés soit au I de l'article 1609 nonies C, soit au II de l'article 1609 quinquies C votent le
-taux de la taxe professionnelle dans les limites définies au b du 1, ainsi qu'aux 2 et 3, au premier alinéa du a du 4 et au 5
-du I de l'article 1636 B sexies et à l'article 1636 B septies.
+II. - Le syndicat d'agglomération nouvelle visé à l'article 1609 nonies B ou les établissements publics de coopération
+intercommunale visés soit au I de l'article 1609 nonies C, soit au II de l'article 1609 quinquies C votent le taux de la taxe
+professionnelle dans les limites définies au b du 1, ainsi qu'aux 2 et 3, au premier alinéa du a du 4 et au 5 du I de
+l'article 1636 B sexies et à l'article 1636 B septies.
 
 Toutefois, l'obligation de diminuer le taux de taxe professionnelle dans une proportion au moins égale soit à la diminution
 du taux de la taxe d'habitation ou à celle du taux moyen pondéré de la taxe d'habitation et des taxes foncières, soit à la
@@ -73,12 +73,12 @@ précédente au niveau national pour l'ensemble des syndicats d'agglomération n
 _Cite_:
 
   - CGI 1609 nonies B, 1609 nonies C, 1636 B sexies, 1609 quinquies C, 1636 B septies, 1639 A
-  - Code général des collectivités territoriales - art. L5311-1 (V)
-  - Code général des collectivités territoriales - art. L5334-19 (V)
+  - Code général des collectivités territoriales - art. L5311-1
+  - Code général des collectivités territoriales - art. L5334-19
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 88 () JORF 31 décembre 2005
+  - Loi n°2010-1563 du 16 décembre 2010 - art. 31
 
 _Cité par_:
 
@@ -93,7 +93,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1640 C (V)
   - Code général des impôts, CGI. - art. 1656 (VT)
   - Code général des impôts, CGI. - art. 1656 bis (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
