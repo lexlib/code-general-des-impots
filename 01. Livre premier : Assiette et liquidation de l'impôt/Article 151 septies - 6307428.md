@@ -1,120 +1,92 @@
 # Article 151 septies
 
-I.-Sous réserve des dispositions du VII, les dispositions du présent article s'appliquent aux activités commerciales,
-industrielles, artisanales, libérales ou agricoles, exercées à titre professionnel.
-
-L'exercice à titre professionnel implique la participation personnelle, directe et continue à l'accomplissement des actes
-nécessaires à l'activité.
+I.-Les dispositions du présent article s'appliquent aux activités commerciales, industrielles, artisanales, libérales ou
+agricoles, exercées à titre professionnel.
 
 II.-Les plus-values de cession soumises au régime des articles 39 duodecies à 39 quindecies, à l'exception de celles
 afférentes aux biens entrant dans le champ d'application du A de l'article 1594-0 G, et réalisées dans le cadre d'une des
-activités mentionnées au I sont, à condition que l'activité ait été exercée pendant au moins cinq ans, exonérées pour :
+activités mentionnées au I sont, à condition que l'activité ait été exercée pendant au moins cinq ans, exonérées pour : 
 
-1° La totalité de leur montant lorsque les recettes annuelles sont inférieures ou égales à :
+1° La totalité de leur montant lorsque les recettes annuelles sont inférieures ou égales à : 
 
 a) 250 000 euros s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et
 denrées à emporter ou à consommer sur place ou de fournir le logement, à l'exclusion de la location directe ou indirecte de
-locaux d'habitation meublés ou destinés à être loués meublés, ou s'il s'agit d'entreprises exerçant une activité agricole ;
+locaux d'habitation meublés ou destinés à être loués meublés, ou s'il s'agit d'entreprises exerçant une activité agricole ; 
 
-b) 90 000 euros s'il s'agit d'autres entreprises ou de titulaires de bénéfices non commerciaux ;
+b) 90 000 euros s'il s'agit d'autres entreprises ou de titulaires de bénéfices non commerciaux ; 
 
 2° Une partie de leur montant lorsque les recettes sont supérieures à 250 000 euros et inférieures à 350 000 euros pour les
 entreprises mentionnées au a du 1° et, lorsque les recettes sont supérieures à 90 000 euros et inférieures à 126 000 euros,
 pour les entreprises mentionnées au b du 1°. Pour l'application de ces dispositions, le montant exonéré de la plus-value est
-déterminé en lui appliquant :
+déterminé en lui appliquant : 
 
 a) Pour les entreprises mentionnées au a du 1°, un taux égal au rapport entre, au numérateur, la différence entre 350 000
-euros et le montant des recettes et, au dénominateur, le montant de 100 000 euros ;
+euros et le montant des recettes et, au dénominateur, le montant de 100 000 euros ; 
 
 b) Pour les entreprises mentionnées au b du 1°, un taux égal au rapport entre, au numérateur, la différence entre 126 000
-euros et le montant des recettes et, au dénominateur, le montant de 36 000 euros.
+euros et le montant des recettes et, au dénominateur, le montant de 36 000 euros. 
 
 Lorsque l'activité de l'entreprise se rattache aux deux catégories définies aux a et b du 1°, l'exonération totale n'est
 applicable que si le montant global des recettes est inférieur ou égal à 250 000 euros et si le montant des recettes
-afférentes aux activités définies au b du 1° est inférieur ou égal à 90 000 euros.
+afférentes aux activités définies au b du 1° est inférieur ou égal à 90 000 euros. 
 
 Lorsque ces conditions ne sont pas remplies, si le montant global des recettes est inférieur à 350 000 euros et si le montant
 des recettes afférentes aux activités définies au b du 1° est inférieur à 126 000 euros, le montant exonéré de la plus-value
 est déterminé en appliquant le moins élevé des deux taux qui aurait été déterminé dans les conditions fixées au 2° si
 l'entreprise avait réalisé le montant global de ses recettes dans les catégories visées au a du 1° ou si l'entreprise n'avait
-réalisé que des activités visées au b du 1°.
+réalisé que des activités visées au b du 1°. 
 
 III.-Les plus-values réalisées à l'occasion de la cession de matériels agricoles ou forestiers par des entreprises de travaux
 agricoles ou forestiers sont exonérées dans les conditions applicables aux entreprises mentionnées au a du 1° du II. Un
-décret précise les modalités d'application du présent III.
+décret précise les modalités d'application du présent III. 
 
 IV.-Le montant des recettes annuelles s'entend de la moyenne des recettes, appréciées hors taxes, réalisées au titre des
 exercices clos, ramenés le cas échéant à douze mois, au cours des deux années civiles qui précèdent l'exercice de réalisation
-des plus-values.
+des plus-values. 
 
 Pour les entreprises dont les recettes correspondent à des sommes encaissées, le montant des recettes annuelles s'entend de
 la moyenne des recettes, appréciées hors taxes, au cours des deux années civiles qui précèdent l'année de réalisation des
-plus-values.
+plus-values. 
 
 Lorsque le contribuable exerce plusieurs activités, il est tenu compte du montant total des recettes réalisées dans
-l'ensemble de ces activités.
+l'ensemble de ces activités. 
 
 Il est également tenu compte des recettes réalisées par les sociétés mentionnées aux articles 8 et 8 ter et les groupements
 non soumis à l'impôt sur les sociétés dont il est associé ou membre, à proportion de ses droits dans les bénéfices de ces
-sociétés et groupements.
+sociétés et groupements. 
 
-Pour l'application des troisième et quatrième alinéas, la globalisation des recettes est effectuée par catégorie de revenus.
+Pour l'application des troisième et quatrième alinéas, la globalisation des recettes est effectuée par catégorie de revenus. 
 
 Lorsque les plus-values sont réalisées par une société ou un groupement mentionnés au quatrième alinéa, le montant des
 recettes annuelles s'apprécie au niveau de la société ou du groupement.
 
 V.-Pour les plus-values réalisées à la suite d'une expropriation ou de la perception d'indemnités d'assurance, la condition
-d'exercice de l'activité pendant au moins cinq ans n'est pas requise.
+d'exercice de l'activité pendant au moins cinq ans n'est pas requise. 
 
 Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du 1° du II de l'article L. 13-15 du
 code de l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ
-d'application du I du A de l'article 1594-0 G du présent code.
+d'application du I du A de l'article 1594-0 G du présent code. 
 
 VI.-Les plus-values mentionnées aux II et III s'entendent des plus-values nettes déterminées après compensation avec les
-moins-values de même nature.
+moins-values de même nature. 
 
 VII.-Les articles 150 U à 150 VH sont applicables aux plus-values réalisées lors de la cession de locaux d'habitation meublés
 ou destinés à être loués meublés et faisant l'objet d'une location directe ou indirecte lorsque cette activité n'est pas
-exercée à titre professionnel. L'activité de location directe ou indirecte de locaux d'habitation meublés ou destinés à être
-loués meublés est exercée à titre professionnel lorsque les trois conditions suivantes sont réunies :
-
-1° Un membre du foyer fiscal au moins est inscrit au registre du commerce et des sociétés en qualité de loueur
-professionnel ;
-
-2° Les recettes annuelles retirées de cette activité par l'ensemble des membres du foyer fiscal excèdent 23 000 € ;
-
-3° Ces recettes excèdent les revenus du foyer fiscal soumis à l'impôt sur le revenu dans les catégories des traitements et
-salaires au sens de l'article 79, des bénéfices industriels et commerciaux autres que ceux tirés de l'activité de location
-meublée, des bénéfices agricoles, des bénéfices non commerciaux et des revenus des gérants et associés mentionnés à l'article
-62.
-
-Pour l'application de la troisième condition, les recettes afférentes à une location ayant commencé avant le 1er janvier 2009
-ou portant sur un local d'habitation acquis ou réservé avant cette date dans les conditions prévues aux articles L. 261-2, L.
-261-3, L. 261-15 ou L. 262-1 du code de la construction et de l'habitation sont comptées pour un montant quintuple de leur
-valeur, diminué de deux cinquièmes de cette valeur par année écoulée depuis le début de la location, dans la limite de dix
-années à compter du début de celle-ci.
-
-La location du local d'habitation est réputée commencer à la date de son acquisition ou, si l'acquisition a eu lieu avant
-l'achèvement du local, à la date de cet achèvement.L'année où commence la location, les recettes y afférentes sont, le cas
-échéant, ramenées à douze mois pour l'appréciation des seuils mentionnés aux 2° et 3°. Il en est de même l'année de cessation
-totale de l'activité de location.
+exercée à titre professionnel. 
 
 VIII.-Les dispositions du présent article ne s'appliquent pas aux transferts de biens ou de droits dans un patrimoine
 fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'article 2011 du code civil.
 
 **Nota:**
 
-Conformément à l'article 1 de la décision n° 2017-689 QPC du 8 février 2018, le mot " trois " figurant dans la seconde phrase
-du premier alinéa et le 1° du paragraphe VII de l' article 151 septies du code général des impôts, dans ses rédactions
-résultant de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et de l' ordonnance n° 2009-112 du 30 janvier 2009
-portant diverses mesures relatives à la fiducie est contraire à la Constitution. Conformément à l'article 2, la déclaration
-d'inconstitutionnalité de l'article 1er prend effet dans les conditions fixées au paragraphe 12 de cette décision.
+Les I à III de l'article 13 de la loi n° 2010-1658 du 29 décembre 2010 sont applicables aux exercices et périodes
+d'impositions ouverts à compter du 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 10
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 13 (V)
 
 _Cité par_:
 
