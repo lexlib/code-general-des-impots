@@ -18,21 +18,23 @@ b. Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, pay
 2° L'acquisition de matériaux d'isolation thermique des parois vitrées, de volets isolants ou de portes d'entrée donnant sur
 l'extérieur ; 
 
-3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques ainsi que l'acquisition de matériaux de
-calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire ;
+3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de dépenses
+par mètre carré, fixé par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget, ainsi que
+l'acquisition de matériaux de calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur
+ou d'eau chaude sanitaire ; 
 
 4° L'acquisition d'appareils de régulation de chauffage ; 
 
 c. Au coût des équipements de production d'énergie utilisant une source d'énergie renouvelable ou des pompes à chaleur,
-autres que air / air, dont la finalité essentielle est la production de chaleur ou d'eau chaude sanitaire, ainsi qu'au coût
-de la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques : 
+autres que air/ air, dont la finalité essentielle est la production de chaleur ou d'eau chaude sanitaire, ainsi qu'au coût de
+la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques : 
 
 1° Payés entre le 1er janvier 2005 et le 31 décembre 2012 dans le cadre de travaux réalisés dans un logement achevé ; 
 
 2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31 décembre 2012 ; 
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er
-janvier 2005 et le 31 décembre 2012 ;
+janvier 2005 et le 31 décembre 2012 ; 
 
 d) Au coût des équipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou
 par une installation de cogénération : 
@@ -62,8 +64,8 @@ f) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, pay
 défini à l'article L. 134-1 du code de la construction et de l'habitation. Pour un même logement, un seul diagnostic de
 performance énergétique ouvre droit au crédit d'impôt par période de cinq ans. 
 
-1 bis. Le crédit d'impôt ne s'applique pas  aux dépenses payées ouvrant droit au bénéfice du crédit d'impôt prévu à
-l'article 200 quater C.  
+1 bis. Le crédit d'impôt ne s'applique pas aux dépenses payées ouvrant droit au bénéfice du crédit d'impôt prévu à l'article
+200 quater C. 
 
 2. Un arrêté conjoint des ministres chargés de l'énergie, du logement et du budget fixe la liste des équipements, matériaux
 et appareils qui ouvrent droit au crédit d'impôt. Il précise les caractéristiques techniques et les critères de performances
@@ -92,11 +94,12 @@ fiscal.
 
 a. (Abrogé) 
 
-b) 15 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ;
+b) 15 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ; 
 
-c) 25 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ;
+c) 25 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ; 
 
-d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du 1 :
+d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du
+1 : 
 
 <table border="1">
   <tbody>
@@ -106,68 +109,79 @@ d) Pour le montant des équipements de production d'énergie utilisant une sourc
 </th>
       <th>
 
-2009</th>
-      <th>
+2010 </th>
+      <th>A compter de 2011 
 
-A COMPTER
-
-de 2010</th>
+</th>
     </tr>
     <tr>
       <td align="center">
 
-Cas général</td>
+Cas général </td>
       <td align="center">
 
-50 %</td>
+50 % </td>
+      <td align="center">50 % 
+
+</td>
+    </tr>
+    <tr>
+      <td>Equipements de production d'électricité utilisant l'énergie radiative du soleil </td>
       <td align="center">
 
-50 %</td>
+50 % (1) 
+
+25 % (2) 
+
+</td>
+      <td align="center">25 % 
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Pompes à chaleur (autres que air/air) dont la finalité essentielle est la production de chaleur, à l'exception des pompes à
-chaleur géothermiques.</td>
+Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production de chaleur, à l'exception des pompes à
+chaleur géothermiques. </td>
       <td align="center">
 
-40 %</td>
-      <td align="center">
+25 % </td>
+      <td align="center">25 % 
 
-25 %</td>
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur.</td>
+Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. </td>
       <td align="center">
 
-40 %</td>
-      <td align="center">
+40 % </td>
+      <td align="center">40 % 
 
-40 %</td>
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Pompes à chaleur (autres que air/air) thermodynamiques dédiées à la production d'eau chaude sanitaire (1).</td>
+Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production d'eau chaude sanitaire. </td>
       <td align="center">
 
-Non applicable</td>
-      <td align="center">
+40 % </td>
+      <td align="center">40 % 
 
-40 %</td>
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques.</td>
+Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques. </td>
       <td align="center">
 
-Non applicable</td>
-      <td align="center">
+40 % </td>
+      <td align="center">40 % 
 
-40 %</td>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -177,37 +191,56 @@ Chaudières et équipements de chauffage ou de production d'eau chaude fonctionn
 
 </td>
       <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
+
+- cas général ; </td>
+      <td align="center">
+
+25 % 
+
+</td>
+      <td align="center">25 %
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-- cas général ;</td>
+- en cas de remplacement des mêmes matériels. </td>
       <td align="center">
 
-40 %</td>
-      <td align="center">
+40 % 
 
-25 %</td>
+</td>
+      <td align="center">40 % 
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td>(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles pour lesquelles le contribuable
+peut justifier jusqu'à cette date : 
 
-- en cas de remplacement des mêmes matériels.</td>
-      <td align="center">
+a) De l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à l'entreprise ; 
 
-40 %</td>
-      <td align="center">
+b) De la signature d'un contrat dans le cadre d'un démarchage mentionné aux articles L. 121-21 à L. 121-33 du code de la
+consommation, à la condition de justifier d'un paiement total ou partiel jusqu'au 6 octobre 2010 ; 
 
-40 %</td>
-    </tr>
+c) Ou d'un moyen de financement accordé à raison des dépenses concernées par un établissement de crédit. 
+
+(2) Pour les dépenses payées à compter du 29 septembre 2010. 
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
   </tbody>
 </table>
 
-e) 25 % du montant des équipements mentionnés aux d et e du 1 ;
+e) 25 % du montant des équipements mentionnés aux d et e du 1 ; 
 
-f) 50 % du montant des dépenses mentionnées au 2° du f du 1. 
+f) 50 % du montant des dépenses mentionnées au 2° du f du 1.
 
 6. Les équipements, matériaux, appareils et travaux de pose mentionnés au 1 s'entendent de ceux figurant sur la facture d'une
 entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° des c, d et e du 1, des équipements figurant sur une
@@ -220,17 +253,20 @@ Le crédit d'impôt est accordé sur présentation de l'attestation mentionnée 
 factures d'acompte, des personnes ayant réalisé le diagnostic de performance énergétique ou des entreprises ayant réalisé les
 travaux. Ces factures comportent, outre les mentions prévues à l'article 289, le lieu de réalisation des travaux ou du
 diagnostic de performance énergétique, la nature de ces travaux ainsi que la désignation, le montant et, le cas échéant, les
-caractéristiques et les critères de performance mentionnés à la deuxième phrase du 2 des équipements, matériaux et appareils.
-Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou d'un équipement de chauffage ou de production d'eau
-chaude indépendant fonctionnant au bois ou autres biomasses, le bénéfice du taux de 40 % mentionné au d du 5 est accordé sur
-présentation d'une facture comportant, outre les mentions précitées, la mention de la reprise, par l'entreprise qui a réalisé
-les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction. Lorsque le bénéficiaire du
-crédit d'impôt n'est pas en mesure de produire une facture ou une attestation mentionnant les caractéristiques et les
-critères de performance conformément à l'arrêté mentionné au 2 ou de justifier, selon le cas, de la réalisation d'un
-diagnostic de performance énergétique, de la reprise de l'ancienne chaudière à bois ou autres biomasses ou de l'ancien
-équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, il fait l'objet,
-au titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale à 15%, 25 %, 40 % ou 50 % de
-la dépense non justifiée, selon le taux du crédit d'impôt qui s'est appliqué. 
+caractéristiques et les critères de performance mentionnés à la deuxième phrase du 2 des équipements, matériaux et appareils,
+ainsi que la surface en mètres carrés des parois opaques isolées en distinguant ce qui relève de l'isolation par l'extérieur
+de ce qui relève de l'isolation par l'intérieur. Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou
+d'un équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, le bénéfice
+du taux de 40 % mentionné au d du 5 est accordé sur présentation d'une facture comportant, outre les mentions précitées, la
+mention de la reprise, par l'entreprise qui a réalisé les travaux, de l'ancien matériel et des coordonnées de l'entreprise
+qui procède à sa destruction. Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire une facture ou une
+attestation mentionnant les caractéristiques et les critères de performance conformément à l'arrêté mentionné au 2, ainsi que
+la surface en mètres carrés des parois opaques isolées en distinguant ce qui relève de l'isolation par l'extérieur de ce qui
+relève de l'isolation par l'intérieur, ou de justifier, selon le cas, de la réalisation d'un diagnostic de performance
+énergétique, de la reprise de l'ancienne chaudière à bois ou autres biomasses ou de l'ancien équipement de chauffage ou de
+production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, il fait l'objet, au titre de l'année
+d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale à 15 %,25 %,40 % ou 50 % de la dépense non
+justifiée, selon le taux du crédit d'impôt qui s'est appliqué. 
 
 6 bis. La durée de l'engagement de location mentionné au premier alinéa du 1 s'apprécie à compter de la date de réalisation
 des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet,
@@ -239,7 +275,7 @@ engagement, le ou les crédits d'impôt obtenus pour chaque logement concerné f
 cours de laquelle l'engagement n'est pas respecté. 
 
 6 ter. Un contribuable ne peut, pour une même dépense, bénéficier à la fois de l'aide prévue à l'article 199 sexdecies et des
-dispositions du présent article.
+dispositions du présent article. 
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles
 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires.S'il excède l'impôt dû,
@@ -247,14 +283,16 @@ l'excédent est restitué.
 
 Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses
 qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit
-d'impôt obtenu, d'une reprise égale à 15 %, 25 %, 40 % ou 50 % de la somme remboursée selon le taux du crédit d'impôt qui
-s'est appliqué. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que
-les dépenses ont été payées.
+d'impôt obtenu, d'une reprise égale à 15 %,25 %,40 % ou 50 % de la somme remboursée selon le taux du crédit d'impôt qui s'est
+appliqué. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
+dépenses ont été payées.
 
 **Nota:**
 
-(1) Loi n° 2010-237 du 9 mars 2010 de finances rectificative pour 2010 article 15 : Le I de l'article 15 s'applique aux
-dépenses payées à compter du 1er janvier 2010.
+Loi n° 2010-1657 du 29 décembre 2010 article 36 VI : Les présentes dispositions s'appliquent aux dépenses payées à compter du
+29 septembre 2010 ou, pour les 1° et 2° de ce II, à compter du 1er janvier 2011, à l'exception de celles pour lesquelles le
+contribuable peut justifier, avant ces dates respectives, de l'acceptation d'un devis et du versement d'un acompte à
+l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -326,10 +364,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 215
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
 
 _Cite_:
 
+  - Code de la consommation - art. L121-21 (V)
   - Code général des impôts, CGI. - art. 199 quater B
   - Code général des impôts, CGI. - art. 289
   - Code général des impôts, CGI. - art. 4 B
