@@ -17,7 +17,8 @@ l'année 2010 ;
 
 - et la somme, majorée de 10 %, des cotisations de taxe professionnelle, de taxes pour frais de chambres de commerce et
 d'industrie et pour frais de chambres de métiers et de l'artisanat qui auraient été dues au titre de 2010 en application du
-présent code en vigueur au 31 décembre 2009.
+présent code en vigueur au 31 décembre 2009, à l'exception des coefficients forfaitaires déterminés en application de
+l'article 1518 bis qui sont, dans tous les cas, ceux fixés au titre de 2010.
 
 Il est égal à un pourcentage de cette différence, fixé à :
 
@@ -34,8 +35,9 @@ chambres de commerce et d'industrie et pour frais de chambres de métiers et de 
 la taxe professionnelle et des taxes pour frais de chambres de commerce et d'industrie et pour frais de chambres de métiers
 et de l'artisanat qui auraient été dues au titre de l'année 2010 en application du présent code en vigueur au 31 décembre
 2009 s'apprécient, après prise en compte des frais de dégrèvement, d'assiette et de recouvrement et, le cas échéant, de la
-cotisation minimale de taxe professionnelle prévue à l'article 1647 E due au titre de l'année 2009 ainsi que de l'ensemble
-des dégrèvements dont ces cotisations font l'objet.
+cotisation minimale de taxe professionnelle prévue à l'article 1647 E qui aurait été due au titre de l'année 2010 en
+application du présent code en vigueur au 31 décembre 2009 ainsi que de l'ensemble des dégrèvements et des crédits d'impôt
+dont ces cotisations font l'objet.
 
 Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du dépôt de
 la demande.
@@ -54,6 +56,10 @@ de procédure applicables en matière de cotisation foncière des entreprises.
 _Créé par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+
+_Modifié par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
 
 _Cité par_:
 
