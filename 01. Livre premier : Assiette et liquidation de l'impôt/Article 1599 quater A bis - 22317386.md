@@ -99,8 +99,8 @@ l'imposition s'il est destiné à être utilisé principalement sur ces lignes.
 IV.-Le redevable de l'imposition déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le
 nombre de matériels roulants par catégorie. 
 
-Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de taxe
-foncière sur les propriétés bâties.
+Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de
+cotisation foncière des entreprises .
 
 V.-La composante de l'imposition forfaitaire sur les entreprises de réseaux prévue au présent article est affectée au budget
 de l'établissement public " Société du Grand Paris " créé par la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
@@ -126,10 +126,6 @@ _Cite_:
 
   - Ordonnance n°59-151 du 7 janvier 1959 - art. 2
 
-_Créé par_:
-
-  - Loi n°2010-597 du 3 juin 2010 - art. 11 (V)
-
 _Cité par_:
 
   - Arrêté du 15 septembre 2010 - art. 1 (V)
@@ -141,3 +137,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 155-00 ter (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 decies (T)
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 nonies (T)
+
+_Modifié par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
