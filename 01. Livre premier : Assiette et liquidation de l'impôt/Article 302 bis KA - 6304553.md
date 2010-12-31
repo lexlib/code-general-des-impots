@@ -1,40 +1,32 @@
 # Article 302 bis KA
 
 Une taxe sur la publicité télévisée est due par les personnes qui assurent la régie des messages de publicité reçus en France
-sur les écrans de télévision.
+sur les écrans de télévision. 
 
-Elle est assise sur le message publicitaire selon les tarifs suivants :
+Elle est assise sur le message publicitaire selon les tarifs suivants : 
 
 a) abrogé
 
-b) 3,80 euros par message dont le prix est supérieur à 150 euros et au plus égal à 1 520 euros ;
+b) 3,80 € par message dont le prix est supérieur à 500 € et au plus égal à 1 520 € ; 
 
-c) 20,60 euros par message dont le prix est supérieur à 1 520 euros et au plus égal à 9 150 euros ;
+c) 20,60 € par message dont le prix est supérieur à 1 520 € et au plus égal à 9 150 € ; 
 
-d) 34,30 euros par message dont le prix est supérieur à 9 150 euros.
+d) 34,30 € par message dont le prix est supérieur à 9 150 €. 
 
-Ces prix s'entendent hors taxes.
+Ces prix s'entendent hors taxes. 
 
 La taxe ne s'applique pas aux messages passés pour le compte d'oeuvres reconnues d'utilité publique à l'occasion de grandes
-campagnes nationales.
+campagnes nationales. 
 
 Les redevables sont tenus de souscrire, dans le mois du commencement des opérations imposables, auprès du service des impôts
 dont ils dépendent, une déclaration d'existence et, avant le 25 de chaque mois, un relevé conforme au modèle établi par
-l'administration indiquant pour chaque tranche du barème le nombre de messages publicitaires diffusés le mois précédent.
+l'administration indiquant pour chaque tranche du barème le nombre de messages publicitaires diffusés le mois précédent. 
 
 La taxe est établie et recouvrée au vu de ce relevé selon les règles, conditions, garanties et sanctions prévues en matière
 de taxe sur la valeur ajoutée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGI 564 nonies
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2004
-
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 120 () JORF 10 juillet 2004
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 80

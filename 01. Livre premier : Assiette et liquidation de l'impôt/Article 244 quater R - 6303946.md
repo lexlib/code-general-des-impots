@@ -1,10 +1,11 @@
 # Article 244 quater R
 
 I.-Les entreprises exerçant l'activité de débitant de tabac et imposées d'après leur bénéfice réel ou exonérées en
-application des articles 44 sexies, 44 septies, 44 octies ou 44 decies peuvent bénéficier d'un crédit d'impôt égal à 25 % des
-dépenses portant sur la rénovation des linéaires, la rénovation des vitrines ou l'acquisition de terminaux informatiques. 
+application des articles 44 sexies, 44 septies, 44 octies , 44 decies ou 44 quindecies peuvent bénéficier d'un crédit d'impôt
+égal à 25 % des dépenses portant sur la rénovation des linéaires, la rénovation des vitrines ou l'acquisition de terminaux
+informatiques. 
 
-II.-1. Les dépenses mentionnées au I sont prises en compte pour le calcul du crédit d'impôt dans la limite de 10 000 Euros au
+II.-1. Les dépenses mentionnées au I sont prises en compte pour le calcul du crédit d'impôt dans la limite de 10 000 € au
 titre des exercices ouverts entre le 1er janvier 2007 et le 31 décembre 2011. 
 
 2. Les dépenses mentionnées au I doivent satisfaire aux conditions suivantes : 
@@ -36,7 +37,11 @@ V.-Les I à III s'appliquent aux dépenses éligibles engagées entre le 15 déc
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 66
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+
+**Liens**:
+
+  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 
@@ -47,7 +52,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 156 (M)
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8

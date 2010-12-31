@@ -1,27 +1,42 @@
 # Article 1681 septies
 
-1 Par dérogation aux dispositions des articles 1681 quinquies et 1681 sexies, l'impôt sur les sociétés ainsi que les
-impositions recouvrées dans les mêmes conditions, l'imposition forfaitaire annuelle et la cotisation foncière des entreprises
-et ses taxes additionnelles ainsi que la taxe sur les salaires sont acquittés par télérèglement, par les contribuables qui
-sont définis aux deuxième à dixième alinéas du I de l'article 1649 quater B quater ;
+1 Par dérogation aux dispositions de l'article 1681 quinquies et du 1 de l'article 1681 sexies, l'impôt sur les sociétés
+ainsi que les impositions recouvrées dans les mêmes conditions, l'imposition forfaitaire annuelle et la cotisation foncière
+des entreprises et ses taxes additionnelles ainsi que la taxe sur les salaires sont acquittés par télérèglement, par les
+contribuables qui sont définis aux deuxième à dixième alinéas du I de l'article 1649 quater B quater ; 
 
 2 Le paiement par télérèglement, des taxes foncières sur les propriétés bâties et non bâties et de leurs taxes additionnelles
 et annexes est également obligatoire pour les contribuables qui ont opté pour le paiement de ces taxes auprès du service
-chargé des grandes entreprises au sein de l'administration fiscale dans des conditions fixées par décret.
+chargé des grandes entreprises au sein de l'administration fiscale dans des conditions fixées par décret. 
 
-3. Le paiement de la cotisation sur la valeur ajoutée des entreprises est effectué par télérèglement.
+3. Le paiement de la cotisation sur la valeur ajoutée des entreprises est effectué par télérèglement. 
 
-3. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement lorsque le chiffre d'affaires hors taxes
-réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 500 000 EUR.
+4. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement lorsque le chiffre d'affaires hors taxes
+réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 500 000 euros. 
 
-4. Les redevables astreints au paiement de l'impôt sur les sociétés selon les modalités visées au 3 acquittent la taxe sur
-les salaires mentionnée à l'article 231 par télérèglement.
+5. Les redevables astreints au paiement de l'impôt sur les sociétés selon les modalités mentionnées au 4 acquittent la taxe
+sur les salaires mentionnée à l'article 231 par télérèglement. 
+
+6. Les paiements mentionnés aux 2 et 3 de l'article 1681 sexies peuvent également être effectués par télérèglement.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 article 56 III : Le II s'applique à compter du 1er
+janvier 2011, à l'exception des dispositions relatives à la cotisation foncière des entreprises et à l'imposition forfaitaire
+sur les entreprises de réseaux qui entrent en vigueur le 1er octobre 2011.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 29 (V)
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 56 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 quater B quater (VT)
+  - Code général des impôts, CGI. - art. 1668 (V)
+  - Code général des impôts, CGI. - art. 1681 sexies (V)
+  - Code général des impôts, CGI. - art. 231 (V)
 
 _Cité par_:
 
