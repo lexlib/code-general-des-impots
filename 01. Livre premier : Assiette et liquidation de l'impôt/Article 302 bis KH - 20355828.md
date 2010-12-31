@@ -21,7 +21,11 @@ conventions définies au I de l'article L. 34-8 du code des postes et des télé
 2° Les sommes acquittées au titre des prestations de diffusion ou de transport des services de communication audiovisuelle ; 
 
 3° Les sommes acquittées au titre de l'utilisation de services universels de renseignements téléphoniques mentionnés à
-l'article R. 10-7 du même code. 
+l'article R. 10-7 du même code.
+
+Lorsque les services de communications électroniques fournis sont compris dans une offre composite comprenant des services de
+télévision, le 2° n'est pas applicable et les sommes versées au titre de la présente taxe font l'objet d'un abattement de 50
+%. 
 
 III.-L'exigibilité de la taxe est constituée par l'encaissement du produit des abonnements et autres sommes mentionnées au
 II. 
@@ -54,6 +58,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1693 sexies (V)
   - Code général des impôts, CGI. - art. 283 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-258 du 5 mars 2009 - art. 33 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 32

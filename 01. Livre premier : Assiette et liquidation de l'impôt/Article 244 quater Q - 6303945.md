@@ -1,9 +1,9 @@
 # Article 244 quater Q
 
 I.-1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44
-octies , 44 decies, 44 terdecies ou 44 quaterdecies , dont le dirigeant est titulaire du titre de maître-restaurateur,
-peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de
-fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur. 
+octies , 44 decies, 44 terdecies, 44 quaterdecies ou 44 quindecies, dont le dirigeant est titulaire du titre de maître-
+restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes
+d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur. 
 
 Lorsque le titulaire du titre de maître-restaurateur est dirigeant d'une entreprise disposant de plusieurs établissements, le
 crédit d'impôt est calculé au titre des dépenses exposées par les établissements contrôlés dans le cadre de la délivrance de
@@ -75,9 +75,9 @@ d. dépenses relatives à la signalétique intérieure et extérieure de l'étab
 
 e. dépenses d'audit externe permettant de vérifier le respect du cahier des charges relatif au titre de maître-restaurateur. 
 
-2. Les dépenses mentionnées au 1 sont prises en compte pour le calcul du crédit dans la limite de 30 000 euros pour
-l'ensemble de la période constituée de l'année civile au cours de laquelle le dirigeant de l'entreprise a obtenu le titre de
-maître-restaurateur et des deux années suivantes. 
+2. Les dépenses mentionnées au 1 sont prises en compte pour le calcul du crédit dans la limite de 30 000 € pour l'ensemble de
+la période constituée de l'année civile au cours de laquelle le dirigeant de l'entreprise a obtenu le titre de maître-
+restaurateur et des deux années suivantes. 
 
 3. Les dépenses mentionnées au 1 doivent satisfaire aux conditions suivantes : 
 
@@ -115,7 +115,7 @@ entreprises.
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 21
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
 
 _Cité par_:
 

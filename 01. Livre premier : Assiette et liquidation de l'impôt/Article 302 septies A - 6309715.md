@@ -15,23 +15,20 @@ principal est de vendre des marchandises, objets, fournitures et denrées à emp
 logement, et 261 000 € s'il s'agit d'autres entreprises.
 
 II bis. - Les seuils mentionnés aux I et II sont actualisés chaque année dans la même proportion que la limite supérieure de
-la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros le plus proche (1).
+la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros le plus proche.
 
-III. La régularisation de la taxe sur la valeur ajoutée due au titre d'un exercice peut intervenir dans les trois mois qui
+III. La régularisation de la taxe sur la valeur ajoutée due au titre d'un exercice doit intervenir dans les trois mois qui
 suivent la clôture de cet exercice. Un décret en Conseil d'Etat fixe les modalités d'application pratique du présent
 paragraphe; il procède aux adaptations nécessaires de la législation en vigueur, notamment pour les entreprises qui n'ont
 clôturé aucun exercice au cours d'une année civile.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3-IV de la loi n° 2008-776 du 4 août 2008 et de l'article 18-I [1°] de
-la loi n° 2009-1673 du 30 décembre 2009.
+Cette obligation s'applique pour la première fois pour les exercices clos à compter du 30 septembre 2011.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 72
 
 _Cité par_:
 
