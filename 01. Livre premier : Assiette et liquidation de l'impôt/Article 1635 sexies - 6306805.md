@@ -6,23 +6,23 @@ directes locales perçues au profit des collectivités territoriales et des éta
 II. – Les impositions visées au I sont établies et perçues dans les conditions suivantes :
 
 1° En ce qui concerne les taxes foncières sur les propriétés bâties et non bâties et les taxes additionnelles à ces impôts,
-les bases d'imposition sont établies conformément aux dispositions des articles 1380 à 1383, 1388, 1393, 1396, 1402 à 1406,
-1415 et 1520 à 1528 ;
+les bases d'imposition sont établies conformément aux dispositions des articles 1380 à 1383,
+1388, 1393, 1396, 1402 à 1406, 1415 et 1520 à 1528 ;
 
 2° En ce qui concerne la cotisation foncière des entreprises, l'imposition est établie conformément au I de l'article 1447,
 aux articles 1467 et 1467 A, au I de l'article 1478 et à l'article 1647 B sexies ;
 
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 % de leur montant, en raison des contraintes de
 desserte de l'ensemble du territoire national et de participation à l'aménagement du territoire qui s'imposent à cet
-exploitant.L'abattement ne donne pas lieu à compensation par l'Etat. En ce qui concerne la cotisation sur la valeur ajoutée
+exploitant. L'abattement ne donne pas lieu à compensation par l'Etat. En ce qui concerne la cotisation sur la valeur ajoutée
 des entreprises, la valeur ajoutée retenue pour l'application de l'article 1586 ter fait l'objet d'un abattement de 70 % de
 son montant ;
 
-Chaque année, à partir de l'exercice 2011, le taux des abattements mentionnés au premier alinéa du présent 3° est fixé, dans
-la limite de 95 %, de manière à ce que le produit de ces abattements contribue au financement du coût du maillage territorial
-complémentaire de La Poste tel qu'il est évalué par l'Autorité de régulation des communications électroniques et des postes,
-conformément au IV de l'article 6 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la
-poste et à France Télécom et dans des conditions définies par décret en Conseil d'Etat ;
+Chaque année, à partir de l'exercice 2011, le taux des abattements mentionnés au premier alinéa du présent 3° est fixé par
+décret, dans la limite de 95 %, de manière à ce que le produit de ces abattements contribue au financement du coût du
+maillage territorial complémentaire de La Poste tel qu'il est évalué par l'Autorité de régulation des communications
+électroniques et des postes, conformément au IV de l'article 6 de la loi n° 90-568 du 2 juillet 1990 relative à
+l'organisation du service public de la poste et à France Télécom ;
 
 4° Le taux applicable aux bases des taxes foncières et de la cotisation foncière des entreprises est le taux moyen pondéré
 national qui résulte des taux appliqués l'année précédente par l'ensemble des collectivités territoriales, des groupements et
@@ -36,7 +36,7 @@ au I de cet article est fixé à 1,4 % et les taux mentionnés au II du même ar
 6° Le produit des cotisations afférentes aux impositions visées au I, diminué de la fraction des cotisations afférentes aux
 taxes mentionnées aux articles 1520 et 1528, est perçu, en 1994, par l'Etat qui l'utilise afin de contribuer au financement
 des pertes de recettes résultant de l'application de l'article 6 modifié de la loi de finances pour 1987 (n° 86-1317 du 30
-décembre 1986).
+décembre 1986). 
 
 A compter de 2004, ce produit est affecté au budget général de l'Etat.
 
@@ -49,6 +49,22 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 du comité des finances locales.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (V)
+  - Code général des impôts, CGI. - art. 1380 (V)
+  - Code général des impôts, CGI. - art. 1388 (V)
+  - Code général des impôts, CGI. - art. 1393 (V)
+  - Code général des impôts, CGI. - art. 1396 (V)
+  - Code général des impôts, CGI. - art. 1402 (V)
+  - Code général des impôts, CGI. - art. 1415 (V)
+  - Code général des impôts, CGI. - art. 1447 (V)
+  - Code général des impôts, CGI. - art. 1467 (V)
+  - Code général des impôts, CGI. - art. 1478 (V)
+  - Code général des impôts, CGI. - art. 1520 (V)
+  - Code général des impôts, CGI. - art. 1641 (V)
+  - Code général des impôts, CGI. - art. 1647 bis (V)
 
 _Cité par_:
 
@@ -68,4 +84,4 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 44 (V)
