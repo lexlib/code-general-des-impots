@@ -1,9 +1,9 @@
 # Article 244 quater G
 
 I.-Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
-octies, 44 decies, 44 terdecies et 44 quaterdecies peuvent bénéficier d'un crédit d'impôt égal au produit du montant de 1 600
-euros par le nombre moyen annuel d'apprentis dont le contrat est régi par les dispositions des articles L. 6221-1 à L. 6225-8
-du code du travail. Ce montant est porté à 2 200 euros dans les cas suivants : 
+octies, 44 decies, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt égal au produit du montant de 1 600 €
+par le nombre moyen annuel d'apprentis dont le contrat est régi par les dispositions des articles L. 6221-1 à L. 6225-8 du
+code du travail. Ce montant est porté à 2 200 € dans les cas suivants : 
 
 1° lorsque la qualité de travailleur handicapé est reconnue à l'apprenti en application des articles L. 5213-1 et L. 5213-2
 du code du travail ; 
@@ -33,23 +33,24 @@ soumis à l'impôt sur les sociétés peut être utilisé par leurs associés pr
 ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques
 participant à l'exploitation au sens du 1° bis du I de l'article 156. 
 
-IV.-Lorsque l'entreprise accueille un élève en stage dans l e cadre du parcours d'initiation aux métiers prévu à l'article L.
-337-3 du code de l'éducation, elle bénéficie d'un crédit d'impôt dont le montant est égal à 100 Euros par élève accueilli et
-par semaine de présence dans l'entreprise, dans la limite annuelle de vingt-six semaines.
+IV.-Lorsque l'entreprise accueille un élève en stage dans le cadre du parcours d'initiation aux métiers prévu à l'article L.
+337-3 du code de l'éducation, elle bénéficie d'un crédit d'impôt dont le montant est égal à 100 € par élève accueilli et par
+semaine de présence dans l'entreprise, dans la limite annuelle de vingt-six semaines.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2005-882 du 2 août 2005 - art. 23
-  - Code de l'éducation - art. L337-3 (V)
+  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Code de l'éducation - art. L337-3
   - Code du service national - art. L130-1
   - Code du travail - art. L5131-7
-  - Code du travail - art. L5213-1 (V)
+  - Code du travail - art. L5213-1
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
 
 _Cité par_:
 

@@ -52,7 +52,7 @@ Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros
 Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans les zones franches urbaines mentionnées à
 l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. 
 
-Jusqu'au 31 décembre 2012, le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant de 15 000 Euros
+Jusqu'au 31 décembre 2010, le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant de 15 000 Euros
 pour les opérations d'accession sociale à la propriété portant sur la construction ou l'acquisition de logements neufs et
 donnant lieu à une aide à l'accession sociale à la propriété attribuée par une ou plusieurs collectivités territoriales ou
 par un groupement de collectivités territoriales du lieu d'implantation du logement, dans les conditions prévues à l'article
@@ -106,7 +106,10 @@ l'article 156.
 
 **Nota:**
 
-
+Loi n° 2010-1657 du 29 décembre 2010 art. 90 IV : Les avances prévues à l'article 244 quater J du code général des impôts
+n'ouvrent pas droit au crédit d'impôt mentionné au même article lorsque l'offre de prêt n'a pas fait l'objet d'une
+acceptation avant le 1er juillet 2011 ou lorsque les fonds n'ont pas été mis à disposition de l'emprunteur, en totalité ou
+partiellement, avant le 1er juillet 2012.
 
 **Liens relatifs à cet article**
 
@@ -171,4 +174,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 90 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (M)

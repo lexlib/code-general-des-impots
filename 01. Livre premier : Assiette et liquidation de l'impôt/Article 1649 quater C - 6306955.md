@@ -3,11 +3,11 @@
 Des centres de gestion, dont l'objet est d'apporter aux industriels, commerçants, artisans et agriculteurs une assistance en
 matière de gestion et de leur fournir une analyse des informations économiques, comptables et financières en matière de
 prévention des difficultés économiques et financières, peuvent être agréés dans des conditions définies par un décret en
-Conseil d'Etat.
+Conseil d'Etat. 
 
-Ces centres sont créés à l'initiative soit d'experts comptables ou de sociétés membres de l'ordre, soit de chambres de
-commerce et d'industrie, de chambres de métiers et de l'artisanat ou de chambres d'agriculture, soit d'organisations
-professionnelles légalement constituées d'industriels, de commerçants, d'artisans ou d'agriculteurs.
+Ces centres sont créés à l'initiative soit d'experts comptables ou de sociétés membres de l'ordre, soit de      chambres de
+commerce et d'industrie territoriales, de chambres de métiers et de l'artisanat ou de chambres d'agriculture, soit
+d'organisations professionnelles légalement constituées d'industriels, de commerçants, d'artisans ou d'agriculteurs.
 
 **Liens relatifs à cet article**
 
@@ -29,15 +29,11 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 I (Ab)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z quater (V)
 
-_Modifié par_:
-
-  - Loi n°2005-882 du 2 août 2005 - art. 8 () JORF 3 août 2005
-  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
-
 _Codifié par_:
 
-  - Décret n°2006-356 2006-03-24
+  - Décret n°2006-356 du 24 mars 2006
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 1er janvier 2006
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)

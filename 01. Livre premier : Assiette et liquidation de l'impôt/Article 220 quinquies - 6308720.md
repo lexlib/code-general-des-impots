@@ -5,10 +5,10 @@ ouvert à compter du 1er janvier 1984 par une entreprise soumise à l'impôt sur
 comme une charge déductible du bénéfice de l'antépénultième exercice et, le cas échéant, de celui de l'avant-dernier exercice
 puis de celui de l'exercice précédent, dans la limite de la fraction non distribuée de ces bénéfices et à l'exclusion des
 bénéfices exonérés en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 undecies, 44
-terdecies, 44 quaterdecies et 207 à 208 sexies ou qui ont bénéficié des dispositions du premier alinéa du f du I de l'article
-219 ou qui ont ouvert droit au crédit d'impôt prévu aux articles 220 quater et 220 quater A ou qui ont donné lieu à un impôt
-payé au moyen de crédits d'impôts. Cette option porte, pour les exercices ouverts à compter du 1er janvier 1985, sur les
-déficits reportables à la clôture d'un exercice en application du troisième alinéa du I de l'article 209. 
+terdecies, 44 quaterdecies, 44 quindecies et 207 à 208 sexies ou qui ont bénéficié des dispositions du premier alinéa du f du
+I de l'article 219 ou qui ont ouvert droit au crédit d'impôt prévu aux articles 220 quater et 220 quater A ou qui ont donné
+lieu à un impôt payé au moyen de crédits d'impôts. Cette option porte, pour les exercices ouverts à compter du 1er janvier
+1985, sur les déficits reportables à la clôture d'un exercice en application du troisième alinéa du I de l'article 209. 
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être reportable sur les résultats des exercices
 suivant celui au titre duquel il a été constaté.
@@ -73,4 +73,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 207 (V)
+  - Code général des impôts, CGI. - art. 209 quinquies (V)
+  - Code général des impôts, CGI. - art. 219 (V)
+  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Code monétaire et financier - art. L313-23 (V)
