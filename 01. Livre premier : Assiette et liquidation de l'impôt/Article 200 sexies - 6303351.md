@@ -58,7 +58,7 @@ e) Des bénéfices tirés de l'exercice d'une profession non commerciale mention
 Les revenus exonérés en application de l'article 81 quater sont retenus pour l'appréciation du montant des revenus définis au
 a. 
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies , 44 terdecies et 44 quaterdecies ou du 9 de
+Les revenus exonérés en application des articles 44 sexies à 44 undecies , 44 terdecies à 44 quindecies   ou du 9 de
 l'article 93 sont retenus pour l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu compte des
 déficits des années antérieures ainsi que des plus-values et moins-values professionnelles à long terme. 
 
@@ -171,4 +171,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
