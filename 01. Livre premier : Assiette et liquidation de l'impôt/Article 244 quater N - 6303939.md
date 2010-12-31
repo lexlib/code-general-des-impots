@@ -1,7 +1,7 @@
 # Article 244 quater N
 
 I.-Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
-octies, 44 octies A, 44 decies , 44 undecies , 44 terdecies et 44 quaterdecies qui emploient des salariés réservistes ayant
+octies, 44 octies A, 44 decies, 44 undecies, 44 terdecies à 44 quindecies qui emploient des salariés réservistes ayant
 souscrit un engagement à servir dans la réserve opérationnelle au titre des articles 8 et 9 de la loi n° 99-894 du 22 octobre
 1999 portant organisation de la réserve militaire et du service de défense peuvent bénéficier d'un crédit d'impôt. 
 
@@ -32,12 +32,6 @@ l'exploitation au sens du 1° bis du I de l'article 156.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 8, 238 bis L, 239 ter, 239 quater A, 238 ter, 239 quater, 239 quater B, 239 quater C, 239 quinquies, 156
-  - Loi n°99-894 du 22 octobre 1999 - art. 8
-  - Loi n°99-894 du 22 octobre 1999 - art. 9
-
 _Cité par_:
 
   - Loi n°2007-1822 du 24 décembre 2007 - art. 94 (V)
@@ -45,4 +39,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+
+**Liens**:
+
+  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 238 bis L
+  - Code général des impôts, CGI. - art. 239 ter
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 8
