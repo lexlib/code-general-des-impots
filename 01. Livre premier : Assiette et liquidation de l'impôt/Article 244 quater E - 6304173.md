@@ -9,7 +9,7 @@ a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas 
 ainsi que l'exploitation de jeux de hasard et d'argent ; 
 
 b. l'agriculture ainsi que la transformation ou la commercialisation de produits agricoles, sauf lorsque le contribuable peut
-bénéficier des aides à l'investissement au titre du règlement (CE) n° 1257 / 1999 du Conseil, du 17 mai 1999, concernant le
+bénéficier des aides à l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil, du 17 mai 1999, concernant le
 soutien au développement rural par le Fonds européen d'orientation et de garantie agricole (FEOGA) et modifiant et abrogeant
 certains règlements, la production ou la transformation de houille et lignite, la sidérurgie, l'industrie des fibres
 synthétiques, la pêche, le transport, la construction et la réparation de navires d'au moins 100 tonnes de jauge brute, la
@@ -50,14 +50,14 @@ attribuées en vue de financer ces investissements.
 4° Les investissements réalisés par les petites et moyennes entreprises en difficulté peuvent ouvrir droit au crédit d'impôt
 prévu au 1° si elles ont reçu un agrément préalable délivré dans les conditions prévues à l'article 1649 nonies. Une
 entreprise est considérée comme étant en difficulté lorsqu'elle fait l'objet d'une procédure de sauvegarde ou de redressement
-judiciaire ou lorsque sa situation financière rend imminente sa cessation d'activité. 
+judiciaire ou lorsque sa situation financière rend imminente sa cessation d'activité.
 
 L'agrément mentionné au premier alinéa est accordé si l'octroi du crédit d'impôt aux investissements prévus dans le cadre du
 plan de restructuration présenté par l'entreprise n'altère pas les échanges dans une mesure contraire à l'intérêt commun. 
 
 II.-Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou de
 l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44
-sexies,44 sexies A,44 septies,208 sexies et 208 quater A. Elle est irrévocable. 
+sexies, 44 sexies A, 44 septies, 44 quindecies, 208 sexies et 208 quater A. Elle est irrévocable. 
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime d'imposition de l'article 8 ou par les
 groupements mentionnés aux articles 239 quater ou 239 quater C, le crédit d'impôt peut être utilisé par leurs associés,
@@ -70,22 +70,22 @@ laquelle il a été acquis ou créé, ou si l'acquéreur cesse son activité, le
 au titre de l'exercice ou de l'année où interviennent les événements précités. 
 
 Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables lorsque le bien est transmis dans le cadre
-d'opérations placées sous les régimes prévus aux articles 41,151 octies,210 A ou 210 B si le bénéficiaire de la transmission
-s'engage à exploiter les biens en Corse dans le cadre d'une activité répondant aux conditions mentionnées au I pendant la
-fraction du délai de conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à
-défaut, dans un acte sous seing privé ayant date certaine, établi à cette occasion. 
+d'opérations placées sous les régimes prévus aux articles 41, 151 octies, 210 A ou 210 B si le bénéficiaire de la
+transmission s'engage à exploiter les biens en Corse dans le cadre d'une activité répondant aux conditions mentionnées au I
+pendant la fraction du délai de conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission
+ou, à défaut, dans un acte sous seing privé ayant date certaine, établi à cette occasion. 
 
 Lorsque l'investissement est réalisé par une société soumise au régime d'imposition prévu à l'article 8 ou un groupement
 mentionné aux articles 239 quater ou 239 quater C, les associés ou membres mentionnés au deuxième alinéa du II doivent, en
 outre, conserver les parts ou actions de cette société ou ce groupement pendant un délai de cinq ans à compter de la
-réalisation de l'investissement. A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet d'une reprise au titre de
+réalisation de l'investissement.A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet d'une reprise au titre de
 l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces parts ou actions. 
 
 IV.-Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un
 exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
-V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 13 du règlement (CE) n° 800 / 2008
-de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
+V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la
+Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
 articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
 
 **Liens relatifs à cet article**
@@ -96,18 +96,18 @@ _Cite_:
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 1649 nonies
-  - Code général des impôts, CGI. - art. 208 sexies
+  - Code général des impôts, CGI. - art. 208 sexies (V)
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 39 A
   - Code général des impôts, CGI. - art. 41
-  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 sexies (V)
   - Code général des impôts, CGI. - art. 8
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 114 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
 
 _Cité par_:
 

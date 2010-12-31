@@ -27,7 +27,7 @@ g) Toutes activités immobilières ;
 
 h) La navigation de croisière, la réparation automobile, les locations sans opérateurs, à l'exception de la location directe
 de navires de plaisance ou au profit des personnes physiques utilisant pour une durée n'excédant pas deux mois des véhicules
-automobiles mentionnés au premier alinéa de l'article 1010 ; 
+de tourisme au sens de l'article 1010 ; 
 
 i) Les services fournis aux entreprises, à l'exception de la maintenance, des activités de nettoyage et de conditionnement à
 façon et des centres d'appel ; 
@@ -43,13 +43,14 @@ l) Les activités postales.
 La réduction d'impôt prévue au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
 résidence de tourisme et de village de vacances classés et aux logiciels qui sont nécessaires à l'utilisation des
 investissements éligibles, lorsque ces travaux et logiciels constituent des éléments de l'actif immobilisé. La réduction
-d'impôt ne s'applique pas à l'acquisition de véhicules de tourisme qui ne sont pas strictement indispensables à l'activité de
-l'exploitant. Les conditions d'application de la phrase précédente sont fixées par arrêté du ministre chargé du budget et du
-ministre chargé de l'outre-mer. 
+d'impôt ne s'applique pas à l'acquisition de véhicules de tourisme  au sens de l'article 1010 qui ne sont pas strictement
+indispensables à l'activité de l'exploitant. Les conditions d'application de la phrase précédente sont fixées par arrêté du
+ministre chargé du budget et du ministre chargé de l'outre-mer. 
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux investissements nécessaires à l'exploitation d'une
 concession de service public local à caractère industriel et commercial réalisés dans des secteurs éligibles, quelles que
-soient la nature des biens et leur affectation finale. 
+soient la nature des biens et leur affectation finale. La réduction d'impôt prévue au premier alinéa ne s'applique pas aux
+investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil.   
 
 La réduction d'impôt est de 50 % du montant, hors taxes et hors frais de toute nature, notamment les commissions
 d'acquisition, à l'exception des frais de transport, d'installation et de mise en service amortissables, des investissements
@@ -70,10 +71,10 @@ tourisme et de village de vacances classés dans les départements d'outre-mer. 
 l'exploitant lorsqu'il prend en charge ces travaux. 
 
 Les dispositions du premier alinéa s'appliquent aux investissements réalisés par une société soumise au régime d'imposition
-prévu à l'article 8 ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues
-directement, ou par l'intermédiaire d'une entreprise unipersonnelle à responsabilité limitée, par des contribuables
-domiciliés en France au sens de l'article 4 B. En ce cas, la réduction d'impôt est pratiquée par les associés ou membres dans
-une proportion correspondant à leurs droits dans la société ou le groupement. 
+prévu à l'article 8, à l'exclusion des sociétés en participation,  ou un groupement mentionné aux articles 239 quater ou 239
+quater C, dont les parts sont détenues directement, ou par l'intermédiaire d'une entreprise unipersonnelle à responsabilité
+limitée, par des contribuables domiciliés en France au sens de l'article 4 B. En ce cas, la réduction d'impôt est pratiquée
+par les associés ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
 
 La réduction d'impôt prévue au premier alinéa est pratiquée au titre de l'année au cours de laquelle l'investissement est
 réalisé. Toutefois, en cas d'acquisition d'un immeuble à construire ou de construction d'immeuble, la réduction d'impôt
@@ -116,9 +117,9 @@ dispositions du vingt-troisième alinéa.
 
 La réduction d'impôt prévue au présent I s'applique aux investissements productifs mis à la disposition d'une entreprise dans
 le cadre d'un contrat de location si les conditions mentionnées aux quinzième à dix-huitième alinéas du I de l'article 217
-undecies sont remplies et si 60 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution
-du loyer et du prix de cession du bien à l'exploitant. Ce taux est ramené à 50 % pour les investissements dont le montant par
-programme et par exercice est inférieur à 300 000 euros par exploitant. Si, dans le délai de cinq ans de la mise à
+undecies sont remplies et si 62,5 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution
+du loyer et du prix de cession du bien à l'exploitant. Ce taux est ramené à 52,63 % pour les investissements dont le montant
+par programme et par exercice est inférieur à 300 000 euros par exploitant. Si, dans le délai de cinq ans de la mise à
 disposition du bien loué ou pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au
 présent alinéa cesse d'être respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours
 de laquelle cet événement se réalise. Le revenu global de cette même année est alors majoré des déficits indûment imputés en
@@ -146,7 +147,7 @@ société.L'application de cette disposition est subordonnée au respect des con
 l'article 217 undecies ; 
 
 2° Les investissements sont mis à la disposition d'une entreprise dans le cadre d'un contrat de location respectant les
-conditions mentionnées aux quinzième à dix-huitième alinéas du I de l'article 217 undecies et 60 % de la réduction d'impôt
+conditions mentionnées aux quinzième à dix-huitième alinéas du I de l'article 217 undecies et 62,5 % de la réduction d'impôt
 sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et du prix de cession du bien à l'exploitant. Les
 dispositions du trente-troisième alinéa sont applicables ; 
 
@@ -167,6 +168,18 @@ conditions prévues au vingt-sixième alinéa, la réduction d'impôt prévue es
 l'engagement d'utiliser effectivement pendant sept ans au moins ces investissements dans le cadre de l'activité pour laquelle
 ils ont été acquis ou créés.
 
+Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
+neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 62,5 %, les taux de 50
+% et 60 % mentionnés au dix-septième alinéa sont respectivement ramenés à 48 % et 57,6 % et la majoration de dix points
+mentionnée au même alinéa est ramenée à 9,6 points. Dans les mêmes conditions, le taux de 70 % mentionné au dix-huitième
+alinéa est ramené à 67,2 %.
+
+Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
+neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 52,63 %, les taux de
+50 % et 60 % mentionnés au dix-septième alinéa sont respectivement ramenés à 47,5 % et 57 % et la majoration de dix points
+mentionnée au même alinéa est ramenée à 9,5 points. Dans les mêmes conditions, le taux de 70 % mentionné au dix-huitième
+alinéa est ramené à 66,5 %. 
+
 I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième alinéa du I, d'un hôtel, d'une résidence de
 tourisme ou d'un village de vacances classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant droit
 au bénéfice des dispositions du dix-huitième alinéa du I, les dispositions du II de l'article 39 C et, pour la partie de
@@ -174,10 +187,10 @@ déficit provenant des travaux bénéficiant des dispositions du dix-huitième a
 l'article 156 ne sont pas applicables. 
 
 2. Les dispositions du 1 sont applicables sur agrément préalable du ministre chargé du budget dans les conditions prévues aux
-1 et 2 du III de l'article 217 undecies et si 60 % de l'avantage en impôt procuré par l'imputation des déficits provenant de
-la location d'un hôtel, d'une résidence de tourisme ou d'un village de vacances classés et par la réduction d'impôt visée au
-dix-huitième alinéa du I sont rétrocédés à l'entreprise locataire sous forme de diminution de loyer et du prix de cession du
-bien à l'exploitant. 
+1 et 2 du III de l'article 217 undecies et si 62,5 % de l'avantage en impôt procuré par l'imputation des déficits provenant
+de la location d'un hôtel, d'une résidence de tourisme ou d'un village de vacances classés et par la réduction d'impôt visée
+au dix-huitième alinéa du I sont rétrocédés à l'entreprise locataire sous forme de diminution de loyer et du prix de cession
+du bien à l'exploitant. 
 
 3. Les dispositions du 1 sont applicables, pour une durée de cinq ans à compter de la date de clôture de l'exercice de
 livraison ou d'achèvement, aux opérations de rénovation ou de réhabilitation d'un hôtel, d'une résidence de tourisme ou d'un
@@ -246,15 +259,37 @@ notamment les obligations déclaratives.
 
 **Nota:**
 
-Loi n° 2009-594 du 27 mai 2009 article 16 II et III : Le présent article est applicable aux investissements réalisés entre la
-date de publication de la présente loi et le 31 décembre 2017. 
+Loi n° 2010-1657 du 29 décembre 2010 article 36 VI : Les présentes dispositions s'appliquent à compter du 29 septembre 2010.
+Toutefois, la réduction ou la déduction d'impôt restent applicables, dans les conditions prévues par les dispositions
+antérieures à la présente loi :
 
-Restent soumis à l'article 199 undecies B du code général des impôts, dans sa rédaction antérieure à la publication de la
-présente loi, les investissements pour l'agrément desquels une demande est parvenue à l'administration avant la date de cette
-publication. 
+a) Lorsque le bénéfice de la réduction ou de la déduction d'impôt n'est pas subordonné à l'agrément préalable du ministre
+chargé du budget prévu aux II de l'article 199 undecies B et II quater de l'article 217 undecies du code général des impôts,
+d'une part, aux investissements pour l'acquisition desquels le bénéficiaire de la réduction ou de la déduction a accepté un
+devis et versé un acompte avant le 29 septembre 2010 et, d'autre part, à ceux réalisés par les sociétés et groupements
+mentionnés aux dix-neuvième et vingt-septième alinéas du I de l'article 199 undecies B et à l'avant-dernière phrase du
+premier alinéa du I et au II de l'article 217 undecies, lorsque la réduction d'impôt ou la déduction à laquelle ils auraient
+ouvert droit en application de ces mêmes articles a été obtenue à raison d'acquisitions ou de souscriptions de parts faites
+avant le 29 septembre 2010 ;
 
-Le D du I entre en application à compter du sixième mois suivant la date d'entrée en vigueur de la loi n° 2009-594 du 27 mai
-2009.
+b) Lorsque le bénéfice de la réduction ou de la déduction d'impôt est subordonné à l'agrément préalable du ministre chargé du
+budget prévu aux II de l'article 199 undecies B et II quater de l'article 217 undecies du code général des impôts, d'une
+part, aux investissements agréés avant le 29 septembre 2010, sous réserve du respect de la date de mise en production des
+installations prévue dans l'agrément, et, d'autre part, à ceux pour l'acquisition desquels l'exploitant a accepté un devis et
+versé un acompte, sous réserve qu'ils produisent de l'électricité au plus tard le 31 mars 2011.
+
+Loi n° 2010-1657 du 29 décembre 2010 art. 98 II : Ces dispositions sont applicables à compter de l'imposition des revenus de
+l'année 2011.
+
+Loi n° 2010-1657 du 29 décembre 2010 article 105  IX 1 : Ces dispositions sont applicables à compter de l'imposition des
+revenus de l'année 2011 pour les dépenses payées à compter du 1er janvier 2011, à l'exception de celles pour lesquelles le
+contribuable justifie qu'il a pris, avant le 31 décembre 2010, l'engagement de réaliser un investissement immobilier . A
+titre transitoire, l'engagement de réaliser un investissement immobilier peut prendre la forme d'une réservation, à condition
+qu'elle soit enregistrée chez un notaire ou au service des impôts avant le 31 décembre 2010 et que l'acte authentique soit
+passé avant le 31 mars 2011. Lorsque le bénéfice de la réduction d'impôt est subordonné à l'agrément préalable du ministre
+chargé du budget prévu au II de l'article 199 undecies B du code général des impôts, les I à VII du présent article ne
+s'appliquent ni aux investissements agréés avant le 5 décembre 2010, ni aux investissements agréés avant le 31 décembre 2010
+qui ouvrent droit à la réduction d'impôt sur les revenus de l'année 2010.
 
 **Liens relatifs à cet article**
 
@@ -341,4 +376,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 105 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 24 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 98 (V)
