@@ -64,9 +64,7 @@ et deuxième alinéas sont respectivement ramenés à :
 
 - 15 % et 30 % pour les logements acquis ou construits en 2010 ;
 
-- 10 % et 25 % pour les logements acquis ou construits en 2011 ;
-
-- 5 % et 15 % pour les logements acquis ou construits en 2012. 
+- 10 % et 25 % pour les logements acquis ou construits en 2011. 
 
 VI.-Le I s'applique à la condition que le logement faisant l'objet du prêt soit, à la date de paiement des intérêts, affecté
 à l'usage d'habitation principale du contribuable. 
@@ -102,6 +100,11 @@ d'assistance administrative en vue de lutter contre la fraude ou l'évasion fisc
 
 IX.-Les dispositions du présent article sont exclusives de celles mentionnées au a du 2 de l'article 199 undecies A.
 
+X. ― Le présent article s'applique aux opérations pour lesquelles chacun des prêts concourant à leur financement a fait
+l'objet d'une offre de prêt émise avant le 1er janvier 2011, sous réserve que l'acquisition du logement achevé ou en l'état
+futur d'achèvement intervienne au plus tard le 30 septembre 2011 ou, s'agissant d'opérations de construction de logements,
+que la déclaration d'ouverture de chantier intervienne au plus tard à la même date.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -113,7 +116,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 84
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (M)
 
 _Cite_:
 

@@ -10,7 +10,7 @@ les bases d'imposition sont établies conformément aux dispositions des article
 1415 et 1520 à 1528 ;
 
 2° En ce qui concerne la cotisation foncière des entreprises, l'imposition est établie conformément au I de l'article 1447,
-au 1° de l'article 1467, à l'article 1467 A, au I de l'article 1478 et à l'article 1647 B sexies ;
+aux articles 1467 et 1467 A, au I de l'article 1478 et à l'article 1647 B sexies ;
 
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 % de leur montant, en raison des contraintes de
 desserte de l'ensemble du territoire national et de participation à l'aménagement du territoire qui s'imposent à cet
@@ -67,4 +67,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)

@@ -1,29 +1,28 @@
 # Article 199 decies E
 
-Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2012, acquiert un logement neuf ou en l'état futur
+Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2010, acquiert un logement neuf ou en l'état futur
 d'achèvement faisant partie d'une résidence de tourisme classée dans une zone de revitalisation rurale et qui le destine à
 une location dont le produit est imposé dans la catégorie des revenus fonciers bénéficie d'une réduction d'impôt sur le
 revenu. L'indexation d'une part minoritaire du loyer sur le chiffre d'affaires ne fait pas obstacle à l'imposition dans la
-catégorie des revenus fonciers. 
+catégorie des revenus fonciers.
 
-Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 50 000 euros pour une personne
-célibataire, veuve ou divorcée et de 100 000 euros pour un couple marié. Son taux est de 25 %. Il ne peut être opéré qu'une
-seule réduction d'impôt à la fois et elle est répartie sur six années au maximum. Elle est accordée au titre de l'année
+Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 50 000 € pour une personne
+célibataire, veuve ou divorcée et de 100 000 € pour un couple marié. Son taux est de 25 %. Il ne peut être opéré qu'une seule
+réduction d'impôt à la fois et elle est répartie sur six années au maximum. Elle est accordée au titre de l'année
 d'achèvement du logement ou de son acquisition si elle est postérieure et imputée sur l'impôt dû au titre de cette même année
-à raison du sixième des limites de 12 500 euros ou 25 000 euros puis, le cas échéant, pour le solde les cinq années suivantes
-dans les mêmes conditions.A la demande du contribuable, ce solde peut être imputé par sixième durant les six années
-suivantes. 
+à raison du sixième des limites de 12 500 € ou 25 000 € puis, le cas échéant, pour le solde les cinq années suivantes dans
+les mêmes conditions.A la demande du contribuable, ce solde peut être imputé par sixième durant les six années suivantes.
 
 Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, les logements faisant partie d'une résidence de
 tourisme classée dans une zone, autre qu'une zone de revitalisation rurale précitée, inscrite sur la liste pour la France des
-zones concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260 / 1999 du Conseil du 21 juin 1999 portant
+zones concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260/1999 du Conseil du 21 juin 1999 portant
 dispositions générales sur les fonds structurels, à l'exclusion des communes situées dans des agglomérations de plus de 5 000
-habitants. 
+habitants.
 
 Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, les logements faisant partie d'une résidence de
 tourisme classée et située dans le périmètre d'intervention d'un établissement public chargé de l'aménagement d'une
 agglomération nouvelle créée en application de la loi n° 70-610 du 10 juillet 1970 tendant à faciliter la création
-d'agglomérations nouvelles. 
+d'agglomérations nouvelles.
 
 Le propriétaire doit s'engager à louer le logement nu pendant au moins neuf ans à l'exploitant de la résidence de tourisme.
 Cette location doit prendre effet dans le mois qui suit la date d'achèvement de l'immeuble ou de son acquisition, si elle est
@@ -35,7 +34,7 @@ l'année de la cession. En cas de rupture de l'engagement de location pendant un
 liquidation judiciaire de l'exploitant, de résiliation ou de cession du bail commercial par l'exploitant, ou de mise en œuvre
 par les propriétaires du bénéfice de la clause contractuelle prévoyant la résiliation du contrat à défaut de paiement du
 loyer par l'exploitant, la réduction d'impôt fait l'objet d'une reprise pour le tiers de son montant au titre de l'année de
-la rupture de l'engagement de location et de chacune des deux années suivantes.  La réduction pratiquée ne fait pas l'objet
+la rupture de l'engagement de location et de chacune des deux années suivantes. La réduction pratiquée ne fait pas l'objet
 d'une reprise si les copropriétaires substituent au gestionnaire défaillant de la résidence de tourisme une ou un ensemble
 d'entreprises qui assurent les mêmes prestations sur la période de location restant à couvrir conformément aux prescriptions
 légales, dans des conditions fixées par décret. Cette faculté leur est ouverte dès lors que la candidature d'un autre
@@ -43,9 +42,9 @@ gestionnaire n'a pu être retenue après un délai d'un an et qu'ils détiennent
 Le paiement d'une partie du loyer par compensation avec le prix des prestations d'hébergement facturées par l'exploitant au
 propriétaire, lorsque le logement est mis à la disposition de ce dernier pour une durée totale n'excédant pas huit semaines
 par an, ne fait pas obstacle au bénéfice de la réduction à condition que le revenu brut foncier déclaré par le bailleur
-corresponde au loyer annuel normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire. 
+corresponde au loyer annuel normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire.
 
-Les dispositions du 5 du I de l'article 197 sont applicables. 
+Les dispositions du 5 du I de l'article 197 sont applicables.
 
 La réduction n'est pas applicable au titre des logements dont le droit de propriété est démembré. Toutefois, lorsque le
 transfert de la propriété du bien ou le démembrement de ce droit résulte du décès de l'un des époux soumis à imposition
@@ -55,8 +54,9 @@ restant à courir à la date du décès.
 
 **Nota:**
 
-Loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 article 23 III : Les I et II de l'article 23 s'appliquent à
-compter de l'imposition des revenus de 2009.
+<font size="1" color="#808080">Loi n° 2010-1657 du 29 décembre 2010 art. 92 II : Pour l'application de l'article 199 decies E
+du code général des impôts, l'acquisition d'un logement avant le 31 décembre 2010 s'entend de l'acquisition d'un logement
+pour lequel une promesse d'achat ou une promesse synallagmatique a été souscrite par l'acquéreur avant la même date.</font>
 
 **Liens relatifs à cet article**
 
@@ -64,12 +64,6 @@ _Cite_:
 
   - Loi n°70-610 du 10 juillet 1970
   - Code général des impôts, CGI. - art. 197
-
-_Modifié par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 23 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 86
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 87
 
 _Cité par_:
 
@@ -88,3 +82,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGD (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGF (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGG bis (V)
+
+_Modifié par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 92 (V)
