@@ -4,7 +4,7 @@
 pour une large part à l'information politique et générale, soit un service de presse en ligne reconnu en application de
 l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, consacré pour une large
 part à l'information politique et générale, sont autorisées à constituer une provision déductible du résultat imposable des
-exercices 1997 à 2010, en vue de faire face aux dépenses suivantes : 
+exercices 1997 à 2011, en vue de faire face aux dépenses suivantes : 
 
 a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure où ces éléments d'actif sont strictement
 nécessaires à l'exploitation du service de presse en ligne, du journal ou de la publication, et prises de participation dans
@@ -13,7 +13,7 @@ l'exploitation d'un service de presse en ligne mentionné au même alinéa, ou d
 est d'assurer pour ces entreprises des prestations de services dans les domaines de l'information, de l'approvisionnement en
 papier, de l'impression ou de la distribution ; 
 
-b. constitution de bases de données et acquisition du matériel nécessaire à leur exploitation ou à la transmission de ces
+b) constitution de bases de données et acquisition du matériel nécessaire à leur exploitation ou à la transmission de ces
 données ; 
 
 c) Dépenses immobilisées imputables à la recherche, au développement technologique et à l'innovation au profit du service de
@@ -24,9 +24,9 @@ Les entreprises mentionnées au présent 1 peuvent déduire les dépenses d'équ
 2. Les sommes déduites en vertu du 1 sont limitées à 30 % du bénéfice de l'exercice concerné pour la généralité des
 publications et pour les services de presse en ligne reconnus et à 60 % pour les quotidiens. Pour l'application de la phrase
 précédente, la limite est calculée, pour les entreprises exploitant un service de presse en ligne reconnu et exerçant
-d'autres activités, à partir du seul bénéfice retiré de ce service de presse en ligne. Ce pourcentage est porté à 80 p. 100
-pour les quotidiens dont le chiffre d'affaires est inférieur à 7 600 000 euros. Les sommes rapportées au bénéfice imposable
-en application du 7 ne sont pas prises en compte pour le calcul de la limite fixée à la phrase précédente. 
+d'autres activités, à partir du seul bénéfice retiré de ce service de presse en ligne. Ce pourcentage est porté à 80 % pour
+les quotidiens dont le chiffre d'affaires est inférieur à 7 600 000 euros. Les sommes rapportées au bénéfice imposable en
+application du 7 ne sont pas prises en compte pour le calcul de la limite fixée à la phrase précédente. 
 
 Sont assimilées à des quotidiens les publications à diffusion départementale ou régionale consacrées principalement à
 l'information politique et générale, paraissant au moins une fois par semaine et dont le prix de vente n'excède pas de 75 %
@@ -40,8 +40,8 @@ politique et générale.
 3. Les sommes prélevées ou déduites des résultats imposables en vertu du 1 ne peuvent être utilisées qu'au financement d'une
 fraction du prix de revient des immobilisations qui y sont définies. 
 
-Cette fraction est égale à 40 p. 100 pour la généralité des publications et pour les services de presse en ligne reconnus et
-à 90 % pour les quotidiens et les publications assimilées définies au deuxième alinéa du 2. 
+Cette fraction est égale à 40 % pour la généralité des publications et pour les services de presse en ligne reconnus et à 90
+% pour les quotidiens et les publications assimilées définies au deuxième alinéa du 2. 
 
 4. Les publications pornographiques, perverses ou incitant à la violence figurant sur une liste établie, après avis de la
 commission de surveillance et de contrôle des publications destinées à l'enfance et à la jeunesse, par un arrêté du ministre
@@ -61,11 +61,6 @@ suivants.
 utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux
 bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant égal au produit de ces provisions par le taux de
 l'intérêt de retard prévu à l'article 1727.
-
-**Nota:**
-
-LOI n° 2009-669 du 12 juin 2009 art 28 II : les dispositions introduites par le I de l'article 28 s'appliquent aux exercices
-clos à compter de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -89,4 +84,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-669 du 12 juin 2009 - art. 28
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 17

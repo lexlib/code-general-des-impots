@@ -78,6 +78,17 @@ VI. - Lorsqu'il fait application des dispositions des I, II et III à la suite d
 début d'exercice par les services fiscaux et qui découle de l'état de notification des bases tient compte du taux applicable
 dans la commune rattachée.
 
+VII. - En cas de rattachement volontaire à un établissement public de coopération intercommunale qui faisait application en
+2011 de l'article 1609 nonies C d'une commune qui n'était pas membre en 2011 d'un tel établissement, le taux communal de taxe
+d'habitation est réduit de la différence entre, d'une part, le taux de référence de taxe d'habitation calculé pour la commune
+conformément à l'article 1640 C, d'autre part, le taux communal de taxe d'habitation applicable en 2010 dans la commune.
+
+**Nota:**
+
+LOI n° 2010-1657 du 29 décembre 2010 de finances pour 2011 art 108 XXII : les dispositions de l'article 1638 quater
+s'appliquent aux rattachements de communes à un établissement public de coopération intercommunale qui prennent effet
+fiscalement à compter de l'année 2012 ou des années suivantes.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -89,7 +100,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
 
 _Cite_:
 

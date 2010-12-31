@@ -4,7 +4,7 @@
 qui investissent dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en
 Polynésie française, à Saint-Martin, à Saint-Barthélemy, dans les îles Wallis et Futuna et les Terres australes et
 antarctiques françaises, entre la date de promulgation de la loi n° 2003-660 du 21 juillet 2003 de programme pour l'outre-mer
-et le 31 décembre 2017. 
+et le 31 décembre 2017.
 
 2. La réduction d'impôt s'applique : 
 
@@ -42,20 +42,21 @@ l'achèvement des travaux à des personnes qui en font leur habitation principal
 son foyer fiscal, ainsi qu'au montant des travaux de confortation de logements contre le risque sismique. Un décret détermine
 les conditions d'application de ces dispositions, et notamment la nature des travaux de réhabilitation éligibles ; 
 
-f) Aux souscriptions en numéraire au capital des sociétés de développement régional des départements ou collectivités visés
-au 1 ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant dans les douze mois de
-la clôture de la souscription des investissements productifs neufs dans ces départements ou collectivités et dont l'activité
-réelle se situe dans les secteurs éligibles pour l'application des dispositions du I de l'article 199 undecies B. Lorsque la
-société affecte tout ou partie de la souscription à la construction d'immeubles destinés à l'exercice d'une activité située
-dans l'un de ces secteurs, elle doit s'engager à en achever les fondations dans les deux ans qui suivent la clôture de la
-souscription. La société doit s'engager à maintenir l'affectation des biens à l'activité dans les secteurs visés ci-dessus
-pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est inférieure ; 
+f) Aux versements effectués au titre de souscriptions en numéraire au capital des sociétés de développement régional des
+départements ou collectivités visés au 1 ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit
+commun effectuant dans les douze mois de la clôture de la souscription des investissements productifs neufs dans ces
+départements ou collectivités et dont l'activité réelle se situe dans les secteurs éligibles pour l'application des
+dispositions du I de l'article 199 undecies B. Lorsque la société affecte tout ou partie de la souscription à la construction
+d'immeubles destinés à l'exercice d'une activité située dans l'un de ces secteurs, elle doit s'engager à en achever les
+fondations dans les deux ans qui suivent la clôture de la souscription. La société doit s'engager à maintenir l'affectation
+des biens à l'activité dans les secteurs visés ci-dessus pendant les cinq ans qui suivent leur acquisition ou pendant leur
+durée normale d'utilisation si elle est inférieure ; 
 
-g) Aux souscriptions en numéraire, agréées par le ministre chargé du budget, au capital de sociétés qui ont pour objet le
-financement par souscriptions en numéraire au capital ou par prêts participatifs, selon des modalités et limites fixées par
-décret, d'entreprises exerçant leur activité exclusivement outre-mer dans un secteur éligible défini au I de l'article 199
-undecies B et qui affectent ces prêts et souscriptions à l'acquisition et à l'exploitation d'investissements productifs
-neufs. 
+g) Aux versements effectués au titre de souscriptions en numéraire, agréées par le ministre chargé du budget, au capital de
+sociétés qui ont pour objet le financement par souscriptions en numéraire au capital ou par prêts participatifs, selon des
+modalités et limites fixées par décret, d'entreprises exerçant leur activité exclusivement outre-mer dans un secteur éligible
+défini au I de l'article 199 undecies B et qui affectent ces prêts et souscriptions à l'acquisition et à l'exploitation
+d'investissements productifs neufs. 
 
 Ces sociétés spécialisées ne bénéficient pas, pour la détermination de leur propre résultat, des déductions prévues à
 l'article 217 undecies.
@@ -63,8 +64,9 @@ l'article 217 undecies.
 L'équivalent de 60 % de la réduction d'impôt ainsi obtenue doit bénéficier à l'entreprise qui acquiert et exploite
 l'investissement ; 
 
-h) Aux souscriptions en numéraire au capital d'une société mentionnée au II bis de l'article 217 undecies, sous réserve de
-l'obtention d'un agrément préalable du ministre chargé du budget délivré dans les conditions prévues au III du même article. 
+h) Aux versements effectués au titre de souscriptions en numéraire au capital d'une société mentionnée au II bis de l'article
+217 undecies, sous réserve de l'obtention d'un agrément préalable du ministre chargé du budget délivré dans les conditions
+prévues au III du même article. 
 
 Les souscripteurs de parts ou actions des sociétés mentionnées aux f, g et h doivent s'engager à les conserver pendant cinq
 ans à compter de la date de la souscription. 
@@ -121,8 +123,8 @@ au moins six ans à compter de la date d'achèvement des logements ou de leur ac
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer et la collectivité départementale de Mayotte
 mentionnés aux a, b, c, d et e du 2, les taux prévus aux deuxième à quatrième alinéas sont majorés de dix points lorsque le
-logement est situé dans une zone urbaine sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février
-1995d'orientation pour l'aménagement et le développement du territoire. 
+logement est situé dans une zone urbaine sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire. 
 
 En outre, lorsque des dépenses d'équipement de production d'énergie utilisant une source d'énergie renouvelable sont
 réalisées dans le logement, les taux de la réduction d'impôt visés aux deuxième à quatrième et septième alinéas sont majorés
@@ -174,16 +176,12 @@ Le décès du contribuable ou de l'un des époux soumis à imposition commune au
 La location d'un logement neuf consentie dans les conditions fixées par décret à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 58-I (1°)  de la loi n° 2004-1485 du 30 décembre 2004.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°95-115 du 4 février 1995
-  - Loi n°2003-660 du 21 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 (V)
 
 _Cité par_:
 
@@ -245,4 +243,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 38 (V)
