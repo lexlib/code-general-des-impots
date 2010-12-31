@@ -44,8 +44,9 @@ mariés soumis à imposition commune.
 
 III. - La réduction d'impôt mentionnée au I ne peut pas concerner des titres figurant dans un plan d'épargne en actions
 défini à l'article 163 quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III de la troisième partie
-du code du travail, ni des titres dont la souscription a ouvert droit à la réduction d'impôt prévue aux I à IV de l'article
-199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à l'article 885-0 V bis. 
+du code du travail, ni la fraction des versements effectués au titre de souscriptions ayant  ouvert droit à la réduction
+d'impôt prévue aux I à IV de l'article 199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à
+l'article 885-0 V bis. 
 
 Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I ne peuvent ouvrir droit aux déductions prévues au 2°
 quinquies et, au titre des frais réels et justifiés, au 3° de l'article 83.
@@ -88,7 +89,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 38 (V)
 
 _Cité par_:
 

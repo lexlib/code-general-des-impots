@@ -2,19 +2,34 @@
 
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application
 des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies , 44 duodecies, 44 terdecies
-et 44 quaterdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de
+à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de
 l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions
 d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. 
 
-Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre respectivement de la première et de la deuxième
+Le taux de 30 % mentionné au premier alinéa est porté à 40 % et 35 % au titre respectivement de la première et de la deuxième
 année qui suivent l'expiration d'une période de cinq années consécutives au titre desquelles l'entreprise n'a pas bénéficié
-du crédit d'impôt et à condition qu'il n'existe aucun lien de dépendance au sens du 12 de l'article 39 entre cette entreprise
-et une autre entreprise ayant bénéficié du crédit d'impôt au cours de la même période de cinq années. 
+du crédit d'impôt et à condition : 
+
+1° Qu'il n'existe aucun lien de dépendance au sens du 12 de l'article 39 entre cette entreprise et une autre entreprise ayant
+bénéficié du crédit d'impôt au cours de la même période de cinq années ; 
+
+2° Que le capital de l'entreprise ne soit pas détenu à 25 % au moins par un associé détenant ou ayant détenu au cours des
+cinq dernières années au moins 25 % du capital d'une autre entreprise n'ayant plus d'activité effective et ayant bénéficié du
+crédit d'impôt au cours de la même période de cinq années ; 
+
+3° Que l'exploitant individuel de l'entreprise : 
+
+a) N'ait pas bénéficié du crédit d'impôt au cours des cinq dernières années dans le cadre de l'exploitation d'une autre
+entreprise individuelle n'ayant plus d'activité effective ; 
+
+b) Ne détienne pas ou n'ait pas détenu au cours de la même période de cinq années au moins 25 % du capital d'une autre
+entreprise n'ayant plus d'activité effective et ayant bénéficié du crédit d'impôt au cours de la même période de cinq
+années. 
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater,
 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des
-dispositions prévues au septième alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à
-leurs droits dans ces sociétés ou ces groupements. 
+dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs
+droits dans ces sociétés ou ces groupements. 
 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont : 
 
@@ -32,8 +47,9 @@ soit pas inférieur à celui de l'année précédente ;
 b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de l'article L. 611-7 du code de la propriété
 intellectuelle, au profit des salariés auteurs d'une invention résultant d'opérations de recherche ; 
 
-c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 %
-des dépenses de personnel mentionnées à la première phrase du b et au b bis ; 
+c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à la
+somme de 75 % des dotations aux amortissements mentionnées au a et de 50 % des dépenses de personnel mentionnées à la
+première phrase du b et au b bis ; 
 
 Ce pourcentage est fixé à : 
 
@@ -74,13 +90,16 @@ l'accord sur l'Espace économique européen ayant conclu avec la France une conv
 d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, l'agrément peut être délivré par le
 ministre français chargé de la recherche ou, lorsqu'il existe un dispositif similaire dans le pays d'implantation de
 l'organisme auquel sont confiées les opérations de recherche, par l'entité compétente pour délivrer l'agrément équivalent à
-celui du crédit d'impôt recherche français ; 
+celui du crédit d'impôt recherche français.
+
+Ces dépenses sont retenues dans la limite de trois fois le montant total des autres dépenses de recherche ouvrant droit au
+crédit d'impôt, avant application des limites prévues au d ter ; 
 
 d ter) Les dépenses mentionnées aux d et d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite
 globale de deux millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche
 correspondant à des opérations confiées aux organismes mentionnés aux d et d bis, à la condition qu'il n'existe pas de lien
 de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit
-d'impôt et ces organismes ; 
+d'impôt et ces organismes. 
 
 Le plafond de 10 millions d'euros mentionné au premier alinéa est majoré de 2 millions d'euros à raison des dépenses
 correspondant aux opérations confiées aux organismes mentionnés au d ; 
@@ -158,7 +177,23 @@ III. Les subventions publiques reçues par les entreprises à raison des opérat
 déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de
 même des sommes reçues par les organismes ou experts désignés au d et au d bis du II, pour le calcul de leur propre crédit
 d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au
-cours de laquelle elles sont remboursées à l'organisme qui les a versées. 
+cours de laquelle elles sont remboursées à l'organisme qui les a versées.
+
+Pour le calcul du crédit d'impôt, le montant des dépenses exposées par les entreprises auprès de tiers au titre de
+prestations de conseil pour l'octroi du bénéfice du crédit d'impôt est déduit des bases de calcul de ce dernier à
+concurrence : 
+
+a) Du montant des sommes rémunérant ces prestations fixé en proportion du montant du crédit d'impôt pouvant bénéficier à
+l'entreprise ; 
+
+b) Du montant des dépenses ainsi exposées, autres que celles mentionnées au a, qui excède le plus élevé des deux montants
+suivants : soit la somme de 15 000 € hors taxes, soit 5 % du total des dépenses hors taxes mentionnées au II minoré des
+subventions publiques mentionnées au III.
+
+III bis. ― Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à
+leur déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état
+d'avancement de leurs programmes, les moyens matériels et humains, directs ou indirects, qui y sont consacrés et la
+localisation de ces moyens.
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées). 
 
@@ -167,11 +202,11 @@ durée inégale ou ne coïncidant pas avec l'année civile.
 
 **Nota:**
 
-(1) Loi n° 2009-1674 du 30 décembre 2009, article 65 II : les dipositions de l'article 65 I s'appliquent aux crédits d'impôts
-calculés au titre des dépenses engagées à compter du 1er janvier 2010. 
+Loi n° 2010-1657 du 29 décembre 2010 art. 41 IV : Les modifications introduites par le 2° du A du III de cet article
+s'appliquent aux crédits d'impôts calculés au titre des dépenses exposées  à compter du 1er janvier 2010.
 
-Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 87 III : Le II de l'article 87 s'applique
-aux crédits d'impôt calculés au titre des dépenses de recherche exposées à partir du 1er janvier 2010.
+Celles introduites par le  1° du A et les B et C du III de cet article s'appliquent aux crédits d'impôts calculés au titre
+des dépenses exposée à compter du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
@@ -227,7 +262,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 41 (V)
 
 _Cite_:
 
