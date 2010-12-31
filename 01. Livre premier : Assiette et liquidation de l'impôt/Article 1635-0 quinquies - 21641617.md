@@ -2,7 +2,7 @@
 
 Il est institué au profit des collectivités territoriales ou de leurs établissements publics de coopération intercommunale
 une imposition forfaitaire sur les entreprises de réseaux. Cette imposition est déterminée dans les conditions prévues aux
-articles 1519 D, 1519 E, 1519 F, 1519 G, 1519 H, 1599 quater A et 1599 quater B.
+articles 1519 D, 1519 E, 1519 F, 1519 G, 1519 H, 1519 HA, 1599 quater A et 1599 quater B.
 
 **Liens relatifs à cet article**
 
@@ -23,3 +23,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 quater A (V)
   - Code général des impôts, CGI. - art. 1599 quater A bis (V)
   - Code général des impôts, CGI. - art. 1599 quater B (VT)
+
+_Modifié par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 121

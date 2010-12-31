@@ -22,26 +22,14 @@ la profession en application des dispositions des articles 93 ou 151 nonies ou �
 somme des gains nets relatifs aux périodes de détention dans le patrimoine privé, calculés suivant les règles des articles
 150-0 A à 150-0 E.
 
-Le seuil d'imposition prévu au 1 du I de l'article 150-0 A s'apprécie au moment de la cession des titres ou droits.
-
 Un décret en Conseil d'Etat fixe les conditions d'application du présent II.
 
 **Nota:**
 
-Loi n° 2005-1720 du 30 décembre 2005, art. 29 XVIII C : Ces dispositions s'appliquent aux cessions réalisées à compter du 1er
-janvier 2006.
+Loi n°2010-1657 du 29 décembre 2010, article 8 VIII : A. ― Le III s'applique aux cessions réalisées à compter du 1er janvier
+2011.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 150 U à 150 VH, 1594-0 G, 150-0 A à 150-0 E, 150-0 A
-  - Code de commerce L239-1 à L239-5
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
 
 _Cité par_:
 
@@ -53,4 +41,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 29 (V) JORF 31 décembre 2005
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 8 (V)
+
+_Cite_:
+
+  - Code de commerce
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-15

@@ -14,9 +14,10 @@ correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas
 montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en
 contravention aux dispositions de l'article 39 B ; 
 
-c. (Disposition périmée). 
+c. Aux plus-values réalisées à l'occasion de la cession de titres de sociétés établies dans un Etat ou territoire non
+coopératif au sens de l'article 238-0 A.
 
-3. Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2. 
+3. Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2.
 
 4. Le régime des moins-values à court terme s'applique : 
 
@@ -26,7 +27,7 @@ b. aux moins-values subies lors de la cession de biens amortissables, quelle que
 échéant, ces moins-values sont diminuées du montant des amortissements expressément exclus des charges déductibles ainsi que
 de ceux qui ont été différés en contravention aux dispositions de l'article 39 B. 
 
-5. Le régime des moins-values à long terme s'applique aux moins-values autres que celles définies au 4. 
+5. Le régime des moins-values à long terme s'applique aux moins-values autres que celles définies au 4.
 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par
 priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne. 
@@ -86,7 +87,7 @@ de la plus-value de cession qui a été considérée comme une plus-value à lon
 Lorsque la vente ayant donné lieu à la constatation d'une moins-value à long terme est annulée ou résolue, le profit qui en
 résulte est imposable selon le régime des plus-values à long terme. 
 
-Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1992. 
+Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1992.
 
 10. Lorsqu'une société ou un organisme qui cesse d'être soumis à l'un des régimes mentionnés au premier alinéa du II de
 l'article 202 ter cède des éléments de l'actif immobilisé inscrits au bilan d'ouverture du premier exercice ou de la première
@@ -95,11 +96,16 @@ apprécié à compter de la date d'ouverture de cet exercice ou de cette périod
 correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour
 l'application du b du 2.
 
+**Nota:**
+
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 22 VII 2 : les présentes dispositions sont
+applicables aux exercices ouverts à compter du 1er janvier 2011.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 8
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
 
 _Cité par_:
 
@@ -142,6 +148,7 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 202 ter
   - Code général des impôts, CGI. - art. 210 B
+  - Code général des impôts, CGI. - art. 238-0 A (V)
   - Code général des impôts, CGI. - art. 239 nonies
   - Code général des impôts, CGI. - art. 38 bis-0 A
   - Code général des impôts, CGI. - art. 39 B
