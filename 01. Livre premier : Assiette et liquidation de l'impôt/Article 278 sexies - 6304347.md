@@ -61,7 +61,9 @@ principale de personnes physiques, si ces personnes accèdent pour la première 
 plusieurs collectivités territoriales ou un groupement de collectivités territoriales du lieu d'implantation du logement et
 si la somme des revenus fiscaux de référence, au sens du 1° du IV de l'article 1417, des personnes destinées à occuper ce
 logement ne dépasse pas les plafonds de ressources prévus pour les titulaires de contrats de location-accession mentionnés au
-4 du présent I ;
+4 du présent I.
+
+Ces dispositions s'appliquent aux opérations engagées, définies par décret, jusqu'au 31 décembre 2010 ; 
 
 10. Les cessions de droits immobiliers démembrés de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de
 l'article L. 351-2 du code de la construction et de l'habitation, lorsque l'usufruitier bénéficie d'un prêt prévu à l'article
@@ -126,4 +128,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-237 du 9 mars 2010 - art. 16
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 94 (V)

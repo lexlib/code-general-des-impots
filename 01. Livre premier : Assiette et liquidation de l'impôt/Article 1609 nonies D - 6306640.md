@@ -13,16 +13,19 @@ collectivités territoriales ;
 
 d) (Abrogé). 
 
-e) la taxe sur les fournitures d'électricité dans les conditions prévues aux articles L. 2333-2 à L. 2333-5 du code général
-des collectivités territoriales, au lieu et place des communes membres dont la population est inférieure ou égale à 2 000
-habitants. Dans ce cas, celle-ci est recouvrée sans frais par le gestionnaire du réseau de distribution ou le fournisseur. Le
-taux de la taxe ne peut dépasser 8 p. 100.
+e) La taxe communale sur la consommation finale d'électricité prévue à l'article L. 2333-2 du code général des collectivités
+territoriales en lieu et place des communes membres dont la population est inférieure ou égale à 2 000 habitants.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 171 (V)
+  - Loi n°2010-1488 du 7 décembre 2010 - art. 23 (V)
+
+_Abrogé par_:
+
+  - Loi n°2010-1563 du 16 décembre 2010 - art. 15 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
 
 _Cité par_:
 

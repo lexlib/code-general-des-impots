@@ -2,25 +2,21 @@
 
 Les entreprises sont tenues de fournir, à l'appui de la déclaration de leurs résultats de chaque exercice, le relevé détaillé
 des catégories de dépenses visées au 5 de l'article 39 (1), lorsqu'elles dépassent un certain montant fixé par arrêté du
-ministre chargé de l'économie et des finances.
+ministre chargé de l'économie et des finances, ainsi que le relevé détaillé des dépenses mentionnées au troisième alinéa de
+l'article 238 A et déduites pour l'établissement de leur impôt. 
 
 (1) Pour les renseignements que doit comporter ce relevé, voir Annexe II, art. 36 et Annexe IV, art. 4 J à 4 L.
 
+**Nota:**
+
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009  art 22 VII 2 : les présentes dispositions sont
+applicables aux exercices ouverts à compter du 1er janvier 2011.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: CGI 223 quinquies
-
-_Cite_:
-
-  - CGI 39 5
-  - CGIAN2 36
-  - CGIAN4 4J à 4L
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 5 II JORF 9 juillet 1987
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
 
 _Cité par_:
 
@@ -29,3 +25,8 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 223 quinquies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 36 (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 J (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 238 A (V)
+  - Code général des impôts, CGI. - art. 39 (VT)

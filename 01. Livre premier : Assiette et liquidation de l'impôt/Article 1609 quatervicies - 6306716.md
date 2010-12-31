@@ -20,7 +20,7 @@ liaisons aériennes intracommunautaires.
 
 Les classes d'aérodromes sont fixées comme suit : 
 
-<table align="center" cellspacing="0" border="1" width="605" cellpadding="0">
+<table width="605" cellspacing="0" align="center" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td width="161">
@@ -75,7 +75,7 @@ De 5 001 à 2 200 000
 
 Les limites supérieures et inférieures des tarifs correspondant aux classes d'aérodromes sont fixées comme suit : 
 
-<table cellpadding="0" width="605" cellspacing="0" align="center" border="1">
+<table cellpadding="0" border="1" width="605" align="center" cellspacing="0">
   <tbody>
     <tr>
       <td width="161">
@@ -107,7 +107,7 @@ Tarifs par passager
 </td>
       <td width="142">
 
-De 4,3 à 10 euros
+De 4,3 à 11,5 euros
 
 </td>
       <td width="151">
@@ -117,7 +117,7 @@ De 3,5 à 9,5 euros.
 </td>
       <td width="151">
 
-De 2,6 à 11,5 euros
+De 2,6 à 12 euros
 
 </td>
     </tr>
@@ -174,24 +174,15 @@ garanties et sanctions que celles prévues pour la taxe de l'article 302 bis K.
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et
 jugées selon les règles applicables à la taxe de l'aviation civile. 
 
-VI.-Les I à IV et le V sont applicables aux aérodromes appartenant à l'Etat en Polynésie française et en Nouvelle-Calédonie,
-sous réserve des dispositions particulières suivantes :
+VI.-Les I à IV et le V sont applicables en Polynésie française, en  Nouvelle-Calédonie et à Mayotte. Pour les vols intérieurs
+à ces collectivités,  la taxe n'est pas due pour les passagers, le fret ou le courrier en  correspondance. 
 
-1° - le nombre des unités de trafic prévues au I est supérieur à 400 000 ;
+VII.-Le IV bis est applicable en Polynésie française, en Nouvelle-Calédonie, à  Saint-Barthélemy, à Saint-Martin et à
+Mayotte. Le produit de la majoration perçu  dans chacune de ces collectivités est reversé directement aux exploitants des
+aérodromes de la collectivité intéressée. Pour les vols intérieurs à la  Polynésie française, à la Nouvelle-Calédonie et à
+Mayotte, la majoration n'est  pas due pour les passagers, le fret ou le courrier en correspondance.
 
-2° - sur un même aérodrome, des tarifs différents peuvent être fixés pour les vols intérieurs en fonction de leur
-destination ;
-
-3° - la limite inférieure des tarifs est fixée à 0, 50 euro par passager effectuant un vol intérieur à la Polynésie
-française. 
-
-VII.-Le IV bis est applicable aux aérodromes appartenant à l'Etat en Polynésie française, en Nouvelle-Calédonie, à Saint-
-Barthélemy et à Saint-Martin, sous réserve des dispositions particulières suivantes : 
-
-1° - le produit de la majoration est reversé directement aux exploitants de ces aérodromes ; 
-
-2° - Sur un même aérodrome en Polynésie française et en Nouvelle-Calédonie, des tarifs différents peuvent être fixés pour les
-vols intérieurs en fonction de leur destination.
+VIII. ― Pour l'application du présent article, la notion de correspondance est  celle définie au VI de l'article 302 bis K.
 
 **Liens relatifs à cet article**
 
@@ -250,7 +241,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 94
 
 _Cite_:
 
