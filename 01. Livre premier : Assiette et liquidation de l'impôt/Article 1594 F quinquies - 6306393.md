@@ -1,10 +1,10 @@
 # Article 1594 F quinquies
 
-Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au taux de 0,60 % : 
+Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au taux de 0,70 % : 
 
-A. - A l'exception de celles qui sont visées au I du A de l'article 1594-0 G, les mutations à titre onéreux de terrains à
-bâtir et d'immeubles neufs mentionnés au 2° du 2 du I de l'article 257 lorsqu'elles sont soumises à la taxe sur la valeur
-ajoutée, sauf application des modalités prévues à l'article 268 ; 
+A. A l'exception de celles qui sont visées au I du A de l'article 1594-0 G, les mutations à titre onéreux de terrains à bâtir
+et d'immeubles neufs mentionnés au 2° du 2 du I de l'article 257 lorsqu'elles sont soumises à la taxe sur la valeur ajoutée,
+sauf application des modalités prévues à l'article 268 ; 
 
 B. Les mutations de propriété faites entre les propriétaires participant aux opérations de rénovation urbaine et l'organisme
 de rénovation. Toutefois, en ce qui concerne la taxe ou le droit afférents aux biens remis aux anciens propriétaires en
@@ -106,17 +106,31 @@ coopératives de production d'habitations à loyers modérés ainsi que par des 
 Conformément à l'article 42 II de la loi n° 2008-1443 du 30 décembre 2008, les dispositions introduites par l'article 42 I
 s'appliquent aux opérations intervenues à compter du 1er janvier 2009.
 
+LOI n° 2009-1673 du 30 décembre 2009 de finances pour 2010 art 77 1.2.1.6 : les présentes dispositions s'appliquent aux actes
+passés et aux conventions conclues à compter du 1er janvier 2011.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°55-22 du 4 janvier 1955 - art. 28
-  - Loi n°69-1168 du 26 décembre 1969
+  - Décret n°55-22 du 4 janvier 1955 - art. 28 (VT)
+  - Loi n°69-1168 du 26 décembre 1969, v. init.
+  - Code général des impôts, CGI. - art. 1465 A (V)
+  - Code général des impôts, CGI. - art. 1594-0 G (V)
+  - Code général des impôts, CGI. - art. 257 (V)
+  - Code général des impôts, CGI. - art. 268 (V)
+  - Code rural - art. D343-13 (V)
+  - Code rural - art. D343-9 (V)
+  - Code rural - art. L128-4 (V)
+  - Code rural - art. L128-7 (V)
+  - Code de l'urbanisme - art. L130-2 (V)
+  - Code de la construction et de l'habitation. - art. L615-1 (V)
 
 _Modifié par_:
 
-  - Loi n°2010-237 du 9 mars 2010 - art. 16
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
   - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
 
 _Cité par_:
 

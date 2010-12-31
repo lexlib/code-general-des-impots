@@ -14,7 +14,8 @@ exerçant une activité professionnelle non commerciale au sens du 1 de l'articl
 
 L'exonération ne s'applique pas aux créations d'activités dans les bassins d'emploi à redynamiser consécutives au transfert
 d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant
-celle du transfert des articles 44 sexies, 44 octies, 44 octies A et 44 septies ou de la prime d'aménagement du territoire.
+celle du transfert des articles 44 sexies, 44 octies, 44 octies A, 44 quindecies et 44 septies ou de la prime d'aménagement
+du territoire.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les bassins d'emploi à redynamiser ou qui reprennent de
@@ -56,10 +57,10 @@ Par exception au sixième alinéa, le contribuable exerçant une activité de lo
 bénéfices provenant des seuls immeubles situés dans un bassin d'emploi à redynamiser. Cette disposition s'applique quel que
 soit le lieu d'établissement du bailleur. 
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
 concernant l'application des articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des entreprises qui
 procèdent aux opérations mentionnées au I dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est
-subordonné au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
+subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines
 catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général
 d'exemption par catégorie).
 
@@ -70,15 +71,32 @@ III.-Lorsque le contribuable mentionné au I est une société membre d'un group
 exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du résultat d'ensemble du
 groupe. 
 
-Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 sexies ou à
-l'article 44 octies A et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six
-mois suivant celui du début d'activité. L'option est irrévocable. 
+Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
+44 octies A ou 44 quindecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans
+les six mois suivant celui du début d'activité.L'option est irrévocable. 
 
 IV.-Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
 V.-(disjoint)
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
+  - Code général des impôts, CGI. - art. 102 ter (V)
+  - Code général des impôts, CGI. - art. 103 (V)
+  - Code général des impôts, CGI. - art. 1467 (V)
+  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 34 (V)
+  - Code général des impôts, CGI. - art. 44 octies A (V)
+  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Code général des impôts, CGI. - art. 50-0 (V)
+  - Code général des impôts, CGI. - art. 53 A (V)
+  - Code général des impôts, CGI. - art. 63 (V)
+  - Code général des impôts, CGI. - art. 92 (V)
+  - Code général des impôts, CGI. - art. 96 (V)
+  - Code monétaire et financier - art. L511-1 (V)
 
 _Cité par_:
 
@@ -102,8 +120,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
-
-_Cite_:
-
-  - Règlement CE 1628/2006 2006-10-24
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
