@@ -13,14 +13,14 @@ cinquante-neuvième mois suivant le début d'activité dans cette zone.
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
 d'immeubles à usage d'habitation, ou agricole au sens de l'article 63, dans les conditions et limites fixées par le présent
-article.L'exonération s'applique dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les sociétés
+article. L'exonération s'applique dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les sociétés
 exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92.
 
 L'exonération ne s'applique pas aux créations d'activité dans les zones de restructuration de la défense consécutives au
 transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années
-précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies
-et 44 duodecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie et les
-services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
+précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies,
+44 duodecies et 44 quindecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour
+l'industrie et les services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les zones de restructuration de la défense ou qui reprennent
@@ -55,21 +55,21 @@ l'activité exercée dans une zone de restructuration de la défense.
 
 Lorsque le contribuable n'exerce pas l'ensemble de son activité dans une zone de restructuration de la défense, le bénéfice
 exonéré est déterminé en affectant le montant résultant du calcul ainsi effectué du rapport entre, d'une part, la somme des
-éléments d'imposition à la cotisation foncière des entreprises définis à l'article 1467              afférents à l'activité
-exercée dans une zone de restructuration de la défense et relatifs à la période d'imposition des bénéfices et, d'autre part,
-la somme des éléments d'imposition à la cotisation foncière des entreprises du contribuable définis au même article pour
-ladite période. Pour la fixation de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est
-celle déterminée conformément à l'article 1467 au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er
-janvier de l'année d'imposition des bénéfices. 
+éléments d'imposition à la cotisation foncière des entreprises définis à l'article 1467 afférents à l'activité exercée dans
+une zone de restructuration de la défense et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme des
+éléments d'imposition à la cotisation foncière des entreprises du contribuable définis au même article pour ladite période.
+Pour la fixation de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est celle déterminée
+conformément à l'article 1467 au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er janvier de l'année
+d'imposition des bénéfices. 
 
 Par exception au sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré qu'à raison des
 bénéfices provenant des seuls immeubles situés dans une zone de restructuration de la défense. Cette disposition s'applique
 quel que soit le lieu d'établissement du bailleur. 
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
 concernant l'application des articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des entreprises qui
 procèdent aux opérations mentionnées au I dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est
-subordonné au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
+subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines
 catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (règlement général
 d'exemption par catégorie).
 
@@ -81,8 +81,8 @@ exonéré est celui de cette société déterminé dans les conditions prévues 
 groupe. 
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
-44 sexies A, 44 septies, 44 octies A ou 44 duodecies et du régime prévu au présent article, le contribuable peut opter pour
-ce dernier régime dans les six mois suivant celui du début d'activité.L'option est irrévocable. 
+44 sexies A, 44 septies, 44 octies A, 44 duodecies ou 44 quindecies et du régime prévu au présent article, le contribuable
+peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable. 
 
 IV. ― Les obligations déclaratives des personnes et organismes concernés par l'exonération prévue au présent article sont
 fixées par décret.
@@ -97,7 +97,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 35
-  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 sexies (V)
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 63
@@ -105,12 +105,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 92
   - Code général des impôts, CGI. - art. 96
   - Code monétaire et financier - art. L511-1
-  - article 13 du règlement (CE) n°800/2008
-  - règlement (CE) n°1998/2006
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
 
 _Cité par_:
 

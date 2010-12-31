@@ -87,7 +87,8 @@ d'achèvement de ces travaux.
 V. ― Lorsque le logement reste loué, à l'issue de la période couverte par l'engagement de location mentionnée au I, dans les
 conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31, par période de trois ans, le contribuable continue
 à bénéficier de la réduction d'impôt prévue au présent article pendant au plus six années supplémentaires. Dans ce cas, la
-réduction d'impôt annuelle est égale à 2 % du prix de revient du logement. 
+réduction d'impôt annuelle est égale à 6 % du prix de revient du logement par période triennale, imputée à raison d'un tiers
+de son montant sur l'impôt dû au titre de chacune des années comprises dans ladite période.  
 
 VI. ― Un contribuable ne peut, pour un même logement ou une même souscription de parts, bénéficier à la fois de l'une des
 réductions d'impôt prévues aux articles 199 decies E à 199 decies G, 199 decies I, 199 undecies A ou 199 tervicies et des
@@ -194,11 +195,15 @@ alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
 
 **Nota:**
 
-(1) Loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 article 83 II : Le I de l'article 83 s'applique à compter de
-l'imposition des revenus de 2010.
-
-Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2010 article 39 IV : le II de l'article 39 s'applique à
-compter de l'imposition des revenus de l'année 2009.
+Loi n° 2010-1657 du 29 décembre 2010 article 105  IX 1 : Ces dispositions sont applicables à compter de l'imposition des
+revenus de l'année 2011 pour les dépenses payées à compter du 1er janvier 2011, à l'exception de celles pour lesquelles le
+contribuable justifie qu'il a pris, avant le 31 décembre 2010, l'engagement de réaliser un investissement immobilier . A
+titre transitoire, l'engagement de réaliser un investissement immobilier peut prendre la forme d'une réservation, à condition
+qu'elle soit enregistrée chez un notaire ou au service des impôts avant le 31 décembre 2010 et que l'acte authentique soit
+passé avant le 31 mars 2011. Lorsque le bénéfice de la réduction d'impôt est subordonné à l'agrément préalable du ministre
+chargé du budget prévu au II de l'article 199 undecies B du code général des impôts, les I à VII du présent article ne
+s'appliquent ni aux investissements agréés avant le 5 décembre 2010, ni aux investissements agréés avant le 31 décembre 2010
+qui ouvrent droit à la réduction d'impôt sur les revenus de l'année 2010.
 
 **Liens relatifs à cet article**
 
@@ -245,4 +250,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-1445 du 25 novembre 2010 - art. 1
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 105 (V)

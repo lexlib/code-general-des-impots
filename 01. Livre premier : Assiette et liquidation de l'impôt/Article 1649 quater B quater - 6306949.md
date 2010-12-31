@@ -1,25 +1,25 @@
 # Article 1649 quater B quater
 
-I.-Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie électronique
+I. - Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie électronique
 lorsque le chiffre d'affaires réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 15 000 000 d'euros
-hors taxes. 
+hors taxes.
 
 Cette obligation s'applique également aux entreprises qui, quel que soit leur chiffre d'affaires, appartiennent à l'une des
-catégories suivantes : 
+catégories suivantes :
 
 1° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait dont, à la clôture de l'exercice, le
-chiffre d'affaires hors taxes ou le total de l'actif brut figurant au bilan est supérieur ou égal à 400 millions d'euros ; 
+chiffre d'affaires hors taxes ou le total de l'actif brut figurant au bilan est supérieur ou égal à 400 millions d'euros ;
 
 2° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait détenant à la clôture de l'exercice,
 directement ou indirectement, plus de la moitié du capital ou des droits de vote d'une personne morale ou d'un groupement
-mentionné au 1° ; 
+mentionné au 1° ;
 
 3° Les personnes morales ou groupements de personnes de droit ou de fait dont plus de la moitié du capital ou des droits de
 vote est détenue à la clôture de leur exercice, directement ou indirectement, par une personne ou un groupement mentionné au
-1° ; 
+1° ;
 
 4° Les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies ainsi que toutes les personnes morales imposables
-en France faisant partie du périmètre de consolidation ; 
+en France faisant partie du périmètre de consolidation ;
 
 5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A lorsque celui-ci
 comprend au moins une personne mentionnée aux 1°, 2°, 3° et 4°. 
@@ -27,38 +27,40 @@ comprend au moins une personne mentionnée aux 1°, 2°, 3° et 4°.
 Pour les entreprises mentionnées aux 1° à 4°, cette obligation s'applique aux déclarations qui doivent être souscrites à
 compter du 1er février de la deuxième année suivant celle au cours de laquelle l'une au moins des conditions prévues aux 1° à
 4° est remplie à la clôture de l'exercice. Pour les entreprises mentionnées au 5°, cette obligation s'applique à compter du
-1er février de la première année suivant celle de leur entrée dans le groupe. 
+1er février de la première année suivant celle de leur entrée dans le groupe.
 
 Pour les entreprises mentionnées aux 1° à 5°, cette obligation continue à s'appliquer jusqu'au 31 janvier de la quatrième
 année suivant celle au cours de laquelle les conditions ont cessé d'être remplies à la clôture de l'exercice. Par dérogation
 aux dispositions de l'alinéa précédent, si, au cours de cette période, les conditions sont à nouveau remplies à la clôture
-d'un exercice, cette obligation continue de s'appliquer à compter du début du premier exercice suivant. 
+d'un exercice, cette obligation continue de s'appliquer à compter du début du premier exercice suivant.
 
 Cette obligation s'applique en outre aux personnes morales ou groupements de personnes de droit ou de fait qui ont opté pour
 le dépôt de leurs déclarations fiscales auprès du service chargé des grandes entreprises dans des conditions fixées par
-décret. 
+décret.
 
-II.-Les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles ainsi
-que leurs annexes sont souscrites par voie électronique par les entreprises définies aux deuxième à dixième alinéas du I. 
+II. - Les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles ainsi
+que leurs annexes sont souscrites par voie électronique par les entreprises définies aux deuxième à dixième alinéas du I.
 
-III.-Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette taxe,
-ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par voie
-électronique lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent est
-supérieur à 500 000 EUR hors taxes. 
+III. - Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette
+taxe, ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par
+voie électronique lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent
+est supérieur à 500 000 EUR hors taxes.
 
-Cette obligation s'applique également aux redevables définis aux deuxième à dixième alinéas du I. 
+Cette obligation s'applique également aux redevables définis aux deuxième à dixième alinéas du I.
 
-IV.-Les déclarations de cotisation sur la valeur ajoutée des entreprises et leurs annexes sont obligatoirement souscrites par
-voie électronique lorsque le chiffre d'affaires de l'entreprise redevable est supérieur à 500 000 euros.
+IV. - Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie
+électronique par les redevables définis aux deuxième à dernier alinéas du I ou lorsque le chiffre d'affaires de l'entreprise
+redevable est supérieur à 500 000 €.
 
-V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis
+V. - L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis
 bénéficiant du régime visé à l'article 293 B peuvent le déposer sur support papier.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (V)
 
 _Cité par_:
 
@@ -80,7 +82,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 209 quinquies (V)
-  - Code général des impôts, CGI. - art. 223 A (VT)
-  - Code général des impôts, CGI. - art. 289 B (V)
-  - Code général des impôts, CGI. - art. 293 B (V)
+  - Code général des impôts, CGI. - art. 209 quinquies
+  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 289 B
+  - Code général des impôts, CGI. - art. 293 B

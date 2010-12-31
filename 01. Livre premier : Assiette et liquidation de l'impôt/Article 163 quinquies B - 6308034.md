@@ -4,6 +4,9 @@ I. Les personnes physiques qui prennent l'engagement de conserver, pendant cinq 
 des parts de fonds communs de placement à risques sont exonérées de l'impôt sur le revenu à raison des sommes ou valeurs
 auxquelles donnent droit les parts concernées.
 
+Cette disposition ne s'applique pas aux porteurs de parts de fonds communs de placement à risques donnant lieu à des droits
+différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
+
 II. L'exonération est subordonnée aux conditions suivantes :
 
 1° Outre les conditions prévues aux articles L. 214-36 et L. 214-37 du code monétaire et financier, les titres pris en
@@ -65,18 +68,10 @@ IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux
 
 **Nota:**
 
-Les modifications induites par l'article 65 III de la loi n° 2006-1666 s'appliquent à compter du 1er janvier 2007 aux fonds
-communs de placement dans l'innovation agréés par l'Autorité des marchés financiers.
+Loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 art 39 IV : les présentes dispositions s'appliquent aux parts,
+actions ou titres émis ou acquis à compter du 1er janvier 2011.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 34
-  - Code monétaire et financier - art. L214-36 (M)
-  - Code monétaire et financier - art. L214-37 (M)
-  - Code monétaire et financier - art. L214-41 (M)
-  - Code de la sécurité sociale. - art. L341-4 (V)
 
 _Cité par_:
 
@@ -113,8 +108,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 65 (V) JORF 27 décembre 2006
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 39 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Code monétaire et financier - art. L214-36
+  - Code monétaire et financier - art. L214-41
+  - Code de la sécurité sociale. - art. L341-4
