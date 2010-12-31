@@ -1,7 +1,7 @@
 # Article 117 quater
 
 I.-1. Les personnes physiques fiscalement domiciliées en France au sens de l'article 4 B qui bénéficient de revenus éligibles
-à l'abattement prévu au 2° du 3 de l'article 158 peuvent opter pour leur assujettissement à un prélèvement au taux de 18 %,
+à l'abattement prévu au 2° du 3 de l'article 158 peuvent opter pour leur assujettissement à un prélèvement au taux de 19 %,
 qui libère les revenus auxquels il s'applique de l'impôt sur le revenu. 
 
 Pour le calcul de ce prélèvement, les revenus mentionnés au premier alinéa sont retenus pour leur montant brut.L'impôt retenu
@@ -54,13 +54,27 @@ sanctions que le prélèvement mentionné à l'article 125 A.
 
 **Nota:**
 
-dispositions applicables aux revenus perçus et aux gains et profits réalisés à compter du 1er janvier 2008.
+Loi n° 2010-1657 du 29 décembre 2010, article 6 VII : Le présent article est applicable : 
+
+a)  A compter de l'imposition des revenus de l'année 2010  pour la majoration de taux mentionnée au I ; 
+
+b) Aux  revenus perçus ainsi qu'aux gains et profits réalisés à compter du 1er  janvier 2011 et aux plus-values réalisées au
+titre des cessions  intervenues à compter du 1er janvier 2011 pour la majoration du taux de  18 % prévue au II ; 
+
+c) Aux cessions réalisées à  compter du 1er janvier 2011 pour la majoration du taux prévu à la  première phrase du premier
+alinéa du 6 de l'article 200 A prévue au II ;  
+
+d) Aux plus-values réalisées au titre des cessions  intervenues à compter du 1er janvier 2011 pour la majoration de taux
+prévue au III ; 
+
+e) Aux revenus du patrimoine  mentionnés à l'article L. 136-6 du code de la sécurité sociale perçus   à compter du 1er
+janvier 2010 pour la majoration de taux prévue au VI ;  
+
+f) Aux produits de placements mentionnés au I de  l'article L. 136-7 du même code et à ceux mentionnés au II du même  article
+pour la part de ces produits acquise et, le cas échéant,  constatée à compter du 1er janvier 2011, pour la majoration de taux
+prévue au VI.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 10
 
 _Cité par_:
 
@@ -89,6 +103,10 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 L (VD)
   - Code monétaire et financier - art. R312-20 (V)
   - Livre des procédures fiscales - art. L169 A (V)
+
+_Modifié par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 6 (V)
 
 _Cite_:
 
