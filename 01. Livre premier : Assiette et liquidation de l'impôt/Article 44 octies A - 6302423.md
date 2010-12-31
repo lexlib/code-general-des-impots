@@ -7,7 +7,7 @@ dans les zones franches urbaines définies au deuxième alinéa du B du 3 de l'a
 sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités implantées dans la zone jusqu'au 31
 décembre 2010 pour les contribuables qui y exercent déjà une activité au 1er janvier 2006 ou, dans le cas contraire, jusqu'au
 terme du cinquante-neuvième mois suivant celui du début de leur activité dans l'une de ces zones. Ces bénéfices sont soumis à
-l'impôt sur le revenu ou à l'impôt sur les sociétés à concurrence de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont
+l'impôt sur le revenu ou à l'impôt sur les sociétés à concurrence de 40 %,60 % ou 80 % de leur montant selon qu'ils sont
 réalisés respectivement au cours des cinq premières, de la sixième et septième ou de la huitième et neuvième périodes de
 douze mois suivant cette période d'exonération. 
 
@@ -43,9 +43,10 @@ préexistantes et si celles-ci bénéficient ou ont bénéficié des disposition
 octies, l'exonération prévue au présent article s'applique dans les conditions prévues au premier alinéa en déduisant de la
 durée qu'il fixe la durée d'exonération déjà écoulée au titre de ces articles avant le transfert, la reprise, la
 concentration ou la restructuration. Si les activités sont créées par un contribuable ayant bénéficié au titre d'une ou
-plusieurs des cinq années précédant celle du transfert des dispositions de l'article 44 sexies dans les zones de
-revitalisation rurale définies à l'article 1465 A ou dans les zones de redynamisation urbaine définies aux I bis et I ter de
-l'article 1466 A, ou de la prime d'aménagement du territoire, l'exonération ne s'applique pas. 
+plusieurs des cinq années précédant celle du transfert des dispositions des articles 44 sexies ou 44 quindecies dans les
+zones de revitalisation rurale définies à l'article 1465 A ou dans les zones de redynamisation urbaine définies           au
+A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ou de la prime d'aménagement du territoire,
+l'exonération ne s'applique pas. 
 
 Lorsque l'activité non sédentaire d'un contribuable est implantée dans une zone franche urbaine mais est exercée en tout ou
 partie en dehors d'une telle zone, l'exonération s'applique si ce contribuable emploie au moins un salarié sédentaire à temps
@@ -53,8 +54,8 @@ plein ou équivalent, exerçant ses fonctions dans les locaux affectés à l'act
 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines. 
 
 II.-L'exonération s'applique au bénéfice d'un exercice ou d'une année d'imposition, déclaré selon les modalités prévues aux
-articles 50-0, 53 A, 96 à 100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions
-de droit commun : 
+articles 50-0,53 A,96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de
+droit commun : 
 
 a) Produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8,
 lorsqu'ils ne proviennent pas d'une activité exercée dans l'une des zones franches urbaines, et résultats de cession des
@@ -77,9 +78,9 @@ la cotisation foncière des entreprises du contribuable définis au même articl
 rapport, la valeur locative des immobilisations passibles d'une taxe foncière est déterminée conformément à l'article 1467,
 au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition des bénéfices. 
 
-Par exception aux dispositions du sixième alinéa , le contribuable exerçant une activité de location d'immeubles n'est
-exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition
-s'applique quel que soit le lieu d'établissement du bailleur. 
+Par exception aux dispositions du sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré
+qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition s'applique
+quel que soit le lieu d'établissement du bailleur. 
 
 Le bénéfice exonéré ne peut excéder 100 000 Euros par contribuable et par période de douze mois, majoré de 5 000 Euros par
 nouveau salarié embauché à compter du 1er janvier 2006 domicilié dans une zone urbaine sensible ou dans une zone franche
@@ -88,7 +89,7 @@ l'exercice ou de la période d'imposition au titre duquel ou de laquelle l'exon�
 
 Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines définies au
 deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, le bénéfice de l'exonération est
-subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
+subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis. 
 
 III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A, le
@@ -98,11 +99,11 @@ l'article 223 I.
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération accordée ne peut excéder le montant total calculé
 conformément aux dispositions du huitième alinéa du II, dans la limite du résultat d'ensemble du groupe. 
 
-Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 sexies et du régime
-prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois qui suivent la publication du
-décret en Conseil d'Etat procédant à la délimitation de la zone conformément à l'article 42 de la loi n° 95-115 du 4 février
-1995 précitée, s'il y exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant celui du début
-d'activité.L'option est irrévocable. 
+Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies
+et 44 quindecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois
+qui suivent la publication du décret en Conseil d'Etat procédant à la délimitation de la zone conformément à l'article 42 de
+la loi n° 95-115 du 4 février 1995 précitée, s'il y exerce déjà son activité ou, dans le cas contraire, dans les six mois
+suivant celui du début d'activité.L'option est irrévocable. 
 
 IV.-Les obligations déclaratives des personnes et organismes auxquels s'applique l'exonération sont fixées par décret.
 
@@ -114,7 +115,9 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
 
 _Cité par_:
 

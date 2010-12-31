@@ -1,7 +1,7 @@
 # Article 244 quater P
 
 I.-Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 octies, 44 decies , 44 undecies, 44 terdecies et 44 quaterdecies peuvent bénéficier d'un crédit
+sexies, 44 sexies A, 44 octies, 44 decies , 44 undecies, 44 terdecies à 44 quindecies   peuvent bénéficier d'un crédit
 d'impôt au titre des dépenses de formation de leurs salariés à l'économie de l'entreprise et aux dispositifs d'épargne
 salariale et d'actionnariat salarié qu'elles exposent auprès d'organismes de formation figurant sur une liste arrêtée par le
 préfet de région, après avis du comité de coordination régional de l'emploi et de la formation professionnelle. 
@@ -50,7 +50,11 @@ VI.-Un décret fixe les conditions d'application du présent article.
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 4 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+
+**Liens**:
+
+  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 
