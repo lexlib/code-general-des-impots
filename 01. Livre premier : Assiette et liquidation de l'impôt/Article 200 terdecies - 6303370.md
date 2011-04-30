@@ -13,7 +13,7 @@ consommation à l'exception :
 
 a) Des ventes ou prestations de service dont le paiement est échelonné, différé ou fractionné ;
 
-b) Des ouvertures de crédit mentionnées à l'article L. 311-9 du même code ;
+b) Des ouvertures de crédit mentionnées à l'article L. 311-16 du même code ;
 
 c) Des découverts en compte ;
 
@@ -43,21 +43,11 @@ par décret.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 6, 199 quater B à 200 bis
-  - Code de la consommation - art. L311-9 (M)
-  - Code de la consommation L311-1 à L311-3, L311-9
+  - Loi n°2010-737 du 1er juillet 2010 - art. 2
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZ (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZ bis (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
-_Créé par_:
-
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 80 () JORF 31 décembre 2005
