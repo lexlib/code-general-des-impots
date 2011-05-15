@@ -11,7 +11,7 @@ justifiée par la fragilité du milieu naturel.
 La réduction d'impôt s'applique aux dépenses mentionnées au premier alinéa ayant reçu un avis favorable du service de l'Etat
 compétent en matière d'environnement. 
 
-II.-La réduction d'impôt est égale à 25 % des dépenses mentionnées au I effectivement supportées au titre de l'année
+II.-La réduction d'impôt est égale à 22 % des dépenses mentionnées au I effectivement supportées au titre de l'année
 d'imposition et restant à la charge des propriétaires des espaces concernés, retenues dans la limite annuelle de 10 000
 euros. 
 
@@ -37,7 +37,7 @@ compter de l'imposition des revenus de l'année 2010 et pour les trois années s
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Décret n°2011-520 du 13 mai 2011 - art. 1
 
 _Cité par_:
 

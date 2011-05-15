@@ -28,9 +28,9 @@ l'article 197 sont applicables.
 le propriétaire ouvrant droit à réduction d'impôt ne peut excéder, au titre d'une année, 50 000 Euros pour une personne
 célibataire, veuve ou divorcée et 100 000 Euros pour un couple marié. Son taux est égal à : 
 
-a) 20 % du montant des dépenses afférentes à des logements mentionnés aux a et b du 1 ; 
+a) 18 % du montant des dépenses afférentes à des logements mentionnés aux a et b du 1 ; 
 
-b) 40 % du montant des dépenses afférentes à des logements mentionnés au c du 1, sans qu'il y ait toutefois lieu de le
+b) 36 % du montant des dépenses afférentes à des logements mentionnés au c du 1, sans qu'il y ait toutefois lieu de le
 diminuer des subventions publiques accordées aux contribuables. 
 
 4. Pour les logements mentionnés aux a et c du 1, le propriétaire doit selon le cas s'engager à les louer nus pendant au
@@ -64,18 +64,11 @@ qui demande le bénéfice de la réduction d'impôt renonce à la faculté de d�
 la forme d'une déduction de l'amortissement, pour la détermination des revenus catégoriels. Il ne peut bénéficier des
 dispositions prévues à l'article 32 ou à l'article 50-0.
 
-**Nota:**
-
-Loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 article 23 III : Les I et II de l'article 23 s'appliquent à
-compter de l'imposition des revenus de 2009.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 23 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 86
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 87
+  - Décret n°2011-520 du 13 mai 2011 - art. 1
 
 _Cité par_:
 
