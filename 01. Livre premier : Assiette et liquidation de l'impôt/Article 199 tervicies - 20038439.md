@@ -44,13 +44,13 @@ Lorsque les dépenses de travaux sont réalisées dans le cadre d'un contrat de 
 conditions et limites prévues au présent article, est celui correspondant au prix des travaux devant être réalisés par le
 vendeur et effectivement payés par l'acquéreur selon l'échéancier prévu au contrat. 
 
-III. ― La réduction d'impôt est égale à 30 % du montant des dépenses mentionnées au II, retenues dans la limite annuelle de
+III. ― La réduction d'impôt est égale à 27 % du montant des dépenses mentionnées au II, retenues dans la limite annuelle de
 100 000 €. 
 
-Ce taux est majoré de dix points lorsque les dépenses sont effectuées pour des immeubles situés dans un secteur sauvegardé
-créé en application du I de l'article L. 313-1 du code de l'urbanisme ou dans un quartier ancien dégradé délimité en
-application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre
-l'exclusion lorsque la restauration a été déclarée d'utilité publique. 
+Ce taux est porté à 36 % lorsque les dépenses sont effectuées pour des immeubles situés dans un secteur sauvegardé créé en
+application du I de l'article L. 313-1 du code de l'urbanisme ou dans un quartier ancien dégradé délimité en application de
+l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la
+restauration a été déclarée d'utilité publique. 
 
 IV. ― Lorsque les dépenses portent sur un local à usage d'habitation, le propriétaire prend l'engagement de le louer nu, à
 usage de résidence principale du locataire, pendant une durée de neuf ans. Lorsque les dépenses portent sur un local affecté
@@ -73,10 +73,9 @@ condition qu'au minimum 65 % du montant de la souscription servent exclusivement
 que 30 % au minimum servent exclusivement à financer l'acquisition d'immeubles mentionnés au même I. Le produit de la
 souscription doit être intégralement affecté dans les dix-huit mois qui suivent la clôture de celle-ci. 
 
-2. La réduction d'impôt est égale à 30 % du montant de la souscription affecté au financement des dépenses relatives à un
-immeuble mentionné aux 3° et 4° du I, retenu dans la limite annuelle de 100 000 euros. Ce taux est majoré de dix points
-lorsque le montant de la souscription est affecté au financement de dépenses relatives à un immeuble mentionné au 1° ou 2° du
-I. 
+2. La réduction d'impôt est égale à 27 % du montant de la souscription affecté au financement des dépenses relatives à un
+immeuble mentionné aux 3° et 4° du I, retenu dans la limite annuelle de 100 000 euros. Ce taux est porté à 36 % lorsque le
+montant de la souscription est affecté au financement de dépenses relatives à un immeuble mentionné au 1° ou 2° du I. 
 
 3. La société doit prendre l'engagement de louer l'immeuble au titre duquel les dépenses sont réalisées dans les conditions
 prévues au IV.L'associé doit s'engager à conserver la propriété de ses titres jusqu'au terme de l'engagement de location
@@ -111,16 +110,6 @@ VII. ― Un décret précise, en tant que de besoin, les modalités d'applicatio
 VIII. ― Le présent article s'applique aux dépenses portant sur des immeubles pour lesquels une demande de permis de
 construire ou une déclaration de travaux a été déposée à compter du 1er janvier 2009.
 
-**Nota:**
-
-Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 39 IV : Les IV bis et V bis de l'article 199
-tervicies s'appliquent aux souscriptions de parts de sociétés civiles de placement immobilier destinées à financer des
-dépenses portant sur des immeubles pour lesquels une demande de permis de construire ou une (1) : déclaration de travaux a
-été déposée à compter du 1er janvier 2009.
-
-(1) : Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 39 IV : le 1° du I de l'article 39
-s'applique à compter de l'imposition des revenus de l'année 2009.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -153,4 +142,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+  - Décret n°2011-520 du 13 mai 2011 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
