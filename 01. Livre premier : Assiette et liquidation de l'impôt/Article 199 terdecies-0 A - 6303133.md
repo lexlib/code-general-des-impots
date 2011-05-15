@@ -1,7 +1,7 @@
 # Article 199 terdecies-0 A
 
 I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale
-à 25 % des versements effectués au titre de souscriptions en numéraire au capital initial ou aux augmentations de capital de
+à 22 % des versements effectués au titre de souscriptions en numéraire au capital initial ou aux augmentations de capital de
 sociétés. 
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° est subordonné au respect, par la société bénéficiaire de la souscription,
@@ -132,7 +132,7 @@ V. Un décret fixe les modalités d'application du présent article, notamment l
 contribuables et aux sociétés. 
 
 VI. 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu
-égale à 25 % des versements effectués au titre de souscriptions en numéraire de parts de fonds communs de placement dans
+égale à 22 % des versements effectués au titre de souscriptions en numéraire de parts de fonds communs de placement dans
 l'innovation mentionnés à l'article L. 214-41 du code monétaire et financier lorsque les conditions suivantes sont
 remplies : 
 
@@ -180,7 +180,7 @@ Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissem
 différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne. 
 
 VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu
-égale à 50 % des versements effectués au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité,
+égale à 45 % des versements effectués au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité,
 mentionnés à l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs
 mobilières, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs
 activités exclusivement dans des établissements situés en Corse. 
@@ -282,18 +282,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 (V)
-  - Code général des impôts, CGI. (V)
+  - Loi n°2009-1673 du 30 décembre 2009
+  - Code général des impôts, CGI.
   - Code général des impôts, CGI. - art. 150-0 A
   - Code général des impôts, CGI. - art. 197
-  - Code général des impôts, CGI. - art. 199 undecies A (V)
-  - Code général des impôts, CGI. - art. 885 O quater (V)
+  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 885 O quater
   - Code monétaire et financier - art. L214-41
   - Code monétaire et financier - art. L214-41-1
-  - Code du travail - art. L3332-1 (V)
+  - Code du travail - art. L3332-1
   - Code de la sécurité sociale. - art. L341-4
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 38 (V)
+  - Décret n°2011-520 du 13 mai 2011 - art. 1

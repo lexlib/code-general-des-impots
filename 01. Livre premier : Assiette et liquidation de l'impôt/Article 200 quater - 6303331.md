@@ -94,9 +94,9 @@ fiscal.
 
 a. (Abrogé) 
 
-b) 15 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ; 
+b) 13 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ; 
 
-c) 25 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ; 
+c) 22 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ; 
 
 d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du
 1 : 
@@ -121,7 +121,7 @@ Cas général </td>
       <td align="center">
 
 50 % </td>
-      <td align="center">50 % 
+      <td align="center">45 % 
 
 </td>
     </tr>
@@ -134,7 +134,7 @@ Cas général </td>
 25 % (2) 
 
 </td>
-      <td align="center">25 % 
+      <td align="center">22 % 
 
 </td>
     </tr>
@@ -146,7 +146,7 @@ chaleur géothermiques. </td>
       <td align="center">
 
 25 % </td>
-      <td align="center">25 % 
+      <td align="center">22 % 
 
 </td>
     </tr>
@@ -157,7 +157,7 @@ Pompes à chaleur géothermiques dont la finalité essentielle est la production
       <td align="center">
 
 40 % </td>
-      <td align="center">40 % 
+      <td align="center">36 % 
 
 </td>
     </tr>
@@ -168,7 +168,7 @@ Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la product
       <td align="center">
 
 40 % </td>
-      <td align="center">40 % 
+      <td align="center">36 % 
 
 </td>
     </tr>
@@ -179,7 +179,7 @@ Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques.
       <td align="center">
 
 40 % </td>
-      <td align="center">40 % 
+      <td align="center">36 % 
 
 </td>
     </tr>
@@ -201,7 +201,7 @@ Chaudières et équipements de chauffage ou de production d'eau chaude fonctionn
 25 % 
 
 </td>
-      <td align="center">25 %
+      <td align="center">22 %
 
 </td>
     </tr>
@@ -214,7 +214,7 @@ Chaudières et équipements de chauffage ou de production d'eau chaude fonctionn
 40 % 
 
 </td>
-      <td align="center">40 % 
+      <td align="center">36 % 
 
 </td>
     </tr>
@@ -238,9 +238,9 @@ c) Ou d'un moyen de financement accordé à raison des dépenses concernées par
   </tbody>
 </table>
 
-e) 25 % du montant des équipements mentionnés aux d et e du 1 ; 
+e) 22 % du montant des équipements mentionnés aux d et e du 1 ; 
 
-f) 50 % du montant des dépenses mentionnées au 2° du f du 1.
+f) 45 % du montant des dépenses mentionnées au 2° du f du 1.
 
 6. Les équipements, matériaux, appareils et travaux de pose mentionnés au 1 s'entendent de ceux figurant sur la facture d'une
 entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° des c, d et e du 1, des équipements figurant sur une
@@ -257,7 +257,7 @@ caractéristiques et les critères de performance mentionnés à la deuxième ph
 ainsi que la surface en mètres carrés des parois opaques isolées en distinguant ce qui relève de l'isolation par l'extérieur
 de ce qui relève de l'isolation par l'intérieur. Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou
 d'un équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, le bénéfice
-du taux de 40 % mentionné au d du 5 est accordé sur présentation d'une facture comportant, outre les mentions précitées, la
+du taux de 36 % mentionné au d du 5 est accordé sur présentation d'une facture comportant, outre les mentions précitées, la
 mention de la reprise, par l'entreprise qui a réalisé les travaux, de l'ancien matériel et des coordonnées de l'entreprise
 qui procède à sa destruction. Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire une facture ou une
 attestation mentionnant les caractéristiques et les critères de performance conformément à l'arrêté mentionné au 2, ainsi que
@@ -265,7 +265,7 @@ la surface en mètres carrés des parois opaques isolées en distinguant ce qui 
 relève de l'isolation par l'intérieur, ou de justifier, selon le cas, de la réalisation d'un diagnostic de performance
 énergétique, de la reprise de l'ancienne chaudière à bois ou autres biomasses ou de l'ancien équipement de chauffage ou de
 production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, il fait l'objet, au titre de l'année
-d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale à 15 %,25 %,40 % ou 50 % de la dépense non
+d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale à 13 %, 22 %, 36 % ou 45 % de la dépense non
 justifiée, selon le taux du crédit d'impôt qui s'est appliqué. 
 
 6 bis. La durée de l'engagement de location mentionné au premier alinéa du 1 s'apprécie à compter de la date de réalisation
@@ -283,9 +283,9 @@ l'excédent est restitué.
 
 Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses
 qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit
-d'impôt obtenu, d'une reprise égale à 15 %,25 %,40 % ou 50 % de la somme remboursée selon le taux du crédit d'impôt qui s'est
-appliqué. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
-dépenses ont été payées.
+d'impôt obtenu, d'une reprise égale à 13 %, 22 %, 36 % ou 45 % de la somme remboursée selon le taux du crédit d'impôt qui
+s'est appliqué. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que
+les dépenses ont été payées.
 
 **Nota:**
 
@@ -391,11 +391,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
+  - Décret n°2011-520 du 13 mai 2011 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L121-21 (V)
+  - Code de la consommation - art. L121-21
   - Code général des impôts, CGI. - art. 199 quater B
   - Code général des impôts, CGI. - art. 289
   - Code général des impôts, CGI. - art. 4 B
