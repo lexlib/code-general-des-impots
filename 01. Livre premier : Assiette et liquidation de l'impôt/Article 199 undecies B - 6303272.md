@@ -43,35 +43,35 @@ l) Les activités postales.
 La réduction d'impôt prévue au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
 résidence de tourisme et de village de vacances classés et aux logiciels qui sont nécessaires à l'utilisation des
 investissements éligibles, lorsque ces travaux et logiciels constituent des éléments de l'actif immobilisé. La réduction
-d'impôt ne s'applique pas à l'acquisition de véhicules de tourisme  au sens de l'article 1010 qui ne sont pas strictement
+d'impôt ne s'applique pas à l'acquisition de véhicules de tourisme au sens de l'article 1010 qui ne sont pas strictement
 indispensables à l'activité de l'exploitant. Les conditions d'application de la phrase précédente sont fixées par arrêté du
 ministre chargé du budget et du ministre chargé de l'outre-mer. 
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux investissements nécessaires à l'exploitation d'une
 concession de service public local à caractère industriel et commercial réalisés dans des secteurs éligibles, quelles que
 soient la nature des biens et leur affectation finale. La réduction d'impôt prévue au premier alinéa ne s'applique pas aux
-investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil.   
+investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil. 
 
-La réduction d'impôt est de 50 % du montant, hors taxes et hors frais de toute nature, notamment les commissions
+La réduction d'impôt est de 45 % du montant, hors taxes et hors frais de toute nature, notamment les commissions
 d'acquisition, à l'exception des frais de transport, d'installation et de mise en service amortissables, des investissements
 productifs, diminué de la fraction de leur prix de revient financée par une subvention publique. Les projets d'investissement
 comportant l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable sont pris en
 compte dans la limite d'un montant par watt installé fixé par arrêté conjoint des ministres chargés du budget, de l'outre-mer
 et de l'énergie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation
-directement liés à ces équipements. Le taux de la réduction d'impôt est porté à 60 % pour les investissements réalisés en
+directement liés à ces équipements. Le taux de la réduction d'impôt est porté à 54 % pour les investissements réalisés en
 Guyane dans les limites définies par les règles communautaires relatives aux aides d'Etat, à Mayotte, à Saint-Pierre-et-
-Miquelon ou à Wallis-et-Futuna. Ces taux sont majorés de dix points pour les investissements réalisés dans le secteur de la
-production d'énergie renouvelable. Le taux de la réduction d'impôt est porté à 60 % pour les travaux de rénovation et de
-réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés réalisés en Polynésie française, dans les
-îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, à Mayotte, à Saint-Pierre-et-Miquelon et en
-Nouvelle-Calédonie. 
+Miquelon ou à Wallis-et-Futuna. Les taux de 45 % et 54 % susmentionnés sont respectivement portés à 54 % et 63 % pour les
+investissements réalisés dans le secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt est porté à
+54 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés
+réalisés en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, à
+Mayotte, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. 
 
-Le taux de la réduction d'impôt est porté à 70 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de
+Le taux de la réduction d'impôt est porté à 63 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de
 tourisme et de village de vacances classés dans les départements d'outre-mer. Le bénéfice de cette mesure est accordé à
 l'exploitant lorsqu'il prend en charge ces travaux. 
 
 Les dispositions du premier alinéa s'appliquent aux investissements réalisés par une société soumise au régime d'imposition
-prévu à l'article 8, à l'exclusion des sociétés en participation,  ou un groupement mentionné aux articles 239 quater ou 239
+prévu à l'article 8, à l'exclusion des sociétés en participation, ou un groupement mentionné aux articles 239 quater ou 239
 quater C, dont les parts sont détenues directement, ou par l'intermédiaire d'une entreprise unipersonnelle à responsabilité
 limitée, par des contribuables domiciliés en France au sens de l'article 4 B. En ce cas, la réduction d'impôt est pratiquée
 par les associés ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
@@ -102,14 +102,14 @@ majoré du montant des déficits indûment imputés en application du I bis.
 Toutefois, la reprise de la réduction d'impôt n'est pas effectuée lorsque les biens ayant ouvert droit à réduction d'impôt
 sont transmis dans le cadre des opérations mentionnées aux articles 41 et 151 octies, si le bénéficiaire de la transmission
 s'engage à conserver ces biens et à maintenir leur affectation initiale pendant la fraction du délai de conservation restant
-à courir.L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous seing privé ayant date
+à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous seing privé ayant date
 certaine, établi à cette occasion. En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit, au titre
 de l'exercice au cours duquel cet événement est intervenu, ajouter à son résultat une somme égale au triple du montant de la
 réduction d'impôt à laquelle les biens transmis ont ouvert droit. 
 
 Lorsque l'investissement est réalisé par une société ou un groupement visés aux dix-neuvième et vingt-septième alinéas, les
 associés ou membres doivent, en outre, conserver les parts ou actions de cette société ou de ce groupement pendant un délai
-de cinq ans à compter de la réalisation de l'investissement.A défaut, la réduction d'impôt qu'ils ont pratiquée fait l'objet
+de cinq ans à compter de la réalisation de l'investissement. A défaut, la réduction d'impôt qu'ils ont pratiquée fait l'objet
 d'une reprise au titre de l'année de la cession. Le revenu global de cette même année est alors majoré des déficits indûment
 imputés en application du I bis. Les montants de cette reprise et de cette majoration sont diminués, le cas échéant, dans la
 proportion de leurs droits dans la société ou le groupement, des reprises et majorations déjà effectuées en application des
@@ -140,8 +140,8 @@ dispositions prévues par la réglementation applicable localement.
 La réduction d'impôt prévue au présent I s'applique, dans les conditions prévues au vingt-sixième alinéa, aux investissements
 réalisés par une société soumise de plein droit à l'impôt sur les sociétés dont les actions sont détenues intégralement et
 directement par des contribuables, personnes physiques, domiciliés en France au sens de l'article 4 B. En ce cas, la
-réduction d'impôt est pratiquée par les associés dans une proportion correspondant à leurs droits dans la
-société.L'application de cette disposition est subordonnée au respect des conditions suivantes : 
+réduction d'impôt est pratiquée par les associés dans une proportion correspondant à leurs droits dans la société.
+L'application de cette disposition est subordonnée au respect des conditions suivantes : 
 
 1° Les investissements ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au III de
 l'article 217 undecies ; 
@@ -166,19 +166,19 @@ s'applique pas aux revenus distribués par ces sociétés.
 Pour les investissements dont la durée normale d'utilisation est égale ou supérieure à sept ans, et qui sont loués dans les
 conditions prévues au vingt-sixième alinéa, la réduction d'impôt prévue est applicable lorsque l'entreprise locataire prend
 l'engagement d'utiliser effectivement pendant sept ans au moins ces investissements dans le cadre de l'activité pour laquelle
-ils ont été acquis ou créés.
+ils ont été acquis ou créés. 
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
-neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 62,5 %, les taux de 50
-% et 60 % mentionnés au dix-septième alinéa sont respectivement ramenés à 48 % et 57,6 % et la majoration de dix points
-mentionnée au même alinéa est ramenée à 9,6 points. Dans les mêmes conditions, le taux de 70 % mentionné au dix-huitième
-alinéa est ramené à 67,2 %.
+neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 62,5 %, les taux de 45
+% et 54 % mentionnés au dix-septième alinéa sont respectivement portés à 48 % et 57,6 % et les taux de 54 % et 63 %
+mentionnés à la cinquième phrase du même alinéa sont respectivement portés à 57,6 % et 67,2 %. Dans les mêmes conditions, le
+taux de 63 % mentionné au dix-huitième alinéa est porté à 67,2 %. 
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
 neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 52,63 %, les taux de
-50 % et 60 % mentionnés au dix-septième alinéa sont respectivement ramenés à 47,5 % et 57 % et la majoration de dix points
-mentionnée au même alinéa est ramenée à 9,5 points. Dans les mêmes conditions, le taux de 70 % mentionné au dix-huitième
-alinéa est ramené à 66,5 %. 
+45 % et 54 % mentionnés au dix-septième alinéa sont respectivement portés à 47,5 % et 57 % et les taux de 54 % et 63 %
+mentionnés à la cinquième phrase du même alinéa sont respectivement portés à 57 % et 66,5 %. Dans les mêmes conditions, le
+taux de 63 % mentionné au dix-huitième alinéa est porté à 66,5 %. 
 
 I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième alinéa du I, d'un hôtel, d'une résidence de
 tourisme ou d'un village de vacances classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant droit
@@ -195,7 +195,7 @@ du bien à l'exploitant.
 3. Les dispositions du 1 sont applicables, pour une durée de cinq ans à compter de la date de clôture de l'exercice de
 livraison ou d'achèvement, aux opérations de rénovation ou de réhabilitation d'un hôtel, d'une résidence de tourisme ou d'un
 village de vacances classés réalisées entre la date d'entrée en vigueur de la loi n° 2003-660 du 21 juillet 2003 de programme
-pour l'outre-mer et le 31 décembre 2008.
+pour l'outre-mer et le 31 décembre 2008. 
 
 I ter.-Le I s'applique aux équipements et opérations de pose de câbles sous-marins de communication desservant pour la
 première fois la Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, la Polynésie française, Saint-Barthélemy, Saint-
@@ -221,7 +221,7 @@ des postes dans les formes et dans les conditions prévues à l'article L. 36-8 
 
 La base éligible de la réduction d'impôt est égale à la moitié du coût de revient hors taxes et hors frais de toute nature,
 notamment les commissions d'acquisition, à l'exception des frais de transport de ces équipements et opérations, diminuée du
-montant des subventions publiques accordées pour leur financement. Le taux de la réduction d'impôt est de 50 %. Le montant de
+montant des subventions publiques accordées pour leur financement. Le taux de la réduction d'impôt est de 45 %. Le montant de
 l'aide fiscale peut être réduit de moitié au plus, compte tenu du besoin de financement de la société exploitante pour la
 réalisation de ce projet et de l'impact de l'aide sur les tarifs. Par dérogation au présent I ter, le I s'applique également
 aux équipements et opérations de pose des câbles sous-marins de secours desservant la Guadeloupe, la Guyane, la Martinique,
@@ -361,6 +361,7 @@ _Cité par_:
 _Cite_:
 
   - Loi n°2009-888 du 22 juillet 2009
+  - Code de commerce - art. L232-21
   - Code général des impôts, CGI. - art. 1010
   - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 151 octies
@@ -374,7 +375,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 105 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 24 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 98 (V)
+  - Décret n°2011-520 du 13 mai 2011 - art. 1
