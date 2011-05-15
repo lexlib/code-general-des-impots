@@ -26,7 +26,7 @@ II.-La réduction d'impôt est calculée sur le prix de revient des logements re
 Lorsqu'elle est acquise au titre d'un logement achevé depuis au moins quinze ans et qui fait l'objet de travaux de
 réhabilitation, elle est calculée sur le prix d'acquisition majoré du montant de ces travaux. 
 
-Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et en 2010, et de 20 % pour les logements
+Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et en 2010, et de 18 % pour les logements
 acquis à compter de l'année 2011. 
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la réduction d'impôt dans la limite de la
@@ -78,7 +78,7 @@ undecies A et 199 undecies B et des dispositions du présent article.
 
 _Modifié par_:
 
-  - Loi n°2010-853 du 23 juillet 2010 - art. 31 (V)
+  - Décret n°2011-520 du 13 mai 2011 - art. 1
 
 _Cité par_:
 
@@ -94,8 +94,9 @@ _Cite_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies B
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 4 B (V)
-  - Code de la santé publique - art. L6143-5 (V)
+  - Code général des impôts, CGI. - art. 199 undecies B
+  - Code général des impôts, CGI. - art. 4 B
+  - Code de la santé publique - art. L6143-5
   - Code de la sécurité sociale. - art. L341-4
   - Code de l'action sociale et des familles - art. L312-1
   - Code de l'action sociale et des familles - art. L444-1
