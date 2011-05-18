@@ -1,29 +1,16 @@
 # Article 239 quater B
 
-Les groupements d'intérêt public constitués et fonctionnant dans les conditions prévues aux articles L. 341-1 à L. 341-4 et
-L. 351-1, L. 352-1, L. 353-1, L. 354-1 et L. 355-1 du code de la recherche et aux articles L. 1115-2 et L. 1115-3 du code
-général des collectivités territoriales  n'entrent pas dans le champ d'application de l'article 206 1, mais chacun de leurs
-membres est personnellement passible, pour la part des excédents correspondant à ses droits dans le groupement, soit de
-l'impôt sur le revenu, soit de l'impôt sur les sociétés s'il s'agit d'une personne morale relevant de cet impôt.
+Les groupements d'intérêt public constitués et fonctionnant dans les conditions prévues par le chapitre II de la loi n°
+2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit n'entrent pas dans le champ d'application
+du 1 de l'article 206, mais chacun de leurs membres est personnellement passible, pour la part des excédents correspondant à
+ses droits dans le groupement, soit de l'impôt sur le revenu, soit de l'impôt sur les sociétés s'il s'agit d'une personne
+morale relevant de cet impôt.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2003-705 du 1 août 2003 - art. 1 () JORF 2 août 2003
-  - Loi n°2004-758 du 29 juillet 2004 - art. 1 () JORF 30 juillet 2004
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-**Liens**:
-
-  - HISTO: Ordonnance 2004-545 2004-06-11 art. 1, art. 3, art. 6 4° JORF 16 juin 2004
-  - HISTO: Ordonnance n°2004-545 du 11 juin 2004 - art. 1 (V) JORF 16 juin 2004
-  - HISTO: Ordonnance n°2004-545 du 11 juin 2004 - art. 3 (V) JORF 16 juin 2004
-  - HISTO: Edition du 1er janvier 2006
-
 _Codifié par_:
 
-  - Décret n°2006-356 2006-03-24
+  - Décret n°2006-356 du 24 mars 2006
 
 _Cité par_:
 
@@ -48,6 +35,8 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 206
-  - Code général des collectivités territoriales - art. L1115-2 (V)
-  - Code général des collectivités territoriales - art. L1115-3 (V)
+  - Loi n°2011-525 du 17 mai 2011
+
+_Modifié par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 119
