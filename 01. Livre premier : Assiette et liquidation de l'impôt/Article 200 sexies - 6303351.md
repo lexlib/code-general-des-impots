@@ -139,8 +139,7 @@ V.-Le bénéfice de la prime est subordonné à l'indication par les contribuabl
 de ces activités. Pour bénéficier de la prime pour l'emploi, les contribuables peuvent adresser ces indications à
 l'administration fiscale au plus tard le 31 décembre de la deuxième année suivant celle de la mise en recouvrement du rôle. 
 
-VI.-Un décret précise, en tant que de besoin, les modalités d'application du présent article, et notamment celles relatives
-aux obligations des employeurs.
+VI.(Abrogé)
 
 **Liens relatifs à cet article**
 
@@ -171,4 +170,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+  - Loi n°2011-525 du 17 mai 2011 - art. 139
