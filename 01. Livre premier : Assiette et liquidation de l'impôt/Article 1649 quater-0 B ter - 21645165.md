@@ -1,92 +1,92 @@
 # Article 1649 quater-0 B ter
 
 1. Lorsque l'administration fiscale est informée, dans le cadre de la lutte contre les activités lucratives non déclarées
-portant atteinte à l'ordre public et à la sécurité publique et dans les conditions prévues aux articles L. 82 C, L. 101 ou L.
-135 L du livre des procédures fiscales, qu'un contribuable dispose d'éléments mentionnés ci-après, elle peut, en cas de
-disproportion marquée entre son train de vie et ses revenus, porter la base d'imposition à l'impôt sur le revenu à une somme
-forfaitaire déterminée en appliquant à ce ou ces éléments de train de vie le barème ci-après, compte tenu, le cas échéant, de
-la majoration prévue au 2 du présent article. 
+portant atteinte à l'ordre public et à la sécurité publique et dans les conditions prévues aux articles L. 82 C, 
+L. 101 ou L. 135 L du livre des procédures fiscales, qu'un contribuable dispose d'éléments mentionnés ci-après, elle peut, en
+cas de disproportion marquée entre son train de vie et ses revenus, porter la base d'imposition à l'impôt sur le revenu à une
+somme forfaitaire déterminée en appliquant à ce ou ces éléments de train de vie le barème ci-après, compte tenu, le cas
+échéant, de la majoration prévue au 2. 
 
-<table align="center" border="1" width="750">
+<table width="750" align="center" border="1">
   <tbody>
     <tr>
       <td align="left" valign="top">
 
-ÉLÉMENTS DU TRAIN DE VIE
+ÉLÉMENTS DU TRAIN DE VIE 
 
 </td>
       <td align="left" valign="top">
 
-BASE
+BASE 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-
-1. Valeur locative cadastrale de la résidence principale, déduction faite de celle s'appliquant aux locaux ayant un caractère
-professionnel.</td>
       <td valign="top" align="left">
 
-Cinq fois la valeur locative cadastrale.</td>
+1. Valeur locative cadastrale de la résidence principale, déduction faite de celle s'appliquant aux locaux ayant un caractère
+professionnel. </td>
+      <td valign="top" align="left">
+
+Cinq fois la valeur locative cadastrale. </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
 2. Valeur locative cadastrale des résidences secondaires, déduction faite de celle s'appliquant aux locaux ayant un caractère
-professionnel.</td>
+professionnel. </td>
       <td valign="top" align="left">
 
-Cinq fois la valeur locative cadastrale.</td>
+Cinq fois la valeur locative cadastrale. </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-3. Voitures automobiles destinées au transport des personnes.</td>
+3. Voitures automobiles destinées au transport des personnes. </td>
       <td valign="top" align="left">
 
 La valeur de la voiture neuve avec abattement de 50 % après trois ans d'usage ou, dans le cas d'une prise en location, cinq
-fois le prix toutes taxes comprises de cette location.</td>
+fois le prix toutes taxes comprises de cette location. </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-4. Motocyclettes de plus de 450 cm³.</td>
+4. Motocyclettes de plus de 450 cm ³. </td>
       <td valign="top" align="left">
 
 La valeur de la motocyclette neuve avec abattement de 50 % après trois ans d'usage. </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-
-5. Clubs de sports et de loisirs.</td>
       <td valign="top" align="left">
 
-Le montant des dépenses.</td>
-    </tr>
-    <tr>
+5. Clubs de sports et de loisirs. </td>
       <td valign="top" align="left">
 
-6. Voyages, séjours en hôtels, locations saisonnières et dépenses y afférentes.</td>
-      <td valign="top" align="left">
-
-Le montant des dépenses.</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-7. Appareils électroménagers, équipements son-hifi-vidéo, matériels informatiques.</td>
-      <td align="left" valign="top">
-
-La valeur du bien neuf, lorsque celle-ci est supérieure à 1 000 euros.</td>
+Le montant des dépenses. </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-8. Articles de joaillerie et métaux précieux.</td>
+6. Voyages, séjours en hôtels, locations saisonnières et dépenses y afférentes. </td>
       <td valign="top" align="left">
 
-La valeur vénale du bien.</td>
+Le montant des dépenses. </td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+7. Appareils électroménagers, équipements son-hifi-vidéo, matériels informatiques. </td>
+      <td valign="top" align="left">
+
+La valeur du bien neuf, lorsque celle-ci est supérieure à 1 000 €. </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+8. Articles de joaillerie et métaux précieux. </td>
+      <td align="left" valign="top">
+
+La valeur vénale du bien. </td>
     </tr>
   </tbody>
 </table>
@@ -114,18 +114,19 @@ libérés de l'impôt par l'application d'un prélèvement.
 4. Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de son capital ou les emprunts qu'il a contractés
 lui ont permis d'assurer son train de vie.
 
-**Nota:**
-
-LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009  art 19 XI : Le présent article s'applique à compter
-de l'imposition des revenus de l'année 2009.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 63
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. L136-6 (VT)
   - Livre des procédures fiscales - art. L63 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L101 (V)
+  - Livre des procédures fiscales - art. L135 L (V)
+  - Livre des procédures fiscales - art. L82 C (V)

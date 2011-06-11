@@ -17,13 +17,13 @@ Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque ex
 premier alinéa est pratiqué. La condition prévue au 3° doit être satisfaite pour chaque exercice au titre duquel cet
 abattement est pratiqué. 
 
-II.-Les bénéfices mentionnés au I, réalisés et déclarés selon les modalités prévues aux articles 50-0, 53 A, 72, 74 à 74 B,
-96 à 100, 102 ter et 103 par les entreprises répondant aux conditions prévues au I, à l'exception des plus-values constatées
-lors de la réévaluation des éléments d'actifs, font l'objet, dans la limite de 150 000 €, d'un abattement au titre de chaque
+II.-Les bénéfices mentionnés au I, réalisés et déclarés selon les modalités prévues aux articles 50-0,53 A, 72,74 à 74 B, 96
+à 100,102 ter et 103 par les entreprises répondant aux conditions prévues au I, à l'exception des plus-values constatées lors
+de la réévaluation des éléments d'actifs, font l'objet, dans la limite de 150 000 €, d'un abattement au titre de chaque
 exercice ouvert à compter du 1er janvier 2008. 
 
 Le taux de l'abattement est fixé à 50 % au titre des exercices ouverts entre le 1er janvier 2008 et le 31 décembre 2014 et
-respectivement à 40 %,35 % et 30 % pour les exercices ouverts en 2015,2016 et 2017. 
+respectivement à 40 %, 35 % et 30 % pour les exercices ouverts en 2015,2016 et 2017. 
 
 III.-La limite et le taux de l'abattement mentionné au II sont majorés dans les cas suivants : 
 
@@ -73,8 +73,8 @@ d'affaires de l'exploitation, au titre de l'exercice au cours duquel l'abattemen
 en œuvre des marchandises ayant bénéficié de ce régime. 
 
 La limite de l'abattement est fixée à 300 000 €. Le taux de l'abattement est fixé à 80 % au titre des exercices ouverts entre
-le 1er janvier 2008 et le 31 décembre 2014 et respectivement à 70 %, 60 % et 50 % au titre des exercices ouverts en 2015,
-2016 et 2017. 
+le 1er janvier 2008 et le 31 décembre 2014 et respectivement à 70 %, 60 % et 50 % au titre des exercices ouverts en 2015,2016
+et 2017. 
 
 IV.-Par dérogation au III, pour les bénéfices provenant des exploitations situées dans les îles des Saintes, à Marie-Galante
 et à La Désirade, le taux de l'abattement mentionné au dernier alinéa du III est porté à 100 % pour les exercices ouverts
@@ -82,14 +82,14 @@ entre le 31 décembre 2008 et le 31 décembre 2011.
 
 IV bis.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A, le
 bénéfice qui fait l'objet d'un abattement est celui déterminé comme si la société était imposée séparément, sans excéder
-celui déterminé dans les conditions du 4 de l'article 223-I. 
+celui déterminé dans les conditions du 4 de l'article 223 I. 
 
 Pour l'ensemble des sociétés d'un même groupe, le montant cumulé des abattements ne peut excéder : 
 
 1° Ni le résultat d'ensemble du groupe ; 
 
-2° Ni le montant mentionné au premier alinéa du II du présent article. Pour l'appréciation de cette condition, les
-abattements dont le montant est limité par le dernier alinéa du III sont retenus pour la moitié de leur montant.
+2° Ni le montant mentionné au premier alinéa du II. Pour l'appréciation de cette condition, les abattements dont le montant
+est limité par le dernier alinéa du III sont retenus pour la moitié de leur montant. 
 
 V.-Le bénéfice des abattements mentionnés aux II et III est subordonné : 
 
@@ -104,11 +104,11 @@ obligations. Les entreprises peuvent s'acquitter de la présente obligation en r
 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, au titre de l'exercice
 qui suit celui au cours duquel les bénéfices ont fait l'objet d'un abattement. Ce versement ne peut être inférieur à 20 % de
 l'ensemble constitué par les dépenses de formation professionnelle et la contribution au fonds d'appui aux expérimentations
-en faveur des jeunes.
+en faveur des jeunes. 
 
 A défaut de la réalisation de ces deux conditions, la quote-part exonérée est réintégrée au résultat imposable de l'exercice
-au cours duquel les dépenses auraient dû être exposées. Ces dépenses ne sont pas prises en compte pour l'application des
-articles 244 quater M et 244 quater P. 
+au cours duquel les dépenses auraient dû être exposées. Ces dépenses ne sont pas prises en compte pour l'application de
+l'article 244 quater M. 
 
 Ces deux obligations sont cumulatives. Elles doivent représenter ensemble au moins 5 % de la quote-part des bénéfices
 exonérée en application des abattements mentionnés aux II et III. 
@@ -141,30 +141,30 @@ VIII.-Les obligations déclaratives des entreprises sont fixées par décret.
 
 **Nota:**
 
-Dispositions applicables aux exercices clos à compter du 31 décembre 2008. Elles cessent de s'appliquer aux exercices ouverts
-à compter du 1er janvier 2018.
+Conséquence de la péremption de l'article 244 quater P du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°85-30 du 9 janvier 1985 (V)
-  - Loi n°2008-1249 du 1er décembre 2008 (V)
-  - Loi n°2009-594 du 27 mai 2009 (V)
-  - Code général des impôts, CGI. - art. 102 ter (V)
-  - Code général des impôts, CGI. - art. 217 bis (V)
-  - Code général des impôts, CGI. - art. 223 I (V)
-  - Code général des impôts, CGI. - art. 235 ter D (V)
-  - Code général des impôts, CGI. - art. 244 quater B (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
-  - Code général des impôts, CGI. - art. 50-0 (V)
-  - Code général des impôts, CGI. - art. 53 A (V)
-  - Code général des impôts, CGI. - art. 72 (V)
-  - Code général des impôts, CGI. - art. 73 B (V)
-  - Code général des impôts, CGI. - art. 74 (V)
-  - Code général des impôts, CGI. - art. 96 (V)
-  - Code général des collectivités territoriales - art. L2334-2 (V)
-  - Code du travail - art. L6331-19 (V)
+  - Loi n°85-30 du 9 janvier 1985
+  - Loi n°2008-1249 du 1er décembre 2008
+  - Loi n°2009-594 du 27 mai 2009
+  - Code général des impôts, CGI. - art. 102 ter
+  - Code général des impôts, CGI. - art. 217 bis
+  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 223 I
+  - Code général des impôts, CGI. - art. 235 ter D
+  - Code général des impôts, CGI. - art. 244 quater B
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 53 A
+  - Code général des impôts, CGI. - art. 72
+  - Code général des impôts, CGI. - art. 73 B
+  - Code général des impôts, CGI. - art. 74
+  - Code général des impôts, CGI. - art. 96
+  - Code général des collectivités territoriales - art. L2334-2
+  - Code du travail - art. L6331-19
 
 _Cité par_:
 
@@ -188,5 +188,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 51 (V)
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
