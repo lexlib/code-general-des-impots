@@ -1,20 +1,20 @@
 # Article 38 quinquies A
 
-I. - Par dérogation aux dispositions du 1 de l'article 38, le résultat imposable de la Banque de France est déterminé sur la
+I. – Par dérogation aux dispositions du 1 de l'article 38, le résultat imposable de la Banque de France est déterminé sur la
 base des règles comptables définies en application de l'article L. 144-4 du code monétaire et financier et de la convention
-visée à l'article L. 141-2 du même code. 
+visée à l'article L. 141-2 du même code.
 
-Le résultat imposable de la Banque de France est établi : 
+Le résultat imposable de la Banque de France est établi :
 
-1° Après déduction des montants mentionnés au quatrième alinéa de l'article L. 612-18 du code monétaire et financier ; 
+1° Après déduction des montants mentionnés au quatrième alinéa de l'article L. 612-18 du même code ;
 
-2° Après intégration des montants mentionnés au cinquième alinéa de l'article L. 612-18 du code monétaire et financier.
+2° Après intégration des montants mentionnés au cinquième alinéa de l'article L. 612-18 du code précité.
 
-II. - Pour l'application des dispositions du 2 de l'article 38, les éléments suivants ne sont pas retenus dans la définition
-de l'actif net de la Banque de France : 
+II. – Pour l'application des dispositions du 2 de l'article 38, les éléments suivants ne sont pas retenus dans la définition
+de l'actif net de la Banque de France :
 
 1°) La réserve de réévaluation des réserves en or de l'Etat et la réserve de réévaluation des réserves en devises de l'Etat
-définies par la convention visée à l'article L. 141-2 du code monétaire et financier ; 
+définies par la convention visée à l'article L. 141-2 du code monétaire et financier ;
 
 2°) Les comptes de réévaluation définis par les règles obligatoires de comptabilisation et d'évaluation arrêtées en vue de
 l'établissement du bilan consolidé du Système européen de banques centrales conformément à l'article 26 du protocole annexé
@@ -23,15 +23,15 @@ centrale européenne.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 14
-
 _Cité par_:
 
   - Ordonnance n°2010-76 du 21 janvier 2010 - art. 22 (V)
   - Code général des impôts, CGI. - art. 1654 (V)
   - Code monétaire et financier - art. L612-18 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cite_:
 
