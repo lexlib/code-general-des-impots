@@ -10,15 +10,15 @@ non bâties voté l'année précédente par la commune est inférieur de plus d'
 niveau national dans l'ensemble des collectivités de même nature. 
 
 II.-Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C ou du I ou du II
-de l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises  dans les limites définies au b du 1,
-ainsi qu'aux 2 et 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B septies. 
+de l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises dans les limites définies au b du 1,
+au 2, au 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B septies. 
 
-Toutefois, l'obligation de diminuer le taux de cotisation foncière des entreprises  dans une proportion au moins égale soit à
+Toutefois, l'obligation de diminuer le taux de cotisation foncière des entreprises dans une proportion au moins égale soit à
 la diminution du taux de la taxe d'habitation ou à celle du taux moyen pondéré de la taxe d'habitation et des taxes
 foncières, soit à la plus importante de ces diminutions lorsque ces deux taux sont en baisse, prévue au b du 1 du I de
 l'article 1636 B sexies, ne s'applique pas. 
 
-Pour l'application du b du 1, ainsi que des 2 et 3 et du 5 du I de l'article 1636 B sexies : 
+Pour l'application du b du 1, du 2, du 3 et du 5 du I de l'article 1636 B sexies : 
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté dans l'ensemble des communes membres de
 l'établissement public de coopération intercommunale. Pour les établissements publics de coopération intercommunale qui font
@@ -35,44 +35,48 @@ du II de l'article 1609 nonies C, le taux moyen pondéré tient compte du produi
 coopération intercommunale ; 
 
 3° La variation des taux définis aux 1° et 2° est celle constatée l'année précédant celle au titre de laquelle
-l'établissement public de coopération intercommunale vote son taux de cotisation foncière des entreprises  ou celui
-applicable dans la zone d'activités économiques. 
+l'établissement public de coopération intercommunale vote son taux de cotisation foncière des entreprises ou celui applicable
+dans la zone d'activités économiques. 
 
 Lorsque les taux définis aux 1° et 2° n'ont pas varié l'année précédant celle au titre de laquelle l'établissement public de
-coopération intercommunale vote son taux de cotisation foncière des entreprises  ou celui applicable dans la zone d'activité
+coopération intercommunale vote son taux de cotisation foncière des entreprises ou celui applicable dans la zone d'activité
 économique, la variation prise en compte est celle constatée au titre de l'antépénultième année. 
 
-III.-Pour l'application du 3 du I de l'article 1636 B sexies, le taux de cotisation foncière des entreprises  à prendre en
+III.-Pour l'application du 3 du I de l'article 1636 B sexies, le taux de cotisation foncière des entreprises à prendre en
 compte correspond au taux moyen national constaté pour cette taxe l'année précédente pour les communes et leurs
 établissements publics de coopération intercommunale. 
 
 IV.-A compter de 2004, pour les établissements publics de coopération intercommunale visés au II, la différence constatée au
-titre d'une année entre le taux maximum de cotisation foncière des entreprises  résultant des dispositions du deuxième alinéa
-du b du 1 du I de l'article 1636 B sexies et le taux de cotisation foncière des entreprises  voté conformément à ces mêmes
+titre d'une année entre le taux maximum de cotisation foncière des entreprises résultant des dispositions du deuxième alinéa
+du b du 1 du I de l'article 1636 B sexies et le taux de cotisation foncière des entreprises voté conformément à ces mêmes
 dispositions peut être, sous réserve des dispositions de l'article 1636 B septies, ajoutée, partiellement ou totalement, au
-taux de cotisation foncière des entreprises  voté par l'établissement public de coopération intercommunale au titre de l'une
+taux de cotisation foncière des entreprises voté par l'établissement public de coopération intercommunale au titre de l'une
 des trois années suivantes. 
 
-La majoration du taux de cotisation foncière des entreprises  dans les conditions visées au premier alinéa n'est pas
+La majoration du taux de cotisation foncière des entreprises dans les conditions visées au premier alinéa n'est pas
 applicable l'année au titre de laquelle l'établissement public de coopération intercommunale fait application des
-dispositions du 3 ou du a du 4 du I de l'article 1636 B sexies, du deuxième alinéa ou du dernier alinéa du II du présent
-article. 
+dispositions du 3 du I de l'article 1636 B sexies, du deuxième alinéa ou du dernier alinéa du II. 
 
 Les décisions relatives aux taux transmises aux services fiscaux dans les conditions prévues au I de l'article 1639 A doivent
 indiquer le montant à reporter conformément au premier alinéa ainsi que les modalités selon lesquelles le taux de l'année est
-majoré dans les conditions prévues audit alinéa.
+majoré dans les conditions prévues audit alinéa. 
 
 V.-En 2005 et par exception aux dispositions du premier alinéa du II, les syndicats d'agglomération nouvelle visés à
 l'article L. 5311-1 du code général des collectivités territoriales qui ont bénéficié, au titre de 2004, d'une dotation en
 capital non remboursable attribuée en vertu du 1° de l'article L. 5334-19 du même code supérieure à un million d'euros
-peuvent fixer leur taux de cotisation foncière des entreprises  dans la limite de 93 % du taux moyen de cette taxe constaté
+peuvent fixer leur taux de cotisation foncière des entreprises dans la limite de 93 % du taux moyen de cette taxe constaté
 l'année précédente au niveau national pour l'ensemble des syndicats d'agglomération nouvelle.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 77-3.3 I (1°) de la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 
@@ -90,4 +94,6 @@ _Cité par_:
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1636 B septies
+  - Code général des impôts, CGI. - art. 1639 A
   - Code général des collectivités territoriales - art. L5311-1
