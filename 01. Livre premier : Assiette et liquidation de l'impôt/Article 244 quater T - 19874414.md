@@ -14,10 +14,10 @@ III.-Les primes mentionnées au I ne peuvent entrer à la fois dans la base de c
 autre crédit d'impôt. 
 
 IV.-En cas de fusion, apports ou opérations assimilées réalisés pendant la durée d'application de l'accord en cours ou de
-l'accord précédent, ou au cours de l'un des trois exercices séparant l'accord en cours du précédent, la moyenne des primes
-mentionnées au a du II dues par la société absorbante ou bénéficiaire des apports et par la société apporteuse est égale au
+l'accord précédent, ou au cours de l'un des exercices séparant l'accord en cours du précédent, la moyenne des primes
+mentionnées au II dues par la société absorbante ou bénéficiaire des apports et par la société apporteuse est égale au
 montant moyen des primes dues à chaque salarié au titre de l'accord précédent multiplié par le nombre total de salariés
-constaté à l'issue de ces opérations.
+constaté à l'issue de ces opérations. 
 
 V.-Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives. 
 
@@ -33,9 +33,7 @@ l'article 156.
 
 **Nota:**
 
-Loi n° 2010-1657 du 29 décembre 2010 article 131 II : Ces dispositions sont applicables
-
-aux crédits d'impôt acquis au titre des primes versées à compter du 1er janvier 2011.
+Modifications effectuées en conséquence de l'article 131-I (1°) de la loi n° 2010-1657 du 29 décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -50,13 +48,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 131 (V)
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 156 (V)
-  - Code général des impôts, CGI. - art. 238 bis L (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
-  - Code général des impôts, CGI. - art. 8 (V)
-  - Code du travail - art. L1111-2 (V)
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 238 bis L
+  - Code général des impôts, CGI. - art. 44 decies
+  - Code général des impôts, CGI. - art. 44 octies
+  - Code général des impôts, CGI. - art. 44 septies
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 sexies A
+  - Code général des impôts, CGI. - art. 44 undecies
+  - Code général des impôts, CGI. - art. 8
+  - Code du travail - art. L1111-2
