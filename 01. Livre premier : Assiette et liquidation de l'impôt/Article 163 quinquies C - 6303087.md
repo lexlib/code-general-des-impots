@@ -46,7 +46,7 @@ plus de 25 % des droits dans les bénéfices de sociétés dont les titres figur
 n'ont pas détenu cette part à un moment quelconque au cours des cinq années précédant la souscription ou l'acquisition des
 actions de la société de capital-risque.
 
-Cette disposition ne s'applique pas aux actions de sociétés de capital-risque donnant lieu à des droits différents sur
+Les dispositions du 2 ne s'appliquent pas aux actions de sociétés de capital-risque donnant lieu à des droits différents sur
 l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
 
 III. Les sommes qui ont été exonérées d'impôt sur le revenu sont ajoutées au revenu imposable de l'année au cours de laquelle
@@ -56,11 +56,6 @@ Toutefois, l'exonération est maintenue en cas de cession des actions par le con
 soumis à une imposition commune se trouve dans l'un des cas suivants : invalidité correspondant au classement dans la
 deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite
 ou licenciement.
-
-**Nota:**
-
-Loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 art 39 IV : les présentes dispositions s'appliquent aux parts,
-actions ou titres émis ou acquis à compter du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
@@ -72,7 +67,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 39 (V)
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 

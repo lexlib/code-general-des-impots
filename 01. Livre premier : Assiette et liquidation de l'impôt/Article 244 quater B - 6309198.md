@@ -1,8 +1,8 @@
 # Article 244 quater B
 
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application
-des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies , 44 duodecies, 44 terdecies
-à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de
+des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44 terdecies à
+44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de
 l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions
 d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. 
 
@@ -60,24 +60,24 @@ pendant les vingt-quatre premiers mois suivant leur premier recrutement à la co
 personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année
 précédente. 
 
-d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à :
+d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à : 
 
-1° Des organismes de recherche publics ;
+1° Des organismes de recherche publics ; 
 
-2° Des établissements d'enseignement supérieur délivrant un diplôme conférant un grade de master ;
+2° Des établissements d'enseignement supérieur délivrant un diplôme conférant un grade de master ; 
 
-3° Des fondations de coopération scientifique agréées conformément au d bis ;
+3° Des fondations de coopération scientifique agréées conformément au d bis ; 
 
-4° Des établissements publics de coopération scientifique ;
+4° Des établissements publics de coopération scientifique ; 
 
-5° Des fondations reconnues d'utilité publique du secteur de la recherche agréées conformément au d bis ;
+5° Des fondations reconnues d'utilité publique du secteur de la recherche agréées conformément au d bis ; 
 
 6° Des associations régies par la loi du 1er juillet 1901 relative au contrat d'association ayant pour fondateur et membre
 l'un des organismes mentionnés aux 1° ou 2° ou des sociétés de capitaux dont le capital ou les droits de vote sont détenus
 pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées conformément au d bis
 et avoir conclu une convention en application de l'article L. 313-2 du code de la recherche ou de l'article L. 762-3 du code
 de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein d'une ou plusieurs unités de
-recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention.
+recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention. 
 
 Ces dépenses sont retenues pour le double de leur montant à la condition qu'il n'existe pas de lien de dépendance au sens des
 deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et l'entité mentionnée
@@ -90,7 +90,7 @@ l'accord sur l'Espace économique européen ayant conclu avec la France une conv
 d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, l'agrément peut être délivré par le
 ministre français chargé de la recherche ou, lorsqu'il existe un dispositif similaire dans le pays d'implantation de
 l'organisme auquel sont confiées les opérations de recherche, par l'entité compétente pour délivrer l'agrément équivalent à
-celui du crédit d'impôt recherche français.
+celui du crédit d'impôt recherche français. 
 
 Ces dépenses sont retenues dans la limite de trois fois le montant total des autres dépenses de recherche ouvrant droit au
 crédit d'impôt, avant application des limites prévues au d ter ; 
@@ -121,7 +121,7 @@ montant :
 1° Les salaires et charges sociales afférents aux périodes pendant lesquelles les salariés participent aux réunions
 officielles de normalisation ; 
 
-2° Les autres dépenses exposées à raison de ces mêmes opérations ; ces dépenses sont fixées forfaitairement à 30 p. 100 des
+2° Les autres dépenses exposées à raison de ces mêmes opérations ; ces dépenses sont fixées forfaitairement à 30 % des
 salaires mentionnés au 1° ; 
 
 3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle, les personnes
@@ -158,26 +158,26 @@ sein de la Communauté européenne ou dans un autre Etat partie à l'accord sur 
 la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou
 l'évasion fiscale. 
 
-Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les
+Les dépenses visées aux a et 2° du h ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les
 immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies. 
 
-Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i du II est
-subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides de minimis. 
+Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i est subordonné
+au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88
+du traité aux aides de minimis. 
 
-Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8, 238 bis L, 239
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L, 239
 quater, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
-règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. La fraction du crédit d'impôt mentionnée à
-l'alinéa précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement
-à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous
-réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation
-au sens du 1° bis du I de l'article 156 (1). 
+règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 précité. La fraction du crédit d'impôt mentionnée à l'alinéa
+précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs
+droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve
+qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens
+du 1° bis du I de l'article 156 (1). 
 
 III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont
 déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de
 même des sommes reçues par les organismes ou experts désignés au d et au d bis du II, pour le calcul de leur propre crédit
 d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au
-cours de laquelle elles sont remboursées à l'organisme qui les a versées.
+cours de laquelle elles sont remboursées à l'organisme qui les a versées. 
 
 Pour le calcul du crédit d'impôt, le montant des dépenses exposées par les entreprises auprès de tiers au titre de
 prestations de conseil pour l'octroi du bénéfice du crédit d'impôt est déduit des bases de calcul de ce dernier à
@@ -188,12 +188,12 @@ l'entreprise ;
 
 b) Du montant des dépenses ainsi exposées, autres que celles mentionnées au a, qui excède le plus élevé des deux montants
 suivants : soit la somme de 15 000 € hors taxes, soit 5 % du total des dépenses hors taxes mentionnées au II minoré des
-subventions publiques mentionnées au III.
+subventions publiques mentionnées au III. 
 
 III bis. ― Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à
 leur déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état
 d'avancement de leurs programmes, les moyens matériels et humains, directs ou indirects, qui y sont consacrés et la
-localisation de ces moyens.
+localisation de ces moyens. 
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées). 
 
@@ -261,11 +261,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 41 (V)
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cite_:
 
+  - Code de la propriété intellectuelle - art. L611-7
   - Code général des impôts, CGI. - art. 151 nonies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 220 septies
@@ -276,3 +276,5 @@ _Cite_:
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
+  - Code de la recherche - art. L313-2
+  - Code de l'éducation - art. L762-3
