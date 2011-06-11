@@ -1,7 +1,7 @@
 # Article 1609 quater
 
 Le comité d'un syndicat de communes peut décider, dans les conditions prévues à l'article L. 5212-20 du code général des
-collectivités territoriales, de lever les impositions mentionnées aux 1° à 4° du A du I de l'article 1379 du présent code en
+collectivités territoriales, de lever les impositions mentionnées aux 1° à 4° du I de l'article 1379 du présent code en
 remplacement de tout ou partie de la contribution des communes associées. La répartition de ces impositions s'effectue
 suivant les modalités définies au III de l'article 1636 B octies. 
 
@@ -21,7 +21,7 @@ nouvelle qui y adhèrent pour l'ensemble de cette compétence.
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 
@@ -32,5 +32,8 @@ _Cité par_:
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1379
+  - Code général des impôts, CGI. - art. 1520
+  - Code général des impôts, CGI. - art. 1636 B octies
   - Code général des collectivités territoriales - art. L2224-13
   - Code général des collectivités territoriales - art. L5212-20
