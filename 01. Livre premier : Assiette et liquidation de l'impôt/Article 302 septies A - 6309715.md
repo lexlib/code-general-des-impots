@@ -2,17 +2,17 @@
 
 I. Il est institué par décret en Conseil d'Etat un régime simplifié de liquidation des taxes sur le chiffre d'affaires dues
 par les personnes dont le chiffre d'affaires, ajusté s'il y a lieu au prorata du temps d'exploitation au cours de l'année
-civile, n'excède pas 766 000 €, s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets,
-fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 231 000 €, s'il s'agit d'autres
+civile, n'excède pas 777 000 €, s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets,
+fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 234 000 €, s'il s'agit d'autres
 entreprises. Ces limites s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des taxes assimilées.
 
 II. Le régime simplifié prévu au I demeure applicable pour l'établissement de l'imposition due au titre de la première année
 au cours de laquelle les chiffres d'affaires limites prévus pour ce régime sont dépassés. Cette imposition est établie compte
 tenu de ces dépassements.
 
-Ces dispositions ne sont pas applicables si le chiffre d'affaires excède 843 000 € s'il s'agit d'entreprises dont le commerce
+Ces dispositions ne sont pas applicables si le chiffre d'affaires excède 856 000 € s'il s'agit d'entreprises dont le commerce
 principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le
-logement, et 261 000 € s'il s'agit d'autres entreprises.
+logement, et 265 000 € s'il s'agit d'autres entreprises.
 
 II bis. - Les seuils mentionnés aux I et II sont actualisés chaque année dans la même proportion que la limite supérieure de
 la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros le plus proche.
@@ -24,11 +24,16 @@ clôturé aucun exercice au cours d'une année civile.
 
 Cette obligation s'applique pour la première fois pour les exercices clos à compter du 30 septembre 2011.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 3-VI et IX de la loi n° 2008-776 du 4 août 2008 et de l'article 2-I [1°]
+de la loi n° 2010-1657 du 29 décembre 2010.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 72
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 
