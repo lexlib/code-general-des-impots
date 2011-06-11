@@ -25,7 +25,7 @@ financières, des activités de gestion de patrimoine mobilier définie à l'art
 Toutefois, les exclusions relatives à l'exercice d'une activité financière ou immobilière ne sont pas applicables aux
 entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail. 
 
-La société n'exerce pas une activité de production d'électricité utilisant l'énergie radiative du soleil (1) ; 
+La société n'exerce pas une activité de production d'électricité utilisant l'énergie radiative du soleil ; 
 
 d bis) Les actifs de la société ne sont pas constitués de façon prépondérante de métaux précieux, d'œuvres d'art, d'objets de
 collection, d'antiquités, de chevaux de course ou de concours ou, sauf si l'objet même de son activité consiste en leur
@@ -96,8 +96,8 @@ d'impôt dans les mêmes conditions au titre des quatre années suivantes.
 II bis. ― Les limites mentionnées au premier alinéa du II sont portées respectivement à 50 000 € pour les contribuables
 célibataires, veufs ou divorcés et à 100 000 € pour les contribuables mariés soumis à imposition commune pour les
 souscriptions ouvrant droit à la réduction d'impôt mentionnée au I au capital initial ou aux augmentations de capital des
-sociétés vérifiant les conditions mentionnées au I du présent article, aux 2° et 3° du II de l'article 239 bis AB et aux b et
-c du VI quinquies. 
+sociétés vérifiant les conditions mentionnées au I, aux 2° et 3° du II de l'article 239 bis AB et aux b et c du VI
+quinquies. 
 
 Le second alinéa du II n'est pas applicable au titre des souscriptions mentionnées au premier alinéa. 
 
@@ -122,7 +122,7 @@ la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du 
 contribuable ou de l'un des époux soumis à une imposition commune ou de la liquidation judiciaire de la société. Il en est de
 même en cas de donation à une personne physique des titres reçus en contrepartie de la souscription au capital de la société
 si le donataire reprend l'obligation de conservation des titres transmis prévue au deuxième alinéa et s'il ne bénéficie pas
-du remboursement des apports avant le terme mentionné à la dernière phrase du même alinéa.A défaut, la reprise de la
+du remboursement des apports avant le terme mentionné à la dernière phrase du même alinéa. A défaut, la reprise de la
 réduction d'impôt sur le revenu obtenue est effectuée au nom du donateur. 
 
 Lorsque le contribuable opte pour l'exonération mentionnée au 7 du III de l'article 150-0 A, une reprise des réductions
@@ -203,8 +203,7 @@ titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2
 ces réductions d'impôt. 
 
 Les souscriptions réalisées par un contribuable au capital d'une société dans les douze mois suivant le remboursement, total
-ou partiel, par cette société de ses apports précédents n'ouvrent pas droit à la réduction d'impôt mentionnée au I du présent
-article. 
+ou partiel, par cette société de ses apports précédents n'ouvrent pas droit à la réduction d'impôt mentionnée au I. 
 
 Les souscriptions réalisées au capital d'une société holding animatrice ouvrent droit à l'avantage fiscal mentionné au I
 lorsque la société est constituée et contrôle au moins une filiale depuis au moins douze mois. Pour l'application du présent
@@ -221,7 +220,7 @@ CE aux aides de minimis dans le secteur de la production de produits agricoles. 
 applicable lorsque les conditions suivantes sont cumulativement satisfaites par les sociétés mentionnées à la phrase
 précédente : 
 
-a) La société répond à la condition prévue au e du 2° du I du présent article ; 
+a) La société répond à la condition prévue au e du 2° du I ; 
 
 b) La société est en phase d'amorçage, de démarrage ou d'expansion au sens des lignes directrices communautaires concernant
 les aides d'Etat visant à promouvoir les investissements en capital-investissement dans les petites et moyennes entreprises
@@ -238,16 +237,6 @@ innovantes.
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
-
-**Nota:**
-
-Loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 :
-
-(1) art 36 VI 3 : Ces dispositions s'appliquent aux souscriptions effectuées à compter du 29 septembre 2010.
-
-art 38 X : les dispositions du III s'appliquent aux souscriptions effectuées dans des sociétés à compter du 13 octobre 2010
-et aux souscriptions effectuées dans des fonds d'investissement constitués à compter du 1er janvier 2011. Se reporter à
-l'article 38 X pour les spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -295,4 +284,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2011-520 du 13 mai 2011 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1

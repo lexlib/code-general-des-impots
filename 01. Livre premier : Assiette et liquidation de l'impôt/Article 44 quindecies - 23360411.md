@@ -38,7 +38,7 @@ d'utilisation d'une enseigne, d'un nom commercial, d'une marque ou d'un savoir-f
 modalités de gestion administrative, contentieuse, commerciale ou technique, dans des conditions telles que cette entreprise
 est placée dans une situation de dépendance. 
 
-III. ― L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale
+III. L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale
 mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre
 d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A, 44
 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime
@@ -46,10 +46,10 @@ d'aménagement du territoire.
 
 L'exonération ne s'applique pas non plus dans les situations suivantes : 
 
-― si, à l'issue de l'opération de reprise ou de restructuration, le cédant, son conjoint, le partenaire auquel il est lié par
-un pacte civil de solidarité défini à l'article 515-1 du code civil, leurs ascendants et descendants, leurs frères et sœurs
-détiennent ensemble, directement ou indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices sociaux
-de la société, de la personne morale ou du groupement soit repris, soit bénéficiaire de l'opération de reprise ou de
+a) si, à l'issue de l'opération de reprise ou de restructuration, le cédant, son conjoint, le partenaire auquel il est lié
+par un pacte civil de solidarité défini à l'article 515-1 du code civil, leurs ascendants et descendants, leurs frères et
+sœurs détiennent ensemble, directement ou indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices
+sociaux de la société, de la personne morale ou du groupement soit repris, soit bénéficiaire de l'opération de reprise ou de
 restructuration. 
 
 Le cédant s'entend de toute personne qui, avant l'opération de reprise ou de restructuration, soit détenait directement ou
@@ -57,7 +57,7 @@ indirectement plus de 50 % des droits de vote ou des droits dans les bénéfices
 ou du groupement qui a fait l'objet de l'une de ces opérations, soit y exerçait, en droit ou en fait, la direction
 effective ; 
 
-― si l'entreprise individuelle a fait l'objet d'une opération de reprise ou de restructuration au profit du conjoint de
+b) si l'entreprise individuelle a fait l'objet d'une opération de reprise ou de restructuration au profit du conjoint de
 l'entrepreneur individuel, du partenaire auquel il est lié par un pacte civil de solidarité défini à l'article 515-1 du code
 civil, de leurs ascendants et descendants ou de leurs frères et sœurs. 
 
@@ -73,10 +73,6 @@ VI. ― L'exonération reste applicable pour sa durée restant à courir lorsque
 la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
 
 _Cité par_:
 
@@ -98,10 +94,14 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Livre des procédures fiscales - art. L80 B (V)
 
+_Modifié par_:
+
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1465 A (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
-  - Code général des impôts, CGI. - art. 53 A (V)
-  - Code général des impôts, CGI. - art. 92 (V)
-  - Code civil - art. 515-1 (V)
+  - Code général des impôts, CGI. - art. 1465 A
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 53 A
+  - Code général des impôts, CGI. - art. 92
+  - Code civil - art. 515-1

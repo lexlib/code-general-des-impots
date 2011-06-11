@@ -2,7 +2,7 @@
 
 1. Le régime des plus-values à long terme est applicable aux plus-values de cession de brevets, d'inventions brevetables ou
 de perfectionnements qui y ont été apportés, ainsi qu'au résultat net de la concession de licences d'exploitation des mêmes
-éléments (1). 
+éléments. 
 
 Il en est de même en ce qui concerne la plus-value de cession ou le résultat net de la concession d'un procédé de fabrication
 industriel qui remplit les conditions suivantes : 
@@ -21,17 +21,17 @@ cédante et l'entreprise cessionnaire au sens du 12 de l'article 39 ;
 
 2° Lorsque les éléments mentionnés ci-dessus : 
 
-a) Ne présentent pas le caractère d'éléments de l'actif immobilisé ; 
+Ne présentent pas le caractère d'éléments de l'actif immobilisé ; 
 
-b) Ou ont été pris en concession, sauf si l'entreprise concédant la licence d'exploitation prise en concession est la
-première entreprise bénéficiant à ce titre du régime des plus-values à long terme et si celle-ci apporte la preuve que les
-opérations mentionnées au présent b, d'une part, sont réelles et ne peuvent être regardées comme constitutives d'un montage
-artificiel dont le but serait de contourner la législation fiscale française et, d'autre part, créent une valeur ajoutée du
-chef de cette entreprise sur l'ensemble de la période d'exploitation de la licence concédée. Cette preuve est établie dans le
-cadre d'une documentation présentant l'économie générale de l'exploitation de la licence. Un décret précise les conditions
+Ou ont été pris en concession, sauf si l'entreprise concédant la licence d'exploitation prise en concession est la première
+entreprise bénéficiant à ce titre du régime des plus-values à long terme et si celle-ci apporte la preuve que les opérations
+mentionnées au présent b, d'une part, sont réelles et ne peuvent être regardées comme constitutives d'un montage artificiel
+dont le but serait de contourner la législation fiscale française et, d'autre part, créent une valeur ajoutée du chef de
+cette entreprise sur l'ensemble de la période d'exploitation de la licence concédée. Cette preuve est établie dans le cadre
+d'une documentation présentant l'économie générale de l'exploitation de la licence. Un décret précise les conditions
 d'établissement de cette documentation ; 
 
-c) Ou ont été acquis à titre onéreux depuis moins de deux ans. 
+Ou ont été acquis à titre onéreux depuis moins de deux ans. 
 
 1 bis. (Abrogé pour les redevances prises en compte à compter du 1er janvier 2002 dans les résultats des concédants et
 concessionnaires). 
@@ -66,11 +66,6 @@ réalisées par l'entité lors de la cession de titres détenus depuis au moins 
 Lorsque les titres cédés sont des titres de sociétés établies dans un Etat ou territoire non coopératif, le présent 5 ne
 s'applique pas.
 
-**Nota:**
-
-LOI n° 2010-1657 du 29 décembre 2010 art. 126 IV : Ces dispositions sont applicables aux exercices ouverts à compter du 1er
-janvier 2011.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -81,7 +76,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 126 (V)
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 
