@@ -64,8 +64,7 @@ f) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, pay
 défini à l'article L. 134-1 du code de la construction et de l'habitation. Pour un même logement, un seul diagnostic de
 performance énergétique ouvre droit au crédit d'impôt par période de cinq ans. 
 
-1 bis. Le crédit d'impôt ne s'applique pas aux dépenses payées ouvrant droit au bénéfice du crédit d'impôt prévu à l'article
-200 quater C. 
+1 bis.(Sans objet). 
 
 2. Un arrêté conjoint des ministres chargés de l'énergie, du logement et du budget fixe la liste des équipements, matériaux
 et appareils qui ouvrent droit au crédit d'impôt. Il précise les caractéristiques techniques et les critères de performances
@@ -289,10 +288,10 @@ les dépenses ont été payées.
 
 **Nota:**
 
-Loi n° 2010-1657 du 29 décembre 2010 article 36 VI : Les présentes dispositions s'appliquent aux dépenses payées à compter du
-29 septembre 2010 ou, pour les 1° et 2° de ce II, à compter du 1er janvier 2011, à l'exception de celles pour lesquelles le
-contribuable peut justifier, avant ces dates respectives, de l'acceptation d'un devis et du versement d'un acompte à
-l'entreprise.
+Conséquence de l'abrogation de l'article 200 quater C du code général des impôts ; loi n° 2010-1657 du 29 décembre 2010, art.
+99 [1°].
+
+Loi n° 2011-1977 du 28 décembre 2011, article 81 III: Le I s'applique aux dépenses payées à compter du 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
@@ -364,7 +363,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-520 du 13 mai 2011 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cite_:
 

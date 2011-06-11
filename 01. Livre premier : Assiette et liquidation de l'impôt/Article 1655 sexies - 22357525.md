@@ -1,7 +1,7 @@
 # Article 1655 sexies
 
-Pour l'application du présent code et de ses annexes, à l'exception du 2 de l'article 206 et du 5° du 1 de l'article 635 et
-de l'article 638 A, l'entreprise individuelle à responsabilité limitée ne bénéficiant pas des régimes définis aux articles
+Pour l'application du présent code et de ses annexes, à l'exception du 2 de l'article 206, du 5° du 1 de l'article 635 et de
+l'article 638 A, l'entreprise individuelle à responsabilité limitée ne bénéficiant pas des régimes définis aux articles
 50-0,64 et 102 ter est assimilée à une entreprise unipersonnelle à responsabilité limitée ou à une exploitation agricole à
 responsabilité limitée dont la personne mentionnée à l'article L. 526-6 du code de commerce tient lieu d'associé unique. La
 liquidation de l'entreprise individuelle à responsabilité limitée emporte les mêmes conséquences fiscales que la cessation
@@ -12,7 +12,7 @@ exploitation agricole à responsabilité limitée.
 
 _Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 14
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cité par_:
 
