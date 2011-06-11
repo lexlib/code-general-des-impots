@@ -1,42 +1,26 @@
 # Article 1628 quater
 
-I. Le fonds de garantie institué par l'article L. 421-1 du code des assurances au profit des victimes d'accidents
-d'automobile est alimenté par des contributions des entreprises d'assurances, des automobilistes assurés et des responsables
-d'accidents d'automobile non bénéficiaires d'une assurance. Ces diverses contributions sont liquidées et recouvrées dans les
-conditions fixées par un décret en Conseil d'Etat et sous les mêmes sanctions qu'en matière de droits d'enregistrement (1).
+I.-Conformément à l'article L. 421-4 du code des assurances, le fonds de garantie des assurances obligatoires de dommages est
+alimenté pour l'indemnisation des accidents de véhicule par des contributions qui sont liquidées et recouvrées dans les
+conditions et sous les sanctions fixées par décret en Conseil d'Etat. 
 
-II. Les dépenses résultant de l'application du premier alinéa de l'article L. 421-8 du code des assurances relatif à
-l'indemnisation des dommages corporels occasionnés par tous actes de chasse ou de destruction des animaux nuisibles dans les
-parties du territoire où l'assurance instituée par l'article L. 423-16 du code de l'environnement est obligatoire sont
-couvertes notamment par des contributions des sociétés d'assurances, des chasseurs assurés et des responsables d'accidents
-corporels de chasse non bénéficiaires d'une assurance.
-
-Les taux, assiette, modalités de liquidation et de recouvrement de ces contributions sont déterminés par un décret en Conseil
-d'Etat, pris après avis du conseil national des assurances (2).
-
-(1) Voir les articles 322 et 322 A de l'annexe II.
-
-(2) Voir les articles 323 à 323 A de l'annexe II.
-
-(2) Annexe II, art. 325 à 327.
+II.-Conformément à l'article L. 421-8 du code des assurances, pour l'indemnisation des dommages corporels occasionnés par
+tous actes de chasse ou de destruction des animaux nuisibles, le fonds de garantie des assurances obligatoires de dommages
+est alimenté, notamment, par des contributions des entreprises d'assurance.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGIAN2 322, 322 A, 323 à 323 A
-  - Code des assurances - art. L421-1 (M)
-  - Code des assurances - art. L421-8 (M)
-  - Code de l'environnement - art. L423-16 (M)
+  - Décret n°2001-435 du 21 mai 2001
 
 _Modifié par_:
 
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 62
 
 _Cité par_:
 
@@ -45,6 +29,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 (P)
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2001
+  - Code des assurances - art. L421-4
+  - Code des assurances - art. L421-8
