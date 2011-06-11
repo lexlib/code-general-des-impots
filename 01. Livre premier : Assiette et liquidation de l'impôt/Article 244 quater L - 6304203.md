@@ -28,22 +28,15 @@ sur les sociétés, peut être utilisé par leurs associés proportionnellement 
 groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à
 l'exploitation au sens du 1° bis du I de l'article 156. 
 
-IV. ― Le bénéfice du crédit d'impôt mentionné au I du présent article est subordonné au respect du règlement (CE) n°
-1535/2007 de la Commission, du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité CE aux aides de
-minimis dans le secteur de la production de produits agricoles.
-
-**Nota:**
-
-Loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 art. 121 : les présentes dispositions s'appliquent à compter de
-l'impôt sur le revenu dû au titre de 2009 et à l'impôt  dû par les sociétés sur les résultats des exercices clos à  compter
-du 1er janvier 2009
-.
+IV. ― Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1535/2007 de la Commission,
+du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la
+production de produits agricoles.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 132
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 _Cite_:
 

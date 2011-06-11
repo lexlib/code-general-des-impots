@@ -28,16 +28,17 @@ surfaces commerciales par les personnes mentionnées au I et, d'autre part, le r
 fruits et légumes mentionnés au deuxième alinéa de ce même I et le chiffre d'affaires total.
 
 V.-La taxe est déclarée et acquittée lors du dépôt de la déclaration relative à la taxe sur les surfaces commerciales, et due
-au titre de l'année. Toutefois, pour l'année 2010, la taxe est déclarée sur une déclaration conforme à un modèle fixé par
-l'administration et déposée au plus tard le 31 décembre 2010. 
-
-VI.-La taxe est liquidée, recouvrée et contrôlée sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur
-la valeur ajoutée. 
+au titre de l'année. VI.-La taxe est liquidée, recouvrée et contrôlée sous les mêmes sanctions, garanties, sûretés et
+privilèges que la taxe sur la valeur ajoutée. 
 
 Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe. 
 
 VII.-L'exonération prévue au II est subordonnée au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre
 2006 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+
+**Nota:**
+
+La seconde phrase du V est périmée.
 
 **Liens relatifs à cet article**
 
@@ -55,4 +56,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-874 du 27 juillet 2010 - art. 15
+  - Décret n°2011-645 du 9 juin 2011 - art. 1
