@@ -56,7 +56,7 @@ réduit.
 E. I. Les acquisitions d'immeubles ruraux situés dans les zones de revitalisation rurale définies au II de l'article 1465 A,
 qui sont effectuées par les agriculteurs bénéficiaires des aides à l'installation des jeunes agriculteurs prévue aux articles
 D. 343-9 et D. 343-13 du code rural et de la pêche maritime, que les intéressés soient exploitants individuels ou associés
-d'une société civile à objet agricole, pour la fraction du prix ou de la valeur n'excédant pas 99 000 euros, quel que soit le
+d'une société civile à objet agricole, pour la fraction du prix ou de la valeur n'excédant pas 99 000 €, quel que soit le
 nombre des acquisitions, sous réserve qu'elles interviennent au cours des quatre années suivant l'octroi des aides, que
 l'acte précise la valeur des terres acquises depuis cette date par l'acquéreur ayant bénéficié du tarif réduit et soit appuyé
 d'un certificat délivré sans frais par le directeur départemental de l'agriculture et de la forêt précisant la date de
@@ -67,24 +67,13 @@ d'acquisition, l'engagement, pour lui et ses ayants cause à titre gratuit, de j
 d'un an à compter de la date du transfert de propriété, que le bien acquis a été donné à bail à long terme ou à bail cessible
 à un jeune agriculteur bénéficiaire des aides à l'installation. 
 
-Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 99 000 euros. 
+Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 99 000 €. 
 
-F. Les ventes résultant de l'application des articles L. 128-4 à L. 128-7 du code rural et de la pêche maritime relatifs à la
+F. Les ventes résultant de l'application des articles L. 181-5 à L. 181-8 du code rural et de la pêche maritime relatifs à la
 mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la
 Guadeloupe, de la Martinique, de la Réunion et de la Guyane. 
 
-G. Dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane, les opérations immobilières
-effectuées, en vue de l'accession à la propriété rurale, par les sociétés d'aménagement foncier et d'établissement rural
-mentionnées au troisième alinéa de l'article L. 128-7 du code rural et de la pêche maritime, ainsi que par les sociétés
-d'intérêt collectif agricole, ayant fait l'objet d'un agrément avant la publication de la loi n° 69-1168 du 26 décembre
-1969. 
-
-Pour les acquisitions, le bénéfice du régime de faveur est subordonné à l'engagement dans l'acte, ou au pied de l'acte, par
-ces sociétés de procéder dans un délai de cinq ans au morcellement des terres en vue de leur cession à de petits exploitants
-agricoles. En cas d'inobservation de cet engagement, les droits non perçus lors de l'acquisition sont exigibles à première
-réquisition. 
-
-Les modalités d'application du présent G sont fixées par décret. 
+G.(Abrogé).
 
 H. Les acquisitions, par une société de crédit-bail, d'immeubles dont elle concède immédiatement la jouissance au vendeur par
 un contrat de crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si cette formalité est obligatoire
@@ -103,9 +92,6 @@ coopératives de production d'habitations à loyers modérés ainsi que par des 
 
 **Nota:**
 
-Conformément à l'article 42 II de la loi n° 2008-1443 du 30 décembre 2008, les dispositions introduites par l'article 42 I
-s'appliquent aux opérations intervenues à compter du 1er janvier 2009.
-
 LOI n° 2009-1673 du 30 décembre 2009 de finances pour 2010 art 77 1.2.1.6 : les présentes dispositions s'appliquent aux actes
 passés et aux conventions conclues à compter du 1er janvier 2011.
 
@@ -120,24 +106,16 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Décret n°55-22 du 4 janvier 1955 - art. 28 (VT)
-  - Loi n°69-1168 du 26 décembre 1969, v. init.
-  - Code général des impôts, CGI. - art. 1465 A (V)
-  - Code général des impôts, CGI. - art. 1594-0 G (V)
-  - Code général des impôts, CGI. - art. 257 (V)
-  - Code général des impôts, CGI. - art. 268 (V)
-  - Code rural - art. D343-13 (V)
-  - Code rural - art. D343-9 (V)
-  - Code rural - art. L128-4 (V)
-  - Code rural - art. L128-7 (V)
-  - Code de l'urbanisme - art. L130-2 (V)
-  - Code de la construction et de l'habitation. - art. L615-1 (V)
-
-_Modifié par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
+  - Décret n°55-22 du 4 janvier 1955 - art. 28
+  - Code général des impôts, CGI. - art. 1465 A
+  - Code général des impôts, CGI. - art. 1594-0 G
+  - Code général des impôts, CGI. - art. 257
+  - Code général des impôts, CGI. - art. 268
+  - Code rural - art. D343-13
+  - Code rural - art. D343-9
+  - Code rural - art. L181-5
+  - Code de l'urbanisme - art. L130-2
+  - Code de la construction et de l'habitation. - art. L615-1
 
 _Cité par_:
 
@@ -145,3 +123,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 sexies (V)
   - Code général des impôts, CGI. - art. 1754 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 251 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-864 du 22 juillet 2011 - art. 5
