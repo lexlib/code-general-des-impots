@@ -19,16 +19,16 @@ Le taux de plafonnement est fixé à 3 % de la valeur ajoutée.
 
 II.-Le plafonnement prévu au I s'applique sur la cotisation foncière des entreprises et la cotisation sur la valeur ajoutée
 des entreprises diminuées, le cas échéant, de l'ensemble des réductions et dégrèvements dont ces cotisations peuvent faire
-l'objet, à l'exception du crédit d'impôt prévu à l'article 1647 C septies et du dégrèvement prévu à l'article 1647 C
-quinquies B. 
+l'objet, à l'exception du crédit d'impôt prévu à l'article 1647 C septies et des dégrèvements prévus aux articles 1647 C
+quinquies B et 1647 C quinquies C. 
 
 Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 B ni aux prélèvements opérés par l'Etat sur ces taxes en
 application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D. 
 
 La cotisation foncière des entreprises s'entend de la somme des cotisations de chaque établissement établies au titre de
 l'année d'imposition. La cotisation de chaque établissement est majorée du montant des taxes spéciales d'équipement
-additionnelles à la cotisation foncière des entreprises prévues aux articles 1607 bis,1607 ter,1608 et 1609 à 1609 F,
-calculées dans les mêmes conditions. 
+additionnelles à la cotisation foncière des entreprises prévues aux articles 1607 bis, 
+1607 ter, 1608 et 1609 à 1609 F, calculées dans les mêmes conditions. 
 
 En cas de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil, de cession ou de cessation
 d'entreprise au cours de l'année d'imposition, le montant de la cotisation foncière des entreprises de l'entreprise dissoute
@@ -38,7 +38,7 @@ code et l'année civile.
 III.-Le dégrèvement s'impute sur la cotisation foncière des entreprises. 
 
 IV.-Le dégrèvement ne peut avoir pour effet de ramener la contribution économique territoriale à un montant inférieur à celui
-résultant de l'application de l'article 1647 D.
+résultant de l'application de l'article 1647 D. 
 
 V.-Le reversement des sommes indûment restituées est demandé selon les mêmes règles de procédure et sous les mêmes sanctions
 qu'en matière de cotisation foncière des entreprises. Les réclamations sont présentées, instruites et jugées selon les règles
@@ -72,17 +72,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 21 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1586 quinquies (M)
-  - Code général des impôts, CGI. - art. 1586 sexies (V)
-  - Code général des impôts, CGI. - art. 1600 (V)
-  - Code général des impôts, CGI. - art. 1607 bis (V)
-  - Code général des impôts, CGI. - art. 1608 (V)
-  - Code général des impôts, CGI. - art. 1609 (V)
-  - Code général des impôts, CGI. - art. 1647 C quinquies B (V)
-  - Code général des impôts, CGI. - art. 1647 C septies (V)
-  - Code général des impôts, CGI. - art. 1647 D (V)
+  - Code général des impôts, CGI. - art. 102 ter (V)
+  - Code général des impôts, CGI. - art. 1586 quinquies
+  - Code général des impôts, CGI. - art. 1586 sexies
+  - Code général des impôts, CGI. - art. 1600
+  - Code général des impôts, CGI. - art. 1607 bis
+  - Code général des impôts, CGI. - art. 1607 ter (V)
+  - Code général des impôts, CGI. - art. 1608
+  - Code général des impôts, CGI. - art. 1609
+  - Code général des impôts, CGI. - art. 1647 C septies
+  - Code général des impôts, CGI. - art. 1647 D
+  - Code général des impôts, CGI. - art. 50-0 (V)
+  - Code civil - art. 1844-5 (V)
