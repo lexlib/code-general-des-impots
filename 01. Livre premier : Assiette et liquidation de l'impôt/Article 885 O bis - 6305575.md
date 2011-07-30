@@ -12,19 +12,37 @@ doit représenter plus de la moitié des revenus à raison desquels l'intéress�
 catégories des traitements et salaires, bénéfices industriels et commerciaux, bénéfices agricoles, bénéfices non commerciaux,
 revenus des gérants et associés mentionnés à l'article 62. 
 
-2° Posséder 25 % au moins des droits financiers et des droits de vote attachés aux titres émis par la société, directement ou
-par l'intermédiaire de son conjoint ou de leurs ascendants ou descendants ou de leurs frères et soeurs. Les titres détenus
-dans les mêmes conditions dans une société possédant une participation dans la société dans laquelle le redevable exerce ses
-fonctions sont pris en compte dans la proportion de cette participation ; la valeur de ces titres qui sont la propriété
-personnelle du redevable est exonérée à concurrence de la valeur réelle de l'actif brut de la société qui correspond à la
-participation dans la société dans laquelle le redevable exerce ses fonctions. Les parts ou actions détenues par une même
-personne dans plusieurs sociétés sont présumées constituer un seul bien professionnel lorsque, compte tenu de l'importance
-des droits détenus et de la nature des fonctions exercées, chaque participation, prise isolément, satisfait aux conditions
-prévues pour avoir la qualité de biens professionnels, et que les sociétés en cause ont effectivement des activités soit
-similaires, soit connexes et complémentaires. 
+2° Posséder 25 % au moins des droits de vote attachés aux titres émis par la société, directement ou par l'intermédiaire de
+son conjoint ou de leurs ascendants ou descendants ou de leurs frères et soeurs. Les titres détenus dans les mêmes conditions
+dans une société possédant une participation dans la société dans laquelle le redevable exerce ses fonctions sont pris en
+compte dans la proportion de cette participation ; la valeur de ces titres qui sont la propriété personnelle du redevable est
+exonérée à concurrence de la valeur réelle de l'actif brut de la société qui correspond à la participation dans la société
+dans laquelle le redevable exerce ses fonctions. 
 
-Par dérogation aux dispositions du premier alinéa, la condition de possession de 25 % au moins du capital de la société n'est
-pas exigée des gérants et associés visés à l'article 62. 
+Sont considérées comme des biens professionnels les parts ou actions détenues par une même personne dans plusieurs sociétés
+lorsque chaque participation, prise isolément, satisfait aux conditions prévues par le présent article pour avoir la qualité
+de biens professionnels. Toutefois, la condition de rémunération prévue à la seconde phrase du second alinéa du 1° est
+respectée si la somme des rémunérations perçues au titre des fonctions énumérées au premier alinéa du même 1° dans les
+sociétés dont le redevable possède des parts ou actions représente plus de la moitié des revenus mentionnés à la même phrase.
+
+Lorsque les sociétés mentionnées au deuxième alinéa du présent 2° ont des activités soit similaires, soit connexes et
+complémentaires, la condition de rémunération normale s'apprécie au regard des fonctions exercées dans l'ensemble des
+sociétés dont les parts ou actions constituent un bien professionnel.
+
+Le respect de la condition de possession de 25 % au moins des droits de vote attachés aux titres émis par la société prévue
+au premier alinéa du présent 2° n'est pas exigé après une augmentation de capital si, à compter de la date de cette dernière,
+le redevable remplit les trois conditions suivantes :
+
+a) Il a respecté cette condition au cours des cinq années ayant précédé l'augmentation de capital ;
+
+b) Il possède 12,5 % au moins des droits de vote attachés aux titres émis par la société, directement ou par l'intermédiaire
+de son conjoint, de leurs ascendants ou descendants ou de leurs frères et sœurs ;
+
+c) Il est partie à un pacte conclu avec d'autres associés ou actionnaires représentant au total 25 % au moins des droits de
+vote et exerçant un pouvoir d'orientation dans la société. ;
+
+Par dérogation aux dispositions du premier alinéa, la condition de possession de 25 % au moins des droits de vote attachés
+aux titres émis par la société n'est pas exigée des gérants et associés visés à l'article 62. 
 
 Sont également considérées comme des biens professionnels les parts ou actions détenues directement par le gérant nommé
 conformément aux statuts d'une société à responsabilité limitée ou en commandite par actions, le président, le directeur
@@ -39,18 +57,14 @@ principale dans la société rachetée et que la société créée bénéficie d
 
 **Nota:**
 
-Ces dispositions s'appliquent pour l'impôt de solidarité sur la fortune dû au titre de l'année 2004 et des années suivantes.
+Loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 article 39 IV : Le présent article s'applique à
+l'impôt sur la fortune dû à compter de l'année 2012.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 49 () JORF 5 août 2003
-
-_Cite_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 220 quater (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 39 (V)
 
 _Cité par_:
 
@@ -73,7 +87,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K (V)
   - Code monétaire et financier - art. L221-32-5 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 août 2003
-  - TXT_ASSOCIE: Instruction 2002-05-16 7S-6-02
+  - Code général des impôts, CGI. - art. 220 quater
+  - Code général des impôts, CGI. - art. 62
