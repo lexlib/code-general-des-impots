@@ -13,97 +13,157 @@ utilisation selon le barème suivant :
 (En euros) 
 
 <table border="1">
-  <tbody>
-    <tr>
-      <th>
+    <tbody>
+      <tr>
+        <th>CATÉGORIE DE MATÉRIELS ROULANTS 
 
-CATÉGORIE DE MATÉRIELS ROULANTS</th>
-      <th>
+</th>
+        <th>
 
-TARIFS</th>
-    </tr>
-    <tr>
-      <td align="center">
+TARIFS 
 
-Engins à moteur thermique</td>
-      <td align="center">
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Automoteur</td>
-      <td align="center">
-
-30 000</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Locomotive diesel</td>
-      <td align="center">
-
-30 000</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Engins à moteur électrique</td>
-      <td align="center">
+Engins à moteur thermique 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Automotrice</td>
-      <td align="center">
-
-23 000</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Locomotive électrique</td>
-      <td align="center">
-
-20 000</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Motrice de matériel à grande vitesse</td>
-      <td align="center">
-
-35 000</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Engins remorqués</td>
-      <td align="center">
+        <td align="center">
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
-Remorque pour le transport de voyageurs</td>
-      <td align="center">
+Automoteur 
 
-4 800</td>
-    </tr>
-    <tr>
-      <td align="center">
+</td>
+        <td align="center">
 
-Remorque pour le transport de voyageurs à grande vitesse</td>
-      <td align="center">
+30   000 
 
-10 000</td>
-    </tr>
-  </tbody>
-</table>
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Locomotive diesel 
+
+</td>
+        <td align="center">
+
+30   000 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Engins à moteur électrique 
+
+</td>
+        <td align="center">
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Automotrice 
+
+</td>
+        <td align="center">
+
+23   000 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Locomotive électrique 
+
+</td>
+        <td align="center">
+
+20   000 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Motrice de matériel à grande vitesse 
+
+</td>
+        <td align="center">
+
+35   000 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Automotrice tram-train 
+
+</td>
+        <td align="center">
+
+11   500 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Engins remorqués 
+
+</td>
+        <td align="center">
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Remorque pour le transport de passagers 
+
+</td>
+        <td align="center">
+
+4   800 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Remorque pour le transport de passagers à grande vitesse 
+
+</td>
+        <td align="center">
+
+10   000 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Remorque tram-train 
+
+</td>
+        <td align="center">
+
+2   400
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en
 fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance.
@@ -133,6 +193,10 @@ foncière des entreprises.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°59-151 du 7 janvier 1959 - art. 2
+
 _Créé par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
@@ -151,4 +215,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 42
+  - Loi n°2011-900 du 29 juillet 2011 - art. 49
