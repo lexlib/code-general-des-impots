@@ -19,7 +19,7 @@ ou les sociétés dans laquelle ou lesquelles le redevable exerce ses fonctions 
 
 L'exonération s'applique dans les mêmes conditions aux parts de fonds communs de placement d'entreprise visés aux articles L.
 214-39 et suivants du code monétaire et financier ou aux actions de sociétés d'investissement à capital variable
-d'actionnariat salarié visées à l'article L. 214-40-1 du même code. L'exonération est limitée à la fraction de la valeur des
+d'actionnariat salarié visées à l'article L. 214-41 du même code. L'exonération est limitée à la fraction de la valeur des
 parts ou actions de ces organismes de placement collectif représentative des titres de la société dans laquelle le redevable
 exerce son activité principale ou de sociétés qui lui sont liées dans les conditions prévues à l'article L. 233-16 du code de
 commerce. Une attestation de l'organisme déterminant la valeur éligible à l'exonération partielle doit être jointe à la
@@ -38,18 +38,12 @@ respectée par suite d'une annulation des titres pour cause de pertes ou de liqu
 
 IV.-L'exonération partielle prévue au présent article est exclusive de l'application de tout autre régime de faveur.
 
-**Nota:**
-
-LOI n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 art 1 III : Les I et II du présent article
-s'appliquent à l'impôt de solidarité sur la fortune dû à compter de l'année 2012, à l'exception de l'option de paiement par
-prélèvements mensuels prévue au second alinéa du 1 de l'article 1723 ter-00 A du code général des impôts dans sa rédaction
-issue du 7° du I du présent article, qui s'applique à l'impôt dû à compter de l'année 2013.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
   - Loi n°2011-900 du 29 juillet 2011 - art. 1 (V)
+  - Ordonnance n°2011-915 du 1er août 2011 - art. 27
 
 _Cite_:
 
