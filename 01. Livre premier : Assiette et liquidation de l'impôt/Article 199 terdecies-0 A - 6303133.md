@@ -16,7 +16,7 @@ administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
 c) La société est soumise à l'impôt sur les sociétés dans les conditions de droit commun ou y serait soumise dans les mêmes
 conditions si l'activité était exercée en France ; 
 
-c bis) La société compte au moins deux salariés à la clôture de  l'exercice qui suit  la souscription ayant ouvert droit à la
+c bis) La société compte au moins deux salariés à la clôture de l'exercice qui suit la souscription ayant ouvert droit à la
 présente réduction ou un salarié si elle est soumise à l'obligation de s'inscrire à la chambre de métiers et de
 l'artisanat ; 
 
@@ -127,14 +127,14 @@ du remboursement des apports avant le terme mentionné à la dernière phrase du
 réduction d'impôt sur le revenu obtenue est effectuée au nom du donateur. 
 
 Lorsque le contribuable opte pour l'exonération mentionnée au 7 du III de l'article 150-0 A, une reprise des réductions
-d'impôt obtenues pour cette même souscription est pratiquée au titre de l'année de l'option.
+d'impôt obtenues pour cette même souscription est pratiquée au titre de l'année de l'option. 
 
 V. Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 contribuables et aux sociétés. 
 
 VI. 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu
 égale à 22 % des versements effectués au titre de souscriptions en numéraire de parts de fonds communs de placement dans
-l'innovation mentionnés à l'article L. 214-41 du code monétaire et financier lorsque les conditions suivantes sont
+l'innovation mentionnés à l'article L. 214-30 du code monétaire et financier lorsque les conditions suivantes sont
 remplies : 
 
 a. les personnes physiques prennent l'engagement de conserver les parts de fonds, pendant cinq ans au moins à compter de leur
@@ -171,7 +171,7 @@ imposition commune.
 différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne. 
 
 VI bis.-Les dispositions du 1, du 2 bis et du 3 du VI s'appliquent aux versements effectués au titre de souscriptions en
-numéraire de parts de fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier.
+numéraire de parts de fonds d'investissement de proximité mentionnés à l'article L. 214-31 du code monétaire et financier.
 Les versements ouvrant droit à la réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus, après
 imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les contribuables célibataires,
 veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune. Les réductions d'impôt
@@ -182,7 +182,7 @@ différents sur l'actif net ou sur les produits du fonds, attribuées en fonctio
 
 VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu
 égale à 45 % des versements effectués au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité,
-mentionnés à l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs
+mentionnés à l'article L. 214-31 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs
 mobilières, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs
 activités exclusivement dans des établissements situés en Corse. 
 
@@ -193,7 +193,7 @@ imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 e
 veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune. Les réductions d'impôts
 prévues aux VI, VI bis et au présent VI ter sont exclusives les unes des autres pour les souscriptions dans un même fonds.
 Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits
-différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne.
+différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne. 
 
 VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables domiciliés fiscalement en Guadeloupe, Guyane,
 Martinique, à La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, Polynésie
@@ -212,13 +212,13 @@ limites annuelles de 12 000 € pour les contribuables célibataires, veufs ou d
 mariés soumis à imposition commune. Les réductions d'impôt prévues au VI bis et au présent VI ter A sont exclusives les unes
 des autres pour les souscriptions dans un même fonds. Les présentes dispositions ne s'appliquent pas aux parts de fonds
 d'investissement de proximité donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds, attribuées
-en fonction de la qualité de la personne.
+en fonction de la qualité de la personne. 
 
 VI quater.-Les réductions d'impôt mentionnées aux I, VI, VI bis et VI ter ne s'appliquent pas aux titres figurant dans un
 plan d'épargne en actions mentionné à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au titre III du
 livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions
 ayant ouvert droit aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies
-B,199 terdecies-0 B,199 unvicies,199 quatervicies ou 885-0 V bis du présent code. La fraction des versements effectués au
+B, 199 terdecies-0 B, 199 unvicies, 199 quatervicies ou 885-0 V bis du présent code. La fraction des versements effectués au
 titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à
 ces réductions d'impôt. 
 
@@ -233,7 +233,7 @@ participe activement à la conduite de la politique de leur groupe et au contrô
 
 VI quinquies.-Le bénéfice des I à II ter, VI, VI bis et VI ter est subordonné au respect, selon le cas par les sociétés
 bénéficiaires des versements mentionnées au 1 du I ou par les sociétés éligibles au quota mentionné au I de l'article L.
-214-41 du code monétaire et financier ou au 1 de l'article L. 214-41-1 du même code, du règlement (CE) n° 1998/2006 de la
+214-30 du code monétaire et financier ou au I de l'article L. 214-31 du même code, du règlement (CE) n° 1998/2006 de la
 Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis ou du
 règlement (CE) n° 1535/2007 de la Commission, du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité
 CE aux aides de minimis dans le secteur de la production de produits agricoles. Toutefois, cette disposition n'est pas
@@ -296,13 +296,13 @@ _Cite_:
   - Code général des impôts, CGI. - art. 150-0 A
   - Code général des impôts, CGI. - art. 197
   - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
   - Code général des impôts, CGI. - art. 885 O quater
-  - Code monétaire et financier - art. L214-41
-  - Code monétaire et financier - art. L214-41-1
+  - Code monétaire et financier - art. L214-30 (V)
+  - Code monétaire et financier - art. L214-41 (V)
   - Code du travail - art. L3332-1
   - Code de la sécurité sociale. - art. L341-4
 
 _Modifié par_:
 
-  - Loi n°2011-900 du 29 juillet 2011 - art. 42
-  - Loi n°2011-900 du 29 juillet 2011 - art. 43
+  - Ordonnance n°2011-915 du 1er août 2011 - art. 27
