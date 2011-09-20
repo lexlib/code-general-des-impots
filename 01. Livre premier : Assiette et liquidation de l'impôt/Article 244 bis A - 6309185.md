@@ -72,7 +72,7 @@ clôture du ou des seuls exercices clos ou, à défaut, à la date de la cession
 II.-Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values
 sont déterminées selon les modalités définies : 
 
-1° Au I et aux 2° à 8° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VE ; 
+1° Au I et aux 2° à 8° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ; 
 
 2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de la Communauté européenne ou
 d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui
@@ -123,7 +123,7 @@ et n'étant pas non coopératif au sens de l'article 238-0 A.
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2011-1117 du 19 septembre 2011 - art. 1er (V)
 
 _Cité par_:
 
@@ -156,5 +156,6 @@ _Cite_:
   - Code général des impôts, CGI. - art. 150 V
   - Code général des impôts, CGI. - art. 164 B
   - Code général des impôts, CGI. - art. 219
+  - Code général des impôts, CGI. - art. 238-0 A
   - Code général des impôts, CGI. - art. 4 B
   - Code général des impôts, CGI. - art. 8
