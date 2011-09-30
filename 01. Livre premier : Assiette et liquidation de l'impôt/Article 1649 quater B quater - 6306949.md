@@ -44,7 +44,7 @@ que leurs annexes sont souscrites par voie électronique par les entreprises dé
 III. - Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette
 taxe, ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par
 voie électronique lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent
-est supérieur à 500 000 EUR hors taxes.
+est supérieur à 230 000 € hors taxes.
 
 Cette obligation s'applique également aux redevables définis aux deuxième à dixième alinéas du I.
 
@@ -59,8 +59,7 @@ bénéficiant du régime visé à l'article 293 B peuvent le déposer sur suppor
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 29 (V)
 
 _Cité par_:
 
