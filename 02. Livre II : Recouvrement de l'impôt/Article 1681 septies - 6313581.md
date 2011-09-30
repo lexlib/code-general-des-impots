@@ -12,7 +12,7 @@ chargé des grandes entreprises au sein de l'administration fiscale dans des con
 3. Le paiement de la cotisation sur la valeur ajoutée des entreprises est effectué par télérèglement. 
 
 4. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement lorsque le chiffre d'affaires hors taxes
-réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 500 000 euros. 
+réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 230 000 euros. 
 
 5. Les redevables astreints au paiement de l'impôt sur les sociétés selon les modalités mentionnées au 4 acquittent la taxe
 sur les salaires mentionnée à l'article 231 par télérèglement. 
@@ -21,15 +21,17 @@ sur les salaires mentionnée à l'article 231 par télérèglement.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 article 56 III : Le II s'applique à compter du 1er
-janvier 2011, à l'exception des dispositions relatives à la cotisation foncière des entreprises et à l'imposition forfaitaire
-sur les entreprises de réseaux qui entrent en vigueur le 1er octobre 2011.
+Conformément à l'article 29 VII de la loi n° 2009-1674 de finances rectificative pour 2009, le montant : " 500 000 euros "
+mentionné au 4 est remplacé par le montant : " 230 000 euros " pour les déclarations, leurs annexes, les demandes de
+remboursement de crédit de taxe sur la valeur ajoutée ainsi que les paiements afférents aux impôts ou taxes mentionnés aux
+articles 1695 quater, 1668 et 231 du code général des impôts, devant être souscrites ou acquittés à compter du 1er octobre
+2011.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 56 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 29 (V)
 
 _Cite_:
 
