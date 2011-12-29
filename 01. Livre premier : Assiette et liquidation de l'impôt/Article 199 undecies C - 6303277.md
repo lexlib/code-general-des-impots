@@ -101,7 +101,7 @@ mentionnés au I.
 
 Les associés personnes physiques mentionnés au deuxième alinéa ne peuvent bénéficier, pour la souscription au capital de la
 société mentionnée au même alinéa, des réductions d'impôt prévues aux articles 199 terdecies-0 A et 885-0 V bis et la société
-mentionnée ne peut bénéficier des dispositions prévues aux articles 217 bis et 217 undecies. 
+mentionnée ne peut bénéficier des dispositions prévues à l'article 217 undecies. 
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par les associés lors de la cession des titres
 des sociétés. Le 2° du 3 de l'article 158 ne s'applique pas aux revenus distribués par ces sociétés. 
@@ -154,16 +154,16 @@ l'année 2011.
 
 _Cite_:
 
-  - Loi n°2009-594 du 27 mai 2009 (V)
-  - Code général des impôts, CGI. - art. 150-0 D (V)
-  - Code général des impôts, CGI. - art. 199 undecies B (V)
-  - Code général des impôts, CGI. - art. 217 undecies (V)
-  - Code général des impôts, CGI. - art. 4 B (V)
-  - Code monétaire et financier - art. L214-50 (V)
-  - Code de la construction et de l'habitation. - art. L365-1 (V)
-  - Code de la construction et de l'habitation. - art. L411-2 (V)
-  - Code de la construction et de l'habitation. - art. L472-1-9 (V)
-  - Code de la construction et de l'habitation. - art. L481-1 (V)
+  - Loi n°2009-594 du 27 mai 2009
+  - Code général des impôts, CGI. - art. 150-0 D
+  - Code général des impôts, CGI. - art. 199 undecies B
+  - Code général des impôts, CGI. - art. 217 undecies
+  - Code général des impôts, CGI. - art. 4 B
+  - Code monétaire et financier - art. L214-50
+  - Code de la construction et de l'habitation. - art. L365-1
+  - Code de la construction et de l'habitation. - art. L411-2
+  - Code de la construction et de l'habitation. - art. L472-1-9
+  - Code de la construction et de l'habitation. - art. L481-1
 
 _Cité par_:
 
@@ -198,6 +198,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 93
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 98 (V)
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 78 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 10
