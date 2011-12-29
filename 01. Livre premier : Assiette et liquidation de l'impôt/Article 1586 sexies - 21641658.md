@@ -18,7 +18,7 @@ s'entend du montant hors taxes des honoraires ou recettes encaissés en leur nom
 gains divers. 
 
 3. Le chiffre d'affaires des personnes dont les revenus imposables à l'impôt sur le revenu relèvent de la catégorie des
-revenus fonciers définie à l'article 14 comprend les recettes brutes hors taxes  au sens de l'article 29. 
+revenus fonciers définie à l'article 14 comprend les recettes brutes hors taxes au sens de l'article 29.
 
 4. La valeur ajoutée est égale à la différence entre : 
 
@@ -41,7 +41,7 @@ résultats imposables à l'impôt sur le revenu ou à l'impôt sur les société
 
 - des transferts de charges déductibles de la valeur ajoutée, autres que ceux pris en compte dans le chiffre d'affaires ;
 
-- des rentrées sur créances amorties lorsqu'elles se rapportent au résultat d'exploitation ;
+- des rentrées sur créances amorties lorsqu'elles se rapportent au résultat d'exploitation ; 
 
 b) Et, d'autre part :
 
@@ -70,7 +70,7 @@ le revenu ou à l'impôt sur les sociétés ;
 
 - les dotations aux amortissements pour dépréciation afférentes aux biens corporels donnés en location ou sous-location pour
 une durée de plus de six mois, donnés en crédit-bail ou faisant l'objet d'un contrat de location-gérance, en proportion de la
-seule période de location, de sous-location, de crédit-bail ou de location-gérance ; 
+seule période de location, de sous-location, de crédit-bail ou de location-gérance ;
 
 - les moins-values de cession d'éléments d'immobilisations corporelles et incorporelles, lorsqu'elles se rapportent à une
 activité normale et courante. 
@@ -81,22 +81,26 @@ la taxe sur la valeur ajoutée déductible ou décaissée.
 
 6. La valeur ajoutée des contribuables mentionnés au 3 est égale à l'excédent du chiffre d'affaires défini au 3 diminué des
 charges de la propriété énumérées à l'article 31, à l'exception des charges énumérées aux c et d du 1° du I du même article
-31. 
+31.
 
-7. La valeur ajoutée définie aux 4, 5 et 6 ne peut excéder un pourcentage du chiffre d'affaires mentionné respectivement aux
-1, 2 et 3 égal à : 
+7. La valeur ajoutée définie aux 4,5 et 6 ne peut excéder un pourcentage du chiffre d'affaires mentionné respectivement aux
+1,2 et 3 égal à : 
 
-80 % pour les contribuables dont le chiffre d'affaires est inférieur ou égal à 7, 6 millions d'euros ; 
+80 % pour les contribuables dont le chiffre d'affaires est inférieur ou égal à 7,6 millions d'euros ; 
 
-85 % pour les contribuables dont le chiffre d'affaires est supérieur à 7, 6 millions d'euros.
+85 % pour les contribuables dont le chiffre d'affaires est supérieur à 7,6 millions d'euros. 
 
 Pour l'application du présent 7, la période retenue pour le chiffre d'affaires est la même que celle retenue pour la valeur
 ajoutée. 
 
+I bis. ― Pour les mutuelles et unions régies par le livre III du code de la mutualité, les produits et les charges ne sont
+pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014. Ils sont
+pris en compte en totalité à partir de 2015 (1). 
+
 II.-Par exception au I, les produits et les charges mentionnés au même I et se rapportant à une activité de location ou de
 sous-location d'immeubles nus réputée exercée à titre professionnel au sens de l'article 1447 ne sont pris en compte, pour le
-calcul de la valeur ajoutée, qu'à raison de 10 % de leur montant en 2010, 20 % en 2011, 30 % en 2012, 40 % en 2013, 50 % en
-2014, 60 % en 2015, 70 % en 2016, 80 % en 2017 et 90 % en 2018. 
+calcul de la valeur ajoutée, qu'à raison de 10 % de leur montant en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en
+2014,60 % en 2015,70 % en 2016,80 % en 2017 et 90 % en 2018. 
 
 III.-Pour les établissements de crédit et, lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel, les entreprises
 mentionnées à l'article L. 531-4 du code monétaire et financier : 
@@ -118,7 +122,7 @@ e) Quotes-parts de résultat sur opérations faites en commun.
 2. La valeur ajoutée est égale à la différence entre : 
 
 a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des reprises de provisions spéciales et des
-récupérations sur créances amorties lorsqu'elles se rapportent aux produits d'exploitation bancaire  ; 
+récupérations sur créances amorties lorsqu'elles se rapportent aux produits d'exploitation bancaire ; 
 
 b) Et, d'autre part :
 
@@ -134,7 +138,7 @@ location ;
 - les charges diverses d'exploitation, à l'exception des moins-values de cession sur immobilisations autres que celles
 portant sur les autres titres détenus à long terme et des quotes-parts de résultat sur opérations faites en commun ;
 
-- les pertes sur créances irrécouvrables lorsqu'elles se rapportent aux produits d'exploitation bancaire.
+- les pertes sur créances irrécouvrables lorsqu'elles se rapportent aux produits d'exploitation bancaire. 
 
 IV.-Pour les entreprises, autres que celles mentionnées aux III et VI, qui ont pour activité principale la gestion
 d'instruments financiers au sens de l'article L. 211-1 du code monétaire et financier : 
@@ -145,7 +149,7 @@ d'instruments financiers au sens de l'article L. 211-1 du code monétaire et fin
 
 - les produits financiers, à l'exception des reprises sur provisions et de 95 % des dividendes sur titres de participation ;
 
-- et les plus-values  sur cession des titres, à l'exception des plus-values de cession de titres de participation. 
+- et les plus-values sur cession des titres, à l'exception des plus-values de cession de titres de participation. 
 
 2. La valeur ajoutée est égale à la différence entre :
 
@@ -153,8 +157,8 @@ d'instruments financiers au sens de l'article L. 211-1 du code monétaire et fin
 rapportent au chiffre d'affaires défini au 1 ;
 
 - et, d'autre part, les services extérieurs mentionnés au 4 du I ; les charges financières, à l'exception des dotations aux
-amortissements et aux provisions ; les moins-values de  cession de titres autres que les titres de participation ; les pertes
-sur créances irrécouvrables lorsqu'elles se rapportent au chiffre d'affaires défini au 1 (1). 
+amortissements et aux provisions ; les moins-values de cession de titres autres que les titres de participation ; les pertes
+sur créances irrécouvrables lorsqu'elles se rapportent au chiffre d'affaires défini au 1. 
 
 Les entreprises ayant pour activité principale la gestion d'instruments financiers sont celles qui remplissent au moins une
 des deux conditions suivantes :
@@ -170,9 +174,9 @@ Sauf pour les entreprises dont au moins 50 % des droits de vote sont détenus, d
 entreprise mentionnée aux III ou VI ou conjointement par des entreprises mentionnées aux mêmes III ou VI, les conditions
 mentionnées aux cinquième et sixième alinéas s'apprécient, le cas échéant, au regard de l'actif et du chiffre d'affaires du
 groupe auquel appartient la société au sens de l'article L. 233-16 du code de commerce sur la base des comptes consolidés
-prévus au I du même article.
+prévus au I du même article. 
 
-V.-Pour les sociétés et groupements créés  pour la réalisation d'une opération unique de financement d'immobilisations
+V.-Pour les sociétés et groupements créés pour la réalisation d'une opération unique de financement d'immobilisations
 corporelles : 
 
 a) Qui sont détenus à 95 % au moins par un établissement de crédit et qui réalisent l'opération pour le compte de
@@ -198,8 +202,8 @@ visée au premier alinéa du présent V et les pertes sur créances irrécouvrab
 d'affaires défini au 1. 
 
 VI.-Pour les mutuelles et unions régies par le livre II du code de la mutualité, les institutions de prévoyance régies par le
-titre III du livre IX du code de la sécurité sociale ou par le titre VII du livre VII du code rural et de la pêche maritime
-et les entreprises d'assurance et de réassurance régies par le code des assurances : 
+titre III du livre IX du code de la sécurité sociale et les entreprises d'assurance et de réassurance régies par le code des
+assurances : 
 
 1. Le chiffre d'affaires comprend :
 
@@ -233,7 +237,7 @@ provisions pour sinistres ou prestations à payer et des autres provisions techn
 d'exigibilité pour la seule partie qui n'est pas admise en déduction du résultat imposable en application du 5° du 1 de
 l'article 39, la participation aux résultats, les charges des placements à l'exception des moins-values de cession des
 placements dans des entreprises liées ou avec lien de participation et des moins-values de cession d'immeubles
-d'exploitation. 
+d'exploitation ; 
 
 Ne sont toutefois pas déductibles de la valeur ajoutée :
 
@@ -256,9 +260,19 @@ conformes à la Constitution par la décision du Conseil constitutionnel n° 200
 
 - les dotations aux provisions autres que les provisions techniques. 
 
+c) Pour les mutuelles et les institutions de prévoyance visées au  premier alinéa du présent VI, les produits et les charges
+ne sont pris  en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de  leur montant en 2013 et de 60 % en
+2014. Ils sont pris en compte en  totalité à partir de 2015 (1).  
+
 VII.-Lorsque les plus-values de cession d'immobilisations ou de titres de nature à être comprises dans le chiffre d'affaires
 et la valeur ajoutée en application des I et III à VI sont réalisées l'année de création de l'entreprise, elles sont
 comprises dans le chiffre d'affaires et la valeur ajoutée retenus au titre de l'année suivante.
+
+**Nota:**
+
+(1) Aux termes de l'article 65 IV de la loi n° 2011-1978 du 28 décembre 2011, les dispositions du I bis ainsi que celles du
+c) du 2 du VI de l'article 1586 sexies résultant de l'article 65-II de ladite loi s'appliquent à compter des impositions dues
+au titre de 2013.
 
 **Liens relatifs à cet article**
 
@@ -291,11 +305,14 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
 
-_Créé par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (V)
-  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 65 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1447 (V)
+  - Code général des impôts, CGI. - art. 217 undecies (V)
+  - Code général des impôts, CGI. - art. 29 (V)
+  - Code monétaire et financier - art. L211-1 (V)
+  - Code monétaire et financier - art. L531-4 (V)

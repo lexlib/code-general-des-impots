@@ -33,7 +33,7 @@ au profit de l'établissement public de coopération intercommunale et de la com
 2. Pour l'application du 1 :
 
 a. Lorsque la commune rattachée était membre d'un établissement public de coopération intercommunale substitué à la commune
-pour l'application des dispositions relatives à la cotisation foncière des entreprises , le taux moyen pondéré tient compte
+pour l'application des dispositions relatives à la cotisation foncière des entreprises, le taux moyen pondéré tient compte
 des produits perçus par cet établissement public de coopération intercommunale et des bases imposées à son profit sur le
 territoire de la commune ;
 
@@ -46,9 +46,9 @@ c. Les dispositions des b et c du 1° du III de l'article 1609 nonies C sont app
 Pour l'application de ces dispositions, il est tenu compte des taux effectivement appliqués sur le territoire des communes
 lorsqu'un processus de réduction des écarts de taux était en cours ou, à défaut, du taux de l'établissement public de
 coopération intercommunale qui était substitué aux communes pour l'application des dispositions de la cotisation foncière des
-entreprises . Lorsque la commune rattachée était membre d'un établissement public de coopération intercommunale sans
-fiscalité propre ou à fiscalité propre additionnelle, le taux de la commune est majoré du taux de l'établissement public de
-coopération intercommunale.
+entreprises. Lorsque la commune rattachée était membre d'un établissement public de coopération intercommunale sans fiscalité
+propre ou à fiscalité propre additionnelle, le taux de la commune est majoré du taux de l'établissement public de coopération
+intercommunale.
 
 3. Les dispositions du IV de l'article 1636 B decies ne sont pas applicables au montant reporté au titre de l'année de
 rattachement et des deux années antérieures.
@@ -64,10 +64,27 @@ peuvent décider, par délibérations concordantes, que le taux de cotisation fo
 ou partie de commune incorporée dans la zone ou aux installations de production d'électricité utilisant l'énergie mécanique
 du vent est, dès la première année, celui fixé par l'établissement public de coopération intercommunale.
 
+III bis. – Dans les cas de rattachement prévus au I, par délibérations concordantes de l'organe délibérant de l'établissement
+public de coopération intercommunale et du conseil municipal de la commune concernée, les taux de taxe d'habitation, de taxe
+foncière sur les propriétés bâties et de taxes foncières sur les propriétés non bâties votés par l'organe délibérant de
+l'établissement public de coopération intercommunale peuvent être appliqués de manière progressive par fractions égales sur
+une période maximale de douze années. Le présent III bis n'est pas applicable pour les taxes pour lesquelles le rapport entre
+ces taux et les taux votés par le conseil municipal l'année du rattachement de cette commune est inférieur à 10 %. Le cas
+échéant, sont pris en compte pour le calcul de ce rapport les taux des impositions perçues l'année du rattachement au profit
+des établissements publics auxquels la commune appartenait.
+
 IV. – En cas de rattachement volontaire ou à la suite d'une transformation dans les conditions prévues à l'article L.
 5211-41-1 du code général des collectivités territoriales d'une commune à un établissement public de coopération
 intercommunale à fiscalité additionnelle, l'organe délibérant vote les taux de taxe d'habitation, de foncier bâti, de foncier
 non bâti et de cotisation foncière des entreprises dans les conditions prévues à l'article 1636 B sexies.
+
+Par délibérations concordantes de l'organe délibérant de l'établissement public de coopération intercommunale et du conseil
+municipal de la commune concernée, les taux votés en application du premier alinéa du présent IV peuvent être appliqués de
+manière progressive par fractions égales sur une période maximale de douze années. Le présent alinéa n'est pas applicable
+pour les taxes pour lesquelles le rapport entre ces taux et les taux votés par le conseil municipal l'année du rattachement
+de cette commune est inférieur à 10 %. Le cas échéant, sont pris en compte pour le calcul de ce rapport les taux des
+impositions perçues l'année du rattachement au profit des établissements publics de coopération intercommunale auxquels la
+commune appartenait.
 
 V. – Les I, II et III sont également applicables aux communes faisant l'objet d'un rattachement à une communauté urbaine ou à
 une communauté d'agglomération dont le périmètre est étendu en application du renouvellement de la procédure prévue aux
@@ -100,10 +117,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 99
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L5211-41-1
-  - Code général des collectivités territoriales - art. L5215-40-1
+  - Code général des impôts, CGI. - art. 1636 B decies (V)
+  - Code général des impôts, CGI. - art. 1639 A (V)
+  - Code général des collectivités territoriales - art. L5211-41-1 (V)
+  - Code général des collectivités territoriales - art. L5215-40-1 (V)

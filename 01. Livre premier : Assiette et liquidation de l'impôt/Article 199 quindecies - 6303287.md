@@ -5,20 +5,25 @@ service mentionné au 6° du I de l'article L. 312-1 du code de l'action sociale
 délivrant des soins de longue durée, mentionné au dixième alinéa du 3° de l'article L. 6143-5 du code de la santé publique,
 et comportant un hébergement, à des personnes n'ayant pas leur autonomie de vie dont l'état nécessite une surveillance
 médicale constante et des traitements d'entretien ou dans un établissement ayant pour objet de fournir des prestations de
-nature et de qualité comparables et situé dans un autre État membre de la Communauté européenne ou dans un autre État partie
-à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, bénéficient d'une réduction d'impôt égale
-à 25 % du montant des dépenses qu'ils supportent effectivement tant au titre de la dépendance que de l'hébergement. Le
-montant annuel des dépenses ouvrant droit à la réduction d'impôt ne peut pas excéder 10 000 euros par personne hébergée.
+nature et de qualité comparables et situé dans un autre État membre de l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales, bénéficient d'une réduction d'impôt égale à 25 % du montant des dépenses
+qu'ils supportent effectivement tant au titre de la dépendance que de l'hébergement. Le montant annuel des dépenses ouvrant
+droit à la réduction d'impôt ne peut pas excéder 10 000 € par personne hébergée.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 71
-  - Ordonnance n°2010-177 du 23 février 2010 - art. 3
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R441-1 (V)
   - Code général des impôts, CGI. - art. 200-0 A (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 4 B (V)
+  - Code de la santé publique - art. L6143-5 (VT)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
