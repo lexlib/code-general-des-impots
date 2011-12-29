@@ -85,9 +85,9 @@ c) Remplit la condition prévue au 4° du I ;
 
 a) Répond aux conditions prévues aux 5° et 6° du I ; 
 
-b) A son siège social dans un État membre de la Communauté européenne ou dans un autre État partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en
-vue de lutter contre la fraude ou l'évasion fiscale ; 
+b) A son siège social dans un État membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude
+et l'évasion fiscales ; 
 
 c) Doit avoir exercé, de manière continue pendant les cinq années précédant la cession, une activité commerciale,
 industrielle, artisanale, libérale ou agricole, à l'exception de la gestion de son propre patrimoine mobilier ou immobilier.
@@ -126,10 +126,6 @@ Loi n° 2009-122 du 4 février  2009 de finances rectificative pour 2009 article
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2009-122 du 4 février 2009 - art. 2
-
 _Cité par_:
 
   - Loi n°2010-1658 du 29 décembre 2010 - art. 58 (V)
@@ -141,12 +137,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1600-0 H (V)
   - Code rural et de la pêche maritime - art. L731-15 (VD)
 
-_Cite_:
+_Modifié par_:
 
-  - Code général des impôts, CGI. - art. 151 nonies
-  - Code général des impôts, CGI. - art. 151 octies
-  - Code général des impôts, CGI. - art. 151 octies A
-  - Code général des impôts, CGI. - art. 39 duodecies
-  - Code général des impôts, CGI. - art. 719
-  - Code général des impôts, CGI. - art. 885 O bis
-  - Code général des impôts, CGI. - art. 93 quater
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
