@@ -12,7 +12,9 @@ leur activité en France exclusivement par l'établissement d'une succursale ou 
 
 2° Les personnes auxquelles s'appliquent des exigences minimales en fonds propres permettant d'assurer le respect des ratios
 de couverture ou du niveau de fonds propres adéquat prévus par les articles L. 511-41, L. 522-14 et L. 533-2 du code
-monétaire et financier, définies au cours de l'exercice clos l'année civile précédente, inférieures à 500 millions d'euros ; 
+monétaire et financier, définies au cours de l'exercice clos l'année civile précédente, inférieures à 500 millions d'euros.
+Le seuil de 500 millions d'euros est apprécié sur la base sociale ou consolidée d'un groupe au sens de l'article L. 511-20 du
+même code retenue pour le calcul de l'assiette définie au II ; 
 
 3° L'Agence française de développement. 
 
@@ -20,9 +22,14 @@ II. ― L'assiette de la taxe de risque systémique est constituée par les exig
 d'assurer le respect des ratios de couverture ou du niveau de fonds propres adéquat prévus par les articles L. 511-41, L.
 522-14 et L. 533-2 du code monétaire et financier, définies au cours de l'exercice clos l'année civile précédente. Les
 exigences minimales en fonds propres sont appréciées sur base consolidée pour les personnes relevant des articles L.
-511-41-2, L. 533-4-1, L. 517-5 et L. 517-9 du même code. Aucune contribution additionnelle sur base sociale n'est versée par
-les personnes mentionnées au I  qui appartiennent à un groupe pour lequel une assiette est calculée sur base consolidée. Les
-autres personnes versent une contribution calculée sur base sociale. 
+511-41-2, L. 533-4-1, L. 517-5 et L. 517-9 du même code appartenant à un groupe au sens de l'article L. 511-20 dudit code.
+Aucune contribution additionnelle sur base sociale n'est versée par les personnes mentionnées au I qui appartiennent à un
+groupe au sens du même article L. 511-20 lorsqu'il s'agit de l'organe central ou des entreprises affiliées à un réseau ou
+d'entreprises sur lesquelles l'entreprise mère exerce, directement ou indirectement, un contrôle exclusif. Une contribution
+est calculée sur base sociale ou sous-consolidée pour les personnes n'appartenant pas à un groupe au sens dudit article L.
+511-20 ou quand l'entreprise mère n'exerce pas un contrôle exclusif sur l'entreprise surveillée sur base sociale ou sous-
+consolidée. Dans ce dernier cas, l'assiette sur base consolidée de l'entreprise mère est diminuée des montants pris en compte
+au titre de l'imposition d'une personne sur base sociale ou sous-consolidée. 
 
 III. ― Le taux de la taxe de risque systémique est fixé à 0,25 %. 
 
@@ -72,12 +79,12 @@ au comptable public compétent, dans un délai d'un mois après réception de l'
 ce courrier, sous réserve, le cas échéant, d'une révision à la baisse du montant du crédit d'impôt mentionné au VI. 
 
 IX. ― A défaut de paiement ou en cas de paiement partiel de la taxe de risque systémique dans le délai de trente jours
-suivant la date limite de paiement, le comptable public compétent émet un titre exécutoire. La taxe est recouvrée selon les
-mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre d'affaires. Les
-réclamations sont présentées, instruites et jugées selon les règles applicables à ces taxes. Toutefois, en cas de révision du
-montant des exigences minimales en fonds propres dans les conditions du VIII, le droit de reprise de l'administration
-s'exerce, pour l'ensemble de la taxe due au titre de l'année concernée, jusqu'à la fin de la troisième année suivant celle au
-cours de laquelle la personne assujettie a reçu l'avis à contribution rectificatif.
+suivant la date limite de paiement, le comptable public compétent émet un titre exécutoire. La taxe est recouvrée et
+contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le
+chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces taxes.
+Toutefois, en cas de révision du montant des exigences minimales en fonds propres dans les conditions du VIII, le droit de
+reprise de l'administration s'exerce, pour l'ensemble de la taxe due au titre de l'année concernée, jusqu'à la fin de la
+troisième année suivant celle au cours de laquelle la personne assujettie a reçu l'avis à contribution rectificatif.
 
 X. ― Le présent article est applicable sur l'ensemble du territoire de la République.
 
@@ -85,7 +92,7 @@ X. ― Le présent article est applicable sur l'ensemble du territoire de la Ré
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 1
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 34 (V)
 
 _Cité par_:
 
@@ -95,15 +102,19 @@ _Cité par_:
   - Loi n°2012-958 du 16 août 2012 - art. 9 (V)
   - Code général des impôts, CGI. - art. 39 (M)
 
+**Liens**:
+
+  - RECTIFICATION: Loi n°2011-1978 du 28 décembre 2011 - art., v. init.
+
 _Cite_:
 
-  - Code monétaire et financier - art. L511-20 (V)
-  - Code monétaire et financier - art. L511-41 (V)
-  - Code monétaire et financier - art. L511-41-2 (V)
-  - Code monétaire et financier - art. L517-5 (V)
-  - Code monétaire et financier - art. L517-9 (V)
-  - Code monétaire et financier - art. L522-14 (V)
-  - Code monétaire et financier - art. L533-2 (V)
-  - Code monétaire et financier - art. L533-4-1 (V)
-  - Code monétaire et financier - art. L612-2 (V)
-  - Code monétaire et financier - art. L612-20 (V)
+  - Code monétaire et financier - art. L511-20
+  - Code monétaire et financier - art. L511-41
+  - Code monétaire et financier - art. L511-41-2
+  - Code monétaire et financier - art. L517-5
+  - Code monétaire et financier - art. L517-9
+  - Code monétaire et financier - art. L522-14
+  - Code monétaire et financier - art. L533-2
+  - Code monétaire et financier - art. L533-4-1
+  - Code monétaire et financier - art. L612-2
+  - Code monétaire et financier - art. L612-20
