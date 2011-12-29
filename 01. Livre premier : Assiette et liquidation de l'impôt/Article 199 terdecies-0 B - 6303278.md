@@ -18,17 +18,18 @@ l'opération de reprise :
 1° Le conjoint de l'acquéreur ou son partenaire lié par un pacte civil de solidarité, ainsi que leurs ascendants et
 descendants ; 
 
-2° Ou, lorsque l'acquéreur est un salarié, les autres salariés de cette même société ;
+2° Ou, lorsque l'acquéreur est un salarié, les autres salariés de cette même société ; 
 
 c) A compter de l'acquisition, l'acquéreur ou l'un des autres associés mentionnés au b exerce effectivement dans la société
 reprise l'une des fonctions énumérées au 1° de l'article 885 O bis et dans les conditions qui y sont prévues ; 
 
-d) La société reprise a son siège social dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à
-l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, et est soumise à l'impôt sur les sociétés
-dans les conditions de droit commun ou y serait soumise dans les mêmes conditions si l'activité était exercée en France ; 
+d) La société reprise a son siège social dans un Etat membre de                                              l'Union
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, et est soumise à l'impôt sur
+les sociétés dans les conditions de droit commun ou y serait soumise dans les mêmes conditions si l'activité était exercée en
+France ; 
 
-e) La société reprise doit être une petite et moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800 / 2008 de la
+e) La société reprise doit être une petite et moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800/2008 de la
 Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
 articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ; 
 
@@ -39,17 +40,17 @@ La condition mentionnée au e s'apprécie à la date à laquelle le seuil de 25 
 
 II.-Les intérêts ouvrant droit à la réduction d'impôt prévue au I sont ceux payés à raison des emprunts contractés à compter
 de la publication de la loi n° 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la limite
-annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables
-mariés soumis à imposition commune. 
+annuelle de 20 000 € pour les contribuables célibataires, veufs ou divorcés et de 40 000 € pour les contribuables mariés
+soumis à imposition commune. 
 
-III. - La réduction d'impôt mentionnée au I ne peut pas concerner des titres figurant dans un plan d'épargne en actions
-défini à l'article 163 quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III de la troisième partie
-du code du travail, ni la fraction des versements effectués au titre de souscriptions ayant  ouvert droit à la réduction
-d'impôt prévue aux I à IV de l'article 199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à
-l'article 885-0 V bis. 
+III.-La réduction d'impôt mentionnée au I ne peut pas concerner des titres figurant dans un plan d'épargne en actions défini
+à l'article 163 quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III de la troisième partie du
+code du travail, ni la fraction des versements effectués au titre de souscriptions ayant ouvert droit à la réduction d'impôt
+prévue aux I à IV de l'article 199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à l'article
+885-0 V bis. 
 
 Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I ne peuvent ouvrir droit aux déductions prévues au 2°
-quinquies et, au titre des frais réels et justifiés, au 3° de l'article 83.
+quinquies et, au titre des frais réels et justifiés, au 3° de l'article 83. 
 
 IV.-Les dispositions du 5 du I de l'article 197 sont applicables aux réductions d'impôt prévues au présent article. 
 
@@ -70,26 +71,17 @@ I.
 
 VI.-En cas de cession des titres, de remboursement des apports ou de non-respect de l'une des conditions mentionnées aux b,
 c, d ou f du I au-delà du 31 décembre de la cinquième année suivant celle de l'acquisition, la réduction d'impôt n'est plus
-applicable à compter du 1er janvier de l'année considérée.
+applicable à compter du 1er janvier de l'année considérée. 
 
-VII. - Un décret fixe les obligations déclaratives incombant aux contribuables et aux sociétés. 
+VII.-Un décret fixe les obligations déclaratives incombant aux contribuables et aux sociétés. 
 
-VIII. - Ces dispositions s'appliquent aux emprunts contractés jusqu'au 31 décembre 2011.
+VIII.-Ces dispositions s'appliquent aux emprunts contractés jusqu'au 31 décembre 2011.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2003-721 du 1 août 2003
-  - Code général des impôts, CGI. - art. 163 quinquies D
-  - Code général des impôts, CGI. - art. 197
-  - Code général des impôts, CGI. - art. 4 B
-  - Code général des impôts, CGI. - art. 885 O bis
-  - Code de la sécurité sociale. - art. L341-4
-
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 38 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 _Cité par_:
 

@@ -25,10 +25,10 @@ Ne présentent pas le caractère d'éléments de l'actif immobilisé ;
 
 Ou ont été pris en concession, sauf si l'entreprise concédant la licence d'exploitation prise en concession est la première
 entreprise bénéficiant à ce titre du régime des plus-values à long terme et si celle-ci apporte la preuve que les opérations
-mentionnées au présent b, d'une part, sont réelles et ne peuvent être regardées comme constitutives d'un montage artificiel
-dont le but serait de contourner la législation fiscale française et, d'autre part, créent une valeur ajoutée du chef de
-cette entreprise sur l'ensemble de la période d'exploitation de la licence concédée. Cette preuve est établie dans le cadre
-d'une documentation présentant l'économie générale de l'exploitation de la licence. Un décret précise les conditions
+mentionnées au présent alinéa, d'une part, sont réelles et ne peuvent être regardées comme constitutives d'un montage
+artificiel dont le but serait de contourner la législation fiscale française et, d'autre part, créent une valeur ajoutée du
+chef de cette entreprise sur l'ensemble de la période d'exploitation de la licence concédée. Cette preuve est établie dans le
+cadre d'une documentation présentant l'économie générale de l'exploitation de la licence. Un décret précise les conditions
 d'établissement de cette documentation ; 
 
 Ou ont été acquis à titre onéreux depuis moins de deux ans. 
@@ -37,7 +37,7 @@ Ou ont été acquis à titre onéreux depuis moins de deux ans.
 concessionnaires). 
 
 1 ter. Les dispositions du 1 ne sont pas applicables aux sommes perçues en exécution d'un contrat de crédit-bail portant sur
-des éléments incorporels d'un fonds de commerce ou d'un fonds artisanal.
+des éléments incorporels d'un fonds de commerce ou d'un fonds artisanal. 
 
 2. Sous réserve des dispositions de l'article 41, les plus-values nettes constatées en cas de décès de l'exploitant sont
 soumises de plein droit au régime fiscal des plus-values à long terme. 
@@ -76,7 +76,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-915 du 1er août 2011 - art. 27
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 11 (V)
 
 _Cité par_:
 

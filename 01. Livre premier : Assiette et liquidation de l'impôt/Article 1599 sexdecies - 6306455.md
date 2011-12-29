@@ -1,6 +1,6 @@
 # Article 1599 sexdecies
 
-I. 1 Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur donnent lieu au
+I. - 1 Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur donnent lieu au
 paiement d'une taxe proportionnelle dont le taux unitaire par cheval-vapeur, arrêté par la région ou la collectivité
 territoriale de Corse, est déterminé chaque année par délibération du conseil régional ou de l'assemblée de Corse.
 
@@ -19,11 +19,15 @@ taxe fixe dont le montant est égal à une fois et demie le taux unitaire visé 
 
 Pour les vélomoteurs, il est perçu une taxe fixe dont le montant est égal à la moitié dudit taux unitaire.
 
-II. Les concessionnaires et les agents de marques de véhicules automobiles sont exonérés des taxes édictées au I pour les
+II. - Les concessionnaires et les agents de marques de véhicules automobiles sont exonérés des taxes édictées au I pour les
 véhicules neufs affectés à la démonstration et dont le poids total en charge n'excède par 3,5 tonnes.
 
-III. Lorsque l'application du tarif prévu au I fait apparaître des décimes, le montant de la taxe exigible est arrondi à
+III. - Lorsque l'application du tarif prévu au I fait apparaître des décimes, le montant de la taxe exigible est arrondi à
 l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
+
+IV. - L'Agence nationale des titres sécurisés transmet chaque semestre, à titre gratuit, aux régions et aux collectivités de
+Corse et d'outre-mer qui en font la demande les données et informations non nominatives relatives aux certificats
+d'immatriculation délivrés au cours de cette période.
 
 **Nota:**
 
@@ -33,7 +37,7 @@ l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 135
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 102
 
 _Cité par_:
 
