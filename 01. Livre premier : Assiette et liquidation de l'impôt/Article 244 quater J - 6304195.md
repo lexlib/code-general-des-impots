@@ -1,15 +1,15 @@
 # Article 244 quater J
 
 I.-Les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire et financier passibles de l'impôt sur les
-sociétés, de l'impôt sur le revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de la Communauté européenne
-ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale
-contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, peuvent bénéficier
-d'un crédit d'impôt au titre d'avances remboursables ne portant pas intérêt consenties à des personnes physiques, soumises à
-des conditions de ressources, pour l'acquisition ou la construction d'une résidence principale en accession à la première
-propriété et versées au cours de l'année d'imposition ou de l'exercice. 
+sociétés, de l'impôt sur le revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de l'Union européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales, peuvent bénéficier d'un crédit d'impôt au titre
+d'avances remboursables ne portant pas intérêt consenties à des personnes physiques, soumises à des conditions de ressources,
+pour l'acquisition ou la construction d'une résidence principale en accession à la première propriété et versées au cours de
+l'année d'imposition ou de l'exercice. 
 
 Le montant de l'avance remboursable sans intérêt peut, le cas échéant, financer l'ensemble des travaux prévus par le
-bénéficiaire de cette avance lors de l'acquisition de cette résidence.  
+bénéficiaire de cette avance lors de l'acquisition de cette résidence. 
 
 Remplissent la condition de première propriété mentionnée au premier alinéa les personnes physiques bénéficiaires de l'avance
 remboursable sans intérêt n'ayant pas été propriétaires de leur résidence principale au cours des deux dernières années
@@ -25,7 +25,7 @@ b) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de l
 allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-8 ou L. 541-1 à L. 541-3 du même code ; 
 
 c) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal est victime d'une
-catastrophe ayant conduit à rendre inhabitable de manière définitive sa résidence principale.
+catastrophe ayant conduit à rendre inhabitable de manière définitive sa résidence principale. 
 
 L'attribution de ces avances remboursables est fonction de l'ensemble des ressources et du nombre des personnes destinées à
 occuper à titre principal la résidence des bénéficiaires desdites avances, de la localisation et du caractère neuf ou ancien
@@ -45,19 +45,19 @@ pour la détermination du montant total des ressources, des personnes qui ne son
 bien immobilier, le ou les revenus fiscaux de référence, au sens du 1° du IV de l'article 1417, concernés sont corrigés afin
 de ne tenir compte que des personnes mentionnées au huitième alinéa, le cas échéant de manière forfaitaire. 
 
-Le montant total des ressources à prendre en compte ne doit pas excéder 64 875 euros. 
+Le montant total des ressources à prendre en compte ne doit pas excéder 64 875 €. 
 
-Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros. 
+Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 €. 
 
 Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans les zones franches urbaines mentionnées à
 l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. 
 
-Jusqu'au 31 décembre 2010, le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant de 15 000 Euros
-pour les opérations d'accession sociale à la propriété portant sur la construction ou l'acquisition de logements neufs et
-donnant lieu à une aide à l'accession sociale à la propriété attribuée par une ou plusieurs collectivités territoriales ou
-par un groupement de collectivités territoriales du lieu d'implantation du logement, dans les conditions prévues à l'article
-L. 312-2-1 du code de la construction et de l'habitation. Les ressources des ménages bénéficiaires de cette majoration
-doivent être inférieures ou égales aux plafonds de ressources permettant l'accès aux logements locatifs sociaux visés au I de
+Jusqu'au 31 décembre 2010, le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant de 15 000 € pour
+les opérations d'accession sociale à la propriété portant sur la construction ou l'acquisition de logements neufs et donnant
+lieu à une aide à l'accession sociale à la propriété attribuée par une ou plusieurs collectivités territoriales ou par un
+groupement de collectivités territoriales du lieu d'implantation du logement, dans les conditions prévues à l'article L.
+312-2-1 du code de la construction et de l'habitation. Les ressources des ménages bénéficiaires de cette majoration doivent
+être inférieures ou égales aux plafonds de ressources permettant l'accès aux logements locatifs sociaux visés au I de
 l'article R. 331-1 du même code. 
 
 Le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant de 20 000 € pour les opérations portant sur
@@ -91,7 +91,7 @@ chargé du logement.
 IV.-Une convention conclue entre l'établissement de crédit mentionné au I et l'organisme chargé de gérer le Fonds de garantie
 de l'accession sociale à la propriété mentionné à l'article L. 312-1 du code de la construction et de l'habitation définit
 les modalités de déclaration par l'établissement de crédit des avances remboursables, le contrôle de l'éligibilité des
-avances remboursables et le suivi des crédits d'impôt.
+avances remboursables et le suivi des crédits d'impôt. 
 
 V.-L'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la propriété mentionné au IV est tenu de fournir
 à l'administration fiscale dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit les
@@ -174,4 +174,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (M)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)

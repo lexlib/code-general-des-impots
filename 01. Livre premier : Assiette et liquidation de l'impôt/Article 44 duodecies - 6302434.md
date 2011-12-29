@@ -1,6 +1,6 @@
 # Article 44 duodecies
 
-I.-Les contribuables qui créent des activités entre le 1er janvier 2007 et le 31 décembre 2011 dans les bassins d'emploi à
+I.-Les contribuables qui créent des activités entre le 1er janvier 2007 et le 31 décembre 2013 dans les bassins d'emploi à
 redynamiser définis au 3 bis de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant
 des activités implantées dans le bassin d'emploi et réalisés jusqu'au terme du quatre-vingt-troisième mois suivant le début
@@ -83,20 +83,20 @@ V.-(disjoint)
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
-  - Code général des impôts, CGI. - art. 102 ter (V)
-  - Code général des impôts, CGI. - art. 103 (V)
-  - Code général des impôts, CGI. - art. 1467 (V)
-  - Code général des impôts, CGI. - art. 223 A (V)
-  - Code général des impôts, CGI. - art. 34 (V)
-  - Code général des impôts, CGI. - art. 44 octies A (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
-  - Code général des impôts, CGI. - art. 50-0 (V)
-  - Code général des impôts, CGI. - art. 53 A (V)
-  - Code général des impôts, CGI. - art. 63 (V)
-  - Code général des impôts, CGI. - art. 92 (V)
-  - Code général des impôts, CGI. - art. 96 (V)
-  - Code monétaire et financier - art. L511-1 (V)
+  - Loi n°95-115 du 4 février 1995 - art. 42
+  - Code général des impôts, CGI. - art. 102 ter
+  - Code général des impôts, CGI. - art. 103
+  - Code général des impôts, CGI. - art. 1467
+  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 34
+  - Code général des impôts, CGI. - art. 44 octies A
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 53 A
+  - Code général des impôts, CGI. - art. 63
+  - Code général des impôts, CGI. - art. 92
+  - Code général des impôts, CGI. - art. 96
+  - Code monétaire et financier - art. L511-1
 
 _Cité par_:
 
@@ -119,4 +119,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 154

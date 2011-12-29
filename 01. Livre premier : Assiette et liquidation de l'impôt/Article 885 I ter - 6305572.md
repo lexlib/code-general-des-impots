@@ -11,9 +11,9 @@ a. La société exerce exclusivement une activité industrielle, commerciale, ar
 des activités de gestion de patrimoine mobilier définie à l'article 885 O quater, et notamment celles des organismes de
 placement en valeurs mobilières, et des activités de gestion ou de location d'immeubles ; 
 
-b. La société a son siège de direction effective dans un État membre de la Communauté européenne ou dans un autre Etat partie
-à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale. 
+b. La société a son siège de direction effective dans un État membre de                                              l'Union
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales. 
 
 2. L'exonération s'applique également aux titres reçus par le redevable en contrepartie de sa souscription en numéraire au
 capital d'une société satisfaisant aux conditions suivantes : 
@@ -55,11 +55,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-915 du 1er août 2011 - art. 27
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 885-0 V bis
-  - Code monétaire et financier - art. L214-28
-  - Code monétaire et financier - art. L214-30
-  - Code monétaire et financier - art. L214-38
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
