@@ -18,8 +18,8 @@ même exercice si elle avait été imposée séparément.
 2. Pour l'application du 1, les résultats imposables correspondent aux résultats déterminés avant application des règles de
 déduction des déficits mentionnées au dernier alinéa du I de l'article 209 et à l'article 220 quinquies. 
 
-III. ― Le taux de la taxe, compris entre 5 % et 20 %, est fixé par arrêté conjoint des ministres chargés respectivement des
-transports, de l'économie et du budget. Le montant de la taxe est plafonné à 75 millions d'euros. 
+III. ― Le taux de la taxe, compris entre 15 % et 35 %, est fixé par arrêté conjoint des ministres chargés respectivement des
+transports, de l'économie et du budget. Le montant de la taxe est plafonné à 155 millions d'euros. 
 
 IV. ― La taxe est déclarée et liquidée dans les six mois de son exigibilité sur une déclaration dont le modèle est fixé par
 l'administration. Elle est acquittée lors du dépôt de cette déclaration.
@@ -29,21 +29,25 @@ sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugé
 
 **Liens relatifs à cet article**
 
+_Créé par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 65 (V)
+
 _Cité par_:
 
   - Loi n°2010-1657 du 29 décembre 2010 - art. 65 (V)
   - Loi n°2014-1655 du 29 décembre 2014 - art. 4
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 M bis (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 65 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 50
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 209 (V)
-  - Code général des impôts, CGI. - art. 219 (V)
-  - Code général des impôts, CGI. - art. 220 quinquies (V)
-  - Code général des impôts, CGI. - art. 223 A (V)
-  - Code général des impôts, CGI. - art. 302 bis ZC (V)
-  - Code des transports - art. L2122-9 (V)
+  - Code général des impôts, CGI. - art. 209
+  - Code général des impôts, CGI. - art. 219
+  - Code général des impôts, CGI. - art. 220 quinquies
+  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 302 bis ZC
+  - Code des transports - art. L2122-9
