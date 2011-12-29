@@ -2,7 +2,7 @@
 
 I.-1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au
 titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant,
-réalisés jusqu'au 31 décembre 2011 et exploités en Corse pour les besoins d'une activité industrielle, commerciale,
+réalisés jusqu'au 31 décembre 2016 (1) et exploités en Corse pour les besoins d'une activité industrielle, commerciale,
 artisanale, libérale ou agricole autre que : 
 
 a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas exclusivement sur des biens situés en Corse,
@@ -31,7 +31,7 @@ composition du capital doit être remplie par la société mère du groupe.
 
 2° (abrogé). 
 
-3° Le crédit d'impôt prévu au 1° est égal à 20 % du prix de revient hors taxes : 
+3° Le crédit d'impôt prévu au 1° est égal à 10 % (2) du prix de revient hors taxes : 
 
 a. Des biens d'équipement amortissables selon le mode dégressif en vertu des 1 et 2 de l'article 39 A et des agencements et
 installations de locaux commerciaux habituellement ouverts à la clientèle créés ou acquis à l'état neuf ; 
@@ -88,6 +88,14 @@ V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect 
 Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
 articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
 
+**Nota:**
+
+(1) Loi n° 2011-1978 du 28 décembre 2011, art. 39-III : Ces dispositions s'appliquent aux crédits d'impôt calculés au titre
+des investissements réalisés à compter du 1er janvier 2012.
+
+(2) Loi n° 2011-1978 du 28 décembre 2011, art. 39-III : Ces dispositions s'appliquent aux crédits d'impôt calculés au titre
+des investissements réalisés à compter du 1er janvier 2015.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -96,18 +104,18 @@ _Cite_:
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 1649 nonies
-  - Code général des impôts, CGI. - art. 208 sexies (V)
+  - Code général des impôts, CGI. - art. 208 sexies
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 39 A
   - Code général des impôts, CGI. - art. 41
-  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 39 (M)
 
 _Cité par_:
 
