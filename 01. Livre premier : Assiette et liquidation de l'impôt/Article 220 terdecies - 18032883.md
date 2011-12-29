@@ -20,10 +20,10 @@ III.-1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent 
 2° Etre destinés à une commercialisation effective auprès du public ; 
 
 3° Etre réalisés principalement avec le concours d'auteurs et de collaborateurs de création qui sont, soit de nationalité
-française, soit ressortissants d'un autre Etat membre de la Communauté européenne, ou d'un autre Etat partie à l'accord sur
-l'Espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance
-administrative en vue de lutter contre la fraude ou l'évasion fiscale. Les étrangers, autres que les ressortissants européens
-précités, ayant la qualité de résidents français sont assimilés aux citoyens français ; 
+française, soit ressortissants d'un autre Etat membre de l'Union européenne, ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre
+la fraude et l'évasion fiscales. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de
+résidents français sont assimilés aux citoyens français ; 
 
 4° Contribuer au développement de la création française et européenne en matière de jeux vidéo ainsi qu'à sa diversité en se
 distinguant notamment par la qualité, l'originalité ou le caractère innovant du concept et le niveau des dépenses
@@ -36,10 +36,10 @@ fixé par décret.
 très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs. 
 
 IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du
-montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de la
-Communauté européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale,
-dès lors qu'elles entrent dans la détermination du résultat imposable : 
+montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de
+l'Union européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent
+dans la détermination du résultat imposable : 
 
 1° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf et affectées directement à la
 création du jeu vidéo dans les conditions prévues au III. Les dotations aux amortissements des immeubles ne sont pas retenues
@@ -63,7 +63,7 @@ par exercice.
 
 2.-Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt à compter de la date de réception par le
 président du Centre national du cinéma et de l'image animée d'une demande d'agrément provisoire. Cet agrément est délivré
-après sélection par un comité d'experts chargé de vérifier que le jeu vidéo remplit les conditions prévues au III.
+après sélection par un comité d'experts chargé de vérifier que le jeu vidéo remplit les conditions prévues au III. 
 
 V.-Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au bénéfice du crédit d'impôt
 sont déduites des bases de calcul de ce crédit d'impôt. 
@@ -74,10 +74,6 @@ durée de l'exercice.
 
 VII.-Les conditions d'application du présent article, notamment celles relatives à la délivrance de l'agrément provisoire et
 aux obligations déclaratives incombant aux entreprises, sont fixées par décret.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3, 2e alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.
 
 **Liens relatifs à cet article**
 
@@ -120,12 +116,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L113-1 (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 _Anciens textes_:
 

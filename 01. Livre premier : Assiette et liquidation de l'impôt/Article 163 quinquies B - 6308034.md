@@ -12,10 +12,10 @@ II. L'exonération est subordonnée aux conditions suivantes :
 
 1° Outre les conditions prévues aux articles L. 214-28 et L. 214-38 du code monétaire et financier, les titres pris en
 compte, directement dans le quota d'investissement de 50 % doivent ête émis par des sociétés ayant leur siège dans un Etat
-membre de la Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
-avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude
-ou l'évasion fiscale, qui exercent une activité mentionnée à l'article 34 et qui sont soumises à l'impôt sur les sociétés
-dans les conditions de droit commun ou y seraient soumises dans les mêmes conditions si l'activité était exercée en France ; 
+membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la
+France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, qui exercent une
+activité mentionnée à l'article 34 et qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou y
+seraient soumises dans les mêmes conditions si l'activité était exercée en France ; 
 
 1° bis (abrogé) ; 
 
@@ -45,7 +45,7 @@ mentionnées au premier alinéa du 1° quater, de l'actif de l'entité concerné
 prévues au 1°. Les modalités de détermination de cette proportion sont fixées par décret en Conseil d'Etat ; 
 
 2° Les sommes ou valeurs réparties doivent être immédiatement réinvesties dans le fonds et demeurer indisponibles pendant la
-période visée au I, premier alinéa ; 
+période visée au premier alinéa du I ; 
 
 3° Le porteur de parts, son conjoint et leurs ascendants et descendants ne doivent pas détenir ensemble directement ou
 indirectement plus de 25 % des droits dans les bénéfices de sociétés dont les titres figurent à l'actif du fonds ou avoir
@@ -104,10 +104,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-915 du 1er août 2011 - art. 27
-
-_Cite_:
-
-  - Code monétaire et financier - art. L214-28
-  - Code monétaire et financier - art. L214-30
-  - Code de la sécurité sociale. - art. L341-4
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
