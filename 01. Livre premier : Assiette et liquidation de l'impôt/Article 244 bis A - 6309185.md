@@ -15,12 +15,12 @@ ces Etats sont exonérés de ce prélèvement dans les conditions prévues à l'
 
 Par dérogation au premier alinéa, les personnes physiques, les associés personnes physiques de sociétés ou groupements dont
 les bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement
-immobilier mentionnés à l'article 239 nonies, résidents d'un Etat membre de la Communauté européenne ou d'un autre Etat
-partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, sont soumis au prélèvement selon le taux
-fixé au premier alinéa de l'article 200 B. Par dérogation aux premier et présent alinéas, le taux est porté à 50 % lorsque
-les plus-values sont réalisées par ces mêmes personnes ou organismes lorsqu'ils sont domiciliés, établis ou constitués hors
-de France dans un Etat ou territoire non coopératif au sens de l'article 238-0 A. 
+immobilier mentionnés à l'article 239 nonies, résidents d'un Etat membre de l'Union européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales, sont soumis au prélèvement selon le taux fixé au premier alinéa de l'article
+200 B. Par dérogation aux premier et présent alinéas, le taux est porté à 50 % lorsque les plus-values sont réalisées par ces
+mêmes personnes ou organismes lorsqu'ils sont domiciliés, établis ou constitués hors de France dans un Etat ou territoire non
+coopératif au sens de l'article 238-0 A. 
 
 2. Sont soumis au prélèvement mentionné au 1 : 
 
@@ -72,11 +72,11 @@ clôture du ou des seuls exercices clos ou, à défaut, à la date de la cession
 II.-Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values
 sont déterminées selon les modalités définies : 
 
-1° Au I et aux 2° à 8° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ; 
+1° Au I et aux 2° à 9° du II de l'article 150 U (1), aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ; 
 
-2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de la Communauté européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui
-contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale. 
+2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de l'Union européenne ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales. 
 
 Lorsque la plus-value est exonérée en application du 6° du II de l'article 150 U ou par l'application de l'abattement prévu
 au I de l'article 150 VC, aucune déclaration ne doit être déposée, sauf dans le cas où le prélèvement afférent à la plus-
@@ -91,10 +91,10 @@ d'acquisition, diminué pour les immeubles bâtis d'une somme égale à 2 % de s
 
 Par dérogation au premier alinéa du I et au premier alinéa du présent III, le prélèvement dû par des personnes morales
 résidentes d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant
-conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la
-fraude et l'évasion fiscales et n'étant pas non coopératif au sens de l'article 238-0 A est déterminé selon les règles
-d'assiette et de taux prévues en matière d'impôt sur les sociétés dans les mêmes conditions que celles applicables à la date
-de la cession aux personnes morales résidentes de France. 
+conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et
+n'étant pas non coopératif au sens de l'article 238-0 A est déterminé selon les règles d'assiette et de taux prévues en
+matière d'impôt sur les sociétés dans les mêmes conditions que celles applicables à la date de la cession aux personnes
+morales résidentes de France. 
 
 IV.-L'impôt dû en application du présent article est acquitté lors de l'enregistrement de l'acte ou, à défaut
 d'enregistrement, dans le mois suivant la cession, sous la responsabilité d'un représentant désigné comme en matière de taxes
@@ -119,11 +119,18 @@ Etat de l'Union européenne ou d'un Etat ou territoire ayant conclu avec la Fran
 clause d'assistance administrative en matière d'échange de renseignements et de lutte contre la fraude et l'évasion fiscales
 et n'étant pas non coopératif au sens de l'article 238-0 A.
 
+**Nota:**
+
+(1) Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 article 42 II : le changement de référence aux
+2° à 9° du II l'article 150 U mentionnée au 1° du II du présent article s'applique aux cessions à titre onéreux réalisées du
+1er janvier 2012 au 31 décembre 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-1117 du 19 septembre 2011 - art. 1er (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 42 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 _Cité par_:
 
@@ -149,13 +156,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 131 sexies
-  - Code général des impôts, CGI. - art. 150 U
-  - Code général des impôts, CGI. - art. 150 UB
-  - Code général des impôts, CGI. - art. 150 UC
-  - Code général des impôts, CGI. - art. 150 V
-  - Code général des impôts, CGI. - art. 164 B
-  - Code général des impôts, CGI. - art. 219
-  - Code général des impôts, CGI. - art. 238-0 A
-  - Code général des impôts, CGI. - art. 4 B
-  - Code général des impôts, CGI. - art. 8
+  - Code général des impôts, CGI. - art. 131 sexies (V)
+  - Code général des impôts, CGI. - art. 150 U (V)
+  - Code général des impôts, CGI. - art. 150 UB (V)
+  - Code général des impôts, CGI. - art. 150 UC (V)
+  - Code général des impôts, CGI. - art. 150 V (V)
+  - Code général des impôts, CGI. - art. 150 VC (V)
+  - Code général des impôts, CGI. - art. 164 B (V)
+  - Code général des impôts, CGI. - art. 208 (V)
+  - Code général des impôts, CGI. - art. 208 C (V)
+  - Code général des impôts, CGI. - art. 219 (V)
+  - Code général des impôts, CGI. - art. 238-0 A (V)
+  - Code général des impôts, CGI. - art. 4 B (V)
+  - Code monétaire et financier - art. L214-141 (V)
