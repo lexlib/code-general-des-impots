@@ -5,7 +5,7 @@ desquelles au moins 40 % de leurs recettes proviennent d'activités mentionnées
 biologique conformément aux règles fixées dans le règlement (CE) n° 834/2007 du Conseil, du 28 juin 2007, relatif à la
 production biologique et à l'étiquetage de produits biologiques et abrogeant le règlement (CEE) n° 2092/91. 
 
-II. ― 1. Le montant du crédit d'impôt mentionné au I s'élève à 2 000 €. 
+II. ― 1. Le montant du crédit d'impôt mentionné au I s'élève à 2 500 €.
 
 2. Les entreprises qui bénéficient d'une aide à la conversion à l'agriculture biologique ou d'une aide au maintien de
 l'agriculture biologique en application du règlement (CE) n° 1698/2005 du Conseil, du 20 septembre 2005, concernant le
@@ -16,7 +16,7 @@ communes pour les régimes de soutien direct en faveur des agriculteurs dans le 
 247/2006 et (CE) n° 378/2007, et abrogeant le règlement (CE) n° 1782/2003, peuvent bénéficier du crédit d'impôt prévu au I
 lorsque le montant résultant de la somme de ces aides et mesures de soutien et de ce crédit d'impôt n'excède pas 4 000 € au
 titre de chacune des années mentionnées au même I. Le montant du crédit d'impôt mentionné audit I est alors, le cas échéant,
-diminué à concurrence du montant de ces aides et mesures de soutien excédant 2 000 €. 
+diminué à concurrence du montant de ces aides et mesures de soutien excédant 1 500 €.
 
 3. Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en commun, les montants mentionnés aux 1 et 2
 sont multipliés par le nombre d'associés, sans que le montant du crédit d'impôt ainsi obtenu puisse excéder trois fois le
@@ -36,7 +36,7 @@ production de produits agricoles.
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 1
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 33
 
 _Cite_:
 
