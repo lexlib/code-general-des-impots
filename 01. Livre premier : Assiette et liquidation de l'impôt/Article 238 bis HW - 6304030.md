@@ -27,26 +27,22 @@ puissance ne peut être inférieur à 8 000 heures, hors arrêts exceptionnels e
 c. Les consommations d'électricité de cette entreprise donnent lieu au paiement de la contribution aux charges du service
 public de l'électricité prévue à l'article 5 de la loi n° 2000-108 du 10 février 2000 précitée. 
 
-Les actions souscrites doivent revêtir la forme nominative. Une même personne ne peut détenir, directement ou indirectement,
-plus de 25 % du capital de la société. Le montant du capital agréé est limité à 600 000 euros.
-
-**Nota:**
-
-LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 89 III : Le présent article s'applique aux
-agréments délivrés à compter du 1er janvier  2009.
+Les actions souscrites doivent revêtir la forme nominative. Le montant du capital agréé est limité à 600 000  €.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2000-108 du 10 février 2000 - art. 22
+  - Loi n°2000-108 du 10 février 2000 - art. 22 (VT)
   - Loi n°2000-108 du 10 février 2000 - art. 5
+  - Code général des impôts, CGI. - art. 1586 ter (V)
   - Code général des impôts, CGI. - art. 1647 B sexies
   - Code général des impôts, CGI. - art. 238 bis HV
 
 _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 63
 
 _Cité par_:
 
