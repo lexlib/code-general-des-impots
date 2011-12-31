@@ -8,14 +8,14 @@ membre de son foyer fiscal, qui en font leur habitation principale, et qui sont 
 a. Aux dépenses d'installation ou de remplacement d'équipements spécialement conçus pour les personnes âgées ou
 handicapées : 
 
-1° Payés entre le 1er janvier 2005 et le 31 décembre 2011 dans le cadre de travaux réalisés dans un logement achevé ; 
+1° Payés entre le 1er janvier 2005 et le 31 décembre 2014 dans le cadre de travaux réalisés dans un logement achevé ; 
 
-2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31 décembre 2011 ; 
+2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31 décembre 2014 ; 
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er
-janvier 2005 et le 31 décembre 2011 ; 
+janvier 2005 et le 31 décembre 2014 ; 
 
-b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2011 pour la réalisation de travaux prescrits aux
+b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2014 pour la réalisation de travaux prescrits aux
 propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement ; 
 
 c. Aux dépenses afférentes à un immeuble collectif achevé depuis plus de deux ans, payées entre le 1er janvier 2005 et le 31
@@ -30,10 +30,13 @@ contribuable ou, dans les cas prévus aux 2° et 3° du a du 1, au titre de l'an
 acquisition si elle est postérieure. 
 
 4. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période
-de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2011, la somme de 5 000 euros pour une
-personne célibataire, veuve ou divorcée et de 10 000 euros pour un couple marié soumis à imposition commune. Cette somme est
-majorée de 400 euros par personne à charge au sens des articles 196 à 196 B. La somme de 400 Euros est divisée par deux
-lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents. 
+de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2014, la somme de 5 000 € pour une personne
+célibataire, veuve ou divorcée et de 10 000 € pour un couple marié soumis à imposition commune. Cette somme est majorée de
+400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un
+enfant réputé à charge égale de l'un et l'autre de ses parents.
+
+Au titre des dépenses mentionnées au b du 1, la somme mentionnée au premier alinéa du présent 4 est majorée de 5 000 € pour
+une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple soumis à imposition commune (1). 
 
 5. Le crédit d'impôt est égal à : 
 
@@ -62,11 +65,16 @@ crédit d'impôt obtenu, d'une reprise égale à 15 % ou 25 % de la somme rembou
 appliqué. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
 dépenses ont été payées.
 
+**Nota:**
+
+(1) LOI n° 2011-1977 du 28 décembre 2011 art 82 II : dispositions applicables aux dépenses payées à compter du 1er janvier
+2012.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 99
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 82 (V)
 
 _Cité par_:
 
@@ -79,7 +87,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 196 (V)
-  - Code général des impôts, CGI. - art. 199 quater B (V)
-  - Code général des impôts, CGI. - art. 289 (V)
-  - Code de l'environnement - art. L515-16 (V)
+  - Code général des impôts, CGI. - art. 196
+  - Code général des impôts, CGI. - art. 199 quater B
+  - Code général des impôts, CGI. - art. 289
+  - Code de l'environnement - art. L515-16
