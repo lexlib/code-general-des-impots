@@ -36,8 +36,8 @@ TARIFS
 Métro 
 
 </td>
-      <td align="center">
-    </td></tr>
+      <td align="center"> </td>
+    </tr>
     <tr>
       <td align="center">
 
@@ -56,8 +56,8 @@ Motrice et remorque
 Autre matériel 
 
 </td>
-      <td align="center">
-    </td></tr>
+      <td align="center"> </td>
+    </tr>
     <tr>
       <td align="center">
 
@@ -102,8 +102,9 @@ nombre de matériels roulants par catégorie.
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de
 cotisation foncière des entreprises .
 
-V.-La composante de l'imposition forfaitaire sur les entreprises de réseaux prévue au présent article est affectée au budget
-de l'établissement public " Société du Grand Paris " créé par la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
+V.-La composante de l'imposition forfaitaire sur les entreprises de réseaux prévue au présent article est affectée, dans la
+limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au budget de
+l'établissement public " Société du Grand Paris " créé par la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
 Toutefois, si le décret fixant les attributions et les modalités de fonctionnement du conseil de surveillance et du
 directoire de cet établissement public n'est pas publié avant l'expiration d'un délai de quatre mois à compter de la date
 limite de dépôt de la déclaration prévue au IV, cette composante est affectée à l'Agence de financement des infrastructures
@@ -140,4 +141,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
