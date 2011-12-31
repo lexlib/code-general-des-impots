@@ -22,12 +22,6 @@ Elle est constatée, liquidée, recouvrée et contrôlée selon les mêmes proc�
 sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les
 règles applicables à cette même taxe.
 
-Le produit de la taxe est affecté au Centre national du cinéma et de l'image animée.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3, 1er alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -52,7 +46,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
 
 _Anciens textes_:
 

@@ -11,15 +11,15 @@ produits agricoles ;
 
 c) Des exportations de produits agricoles.
 
-I bis. - Le taux du remboursement forfaitaire est fixé pour les ventes faites à compter du 1er janvier 1993 :
+I bis. - Le taux du remboursement forfaitaire est fixé pour les ventes faites à compter du 1er janvier 2012 :
 
-1° A 4 % pour le lait, les animaux de basse-cour, les oeufs, les animaux de boucherie et de charcuterie définis par décret,
-ainsi que les céréales, les graines oléagineuses et les protéagineux mentionnés  à l'annexe I du règlement (CE) n° 73/2009 du
-Conseil du 19 janvier 2009.
+1° A 4,63 % pour le lait, les animaux de basse-cour, les oeufs, les animaux de boucherie et de charcuterie définis par
+décret, ainsi que les céréales, les graines oléagineuses et les protéagineux mentionnés à l'annexe I du règlement (CE) n°
+73/2009 du Conseil du 19 janvier 2009.
 
-2° A 3, 05 % pour les autres produits.
+2° A 3,68 % pour les autres produits.
 
-I ter. -1. Périmé
+I ter. - 1. Périmé
 
 2. (Abrogé à compter du 1er janvier 1993) ;
 
@@ -39,11 +39,16 @@ la production agricole, par décret (3) pris après avis des organisations profe
 
 (3) Voir Annexe III, art. 98 bis.
 
+**Nota:**
+
+LOI n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 13 III : les dispositions du présent article
+s'appliquent aux opérations pour lesquelles la taxe sur la valeur ajoutée est exigible à compter du 1er janvier 2012.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 14
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 13 (V)
 
 _Cité par_:
 
