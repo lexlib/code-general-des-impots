@@ -52,22 +52,22 @@ concession de service public local à caractère industriel et commercial réali
 soient la nature des biens et leur affectation finale. La réduction d'impôt prévue au premier alinéa ne s'applique pas aux
 investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil. 
 
-La réduction d'impôt est de 45 % du montant, hors taxes et hors frais de toute nature, notamment les commissions
+La réduction d'impôt est de 38,25 % du montant, hors taxes et hors frais de toute nature, notamment les commissions
 d'acquisition, à l'exception des frais de transport, d'installation et de mise en service amortissables, des investissements
 productifs, diminué de la fraction de leur prix de revient financée par une subvention publique. Les projets d'investissement
 comportant l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable sont pris en
 compte dans la limite d'un montant par watt installé fixé par arrêté conjoint des ministres chargés du budget, de l'outre-mer
 et de l'énergie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation
-directement liés à ces équipements. Le taux de la réduction d'impôt est porté à 54 % pour les investissements réalisés en
+directement liés à ces équipements. Le taux de la réduction d'impôt est porté à 45,9 % pour les investissements réalisés en
 Guyane dans les limites définies par les règles communautaires relatives aux aides d'Etat, à Mayotte, à Saint-Pierre-et-
-Miquelon ou à Wallis-et-Futuna. Les taux de 45 % et 54 % susmentionnés sont respectivement portés à 54 % et 63 % pour les
-investissements réalisés dans le secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt est porté à
-54 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés
-réalisés en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, à
-Mayotte, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. 
+Miquelon ou à Wallis-et-Futuna. Les taux de 38,25 % et 45,9 % susmentionnés sont respectivement portés à 45,9 % et 53,55 %
+pour les investissements réalisés dans le secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt
+est porté à 45,9 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de
+vacances classés réalisés en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques
+françaises, à Mayotte, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. 
 
-Le taux de la réduction d'impôt est porté à 63 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de
-tourisme et de village de vacances classés dans les départements d'outre-mer. Le bénéfice de cette mesure est accordé à
+Le taux de la réduction d'impôt est porté à 53,55 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence
+de tourisme et de village de vacances classés dans les départements d'outre-mer. Le bénéfice de cette mesure est accordé à
 l'exploitant lorsqu'il prend en charge ces travaux. 
 
 Les dispositions du premier alinéa s'appliquent aux investissements réalisés par une société soumise au régime d'imposition
@@ -156,8 +156,8 @@ location au profit d'une entreprise située dans les départements ou collectivi
 
 Les associés personnes physiques mentionnés au vingt-septième alinéa ne peuvent bénéficier, pour la souscription au capital
 de la société mentionnée au même alinéa, des réductions d'impôt prévues aux articles 199 undecies A, 199 terdecies-0 A et
-885-0 V bis et la société mentionnée au vingt-septième alinéa ne peut bénéficier des dispositions prévues aux articles 217
-bis et 217 undecies. 
+885-0 V bis et la société mentionnée au vingt-septième alinéa ne peut bénéficier des dispositions prévues à l'article 217
+undecies. 
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par les contribuables mentionnés au vingt-
 septième alinéa lors de la cession des titres des sociétés mentionnées à ce même alinéa. Le 2° du 3 de l'article 158 ne
@@ -169,16 +169,16 @@ l'engagement d'utiliser effectivement pendant sept ans au moins ces investisseme
 ils ont été acquis ou créés. 
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
-neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 62,5 %, les taux de 45
-% et 54 % mentionnés au dix-septième alinéa sont respectivement portés à 48 % et 57,6 % et les taux de 54 % et 63 %
-mentionnés à la cinquième phrase du même alinéa sont respectivement portés à 57,6 % et 67,2 %. Dans les mêmes conditions, le
-taux de 63 % mentionné au dix-huitième alinéa est porté à 67,2 %. 
+neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 62,5 %, les taux de
+38,25 % et 45,9 % mentionnés au dix-septième alinéa sont, respectivement, portés à 45,3 % et 54,36 % et les taux de 45,9 % et
+53,55 % mentionnés à la cinquième phrase du même alinéa sont, respectivement, portés à 54,36 % et 63,42 %. Dans les mêmes
+conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 63,42 %.
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
 neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 52,63 %, les taux de
-45 % et 54 % mentionnés au dix-septième alinéa sont respectivement portés à 47,5 % et 57 % et les taux de 54 % et 63 %
-mentionnés à la cinquième phrase du même alinéa sont respectivement portés à 57 % et 66,5 %. Dans les mêmes conditions, le
-taux de 63 % mentionné au dix-huitième alinéa est porté à 66,5 %. 
+38,25 % et 45,9 % mentionnés au dix-septième alinéa sont, respectivement, portés à 44,12 % et 52,95 % et les taux de 45,9 %
+et 53,55 % mentionnés à la cinquième phrase du même alinéa sont, respectivement, portés à 52,95 % et 61,77 %. Dans les mêmes
+conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 61,77 %.
 
 I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième alinéa du I, d'un hôtel, d'une résidence de
 tourisme ou d'un village de vacances classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant droit
@@ -259,37 +259,17 @@ notamment les obligations déclaratives.
 
 **Nota:**
 
-Loi n° 2010-1657 du 29 décembre 2010 article 36 VI : Les présentes dispositions s'appliquent à compter du 29 septembre 2010.
-Toutefois, la réduction ou la déduction d'impôt restent applicables, dans les conditions prévues par les dispositions
-antérieures à la présente loi :
-
-a) Lorsque le bénéfice de la réduction ou de la déduction d'impôt n'est pas subordonné à l'agrément préalable du ministre
-chargé du budget prévu aux II de l'article 199 undecies B et II quater de l'article 217 undecies du code général des impôts,
-d'une part, aux investissements pour l'acquisition desquels le bénéficiaire de la réduction ou de la déduction a accepté un
-devis et versé un acompte avant le 29 septembre 2010 et, d'autre part, à ceux réalisés par les sociétés et groupements
-mentionnés aux dix-neuvième et vingt-septième alinéas du I de l'article 199 undecies B et à l'avant-dernière phrase du
-premier alinéa du I et au II de l'article 217 undecies, lorsque la réduction d'impôt ou la déduction à laquelle ils auraient
-ouvert droit en application de ces mêmes articles a été obtenue à raison d'acquisitions ou de souscriptions de parts faites
-avant le 29 septembre 2010 ;
-
-b) Lorsque le bénéfice de la réduction ou de la déduction d'impôt est subordonné à l'agrément préalable du ministre chargé du
-budget prévu aux II de l'article 199 undecies B et II quater de l'article 217 undecies du code général des impôts, d'une
-part, aux investissements agréés avant le 29 septembre 2010, sous réserve du respect de la date de mise en production des
-installations prévue dans l'agrément, et, d'autre part, à ceux pour l'acquisition desquels l'exploitant a accepté un devis et
-versé un acompte, sous réserve qu'ils produisent de l'électricité au plus tard le 31 mars 2011.
-
-Loi n° 2010-1657 du 29 décembre 2010 art. 98 II : Ces dispositions sont applicables à compter de l'imposition des revenus de
-l'année 2011.
-
-Loi n° 2010-1657 du 29 décembre 2010 article 105  IX 1 : Ces dispositions sont applicables à compter de l'imposition des
-revenus de l'année 2011 pour les dépenses payées à compter du 1er janvier 2011, à l'exception de celles pour lesquelles le
-contribuable justifie qu'il a pris, avant le 31 décembre 2010, l'engagement de réaliser un investissement immobilier . A
-titre transitoire, l'engagement de réaliser un investissement immobilier peut prendre la forme d'une réservation, à condition
-qu'elle soit enregistrée chez un notaire ou au service des impôts avant le 31 décembre 2010 et que l'acte authentique soit
-passé avant le 31 mars 2011. Lorsque le bénéfice de la réduction d'impôt est subordonné à l'agrément préalable du ministre
-chargé du budget prévu au II de l'article 199 undecies B du code général des impôts, les I à VII du présent article ne
-s'appliquent ni aux investissements agréés avant le 5 décembre 2010, ni aux investissements agréés avant le 31 décembre 2010
-qui ouvrent droit à la réduction d'impôt sur les revenus de l'année 2010.
+LOI n° 2011-1977 du 28 décembre 2011 de finances pour 2012 art 83 IV : les dispositions du présent article sont applicables à
+compter de l'imposition des revenus de l'année 2012 pour les dépenses payées à compter du 1er janvier 2012, à l'exception de
+celles pour lesquelles le contribuable justifie qu'il a pris au plus tard le 31 décembre 2011 l'engagement de réaliser un
+investissement immobilier ouvrant droit à la réduction d'impôt mentionnée à l'article 199 undecies A. A titre transitoire,
+l'engagement de réaliser un investissement immobilier peut prendre la forme d'une réservation, à condition qu'elle soit
+enregistrée chez un notaire ou au service des impôts au plus tard le 31 décembre 2011 et que l'acte authentique soit passé au
+plus tard le 31 mars 2012. Lorsque le bénéfice de la réduction d'impôt est subordonné à l'agrément préalable du ministre
+chargé du budget prévu au II de l'article 199 undecies B du code général des impôts, les I à III du présent article ne
+s'appliquent ni aux investissements agréés avant le 28 septembre 2011, ni aux investissements ayant fait l'objet d'une
+demande d'agrément avant cette date, agréés avant le 31 décembre 2011 et qui ouvrent droit à la réduction d'impôt sur les
+revenus de l'année 2011.
 
 **Liens relatifs à cet article**
 
@@ -376,4 +356,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2011-520 du 13 mai 2011 - art. 1
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 10
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 83 (V)
