@@ -1,12 +1,13 @@
 # Article 1609 undecies
 
-Il est perçu :
+Il est perçu : 
 
-a  Une taxe sur l'édition des ouvrages de librairie ;
+a Une taxe sur l'édition des ouvrages de librairie ; 
 
-b  Une taxe sur les appareils de reproduction ou d'impression ;
+b Une taxe sur les appareils de reproduction ou d'impression ; 
 
-Le produit de ces deux taxes est affecté au Centre national du livre.
+Le produit de chacune de ces taxes est affecté au Centre national du livre dans la limite du plafond fixé au I de l'article
+46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 **Liens relatifs à cet article**
 
@@ -17,11 +18,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 quindecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 331 L (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
 
 _Modifié par_:
 
-  - Loi n°2006-1771 2006-12-30 art. 105 I, III Finances rectificative pour 2006 JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 105 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
