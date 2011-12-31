@@ -15,13 +15,22 @@ ménages. Ils votent le taux de cette taxe dans les conditions fixées par l'art
 
 Sous réserve du 2 du VI de l'article 1379-0 bis, les syndicats mixtes sont, dans les mêmes conditions, substitués aux
 établissements publics de coopération intercommunale à fiscalité propre et aux communautés et syndicats d'agglomération
-nouvelle qui y adhèrent pour l'ensemble de cette compétence.
+nouvelle qui y adhèrent pour l'ensemble de cette compétence. 
+
+Nonobstant les dispositions de l'article L. 5731-3 du code général des collectivités territoriales, le présent article n'est
+pas applicable aux pôles métropolitains constitués en application de l'article L. 5731-1 du même code.
+
+**Nota:**
+
+Loi n° 2011-1978 du 28 décembre 2011, art. 49-II : ces dispositions sont applicables aux pôles métropolitains créés à compter
+du 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 1
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 49 (V)
+  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
 
 _Cité par_:
 
@@ -33,7 +42,10 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1379
+  - Code général des impôts, CGI. - art. 1379-0 bis (V)
   - Code général des impôts, CGI. - art. 1520
   - Code général des impôts, CGI. - art. 1636 B octies
   - Code général des collectivités territoriales - art. L2224-13
   - Code général des collectivités territoriales - art. L5212-20
+  - Code général des collectivités territoriales - art. L5731-1 (V)
+  - Code général des collectivités territoriales - art. L5731-3 (V)
