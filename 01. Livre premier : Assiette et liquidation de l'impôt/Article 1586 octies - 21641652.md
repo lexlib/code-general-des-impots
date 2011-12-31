@@ -6,7 +6,7 @@ l'année d'imposition.
 2. Toutefois, en cas d'apport, de cession d'activité, de scission d'entreprise ou de transmission universelle du patrimoine
 mentionnée à l'article 1844-5 du code civil, la cotisation sur la valeur ajoutée des entreprises est due également par le
 redevable qui n'exerce aucune activité imposable au 1er janvier de l'année et auquel l'activité est transmise lorsque
-l'opération intervient au cours de l'année d'imposition. (1) 
+l'opération intervient au cours de l'année d'imposition. 
 
 II.-1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année
 suivant celle au titre de laquelle la cotisation sur la valeur ajoutée des entreprises est due, d'une déclaration par les
@@ -24,9 +24,11 @@ redevable ; à défaut, les effectifs sont déclarés au principal établissemen
 Un décret précise les conditions d'application du présent 1.
 
 2. En cas de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil, de cession ou de cessation
-d'entreprise ou de l'exercice d'une profession commerciale, ou de décès du contribuable, les déclarations mentionnées au 1 du
-présent II et au dernier alinéa de l'article 1679 septies doivent être souscrites dans un délai de soixante jours décompté
-dans les conditions prévues, selon le cas, aux 1 ou 4 de l'article 201 ou au 1 de l'article 202. (1) 
+d'entreprise ou de l'exercice d'une profession commerciale, d'ouverture d'une procédure de sauvegarde, de redressement ou de
+liquidation judiciaires, ou de décès du contribuable, les déclarations mentionnées au 1 du présent II et au dernier alinéa de
+l'article 1679 septies doivent être souscrites dans un délai de soixante jours décompté soit dans les conditions prévues,
+selon le cas, aux 1 ou 4 de l'article 201 ou au 1 de l'article 202 soit au jour du jugement d'ouverture de la procédure
+collective. 
 
 III.-La valeur ajoutée est imposée dans la commune où le contribuable la produisant dispose de locaux ou emploie des salariés
 exerçant leur activité plus de trois mois. 
@@ -65,7 +67,8 @@ installée sur chaque commune. Les modalités d'application de ces dispositions 
 Lorsque la déclaration par établissement mentionnée au II fait défaut, la valeur ajoutée du contribuable est répartie entre
 les communes à partir des éléments mentionnés dans la déclaration de l'année précédente. A défaut, la valeur ajoutée du
 contribuable est répartie entre les communes où le contribuable dispose d'immobilisations imposables à la cotisation foncière
-des entreprises au prorata de leur valeur locative. 
+des entreprises au prorata de leur valeur locative. Dans ce second cas, la valeur locative des immobilisations industrielles
+évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 2 (1).
 
 Pour les contribuables qui n'emploient aucun salarié en France et ne disposent d'aucun établissement en France mais qui y
 exercent une activité de location d'immeubles ou de vente d'immeubles : 
@@ -76,16 +79,16 @@ la valeur locative foncière de chacun de ces immeubles ;
 2° L'entreprise doit mentionner l'adresse des immeubles loués ou vendus dans la déclaration mentionnée au 1 du II ; 
 
 3° Les déclarations mentionnées au 1 du II du présent article et au dernier alinéa de l'article 1679 septies doivent être
-déposées au lieu de situation de l'immeuble dont la valeur locative foncière est la plus élevée au 1er janvier de l'année
-d'imposition. 
+déposées au lieu de dépôt de la déclaration de résultat. 
 
 Pour l'application du présent III, la valeur locative des immobilisations imposables à la cotisation foncière des entreprises
 s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier alinéa de l'article 1467.
 
 **Nota:**
 
-(1) Loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 art 108 XXII : les dispositions de l'article 1586 octies
-telles qu'elles résultent de l'article 108 II E 1°, 2° et 3°  s'appliquent à compter du 1er janvier 2011.
+LOI n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 44 XIII A 1 : les dispositions de l'article 1586
+octies telles qu'elles résultent de l'article 44 I 2 s'appliquent à compter des impositions dues au titre de l'année 2011, la
+dernière phrase du sixième alinéa du III entre en vigueur au 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
@@ -131,7 +134,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 1
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 44 (V)
 
 _Cite_:
 
