@@ -1,9 +1,9 @@
 # Article 39 quinquies F
 
 Les entreprises qui construisent ou font construire des immeubles destinés à satisfaire aux obligations prévues par la loi n°
-96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie et par la loi n° 2006-686 du 13 juin 2006
-relative à la transparence et à la sécurité en matière nucléaire peuvent pratiquer, dès achèvement de ces constructions un
-amortissement exceptionnel égal à 50 % de leur prix de revient. 
+96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie et par les chapitres Ier, III, V et VI du
+titre IX du livre V du code de l'environnement peuvent pratiquer, dès achèvement de ces constructions un amortissement
+exceptionnel égal à 50 % de leur prix de revient. 
 
 La valeur résiduelle des immeubles est amortissable sur leur durée normale d'utilisation. 
 
@@ -18,7 +18,6 @@ l'objet d'un amortissement exceptionnel sur douze mois à condition qu'elles s'i
 _Cite_:
 
   - Loi n°96-1236 du 30 décembre 1996 (V)
-  - Loi n°2006-686 du 13 juin 2006 (V)
 
 _Cité par_:
 
@@ -27,4 +26,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 9 (V)
+  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
