@@ -5,41 +5,36 @@ administratif constatant la péremption du permis entraîne de plein droit la re
 versement effectué, à l'exception du prélèvement pour frais d'assiette et de perception mentionné à l'article L 333-12 du
 même code. Il en est de même, en cas de démolition ordonnée par autorité de justice pour violation d'une servitude de droit
 privé, d'une construction édifiée après délivrance d'un permis de construire qui a donné lieu au versement pour dépassement
-du plafond légal de densité mentionné à l'article L 112-2 du code précité.
+du plafond légal de densité mentionné à l'article L 112-2 du code précité. 
 
 L'expropriation pour cause d'utilité publique d'un terrain pour lequel le constructeur a effectué le versement, mais sur
 lequel les constructions prévues n'ont pas encore été réalisées, entraîne de plein droit la restitution prévue au premier
 alinéa. Dans ce cas, à cette restitution qui est exclusive de toute indemnité de ce chef au titre du droit de
 l'expropriation, doit être ajouté le paiement par l'expropriant des intérêts au taux légal qui ont couru entre la date de
-publication de l'acte déclarant d'utilité publique l'opération et celle de la restitution.
+publication de l'acte déclarant d'utilité publique l'opération et celle de la restitution. 
 
-Lorsque, par suite de la délivrance d'un permis de construire modificatif, la surface développée hors oeuvre de la
-construction initialement autorisée est réduite, le montant du versement est réduit à due concurrence. Au cas où un versement
-excédentaire aurait été opéré, l'excédent sera restitué au constructeur à l'exception du prélèvement mentionné à l'article L
-333-12 précité.
+Lorsque, par suite de la délivrance d'un permis de construire modificatif, la surface de plancher de la construction
+initialement autorisée est réduite, le montant du versement est réduit à due concurrence. Au cas où un versement excédentaire
+aurait été opéré, l'excédent sera restitué au constructeur à l'exception du prélèvement mentionné à l'article L. 333-12
+précité.
 
 **Nota:**
 
-(1) Les dispositions des articles 1723 octies à 1723 quaterdecies demeurent applicables dans les communes où un plafond légal
-de densité était institué le 31 décembre 1999, voir le II de l'article 50 de la loi n° 2000-1208 du 13 décembre 2000. Les
-références au code de l'urbanisme sont celles dans leur rédaction antérieure à l'entrée en vigueur de cette loi.
+Modifications effectuées en conséquence des articles 3 et 5 de l'ordonnance n° 2011-1539 du 16 novembre 2011.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Ordonnance n°2011-1539 du 16 novembre 2011 - art. 3 (V)
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L112-2 (M)
-  - Code de l'urbanisme - art. L333-12 (Ab)
-  - Code de l'urbanisme - art. L333-13 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
+  - Code de l'urbanisme - art. L112-2
+  - Code de l'urbanisme - art. L333-12
+  - Code de l'urbanisme - art. L333-13
