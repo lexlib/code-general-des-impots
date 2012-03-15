@@ -186,9 +186,9 @@ ait, dans les conditions prévues à l'article L. 302-7 du même code, perçu le
 fraction soit affectée à la réalisation d'opérations de logements locatifs sociaux. Cette fraction est égale à la part du
 potentiel fiscal de la cotisation foncière des entreprises dans le potentiel fiscal de la commune. 
 
-L'attribution de compensation est majorée, le cas échéant, du produit de la réduction de taux de taxe d'habitation prévue au
-VII de l'article 1638 quater par les bases de taxe d'habitation de la commune l'année précédant celle de son rattachement à
-l'établissement public de coopération intercommunale. 
+L'attribution de compensation est majorée du produit de la réduction de taux de taxe d'habitation prévue, selon le cas, au
+VII de l'article 1638 quater ou au IV de l'article 1638-0 bis par les bases de taxe d'habitation de la commune l'année de son
+rattachement à l'établissement public de coopération intercommunale. 
 
 Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de coopération intercommunale faisant application
 du régime fiscal du présent article pour adhérer à un autre établissement public de coopération intercommunale faisant
@@ -332,28 +332,28 @@ présent article.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 77-2.1.7 de la loi n° 2009-1673 du 30 décembre 2009 et de l'article 108
-XI C de la loi n° 2010-1657 du 29 décembre 2010.
-
 (1) Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 44 B 1 : les dispositions de l'article 1609
-nonies C telles qu'elles résultent de l'article 44 IX 2 entrent en vigueur au 1er janvier 2011.
+nonies C telles qu'elles résultent de l'article 44 IX 2 entrent en vigueur au 1er janvier 2011. 
+
+Loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 article 29 : Les présentes dispositions s'appliquent sans
+nouvelle délibération des communes concernées, à compter des taux et abattements votés pour 2012.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°72-657 du 13 juillet 1972 - art. 3 (V)
-  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (V)
-  - Loi n°96-987 du 14 novembre 1996 - art. 4 (V)
-  - Loi - art. 26 (V)
-  - Code général des impôts, CGI. - art. 1519 D (V)
-  - Code général des collectivités territoriales - art. L5211-41-1 (V)
-  - Code général des collectivités territoriales - art. L5211-41-3 (VT)
-  - Code général des collectivités territoriales - art. L5211-5 (V)
-  - Code général des collectivités territoriales - art. L5215-40-1 (V)
-  - Code général des collectivités territoriales - art. L5216-10 (V)
-  - Code général des collectivités territoriales - art. L5334-8 (V)
-  - Code de la construction et de l'habitation. - art. L302-8 (V)
+  - Loi n°72-657 du 13 juillet 1972 - art. 3
+  - Loi n°86-1317 du 30 décembre 1986 - art. 6
+  - Loi n°96-987 du 14 novembre 1996 - art. 4
+  - Loi n°2002-1575 du 30 décembre 2002 - art. 26
+  - Code général des impôts, CGI. - art. 1519 D
+  - Code général des collectivités territoriales - art. L5211-41-1
+  - Code général des collectivités territoriales - art. L5211-41-3
+  - Code général des collectivités territoriales - art. L5211-5
+  - Code général des collectivités territoriales - art. L5215-40-1
+  - Code général des collectivités territoriales - art. L5216-10
+  - Code général des collectivités territoriales - art. L5334-8
+  - Code de la construction et de l'habitation. - art. L302-8
 
 _Cité par_:
 
@@ -449,5 +449,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 44 (V)
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 50
+  - Loi n°2012-354 du 14 mars 2012 - art. 29 (V)
