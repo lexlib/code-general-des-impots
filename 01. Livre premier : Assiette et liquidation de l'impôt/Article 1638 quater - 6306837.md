@@ -94,10 +94,11 @@ VI.-Lorsqu'il fait application des dispositions des I, II et III à la suite du 
 début d'exercice par les services fiscaux et qui découle de l'état de notification des bases tient compte du taux applicable
 dans la commune rattachée. 
 
-VII.-En cas de rattachement volontaire à un établissement public de coopération intercommunale qui faisait application en
-2011 de l'article 1609 nonies C d'une commune qui n'était pas membre en 2011 d'un tel établissement, le taux communal de taxe
-d'habitation est réduit de la différence entre, d'une part, le taux de référence de taxe d'habitation calculé pour la commune
-conformément à l'article 1640 C, d'autre part, le taux communal de taxe d'habitation applicable en 2010 dans la commune.
+VII.-En cas de rattachement dans les conditions mentionnées au I à un établissement public de coopération intercommunale qui
+faisait application en 2011 de l'article 1609 nonies C d'une commune qui n'était pas membre en 2011 d'un tel établissement,
+le taux communal de taxe d'habitation est réduit de la différence entre, d'une part, le taux de référence de taxe
+d'habitation calculé pour la commune conformément à l'article 1640 C, d'autre part, le taux communal de taxe d'habitation
+applicable en 2010 dans la commune.
 
 **Nota:**
 
@@ -116,11 +117,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 99
+  - Loi n°2012-354 du 14 mars 2012 - art. 29 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1636 B decies (V)
-  - Code général des impôts, CGI. - art. 1639 A (V)
-  - Code général des collectivités territoriales - art. L5211-41-1 (V)
-  - Code général des collectivités territoriales - art. L5215-40-1 (V)
+  - Code général des impôts, CGI. - art. 1636 B decies
+  - Code général des impôts, CGI. - art. 1639 A
+  - Code général des collectivités territoriales - art. L5211-41-1
+  - Code général des collectivités territoriales - art. L5215-40-1
