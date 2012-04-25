@@ -88,8 +88,8 @@ inclusivement.
 
 Toutefois, sur demande du contribuable qui, dans le cadre de l'activité ayant ouvert droit à réduction, participe à
 l'exploitation au sens des dispositions du 1° bis du I de l'article 156, la fraction non utilisée peut être remboursée à
-compter de la troisième année, dans la limite d'un montant de 100 000 euros par an ou de 300 000 euros par période de trois
-ans. Cette fraction non utilisée constitue au profit de l'entreprise une créance sur l'Etat d'égal montant. Cette créance est
+compter de la troisième année, dans la limite d'un montant de 100 000 € par an ou de 300 000 € par période de trois ans.
+Cette fraction non utilisée constitue au profit de l'entreprise une créance sur l'Etat d'égal montant. Cette créance est
 inaliénable et incessible, sauf dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code monétaire et
 financier. 
 
@@ -119,7 +119,7 @@ La réduction d'impôt prévue au présent I s'applique aux investissements prod
 le cadre d'un contrat de location si les conditions mentionnées aux quinzième à dix-huitième alinéas du I de l'article 217
 undecies sont remplies et si 62,5 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution
 du loyer et du prix de cession du bien à l'exploitant. Ce taux est ramené à 52,63 % pour les investissements dont le montant
-par programme et par exercice est inférieur à 300 000 euros par exploitant. Si, dans le délai de cinq ans de la mise à
+par programme et par exercice est inférieur à 300 000 € par exploitant. Si, dans le délai de cinq ans de la mise à
 disposition du bien loué ou pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au
 présent alinéa cesse d'être respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours
 de laquelle cet événement se réalise. Le revenu global de cette même année est alors majoré des déficits indûment imputés en
@@ -172,7 +172,7 @@ Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les co
 neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 62,5 %, les taux de
 38,25 % et 45,9 % mentionnés au dix-septième alinéa sont, respectivement, portés à 45,3 % et 54,36 % et les taux de 45,9 % et
 53,55 % mentionnés à la cinquième phrase du même alinéa sont, respectivement, portés à 54,36 % et 63,42 %. Dans les mêmes
-conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 63,42 %.
+conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 63,42 %. 
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
 neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 52,63 %, les taux de
@@ -221,7 +221,7 @@ des postes dans les formes et dans les conditions prévues à l'article L. 36-8 
 
 La base éligible de la réduction d'impôt est égale à la moitié du coût de revient hors taxes et hors frais de toute nature,
 notamment les commissions d'acquisition, à l'exception des frais de transport de ces équipements et opérations, diminuée du
-montant des subventions publiques accordées pour leur financement. Le taux de la réduction d'impôt est de 45 %. Le montant de
+montant des subventions publiques accordées pour leur financement. Le taux de la réduction d'impôt est de 38 %. Le montant de
 l'aide fiscale peut être réduit de moitié au plus, compte tenu du besoin de financement de la société exploitante pour la
 réalisation de ce projet et de l'impact de l'aide sur les tarifs. Par dérogation au présent I ter, le I s'applique également
 aux équipements et opérations de pose des câbles sous-marins de secours desservant la Guadeloupe, la Guyane, la Martinique,
@@ -231,15 +231,15 @@ aux a, b et c. La base éligible de la réduction d'impôt est égale au quart d
 toute nature, notamment les commissions d'acquisition, à l'exception des frais de transport de ces équipements et opérations,
 diminué du montant des subventions publiques accordées pour leur financement. 
 
-II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 1 000 000
-euros ne peuvent ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les
-conditions prévues au III de l'article 217 undecies. 
+II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 1 000 000 €
+ne peuvent ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions
+prévues au III de l'article 217 undecies. 
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
-par programme et par exercice est supérieur à 250 000 euros, lorsque le contribuable ne participe pas à l'exploitation au
-sens des dispositions du 1° bis du I de l'article 156. Le seuil de 250 000 euros s'apprécie au niveau de l'entreprise,
-société ou groupement qui inscrit l'investissement à l'actif de son bilan ou qui en est locataire lorsqu'il est pris en
-crédit-bail auprès d'un établissement financier. 
+par programme et par exercice est supérieur à 250 000 €, lorsque le contribuable ne participe pas à l'exploitation au sens
+des dispositions du 1° bis du I de l'article 156. Le seuil de 250 000 € s'apprécie au niveau de l'entreprise, société ou
+groupement qui inscrit l'investissement à l'actif de son bilan ou qui en est locataire lorsqu'il est pris en crédit-bail
+auprès d'un établissement financier. 
 
 2. Pour ouvrir droit à réduction et par dérogation aux dispositions du 1, les investissements mentionnés au I doivent avoir
 reçu l'agrément préalable du ministre chargé du budget dans les conditions prévues au III de l'article 217 undecies
@@ -357,5 +357,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 10
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 83 (V)
+  - Décret n°2012-547 du 23 avril 2012 - art. 1

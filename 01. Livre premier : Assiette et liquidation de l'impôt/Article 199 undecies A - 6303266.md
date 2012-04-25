@@ -105,13 +105,13 @@ investissements mentionnés au a du 2, à 10 % des sommes effectivement payées 
 le droit à réduction d'impôt est né et, pour les investissements visés aux b, c, d, e, f, g et h du 2, à 20 % des sommes
 effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né. 
 
-La réduction d'impôt est égale à 22 % de la base définie au premier alinéa pour les investissements mentionnés aux a et e du
+La réduction d'impôt est égale à 18 % de la base définie au premier alinéa pour les investissements mentionnés aux a et e du
 2. 
 
-La réduction d'impôt est égale à 36 % de la base définie au premier alinéa pour les investissements mentionnés aux b, c et d
-du 2 et à 45 % de la même base pour les investissements mentionnés aux f, g et h du 2. 
+La réduction d'impôt est égale à 30 % de la base définie au premier alinéa pour les investissements mentionnés aux b, c et d
+du 2 et à 38 % de la même base pour les investissements mentionnés aux f, g et h du 2. 
 
-Pour les investissements mentionnés aux b, c et d du 2, la réduction d'impôt est portée à 45 % si les conditions suivantes
+Pour les investissements mentionnés aux b, c et d du 2, la réduction d'impôt est portée à 38 % si les conditions suivantes
 sont réunies : 
 
 1° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si
@@ -122,15 +122,15 @@ au moins six ans à compter de la date d'achèvement des logements ou de leur ac
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret. 
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer et la collectivité départementale de Mayotte
-mentionnés aux a, b, c, d et e du 2, les taux de 22 % et 36 % prévus aux deuxième et troisième alinéas et le taux de 45 %
-prévu au quatrième alinéa sont respectivement portés à 31 %, 45 % et 54 % lorsque le logement est situé dans une zone urbaine
+mentionnés aux a, b, c, d et e du 2, les taux de 18 % et 30 % prévus aux deuxième et troisième alinéas et le taux de 38 %
+prévu au quatrième alinéa sont respectivement portés à 26 %, 38 % et 45 % lorsque le logement est situé dans une zone urbaine
 sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire. 
 
 En outre, lorsque des dépenses d'équipement de production d'énergie utilisant une source d'énergie renouvelable sont
-réalisées dans le logement, les taux de 22 % et 36 % mentionnés aux deuxième et troisième alinéas et le taux de 45 %
-mentionné au quatrième alinéa sont respectivement portés à 26 %, 39 % et 48 % et les taux de 31 %, 45 % et 54 % mentionnés au
-septième alinéa sont respectivement portés à 35 %, 48 % et 57 %. Un arrêté du ministre chargé du budget fixe la nature des
+réalisées dans le logement, les taux de 18 % et 30 % mentionnés aux deuxième et troisième alinéas et le taux de 38 %
+mentionné au quatrième alinéa sont respectivement portés à 22 %, 33 % et 40 % et les taux de 26 %, 38 % et 45 % mentionnés au
+septième alinéa sont respectivement portés à 29 %, 40 % et 48 %. Un arrêté du ministre chargé du budget fixe la nature des
 dépenses d'équipement qui ouvrent droit à cette majoration. 
 
 6 bis. La réduction d'impôt ne s'applique pas aux investissements mentionnés aux b, c et d du 2 engagés après le 31 décembre
@@ -139,12 +139,12 @@ dépenses d'équipement qui ouvrent droit à cette majoration.
 Toutefois, la réduction d'impôt s'applique également : 
 
 1° Aux investissements mentionnés aux b, c et d du 2 engagés entre le 1er janvier 2011 et le 31 décembre 2011. Par dérogation
-au 6, le taux de la réduction d'impôt est, pour ces investissements, de 27 %. Ce taux est porté à 40 % pour ceux de ces
+au 6, le taux de la réduction d'impôt est, pour ces investissements, de 22 %. Ce taux est porté à 34 % pour ceux de ces
 investissements au titre desquels les conditions mentionnées aux 1° et 2° du 6 sont réunies. Ces taux sont respectivement
-portés à 36 % et 49 % lorsque la condition prévue au septième alinéa du 6 est remplie, à 30 % et 44 % lorsque celle prévue au
-huitième alinéa est remplie, à 39 % et 53 % lorsque ces deux dernières conditions sont simultanément remplies. 
+portés à 30 % et 41 % lorsque la condition prévue au septième alinéa du 6 est remplie, à 25 % et 37 % lorsque celle prévue au
+huitième alinéa est remplie, à 33 % et 45 % lorsque ces deux dernières conditions sont simultanément remplies. 
 
-2° Au taux de 31 % aux investissements mentionnés aux b, c et d du 2 engagés entre le 1er janvier 2012 et le 31 décembre 2012
+2° Au taux de 26 % aux investissements mentionnés aux b, c et d du 2 engagés entre le 1er janvier 2012 et le 31 décembre 2012
 et au titre desquels les conditions mentionnées aux 1° et 2° du 6 sont réunies. 
 
 Pour l'application du présent 6 bis, sont considérés comme engagés :
@@ -253,4 +253,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-520 du 13 mai 2011 - art. 1
+  - Décret n°2012-547 du 23 avril 2012 - art. 1
