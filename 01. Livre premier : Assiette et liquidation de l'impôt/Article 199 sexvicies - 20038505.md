@@ -29,7 +29,7 @@ réhabilitation, elle est calculée sur le prix d'acquisition majoré du montant
 Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et en 2010, et de 18 % pour les logements
 acquis à compter de l'année 2011. 
 
-Toutefois, pour les logements acquis en 2012, le taux de la réduction d'impôt est de 14 %. Ces dispositions ne s'appliquent
+Toutefois, pour les logements acquis en 2012, le taux de la réduction d'impôt est de 11 %. Ces dispositions ne s'appliquent
 pas aux acquisitions pour lesquelles le contribuable justifie qu'il a pris, au plus tard le 31 décembre 2011, l'engagement de
 réaliser un investissement immobilier. Dans ce cas, la réduction d'impôt s'applique au taux en vigueur au 31 décembre 2011
 pour les logements acquis en 2011. A titre transitoire, l'engagement de réaliser un investissement immobilier peut prendre la
@@ -85,7 +85,7 @@ undecies A et 199 undecies B et des dispositions du présent article.
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 76
+  - Décret n°2012-547 du 23 avril 2012 - art. 1
 
 _Cité par_:
 
@@ -103,7 +103,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 199 undecies B
   - Code général des impôts, CGI. - art. 4 B
-  - Code du travail - art. L7232-1 (V)
+  - Code du travail - art. L7232-1
   - Code de la santé publique - art. L6143-5
   - Code de la sécurité sociale. - art. L341-4
   - Code de l'action sociale et des familles - art. L312-1

@@ -116,34 +116,46 @@ fiscal.
 
 a. (Abrogé) 
 
-b) 12 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ; 
+b) 10 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ; 
 
-c) 18 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ; 
+c) 15 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ; 
 
 d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du
 1 : 
 
-<table border="1">
+<table border="1" width="750" align="center">
   <tbody>
     <tr>
-      <th>
-      </th><th>2010</th>
-      <th>
+      <td> </td>
+      <td>
+
+2010
+
+</td>
+      <td>
 
 2011
 
-</th>
-      <th>
+</td>
+      <td>
 
-A compter de 2012 
+A compter
 
-</th>
+de 2012 
+
+</td>
     </tr>
     <tr>
-      <td align="center">Cas général </td>
       <td align="center">
 
-50 % </td>
+Cas général 
+
+</td>
+      <td align="center">
+
+50 % 
+
+</td>
       <td align="center">
 
 45 % 
@@ -151,12 +163,16 @@ A compter de 2012
 </td>
       <td align="center">
 
-38 % 
+32 % 
 
 </td>
     </tr>
     <tr>
-      <td>Equipements de production d'électricité utilisant l'énergie radiative du soleil </td>
+      <td>
+
+Equipements de production d'électricité utilisant l'énergie radiative du soleil 
+
+</td>
       <td align="center">
 
 50 % (1) 
@@ -167,65 +183,88 @@ A compter de 2012
       <td align="center">22 % 
 
 </td>
-      <td align="center">13 % </td>
+      <td align="center">11 % </td>
     </tr>
     <tr>
-      <td align="center">Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production de chaleur, à
-l'exception des pompes à chaleur géothermiques. </td>
+      <td align="center">
+
+Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production
+
+de chaleur, à l'exception des pompes à chaleur géothermiques. 
+
+</td>
       <td align="center">25 % </td>
       <td align="center">
 
 22 % 
 
 </td>
-      <td align="center">18 %</td>
+      <td align="center">15 %</td>
     </tr>
     <tr>
-      <td align="center">Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. </td>
+      <td align="center">
+
+Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. 
+
+</td>
       <td align="center">40 % </td>
       <td align="center">
 
 36 % 
 
 </td>
-      <td align="center">31 % </td>
+      <td align="center">26 % </td>
     </tr>
     <tr>
       <td align="center">
 
-Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production d'eau chaude sanitaire. </td>
+Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production
+
+d'eau chaude sanitaire. 
+
+</td>
       <td align="center">40 % </td>
       <td align="center">
 
 36 % 
 
 </td>
-      <td align="center">31 % </td>
+      <td align="center">26 % </td>
     </tr>
     <tr>
       <td align="center">
 
-Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques. </td>
+Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques. 
+
+</td>
       <td align="center">40 % </td>
       <td align="center">
 
 36 % 
 
 </td>
-      <td align="center">31 % </td>
+      <td align="center">26 % </td>
     </tr>
     <tr>
       <td align="center">
 
-Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses :</td>
-      <td align="center">
+Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant
+
+au bois ou autres biomasses :
 
 </td>
       <td align="center">
-      </td><td align="center">
-    </td></tr>
+
+</td>
+      <td align="center"> </td>
+      <td align="center"> </td>
+    </tr>
     <tr>
-      <td align="center">-cas général ; </td>
+      <td align="center">
+
+- cas général ; 
+
+</td>
       <td align="center">
 
 25 % 
@@ -236,10 +275,14 @@ Chaudières et équipements de chauffage ou de production d'eau chaude fonctionn
 22 %
 
 </td>
-      <td align="center">18 % </td>
+      <td align="center">15 % </td>
     </tr>
     <tr>
-      <td align="center">-en cas de remplacement des mêmes matériels. </td>
+      <td align="center">
+
+- en cas de remplacement des mêmes matériels. 
+
+</td>
       <td align="center">
 
 40 % 
@@ -250,37 +293,45 @@ Chaudières et équipements de chauffage ou de production d'eau chaude fonctionn
 36 % 
 
 </td>
-      <td align="center">31 % </td>
+      <td align="center">26 % </td>
     </tr>
     <tr>
-      <td>(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles pour lesquelles le contribuable
-peut justifier jusqu'à cette date : 
+      <td>
+
+(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles
+
+pour lesquelles le contribuable peut justifier jusqu'à cette date : 
 
 a) De l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à l'entreprise ; 
 
-b) De la signature d'un contrat dans le cadre d'un démarchage mentionné aux articles L. 121-21 à L. 121-33 du code de la
-consommation, à la condition de justifier d'un paiement total ou partiel jusqu'au 6 octobre 2010 ; 
+b) De la signature d'un contrat dans le cadre d'un démarchage mentionné
 
-c) Ou d'un moyen de financement accordé à raison des dépenses concernées par un établissement de crédit. 
+aux articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel
+jusqu'au 6 octobre 2010 ; 
+
+c) Ou d'un moyen de financement accordé à raison des dépenses concernées par
+
+un établissement de crédit. 
 
 (2) Pour les dépenses payées à compter du 29 septembre 2010. 
 
 </td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
-e) 18 % du montant des équipements mentionnés aux d et e du 1 ; 
+e) 15 % du montant des équipements mentionnés aux d et e du 1 ; 
 
-f) 38 % du montant des dépenses mentionnées au 2° du f du 1 ;
+f) 32 % du montant des dépenses mentionnées au 2° du f du 1 ;
 
-g) 21 % du montant des équipements mentionnés au g du 1. 
+g) 17 % du montant des équipements mentionnés au g du 1. 
 
-5 bis. Les taux mentionnés au 5 sont majorés de dix points si, pour un même logement achevé depuis plus de deux ans et au
-titre d'une même année, le contribuable réalise des dépenses relevant d'au moins deux des catégories suivantes : 
+5 bis. Les taux de 10 %, 15 %, 17 %, 26 % et 32 % mentionnés au 5 sont respectivement portés à 18 %, 23 %, 26 %, 34 % et 40 %
+si, pour un même logement achevé depuis plus de deux ans et au titre d'une même année, le contribuable réalise des dépenses
+relevant d'au moins deux des catégories suivantes : 
 
 a) Dépenses d'acquisition de matériaux d'isolation thermique des parois vitrées, mentionnées au 2° du b du 1 ; 
 
@@ -301,7 +352,7 @@ mentionnées au g du même 1 et d'équipements de production d'énergie utilisan
 à chaleur mentionnées au c dudit 1, à l'exception de celles visées aux d et e du présent 5 bis et des dépenses d'acquisition
 d'équipements de production d'électricité utilisant l'énergie radiative du soleil. 
 
-Ces majorations s'appliquent dans la limite d'un taux de 50 % pour un même matériau, équipement ou appareil. 
+Ces taux majorés s'appliquent dans la limite d'un taux de 42 % pour un même matériau, équipement ou appareil. 
 
 6. a. Les équipements, matériaux, appareils et travaux de pose mentionnés au 1 s'entendent de ceux figurant sur la facture
 d'une entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° des c, d et e du 1, des équipements figurant sur une
@@ -360,11 +411,6 @@ qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de r
 d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée.
 Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses
 ont été payées.
-
-**Nota:**
-
-Loi n° 2011-1977 du 28 décembre 2011, art. 81-III : ces dispositions s'appliquent aux dépenses payées à compter du 1er
-janvier 2012.
 
 **Liens relatifs à cet article**
 
@@ -446,7 +492,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 81 (V)
+  - Décret n°2012-547 du 23 avril 2012 - art. 1
 
 _Cite_:
 
