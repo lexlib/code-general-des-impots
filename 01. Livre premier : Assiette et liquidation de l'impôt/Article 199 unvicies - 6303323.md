@@ -7,11 +7,11 @@ augmentations de capital des sociétés définies à l'article 238 bis HE.
 Le bénéfice de la réduction d'impôt est subordonné à l'agrément du capital de la société par le ministre chargé du budget. 
 
 2. La réduction d'impôt s'applique aux sommes effectivement versées pour les souscriptions mentionnées au 1, retenues dans la
-limite de 25 % du revenu net global et de 18 000 euros. 
+limite de 25 % du revenu net global et de 18 000 €. 
 
-3. La réduction d'impôt est égale à 36 % des sommes retenues au 2. 
+3. La réduction d'impôt est égale à 30 % des sommes retenues au 2. 
 
-Le taux mentionné au premier alinéa est porté à 43 % lorsque la société s'engage à réaliser au moins 10 % de ses
+Le taux mentionné au premier alinéa est porté à 36 % lorsque la société s'engage à réaliser au moins 10 % de ses
 investissements dans les conditions prévues au a de l'article 238 bis HG avant le 31 décembre de l'année suivant celle de la
 souscription. 
 
@@ -24,7 +24,7 @@ solidarité soumis à imposition commune.
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 9
+  - Décret n°2012-547 du 23 avril 2012 - art. 1
 
 _Cité par_:
 
