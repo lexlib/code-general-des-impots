@@ -6,7 +6,7 @@ le 31 décembre 2012. Cette réduction d'impôt s'applique :
 
 a) Aux dépenses afférentes à un logement, faisant partie d'une résidence de tourisme classée dans une zone de revitalisation
 rurale ou dans une zone, autre qu'une zone de revitalisation rurale, inscrite sur la liste pour la France des zones
-concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260 / 1999 du Conseil, du 21 juin 1999, portant
+concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260/1999 du Conseil, du 21 juin 1999, portant
 dispositions générales sur les fonds structurels, à l'exclusion des communes situées dans des agglomérations de plus de 5 000
 habitants, qui est destiné à la location dont le produit est imposé dans la catégorie des revenus fonciers ; 
 
@@ -25,12 +25,12 @@ obstacle à l'imposition dans la catégorie des revenus fonciers.
 l'article 197 sont applicables. 
 
 3. Le montant des dépenses de reconstruction, d'agrandissement, de réparation ou d'amélioration effectivement supportées par
-le propriétaire ouvrant droit à réduction d'impôt ne peut excéder, au titre d'une année, 50 000 Euros pour une personne
-célibataire, veuve ou divorcée et 100 000 Euros pour un couple marié. Son taux est égal à : 
+le propriétaire ouvrant droit à réduction d'impôt ne peut excéder, au titre d'une année, 50 000 € pour une personne
+célibataire, veuve ou divorcée et 100 000 € pour un couple marié. Son taux est égal à : 
 
-a) 18 % du montant des dépenses afférentes à des logements mentionnés aux a et b du 1 ; 
+a) 15 % du montant des dépenses afférentes à des logements mentionnés aux a et b du 1 ; 
 
-b) 36 % du montant des dépenses afférentes à des logements mentionnés au c du 1, sans qu'il y ait toutefois lieu de le
+b) 30 % du montant des dépenses afférentes à des logements mentionnés au c du 1, sans qu'il y ait toutefois lieu de le
 diminuer des subventions publiques accordées aux contribuables. 
 
 4. Pour les logements mentionnés aux a et c du 1, le propriétaire doit selon le cas s'engager à les louer nus pendant au
@@ -68,7 +68,7 @@ dispositions prévues à l'article 32 ou à l'article 50-0.
 
 _Modifié par_:
 
-  - Décret n°2011-520 du 13 mai 2011 - art. 1
+  - Décret n°2012-547 du 23 avril 2012 - art. 1
 
 _Cité par_:
 
