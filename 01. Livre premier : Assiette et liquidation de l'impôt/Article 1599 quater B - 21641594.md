@@ -15,50 +15,48 @@ III. ― Le montant de l'imposition est établi de la manière suivante :
 
 a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l'imposition de chaque répartiteur principal
 est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition
-par ligne en service est de 2,4 € ; 
+par ligne en service est de 2,45 € ; 
 
 b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du réseau téléphonique commuté, le montant de
 l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant : 
 
-(En euros) 
+(en euros) 
 
-<table width="700" border="1">
+<table width="680" border="1">
     <tbody>
       <tr>
         <th>
 
-NATURE DE L'ÉQUIPEMENT 
+NATURE DE L'ÉQUIPEMENT
 
 </th>
         <th>
 
-TARIF 
+TARIF
 
 </th>
       </tr>
       <tr>
         <td align="center">
 
-Unité de raccordement d'abonnés 
+Unité de raccordement d'abonnés
 
 </td>
         <td align="center">
 
-6 350 
+6 477
 
 </td>
       </tr>
       <tr>
         <td align="center">
 
-Carte d'abonné 
+Carte d'abonné
 
 </td>
         <td align="center">
 
-70 
-
-</td>
+71</td>
       </tr>
     </tbody>
   </table>
@@ -73,15 +71,15 @@ b) Le nombre d'unités de raccordement d'abonnés et de cartes d'abonnés au 1er
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation
 foncière des entreprises.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010.
+
 **Liens relatifs à cet article**
 
 _Créé par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-
-_Modifié par_:
-
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 112 (V)
 
 _Cité par_:
 
@@ -93,6 +91,10 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 K (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 Q (P)
 
+_Modifié par_:
+
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
+
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. L32 (V)
+  - Code des postes et des communications électroniques - art. L32

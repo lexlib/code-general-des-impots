@@ -5,18 +5,18 @@ septies A bis peuvent tenir une comptabilité super-simplifiée. Cette comptabil
 des encaissements et des paiements. Les créances et les dettes sont constatées à la clôture de l'exercice sauf en ce qui
 concerne les dépenses relatives aux frais généraux, qui sont payées à échéances régulières et dont la périodicité n'excède
 pas un an (1) ; les stocks et les travaux en cours peuvent être évalués selon une méthode simplifiée définie par un arrêté du
-ministre chargé du budget (2).
+ministre chargé du budget (2). 
 
-1 bis. A l'exception de celles ayant la qualité de commerçant qui sont  contrôlées par une société qui établit des comptes en
-application de l'article L. 233-16 du code de commerce,  les personnes morales soumises au régime défini à l'article 302
-septies  A bis du présent code et qui ne sont pas visées au 1 du présent article  peuvent n'enregistrer les créances et les
-dettes qu'à la clôture de  l'exercice.  
+1 bis. A l'exception de celles ayant la qualité de commerçant qui sont contrôlées par une société qui établit des comptes en
+application de l'article L. 233-16 du code de commerce, les personnes morales soumises au régime défini à l'article 302
+septies A bis du présent code et qui ne sont pas visées au 1 peuvent n'enregistrer les créances et les dettes qu'à la clôture
+de l'exercice. 
 
 2. Les frais relatifs aux carburants consommés lors des déplacements professionnels de l'exploitant peuvent être enregistrés
 forfaitairement d'après un barème qui est publié chaque année. 
 
 La justification des frais généraux accessoires payés en espèces n'est pas exigée dans la limite de 1 p. 1000 du chiffre
-d'affaires réalisé et d'un minimum de 150 euros. 
+d'affaires réalisé et d'un minimum de 150 €. 
 
 (Alinéa disjoint) 
 
@@ -35,11 +35,13 @@ comptabilisation en vue d'éviter qu'une même charge ne puisse être déduite d
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 57
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cite_:
 
+  - Code de commerce - art. L233-16 (V)
   - Code général des impôts, CGI. - art. 239 quater A
+  - Code général des impôts, CGI. - art. 302 septies A bis (VT)
 
 _Cité par_:
 
