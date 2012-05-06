@@ -9,13 +9,13 @@ II.-L'application du I est subordonnée à la condition que la personne cessionn
 l'habitation dans un délai de quatre ans à compter de la date de l'acquisition. 
 
 Le non-respect par la personne cessionnaire de l'engagement d'achèvement des locaux destinés à l'habitation mentionné au
-premier alinéa du présent II entraîne l'application de l'amende prévue au IV de l'article 1764. 
+premier alinéa entraîne l'application de l'amende prévue au IV de l'article 1764. 
 
-Par exception au deuxième alinéa du présent II, l'amende prévue au IV de l'article 1764 n'est pas due lorsque la personne
-cessionnaire ne respecte pas l'engagement d'achèvement des locaux en raison de circonstances exceptionnelles indépendantes de
-sa volonté. Elle n'est pas due non plus en cas de licenciement, d'invalidité correspondant au classement dans les deuxième ou
-troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de décès du contribuable ou de l'un
-des époux soumis à une imposition commune. 
+Par exception au deuxième alinéa, l'amende prévue au IV de l'article 1764 n'est pas due lorsque la personne cessionnaire ne
+respecte pas l'engagement d'achèvement des locaux en raison de circonstances exceptionnelles indépendantes de sa volonté.
+Elle n'est pas due non plus en cas de licenciement, d'invalidité correspondant au classement dans les deuxième ou troisième
+des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de décès du contribuable ou de l'un des époux
+soumis à une imposition commune. 
 
 En cas de fusion de sociétés, l'engagement souscrit par le cessionnaire n'est pas rompu lorsque la société absorbante
 s'engage, dans l'acte de fusion, à se substituer à la société absorbée pour le respect de l'engagement d'achèvement des
@@ -36,7 +36,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 42 (V)
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cité par_:
 

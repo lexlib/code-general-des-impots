@@ -103,9 +103,9 @@ acquisition si elle est postérieure.
 4. Pour un même logement que le propriétaire, le locataire ou l'occupant à titre gratuit affecte à son habitation principale,
 le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives
 comprises entre le 1er janvier 2005 et le 31 décembre 2015, la somme de 8 000 € pour une personne célibataire, veuve ou
-divorcée et de 16 000 € pour un couple soumis à imposition commune. Cette somme est majorée de 400 euros par personne à
-charge au sens des articles 196 à 196 B. La somme de 400 Euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à
-charge égale de l'un et l'autre de ses parents. 
+divorcée et de 16 000 € pour un couple soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au
+sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de
+l'un et l'autre de ses parents. 
 
 Pour un même logement donné en location, le montant des dépenses ouvrant droit au crédit d'impôt pour le bailleur ne peut
 excéder, pour la période du 1er janvier 2009 au 31 décembre 2015, la somme de 8 000 €. Au titre de la même année, le nombre
@@ -123,7 +123,7 @@ c) 15 % du montant des équipements, matériaux et appareils mentionnés aux 3°
 d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du
 1 : 
 
-<table border="1" width="750" align="center">
+<table border="1" align="center" width="750">
   <tbody>
     <tr>
       <td> </td>
@@ -365,7 +365,7 @@ b. Le crédit d'impôt est accordé sur présentation de l'attestation du vendeu
 facture, autre que des factures d'acompte, de l'entreprise qui a procédé à la fourniture et à l'installation des équipements,
 matériaux et appareils ou de la personne qui a réalisé le diagnostic de performance énergétique. 
 
-Cette facture comporte, outre les mentions prévues à l'article 289 du présent code : 
+Cette facture comporte, outre les mentions prévues à l'article 289 : 
 
 1° Le lieu de réalisation des travaux ou du diagnostic de performance énergétique ; 
 
@@ -389,9 +389,9 @@ dernière ligne du tableau du d du 5, outre les mentions précitées, la mention
 les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction. 
 
 c. Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire une facture ou une attestation comportant les
-mentions prévues au b du présent 6 selon la nature des travaux, équipements, matériaux et appareils concernés, il fait
-l'objet, au titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de
-l'avantage fiscal accordé à raison de la dépense non justifiée. 
+mentions prévues au b selon la nature des travaux, équipements, matériaux et appareils concernés, il fait l'objet, au titre
+de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal
+accordé à raison de la dépense non justifiée. 
 
 6 bis. La durée de l'engagement de location mentionné au premier alinéa du 1 s'apprécie à compter de la date de réalisation
 des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet,
@@ -482,7 +482,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-547 du 23 avril 2012 - art. 1
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cite_:
 
