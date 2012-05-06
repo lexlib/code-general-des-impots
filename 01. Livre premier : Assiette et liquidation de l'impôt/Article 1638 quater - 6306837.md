@@ -78,12 +78,12 @@ fiscalité additionnelle, l'organe délibérant vote les taux de taxe d'habitati
 cotisation foncière des entreprises dans les conditions prévues à l'article 1636 B sexies. 
 
 Par délibérations concordantes de l'organe délibérant de l'établissement public de coopération intercommunale et du conseil
-municipal de la commune concernée, les taux votés en application du premier alinéa du présent IV peuvent être appliqués de
-manière progressive par fractions égales sur une période maximale de douze années. Le présent alinéa n'est pas applicable
-pour les taxes pour lesquelles le rapport entre ces taux et les taux votés par le conseil municipal l'année du rattachement
-de cette commune est inférieur à 10 %. Le cas échéant, sont pris en compte pour le calcul de ce rapport les taux des
-impositions perçues l'année du rattachement au profit des établissements publics de coopération intercommunale auxquels la
-commune appartenait. 
+municipal de la commune concernée, les taux votés en application du premier alinéa peuvent être appliqués de manière
+progressive par fractions égales sur une période maximale de douze années. Le présent alinéa n'est pas applicable pour les
+taxes pour lesquelles le rapport entre ces taux et les taux votés par le conseil municipal l'année du rattachement de cette
+commune est inférieur à 10 %. Le cas échéant, sont pris en compte pour le calcul de ce rapport les taux des impositions
+perçues l'année du rattachement au profit des établissements publics de coopération intercommunale auxquels la commune
+appartenait. 
 
 V.-Les I, II et III sont également applicables aux communes faisant l'objet d'un rattachement à une communauté urbaine ou à
 une communauté d'agglomération dont le périmètre est étendu en application du renouvellement de la procédure prévue aux
@@ -117,7 +117,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-354 du 14 mars 2012 - art. 29 (V)
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cite_:
 
