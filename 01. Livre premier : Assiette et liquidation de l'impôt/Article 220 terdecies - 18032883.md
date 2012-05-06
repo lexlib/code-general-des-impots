@@ -15,7 +15,7 @@ sonorisées ou non.
 
 III.-1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent répondre aux conditions suivantes : 
 
-1° Avoir un coût de développement supérieur ou égal à 150 000 euros ; 
+1° Avoir un coût de développement supérieur ou égal à 150 000 € ; 
 
 2° Etre destinés à une commercialisation effective auprès du public ; 
 
@@ -37,7 +37,7 @@ très grande violence, susceptibles de nuire gravement à l'épanouissement phys
 
 IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du
 montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de
-l'Union européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
+l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
 convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent
 dans la détermination du résultat imposable : 
 
@@ -74,6 +74,10 @@ durée de l'exercice.
 
 VII.-Les conditions d'application du présent article, notamment celles relatives à la délivrance de l'agrément provisoire et
 aux obligations déclaratives incombant aux entreprises, sont fixées par décret.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 59-VIII L de la loi n° 2011-1978 du 28 décembre 2011.
 
 **Liens relatifs à cet article**
 
@@ -116,7 +120,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L113-1
+  - Code général des impôts, CGI. - art. 44 decies
+  - Code général des impôts, CGI. - art. 44 quindecies
+  - Code général des impôts, CGI. - art. 44 septies
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 sexies A
 
 _Anciens textes_:
 
