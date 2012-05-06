@@ -1,8 +1,8 @@
 # Article 885-0 V bis A
 
-I.-Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la limite de 50 000 euros, 75 % du montant des
-dons en numéraire et dons en pleine propriété de titres de sociétés admis aux négociations sur un marché réglementé français
-ou étranger effectués au profit : 
+I.-Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la limite de 50 000 €, 75 % du montant des dons
+en numéraire et dons en pleine propriété de titres de sociétés admis aux négociations sur un marché réglementé français ou
+étranger effectués au profit : 
 
 1° Des établissements de recherche ou d'enseignement supérieur ou d'enseignement artistique publics ou privés, d'intérêt
 général, à but non lucratif ; 
@@ -45,7 +45,7 @@ d'impôt obtenue fait l'objet d'une reprise, sauf lorsque le contribuable a prod
 pièces justificatives attestant que cet organisme poursuit des objectifs et présente des caractéristiques similaires aux
 organismes dont le siège est situé en France répondant aux conditions fixées par le présent article. 
 
-Un décret fixe les conditions d'application des onzième et douzième alinéas et notamment la durée de validité ainsi que les
+Un décret fixe les conditions d'application des douzième et treizième alinéas et notamment la durée de validité ainsi que les
 modalités de délivrance, de publicité et de retrait de l'agrément. 
 
 II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la
@@ -56,7 +56,7 @@ fiscal au titre d'un autre impôt.
 
 Le redevable peut bénéficier de l'avantage fiscal prévu au présent article et de celui prévu à l'article 885-0 V bis au titre
 de la même année, sous réserve que le montant imputé sur l'impôt de solidarité sur la fortune résultant des deux avantages
-n'excède pas 45 000 euros. 
+n'excède pas 45 000 €. 
 
 Par dérogation à l'alinéa précédent, la fraction des versements pour laquelle le redevable demande le bénéfice de l'avantage
 fiscal prévu au présent article ne peut donner lieu à l'application de l'article 885-0 V bis. 
@@ -68,6 +68,10 @@ mois suivant la date limite de dépôt de ladite déclaration, des pièces justi
 date des versements ainsi que l'identité des bénéficiaires. 
 
 V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 40 de la loi n° 2010-1657 du 29 décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -94,10 +98,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1649 nonies (V)
   - Code général des impôts, CGI. - art. 200
   - Code général des impôts, CGI. - art. 885-0 V bis
   - Code de l'éducation - art. L719-12
@@ -106,3 +111,4 @@ _Cite_:
   - Code du travail - art. L5132-6
   - Code du travail - art. L5132-7
   - Code du travail - art. L5213-13
+  - Code du travail - art. L6325-17 (V)
