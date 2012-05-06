@@ -10,10 +10,14 @@ concurrence de 15 % et dans la limite du plafond fixé au I de l'article 46 de l
 finances pour 2012 au Centre des monuments nationaux. 
 
 Le produit de ce prélèvement est en outre affecté à concurrence de 15 % et dans la limite indexée, chaque année, sur la
-prévision de l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 10 150
-000 € aux communes dans le ressort territorial desquelles sont ouverts au public un ou plusieurs établissements visés au
+prévision de l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 10 322
+550 € aux communes dans le ressort territorial desquelles sont ouverts au public un ou plusieurs établissements visés au
 premier alinéa de l'article 1er de la loi du 15 juin 1907 relative aux casinos, au prorata du produit brut des jeux de ces
 établissements.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 47 de la loi n° 2010-476 du 12 mai 2010.
 
 **Liens relatifs à cet article**
 
@@ -25,7 +29,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2012-354 du 14 mars 2012 - art. 8
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cité par_:
 
