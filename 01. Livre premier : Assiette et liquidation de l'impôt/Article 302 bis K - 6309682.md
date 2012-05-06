@@ -28,12 +28,12 @@ licences des transporteurs aériens.
 
 II.-Le tarif de la taxe est le suivant : 
 
-4,17 euros par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre
-Etat partie à l'accord sur l'Espace économique européen, ou de la Confédération suisse ; 
+4,24 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
+partie à l'accord sur l'Espace économique européen, ou de la Confédération suisse ; 
 
-7,49 euros par passager embarqué vers d'autres destinations ; 
+7,62 € par passager embarqué vers d'autres destinations ; 
 
-1,25 euro par tonne de courrier ou de fret embarquée. 
+1,27 € par tonne de courrier ou de fret embarquée. 
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de
 croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année. 
@@ -111,9 +111,9 @@ Le contentieux est suivi par la direction générale de l'aviation civile. Les r
 jugées comme en matière de taxes sur le chiffre d'affaires. 
 
 VI.-Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet d'une majoration au profit du fonds de
-solidarité pour le développement. Un décret fixe le montant de cette majoration, dans la limite respectivement de 1 euros et
-de 4 euros, ou, lorsque le passager peut bénéficier sans supplément de prix à bord de services auxquels l'ensemble des
-passagers ne pourrait accéder gratuitement, de 10 euros et de 40 euros. 
+solidarité pour le développement. Un décret fixe le montant de cette majoration, dans la limite respectivement de 1 € et de 4
+€, ou, lorsque le passager peut bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne
+pourrait accéder gratuitement, de 10 € et de 40 €. 
 
 La majoration est perçue selon la destination finale du passager. Elle n'est pas perçue lorsqu'il est en correspondance. Est
 considéré comme passager en correspondance celui qui remplit les trois conditions suivantes : 
@@ -166,7 +166,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 1
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cite_:
 
