@@ -1,22 +1,20 @@
 # Article 1649 quater BA
 
-Pour l'application de la législation fiscale, les entreprises inscrites au registre de la chambre nationale de la batellerie
-artisanale sont assimilées aux entreprises artisanales immatriculées au répertoire des métiers.
+Conformément à l'article L. 4431-3 du code des transports, pour l'application de la législation fiscale les entreprises
+inscrites sur un registre tenu par la chambre nationale de la batellerie artisanale sont assimilées aux entreprises
+artisanales immatriculées au répertoire des métiers.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 282, 1468
-
-_Créé par_:
-
-  - Loi n°84-1208 1984-12-29 art. 93 I Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+  - Code des transports - art. L4431-3
 
 _Codifié par_:
 
-  - Décret n°85-1007 1985-09-24
+  - Décret n°85-1007 du 24 septembre 1985
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 15 juillet 1985
+  - Décret n°2012-653 du 4 mai 2012 - art. 1

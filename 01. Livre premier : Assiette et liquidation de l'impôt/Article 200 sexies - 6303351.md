@@ -10,9 +10,9 @@ première part de quotient familial des personnes célibataires, veuves ou divor
 parts de quotient familial des personnes soumises à imposition commune. Ces limites sont majorées de 4 490 euros pour chacune
 des demi-parts suivantes et de la moitié de cette somme pour chacun des quarts de part suivants. 
 
-Pour l'appréciation de ces limites, lorsqu'au cours d'une année civile survient l'un des événements mentionnés aux 4, 5 et 6
-de l'article 6, le montant des revenus, tel que défini au IV de l'article 1417, déclaré au titre de chacune des déclarations
-souscrites est converti en base annuelle.
+Pour l'appréciation de ces limites, lorsqu'au cours d'une année civile survient l'événement mentionné au 8 de l'article 6, le
+montant des revenus, tel que défini au IV de l'article 1417, déclaré au titre de chacune des déclarations souscrites est
+converti en base annuelle.
 
 B.-1° Le montant des revenus déclarés par chacun des membres du foyer fiscal bénéficiaire de la prime majoré du montant des
 revenus soumis aux versements libératoires prévus par l'article 151-0, à raison de l'exercice d'une ou plusieurs activités
@@ -170,4 +170,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 139
+  - Décret n°2012-653 du 4 mai 2012 - art. 1

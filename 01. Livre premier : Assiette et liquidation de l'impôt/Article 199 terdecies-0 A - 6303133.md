@@ -197,14 +197,14 @@ différents sur l'actif net ou sur les produits du fonds, attribuées en fonctio
 VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables domiciliés fiscalement en Guadeloupe, Guyane,
 Martinique, à La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, Polynésie
 française et dans les îles Wallis et Futuna peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 42 % des
-souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-41-1 du code
-monétaire et financier, dont l'actif est constitué pour 60 % au moins de titres financiers, parts de société à responsabilité
-limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des
-établissements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon,
-en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour
-l'application de la réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B du présent code. 
+souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-31 du code
+monétaire et financier(3), dont l'actif est constitué pour 60 % au moins de titres financiers, parts de société à
+responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans
+des établissements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-
+Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour
+l'application de la réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B. 
 
-Les a à c du 1 et le 3 du VI du présent article sont applicables. 
+Les a à c du 1 et le 3 du VI sont applicables. 
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2014. Ils sont retenus dans les
 limites annuelles de 12 000 € pour les contribuables célibataires, veufs ou divorcés et de 24 000 € pour les contribuables
@@ -287,6 +287,8 @@ du 1er janvier 2013.
 Loi n° 2011-1978 du 28 décembre 2011, article 18 II : les dispositions de l'article 199 terdecies-0 A telles qu'elles
 résultent de la présente loi s'appliquent aux versements effectués à compter du 1er janvier 2012.
 
+(3) Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 2011-915 du 1er août 2011.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -338,4 +340,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-547 du 23 avril 2012 - art. 1
+  - Décret n°2012-653 du 4 mai 2012 - art. 1

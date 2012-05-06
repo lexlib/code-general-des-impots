@@ -1,26 +1,18 @@
 # Article 8 quater
 
-Chaque membre des copropriétés de navires régies par le chapitre IV de la loi n° 67-5 du 3 janvier 1967 modifiée portant
-statut des navires et autres bâtiments de mer est personnellement soumis à l'impôt sur le revenu à raison de la part
-correspondant à ses droits dans les résultats déclarés par la copropriété (1).
-
-**Nota:**
-
-(1) Régime applicable aux exercices ouverts à compter du 1er janvier 1978.
+Chaque membre des copropriétés de navires régies par les articles L. 5114-30 à L. 5114-50 du code des transports est
+personnellement soumis à l'impôt sur le revenu à raison de la part correspondant à ses droits dans les résultats déclarés par
+la copropriété.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - Loi n°67-5 du 3 janvier 1967 (V)
+  - Décret n°97-661 du 28 mai 1997
 
 _Modifié par_:
 
-  - Loi n°96-151 du 26 février 1996 - art. 1 () JORF 27 février 1996
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cité par_:
 
@@ -33,6 +25,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 39 C (V)
   - Code général des impôts, CGI. - art. 61 A (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 11 avril 1997
+  - Code des transports - art. L5114-30
