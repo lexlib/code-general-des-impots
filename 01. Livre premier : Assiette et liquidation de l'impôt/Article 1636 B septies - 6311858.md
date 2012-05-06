@@ -12,9 +12,6 @@ taxe constaté l'année précédente au niveau national pour l'ensemble des comm
 V. Pour les communes membres d'un groupement doté d'une fiscalité propre, les taux-plafonds prévus aux I et IV sont réduits
 du taux appliqué l'année précédente au profit du groupement.
 
-VI. Le taux de la cotisation foncière des entreprises voté par un département ou une région ne peut excéder deux fois le taux
-moyen de cette taxe constaté l'année précédente au niveau national pour l'ensemble des collectivités de même nature. 
-
 VI.-Le taux de la taxe foncière sur les propriétés bâties voté par un département ne peut excéder deux fois et demie le taux
 moyen constaté l'année précédente au niveau national pour l'ensemble des départements.
 
@@ -22,7 +19,8 @@ moyen constaté l'année précédente au niveau national pour l'ensemble des dé
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (VD)
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cité par_:
 

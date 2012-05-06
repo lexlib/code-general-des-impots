@@ -6,6 +6,12 @@ habituellement, au sens de l'article L. 1111-2 du code du travail, moins de cinq
 d'intéressement en application du titre Ier du livre III de la troisième partie du même code peuvent bénéficier d'un crédit
 d'impôt au titre des primes d'intéressement dues en application de cet accord. 
 
+I bis. ― Pour les entreprises employant habituellement, au sens de l'article L. 1111-2 du code du travail, moins de deux cent
+cinquante salariés, le I s'applique aux crédits d'impôt relatifs aux primes d'intéressement dues en application d'accords
+d'intéressement conclus ou renouvelés à compter du 1er janvier 2011. Pour les entreprises membres d'un groupe mentionné à
+l'article 223 A du code général des impôts, le nombre de salariés est apprécié en faisant la somme des salariés de chacune
+des sociétés membres de ce groupe. 
+
 II. ― Ce crédit d'impôt est égal à 30 % de la différence entre, d'une part, les primes d'intéressement mentionnées au I dues
 au titre de l'exercice et, d'autre part, la moyenne des primes dues au titre de l'accord précédent ou, si leur montant est
 plus élevé, les primes d'intéressement dues au titre de l'exercice précédent. 
@@ -21,8 +27,8 @@ constaté à l'issue de ces opérations.
 
 V.-Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives. 
 
-VI. ― Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission,
-du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
+VI. ― Le bénéfice du crédit d'impôt mentionné aux I et I bis est subordonné au respect du règlement (CE) n° 1998/2006 de la
+Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
 Pour l'application du premier alinéa, les sociétés de personnes mentionnées aux articles 8 et 238 bis L qui ne sont pas
 soumises à l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998/2006 de la Commission, du 15
@@ -33,7 +39,7 @@ l'article 156.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 131-I (1°) de la loi n° 2010-1657 du 29 décembre 2010.
+Modifications effectuées en conséquence de l'article 20 de la loi n° 2011-900 du 29 juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -48,11 +54,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 1
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 44 decies
   - Code général des impôts, CGI. - art. 44 octies
