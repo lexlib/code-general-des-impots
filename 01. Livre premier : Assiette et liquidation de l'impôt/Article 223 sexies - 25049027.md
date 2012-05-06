@@ -21,9 +21,9 @@ précédentes, la fraction du revenu fiscal de l'année d'imposition supérieure
 montant ainsi obtenu est ajouté à cette même moyenne. La cotisation supplémentaire ainsi obtenue est alors multipliée par
 deux. 
 
-Le premier alinéa du présent 1 est applicable aux contribuables dont le revenu fiscal de référence au titre de chacune des
-deux années précédant celle de l'imposition n'a pas excédé 250 000 € pour les contribuables célibataires, veufs, séparés ou
-divorcés et 500 000 € pour les contribuables soumis à imposition commune. 
+Le premier alinéa est applicable aux contribuables dont le revenu fiscal de référence au titre de chacune des deux années
+précédant celle de l'imposition n'a pas excédé 250 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et
+500 000 € pour les contribuables soumis à imposition commune . 
 
 Cette disposition est applicable aux contribuables qui ont été passibles de l'impôt sur le revenu au titre des deux années
 précédant celle de l'imposition pour plus de la moitié de leurs revenus de source française ou étrangère de même nature que
@@ -62,9 +62,9 @@ traité instituant la Communauté européenne.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 2 (V)
+  - Décret n°2012-653 du 4 mai 2012 - art. 1
 
 _Cité par_:
 
@@ -73,6 +73,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1417 (V)
-  - Code général des impôts, CGI. - art. 163-0 A (V)
-  - Livre des procédures fiscales - art. R*196-1 (V)
+  - Code général des impôts, CGI. - art. 1417
+  - Code général des impôts, CGI. - art. 163-0 A
+  - Livre des procédures fiscales - art. R*196-1
