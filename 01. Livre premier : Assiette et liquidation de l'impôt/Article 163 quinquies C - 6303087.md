@@ -5,12 +5,13 @@ I. (Sans objet)
 II.-1) Les distributions par les sociétés de capital-risque qui remplissent les conditions prévues à l'article 1er-1 de la
 loi n° 85-695 du 11 juillet 1985 précitée, prélevées sur des plus-values nettes de cessions de titres réalisées par la
 société au cours des exercices clos à compter du 31 décembre 2001 sont soumises, lorsque l'actionnaire est une personne
-physique, au taux d'imposition prévu au 2 de l'article 200 A. 
+physique, au taux d'imposition prévu au 2 de l'article 200 A ou, lorsqu'elles sont payées dans un Etat ou territoire non
+coopératif au sens de l'article 238-0 A, à la retenue à la source prévue au 2 de l'article 119 bis.
 
 Toutefois, lorsque ces distributions sont afférentes à des actions donnant lieu à des droits différents sur l'actif net ou
 les produits de la société et attribuées en fonction de la qualité de la personne et sont versées aux salariés ou dirigeants
-mentionnés au premier alinéa du 8 du II de l'article 150-0 A, ce taux s'applique sous réserve du respect des conditions
-suivantes : 
+mentionnés au premier alinéa du 8 du II de l'article 150-0 A, le taux mentionné au 2 de l'article 200 A s'applique sous
+réserve du respect des conditions suivantes : 
 
 1° Ces actions ont été souscrites ou acquises, moyennant un prix correspondant à la valeur des actions, par le salarié ou le
 dirigeant bénéficiaire de la distribution ; 
@@ -44,10 +45,12 @@ sont libérés à la clôture de ce dernier ;
 4° L'actionnaire, son conjoint et leurs ascendants et descendants ne détiennent pas ensemble, directement ou indirectement,
 plus de 25 % des droits dans les bénéfices de sociétés dont les titres figurent à l'actif de la société de capital-risque, ou
 n'ont pas détenu cette part à un moment quelconque au cours des cinq années précédant la souscription ou l'acquisition des
-actions de la société de capital-risque.
+actions de la société de capital-risque. 
 
 Les dispositions du 2 ne s'appliquent pas aux actions de sociétés de capital-risque donnant lieu à des droits différents sur
-l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
+l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne, ni aux distributions
+mentionnées au premier alinéa du 1 du présent II payées dans un Etat ou territoire non coopératif au sens de l'article 238-0
+A. 
 
 III. Les sommes qui ont été exonérées d'impôt sur le revenu sont ajoutées au revenu imposable de l'année au cours de laquelle
 la société ou le contribuable cesse de remplir les conditions fixées ci-dessus. 
@@ -57,17 +60,24 @@ soumis à une imposition commune se trouve dans l'un des cas suivants : invalidi
 deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite
 ou licenciement.
 
+**Nota:**
+
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 6 II : Ces dispositions sont applicables aux
+produits, sommes, valeurs et distributions versés à compter de la date de publication de la présente loi.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°85-695 du 11 juillet 1985 - art. 1-1
+  - Code général des impôts, CGI. - art. 119 bis (V)
   - Code général des impôts, CGI. - art. 200 A
+  - Code général des impôts, CGI. - art. 238-0 A (V)
   - Code de la sécurité sociale. - art. L341-4
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 1
+  - Loi n°2012-958 du 16 août 2012 - art. 6 (V)
 
 _Cité par_:
 
