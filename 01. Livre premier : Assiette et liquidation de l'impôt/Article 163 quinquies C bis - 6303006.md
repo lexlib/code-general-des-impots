@@ -1,27 +1,28 @@
 # Article 163 quinquies C bis
 
 Les distributions effectuées par les sociétés unipersonnelles d'investissement à risque mentionnées à l'article 208 D sont
-exonérées d'impôt sur le revenu et de la retenue à la source mentionnée au 2 de l'article 119 bis lorsque les conditions
-suivantes sont réunies :
+exonérées d'impôt sur le revenu et, sauf si elles sont payées dans un Etat ou territoire non coopératif au sens de l'article
+238-0 A, de la retenue à la source mentionnée au 2 de l'article 119 bis lorsque les conditions suivantes sont réunies : 
 
 1° Elles sont prélevées sur des bénéfices exonérés d'impôt sur les sociétés en application des dispositions de l'article 208
-D ;
+D ; 
 
 2° L'associé a son domicile fiscal en France ou dans un pays ou territoire ayant conclu avec la France une convention
-d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ;
+d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ; 
 
 3° Les actions ouvrant droit aux distributions concernées ont été souscrites par l'associé unique initial ou transmises à
 titre gratuit à la suite du décès de cet associé.
 
+**Nota:**
+
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 6 II : Ces dispositions sont applicables aux
+produits, sommes, valeurs et distributions versés à compter de la date de publication de la présente loi.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 208 D, 119 bis
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 81 (V) JORF 31 décembre 2005
+  - Loi n°2012-958 du 16 août 2012 - art. 6 (V)
 
 _Cité par_:
 
@@ -29,6 +30,8 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies M (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter D (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2006
+  - Code général des impôts, CGI. - art. 119 bis (V)
+  - Code général des impôts, CGI. - art. 208 D (V)
+  - Code général des impôts, CGI. - art. 238-0 A (V)
