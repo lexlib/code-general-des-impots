@@ -34,8 +34,7 @@ production audiovisuelle ou cinématographique, ou d'une entreprise de distribut
 correspondant au versement du minimum garanti au profit d'un producteur, à condition que ces œuvres soient susceptibles de
 bénéficier de l'amortissement fiscal pratiqué sur une durée de douze mois ;
 
-- des subventions d'exploitation et des abandons de créances à caractère financier à la hauteur du montant déductible des
-résultats imposables à l'impôt sur le revenu ou à l'impôt sur les sociétés de l'entreprise qui les consent ;
+- des subventions d'exploitation ;
 
 - de la variation positive des stocks ;
 
@@ -64,9 +63,6 @@ produits énergétiques [Dispositions déclarées non conformes à la Constituti
 2009-599 DC du 29 décembre 2009] ;
 
 - les autres charges de gestion courante, autres que les quotes-parts de résultat sur opérations faites en commun ;
-
-- les abandons de créances à caractère financier, à la hauteur du montant déductible des résultats imposables à l'impôt sur
-le revenu ou à l'impôt sur les sociétés ;
 
 - les dotations aux amortissements pour dépréciation afférentes aux biens corporels donnés en location ou sous-location pour
 une durée de plus de six mois, donnés en crédit-bail ou faisant l'objet d'un contrat de location-gérance, en proportion de la
@@ -260,9 +256,9 @@ conformes à la Constitution par la décision du Conseil constitutionnel n° 200
 
 - les dotations aux provisions autres que les provisions techniques. 
 
-c) Pour les mutuelles et les institutions de prévoyance visées au  premier alinéa du présent VI, les produits et les charges
-ne sont pris  en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de  leur montant en 2013 et de 60 % en
-2014. Ils sont pris en compte en  totalité à partir de 2015 (1).  
+c) Pour les mutuelles et les institutions de prévoyance visées au premier alinéa du présent VI, les produits et les charges
+ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014.
+Ils sont pris en compte en totalité à partir de 2015 (1). 
 
 VII.-Lorsque les plus-values de cession d'immobilisations ou de titres de nature à être comprises dans le chiffre d'affaires
 et la valeur ajoutée en application des I et III à VI sont réalisées l'année de création de l'entreprise, elles sont
@@ -270,9 +266,8 @@ comprises dans le chiffre d'affaires et la valeur ajoutée retenus au titre de l
 
 **Nota:**
 
-(1) Aux termes de l'article 65 IV de la loi n° 2011-1978 du 28 décembre 2011, les dispositions du I bis ainsi que celles du
-c) du 2 du VI de l'article 1586 sexies résultant de l'article 65-II de ladite loi s'appliquent à compter des impositions dues
-au titre de 2013.
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 17 II : Ces dispositions s'appliquent aux exercices
+clos à compter du 4 juillet 2012  .
 
 **Liens relatifs à cet article**
 
@@ -304,14 +299,19 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
 
+_Créé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 65 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
+  - Loi n°2012-958 du 16 août 2012 - art. 17 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1447 (V)
-  - Code général des impôts, CGI. - art. 217 undecies (V)
-  - Code général des impôts, CGI. - art. 29 (V)
-  - Code monétaire et financier - art. L211-1 (V)
-  - Code monétaire et financier - art. L531-4 (V)
+  - Code général des impôts, CGI. - art. 1447
+  - Code général des impôts, CGI. - art. 217 undecies
+  - Code général des impôts, CGI. - art. 29
+  - Code monétaire et financier - art. L211-1
+  - Code monétaire et financier - art. L531-4
