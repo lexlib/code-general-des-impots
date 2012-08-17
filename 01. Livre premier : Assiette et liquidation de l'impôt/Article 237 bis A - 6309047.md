@@ -49,10 +49,10 @@ les résultats, une somme égale à 25 p. 100 des sommes portées à la réserve
 exercice et admises en déduction des bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation
 ne peut être répartie qu'entre les seuls détenteurs d'actions de travail. 
 
-3. Le montant de la provision pour investissement que les sociétés coopératives ouvrières de production peuvent constituer à
-la clôture d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale de participation au titre du même
-exercice. Les dotations à la réserve légale et au fonds de développement de ces sociétés peuvent tenir lieu, à due
-concurrence, de provision pour investissement. 
+3. Le montant de la provision pour investissement que les sociétés coopératives ouvrières de production peuvent constituer en
+franchise d'impôt à la clôture d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale de
+participation au titre du même exercice. Les dotations à la réserve légale et au fonds de développement de ces sociétés
+peuvent tenir lieu, à due concurrence, de provision pour investissement. 
 
 Cette disposition n'est pas applicable aux sociétés coopératives ouvrières de production dont le capital est détenu pour plus
 de 50 p. 100 par des personnes définies au 1 quinquies de l'article 207 et des titulaires de certificats coopératifs
@@ -84,9 +84,13 @@ d'entre elles.
 III. Les dispositions du présent article s'appliquent pour chaque entreprise au premier jour du premier exercice ouvert après
 le 23 octobre 1986.
 
-**Nota:**
+IV. - Les provisions prévues aux 1 et 2 du II cessent d'être admises en déduction des résultats imposables constatés au titre
+des exercices clos à compter de la date de publication de la loi n° 2012-958 du 16 août 2012 de finances rectificative pour
+2012. A compter de ces mêmes exercices, les 5 et 6 du même II s'appliquent aux seules provisions constituées en application
+du 3 dudit II. 
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Les provisions mentionnées au premier alinéa du présent IV figurant à l'ouverture du premier exercice clos à compter de la
+date de publication de la même loi sont rapportées aux résultats imposables dans les conditions prévues au 4 du II.
 
 **Liens relatifs à cet article**
 
@@ -106,7 +110,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2012-958 du 16 août 2012 - art. 13
 
 _Cité par_:
 
