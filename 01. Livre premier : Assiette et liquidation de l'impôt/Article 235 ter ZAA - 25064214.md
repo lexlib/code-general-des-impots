@@ -20,16 +20,18 @@ II.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'arti
 annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution. 
 
 III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et
-sanctions. 
+sanctions.
 
-Elle est payée spontanément au comptable public compétent, au plus tard à la date prévue au 2 de l'article 1668 pour le
-versement du solde de liquidation de l'impôt sur les sociétés.
+**Nota:**
+
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 12 II : Ces dispositions s'appliquent aux exercices
+clos à compter du 31 décembre 2012 .
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 30
+  - Loi n°2012-958 du 16 août 2012 - art. 12 (V)
 
 _Cité par_:
 
