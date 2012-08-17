@@ -144,17 +144,18 @@ parts du fonds et, directement ou indirectement, plus de 25 % des droits dans le
 figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la
 souscription des parts du fonds ou l'apport des titres ; 
 
-c) Par dérogation aux dispositions du dernier alinéa du I de l'article L. 214-30 du code monétaire et financier, si le fonds
+c. Par dérogation aux dispositions du dernier alinéa du I de l'article L. 214-30 du code monétaire et financier, si le fonds
 n'a pas pour objet d'investir plus de 50 % de son actif au capital de jeunes entreprises innovantes définies à l'article 44
 sexies-0 A, le quota d'investissement de 60 % prévu à ce même I doit être atteint à hauteur de 50 % au moins au plus tard
 huit mois à compter de la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle
-ne peut excéder huit mois à compter de la date de constitution du fonds, ou huit mois après la promulgation de la loi n°
-2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier jour du huitième mois
-suivant. 
+ne peut excéder huit mois à compter de la date de constitution du fonds, sauf pour les fonds mentionnés au VI ter A du
+présent article pour lesquels la période de souscription est allongée de huit à douze mois, ou huit mois après la
+promulgation de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier
+jour du huitième mois suivant. 
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux effectués jusqu'au 31 décembre 2012. Ils
-sont retenus, après imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les
-contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune. 
+sont retenus, après imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 € pour les contribuables
+célibataires, veufs ou divorcés et de 24 000 € pour les contribuables mariés soumis à imposition commune. 
 
 2 bis. Un décret fixe les conditions dans lesquelles les porteurs de parts sont informés annuellement du montant détaillé des
 frais et commissions, directs et indirects, qu'ils supportent et celles dans lesquelles ces frais sont encadrés. 
@@ -172,9 +173,9 @@ différents sur l'actif net ou sur les produits du fonds, attribuées en fonctio
 VI bis.-Les dispositions du 1, du 2 bis et du 3 du VI s'appliquent aux versements effectués au titre de souscriptions en
 numéraire de parts de fonds d'investissement de proximité mentionnés à l'article L. 214-31 du code monétaire et financier.
 Les versements ouvrant droit à la réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus, après
-imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les contribuables célibataires,
-veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune. Les réductions d'impôt
-prévues au VI et au VI bis sont exclusives l'une de l'autre pour les souscriptions dans un même fonds. 
+imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 € pour les contribuables célibataires, veufs ou
+divorcés et de 24 000 € pour les contribuables mariés soumis à imposition commune. Les réductions d'impôt prévues au VI et au
+VI bis sont exclusives l'une de l'autre pour les souscriptions dans un même fonds. 
 
 Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits
 différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne. 
@@ -188,11 +189,11 @@ activités exclusivement dans des établissements situés en Corse.
 Les dispositions du 1, du 2 bis et du 3 du VI sont applicables. 
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus, après
-imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les contribuables célibataires,
-veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune. Les réductions d'impôts
-prévues aux VI, VI bis et au présent VI ter sont exclusives les unes des autres pour les souscriptions dans un même fonds.
-Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits
-différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne. 
+imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 € pour les contribuables célibataires, veufs ou
+divorcés et de 24 000 € pour les contribuables mariés soumis à imposition commune. Les réductions d'impôts prévues aux VI, VI
+bis et au présent VI ter sont exclusives les unes des autres pour les souscriptions dans un même fonds. Les présentes
+dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits différents sur
+l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne. 
 
 VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables domiciliés fiscalement en Guadeloupe, Guyane,
 Martinique, à La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, Polynésie
@@ -254,7 +255,7 @@ décret et qui ne peut dépasser le plafond autorisé par la Commission europée
 promouvoir les investissements en capital-investissement dans les petites et moyennes entreprises ou les entreprises
 innovantes. 
 
-Par dérogation au premier alinéa du présent d, cette condition n'est pas applicable pour les versements au titre de
+(2) Par dérogation au premier alinéa du présent d, cette condition n'est pas applicable pour les versements au titre de
 souscriptions effectuées au capital des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail qui
 ont exclusivement pour objet : 
 
@@ -271,7 +272,7 @@ Le bénéfice de la dérogation mentionnée au deuxième alinéa du présent d e
 
 ― la société ne procède pas à la distribution de dividendes ; 
 
-― la société réalise son objet social sur l'ensemble du territoire national. (2) 
+― la société réalise son objet social sur l'ensemble du territoire national. 
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
@@ -281,8 +282,8 @@ porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
 (1) Loi n° 2011-1977 du 28 décembre 2011, article 26 II : Cette disposition s'applique aux souscriptions réalisées à compter
 du 1er janvier 2012.
 
-(2) Loi n° 2011-1977 du 28 décembre 2011, article 77 II : Ces six alinéas s'appliquent aux souscriptions effectuées à compter
-du 1er janvier 2013.
+(2) Loi n° 2011-1977 du 28 décembre 2011, article 77 II : les six alinéas suivants s'appliquent aux souscriptions effectuées
+à compter du 1er janvier 2013.
 
 Loi n° 2011-1978 du 28 décembre 2011, article 18 II : les dispositions de l'article 199 terdecies-0 A telles qu'elles
 résultent de la présente loi s'appliquent aux versements effectués à compter du 1er janvier 2012.
@@ -339,4 +340,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2012-958 du 16 août 2012 - art. 43
