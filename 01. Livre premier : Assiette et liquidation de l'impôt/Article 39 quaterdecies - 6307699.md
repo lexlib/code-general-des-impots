@@ -83,19 +83,24 @@ d'apport d'une entreprise individuelle à une société dans les conditions pré
 bénéficiaire de l'apport prend l'engagement dans l'acte d'apport de réintégrer à ses résultats les plus-values à court terme
 comme aurait dû le faire l'entreprise apporteuse. 
 
+2 bis. La moins-value résultant de la cession, moins de deux ans après leur émission, de titres de participation acquis en
+contrepartie d'un apport réalisé et dont la valeur réelle à la date de leur émission est inférieure à leur valeur
+d'inscription en comptabilité n'est pas déductible, dans la limite du montant résultant de la différence entre la valeur
+d'inscription en comptabilité desdits titres et leur valeur réelle à la date de leur émission.
+
 3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet
 exercice.
 
 **Nota:**
 
-Loi n° 2009-431 du 20 avril 2009 de finances rectificative pour 2009 article 2 II : Le I est applicable aux rachats de
-créances intervenus entre l'entrée en vigueur de la présente loi et le 31 décembre 2010.
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 18 II : Ces dispositions s'appliquent aux cessions
+de titres reçus en contrepartie d'apports réalisés à compter du 19 juillet 2012
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2012-958 du 16 août 2012 - art. 18 (V)
 
 _Cite_:
 

@@ -14,18 +14,18 @@ a. Des représentations théâtrales à caractère pornographique ;
 
 b. (Disposition devenue sans objet).
 
-c. De la vente de billets imposée au taux réduit de 7 % dans les conditions prévues au b bis a de l'article 279.
+c. De la vente de billets imposée au taux réduit de 5,5 % dans les conditions prévues au 2° du F de l'article 278-0 bis.
 
 **Nota:**
 
-LOI n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 13 III : les dispositions du présent article
-s'appliquent aux opérations pour lesquelles la taxe sur la valeur ajoutée est exigible à compter du 1er janvier 2012.
+Conformément à l'article 28-II de la loi n° 2012-958 du 16 août 2012, ces dispositions s'appliquent aux opérations pour
+lesquelles la taxe sur la valeur ajoutée est exigible à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 13 (V)
+  - Loi n°2012-958 du 16 août 2012 - art. 28 (V)
 
 _Cité par_:
 
