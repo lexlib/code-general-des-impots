@@ -11,27 +11,18 @@ chargé des grandes entreprises au sein de l'administration fiscale dans des con
 
 3. Le paiement de la cotisation sur la valeur ajoutée des entreprises est effectué par télérèglement. 
 
-4. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement lorsque le chiffre d'affaires hors taxes
-réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 230 000 euros. 
+4. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement. 
 
-5. Les redevables astreints au paiement de l'impôt sur les sociétés selon les modalités mentionnées au 4 acquittent la taxe
-sur les salaires mentionnée à l'article 231 par télérèglement. 
+5. Les entreprises soumises à l'impôt sur les sociétés, qu'elles en soient redevables ou non, acquittent la taxe sur les
+salaires mentionnée à l'article 231 par télérèglement. 
 
 6. Les paiements mentionnés aux 2 et 3 de l'article 1681 sexies peuvent également être effectués par télérèglement.
-
-**Nota:**
-
-Conformément à l'article 29 VII de la loi n° 2009-1674 de finances rectificative pour 2009, le montant : " 500 000 euros "
-mentionné au 4 est remplacé par le montant : " 230 000 euros " pour les déclarations, leurs annexes, les demandes de
-remboursement de crédit de taxe sur la valeur ajoutée ainsi que les paiements afférents aux impôts ou taxes mentionnés aux
-articles 1695 quater, 1668 et 231 du code général des impôts, devant être souscrites ou acquittés à compter du 1er octobre
-2011.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 29 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
 
 _Cité par_:
 
@@ -41,7 +32,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1649 quater B quater (VT)
-  - Code général des impôts, CGI. - art. 1668 (V)
-  - Code général des impôts, CGI. - art. 1681 sexies (V)
+  - Code général des impôts, CGI. - art. 1649 quater B quater
+  - Code général des impôts, CGI. - art. 1668
+  - Code général des impôts, CGI. - art. 1681 sexies
   - Code général des impôts, CGI. - art. 231 (V)
