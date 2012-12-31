@@ -4,9 +4,17 @@ I. (Sans objet)
 
 II.-1) Les distributions par les sociétés de capital-risque qui remplissent les conditions prévues à l'article 1er-1 de la
 loi n° 85-695 du 11 juillet 1985 précitée, prélevées sur des plus-values nettes de cessions de titres réalisées par la
-société au cours des exercices clos à compter du 31 décembre 2001 sont soumises, lorsque l'actionnaire est une personne
-physique, au taux d'imposition prévu au 2 de l'article 200 A ou, lorsqu'elles sont payées dans un Etat ou territoire non
-coopératif au sens de l'article 238-0 A, à la retenue à la source prévue au 2 de l'article 119 bis.
+société au cours des exercices clos à compter du 31 décembre 2001 sont   imposées dans les conditions prévues au 2 de
+l'article 200 A lorsque l'actionnaire est une personne physique fiscalement domiciliée en France au sens de l'article 4 B, ou
+soumises à la retenue à la source prévue au 2 de l'article 119 bis lorsqu'elles sont payées dans un Etat ou territoire non
+coopératif au sens de l'article 238-0 A, ou soumises à cette même retenue à la source aux taux de 19 % pour les gains
+réalisés avant le 1er janvier 2013 et de 45 % pour ceux réalisés à compter de cette même date lorsque l'actionnaire est une
+personne physique fiscalement domiciliée hors de France. Toutefois, les personnes physiques qui ne sont pas fiscalement
+domiciliées en France au sens de l'article 4 B peuvent demander le remboursement de l'excédent du prélèvement de 45 % lorsque
+ce prélèvement excède la différence entre, d'une part, le montant de l'impôt qui résulterait de l'application de l'article
+197 A à la somme des distributions mentionnées au présent alinéa et des autres revenus de source française imposés dans les
+conditions de ce même article 197 A au titre de la même année et, d'autre part, le montant de l'impôt établi dans les
+conditions prévues audit article 197 A sur ces autres revenus.  
 
 Toutefois, lorsque ces distributions sont afférentes à des actions donnant lieu à des droits différents sur l'actif net ou
 les produits de la société et attribuées en fonction de la qualité de la personne et sont versées aux salariés ou dirigeants
@@ -62,22 +70,22 @@ ou licenciement.
 
 **Nota:**
 
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 6 II : Ces dispositions sont applicables aux
-produits, sommes, valeurs et distributions versés à compter de la date de publication de la présente loi.
+Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 10 V : Ces dispositions s'appliquent aux gains réalisés
+et distributions perçues à compter du 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°85-695 du 11 juillet 1985 - art. 1-1
-  - Code général des impôts, CGI. - art. 119 bis (V)
+  - Code général des impôts, CGI. - art. 119 bis
   - Code général des impôts, CGI. - art. 200 A
-  - Code général des impôts, CGI. - art. 238-0 A (V)
+  - Code général des impôts, CGI. - art. 238-0 A
   - Code de la sécurité sociale. - art. L341-4
 
 _Modifié par_:
 
-  - Loi n°2012-958 du 16 août 2012 - art. 6 (V)
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 10 (VD)
 
 _Cité par_:
 
