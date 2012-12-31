@@ -31,7 +31,7 @@ est calculée sur base sociale ou sous-consolidée pour les personnes n'apparten
 consolidée. Dans ce dernier cas, l'assiette sur base consolidée de l'entreprise mère est diminuée des montants pris en compte
 au titre de l'imposition d'une personne sur base sociale ou sous-consolidée. 
 
-III. ― Le taux de la taxe de risque systémique est fixé à 0,25 %. 
+III. ― Le taux de la taxe de risque systémique est fixé à 0,50 %. 
 
 IV. ― La taxe de risque systémique est exigible le 30 avril.
 
@@ -88,11 +88,21 @@ troisième année suivant celle au cours de laquelle la personne assujettie a re
 
 X. ― Le présent article est applicable sur l'ensemble du territoire de la République.
 
+**Nota:**
+
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 9 I : Il est créé une taxe additionnelle à la taxe
+prévue à l'article 235 ter ZE du code général des impôts due au titre de 2012. Elle est due par les personnes redevables, en
+2012, de cette dernière taxe. 
+
+Cette taxe additionnelle est égale au montant de la taxe de risque systémique qui était exigible au 30 avril 2012. 
+
+Elle est exigible le 30 août 2012. 
+
+Elle est acquittée auprès du comptable public compétent au plus tard le 30 septembre 2012. 
+
+Les VI à X du même article 235 ter ZE s'appliquent à cette taxe additionnelle.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 34 (V)
 
 _Cité par_:
 
@@ -102,9 +112,9 @@ _Cité par_:
   - Loi n°2012-958 du 16 août 2012 - art. 9 (V)
   - Code général des impôts, CGI. - art. 39 (M)
 
-**Liens**:
+_Modifié par_:
 
-  - RECTIFICATION: Loi n°2011-1978 du 28 décembre 2011 - art., v. init.
+  - Loi n°2012-958 du 16 août 2012 - art. 9 (V)
 
 _Cite_:
 
