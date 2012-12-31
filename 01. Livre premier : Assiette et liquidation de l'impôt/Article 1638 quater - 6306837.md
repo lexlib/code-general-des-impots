@@ -63,27 +63,24 @@ peuvent décider, par délibérations concordantes, que le taux de cotisation fo
 ou partie de commune incorporée dans la zone ou aux installations de production d'électricité utilisant l'énergie mécanique
 du vent est, dès la première année, celui fixé par l'établissement public de coopération intercommunale. 
 
-III bis. ― Dans les cas de rattachement prévus au I, par délibérations concordantes de l'organe délibérant de l'établissement
-public de coopération intercommunale et du conseil municipal de la commune concernée, les taux de taxe d'habitation, de taxe
-foncière sur les propriétés bâties et de taxes foncières sur les propriétés non bâties votés par l'organe délibérant de
-l'établissement public de coopération intercommunale peuvent être appliqués de manière progressive par fractions égales sur
-une période maximale de douze années. Le présent III bis n'est pas applicable pour les taxes pour lesquelles le rapport entre
-ces taux et les taux votés par le conseil municipal l'année du rattachement de cette commune est inférieur à 10 %. Le cas
-échéant, sont pris en compte pour le calcul de ce rapport les taux des impositions perçues l'année du rattachement au profit
-des établissements publics auxquels la commune appartenait. 
-
 IV. En cas de rattachement volontaire ou à la suite d'une transformation dans les conditions prévues à l'article L. 5211-41-1
 du code général des collectivités territoriales d'une commune à un établissement public de coopération intercommunale à
 fiscalité additionnelle, l'organe délibérant vote les taux de taxe d'habitation, de foncier bâti, de foncier non bâti et de
 cotisation foncière des entreprises dans les conditions prévues à l'article 1636 B sexies. 
 
-Par délibérations concordantes de l'organe délibérant de l'établissement public de coopération intercommunale et du conseil
-municipal de la commune concernée, les taux votés en application du premier alinéa peuvent être appliqués de manière
-progressive par fractions égales sur une période maximale de douze années. Le présent alinéa n'est pas applicable pour les
-taxes pour lesquelles le rapport entre ces taux et les taux votés par le conseil municipal l'année du rattachement de cette
-commune est inférieur à 10 %. Le cas échéant, sont pris en compte pour le calcul de ce rapport les taux des impositions
-perçues l'année du rattachement au profit des établissements publics de coopération intercommunale auxquels la commune
-appartenait. 
+IV bis. - Dans les cas prévus aux I et IV, par délibérations concordantes de l'organe délibérant de l'établissement public de
+coopération intercommunale et du conseil municipal de la commune concernée, les taux de taxe d'habitation, de taxe foncière
+sur les propriétés bâties, de taxe foncière sur les propriétés non bâties et, le cas échéant, de cotisation foncière des
+entreprises votés par l'organe délibérant de l'établissement public de coopération intercommunale peuvent être appliqués de
+manière progressive, par fractions égales, sur une période maximale de douze années. Le présent IV bis n'est pas applicable
+aux taxes pour lesquelles le rapport entre ces taux et les taux votés par le conseil municipal l'année du rattachement de
+cette commune est inférieur à 10 %. Le cas échéant, sont pris en compte pour le calcul de ce rapport les taux des impositions
+perçues l'année du rattachement au profit des établissements publics auxquels la commune appartenait. 
+
+Lorsque, l'année du rattachement, la commune était membre d'un établissement public de coopération intercommunale à fiscalité
+propre, la procédure d'intégration fiscale progressive prévue au premier alinéa du présent IV bis ne concerne que la
+différence entre le taux qui aurait été appliqué sur le territoire de la commune l'année du rattachement s'il avait déjà pris
+fiscalement effet et le taux effectivement appliqué sur ce même territoire la même année. 
 
 V.-Les I, II et III sont également applicables aux communes faisant l'objet d'un rattachement à une communauté urbaine ou à
 une communauté d'agglomération dont le périmètre est étendu en application du renouvellement de la procédure prévue aux
@@ -100,12 +97,6 @@ le taux communal de taxe d'habitation est réduit de la différence entre, d'une
 d'habitation calculé pour la commune conformément à l'article 1640 C, d'autre part, le taux communal de taxe d'habitation
 applicable en 2010 dans la commune.
 
-**Nota:**
-
-LOI n° 2010-1657 du 29 décembre 2010 de finances pour 2011 art 108 XXII : les dispositions de l'article 1638 quater
-s'appliquent aux rattachements de communes à un établissement public de coopération intercommunale qui prennent effet
-fiscalement à compter de l'année 2012 ou des années suivantes.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -117,7 +108,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 41
 
 _Cite_:
 
