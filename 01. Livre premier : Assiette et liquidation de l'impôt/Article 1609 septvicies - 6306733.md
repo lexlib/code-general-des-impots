@@ -22,9 +22,11 @@ que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instrui
 cette même taxe. 
 
 VI.-Le produit de la taxe mentionnée au I est affecté à l'établissement mentionné à l'article L. 621-1 du code rural et de la
-pêche maritime. Cet établissement crée un fonds à comptabilité distincte auquel est rattaché ce produit, à l'exception d'une
-part fixée par décret dans la limite de 3 % de ce produit, qui est destinée à financer la gestion des opérations imputées sur
-le fonds. 
+pêche maritime, dans la limite du plafond prévu au 
+I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011
+de finances pour 2012. Cet établissement crée un fonds à comptabilité distincte auquel est rattaché ce produit, à l'exception
+d'une part fixée par décret dans la limite de 3 % de ce produit, qui est destinée à financer la gestion des opérations
+imputées sur le fonds. 
 
 Ce fonds a pour objet de contribuer au financement des dépenses du service public de l'équarrissage et d'aides à la collecte
 et au traitement des sous-produits animaux des exploitations agricoles ainsi qu'au financement des mesures concourant au
@@ -42,14 +44,14 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 A (P)
   - Code rural - art. R228-13 (V)
 
-_Modifié par_:
-
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
-
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1693 bis
-  - Code général des impôts, CGI. - art. 287
-  - Code général des impôts, CGI. - art. 298 bis
-  - Code rural - art. L233-2
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
+
+_Modifié par_:
+
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 39 (VD)
+
+_Abrogé par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 47
