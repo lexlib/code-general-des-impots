@@ -18,7 +18,7 @@ les bénéfices sont imposés au nom des associés et les porteurs de parts, per
 immobilier mentionnés à l'article 239 nonies, résidents d'un Etat membre de l'Union européenne ou d'un autre Etat partie à
 l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de
 lutter contre la fraude et l'évasion fiscales, sont soumis au prélèvement selon le taux fixé au premier alinéa de l'article
-200 B. Par dérogation aux premier et présent alinéas, le taux est porté à 50 % lorsque les plus-values sont réalisées par ces
+200 B. Par dérogation aux premier et présent alinéas, le taux est porté à 75 % lorsque les plus-values sont réalisées par ces
 mêmes personnes ou organismes lorsqu'ils sont domiciliés, établis ou constitués hors de France dans un Etat ou territoire non
 coopératif au sens de l'article 238-0 A. 
 
@@ -72,7 +72,7 @@ clôture du ou des seuls exercices clos ou, à défaut, à la date de la cession
 II.-Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values
 sont déterminées selon les modalités définies : 
 
-1° Au I et aux 2° à 9° du II de l'article 150 U (1), aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ; 
+1° Au I et aux 2° à 9° du II de l'article 150 U , aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ; 
 
 2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de l'Union européenne ou d'un
 autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance
@@ -121,16 +121,10 @@ et n'étant pas non coopératif au sens de l'article 238-0 A.
 
 **Nota:**
 
-(1) Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 article 42 II : le changement de référence aux
-2° à 9° du II l'article 150 U mentionnée au 1° du II du présent article s'applique aux cessions à titre onéreux réalisées du
-1er janvier 2012 au 31 décembre 2014.
+Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 9 VI : Ces dispositions s'appliquent aux revenus perçus à
+compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 42 (V)
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 _Cité par_:
 
@@ -154,18 +148,22 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 quater (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 317 B (V)
 
+_Modifié par_:
+
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 9 (VD)
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 131 sexies (V)
-  - Code général des impôts, CGI. - art. 150 U (V)
-  - Code général des impôts, CGI. - art. 150 UB (V)
-  - Code général des impôts, CGI. - art. 150 UC (V)
-  - Code général des impôts, CGI. - art. 150 V (V)
-  - Code général des impôts, CGI. - art. 150 VC (V)
-  - Code général des impôts, CGI. - art. 164 B (V)
-  - Code général des impôts, CGI. - art. 208 (V)
-  - Code général des impôts, CGI. - art. 208 C (V)
-  - Code général des impôts, CGI. - art. 219 (V)
-  - Code général des impôts, CGI. - art. 238-0 A (V)
-  - Code général des impôts, CGI. - art. 4 B (V)
-  - Code monétaire et financier - art. L214-141 (V)
+  - Code général des impôts, CGI. - art. 131 sexies
+  - Code général des impôts, CGI. - art. 150 U
+  - Code général des impôts, CGI. - art. 150 UB
+  - Code général des impôts, CGI. - art. 150 UC
+  - Code général des impôts, CGI. - art. 150 V
+  - Code général des impôts, CGI. - art. 150 VC
+  - Code général des impôts, CGI. - art. 164 B
+  - Code général des impôts, CGI. - art. 208
+  - Code général des impôts, CGI. - art. 208 C
+  - Code général des impôts, CGI. - art. 219
+  - Code général des impôts, CGI. - art. 238-0 A
+  - Code général des impôts, CGI. - art. 4 B
+  - Code monétaire et financier - art. L214-141

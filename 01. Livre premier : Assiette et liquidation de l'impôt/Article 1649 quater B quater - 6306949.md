@@ -1,8 +1,6 @@
 # Article 1649 quater B quater
 
-I.-Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie électronique
-lorsque le chiffre d'affaires réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 15 millions d'euros
-hors taxes. 
+I.-Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie électronique. 
 
 Cette obligation s'applique également aux entreprises qui, quel que soit leur chiffre d'affaires, appartiennent à l'une des
 catégories suivantes : 
@@ -44,13 +42,15 @@ que leurs annexes sont souscrites par voie électronique par les entreprises dé
 III.-Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette taxe,
 ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par voie
 électronique lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent est
-supérieur à 230 000 € hors taxes (1). 
+supérieur à 230 000 € hors taxes ou lorsque l'entreprise est soumise à l'impôt sur les sociétés, quel que soit le montant de
+son chiffre d'affaires (1). 
 
 Cette obligation s'applique également aux redevables définis aux deuxième à dixième alinéas du I. 
 
 IV.-Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie
 électronique par les redevables définis aux deuxième à dernier alinéas du I ou lorsque le chiffre d'affaires de l'entreprise
-redevable est supérieur à 500 000 €. 
+redevable est supérieur à 500 000 € ou lorsque l'entreprise est soumise à l'impôt sur les sociétés, quel que soit le montant
+de son chiffre d'affaires. 
 
 V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis
 bénéficiant du régime visé à l'article 293 B peuvent le déposer sur support papier. 
@@ -61,11 +61,15 @@ dont le nombre d'associés est supérieur ou égal à 100.
 
 **Nota:**
 
-(1) Conformément à la loi n° 2011-1978 du 28 décembre 2011, article 53-I, C-1° : A compter du 1er octobre 2012, le premier
-alinéa du III est complété par les mots "ou lorsque l'entreprise est soumise à l'impôt sur les sociétés, quel que soit le
-montant de son chiffre d'affaires".
+(1) Conformément à la loi n° 2011-1978 du 28 décembre 2011, article 53-I, C-2° : A compter du 1er octobre 2013, au premier
+alinéa du III, le montant "230 000 €" est remplacé par le montant "80 000 €".
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-I
 
 _Cité par_:
 
@@ -85,10 +89,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1698 D (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
-
-_Modifié par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
 
 _Cite_:
 

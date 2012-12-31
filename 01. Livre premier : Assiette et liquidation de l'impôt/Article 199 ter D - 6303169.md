@@ -6,13 +6,13 @@ sont acquis, créés ou loués au titre d'un exercice ne coïncidant pas avec l'
 imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année au cours de laquelle l'exercice est clos. Si le
 montant du crédit d'impôt excède l'impôt dû au titre de ladite année, l'excédent est utilisé pour le paiement de l'impôt sur
 le revenu dû au titre des neuf années suivantes. Le solde non utilisé est remboursé à l'expiration de cette période dans la
-limite de 50 % du crédit d'impôt et d'un montant de 300 000 €. 
+limite de 50 % du crédit d'impôt et d'un montant de 300 000 €.
 
 Toutefois, sur demande du redevable, le solde non utilisé peut être remboursé à compter de la cinquième année, dans la limite
 de 35 % du crédit d'impôt et d'un montant de 300 000 €. 
 
 La créance sur l'Etat correspondant au crédit d'impôt non utilisé est inaliénable et incessible, sauf dans les cas et selon
-les conditions prévus aux articles L. 313-23 à L. 313-35 du code monétaire et financier (1). Elle n'est pas imposable. 
+les conditions prévus aux articles L. 313-23 à L. 313-35 du code monétaire et financier. Elle n'est pas imposable. 
 
 Dans le cadre d'une opération mentionnée au deuxième alinéa du III de l'article 244 quater E, la fraction de la créance qui
 n'a pas encore été imputée est transférée au bénéficiaire de la transmission. 
@@ -24,7 +24,7 @@ absorbée ou apporteuse est transférée à la ou aux sociétés bénéficiaires
 En cas de scission ou d'apport partiel d'actif, la créance est transmise en proportion de l'actif net réel apporté à la ou
 aux sociétés bénéficiaires des apports. 
 
-II (2). ― La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des
+II. ― La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des
 entreprises suivantes : 
 
 1° Les entreprises autres que celles mentionnées au III de l'article 44 sexies et dont le capital est entièrement libéré et
@@ -42,9 +42,9 @@ sociétés ou ces fonds.
 Ces entreprises peuvent demander le remboursement immédiat de la créance constatée au titre de l'année de création. Il en est
 de même pour les créances constatées au titre des quatre années suivantes ; 
 
-2° Les entreprises ayant fait l'objet d'une procédure de sauvegarde, d'un redressement ou d'une liquidation judiciaires. Ces
-entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date du jugement qui a ouvert ces
-procédures ; 
+2° Les entreprises ayant fait l'objet d'une procédure de conciliation ou  de sauvegarde, d'un redressement ou d'une
+liquidation judiciaires. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date
+de la décision ou  du jugement qui a ouvert ces procédures ; 
 
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ; 
 
@@ -54,17 +54,14 @@ application des articles 87 et 88 du traité (Règlement général d'exemption p
 
 **Nota:**
 
-(1) Loi n° 2011-1978 du 28 décembre 2011, art. 39-III : ces dispositions s'appliquent aux créances de crédits d'impôt restant
-à imputer ou constatées à compter du 1er janvier 2012. 
-
-(2) Loi n° 2011-1978 du 28 décembre 2011, art. 39-III : les dispositions du II s'appliquent aux crédits d'impôt calculés au
-titre des investissements réalisés à compter du 1er janvier 2012.
+LOI n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012 art. 32 II : les dispositions du présent article
+s'appliquent aux créances de crédit d'impôt constatées à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 32 (V)
 
 _Cite_:
 
