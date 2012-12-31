@@ -9,10 +9,15 @@ sur les marchés à terme au 8° du I de l'article 35, au 5° du 2 de l'article 
 condition qu'aucune personne physique agissant directement ou par personne interposée ne possède plus de 10 p. 100 des parts
 du fonds. 
 
-2. Le profit ou la perte est déterminé dans les conditions définies aux 1 et 2 de l'article 150-0 D. 
+2. Le profit ou la perte est déterminé dans les conditions définies au premier alinéa du 1 et au 2 de l'article 150-0 D.
 
 3. Un décret précise les modalités d'application du présent article ainsi que les obligations déclaratives des contribuables
 et des intermédiaires.
+
+**Nota:**
+
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 17 III : Ces dispositions s'appliquent aux gains réalisés et
+aux distributions perçues à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -22,17 +27,21 @@ _Codifié par_:
 
 _Cite_:
 
-  - Ordonnance n°2011-915 du 1er août 2011 (V)
+  - Ordonnance n°2011-915 du 1er août 2011
   - Code général des impôts, CGI. - art. 150 septies
   - Code général des impôts, CGI. - art. 150 ter
   - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 35
   - Code général des impôts, CGI. - art. 92
-  - Code monétaire et financier - art. L214-42 (Ab)
+  - Code monétaire et financier - art. L214-42
 
 _Modifié par_:
 
-  - Ordonnance n°2011-915 du 1er août 2011 - art. 27
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 17 (V)
+
+_Abrogé par_:
+
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 43 (V)
 
 _Cité par_:
 

@@ -1,7 +1,7 @@
 # Article 163 bis G
 
 I.-Le gain net réalisé lors de la cession des titres souscrits en exercice des bons attribués dans les conditions définies
-aux II à III est imposé dans les conditions et aux taux prévus à l'article 150-0 A ou au 2 de l'article 200 A. 
+aux II à III est imposé dans les conditions prévues à l'article 150-0 A et au taux de 19 %. 
 
 Par dérogation aux dispositions du premier alinéa, le taux est porté à 30 % lorsque le bénéficiaire exerce son activité dans
 la société depuis moins de trois ans à la date de la cession. 
@@ -59,14 +59,11 @@ titulaires des bons et aux sociétés émettrices.
 
 **Nota:**
 
-Conformément à l'article 33 II de la loi n° 2008-776 du 4 août 2008, les dispositions introduites par le paragraphe I sont
-applicables aux bons attribués à compter du 30 juin 2008.
+Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 10 V : Ces dispositions s'appliquent aux gains nets et
+profits réalisés à compter du 1er janvier 2013, aux distributions perçues à compter du 1er janvier 2013 et aux transferts de
+domicile fiscal hors de France intervenus à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 33 (V)
 
 _Cité par_:
 
@@ -87,9 +84,13 @@ _Cité par_:
   - Code monétaire et financier - art. L212-17 (V)
   - Code monétaire et financier - art. L221-32-5 (M)
 
+_Modifié par_:
+
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 10 (VD)
+
 _Cite_:
 
-  - Code de commerce. - art. L228-91 (V)
-  - Code de commerce. - art. L228-92 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 A (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 200 A (V)
+  - Code de commerce - art. L228-91
+  - Code de commerce - art. L228-92
+  - Code général des impôts, CGI. - art. 150-0 A
+  - Code général des impôts, CGI. - art. 200 A

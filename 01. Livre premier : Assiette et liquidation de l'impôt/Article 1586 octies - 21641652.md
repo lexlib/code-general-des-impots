@@ -19,7 +19,11 @@ ce lieu d'emploi dès lors que le salarié y exerce son activité plus de trois 
 
 Les effectifs affectés aux véhicules sont déclarés par les entreprises de transport au local ou au terrain qui constitue le
 lieu de stationnement habituel des véhicules ou, s'il n'en existe pas, au local où ils sont entretenus ou réparés par le
-redevable ; à défaut, les effectifs sont déclarés au principal établissement de l'entreprise. 
+redevable ; à défaut, les effectifs sont déclarés au principal établissement de l'entreprise.
+
+Par exception aux deuxième et troisième alinéas du présent 1, la déclaration des entreprises de transport national
+ferroviaire mentionne leurs effectifs par établissement, au prorata de la valeur locative foncière imposée à la cotisation
+foncière des entreprises de ces établissements.
 
 Un décret précise les conditions d'application du présent 1.
 
@@ -86,9 +90,8 @@ s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier
 
 **Nota:**
 
-LOI n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 44 XIII A 1 : les dispositions de l'article 1586
-octies telles qu'elles résultent de l'article 44 I 2 s'appliquent à compter des impositions dues au titre de l'année 2011, la
-dernière phrase du sixième alinéa du III entre en vigueur au 1er janvier 2011.
+Loi n° 2012-1510 du 29 décembre 2012, art. 39-II : Ces dispositions s'appliquent aux déclarations des effectifs établies à
+compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -134,8 +137,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 44 (V)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 39 (VD)
 
 _Cite_:
 
