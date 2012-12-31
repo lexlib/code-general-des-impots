@@ -1,41 +1,41 @@
 # Article 199 quater C
 
 Les cotisations versées aux organisations syndicales représentatives de salariés et de fonctionnaires au sens de l'article L.
-2121-1 du code du travail ouvrent droit à une réduction d'impôt sur le revenu. 
+2121-1 du code du travail ouvrent droit à un crédit d'impôt sur le revenu. 
 
-La réduction d'impôt est égale à 66 % des cotisations versées prises dans la limite de 1 p. 100 du montant du revenu brut
-désigné à l'article 83, après déduction des cotisations et des contributions mentionnées aux 1° à 2° ter du même article
-(1). 
+Le crédit d'impôt est égal à 66 % des cotisations versées prises dans la limite de 1 % du montant du revenu brut désigné à
+l'article 83, après déduction des cotisations et des contributions mentionnées aux 1° à 2° ter du même article. 
 
-La réduction d'impôt ne s'applique pas aux bénéficiaires de traitements et salaires admis à justifier du montant de leurs
-frais réels. 
+Le crédit d'impôt ne s'applique pas aux bénéficiaires de traitements et salaires admis à justifier du montant de leurs frais
+réels. 
 
-Les dispositions du 5 du I de l'article 197 sont applicables. 
+Le bénéfice du crédit d'impôt est subordonné à la condition que soit joint à la déclaration des revenus un reçu du syndicat
+mentionnant le montant et la date du versement. A défaut, le crédit d'impôt est refusé sans proposition de rectification
+préalable. 
 
-Le bénéfice de la réduction d'impôt est subordonné à la condition que soit joint à la déclaration des revenus un reçu du
-syndicat mentionnant le montant et la date du versement. A défaut, la réduction d'impôt est refusée sans proposition de
-rectification préalable. 
+L'excédent éventuel de crédit d'impôt est remboursé. 
 
-Par dérogation aux dispositions du cinquième alinéa, les contribuables qui transmettent la déclaration de leurs revenus par
-voie électronique, en application de l'article 1649 quater B ter, sont dispensés de joindre à cette déclaration les reçus
-délivrés par les syndicats. La réduction d'impôt accordée est remise en cause lorsque ces contribuables ne peuvent pas
-justifier du versement des cotisations par la présentation des reçus mentionnés au cinquième alinéa.
+Par dérogation au quatrième alinéa, les contribuables qui transmettent la déclaration de leurs revenus par voie électronique,
+en application de l'article 1649 quater B ter, sont dispensés de joindre à cette déclaration les reçus délivrés par les
+syndicats. Le crédit d'impôt accordé est remis en cause lorsque ces contribuables ne peuvent pas justifier du versement des
+cotisations par la présentation des reçus mentionnés au quatrième alinéa du présent article.
 
 **Nota:**
 
-Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, article 23 II : Ces dispositions sont applicables à
+compter de l'imposition des revenus perçus en 2012.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 23 (VD)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1649 quater B
-  - Code général des impôts, CGI. - art. 83
-  - Code du travail - art. L2121-1
+  - Code général des impôts, CGI. - art. 1649 quater B ter (V)
+  - Code général des impôts, CGI. - art. 83 (V)
+  - Code du travail - art. L2121-1 (V)
 
 _Cité par_:
 

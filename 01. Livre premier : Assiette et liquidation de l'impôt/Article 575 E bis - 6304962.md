@@ -1,112 +1,128 @@
 # Article 575 E bis
 
-I.-Les tabacs manufacturés vendus dans les départements de Corse et les tabacs qui y sont importés sont soumis à un droit de
+I.-Les tabacs manufacturés vendus au détail ou importés dans les départements de Corse sont soumis à un droit de
 consommation. 
 
-Pour les cigarettes, ce droit de consommation, par dérogation au taux normal mentionné à l'article 575 A, et dans la limite
-d'un contingent de 1 200 tonnes par an, est déterminé conformément au dispositions des deuxième à cinquième, septième et
-huitième alinéas de l'article 575. La classe de prix de référence est calculée sur la base des mises à la consommation
-réalisées en Corse. 
+Ce  droit de consommation, par dérogation aux taux mentionnés à l'article  575 A et dans la limite d'un contingent de 1 200
+tonnes par an pour les  cigarettes, est déterminé conformément aux deuxième à sixième alinéas de  l'article 575. La classe de
+prix de référence est calculée sur la base des mises à la consommation réalisées en Corse. 
 
-La part spécifique est égale à 6,5 % de la charge fiscale totale afférente aux cigarettes de la classe de prix de référence
-et comprenant le droit de consommation et la taxe sur la valeur ajoutée. 
+Pour  les différents groupes de produits, le taux normal et le taux  spécifique applicables dans les départements de Corse
+sont fixés  conformément au tableau ci-après :
 
-Les tabacs manufacturés autres que les cigarettes sont soumis à un taux normal applicable à leur prix de vente au détail dans
-les départements de Corse. 
+(En pourcentage) 
 
-Pour les différents groupes de produits mentionnés aux alinéas précédents, le taux normal du droit de consommation applicable
-dans les départements de Corse est fixé conformément au tableau ci-après :
+<table border="1" width="680">
+    <tbody>
+      <tr>
+        <td align="center"> GROUPE DE PRODUITS</td>
+        <td align="center"> TAUX NORMAL</td>
+        <td align="center"> TAUX SPÉCIFIQUE</td>
+      </tr>
+      <tr>
+        <td align="left">
 
-<table align="center" border="1" width="700">
-  <tbody>
-    <tr>
-      <td>
-
-GROUPE DE PRODUITS
-
-</td>
-      <td>
-
-TAUX NORMAL
-
-(en %)
+Cigarettes
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="center">
 
-Cigarettes 
+45
 
 </td>
-      <td>
-
-45  
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cigares
-
-</td>
-      <td>
+        <td align="center">
 
 10
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td align="left">
 
-Tabacs fine coupe destinés à rouler les cigarettes 
-
-</td>
-      <td>
-
-27 
+Cigares et cigarillos
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="center">
 
-Autres tabacs à fumer 
+10
 
 </td>
-      <td>
+        <td align="center">
 
-22 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tabacs à priser 
+5
 
 </td>
-      <td>
+      </tr>
+      <tr>
+        <td align="left">
 
-15 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tabacs à mâcher 
+Tabacs fine coupe destinés à rouler les cigarettes
 
 </td>
-      <td>
+        <td align="center">
+
+27
+
+</td>
+        <td align="center">
+
+15
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Autres tabacs à fumer
+
+</td>
+        <td align="center">
+
+22
+
+</td>
+        <td align="center">
+
+0
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Tabacs à priser
+
+</td>
+        <td align="center">
+
+15
+
+</td>
+        <td align="center">
+
+0
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Tabacs à mâcher
+
+</td>
+        <td align="center">
 
 13
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
+
+0
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 II.-Pour les cigarettes, le prix de vente au détail appliqué dans les départements de Corse est au moins égal à 75 % des prix
 de vente continentaux des mêmes produits. 
@@ -137,11 +153,11 @@ b. de trois quarts au budget de la collectivité territoriale de Corse.
 
 VI.-Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration.
 
+**Nota:**
+
+Loi n° 2012-1510 du 29 décembre 2012 article 54 II : Le I entre en vigueur à compter du 1er janvier 2013.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 73 (V)
 
 _Cité par_:
 
@@ -175,6 +191,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 302 D bis (VD)
   - Code général des impôts, CGI. - art. 572 (VD)
   - Code général des impôts, CGI. - art. 575 M (VD)
+
+_Modifié par_:
+
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 54 (V)
 
 _Cite_:
 
