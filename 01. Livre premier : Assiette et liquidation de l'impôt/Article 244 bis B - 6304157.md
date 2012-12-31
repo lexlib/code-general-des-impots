@@ -1,17 +1,22 @@
 # Article 244 bis B
 
 Sous réserve des dispositions de l'article 244 bis A, les gains mentionnés à l'article 150-0 A résultant de la cession ou du
-rachat de droits sociaux mentionnés au  f du I de l'article 164 B, réalisés par des personnes physiques qui ne sont pas
+rachat de droits sociaux mentionnés au f du I de l'article 164 B, réalisés par des personnes physiques qui ne sont pas
 domiciliées en France au sens de l'article 4 B ou par des personnes morales ou organismes quelle qu'en soit la forme, ayant
-leur siège social hors de France, sont déterminés et imposés selon les modalités prévues aux articles 150-0 A à 150-0 E
-lorsque les droits dans les bénéfices de la société détenus par le cédant ou l'actionnaire ou l'associé, avec son conjoint,
-leurs ascendants et leurs descendants, ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq
-dernières années.
+leur siège social hors de France, sont déterminés  selon les modalités prévues aux articles 150-0 A à 150-0 E et soumis à un
+prélèvement au taux de 19 % ou, pour les gains réalisés à compter du 1er janvier 2013, de 45 % lorsque les droits dans les
+bénéfices de la société détenus par le cédant ou l'actionnaire ou l'associé, avec son conjoint, leurs ascendants et leurs
+descendants, ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq dernières années. Le
+prélèvement est libératoire de l'impôt sur le revenu dû à raison des sommes qui ont supporté celui-ci. Toutefois, les
+personnes physiques qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B peuvent demander le
+remboursement de l'excédent du prélèvement de 45 % lorsque ce prélèvement excède la différence entre, d'une part, le montant
+de l'impôt qui résulterait de l'application de l'article 197 A à la somme des gains nets mentionnés au présent alinéa et des
+autres revenus de source française imposés dans les conditions de ce même article 197 A au titre de la même année et, d'autre
+part, le montant de l'impôt établi dans les conditions prévues audit article 197 A sur ces autres revenus. 
 
-Les gains mentionnés au premier alinéa sont imposés au taux forfaitaire de 50 %, par dérogation au taux prévu au 2 de
-l'article 200 A et, quel que soit le pourcentage de droits détenus dans les bénéfices de la société concernée, lorsqu'ils
-sont réalisés par des personnes ou organismes domiciliés, établis ou constitués hors de France dans un Etat ou territoire non
-coopératif au sens de l'article 238-0 A.
+Par dérogation, les gains mentionnés au premier alinéa sont imposés au taux forfaitaire de 75 % quel que soit le pourcentage
+de droits détenus dans les bénéfices de la société concernée, lorsqu'ils sont réalisés par des personnes ou organismes
+domiciliés, établis ou constitués hors de France dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.
 
 L'impôt est acquitté dans les conditions fixées au IV de l'article 244 bis A. 
 
@@ -19,11 +24,20 @@ Les organisations internationales, les Etats étrangers, les banques centrales e
 ces Etats sont exonérés lorsque les cessions se rapportent à des titres remplissant les conditions prévues à l'article 131
 sexies.
 
+**Nota:**
+
+Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 9 VI : Ces dispositions s'appliquent aux revenus perçus à
+compter du 1er janvier 2013.
+
+Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 10 V : Ces dispositions s'appliquent aux gains réalisés
+et distributions perçues à compter du 1er janvier 2012.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 10 (VD)
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 9 (VD)
 
 _Cité par_:
 
