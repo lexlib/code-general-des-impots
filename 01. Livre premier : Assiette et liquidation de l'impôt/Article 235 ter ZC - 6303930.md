@@ -19,7 +19,7 @@ d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de 
 
 II.-Pour les entreprises placées sous le régime prévu à l'article 223 A, la contribution est due par la société mère. Elle
 est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble définis aux
-articles 223 B et 223 D. 
+articles 223 B, 223 B bis et 223 D. 
 
 III.-Pour les entreprises placées sous le régime prévu à l'article 209 quinquies, la contribution est calculée d'après le
 montant de l'impôt sur les sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en l'absence d'application
@@ -53,9 +53,13 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 366 L (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
 
+_Abrogé par_:
+
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 23 (VD)
+
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 35 (V)
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 23 (VD)
 
 _Cite_:
 

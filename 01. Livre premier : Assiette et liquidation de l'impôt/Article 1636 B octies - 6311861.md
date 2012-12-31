@@ -1,13 +1,11 @@
 # Article 1636 B octies
 
-I. – Les produits des taxes spéciales d'équipement perçues au profit des établissements publics fonciers visés à l'article L.
-324-1 du code de l'urbanisme et au b de l'article L. 321-1 du même code, de l'établissement public foncier de Normandie, de
-l'établissement public foncier de Lorraine, de l'établissement public d'aménagement de la Guyane, des agences pour la mise en
-valeur des espaces urbains de la zone dite des cinquante pas géométriques en Guadeloupe et en Martinique et de
-l'établissement public foncier de Provence-Alpes-Côte d'Azur sont répartis entre les taxes foncières, la taxe d'habitation et
-la cotisation foncière des entreprises proportionnellement aux recettes que chacune de ces taxes a procurées l'année
-précédente à l'ensemble des communes et de leurs établissements publics de coopération intercommunale situés dans le ressort
-de ces établissements.
+I. – Les produits des taxes spéciales d'équipement perçues au profit des établissements publics fonciers visés aux articles
+L. 321-1 et L. 324-1 du code de l'urbanisme, de l'Etablissement public d'aménagement de la Guyane et des agences pour la mise
+en valeur des espaces urbains de la zone dite " des cinquante pas géométriques " en Guadeloupe et en Martinique sont répartis
+entre les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes
+que chacune de ces taxes a procurées l'année précédente à l'ensemble des communes et de leurs établissements publics de
+coopération intercommunale situés dans le ressort de ces établissements.
 
 II. – Pour l'application du I, les recettes s'entendent de celles figurant dans des rôles généraux. Elles sont majorées du
 montant perçu l'année précédente au titre de la part de la dotation forfaitaire prévue à l'article L. 2334-7 du code général
@@ -70,18 +68,19 @@ alinéa.
 
 _Cite_:
 
-  - Loi - art. 44 (V)
-  - Code général des impôts, CGI. - art. 1640 B (V)
-  - Code général des impôts, CGI. - art. 1640 C (V)
-  - Code général des collectivités territoriales - art. L2334-7 (V)
-  - Code général des collectivités territoriales - art. L5211-28-1 (V)
+  - Loi - art. 44
+  - Code général des impôts, CGI. - art. 1467 (V)
+  - Code général des impôts, CGI. - art. 1640 B
+  - Code général des impôts, CGI. - art. 1640 C
+  - Code général des collectivités territoriales - art. L2334-7
+  - Code général des collectivités territoriales - art. L5211-28-1
   - Code de l'urbanisme - art. L321-1 (V)
   - Code de l'urbanisme - art. L324-1 (V)
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 37 (M)
 
 _Cité par_:
 

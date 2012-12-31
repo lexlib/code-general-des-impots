@@ -38,6 +38,9 @@ partie à l'accord sur l'Espace économique européen, ou de la Confédération 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de
 croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année. 
 
+Ces tarifs annuels, fixés par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation civile,
+entrent en vigueur pour les vols effectués à compter du 1er avril de l'année. 
+
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois
 considéré, arrondi à la tonne inférieure. 
 
@@ -45,8 +48,17 @@ Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fou
 le nombre de passagers et la masse de fret et de courrier embarqués le mois précédent pour les vols effectués au départ de la
 France. 
 
-Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe " Contrôle et
-exploitation aériens. 
+Toutefois, les entreprises de transport aérien qui ont déclaré au cours de l'année précédente un montant de taxe égal ou
+inférieur à 12 000 € sont admises à souscrire, à compter du premier trimestre civil de l'année qui suit, des déclarations
+trimestrielles indiquant le nombre de passagers et la masse de fret et de courrier embarqués au cours du trimestre précédent
+pour les vols effectués au départ de France. Ces déclarations trimestrielles sont souscrites au plus tard le dernier jour du
+mois qui suit le trimestre au titre duquel elle est établie. Lorsque le montant de la taxe déclarée au terme des quatre
+trimestres civils consécutifs de l'année dépasse le montant de 12 000 €, l'entreprise souscrit mensuellement ses déclarations
+dans les conditions fixées au septième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit l'année de
+dépassement. 
+
+Ces déclarations, mensuelles ou trimestrielles, accompagnées du paiement de la taxe due, sont adressées aux comptables du
+budget annexe " Contrôle et exploitation aériens ". 
 
 III.-Les quotités du produit de la taxe affectées respectivement au budget annexe " Contrôle et exploitation aériens " et au
 budget général sont déterminées par la loi de finances. 
@@ -54,8 +66,8 @@ budget général sont déterminées par la loi de finances.
 Les sommes encaissées au titre du budget général par les comptables du budget annexe " Contrôle et exploitation aériens "
 sont transférées mensuellement aux comptables publics assignataires. 
 
-IV.-1.-La déclaration visée au II est contrôlée par les services de la direction générale de l'aviation civile. A cette fin,
-les agents assermentés peuvent examiner sur place les documents utiles. 
+IV.-1.-Les déclarations mentionnées au II sont contrôlées par les services de la direction générale de l'aviation civile. A
+cette fin, les agents assermentés peuvent examiner sur place les documents utiles. 
 
 Préalablement, un avis de vérification est adressé à l'entreprise afin qu'elle puisse se faire assister d'un conseil. 
 
@@ -130,10 +142,6 @@ aéroportuaire.
 Ces sommes sont recouvrées dans les conditions fixées au V. Elles sont reversées mensuellement à l'Agence française de
 développement.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -165,11 +173,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 46
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 1728
   - Code général des impôts, CGI. - art. 1729
+  - Code général des impôts, CGI. - art. 1729 A
   - Règlement 2408-92 CEE 1992-07-23
