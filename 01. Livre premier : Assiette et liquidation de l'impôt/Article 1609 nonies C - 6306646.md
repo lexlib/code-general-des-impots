@@ -29,14 +29,14 @@ hydrocarbures prévue à l'article 1519 HA ;
 3. Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération
 intercommunale, du reversement du Fonds national de garantie individuelle des ressources communales et intercommunales prévu
 au 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, à l'exclusion de la fraction
-calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1.  
+calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1.
 
 4. Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération
 intercommunale, de la dotation de compensation de la réforme de la taxe professionnelle calculée conformément aux II et III
 du 1.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 précitée, à l'exclusion de la part calculée dans les
 conditions prévues aux a et b du D du IV du même 1.1. 
 
-I ter. - Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération
+I ter.-Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération
 intercommunale, le prélèvement sur les ressources calculé selon les conditions prévues aux II et III du 2.1 de l'article 78
 de la loi n° 2009-1673 du 30 décembre 2009 précitée peut être mis à la charge de cet établissement public, à l'exclusion de
 la part calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1. 
@@ -191,12 +191,6 @@ L'attribution de compensation est minorée, le cas échéant, du montant des rev
 n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité directe locale, perçus au profit de l'établissement public de
 coopération intercommunale l'année précédant celle de la première application de ces dispositions. 
 
-L'attribution de compensation est également majorée d'une fraction de la contribution d'une commune définie à l'article L.
-302-8 du code de la construction et de l'habitation, à condition que l'établissement public de coopération intercommunale
-ait, dans les conditions prévues à l'article L. 302-7 du même code, perçu le prélèvement visé à cet article et que cette
-fraction soit affectée à la réalisation d'opérations de logements locatifs sociaux. Cette fraction est égale à la part du
-potentiel fiscal de la cotisation foncière des entreprises dans le potentiel fiscal de la commune. 
-
 L'attribution de compensation est majorée du produit de la réduction de taux de taxe d'habitation prévue, selon le cas, au
 VII de l'article 1638 quater ou au IV de l'article 1638-0 bis par les bases de taxe d'habitation de la commune l'année de son
 rattachement à l'établissement public de coopération intercommunale. 
@@ -223,7 +217,7 @@ l'année précédant celle de la première application de ces dispositions.
 Cette attribution est recalculée dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elle ne peut
 être indexée. 
 
-5° A. - Lorsqu'à la suite d'une fusion réalisée dans les conditions prévues à l'article L. 5211-41-3 du code général des
+5° A.-Lorsqu'à la suite d'une fusion réalisée dans les conditions prévues à l'article L. 5211-41-3 du code général des
 collectivités territoriales, un établissement public de coopération intercommunale fait application du régime prévu au
 présent article et des dispositions de l'article 1638-0 bis, l'attribution de compensation versée ou perçue à compter de
 l'année où l'opération de fusion produit pour la première fois ses effets au plan fiscal est égale : 
@@ -253,7 +247,7 @@ périmètre au 1er janvier 2010 et les conseils municipaux de leurs communes mem
 prises à la majorité qualifiée prévue au premier alinéa du II de l'article L. 5211-5 du code général des collectivités
 territoriales, procéder, avant le 31 décembre 2014, à la révision du montant de l'attribution de compensation. 
 
-B. - Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion individuelle d'une commune ou d'une transformation
+B.-Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion individuelle d'une commune ou d'une transformation
 dans les conditions prévues aux articles L. 5211-41-1 et L. 5214-26 du même code, un établissement public de coopération
 intercommunale est soumis au régime prévu au présent article et qu'il est fait application des dispositions de l'article 1638
 quater du présent code, l'attribution de compensation versée ou perçue à compter de l'année où les opérations précitées ont
@@ -275,7 +269,7 @@ Lorsque l'adhésion d'une commune s'accompagne d'un transfert ou d'une restituti
 compensation est respectivement diminuée ou majorée du montant net des charges transférées calculé dans les conditions
 définies au IV. 
 
-C. - L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un syndicat
+C.-L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un syndicat
 d'agglomération nouvelle est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des
 collectivités territoriales perçue l'année de la fusion. 
 
@@ -283,11 +277,11 @@ Lorsque l'adhésion à un établissement public de coopération intercommunale s
 de compétences, l'attribution de compensation est respectivement diminuée ou majorée du montant net des charges transférées
 calculé dans les conditions définies au IV du présent article. 
 
-D. - L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un
+D.-L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un
 établissement public de coopération intercommunale sans fiscalité propre est calculée dans les conditions prévues au 2° ; 
 
 6° Les attributions de compensation fixées conformément aux 2°, 4°, 5° ou, le cas échéant, au 1° bis du présent V sont
-recalculées dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elles ne peuvent être indexées ;
+recalculées dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elles ne peuvent être indexées ; 
 
 7° A titre dérogatoire, les établissements publics de coopération intercommunale soumis au 1er janvier 2010 au présent
 article dans sa rédaction en vigueur à cette date et les conseils municipaux de leurs communes membres peuvent procéder, par
@@ -341,7 +335,7 @@ VIII. 1° Les sommes versées aux communes en application du IV de l'article 6 d
 30 décembre 1986) leur restent acquises lorsqu'elles deviennent membres d'un établissement public de coopération
 intercommunale soumis aux dispositions du présent article. 
 
-2° (1) Les établissements publics de coopération intercommunale soumis aux dispositions du présent article bénéficient de la
+2° Les établissements publics de coopération intercommunale soumis aux dispositions du présent article bénéficient de la
 compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 précitée au lieu et place de leurs communes
 membres. 
 
@@ -366,12 +360,6 @@ présent article.
 
 **Nota:**
 
-(1) Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 44 B 1 : les dispositions de l'article 1609
-nonies C telles qu'elles résultent de l'article 44 IX 2 entrent en vigueur au 1er janvier 2011. 
-
-Loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 article 29 : Les présentes dispositions s'appliquent sans
-nouvelle délibération des communes concernées, à compter des taux et abattements votés pour 2012.
-
 LOI n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012 art. 37 V C : les présentes dispositions
 s'appliquent, à compter du 1er janvier 2013, aux communes devenues membres d'un établissement public de coopération
 intercommunale à la suite d'une fusion d'établissements publics de coopération intercommunale ou d'un rattachement devenus
@@ -386,12 +374,20 @@ _Cite_:
   - Loi n°96-987 du 14 novembre 1996 - art. 4
   - Loi n°2002-1575 du 30 décembre 2002 - art. 26
   - Code général des impôts, CGI. - art. 1519 D
+  - Code général des impôts, CGI. - art. 1519 E
+  - Code général des impôts, CGI. - art. 1519 F
+  - Code général des impôts, CGI. - art. 1519 G
+  - Code général des impôts, CGI. - art. 1519 H
+  - Code général des impôts, CGI. - art. 1519 HA
+  - Code général des impôts, CGI. - art. 1519 I
+  - Code général des impôts, CGI. - art. 1639 A
   - Code général des collectivités territoriales - art. L5211-41-1
+  - Code général des collectivités territoriales - art. L5211-41-3
   - Code général des collectivités territoriales - art. L5211-5
+  - Code général des collectivités territoriales - art. L5214-26
   - Code général des collectivités territoriales - art. L5215-40-1
   - Code général des collectivités territoriales - art. L5216-10
   - Code général des collectivités territoriales - art. L5334-8
-  - Code de la construction et de l'habitation. - art. L302-8
 
 _Cité par_:
 
@@ -487,5 +483,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 37 (V)
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 40 (V)
+  - Loi n°2013-61 du 18 janvier 2013 - art. 25
