@@ -13,26 +13,26 @@ utilisation selon le barème suivant :
 
 (en euros) 
 
-<table border="1" width="680">
+<table width="680" border="1">
   <tbody>
     <tr>
-      <th>
+      <td>
 
 CATÉGORIE 
 
 de matériels roulants 
 
-</th>
-      <th>
+</td>
+      <td>
 
 TARIFS 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Métro 
+Métro
 
 </td>
       <td align="center">
@@ -40,19 +40,19 @@ Métro
     <tr>
       <td align="center">
 
-Motrice et remorque 
+Motrice et remorque
 
 </td>
       <td align="center">
 
-12 260 
+12 475 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Autre matériel 
+Autre matériel
 
 </td>
       <td align="center">
@@ -60,24 +60,24 @@ Autre matériel
     <tr>
       <td align="center">
 
-Automotrice et motrice 
+Automotrice et motrice
 
 </td>
       <td align="center">
 
-23 000 
+23 403 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Remorque 
+Remorque
 
 </td>
       <td align="center">
 
-4 800 
+4 884 
 
 </td>
     </tr>
@@ -99,7 +99,7 @@ IV.-Le redevable de l'imposition déclare, au plus tard le deuxième jour ouvré
 nombre de matériels roulants par catégorie. 
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation
-foncière des entreprises .
+foncière des entreprises. 
 
 V.-La composante de l'imposition forfaitaire sur les entreprises de réseaux prévue au présent article est affectée, dans la
 limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au budget de
@@ -107,13 +107,9 @@ l'établissement public " Société du Grand Paris " créé par la loi n° 2010-
 
 **Nota:**
 
-Modifications effectuées en conséquence du décret n° 2010-756 du 7 juillet 2010.
+Modifications effectuées en conséquence de l'article 37-VI B (4°) de la loi n° 2012-1510 du 29 décembre 2012.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°59-151 du 7 janvier 1959 - art. 2
 
 _Cité par_:
 
@@ -127,7 +123,12 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 decies (T)
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 nonies (T)
 
+_Cite_:
+
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
+  - Code des transports - art. L2142-1
+
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (MMN)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1

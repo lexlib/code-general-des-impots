@@ -3,13 +3,13 @@
 I. Par dérogation aux dispositions du troisième alinéa du I de l'article 209, le déficit constaté au titre d'un exercice
 ouvert à compter du 1er janvier 1984 par une entreprise soumise à l'impôt sur les sociétés peut, sur option, être considéré
 comme une charge déductible du bénéfice de l'exercice précédent, dans la limite de la fraction non distribuée de ce bénéfice
-et à l'exclusion du bénéfice exonéré en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A,
+et à l'exclusion du bénéfice exonéré en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 
 44 undecies, 44 terdecies, 44 quaterdecies, 44 quindecies et 207 à 208 sexies ou qui a bénéficié des dispositions du premier
 alinéa du f du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu aux articles 220 quater et 220 quater A ou
 qui a donné lieu à un impôt payé au moyen de crédits d'impôts. 
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être reportable sur les résultats des exercices
-suivant celui au titre duquel il a été constaté.
+suivant celui au titre duquel il a été constaté. 
 
 L'option mentionnée au premier alinéa n'est admise qu'à la condition qu'elle porte sur le déficit constaté au titre de
 l'exercice, dans la limite du montant le plus faible entre le bénéfice déclaré au titre de l'exercice précédent et un montant
@@ -33,7 +33,7 @@ celle de la clôture de l'exercice au titre duquel l'option a été exercée.
 La créance est inaliénable et incessible, sauf dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code
 monétaire et financier, ou dans des conditions fixées par décret. 
 
-II.L'option visée au I est exercée au titre de l'exercice au cours duquel le déficit est constaté et dans les mêmes délais
+II. L'option visée au I est exercée au titre de l'exercice au cours duquel le déficit est constaté et dans les mêmes délais
 que ceux prévus pour le dépôt de la déclaration de résultats de cet exercice. Elle ne peut pas être exercée au titre d'un
 exercice au cours duquel intervient une cession ou une cessation totale d'entreprise, une fusion de sociétés ou une opération
 assimilée, ou un jugement prononçant la liquidation judiciaire de la société. 
@@ -50,9 +50,7 @@ la ou aux sociétés bénéficiaires des apports apprécié à la date d'effet d
 
 III. (Abrogé). 
 
-IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises
-ainsi que les modalités et limites dans lesquelles les dispositions du I sont applicables aux sociétés agréées visées à
-l'article 209 quinquies.
+IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises.
 
 **Liens relatifs à cet article**
 
@@ -75,12 +73,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 31
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 207
-  - Code général des impôts, CGI. - art. 209 quinquies
   - Code général des impôts, CGI. - art. 219
+  - Code général des impôts, CGI. - art. 220 quater (V)
+  - Code général des impôts, CGI. - art. 44 octies
+  - Code général des impôts, CGI. - art. 44 quaterdecies
+  - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 sexies A
+  - Code général des impôts, CGI. - art. 44 terdecies
+  - Code général des impôts, CGI. - art. 44 undecies
   - Code monétaire et financier - art. L313-23
