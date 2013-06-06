@@ -1,12 +1,8 @@
 # Article 235 ter D
 
-Conformément aux dispositions de l'article L. 6331-9 du code du travail, les employeurs de dix salariés et plus consacrent au
+Conformément aux dispositions de l'article L. 6331-9 du code du travail, les employeurs d'au moins dix salariés consacrent au
 financement des actions de formation professionnelle continue un pourcentage au moins égal à 1,60 % du montant des
 rémunérations versées.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
@@ -16,7 +12,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 

@@ -1,6 +1,6 @@
 # Article 238 bis C
 
-I Le règlement des indemnités qui sont allouées aux personnes physiques ou morales françaises atteintes par une mesure de
+I. - Le règlement des indemnités qui sont allouées aux personnes physiques ou morales françaises atteintes par une mesure de
 nationalisation, d'expropriation ou toute autre mesure restrictive de caractère similaire prise par un gouvernement étranger
 ne donne lieu à aucune perception au titre de l'impôt sur les sociétés ou de l'impôt sur le revenu.
 
@@ -13,24 +13,18 @@ titre de l'indemnité ou de la date de la loi n° 57-198 du 22 février 1957 si 
 
 2° Qu'elle soit imputée sur les postes du passif correspondant le plus étroitement aux éléments transférés.
 
-II Le règlement des indemnités dues en application de l'article 4 de la loi n° 75-622 du 11 juillet 1975 relative à la
-nationalisation de l'électricité dans les départements d'outre-mer ne donne lieu à aucune perception au profit du Trésor.
+II. - (Sans objet)
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 4 (14°) et 14 de l'ordonnance n° 2011-504 du 9 mai 2011.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-
-_Cite_:
-
-  - Loi n°57-198 1957-02-22
-  - Loi n°75-622 1975-07-11 art. 4
-
 _Codifié par_:
 
-  - Décret n°2002-923 2002-06-06
+  - Décret n°2002-923 du 6 juin 2002
 
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+  - Décret n°2013-463 du 3 juin 2013 - art. 1

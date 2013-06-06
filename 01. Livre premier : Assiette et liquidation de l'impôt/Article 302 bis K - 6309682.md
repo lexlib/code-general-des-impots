@@ -54,7 +54,7 @@ trimestrielles indiquant le nombre de passagers et la masse de fret et de courri
 pour les vols effectués au départ de France. Ces déclarations trimestrielles sont souscrites au plus tard le dernier jour du
 mois qui suit le trimestre au titre duquel elle est établie. Lorsque le montant de la taxe déclarée au terme des quatre
 trimestres civils consécutifs de l'année dépasse le montant de 12 000 €, l'entreprise souscrit mensuellement ses déclarations
-dans les conditions fixées au septième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit l'année de
+dans les conditions fixées au huitième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit l'année de
 dépassement. 
 
 Ces déclarations, mensuelles ou trimestrielles, accompagnées du paiement de la taxe due, sont adressées aux comptables du
@@ -174,7 +174,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 22 février 2013 - art. 1
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 

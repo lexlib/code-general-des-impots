@@ -12,158 +12,156 @@ utilisation selon le barème suivant :
 
 (en euros) 
 
-<table border="1" width="680">
-    <tbody>
-      <tr>
-        <th>CATÉGORIE DE MATÉRIELS ROULANTS 
+<table align="center" border="1" width="680">
+  <tbody>
+    <tr>
+      <td>
 
-</th>
-        <th>
+CATÉGORIE DE MATÉRIELS ROULANTS 
+
+</td>
+      <td>
 
 TARIFS 
 
-</th>
-      </tr>
-      <tr>
-        <td align="center">
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 Engins à moteur thermique 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-Automoteur 
-
-</td>
-        <td align="center">
-
-30 000 
+Automoteur
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
 
-Locomotive diesel 
+30 525 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-30 000 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Engins à moteur électrique 
+Locomotive diesel
 
 </td>
-        <td align="center">
+      <td align="center">
+
+30 525 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">Engins à moteur électrique 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 Automotrice 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-23 000 
+23 403 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Locomotive électrique 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-20 000 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Motrice de matériel à grande vitesse 
+20 350 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-35 000 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Automotrice tram-train 
+Motrice de matériel à grande vitesse
 
 </td>
-        <td align="center">
+      <td align="center">
 
-11 500 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Engins remorqués 
+35 613 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
+
+Automotrice tram-train
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
+
+11 701 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Engins remorqués 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 Remorque pour le transport de passagers 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-4 800 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Remorque pour le transport de passagers à grande vitesse 
+4 884 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-10 000 
+Remorque pour le transport de passagers à grande vitesse
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
+
+10 175 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 Remorque tram-train 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-2 400 
+2 442 
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en
 fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance. 
@@ -192,13 +190,13 @@ foncière des entreprises.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 3-7 [39°] et 17 de l'ordonnance  n° 2010-1307 du 28 octobre 2010.
+Modifications effectuées en conséquence de l'article 37-VI B (4°) b de la loi n° 2012-1510 du 29 décembre  2012.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
 
 _Cité par_:
 
@@ -214,7 +212,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
