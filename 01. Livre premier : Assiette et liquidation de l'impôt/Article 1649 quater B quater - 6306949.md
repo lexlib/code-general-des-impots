@@ -16,15 +16,14 @@ mentionné au 1° ;
 vote est détenue à la clôture de leur exercice, directement ou indirectement, par une personne ou un groupement mentionné au
 1° ; 
 
-4° Les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies ainsi que toutes les personnes morales imposables
-en France faisant partie du périmètre de consolidation ; 
+4° (Périmé)
 
 5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A lorsque celui-ci
-comprend au moins une personne mentionnée aux 1°, 2°, 3° et 4°. 
+comprend au moins une personne mentionnée aux 1°, 2° et 3°. 
 
-Pour les entreprises mentionnées aux 1° à 4°, cette obligation s'applique aux déclarations qui doivent être souscrites à
+Pour les entreprises mentionnées aux 1° à 3°, cette obligation s'applique aux déclarations qui doivent être souscrites à
 compter du 1er février de la deuxième année suivant celle au cours de laquelle l'une au moins des conditions prévues aux 1° à
-4° est remplie à la clôture de l'exercice. Pour les entreprises mentionnées au 5°, cette obligation s'applique à compter du
+3° est remplie à la clôture de l'exercice. Pour les entreprises mentionnées au 5°, cette obligation s'applique à compter du
 1er février de la première année suivant celle de leur entrée dans le groupe. 
 
 Pour les entreprises mentionnées aux 1° à 5°, cette obligation continue à s'appliquer jusqu'au 31 janvier de la quatrième
@@ -68,8 +67,9 @@ alinéa du III, le montant "230 000 €" est remplacé par le montant "80 000 �
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-I
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -91,7 +91,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 209 quinquies (V)
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 289 B
   - Code général des impôts, CGI. - art. 293 B

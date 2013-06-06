@@ -1,8 +1,8 @@
 # Article 1655 quater
 
-I. – La société constituée entre les professionnels pour la conservation du stock de produits pétroliers prévu à l'article 2
-de la loi 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier et dont les statuts sont approuvés par décret, est
-exonérée d'impôt sur les sociétés.
+I. – La société constituée entre les professionnels pour la conservation du stock de produits pétroliers prévu aux articles
+L. 642-2, L. 642-4 et L. 651-1 du code de l'énergie et dont les statuts sont approuvés par décret, est exonérée d'impôt sur
+les sociétés.
 
 La société est tenue de distribuer chaque année les bénéfices de l'exercice. Toutefois, les ministres peuvent autoriser le
 réinvestissement des bénéfices.
@@ -12,8 +12,7 @@ intervenir que dans les deux cas suivants :
 
 a) Sur injonction du ministre chargé des hydrocarbures, prise en vertu des dispositions réglementaires en vigueur ;
 
-b) A la demande du comité professionnel institué en application de l'article 3 de la loi n° 92-1443 du 31 décembre 1992
-portant réforme du régime pétrolier.
+b) A la demande du comité professionnel institué en application des articles L. 642-5 et L. 642-6 du code de l'énergie.
 
 A quantités constantes, les mouvements du stock, produit par produit, destinés à maintenir sa qualité physique, se font
 valeur pour valeur.
@@ -26,24 +25,26 @@ Les actions de cette société ne peuvent être cédées qu'avec l'autorisation 
 déduites au titre du remboursement de l'emprunt sont rapportées au résultat imposable de l'associé.
 
 II. – A compter du 1er janvier 1993, le régime fiscal défini au I est subordonné à la réalisation par la société anonyme de
-gestion des stocks de sécurité des prestations mentionnées au II de l'article 3 de la loi n° 92-1443 du 31 décembre 1992 à
-l'exclusion de toute autre.
+gestion des stocks de sécurité des prestations mentionnées à l'article L. 642-6 du code de l'énergie à l'exclusion de toute
+autre.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 2, 4 (18°) et 14 de l'ordonnance n° 2011-504 du 9 mai 2011.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 223 sexies
-  - Loi n°92-1443 1992-12-31 art. 2, art. 3
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 
   - Code de l'énergie - art. L642-6 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2004
-
-_Modifié par_:
-
-  - Loi - art. 93 (V) JORF 31 décembre 2003
+  - Code de l'énergie - art. L642-2
+  - Code de l'énergie - art. L642-4
+  - Code de l'énergie - art. L642-5
+  - Code de l'énergie - art. L651-1
