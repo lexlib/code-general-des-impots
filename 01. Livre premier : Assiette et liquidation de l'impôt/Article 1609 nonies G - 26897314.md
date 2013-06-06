@@ -4,15 +4,14 @@ I.-Il est institué une taxe sur les plus-values réalisées dans les conditions
 par les personnes physiques ou les sociétés ou groupements qui relèvent des articles 8 à 8 ter et dans celles prévues à
 l'article 244 bis A par les contribuables non domiciliés fiscalement en France assujettis à l'impôt sur le revenu. 
 
-La taxe ne s'applique pas aux plus-values réalisées lors de la cession de terrains à bâtir mentionnés au I de l'article 150
-VC ou de droits s'y rapportant. 
+La taxe ne s'applique pas aux plus-values réalisées lors de la cession de terrains à bâtir ou de droits s'y rapportant. 
 
 Le produit de la taxe est affecté, pour les cessions intervenues jusqu'au 31 décembre 2015, au fonds mentionné à l'article L.
 452-1-1 du code de la construction et de l'habitation, dans la limite du plafond prévu au I de l'article 46 de la loi n°
 2011-1977 du 28 décembre 2011 de finances pour 2012. 
 
 II.-La taxe est assise sur le montant imposable des plus-values déterminé dans les conditions prévues, selon le cas, aux
-articles 150 V à 150 VD ou au II de l'article 244 bis A du présent code. 
+articles 150 V à 150 VD ou au II de l'article 244 bis A. 
 
 Elle est due par le cédant et exigible lors de la cession. 
 
@@ -24,18 +23,18 @@ au montant total de la plus-value imposable :
 <table border="1">
   <tbody>
     <tr>
-      <th>
+      <td>
 
 MONTANT DE LA PLUS-VALUE 
 
 imposable 
 
-</th>
-      <th>
+</td>
+      <td>
 
 MONTANT DE LA TAXE 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -170,8 +169,8 @@ Supérieur à 260 000
 IV.-Une déclaration, conforme à un modèle établi par l'administration, retrace les éléments servant à la liquidation de la
 taxe. Elle est déposée dans les conditions prévues aux 1°, 2° et 4° du I et au II de l'article 150 VG. 
 
-V.-La taxe est versée lors du dépôt de la déclaration prévue au IV du présent article. Les I à II bis de l'article 150 VF, le
-second alinéa du I et les II et III de l'article 150 VH et le IV de l'article 244 bis A sont applicables. 
+V.-La taxe est versée lors du dépôt de la déclaration prévue au IV. Les I à II bis de l'article 150 VF, le second alinéa du I
+et les II et III de l'article 150 VH et le IV de l'article 244 bis A sont applicables. 
 
 VI.-La taxe est contrôlée sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu.
 
@@ -186,10 +185,17 @@ date certaine avant le 7 décembre 2012.
 _Cite_:
 
   - Loi n°2011-1977 du 28 décembre 2011 - art. 46
+  - Code général des impôts, CGI. - art. 150 U
+  - Code général des impôts, CGI. - art. 150 UB
+  - Code général des impôts, CGI. - art. 150 V (V)
+  - Code général des impôts, CGI. - art. 150 VF
+  - Code général des impôts, CGI. - art. 150 VG
+  - Code général des impôts, CGI. - art. 244 bis A
+  - Code général des impôts, CGI. - art. 8
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 70 (VD)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 
