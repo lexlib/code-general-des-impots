@@ -1,18 +1,18 @@
 # Article 1609 quintricies
 
-I. – Il est institué une contribution sur les activités privées de sécurité mentionnées au titre II bis de la loi n° 83-629
-du 12 juillet 1983 réglementant les activités privées de sécurité.
+I. – Il est institué une contribution sur les activités privées de sécurité mentionnées au titre III du livre VI du code de
+la sécurité intérieure.
 
 II. – Sont redevables de la contribution mentionnée au I :
 
 1° Les personnes morales et physiques qui effectuent en France à titre onéreux des activités privées de sécurité mentionnées
-aux titres Ier et II de la loi n° 83-629 du 12 juillet 1983 précitée ;
+aux titres Ier et II du livre VI du code de la sécurité intérieure ;
 
-2° Les personnes morales mentionnées à l'article 11 de la même loi qui, agissant pour leur propre compte, font exécuter en
-France par certains de leurs salariés une ou plusieurs de ces activités.
+2° Les personnes morales mentionnées à l'article L. 612-25 du même code qui, agissant pour leur propre compte, font exécuter
+en France par certains de leurs salariés une ou plusieurs de ces activités.
 
-Les activités mentionnées à l'article 20 de ladite loi sont réputées se situer en France lorsqu'elles sont effectuées pour
-les besoins d'une personne établie ou domiciliée en France.
+Les activités mentionnées aux articles L. 621-1 et L. 622-1 du même code sont réputées se situer en France lorsqu'elles sont
+effectuées pour les besoins d'une personne établie ou domiciliée en France.
 
 III. – Pour les personnes morales et physiques mentionnées au 1° du II, la contribution est calculée au taux de 0,5 % sur le
 montant hors taxe des ventes de prestations de services d'activités privées de sécurité assurées en France par ces personnes.
@@ -52,15 +52,22 @@ destinataire de la prestation imposable.
 VII. – Le montant de la contribution s'ajoute au prix acquitté par le client. Il est signalé par une mention particulière
 figurant au bas de la facture relative à la prestation servie.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 3, 19 (18°) et 22 de l'ordonnance n° 2012-351 du 12 mars 2012.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
-  - Loi n°83-629 du 12 juillet 1983
-
-_Créé par_:
-
-  - Loi n°2011-900 du 29 juillet 2011 - art. 52 (V)
+  - Code général des impôts, CGI. - art. 287
+  - Code de la sécurité intérieure - art. L612-25
+  - Code de la sécurité intérieure - art. L621-1
+  - Code de la sécurité intérieure - art. L622-1
 
 _Cité par_:
 

@@ -21,9 +21,9 @@ Les effectifs affectés aux véhicules sont déclarés par les entreprises de tr
 lieu de stationnement habituel des véhicules ou, s'il n'en existe pas, au local où ils sont entretenus ou réparés par le
 redevable ; à défaut, les effectifs sont déclarés au principal établissement de l'entreprise.
 
-Par exception aux deuxième et troisième alinéas du présent 1, la déclaration des entreprises de transport national
-ferroviaire mentionne leurs effectifs par établissement, au prorata de la valeur locative foncière imposée à la cotisation
-foncière des entreprises de ces établissements.
+Par exception aux deuxième et troisième alinéas, la déclaration des entreprises de transport national ferroviaire mentionne
+leurs effectifs par établissement, au prorata de la valeur locative foncière imposée à la cotisation foncière des entreprises
+de ces établissements.
 
 Un décret précise les conditions d'application du présent 1.
 
@@ -72,7 +72,7 @@ Lorsque la déclaration par établissement mentionnée au II fait défaut, la va
 les communes à partir des éléments mentionnés dans la déclaration de l'année précédente. A défaut, la valeur ajoutée du
 contribuable est répartie entre les communes où le contribuable dispose d'immobilisations imposables à la cotisation foncière
 des entreprises au prorata de leur valeur locative. Dans ce second cas, la valeur locative des immobilisations industrielles
-évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 2 (1).
+évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 2.
 
 Pour les contribuables qui n'emploient aucun salarié en France et ne disposent d'aucun établissement en France mais qui y
 exercent une activité de location d'immeubles ou de vente d'immeubles : 
@@ -88,12 +88,11 @@ déposées au lieu de dépôt de la déclaration de résultat.
 Pour l'application du présent III, la valeur locative des immobilisations imposables à la cotisation foncière des entreprises
 s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier alinéa de l'article 1467.
 
-**Nota:**
-
-Loi n° 2012-1510 du 29 décembre 2012, art. 39-II : Ces dispositions s'appliquent aux déclarations des effectifs établies à
-compter du 1er janvier 2013.
-
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
 
 _Cité par_:
 
@@ -137,7 +136,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 39 (VD)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 

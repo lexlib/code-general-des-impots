@@ -15,51 +15,51 @@ III. ― Le montant de l'imposition est établi de la manière suivante :
 
 a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l'imposition de chaque répartiteur principal
 est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition
-par ligne en service est de 2,45 € ; 
+par ligne en service est de 2,53 € ; 
 
 b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du réseau téléphonique commuté, le montant de
 l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant : 
 
 (en euros) 
 
-<table border="1" width="680">
-    <tbody>
-      <tr>
-        <th>
+<table align="center" width="680" border="1">
+  <tbody>
+    <tr>
+      <td>
 
-NATURE DE L'ÉQUIPEMENT
-
-</th>
-        <th>
-
-TARIF
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">
-
-Unité de raccordement d'abonnés
+NATURE DE L'ÉQUIPEMENT 
 
 </td>
-        <td align="center">
+      <td>
 
-6 477
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Carte d'abonné
+TARIF 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-71</td>
-      </tr>
-    </tbody>
-  </table>
+Unité de raccordement d'abonnés 
+
+</td>
+      <td align="center">
+
+6 692 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Carte d'abonné 
+
+</td>
+      <td align="center">
+
+73 </td>
+    </tr>
+  </tbody>
+</table>
 
 IV. ― Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, par
 région, département et commune : 
@@ -73,13 +73,14 @@ foncière des entreprises.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010.
+Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010 et de l'article 37-VI
+B (4°) b de la loi n° 2012-1510 du 29 décembre 2012.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
 
 _Cité par_:
 
@@ -93,7 +94,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
