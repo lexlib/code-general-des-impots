@@ -42,12 +42,12 @@ provision pour investissement égale à 35 % des versements complémentaires. Le
 d'organismes acquis doivent être conservés pendant deux ans au moins par le fonds. 
 
 2. Les sociétés anonymes à participation ouvrière peuvent constituer, en franchise d'impôt, à la clôture de chaque exercice,
-une provision pour investissement d'un montant égal à 50 p. 100 des sommes portées à la réserve spéciale de participation au
-cours du même exercice et admises en déduction du bénéfice imposable. Ce montant est porté à 75 p. 100 lorsque les
-entreprises concernées affectent, au titre de chaque exercice, à un compte de réserve non distribuable, par prélèvement sur
-les résultats, une somme égale à 25 p. 100 des sommes portées à la réserve spéciale de participation au cours du même
-exercice et admises en déduction des bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation
-ne peut être répartie qu'entre les seuls détenteurs d'actions de travail. 
+une provision pour investissement d'un montant égal à 50% des sommes portées à la réserve spéciale de participation au cours
+du même exercice et admises en déduction du bénéfice imposable. Ce montant est porté à 75% lorsque les entreprises concernées
+affectent, au titre de chaque exercice, à un compte de réserve non distribuable, par prélèvement sur les résultats, une somme
+égale à 25% des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des
+bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation ne peut être répartie qu'entre les
+seuls détenteurs d'actions de travail. 
 
 3. Le montant de la provision pour investissement que les sociétés coopératives ouvrières de production peuvent constituer en
 franchise d'impôt à la clôture d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale de
@@ -55,7 +55,7 @@ participation au titre du même exercice. Les dotations à la réserve légale e
 peuvent tenir lieu, à due concurrence, de provision pour investissement. 
 
 Cette disposition n'est pas applicable aux sociétés coopératives ouvrières de production dont le capital est détenu pour plus
-de 50 p. 100 par des personnes définies au 1 quinquies de l'article 207 et des titulaires de certificats coopératifs
+de 50% par des personnes définies au 1 quinquies de l'article 207 et des titulaires de certificats coopératifs
 d'investissement, à l'exception de celles dont la majorité du capital est détenue par une autre société coopérative ouvrière
 de production dans les conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés
 coopératives ouvrières de production. 
@@ -85,12 +85,11 @@ III. Les dispositions du présent article s'appliquent pour chaque entreprise au
 le 23 octobre 1986.
 
 IV. - Les provisions prévues aux 1 et 2 du II cessent d'être admises en déduction des résultats imposables constatés au titre
-des exercices clos à compter de la date de publication de la loi n° 2012-958 du 16 août 2012 de finances rectificative pour
-2012. A compter de ces mêmes exercices, les 5 et 6 du même II s'appliquent aux seules provisions constituées en application
-du 3 dudit II. 
+des exercices clos à compter du 17 août 2012. A compter de ces mêmes exercices, les 5 et 6 du II s'appliquent aux seules
+provisions constituées en application du 3 dudit II. 
 
-Les provisions mentionnées au premier alinéa du présent IV figurant à l'ouverture du premier exercice clos à compter de la
-date de publication de la même loi sont rapportées aux résultats imposables dans les conditions prévues au 4 du II.
+Les provisions mentionnées au premier alinéa du présent IV figurant à l'ouverture du premier exercice clos à compter de cette
+même date sont rapportées aux résultats imposables dans les conditions prévues au 4 du II.
 
 **Liens relatifs à cet article**
 
@@ -110,7 +109,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2012-958 du 16 août 2012 - art. 13
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 

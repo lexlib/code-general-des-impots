@@ -21,25 +21,18 @@ II.-Pour les entreprises placées sous le régime prévu à l'article 223 A, la 
 est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble définis aux
 articles 223 B, 223 B bis et 223 D. 
 
-III.-Pour les entreprises placées sous le régime prévu à l'article 209 quinquies, la contribution est calculée d'après le
-montant de l'impôt sur les sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en l'absence d'application
-de ce régime. Elle n'est ni imputable ni remboursable. 
+III (Périmé) 
 
 III bis-Les sociétés ayant opté pour le régime prévu au II de l'article 208 C ainsi que les sociétés de placement à
 prépondérance immobilière à capital variable mentionnées au 3° nonies de l'article 208 ne sont pas assujetties à la présente
 contribution sur les plus-values imposées en application du IV de l'article 219. 
 
 IV.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et l'imposition forfaitaire
-annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution.
+annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution. 
 
 V.-Elle est établie et contrôlée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions. 
 
 VI.-Les modalités d'application du présent article sont fixées par décret.
-
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 art. 35 II : L'article 35 de la loi n° 2007-1824 s'applique aux exercices ouverts à
-compter du 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -53,16 +46,16 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 366 L (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
 
-_Abrogé par_:
-
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 23 (VD)
-
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 23 (VD)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 208
+  - Code général des impôts, CGI. - art. 208 C
   - Code général des impôts, CGI. - art. 219
   - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 223 B
+  - Code général des impôts, CGI. - art. 223 septies
   - Code général des impôts, CGI. - art. 39

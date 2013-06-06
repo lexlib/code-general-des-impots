@@ -5,15 +5,15 @@ monétaire et financier, ou d'un titre de capital assimilé, au sens de l'articl
 est admis aux négociations sur un marché réglementé français, européen ou étranger, au sens des articles L. 421-4, L. 422-1
 ou L. 423-1 dudit code, que son acquisition donne lieu à un transfert de propriété, au sens de l'article L. 211-17 du même
 code, et que ce titre est émis par une société dont le siège social est situé en France et dont la capitalisation boursière
-dépasse un milliard d'euros au 1er décembre de l'année précédant celle d'imposition (1). Un arrêté des ministres chargés de
+dépasse un milliard d'euros au 1er décembre de l'année précédant celle d'imposition. Un arrêté des ministres chargés de
 l'économie et du budget récapitule la liste des sociétés concernées. 
 
-L'acquisition, au sens du premier alinéa du présent article, s'entend de l'achat, y compris dans le cadre de l'exercice d'une
-option ou dans le cadre d'un achat à terme ayant fait préalablement l'objet d'un contrat, de l'échange ou de l'attribution,
-en contrepartie d'apports, de titres de capital mentionnés au même premier alinéa. 
+L'acquisition, au sens du premier alinéa, s'entend de l'achat, y compris dans le cadre de l'exercice d'une option ou dans le
+cadre d'un achat à terme ayant fait préalablement l'objet d'un contrat, de l'échange ou de l'attribution, en contrepartie
+d'apports, de titres de capital mentionnés au même premier alinéa. 
 
 Les titres représentant ceux mentionnés audit premier alinéa émis par une société, quel que soit le lieu d'établissement de
-son siège social, sont soumis à la taxe. (2) 
+son siège social, sont soumis à la taxe. 
 
 II.-La taxe n'est pas applicable : 
 
@@ -78,14 +78,14 @@ partie à l'échange est taxée sur la valeur des titres dont elle fait l'acquis
 
 IV.-La taxe est exigible le premier jour du mois suivant celui au cours duquel s'est produite l'acquisition du titre. 
 
-V.-Le taux de la taxe est fixé à 0,2 %. (3) 
+V.-Le taux de la taxe est fixé à 0,2 %. 
 
 VI.-La taxe est liquidée et due par l'opérateur fournissant des services d'investissement, au sens de l'article L. 321-1 du
 code monétaire et financier, ayant exécuté l'ordre d'achat du titre ou ayant négocié pour son compte propre, quel que soit
 son lieu d'établissement. 
 
 Lorsque plusieurs opérateurs mentionnés au premier alinéa du présent VI interviennent pour l'exécution de l'ordre d'achat
-d'un titre, la taxe est liquidée et due par celui qui reçoit directement de l'acquéreur final l'ordre d'achat. (3) 
+d'un titre, la taxe est liquidée et due par celui qui reçoit directement de l'acquéreur final l'ordre d'achat.  
 
 Lorsque l'acquisition a lieu sans intervention d'un opérateur fournissant des services d'investissement, la taxe est liquidée
 et due par l'établissement assurant la fonction de tenue de compte-conservation, au sens du 1 de l'article L. 321-2 du même
@@ -148,36 +148,17 @@ simple requête. Un rapport annuel est remis à l'administration sur la nature e
 décret définit les modalités d'application du présent X. 
 
 XI.-En cas de manquement, de son fait, aux obligations de paiement prévues au IX, le dépositaire central acquitte l'intérêt
-de retard prévu par l'article 1727 du présent code. 
+de retard prévu par l'article 1727 . 
 
-En cas de manquement aux obligations de paiement prévues au VII du présent article, le redevable de la taxe acquitte
-l'intérêt de retard prévu au même article 1727. 
+En cas de manquement aux obligations de paiement prévues au VII, le redevable de la taxe acquitte l'intérêt de retard prévu
+au même article 1727. 
 
-En cas de manquement du redevable ou de l'adhérent aux obligations déclaratives prévues au VII du présent article, celui-ci
-acquitte l'amende prévue à l'article 1788 C. 
+En cas de manquement du redevable ou de l'adhérent aux obligations déclaratives prévues au même VII, celui-ci acquitte
+l'amende prévue à l'article 1788 C. 
 
 XII.-La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les
 taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces
 mêmes taxes.
-
-**Nota:**
-
-Loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 article 5 I B : Les présentes dispositions s'appliquent
-aux acquisitions réalisées à compter du 1er août 2012.
-
-Pour les acquisitions réalisées entre le 1er août et le 31 octobre 2012, la taxe est déclarée, liquidée et acquittée avant le
-30 novembre 2012. Les redevables sont tenus de conserver les informations nécessaires à la liquidation de la taxe sur ces
-opérations. Ils transmettent au dépositaire central teneur du compte d'émission, avant le 10 novembre 2012, les informations
-mentionnées au VII du présent article.
-
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 7 II : 
-
-(1) ces dispositions s'appliquent aux sociétés dont les titres font l'objet de transactions réalisées à compter du 1er
-janvier 2013 .
-
-(2) : ces dispositions s'appliquent aux acquisitions réalisées à compter du 1er décembre 2012 .
-
-(3) : ces dispositions s'appliquent aux acquisitions réalisées à compter du 1er août 2012 .
 
 **Liens relatifs à cet article**
 
@@ -204,25 +185,25 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-958 du 16 août 2012 - art. 7 (V)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
   - Code de commerce - art. L233-3
-  - Code général des impôts, CGI. - art. 1727 (V)
-  - Code général des impôts, CGI. - art. 210 A (V)
-  - Code général des impôts, CGI. - art. 220 quater (V)
-  - Code général des impôts, CGI. - art. 223 A (VT)
-  - Code monétaire et financier - art. L211-1 (V)
-  - Code monétaire et financier - art. L211-17 (V)
-  - Code monétaire et financier - art. L211-41 (V)
-  - Code monétaire et financier - art. L212-1 A (V)
+  - Code général des impôts, CGI. - art. 1727
+  - Code général des impôts, CGI. - art. 210 A
+  - Code général des impôts, CGI. - art. 220 quater
+  - Code général des impôts, CGI. - art. 223 A
+  - Code monétaire et financier - art. L211-1
+  - Code monétaire et financier - art. L211-17
+  - Code monétaire et financier - art. L211-41
+  - Code monétaire et financier - art. L212-1-A
   - Code monétaire et financier - art. L214-39
   - Code monétaire et financier - art. L321-1
-  - Code monétaire et financier - art. L421-4 (V)
-  - Code monétaire et financier - art. L422-1 (V)
-  - Code monétaire et financier - art. L423-1 (V)
-  - Code monétaire et financier - art. L440-1 (V)
-  - Code monétaire et financier - art. L621-9 (V)
-  - Code du travail - art. L3332-15 (V)
+  - Code monétaire et financier - art. L421-4
+  - Code monétaire et financier - art. L422-1
+  - Code monétaire et financier - art. L423-1
+  - Code monétaire et financier - art. L440-1
+  - Code monétaire et financier - art. L621-9
+  - Code du travail - art. L3332-15
   - Code du travail - art. L3344-1
