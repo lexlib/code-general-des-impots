@@ -59,7 +59,7 @@ c) La société ne compte pas plus de cinquante associés ou actionnaires ;
 
 La condition prévue au premier alinéa du présent c ne s'applique pas si la société détient exclusivement des participations
 dans une société exerçant une des activités mentionnées au d du 2° dont le capital est détenu pour 10 % au moins par une ou
-plusieurs sociétés coopératives ou par l'une de leurs unions (1) ; 
+plusieurs sociétés coopératives ou par l'une de leurs unions ; 
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ; 
 
@@ -102,14 +102,14 @@ les contribuables mariés soumis à imposition commune.
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au premier alinéa ouvre droit à la réduction
 d'impôt dans les mêmes conditions au titre des quatre années suivantes. 
 
-La réduction de l'impôt dû procurée par le montant de la réduction d'impôt mentionnée au I du présent article qui excède le
-montant mentionné au premier alinéa du 1 de l'article 200-0 A peut être reportée sur l'impôt sur le revenu dû au titre des
-années suivantes jusqu'à la cinquième inclusivement. Pour la détermination de cet excédent au titre d'une année, il est tenu
-compte de la réduction d'impôt accordée au titre des versements réalisés au cours de l'année concernée et des versements en
-report mentionnés au deuxième alinéa du présent II ainsi que des reports de la réduction d'impôt constatés au titre d'années
-antérieures.  
+La réduction de l'impôt dû procurée par le montant de la réduction d'impôt mentionnée au I qui excède le montant mentionné au
+premier alinéa du 1 de l'article 200-0 A peut être reportée sur l'impôt sur le revenu dû au titre des années suivantes
+jusqu'à la cinquième inclusivement. Pour la détermination de cet excédent au titre d'une année, il est tenu compte de la
+réduction d'impôt accordée au titre des versements réalisés au cours de l'année concernée et des versements en report
+mentionnés au deuxième alinéa du présent II ainsi que des reports de la réduction d'impôt constatés au titre d'années
+antérieures. 
 
-II bis. ― Abrogé.
+II bis. ― Abrogé. 
 
 II ter. ― Abrogé. 
 
@@ -210,7 +210,7 @@ VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables d
 Martinique, à La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, Polynésie
 française et dans les îles Wallis et Futuna peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 42 % des
 souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-31 du code
-monétaire et financier(3), dont l'actif est constitué pour 60 % au moins de titres financiers, parts de société à
+monétaire et financier , dont l'actif est constitué pour 60 % au moins de titres financiers, parts de société à
 responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans
 des établissements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-
 Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour
@@ -242,7 +242,7 @@ alinéa, une société holding animatrice s'entend d'une société qui, outre la
 participe activement à la conduite de la politique de leur groupe et au contrôle de leurs filiales et rend le cas échéant et
 à titre purement interne des services spécifiques, administratifs, juridiques, comptables, financiers et immobiliers. 
 
-VI quinquies.- Le bénéfice des I et II, VI, VI bis et VI ter est subordonné au respect, selon le cas par les sociétés
+VI quinquies.-Le bénéfice des I et II, VI, VI bis et VI ter est subordonné au respect, selon le cas par les sociétés
 bénéficiaires des versements mentionnées au 1 du I ou par les sociétés éligibles au quota mentionné au I de l'article L.
 214-30 du code monétaire et financier ou au I de l'article L. 214-31 du même code, du règlement (CE) n° 1998/2006 de la
 Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis ou du
@@ -288,23 +288,6 @@ Le bénéfice de la dérogation mentionnée au deuxième alinéa du présent d e
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
 
-**Nota:**
-
-(1) Loi n° 2011-1977 du 28 décembre 2011, article 26 II : Cette disposition s'applique aux souscriptions réalisées à compter
-du 1er janvier 2012.
-
-(2) Loi n° 2011-1977 du 28 décembre 2011, article 77 II : les six alinéas suivants s'appliquent aux souscriptions effectuées
-à compter du 1er janvier 2013.
-
-Loi n° 2011-1978 du 28 décembre 2011, article 18 II : les dispositions de l'article 199 terdecies-0 A telles qu'elles
-résultent de la présente loi s'appliquent aux versements effectués à compter du 1er janvier 2012.
-
-(3) Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 2011-915 du 1er août 2011.
-
-LOI n° 2012-1509 du 29 décembre 2012 de finances pour 2013 article 75 II, article 76 II : les dispositions de l'article 199
-terdecies-0 A telles qu'elles résultent de la présente loi s'appliquent aux versements afférents aux souscriptions effectuées
-à compter du 1er janvier 2013, ainsi qu'à compter de l'imposition des revenus de 2013.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -345,6 +328,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 150-0 A
   - Code général des impôts, CGI. - art. 197
   - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 200-0 A
   - Code général des impôts, CGI. - art. 44 sexies-0 A
   - Code général des impôts, CGI. - art. 885 O quater
   - Code monétaire et financier - art. L214-30
@@ -356,6 +340,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 74
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 75 (VD)
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 76 (VD)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
