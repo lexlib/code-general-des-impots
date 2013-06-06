@@ -20,7 +20,7 @@ liaisons aériennes intracommunautaires.
 
 Les classes d'aérodromes sont fixées comme suit : 
 
-<table cellspacing="0" width="605" align="center" cellpadding="0" border="1">
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
   <tbody>
     <tr>
       <td width="161">
@@ -75,7 +75,7 @@ De 5 001 à 2 200 000
 
 Les limites supérieures et inférieures des tarifs correspondant aux classes d'aérodromes sont fixées comme suit : 
 
-<table border="1" width="605" cellspacing="0" cellpadding="0" align="center">
+<table align="center" cellpadding="0" cellspacing="0" width="605" border="1">
   <tbody>
     <tr>
       <td width="161">
@@ -157,13 +157,13 @@ Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fou
 le nombre de passagers et la masse de fret et de courrier embarqués le mois précédent pour les vols effectués au départ de
 chaque aérodrome. 
 
-Toutefois, les entreprises de transport aérien qui ont déclaré au cours de  l'année précédente un montant de taxe égal ou
-inférieur à 12 000 € sont admises  à souscrire, à compter du premier trimestre civil de l'année qui suit, des  déclarations
-trimestrielles indiquant le nombre de passagers et la masse de fret  et de courrier embarqués au cours du trimestre précédent
-pour les vols effectués  au départ de chaque aérodrome. Ces déclarations trimestrielles sont souscrites  au plus tard le
-dernier jour du mois qui suit le trimestre au titre duquel elle  est établie. Lorsque le montant de la taxe déclarée au terme
-des quatre  trimestres civils consécutifs de l'année dépasse le montant de 12 000 €,  l'entreprise souscrit mensuellement ses
-déclarations dans les conditions fixées  au treizième alinéa ; dans ce cas, l'obligation court à compter du premier mois  qui
+Toutefois, les entreprises de transport aérien qui ont déclaré au cours de l'année précédente un montant de taxe égal ou
+inférieur à 12 000 € sont admises à souscrire, à compter du premier trimestre civil de l'année qui suit, des déclarations
+trimestrielles indiquant le nombre de passagers et la masse de fret et de courrier embarqués au cours du trimestre précédent
+pour les vols effectués au départ de chaque aérodrome. Ces déclarations trimestrielles sont souscrites au plus tard le
+dernier jour du mois qui suit le trimestre au titre duquel elle est établie. Lorsque le montant de la taxe déclarée au terme
+des quatre trimestres civils consécutifs de l'année dépasse le montant de 12 000 €, l'entreprise souscrit mensuellement ses
+déclarations dans les conditions fixées au onzième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui
 suit l'année de dépassement.
 
 Ces déclarations, mensuelles ou trimestrielles, accompagnées du paiement de la taxe due, sont adressées aux comptables du
@@ -249,7 +249,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 46
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
