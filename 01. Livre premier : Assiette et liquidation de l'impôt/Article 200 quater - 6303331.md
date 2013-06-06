@@ -123,21 +123,23 @@ c) 15 % du montant des équipements, matériaux et appareils mentionnés aux 3°
 d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du
 1 : 
 
-<table align="center" border="1" width="750">
+<table align="center" cellpadding="0" border="1" width="680">
   <tbody>
     <tr>
-      <td> </td>
-      <td>
+      <td width="454">
+
+</td>
+      <td width="76">
 
 2010
 
 </td>
-      <td>
+      <td width="76">
 
 2011
 
 </td>
-      <td>
+      <td width="76">
 
 A compter
 
@@ -146,157 +148,207 @@ de 2012
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="454">
 
 Cas général 
 
 </td>
-      <td align="center">
+      <td width="76">
 
 50 % 
 
 </td>
-      <td align="center">
+      <td width="76">
 
 45 % 
 
 </td>
-      <td align="center">
+      <td width="76">
 
 32 % 
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td width="454">
 
 Equipements de production d'électricité utilisant l'énergie radiative du soleil 
 
 </td>
-      <td align="center">
+      <td width="76">
 
 50 % (1) 
 
 25 % (2) 
 
 </td>
-      <td align="center">22 % 
+      <td width="76">
+
+22 % 
 
 </td>
-      <td align="center">11 % </td>
+      <td width="76">
+
+11 % 
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="454">
 
 Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production
 
 de chaleur, à l'exception des pompes à chaleur géothermiques. 
 
 </td>
-      <td align="center">25 % </td>
-      <td align="center">
+      <td width="76">
+
+25 % 
+
+</td>
+      <td width="76">
 
 22 % 
 
 </td>
-      <td align="center">15 %</td>
+      <td width="76">
+
+15 %
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="454">
 
 Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. 
 
 </td>
-      <td align="center">40 % </td>
-      <td align="center">
+      <td width="76">
+
+40 % 
+
+</td>
+      <td width="76">
 
 36 % 
 
 </td>
-      <td align="center">26 % </td>
+      <td width="76">
+
+26 % 
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="454">
 
 Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production
 
 d'eau chaude sanitaire. 
 
 </td>
-      <td align="center">40 % </td>
-      <td align="center">
+      <td width="76">
+
+40 % 
+
+</td>
+      <td width="76">
 
 36 % 
 
 </td>
-      <td align="center">26 % </td>
+      <td width="76">
+
+26 % 
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="454">
 
 Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques. 
 
 </td>
-      <td align="center">40 % </td>
-      <td align="center">
+      <td width="76">
+
+40 % 
+
+</td>
+      <td width="76">
 
 36 % 
 
 </td>
-      <td align="center">26 % </td>
+      <td width="76">
+
+26 % 
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="454">
 
 Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant
 
 au bois ou autres biomasses :
 
 </td>
-      <td align="center">
+      <td width="76">
 
 </td>
-      <td align="center"> </td>
-      <td align="center"> </td>
+      <td width="76">
+
+</td>
+      <td width="76">
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="454">
 
 - cas général ; 
 
 </td>
-      <td align="center">
+      <td width="76">
 
 25 % 
 
 </td>
-      <td align="center">
+      <td width="76">
 
 22 %
 
 </td>
-      <td align="center">15 % </td>
+      <td width="76">
+
+15 % 
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="454">
 
 - en cas de remplacement des mêmes matériels. 
 
 </td>
-      <td align="center">
+      <td width="76">
 
 40 % 
 
 </td>
-      <td align="center">
+      <td width="76">
 
 36 % 
 
 </td>
-      <td align="center">26 % </td>
+      <td width="76">
+
+26 % 
+
+</td>
     </tr>
     <tr>
-      <td>
+      <td width="454">
 
 (1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles
 
@@ -306,7 +358,7 @@ a) De l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à l'ent
 
 b) De la signature d'un contrat dans le cadre d'un démarchage mentionné
 
-aux articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel
+aux  articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel
 jusqu'au 6 octobre 2010 ; 
 
 c) Ou d'un moyen de financement accordé à raison des dépenses concernées par
@@ -316,9 +368,15 @@ un établissement de crédit.
 (2) Pour les dépenses payées à compter du 29 septembre 2010. 
 
 </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td width="76">
+
+</td>
+      <td width="76">
+
+</td>
+      <td width="76">
+
+</td>
     </tr>
   </tbody>
 </table>
@@ -384,7 +442,7 @@ en mètres carrés des équipements de production d'énergie utilisant l'énergi
 l'entreprise ou de qualité de l'installation ; 
 
 6° Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou d'un équipement de chauffage ou de production
-d'eau chaude indépendant fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 31 % mentionné à la
+d'eau chaude indépendant fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 26 % mentionné à la
 dernière ligne du tableau du d du 5, outre les mentions précitées, la mention de la reprise, par l'entreprise qui a réalisé
 les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction. 
 
@@ -411,6 +469,10 @@ qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de r
 d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée.
 Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses
 ont été payées.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 1er du décret n° 2012-547 du 23 avril 2012.
 
 **Liens relatifs à cet article**
 
@@ -478,13 +540,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cite_:
 
   - Code de la consommation - art. L121-21
   - Code général des impôts, CGI. - art. 199 quater B
-  - Code général des impôts, CGI. - art. 289
   - Code général des impôts, CGI. - art. 4 B
   - Code de la construction et de l'habitation. - art. L134-1
   - Code de la construction et de l'habitation. - art. L271-6

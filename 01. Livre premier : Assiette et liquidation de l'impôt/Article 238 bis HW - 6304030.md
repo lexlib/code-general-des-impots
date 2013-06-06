@@ -7,12 +7,11 @@ dessous énoncées. Ces contrats permettent de réserver des droits à consommat
 pour une période inférieure à quinze ans. 
 
 Les actions de la société agréée ne peuvent être souscrites que par des entreprises exerçant une activité industrielle et
-éligibles au sens du premier alinéa du I de l'article 22 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation
-et au développement du service public de l'électricité à la condition que, au titre du dernier exercice clos en 2005, le
-rapport existant entre la quantité consommée d'électricité et la valeur ajoutée produite définie aux articles 1586 ter à 1586
-sexies soit supérieur à deux kilowattheures et demi par euro. 
+éligibles au sens de l'article L. 331-2 du code de l'énergie à la condition que, au titre du dernier exercice clos en 2005,
+le rapport existant entre la quantité consommée d'électricité et la valeur ajoutée produite définie aux articles 1586 ter à
+1586 sexies soit supérieur à deux kilowattheures et demi par euro. 
 
-Les droits à consommation sont cédés en application du IV de l'article 22 de la loi n° 2000-108 précitée. 
+Les droits à consommation sont cédés en application de l'article L. 333-1 du code précité. 
 
 Les droits à consommation acquis par un associé sont exercés, sur la durée du contrat, sous forme d'une puissance constante
 et sont limités en volume à la consommation de ses sites qui vérifient individuellement, au titre du dernier exercice clos en
@@ -25,24 +24,20 @@ b. Le rapport entre l'énergie consommée au-dessous de la puissance visée au q
 puissance ne peut être inférieur à 8 000 heures, hors arrêts exceptionnels et périodes d'entretien ; 
 
 c. Les consommations d'électricité de cette entreprise donnent lieu au paiement de la contribution aux charges du service
-public de l'électricité prévue à l'article 5 de la loi n° 2000-108 du 10 février 2000 précitée. 
+public de l'électricité prévue aux articles L. 121-10 à L. 121-26 du code de l'énergie. 
 
-Les actions souscrites doivent revêtir la forme nominative. Le montant du capital agréé est limité à 600 000  €.
+Les actions souscrites doivent revêtir la forme nominative. Le montant du capital agréé est limité à 600 000 €.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 2, 4 (21°), 6 (6°) et 14 de l'ordonnance n° 2011-504 du 9 mai 2011.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2000-108 du 10 février 2000 - art. 22 (VT)
-  - Loi n°2000-108 du 10 février 2000 - art. 5
-  - Code général des impôts, CGI. - art. 1586 ter (V)
-  - Code général des impôts, CGI. - art. 1647 B sexies
-  - Code général des impôts, CGI. - art. 238 bis HV
-
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 63
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -53,3 +48,11 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies V (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis HX (V)
   - Code général des impôts, CGI. - art. 238 bis HY (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L121-10
+  - Code de l'énergie - art. L331-2
+  - Code de l'énergie - art. L333-1
+  - Code général des impôts, CGI. - art. 1586 ter
+  - Code général des impôts, CGI. - art. 238 bis HV
