@@ -1,7 +1,7 @@
 # Article 72 D ter
 
-I. - Dans la limite du bénéfice, les déductions prévues aux articles 72 D et 72 D bis sont plafonnées à un montant global
-fixé, par exercice de douze mois, à 27 000 €. 
+I.-Dans la limite du bénéfice, les déductions prévues aux articles 72 D et 72 D bis sont plafonnées à un montant global fixé,
+par exercice de douze mois, à 27 000 €. 
 
 Lorsque le résultat de l'exercice est supérieur d'au moins 20 % à la moyenne des résultats des trois exercices précédents,
 l'exploitant peut pratiquer un complément de déduction pour aléas, dans les conditions prévues à l'article 72 D bis et dans
@@ -15,31 +15,26 @@ rapport est supérieur à un. Le total obtenu est arrondi à l'unité supérieur
 
 Les déductions prévues aux articles 72 D et 72 D bis, majorées, le cas échéant, du complément de déduction pour aléas, sont
 plafonnées à la différence positive entre la somme de 150 000 € et le montant des déductions pratiquées et non encore
-rapportées au résultat, majoré, le cas échéant, des intérêts capitalisés en application du deuxième alinéa du A du I de
+rapportées au résultat, majoré, le cas échéant, des intérêts capitalisés en application du deuxième alinéa du 1 du I de
 l'article 72 D bis. 
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux,
 les plafonds sont multipliés par le nombre des associés exploitants dans la limite de trois. 
 
-II. - Les déductions mentionnées au premier alinéa du I du présent article sont pratiquées après application des abattements
-prévus aux articles 44 quaterdecies et 73 B.
-
-**Nota:**
-
-Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 27 II : Ces dispositions s'appliquent aux
-exercices clos à compter du 31 décembre 2012. Les sommes déduites en application des articles 72 D et 72 D bis antérieurement
-à l'entrée en vigueur du I du présent article peuvent être utilisées ou doivent être rapportées, selon les cas, selon les
-modalités prévues antérieurement à cette date. 
-
-Le montant mentionné au quatrième alinéa du I de l'article 72 D ter comprend celui des déductions pour aléas pratiquées et
-non encore rapportées au résultat à la date de publication de la présente loi, majoré, le cas échéant, des intérêts
-capitalisés.
+II.-Les déductions mentionnées au premier alinéa du I sont pratiquées après application des abattements prévus aux articles
+44 quaterdecies et 73 B.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 27 (VD)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 44 quaterdecies
+  - Code général des impôts, CGI. - art. 72 D
+  - Code général des impôts, CGI. - art. 73 B
 
 _Cité par_:
 

@@ -3,10 +3,10 @@
 I.-Les contribuables domiciliés en France au sens de l'article 4 B bénéficient d'une réduction d'impôt sur le revenu à raison
 des dépenses, autres que les intérêts d'emprunt, qu'ils supportent, entre le 1er janvier 2010 et le 31 décembre 2013, en vue
 du maintien et de la protection du patrimoine naturel et effectuées sur des espaces naturels mentionnés aux articles L.
-331-2, L. 332-2, L. 341-2, L. 411-1, L. 411-2 ou L. 414-1 du code de l'environnement ou des espaces mentionnés à l'article L.
-146-6 du code de l'urbanisme, qui ont obtenu le label délivré par la Fondation du patrimoine en application de l'article L.
-143-2 du code du patrimoine. Ce label prévoit les conditions de l'accès au public des espaces concernés, sauf exception
-justifiée par la fragilité du milieu naturel. 
+331-2, L. 332-2 à L. 332-2-2, L. 341-2, L. 411-1, L. 411-2 ou L. 414-1 du code de l'environnement ou des espaces mentionnés à
+l'article L. 146-6 du code de l'urbanisme, qui ont obtenu le label délivré par la Fondation du patrimoine en application de
+l'article L. 143-2 du code du patrimoine. Ce label prévoit les conditions de l'accès au public des espaces concernés, sauf
+exception justifiée par la fragilité du milieu naturel. 
 
 La réduction d'impôt s'applique aux dépenses mentionnées au premier alinéa ayant reçu un avis favorable du service de l'Etat
 compétent en matière d'environnement. 
@@ -27,17 +27,26 @@ III.-Lorsque le contribuable bénéficie de la réduction d'impôt prévue au pr
 I, les dépenses correspondantes ne peuvent faire l'objet d'aucune déduction pour la détermination des revenus imposables à
 l'impôt sur le revenu.
 
-**Nota:**
-
-Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2010 article 95 II : Le I de l'article 95 s'applique à
-compter de l'imposition des revenus de l'année 2010 et pour les trois années suivantes.
-
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 95 (VD)
 
 _Modifié par_:
 
-  - Décret n°2012-547 du 23 avril 2012 - art. 1
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L146-6
+  - Code de l'environnement - art. L331-2
+  - Code de l'environnement - art. L332-2
+  - Code de l'environnement - art. L341-2
+  - Code de l'environnement - art. L411-1
+  - Code de l'environnement - art. L414-1
+  - Code du patrimoine - art. L143-2
