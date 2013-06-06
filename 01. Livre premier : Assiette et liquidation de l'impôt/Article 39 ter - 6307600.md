@@ -23,9 +23,7 @@ l'intérêt de retard prévu à l'article 1727.
 leurs résultats imposables, au même rythme que l'amortissement, une somme égale au montant de ces investissements. Lorsque la
 provision est employée sous une autre forme, la même réintégration est effectuée en une seule fois. 
 
-3. Les entreprises soumises à l'un des régimes prévus à l'article 209 quinquies dotent et emploient leurs provisions pour
-reconstitution des gisements dans les conditions prévues aux 1 et 2 pour la détermination de leur résultat mondial ou
-consolidé. 
+3. (périmé) 
 
 4. La partie non encore libérée des provisions constituées au titre des exercices antérieurs au premier exercice clos à
 compter du 31 décembre 2000 doit être employée dans les conditions prévues au 1. Dans le cas contraire, les fonds non
@@ -44,12 +42,15 @@ ou dans les départements d'outre-mer, cette réintégration continue de s'effec
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 18
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
+
+**Liens**:
+
+  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1727
-  - Code général des impôts, CGI. - art. 209 quinquies
 
 _Cité par_:
 
