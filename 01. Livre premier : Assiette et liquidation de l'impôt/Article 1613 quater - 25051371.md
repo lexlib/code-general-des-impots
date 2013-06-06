@@ -15,7 +15,7 @@ professionnel ;
 Sont exclus du périmètre de cette taxe les denrées destinées à des fins médicales spéciales ainsi que les aliments
 hyperprotéinés destinés aux personnes dénutries. 
 
-II. ― Le montant de la contribution est fixé à 7,16 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à
+II. ― Le montant de la contribution est fixé à 7,31 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à
 compter du 1er janvier 2013, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors
 tabac de l'avant-dernière année. Ce montant est exprimé avec deux chiffres après la virgule, le deuxième chiffre étant
 augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté du ministre chargé du
@@ -45,19 +45,23 @@ alinéa. Cette attestation comporte l'engagement d'acquitter la contribution au 
 recevrait pas la destination qui a motivé la franchise. Une copie de l'attestation est conservée à l'appui de la comptabilité
 des intéressés. 
 
-V. ― La contribution mentionnée au I du présent article est acquittée auprès de l'administration des douanes. Elle est
-recouvrée et contrôlée selon les règles, sanctions, garanties et privilèges applicables au droit spécifique mentionné à
-l'article 520 A. Le droit de reprise de l'administration s'exerce dans les mêmes délais.
+V. ― La contribution mentionnée au I est acquittée auprès de l'administration des douanes. Elle est recouvrée et contrôlée
+selon les règles, sanctions, garanties et privilèges applicables au droit spécifique mentionné à l'article 520 A. Le droit de
+reprise de l'administration s'exerce dans les mêmes délais. 
+
+VI. ― Le produit de la contribution mentionnée au I est affecté à la branche mentionnée au 2° de l'article L. 722-8 du code
+rural et de la pêche maritime.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 53-V (2°) et VI de la loi n° 2012-1509 du 29 décembre 2012 et des
+articles 2 et 4 de l'arrêté du 15 décembre 2012.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 27
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 

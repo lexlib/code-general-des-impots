@@ -4,15 +4,14 @@ I. – Il est institué une taxe sur les plus-values réalisées dans les condit
 par les personnes physiques ou les sociétés ou groupements qui relèvent des articles 8 à 8 ter et dans celles prévues à
 l'article 244 bis A par les contribuables non domiciliés fiscalement en France assujettis à l'impôt sur le revenu.
 
-La taxe ne s'applique pas aux plus-values réalisées lors de la cession de terrains à bâtir mentionnés au I de l'article 150
-VC ou de droits s'y rapportant.
+La taxe ne s'applique pas aux plus-values réalisées lors de la cession de terrains à bâtir ou de droits s'y rapportant.
 
 Le produit de la taxe est affecté, pour les cessions intervenues jusqu'au 31 décembre 2015, au fonds mentionné à l'article L.
 452-1-1 du code de la construction et de l'habitation, dans la limite du plafond prévu au I de l'article 46 de la loi n°
 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 II. – La taxe est assise sur le montant imposable des plus-values déterminé dans les conditions prévues, selon le cas, aux
-articles 150 V à 150 VD ou au II de l'article 244 bis A du présent code.
+articles 150 V à 150 VD ou au II de l'article 244 bis A.
 
 Elle est due par le cédant et exigible lors de la cession.
 
@@ -24,21 +23,25 @@ appliqué au montant total de la plus-value imposable :
 <table border="1">
   <tbody>
     <tr>
-      <th>
+      <td>
 
 MONTANT DE LA PLUS-VALUE
 
 imposable
 
-</th>
-      <th>
+</td>
+      <td>
 
-MONTANT DE LA TAXE</th>
+MONTANT DE LA TAXE
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-De 50 001 à 60 000</td>
+De 50 001 à 60 000
+
+</td>
       <td align="center">
 
 2 % PV-(60 000-PV) × 1/20</td>
@@ -46,7 +49,9 @@ De 50 001 à 60 000</td>
     <tr>
       <td align="center">
 
-De 60 001 à 100 000</td>
+De 60 001 à 100 000
+
+</td>
       <td align="center">
 
 2 % PV</td>
@@ -54,7 +59,9 @@ De 60 001 à 100 000</td>
     <tr>
       <td align="center">
 
-De 100 001 à 110 000</td>
+De 100 001 à 110 000
+
+</td>
       <td align="center">
 
 3 % PV-(110 000-PV) × 1/10</td>
@@ -62,7 +69,9 @@ De 100 001 à 110 000</td>
     <tr>
       <td align="center">
 
-De 110 001 à 150 000</td>
+De 110 001 à 150 000
+
+</td>
       <td align="center">
 
 3 % PV</td>
@@ -70,7 +79,9 @@ De 110 001 à 150 000</td>
     <tr>
       <td align="center">
 
-De 150 001 à 160 000</td>
+De 150 001 à 160 000
+
+</td>
       <td align="center">
 
 4 % PV-(160 000-PV) × 15/100</td>
@@ -78,7 +89,9 @@ De 150 001 à 160 000</td>
     <tr>
       <td align="center">
 
-De 160 001 à 200 000</td>
+De 160 001 à 200 000
+
+</td>
       <td align="center">
 
 4 % PV</td>
@@ -86,7 +99,9 @@ De 160 001 à 200 000</td>
     <tr>
       <td align="center">
 
-De 200 001 à 210 000</td>
+De 200 001 à 210 000
+
+</td>
       <td align="center">
 
 5 % PV-(210 000-PV) × 20/100</td>
@@ -94,7 +109,9 @@ De 200 001 à 210 000</td>
     <tr>
       <td align="center">
 
-De 210 001 à 250 000</td>
+De 210 001 à 250 000
+
+</td>
       <td align="center">
 
 5 % PV</td>
@@ -102,7 +119,9 @@ De 210 001 à 250 000</td>
     <tr>
       <td align="center">
 
-De 250 001 à 260 000</td>
+De 250 001 à 260 000
+
+</td>
       <td align="center">
 
 6 % PV-(260 000-PV) × 25/100</td>
@@ -110,7 +129,9 @@ De 250 001 à 260 000</td>
     <tr>
       <td align="center">
 
-Supérieur à 260 000</td>
+Supérieur à 260 000
+
+</td>
       <td align="center">
 
 6 % PV</td>
@@ -126,8 +147,8 @@ Supérieur à 260 000</td>
 IV. – Une déclaration, conforme à un modèle établi par l'administration, retrace les éléments servant à la liquidation de la
 taxe. Elle est déposée dans les conditions prévues aux 1°, 2° et 4° du I et au II de l'article 150 VG.
 
-V. – La taxe est versée lors du dépôt de la déclaration prévue au IV du présent article. Les I à II bis de l'article 150 VF,
-le second alinéa du I et les II et III de l'article 150 VH et le IV de l'article 244 bis A sont applicables.
+V. – La taxe est versée lors du dépôt de la déclaration prévue au IV. Les I à II bis de l'article 150 VF, le second alinéa du
+I et les II et III de l'article 150 VH et le IV de l'article 244 bis A sont applicables.
 
 VI. – La taxe est contrôlée sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu.
 
@@ -142,10 +163,17 @@ date certaine avant le 7 décembre 2012.
 _Cite_:
 
   - Loi n°2011-1977 du 28 décembre 2011 - art. 46
+  - Code général des impôts, CGI. - art. 150 U
+  - Code général des impôts, CGI. - art. 150 UB
+  - Code général des impôts, CGI. - art. 150 V (V)
+  - Code général des impôts, CGI. - art. 150 VF
+  - Code général des impôts, CGI. - art. 150 VG
+  - Code général des impôts, CGI. - art. 244 bis A
+  - Code général des impôts, CGI. - art. 8
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 70 (VD)
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 
