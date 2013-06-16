@@ -5,7 +5,7 @@ des dispositions suivantes.
 
 Ne constituent pas une rémunération imposable : 
 
-1° Les indemnités mentionnées aux articles L. 1235-2, L. 1235-3 et L. 1235-11 à L. 1235-13 du code du travail ; 
+1° Les indemnités mentionnées aux articles L. 1235-1,  L. 1235-2, L. 1235-3 et L. 1235-11 à L. 1235-13 du code du travail ; 
 
 2° Les indemnités de licenciement ou de départ volontaire versées dans le cadre d'un plan de sauvegarde de l'emploi au sens
 des articles L. 1233-32 et L. 1233-61 à L. 1233-64 du code du travail ; 
@@ -51,7 +51,7 @@ imposable.
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 199 (V)
+  - Loi n°2013-504 du 14 juin 2013 - art. 21
 
 _Cité par_:
 
