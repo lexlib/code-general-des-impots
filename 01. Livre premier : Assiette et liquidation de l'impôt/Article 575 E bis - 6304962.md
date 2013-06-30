@@ -3,126 +3,114 @@
 I.-Les tabacs manufacturés vendus au détail ou importés dans les départements de Corse sont soumis à un droit de
 consommation. 
 
-Ce  droit de consommation, par dérogation aux taux mentionnés à l'article  575 A et dans la limite d'un contingent de 1 200
-tonnes par an pour les  cigarettes, est déterminé conformément aux deuxième à sixième alinéas de  l'article 575. La classe de
+Ce droit de consommation, par dérogation aux taux mentionnés à l'article 575 A et dans la limite d'un contingent de 1 200
+tonnes par an pour les cigarettes, est déterminé conformément aux deuxième à sixième alinéas de l'article 575. La classe de
 prix de référence est calculée sur la base des mises à la consommation réalisées en Corse. 
 
-Pour  les différents groupes de produits, le taux normal et le taux  spécifique applicables dans les départements de Corse
-sont fixés  conformément au tableau ci-après :
+Pour les différents groupes de produits, le taux normal et le taux spécifique applicables dans les départements de Corse sont
+fixés conformément au tableau ci-après : 
 
 (En pourcentage) 
 
 <table width="680" border="1">
-    <tbody>
-      <tr>
-        <td align="center"> GROUPE DE PRODUITS</td>
-        <td align="center"> TAUX NORMAL</td>
-        <td align="center"> TAUX SPÉCIFIQUE</td>
-      </tr>
-      <tr>
-        <td align="left">
+  <tbody>
+    <tr>
+      <td>
 
-Cigarettes
+GROUPE DE PRODUITS 
 
 </td>
-        <td align="center">
+      <td>
 
-45
-
-</td>
-        <td align="center">
-
-10
+TAUX NORMAL 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td>
 
-Cigares et cigarillos
+TAUX SPÉCIFIQUE 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-10
-
-</td>
-        <td align="center">
-
-5
+Cigarettes 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td align="center">
 
-Tabacs fine coupe destinés à rouler les cigarettes
+50 </td>
+      <td align="center">
 
-</td>
-        <td align="center">
+10 </td>
+    </tr>
+    <tr>
+      <td align="center">
 
-27
-
-</td>
-        <td align="center">
-
-15
+Cigares et cigarillos 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td align="center">
 
-Autres tabacs à fumer
+15 </td>
+      <td align="center">
 
-</td>
-        <td align="center">
+5 </td>
+    </tr>
+    <tr>
+      <td align="center">
 
-22
-
-</td>
-        <td align="center">
-
-0
+Tabacs fine coupe destinés à rouler les cigarettes 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td align="center">
 
-Tabacs à priser
+30 </td>
+      <td align="center">
 
-</td>
-        <td align="center">
+15 </td>
+    </tr>
+    <tr>
+      <td align="center">
 
-15
-
-</td>
-        <td align="center">
-
-0
+Autres tabacs à fumer 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td align="center">
 
-Tabacs à mâcher
+25 </td>
+      <td align="center">
 
-</td>
-        <td align="center">
+0 </td>
+    </tr>
+    <tr>
+      <td align="center">
 
-13
-
-</td>
-        <td align="center">
-
-0
+Tabacs à priser 
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+      <td align="center">
+
+20 </td>
+      <td align="center">
+
+0 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Tabacs à mâcher 
+
+</td>
+      <td align="center">
+
+15 </td>
+      <td align="center">
+
+0 </td>
+    </tr>
+  </tbody>
+</table>
 
 II.-Pour les cigarettes, le prix de vente au détail appliqué dans les départements de Corse est au moins égal à 75 % des prix
 de vente continentaux des mêmes produits. 
@@ -140,9 +128,9 @@ les départements de Corse en provenance d'un autre Etat membre de la Communaut�
 la personne qui importe les produits ou qui sort les biens du régime suspensif. 
 
 IV.-Le droit de consommation est recouvré dans les conditions prévues par les deuxième à cinquième alinéas de l'article 575
-C.A l'exclusion des tabacs directement importés dans les départements de Corse qui demeurent soumis aux dispositions de
+C. A l'exclusion des tabacs directement importés dans les départements de Corse qui demeurent soumis aux dispositions de
 l'article 575 M, les infractions aux dispositions du présent article sont recherchées, constatées, poursuivies et réprimées
-comme en matière de contributions indirectes.
+comme en matière de contributions indirectes. 
 
 V.-Le produit du droit de consommation est affecté au financement de travaux de mise en valeur de la Corse et versé à
 concurrence : 
@@ -155,7 +143,7 @@ VI.-Les unités de conditionnement doivent être revêtues des mentions prescrit
 
 **Nota:**
 
-Loi n° 2012-1510 du 29 décembre 2012 article 54 II : Le I entre en vigueur à compter du 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012, article 54 III : Ces dispositions entrent en vigueur à compter du 1er juillet 2013.
 
 **Liens relatifs à cet article**
 
@@ -197,6 +185,5 @@ _Modifié par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 302 D
-  - Code général des impôts, CGI. - art. 575
-  - Code général des impôts, CGI. - art. 575 A
+  - Code général des impôts, CGI. - art. 575 A (V)
   - Code général des impôts, CGI. - art. 575 C
