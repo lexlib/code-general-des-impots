@@ -15,8 +15,10 @@ handicapées :
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er
 janvier 2005 et le 31 décembre 2014 ; 
 
-b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2014 pour la réalisation de travaux prescrits aux
-propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement ; 
+b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2014 pour la réalisation de diagnostics préalables aux
+travaux et de travaux prescrits aux propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de
+l'environnement, sans qu'en soit déduit le montant des participations versées, le cas échéant, en application du I bis de
+l'article L. 515-19 du même code ; 
 
 c. (Périmé) 
 
@@ -31,7 +33,7 @@ acquisition si elle est postérieure.
 de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2014, la somme de 5 000 € pour une personne
 célibataire, veuve ou divorcée et de 10 000 € pour un couple marié soumis à imposition commune. Cette somme est majorée de
 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un
-enfant réputé à charge égale de l'un et l'autre de ses parents.
+enfant réputé à charge égale de l'un et l'autre de ses parents. 
 
 Au titre des dépenses mentionnées au b du 1, la somme mentionnée au premier alinéa du présent 4 est majorée de 5 000 € pour
 une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple soumis à imposition commune. 
@@ -42,7 +44,7 @@ a. 25 % du montant des dépenses d'installation ou de remplacement d'équipement
 
 a bis. 40 % (1) du montant des travaux mentionnés au b du 1 ; 
 
-b. (Périmé)
+b. (Périmé) 
 
 6. Les travaux et les dépenses d'acquisition, d'installation ou de remplacement mentionnés au 1 s'entendent de ceux figurant
 sur la facture d'une entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° du a du 1, des dépenses figurant sur une
@@ -54,14 +56,15 @@ l'adresse de réalisation des travaux, leur nature ainsi que la désignation et 
 mentionnés au 1.
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles
-199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires.S'il excède l'impôt dû,
+199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû,
 l'excédent est restitué. 
 
 8. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des
 dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du
 crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée.
 Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses
-ont été payées.
+ont été payées ou lorsque les sommes remboursées ont été versées en application du I bis de l'article L. 515-19 du code de
+l'environnement. 
 
 9. La durée de l'engagement de location mentionné au premier alinéa du 1 s'apprécie à compter de la date de réalisation des
 dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet, pour
@@ -80,7 +83,8 @@ payées du 1er janvier 2013 au 31 décembre 2014.
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2013-619 du 16 juillet 2013 - art. 6
+  - Loi n°2013-619 du 16 juillet 2013 - art. 9 (V)
 
 _Cité par_:
 
@@ -97,3 +101,4 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 quater B
   - Code général des impôts, CGI. - art. 289
   - Code de l'environnement - art. L515-16
+  - Code de l'environnement - art. L515-19 (V)
