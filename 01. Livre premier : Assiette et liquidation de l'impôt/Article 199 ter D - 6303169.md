@@ -1,12 +1,12 @@
 # Article 199 ter D
 
-I. - Le crédit d'impôt défini à l'article 244 quater E est imputé sur l'impôt sur le revenu dû par le contribuable au titre
-de l'année au cours de laquelle les biens éligibles au dispositif sont acquis, créés ou loués. Lorsque les biens éligibles
-sont acquis, créés ou loués au titre d'un exercice ne coïncidant pas avec l'année civile, le crédit d'impôt correspondant est
+I.-Le crédit d'impôt défini à l'article 244 quater E est imputé sur l'impôt sur le revenu dû par le contribuable au titre de
+l'année au cours de laquelle les biens éligibles au dispositif sont acquis, créés ou loués. Lorsque les biens éligibles sont
+acquis, créés ou loués au titre d'un exercice ne coïncidant pas avec l'année civile, le crédit d'impôt correspondant est
 imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année au cours de laquelle l'exercice est clos. Si le
 montant du crédit d'impôt excède l'impôt dû au titre de ladite année, l'excédent est utilisé pour le paiement de l'impôt sur
 le revenu dû au titre des neuf années suivantes. Le solde non utilisé est remboursé à l'expiration de cette période dans la
-limite de 50 % du crédit d'impôt et d'un montant de 300 000 €.
+limite de 50 % du crédit d'impôt et d'un montant de 300 000 €. 
 
 Toutefois, sur demande du redevable, le solde non utilisé peut être remboursé à compter de la cinquième année, dans la limite
 de 35 % du crédit d'impôt et d'un montant de 300 000 €. 
@@ -34,17 +34,19 @@ a) Par des personnes physiques ;
 
 b) Ou par une société dont le capital est détenu pour 50 % au moins par des personnes physiques ; 
 
-c) Ou par des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional,
-des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe
-pas de lien de dépendance au sens des trois derniers alinéas du 12 de l'article 39 entre les entreprises et ces dernières
-sociétés ou ces fonds. 
+c) Ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés
+relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25
+juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à
+risque à la condition qu'il n'existe pas de lien de dépendance au sens des trois derniers alinéas du 12 de l'article 39 entre
+les entreprises et ces dernières sociétés ou ces fonds. 
 
 Ces entreprises peuvent demander le remboursement immédiat de la créance constatée au titre de l'année de création. Il en est
 de même pour les créances constatées au titre des quatre années suivantes ; 
 
-2° Les entreprises ayant fait l'objet d'une procédure de conciliation ou  de sauvegarde, d'un redressement ou d'une
+2° Les entreprises ayant fait l'objet d'une procédure de conciliation ou de sauvegarde, d'un redressement ou d'une
 liquidation judiciaires. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date
-de la décision ou  du jugement qui a ouvert ces procédures ; 
+de la décision ou du jugement qui a ouvert ces procédures ; 
 
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ; 
 
@@ -52,23 +54,21 @@ de la décision ou  du jugement qui a ouvert ces procédures ;
 (CE) n° 800/2008 de la Commission, du 6 août 2008, déclarant certaines catégories d'aide compatibles avec le marché commun en
 application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
 
-**Nota:**
-
-LOI n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012 art. 32 II : les dispositions du présent article
-s'appliquent aux créances de crédit d'impôt constatées à compter du 1er janvier 2013.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 32 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 39 (V)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 _Cite_:
 
+  - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 210 A
   - Code général des impôts, CGI. - art. 244 quater E
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 44 sexies
+  - Code monétaire et financier - art. L214-37
   - Code monétaire et financier - art. L313-23
 
 _Cité par_:

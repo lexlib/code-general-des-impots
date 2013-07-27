@@ -64,7 +64,7 @@ jusqu'au terme de l'engagement de location.
 La location doit prendre effet dans les douze mois suivant l'achèvement des travaux. 
 
 IV bis.-1. La réduction d'impôt est applicable, dans les mêmes conditions, au titre de la souscription par les contribuables
-de parts de sociétés civiles de placement immobilier régies par les articles L. 214-50 et suivants du code monétaire et
+de parts de sociétés civiles de placement immobilier régies par les articles L. 214-114 et suivants du code monétaire et
 financier dont la quote-part de revenu est, en application de l'article 8 du présent code, soumise en leur nom à l'impôt sur
 le revenu dans la catégorie des revenus fonciers. 
 
@@ -117,7 +117,7 @@ _Cite_:
   - Loi n°2009-323 du 25 mars 2009 - art. 25
   - Code général des impôts, CGI. - art. 199 decies E
   - Code général des impôts, CGI. - art. 4 B
-  - Code monétaire et financier - art. L214-50
+  - Code monétaire et financier - art. L214-114
   - Code de l'urbanisme - art. L313-1
   - Code de l'urbanisme - art. L313-4
   - Code de la construction et de l'habitation. - art. L261-1
@@ -144,4 +144,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-547 du 23 avril 2012 - art. 1
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
