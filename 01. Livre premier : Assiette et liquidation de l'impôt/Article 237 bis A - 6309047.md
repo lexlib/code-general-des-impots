@@ -37,17 +37,17 @@ accès au capital de l'entreprise.
 Les entreprises qui versent, au titre du plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 à L. 3334-16
 du code du travail et dans le cadre des dispositions des articles L. 3332-11 à L. 3332-13 du même code, des sommes
 complémentaires au montant versé par leurs salariés pour l'acquisition de parts de fonds régis par les quinzième à dix-
-huitième alinéas de l'article L. 214-39 du code monétaire et financier peuvent constituer, en franchise d'impôt, une
+huitième alinéas de l'article L. 214-164 du code monétaire et financier peuvent constituer, en franchise d'impôt, une
 provision pour investissement égale à 35 % des versements complémentaires. Les titres d'entreprises solidaires ou
 d'organismes acquis doivent être conservés pendant deux ans au moins par le fonds. 
 
 2. Les sociétés anonymes à participation ouvrière peuvent constituer, en franchise d'impôt, à la clôture de chaque exercice,
-une provision pour investissement d'un montant égal à 50% des sommes portées à la réserve spéciale de participation au cours
-du même exercice et admises en déduction du bénéfice imposable. Ce montant est porté à 75% lorsque les entreprises concernées
-affectent, au titre de chaque exercice, à un compte de réserve non distribuable, par prélèvement sur les résultats, une somme
-égale à 25% des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des
-bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation ne peut être répartie qu'entre les
-seuls détenteurs d'actions de travail. 
+une provision pour investissement d'un montant égal à 50 % des sommes portées à la réserve spéciale de participation au cours
+du même exercice et admises en déduction du bénéfice imposable. Ce montant est porté à 75 % lorsque les entreprises
+concernées affectent, au titre de chaque exercice, à un compte de réserve non distribuable, par prélèvement sur les
+résultats, une somme égale à 25 % des sommes portées à la réserve spéciale de participation au cours du même exercice et
+admises en déduction des bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation ne peut être
+répartie qu'entre les seuls détenteurs d'actions de travail. 
 
 3. Le montant de la provision pour investissement que les sociétés coopératives ouvrières de production peuvent constituer en
 franchise d'impôt à la clôture d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale de
@@ -55,7 +55,7 @@ participation au titre du même exercice. Les dotations à la réserve légale e
 peuvent tenir lieu, à due concurrence, de provision pour investissement. 
 
 Cette disposition n'est pas applicable aux sociétés coopératives ouvrières de production dont le capital est détenu pour plus
-de 50% par des personnes définies au 1 quinquies de l'article 207 et des titulaires de certificats coopératifs
+de 50 % par des personnes définies au 1 quinquies de l'article 207 et des titulaires de certificats coopératifs
 d'investissement, à l'exception de celles dont la majorité du capital est détenue par une autre société coopérative ouvrière
 de production dans les conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés
 coopératives ouvrières de production. 
@@ -82,9 +82,9 @@ partie de son droit à constitution de ladite provision à l'une des autres soci
 d'entre elles. 
 
 III. Les dispositions du présent article s'appliquent pour chaque entreprise au premier jour du premier exercice ouvert après
-le 23 octobre 1986.
+le 23 octobre 1986. 
 
-IV. - Les provisions prévues aux 1 et 2 du II cessent d'être admises en déduction des résultats imposables constatés au titre
+IV.-Les provisions prévues aux 1 et 2 du II cessent d'être admises en déduction des résultats imposables constatés au titre
 des exercices clos à compter du 17 août 2012. A compter de ces mêmes exercices, les 5 et 6 du II s'appliquent aux seules
 provisions constituées en application du 3 dudit II. 
 
@@ -99,7 +99,7 @@ _Cite_:
   - Loi n°2001-152 du 19 février 2001
   - Loi n°2006-1770 du 30 décembre 2006
   - Code général des impôts, CGI. - art. 223 A
-  - Code monétaire et financier - art. L214-39
+  - Code monétaire et financier - art. L214-164 (V)
   - Code du travail - art. L3323-6
   - Code du travail - art. L3324-2
   - Code du travail - art. L3332-11
@@ -109,7 +109,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 _Cité par_:
 
