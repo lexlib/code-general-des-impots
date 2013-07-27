@@ -6,11 +6,11 @@ ter, l'identité et l'adresse des bénéficiaires et le détail du montant impos
 articles 28 à 33 quinquies. 
 
 2. Pour l'application des dispositions du 1, la société de gestion du fonds de placement immobilier, mentionnée à l'article
-L. 214-119 du code monétaire et financier, fournit aux personnes mentionnées au 1 les informations nécessaires à
+L. 214-61 du code monétaire et financier, fournit aux personnes mentionnées au 1 les informations nécessaires à
 l'identification des porteurs et à la détermination de la fraction des revenus distribués et de la fraction du revenu net
 imposable correspondant à leurs droits. 
 
-3. Une copie de la déclaration mentionnée au 1 doit être adressée aux bénéficiaires des revenus concernés.
+3. Une copie de la déclaration mentionnée au 1 doit être adressée aux bénéficiaires des revenus concernés. 
 
 Elle est obligatoirement transmise à l'administration fiscale selon un procédé informatique par le déclarant qui a souscrit
 au moins cent déclarations au cours de l'année précédente ou qui a souscrit, au titre de cette même année, une ou plusieurs
@@ -20,21 +20,18 @@ II.-Les personnes qui assurent la mise en paiement des plus-values distribuées 
 et profits mentionnés au III de l'article 239 nonies sont également tenues de faire figurer l'identité, l'adresse des
 bénéficiaires et le détail du montant imposable sur la déclaration mentionnée au 1 du I.
 
-**Nota:**
-
-Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 27 III : les présentes dispositions s'appliquent
-aux déclarations déposées à compter du 1er janvier 2010.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 138
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 150-0 F (V)
+  - Code général des impôts, CGI. - art. 239 nonies (V)
+  - Code monétaire et financier - art. L214-61
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1736 (VD)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L214-119

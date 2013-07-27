@@ -21,9 +21,12 @@ b) Son capital ou ses droits de vote ne doivent pas être détenus, directement 
 une entreprise ou conjointement par plusieurs entreprises dont l'effectif salarié dépasse deux cent cinquante salariés et
 dont le chiffre d'affaires annuel hors taxes excède 50 millions d'euros ou dont le total du bilan annuel excède 43 millions
 d'euros. Pour la détermination de ce pourcentage, les participations des sociétés de capital-risque, des fonds communs de
-placement à risques, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés
-unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de
-dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ; 
+placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans
+sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs,
+des fonds professionnels de capital investissement, des sociétés de développement régional, des sociétés financières
+d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il
+n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces
+fonds ; 
 
 c) Son activité principale, définie selon la nomenclature d'activités française de l'Institut national de la statistique et
 des études économiques, ne doit pas relever des secteurs de la construction automobile, de la construction navale, de la
@@ -123,19 +126,20 @@ IV.-Les obligations déclaratives des personnes et organismes auxquels s'appliqu
 
 _Cite_:
 
+  - Loi n°95-115 du 4 février 1995
   - Loi n°95-115 du 4 février 1995 - art. 42
-  - Loi n°96-987 du 14 novembre 1996 - art. 12 (V)
-  - Code général des impôts, CGI. - art. 1467 (V)
-  - Code général des impôts, CGI. - art. 223 A (VT)
-  - Code général des impôts, CGI. - art. 50-0 (V)
-  - Code général des impôts, CGI. - art. 96 (V)
-  - Code monétaire et financier - art. L511-1 (V)
+  - Loi n°96-987 du 14 novembre 1996 - art. 12
+  - Ordonnance n°2013-676 du 25 juillet 2013
+  - Code général des impôts, CGI. - art. 1467
+  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 96
+  - Code monétaire et financier - art. L214-37
+  - Code monétaire et financier - art. L511-1
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 157
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 _Cité par_:
 

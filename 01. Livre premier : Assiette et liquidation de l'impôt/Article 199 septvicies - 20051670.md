@@ -13,7 +13,7 @@ b) Au logement que le contribuable acquiert entre le 1er janvier 2009 et le 31 d
 l'objet, entre ces mêmes dates, de travaux concourant à la production ou à la livraison d'un immeuble neuf au sens du 2° du 2
 du I de l'article 257 ; 
 
-c) Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du  6 juillet
+c) Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du 6 juillet
 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le
 contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait l'objet, entre ces mêmes dates, de travaux
 de réhabilitation définis par décret permettant au logement d'acquérir des performances techniques voisines de celles d'un
@@ -138,7 +138,7 @@ respecter les engagements prévus au I et, le cas échéant, au VIII, dans les m
 pour la période restant à courir à la date du décès. 
 
 VIII. ― La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement
-immobilier régie par les articles L. 214-50 et suivants du code monétaire et financier dont la quote-part de revenu est, en
+immobilier régie par les articles L. 214-114 et suivants du code monétaire et financier dont la quote-part de revenu est, en
 application de l'article 8, soumise en son nom à l'impôt sur le revenu dans la catégorie des revenus fonciers. 
 
 Le taux de la réduction d'impôt est de :
@@ -233,21 +233,6 @@ alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°86-1290 du 23 décembre 1986
-  - Loi n°89-462 du 6 juillet 1989 - art. 6
-  - Loi n°2009-594 du 27 mai 2009
-  - Code général des impôts, CGI. - art. 199 decies E
-  - Code général des impôts, CGI. - art. 199 decies I
-  - Code général des impôts, CGI. - art. 199 tervicies
-  - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 257
-  - Code général des impôts, CGI. - art. 4 B
-  - Code monétaire et financier - art. L214-50
-  - Code de la construction et de l'habitation. - art. L111-9
-  - Code de la construction et de l'habitation. - art. R331-1
-
 _Cité par_:
 
   - Arrêté du 29 avril 2009 (Ab)
@@ -282,6 +267,19 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 ter (V)
   - Livre des procédures fiscales - art. L45 F (VD)
 
+_Cite_:
+
+  - Loi n°2009-594 du 27 mai 2009
+  - Code général des impôts, CGI. - art. 199 decies E
+  - Code général des impôts, CGI. - art. 199 decies I
+  - Code général des impôts, CGI. - art. 199 tervicies
+  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 257
+  - Code général des impôts, CGI. - art. 4 B
+  - Code monétaire et financier - art. L214-114
+  - Code de la construction et de l'habitation. - art. L111-9
+  - Code de la construction et de l'habitation. - art. R331-1
+
 _Modifié par_:
 
-  - Décret n°2012-547 du 23 avril 2012 - art. 1
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
