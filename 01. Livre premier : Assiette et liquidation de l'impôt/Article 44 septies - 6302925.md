@@ -10,7 +10,7 @@ déterminé dans les conditions prévues par les dispositions des II à IX.
 Cette exonération peut être également accordée lorsque les procédures de sauvegarde ou de redressement judiciaire ne sont pas
 mises en oeuvre, ou lorsque la reprise porte sur un ou plusieurs établissements industriels en difficulté d'une entreprise
 industrielle et dans la mesure où la société créée pour cette reprise est indépendante juridiquement et économiquement de
-l'entreprise cédante.
+l'entreprise cédante. 
 
 N'ouvrent pas droit au bénéfice de l'exonération les activités exercées dans l'un des secteurs suivants : transports,
 construction de véhicules automobiles, construction de navires civils, fabrication de fibres artificielles ou synthétiques,
@@ -25,10 +25,10 @@ par une personne lorsqu'ils appartiennent :
 
 a. Aux membres du foyer fiscal de cette personne ; 
 
-b.A une entreprise dans laquelle cette personne détient plus de 50 % des droits sociaux y compris, s'il s'agit d'une personne
-physique, ceux appartenant aux membres de son foyer fiscal ; 
+b. A une entreprise dans laquelle cette personne détient plus de 50 % des droits sociaux y compris, s'il s'agit d'une
+personne physique, ceux appartenant aux membres de son foyer fiscal ; 
 
-c.A une société dans laquelle cette personne exerce en droit ou en fait la fonction de gérant ou de président, directeur
+c. A une société dans laquelle cette personne exerce en droit ou en fait la fonction de gérant ou de président, directeur
 général, président du conseil de surveillance ou membre du directoire. 
 
 II.-1. Sur agrément du ministre chargé du budget, le bénéfice exonéré en application du I est plafonné, pour les entreprises
@@ -39,7 +39,7 @@ coûts éligibles pour les entreprises créées dans les zones éligibles à la 
 projets industriels à taux majoré. Ces zones sont définies par décret. 
 
 Pour les entreprises créées dans les départements d'outre-mer, le bénéfice exonéré en application du I est plafonné à 182 %
-des coûts éligibles définis au 2. 
+des coûts éligibles définis au 2.
 
 2. Les coûts éligibles s'entendent du coût salarial des emplois créés par l'entreprise. Ce coût correspond aux salaires bruts
 avant impôts majorés des cotisations sociales obligatoires engagées par l'entreprise au cours du mois de la reprise et des
@@ -69,11 +69,11 @@ peut excéder la somme des limites calculées pour chacune des zones éligibles.
 5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2013 dans les
 zones d'aide à finalité régionale. 
 
-Le bénéfice de cette exonération est subordonné au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre
-2006 concernant l'application des articles 87 et 88 du traité aux aides nationales à l'investissement à finalité régionale. 
+Le bénéfice de cette exonération est subordonné au respect du règlement (CE) n° 1628/2006 de la Commission du 24 octobre 2006
+concernant l'application des articles 87 et 88 du traité aux aides nationales à l'investissement à finalité régionale. 
 
 III.-1. Le bénéfice de l'exonération est subordonné à l'agrément du ministre chargé du budget et au respect du règlement (CE)
-n° 70 / 2001 de la Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat
+n° 70/2001 de la Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat
 en faveur des petites et moyennes entreprises. 
 
 2. Lorsque les entreprises visées au 1 sont situées en dehors des zones d'aide à finalité régionale, l'exonération est
@@ -81,7 +81,7 @@ appliquée à leurs bénéfices réalisés dans la limite de 21 % du montant des
 est portée à 43 % du montant des coûts éligibles pour les petites entreprises. 
 
 3. Pour les petites et moyennes entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2013 dans les zones
-d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1628 / 2006 de la
+d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1628/2006 de la
 Commission du 24 octobre 2006 précité. 
 
 4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ne peut dépasser 42 000 000 €. 
@@ -98,11 +98,13 @@ chiffre d'affaires et de total du bilan sont respectivement portés à 50 millio
 
 b. Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou plus par une entreprise ou par plusieurs
 entreprises ne répondant pas aux conditions du a, de manière continue au cours de l'exercice. Pour la détermination de ce
-pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de
-développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne
-sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
-société en cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de
-l'exercice.
+pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des fonds
+professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs des fonds professionnels de
+capital investissement, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés
+unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de
+dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Cette condition
+s'apprécie de manière continue au cours de l'exercice. 
 
 V.-Pour l'application du III, est considérée comme petite entreprise la société qui répond cumulativement aux conditions
 suivantes : 
@@ -113,26 +115,28 @@ chiffre d'affaires et de total du bilan sont portés à 10 millions d'euros ;
 
 b. Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou plus par une entreprise ou par plusieurs
 entreprises ne répondant pas aux conditions du a, de manière continue au cours de l'exercice. Pour la détermination de ce
-pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de
-développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne
-sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
-société en cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de
-l'exercice. 
+pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des fonds
+professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de
+capital investissement, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés
+unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de
+dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Cette condition
+s'apprécie de manière continue au cours de l'exercice. 
 
 VI.-1. Lorsque les entreprises créées pour reprendre une entreprise en difficulté mentionnées au I sont situées dans des
 zones d'aide à finalité régionale, le bénéfice de l'exonération prévue au I est subordonné au respect de l'article 13 du
-règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché
+règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché
 commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie). 
 
 2. Lorsque les entreprises créées pour reprendre une entreprise en difficulté mentionnées au I ne sont pas situées dans une
 zone d'aide à finalité régionale mais satisfont à la définition des petites et moyennes entreprises qui figure à l'annexe I
-au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 précité, le bénéfice de l'exonération prévue au I est
+au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 précité, le bénéfice de l'exonération prévue au I est
 subordonné au respect de l'article 15 du même règlement. 
 
 3. Lorsque les entreprises créées pour reprendre une entreprise en difficulté mentionnées au I ne sont pas situées dans une
 zone d'aide à finalité régionale et ne satisfont pas à la définition des petites et moyennes entreprises qui figure à
-l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 précité, le bénéfice de l'exonération prévue au I
-est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
+l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 précité, le bénéfice de l'exonération prévue au I
+est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis. 
 
 VII. 2.-Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 octies A
@@ -159,16 +163,19 @@ l'article 221, l'impôt sur les sociétés dont elle a été dispensée en appli
 exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et décompté à partir de la date à laquelle il aurait dû
 être acquitté.
 
-**Nota:**
-
-Loi 2008-1443 du 30 décembre 2008 Finances rectivicative pour 2008 art 114 XXIII : Les dispositions du présent VI sont
-applicables aux aux avantages octroyés à compter du 1er janvier 2009.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2013-676 du 25 juillet 2013
+  - Code de commerce - art. L626-1
+  - Code de commerce - art. L631-22
+  - Code général des impôts, CGI. - art. 53 A
+  - Code monétaire et financier - art. L214-37
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 114 (V)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 _Cité par_:
 
@@ -196,8 +203,3 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZU (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies F (VD)
-
-_Cite_:
-
-  - Code de commerce - art. L626-1 (V)
-  - Code de commerce - art. L631-22 (V)

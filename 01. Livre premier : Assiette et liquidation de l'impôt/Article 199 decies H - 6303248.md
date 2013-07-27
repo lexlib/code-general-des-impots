@@ -42,12 +42,12 @@ du 28 juin 1930 jusqu'à la date d'agrément du plan simple de gestion de cette 
 s'engager à conserver les parts jusqu'au 31 décembre de la huitième année suivant la date de la souscription ; 
 
 c) Aux souscriptions en numéraire au capital initial ou aux augmentations de capital des sociétés d'épargne forestière
-définies par l'article L. 214-85 du code monétaire et financier et aux acquisitions en numéraire des parts de ces sociétés,
+définies par l'article L. 214-121 du code monétaire et financier et aux acquisitions en numéraire des parts de ces sociétés,
 lorsque la société et le souscripteur ou l'acquéreur prennent les engagements mentionnés au b. 
 
 d) Aux dépenses de travaux forestiers effectués dans une propriété lorsqu'elle constitue une unité de gestion d'au moins 10
 hectares d'un seul tenant et qu'elle présente l'une des garanties de gestion durable prévues aux articles L. 124-1 à L. 124-3
-8 du code forestier, sous réserve des deux conditions suivantes : 
+du code forestier, sous réserve des deux conditions suivantes : 
 
 1° le contribuable doit prendre l'engagement de conserver cette propriété jusqu'au 31 décembre de la huitième année suivant
 celle des travaux et d'appliquer, pendant la même durée, l'une des garanties de gestion durable prévues aux articles L. 124-1
@@ -165,7 +165,7 @@ c) Au titre de l'année du paiement des dépenses de rémunération ou de la cot
 5. La réduction d'impôt fait l'objet d'une reprise au titre de l'année où le contribuable, le groupement ou la société
 d'épargne forestière cesse de respecter l'un des engagements mentionnés au 2. Il en est de même en cas de dissolution des
 groupements ou des sociétés concernés ou lorsque ces dernières ne respectent pas les dispositions prévues par les articles L.
-214-85 et L. 214-87 du code monétaire et financier. 
+214-121 et L. 214-123 à L. 214-125 du code monétaire et financier. 
 
 Toutefois, la réduction d'impôt n'est pas reprise : 
 
@@ -196,15 +196,15 @@ _Cite_:
   - Code général des impôts, CGI. - art. 4 B
   - Code rural - art. L171-1
   - Code rural - art. L551-1
-  - Code monétaire et financier - art. L214-85
-  - Code monétaire et financier - art. L214-87
+  - Code monétaire et financier - art. L214-121
+  - Code monétaire et financier - art. L214-123
   - Code de la sécurité sociale. - art. L341-4
-  - Code forestier (nouveau) - art. L122-3 (V)
+  - Code forestier (nouveau) - art. L122-3
   - Code forestier (nouveau) - art. L122-4
   - Code forestier (nouveau) - art. L124-1
   - Code forestier (nouveau) - art. L312-1
   - Code forestier (nouveau) - art. L315-2
-  - Code forestier (nouveau) - art. L352-1 (V)
+  - Code forestier (nouveau) - art. L352-1
 
 _Cité par_:
 
@@ -221,4 +221,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
