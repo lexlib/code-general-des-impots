@@ -1,16 +1,18 @@
 # Article 163 quinquies B
 
 I. Les personnes physiques qui prennent l'engagement de conserver, pendant cinq ans au moins à compter de leur souscription,
-des parts de fonds communs de placement à risques sont exonérées de l'impôt sur le revenu à raison des sommes ou valeurs
-auxquelles donnent droit les parts concernées. 
+des parts de fonds communs de placement à risques ou de fonds professionnels de capital investissement sont exonérées de
+l'impôt sur le revenu à raison des sommes ou valeurs auxquelles donnent droit les parts concernées. 
 
-Les dispositions du premier alinéa ne s'appliquent pas aux porteurs de parts de fonds communs de placement à risques donnant
-lieu à des droits différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la
-personne. 
+Les dispositions du premier alinéa ne s'appliquent pas aux porteurs de parts de fonds communs de placement à risques ou de
+fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure
+à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels
+de capital investissement donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds et attribuées en
+fonction de la qualité de la personne. 
 
 II. L'exonération est subordonnée aux conditions suivantes : 
 
-1° Outre les conditions prévues aux articles L. 214-28 et L. 214-38 du code monétaire et financier, les titres pris en
+1° Outre les conditions prévues aux articles L. 214-28 et L. 214-160 du code monétaire et financier, les titres pris en
 compte, directement dans le quota d'investissement de 50 % doivent ête émis par des sociétés ayant leur siège dans un Etat
 membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la
 France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, qui exercent une
@@ -102,6 +104,16 @@ _Cité par_:
   - Code monétaire et financier - art. R214-71 (V)
   - Livre des procédures fiscales - art. R87-2 (V)
 
+_Cite_:
+
+  - Ordonnance n°2013-676 du 25 juillet 2013 (V)
+  - Code général des impôts, CGI. - art. 34 (V)
+  - Code monétaire et financier - art. L214-160 (V)
+  - Code monétaire et financier - art. L214-28
+  - Code monétaire et financier - art. L214-30
+  - Code monétaire et financier - art. L214-37 (V)
+  - Code de la sécurité sociale. - art. L341-4
+
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42

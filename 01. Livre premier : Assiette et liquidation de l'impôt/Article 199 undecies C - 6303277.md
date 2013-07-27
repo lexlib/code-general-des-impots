@@ -10,8 +10,8 @@ postérieure et pour une durée au moins égale à cinq ans, à un organisme d'h
 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes coopératives d'intérêt collectif
 pour l'accession à la propriété, à une société d'économie mixte exerçant une activité immobilière outre-mer, à un organisme
 mentionné à l'article L. 365-1 du même code ou, dans les collectivités d'outre-mer, à tout organisme de logement social agréé
-conformément à la réglementation locale par l'autorité publique compétente.L'opération peut prendre la forme d'un crédit-bail
-immobilier ; 
+conformément à la réglementation locale par l'autorité publique compétente. L'opération peut prendre la forme d'un crédit-
+bail immobilier ; 
 
 2° Les logements sont donnés en sous-location nue ou meublée par l'organisme mentionné au 1° et pour une durée au moins égale
 à cinq ans à des personnes physiques qui en font leur résidence principale et dont les ressources n'excèdent pas des plafonds
@@ -74,7 +74,7 @@ peut être reporté, dans les mêmes conditions, sur l'impôt sur le revenu des 
 inclusivement. 
 
 IV.-La réduction d'impôt est également acquise au titre des investissements réalisés par une société civile de placement
-immobilier régie par les articles L. 214-50 et suivants du code monétaire et financier ou par toute autre société mentionnée
+immobilier régie par les articles L. 214-114 et suivants du code monétaire et financier ou par toute autre société mentionnée
 à l'article 8 du présent code, à l'exclusion des sociétés en participation, dont les parts ou les actions sont détenues,
 directement ou par l'intermédiaire d'une entreprise unipersonnelle à responsabilité limitée, par des contribuables domiciliés
 en France au sens de l'article 4 B, dont la quote-part du revenu de la société est soumise en leur nom à l'impôt sur le
@@ -90,7 +90,7 @@ personnes physiques, domiciliés en France au sens de l'article 4 B, sous réser
 d'économie mixte de construction et de gestion de logements sociaux visées à l'article L. 481-1 du code de la construction et
 de l'habitation, sous réserve des parts détenues, conformément à l'article L. 472-1-9 du code de la construction et de
 l'habitation, par les sociétés d'habitations à loyer modéré. En ce cas, la réduction d'impôt est pratiquée par les associés
-dans une proportion correspondant à leurs droits dans la société.L'application de cette disposition est subordonnée au
+dans une proportion correspondant à leurs droits dans la société. L'application de cette disposition est subordonnée au
 respect des conditions suivantes : 
 
 1° Les investissements ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au III de
@@ -108,9 +108,9 @@ des sociétés. Le 2° du 3 de l'article 158 ne s'applique pas aux revenus distr
 
 La réduction d'impôt, qui n'est pas applicable aux parts ou actions dont le droit de propriété est démembré, est subordonnée
 à la condition que 95 % de la souscription serve exclusivement à financer un investissement pour lequel les conditions
-d'application du présent article sont réunies.L'associé doit s'engager à conserver la totalité de ses parts ou actions
+d'application du présent article sont réunies. L'associé doit s'engager à conserver la totalité de ses parts ou actions
 jusqu'au terme de la location prévue au 1° du I. Le produit de la souscription doit être intégralement investi dans les dix-
-huit mois qui suivent la clôture de celle-ci.
+huit mois qui suivent la clôture de celle-ci. 
 
 V.-La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle : 
 
@@ -136,7 +136,7 @@ d'impôt prévue au présent article est conditionné à l'obtention d'un agrém
 budget dans les conditions prévues au III de l'article 217 undecies. 
 
 VIII.-Un contribuable ne peut, pour un même logement ou une même souscription de parts ou d'actions, bénéficier à la fois de
-l'une des réductions d'impôt prévues aux articles 199 undecies A,199 tervicies ou 199 septvicies et des dispositions du
+l'une des réductions d'impôt prévues aux articles 199 undecies A, 199 tervicies ou 199 septvicies et des dispositions du
 présent article. 
 
 Les dépenses de travaux retenues pour le calcul de la réduction d'impôt prévue au présent article ne peuvent faire l'objet
@@ -144,11 +144,6 @@ d'une déduction pour la détermination des revenus fonciers.
 
 IX.-Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de promulgation
 de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.
-
-**Nota:**
-
-Loi n° 2010-1657 du 29 décembre 2010 art. 98 II : Ces dispositions sont applicables à compter de l'imposition des revenus de
-l'année 2011.
 
 **Liens relatifs à cet article**
 
@@ -159,7 +154,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 undecies B
   - Code général des impôts, CGI. - art. 217 undecies
   - Code général des impôts, CGI. - art. 4 B
-  - Code monétaire et financier - art. L214-50
+  - Code monétaire et financier - art. L214-114
   - Code de la construction et de l'habitation. - art. L365-1
   - Code de la construction et de l'habitation. - art. L411-2
   - Code de la construction et de l'habitation. - art. L472-1-9
@@ -199,4 +194,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 10
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42

@@ -25,11 +25,13 @@ physiques. Pour la détermination de ce pourcentage, les participations des soci
 développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe
 pas de lien de dépendance au sens du 12 de l'article 39 entre la société bénéficiaire de l'apport et ces dernières sociétés.
 De même, ce pourcentage ne tient pas compte des participations des fonds communs de placement à risques, des fonds
-d'investissement de proximité ou des fonds communs de placement dans l'innovation. Il en est de même, dans les mêmes
-conditions, des participations détenues par des structures équivalentes aux sociétés ou fonds mentionnés aux deuxième et
-troisième phrases, établies dans un autre Etat membre de la Communauté européenne ou dans un Etat ou territoire ayant conclu
-avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude
-ou l'évasion fiscale ; 
+professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de
+capital investissement, des fonds d'investissement de proximité ou des fonds communs de placement dans l'innovation. Il en
+est de même, dans les mêmes conditions, des participations détenues par des structures équivalentes aux sociétés ou fonds
+mentionnés aux deuxième et troisième phrases, établies dans un autre Etat membre de la Communauté européenne ou dans un Etat
+ou territoire ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue
+de lutter contre la fraude ou l'évasion fiscale ; 
 
 3. La société n'a pas été créée dans le cadre d'une concentration, d'une restructuration, d'une extension ou d'une reprise
 d'activités préexistantes, sauf si elle répond aux conditions prévues par le I de l'article 39 quinquies H. 
@@ -47,7 +49,7 @@ extraordinaire, sur le rapport du conseil d'administration ou du directoire et s
 comptes, ou, sur délégation de l'assemblée générale extraordinaire, par le conseil d'administration ou le directoire selon le
 cas. Il est au moins égal, lorsque la société émettrice a procédé dans les six mois précédant l'attribution du bon à une
 augmentation de capital par émission de titres conférant des droits équivalents à ceux résultant de l'exercice du bon, au
-prix d'émission des titres concernés alors fixé.
+prix d'émission des titres concernés alors fixé. 
 
 L'assemblée générale extraordinaire, qui détermine le délai pendant lequel les bons peuvent être exercés, peut déléguer selon
 le cas, au conseil d'administration ou au directoire, le soin de fixer la liste des bénéficiaires de bons de souscription de
@@ -56,12 +58,6 @@ desdits bons et le nombre de titres attribués à chacun d'eux.
 
 IV.-Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 titulaires des bons et aux sociétés émettrices.
-
-**Nota:**
-
-Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 10 V : Ces dispositions s'appliquent aux gains nets et
-profits réalisés à compter du 1er janvier 2013, aux distributions perçues à compter du 1er janvier 2013 et aux transferts de
-domicile fiscal hors de France intervenus à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -84,13 +80,13 @@ _Cité par_:
   - Code monétaire et financier - art. L212-17 (V)
   - Code monétaire et financier - art. L221-32-5 (V)
 
-_Modifié par_:
-
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 10 (VD)
-
 _Cite_:
 
+  - Ordonnance n°2013-676 du 25 juillet 2013
   - Code de commerce - art. L228-91
   - Code de commerce - art. L228-92
-  - Code général des impôts, CGI. - art. 150-0 A
-  - Code général des impôts, CGI. - art. 200 A
+  - Code monétaire et financier - art. L214-37
+
+_Modifié par_:
+
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
