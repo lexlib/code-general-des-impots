@@ -27,17 +27,19 @@ a) Par des personnes physiques ;
 
 b) Ou par une société dont le capital est détenu pour 50 % au moins par des personnes physiques ; 
 
-c) Ou par des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional,
-des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe
-pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre les entreprises et ces
-dernières sociétés ou ces fonds. 
+c) Ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés
+relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25
+juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à
+risque à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39
+entre les entreprises et ces dernières sociétés ou ces fonds. 
 
 Ces entreprises peuvent demander le remboursement immédiat de la créance constatée au titre de l'année de création. Il en est
 de même pour les créances constatées au titre des quatre années suivantes ; 
 
-2° Les entreprises ayant fait l'objet d'une procédure de conciliation ou  de sauvegarde, d'un redressement ou d'une
+2° Les entreprises ayant fait l'objet d'une procédure de conciliation ou de sauvegarde, d'un redressement ou d'une
 liquidation judiciaires. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date
-de la décision ou  du jugement qui a ouvert ces procédures ; 
+de la décision ou du jugement qui a ouvert ces procédures ; 
 
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ; 
 
@@ -55,8 +57,7 @@ IV.-Abrogé.
 
 **Nota:**
 
-LOI n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012 art. 32 II : les dispositions du présent article
-s'appliquent aux créances de crédit d'impôt constatées à compter du 1er janvier 2013.
+
 
 **Liens relatifs à cet article**
 
@@ -70,14 +71,16 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 223 O (VD)
   - Code général des impôts, CGI. - art. 244 quater B (V)
 
-_Modifié par_:
-
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 32 (V)
-
 _Cite_:
 
+  - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 151 nonies
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 44 sexies-0 A
+  - Code monétaire et financier - art. L214-37
   - Code monétaire et financier - art. L313-23
   - annexe I au règlement (CE) n°800/2008
+
+_Modifié par_:
+
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
