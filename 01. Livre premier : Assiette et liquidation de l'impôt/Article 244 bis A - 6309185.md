@@ -72,7 +72,7 @@ clôture du ou des seuls exercices clos ou, à défaut, à la date de la cession
 II.-Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values
 sont déterminées selon les modalités définies : 
 
-1° Au I et aux 2° à 9° du II de l'article 150 U , aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ; 
+1° Au I et aux 2° à 9° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ; 
 
 2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de l'Union européenne ou d'un
 autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance
@@ -104,7 +104,7 @@ Par dérogation aux dispositions du premier alinéa :
 
 1° L'impôt dû au titre des cessions que réalise un fonds de placement immobilier est acquitté pour le compte des porteurs au
 service des impôts des entreprises du lieu du siège social du dépositaire du fonds de placement immobilier et par celui-ci,
-dans un délai de dix jours à compter de la date de mise en paiement mentionnée à l'article L. 214-141 du code monétaire et
+dans un délai de dix jours à compter de la date de mise en paiement mentionnée à l'article L. 214-82 du code monétaire et
 financier des plus-values distribuées aux porteurs afférentes à ces cessions ; 
 
 2° L'impôt dû au titre des cessions de parts que réalise un porteur de parts de fonds de placement immobilier est acquitté
@@ -118,11 +118,6 @@ au titre de l'année de sa réalisation. S'il excède l'impôt dû, l'excédent 
 Etat de l'Union européenne ou d'un Etat ou territoire ayant conclu avec la France une convention fiscale qui contient une
 clause d'assistance administrative en matière d'échange de renseignements et de lutte contre la fraude et l'évasion fiscales
 et n'étant pas non coopératif au sens de l'article 238-0 A.
-
-**Nota:**
-
-Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 9 VI : Ces dispositions s'appliquent aux revenus perçus à
-compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -149,7 +144,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 9 (VD)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 _Cite_:
 
@@ -165,4 +160,4 @@ _Cite_:
   - Code général des impôts, CGI. - art. 219
   - Code général des impôts, CGI. - art. 238-0 A
   - Code général des impôts, CGI. - art. 4 B
-  - Code monétaire et financier - art. L214-141
+  - Code monétaire et financier - art. L214-82

@@ -13,9 +13,11 @@ mois le cas échéant et, pour la société mère d'un groupe mentionné à l'ar
 chacune des sociétés membres de ce groupe. Le capital des sociétés, entièrement libéré, doit être détenu de manière continue,
 pour 75 % au moins, par des personnes physiques ou par une société répondant aux mêmes conditions dont le capital est détenu,
 pour 75 % au moins, par des personnes physiques. Pour la détermination de ce pourcentage, les participations des sociétés de
-capital-risque, des fonds communs de placement à risques, des sociétés de développement régional et des sociétés financières
-d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
-39 entre la société en cause et ces dernières sociétés ou ces fonds. 
+capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L.
+214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le
+cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de développement
+régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de
+dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. 
 
 II.-Pour les entreprises placées sous le régime prévu à l'article 223 A, la contribution est due par la société mère. Elle
 est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble définis aux
@@ -46,12 +48,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 366 L (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
 
-_Modifié par_:
-
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
-
 _Cite_:
 
+  - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 208
   - Code général des impôts, CGI. - art. 208 C
   - Code général des impôts, CGI. - art. 219
@@ -59,3 +58,8 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 B
   - Code général des impôts, CGI. - art. 223 septies
   - Code général des impôts, CGI. - art. 39
+  - Code monétaire et financier - art. L214-37 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
