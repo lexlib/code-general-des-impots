@@ -18,8 +18,8 @@ ou les sociétés dans laquelle ou lesquelles le redevable exerce ses fonctions 
 39. 
 
 L'exonération s'applique dans les mêmes conditions aux parts de fonds communs de placement d'entreprise visés aux articles L.
-214-39 et suivants du code monétaire et financier ou aux actions de sociétés d'investissement à capital variable
-d'actionnariat salarié visées à l'article L. 214-41 du même code. L'exonération est limitée à la fraction de la valeur des
+214-164 et suivants du code monétaire et financier ou aux actions de sociétés d'investissement à capital variable
+d'actionnariat salarié visées à l'article L. 214-166 du même code. L'exonération est limitée à la fraction de la valeur des
 parts ou actions de ces organismes de placement collectif représentative des titres de la société dans laquelle le redevable
 exerce son activité principale ou de sociétés qui lui sont liées dans les conditions prévues à l'article L. 233-16 du code de
 commerce. Une attestation de l'organisme déterminant la valeur éligible à l'exonération partielle doit être jointe à la
@@ -42,13 +42,17 @@ IV.-L'exonération partielle prévue au présent article est exclusive de l'appl
 
 _Modifié par_:
 
-  - Loi n°2011-900 du 29 juillet 2011 - art. 1 (V)
-  - Ordonnance n°2011-915 du 1er août 2011 - art. 27
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 _Cite_:
 
   - Code de commerce - art. L233-16
+  - Code général des impôts, CGI. - art. 39 (VT)
+  - Code général des impôts, CGI. - art. 8 (V)
+  - Code général des impôts, CGI. - art. 817 A (V)
   - Code général des impôts, CGI. - art. 885 W
+  - Code monétaire et financier - art. L214-164 (V)
+  - Code monétaire et financier - art. L214-166 (V)
 
 _Cité par_:
 

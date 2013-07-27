@@ -59,8 +59,8 @@ transactions, la transparence du marché, l'admission des instruments financiers
 aux fins de ladite directive ; 
 
 7° Aux acquisitions, dans le cadre du livre III de la troisième partie du code du travail, de titres de capital par les fonds
-communs de placement d'entreprise régis par les articles L. 214-39 et L. 214-40 du code monétaire et financier et par les
-sociétés d'investissement à capital variable d'actionnariat salarié régies par l'article L. 214-41 du même code ainsi qu'aux
+communs de placement d'entreprise régis par les articles L. 214-164 et L. 214-165 du code monétaire et financier et par les
+sociétés d'investissement à capital variable d'actionnariat salarié régies par l'article L. 214-166 du même code ainsi qu'aux
 acquisitions de titres de capital de l'entreprise ou d'une entreprise du même groupe, au sens des articles L. 3344-1 et L.
 3344-2 du code du travail, directement faites par les salariés en application du septième alinéa de l'article L. 3332-15 du
 même code ; 
@@ -187,7 +187,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2012-354 du 14 mars 2012 - art. 5 (V)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 _Cite_:
 
@@ -200,7 +201,6 @@ _Cite_:
   - Code monétaire et financier - art. L211-17
   - Code monétaire et financier - art. L211-41
   - Code monétaire et financier - art. L212-1-A
-  - Code monétaire et financier - art. L214-39
   - Code monétaire et financier - art. L321-1
   - Code monétaire et financier - art. L421-4
   - Code monétaire et financier - art. L422-1
