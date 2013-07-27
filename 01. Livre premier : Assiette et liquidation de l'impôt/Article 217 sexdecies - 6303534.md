@@ -29,9 +29,11 @@ d) Son capital ou ses droits de vote ne doivent pas être détenus, directement 
 une entreprise ou conjointement par plusieurs entreprises dont l'effectif dépasse deux cent cinquante salariés et dont le
 chiffre d'affaires annuel hors taxes excède 50 millions d'euros ou dont le total du bilan annuel excède 43 millions d'euros.
 Pour la détermination de ce pourcentage, les participations des sociétés de capital-risque, des fonds communs de placement à
-risques, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles
-d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12
-de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ; 
+risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa
+rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des
+fonds professionnels de capital investissement, des sociétés de développement régional, des sociétés financières d'innovation
+et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de
+lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ; 
 
 e) Son activité doit être une activité industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de
 l'article 35 ou une activité professionnelle non commerciale au sens du 1 de l'article 92. Sont toutefois exclues les
@@ -74,17 +76,23 @@ Un décret fixe les obligations déclaratives.
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
-  - Code général des impôts, CGI. - art. 223 A (VT)
-  - Code général des impôts, CGI. - art. 34 (V)
-  - Code général des impôts, CGI. - art. 35 (V)
-  - Code général des impôts, CGI. - art. 39 (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
-  - Code général des impôts, CGI. - art. 92 (V)
+  - Loi n°95-115 du 4 février 1995 - art. 42
+  - Ordonnance n°2013-676 du 25 juillet 2013
+  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 34
+  - Code général des impôts, CGI. - art. 35
+  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 92
+  - Code monétaire et financier - art. L214-37
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+
+**Liens**:
+
+  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 
