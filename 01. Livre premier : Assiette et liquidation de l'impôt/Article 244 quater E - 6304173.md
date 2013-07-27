@@ -22,12 +22,14 @@ inférieur à 27 millions d'euros. L'effectif de l'entreprise est apprécié par
 au cours de cet exercice ou de cette période d'imposition. Le capital des sociétés doit être entièrement libéré et être
 détenu de manière continue, pour 75 % au moins, par des personnes physiques ou par une société répondant aux mêmes
 conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-risque, des fonds
-communs de placement à risques, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas
-prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de
-l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe au sens
-de l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement de la somme des
-chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres de ce groupe. La condition tenant à la
-composition du capital doit être remplie par la société mère du groupe. 
+communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et
+financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de développement régional et des sociétés
+financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens des
+deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Pour les
+sociétés membres d'un groupe au sens de l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte s'entendent
+respectivement de la somme des chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres de ce groupe.
+La condition tenant à la composition du capital doit être remplie par la société mère du groupe. 
 
 2° (abrogé). 
 
@@ -50,7 +52,7 @@ attribuées en vue de financer ces investissements.
 4° Les investissements réalisés par les petites et moyennes entreprises en difficulté peuvent ouvrir droit au crédit d'impôt
 prévu au 1° si elles ont reçu un agrément préalable délivré dans les conditions prévues à l'article 1649 nonies. Une
 entreprise est considérée comme étant en difficulté lorsqu'elle fait l'objet d'une procédure de sauvegarde ou de redressement
-judiciaire ou lorsque sa situation financière rend imminente sa cessation d'activité.
+judiciaire ou lorsque sa situation financière rend imminente sa cessation d'activité. 
 
 L'agrément mentionné au premier alinéa est accordé si l'octroi du crédit d'impôt aux investissements prévus dans le cadre du
 plan de restructuration présenté par l'entreprise n'altère pas les échanges dans une mesure contraire à l'intérêt commun. 
@@ -70,19 +72,19 @@ laquelle il a été acquis ou créé, ou si l'acquéreur cesse son activité, le
 au titre de l'exercice ou de l'année où interviennent les événements précités. 
 
 Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables lorsque le bien est transmis dans le cadre
-d'opérations placées sous les régimes prévus aux articles 41, 151 octies, 210 A ou 210 B si le bénéficiaire de la
-transmission s'engage à exploiter les biens en Corse dans le cadre d'une activité répondant aux conditions mentionnées au I
-pendant la fraction du délai de conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission
-ou, à défaut, dans un acte sous seing privé ayant date certaine, établi à cette occasion. 
+d'opérations placées sous les régimes prévus aux articles 41,151 octies, 210 A ou 210 B si le bénéficiaire de la transmission
+s'engage à exploiter les biens en Corse dans le cadre d'une activité répondant aux conditions mentionnées au I pendant la
+fraction du délai de conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à
+défaut, dans un acte sous seing privé ayant date certaine, établi à cette occasion. 
 
 Lorsque l'investissement est réalisé par une société soumise au régime d'imposition prévu à l'article 8 ou un groupement
 mentionné aux articles 239 quater ou 239 quater C, les associés ou membres mentionnés au deuxième alinéa du II doivent, en
 outre, conserver les parts ou actions de cette société ou ce groupement pendant un délai de cinq ans à compter de la
-réalisation de l'investissement.A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet d'une reprise au titre de
+réalisation de l'investissement. A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet d'une reprise au titre de
 l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces parts ou actions. 
 
 IV.-Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un
-exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
+exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse. 
 
 V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la
 Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
@@ -101,6 +103,7 @@ des investissements réalisés à compter du 1er janvier 2015.
 _Cite_:
 
   - Loi n°2002-92 du 22 janvier 2002
+  - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 1649 nonies
@@ -112,10 +115,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 41
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
+  - Code monétaire et financier - art. L214-37
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 39 (M)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 _Cité par_:
 

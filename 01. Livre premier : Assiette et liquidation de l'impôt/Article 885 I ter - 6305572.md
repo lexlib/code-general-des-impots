@@ -11,9 +11,9 @@ a. La société exerce exclusivement une activité industrielle, commerciale, ar
 des activités de gestion de patrimoine mobilier définie à l'article 885 O quater, et notamment celles des organismes de
 placement en valeurs mobilières, et des activités de gestion ou de location d'immeubles ; 
 
-b. La société a son siège de direction effective dans un État membre de                                              l'Union
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales. 
+b. La société a son siège de direction effective dans un État membre de l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales. 
 
 2. L'exonération s'applique également aux titres reçus par le redevable en contrepartie de sa souscription en numéraire au
 capital d'une société satisfaisant aux conditions suivantes : 
@@ -34,10 +34,11 @@ en contrepartie de souscriptions au capital de sociétés exerçant leur activit
 cinq ans vérifiant les conditions prévues au 1 du I de l'article 885-0 V bis. 
 
 4. L'exonération s'applique dans les mêmes conditions aux parts de fonds communs de placement dans l'innovation définis par
-l'article L. 214-30 du code monétaire et financier et de fonds communs de placement à risques définis par les articles L.
-214-28 et L. 214-38 du même code dont l'actif est constitué au moins à hauteur de 40 % de titres reçus en contrepartie de
-souscriptions au capital de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant
-les conditions prévues au 1 du I de l'article 885-0 V bis du présent code. 
+l'article L. 214-30 du code monétaire et financier et de fonds communs de placement à risques et de fonds professionnels de
+capital investissement définis respectivement aux articles L. 214-28 et L. 214-160 du même code dont l'actif est constitué au
+moins à hauteur de 40 % de titres reçus en contrepartie de souscriptions au capital de sociétés exerçant leur activité ou
+juridiquement constituées depuis moins de cinq ans, vérifiant les conditions prévues au 1 du I de l'article 885-0 V bis du
+présent code. 
 
 L'exonération est limitée à la fraction de la valeur des parts de ces fonds représentative de titres reçus en contrepartie de
 souscriptions au capital de sociétés vérifiant les conditions prévues au même 1. 
@@ -55,4 +56,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 885-0 V bis
+  - Code monétaire et financier - art. L214-160
+  - Code monétaire et financier - art. L214-28 (V)
+  - Code monétaire et financier - art. L214-30
