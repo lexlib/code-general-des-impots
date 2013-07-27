@@ -110,9 +110,9 @@ de son acquisition si elle est postérieure, et imputée sur l'impôt dû au tit
 titre de chacune des huit années suivantes à raison d'un neuvième de son montant total au titre de chacune de ces années. 
 
 VIII. ― A. ― La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement
-immobilier régie par les articles L. 214-50 à L. 214-84-3 du code monétaire et financier dont la quote-part de revenu est, en
-application de l'article 8 du présent code, soumise en son nom à l'impôt sur le revenu dans la catégorie des revenus
-fonciers. 
+immobilier régie par le paragraphe 4 de la sous-section 2 de la section 2 du chapitre IV du titre Ier du livre II  du code
+monétaire et financier dont la quote-part de revenu est, en application de l'article 8 du présent code, soumise en son nom à
+l'impôt sur le revenu dans la catégorie des revenus fonciers. 
 
 B. ― La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de propriété est démembré, est subordonnée à la
 condition que 95 % de la souscription servent exclusivement à financer un investissement pour lequel les conditions
@@ -201,14 +201,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 199 undecies C
   - Code général des impôts, CGI. - art. 257
-  - Code monétaire et financier - art. L214-50
   - Code de la sécurité sociale. - art. L341-4
   - Code de la construction et de l'habitation. - art. L364-1
   - Code de la construction et de l'habitation. - art. R331-1
-
-_Modifié par_:
-
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -250,3 +245,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis C (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis D (V)
   - Livre des procédures fiscales - art. L45 F (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42

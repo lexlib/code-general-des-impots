@@ -59,8 +59,7 @@ les biens pris en location par le redevable sont donnés en sous-location pour u
 retenus à concurrence du produit de cette sous-location ;
 
 - les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les
-produits énergétiques [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n°
-2009-599 DC du 29 décembre 2009] ;
+produits énergétiques ;
 
 - les autres charges de gestion courante, autres que les quotes-parts de résultat sur opérations faites en commun ;
 
@@ -98,8 +97,8 @@ sous-location d'immeubles nus réputée exercée à titre professionnel au sens 
 calcul de la valeur ajoutée, qu'à raison de 10 % de leur montant en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en
 2014,60 % en 2015,70 % en 2016,80 % en 2017 et 90 % en 2018. 
 
-III.-Pour les établissements de crédit et, lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel, les entreprises
-mentionnées à l'article L. 531-4 du code monétaire et financier : 
+III.-Pour les établissements de crédit et, lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de résolution,
+les entreprises mentionnées à l'article L. 531-4 du code monétaire et financier : 
 
 1. Le chiffre d'affaires comprend l'ensemble des produits d'exploitation bancaires et des produits divers d'exploitation
 autres que les produits suivants : 
@@ -245,8 +244,7 @@ de plus de six mois, les loyers sont retenus à concurrence du produit de cette 
 - les charges de personnel ;
 
 - les impôts, taxes et versements assimilés, à l'exception des taxes sur le chiffre d'affaires et assimilées, des
-contributions indirectes, de la taxe intérieure de consommation sur les produits énergétiques [Dispositions déclarées non
-conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009] ;
+contributions indirectes, de la taxe intérieure de consommation sur les produits énergétiques ;
 
 - les quotes-parts de résultat sur opérations faites en commun ;
 
@@ -300,14 +298,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
 
-_Créé par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
-
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
-  - Loi n°2012-958 du 16 août 2012 - art. 17 (V)
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 _Cite_:
 
