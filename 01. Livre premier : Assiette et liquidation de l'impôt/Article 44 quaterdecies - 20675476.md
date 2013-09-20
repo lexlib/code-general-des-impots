@@ -1,8 +1,8 @@
 # Article 44 quaterdecies
 
-I.-Les bénéfices des entreprises provenant d'exploitations situées en Guadeloupe, en Guyane, en Martinique ou à La Réunion
-peuvent faire l'objet d'un abattement dans les conditions prévues aux II ou III lorsque ces entreprises respectent les
-conditions suivantes : 
+I.-Les bénéfices des entreprises provenant d'exploitations situées en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à La
+Réunion peuvent faire l'objet d'un abattement dans les conditions prévues aux II ou III lorsque ces entreprises respectent
+les conditions suivantes : 
 
 1° Elles emploient moins de deux cent cinquante salariés et ont réalisé un chiffre d'affaires annuel inférieur à 50 millions
 d'euros ; 
@@ -27,9 +27,9 @@ respectivement à 40 %, 35 % et 30 % pour les exercices ouverts en 2015,2016 et 
 
 III.-La limite et le taux de l'abattement mentionné au II sont majorés dans les cas suivants : 
 
-1° Pour les bénéfices provenant d'exploitations situées en Guyane, dans les îles des Saintes, à Marie-Galante, à La Désirade
-et dans les communes de La Réunion définies par l'article 2 du décret n° 78-690 du 23 juin 1978 portant création d'une zone
-spéciale d'action rurale dans le département de La Réunion ; 
+1° Pour les bénéfices provenant d'exploitations situées en Guyane, à Mayotte, dans les îles des Saintes, à Marie-Galante, à
+La Désirade et dans les communes de La Réunion définies par l'article 2 du décret n° 78-690 du 23 juin 1978 portant création
+d'une zone spéciale d'action rurale dans le département de La Réunion ; 
 
 2° Pour les bénéfices provenant d'exploitations situées dans des communes de Guadeloupe ou de Martinique, dont la liste est
 fixée par décret et qui satisfont cumulativement aux trois critères suivants : 
@@ -144,7 +144,6 @@ _Cite_:
   - Loi n°2008-1249 du 1er décembre 2008
   - Loi n°2009-594 du 27 mai 2009
   - Code général des impôts, CGI. - art. 102 ter
-  - Code général des impôts, CGI. - art. 217 bis
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 223 I
   - Code général des impôts, CGI. - art. 235 ter D
@@ -181,4 +180,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 10
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3
