@@ -12,7 +12,7 @@ parts suivantes et de la moitié de cette somme pour chacun des quarts de part s
 
 Pour l'appréciation de ces limites, lorsqu'au cours d'une année civile survient l'événement mentionné au 8 de l'article 6, le
 montant des revenus, tel que défini au IV de l'article 1417, déclaré au titre de chacune des déclarations souscrites est
-converti en base annuelle.
+converti en base annuelle. 
 
 B.-1° Le montant des revenus déclarés par chacun des membres du foyer fiscal bénéficiaire de la prime majoré du montant des
 revenus soumis aux versements libératoires prévus par l'article 151-0, à raison de l'exercice d'une ou plusieurs activités
@@ -54,13 +54,13 @@ d) Des bénéfices agricoles mentionnés à l'article 63 ;
 
 e) Des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92. 
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies , 44 terdecies à 44 quindecies ou du 9 de l'article
+Les revenus exonérés en application des articles 44 sexies à 44 undecies, 44 terdecies à 44 quindecies ou du 9 de l'article
 93 sont retenus pour l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu compte des déficits des
 années antérieures ainsi que des plus-values et moins-values professionnelles à long terme. 
 
 Pour l'appréciation du montant des revenus définis aux c et e, les revenus soumis aux versements libératoires prévus par
 l'article 151-0 sont retenus pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la
-réfaction forfaitaire prévue au 1 de l'article 102 ter.
+réfaction forfaitaire prévue au 1 de l'article 102 ter. 
 
 C.-Les membres du foyer fiscal ne doivent pas être passibles de l'impôt de solidarité sur la fortune visé à l'article 885 A
 au titre de l'année de réalisation des revenus d'activité professionnelle visés au premier alinéa. 
@@ -69,9 +69,9 @@ II.-Lorsque les conditions définies au I sont réunies, la prime, au titre des 
 échéant, après application de la règle fixée au III, selon les modalités suivantes : 
 
 A. 1° Pour chaque personne dont les revenus professionnels évalués conformément au 1° du B du I, et convertis, en tant que de
-besoin, en équivalent temps plein sont inférieurs à 12 475 €, la prime est égale à 7, 7 % du montant de ces revenus. 
+besoin, en équivalent temps plein sont inférieurs à 12 475 €, la prime est égale à 7,7 % du montant de ces revenus. 
 
-Lorsque ces revenus sont supérieurs à 12 475 € et inférieurs à 17 451 €, la prime est égale à 19, 3 % de la différence entre
+Lorsque ces revenus sont supérieurs à 12 475 € et inférieurs à 17 451 €, la prime est égale à 19,3 % de la différence entre
 17 451 € et le montant de ces revenus ; 
 
 2° Pour les personnes dont les revenus ont fait l'objet d'une conversion en équivalent temps plein, le montant de la prime
@@ -80,7 +80,7 @@ est divisé par les coefficients de conversion définis au 2° du B du I ;
 Lorsque ces coefficients sont supérieurs ou égaux à 2, le montant de la prime ainsi obtenu est majoré de 85 %. 
 
 Lorsque ces coefficients sont inférieurs à 2 et supérieurs à 1, le montant résultant des dispositions du premier alinéa est
-multiplié par un coefficient égal à 0, 15. La prime est égale au produit ainsi obtenu, majoré de 85 % du montant de la prime
+multiplié par un coefficient égal à 0,15. La prime est égale au produit ainsi obtenu, majoré de 85 % du montant de la prime
 calculé dans les conditions prévues au 1° ; 
 
 3° Pour les couples dont l'un des membres n'exerce aucune activité professionnelle ou dispose de revenus d'activité
@@ -92,8 +92,8 @@ a) Lorsque les revenus professionnels de l'autre membre du couple, évalués con
 b) Lorsque ces revenus sont supérieurs à 17 451 € et inférieurs ou égaux à 24 950 €, le montant de la prime est fixé
 forfaitairement à 83 € ; 
 
-c) Lorsque ces revenus sont supérieurs à 24 950 € et inférieurs à 26 572 €, la prime est égale à 5, 1 % de la différence
-entre 26 572 € et le montant de ces revenus.
+c) Lorsque ces revenus sont supérieurs à 24 950 € et inférieurs à 26 572 €, la prime est égale à 5,1 % de la différence entre
+26 572 € et le montant de ces revenus. 
 
 B.-Le montant total de la prime déterminé pour le foyer fiscal conformément aux 1°, 2° et a du 3° du A est majoré de 36 € par
 personne à charge au sens des articles 196 à 196 B, n'exerçant aucune activité professionnelle ou disposant de revenus
@@ -103,11 +103,11 @@ réputés à charge égale de l'un et l'autre de leurs parents.
 Pour les personnes définies au II de l'article 194, la majoration de 36 € est portée à 72 € pour le premier enfant à charge
 qui remplit les conditions énoncées au premier alinéa. Lorsque les contribuables entretiennent uniquement des enfants dont la
 charge est réputée également partagée entre l'un et l'autre des parents, la majoration de 72 € est divisée par deux et
-appliquée à chacun des deux premiers enfants.
+appliquée à chacun des deux premiers enfants. 
 
 C.-Pour les personnes placées dans les situations mentionnées aux b et c du 3° du A et au deuxième alinéa du B, dont le
 montant total des revenus d'activité professionnelle est compris entre 17 451 € et 26 572 €, la majoration pour charge de
-famille est fixée forfaitairement aux montants mentionnés au B, quel que soit le nombre d'enfants à charge.
+famille est fixée forfaitairement aux montants mentionnés au B, quel que soit le nombre d'enfants à charge. 
 
 D.-Le montant total de la prime accordée au foyer fiscal est minoré des sommes perçues au cours de l'année civile par les
 membres de ce foyer fiscal au sens des 1 et 3 de l'article 6 au titre de la prestation mentionnée à l'article L. 262-1 du
@@ -116,11 +116,11 @@ forfaitaire mentionné au 2° de l'article L. 262-2 du même code et les ressour
 même code. 
 
 III.-Pour l'application du B du I et du II, les revenus des activités professionnelles mentionnées aux c, d et e du 3° du B
-du I sont majorés, ou diminués en cas de déficits, de 11, 11 %. 
+du I sont majorés, ou diminués en cas de déficits, de 11,11 %. 
 
 IV.-Le montant total de la prime accordée au foyer fiscal s'impute en priorité sur le montant de l'impôt sur le revenu dû au
 titre de l'année d'imposition des revenus d'activité déclarés. La prime n'est pas due lorsque son montant avant imputation
-est inférieur à 30 €.
+est inférieur à 30 €. 
 
 L'imputation s'effectue après prise en compte des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis et 200
 octies, des autres crédits d'impôt et des prélèvements ou retenues non libératoires. 
@@ -128,19 +128,27 @@ octies, des autres crédits d'impôt et des prélèvements ou retenues non libé
 Si l'impôt sur le revenu n'est pas dû ou si son montant est inférieur à celui de la prime, la différence est versée aux
 intéressés. 
 
-Ce versement suit les règles applicables en matière d'excédent de versement.
+Ce versement suit les règles applicables en matière d'excédent de versement. 
 
 V.-Le bénéfice de la prime est subordonné à l'indication par les contribuables, sur la déclaration prévue au 1 de l'article
 170, du montant des revenus d'activité professionnelle définis au 3° du B du I et des éléments relatifs à la durée d'exercice
 de ces activités. Pour bénéficier de la prime pour l'emploi, les contribuables peuvent adresser ces indications à
 l'administration fiscale au plus tard le 31 décembre de la deuxième année suivant celle de la mise en recouvrement du rôle. 
 
-VI.(Abrogé)
+VI. (Abrogé) 
 
-**Nota:**
+VII.-Le montant total de la prime accordée aux contribuables domiciliés dans le Département de Mayotte au 31 décembre de
+l'année de l'imposition est multiplié par : 
 
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 3 VIII C: Ces dispositions s'appliquent aux
-rémunérations perçues à raison des heures supplémentaires et complémentaires effectuées à compter du 1er août 2012.
+0,74 au titre de l'imposition des revenus de l'année 2013 ; 
+
+0,81 au titre de l'imposition des revenus de l'année 2014 ; 
+
+0,88 au titre de l'imposition des revenus de l'année 2015 ; 
+
+0,94 au titre de l'imposition des revenus de l'année 2016. 
+
+Le montant de la prime calculé dans ces conditions est arrondi à l'euro le plus proche.
 
 **Liens relatifs à cet article**
 
@@ -156,7 +164,10 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 quater B
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 81 quater
+  - Code général des impôts, CGI. - art. 44 terdecies
+  - Code général des impôts, CGI. - art. 62
+  - Code général des impôts, CGI. - art. 63
+  - Code général des impôts, CGI. - art. 92
   - Code de la sécurité sociale. - art. L136-2
   - Code de l'action sociale et des familles - art. L262-1
   - Code de l'action sociale et des familles - art. L262-2
@@ -171,4 +182,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-958 du 16 août 2012 - art. 3 (V)
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 4
