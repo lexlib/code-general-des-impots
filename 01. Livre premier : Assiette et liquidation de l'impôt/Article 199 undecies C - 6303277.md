@@ -2,8 +2,8 @@
 
 I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu à
 raison de l'acquisition ou de la construction de logements neufs dans les départements d'outre-mer, à Saint-Pierre-et-
-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles
-Wallis et Futuna si les conditions suivantes sont réunies : 
+Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna
+si les conditions suivantes sont réunies : 
 
 1° Les logements sont donnés en location nue, dans les six mois de leur achèvement ou de leur acquisition si elle est
 postérieure et pour une durée au moins égale à cinq ans, à un organisme d'habitations à loyer modéré mentionné à l'article L.
@@ -151,6 +151,9 @@ _Cite_:
 
   - Loi n°2009-594 du 27 mai 2009
   - Code général des impôts, CGI. - art. 150-0 D
+  - Code général des impôts, CGI. - art. 199 septvicies (V)
+  - Code général des impôts, CGI. - art. 199 tervicies (V)
+  - Code général des impôts, CGI. - art. 199 undecies A (VT)
   - Code général des impôts, CGI. - art. 199 undecies B
   - Code général des impôts, CGI. - art. 217 undecies
   - Code général des impôts, CGI. - art. 4 B
@@ -192,4 +195,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3
