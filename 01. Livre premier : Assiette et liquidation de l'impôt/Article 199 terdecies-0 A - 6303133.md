@@ -212,9 +212,9 @@ française et dans les îles Wallis et Futuna peuvent bénéficier d'une réduct
 souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-31 du code
 monétaire et financier , dont l'actif est constitué pour 60 % au moins de titres financiers, parts de société à
 responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans
-des établissements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-
-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour
-l'application de la réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B. 
+des établissements situés dans les départements d'outre-mer, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour l'application
+de la réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B. 
 
 Les a à c du 1 et le 3 du VI sont applicables. 
 
@@ -339,4 +339,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3

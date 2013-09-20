@@ -4,12 +4,12 @@ I. Les entreprises soumises à l'impôt sur les sociétés peuvent déduire de l
 montant, hors taxes et hors frais de toute nature, notamment les commissions d'acquisition, à l'exception des frais de
 transport, d'installation et de mise en service amortissables, des investissements productifs, diminuée de la fraction de
 leur prix de revient financée par une subvention publique, qu'elles réalisent dans les départements de la Guadeloupe, de la
-Guyane, de la Martinique et de la Réunion pour l'exercice d'une activité éligible en application du I de l'article 199
-undecies B. Pour les projets d'investissement comportant l'acquisition, l'installation ou l'exploitation d'équipements de
-production d'énergie renouvelable, ce montant est pris en compte dans la limite d'un montant par watt installé fixé par
-arrêté conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type
-d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements. La
-déduction est opérée sur le résultat de l'exercice au cours duquel l'investissement est réalisé, le déficit éventuel de
+Guyane, de la Martinique, de Mayotte et de la Réunion pour l'exercice d'une activité éligible en application du I de
+l'article 199 undecies B. Pour les projets d'investissement comportant l'acquisition, l'installation ou l'exploitation
+d'équipements de production d'énergie renouvelable, ce montant est pris en compte dans la limite d'un montant par watt
+installé fixé par arrêté conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque
+type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements.
+La déduction est opérée sur le résultat de l'exercice au cours duquel l'investissement est réalisé, le déficit éventuel de
 l'exercice étant reporté dans les conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à
 construire ou de construction d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les
 fondations sont achevées. Si l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la
@@ -105,7 +105,7 @@ sont applicables lorsque l'entreprise locataire prend l'engagement d'utiliser ef
 investissements dans le cadre de l'activité pour laquelle ils ont été acquis ou créés. 
 
 I bis.-La déduction prévue au premier alinéa du I s'applique également aux acquisitions ou constructions de logements neufs
-situés en Guadeloupe, en Guyane, en Martinique ou à La Réunion si les conditions suivantes sont réunies : 
+situés en Guadeloupe, en Guyane, en Martinique , à Mayotte ou à La Réunion si les conditions suivantes sont réunies : 
 
 1° L'entreprise signe avec une personne physique, dans les six mois de l'achèvement de l'immeuble, ou de son acquisition si
 elle est postérieure, un contrat de location-accession dans les conditions prévues par la 
@@ -176,8 +176,8 @@ programme et par exercice est supérieur à 1 000 000 € ne peuvent ouvrir droi
 préalable du ministre chargé du budget dans les conditions prévues au III. 
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
-par programme et par exercice est supérieur à 250 000 € (1), lorsqu'ils sont réalisés par une société ou un groupement
-mentionnés à l'avant-dernière phrase du premier alinéa de ce même I. 
+par programme et par exercice est supérieur à 250 000 €, lorsqu'ils sont réalisés par une société ou un groupement mentionnés
+à l'avant-dernière phrase du premier alinéa de ce même I. 
 
 III.-1. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la
 navigation de plaisance, de l'agriculture, de la pêche maritime et de l'aquaculture, de l'industrie charbonnière et de la
@@ -222,11 +222,11 @@ sont dispensés de la procédure d'agrément préalable lorsqu'ils sont réalis�
 les départements visés au I depuis au moins deux ans dans l'un des secteurs mentionnés au premier alinéa du 1. Il en est de
 même lorsque ces investissements sont donnés en location à une telle entreprise. L'entreprise propriétaire des biens ou qui
 les a acquis en crédit-bail joint à sa déclaration de résultat un état récapitulatif des investissements réalisés au cours de
-l'exercice et au titre desquels la déduction fiscale est pratiquée (1). 
+l'exercice et au titre desquels la déduction fiscale est pratiquée. 
 
 Le premier alinéa ne s'applique pas au secteur des transports, à l'exception des véhicules neufs de moins de sept places
 acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits
-transports lorsque les conditions de transport sont conformes à un tarif réglementaire (1). 
+transports lorsque les conditions de transport sont conformes à un tarif réglementaire. 
 
 III bis. (Abrogé).
 
@@ -293,35 +293,11 @@ jusqu'au 31 décembre 2017.
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités de leur application et notamment les obligations
 déclaratives.
 
-**Nota:**
-
-Loi n° 2010-1657 du 29 décembre 2010 article 36 VI : Les présentes dispositions s'appliquent à compter du 29 septembre 2010 .
-Toutefois, la réduction ou la déduction d'impôt restent applicables, dans les conditions prévues par les dispositions
-antérieures à la présente loi :
-
-a) Lorsque le bénéfice de la réduction ou de la déduction d'impôt n'est pas subordonné à l'agrément préalable du ministre
-chargé du budget prévu aux II de l'article 199 undecies B et II quater de l'article 217 undecies du code général des impôts,
-d'une part, aux investissements pour l'acquisition desquels le bénéficiaire de la réduction ou de la déduction a accepté un
-devis et versé un acompte avant le 29 septembre 2010 et, d'autre part, à ceux réalisés par les sociétés et groupements
-mentionnés aux dix-neuvième et vingt-septième alinéas du I de l'article 199 undecies B et à l'avant-dernière phrase du
-premier alinéa du I et au II de l'article 217 undecies, lorsque la réduction d'impôt ou la déduction à laquelle ils auraient
-ouvert droit en application de ces mêmes articles a été obtenue à raison d'acquisitions ou de souscriptions de parts faites
-avant le 29 septembre 2010 ;
-
-b) Lorsque le bénéfice de la réduction ou de la déduction d'impôt est subordonné à l'agrément préalable du ministre chargé du
-budget prévu aux  II de l'article 199 undecies B et II quater de l'article 217 undecies du code général des impôts, d'une
-part, aux investissements agréés avant le 29 septembre 2010, sous réserve du respect de la date de mise en production des
-installations prévue dans l'agrément, et, d'autre part, à ceux pour l'acquisition desquels l'exploitant a accepté un devis et
-versé un acompte, sous réserve qu'ils produisent de l'électricité au plus tard le 31 mars 2011.
-
-Loi n° 2010-1657 du 29 décembre 2010 art. 98 II : Ces dispositions sont applicables à compter de l'imposition des revenus de
-l'année 2011.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°84-595 du 12 juillet 1984 (V)
+  - Loi n°84-595 du 12 juillet 1984
   - Loi n°2009-594 du 27 mai 2009
   - Code de commerce - art. L232-21
   - Code général des impôts, CGI. - art. 1727
@@ -329,11 +305,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 209
   - Code général des impôts, CGI. - art. 210 A
   - Code général des impôts, CGI. - art. 210 B
-  - Code général des impôts, CGI. - art. 217 bis
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater C
-  - Code général des impôts, CGI. - art. 44 quaterdecies
-  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
+  - Code de la construction et de l'habitation. - art. R331-76-5-1
 
 _Cité par_:
 
@@ -400,4 +374,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 10
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 10

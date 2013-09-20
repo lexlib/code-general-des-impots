@@ -198,11 +198,11 @@ définies par décret, après avis du maire de la commune d'implantation ou du p
 coopération intercommunale territorialement compétent en matière d'urbanisme. La décision du ministre de délivrer ou non
 l'agrément doit tenir compte des besoins en logements adaptés à la population. 
 
-XI.-Les investissements mentionnés aux I et VIII et afférents à des logements situés dans les départements d'outre-mer, à
-Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les
-îles Wallis et Futuna ou à des souscriptions employées dans les conditions définies au neuvième alinéa du VIII pour le
-financement de tels logements ouvrent droit à la réduction d'impôt prévue au présent article dans les mêmes conditions, sous
-réserve des adaptations prévues au présent XI. 
+XI.-Les investissements mentionnés aux I et VIII et afférents à des logements situés dans les départements d'outre-mer,
+Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna ou à des souscriptions employées dans les conditions définies au neuvième alinéa du VIII pour le financement
+de tels logements ouvrent droit à la réduction d'impôt prévue au présent article dans les mêmes conditions, sous réserve des
+adaptations prévues au présent XI. 
 
 a) Pour ces investissements, le taux de la réduction est égal : 
 
@@ -282,4 +282,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3
