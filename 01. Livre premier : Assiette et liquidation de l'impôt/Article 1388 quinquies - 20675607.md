@@ -4,7 +4,7 @@ I.-Sauf délibération contraire de la collectivité territoriale ou de l'établ
 doté d'une fiscalité propre prise dans les conditions prévues au I de l'article 1639 A bis, la base d'imposition à la taxe
 foncière sur les propriétés bâties des immeubles ou parties d'immeubles rattachés entre le 1er janvier 2009 et le 31 décembre
 2018 à un établissement réunissant les conditions requises pour bénéficier de l'abattement prévu à l'article 1466 F fait
-l'objet d'un abattement dégressif lorsqu'ils sont situés en Guadeloupe, en Guyane, en Martinique ou à La Réunion. 
+l'objet d'un abattement dégressif lorsqu'ils sont situés en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à La Réunion. 
 
 La délibération porte sur la totalité de la part revenant à chaque collectivité territoriale ou établissement public de
 coopération intercommunale. 
@@ -25,9 +25,9 @@ III.-Le montant de l'abattement mentionné au II est majoré :
 
 1° Pour les immeubles ou parties d'immeubles qui remplissent cumulativement les deux conditions suivantes : être rattachés à
 un établissement satisfaisant aux conditions requises pour bénéficier de l'abattement prévu à l'article 1466 F ; être situés
-en Guyane, dans les îles des Saintes, à Marie-Galante, à La Désirade et dans les communes de La Réunion définies par
-l'article 2 du décret n° 78-690 du 23 juin 1978 portant création d'une zone spéciale d'action rurale dans le département de
-La Réunion ; 
+en Guyane, à Mayotte, dans les îles des Saintes, à Marie-Galante, à La Désirade et dans les communes de La Réunion définies
+par l'article 2 du décret n° 78-690 du 23 juin 1978 portant création d'une zone spéciale d'action rurale dans le département
+de La Réunion ; 
 
 2° Pour les immeubles ou parties d'immeubles situés dans des communes de Guadeloupe ou de Martinique, dont la liste est fixée
 par décret et qui satisfont cumulativement aux trois critères suivants : 
@@ -83,20 +83,20 @@ pour les années concernées.
 
 _Cite_:
 
-  - Loi n°85-30 du 9 janvier 1985 (V)
-  - Loi n°2009-594 du 27 mai 2009 (V)
-  - Code général des impôts, CGI. - art. 1383 A (V)
-  - Code général des impôts, CGI. - art. 1383 B (V)
-  - Code général des impôts, CGI. - art. 1383 C (V)
-  - Code général des impôts, CGI. - art. 1383 C bis (V)
-  - Code général des impôts, CGI. - art. 1383 D (V)
-  - Code général des impôts, CGI. - art. 1383 E bis (V)
-  - Code général des impôts, CGI. - art. 1383 F (V)
-  - Code général des impôts, CGI. - art. 1383 I (V)
-  - Code général des impôts, CGI. - art. 1466 F (V)
-  - Code général des impôts, CGI. - art. 1639 A bis (V)
-  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
-  - Code général des collectivités territoriales - art. L2334-2 (V)
+  - Loi n°85-30 du 9 janvier 1985
+  - Loi n°2009-594 du 27 mai 2009
+  - Code général des impôts, CGI. - art. 1383 A
+  - Code général des impôts, CGI. - art. 1383 B
+  - Code général des impôts, CGI. - art. 1383 C
+  - Code général des impôts, CGI. - art. 1383 C bis
+  - Code général des impôts, CGI. - art. 1383 D
+  - Code général des impôts, CGI. - art. 1383 E bis
+  - Code général des impôts, CGI. - art. 1383 F
+  - Code général des impôts, CGI. - art. 1383 I
+  - Code général des impôts, CGI. - art. 1466 F
+  - Code général des impôts, CGI. - art. 1639 A bis
+  - Code général des impôts, CGI. - art. 44 quaterdecies
+  - Code général des collectivités territoriales - art. L2334-2
 
 _Cité par_:
 
@@ -108,6 +108,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 315 quindecies (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 315 sexdecies (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 6 (M)
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 16 (V)
