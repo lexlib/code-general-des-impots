@@ -1,11 +1,14 @@
 # Article 1649 decies
 
-I. – Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, il est procédé, aux frais de
-l'Etat, à l'établissement et à la conservation d'un cadastre parcellaire destiné à servir de support aux évaluations à
-retenir pour l'assiette de la contribution foncière des propriétés bâties, de la contribution foncière des propriétés non
+I. – Dans les départements de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte et de la Réunion, il est procédé, aux
+frais de l'Etat, à l'établissement et à la conservation d'un cadastre parcellaire destiné à servir de support aux évaluations
+à retenir pour l'assiette de la contribution foncière des propriétés bâties, de la contribution foncière des propriétés non
 bâties et des taxes annexes à ces contributions. Ce cadastre est également destiné à servir de moyen d'identification et de
 détermination physique des immeubles, en vue de la mise en oeuvre de la réforme de la publicité foncière réalisée par le
 décret n° 55-22 du 4 janvier 1955 modifié et les textes pris pour son application.
+
+Dans le Département de Mayotte, le cadastre parcellaire établi dans la collectivité territoriale de Mayotte s'applique. Ses
+conditions de réfection et de conservation sont régies et adaptées par décret en Conseil d'Etat.
 
 II. – La documentation cadastrale peut recevoir les utilisations prévues au I au fur et à mesure de sa constitution dans
 chaque commune.
@@ -19,16 +22,12 @@ commune.
 
 _Cite_:
 
-  - Décret n°55-22 1955-01-04
+  - Décret n°55-22 du 4 janvier 1955
 
 _Codifié par_:
 
-  - Décret n°95-1281 1995-12-11
+  - Décret n°95-1281 du 11 décembre 1995
 
 _Modifié par_:
 
-  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
-
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 16 (V)
