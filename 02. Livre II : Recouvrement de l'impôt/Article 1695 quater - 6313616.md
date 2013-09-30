@@ -2,7 +2,7 @@
 
 Les redevables acquittent la taxe sur la valeur ajoutée ainsi que les taxes assimilées aux taxes sur le chiffre d'affaires
 par télérèglement lorsque leur chiffre d'affaires ou leurs recettes réalisés au titre de l'exercice précédent est supérieur à
-230 000 € hors taxes ou lorsque l'entreprise est soumise à l'impôt sur les sociétés, quel que soit le montant de son chiffre
+80 000 € hors taxes ou lorsque l'entreprise est soumise à l'impôt sur les sociétés, quel que soit le montant de son chiffre
 d'affaires. 
 
 Cette obligation s'applique également aux redevables définis aux deuxième à dixième alinéas du I de l'article 1649 quater B
@@ -10,9 +10,13 @@ quater.
 
 **Nota:**
 
-Conformément à la loi n° 2011-1978 du 28 décembre 2011, article 53-VI : A compter du 1er octobre 2012 et à titre transitoire
-jusqu'au 30 septembre 2014, le premier alinéa est complété par les mots "ou lorsque l'entreprise est soumise à l'impôt sur
-les sociétés, quel que soit le montant de son chiffre d'affaires".
+Conformément à la loi n° 2011-1978 du 28 décembre 2011, article 53-VI : 
+
+1° A compter du 1er octobre 2012 et à titre transitoire jusqu'au 30 septembre 2014, le premier alinéa est complété par les
+mots "ou lorsque l'entreprise est soumise à l'impôt sur les sociétés, quel que soit le montant de son chiffre d'affaires". 
+
+2° A compter du 1er octobre 2013 et à titre transitoire jusqu'au 30 septembre 2014, au premier alinéa, le montant "230 000 €"
+est remplacé par le montant "80 000 €".
 
 **Liens relatifs à cet article**
 
@@ -28,4 +32,4 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1649 quater B quater (VT)
+  - Code général des impôts, CGI. - art. 1649 quater B quater (V)
