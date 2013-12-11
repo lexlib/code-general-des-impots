@@ -43,7 +43,8 @@ c) Les salaires versés aux personnels de la réalisation et de la production, a
 d) Les dépenses liées au recours aux industries techniques et autres prestataires de la création cinématographique ou
 audiovisuelle ; 
 
-e) Les dépenses de transport et de restauration occasionnées par la production de l'œuvre sur le territoire français. 
+e) Les dépenses de transport et de restauration , ainsi que les dépenses d'hébergement dans la limite d'un montant par nuitée
+fixé par décret,  occasionnées par la production de l'œuvre sur le territoire français. 
 
 2. Les auteurs, les artistes-interprètes et les personnels de la réalisation et de la production mentionnés au 1 doivent être
 soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord
@@ -65,7 +66,7 @@ V. ― Les subventions publiques reçues par les entreprises de production exéc
 crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou
 remboursables. 
 
-VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 4 millions d'euros. 
+VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 10 millions d'euros. 
 
 VII. ― Les crédits d'impôts obtenus pour la production d'une même œuvre cinématographique ou audiovisuelle ne peuvent avoir
 pour effet de porter à plus de 50 % du budget de production de l'œuvre le montant total des aides publiques accordées. 
@@ -74,13 +75,12 @@ VIII. ― Un décret précise les conditions d'application du présent article.
 
 **Nota:**
 
-Loi n° 2008-1425 du 27 décembre 2008 article 131 IV : Le I s'applique aux crédits d'impôt calculés au titre des dépenses
-engagées entre le 1er janvier 2009 et le 31 décembre 2012.
+Loi n° 2012-1510 du 29 décembre 2012, article 34 : Ces dispositions entrent en vigueur à une date fixée par décret et au plus
+tard le 1er janvier 2014. Conformément à l'article 2 du décret n° 2013-1138 du 9 décembre 2013, l'article 34 de la loi n°
+2012-1510 du 29 décembre 2012 entre en vigueur le lendemain de la publication dudit décret.
 
-V : Le présent article entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2010. L'article 2 du
-décret n° 2009-1464 du 30 novembre 2009 a fixé cette date au 2 décembre 2009.
-
-Modifications effectuées en conséquence de l'article 3, 2e alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.
+Loi n° 2008-1425 du 27 décembre 2008 article 131 IV modifié par l'article 72 de la loi n° 2012-1509 du 29 décembre 2012 : Le
+I s'applique aux crédits d'impôt calculés au titre des dépenses engagées entre le 1er janvier 2009 et le 31 décembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -122,6 +122,10 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY septies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY sexies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY ter (V)
+
+_Modifié par_:
+
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 34 (VD)
 
 _Cite_:
 
