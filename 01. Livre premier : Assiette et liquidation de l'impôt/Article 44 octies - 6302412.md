@@ -6,12 +6,12 @@ du territoire et dont la liste figure au I de l'annexe à la loi n° 96-987 du 1
 pacte de relance pour la ville, sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices
 provenant des activités implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui de la délimitation de
 la zone pour les contribuables qui y exercent déjà leur activité ou, dans le cas contraire, celui de leur début d'activité
-dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %,
-60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la
+dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %,60
+% ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la
 troisième période de douze mois suivant cette période d'exonération. Cependant pour les entreprises de moins de cinq
-salariés, ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80 % de
+salariés, ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %,60 % ou 80 % de
 leur montant selon qu'ils sont réalisés respectivement au cours des cinq premières, de la sixième et septième ou de la
-huitième et neuvième périodes de douze mois suivant cette période d'exonération. L'effectif salarié s'apprécie au cours de la
+huitième et neuvième périodes de douze mois suivant cette période d'exonération.L'effectif salarié s'apprécie au cours de la
 dernière période d'imposition au titre de laquelle l'exonération au taux de 100 % s'applique. Les salariés saisonniers ou à
 temps incomplet sont pris en compte au prorata de la durée du temps de travail prévue à leur contrat. La date de délimitation
 des zones franches urbaines mentionnée au présent I est réputée correspondre, dans tous les cas, au 1er janvier 1997. 
@@ -19,7 +19,7 @@ des zones franches urbaines mentionnée au présent I est réputée correspondre
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
 d'immeubles à usage d'habitation, ainsi qu'aux contribuables exerçant une activité professionnelle non commerciale au sens du
-1 de l'article 92. 
+1 de l'article 92.
 
 L'exonération ne s'applique pas aux créations d'activités dans les zones franches urbaines consécutives au transfert d'une
 activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant celle
@@ -33,8 +33,8 @@ sédentaire à temps plein, ou équivalent, exerçant ses fonctions dans les loc
 réalise au moins 25 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines. 
 
 II. Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux
-articles 50-0,53 A, 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions
-de droit commun : 
+articles 50-0,53 A,96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de
+droit commun : 
 
 a) produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8,
 lorsqu'ils ne proviennent pas d'une activité exercée dans l'une des zones franches urbaines, et résultats de cession des
@@ -43,20 +43,15 @@ titres de ces sociétés ;
 b) produits correspondant aux subventions, libéralités et abandons de créances ; 
 
 c) produits de créances et d'opérations financières pour le montant qui excède le montant des frais financiers engagés au
-cours du même exercice ou de la même année d'imposition, si le contribuable n'est pas un établissement de crédit visé à
-l'article L. 511-1 du code monétaire et financier ; 
+cours du même exercice ou de la même année d'imposition, si le contribuable n'est pas un établissement de crédit ou une
+société de financement visé à l'article L. 511-1 du code monétaire et financier ; 
 
 d) produits tirés des droits de la propriété industrielle et commerciale, lorsque ces droits n'ont pas leur origine dans
 l'activité exercée dans l'une des zones franches urbaines. 
 
-Lorsque le contribuable n'exerce pas l'ensemble de son activité dans une zone franche urbaine, le bénéfice exonéré est
-déterminé en affectant le montant résultant du calcul ainsi effectué du rapport entre, d'une part, la somme des éléments
-d'imposition à la cotisation foncière des entreprises définis à l'article 1467 afférents à l'activité exercée dans les zones
-franches urbaines et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme des éléments d'imposition à
-la cotisation foncière des entreprises du contribuable définis au même article pour ladite période. Pour la fixation de ce
-rapport, la valeur locative des immobilisations passibles d'une taxe foncière est celle déterminée conformément à l'article
-1467, au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition des
-bénéfices. 
+Lorsque le contribuable n'exerce pas l'ensemble de son activité dans les zones franches urbaines, les bénéfices réalisés sont
+soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés, dans les conditions de droit commun, en proportion du montant
+hors taxes du chiffre d'affaires ou de recettes réalisé en dehors de ces zones. 
 
 Par exception aux dispositions du sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré
 qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition s'applique,
@@ -74,14 +69,14 @@ huitième alinéa du II, dans la limite du résultat d'ensemble du groupe.
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies
 et 44 quindecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois
 qui suivent celui de la délimitation de la zone s'il y exerce déjà son activité ou, dans le cas contraire, dans les six mois
-suivant celui du début d'activité. L'option est irrévocable. 
+suivant celui du début d'activité.L'option est irrévocable. 
 
-IV. Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret. 
+IV. Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
 V.-Les dispositions des I à IV sont applicables aux contribuables qui créent des activités entre le 1er janvier 2002 et la
 date de publication de la loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones franches urbaines visées
 au premier alinéa du I. Toutefois, pour les contribuables qui créent des activités dans ces zones en 2002, le point de départ
-de la période d'application des allégements est fixé au 1er janvier 2003. 
+de la période d'application des allégements est fixé au 1er janvier 2003.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les zones franches urbaines ou qui reprennent de telles
@@ -102,7 +97,7 @@ Toutefois, pour bénéficier de l'exonération, l'entreprise doit répondre cumu
 
 a. Elle emploie au plus cinquante salariés au 1er janvier 2004 ou à la date de sa création ou de son implantation si elle est
 postérieure et soit a réalisé un chiffre d'affaires inférieur à 7 millions d'euros au cours de l'exercice, soit a un total de
-bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005, les seuils de chiffre d'affaires et de total du bilan
+bilan inférieur à 5 millions d'euros.A compter du 1er janvier 2005, les seuils de chiffre d'affaires et de total du bilan
 sont portés à 10 millions d'euros ; 
 
 b. Son capital ou ses droits de vote ne sont pas détenus, directement ou indirectement, à hauteur de 25 % ou plus par une
@@ -119,10 +114,10 @@ c. Son activité principale, définie selon la nomenclature d'activités frança
 des études économiques, ne relève pas des secteurs de la construction automobile, de la construction navale, de la
 fabrication de fibres textiles artificielles ou synthétiques, de la sidérurgie ou des transports routiers de marchandises. 
 
-Pour l'application du a et du b, le chiffre d'affaires doit être ramené ou porté le cas échéant à douze mois. L'effectif de
+Pour l'application du a et du b, le chiffre d'affaires doit être ramené ou porté le cas échéant à douze mois.L'effectif de
 l'entreprise est apprécié par référence au nombre moyen de salariés employés au cours de cet exercice. Pour la société mère
 d'un groupe mentionné à l'article 223 A, le chiffre d'affaires est apprécié en faisant la somme des chiffres d'affaires de
-chacune des sociétés membres de ce groupe. 
+chacune des sociétés membres de ce groupe.
 
 L'exonération s'applique à l'exercice ou la création d'activités résultant d'une reprise, d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes. Toutefois, lorsque celles-ci bénéficient ou ont bénéficié du régime prévu
@@ -139,10 +134,8 @@ _Cite_:
   - Loi n°95-115 du 4 février 1995 - art. 42
   - Loi n°96-987 du 14 novembre 1996
   - Loi n°2006-396 du 31 mars 2006
-  - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 102 ter
   - Code général des impôts, CGI. - art. 103
-  - Code général des impôts, CGI. - art. 1467
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 223 I
   - Code général des impôts, CGI. - art. 34
@@ -152,7 +145,6 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 92
   - Code général des impôts, CGI. - art. 96
-  - Code monétaire et financier - art. L214-37
   - Code monétaire et financier - art. L511-1
 
 _Cité par_:
@@ -187,4 +179,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
