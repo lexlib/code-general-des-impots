@@ -4,7 +4,7 @@ I.-Les redevables de l'impôt sur les sociétés réalisant un chiffre d'affaire
 assujettis à une contribution exceptionnelle égale à une fraction de cet impôt calculé sur leurs résultats imposables, aux
 taux mentionnés à l'article 219, des exercices clos à compter du 31 décembre 2011 et jusqu'au 30 décembre 2015. 
 
-Cette contribution est égale à 5 % de l'impôt sur les sociétés dû, déterminé avant imputation des réductions et crédits
+Cette contribution est égale à 10,7 % de l'impôt sur les sociétés dû, déterminé avant imputation des réductions et crédits
 d'impôt et des créances fiscales de toute nature. 
 
 Pour les redevables qui sont placés sous le régime prévu à l'article 223 A, la contribution est due par la société mère. Elle
@@ -24,15 +24,10 @@ sanctions.
 
 **Nota:**
 
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 12 II : Ces dispositions s'appliquent aux exercices
-clos à compter du 31 décembre 2012 .
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 16 II : Ces dispositions s'appliquent aux exercices clos à
+compter du 31 décembre 2013.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 23 (VD)
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 30
 
 _Cité par_:
 
@@ -40,6 +35,10 @@ _Cité par_:
   - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
   - Code général des impôts, CGI. - art. 1668 B (VD)
   - Code général des impôts, CGI. - art. 213 (V)
+
+_Modifié par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 16 (V)
 
 _Cite_:
 
