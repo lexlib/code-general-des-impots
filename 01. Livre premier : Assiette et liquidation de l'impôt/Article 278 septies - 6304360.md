@@ -1,29 +1,30 @@
 # Article 278 septies
 
-La taxe sur la valeur ajoutée est perçue au taux de 7 % :
+La taxe sur la valeur ajoutée est perçue au taux de 10 % :
 
-1° Sur les importations d'oeuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions
-intracommunautaires effectuées par un assujetti ou une personne morale non assujettie d'oeuvres d'art, d'objets de collection
-ou d'antiquité qu'ils ont importés sur le territoire d'un autre Etat membre de la Communauté européenne ;
+1° (Abrogé) ;
 
 2° Sur les livraisons d'oeuvres d'art effectuées par leur auteur ou ses ayants droit ;
 
 3° Sur les livraisons d'oeuvres d'art effectuées à titre occasionnel par les personnes qui les ont utilisées pour les besoins
 de leurs exploitations et chez qui elles ont ouvert droit à déduction de la taxe sur la valeur ajoutée ;
 
-4° Sur les acquisitions intracommunautaires d'oeuvres d'art qui ont fait l'objet d'une livraison dans un autre Etat membre
-par d'autres assujettis que des assujettis revendeurs.
+4° (Abrogé).
 
 **Nota:**
 
-LOI n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 13 III : les dispositions du présent article
-s'appliquent aux opérations pour lesquelles la taxe sur la valeur ajoutée est exigible à compter du 1er janvier 2012.
+Loi n° 2012-1510 du 29 décembre 2012, art. 68-III-B : le taux "7 %" est remplacé par le taux "10 %" pour les opérations dont
+le fait générateur intervient à compter du 1er janvier 2014. Toutefois, ils ne s'appliquent pas aux encaissements pour
+lesquels la taxe sur la valeur ajoutée est exigible avant cette date. 
+
+Pour les dérogations au taux de TVA de 10 % se reporter aux points 2 et 3 du B du III du même article 68.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 13 (V)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 68 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 8
 
 _Cité par_:
 
