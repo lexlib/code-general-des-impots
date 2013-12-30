@@ -5,20 +5,12 @@ loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à 
 hasard en ligne, un prélèvement sur les sommes engagées par les joueurs. 
 
 Ce prélèvement est dû par les personnes devant être soumises, en tant qu'opérateur de jeux de cercle en ligne, à l'agrément
-mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée. Le produit de ce prélèvement est affecté à
-concurrence de 15 % et dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011de
-finances pour 2012 au Centre des monuments nationaux. 
+mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée.  
 
-Le produit de ce prélèvement est en outre affecté à concurrence de 15 % et dans la limite indexée, chaque année, sur la
-prévision de l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 10 503
-195 € aux communes dans le ressort territorial desquelles sont ouverts au public un ou plusieurs établissements visés au
-premier alinéa de l'article L. 321-1 du code de la sécurité intérieure, au prorata du produit brut des jeux de ces
-établissements.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 3, 19 (9°) et 22 de l'ordonnance n° 2012-351 du 12 mars 2012 et de la
-loi n° 2010-476 du 12 mai 2010, article 47.
+Le produit de ce prélèvement est affecté à concurrence de 15 % et dans la limite indexée, chaque année, sur la prévision de
+l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 10 503 195 € aux
+communes dans le ressort territorial desquelles sont ouverts au public un ou plusieurs établissements visés au premier alinéa
+de l'article L. 321-1 du code de la sécurité intérieure, au prorata du produit brut des jeux de ces établissements.
 
 **Liens relatifs à cet article**
 
@@ -26,12 +18,13 @@ _Cite_:
 
   - Loi n°2010-476 du 12 mai 2010 - art. 14
   - Loi n°2010-476 du 12 mai 2010 - art. 21
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
   - Code de la sécurité intérieure - art. L321-1
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (MMN)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 47
 
 _Cité par_:
 
