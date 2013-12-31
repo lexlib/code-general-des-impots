@@ -51,10 +51,9 @@ La réduction d'impôt n'est pas applicable aux logements dont le droit de propr
 à une société non soumise à l'impôt sur les sociétés, autre qu'une société civile de placement immobilier, dont le droit de
 propriété des parts est démembré. 
 
-Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant fait l'objet
-d'un agrément ministériel ou ayant reçu le label délivré par la " Fondation du patrimoine ”, mentionnés au premier alinéa du
-3° du I de l'article 156, et aux logements financés au moyen d'un prêt mentionné à l'article R. 331-1 du code de la
-construction et de l'habitation. 
+Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le
+label délivré par la " Fondation du patrimoine ”, mentionnés au premier alinéa du 3° du I de l'article 156, et aux logements
+financés au moyen d'un prêt mentionné à l'article R. 331-1 du code de la construction et de l'habitation. 
 
 E. ― Un contribuable ne peut, pour un même logement, bénéficier à la fois du m du 1° du I de l'article 31, de l'une des
 réductions d'impôt prévues aux articles 199 undecies A, 199 undecies C et 199 tervicies et de la réduction d'impôt prévue au
@@ -185,11 +184,11 @@ compter de l'entrée en vigueur de ce décret ;
 
 **Nota:**
 
-LOI n° 2012-1509 du 29 décembre 2012 de finances pour 2013 article 80 III : La réduction d'impôt prévue à l'article 199
-novovicies du code général des impôts fait l'objet d'une évaluation préalablement au dépôt du projet de loi de finances pour
-2015 qui détermine les conditions de son évolution. Cette évaluation rend compte du coût de la réduction d'impôt, de son
-impact sur le nombre de logements neufs construits et des caractéristiques des locataires des logements au titre desquels
-l'avantage fiscal a été obtenu.
+Conformément à l'article 26 XI 3 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
+l'article 199 novovicies, dans leur rédaction issue de la présente loi, s'appliquent à compter de l'imposition des revenus de
+l'année 2014. Toutefois, pour les immeubles ayant fait l'objet d'un agrément ministériel avant le 1er janvier 2014, l'article
+199 novovicies continue de s'appliquer, dans sa rédaction antérieure à l'entrée en vigueur du présent 3, jusqu'au terme de
+chaque agrément.
 
 **Liens relatifs à cet article**
 
@@ -251,4 +250,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
