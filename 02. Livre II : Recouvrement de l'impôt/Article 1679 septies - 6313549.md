@@ -25,8 +25,8 @@ l'article 1586 nonies, les entreprises sont autorisées à limiter le paiement d
 ajoutée des entreprises dans la proportion entre :
 
 - d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au
-titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I et des articles 1465 à 1466
-F ;
+titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I, de l'article 1464 L et des
+articles 1465 à 1466 F ;
 
 - et, d'autre part, le montant visé au septième alinéa majoré du montant total des cotisations foncières des entreprises dû
 au titre de l'année précédente. 
@@ -39,12 +39,17 @@ dernière est accompagnée, le cas échéant, du versement du solde correspondan
 que les acomptes versés sont supérieurs à la cotisation effectivement due, l'excédent, déduction faite des autres impôts
 directs dus par le redevable, est restitué dans les soixante jours suivant le deuxième jour ouvré suivant le 1er mai.
 
+**Nota:**
+
+Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 25 III : Ces dispositions s'appliquent à
+compter des impositions établies au titre de 2015.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 25 (V)
 
 _Cité par_:
 
@@ -56,8 +61,13 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I-0 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 terdecies (V)
 
+**Liens**:
+
+  - RECTIFICATION: Loi n°2013-1279 du 29 décembre 2013 - art., v. init.
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1459 (V)
+  - Code général des impôts, CGI. - art. 1459
   - Code général des impôts, CGI. - art. 1464 (V)
-  - Code général des impôts, CGI. - art. 1465 (V)
+  - Code général des impôts, CGI. - art. 1464 L (V)
+  - Code général des impôts, CGI. - art. 1465
