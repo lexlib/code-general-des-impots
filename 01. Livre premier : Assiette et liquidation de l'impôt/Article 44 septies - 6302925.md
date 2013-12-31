@@ -66,7 +66,7 @@ prévues au 1, en retenant les coûts éligibles définis au 2 des seuls emplois
 Lorsque l'activité est implantée dans des zones éligibles dont les taux d'intensité d'aide diffèrent, le bénéfice exonéré ne
 peut excéder la somme des limites calculées pour chacune des zones éligibles. 
 
-5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2013 dans les
+5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2014 dans les
 zones d'aide à finalité régionale. 
 
 Le bénéfice de cette exonération est subordonné au respect du règlement (CE) n° 1628/2006 de la Commission du 24 octobre 2006
@@ -175,7 +175,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
 
 _Cité par_:
 

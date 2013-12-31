@@ -21,8 +21,8 @@ d) Aux transformateurs électriques, prévue à l'article 1519 G ;
 e) Aux stations radioélectriques, prévue à l'article 1519 H ; 
 
 f) Aux installations de gaz naturel liquéfié, aux stockages souterrains de gaz naturel, aux canalisations de transport de gaz
-naturel, aux stations de compression du réseau de transport de gaz naturel et aux canalisations de transport d'autres
-hydrocarbures prévue à l'article 1519 HA ; 
+naturel, aux stations de compression du réseau de transport de gaz naturel, aux canalisations de transport d'autres
+hydrocarbures et aux canalisations de transport de produits chimiques  prévue à l'article 1519 HA ; 
 
 2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non bâties, prévue à l'article 1519 I. 
 
@@ -475,4 +475,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 87
