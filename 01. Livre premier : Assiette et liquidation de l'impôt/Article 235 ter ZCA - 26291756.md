@@ -23,7 +23,8 @@ contrôlent conjointement, directement ou indirectement, à plus de 95 % ;
 
 3° Aux montants distribués par les sociétés ayant opté pour le régime prévu à l'article 208 C à des sociétés ayant opté pour
 le même régime et détenant la société distributrice dans les conditions prévues au premier alinéa du II ou au III bis de ce
-même article ; 
+même article ainsi qu'aux montants distribués par ces sociétés pour satisfaire à leurs obligations de distribution
+mentionnées aux deuxième à quatrième alinéas du II dudit article ; 
 
 4° Aux distributions payées en actions en application de l'article L. 232-18 du code de commerce ou en certificats
 coopératifs d'investissement ou d'associés en application de l'article 19 vicies de la loi n° 47-1775 du 10 septembre 1947
@@ -66,10 +67,10 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 septies
   - Code monétaire et financier - art. L511-31
 
-_Modifié par_:
-
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
-
 _Cité par_:
 
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 7 (M)
+
+_Modifié par_:
+
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 33 (V)
