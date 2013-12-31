@@ -1,6 +1,6 @@
 # Article 1586 octies
 
-I.-1. La cotisation sur la valeur ajoutée des entreprises est due par le redevable qui exerce l'activité au 1er janvier de
+I. - 1. La cotisation sur la valeur ajoutée des entreprises est due par le redevable qui exerce l'activité au 1er janvier de
 l'année d'imposition. 
 
 2. Toutefois, en cas d'apport, de cession d'activité, de scission d'entreprise ou de transmission universelle du patrimoine
@@ -8,7 +8,7 @@ mentionnée à l'article 1844-5 du code civil, la cotisation sur la valeur ajout
 redevable qui n'exerce aucune activité imposable au 1er janvier de l'année et auquel l'activité est transmise lorsque
 l'opération intervient au cours de l'année d'imposition. 
 
-II.-1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année
+II. - 1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année
 suivant celle au titre de laquelle la cotisation sur la valeur ajoutée des entreprises est due, d'une déclaration par les
 entreprises mentionnées au I de l'article 1586 ter auprès du service des impôts dont relève leur principal établissement. 
 
@@ -34,8 +34,8 @@ l'article 1679 septies doivent être souscrites dans un délai de soixante jours
 selon le cas, aux 1 ou 4 de l'article 201 ou au 1 de l'article 202 soit au jour du jugement d'ouverture de la procédure
 collective. 
 
-III.-La valeur ajoutée est imposée dans la commune où le contribuable la produisant dispose de locaux ou emploie des salariés
-exerçant leur activité plus de trois mois. 
+III. - La valeur ajoutée est imposée dans la commune où le contribuable la produisant dispose de locaux ou emploie des
+salariés exerçant leur activité plus de trois mois. 
 
 Lorsqu'un contribuable dispose de locaux ou emploie des salariés exerçant leur activité plus de trois mois dans plusieurs
 communes, la valeur ajoutée qu'il produit est imposée dans chacune de ces communes et répartie entre elles au prorata, pour
@@ -46,7 +46,7 @@ Pour l'application du deuxième alinéa, l'effectif employé dans un établissem
 immobilisations industrielles évaluées dans les conditions prévues aux articles 1499 et 1501 représentent plus de 20 % de la
 valeur locative des immobilisations imposables à la cotisation foncière des entreprises et la valeur locative des
 immobilisations industrielles évaluées dans les conditions prévues aux mêmes articles 1499 et 1501 sont pondérés par un
-coefficient de 2. 
+coefficient de 5. 
 
 Toutefois, lorsqu'un contribuable dispose, dans plus de dix communes, d'établissements comprenant des installations de
 production d'électricité mentionnées à l'article 1519 E ou des installations de production d'électricité d'origine
@@ -72,7 +72,7 @@ Lorsque la déclaration par établissement mentionnée au II fait défaut, la va
 les communes à partir des éléments mentionnés dans la déclaration de l'année précédente. A défaut, la valeur ajoutée du
 contribuable est répartie entre les communes où le contribuable dispose d'immobilisations imposables à la cotisation foncière
 des entreprises au prorata de leur valeur locative. Dans ce second cas, la valeur locative des immobilisations industrielles
-évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 2.
+évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 5.
 
 Pour les contribuables qui n'emploient aucun salarié en France et ne disposent d'aucun établissement en France mais qui y
 exercent une activité de location d'immeubles ou de vente d'immeubles : 
@@ -88,11 +88,18 @@ déposées au lieu de dépôt de la déclaration de résultat.
 Pour l'application du présent III, la valeur locative des immobilisations imposables à la cotisation foncière des entreprises
 s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier alinéa de l'article 1467.
 
+**Nota:**
+
+Conformément à l'article 79 I de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de l'article
+1586 octies, dans leur rédaction issue de la présente loi, s'appliquent à la cotisation sur la valeur ajoutée des
+entreprises :
+
+1° Versée par l'Etat aux collectivités territoriales et établissements publics de coopération intercommunale à fiscalité
+propre à compter du 1er janvier 2014 ;
+
+2° Due par les redevables au titre de 2014 et des années suivantes.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
 
 _Cité par_:
 
@@ -136,8 +143,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 79
 
 _Cite_:
 
