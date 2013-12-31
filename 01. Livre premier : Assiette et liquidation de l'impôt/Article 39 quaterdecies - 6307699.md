@@ -48,18 +48,20 @@ L'engagement mentionné au premier alinéa doit être annexé à la déclaration
 Les dispositions du premier alinéa ne sont pas applicables aux plus-values soumises aux dispositions de l'article 223 F. 
 
 1 quinquies Le profit constaté à l'occasion du rachat par son débiteur d'une créance liée à une dette à moyen et long termes
-auprès d'un établissement de crédit pour un prix inférieur à son montant nominal peut être réparti, pour sa partie
-correspondant à la différence entre l'actualisation de la somme du capital et des intérêts restant dus à la date du rachat,
-actualisés à un taux égal au taux à échéance constante dont la maturité est la plus proche de la durée restant à courir de la
-date de rachat jusqu'à la date de chaque échéance, et le prix de rachat de la créance, par fractions égales, sur les cinq
-exercices suivant le rachat. La fraction du profit prise en compte dans le résultat imposable est majorée d'un montant égal
-au produit de cette fraction par une fois et demie le taux de l'intérêt de retard prévu à l'article 1727.
+auprès d'un établissement de crédit ou d'une société de financement pour un prix inférieur à son montant nominal peut être
+réparti, pour sa partie correspondant à la différence entre l'actualisation de la somme du capital et des intérêts restant
+dus à la date du rachat, actualisés à un taux égal au taux à échéance constante dont la maturité est la plus proche de la
+durée restant à courir de la date de rachat jusqu'à la date de chaque échéance, et le prix de rachat de la créance, par
+fractions égales, sur les cinq exercices suivant le rachat. La fraction du profit prise en compte dans le résultat imposable
+est majorée d'un montant égal au produit de cette fraction par une fois et demie le taux de l'intérêt de retard prévu à
+l'article 1727.
 
-Le premier alinéa ne s'applique ni aux établissements de crédit, ni aux rachats dont le débiteur et le créancier ont la
-qualité d'entreprises liées au sens du 12 de l'article 39. Toutefois, dans ce dernier cas, lorsque la créance a été acquise
-par le créancier auprès d'une personne à laquelle elle n'est pas liée au sens du 12 de l'article 39, le premier alinéa reste
-applicable, dans les mêmes conditions, à concurrence de la fraction du profit constaté par le débiteur qui n'excède pas la
-différence entre la valeur actualisée de la créance et son prix d'acquisition par le créancier. 
+Le premier alinéa ne s'applique ni aux établissements de crédit, ni aux sociétés de financement, ni aux rachats dont le
+débiteur et le créancier ont la qualité d'entreprises liées au sens du 12 de l'article 39. Toutefois, dans ce dernier cas,
+lorsque la créance a été acquise par le créancier auprès d'une personne à laquelle elle n'est pas liée au sens du 12 de
+l'article 39, le premier alinéa reste applicable, dans les mêmes conditions, à concurrence de la fraction du profit constaté
+par le débiteur qui n'excède pas la différence entre la valeur actualisée de la créance et son prix d'acquisition par le
+créancier. 
 
 Les présentes dispositions sont applicables à la double condition que le capital social de la société à la clôture de
 l'exercice au cours duquel intervient le rachat soit supérieur à celui à l'ouverture du même exercice et que le rapport entre
@@ -91,16 +93,11 @@ d'inscription en comptabilité desdits titres et leur valeur réelle à la date 
 3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet
 exercice.
 
-**Nota:**
-
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 18 II : Ces dispositions s'appliquent aux cessions
-de titres reçus en contrepartie d'apports réalisés à compter du 19 juillet 2012
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-958 du 16 août 2012 - art. 18 (V)
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
 
 _Cite_:
 

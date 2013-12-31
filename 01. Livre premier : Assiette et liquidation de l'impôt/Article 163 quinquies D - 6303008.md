@@ -1,7 +1,9 @@
 # Article 163 quinquies D
 
-Les plans d'épargne en actions sont ouverts et fonctionnent conformément aux dispositions des articles L. 221-30, L. 221-31
-et L. 221-32 du code monétaire et financier.
+I. – Le plan d'épargne en actions est ouvert et fonctionne conformément aux articles L. 221-30, L. 221-31 et L. 221-32 du
+code monétaire et financier et le plan d'épargne en actions destiné au financement des petites et moyennes entreprises et des
+entreprises de taille intermédiaire est ouvert et fonctionne conformément aux articles L. 221-32-1, L. 221-32-2 et L.
+221-32-3 du même code.
 
 II. disjoint
 
@@ -13,11 +15,11 @@ IV. abrogé
 
 _Codifié par_:
 
-  - Décret n°2006-356 2006-03-24
+  - Décret n°2006-356 du 24 mars 2006
 
 _Modifié par_:
 
-  - Décret n°2006-356 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 70
 
 _Cité par_:
 
@@ -39,10 +41,5 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L221-30 (V)
-  - Code monétaire et financier - art. L221-31 (M)
-  - Code monétaire et financier - art. L221-32 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - Code monétaire et financier - art. L221-30
+  - Code monétaire et financier - art. L221-32-1

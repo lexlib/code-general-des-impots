@@ -31,7 +31,7 @@ est calculée sur base sociale ou sous-consolidée pour les personnes n'apparten
 consolidée. Dans ce dernier cas, l'assiette sur base consolidée de l'entreprise mère est diminuée des montants pris en compte
 au titre de l'imposition d'une personne sur base sociale ou sous-consolidée. 
 
-III. ― Le taux de la taxe de risque systémique est fixé à 0,50 %. 
+III. ― Le taux de la taxe de risque systémique est fixé à 0,539 %. 
 
 IV. ― La taxe de risque systémique est exigible le 30 avril.
 
@@ -100,7 +100,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 35
 
 _Cite_:
 
