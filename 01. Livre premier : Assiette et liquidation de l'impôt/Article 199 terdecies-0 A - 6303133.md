@@ -137,9 +137,6 @@ si le donataire reprend l'obligation de conservation des titres transmis prévue
 du remboursement des apports avant le terme mentionné à la dernière phrase du même alinéa. A défaut, la reprise de la
 réduction d'impôt sur le revenu obtenue est effectuée au nom du donateur. 
 
-Lorsque le contribuable opte pour l'exonération mentionnée au 7 du III de l'article 150-0 A, une reprise des réductions
-d'impôt obtenues pour cette même souscription est pratiquée au titre de l'année de l'option. 
-
 V. Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 contribuables et aux sociétés. 
 
@@ -158,12 +155,10 @@ souscription des parts du fonds ou l'apport des titres ;
 
 c. Par dérogation aux dispositions du dernier alinéa du I de l'article L. 214-30 du code monétaire et financier, si le fonds
 n'a pas pour objet d'investir plus de 50 % de son actif au capital de jeunes entreprises innovantes définies à l'article 44
-sexies-0 A, le quota d'investissement de 60 % prévu à ce même I doit être atteint à hauteur de 50 % au moins au plus tard
-douze mois à compter de la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle
-ne peut excéder huit mois à compter de la date de constitution du fonds, sauf pour les fonds mentionnés au VI ter A du
-présent article pour lesquels la période de souscription est allongée de huit à douze mois, ou huit mois après la
-promulgation de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier
-jour du douzième mois suivant. 
+sexies-0 A, le quota d'investissement de 70 % prévu à ce même I doit être atteint à hauteur de 50 % au moins au plus tard
+quinze  mois à compter de la date de clôture de la période de souscription fixée dans le prospectus complet du fonds,
+laquelle ne peut excéder quatorze mois à compter de la date de constitution du fonds et à hauteur de 100 % au plus tard le
+dernier jour du quinzième mois suivant.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux effectués jusqu'au 31 décembre 2016. Ils
 sont retenus, après imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 € pour les contribuables
@@ -194,7 +189,7 @@ différents sur l'actif net ou sur les produits du fonds, attribuées en fonctio
 
 VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu
 égale à 38 % des versements effectués au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité,
-mentionnés à l'article L. 214-31 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs
+mentionnés à l'article L. 214-31 du code monétaire et financier, dont l'actif est constitué pour 70 % au moins de valeurs
 mobilières, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs
 activités exclusivement dans des établissements situés en Corse. 
 
@@ -211,7 +206,7 @@ VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables d
 Martinique, à La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, Polynésie
 française et dans les îles Wallis et Futuna peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 42 % des
 souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-31 du code
-monétaire et financier , dont l'actif est constitué pour 60 % au moins de titres financiers, parts de société à
+monétaire et financier , dont l'actif est constitué pour 70 % au moins de titres financiers, parts de société à
 responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans
 des établissements situés dans les départements d'outre-mer, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en
 Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour l'application
@@ -262,10 +257,9 @@ c) La société n'est pas qualifiable d'entreprise en difficulté au sens des li
 aides d'Etat au sauvetage et à la restructuration d'entreprises en difficulté (2004/ C 244/02) et ne relève pas des secteurs
 de la construction navale, de l'industrie houillère ou de la sidérurgie ; 
 
-d) Les versements au titre de souscriptions mentionnés au 1° du I n'excèdent pas, par entreprise cible, un montant fixé par
-décret et qui ne peut dépasser le plafond autorisé par la Commission européenne s'agissant des aides d'Etat visant à
-promouvoir les investissements en capital-investissement dans les petites et moyennes entreprises ou les entreprises
-innovantes. 
+d) Les versements au titre de souscriptions mentionnés au 1° du I n'excèdent pas, par entreprise cible, le plafond autorisé
+par la Commission européenne s'agissant des aides d'Etat visant à promouvoir les investissements en capital-investissement
+dans les petites et moyennes entreprises ou les entreprises innovantes. 
 
 (2) Par dérogation au premier alinéa du présent d, cette condition n'est pas applicable pour les versements au titre de
 souscriptions effectuées au capital des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail qui
@@ -288,6 +282,12 @@ Le bénéfice de la dérogation mentionnée au deuxième alinéa du présent d e
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux
 porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
+
+**Nota:**
+
+Conformément à l'article 18 III A de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
+dispositions de l'article 199 terdecies-0 A, dans leur rédaction issue de la présente loi, s'appliquent aux souscriptions
+effectuées dans des fonds constitués à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -321,11 +321,14 @@ _Cité par_:
   - Code monétaire et financier - art. D214-80-4 (V)
   - Code monétaire et financier - art. L221-32-5 (M)
 
+_Modifié par_:
+
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 18 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 17
+
 _Cite_:
 
-  - Loi n°2009-1673 du 30 décembre 2009
   - Code général des impôts, CGI.
-  - Code général des impôts, CGI. - art. 150-0 A
   - Code général des impôts, CGI. - art. 197
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 200-0 A
@@ -337,8 +340,3 @@ _Cite_:
   - Code du travail - art. L3332-17-1
   - Code de la sécurité sociale. - art. L341-4
   - Code de la construction et de l'habitation. - art. L365-1
-
-_Modifié par_:
-
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
-  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3
