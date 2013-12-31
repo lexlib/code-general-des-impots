@@ -68,8 +68,9 @@ Les dispositions du premier alinéa ne sont plus applicables aux investissements
 d'agrément déposée avant le 1er janvier 2004. 
 
 V. Le bénéfice des dispositions du présent article peut également être accordé sur agrément du ministre chargé du budget dans
-les conditions et limites prévues par cet agrément, aux établissements de crédit et aux entreprises mentionnées au V de
-l'article 39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises. 
+les conditions et limites prévues par cet agrément, aux établissements de crédit, aux sociétés de financement et aux
+entreprises mentionnées au V de l'article 39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux
+groupements d'entreprises. 
 
 VI. Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1992,
 sous réserve des dispositions du cinquième alinéa du I quater et du deuxième alinéa du II bis de l'article 39 octies A et du
@@ -79,7 +80,7 @@ quatrième alinéa du IV du présent article.
 
 _Modifié par_:
 
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 1 () JORF 27 mars 2004
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
 
 _Cité par_:
 
@@ -92,13 +93,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 201 (V)
-  - Code général des impôts, CGI. - art. 221 (V)
-  - Code général des impôts, CGI. - art. 223 A (VD)
-  - Code général des impôts, CGI. - art. 34 (V)
-  - Code général des impôts, CGI. - art. 39 octies A (V)
-  - Code général des impôts, CGI. - art. 92 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
+  - Code général des impôts, CGI. - art. 201
+  - Code général des impôts, CGI. - art. 221
+  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 34
+  - Code général des impôts, CGI. - art. 39 octies A
+  - Code général des impôts, CGI. - art. 92
