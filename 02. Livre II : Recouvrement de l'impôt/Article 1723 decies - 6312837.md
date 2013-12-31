@@ -13,7 +13,8 @@ constructions.
 
 Sont tenus solidairement au versement prévu à l'article L. 112-2 du code de l'urbanisme : 
 
-a. Les établissements de crédit ou sociétés de caution mutuelle qui sont garants de l'achèvement de la construction ; 
+a. Les établissements de crédit, sociétés de financement ou sociétés de caution mutuelle qui sont garants de l'achèvement de
+la construction ; 
 
 b. Les titulaires successifs de l'autorisation de construire ainsi que leurs ayants cause autres que les personnes qui ont
 acquis les droits sur l'immeuble à construire en vertu d'un contrat régi par les articles L. 261-9 à L. 261-22 du code de la
@@ -24,13 +25,13 @@ construction et de l'habitation.
 _Cite_:
 
   - Loi n°89-935 du 29 décembre 1989 de finances pour 1990 - art. 118
-  - Code général des impôts, CGI. - art. 1727 (V)
-  - Code général des impôts, CGI. - art. 1731 (V)
-  - Code général des impôts, CGI. - art. 1929 (V)
-  - Code de l'urbanisme - art. L112-2 (V)
-  - Code de l'urbanisme - art. L333-11 (Ab)
-  - Code de la construction et de l'habitation. - art. L261-9 (V)
+  - Code général des impôts, CGI. - art. 1727
+  - Code général des impôts, CGI. - art. 1731
+  - Code général des impôts, CGI. - art. 1929
+  - Code de l'urbanisme - art. L112-2
+  - Code de l'urbanisme - art. L333-11
+  - Code de la construction et de l'habitation. - art. L261-9
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 67
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
