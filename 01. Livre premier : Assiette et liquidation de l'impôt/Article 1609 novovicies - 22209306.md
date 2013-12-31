@@ -9,7 +9,8 @@ Le produit de ce prélèvement est affecté au Centre national pour le développ
 I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. 
 
 Un prélèvement complémentaire de 0,3 % est effectué de 2011 à 2015 sur les sommes mentionnées au premier alinéa. Ce
-prélèvement complémentaire est plafonné à 24 millions d'euros par an. Son produit est affecté au Centre national pour le
+prélèvement complémentaire est plafonné à 24 millions d'euros par an. Son produit est affecté, dans la limite du plafond
+prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au Centre national pour le
 développement du sport en vue du financement des projets de construction ou de rénovation des enceintes sportives destinées à
 accueillir la compétition sportive dénommée " UEFA Euro 2016 " ainsi que des équipements connexes permettant le
 fonctionnement de celles-ci.
@@ -18,12 +19,13 @@ fonctionnement de celles-ci.
 
 _Cite_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
   - Loi du 31 mai 1933 - art. 136
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 47
 
 _Cité par_:
 

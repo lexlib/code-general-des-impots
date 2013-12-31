@@ -20,19 +20,14 @@ versement déterminé d'après les intérêts des mêmes placements soumis au pr
 l'année précédente et retenus à hauteur de 90 % de leur montant. 
 
 Ce versement est égal au produit de l'assiette de référence ainsi déterminée par le taux du prélèvement prévu au 1° du III
-bis de l'article 125 A pour les intérêts des plans d'épargne-logement. Son paiement doit intervenir au plus tard le 25
-novembre. 
+bis de l'article 125 A pour les intérêts des plans d'épargne-logement. Son paiement doit intervenir au plus tard le 15
+octobre. 
 
 2. Lors du dépôt de la déclaration en janvier, l'établissement payeur procède à la liquidation du prélèvement. 
 
 Lorsque le versement effectué en application du 1 est supérieur au prélèvement réellement dû, le surplus est imputé sur le
 prélèvement dû à raison des autres produits de placement et, le cas échéant, sur les autres prélèvements ; l'excédent
 éventuel est restitué.
-
-**Nota:**
-
-Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 9 VI : Ces dispositions s'appliquent aux revenus perçus à
-compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -42,11 +37,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 9 (VD)
+  - Loi n°2013-1203 du 23 décembre 2013 - art. 8 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 119 bis (V)
-  - Code général des impôts, CGI. - art. 125 A (V)
-  - Code général des impôts, CGI. - art. 125 D (V)
-  - Code général des impôts, CGI. - art. 125-0 A (V)
+  - Code général des impôts, CGI. - art. 119 bis
+  - Code général des impôts, CGI. - art. 125 A
+  - Code général des impôts, CGI. - art. 125 D
+  - Code général des impôts, CGI. - art. 125-0 A
