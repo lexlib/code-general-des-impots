@@ -7,8 +7,8 @@ montant. Cette créance est utilisée pour le paiement de l'impôt sur le revenu
 titre de laquelle elle est constatée puis, s'il y a lieu, la fraction non utilisée est remboursée à l'expiration de cette
 période. 
 
-La créance est inaliénable et incessible, sauf dans les cas et conditions prévus par les articles L. 313-23 à L. 313-35 du
-code monétaire et financier. 
+La créance est inaliénable et incessible, sauf dans les cas et conditions prévus par les articles L. 214-169 à L. 214-190 et
+L. 313-23 à L. 313-35 du code monétaire et financier. 
 
 En cas de fusion ou d'opération assimilée intervenant au cours de la période mentionnée à la dernière phrase du premier
 alinéa, la fraction de la créance qui n'a pas encore été imputée par la société apporteuse est transférée à la société
@@ -77,10 +77,10 @@ _Cite_:
   - Code général des impôts, CGI. - art. 151 nonies
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 44 sexies-0 A
+  - Code monétaire et financier - art. L214-169 (V)
   - Code monétaire et financier - art. L214-37
-  - Code monétaire et financier - art. L313-23
-  - annexe I au règlement (CE) n°800/2008
+  - Code monétaire et financier - art. L313-23 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 35

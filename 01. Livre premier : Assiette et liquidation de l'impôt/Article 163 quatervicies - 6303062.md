@@ -44,14 +44,14 @@ d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée a
 
 c) Lorsque le montant des cotisations ou primes mentionnées au 1 excède la limite définie au a, l'excédent qui correspond à
 des rachats de cotisations ou de primes mentionnés au c du 1 effectués par les personnes affiliées à ces régimes au 31
-décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2013, dans la limite
+décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2014, dans la limite
 de : 
 
 1° six années de cotisations au titre de chacune des années 2005 et 2006 ; 
 
 2° quatre années de cotisations au titre de chacune des années 2007 à 2009 incluse ; 
 
-3° deux années de cotisations au titre de chacune des années 2010 à 2013 incluse. 
+3° deux années de cotisations au titre de chacune des années 2010 à 2014 incluse. 
 
 Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la qualité de fonctionnaire ou d'agent public,
 en activité, affiliées après le 31 décembre 2004. 
@@ -77,16 +77,11 @@ alinéa. Sont également retenus les revenus imposés dans les conditions prévu
 selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter.
 Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
 
-**Nota:**
-
-Loi n° 2010-1658 du 29 décembre 2010 article 60 II 2 : (1) Les présentes dispositions s'appliquent à compter de l'imposition
-des revenus de 2010.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 17
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 26
 
 _Cité par_:
 

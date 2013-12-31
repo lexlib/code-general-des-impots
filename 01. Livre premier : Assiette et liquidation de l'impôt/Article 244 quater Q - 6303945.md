@@ -103,7 +103,7 @@ redevables soumis à l'impôt sur les sociétés ou de personnes physiques parti
 l'article 156.
 
 V.-Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la délivrance du titre de maître-restaurateur entre le
-15 novembre 2006 et le 31 décembre 2013. 
+15 novembre 2006 et le 31 décembre 2014. 
 
 VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants
 et le cahier des charges est établi sont définies par décret en Conseil d'Etat. 
@@ -115,7 +115,7 @@ entreprises.
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 87
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 25 (V)
 
 _Cité par_:
 
