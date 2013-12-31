@@ -15,14 +15,83 @@ III. ― Le montant de l'imposition est établi de la manière suivante :
 
 a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l'imposition de chaque répartiteur principal
 est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition
-par ligne en service est de 2,53 € ; 
+par ligne en service est établi selon le barème suivant : 
+
+(En euros) 
+
+<table border="1">
+    <tbody>
+      <tr>
+        <th>
+
+NATURE DE L'ÉQUIPEMENT
+
+</th>
+        <th>
+
+TARIF 
+
+2014
+
+</th>
+        <th>
+
+TARIF 
+
+2015
+
+</th>
+        <th>
+
+TARIF 
+
+2016
+
+</th>
+        <th>
+
+TARIF 
+
+à compter de 2017
+
+</th>
+      </tr>
+      <tr>
+        <td align="center">
+
+Ligne en service d'un répartiteur principal
+
+</td>
+        <td align="center">
+
+5,06
+
+</td>
+        <td align="center">
+
+7,59
+
+</td>
+        <td align="center">
+
+10,12
+
+</td>
+        <td align="center">
+
+12,65
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du réseau téléphonique commuté, le montant de
 l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant : 
 
-(en euros) 
+(En euros) 
 
-<table border="1" align="center" width="680">
+<table align="center" border="1" width="680">
   <tbody>
     <tr>
       <td>
@@ -32,9 +101,11 @@ NATURE DE L'ÉQUIPEMENT
 </td>
       <td>
 
-TARIF 
+TARIF 2014
 
 </td>
+      <td align="center">TARIF 2015 </td>
+      <td align="center">TARIF 2016</td>
     </tr>
     <tr>
       <td align="center">
@@ -44,7 +115,11 @@ Unité de raccordement d'abonnés
 </td>
       <td align="center">
 
-6 692 
+5 019
+
+</td>
+      <td align="center">3 346 </td>
+      <td align="center">1 673
 
 </td>
     </tr>
@@ -56,7 +131,15 @@ Carte d'abonné
 </td>
       <td align="center">
 
-73 </td>
+54,75
+
+</td>
+      <td align="center">36,5
+
+</td>
+      <td align="center">18,25
+
+</td>
     </tr>
   </tbody>
 </table>
@@ -71,16 +154,7 @@ b) Le nombre d'unités de raccordement d'abonnés et de cartes d'abonnés au 1er
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation
 foncière des entreprises.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010 et de l'article 37-VI
-B (4°) b de la loi n° 2012-1510 du 29 décembre 2012.
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
 
 _Cité par_:
 
@@ -94,7 +168,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 71 (V)
 
 _Cite_:
 

@@ -1,9 +1,17 @@
 # Article 244 quater G
 
 I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
-octies, 44 decies, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt égal au produit du montant de 1 600 €
-par le nombre moyen annuel d'apprentis dont le contrat est régi par les dispositions des articles L. 6221-1 à L. 6225-8 du
-code du travail. Ce montant est porté à 2 200 € dans les cas suivants : 
+octies, 44 decies ou 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre de la première année du
+cycle de formation d'un apprenti dont le contrat a été conclu dans les conditions prévues au titre II du livre II de la
+sixième partie du code du travail. 
+
+Ce crédit d'impôt est égal au produit du montant de 1 600 € par le nombre moyen annuel d'apprentis n'ayant pas achevé la
+première année de leur cycle de formation dans l'entreprise et qui préparent un diplôme ou un titre à finalité
+professionnelle équivalent au plus à un brevet de technicien supérieur ou un diplôme des instituts universitaires de
+technologie, enregistré au répertoire national des certifications professionnelles mentionné à l'article L. 335-6 du code de
+l'éducation. 
+
+Ce montant est porté à 2 200 € dans les cas suivants, quel que soit le diplôme préparé : 
 
 1° lorsque la qualité de travailleur handicapé est reconnue à l'apprenti en application des articles L. 5213-1 et L. 5213-2
 du code du travail ; 
@@ -34,6 +42,22 @@ participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 IV. - (Abrogé).
 
+**Nota:**
+
+Loi n° 2013-1278 du 29 décembre 2013, article 36 (III) : Ces dispositions s'appliquent à titre transitoire et par dérogation
+au I de l'article 36 pour les crédits d'impôt calculés en 2013, les entreprises mentionnées au I de l'article 244 quater G du
+code général des impôts peuvent bénéficier : 
+
+1° Pour les apprentis préparant un diplôme ou un titre à finalité professionnelle équivalent au plus à un brevet de
+technicien supérieur ou un diplôme des instituts universitaires de technologie, enregistré au répertoire national des
+certifications professionnelles mentionné à l'article L. 335-6 du code de l'éducation, d'un crédit d'impôt égal à la somme
+entre, d'une part, le produit du montant de 1 600 € par le nombre moyen annuel d'apprentis en première année de leur cycle de
+formation et, d'autre part, le produit du montant de 800 € par le nombre moyen annuel d'apprentis en deuxième et troisième
+année de leur cycle de formation ; 
+
+2° Pour les apprentis préparant d'autres diplômes, d'un crédit d'impôt égal au produit de 800 € par le nombre moyen annuel
+d'apprentis, quelle que soit l'année de leur cycle de formation.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -44,10 +68,6 @@ _Cite_:
   - Code du service national - art. L130-1
   - Code du travail - art. L5131-7
   - Code du travail - art. L5213-1
-
-_Modifié par_:
-
-  - Loi n°2013-595 du 8 juillet 2013 - art. 56
 
 _Cité par_:
 
@@ -60,3 +80,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YL (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YN (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YO (P)
+
+_Modifié par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 36
