@@ -124,9 +124,10 @@ actions reçues en contrepartie de sa souscription au capital de sociétés vér
 prises en compte pour le bénéfice de la réduction d'impôt sur le revenu. Les mêmes dispositions s'appliquent en cas de
 remboursement des apports aux souscripteurs avant le 31 décembre de la dixième année suivant celle de la souscription, à
 l'exception des parts investies dans des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail et
-agréées en vertu du même article avant le 31 décembre 2012, ainsi que dans des établissements de crédit dont 80 % de
-l'ensemble des prêts et des investissements sont effectués en faveur d'entreprises solidaires mentionnées audit article, pour
-lesquelles le remboursement doit intervenir après le 31 décembre de la cinquième année suivant celle de la souscription. 
+agréées en vertu du même article avant le 31 décembre 2012, ainsi que dans des établissements de crédit ou des sociétés de
+financement dont 80 % de l'ensemble des prêts et des investissements sont effectués en faveur d'entreprises solidaires
+mentionnées audit article, pour lesquelles le remboursement doit intervenir après le 31 décembre de la cinquième année
+suivant celle de la souscription. 
 
 Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement, d'invalidité correspondant au classement dans
 la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du décès du
@@ -338,4 +339,5 @@ _Cite_:
 
 _Modifié par_:
 
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3

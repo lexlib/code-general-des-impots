@@ -64,16 +64,16 @@ ou de la partie d'immeuble à un établissement réunissant les conditions requi
 l'article 1466 F. 
 
 VII.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 B, 1383 C,
-1383 C bis, 1383 D, 1383 E bis, 1383 F ou 1383 I et de l'abattement prévu au présent article sont réunies, le contribuable
-peut opter pour l'un ou l'autre de ces régimes. Cette option est irrévocable et vaut pour l'ensemble des collectivités
-territoriales et des établissements publics de coopération intercommunale. 
+1383 C bis, 1383 D, 1383 E bis ou 1383 I et de l'abattement prévu au présent article sont réunies, le contribuable peut opter
+pour l'un ou l'autre de ces régimes. Cette option est irrévocable et vaut pour l'ensemble des collectivités territoriales et
+des établissements publics de coopération intercommunale. 
 
 L'option pour le présent régime doit être exercée avant le 1er janvier de l'année au titre de laquelle le présent régime
 prend effet. 
 
 Lorsqu'un contribuable bénéficie au 1er janvier 2009 de l'une des exonérations prévues aux articles 1383 A, 1383 B, 1383 C,
-1383 C bis, 1383 D, 1383 E bis, 1383 F ou 1383 I et réunit à cette date les conditions pour bénéficier de l'abattement prévu
-au présent article, le contribuable peut opter pour ce dernier régime au plus tard dans le délai de deux mois à compter de la
+1383 C bis, 1383 D, 1383 E bis ou 1383 I et réunit à cette date les conditions pour bénéficier de l'abattement prévu au
+présent article, le contribuable peut opter pour ce dernier régime au plus tard dans le délai de deux mois à compter de la
 promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer. A défaut d'option, le
 contribuable bénéficie, au terme de l'application de celui de ces régimes dont il bénéficie au 1er janvier 2009, de
 l'abattement prévu par le présent article, pour la période restant à courir et dans les conditions prévues au II ou au III
@@ -112,4 +112,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 16 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)

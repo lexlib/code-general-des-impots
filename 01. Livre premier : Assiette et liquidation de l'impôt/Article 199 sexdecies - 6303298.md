@@ -60,15 +60,18 @@ a) Les personnes autres que celles mentionnées au 4 ;
 
 b) Les personnes mentionnées au 4 qui ont supporté ces dépenses à la résidence d'un ascendant. 
 
-6. L'aide est accordée sur présentation des pièces justifiant du paiement des salaires et des cotisations sociales, de
-l'identité du bénéficiaire, de la nature et du montant des prestations réellement effectuées payées à l'association,
-l'entreprise ou l'organisme définis au 1.
+6. Les sommes mentionnées au 1 ouvrent droit au bénéfice de l'aide, sous réserve que le contribuable soit en mesure de
+présenter, à la demande de l'administration fiscale, les pièces justifiant du paiement des salaires et des cotisations
+sociales, de l'identité du bénéficiaire, de la nature et du montant des prestations réellement effectuées payées à
+l'association, l'entreprise ou l'organisme définis au 1.
+
+**Nota:**
+
+Conformément à l'article 17 III de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
+dispositions de l'article 199 sexdecies, dans leur rédaction issue de la présente loi, s'appliquent à compter de l'imposition
+des revenus de 2013.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 61
 
 _Cité par_:
 
@@ -94,6 +97,10 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AO bis (V)
 
+_Modifié par_:
+
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 17
+
 _Cite_:
 
   - Code général des impôts, CGI. - art. 196
@@ -101,7 +108,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 4 B
   - Code général des impôts, CGI. - art. 81
   - Code du travail - art. D7231-1
-  - Code du travail - art. L5411-1 (V)
+  - Code du travail - art. L5411-1
   - Code du travail - art. L7231-1
   - Code du travail - art. L7233-4
   - Code de la sécurité sociale. - art. L341-4

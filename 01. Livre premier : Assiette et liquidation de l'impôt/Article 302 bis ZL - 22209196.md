@@ -5,10 +5,11 @@ jeu ou de pari réalisée au moyen d'un compte joueur ouvert sur un site dédié
 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard
 en ligne. 
 
-Le produit des prélèvements mentionnés aux articles 302 bis ZG, 302 bis ZH et 302 bis ZI est déclaré et liquidé par les
-opérateurs de jeux ou de paris en ligne mentionnés au deuxième alinéa de ces mêmes articles sur une déclaration mensuelle
-dont le modèle est fixé par l'administration. Elle est déposée, accompagnée du paiement, dans les délais fixés en matière de
-taxe sur le chiffre d'affaires.
+Le produit des prélèvements mentionnés aux articles 302 bis ZG, 302 bis ZH, 302 bis ZI et 302 bis ZO est déclaré et liquidé
+par les opérateurs de jeux ou de paris en ligne mentionnés au deuxième alinéa de ces mêmes articles ou par le Pari mutuel
+urbain pour le prélèvement mentionné à l'article 302 bis ZO sur une déclaration mensuelle dont le modèle est fixé par
+l'administration. Elle est déposée, accompagnée du paiement, dans les délais fixés en matière de taxe sur le chiffre
+d'affaires.
 
 **Liens relatifs à cet article**
 
@@ -16,10 +17,11 @@ _Cite_:
 
   - Loi n°2010-476 du 12 mai 2010 - art. 24
   - Code général des impôts, CGI. - art. 302 bis ZG
+  - Code général des impôts, CGI. - art. 302 bis ZO (V)
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 1
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 22 (V)
 
 _Cité par_:
 
