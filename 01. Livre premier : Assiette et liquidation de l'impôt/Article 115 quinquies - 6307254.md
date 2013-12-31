@@ -19,28 +19,26 @@ siège en France, et qu'elle leur a transféré les sommes correspondant à la r
 
 3 Les dispositions du 1 ne s'appliquent pas lorsque la société étrangère remplit les conditions suivantes :
 
-a) Avoir son siège de direction effective dans un Etat membre de la Communauté européenne ;
+a) Avoir son siège de direction effective dans un Etat membre de l'Union européenne ;
 
-b) Y être passible de l'impôt sur les sociétés, sans possibilité d'option et sans en être exonérée (2).
+b) Y être passible de l'impôt sur les sociétés, sans possibilité d'option et sans en être exonérée et sans bénéficier d'une
+exonération spécifique sur les bénéfices mentionnés au 1.
 
 (1) Voir Annexe II, art. 380 à 382.
 
-(2) Ces dispositions sont applicables aux bénéfices réalisés au titre des exercices clos à compter du 31 décembre 1997.
+**Nota:**
+
+Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, article 33 (II-A) : Ces dispositions  s'appliquent
+aux exercices clos à compter du 31 décembre 2013.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi - art. 23 (V) JORF 30 décembre 1997
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 33 (V)
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1673 bis (VD)
   - Code général des impôts, CGI. - art. 235 ter ZCA (Ab)
   - Code général des impôts, annexe 2, CGIAN2. - art. 379 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1998-06-10 4J-1-98
-  - TXT_ASSOCIE: Instruction 2003-02-26 4H-1-03

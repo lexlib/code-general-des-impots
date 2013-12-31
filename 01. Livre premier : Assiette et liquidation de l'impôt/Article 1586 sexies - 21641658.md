@@ -59,7 +59,8 @@ les biens pris en location par le redevable sont donnés en sous-location pour u
 retenus à concurrence du produit de cette sous-location ;
 
 - les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les
-produits énergétiques ;
+produits énergétiques [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n°
+2009-599 DC du 29 décembre 2009] ;
 
 - les autres charges de gestion courante, autres que les quotes-parts de résultat sur opérations faites en commun ;
 
@@ -97,8 +98,8 @@ sous-location d'immeubles nus réputée exercée à titre professionnel au sens 
 calcul de la valeur ajoutée, qu'à raison de 10 % de leur montant en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en
 2014,60 % en 2015,70 % en 2016,80 % en 2017 et 90 % en 2018. 
 
-III.-Pour les établissements de crédit et, lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de résolution,
-les entreprises mentionnées à l'article L. 531-4 du code monétaire et financier : 
+III.-Pour les établissements de crédit et les sociétés de financement et, lorsqu'elles sont agréées par l'Autorité de
+contrôle prudentiel et de résolution, les entreprises mentionnées à l'article L. 531-4 du code monétaire et financier : 
 
 1. Le chiffre d'affaires comprend l'ensemble des produits d'exploitation bancaires et des produits divers d'exploitation
 autres que les produits suivants : 
@@ -174,8 +175,9 @@ prévus au I du même article.
 V.-Pour les sociétés et groupements créés pour la réalisation d'une opération unique de financement d'immobilisations
 corporelles : 
 
-a) Qui sont détenus à 95 % au moins par un établissement de crédit et qui réalisent l'opération pour le compte de
-l'établissement de crédit ou d'une société elle-même détenue à 95 % au moins par l'établissement de crédit ; 
+a) Qui sont détenus à 95 % au moins par un établissement de crédit ou une société de financement et qui réalisent l'opération
+pour le compte de l'établissement de crédit ou de la société de financement ou d'une société elle-même détenue à 95 % au
+moins par l'établissement de crédit ou la société de financement ; 
 
 b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies ou 217 duodecies : 
 
@@ -297,14 +299,20 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
 
+_Créé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 14 (V)
   - Code général des impôts, CGI. - art. 1447
   - Code général des impôts, CGI. - art. 217 undecies
   - Code général des impôts, CGI. - art. 29
+  - Code général des impôts, CGI. - art. 39 (V)
   - Code monétaire et financier - art. L211-1
   - Code monétaire et financier - art. L531-4
