@@ -3,7 +3,7 @@
 1. Sous réserve des 2, 3 et 4, lorsque leur montant excède 50 000 €, les impôts exigibles dans les conditions fixées à
 l'article 1663 sont acquittés, au choix du contribuable, par virement directement opéré sur le compte du Trésor ouvert dans
 les écritures de la Banque de France ou par prélèvements opérés à l'initiative de l'administration fiscale sur un compte visé
-aux trois premiers alinéas de l'article 1681 D. 
+à l'article 1681 D. 
 
 2. Lorsque leur montant excède 30 000 €, les acomptes mentionnés à l'article 1664, l'impôt sur le revenu, la taxe
 d'habitation et la contribution à l'audiovisuel public, les taxes foncières ainsi que les impositions recouvrées selon les
@@ -12,7 +12,7 @@ aux 1° ou 2° de l'article 1681 D.
 
 3. La cotisation foncière des entreprises, ses taxes additionnelles, l'imposition forfaitaire sur les entreprises de réseaux
 et sa contribution additionnelle, les frais mentionnés sur le rôle ainsi que leur acompte sont acquittés par prélèvements
-opérés à l'initiative du Trésor public sur un compte mentionné aux 1° ou 2° de l'article 1681 D.
+opérés à l'initiative du Trésor public sur un compte mentionné aux 1° ou 2° de l'article 1681 D. 
 
 4. Quel que soit leur montant, la cotisation foncière des entreprises et l'imposition forfaitaire sur les entreprises de
 réseaux, recouvrées par voie de rôles, ne peuvent pas être acquittées par virement. Cette interdiction s'applique également
@@ -23,14 +23,15 @@ la contribution additionnelle à l'imposition forfaitaire sur les entreprises de
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 43 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 19
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1663
-  - Code général des impôts, CGI. - art. 1664
-  - Code général des impôts, CGI. - art. 1679 quinquies
-  - Code général des impôts, CGI. - art. 1681 D
+  - Code général des impôts, CGI. - art. 1609 decies (V)
+  - Code général des impôts, CGI. - art. 1663 (V)
+  - Code général des impôts, CGI. - art. 1664 (V)
+  - Code général des impôts, CGI. - art. 1679 quinquies (V)
+  - Code général des impôts, CGI. - art. 1681 D (V)
 
 _Cité par_:
 
