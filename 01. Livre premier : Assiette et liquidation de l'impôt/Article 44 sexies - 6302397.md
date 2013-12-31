@@ -20,7 +20,7 @@ de ces zones :
 l'article 1465 A ou dans les zones de redynamisation urbaine définies au A du 3 de l'article 42 de la loi n° 95-115 du 4
 février 1995 d'orientation pour l'aménagement et le développement du territoire ; 
 
-2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2013, dans les zones d'aide à finalité régionale. 
+2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2014, dans les zones d'aide à finalité régionale. 
 
 Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition
 d'implantation est réputée satisfaite dès lors qu'elle réalise au plus 15 % de son chiffre d'affaires en dehors de ces zones.
@@ -83,12 +83,12 @@ minimis.
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
-  - Code général des impôts, CGI. - art. 1465 A (V)
+  - Loi n°95-115 du 4 février 1995 - art. 42
+  - Code général des impôts, CGI. - art. 1465 A
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 35
   - Code général des impôts, CGI. - art. 53 A
-  - Code général des impôts, CGI. - art. 92 (V)
+  - Code général des impôts, CGI. - art. 92
 
 _Cité par_:
 
@@ -152,5 +152,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)

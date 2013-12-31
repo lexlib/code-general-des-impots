@@ -19,28 +19,36 @@ c) Aux articles 150 UC à 150 VH et à l'article 244 bis A, pour les plus-values
 droits immobiliers mentionnées au 2° du II du même article L. 214-81 ; 
 
 d) A l'article 150-0 F, pour les plus-values de cession à titre onéreux d'actifs mentionnées au 3° du II du même article L.
-214-81. 
+214-81.
 
 2. Les porteurs de parts de fonds de placement immobilier mentionnés au 1 sont soumis à l'impôt sur le revenu à raison des
 revenus et profits distribués par le fonds, au titre de l'année au cours de laquelle cette distribution intervient. 
 
 3. Les dispositions prévues aux b ter et h du 1° du I de l'article 31, à l'article 31 bis, au premier alinéa du 3° du I de
-l'article 156 relatives aux immeubles classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait
-l'objet d'un agrément ministériel ou ayant reçu le label délivré par la Fondation du patrimoine, aux deuxième et troisième
-alinéas du 3° du I de l'article 156, aux articles 199 decies E à 199 decies H, à l'article 199 undecies A, à l'article 199
-tervicies et à l'article 199 septvicies ne sont pas applicables lorsque les immeubles, droits immobiliers ou parts sont
-détenus directement ou indirectement par des fonds de placement immobilier autres que ceux qui sont issus de la
-transformation des sociétés civiles mentionnées à l'article 239 septies et pour lesquelles l'application de ces dispositions
-a été demandée avant la date limite de dépôt des déclarations des revenus de l'année 2006. 
+l'article 156 relatives aux immeubles classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant reçu le
+label délivré par la Fondation du patrimoine, aux deuxième et troisième alinéas du 3° du I de l'article 156, aux articles 199
+decies E à 199 decies H, à l'article 199 undecies A, à l'article 199 tervicies et à l'article 199 septvicies ne sont pas
+applicables lorsque les immeubles, droits immobiliers ou parts sont détenus directement ou indirectement par des fonds de
+placement immobilier autres que ceux qui sont issus de la transformation des sociétés civiles mentionnées à l'article 239
+septies et pour lesquelles l'application de ces dispositions a été demandée avant la date limite de dépôt des déclarations
+des revenus de l'année 2006. 
 
 III.-Pour les autres porteurs de parts, les revenus et profits mentionnés au I de l'article L. 214-81 du code monétaire et
 financier sont imposés à la date de leurs distributions pour la fraction correspondant à leurs droits.
+
+**Nota:**
+
+Conformément à l'article 26 XI 3 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
+l'article 239 nonies, dans leur rédaction issue de la présente loi, s'appliquent à compter de l'imposition des revenus de
+l'année 2014. Toutefois, pour les immeubles ayant fait l'objet d'un agrément ministériel avant le 1er janvier 2014, l'article
+239 nonies continue de s'appliquer, dans sa rédaction antérieure à l'entrée en vigueur du présent 3, jusqu'au terme de chaque
+agrément.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
 
 _Cité par_:
 
@@ -67,4 +75,10 @@ _Cité par_:
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 156 (V)
+  - Code général des impôts, CGI. - art. 199 decies E (V)
+  - Code général des impôts, CGI. - art. 199 septvicies (V)
+  - Code général des impôts, CGI. - art. 199 tervicies (V)
+  - Code général des impôts, CGI. - art. 199 undecies A (VT)
+  - Code général des impôts, CGI. - art. 239 septies (V)
   - Code monétaire et financier - art. L214-81
