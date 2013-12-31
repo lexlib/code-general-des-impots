@@ -9,15 +9,15 @@ b) Des livraisons de produits agricoles faites à des personnes morales non assu
 intracommunautaires imposables dans l'Etat membre de la Communauté européenne d'arrivée de l'expédition ou du transport des
 produits agricoles ; 
 
-c) Des exportations de produits agricoles.
+c) Des exportations de produits agricoles. 
 
 I bis. Le taux du remboursement forfaitaire est fixé pour les ventes faites à compter du 1er janvier 2014 : 
 
-1° A 4,90 % pour le lait, les animaux de basse-cour, les oeufs, les animaux de boucherie et de charcuterie définis par
+1° A 5,59 % pour le lait, les animaux de basse-cour, les oeufs, les animaux de boucherie et de charcuterie définis par
 décret, ainsi que les céréales, les graines oléagineuses et les protéagineux mentionnés à l'annexe I du règlement (CE) n°
-73/2009 du Conseil du 19 janvier 2009. 
+73/2009 du Conseil du 19 janvier 2009.
 
-2° A 3,89 % pour les autres produits.
+2° A 4,43 % pour les autres produits. 
 
 I ter. 1. Périmé 
 
@@ -39,11 +39,23 @@ la production agricole, par décret (4) pris après avis des organisations profe
 
 (4) Voir Annexe III, art. 98 bis.
 
+**Nota:**
+
+Loi n° 2013-1278 du 29 décembre 2013, article 10 (III) : les dispositions s'appliquent aux opérations dont le fait générateur
+intervient à compter du 1er janvier 2014. Toutefois, ils ne s'appliquent pas aux encaissements pour lesquels la taxe sur la
+valeur ajoutée est exigible avant cette date.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 68 (VD)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 68 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 10
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 263 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 266 (V)
 
 _Cité par_:
 

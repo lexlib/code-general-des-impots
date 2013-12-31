@@ -15,7 +15,7 @@ sonorisées ou non.
 
 III.-1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent répondre aux conditions suivantes : 
 
-1° Avoir un coût de développement supérieur ou égal à 150 000 € ; 
+1° Avoir un coût de développement supérieur ou égal à 100 000 € (1) (2) ; 
 
 2° Etre destinés à une commercialisation effective auprès du public ; 
 
@@ -33,7 +33,11 @@ Le respect des conditions de création prévues aux 3° et 4° est vérifié au 
 fixé par décret. 
 
 2.-N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou de
-très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs. 
+très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs. A
+l'exception de ceux comportant des séquences à caractère pornographique ou de très grande violence, les jeux vidéo
+spécifiquement destinés à un public d'adultes et qui sont commercialisés comme tels ouvrent droit au crédit d'impôt dès lors
+que leur contribution au développement et à la diversité de la création française et européenne en matière de jeux vidéo
+présente un niveau particulièrement significatif, déterminé au moyen du barème de points mentionné au 4° du 1 (3). 
 
 IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du
 montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de
@@ -50,7 +54,8 @@ dans la base de calcul du crédit d'impôt ;
 afférentes ; 
 
 3° Les dépenses de personnel relatives aux salariés de l'entreprise affectés directement à la création du jeu vidéo répondant
-aux conditions prévues au III ainsi que les charges sociales afférentes ; 
+aux conditions prévues au III et les dépenses salariales des personnels techniques et administratifs qui y concourent (1)
+(2), ainsi que les charges sociales afférentes ; 
 
 4° Les autres dépenses de fonctionnement, pour leur quote-part affectée à l'activité de création du jeu vidéo. Ces dépenses
 comprennent les achats de matières, fournitures et matériels, les loyers des immeubles, les frais d'entretien et de
@@ -65,6 +70,9 @@ par exercice.
 président du Centre national du cinéma et de l'image animée d'une demande d'agrément provisoire. Cet agrément est délivré
 après sélection par un comité d'experts chargé de vérifier que le jeu vidéo remplit les conditions prévues au III. 
 
+Seules ouvrent droit au crédit d'impôt les dépenses exposées dans les trente-six mois qui précèdent la date de délivrance de
+l'agrément définitif mentionnée à l'article 220 X (4). 
+
 V.-Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au bénéfice du crédit d'impôt
 sont déduites des bases de calcul de ce crédit d'impôt. 
 
@@ -77,7 +85,17 @@ aux obligations déclaratives incombant aux entreprises, sont fixées par décre
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 59-VIII L de la loi n° 2011-1978 du 28 décembre 2011.
+(1) et (2) : Loi n°2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 27 II et III : Ces dispositions
+s'appliquent au titre des crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2014.
+
+Ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2015.
+
+(3) : Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 28 II et III : Ces dispositions
+s'appliquent au titre des exercices ouverts à compter du 1er janvier 2014. Ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2015. 
+
+(4) Loi n°2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 25 III : Ces dispositions s'appliquent aux
+crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -120,7 +138,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 25 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 27 (M)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 28 (M)
 
 _Cite_:
 
