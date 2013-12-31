@@ -1,15 +1,15 @@
 # Article 199 ter A
 
 Les porteurs de parts d'un fonds commun de placement peuvent effectuer l'imputation de tout ou partie des crédits d'impôts
-attachés aux produits des actifs compris dans ce fonds.
+attachés aux produits et plus-values de cession des actifs compris dans ce fonds.
 
-Pour chaque année, le gérant du fonds calcule la somme totale à l'imputation de laquelle les produits encaissés par le fonds
-donnent droit.
+Pour chaque année, le gérant du fonds calcule la somme totale à l'imputation de laquelle les produits encaissés et les plus-
+values réalisées par le fonds donnent droit.
 
 Le droit à imputation par chaque porteur est déterminé en proportion de sa quote-part dans la répartition faite au titre de
-l'année considérée et en tenant compte de la nature et de l'origine française ou étrangère des produits compris dans cette
-répartition. Ce droit à imputation ne peut excéder celui auquel l'intéressé aurait pu prétendre s'il avait perçu directement
-sa quote-part des mêmes produits.
+l'année considérée et en tenant compte de la nature et de l'origine française ou étrangère des sommes ou valeurs réparties.
+Ce droit à imputation ne peut excéder celui auquel l'intéressé aurait pu prétendre s'il avait perçu directement sa quote-part
+des mêmes produits ou réalisé directement cette même plus-value.
 
 Le montant à imputer est ajouté pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés au revenu net perçu
 par les porteurs de parts.
@@ -17,12 +17,13 @@ par les porteurs de parts.
 Un décret adapte les dispositions du présent code relatives à la restitution des sommes correspondant aux crédits d'impôt qui
 n'ont pu être imputés.
 
+**Nota:**
+
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 17 III : Ces dispositions s'appliquent aux gains réalisés et
+aux distributions perçues à compter du 1er janvier 2013.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
 
 _Modifié par_:
 
-  - Loi - art. 93 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 17

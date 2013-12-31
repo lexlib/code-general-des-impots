@@ -26,8 +26,8 @@ différence entre l'indemnisation d'assurance et le coût de reconstruction et d
 b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à
 ces opérations. Lorsque ces dépenses se rapportent à des personnes titulaires d'un doctorat ou d'un diplôme équivalent, elles
 sont prises en compte pour le double de leur montant pendant les vingt-quatre premiers mois suivant leur premier recrutement
-à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne
-soit pas inférieur à celui de l'année précédente ; 
+à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif du personnel de recherche
+salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente ; 
 
 b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de l'article L. 611-7 du code de la propriété
 intellectuelle, au profit des salariés auteurs d'une invention résultant d'opérations de recherche ; 
@@ -42,8 +42,8 @@ Ce pourcentage est fixé à :
 
 3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat ou d'un diplôme équivalent
 pendant les vingt-quatre premiers mois suivant leur premier recrutement à la condition que le contrat de travail de ces
-personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année
-précédente. 
+personnes soit à durée indéterminée et que l'effectif du personnel de recherche salarié de l'entreprise ne soit pas inférieur
+à celui de l'année précédente. 
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à : 
 
@@ -174,9 +174,10 @@ Le prototype ou l'installation pilote d'un nouveau produit est un bien qui n'est
 
 Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à k doivent être des
 dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les
-conditions de droit commun et, à l'exception des dépenses prévues aux e bis et j, correspondre à des opérations localisées au
-sein de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la
-France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales. 
+conditions de droit commun et, à l'exception des dépenses prévues aux e, e bis, j et des frais mentionnés aux 4° et 5° du k,
+correspondre à des opérations localisées au sein de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude
+et l'évasion fiscales. 
 
 Les dépenses visées aux a et 2° du h ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les
 immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies. 
@@ -225,9 +226,8 @@ durée inégale ou ne coïncidant pas avec l'année civile.
 
 **Nota:**
 
-LOI n° 2012-1509 du 29 décembre 2012 de finances pour 2013 art. 71 III : les présentes dispositions s'appliquent aux crédits
-d'impôts calculés au titre des dépenses exposées à compter du 1er janvier 2013 et des dotations aux amortissements des
-immobilisations, créées ou acquises à compter de cette même date.
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 19 III : Ces dispositions s'appliquent aux crédits d'impôts
+calculés au titre des dépenses exposées à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -283,7 +283,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 71 (VD)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 71
 
 _Cite_:
 

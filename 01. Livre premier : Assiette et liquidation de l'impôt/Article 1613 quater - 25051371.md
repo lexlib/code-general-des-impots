@@ -21,6 +21,9 @@ tabac de l'avant-dernière année. Ce montant est exprimé avec deux chiffres ap
 augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté du ministre chargé du
 budget, publié au Journal officiel. 
 
+Pour  son application à Mayotte, le montant mentionné au premier alinéa du  présent II est fixé à 3,31 € au 1er janvier 2014,
+à 4,31 € au 1er  janvier 2015, à 5,31 € au 1er janvier 2016 et à 7,31 € au 1er janvier  2017.  
+
 III. ― 1. La contribution est due à raison des boissons mentionnées au I par leurs fabricants établis en France, leurs
 importateurs et les personnes qui réalisent en France des acquisitions intracommunautaires, sur toutes les quantités livrées
 à titre onéreux ou gratuit. 
@@ -59,10 +62,6 @@ articles 2 et 4 de l'arrêté du 15 décembre 2012.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
-
 _Cité par_:
 
   - Arrêté du 29 décembre 2013 - art. 2 (V)
@@ -71,6 +70,10 @@ _Cité par_:
   - Décret n°2018-944 du 31 octobre 2018 - art. 12
   - Arrêté du 19 décembre 2019 (V)
   - Code général des impôts, CGI. - art. 302 decies (VD)
+
+_Modifié par_:
+
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 54
 
 _Cite_:
 

@@ -91,24 +91,25 @@ dispositions du I quater peut être accordé sur agrément du ministre chargé d
 par cet agrément. 
 
 V. Le bénéfice des dispositions prévues aux I, I quater, II, II bis, III et IV peut être accordé, sur agrément du ministre
-chargé du budget et dans les conditions et limites prévues par cet agrément, aux établissements de crédit dont la liste est
-fixée par décret et aux entreprises industrielles et commerciales ou agricoles qui, dans l'intérêt d'une entreprise française
-et en vue d'accompagner l'investissement à l'étranger de cette dernière, participent au capital de la société étrangère
-constituée à cet effet par l'entreprise ou à laquelle celle-ci se trouve elle-même associée. 
+chargé du budget et dans les conditions et limites prévues par cet agrément, aux établissements de crédit et aux sociétés de
+financement dont la liste est fixée par décret et aux entreprises industrielles et commerciales ou agricoles qui, dans
+l'intérêt d'une entreprise française et en vue d'accompagner l'investissement à l'étranger de cette dernière, participent au
+capital de la société étrangère constituée à cet effet par l'entreprise ou à laquelle celle-ci se trouve elle-même associée. 
 
-En cas de non-respect par l'entreprise française ou par l'établissement de crédit des engagements ou conditions auxquels
-l'agrément est subordonné, les dispositions de l'article 1649 nonies A sont applicables à l'établissement de crédit.
+En cas de non-respect par l'entreprise française ou par l'établissement de crédit ou la société de financement des
+engagements ou conditions auxquels l'agrément est subordonné, les dispositions de l'article 1649 nonies A sont applicables à
+l'établissement de crédit ou la société de financement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1649 nonies A (V)
-  - Code général des impôts, CGI. - art. 35 (V)
+  - Code général des impôts, CGI. - art. 1649 nonies A
+  - Code général des impôts, CGI. - art. 35
 
 _Cité par_:
 
@@ -119,7 +120,3 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quater (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 D (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
