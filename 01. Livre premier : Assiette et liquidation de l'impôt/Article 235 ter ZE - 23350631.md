@@ -39,9 +39,17 @@ V. ― 1. La taxe de risque systémique est liquidée par la personne assujettie
 mentionnées dans l'appel à contribution mentionné au 1° du V de l'article L. 612-20 du code monétaire et financier.L'Autorité
 de contrôle prudentiel et de résolution communique cet appel au comptable public compétent avant le 30 avril. 
 
-2. La taxe de risque systémique est acquittée auprès dudit comptable au plus tard le 30 juin. Le paiement est accompagné d'un
-état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires à l'identification de
-la personne assujettie et à la détermination du montant dû. 
+2. La taxe est déclarée et liquidée : 
+
+1° Pour les redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration mentionnée au 1 de l'article 287
+déposée au titre du mois de mai ou du deuxième trimestre de l'année au cours de laquelle la taxe prévue au présent article
+est due ; 
+
+2° Pour les personnes non redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration prévue au même 1 déposée
+auprès du service chargé du recouvrement dont relève leur siège ou principal établissement au plus tard le 25 juin de l'année
+au cours de laquelle la taxe prévue au présent article est due. 
+
+La taxe est acquittée lors du dépôt de la déclaration.
 
 VI. ― 1. La personne assujettie, dont le siège ou l'entreprise mère du groupe, au sens de l'article L. 511-20 du code
 monétaire et financier, est situé dans un autre Etat ayant instauré une taxe poursuivant un objectif de réduction des risques
@@ -88,6 +96,12 @@ troisième année suivant celle au cours de laquelle la personne assujettie a re
 
 X. ― Le présent article est applicable sur l'ensemble du territoire de la République.
 
+**Nota:**
+
+Conformément à l'article 20 XXIII de la loi n° 2013-1279 du 29 décembre  2013 de finances rectificative pour 2013, les
+dispositions de l'article  235 ter ZE, dans leur rédaction issue de la présente loi, s'appliquent  aux déclarations
+souscrites à compter du 1er février 2014.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -100,7 +114,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 35
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
 
 _Cite_:
 
