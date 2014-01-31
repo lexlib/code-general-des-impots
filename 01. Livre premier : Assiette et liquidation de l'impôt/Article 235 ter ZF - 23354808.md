@@ -9,8 +9,8 @@ services de transport en application de l'article L. 2122-9 du code des transpor
 2. Et qui, au titre de la même année, sont redevables de la taxe mentionnée à l'article 302 bis ZC, pour autant que celle-ci
 soit assise sur un montant supérieur à 300 millions d'euros. 
 
-II. ― 1. La taxe est assise sur le résultat imposable à l'impôt sur les sociétés aux taux mentionnés au deuxième alinéa du I
-et du a du I et au IV de l'article 219 réalisé par la personne assujettie au titre de son dernier exercice clos avant
+II.-1. La taxe est assise sur le résultat imposable à l'impôt sur les sociétés aux taux mentionnés au deuxième alinéa du I et
+du a du I et au IV de l'article 219 réalisé par la personne assujettie au titre de son dernier exercice clos avant
 l'exigibilité de la taxe ou, lorsque cette personne assujettie est membre d'un groupe formé en application des articles 223 A
 et suivants, sur le résultat qui aurait été imposable en son nom à l'impôt sur les sociétés à ces mêmes taux au titre de ce
 même exercice si elle avait été imposée séparément. 
@@ -18,14 +18,28 @@ même exercice si elle avait été imposée séparément.
 2. Pour l'application du 1, les résultats imposables correspondent aux résultats déterminés avant application des règles de
 déduction des déficits mentionnées au troisième alinéa du I de l'article 209 et à l'article 220 quinquies. 
 
-III. ― Le taux de la taxe, compris entre 15 % et 35 %, est fixé par arrêté conjoint des ministres chargés respectivement des
+III.-Le taux de la taxe, compris entre 15 % et 35 %, est fixé par arrêté conjoint des ministres chargés respectivement des
 transports, de l'économie et du budget. Le montant de la taxe est plafonné à 200 millions d'euros. 
 
-IV. ― La taxe est déclarée et liquidée dans les six mois de son exigibilité sur une déclaration dont le modèle est fixé par
-l'administration. Elle est acquittée lors du dépôt de cette déclaration. 
+IV.-La taxe est déclarée et liquidée : 
 
-V. ― La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que la taxe
+1° Pour les redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration mentionnée au 1 de l'article 287
+relative au mois ou au trimestre au cours duquel a été publié l'arrêté mentionné au III du présent article ; 
+
+2° Pour les personnes non redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration prévue au 1 du même
+article 287 déposée auprès du service chargé du recouvrement dont relève leur siège ou principal établissement au plus tard
+le 25 du mois suivant celui au cours duquel a été publié l'arrêté mentionné au III du présent article. 
+
+La taxe est acquittée lors du dépôt de la déclaration. 
+
+V.-La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que la taxe
 sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
+
+**Nota:**
+
+Conformément à l'article 20 XXIII de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
+dispositions de l'article 235 ter ZF, dans leur rédaction issue de la présente loi, s'appliquent aux déclarations souscrites
+à compter du 1er février 2014.
 
 **Liens relatifs à cet article**
 
@@ -35,14 +49,9 @@ _Cité par_:
   - Loi n°2014-1655 du 29 décembre 2014 - art. 4
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 M bis (V)
 
-_Créé par_:
-
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 65 (VD)
-
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 24 (VD)
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 50
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
 
 _Cite_:
 
@@ -50,5 +59,6 @@ _Cite_:
   - Code général des impôts, CGI. - art. 219
   - Code général des impôts, CGI. - art. 220 quinquies
   - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 287 (VT)
   - Code général des impôts, CGI. - art. 302 bis ZC
   - Code des transports - art. L2122-9
