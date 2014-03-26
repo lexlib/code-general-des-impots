@@ -45,14 +45,14 @@ lorsqu'elles mettent l'immeuble faisant l'objet des travaux gratuitement à la d
 physique, qu'elles le donnent en location ou s'engagent à le donner en location ; 
 
 3° Aux personnes physiques membres d'un syndicat de copropriétaires, à raison du prorata qui leur revient des travaux
-d'intérêt collectif réalisés sur les parties privatives prévus au g de l'article 25 de la loi n° 65-557 du 10 juillet 1965
+d'intérêt collectif réalisés sur les parties privatives prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet 1965
 fixant le statut de la copropriété des immeubles bâtis ainsi que des travaux réalisés sur les parties et équipements communs
 de l'immeuble dans lequel elles possèdent leur habitation principale ou des logements qu'elles donnent ou s'engagent à donner
 en location (1) ; 
 
 4° Aux sociétés civiles non soumises à l'impôt sur les sociétés dont au moins un des associés est une personne physique,
 membres d'un syndicat de copropriétaires, à raison du prorata qui leur revient des travaux d'intérêt collectif réalisés sur
-les parties privatives prévus au g de l'article 25 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété
+les parties privatives prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété
 des immeubles bâtis ainsi que des travaux réalisés sur les parties et équipements communs de l'immeuble dans lequel elles
 possèdent un logement qu'elles mettent gratuitement à la disposition de l'un de leurs associés personne physique, donnent en
 location ou s'engagent à donner en location (1). 
@@ -116,7 +116,7 @@ redevables de l'impôt sur les sociétés ou de personnes physiques participant 
 l'article 156. 
 
 VI bis. (1)-L'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à un
-syndicat de copropriétaires pour financer les travaux d'intérêt collectif réalisés sur les parties privatives prévus au g de
+syndicat de copropriétaires pour financer les travaux d'intérêt collectif réalisés sur les parties privatives prévus au f de
 l'article 25 de la loi n° 65-557 du 10 juillet 1965 précitée ainsi que les travaux réalisés sur les parties et équipements
 communs de l'immeuble lorsqu'au moins 75 % des quotes-parts de copropriété sont compris dans des lots affectés à l'usage
 d'habitation, détenus par l'une des personnes mentionnées aux 3° et 4° du 3 du I du présent article et utilisés ou destinés à
@@ -164,9 +164,10 @@ d'avance émises à compter du 1er janvier 2014.
 
 _Cite_:
 
-  - Loi n°65-557 du 10 juillet 1965 - art. 25
+  - Loi n°65-557 du 10 juillet 1965 - art. 25 (V)
   - Code général des impôts, CGI. - art. 1417
   - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 200 quater (V)
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater B
@@ -283,10 +284,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZE (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZE bis (P)
 
-_Créé par_:
-
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 99 (M)
-
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 74
+  - Loi n°2014-366 du 24 mars 2014 - art. 59
