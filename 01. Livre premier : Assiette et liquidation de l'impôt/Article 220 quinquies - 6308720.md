@@ -4,9 +4,9 @@ I. Par dérogation aux dispositions du troisième alinéa du I de l'article 209,
 ouvert à compter du 1er janvier 1984 par une entreprise soumise à l'impôt sur les sociétés peut, sur option, être considéré
 comme une charge déductible du bénéfice de l'exercice précédent, dans la limite de la fraction non distribuée de ce bénéfice
 et à l'exclusion du bénéfice exonéré en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 
-44 undecies, 44 terdecies, 44 quaterdecies, 44 quindecies et 207 à 208 sexies ou qui a bénéficié des dispositions du premier
-alinéa du f du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu aux articles 220 quater et 220 quater A ou
-qui a donné lieu à un impôt payé au moyen de crédits d'impôts. 
+44 terdecies, 44 quaterdecies, 44 quindecies et 207 à 208 sexies ou qui a bénéficié des dispositions du premier alinéa du f
+du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu aux articles 220 quater et 220 quater A ou qui a donné
+lieu à un impôt payé au moyen de crédits d'impôts. 
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être reportable sur les résultats des exercices
 suivant celui au titre duquel il a été constaté. 
@@ -52,6 +52,10 @@ III. (Abrogé).
 
 IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises.
 
+**Nota:**
+
+Au premier alinéa du I, la référence :  , 44 undecies  est périmée.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -73,18 +77,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 207
   - Code général des impôts, CGI. - art. 219
-  - Code général des impôts, CGI. - art. 220 quater (V)
-  - Code général des impôts, CGI. - art. 44 octies
+  - Code général des impôts, CGI. - art. 220 quater
+  - Code général des impôts, CGI. - art. 44 octies (V)
   - Code général des impôts, CGI. - art. 44 quaterdecies
   - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 44 sexies A
-  - Code général des impôts, CGI. - art. 44 terdecies
-  - Code général des impôts, CGI. - art. 44 undecies
+  - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code monétaire et financier - art. L313-23
