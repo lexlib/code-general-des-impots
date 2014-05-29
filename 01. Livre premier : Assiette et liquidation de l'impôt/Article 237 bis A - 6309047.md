@@ -66,12 +66,11 @@ coopérateurs s'engagent, au moment de la transformation et dans des conditions 
 sociales suffisant pour permettre aux associés coopérateurs de détenir au moins 50 % du capital de la société au plus tard à
 la clôture du septième exercice qui suit celui de la transformation en société coopérative ouvrière de production. 
 
-En cas de non-respect de l'engagement mentionné au troisième alinéa du présent 3 et par dérogation au premier alinéa du 4, la
-société rapporte au résultat imposable du septième exercice suivant celui de la transformation en société coopérative
-ouvrière de production une somme correspondant aux excédents de provisions pour investissement admis en déduction en
-application du présent 3 par rapport au montant de provision déductible en application du 2. Les droits correspondants sont
-majorés de l'intérêt de retard prévu à l'article 1727 du présent code, décompté à partir de l'exercice au cours duquel la
-provision a été déduite. 
+En cas de non-respect de l'engagement mentionné au troisième alinéa et par dérogation au premier alinéa du 4, la société
+rapporte au résultat imposable du septième exercice suivant celui de la transformation en société coopérative ouvrière de
+production une somme correspondant aux excédents de provisions pour investissement admis en déduction en application du
+présent 3 par rapport au montant de provision déductible en application du 2. Les droits correspondants sont majorés de
+l'intérêt de retard prévu à l'article 1727, décompté à partir de l'exercice au cours duquel la provision a été déduite. 
 
 4. La provision visée aux 1 à 3 est rapportée au bénéfice imposable si elle n'est pas utilisée dans le délai de deux ans à
 l'acquisition ou la création d'immobilisations. Ce délai est porté à quatre ans pour les sociétés coopératives ouvrières de
@@ -109,10 +108,10 @@ même date sont rapportées aux résultats imposables dans les conditions prévu
 _Cite_:
 
   - Loi n°78-763 du 19 juillet 1978 - art. 25
-  - Loi n°78-763 du 19 juillet 1978 - art. 48 (V)
+  - Loi n°78-763 du 19 juillet 1978 - art. 48
   - Loi n°2001-152 du 19 février 2001
   - Loi n°2006-1770 du 30 décembre 2006
-  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 223 A
   - Code monétaire et financier - art. L214-164
   - Code du travail - art. L3323-6
@@ -124,7 +123,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 16
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 
