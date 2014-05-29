@@ -2,13 +2,13 @@
 
 I. (Sans objet) 
 
-II.-1) Les distributions par les sociétés de capital-risque qui remplissent les conditions prévues à l'article 1er-1 de la
+II. – 1) Les distributions par les sociétés de capital-risque qui remplissent les conditions prévues à l'article 1er-1 de la
 loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier, prélevées sur des plus-values
 nettes de cessions de titres réalisées par la société au cours des exercices clos à compter du 31 décembre 2001 sont imposées
 dans les conditions prévues au 2 de l'article 200 A lorsque l'actionnaire est une personne physique fiscalement domiciliée en
 France au sens de l'article 4 B, ou soumises à la retenue à la source prévue au 2 de l'article 119 bis lorsqu'elles sont
 payées dans un Etat ou territoire non coopératif au sens de l'article 238-0 A, ou soumises à cette même retenue à la source
-aux taux de 30 % (1) lorsque l'actionnaire est une personne physique fiscalement domiciliée hors de France. Toutefois, les
+au taux de 30 % (1) lorsque l'actionnaire est une personne physique fiscalement domiciliée hors de France. Toutefois, les
 personnes physiques qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B peuvent demander le
 remboursement de l'excédent du prélèvement de 30 % (1) lorsque ce prélèvement excède la différence entre, d'une part, le
 montant de l'impôt qui résulterait de l'application de l'article 197 A à la somme des distributions mentionnées au présent
@@ -80,15 +80,17 @@ réalisés et aux distributions perçues à compter du 1er janvier 2014.
 
 _Cite_:
 
-  - Loi n°85-695 du 11 juillet 1985 - art. 1-1
-  - Code général des impôts, CGI. - art. 119 bis
-  - Code général des impôts, CGI. - art. 200 A
-  - Code général des impôts, CGI. - art. 238-0 A
+  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (V)
+  - Code général des impôts, CGI. - art. 119 bis (V)
+  - Code général des impôts, CGI. - art. 197 A (V)
+  - Code général des impôts, CGI. - art. 200 A (V)
+  - Code général des impôts, CGI. - art. 238-0 A (V)
+  - Code général des impôts, CGI. - art. 4 B (V)
   - Code de la sécurité sociale. - art. L341-4
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 17 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 
