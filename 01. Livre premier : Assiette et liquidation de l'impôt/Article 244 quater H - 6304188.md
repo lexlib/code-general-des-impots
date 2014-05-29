@@ -1,8 +1,8 @@
 # Article 244 quater H
 
 I.-Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt
-lorsqu'elles exposent des dépenses de prospection commerciale afin d'exporter des services, des biens et des marchandises. 
+sexies, 44 sexies A, 44 octies, 44 octies A, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt lorsqu'elles
+exposent des dépenses de prospection commerciale afin d'exporter des services, des biens et des marchandises. 
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont
 soit réalisé un chiffre d'affaires inférieur à 50 millions d'euros au cours de chaque période d'imposition ou exercice clos
@@ -73,6 +73,10 @@ l'article 156.
 
 Le crédit d'impôt ne peut être obtenu qu'une fois par l'entreprise.
 
+**Nota:**
+
+Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, la référence : , 44 decies  est périmée.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -84,8 +88,10 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 239 quater
+  - Code général des impôts, CGI. - art. 239 quater B (V)
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, CGI. - art. 8
   - Code du service national - art. L122-1
   - Code du service national - art. L122-12
@@ -94,7 +100,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 
