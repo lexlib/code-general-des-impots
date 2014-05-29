@@ -1,8 +1,8 @@
 # Article 244 quater O
 
 I.-Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44 terdecies à 44 quindecies
-peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme : 
+sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44 quindecies peuvent bénéficier d'un
+crédit d'impôt égal à 10 % de la somme : 
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés à la création d'ouvrages réalisés en un seul
 exemplaire ou en petite série. La création d'ouvrages uniques, réalisés en un exemplaire ou en petite série, se définit selon
@@ -54,8 +54,8 @@ autre crédit d'impôt.
 VI bis.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998/2006 de la
 Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
-Pour l'application du premier alinéa du présent VI bis, les sociétés de personnes et les groupements mentionnés aux articles
-8,238 bis L, 239 quater, 239 quater A, 
+Pour l'application du premier alinéa, les sociétés de personnes et les groupements mentionnés aux articles 8,238 bis L, 239
+quater, 239 quater A, 
 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (CE)
 n° 1998/2006 de la Commission du 15 décembre 2006 précité. Le crédit d'impôt peut être utilisé par les associés de ces
 sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils
@@ -67,19 +67,24 @@ VII.-(Abrogé).
 VIII.-Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises
 mentionnées au III jusqu'au 31 décembre 2016.
 
+**Nota:**
+
+Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, les références : , 44 decies, 44 undecies  sont
+périmées
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2005-882 du 2 août 2005 - art. 23
-  - Code général des impôts, CGI. - art. 156 (V)
-  - Code général des impôts, CGI. - art. 238 bis L (V)
-  - Code général des impôts, CGI. - art. 239 quater (V)
-  - Code général des impôts, CGI. - art. 239 quater A (V)
-  - Code général des impôts, CGI. - art. 239 quater B (V)
-  - Code général des impôts, CGI. - art. 239 quater C (V)
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 238 bis L
+  - Code général des impôts, CGI. - art. 239 quater
+  - Code général des impôts, CGI. - art. 239 quater A
+  - Code général des impôts, CGI. - art. 239 quater B
+  - Code général des impôts, CGI. - art. 239 quater C
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 8 (V)
+  - Code général des impôts, CGI. - art. 8
 
 _Cité par_:
 
@@ -97,4 +102,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 24
+  - Décret n°2014-549 du 26 mai 2014 - art. 1

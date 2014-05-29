@@ -16,16 +16,16 @@ Le chiffre d'affaires mentionné au premier alinéa du présent I s'entend du ch
 cours de l'exercice ou de la période d'imposition, ramené à douze mois le cas échéant, et pour la société mère d'un groupe
 mentionné à l'article 223 A, de la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe. 
 
-II.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et l'imposition forfaitaire
-annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution. 
+II.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies ne sont pas imputables sur la
+contribution. 
 
 III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et
 sanctions.
 
 **Nota:**
 
-Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 16 II : Ces dispositions s'appliquent aux exercices clos à
-compter du 31 décembre 2013.
+Modifications effectuées en conséquence de l'article 14-I [3°] b et 14-II de la loi n° 2008-1425 du 27 décembre 2008 : Au II
+de ces articles, les mots : et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies deviennent sans objet.
 
 **Liens relatifs à cet article**
 
@@ -36,16 +36,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1668 B (VD)
   - Code général des impôts, CGI. - art. 213 (V)
 
-_Modifié par_:
-
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 16 (V)
-
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1668
   - Code général des impôts, CGI. - art. 219
-  - Code général des impôts, CGI. - art. 220 quinquies
+  - Code général des impôts, CGI. - art. 220 quinquies (V)
   - Code général des impôts, CGI. - art. 223 A
-  - Code général des impôts, CGI. - art. 223 B
+  - Code général des impôts, CGI. - art. 223 B (V)
   - Code général des impôts, CGI. - art. 223 D
-  - Code général des impôts, CGI. - art. 223 septies
