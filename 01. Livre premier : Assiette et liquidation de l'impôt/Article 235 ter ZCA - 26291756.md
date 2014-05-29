@@ -1,6 +1,6 @@
 # Article 235 ter ZCA
 
-I. - Les sociétés ou organismes français ou étrangers passibles de l'impôt sur les sociétés en France, à l'exclusion des
+I.-Les sociétés ou organismes français ou étrangers passibles de l'impôt sur les sociétés en France, à l'exclusion des
 organismes de placement collectif mentionnés au II de l'article L. 214-1 du code monétaire et financier ainsi que de ceux qui
 satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la
 Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
@@ -36,10 +36,10 @@ d'acompte d'impôt sur les sociétés suivant le mois au cours duquel il est pro
 Pour les bénéfices réalisés en France par les sociétés étrangères et réputés distribués en application du 1 de l'article 115
 quinquies, la contribution est assise sur les montants qui cessent d'être à la disposition de l'exploitation française. 
 
-II. - Les crédits d'impôt de toute nature ainsi que la créance mentionnée à l'article 220 quinquies et l'imposition
-forfaitaire annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution. 
+II.-Les crédits d'impôt de toute nature ainsi que la créance mentionnée à l'article 220 quinquies ne sont pas imputables sur
+la contribution. 
 
-III. - La contribution est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et
+III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et
 sanctions. 
 
 Elle est payée spontanément lors du premier versement d'acompte d'impôt sur les sociétés suivant le mois de la mise en
@@ -50,8 +50,8 @@ articles 109 à 117 sont considérées comme mises en paiement à la clôture de
 
 **Nota:**
 
-Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, article 33 (II-B) : Ces dispositions s'appliquent
-pour les sommes mises en paiement à compter du 1er janvier 2014.
+Modifications effectuées en conséquence de l'article 14-I [3°] b et 14-II de la loi n° 2008-1425 du 27 décembre 2008 : Au II
+de ces articles, les mots : et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies deviennent sans objet.
 
 **Liens relatifs à cet article**
 
@@ -65,9 +65,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 115 quinquies
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 208 C
-  - Code général des impôts, CGI. - art. 220 quinquies
+  - Code général des impôts, CGI. - art. 220 quinquies (M)
   - Code général des impôts, CGI. - art. 223 A
-  - Code général des impôts, CGI. - art. 223 septies
+  - Code monétaire et financier - art. L214-1 (V)
   - Code monétaire et financier - art. L511-31
 
 _Cité par_:
@@ -76,4 +76,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1 du 2 janvier 2014 - art. 25 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
