@@ -12,7 +12,7 @@ utilisation selon le barème suivant :
 
 (en euros) 
 
-<table border="1" align="center" width="680">
+<table border="1" width="680" align="center">
   <tbody>
     <tr>
       <td>
@@ -44,7 +44,7 @@ Automoteur
 </td>
       <td align="center">
 
-30 525 
+30 922 
 
 </td>
     </tr>
@@ -56,7 +56,7 @@ Locomotive diesel
 </td>
       <td align="center">
 
-30 525 
+30 922
 
 </td>
     </tr>
@@ -76,7 +76,7 @@ Automotrice
 </td>
       <td align="center">
 
-23 403 
+23 707 
 
 </td>
     </tr>
@@ -88,7 +88,7 @@ Locomotive électrique
 </td>
       <td align="center">
 
-20 350 
+20 615
 
 </td>
     </tr>
@@ -100,7 +100,7 @@ Motrice de matériel à grande vitesse
 </td>
       <td align="center">
 
-35 613 
+36 076 
 
 </td>
     </tr>
@@ -112,7 +112,7 @@ Automotrice tram-train
 </td>
       <td align="center">
 
-11 701 
+11 853
 
 </td>
     </tr>
@@ -132,7 +132,7 @@ Remorque pour le transport de passagers
 </td>
       <td align="center">
 
-4 884 
+4 947
 
 </td>
     </tr>
@@ -144,7 +144,7 @@ Remorque pour le transport de passagers à grande vitesse
 </td>
       <td align="center">
 
-10 175 
+10 307
 
 </td>
     </tr>
@@ -156,7 +156,7 @@ Remorque tram-train
 </td>
       <td align="center">
 
-2 442 
+2 474
 
 </td>
     </tr>
@@ -205,10 +205,13 @@ foncière des entreprises.
 
 **Nota:**
 
-Conformément à l'article 70-III de la loi n° 2013-1279 du 29 décembre 2013, ces dispositions s'appliquent à compter des
-impositions dues au titre de 2014.
+Modifications effectuées en conséquence de l'article 37-VI B [4°] de la loi n° 2012-1510 du 29 décembre 2012.
 
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cité par_:
 
@@ -224,7 +227,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 70 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cite_:
 

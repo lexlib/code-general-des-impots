@@ -45,7 +45,7 @@ Motrice et remorque
 </td>
       <td align="center">
 
-12 475 
+12 637
 
 </td>
     </tr>
@@ -65,7 +65,7 @@ Automotrice et motrice
 </td>
       <td align="center">
 
-23 403 
+23 707
 
 </td>
     </tr>
@@ -77,7 +77,7 @@ Remorque
 </td>
       <td align="center">
 
-4 884 
+4 947
 
 </td>
     </tr>
@@ -130,5 +130,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (MMN)
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
