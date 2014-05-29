@@ -1,9 +1,8 @@
 # Article 220 terdecies
 
 I.-Les entreprises de création de jeux vidéo soumises à l'impôt sur les sociétés ou exonérées en application des articles 44
-sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies et 44 quindecies peuvent
-bénéficier d'un crédit d'impôt au titre des dépenses mentionnées au IV qu'elles exposent en vue de la création de jeux vidéo
-agréés. 
+sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 quindecies peuvent bénéficier d'un crédit d'impôt
+au titre des dépenses mentionnées au IV qu'elles exposent en vue de la création de jeux vidéo agréés. 
 
 Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de création de jeux vidéo, de la législation
 sociale en vigueur. 
@@ -88,14 +87,31 @@ aux obligations déclaratives incombant aux entreprises, sont fixées par décre
 (1) et (2) : Loi n°2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 27 II et III : Ces dispositions
 s'appliquent au titre des crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2014.
 
-Ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2015.
+Aux termes de l'article 101 de la loi n° 2014-1654 du 29 décembre 2014 modifiant le III de l'article 27 de la loi n°
+2013-1279 du 29 décembre 2013, entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six
+mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le
+dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat, les
+dispositions de l'article 220 terdecies du code des impôts dans leur rédaction résultant du même article 27 de ladite loi.
+
+Le décret n° 2015-722 du 25 juin 2015, article 6, fixe cette entrée en vigueur au 26 juin 2015. 
 
 (3) : Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 28 II et III : Ces dispositions
 s'appliquent au titre des exercices ouverts à compter du 1er janvier 2014. Ces dispositions entrent en vigueur à une date
 fixée par décret, et au plus tard le 1er janvier 2015. 
 
+Aux termes de l'article 102 de la loi n° 2014-1654 du 29 décembre 2014 modifiant le III de l'article 28 de la loi n°
+2013-1279 du 29 décembre 2013, entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six
+mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le
+dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat, les
+dispositions de l'article 220 terdecies du code des impôts dans sa rédaction résultant du même article 28 de ladite loi.
+
+Le décret n° 2015-722 du 23 juin 2015, article 6, fixe cette entrée en vigueur au 26 juin 2015. 
+
 (4) Loi n°2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 25 III : Ces dispositions s'appliquent aux
-crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2014.
+crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2014. 
+
+Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, les références : , 44 decies, 44 undecies sont
+périmées.
 
 **Liens relatifs à cet article**
 
@@ -138,15 +154,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 25 (V)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 27 (M)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 28 (M)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 27 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 28 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L113-1
-  - Code général des impôts, CGI. - art. 44 decies
-  - Code général des impôts, CGI. - art. 44 quindecies
+  - Code général des impôts, CGI. - art. 44 duodecies (V)
+  - Code général des impôts, CGI. - art. 44 quindecies (M)
   - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 44 sexies A

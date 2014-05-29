@@ -59,7 +59,7 @@ plan de restructuration présenté par l'entreprise n'altère pas les échanges 
 
 II.-Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou de
 l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44
-sexies, 44 sexies A, 44 septies, 44 quindecies, 208 sexies et 208 quater A. Elle est irrévocable. 
+sexies, 44 sexies A, 44 septies, 44 quindecies et 208 sexies. Elle est irrévocable. 
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime d'imposition de l'article 8 ou par les
 groupements mentionnés aux articles 239 quater ou 239 quater C, le crédit d'impôt peut être utilisé par leurs associés,
@@ -107,19 +107,21 @@ _Cite_:
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 1649 nonies
-  - Code général des impôts, CGI. - art. 208 sexies
+  - Code général des impôts, CGI. - art. 208 sexies (V)
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 39 A
   - Code général des impôts, CGI. - art. 41
+  - Code général des impôts, CGI. - art. 44 quindecies (V)
+  - Code général des impôts, CGI. - art. 44 septies (V)
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
   - Code monétaire et financier - art. L214-37
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 

@@ -1,6 +1,6 @@
 # Article 302 bis K
 
-I. 1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du budget annexe " Contrôle et exploitation
+I. - 1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du budget annexe " Contrôle et exploitation
 aériens " et du budget général de l'Etat est due par les entreprises de transport aérien public. 
 
 La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués en France, quelles que soient les
@@ -26,7 +26,7 @@ a) Les évacuations sanitaires d'urgence ;
 b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92 du Conseil du 23 juillet 1992 concernant les
 licences des transporteurs aériens. 
 
-II.-1. Le tarif de la taxe est le suivant : 
+II. - 1. Le tarif de la taxe est le suivant : 
 
 4,36 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
 partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
@@ -61,13 +61,13 @@ dépassement.
 aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par
 virement bancaire. 
 
-III.-Les quotités du produit de la taxe affectées respectivement au budget annexe " Contrôle et exploitation aériens " et au
-budget général sont déterminées par la loi de finances. 
+III. - Les quotités du produit de la taxe affectées respectivement au budget annexe " Contrôle et exploitation aériens " et
+au budget général sont déterminées par la loi de finances. 
 
 Les sommes encaissées au titre du budget général par les comptables du budget annexe " Contrôle et exploitation aériens "
 sont transférées mensuellement aux comptables publics assignataires. 
 
-IV.-1.-Les déclarations mentionnées au II sont contrôlées par les services de la direction générale de l'aviation civile. A
+IV. - 1.-Les déclarations mentionnées au II sont contrôlées par les services de la direction générale de l'aviation civile. A
 cette fin, les agents assermentés peuvent examiner sur place les documents utiles. 
 
 Préalablement, un avis de vérification est adressé à l'entreprise afin qu'elle puisse se faire assister d'un conseil. 
@@ -118,14 +118,14 @@ conditions de droit commun et notamment par le dépôt d'une déclaration dans l
 des redevables défaillants déclaratifs que le contrôle des insuffisances déclaratives ou de paiement, s'exerce dans les mêmes
 conditions que celles prévues à l'article L. 176 du livre des procédures fiscales. 
 
-V.-Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
+V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
 annexe " contrôle et exploitation aériens " selon les procédures, sûretés, garanties et sanctions applicables en matière de
 taxes sur le chiffre d'affaires. 
 
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et
 jugées comme en matière de taxes sur le chiffre d'affaires. 
 
-VI.-1. Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet d'une contribution additionnelle,
+VI. - 1. Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet d'une contribution additionnelle,
 dénommée taxe de solidarité sur les billets d'avion, perçue, dans la limite du plafond prévu au I de l'article 46 de la loi
 n° 2011-1977 de finances pour 2012, par le fonds de solidarité pour le développement créé par l'article 22 de la loi n°
 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005. 
@@ -153,12 +153,12 @@ aéroportuaire tel que mentionné au a.
 
 Pour l'application du a, un décret précise les aéroports faisant partie d'un même système aéroportuaire. 
 
-3. La taxe de solidarité sur les billets d'avion est contrôlée dans les conditions prévues au IV du présent article et
-suivant les délais de prescription du droit de reprise prévus à l'article L. 176 du livre des procédures fiscales en matière
-de taxes sur le chiffre d'affaires. 
+3. La taxe de solidarité sur les billets d'avion est contrôlée dans les conditions prévues au IV et suivant les délais de
+prescription du droit de reprise prévus à l'article L. 176 du livre des procédures fiscales en matière de taxes sur le
+chiffre d'affaires. 
 
-4. La taxe de solidarité sur les billets d'avion est recouvrée dans les conditions fixées au V du présent article. Elle est
-reversée mensuellement à l'Agence française de développement.
+4. La taxe de solidarité sur les billets d'avion est recouvrée dans les conditions fixées au V. Elle est reversée
+mensuellement à l'Agence française de développement.
 
 **Nota:**
 
@@ -185,13 +185,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 1728
   - Code général des impôts, CGI. - art. 1729
   - Code général des impôts, CGI. - art. 1729 A
-  - Livre des procédures fiscales - art. L176 (V)
+  - Livre des procédures fiscales - art. L176
 
 _Modifié par_:
 
-  - Arrêté du 25 mars 2014 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
