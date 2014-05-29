@@ -43,7 +43,7 @@ postérieurement au 15 octobre, les zones de perception en fonction de l'importa
 syndicat avant sa transformation en communauté de communes restent applicables l'année qui suit cette transformation. 
 
 5. Les communes et les établissements publics de coopération intercommunale ayant institué la part incitative de la taxe
-d'enlèvement des ordures ménagères conformément à l'article 1522 bis votent le tarif de cette part dans les conditions
+d'enlèvement des ordures ménagères conformément à l'article 1522 bis votent les tarifs de cette part dans les conditions
 prévues à l'article 1639 A. 
 
 6. La première année d'application des dispositions de l'article 1522 bis, le produit de la taxe d'enlèvement des ordures
@@ -51,20 +51,19 @@ ménagères ne peut excéder le produit total de cette taxe tel qu'issu des rôl
 
 **Nota:**
 
-Loi n° 2011-1977 du 28 décembre 2011, art. 97-II : les alinéas 5 et 6 sont applicables à compter des impositions établies au
-titre de l'année 2013.
+Modifications effectuées en conséquence de l'article 53-I et II de la loi n° 2013-1279 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°99-586 du 12 juillet 1999
-  - Code général des impôts, CGI. - art. 1379-0 bis (V)
-  - Code général des impôts, CGI. - art. 1520 (V)
+  - Code général des impôts, CGI. - art. 1379-0 bis
+  - Code général des impôts, CGI. - art. 1520
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 97
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 

@@ -5,21 +5,21 @@ redynamiser définis au 3 bis de l'article 42 de la loi n° 95-115 du 4 février
 développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant
 des activités implantées dans le bassin d'emploi et réalisés jusqu'au terme du quatre-vingt-troisième mois suivant le début
 d'activité dans le bassin d'emploi. Les contribuables qui créent des activités à compter du 1er janvier 2014 bénéficient de
-l'exonération mentionnée à la première phrase du présent alinéa à raison des bénéfices provenant des activités implantées
-dans le bassin d'emploi et réalisés jusqu'au terme du cinquante-neuvième mois suivant le début d'activité dans le bassin
-d'emploi. Les contribuables mentionnés à la deuxième phrase du présent alinéa perdent le bénéfice de l'exonération à compter
-de l'exercice au cours duquel ils procèdent à une distribution de dividendes à leurs actionnaires.
+l'exonération mentionnée à la première phrase à raison des bénéfices provenant des activités implantées dans le bassin
+d'emploi et réalisés jusqu'au terme du cinquante-neuvième mois suivant le début d'activité dans le bassin d'emploi. Les
+contribuables mentionnés à la deuxième phrase perdent le bénéfice de l'exonération à compter de l'exercice au cours duquel
+ils procèdent à une distribution de dividendes à leurs actionnaires. 
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
 d'immeubles à usage d'habitation, ou agricole au sens de l'article 63, dans les conditions et limites fixées par le présent
-article.L'exonération s'applique dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les sociétés
-exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92.
+article. L'exonération s'applique dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les sociétés
+exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92. 
 
 L'exonération ne s'applique pas aux créations d'activités dans les bassins d'emploi à redynamiser consécutives au transfert
 d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant
 celle du transfert des articles 44 sexies, 44 octies, 44 octies A, 44 quindecies et 44 septies ou de la prime d'aménagement
-du territoire.
+du territoire. 
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les bassins d'emploi à redynamiser ou qui reprennent de
@@ -32,7 +32,7 @@ sédentaire à plein temps, ou équivalent, exerçant ses fonctions dans les loc
 réalise au moins 25 % de son chiffre d'affaires auprès des clients situés dans un tel bassin d'emploi. 
 
 II.-Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux
-articles 50-0, 53 A, 96 à 100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions
+articles 50-0,53 A, 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions
 de droit commun : 
 
 a) Produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8,
@@ -66,7 +66,7 @@ concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 procèdent aux opérations mentionnées au I dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est
 subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines
 catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général
-d'exemption par catégorie).
+d'exemption par catégorie). 
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'exonération. Elle doit être exercée dans les six
 mois suivant les opérations mentionnées au I. 
@@ -77,9 +77,9 @@ groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
 44 octies A ou 44 quindecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans
-les six mois suivant celui du début d'activité.L'option est irrévocable. 
+les six mois suivant celui du début d'activité. L'option est irrévocable. 
 
-IV.-Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
+IV.-Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret. 
 
 V.-(disjoint)
 
@@ -93,13 +93,15 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1467
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 34
+  - Code général des impôts, CGI. - art. 44 octies (VT)
   - Code général des impôts, CGI. - art. 44 octies A
-  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 septies (V)
+  - Code général des impôts, CGI. - art. 44 sexies (V)
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 63
   - Code général des impôts, CGI. - art. 92
-  - Code général des impôts, CGI. - art. 96
+  - Code général des impôts, CGI. - art. 96 (M)
   - Code monétaire et financier - art. L511-1
 
 _Cité par_:
@@ -123,6 +125,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1

@@ -12,8 +12,7 @@ employés au cours de cet exercice ;
 
 3° a. elle a réalisé des dépenses de recherche, définies aux a à g du II de l'article 244 quater B, représentant au moins 15
 % des charges fiscalement déductibles au titre de cet exercice, à l'exclusion des charges engagées auprès d'autres jeunes
-entreprises innovantes réalisant des projets de recherche et de développement ou auprès d'entreprises bénéficiant du régime
-prévu à l'article 44 undecies ; 
+entreprises innovantes réalisant des projets de recherche et de développement ; 
 
 b. Ou elle est dirigée ou détenue directement à hauteur de 10 % au moins, seuls ou conjointement, par des étudiants, des
 personnes titulaires depuis moins de cinq ans d'un diplôme conférant le grade de master ou d'un doctorat, ou des personnes
@@ -48,6 +47,11 @@ e. ou par des établissements publics de recherche et d'enseignement ou leurs fi
 5° elle n'est pas créée dans le cadre d'une concentration, d'une restructuration, d'une extension d'activités préexistantes
 ou d'une reprise de telles activités au sens du III de l'article 44 sexies.
 
+**Nota:**
+
+Décret n° 2014-549 du 26 mai 2014 article 1 : Au a du 3°, les mots : ou auprès d'entreprises bénéficiant du régime prévu à
+l'article 44 undecies sont périmés.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -77,9 +81,10 @@ _Cite_:
 
   - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 244 quater B
+  - Code général des impôts, CGI. - art. 39 (V)
   - Code général des impôts, CGI. - art. 44 sexies
   - Code monétaire et financier - art. L214-37
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
