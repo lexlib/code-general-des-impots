@@ -19,42 +19,42 @@ par ligne en service est établi selon le barème suivant :
 
 (En euros) 
 
-<table border="1">
+<table border="1" width="680">
     <tbody>
       <tr>
-        <th>
+        <td>
 
 NATURE DE L'ÉQUIPEMENT
 
-</th>
-        <th>
+</td>
+        <td>
 
 TARIF 
 
 2014
 
-</th>
-        <th>
+</td>
+        <td>
 
 TARIF 
 
 2015
 
-</th>
-        <th>
+</td>
+        <td>
 
 TARIF 
 
 2016
 
-</th>
-        <th>
+</td>
+        <td>
 
 TARIF 
 
 à compter de 2017
 
-</th>
+</td>
       </tr>
       <tr>
         <td align="center">
@@ -64,7 +64,7 @@ Ligne en service d'un répartiteur principal
 </td>
         <td align="center">
 
-5,06
+5,07
 
 </td>
         <td align="center">
@@ -115,7 +115,7 @@ Unité de raccordement d'abonnés
 </td>
       <td align="center">
 
-5 019
+5 026
 
 </td>
       <td align="center">3 346 </td>
@@ -131,7 +131,7 @@ Carte d'abonné
 </td>
       <td align="center">
 
-54,75
+54,83
 
 </td>
       <td align="center">36,5
@@ -154,7 +154,15 @@ b) Le nombre d'unités de raccordement d'abonnés et de cartes d'abonnés au 1er
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation
 foncière des entreprises.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010.
+
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cité par_:
 
@@ -168,7 +176,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 71 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cite_:
 

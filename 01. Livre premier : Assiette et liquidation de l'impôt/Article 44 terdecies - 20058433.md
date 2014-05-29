@@ -18,9 +18,9 @@ exerçant une activité professionnelle non commerciale au sens du 1 de l'articl
 
 L'exonération ne s'applique pas aux créations d'activité dans les zones de restructuration de la défense consécutives au
 transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années
-précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies,
-44 duodecies et 44 quindecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour
-l'industrie et les services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
+précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44
+quindecies , de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie et les
+services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les zones de restructuration de la défense ou qui reprennent
@@ -82,6 +82,10 @@ peut opter pour ce dernier régime dans les six mois suivant celui du début d'a
 IV. ― Les obligations déclaratives des personnes et organismes concernés par l'exonération prévue au présent article sont
 fixées par décret.
 
+**Nota:**
+
+Au troisième alinéa du I, les références : , 44 decies, 44 undecies sont périmées.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -102,9 +106,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 
