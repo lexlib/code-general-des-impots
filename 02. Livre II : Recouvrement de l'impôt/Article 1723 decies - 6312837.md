@@ -6,7 +6,7 @@ l'article 1731 sont dus par le redevable du versement.
 
 Le recouvrement, tant de la créance du Trésor que de l'intérêt de retard et de la majoration, est poursuivi par les
 comptables publics compétents dans les conditions fixées au titre IV du livre des procédures fiscales. Il est garanti par le
-privilège du Trésor prévu à l'article 1929 1 et, à défaut d'un engagement solidaire contracté dans le délai d'un mois à
+privilège du Trésor prévu au 1 de l'article 1929 et, à défaut d'un engagement solidaire contracté dans le délai d'un mois à
 compter de la date de la délivrance de l'autorisation de construire par une ou plusieurs personnes physiques ou morales
 agréées comme caution par le comptable public compétent, par une hypothèque légale portant sur le terrain et sur les
 constructions. 
@@ -34,4 +34,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
