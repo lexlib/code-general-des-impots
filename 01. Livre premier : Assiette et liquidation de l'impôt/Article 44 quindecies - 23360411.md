@@ -31,7 +31,7 @@ maritime ;
 d) Le capital de l'entreprise créée ou reprise n'est pas détenu, directement ou indirectement, pour plus de 50 % par d'autres
 sociétés ; 
 
-e) L'entreprise n'est pas créée dans le cadre d'une extension d'activités préexistantes.L'existence d'un contrat, quelle
+e) L'entreprise n'est pas créée dans le cadre d'une extension d'activités préexistantes. L'existence d'un contrat, quelle
 qu'en soit la dénomination, ayant pour objet d'organiser un partenariat caractérise l'extension d'une activité préexistante
 lorsque l'entreprise créée ou reprenant l'activité bénéficie de l'assistance de ce partenaire, notamment en matière
 d'utilisation d'une enseigne, d'un nom commercial, d'une marque ou d'un savoir-faire, de conditions d'approvisionnement, de
@@ -41,8 +41,7 @@ est placée dans une situation de dépendance.
 III. L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale
 mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre
 d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A, 44
-septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime
-d'aménagement du territoire.
+septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime d'aménagement du territoire. 
 
 L'exonération ne s'applique pas non plus dans les situations suivantes : 
 
@@ -64,13 +63,17 @@ civil, de leurs ascendants et descendants ou de leurs frères et sœurs.
 IV. ― Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44
 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies et du régime prévu au présent
 article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est
-irrévocable et emporte renonciation définitive aux autres régimes.
+irrévocable et emporte renonciation définitive aux autres régimes. 
 
 V. ― Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (CE) n° 1998/2006 de la
 Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
 VI. ― L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de
 la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
+
+**Nota:**
+
+Au premier alinéa du III, les références : ", 44 decies, 44 undecies " sont périmées.
 
 **Liens relatifs à cet article**
 
@@ -94,13 +97,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Livre des procédures fiscales - art. L80 B (V)
 
-_Modifié par_:
-
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
-
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1465 A
+  - Code général des impôts, CGI. - art. 44 septies (V)
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 92
