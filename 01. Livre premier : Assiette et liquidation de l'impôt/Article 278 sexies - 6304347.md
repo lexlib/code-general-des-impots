@@ -44,7 +44,7 @@ mentionnée à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientati
 rénovation urbaine et situées sur des terrains octroyés au titre des contreparties mentionnées au onzième alinéa de l'article
 L. 313-3 du code de la construction et de l'habitation et dont la réalisation était initialement prévue par l'association
 mentionnée à l'article L. 313-34 du même code. Ces logements sont destinés à être occupés par des ménages dont le total des
-ressources n'excède pas le montant mentionné à l'article R. 391-8 dudit code ;  
+ressources n'excède pas le montant mentionné à l'article R. 391-8 dudit code ; 
 
 8. Les livraisons de locaux aux établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de l'action sociale
 et des familles, agissant sans but lucratif et dont la gestion est désintéressée, de même pour la seule partie des locaux
@@ -76,7 +76,7 @@ I ;
 
 III. - (Abrogé) ;
 
-IV. - A. - Les livraisons à soi-même de travaux de rénovation portant sur les locaux mentionnés aux 2 à 8 du I et ayant pour
+IV. - 1. - Les livraisons à soi-même de travaux de rénovation portant sur les locaux mentionnés aux 2 à 8 du I et ayant pour
 objet de concourir directement à : 
 
 1° La réalisation d'économies d'énergie et de fluides, concernant : 
@@ -111,7 +111,7 @@ foncière ;
 sécurité des installations de gaz et d'électricité, de prévention des risques naturels, miniers et technologiques ou
 d'installation de dispositifs de retenue des personnes. 
 
-B. - Les livraisons à soi-même de travaux induits et indissociablement liés aux travaux prévus au A.
+2. - Les livraisons à soi-même de travaux induits et indissociablement liés aux travaux prévus au 1.
 
 **Nota:**
 
@@ -174,6 +174,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 68 (V)
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 29
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
