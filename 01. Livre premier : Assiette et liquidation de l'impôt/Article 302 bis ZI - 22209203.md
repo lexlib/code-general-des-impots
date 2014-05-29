@@ -5,12 +5,16 @@ loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à 
 hasard en ligne, un prélèvement sur les sommes engagées par les joueurs. 
 
 Ce prélèvement est dû par les personnes devant être soumises, en tant qu'opérateur de jeux de cercle en ligne, à l'agrément
-mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée.  
+mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée. 
 
 Le produit de ce prélèvement est affecté à concurrence de 15 % et dans la limite indexée, chaque année, sur la prévision de
-l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 10 503 195 € aux
+l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 10 639 737 € aux
 communes dans le ressort territorial desquelles sont ouverts au public un ou plusieurs établissements visés au premier alinéa
 de l'article L. 321-1 du code de la sécurité intérieure, au prorata du produit brut des jeux de ces établissements.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 47 de la loi n° 2010-476 du 12 mai 2010
 
 **Liens relatifs à cet article**
 
@@ -23,8 +27,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (MMN)
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 47
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 

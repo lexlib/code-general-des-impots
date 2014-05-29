@@ -1,8 +1,7 @@
 # Article 223 quinquies B
 
 Les personnes morales établies en France et mentionnées à l'article L. 13 AA du livre des procédures fiscales sont tenues de
-fournir, dans le délai de six mois qui suit l'échéance prévue au 1 de l'article 223 du présent code, les documents
-suivants : 
+fournir, dans le délai de six mois qui suit l'échéance prévue au 1 de l'article 223, les documents suivants : 
 
 1° Des informations générales sur le groupe d'entreprises associées : 
 
@@ -32,10 +31,11 @@ l'obligation de dépôt arrive à échéance à compter du 8 décembre 2013.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 45 (V)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 223 (V)
   - Livre des procédures fiscales - art. L13 AA
