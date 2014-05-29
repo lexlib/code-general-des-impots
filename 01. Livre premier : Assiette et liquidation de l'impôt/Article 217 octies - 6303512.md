@@ -12,9 +12,9 @@ risque doit, en outre, être constitué de titres, de parts ou d'actions reçus 
 de titres, de parts ou d'actions reçus en contrepartie d'obligations converties de petites ou moyennes entreprises innovantes
 à hauteur d'un pourcentage au moins égal à celui mentionné au III du même article. 
 
-II. ― Les petites et moyennes entreprises innovantes mentionnées au I du présent article s'entendent de celles des petites et
-moyennes entreprises, au sens du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories
-d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par
+II. ― Les petites et moyennes entreprises innovantes mentionnées au I s'entendent de celles des petites et moyennes
+entreprises, au sens du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide
+compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par
 catégorie) : 
 
 1° Qui ont leur siège dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
@@ -24,14 +24,14 @@ et l'évasion fiscales ;
 2° Et qui remplissent l'une des conditions mentionnées aux 1° ou 2° du I de l'article L. 214-30 du code monétaire et
 financier. 
 
-III. ― A. ― Les entreprises mentionnées au premier alinéa du I du présent article ne doivent pas détenir, directement ou
-indirectement, plus de 20 % du capital ou des droits de vote de la petite ou moyenne entreprise innovante. 
+III. ― 1. ― Les entreprises mentionnées au premier alinéa du I ne doivent pas détenir, directement ou indirectement, plus de
+20 % du capital ou des droits de vote de la petite ou moyenne entreprise innovante. 
 
-B. ― Lorsque des entreprises mentionnées au premier alinéa du I du présent article sont liées, au sens du 12 de l'article 39,
-elles ne doivent pas détenir ensemble, directement ou indirectement, plus de 20 % du capital ou des droits de vote de la
-petite ou moyenne entreprise innovante. 
+2. ― Lorsque des entreprises mentionnées au premier alinéa du I sont liées, au sens du 12 de l'article 39, elles ne doivent
+pas détenir ensemble, directement ou indirectement, plus de 20 % du capital ou des droits de vote de la petite ou moyenne
+entreprise innovante. 
 
-C. ― Les conditions prévues au présent III doivent être respectées de manière continue au cours de la période
+3. ― Les conditions prévues au présent III doivent être respectées de manière continue au cours de la période
 d'amortissement. 
 
 IV. ― La valeur des titres, des parts ou des actions détenus par l'entreprise mentionnée au premier alinéa du I qui peuvent
@@ -47,11 +47,11 @@ de retard prévu à l'article 1727, est réintégré au bénéfice imposable de 
 le non-respect d'une condition prévue aux mêmes I à IV. 
 
 VI. ― Lorsque les titres, les parts ou les actions ayant ouvert droit à l'amortissement exceptionnel prévu au I sont cédés
-après le délai mentionné au V du présent article, la plus-value de cession est imposée au taux normal de l'impôt sur les
-sociétés prévu au deuxième alinéa du I de l'article 219, à hauteur du montant de l'amortissement pratiqué. 
+après le délai mentionné au V, la plus-value de cession est imposée au taux normal de l'impôt sur les sociétés prévu au
+deuxième alinéa du I de l'article 219, à hauteur du montant de l'amortissement pratiqué. 
 
 Cette plus-value s'entend de l'excédent du prix de cession des titres, parts ou actions sur leur valeur d'origine diminuée
-des amortissements déduits en application du I du présent article et non encore rapportés au jour de la cession. 
+des amortissements déduits en application du I et non encore rapportés au jour de la cession. 
 
 Le taux normal de l'impôt sur les sociétés s'applique également pour l'imposition, à hauteur de l'amortissement pratiqué : 
 
@@ -77,7 +77,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 15 (M)
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cité par_:
 
@@ -86,8 +86,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1727 (V)
-  - Code général des impôts, CGI. - art. 219 (V)
-  - Code général des impôts, CGI. - art. 39 (V)
-  - Code général des impôts, CGI. - art. 39 terdecies (V)
-  - Code monétaire et financier - art. L214-30 (V)
+  - Code général des impôts, CGI. - art. 1727
+  - Code général des impôts, CGI. - art. 219
+  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 39 terdecies
+  - Code monétaire et financier - art. L214-30
