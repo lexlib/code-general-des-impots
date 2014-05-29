@@ -51,21 +51,21 @@ est calculée en ajoutant à cette base le prix des acquisitions de terrains en 
 boiser réalisées les trois années précédentes pour constituer cette unité et pour lesquels l'acquéreur doit prendre les
 engagements mentionnés au même a ; 
 
-b) Du prix d'acquisition ou de souscription défini au b du même 2 ; 
+b) Du prix d'acquisition ou de souscription défini au b du 2 ; 
 
-c) D'une fraction égale à 60 % du prix d'acquisition ou de souscription défini au c dudit 2 ; 
+c) D'une fraction égale à 60 % du prix d'acquisition ou de souscription défini au c du 2 ; 
 
-d) De la cotisation d'assurance mentionnée au d du même 2 et payée par le contribuable ou de la fraction de cette cotisation
-payée par le groupement forestier ou la société d'épargne forestière correspondant aux droits que le contribuable détient
-dans ces derniers. 
+d) De la cotisation d'assurance mentionnée au d du 2 et payée par le contribuable ou de la fraction de cette cotisation payée
+par le groupement forestier ou la société d'épargne forestière correspondant aux droits que le contribuable détient dans ces
+derniers. 
 
-La réduction d'impôt n'est pas applicable aux cotisations mentionnées au d dudit 2 payées dans le cadre de l'utilisation de
+La réduction d'impôt n'est pas applicable aux cotisations mentionnées au d du 2 payées dans le cadre de l'utilisation de
 sommes prélevées sur un compte d'investissement forestier et d'assurance prévu au chapitre II du titre V du livre III du code
 forestier. 
 
 4. Le prix d'acquisition ou de souscription mentionné aux a et b du 3 et la fraction du prix d'acquisition ou de souscription
-mentionnée au c du même 3 sont globalement retenus dans la limite de 5 700 € pour une personne célibataire, veuve ou divorcée
-et de 11 400 € pour un couple marié ou pour les partenaires liés par un pacte civil de solidarité, soumis à une imposition
+mentionnée au c du 3 sont globalement retenus dans la limite de 5 700 € pour une personne célibataire, veuve ou divorcée et
+de 11 400 € pour un couple marié ou pour les partenaires liés par un pacte civil de solidarité, soumis à une imposition
 commune. 
 
 Les dépenses mentionnées au d dudit 3 sont retenues dans la limite de 7,2 € par hectare assuré en 2013, 2014 et 2015 et de 6
@@ -83,7 +83,7 @@ est couverte contre le risque de tempête.
 a) Au titre de l'année d'acquisition des terrains mentionnés au a du 2 et de l'année d'acquisition ou de souscription des
 parts mentionnées aux b et c du même 2 ; 
 
-b) Au titre de l'année du paiement de la cotisation d'assurance mentionnée au d dudit 2.
+b) Au titre de l'année du paiement de la cotisation d'assurance mentionnée au d du 2.
 
 7. La réduction d'impôt fait l'objet d'une reprise au titre de l'année où le contribuable, le groupement ou la société
 d'épargne forestière cesse de respecter l'un des engagements mentionnés au 2. Il en est de même en cas de dissolution des
@@ -132,4 +132,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
+  - Décret n°2014-549 du 26 mai 2014 - art. 1
