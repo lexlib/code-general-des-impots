@@ -1,7 +1,7 @@
 # Article 199 undecies C
 
-I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu à
-raison de l'acquisition ou de la construction de logements neufs dans les départements d'outre-mer, à Saint-Pierre-et-
+I. - Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu
+à raison de l'acquisition ou de la construction de logements neufs dans les départements d'outre-mer, à Saint-Pierre-et-
 Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna
 si les conditions suivantes sont réunies : 
 
@@ -22,7 +22,7 @@ de celui-ci ;
 en fonction notamment de la localisation du logement ; 
 
 4° Les logements peuvent être spécialement adaptés à l'hébergement de personnes âgées de plus de soixante-cinq ans ou de
-personnes handicapées auxquelles des prestations de services peuvent être proposées ; 
+personnes handicapées auxquelles des prestations de services de nature hôtelière  peuvent être proposées ; 
 
 5° Une part minimale, définie par décret, de la surface habitable des logements compris dans un ensemble d'investissements
 portés simultanément à la connaissance du ministre chargé du budget dans les conditions prévues au VII est sous-louée, dans
@@ -46,19 +46,23 @@ et, le cas échéant, des parts ou actions des sociétés mentionnées au IV peu
 décompté à partir de l'achèvement des fondations. La reprise prévue au 3° du V ne trouve pas à s'appliquer si la location
 prévue au 1° prend fin à la suite d'une cession de l'immeuble au profit du preneur conformément au présent 7° ; 
 
-8° Un montant correspondant au moins à 65 % de la réduction acquise est rétrocédé par le contribuable sous la forme d'une
+8° Un montant correspondant au moins à 70 % de la réduction acquise est rétrocédé par le contribuable sous la forme d'une
 diminution des loyers versés par l'organisme locataire mentionné au 1° et d'une diminution du prix de cession à l'organisme
-locataire ou, le cas échéant, aux personnes physiques mentionnées au 7°. 
+locataire ou, le cas échéant, aux personnes physiques mentionnées au 7° ;
+
+9° Les logements sont financés par subvention publique à hauteur d'une fraction minimale de 5 %. 
 
 La condition mentionnée au 5° n'est pas applicable aux logements dont la convention mentionnée au 7° prévoit la cession à des
 personnes physiques à l'issue de la période de location. 
 
-II.-La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient des logements minoré, d'une part, des taxes et
-des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la
-limite de 2 194 € hors taxes par mètre carré de surface habitable et, dans le cas des logements mentionnés au 4° du I, de
-surface des parties communes dans lesquelles des prestations de services sont proposées. Cette limite est relevée chaque
-année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres du coût de la
-construction dans chaque département ou collectivité. 
+La condition mentionnée au 9° n'est pas applicable aux logements acquis ou construits à Saint-Pierre-et-Miquelon, en
+Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna.  
+
+II. - La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient des logements minoré, d'une part, des taxes
+et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la
+limite mentionnée au 5 de l'article 199 undecies A appréciée  par mètre carré de surface habitable et, dans le cas des
+logements mentionnés au 4° du I, de surface des parties communes dans lesquelles des prestations de services sont proposées.
+Cette limite est relevée chaque année, à la date et dans les conditions prévues au 5 de l'article 199 undecies A.
 
 Un décret peut préciser, en tant que de besoin, la nature des sommes retenues pour l'appréciation du prix de revient
 mentionné au premier alinéa. 
@@ -66,14 +70,14 @@ mentionné au premier alinéa.
 Le III de l'article 199 undecies B est applicable aux investissements ouvrant droit à la réduction d'impôt prévue au présent
 article. 
 
-III.-La réduction d'impôt est accordée au titre de l'année d'achèvement du logement ou de son acquisition si elle est
+III. - La réduction d'impôt est accordée au titre de l'année d'achèvement du logement ou de son acquisition si elle est
 postérieure. 
 
 Lorsque le montant de la réduction d'impôt excède l'impôt dû par le contribuable ayant réalisé l'investissement, le solde
 peut être reporté, dans les mêmes conditions, sur l'impôt sur le revenu des années suivantes jusqu'à la cinquième
 inclusivement. 
 
-IV.-La réduction d'impôt est également acquise au titre des investissements réalisés par une société civile de placement
+IV. - La réduction d'impôt est également acquise au titre des investissements réalisés par une société civile de placement
 immobilier régie par les articles L. 214-114 et suivants du code monétaire et financier ou par toute autre société mentionnée
 à l'article 8 du présent code, à l'exclusion des sociétés en participation, dont les parts ou les actions sont détenues,
 directement ou par l'intermédiaire d'une entreprise unipersonnelle à responsabilité limitée, par des contribuables domiciliés
@@ -82,7 +86,10 @@ revenu, sous réserve des parts détenues par les sociétés d'économie mixte d
 visées à l'article L. 481-1 du code de la construction et de l'habitation, conformément à l'article L. 472-1-9 du code de la
 construction et de l'habitation, par les sociétés d'habitations à loyer modéré. Dans ce cas, la réduction d'impôt est
 pratiquée par les associés ou membres dans une proportion correspondant à leurs droits dans la société au titre de l'année au
-cours de laquelle les parts ou actions sont souscrites. 
+cours de laquelle les parts ou actions sont souscrites. Lorsque l'investissement revêt la forme de la construction d'un
+immeuble ou de l'acquisition d'un immeuble à construire, la réduction d'impôt ne s'applique que si la société qui réalise
+l'investissement s'engage à achever les fondations de l'immeuble dans les deux ans qui suivent la clôture de la souscription
+et à achever l'immeuble dans les deux ans qui suivent la date d'achèvement des fondations.  
 
 La réduction d'impôt est acquise, dans les mêmes conditions, au titre des investissements réalisés par une société soumise de
 plein droit à l'impôt sur les sociétés dont les actions sont détenues intégralement et directement par des contribuables,
@@ -112,7 +119,7 @@ d'application du présent article sont réunies. L'associé doit s'engager à co
 jusqu'au terme de la location prévue au 1° du I. Le produit de la souscription doit être intégralement investi dans les dix-
 huit mois qui suivent la clôture de celle-ci. 
 
-V.-La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle : 
+V. - La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle : 
 
 1° Les conditions mentionnées au I ou, le cas échéant, au IV ne sont pas respectées ; 
 
@@ -125,25 +132,56 @@ couple soumis à imposition commune et que l'attributaire du bien ou le titulair
 engagements prévus, dans les mêmes conditions et selon les mêmes modalités, pour la période restant à courir à la date du
 décès. 
 
-VI.-La réduction d'impôt prévue au présent article est également ouverte au titre de l'acquisition de logements achevés
+VI. - La réduction d'impôt prévue au présent article est également ouverte au titre de l'acquisition de logements achevés
 depuis plus de vingt ans faisant l'objet de travaux de réhabilitation définis par décret permettant aux logements d'acquérir
 des performances techniques voisines de celles des logements neufs. Dans ce cas, la réduction d'impôt est assise sur le prix
 de revient des logements majoré du coût des travaux de réhabilitation et minoré, d'une part, des taxes et des commissions
 d'acquisition versées et, d'autre part, des subventions publiques reçues. La limite mentionnée au II est applicable. 
 
-VII.-Lorsque le montant par programme des investissements est supérieur à deux millions d'euros, le bénéfice de la réduction
-d'impôt prévue au présent article est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du
-budget dans les conditions prévues au III de l'article 217 undecies. 
+VII. - Lorsque le montant par programme des investissements est supérieur à deux millions d'euros, le bénéfice de la
+réduction d'impôt prévue au présent article est conditionné à l'obtention d'un agrément préalable délivré par le ministre
+chargé du budget dans les conditions prévues au III de l'article 217 undecies. 
 
-VIII.-Un contribuable ne peut, pour un même logement ou une même souscription de parts ou d'actions, bénéficier à la fois de
-l'une des réductions d'impôt prévues aux articles 199 undecies A, 199 tervicies ou 199 septvicies et des dispositions du
+VIII. - Un contribuable ne peut, pour un même logement ou une même souscription de parts ou d'actions, bénéficier à la fois
+de l'une des réductions d'impôt prévues aux articles 199 undecies A, 199 tervicies ou 199 septvicies et des dispositions du
 présent article. 
 
 Les dépenses de travaux retenues pour le calcul de la réduction d'impôt prévue au présent article ne peuvent faire l'objet
 d'une déduction pour la détermination des revenus fonciers. 
 
-IX.-Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de promulgation
-de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.
+IX. - Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de
+promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.
+
+**Nota:**
+
+Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
+l'article 199 undecies C, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à
+compter du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit
+de l'Union européenne. Toutefois, il reste applicable dans les conditions prévues par les dispositions antérieures à la
+présente loi : 
+
+1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration avant le 1er juillet 2014 et : 
+
+a) Pour les biens meubles, qui font l'objet d'une commande avant le 31 décembre 2014 et pour lesquels des acomptes au moins
+égaux à 50 % de leur prix ont été versés à cette date ; 
+
+b) Pour les travaux de réhabilitation d'immeubles, pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été
+versés au plus tard le 31 décembre 2014 ; 
+
+c) Qui portent sur des biens immeubles dont l'achèvement des fondations intervient au plus tard le 31 décembre 2015 ; 
+
+2° Aux acquisitions d'immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier avant le 1er juillet 2014 ; 
+
+3° Aux acquisitions de biens meubles corporels commandés avant le 1er juillet 2014 et pour lesquels des acomptes au moins
+égaux à 50 % de leur prix ont été versés à cette date ; 
+
+4° Aux travaux de réhabilitation d'immeubles pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés
+avant le 1er juillet 2014. 
+
+Les entreprises qui réalisent les investissements mentionnés aux 1° à 4° du présent III peuvent opter, quel que soit leur
+chiffre d'affaires, pour l'application à ces investissements du crédit d'impôt prévu à l'article 244 quater W du code général
+des impôts, dans les conditions prévues au V de ce même article, ou, le cas échéant, pour l'application à ces investissements
+du crédit d'impôt prévu à l'article 244 quater X du même code, dans les conditions prévues au V de ce même article.
 
 **Liens relatifs à cet article**
 
@@ -151,9 +189,6 @@ _Cite_:
 
   - Loi n°2009-594 du 27 mai 2009
   - Code général des impôts, CGI. - art. 150-0 D
-  - Code général des impôts, CGI. - art. 199 septvicies (V)
-  - Code général des impôts, CGI. - art. 199 tervicies (V)
-  - Code général des impôts, CGI. - art. 199 undecies A (VT)
   - Code général des impôts, CGI. - art. 199 undecies B
   - Code général des impôts, CGI. - art. 217 undecies
   - Code général des impôts, CGI. - art. 4 B
@@ -196,4 +231,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (M)
