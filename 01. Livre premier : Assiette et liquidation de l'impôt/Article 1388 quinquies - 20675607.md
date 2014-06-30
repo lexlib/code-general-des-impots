@@ -79,6 +79,10 @@ contribuable bénéficie, au terme de l'application de celui de ces régimes don
 l'abattement prévu par le présent article, pour la période restant à courir et dans les conditions prévues au II ou au III
 pour les années concernées.
 
+VIII. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission,
+du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107
+et 108 du traité.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -91,9 +95,8 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1383 C bis
   - Code général des impôts, CGI. - art. 1383 D
   - Code général des impôts, CGI. - art. 1383 E bis
-  - Code général des impôts, CGI. - art. 1383 F
   - Code général des impôts, CGI. - art. 1383 I
-  - Code général des impôts, CGI. - art. 1466 F
+  - Code général des impôts, CGI. - art. 1466 F (M)
   - Code général des impôts, CGI. - art. 1639 A bis
   - Code général des impôts, CGI. - art. 44 quaterdecies
   - Code général des collectivités territoriales - art. L2334-2
@@ -112,4 +115,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
