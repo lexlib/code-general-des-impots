@@ -1,10 +1,19 @@
 # Article 199 undecies B
 
-I. Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu à
-raison des investissements productifs neufs qu'ils réalisent dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon,
+I. - Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu
+à raison des investissements productifs neufs qu'ils réalisent dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon,
 en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy, dans les îles Wallis-et-Futuna et les
 Terres australes et antarctiques françaises, dans le cadre d'une entreprise exerçant une activité agricole ou une activité
-industrielle, commerciale ou artisanale relevant de l'article 34. 
+industrielle, commerciale ou artisanale relevant de l'article 34. Lorsque l'activité est exercée dans un département d'outre-
+mer, l'entreprise doit avoir réalisé un chiffre d'affaires, au titre de son dernier exercice clos, inférieur à 20 millions
+d'euros. Lorsque l'entreprise n'a clôturé aucun exercice, son chiffre d'affaires est réputé être nul. Si le dernier exercice
+clos est d'une durée de plus ou de moins de douze mois, le montant du chiffre d'affaires est corrigé pour correspondre à une
+période de douze mois. Lorsque la réduction d'impôt s'applique dans les conditions prévues aux vingt-sixième et vingt-
+septième alinéas, le chiffre d'affaires s'apprécie au niveau de l'entreprise locataire ou crédit-preneuse. Celle-ci en
+communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux deuxième et cinquième
+phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du 12 de
+l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble des
+entreprises qui lui sont liées. 
 
 Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements réalisés dans les secteurs d'activité suivants : 
 
@@ -41,29 +50,30 @@ k) Les activités associatives ;
 l) Les activités postales. 
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
-résidence de tourisme et de village de vacances classés et aux logiciels qui sont nécessaires à l'utilisation des
-investissements éligibles, lorsque ces travaux et logiciels constituent des éléments de l'actif immobilisé. La réduction
-d'impôt ne s'applique pas à l'acquisition de véhicules de tourisme au sens de l'article 1010 qui ne sont pas strictement
-indispensables à l'activité de l'exploitant. Les conditions d'application de la phrase précédente sont fixées par arrêté du
-ministre chargé du budget et du ministre chargé de l'outre-mer. 
+résidence de tourisme et de village de vacances classés, lorsque ces travaux constituent des éléments de l'actif immobilisé.
+La réduction d'impôt ne s'applique pas à l'acquisition de véhicules soumis à la taxe définie à l'article 1010 qui ne sont pas
+strictement indispensables à l'activité de l'exploitant. Les conditions d'application de la phrase précédente sont fixées par
+arrêté du ministre chargé du budget et du ministre chargé de l'outre-mer. 
 
-La réduction d'impôt prévue au premier alinéa s'applique également aux investissements nécessaires à l'exploitation d'une
-concession de service public local à caractère industriel et commercial réalisés dans des secteurs éligibles, quelles que
-soient la nature des biens et leur affectation finale. La réduction d'impôt prévue au premier alinéa ne s'applique pas aux
-investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil. 
+La réduction d'impôt prévue au premier alinéa s'applique également aux investissements affectés plus de cinq ans par le
+concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial réalisés dans
+des secteurs éligibles. La réduction d'impôt prévue au premier alinéa ne s'applique pas aux investissements portant sur des
+installations de production d'électricité utilisant l'énergie radiative du soleil. 
 
 La réduction d'impôt est de 38,25 % du montant, hors taxes et hors frais de toute nature, notamment les commissions
 d'acquisition, à l'exception des frais de transport, d'installation et de mise en service amortissables, des investissements
-productifs, diminué de la fraction de leur prix de revient financée par une subvention publique. Les projets d'investissement
-comportant l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable sont pris en
-compte dans la limite d'un montant par watt installé fixé par arrêté conjoint des ministres chargés du budget, de l'outre-mer
-et de l'énergie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation
-directement liés à ces équipements. Le taux de la réduction d'impôt est porté à 45,9 % pour les investissements réalisés en
-Guyane et à Mayotte dans les limites définies par les règles communautaires relatives aux aides d'Etat, à Saint-Pierre-et-
-Miquelon ou à Wallis-et-Futuna. Les taux de 38,25 % et 45,9 % susmentionnés sont respectivement portés à 45,9 % et 53,55 %
-pour les investissements réalisés dans le secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt
-est porté à 45,9 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de
-vacances classés réalisés en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques
+productifs, diminué de la fraction de leur prix de revient financée par une aide publique et, lorsque l'investissement a pour
+objet de remplacer un investissement ayant bénéficié de l'un des dispositifs définis au présent article ou aux articles 217
+undecies ou 244 quater W, de la valeur réelle de l'investissement remplacé. Les projets d'investissement comportant
+l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable sont pris en compte dans
+la limite d'un montant par watt installé fixé par arrêté conjoint des ministres chargés du budget, de l'outre-mer et de
+l'énergie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement
+liés à ces équipements. Le taux de la réduction d'impôt est porté à 45,9 % pour les investissements réalisés en Guyane et à
+Mayotte dans les limites définies par les règles communautaires relatives aux aides d'Etat, à Saint-Pierre-et-Miquelon ou à
+Wallis-et-Futuna. Les taux de 38,25 % et 45,9 % susmentionnés sont respectivement portés à 45,9 % et 53,55 % pour les
+investissements réalisés dans le secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt est porté à
+45,9 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
+classés réalisés en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques
 françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. 
 
 Le taux de la réduction d'impôt est porté à 53,55 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence
@@ -76,8 +86,8 @@ quater C, dont les parts sont détenues directement, ou par l'intermédiaire d'u
 limitée, par des contribuables domiciliés en France au sens de l'article 4 B. En ce cas, la réduction d'impôt est pratiquée
 par les associés ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
 
-La réduction d'impôt prévue au premier alinéa est pratiquée au titre de l'année au cours de laquelle l'investissement est
-réalisé. Toutefois, en cas d'acquisition d'un immeuble à construire ou de construction d'immeuble, la réduction d'impôt
+La réduction d'impôt prévue au premier alinéa est pratiquée au titre de l'année au cours de laquelle l'investissement est mis
+en service. Toutefois, en cas d'acquisition d'un immeuble à construire ou de construction d'immeuble, la réduction d'impôt
 prévue au premier alinéa est pratiquée au titre de l'année au cours de laquelle les fondations sont achevées. Si l'immeuble
 n'est pas achevé dans les deux ans suivant la date à laquelle les fondations sont achevées, la réduction d'impôt pratiquée
 fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai. 
@@ -117,25 +127,25 @@ dispositions du vingt-troisième alinéa.
 
 La réduction d'impôt prévue au présent I s'applique aux investissements productifs mis à la disposition d'une entreprise dans
 le cadre d'un contrat de location si les conditions mentionnées aux quinzième à dix-huitième alinéas du I de l'article 217
-undecies sont remplies et si 62,5 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution
-du loyer et du prix de cession du bien à l'exploitant. Ce taux est ramené à 52,63 % pour les investissements dont le montant
-par programme et par exercice est inférieur à 300 000 € par exploitant. Si, dans le délai de cinq ans de la mise à
-disposition du bien loué ou pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au
-présent alinéa cesse d'être respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours
-de laquelle cet événement se réalise. Le revenu global de cette même année est alors majoré des déficits indûment imputés en
-application du I bis. Lorsque l'entreprise locataire cesse son activité dans le délai mentionné à la troisième phrase, la
-reprise de la réduction d'impôt est limitée aux trois quarts du montant de cette réduction d'impôt. Il n'est pas procédé à la
-reprise mentionnée à la troisième phrase lorsque, en cas de défaillance de l'entreprise locataire, les biens ayant ouvert
-droit à la réduction d'impôt sont donnés en location à une nouvelle entreprise qui s'engage à les maintenir dans l'activité
-pour laquelle ils ont été acquis ou créés pendant la fraction du délai de cinq ans restant à courir dans les conditions
-prévues au présent alinéa. L'octroi de la réduction d'impôt prévue au premier alinéa est subordonné au respect par les
-entreprises réalisant l'investissement et, le cas échéant, les entreprises exploitantes de leurs obligations fiscales et
-sociales et de l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23
-du code de commerce à la date de réalisation de l'investissement. Sont considérés comme à jour de leurs obligations fiscales
-et sociales les employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations restant dues et,
-d'autre part, acquittent les cotisations en cours à leur date normale d'exigibilité. Pour l'application de la première phrase
-en Nouvelle-Calédonie et en Polynésie française, les références aux dispositions du code de commerce sont remplacées par les
-dispositions prévues par la réglementation applicable localement. 
+undecies sont remplies et si 66 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution
+du loyer et du prix de cession du bien à l'exploitant. Ce taux est ramené à 56 % pour les investissements dont le montant par
+programme est inférieur à 300 000 € par exploitant. Si, dans le délai de cinq ans de la mise à disposition du bien loué ou
+pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au présent alinéa cesse d'être
+respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours de laquelle cet événement
+se réalise. Le revenu global de cette même année est alors majoré des déficits indûment imputés en application du I bis.
+Lorsque l'entreprise locataire cesse son activité dans le délai mentionné à la troisième phrase, la reprise de la réduction
+d'impôt est limitée aux trois quarts du montant de cette réduction d'impôt. Il n'est pas procédé à la reprise mentionnée à la
+troisième phrase lorsque, en cas de défaillance de l'entreprise locataire, les biens ayant ouvert droit à la réduction
+d'impôt sont donnés en location à une nouvelle entreprise qui s'engage à les maintenir dans l'activité pour laquelle ils ont
+été acquis ou créés pendant la fraction du délai de cinq ans restant à courir dans les conditions prévues au présent alinéa.
+L'octroi de la réduction d'impôt prévue au premier alinéa est subordonné au respect par les entreprises réalisant
+l'investissement et, le cas échéant, les entreprises exploitantes de leurs obligations fiscales et sociales et de
+l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23 du code de
+commerce à la date de réalisation de l'investissement. Sont considérés comme à jour de leurs obligations fiscales et sociales
+les employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations restant dues et, d'autre part,
+acquittent les cotisations en cours à leur date normale d'exigibilité. Pour l'application de la première phrase en Nouvelle-
+Calédonie et en Polynésie française, les références aux dispositions du code de commerce sont remplacées par les dispositions
+prévues par la réglementation applicable localement. 
 
 La réduction d'impôt prévue au présent I s'applique, dans les conditions prévues au vingt-sixième alinéa, aux investissements
 réalisés par une société soumise de plein droit à l'impôt sur les sociétés dont les actions sont détenues intégralement et
@@ -147,7 +157,7 @@ L'application de cette disposition est subordonnée au respect des conditions su
 l'article 217 undecies ; 
 
 2° Les investissements sont mis à la disposition d'une entreprise dans le cadre d'un contrat de location respectant les
-conditions mentionnées aux quinzième à dix-huitième alinéas du I de l'article 217 undecies et 62,5 % de la réduction d'impôt
+conditions mentionnées aux quinzième à dix-huitième alinéas du I de l'article 217 undecies et 66 % de la réduction d'impôt
 sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et du prix de cession du bien à l'exploitant. Les
 dispositions du trente-troisième alinéa sont applicables ; 
 
@@ -169,35 +179,35 @@ l'engagement d'utiliser effectivement pendant sept ans au moins ces investisseme
 ils ont été acquis ou créés. 
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
-neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 62,5 %, les taux de
+neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 66 %, les taux de
 38,25 % et 45,9 % mentionnés au dix-septième alinéa sont, respectivement, portés à 45,3 % et 54,36 % et les taux de 45,9 % et
 53,55 % mentionnés à la cinquième phrase du même alinéa sont, respectivement, portés à 54,36 % et 63,42 %. Dans les mêmes
 conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 63,42 %. 
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
-neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 52,63 %, les taux de
+neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 56 %, les taux de
 38,25 % et 45,9 % mentionnés au dix-septième alinéa sont, respectivement, portés à 44,12 % et 52,95 % et les taux de 45,9 %
 et 53,55 % mentionnés à la cinquième phrase du même alinéa sont, respectivement, portés à 52,95 % et 61,77 %. Dans les mêmes
 conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 61,77 %.
 
-I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième alinéa du I, d'un hôtel, d'une résidence de
+I bis. - 1. En cas de location, dans les conditions mentionnées au vingt-sixième alinéa du I, d'un hôtel, d'une résidence de
 tourisme ou d'un village de vacances classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant droit
 au bénéfice des dispositions du dix-huitième alinéa du I, les dispositions du II de l'article 39 C et, pour la partie de
 déficit provenant des travaux bénéficiant des dispositions du dix-huitième alinéa du I, les dispositions du 1° bis du I de
 l'article 156 ne sont pas applicables. 
 
 2. Les dispositions du 1 sont applicables sur agrément préalable du ministre chargé du budget dans les conditions prévues aux
-1 et 2 du III de l'article 217 undecies et si 62,5 % de l'avantage en impôt procuré par l'imputation des déficits provenant
-de la location d'un hôtel, d'une résidence de tourisme ou d'un village de vacances classés et par la réduction d'impôt visée
-au dix-huitième alinéa du I sont rétrocédés à l'entreprise locataire sous forme de diminution de loyer et du prix de cession
-du bien à l'exploitant. 
+1 et 2 du III de l'article 217 undecies et si 66 % de l'avantage en impôt procuré par l'imputation des déficits provenant de
+la location d'un hôtel, d'une résidence de tourisme ou d'un village de vacances classés et par la réduction d'impôt visée au
+dix-huitième alinéa du I sont rétrocédés à l'entreprise locataire sous forme de diminution de loyer et du prix de cession du
+bien à l'exploitant. 
 
 3. Les dispositions du 1 sont applicables, pour une durée de cinq ans à compter de la date de clôture de l'exercice de
 livraison ou d'achèvement, aux opérations de rénovation ou de réhabilitation d'un hôtel, d'une résidence de tourisme ou d'un
 village de vacances classés réalisées entre la date d'entrée en vigueur de la loi n° 2003-660 du 21 juillet 2003 de programme
 pour l'outre-mer et le 31 décembre 2008. 
 
-I ter.-Le I s'applique aux équipements et opérations de pose de câbles sous-marins de communication desservant pour la
+I ter. - Le I s'applique aux équipements et opérations de pose de câbles sous-marins de communication desservant pour la
 première fois la Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, la Polynésie française, Saint-Barthélemy, Saint-
 Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie ou les Terres australes et antarctiques
 françaises lorsque, parmi les options techniques disponibles pour développer les systèmes de communication outre-mer, le
@@ -231,15 +241,15 @@ aux a, b et c. La base éligible de la réduction d'impôt est égale au quart d
 toute nature, notamment les commissions d'acquisition, à l'exception des frais de transport de ces équipements et opérations,
 diminué du montant des subventions publiques accordées pour leur financement. 
 
-II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 1 000 000 €
-ne peuvent ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions
-prévues au III de l'article 217 undecies. 
+II. - 1. Les investissements mentionnés au I et dont le montant total par programme est supérieur à 1 000 000 € ne peuvent
+ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au
+III de l'article 217 undecies. 
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
-par programme et par exercice est supérieur à 250 000 €, lorsque le contribuable ne participe pas à l'exploitation au sens
-des dispositions du 1° bis du I de l'article 156. Le seuil de 250 000 € s'apprécie au niveau de l'entreprise, société ou
-groupement qui inscrit l'investissement à l'actif de son bilan ou qui en est locataire lorsqu'il est pris en crédit-bail
-auprès d'un établissement financier. 
+par programme est supérieur à 250 000 €, lorsque le contribuable ne participe pas à l'exploitation au sens des dispositions
+du 1° bis du I de l'article 156. Le seuil de 250 000 € s'apprécie au niveau de l'entreprise, société ou groupement qui
+inscrit l'investissement à l'actif de son bilan ou qui en est locataire lorsqu'il est pris en crédit-bail auprès d'un
+établissement financier. 
 
 2. Pour ouvrir droit à réduction et par dérogation aux dispositions du 1, les investissements mentionnés au I doivent avoir
 reçu l'agrément préalable du ministre chargé du budget dans les conditions prévues au III de l'article 217 undecies
@@ -249,13 +259,50 @@ synthétiques, de l'industrie automobile ou concernant la rénovation et la réh
 de village de vacances classés ou des entreprises en difficultés ou qui sont nécessaires à l'exploitation d'une concession de
 service public local à caractère industriel et commercial. 
 
-III.-Les aides octroyées par la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles
+III. - Les aides octroyées par la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles
 Wallis et Futuna ainsi que la Nouvelle-Calédonie dans le cadre de leur compétence fiscale propre au titre de projets
 d'investissements sont sans incidence sur la détermination du montant des dépenses éligibles retenues pour l'application des
 I et I ter. 
 
-IV. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I bis, I ter et II et
+IV. - Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I bis, I ter et II et
 notamment les obligations déclaratives.
+
+**Nota:**
+
+Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
+l'article 199 undecies B, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à
+compter du 1er janvier 2015. Toutefois, il reste applicable dans les conditions prévues par les dispositions antérieures à la
+présente loi :
+
+1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration avant le 1er janvier 2015 et : 
+
+a) Pour les biens meubles, qui font l'objet d'une commande avant le 30 juin 2015 et pour lesquels des acomptes au moins égaux
+à 50 % de leur prix ont été versés à cette date ; 
+
+b) Pour les travaux de réhabilitation d'immeubles, pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été
+versés au plus tard le 30 juin 2015 ; 
+
+c) Qui portent sur des biens immeubles dont l'achèvement des fondations intervient au plus tard le 30 juin 2016 ; 
+
+2° Aux acquisitions d'immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier avant le 1er janvier 2015 ; 
+
+3° Aux acquisitions de biens meubles corporels commandés avant le 1er janvier 2015 et pour lesquels des acomptes au moins
+égaux à 50 % de leur prix ont été versés à cette date ; 
+
+4° Aux travaux de réhabilitation d'immeubles pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés
+avant le 1er janvier 2015. 
+
+Les entreprises qui réalisent les investissements mentionnés aux 1° à 4° du présent III peuvent opter, quel que soit leur
+chiffre d'affaires, pour l'application à ces investissements du crédit d'impôt prévu à l'article 244 quater W du code général
+des impôts, dans les conditions prévues au V de ce même article, ou, le cas échéant, pour l'application à ces investissements
+du crédit d'impôt prévu à l'article 244 quater X du même code, dans les conditions prévues au V de ce même article. 
+
+IV.-Une évaluation des dispositifs prévus aux articles 244 quater W et 244 quater X du code général des impôts est réalisée
+annuellement à compter de 2017. 
+
+V.-Le Gouvernement remet au Parlement, avant le 1er octobre 2014, un rapport étudiant l'opportunité et les modalités de la
+mise en place d'un prêt bonifié servi par la Caisse des dépôts et consignations qui se substituerait au moins partiellement à
+l'aide fiscale à l'investissement outre-mer pour le secteur du logement social.
 
 **Liens relatifs à cet article**
 
@@ -341,4 +388,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (M)
