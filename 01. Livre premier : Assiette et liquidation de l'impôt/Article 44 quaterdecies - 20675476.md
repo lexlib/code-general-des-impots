@@ -11,7 +11,10 @@ d'euros ;
 l'article 199 undecies B ou correspond à l'une des activités suivantes : comptabilité, conseil aux entreprises, ingénierie ou
 études techniques à destination des entreprises ; 
 
-3° Elles sont soumises soit à un régime réel d'imposition, soit à l'un des régimes définis aux articles 50-0 et 102 ter. 
+3° Elles sont soumises soit à un régime réel d'imposition, soit à l'un des régimes définis aux articles 50-0 et 102 ter ; 
+
+4° Elles ne sont pas en difficulté, au sens du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
+certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité. 
 
 Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque exercice au titre duquel l'abattement prévu au
 premier alinéa est pratiqué. La condition prévue au 3° doit être satisfaite pour chaque exercice au titre duquel cet
@@ -136,6 +139,9 @@ son terme et selon les modalités qui la régissent.
 
 VIII.-Les obligations déclaratives des entreprises sont fixées par décret.
 
+IX. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du
+17 juin 2014, précité.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -180,4 +186,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 3
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
