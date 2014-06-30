@@ -1,9 +1,9 @@
 # Article 242 septies
 
 L'activité professionnelle consistant à obtenir pour autrui les avantages fiscaux prévus aux articles 199 undecies A, 199
-undecies B, 199 undecies C, 
-217 undecies et 217 duodecies ne peut être exercée que par les entreprises inscrites sur un registre tenu par le représentant
-de l'Etat dans le département ou la collectivité dans lequel ces entreprises ont leur siège social. 
+undecies B, 199 undecies C, 217 undecies, 217 duodecies, 244 quater W ou 244 quater X ne peut être exercée que par les
+entreprises inscrites sur un registre tenu par le représentant de l'Etat dans le département ou la collectivité dans lequel
+ces entreprises ont leur siège social. 
 
 Ne peuvent être inscrites sur ce registre que les entreprises qui satisfont aux conditions suivantes : 
 
@@ -22,9 +22,9 @@ Ne peuvent être inscrites sur ce registre que les entreprises qui satisfont aux
 Les opérations réalisées par ces entreprises en application des dispositions mentionnées au premier alinéa sont déclarées
 annuellement à l'administration fiscale, quel que soit le montant de l'investissement ouvrant droit aux avantages fiscaux
 mentionnés au premier alinéa. Pour chaque opération sont précisés la nature et le montant de l'investissement, son lieu de
-situation, les conditions de son exploitation, l'identité de l'exploitant, le montant de la base éligible à l'avantage en
-impôt, la part de l'avantage en impôt rétrocédée, le cas échéant, à l'exploitant ainsi que le montant de la commission
-d'acquisition et de tout honoraire demandés aux clients. 
+situation, les conditions de son exploitation, l'identité de l'exploitant, les noms et adresses des investisseurs,  le
+montant de la base éligible à l'avantage en impôt, la part de l'avantage en impôt rétrocédée, le cas échéant, à l'exploitant
+ainsi que le montant de la commission d'acquisition et de tout honoraire demandés aux clients. 
 
 Lorsque l'investissement est exploité dans une collectivité d'outre-mer ou en Nouvelle-Calédonie, l'administration fiscale
 transmet au représentant de l'Etat les informations mentionnées à la seconde phrase de l'alinéa précédent. 
@@ -43,22 +43,27 @@ Le présent article n'est pas applicable aux investissements réalisés avant la
 cette date. Le onzième alinéa du présent article ne s'applique pas aux opérations pour lesquelles les entreprises mentionnées
 au premier alinéa ont été missionnées avant la date de promulgation de la loi n° 2011-1977 du 28 décembre 2011 précitée.
 
+**Nota:**
+
+Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
+l'article 242 septies, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à compter
+du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit de
+l'Union européenne. 
+
+Le III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 a été modifié par l'article 67 de la loi n° 2014-1655 du 29
+décembre 2014. Il en résulte que les dispositions de l'article 242 septies, dans leur rédaction issue de la loi n° 2013-1278,
+sont applicables aux investissements réalisés à compter du 1er janvier 2015.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 101 (V)
 
 _Cite_:
 
   - Loi n°2011-1977 du 28 décembre 2011
-  - Code général des impôts, CGI. - art. 199 undecies A (V)
-  - Code général des impôts, CGI. - art. 199 undecies B (VT)
-  - Code général des impôts, CGI. - art. 217 undecies (VT)
+  - Code général des impôts, CGI. - art. 199 undecies A
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 85
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
 
 _Cité par_:
 
