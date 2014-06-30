@@ -37,9 +37,9 @@ VI. - Le bénéfice des exonérations de cotisation sur la valeur ajoutée des e
 prévu au IV est perdu lorsque les conditions de l'exonération ou de l'abattement correspondant de cotisation foncière des
 entreprises ne sont plus réunies. 
 
-Le bénéfice de l'exonération de cotisation sur la valeur ajoutée des entreprises est, le cas échéant, subordonné au respect
-du même règlement communautaire que celui appliqué pour l'exonération de cotisation foncière des entreprises dont
-l'établissement bénéficie. 
+Le bénéfice de l'exonération ou de l'abattement de cotisation sur la valeur ajoutée des entreprises est, le cas échéant,
+subordonné au respect du même règlement communautaire que celui appliqué pour l'exonération ou l'abattement de cotisation
+foncière des entreprises dont l'établissement bénéficie. 
 
 VII. - Lorsqu'une entreprise dispose de plusieurs établissements dans une même commune, sa valeur ajoutée imposée dans la
 commune est, pour l'application du présent article, répartie entre ces établissements selon les modalités prévues au III de
@@ -59,12 +59,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1464 A
   - Code général des impôts, CGI. - art. 1465
-  - Code général des impôts, CGI. - art. 1466 A (M)
+  - Code général des impôts, CGI. - art. 1466 A
   - Code général des impôts, CGI. - art. 1586 octies
   - Code général des impôts, CGI. - art. 1639 A bis
