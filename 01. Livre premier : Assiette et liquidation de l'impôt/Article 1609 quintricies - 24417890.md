@@ -11,11 +11,15 @@ aux titres Ier et II du livre VI du code de la sécurité intérieure ;
 2° Les personnes morales mentionnées à l'article L. 612-25 du même code qui, agissant pour leur propre compte, font exécuter
 en France par certains de leurs salariés une ou plusieurs de ces activités.
 
+3° Les personnes morales, quelle que soit leur nationalité, à qui a été délivrée l'autorisation d'exercice prévue à l'article
+L. 612-9 dudit code, pour effectuer l'activité mentionnée au 4° de l'article L. 611-1 de ce même code.
+
 Les activités mentionnées aux articles L. 621-1 et L. 622-1 du même code sont réputées se situer en France lorsqu'elles sont
 effectuées pour les besoins d'une personne établie ou domiciliée en France.
 
-III. – Pour les personnes morales et physiques mentionnées au 1° du II, la contribution est calculée au taux de 0,5 % sur le
-montant hors taxe des ventes de prestations de services d'activités privées de sécurité assurées en France par ces personnes.
+III. – Pour les personnes morales et physiques mentionnées auX 1° et 3° du II, la contribution est calculée au taux de 0,5 %
+sur le montant hors taxe des ventes de prestations de services d'activités privées de sécurité assurées en France par ces
+personnes.
 
 Le fait générateur et l'exigibilité de la contribution interviennent dans les mêmes conditions que celles applicables en
 matière de taxe sur la valeur ajoutée.
@@ -52,19 +56,17 @@ destinataire de la prestation imposable.
 VII. – Le montant de la contribution s'ajoute au prix acquitté par le client. Il est signalé par une mention particulière
 figurant au bas de la facture relative à la prestation servie.
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 3, 19 (18°) et 22 de l'ordonnance n° 2012-351 du 12 mars 2012.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2014-742 du 1er juillet 2014 - art. 4
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 287
+  - Code de la sécurité intérieure - art. L611-1
   - Code de la sécurité intérieure - art. L612-25
+  - Code de la sécurité intérieure - art. L612-9
   - Code de la sécurité intérieure - art. L621-1
   - Code de la sécurité intérieure - art. L622-1
