@@ -38,8 +38,8 @@ définies à l'article L. 214-121 du code monétaire et financier et aux acquisi
 lorsque la société et le souscripteur ou l'acquéreur prennent les engagements mentionnés au b du présent 2 ; 
 
 d) A la cotisation versée à un assureur par le contribuable, par un groupement forestier ou par une société d'épargne
-forestière dont le contribuable est membre pour la souscription, dans le cadre prévu à l'article L. 352-1 du code forestier,
-d'un contrat d'assurance répondant à des conditions fixées par décret. 
+forestière dont le contribuable est membre pour la souscription, dans le cadre prévu au 2° de l'article L. 352-1 du code
+forestier, d'un contrat d'assurance répondant à des conditions fixées par décret. 
 
 Les conditions et les modalités d'application de ces dispositions sont fixées par décret. 
 
@@ -68,12 +68,12 @@ mentionnée au c du 3 sont globalement retenus dans la limite de 5 700 € pour 
 de 11 400 € pour un couple marié ou pour les partenaires liés par un pacte civil de solidarité, soumis à une imposition
 commune. 
 
-Les dépenses mentionnées au d dudit 3 sont retenues dans la limite de 7,2 € par hectare assuré en 2013, 2014 et 2015 et de 6
-€ par hectare assuré en 2016 et 2017. Elles sont globalement retenues dans la limite de 6 250 € pour une personne
-célibataire, veuve ou divorcée et de 12 500 € pour un couple marié ou pour les partenaires liés par un pacte civil de
-solidarité, soumis à une imposition commune, sous réserve que le contribuable soit en mesure de présenter, à la demande de
-l'administration fiscale, l'attestation d'assurance certifiant que la propriété en nature de bois et forêts du bénéficiaire
-est couverte contre le risque de tempête. 
+Les dépenses mentionnées au d dudit 3 sont retenues dans la limite de 7,2 € par hectare assuré en 2013,2014 et 2015 et de 6 €
+par hectare assuré en 2016 et 2017. Elles sont globalement retenues dans la limite de 6 250 € pour une personne célibataire,
+veuve ou divorcée et de 12 500 € pour un couple marié ou pour les partenaires liés par un pacte civil de solidarité, soumis à
+une imposition commune, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration
+fiscale, l'attestation d'assurance certifiant que la propriété en nature de bois et forêts du bénéficiaire est couverte
+contre le risque de tempête. 
 
 5. Le taux de la réduction d'impôt est de 18 %, à l'exception de la réduction d'impôt afférente aux dépenses prévues au d du
 2, pour lesquelles ce taux est porté à 76 %. 
@@ -109,13 +109,14 @@ reprennent les engagements souscrits par le donateur pour la durée de détentio
 _Cite_:
 
   - Loi n°85-30 du 9 janvier 1985 - art. 5
+  - Code général des impôts, CGI. - art. 4 B (V)
   - Code monétaire et financier - art. L214-121
   - Code monétaire et financier - art. L214-125
   - Code de la sécurité sociale. - art. L341-4
   - Code forestier (nouveau) - art. L122-3
-  - Code forestier (nouveau) - art. L122-4
+  - Code forestier (nouveau) - art. L122-4 (M)
   - Code forestier (nouveau) - art. L312-1
-  - Code forestier (nouveau) - art. L352-1
+  - Code forestier (nouveau) - art. L352-1 (V)
 
 _Cité par_:
 
@@ -132,4 +133,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 71
