@@ -32,6 +32,10 @@ communes et de leurs établissements publics de coopération intercommunale situ
 foncier et, d'autre part, le produit que cette taxe aurait procuré au titre de l'année 2011 à ces mêmes communes et
 établissements publics si les taux de l'année 2010 avaient été appliqués.
 
+A compter des impositions établies au titre de l'année 2016, les recettes que la taxe foncière sur les propriétés bâties a
+procurées sur le territoire de la métropole de Lyon sont, pour l'application du I, minorées de la part que cette taxe a
+procurée au titre de l'année 2014 au département du Rhône.
+
 III. – Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre
 les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes que
 chacune de ces taxes procurerait à la commune si l'on appliquait les taux de l'année précédente aux bases de l'année
@@ -64,23 +68,28 @@ l'article 29 de la loi de finances pour 2003 précitée, indexé chaque année c
 L. 2334-7 du code général des collectivités territoriales ainsi que du montant de la compensation mentionnée au premier
 alinéa.
 
+**Nota:**
+
+Conformément à l'article 43 IV de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2016.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi - art. 44
-  - Code général des impôts, CGI. - art. 1467 (V)
+  - Code général des impôts, CGI. - art. 1467
   - Code général des impôts, CGI. - art. 1640 B
   - Code général des impôts, CGI. - art. 1640 C
   - Code général des collectivités territoriales - art. L2334-7
   - Code général des collectivités territoriales - art. L5211-28-1
-  - Code de l'urbanisme - art. L321-1 (V)
-  - Code de l'urbanisme - art. L324-1 (V)
+  - Code de l'urbanisme - art. L321-1
+  - Code de l'urbanisme - art. L324-1
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 37 (M)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 37 (V)
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 17
 
 _Cité par_:
 
