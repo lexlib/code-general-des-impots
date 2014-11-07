@@ -67,12 +67,42 @@ majoré dans les conditions prévues audit alinéa.
 
 V. (Périmé)
 
+VI.-Le conseil de la métropole de Lyon vote le taux de la cotisation foncière des entreprises dans les limites prévues au b
+du 1, au 2, au 3 et au 5 du I de l'article 1636 B sexies, sous réserve des dispositions du VII de l'article 1636 B septies. 
+
+Pour l'application des 1, 2, 3 et 5 du I de l'article 1636 B sexies : 
+
+1° La référence aux taux moyens nationaux de cotisation foncière des entreprises est remplacée par la référence au taux moyen
+constaté l'année précédente au niveau national pour l'ensemble des établissements publics de coopération intercommunale
+soumis à l'article 1609 nonies C ; 
+
+2° La référence au taux moyen national de chacune des autres taxes directes est remplacée par la référence au taux moyen de
+chacune des autres taxes directes constaté l'année précédente au niveau national pour l'ensemble des établissements publics
+de coopération intercommunale soumis à l'article 1609 nonies C ; 
+
+3° La référence au taux moyen pondéré de la taxe d'habitation et des taxes foncières est remplacée par la référence au taux
+moyen pondéré de la taxe d'habitation et des taxes foncières de la métropole de Lyon ; 
+
+4° La référence au taux moyen pondéré de la taxe d'habitation et des taxes foncières calculé au niveau national est remplacée
+par la référence au taux moyen pondéré de la taxe d'habitation et des taxes foncières constaté l'année précédente au niveau
+national pour l'ensemble des établissements publics de coopération intercommunale soumis à l'article 1609 nonies C.
+
+**Nota:**
+
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
+
+Pour l'application de ces dispositions à la métropole de Lyon en 2015, il convient de se référer à l'article 39 de
+l'ordonnance n° 2014-1335 du 6 novembre 2014 relative à l'adaptation et à l'entrée en vigueur de certaines dispositions du
+code général des collectivités territoriales, du code général des impôts et d'autres dispositions législatives applicables à
+la métropole de Lyon.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (VD)
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (VT)
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 3
 
 _Cite_:
 
