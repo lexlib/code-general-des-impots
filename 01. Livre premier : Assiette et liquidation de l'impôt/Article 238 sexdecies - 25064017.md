@@ -32,8 +32,9 @@ L'engagement mentionné au premier alinéa doit être annexé à la déclaration
 
 Le premier alinéa n'est pas applicable aux plus-values soumises aux dispositions de l'article 223 F. 
 
-Le bénéfice des dispositions du premier alinéa est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission, du
-15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
+Le bénéfice des dispositions du premier alinéa est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du
+18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis. 
 
 Le remploi peut être réalisé dans le cadre d'un contrat de crédit-bail conclu dans le délai mentionné au premier alinéa. Dans
 ce cas, les sommes réinvesties mentionnées au septième alinéa s'entendent d'un montant égal à la somme des loyers
@@ -51,7 +52,7 @@ cessions de bateaux affectés au transport de marchandises réalisées à compte
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
 
 _Cite_:
 
