@@ -61,11 +61,11 @@ n'excède pas 45 000 €.
 Par dérogation à l'alinéa précédent, la fraction des versements pour laquelle le redevable demande le bénéfice de l'avantage
 fiscal prévu au présent article ne peut donner lieu à l'application de l'article 885-0 V bis. 
 
-IV.-Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission, du
-15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis et à la condition que soient
-jointes à la déclaration d'impôt de solidarité sur la fortune prévue au 1 du I de l'article 885 W, ou fournies dans les trois
-mois suivant la date limite de dépôt de ladite déclaration, des pièces justificatives attestant le total du montant et la
-date des versements ainsi que l'identité des bénéficiaires. 
+IV.-Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du
+18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis et à la condition que soient jointes à la déclaration d'impôt de solidarité sur la fortune prévue au 1 du I
+de l'article 885 W, ou fournies dans les trois mois suivant la date limite de dépôt de ladite déclaration, des pièces
+justificatives attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. 
 
 V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
 
@@ -98,17 +98,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1649 nonies (V)
+  - Code général des impôts, CGI. - art. 1649 nonies
   - Code général des impôts, CGI. - art. 200
-  - Code général des impôts, CGI. - art. 885-0 V bis
+  - Code général des impôts, CGI. - art. 885-0 V bis (M)
   - Code de l'éducation - art. L719-12
   - Code du travail - art. L5132-15
   - Code du travail - art. L5132-5
   - Code du travail - art. L5132-6
   - Code du travail - art. L5132-7
   - Code du travail - art. L5213-13
-  - Code du travail - art. L6325-17 (V)
+  - Code du travail - art. L6325-17
