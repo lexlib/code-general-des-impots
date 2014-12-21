@@ -22,8 +22,8 @@ provision est utilisée conformément à son objet, elle est rapportée au résu
 sur l'exercice d'acquisition de l'immobilisation amortissable et les quatre exercices suivants. Le montant non utilisé à la
 clôture du cinquième exercice suivant la première dotation annuelle est rapporté au résultat de cet exercice. 
 
-Le bénéfice de la provision est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
-concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+Le bénéfice de la provision est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
+relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 **Nota:**
 
@@ -34,11 +34,11 @@ octroyés à compter du 1er janvier 2007.
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
 
 _Cite_:
 
-  - Code de commerce - art. L223-1 (V)
+  - Code de commerce - art. L223-1
 
 _Cité par_:
 
