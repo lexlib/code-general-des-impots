@@ -36,8 +36,9 @@ sommes dont il a bénéficié à ce titre.
 VI. ― Les emplois transférés à partir d'un autre établissement de l'entreprise situé dans une zone autre que celles visées au
 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée n'ouvrent pas droit au crédit d'impôt. 
 
-VII. ― Le bénéfice du crédit d'impôt est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre
-2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+VII. ― Le bénéfice du crédit d'impôt est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18
+décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis.
 
 **Nota:**
 
@@ -50,17 +51,20 @@ _Cite_:
 
   - Loi n°95-115 du 4 février 1995 - art. 42
   - Code général des impôts, CGI. - art. 1464 B
-  - Code général des impôts, CGI. - art. 1464 I (V)
-  - Code général des impôts, CGI. - art. 1464 L (V)
-  - Code général des impôts, CGI. - art. 1466 A (V)
-  - Code général des impôts, CGI. - art. 1466 C (V)
+  - Code général des impôts, CGI. - art. 1464 I
+  - Code général des impôts, CGI. - art. 1464 L
+  - Code général des impôts, CGI. - art. 1466 A
+  - Code général des impôts, CGI. - art. 1466 C
   - Code général des impôts, CGI. - art. 1477
+
+_Créé par_:
+
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (M)
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 25 (V)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 76
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
 
 _Cité par_:
 
