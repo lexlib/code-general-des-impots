@@ -1,20 +1,21 @@
 # Article 44 octies
 
-I. Les contribuables qui exercent ou créent des activités avant le 31 décembre 2001 dans les zones franches urbaines définies
-au B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
-du territoire et dont la liste figure au I de l'annexe à la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du
-pacte de relance pour la ville, sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices
-provenant des activités implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui de la délimitation de
-la zone pour les contribuables qui y exercent déjà leur activité ou, dans le cas contraire, celui de leur début d'activité
-dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %,60
-% ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la
-troisième période de douze mois suivant cette période d'exonération. Cependant pour les entreprises de moins de cinq
-salariés, ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %,60 % ou 80 % de
-leur montant selon qu'ils sont réalisés respectivement au cours des cinq premières, de la sixième et septième ou de la
-huitième et neuvième périodes de douze mois suivant cette période d'exonération.L'effectif salarié s'apprécie au cours de la
-dernière période d'imposition au titre de laquelle l'exonération au taux de 100 % s'applique. Les salariés saisonniers ou à
-temps incomplet sont pris en compte au prorata de la durée du temps de travail prévue à leur contrat. La date de délimitation
-des zones franches urbaines mentionnée au présent I est réputée correspondre, dans tous les cas, au 1er janvier 1997. 
+I. - Les contribuables qui exercent ou créent des activités avant le 31 décembre 2001 dans les zones franches urbaines
+définies au B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire et dont la liste figure au I de l'annexe à la loi n° 96-987 du 14 novembre 1996 relative à la
+mise en oeuvre du pacte de relance pour la ville, sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison
+des bénéfices provenant des activités implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui de la
+délimitation de la zone pour les contribuables qui y exercent déjà leur activité ou, dans le cas contraire, celui de leur
+début d'activité dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à
+hauteur de 40 %,60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la
+deuxième ou de la troisième période de douze mois suivant cette période d'exonération. Cependant pour les entreprises de
+moins de cinq salariés, ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %,60
+% ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours des cinq premières, de la sixième et septième ou
+de la huitième et neuvième périodes de douze mois suivant cette période d'exonération.L'effectif salarié s'apprécie au cours
+de la dernière période d'imposition au titre de laquelle l'exonération au taux de 100 % s'applique. Les salariés saisonniers
+ou à temps incomplet sont pris en compte au prorata de la durée du temps de travail prévue à leur contrat. La date de
+délimitation des zones franches urbaines mentionnée au présent I est réputée correspondre, dans tous les cas, au 1er janvier
+1997. 
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
@@ -32,9 +33,9 @@ partie en dehors des zones franches urbaines, l'exonération s'applique si ce co
 sédentaire à temps plein, ou équivalent, exerçant ses fonctions dans les locaux affectés à l'activité ou si ce contribuable
 réalise au moins 25 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines. 
 
-II. Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux
-articles 50-0,53 A,96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de
-droit commun : 
+II. - Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues
+aux articles 50-0,53 A,96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les
+conditions de droit commun : 
 
 a) produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8,
 lorsqu'ils ne proviennent pas d'une activité exercée dans l'une des zones franches urbaines, et résultats de cession des
@@ -59,7 +60,7 @@ quel que soit le lieu d'établissement du bailleur.
 
 En aucun cas, le bénéfice exonéré ne peut excéder 61 000 euros par contribuable et par période de douze mois. 
 
-III. Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice
+III. - Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice
 exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article et au 4 de l'article 223
 I. 
 
@@ -71,9 +72,9 @@ et 44 quindecies et du régime prévu au présent article, le contribuable peut 
 qui suivent celui de la délimitation de la zone s'il y exerce déjà son activité ou, dans le cas contraire, dans les six mois
 suivant celui du début d'activité.L'option est irrévocable. 
 
-IV. Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
+IV. - Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
-V.-Les dispositions des I à IV sont applicables aux contribuables qui créent des activités entre le 1er janvier 2002 et la
+V. - Les dispositions des I à IV sont applicables aux contribuables qui créent des activités entre le 1er janvier 2002 et la
 date de publication de la loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones franches urbaines visées
 au premier alinéa du I. Toutefois, pour les contribuables qui créent des activités dans ces zones en 2002, le point de départ
 de la période d'application des allégements est fixé au 1er janvier 2003.
@@ -84,13 +85,13 @@ activités, sauf pour la durée restant à courir, si l'activité reprise ou tra
 d'exonération prévu au présent article. 
 
 Le bénéfice des exonérations accordées dans les zones franches urbaines mentionnées au I est subordonné au respect du
-règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux
-aides de minimis. 
+règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité
+sur le fonctionnement de l'Union européenne aux aides de minimis. 
 
-VI.-Les dispositions des I à IV sont applicables aux contribuables qui exercent des activités entre le 1er janvier 2004 et le
-31 décembre 2008 inclus ou qui créent des activités entre le 1er janvier 2004 et la date de publication de la loi n° 2006-396
-du 31 mars 2006 pour l'égalité des chances dans les zones franches urbaines définies au B du 3 de l'article 42 de la loi n°
-95-115 du 4 février 1995 précitée et dont la liste figure au I bis de l'annexe à la loi n° 96-987 du 14 novembre 1996
+VI. - Les dispositions des I à IV sont applicables aux contribuables qui exercent des activités entre le 1er janvier 2004 et
+le 31 décembre 2008 inclus ou qui créent des activités entre le 1er janvier 2004 et la date de publication de la loi n°
+2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones franches urbaines définies au B du 3 de l'article 42 de la
+loi n° 95-115 du 4 février 1995 précitée et dont la liste figure au I bis de l'annexe à la loi n° 96-987 du 14 novembre 1996
 précitée. 
 
 Toutefois, pour bénéficier de l'exonération, l'entreprise doit répondre cumulativement aux conditions suivantes : 
@@ -124,8 +125,8 @@ ou d'une restructuration d'activités préexistantes. Toutefois, lorsque celles-
 au présent article, l'exonération ne s'applique que pour sa durée restant à courir. 
 
 Pour les contribuables qui exercent ou qui créent des activités dans les zones franches urbaines mentionnées au présent VI
-avant le 1er janvier 2004, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la
-Commission du 15 décembre 2006 précité.
+avant le 1er janvier 2004, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la
+Commission, du 18 décembre 2013, précité.
 
 **Liens relatifs à cet article**
 
@@ -181,6 +182,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
