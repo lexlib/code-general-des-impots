@@ -100,8 +100,8 @@ exonéré.
 Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines définies au
 deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ainsi que pour ceux qui, à compter
 du 1er janvier 2012, créent des activités dans les zones franches urbaines définies au même B, le bénéfice de l'exonération
-est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides de minimis. 
+est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis. 
 
 III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A, le
 bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article et au 4 de
@@ -132,9 +132,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
 
 _Cité par_:
 
