@@ -5,29 +5,34 @@ aux conditions des a et b de l'article 39 quinquies D sont dispensés de toute r
 d'immeubles à usage industriel et commercial pris en location par un contrat de crédit-bail d'une durée effective d'au moins
 quinze ans. 
 
-Ces dispositions s'appliquent aux opérations conclues entre le 1er janvier 1996 et le 31 décembre 2014 pour la location, par
-un contrat de crédit-bail, d'immeubles situés dans les zones d'aide à finalité régionale, dans les zones de revitalisation
-rurale définies au II de l'article 1465 A et dans les zones de redynamisation urbaine définies au A du 3 de l'article 42 de
-la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. 
+Ces dispositions s'appliquent aux opérations conclues entre le 1er janvier 1996 et le 31 décembre 2015 pour la location, par
+un contrat de crédit-bail, d'immeubles situés dans les zones d'aide à finalité régionale et dans les zones de revitalisation
+rurale définies au II de l'article 1465 A. 
 
-Pour les immeubles neufs situés dans les zones de revitalisation rurale ou dans les zones de redynamisation urbaine, le
-bénéfice de la dispense de réintégration est subordonné au respect de l'article 15 du règlement (CE) n° 800/2008 de la
-Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
-articles 87 et 88 du traité (Règlement général d'exemption par catégorie). Pour les immeubles neufs situés dans les zones
-d'aide à finalité régionale, le bénéfice de la dispense de réintégration est subordonné au respect de l'article 13 du
-règlement (CE) n° 800/2008 de la Commission du 6 août 2008 précité. Pour les autres immeubles situés dans ces zones, le
-bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
-concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+Pour les immeubles neufs situés dans les zones de revitalisation rurale, le bénéfice de la dispense de réintégration est
+subordonné au respect de l'article 17 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines
+catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité. Pour les immeubles
+neufs situés dans les zones d'aide à finalité régionale, le bénéfice de la dispense de réintégration est subordonné au
+respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité (1). Pour les autres
+immeubles situés dans ces zones, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la
+Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne aux aides de minimis (2).
+
+**Nota:**
+
+(1) Ces dispositions s'appliquent aux avantages octroyés à compter du 1er juillet 2014.
+
+(2) Ces dispositions s'appliquent aux avantages octroyés à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°95-115 du 4 février 1995 - art. 42
-  - Code général des impôts, CGI. - art. 1465 A (V)
-  - Code général des impôts, CGI. - art. 239 sexies (V)
-  - Code général des impôts, CGI. - art. 239 sexies B (V)
-
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 47
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1465 A (V)
+  - Code général des impôts, CGI. - art. 239 sexies
+  - Code général des impôts, CGI. - art. 239 sexies B
+  - Code général des impôts, CGI. - art. 39 quinquies D (V)
