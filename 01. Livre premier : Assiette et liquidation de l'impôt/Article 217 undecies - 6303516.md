@@ -15,20 +15,22 @@ chiffre d'affaires défini au présent alinéa s'apprécie au niveau de l'entrep
 communique le montant à la société qui réalise l'investissement. Lorsque l'entreprise mentionnée aux première et avant-
 dernière phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du
 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble
-des entreprises qui lui sont liées. Pour les projets d'investissement comportant l'acquisition, l'installation ou
-l'exploitation d'équipements de production d'énergie renouvelable, le montant déductible mentionné à la première phrase du
-présent alinéa est pris en compte dans la limite d'un montant par watt installé fixé par arrêté conjoint des ministres
-chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend en compte
-les coûts d'acquisition et d'installation directement liés à ces équipements. La déduction est opérée sur le résultat de
-l'exercice au cours duquel l'investissement est mis en service, le déficit éventuel de l'exercice étant reporté dans les
-conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou de construction
-d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les fondations sont achevées. Si l'immeuble
-n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la somme déduite est rapportée au résultat
-imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. La déduction s'applique également aux
-investissements réalisés par une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion des sociétés en
-participation, ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues directement
-par des entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés ou membres
-dans une proportion correspondant à leurs droits dans la société ou le groupement. 
+des entreprises qui lui sont liées. L'investissement doit être un investissement initial, au sens de l'article 2 du règlement
+(UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité. Pour les projets d'investissement comportant l'acquisition,
+l'installation ou l'exploitation d'équipements de production d'énergie renouvelable, le montant déductible mentionné à la
+première phrase du présent alinéa est pris en compte dans la limite d'un montant par watt installé fixé par arrêté conjoint
+des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant
+prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements. La déduction est opérée sur le
+résultat de l'exercice au cours duquel l'investissement est mis en service, le déficit éventuel de l'exercice étant reporté
+dans les conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou de
+construction d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les fondations sont achevées.
+Si l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la somme déduite est
+rapportée au résultat imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. La déduction
+s'applique également aux investissements réalisés par une société soumise au régime d'imposition prévu à l'article 8, à
+l'exclusion des sociétés en participation, ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts
+sont détenues directement par des entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée
+par les associés ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
@@ -155,24 +157,7 @@ les départements d'outre-mer des investissements productifs affectés plus de c
 d'une concession de service public local à caractère industriel et commercial, et dont l'activité s'exerce exclusivement dans
 un secteur éligible, dans les départements ou collectivités d'outre-mer. 
 
-II bis. La déduction prévue au premier alinéa du II s'applique aux souscriptions aux augmentations de capital de sociétés
-soumises à l'impôt sur les sociétés exerçant exclusivement leur activité dans les départements d'outre-mer dans un secteur
-éligible défini par ce même alinéa, et qui sont en difficulté au sens de l'article 44 septies. 
-
-Le bénéfice de cette déduction concerne les augmentations de capital qui interviennent dans les trois années postérieures à
-la première décision d'agrément octroyée en application du présent II bis. Il est accordé si les conditions suivantes sont
-satisfaites : 
-
-a) le montant de l'augmentation du capital de la société en difficulté doit permettre aux souscripteurs de détenir
-globalement plus de 50 % de ses droits de vote et de ses droits à dividendes ; la souscription ne doit pas être réalisée,
-directement ou indirectement, par des personnes qui ont été associées, directement ou indirectement, de la société en
-difficulté au cours de l'une des cinq années précédant l'acquisition ; 
-
-b) (abrogé) 
-
-c) (abrogé) 
-
-d) l'opération a reçu l'agrément préalable du ministre du budget dans les conditions prévues au III. 
+II bis (Abrogé).
 
 II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt
 sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les
@@ -248,11 +233,11 @@ III ter. (Transféré sous le III).
 III quater. (abrogé).
 
 IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits par les entreprises avec le
-bénéfice des déductions prévues aux II, II bis ou II ter les sommes déduites sont rapportées au résultat imposable de l'année
-de cession, dans la limite, de la totalité du prix de cession. 
+bénéfice des déductions prévues aux II ou II ter les sommes déduites sont rapportées au résultat imposable de l'année de
+cession, dans la limite, de la totalité du prix de cession. 
 
 Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le délai de cinq ans, l'entreprise propriétaire des
-titres ayant ouvert droit à la déduction prévue aux II, II bis ou II ter fait l'objet d'une transmission dans le cadre des
+titres ayant ouvert droit à la déduction prévue aux II ou II ter fait l'objet d'une transmission dans le cadre des
 dispositions prévues aux articles 210 A ou 210 B si l'entreprise qui devient propriétaire des titres remplit les conditions
 nécessaires pour bénéficier de cette déduction et s'engage à conserver les titres pendant la fraction du délai de
 conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par acte sous seing
@@ -261,9 +246,9 @@ privé ayant date certaine, établi à cette occasion.
 En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter à ses résultats imposables, au
 titre de l'exercice au cours duquel l'engagement cesse d'être respecté, une somme égale au montant de la déduction fiscale à
 laquelle les titres transmis ont ouvert droit, dans la limite de la totalité du prix de cession. Il en est de même dans le
-cas où les titres souscrits avec le bénéfice de la déduction prévue aux II, II bis ou II ter sont apportés ou échangés dans
-le cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes
-conditions et sanctions, les titres nouveaux qui se sont substitués aux titres d'origine. 
+cas où les titres souscrits avec le bénéfice de la déduction prévue aux II ou II ter sont apportés ou échangés dans le cadre
+d'opérations soumises aux dispositions des articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes conditions et
+sanctions, les titres nouveaux qui se sont substitués aux titres d'origine. 
 
 IV bis. Le montant de la déduction prévue par le présent article n'est pas pris en compte pour le calcul de l'abattement
 prévu à l'article 44 quaterdecies. 
@@ -282,10 +267,10 @@ transmission doit rapporter à son résultat imposable, au titre de l'exercice a
 cesse d'être respecté, l'avantage et la majoration correspondante mentionnés au deuxième alinéa qui, à défaut d'engagement,
 auraient dû être rapportés au résultat imposable de l'entreprise apporteuse. 
 
-IV ter. - La déduction prévue aux I, II, II bis ou II ter est subordonnée au respect par les sociétés réalisant
-l'investissement ou la souscription et, le cas échéant, les entreprises exploitantes, de leurs obligations fiscales et
-sociales et de l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23
-du code de commerce à la date de réalisation de l'investissement ou de la souscription. 
+IV ter. - La déduction prévue aux I, II ou II ter est subordonnée au respect par les sociétés réalisant l'investissement ou
+la souscription et, le cas échéant, les entreprises exploitantes, de leurs obligations fiscales et sociales et de
+l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23 du code de
+commerce à la date de réalisation de l'investissement ou de la souscription. 
 
 Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et
 respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date
@@ -313,36 +298,17 @@ jusqu'au 31 décembre 2017.
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités de leur application et notamment les obligations
 déclaratives.
 
+VI. - Le bénéfice de la déduction prévue aux I, I bis, II et II ter est subordonné au respect du règlement (UE) n° 651/2014
+de la Commission, du 17 juin 2014, précité et la déduction ne s'applique pas aux investissements exploités par des
+entreprises en difficulté, au sens du même règlement.
+
 **Nota:**
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
-l'article 217 undecies, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à compter
-du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit de
-l'Union européenne. Toutefois, il reste applicable dans les conditions prévues par les dispositions antérieures à la présente
-loi :
-
-1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration avant le 1er juillet 2014 et : 
-
-a) Pour les biens meubles, qui font l'objet d'une commande avant le 31 décembre 2014 et pour lesquels des acomptes au moins
-égaux à 50 % de leur prix ont été versés à cette date ; 
-
-b) Pour les travaux de réhabilitation d'immeubles, pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été
-versés au plus tard le 31 décembre 2014 ; 
-
-c) Qui portent sur des biens immeubles dont l'achèvement des fondations intervient au plus tard le 31 décembre 2015 ; 
-
-2° Aux acquisitions d'immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier avant le 1er juillet 2014 ; 
-
-3° Aux acquisitions de biens meubles corporels commandés avant le 1er juillet 2014 et pour lesquels des acomptes au moins
-égaux à 50 % de leur prix ont été versés à cette date ; 
-
-4° Aux travaux de réhabilitation d'immeubles pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés
-avant le 1er juillet 2014. 
-
-Les entreprises qui réalisent les investissements mentionnés aux 1° à 4° du présent III peuvent opter, quel que soit leur
-chiffre d'affaires, pour l'application à ces investissements du crédit d'impôt prévu à l'article 244 quater W du code général
-des impôts, dans les conditions prévues au V de ce même article, ou, le cas échéant, pour l'application à ces investissements
-du crédit d'impôt prévu à l'article 244 quater X du même code, dans les conditions prévues au V de ce même article.
+Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
+dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
+1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
+à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
+rédaction résultant du II du présent article .
 
 **Liens relatifs à cet article**
 
@@ -430,4 +396,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67
