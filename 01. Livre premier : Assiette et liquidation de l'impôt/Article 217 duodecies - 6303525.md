@@ -6,6 +6,10 @@ conditions, bénéficier du régime prévu à l'article 217 undecies. Le seuil d
 premier alinéa du I du même article ne s'applique pas aux investissements réalisés dans les collectivités mentionnées à la
 première phrase du présent alinéa. 
 
+La condition prévue à la sixième phrase du premier alinéa du I de l'article 217 undecies ne s'applique pas aux
+investissements réalisés à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy, dans
+les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.
+
 Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Martin, Saint-Barthélemy et
 Saint-Pierre-et-Miquelon dans le cadre de leur compétence fiscale propre au titre de projets d'investissements sont sans
 incidence pour la détermination du montant des dépenses éligibles retenues pour l'application de l'article 217 undecies. 
@@ -21,37 +25,17 @@ du même I bis, la référence à la loi n° 84-595 du 12 juillet 1984 définiss
 immobilière est remplacée par la référence à la réglementation applicable localement. La condition prévue au 2° du même I bis
 n'est pas applicable.
 
+Le VI de l'article 217 undecies ne s'applique pas aux investissements réalisés à Saint-Pierre-et-Miquelon, en Nouvelle-
+Calédonie, en Polynésie française, à Saint-Barthélemy, dans les îles Wallis et Futuna et dans les Terres australes et
+antarctiques françaises.
+
 **Nota:**
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
-l'article 217 duodecies, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à
-compter du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit
-de l'Union européenne. Toutefois, il reste applicable dans les conditions prévues par les dispositions antérieures à la
-présente loi :
-
-1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration avant le 1er juillet 2014 et : 
-
-a) Pour les biens meubles, qui font l'objet d'une commande avant le 31 décembre 2014 et pour lesquels des acomptes au moins
-égaux à 50 % de leur prix ont été versés à cette date ; 
-
-b) Pour les travaux de réhabilitation d'immeubles, pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été
-versés au plus tard le 31 décembre 2014 ; 
-
-c) Qui portent sur des biens immeubles dont l'achèvement des fondations intervient au plus tard le 31 décembre 2015 ; 
-
-2° Aux acquisitions d'immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier avant le 1er juillet 2014 ; 
-
-3° Aux acquisitions de biens meubles corporels commandés avant le 1er juillet 2014 et pour lesquels des acomptes au moins
-égaux à 50 % de leur prix ont été versés à cette date ; 
-
-4° Aux travaux de réhabilitation d'immeubles pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés
-avant le 1er juillet 2014. 
-
-Les entreprises qui réalisent les investissements mentionnés aux 1° à 4° du présent III peuvent opter, quel que soit leur
-chiffre d'affaires, pour l'application à ces investissements du crédit d'impôt prévu à l' article 244 quater W du code
-général des impôts, dans les conditions prévues au V de ce même article, ou, le cas échéant, pour l'application à ces
-investissements du crédit d'impôt prévu à l'article 244 quater X du même code, dans les conditions prévues au V de ce même
-article.
+Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
+dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
+1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
+à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
+rédaction résultant du II du présent article .
 
 **Liens relatifs à cet article**
 
@@ -82,4 +66,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (M)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67
