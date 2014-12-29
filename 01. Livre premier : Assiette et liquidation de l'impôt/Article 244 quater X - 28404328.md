@@ -111,12 +111,18 @@ compter du 1er juillet 2014, et jusqu'au 31 décembre 2017.
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux
 organismes mentionnés au premier alinéa du 1 du I.
 
+IX. - Le bénéfice du crédit d'impôt prévu au I est subordonné au respect de la décision 2012/21/UE de la Commission, du 20
+décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne
+aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de
+services d'intérêt économique général.
+
 **Nota:**
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
-l'article 244 quater X, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à compter
-du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit de
-l'Union européenne.
+Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
+dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
+1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
+à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
+rédaction résultant du II du présent article .
 
 **Liens relatifs à cet article**
 
@@ -150,9 +156,13 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quinquies (V)
   - Livre des procédures fiscales - art. L45 F (V)
 
+_Créé par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
+
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67
 
 _Cite_:
 
