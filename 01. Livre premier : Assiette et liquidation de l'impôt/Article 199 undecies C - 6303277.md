@@ -22,7 +22,7 @@ de celui-ci ;
 en fonction notamment de la localisation du logement ; 
 
 4° Les logements peuvent être spécialement adaptés à l'hébergement de personnes âgées de plus de soixante-cinq ans ou de
-personnes handicapées auxquelles des prestations de services de nature hôtelière  peuvent être proposées ; 
+personnes handicapées auxquelles des prestations de services de nature hôtelière peuvent être proposées ; 
 
 5° Une part minimale, définie par décret, de la surface habitable des logements compris dans un ensemble d'investissements
 portés simultanément à la connaissance du ministre chargé du budget dans les conditions prévues au VII est sous-louée, dans
@@ -56,11 +56,11 @@ La condition mentionnée au 5° n'est pas applicable aux logements dont la conve
 personnes physiques à l'issue de la période de location. 
 
 La condition mentionnée au 9° n'est pas applicable aux logements acquis ou construits à Saint-Pierre-et-Miquelon, en
-Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna.  
+Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna. 
 
 II. - La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient des logements minoré, d'une part, des taxes
 et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la
-limite mentionnée au 5 de l'article 199 undecies A appréciée  par mètre carré de surface habitable et, dans le cas des
+limite mentionnée au 5 de l'article 199 undecies A appréciée par mètre carré de surface habitable et, dans le cas des
 logements mentionnés au 4° du I, de surface des parties communes dans lesquelles des prestations de services sont proposées.
 Cette limite est relevée chaque année, à la date et dans les conditions prévues au 5 de l'article 199 undecies A.
 
@@ -89,7 +89,7 @@ pratiquée par les associés ou membres dans une proportion correspondant à leu
 cours de laquelle les parts ou actions sont souscrites. Lorsque l'investissement revêt la forme de la construction d'un
 immeuble ou de l'acquisition d'un immeuble à construire, la réduction d'impôt ne s'applique que si la société qui réalise
 l'investissement s'engage à achever les fondations de l'immeuble dans les deux ans qui suivent la clôture de la souscription
-et à achever l'immeuble dans les deux ans qui suivent la date d'achèvement des fondations.  
+et à achever l'immeuble dans les deux ans qui suivent la date d'achèvement des fondations. 
 
 La réduction d'impôt est acquise, dans les mêmes conditions, au titre des investissements réalisés par une société soumise de
 plein droit à l'impôt sur les sociétés dont les actions sont détenues intégralement et directement par des contribuables,
@@ -152,36 +152,19 @@ d'une déduction pour la détermination des revenus fonciers.
 IX. - Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de
 promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.
 
+X. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
+d'outre-mer et à Saint-Martin, au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à
+l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous
+forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt
+économique général.
+
 **Nota:**
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
-l'article 199 undecies C, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à
-compter du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit
-de l'Union européenne. Toutefois, il reste applicable dans les conditions prévues par les dispositions antérieures à la
-présente loi : 
-
-1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration avant le 1er juillet 2014 et : 
-
-a) Pour les biens meubles, qui font l'objet d'une commande avant le 31 décembre 2014 et pour lesquels des acomptes au moins
-égaux à 50 % de leur prix ont été versés à cette date ; 
-
-b) Pour les travaux de réhabilitation d'immeubles, pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été
-versés au plus tard le 31 décembre 2014 ; 
-
-c) Qui portent sur des biens immeubles dont l'achèvement des fondations intervient au plus tard le 31 décembre 2015 ; 
-
-2° Aux acquisitions d'immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier avant le 1er juillet 2014 ; 
-
-3° Aux acquisitions de biens meubles corporels commandés avant le 1er juillet 2014 et pour lesquels des acomptes au moins
-égaux à 50 % de leur prix ont été versés à cette date ; 
-
-4° Aux travaux de réhabilitation d'immeubles pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés
-avant le 1er juillet 2014. 
-
-Les entreprises qui réalisent les investissements mentionnés aux 1° à 4° du présent III peuvent opter, quel que soit leur
-chiffre d'affaires, pour l'application à ces investissements du crédit d'impôt prévu à l'article 244 quater W du code général
-des impôts, dans les conditions prévues au V de ce même article, ou, le cas échéant, pour l'application à ces investissements
-du crédit d'impôt prévu à l'article 244 quater X du même code, dans les conditions prévues au V de ce même article.
+Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
+dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
+1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
+à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
+rédaction résultant du II du présent article .
 
 **Liens relatifs à cet article**
 
@@ -232,4 +215,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (M)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67

@@ -7,8 +7,7 @@ l'urbanisme ;
 
 b. Disposition devenue sans objet ;
 
-c) Conformément à l'article L. 333-12 du code de l'urbanisme, le versement résultant du dépassement du plafond légal de
-densité prévu à l'article L. 112-2 du même code ;
+c. (Abrogé).
 
 II. - Constituent du point de vue fiscal, un élément du prix de revient de l'ensemble immobilier :
 
@@ -19,12 +18,6 @@ b) Le versement pour sous-densité prévu par les articles L. 331-36 et L. 331-3
 c. (Abrogé) ;
 
 d. (Abrogé).
-
-**Nota:**
-
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 III H : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, y compris aux modifications ultérieures au 1er mars 2012
-relatives à une demande ou déclaration préalable déposée avant cette date.
 
 **Liens relatifs à cet article**
 
@@ -41,10 +34,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L112-2
-  - Code de l'urbanisme - art. L333-12
   - Code de l'urbanisme - art. L520-1
