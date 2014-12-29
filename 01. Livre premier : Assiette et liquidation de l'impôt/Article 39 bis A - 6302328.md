@@ -4,7 +4,7 @@
 pour une large part à l'information politique et générale, soit un service de presse en ligne reconnu en application de
 l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, consacré pour une large
 part à l'information politique et générale, sont autorisées à constituer une provision déductible du résultat imposable des
-exercices 1997 à 2014, en vue de faire face aux dépenses suivantes : 
+exercices 1997 à 2017, en vue de faire face aux dépenses suivantes : 
 
 a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure où ces éléments d'actif sont strictement
 nécessaires à l'exploitation du service de presse en ligne, du journal ou de la publication, et prises de participation dans
@@ -84,5 +84,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 25 (V)
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 65
