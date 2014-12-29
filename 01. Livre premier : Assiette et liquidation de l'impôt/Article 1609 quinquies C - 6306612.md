@@ -5,9 +5,9 @@ aux communes membres pour les dispositions relatives à la cotisation foncière 
 valeur ajoutée des entreprises acquittées par les entreprises implantées dans une zone d'activités économiques qui se situe
 sur le territoire d'une ou plusieurs communes membres, et la perception du produit de ces taxes.
 
-I bis.-Le I est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la première
-phrase du premier alinéa du II dans sa rédaction en vigueur jusqu'à cette date, pour l'application des dispositions de cette
-phrase.
+I bis. – Le I est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la
+première phrase du premier alinéa du II dans sa rédaction en vigueur jusqu'à cette date, pour l'application des dispositions
+de cette phrase.
 
 II. – 1. Les établissements publics de coopération intercommunale mentionnés au 2 du III de l'article 1379-0 bis sont
 substitués aux communes membres pour les dispositions relatives à la cotisation foncière des entreprises afférente aux
@@ -19,7 +19,7 @@ installations de production d'électricité utilisant l'énergie mécanique du v
 pour les dispositions relatives à la taxe annuelle sur les installations de production d'électricité, prévue à l'article 1519
 D, et perçoivent le produit de cette taxe.
 
-II bis. – Le II est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la
+II bis.-Le II est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la
 deuxième phrase du premier alinéa du même II dans sa rédaction en vigueur jusqu'à cette date, pour l'application des
 dispositions de cette phrase.
 
@@ -81,6 +81,22 @@ symétriquement pour tenir compte de l'application du présent 4. Cette correcti
 public de coopération intercommunale à fiscalité propre dans le calcul du potentiel fiscal pris en compte pour déterminer la
 dotation d'intercommunalité reçue lors de la première année d'adoption du régime prévu à l'article 1609 nonies C.
 
+5. Les établissements publics de coopération intercommunale mentionnés au III de l'article 1379-0 bis peuvent, sur
+délibérations concordantes de l'établissement public et des communes membres, se substituer à ces dernières pour la
+perception du reversement du Fonds national de garantie individuelle des ressources communales et intercommunales prévu au
+2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, à l'exclusion de la fraction calculée
+selon les modalités prévues aux 1° et 2° du a du D du IV du même 2.1.
+
+Ces établissements publics peuvent, sur délibérations concordantes de l'établissement public et des communes membres, se
+substituer à ces dernières pour la perception de la dotation de compensation de la réforme de la taxe professionnelle
+calculée selon les modalités prévues aux II et III du 1.1 du même article 78, à l'exclusion de la part calculée selon les
+modalités prévues aux a et b du D du IV du même 1.1.
+
+Le cas échéant, sur délibérations concordantes de l'établissement public de coopération intercommunale et des communes
+membres, le prélèvement sur les ressources calculé selon les modalités prévues aux II et III du 2.1 dudit article 78 peut
+être mis à la charge de cet établissement public, à l'exclusion de la part calculée selon les modalités prévues aux 1° et 2°
+du a du D du IV du même 2.1. ;
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -133,4 +149,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 44 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 34 (V)
