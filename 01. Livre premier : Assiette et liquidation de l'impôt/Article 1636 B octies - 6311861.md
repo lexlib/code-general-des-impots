@@ -36,6 +36,10 @@ A compter des impositions établies au titre de l'année 2016, les recettes que 
 procurées sur le territoire de la métropole de Lyon sont, pour l'application du I, minorées de la part que cette taxe a
 procurée au titre de l'année 2014 au département du Rhône.
 
+A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du I
+du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
+précédente à l'ensemble des communes situées dans le ressort de l'établissement public foncier.
+
 III. – Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre
 les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes que
 chacune de ces taxes procurerait à la commune si l'on appliquait les taux de l'année précédente aux bases de l'année
@@ -62,6 +66,10 @@ III, minorées de la différence entre, d'une part, le produit qu'a procuré au 
 de l'ensemble des locaux situés dans son ressort et, d'autre part, le produit qu'aurait procuré au titre de l'année 2011 à
 cette même commune la taxation de ces mêmes locaux si le taux de l'année 2010 avait été appliqué.
 
+A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du
+III du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
+précédente à chaque commune.
+
 Pour l'application du III, le produit fiscal à recouvrer est minoré de la part, reversée par la commune au syndicat, du
 montant perçu en 2003, en application du D de l'article 44 de la loi de finances pour 1999 précitée et du 1 du III de
 l'article 29 de la loi de finances pour 2003 précitée, indexé chaque année comme la dotation forfaitaire prévue par l'article
@@ -78,9 +86,9 @@ compter des impositions dues au titre de 2016.
 _Cite_:
 
   - Loi - art. 44
-  - Code général des impôts, CGI. - art. 1467
+  - Code général des impôts, CGI. - art. 1467 (V)
   - Code général des impôts, CGI. - art. 1640 B
-  - Code général des impôts, CGI. - art. 1640 C
+  - Code général des impôts, CGI. - art. 1640 C (V)
   - Code général des collectivités territoriales - art. L2334-7
   - Code général des collectivités territoriales - art. L5211-28-1
   - Code de l'urbanisme - art. L321-1
@@ -88,8 +96,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 37 (V)
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 17
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 31 (V)
 
 _Cité par_:
 

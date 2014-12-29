@@ -4,7 +4,9 @@ I. ― 1. Les entreprises imposées d'après leur bénéfice réel ou exonérée
 44 septies, 44 octies, 44 octies A et 44 duodecies à 44 quindecies, exerçant une activité agricole ou une activité
 industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des
 investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne
-relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B. 
+relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B. L'investissement doit être un
+investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
+certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.  
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
 résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé. 
@@ -140,9 +142,9 @@ ou groupements, à condition qu'il s'agisse de redevables de l'impôt sur les so
 l'exploitation au sens du 1° bis du I de l'article 156 ou, pour les investissements mentionnés au 4 du I du présent article,
 d'entreprises ou d'organismes mentionnés au premier alinéa du même 4. 
 
-VII. ― Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater de l'article
-217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre
-chargé du budget dans les conditions prévues au III du même article. 
+VII. ― Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater et au III
+de l'article 217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le
+ministre chargé du budget dans les conditions prévues au III du même article. 
 
 VIII. ― 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa
 propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce
@@ -192,18 +194,23 @@ Sont considérés comme à jour de leurs obligations fiscales et sociales les em
 respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date
 normale d'exigibilité. 
 
-IX. ― 1. Le présent article est applicable aux investissements mis en service à compter du 1er juillet 2014, et jusqu'au 31
+IX. ― 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31
 décembre 2017.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux
 entreprises et organismes mentionnés au 4 du I.
 
+X. - Le bénéfice du crédit d'impôt prévu au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17
+juin 2014, précité et le crédit d'impôt ne s'applique pas aux investissements exploités par des entreprises en difficulté, au
+sens du même règlement.
+
 **Nota:**
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
-l'article 244 quater W, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à compter
-du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit de
-l'Union européenne.
+Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
+dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
+1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
+à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
+rédaction résultant du II du présent article .
 
 **Liens relatifs à cet article**
 
@@ -218,7 +225,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 210 B
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 238 ter
-  - Code général des impôts, CGI. - art. 239 quater (V)
+  - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater A
   - Code général des impôts, CGI. - art. 239 quater B
   - Code général des impôts, CGI. - art. 239 quater C
@@ -227,7 +234,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 244 quater X
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 41
-  - Code général des impôts, CGI. - art. 44 duodecies (V)
+  - Code général des impôts, CGI. - art. 44 duodecies
   - Code général des impôts, CGI. - art. 44 octies
   - Code général des impôts, CGI. - art. 44 octies A
   - Code général des impôts, CGI. - art. 44 septies
@@ -268,6 +275,10 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quater (V)
   - Livre des procédures fiscales - art. L45 F (V)
 
+_Créé par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
+
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67
