@@ -1,7 +1,7 @@
 # Article 220 octies
 
 I.-Les entreprises de production phonographique au sens de l'article L. 213-1 du code de la propriété intellectuelle,
-soumises à l'impôt sur les sociétés et existant depuis au moins trois années, peuvent bénéficier d'un crédit d'impôt au titre
+soumises à l'impôt sur les sociétés et existant depuis au moins une année, peuvent bénéficier d'un crédit d'impôt au titre
 des dépenses de production, de développement et de numérisation d'un enregistrement phonographique ou vidéographique musical
 (vidéomusique ou disque numérique polyvalent musical) mentionnées au III, à condition de ne pas être détenues, directement ou
 indirectement, par un éditeur de service de télévision ou de radiodiffusion. 
@@ -24,8 +24,8 @@ composés d'une ou de plusieurs œuvres libres de droit d'auteur au sens des art
 propriété intellectuelle. S'agissant des albums de nouveaux talents, le bénéfice du crédit d'impôt s'apprécie au niveau de
 l'entreprise redevable de l'impôt sur les sociétés pour l'ensemble des albums qu'elle produit chaque année. 
 
-III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes engagées
-entre le 1er juillet 2007 et le 31 décembre 2015, pour des opérations mentionnées au II effectuées en France, dans un autre
+III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes engagées
+entre le 1er juillet 2007 et le 31 décembre 2018, pour des opérations mentionnées au II effectuées en France, dans un autre
 Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec
 la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors
 qu'elles entrent dans la détermination du résultat imposable : 
@@ -41,6 +41,9 @@ phonographique par l'entreprise de production ;
 a bis) Les frais de personnel permanent de l'entreprise directement concerné par les oeuvres : les salaires et charges
 sociales afférents aux assistants label, chefs de produit, coordinateurs label, techniciens son, chargés de production,
 responsables artistiques, directeurs artistiques, directeurs de label, juristes label ; 
+
+a ter) La rémunération, incluant les charges sociales, du ou des dirigeants correspondant à leur participation directe à la
+réalisation des œuvres ; 
 
 b.-les dépenses liées à l'utilisation des studios d'enregistrement ainsi qu'à la location et au transport de matériels et
 d'instruments ; 
@@ -60,7 +63,8 @@ de studio, location et transport de matériels et d'instruments, salaires et cha
 mentionnées au a du 1° du présent III et au personnel permanent suivant : administrateurs de site, attachés de presse,
 coordinateurs promotion, graphistes, maquettistes, chefs de produit nouveaux médias, responsables synchronisation,
 responsables nouveaux médias, assistants nouveaux médias, directeurs de promotion, directeurs marketing, responsables export,
-assistants export) ; 
+assistants export, rémunération, incluant les charges sociales, du ou des dirigeants correspondant à leur participation
+directe aux répétitions) ; 
 
 b.-les dépenses engagées afin de soutenir la production de concerts de l'artiste en France ou à l'étranger, dont le montant
 global est fixé dans le cadre d'un contrat d'artiste ou de licence ; 
@@ -73,6 +77,12 @@ d.-les dépenses liées à la réalisation et à la production d'images permetta
 e.-les dépenses liées à la création d'un site internet dédié à l'artiste dans le cadre du développement de sa carrière dans
 l'environnement numérique. 
 
+La rémunération d'un dirigeant mentionnée au a ter du 1° et au a du 2° ne peut excéder un montant fixé par décret, dans la
+limite d'un plafond de 50 000 € par an. Cette rémunération n'est éligible au crédit d'impôt que pour les petites entreprises,
+au sens de l'article 2 de l'annexe I au règlement (CE) n° 800/2008 de la Commission, du 6 août 2008, déclarant certaines
+catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général
+d'exemption par catégorie).
+
 Le montant des dépenses dites de développement éligibles au crédit d'impôt est limité à 350 000 € par enregistrement
 phonographique ou vidéographique musical. Ces dépenses devront être engagées dans les dix-huit mois suivant la fixation de
 l'oeuvre au sens de l'article L. 213-1 du code de la propriété intellectuelle ou de la production d'un disque numérique
@@ -80,13 +90,6 @@ polyvalent musical.
 
 Le montant des dépenses définies aux 1° et 2°, lorsqu'elles sont confiées à des entreprises mentionnées au a du II, est
 plafonné à 2 300 000 € par entreprise et par exercice. 
-
-Pour les entreprises qui ne répondent pas à la définition des micro, petites et moyennes entreprises au sens du règlement
-(CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché commun en
-application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) (1), les dépenses définies aux 1°
-et 2° entrent dans la base de calcul du crédit d'impôt pour les seules productions qui excèdent la moyenne, après application
-d'une décote de 70 %, des productions définies au b du II réalisées au titre des deux derniers exercices. En cas de décimale,
-l'unité supérieure est retenue. 
 
 III bis.-Le taux mentionné au premier alinéa du III est porté à 30 % pour les entreprises qui satisfont à la définition des
 micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008
@@ -109,16 +112,19 @@ b du II, commercialisées les deux années précédant l'année de référence p
 V.-Les subventions publiques reçues par les entreprises à raison des dépenses ouvrant droit au crédit d'impôt sont déduites
 des bases de calcul de ce crédit. 
 
-VI.-1° La somme des crédits d'impôt calculés au titre des dépenses éligibles ne peut excéder 800 000 € par entreprise et par
-exercice (1). 
+VI.-1° La somme des crédits d'impôt calculés au titre des dépenses éligibles ne peut excéder 1,1 million d'euros par
+entreprise et par exercice.
 
 2° En cas de coproduction, le crédit d'impôt est accordé à chacune des entreprises, proportionnellement à sa part dans les
 dépenses exposées.
 
 **Nota:**
 
-(1) Loi n° 2012-1509 du 29 décembre 2012, art. 28 : Ces dispositions entrent en vigueur à une date fixée par décret et au
-plus tard le 1er janvier 2014. L'article 1 du décret n° 2013-603 du 9 juillet 2013 a fixé cette date au 12 juillet 2013.
+Conformément à l'article 50 II de la loi n° 2014-1655 du 29 décembre 2014, les présentes dispositions s'appliquent aux
+crédits d'impôt calculés au titre des dépenses engagées à compter du 1er janvier 2015 et entre en vigueur à une date fixée
+par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la
+Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de
+l'Union européenne en matière d'aides d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -149,9 +155,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 28 (VD)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 50
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L123-1 (V)
+  - Code de la propriété intellectuelle - art. L123-1
   - Code de la propriété intellectuelle - art. L213-1
