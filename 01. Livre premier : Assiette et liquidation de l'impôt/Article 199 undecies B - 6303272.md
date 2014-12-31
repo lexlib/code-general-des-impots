@@ -1,7 +1,7 @@
 # Article 199 undecies B
 
-I. - Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu
-à raison des investissements productifs neufs qu'ils réalisent dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon,
+I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu à
+raison des investissements productifs neufs qu'ils réalisent dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon,
 en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy, dans les îles Wallis-et-Futuna et les
 Terres australes et antarctiques françaises, dans le cadre d'une entreprise exerçant une activité agricole ou une activité
 industrielle, commerciale ou artisanale relevant de l'article 34. Lorsque l'activité est exercée dans un département d'outre-
@@ -13,12 +13,12 @@ septième alinéas, le chiffre d'affaires s'apprécie au niveau de l'entreprise 
 communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux deuxième et cinquième
 phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du 12 de
 l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble des
-entreprises qui lui sont liées.  Lorsque l'activité est exercée dans un département d'outre-mer ou à Saint-Martin,
+entreprises qui lui sont liées. Lorsque l'activité est exercée dans un département d'outre-mer ou à Saint-Martin,
 l'investissement doit être un investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission,
 du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107
-et 108 du traité, et il ne doit pas être exploité par une entreprise en difficulté, au sens du même règlement.
+et 108 du traité, et il ne doit pas être exploité par une entreprise en difficulté, au sens du même règlement. 
 
-Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements réalisés dans les secteurs d'activité suivants : 
+Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements réalisés, dans les secteurs d'activité suivants : 
 
 a) Commerce ; 
 
@@ -59,7 +59,7 @@ strictement indispensables à l'activité de l'exploitant. Les conditions d'appl
 arrêté du ministre chargé du budget et du ministre chargé de l'outre-mer. 
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux investissements affectés plus de cinq ans par le
-concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial réalisés dans
+concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial réalisés, dans
 des secteurs éligibles. La réduction d'impôt prévue au premier alinéa ne s'applique pas aux investissements portant sur des
 installations de production d'électricité utilisant l'énergie radiative du soleil. 
 
@@ -71,19 +71,19 @@ undecies ou 244 quater W, de la valeur réelle de l'investissement remplacé. Le
 l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable sont pris en compte dans
 la limite d'un montant par watt installé fixé par arrêté conjoint des ministres chargés du budget, de l'outre-mer et de
 l'énergie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement
-liés à ces équipements. Le taux de la réduction d'impôt est porté à 45,9 % pour les investissements réalisés en Guyane et à
+liés à ces équipements. Le taux de la réduction d'impôt est porté à 45,9 % pour les investissements réalisés, en Guyane et à
 Mayotte dans les limites définies par les règles communautaires relatives aux aides d'Etat, à Saint-Pierre-et-Miquelon ou à
 Wallis-et-Futuna. Les taux de 38,25 % et 45,9 % susmentionnés sont respectivement portés à 45,9 % et 53,55 % pour les
-investissements réalisés dans le secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt est porté à
-45,9 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
-classés réalisés en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques
-françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. 
+investissements réalisés, dans le secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt est porté
+à 45,9 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
+classés réalisés à Saint-Martin, en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et
+antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. 
 
 Le taux de la réduction d'impôt est porté à 53,55 % pour les travaux de rénovation et de réhabilitation d'hôtel, de résidence
 de tourisme et de village de vacances classés dans les départements d'outre-mer. Le bénéfice de cette mesure est accordé à
 l'exploitant lorsqu'il prend en charge ces travaux. 
 
-Les dispositions du premier alinéa s'appliquent aux investissements réalisés par une société soumise au régime d'imposition
+Les dispositions du premier alinéa s'appliquent aux investissements réalisés, par une société soumise au régime d'imposition
 prévu à l'article 8, à l'exclusion des sociétés en participation, ou un groupement mentionné aux articles 239 quater ou 239
 quater C, dont les parts sont détenues directement, ou par l'intermédiaire d'une entreprise unipersonnelle à responsabilité
 limitée, par des contribuables domiciliés en France au sens de l'article 4 B. En ce cas, la réduction d'impôt est pratiquée
@@ -151,7 +151,7 @@ Calédonie et en Polynésie française, les références aux dispositions du cod
 prévues par la réglementation applicable localement. 
 
 La réduction d'impôt prévue au présent I s'applique, dans les conditions prévues au vingt-sixième alinéa, aux investissements
-réalisés par une société soumise de plein droit à l'impôt sur les sociétés dont les actions sont détenues intégralement et
+réalisés, par une société soumise de plein droit à l'impôt sur les sociétés dont les actions sont détenues intégralement et
 directement par des contribuables, personnes physiques, domiciliés en France au sens de l'article 4 B. En ce cas, la
 réduction d'impôt est pratiquée par les associés dans une proportion correspondant à leurs droits dans la société.
 L'application de cette disposition est subordonnée au respect des conditions suivantes : 
@@ -191,9 +191,9 @@ Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les co
 neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 56 %, les taux de
 38,25 % et 45,9 % mentionnés au dix-septième alinéa sont, respectivement, portés à 44,12 % et 52,95 % et les taux de 45,9 %
 et 53,55 % mentionnés à la cinquième phrase du même alinéa sont, respectivement, portés à 52,95 % et 61,77 %. Dans les mêmes
-conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 61,77 %.
+conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 61,77 %. 
 
-I bis. - 1. En cas de location, dans les conditions mentionnées au vingt-sixième alinéa du I, d'un hôtel, d'une résidence de
+I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième alinéa du I, d'un hôtel, d'une résidence de
 tourisme ou d'un village de vacances classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant droit
 au bénéfice des dispositions du dix-huitième alinéa du I, les dispositions du II de l'article 39 C et, pour la partie de
 déficit provenant des travaux bénéficiant des dispositions du dix-huitième alinéa du I, les dispositions du 1° bis du I de
@@ -210,7 +210,7 @@ livraison ou d'achèvement, aux opérations de rénovation ou de réhabilitation
 village de vacances classés réalisées entre la date d'entrée en vigueur de la loi n° 2003-660 du 21 juillet 2003 de programme
 pour l'outre-mer et le 31 décembre 2008. 
 
-I ter. - Le I s'applique aux équipements et opérations de pose de câbles sous-marins de communication desservant pour la
+I ter.-Le I s'applique aux équipements et opérations de pose de câbles sous-marins de communication desservant pour la
 première fois la Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, la Polynésie française, Saint-Barthélemy, Saint-
 Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie ou les Terres australes et antarctiques
 françaises lorsque, parmi les options techniques disponibles pour développer les systèmes de communication outre-mer, le
@@ -244,7 +244,7 @@ aux a, b et c. La base éligible de la réduction d'impôt est égale au quart d
 toute nature, notamment les commissions d'acquisition, à l'exception des frais de transport de ces équipements et opérations,
 diminué du montant des subventions publiques accordées pour leur financement. 
 
-II. - 1. Les investissements mentionnés au I et dont le montant total par programme est supérieur à 1 000 000 € ne peuvent
+II.-1. Les investissements mentionnés au I et dont le montant total par programme est supérieur à 1 000 000 € ne peuvent
 ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au
 III de l'article 217 undecies. 
 
@@ -256,18 +256,18 @@ inscrit l'investissement à l'actif de son bilan ou qui en est locataire lorsqu'
 
 2. Pour ouvrir droit à réduction et par dérogation aux dispositions du 1, les investissements mentionnés au I doivent avoir
 reçu l'agrément préalable du ministre chargé du budget dans les conditions prévues au III de l'article 217 undecies
-lorsqu'ils sont réalisés dans les secteurs des transports, de la navigation de plaisance, de l'agriculture, de la pêche
+lorsqu'ils sont réalisés, dans les secteurs des transports, de la navigation de plaisance, de l'agriculture, de la pêche
 maritime et de l'aquaculture, de l'industrie charbonnière et de la sidérurgie, de la construction navale, des fibres
 synthétiques, de l'industrie automobile ou concernant la rénovation et la réhabilitation d'hôtel, de résidence de tourisme et
 de village de vacances classés ou des entreprises en difficultés ou qui sont nécessaires à l'exploitation d'une concession de
 service public local à caractère industriel et commercial. 
 
-III. - Les aides octroyées par la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles
+III.-Les aides octroyées par la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles
 Wallis et Futuna ainsi que la Nouvelle-Calédonie dans le cadre de leur compétence fiscale propre au titre de projets
 d'investissements sont sans incidence sur la détermination du montant des dépenses éligibles retenues pour l'application des
 I et I ter. 
 
-IV. - Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I bis, I ter et II et
+IV.-Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I bis, I ter et II et
 notamment les obligations déclaratives.
 
 V. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
@@ -280,6 +280,11 @@ dispositions s'appliquent aux déductions et aux réductions et crédits d'impô
 1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
 à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
 rédaction résultant du II du présent article.
+
+Aux termes du II de l'article 71 de la loi n° 2014-1654 du 29 décembre 2014, ces dispositions entrent en vigueur à une date
+fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse
+de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié comme conforme au droit de
+l'Union européenne en matière d'aides d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -321,7 +326,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 undecies C (M)
   - Code général des impôts, CGI. - art. 199 undecies D (VD)
   - Code général des impôts, CGI. - art. 199 undecies E (V)
-  - Code général des impôts, CGI. - art. 199 undecies F (M)
+  - Code général des impôts, CGI. - art. 199 undecies F (V)
   - Code général des impôts, CGI. - art. 200-0 A (VD)
   - Code général des impôts, CGI. - art. 217 duodecies (M)
   - Code général des impôts, CGI. - art. 217 undecies (V)
@@ -353,7 +358,7 @@ _Cite_:
   - Loi n°2009-888 du 22 juillet 2009
   - Code de commerce - art. L232-21
   - Code général des impôts, CGI. - art. 1010
-  - Code général des impôts, CGI. - art. 150-0 D (M)
+  - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 244 quater Q
@@ -365,5 +370,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
   - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 71
