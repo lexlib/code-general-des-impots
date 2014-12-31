@@ -24,7 +24,8 @@ imposition de ses bénéfices comparable à celle qui résulterait de l'applicat
 
 La filiale ou l'établissement doit avoir pour activité la commercialisation à l'étranger de biens produits principalement par
 l'entreprise qui constitue la provision dans l'un de ses établissements dont les résultats sont soumis à l'impôt sur les
-sociétés ou par les sociétés membres d'un groupe mentionné à l'article 223 A dont elle fait également partie. 
+sociétés ou par les sociétés membres d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis dont elle fait
+également partie. 
 
 Les dispositions du présent I ne sont plus applicables aux investissements réalisés après le 31 décembre 2003. 
 
@@ -80,7 +81,7 @@ quatrième alinéa du IV du présent article.
 
 _Modifié par_:
 
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
+  - Loi n°2014-891 du 8 août 2014 - art. 20
 
 _Cité par_:
 
