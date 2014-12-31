@@ -47,7 +47,12 @@ précise, sous peine de refus de dépôt ou de la formalité d'enregistrement, l
 de cette absence de taxation. Les deux derniers alinéas du III de l'article 150 VG sont applicables. 
 
 VI. ― La taxe est versée lors du dépôt de la déclaration prévue au V. Les I et II de l'article 150 VF, le second alinéa du I
-et les II et III de l'article 150 VH et le premier alinéa du IV de l'article 244 bis A sont applicables.
+et les II et III de l'article 150 VH et le IV de l'article 244 bis A sont applicables.
+
+**Nota:**
+
+Loi n° 2014-1655 du 29 décembre 2014 de finances rectificative article 62 II C : ces dispositions s'appliquent aux plus-
+values réalisées au titre des cessions intervenues à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -61,7 +66,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 31
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 62
 
 _Cite_:
 
