@@ -50,16 +50,12 @@ présent article. Toutefois, ces dispositions ne sont pas applicables aux entrep
 3° L'avantage fiscal prévu au 1° trouve également à s'appliquer lorsque la société bénéficiaire de la souscription remplit
 les conditions suivantes : 
 
-a) La société vérifie l'ensemble des conditions prévues au 2°, à l'exception de celle tenant à son activité ; 
+a) La société vérifie l'ensemble des conditions prévues au 2°, à l'exception de celles prévues au c bis et d ; 
 
 b) La société a pour objet social exclusif de détenir des participations dans des sociétés exerçant les activités mentionnées
 au d du 2° ; 
 
-c) La société ne compte pas plus de cinquante associés ou actionnaires ; 
-
-La condition prévue au premier alinéa du présent c ne s'applique pas si la société détient exclusivement des participations
-dans une société exerçant une des activités mentionnées au d du 2° dont le capital est détenu pour 10 % au moins par une ou
-plusieurs sociétés coopératives ou par l'une de leurs unions ; 
+c) (Abrogé) ; 
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ; 
 
@@ -124,10 +120,9 @@ actions reçues en contrepartie de sa souscription au capital de sociétés vér
 prises en compte pour le bénéfice de la réduction d'impôt sur le revenu. Les mêmes dispositions s'appliquent en cas de
 remboursement des apports aux souscripteurs avant le 31 décembre de la dixième année suivant celle de la souscription, à
 l'exception des parts investies dans des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail et
-agréées en vertu du même article avant le 31 décembre 2012, ainsi que dans des établissements de crédit ou des sociétés de
-financement dont 80 % de l'ensemble des prêts et des investissements sont effectués en faveur d'entreprises solidaires
-mentionnées audit article, pour lesquelles le remboursement doit intervenir après le 31 décembre de la cinquième année
-suivant celle de la souscription. 
+agréées en vertu du même article, ainsi que dans des établissements de crédit ou des sociétés de financement dont 80 % de
+l'ensemble des prêts et des investissements sont effectués en faveur d'entreprises solidaires mentionnées audit article, pour
+lesquelles le remboursement doit intervenir après le 31 décembre de la cinquième année suivant celle de la souscription. 
 
 Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement, d'invalidité correspondant au classement dans
 la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du décès du
@@ -224,8 +219,8 @@ en fonction de la qualité de la personne.
 VI quater. - Les réductions d'impôt mentionnées aux I, VI, VI bis et VI ter ne s'appliquent pas aux titres figurant dans un
 plan d'épargne en actions mentionné à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au titre III du
 livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions
-ayant ouvert droit aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies
-B, 199 terdecies-0 B, 199 unvicies, 199 quatervicies ou 885-0 V bis du présent code. La fraction des versements effectués au
+ayant ouvert droit aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A, aux articles 199 undecies B,
+199 terdecies-0 B, 199 unvicies, 199 quatervicies ou 885-0 V bis du présent code. La fraction des versements effectués au
 titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à
 ces réductions d'impôt. 
 
@@ -285,9 +280,9 @@ porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
 
 **Nota:**
 
-Conformément à l'article 18 III A de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
-dispositions de l'article 199 terdecies-0 A, dans leur rédaction issue de la présente loi, s'appliquent aux souscriptions
-effectuées dans des fonds constitués à compter du 1er janvier 2014.
+Aux termes du III de l'article 59 de la loi n° 2014-1655 du 29 décembre 2014, les dispositions de l'article 199 terdecies-0 A
+telles qu'elles résultent du 1° du I du même article 59 s'appliquent aux souscriptions effectuées à compter du 1er janvier
+2015.
 
 **Liens relatifs à cet article**
 
@@ -323,14 +318,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 7
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 59 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI.
   - Code général des impôts, CGI. - art. 197
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 200-0 A
+  - Code général des impôts, CGI. - art. 200-0 A (VT)
   - Code général des impôts, CGI. - art. 44 sexies-0 A
   - Code général des impôts, CGI. - art. 885 O quater
   - Code monétaire et financier - art. L214-30

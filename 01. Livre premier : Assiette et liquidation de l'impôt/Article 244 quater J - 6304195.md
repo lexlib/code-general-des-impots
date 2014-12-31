@@ -49,8 +49,9 @@ Le montant total des ressources à prendre en compte ne doit pas excéder 64 875
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 €. 
 
-Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans les zones franches urbaines mentionnées à
-l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. 
+Ce dernier montant est majoré de 50 % dans les quartiers prioritaires de la politique de la ville et dans les zones franches
+urbaines - territoires entrepreneurs mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire. 
 
 Jusqu'au 31 décembre 2010, le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant de 15 000 € pour
 les opérations d'accession sociale à la propriété portant sur la construction ou l'acquisition de logements neufs et donnant
@@ -99,17 +100,15 @@ financement les informations relatives aux avances remboursables sans intérêt 
 société de financement, le montant total des crédits d'impôt correspondants obtenus ainsi que leur suivi. 
 
 VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239
-quater, 
-239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les
-associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de
-l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par
+les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de
+redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
+l'article 156.
 
 **Nota:**
 
-Loi n° 2010-1657 du 29 décembre 2010 art. 90 IV : Les avances prévues à l'article 244 quater J du code général des impôts
-n'ouvrent pas droit au crédit d'impôt mentionné au même article lorsque l'offre de prêt n'a pas fait l'objet d'une
-acceptation avant le 1er juillet 2011 ou lorsque les fonds n'ont pas été mis à disposition de l'emprunteur, en totalité ou
-partiellement, avant le 1er juillet 2012.
+Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
+fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -120,7 +119,6 @@ _Cite_:
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 238 bis
   - Code général des impôts, CGI. - art. 239 quater
-  - Code général des impôts, CGI. - art. 239 quater B (V)
   - Code monétaire et financier - art. L511-1
   - Code de la sécurité sociale. - art. L341-4
   - Code de la sécurité sociale. - art. L541-1
@@ -175,4 +173,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (M)
+  - Loi n°2014-173 du 21 février 2014 - art. 26
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 48 (V)

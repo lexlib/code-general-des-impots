@@ -11,10 +11,10 @@ d'euros ;
 l'article 199 undecies B ou correspond à l'une des activités suivantes : comptabilité, conseil aux entreprises, ingénierie ou
 études techniques à destination des entreprises ; 
 
-3° Elles sont soumises soit à un régime réel d'imposition, soit à l'un des régimes définis aux articles 50-0 et 102 ter ; 
+3° Elles sont soumises soit à un régime réel d'imposition, soit à l'un des régimes définis aux articles 50-0 et 102 ter ;
 
 4° Elles ne sont pas en difficulté, au sens du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
-certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité. 
+certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.  
 
 Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque exercice au titre duquel l'abattement prévu au
 premier alinéa est pratiqué. La condition prévue au 3° doit être satisfaite pour chaque exercice au titre duquel cet
@@ -83,9 +83,9 @@ IV.-Par dérogation au III, pour les bénéfices provenant des exploitations sit
 et à La Désirade, le taux de l'abattement mentionné au dernier alinéa du III est porté à 100 % pour les exercices ouverts
 entre le 31 décembre 2008 et le 31 décembre 2011. 
 
-IV bis.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A, le
-bénéfice qui fait l'objet d'un abattement est celui déterminé comme si la société était imposée séparément, sans excéder
-celui déterminé dans les conditions du 4 de l'article 223 I. 
+IV bis.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A ou à
+l'article 223 A bis, le bénéfice qui fait l'objet d'un abattement est celui déterminé comme si la société était imposée
+séparément, sans excéder celui déterminé dans les conditions du 4 de l'article 223 I. 
 
 Pour l'ensemble des sociétés d'un même groupe, le montant cumulé des abattements ne peut excéder : 
 
@@ -119,7 +119,7 @@ exonérée en application des abattements mentionnés aux II et III.
 Le présent V n'est pas applicable lorsque la quote-part des bénéfices exonérée est inférieure à 500 €. 
 
 VI.-Les abattements prévus aux II et III s'imputent sur les résultats des exploitations déclarés en application de l'article
-53 A . 
+53 A. 
 
 Le cas échéant, les abattements prévus aux II et III s'imputent sur les résultats des exploitations déclarés en application
 de l'article 53 A avant réintégration, en application du quatrième alinéa du V, de la quote-part des bénéfices exonérée au
@@ -186,4 +186,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
+  - Loi n°2014-891 du 8 août 2014 - art. 20
