@@ -98,13 +98,13 @@ aux aides de minimis.
 
 Pour l'application du premier alinéa, les sociétés de personnes mentionnées aux articles 8 et 238 bis L qui ne sont pas
 soumises à l'impôt sur les sociétés doivent également respecter le règlement (UE) n° 1407/2013 de la Commission, du 18
-décembre 2013. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs droits dans
-ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables
-soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article
-156.
+décembre 2013 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs
+droits dans ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de
+redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
+l'article 156.
 
 V.-Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la délivrance du titre de maître-restaurateur entre le
-15 novembre 2006 et le 31 décembre 2014. 
+15 novembre 2006 et le 31 décembre 2017. 
 
 VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants
 et le cahier des charges est établi sont définies par décret en Conseil d'Etat. 
@@ -120,7 +120,8 @@ Décret n° 2014-549 du 26 mai 2014 article 1 : Au 1 du I, la référence : , 44
 
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 53 (V)
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 13
 
 _Cité par_:
 

@@ -6,7 +6,9 @@ Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur 
 la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, peuvent
 bénéficier d'un crédit d'impôt au titre d'avances remboursables ne portant pas intérêt versées au cours de l'année
 d'imposition ou de l'exercice pour financer des travaux d'amélioration de la performance énergétique globale de logements
-achevés avant le 1er janvier 1990 et utilisés ou destinés à être utilisés en tant que résidence principale. 
+achevés avant le 1er janvier 1990 en métropole, et de logements dont le permis de construire a été déposé avant le 1er mai
+2010 pour les départements de Guadeloupe, de Martinique, de Guyane, de La Réunion et de Mayotte, et utilisés ou destinés à
+être utilisés en tant que résidence principale. 
 
 2. Les travaux mentionnés au 1 sont constitués : 
 
@@ -164,10 +166,10 @@ d'avance émises à compter du 1er janvier 2014.
 
 _Cite_:
 
-  - Loi n°65-557 du 10 juillet 1965 - art. 25 (V)
+  - Loi n°65-557 du 10 juillet 1965 - art. 25
   - Code général des impôts, CGI. - art. 1417
   - Code général des impôts, CGI. - art. 156
-  - Code général des impôts, CGI. - art. 200 quater (V)
+  - Code général des impôts, CGI. - art. 200 quater
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater B
@@ -264,4 +266,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 59
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 14

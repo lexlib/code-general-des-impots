@@ -47,8 +47,7 @@ utilisation est intervenue.
 
 Lorsque ces sommes et intérêts ne sont pas utilisés au cours des sept exercices qui suivent celui au titre duquel la
 déduction a été pratiquée, ils sont rapportés aux résultats du septième exercice suivant celui au titre duquel la déduction a
-été pratiquée et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu à
-l'article 1727. 
+été pratiquée et majorés d'un montant égal au produit de ces sommes et intérêts par le taux d'intérêt légal. 
 
 Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux mentionnés au 2 du présent I, ils sont rapportés au
 résultat de l'exercice au cours duquel cette utilisation a été effectuée et majorés d'un montant égal au produit de ces
@@ -73,14 +72,14 @@ définies au I.
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 69
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 151 octies (V)
-  - Code général des impôts, CGI. - art. 1727 (V)
-  - Code général des impôts, CGI. - art. 41 (V)
-  - Code général des impôts, CGI. - art. 72 D ter (V)
+  - Code général des impôts, CGI. - art. 151 octies
+  - Code général des impôts, CGI. - art. 1727
+  - Code général des impôts, CGI. - art. 41
+  - Code général des impôts, CGI. - art. 72 D ter (Ab)
 
 _Cité par_:
 
