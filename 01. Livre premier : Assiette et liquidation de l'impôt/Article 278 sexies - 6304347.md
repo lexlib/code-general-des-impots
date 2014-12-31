@@ -66,7 +66,20 @@ les ressources à la date de signature de l'avant-contrat ou du contrat prélimi
 vente ou du contrat ayant pour objet la construction du logement ne dépassent pas les plafonds prévus à la première phrase du
 huitième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés dans des quartiers faisant
 l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 précitée ou entièrement situés à une
-distance de moins de 300 mètres de la limite de ces quartiers ; 
+distance de moins de 300 mètres de la limite de ces quartiers ;
+
+11 bis. Les livraisons d'immeubles et les travaux réalisés en application d'un contrat unique de construction de logements
+dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, destinés à des personnes physiques
+dont les ressources à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat
+de vente ou du contrat ayant pour objet la construction du logement ne dépassent pas les plafonds prévus à la première phrase
+du huitième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés, à la date du dépôt de la
+demande de permis de construire, dans les quartiers prioritaires de la politique de la ville définis à l'article 5 de la loi
+n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine qui font l'objet d'un contrat de ville
+prévu à l'article 6 de la même loi ou entièrement situés, à la même date, à une distance de moins de 300 mètres de la limite
+de ces quartiers.
+
+Le prix de vente ou de construction des logements ne peut excéder les plafonds prévus pour les opérations mentionnées au 4 du
+présent I ; 
 
 12. Les apports des immeubles sociaux neufs aux sociétés civiles immobilières d'accession progressive à la propriété
 effectués dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation ; 
@@ -74,7 +87,24 @@ effectués dans les conditions prévues aux articles L. 443-6-2 et suivants du c
 II. - Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié du taux réduit de 5,5 % en application du
 I ; 
 
-III. - (Abrogé) ;
+III. - 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés aux 2, 5, 6 et 8 du I du présent article,
+lorsque ces travaux consistent en une extension ou rendent l'immeuble à l'état neuf, au sens du 2° du 2 du I de l'article
+257, sous réserve de la prise en compte de ces opérations d'extension ou de remise à neuf dans les conventions mentionnées
+aux 2, 5, 6 et 8 du I du présent article ;
+
+2. Les livraisons à soi-même de travaux de rénovation, d'amélioration, de transformation ou d'aménagement réalisés dans le
+cadre de l'une des opérations suivantes, lorsque l'acquéreur bénéficie pour cette opération d'un prêt accordé pour la
+construction, l'acquisition ou l'amélioration de logements locatifs aidés ou d'une subvention de l'Agence nationale pour la
+rénovation urbaine et a conclu avec l'Etat une convention en application des 3° à 5° de l'article L. 351-2 du code de la
+construction et de l'habitation :
+
+a) Acquisition de logements et d'immeubles destinés à l'habitation, suivie de travaux d'amélioration ;
+
+b) Acquisition de locaux ou d'immeubles non affectés à l'habitation, suivie de leur transformation ou aménagement en
+logements ;
+
+c) Travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
+collectivités territoriales ou leurs groupements ; 
 
 IV. - 1. - Les livraisons à soi-même de travaux de rénovation portant sur les locaux mentionnés aux 2 à 8 du I et ayant pour
 objet de concourir directement à : 
@@ -115,11 +145,10 @@ d'installation de dispositifs de retenue des personnes.
 
 **Nota:**
 
-Loi n° 2012-1510 du 29 décembre 2012, art. 68-III-B : le taux "7 %" est remplacé par le taux "10 %" pour les opérations dont
-le fait générateur intervient à compter du 1er janvier 2014. Toutefois, ils ne s'appliquent pas aux encaissements pour
-lesquels la taxe sur la valeur ajoutée est exigible avant cette date. 
-
-Pour les dérogations au taux de TVA de 10 % se reporter aux points 2 et 3 du B du III du même article 68.
+Loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 article 17 II : les présentes dispositions s'appliquent aux
+opérations pour lesquelles la demande de permis de construire est déposée à compter du 1er janvier 2015 et jusqu'au 31
+décembre 2024 pour les opérations situées dans les quartiers faisant l'objet d'une convention prévue à l'article 10-3 de la
+loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine.
 
 **Liens relatifs à cet article**
 
@@ -132,7 +161,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1
   - Code de la construction et de l'habitation. - art. L301-1
   - Code de la construction et de l'habitation. - art. L313-34
-  - Code de la construction et de l'habitation. - art. L351-2
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
   - Code de la construction et de l'habitation. - art. L411-2
   - Code de la construction et de l'habitation. - art. R331-1
   - Code de la construction et de l'habitation. - art. R331-3
@@ -173,4 +202,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 17
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 19

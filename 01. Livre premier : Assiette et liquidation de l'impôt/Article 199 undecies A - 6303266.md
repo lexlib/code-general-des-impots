@@ -64,12 +64,10 @@ l'article 217 undecies.
 L'équivalent de 60 % de la réduction d'impôt ainsi obtenue doit bénéficier à l'entreprise qui acquiert et exploite
 l'investissement ; 
 
-h) Aux versements effectués au titre de souscriptions en numéraire au capital d'une société mentionnée au II bis de l'article
-217 undecies, sous réserve de l'obtention d'un agrément préalable du ministre chargé du budget délivré dans les conditions
-prévues au III du même article. 
+h) (Abrogé). 
 
-Les souscripteurs de parts ou actions des sociétés mentionnées aux f, g et h doivent s'engager à les conserver pendant cinq
-ans à compter de la date de la souscription. 
+Les souscripteurs de parts ou actions des sociétés mentionnées aux f et g doivent s'engager à les conserver pendant cinq ans
+à compter de la date de la souscription. 
 
 3. La réduction d'impôt n'est pas applicable au titre des immeubles et des parts ou actions mentionnés au 2 dont le droit de
 propriété est démembré. Toutefois, lorsque le transfert de la propriété des immeubles, parts ou actions, ou le démembrement
@@ -84,7 +82,7 @@ première propriété au sens du troisième alinéa du I de l'article 244 quater
 résidence principale est visée par un arrêté, une mise en demeure ou une injonction pris en application de l'article L. 511-1
 du code de la construction et de l'habitation ou des articles L. 1331-22 et L. 1331-24 du code de la santé publique. 
 
-4. Lorsque le montant des investissements mentionnés aux b, c, d, f, g et h du 2 est supérieur à deux millions d'euros, le
+4. Lorsque le montant des investissements mentionnés aux b, c, d, f et g du 2 est supérieur à deux millions d'euros, le
 bénéfice de la réduction d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du
 budget dans les conditions prévues au III de l'article 217 undecies. 
 
@@ -97,19 +95,19 @@ précède la date de référence.
 
 6. La réduction d'impôt est effectuée, pour les investissements mentionnés au a du 2, pour le calcul de l'impôt dû au titre
 de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, et des neuf années suivantes. Pour les
-investissements visés aux b, c, d, f, g et h du 2, elle est effectuée pour le calcul de l'impôt dû au titre de l'année
+investissements visés aux b, c, d, f et g du 2, elle est effectuée pour le calcul de l'impôt dû au titre de l'année
 d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, ou de la souscription des parts ou actions, et des
 quatre années suivantes. Pour les investissements visés au e du même 2, elle est effectuée pour le calcul dû au titre de
 l'année d'achèvement des travaux et des quatre années suivantes. Chaque année, la base de la réduction est égale, pour les
 investissements mentionnés au a du 2, à 10 % des sommes effectivement payées au 31 décembre de l'année au cours de laquelle
-le droit à réduction d'impôt est né et, pour les investissements visés aux b, c, d, e, f, g et h du 2, à 20 % des sommes
+le droit à réduction d'impôt est né et, pour les investissements visés aux b, c, d, e, f et g du 2, à 20 % des sommes
 effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né. 
 
 La réduction d'impôt est égale à 18 % de la base définie au premier alinéa pour les investissements mentionnés aux a et e du
 2. 
 
 La réduction d'impôt est égale à 30 % de la base définie au premier alinéa pour les investissements mentionnés aux b, c et d
-du 2 et à 38 % de la même base pour les investissements mentionnés aux f, g et h du 2. 
+du 2 et à 38 % de la même base pour les investissements mentionnés aux f et g du 2. 
 
 Pour les investissements mentionnés aux b, c et d du 2, la réduction d'impôt est portée à 38 % si les conditions suivantes
 sont réunies : 
@@ -123,9 +121,8 @@ au moins six ans à compter de la date d'achèvement des logements ou de leur ac
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer et la collectivité départementale de Mayotte
 mentionnés aux a, b, c, d et e du 2, les taux de 18 % et 30 % prévus aux deuxième et troisième alinéas et le taux de 38 %
-prévu au quatrième alinéa sont respectivement portés à 26 %, 38 % et 45 % lorsque le logement est situé dans une zone urbaine
-sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développement du territoire. 
+prévu au quatrième alinéa sont respectivement portés à 26 %, 38 % et 45 % lorsque le logement est situé dans un quartier
+prioritaire de la politique de la ville.
 
 En outre, lorsque des dépenses d'équipement de production d'énergie utilisant une source d'énergie renouvelable sont
 réalisées dans le logement, les taux de 18 % et 30 % mentionnés aux deuxième et troisième alinéas et le taux de 38 %
@@ -183,11 +180,13 @@ logement à usage d'habitation principale de son personnel ne fait pas obstacle 
 
 Modifications effectuées en conséquence de l'article 58-I [1°] de la loi n° 2004-1485 du 30 décembre 2004.
 
+Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
+fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995
   - Loi n°2003-660 du 21 juillet 2003
   - Code général des impôts, CGI. - art. 210 B
   - Code général des impôts, CGI. - art. 244 quater J
@@ -256,4 +255,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2014-173 du 21 février 2014 - art. 26
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
