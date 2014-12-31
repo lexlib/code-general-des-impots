@@ -64,9 +64,9 @@ ou de la partie d'immeuble à un établissement réunissant les conditions requi
 l'article 1466 F. 
 
 VII.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 B, 1383 C,
-1383 C bis, 1383 D, 1383 E bis ou 1383 I et de l'abattement prévu au présent article sont réunies, le contribuable peut opter
-pour l'un ou l'autre de ces régimes. Cette option est irrévocable et vaut pour l'ensemble des collectivités territoriales et
-des établissements publics de coopération intercommunale. 
+1383 C bis, 1383 C ter,  1383 D, 1383 E bis ou 1383 I et de l'abattement prévu au présent article sont réunies, le
+contribuable peut opter pour l'un ou l'autre de ces régimes. Cette option est irrévocable et vaut pour l'ensemble des
+collectivités territoriales et des établissements publics de coopération intercommunale. 
 
 L'option pour le présent régime doit être exercée avant le 1er janvier de l'année au titre de laquelle le présent régime
 prend effet. 
@@ -113,4 +113,5 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 49 (M)
   - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
