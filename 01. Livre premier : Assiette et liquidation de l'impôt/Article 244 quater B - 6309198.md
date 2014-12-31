@@ -4,8 +4,11 @@ I. - Les entreprises industrielles et commerciales ou agricoles imposées d'apr�
 application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44
 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année.
 Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros
-et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Pour les dépenses mentionnées au k du II, le
-taux du crédit d'impôt est de 20 %. 
+et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 %
+pour les dépenses de recherche exposées à compter du 1er janvier 2015 dans des exploitations situées dans un département
+d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour
+les dépenses mentionnées au même k exposées, à compter du 1er janvier 2015, dans des exploitations situées dans un
+département d'outre-mer.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater,
 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des
@@ -24,10 +27,11 @@ a bis) En cas de sinistre touchant les immobilisations visées au a, la dotation
 différence entre l'indemnisation d'assurance et le coût de reconstruction et de remplacement ; 
 
 b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à
-ces opérations. Lorsque ces dépenses se rapportent à des personnes titulaires d'un doctorat ou d'un diplôme équivalent, elles
-sont prises en compte pour le double de leur montant pendant les vingt-quatre premiers mois suivant leur premier recrutement
-à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif du personnel de recherche
-salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente ; 
+ces opérations. Lorsque ces dépenses se rapportent à des personnes titulaires d'un doctorat, au sens de l'article L. 612-7 du
+code de l'éducation, ou d'un diplôme équivalent, elles sont prises en compte pour le double de leur montant pendant les
+vingt-quatre premiers mois suivant leur premier recrutement à condition que le contrat de travail de ces personnes soit à
+durée indéterminée et que l'effectif du personnel de recherche salarié de l'entreprise ne soit pas inférieur à celui de
+l'année précédente ; 
 
 b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de l'article L. 611-7 du code de la propriété
 intellectuelle, au profit des salariés auteurs d'une invention résultant d'opérations de recherche ; 
@@ -40,10 +44,10 @@ Ce pourcentage est fixé à :
 
 1° et 2° (abrogés pour les dépenses retenues pour le calcul du crédit d'impôt à compter du 1er janvier 2000). 
 
-3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat ou d'un diplôme équivalent
-pendant les vingt-quatre premiers mois suivant leur premier recrutement à la condition que le contrat de travail de ces
-personnes soit à durée indéterminée et que l'effectif du personnel de recherche salarié de l'entreprise ne soit pas inférieur
-à celui de l'année précédente. 
+3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat, au sens de l'article L. 612-7 du
+code de l'éducation, ou d'un diplôme équivalent pendant les vingt-quatre premiers mois suivant leur premier recrutement à la
+condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif du personnel de recherche
+salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente. 
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à : 
 
@@ -224,6 +228,16 @@ IV., IV. bis, IV. ter, V. (Dispositions périmées).
 VI. - Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de
 durée inégale ou ne coïncidant pas avec l'année civile.
 
+**Nota:**
+
+Conformément au II de l'article 66 de la loi n° 2014-1654 du 29 décembre 2014 de finances, ces dispositions entrent en
+vigueur à compter du 1er janvier 2015 pour les entreprises qui satisfont aux conditions fixées au chapitre Ier et à la
+section 1 du chapitre III du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité et, pour les autres
+entreprises, à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le
+Gouvernement de la réponse de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié
+comme conforme au droit de l'Union européenne en matière d'aides d'Etat. L'article 1er du décret n° 2015-1292 du 15 octobre
+2015 a fixé l'entrée en vigueur de ces dispositions au 18 octobre 2015.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -277,7 +291,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 53 (V)
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 66
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 75
 
 _Cite_:
 
@@ -289,7 +305,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater B
   - Code général des impôts, CGI. - art. 239 quater C
-  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 39 (VD)
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
   - Code de la recherche - art. L313-2
