@@ -79,7 +79,7 @@ corporels mobiliers ;
 
 c) une activité bancaire, financière, d'assurances, de location ou de gestion d'immeubles ou de travaux immobiliers ; 
 
-3° elle ne doit pas être soumise aux dispositions des articles 44 sexies, 44 septies et 223 A ; 
+3° elle ne doit pas être soumise aux dispositions des  articles 44 sexies, 44 septies, 223 A et 223 A bis ; 
 
 4° son effectif de salariés, bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée de six mois au moins,
 doit être égal ou supérieur à dix au cours de chaque exercice de la période définie au premier alinéa du II : si l'effectif
@@ -104,22 +104,25 @@ Modifications effectuées en conséquence de l'article 51-III à VIII de la loi 
 _Cite_:
 
   - Loi - art. 51
-  - Code général des impôts, CGI. - art. 1727 (V)
-  - Code général des impôts, CGI. - art. 210 A (V)
-  - Code général des impôts, CGI. - art. 223 (V)
-  - Code général des impôts, CGI. - art. 223 A (V)
-  - Code général des impôts, CGI. - art. 239 quater (V)
-  - Code général des impôts, CGI. - art. 239 quater A (V)
+  - Code général des impôts, CGI. - art. 1727
+  - Code général des impôts, CGI. - art. 210 A
+  - Code général des impôts, CGI. - art. 223
+  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 239 quater
+  - Code général des impôts, CGI. - art. 239 quater A
   - Code général des impôts, CGI. - art. 39 A
-  - Code général des impôts, CGI. - art. 44 sexies (V)
-  - Code général des impôts, CGI. - art. 8 (V)
-  - Code général des impôts, CGI. - art. 8 quater (V)
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 8
+  - Code général des impôts, CGI. - art. 8 quater
   - Code monétaire et financier - art. L313-7
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 9 (V)
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2014-891 du 8 août 2014 - art. 20
+
+**Liens**:
+
+  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cité par_:
 
