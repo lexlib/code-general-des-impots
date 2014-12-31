@@ -15,10 +15,11 @@ l'exigibilité de la taxe ou, lorsque cette personne assujettie est membre d'un 
 et suivants, sur le résultat qui aurait été imposable en son nom à l'impôt sur les sociétés à ces mêmes taux au titre de ce
 même exercice si elle avait été imposée séparément. 
 
-2. Pour l'application du 1, les résultats imposables correspondent aux résultats déterminés avant application des règles de
-déduction des déficits mentionnées au troisième alinéa du I de l'article 209 et à l'article 220 quinquies. 
+2. Pour l'application du 1, les résultats imposables correspondent aux résultats , majorés des dotations aux amortissements
+de l'exercice, hors amortissements dérogatoires, déterminés avant application des règles de déduction des déficits
+mentionnées au troisième alinéa du I de l'article 209 et à l'article 220 quinquies. 
 
-III.-Le taux de la taxe, compris entre 15 % et 35 %, est fixé par arrêté conjoint des ministres chargés respectivement des
+III.-Le taux de la taxe, compris entre 5 % et 25 %, est fixé par arrêté conjoint des ministres chargés respectivement des
 transports, de l'économie et du budget. Le montant de la taxe est plafonné à 200 millions d'euros. 
 
 IV.-La taxe est déclarée et liquidée : 
@@ -51,14 +52,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 209
+  - Code général des impôts, CGI. - art. 209 (M)
   - Code général des impôts, CGI. - art. 219
   - Code général des impôts, CGI. - art. 220 quinquies
   - Code général des impôts, CGI. - art. 223 A
-  - Code général des impôts, CGI. - art. 287 (VT)
+  - Code général des impôts, CGI. - art. 287 (M)
   - Code général des impôts, CGI. - art. 302 bis ZC
   - Code des transports - art. L2122-9

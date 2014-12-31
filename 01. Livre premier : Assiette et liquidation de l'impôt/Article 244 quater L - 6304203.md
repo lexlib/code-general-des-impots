@@ -1,6 +1,6 @@
 # Article 244 quater L
 
-I. - Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années 2011 à 2014 au cours desquelles
+I. - Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années 2011 à 2017 au cours desquelles
 au moins 40 % de leurs recettes proviennent d'activités mentionnées à l'article 63 relevant du mode de production biologique
 conformément aux règles fixées dans le règlement (CE) n° 834/2007 du Conseil, du 28 juin 2007, relatif à la production
 biologique et à l'étiquetage de produits biologiques et abrogeant le règlement (CEE) n° 2092/91. 
@@ -36,7 +36,7 @@ aux aides de minimis dans le secteur de l'agriculture.
 
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 12
 
 _Cite_:
 
