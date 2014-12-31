@@ -14,13 +14,13 @@ Le bénéfice de l'exonération est réservé aux contribuables exerçant une ac
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
 d'immeubles à usage d'habitation, ou agricole au sens de l'article 63, dans les conditions et limites fixées par le présent
 article. L'exonération s'applique dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les sociétés
-exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92.
+exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92. 
 
 L'exonération ne s'applique pas aux créations d'activité dans les zones de restructuration de la défense consécutives au
 transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années
 précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44
-quindecies , de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie et les
-services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
+quindecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie et les services
+ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation. 
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les zones de restructuration de la défense ou qui reprennent
@@ -37,7 +37,7 @@ tiers de leur montant au cours de la première période de douze mois suivant la
 période de douze mois suivante. 
 
 II. ― Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues
-aux articles 50-0, 53 A, 96 à 100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les
+aux articles 50-0,53 A, 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les
 conditions de droit commun : 
 
 a) Produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8,
@@ -55,7 +55,7 @@ l'activité exercée dans une zone de restructuration de la défense.
 
 Lorsque le contribuable n'exerce pas l'ensemble de son activité dans les zones de restructuration de la défense, les
 bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés, dans les conditions de droit commun, en
-proportion du montant hors taxes du chiffre d'affaires ou de recettes réalisé en dehors de ces zones.
+proportion du montant hors taxes du chiffre d'affaires ou de recettes réalisé en dehors de ces zones. 
 
 Par exception au sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré qu'à raison des
 bénéfices provenant des seuls immeubles situés dans une zone de restructuration de la défense. Cette disposition s'applique
@@ -66,14 +66,14 @@ relatif à l'application des articles 107 et 108 du traité sur le fonctionnemen
 Toutefois, sur option des entreprises qui procèdent aux opérations mentionnées au I dans une zone d'aide à finalité
 régionale, le bénéfice de l'exonération est subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la
 Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
-articles 87 et 88 du traité (règlement général d'exemption par catégorie).
+articles 87 et 88 du traité (règlement général d'exemption par catégorie). 
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'exonération. Elle doit être exercée dans les six
 mois suivant les opérations mentionnées au I. 
 
-III. ― Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice
-exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du résultat d'ensemble du
-groupe. 
+III. ― Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A ou à l'article
+223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du
+résultat d'ensemble du groupe. 
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
 44 sexies A, 44 septies, 44 octies A, 44 duodecies ou 44 quindecies et du régime prévu au présent article, le contribuable
@@ -104,9 +104,14 @@ _Cite_:
   - Code général des impôts, CGI. - art. 96
   - Code monétaire et financier - art. L511-1
 
+_Créé par_:
+
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (M)
+
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+  - Loi n°2014-891 du 8 août 2014 - art. 20
 
 _Cité par_:
 
