@@ -16,9 +16,9 @@ juridique de la gestion d'actifs, des fonds professionnels de capital investisse
 et des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque ne sont pas prises en
 compte à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39
 entre la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe au sens de l'article
-223 A, le chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement de la somme des chiffres d'affaires
-et de la somme des effectifs de chacune des sociétés membres de ce groupe. La condition tenant à la composition du capital
-doit être remplie par la société mère du groupe. 
+223 A ou de l'article 223 A bis, le chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement de la
+somme des chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres de ce groupe. La condition tenant
+à la composition du capital doit être remplie par la société mère du groupe. 
 
 Le crédit d'impôt bénéficie également aux sociétés des professions libérales soumises à un statut législatif ou réglementaire
 ou dont le titre est protégé et aux sociétés de participations financières de professions libérales visées par la loi n°
@@ -73,10 +73,6 @@ l'article 156.
 
 Le crédit d'impôt ne peut être obtenu qu'une fois par l'entreprise.
 
-**Nota:**
-
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, la référence : , 44 decies  est périmée.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -88,10 +84,10 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 239 quater
-  - Code général des impôts, CGI. - art. 239 quater B (V)
+  - Code général des impôts, CGI. - art. 239 quater B
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 44 terdecies (V)
+  - Code général des impôts, CGI. - art. 44 terdecies
   - Code général des impôts, CGI. - art. 8
   - Code du service national - art. L122-1
   - Code du service national - art. L122-12
@@ -100,7 +96,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2014-891 du 8 août 2014 - art. 20
 
 _Cité par_:
 

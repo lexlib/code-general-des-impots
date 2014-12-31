@@ -1,39 +1,40 @@
 # Article 1586 quater
 
-I.-Les entreprises bénéficient d'un dégrèvement de cotisation sur la valeur ajoutée des entreprises. Il est égal à la
+I. – Les entreprises bénéficient d'un dégrèvement de cotisation sur la valeur ajoutée des entreprises. Il est égal à la
 différence entre le montant de cette cotisation et l'application à la valeur ajoutée mentionnée au 1 du II de l'article 1586
-ter d'un taux calculé de la manière suivante : 
+ter d'un taux calculé de la manière suivante :
 
-a) Pour les entreprises dont le chiffre d'affaires est inférieur à 500 000 €, le taux est nul ; 
+a) Pour les entreprises dont le chiffre d'affaires est inférieur à 500 000 €, le taux est nul ;
 
-b) Pour les entreprises dont le chiffre d'affaires est compris entre 500 000 € et 3 000 000 €, le taux est égal à : 
+b) Pour les entreprises dont le chiffre d'affaires est compris entre 500 000 € et 3 000 000 €, le taux est égal à :
 
-0,5 % × (montant du chiffre d'affaires-500 000 €)/2 500 000 € ; 
+0,5 % × (montant du chiffre d'affaires-500 000 €)/2 500 000 € ;
 
-c) Pour les entreprises dont le chiffre d'affaires est compris entre 3 000 000 € et 10 000 000 €, le taux est égal à : 
+c) Pour les entreprises dont le chiffre d'affaires est compris entre 3 000 000 € et 10 000 000 €, le taux est égal à :
 
-0,5 % + 0,9 % × (montant du chiffre d'affaires-3 000 000 €)/7 000 000 € ; 
+0,5 % + 0,9 % × (montant du chiffre d'affaires-3 000 000 €)/7 000 000 € ;
 
-d) Pour les entreprises dont le chiffre d'affaires est compris entre 10 000 000 € et 50 000 000 €, le taux est égal à : 
+d) Pour les entreprises dont le chiffre d'affaires est compris entre 10 000 000 € et 50 000 000 €, le taux est égal à :
 
-1,4 % + 0,1 % × (montant du chiffre d'affaires-10 000 000 €)/40 000 000 € ; 
+1,4 % + 0,1 % × (montant du chiffre d'affaires-10 000 000 €)/40 000 000 € ;
 
-e) Pour les entreprises dont le chiffre d'affaires est supérieur à 50 000 000 €, à 1,5 %. 
+e) Pour les entreprises dont le chiffre d'affaires est supérieur à 50 000 000 €, à 1,5 %.
 
-Les taux mentionnés aux b, c et d sont exprimés en pourcentages et arrondis au centième le plus proche. 
+Les taux mentionnés aux b, c et d sont exprimés en pourcentages et arrondis au centième le plus proche.
 
-Pour l'application du présent article, le chiffre d'affaires s'entend de celui mentionné au 1 du II de l'article 1586 ter. 
+Pour l'application du présent article, le chiffre d'affaires s'entend de celui mentionné au 1 du II de l'article 1586 ter.
 
-I bis.-Lorsqu'une société est membre d'un groupe mentionné à l'article 223 A, le chiffre d'affaires à retenir pour
-l'application du I s'entend de la somme des chiffres d'affaires de chacune des sociétés membres du groupe. 
+I bis. – Lorsqu'une société est membre d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis, le chiffre
+d'affaires à retenir pour l'application du I s'entend de la somme des chiffres d'affaires de chacune des sociétés membres du
+groupe.
 
-Le présent I bis n'est pas applicable aux sociétés membres d'un groupe dont la société mère au sens de l'article 223 A
-bénéficie des dispositions du b du I de l'article 219. 
+Le présent I bis n'est pas applicable aux sociétés membres d'un groupe dont la société mère au sens de l'article 223 A ou de
+l'article 223 A bis bénéficie des dispositions du b du I de l'article 219.
 
-II.-Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000 000
-€. 
+II. – Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000
+000 €.
 
-III.-En cas d'apport, de cession d'activité ou de scission d'entreprise réalisés à compter du 22 octobre 2009 ou de
+III. – En cas d'apport, de cession d'activité ou de scission d'entreprise réalisés à compter du 22 octobre 2009 ou de
 transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil réalisée à compter du 1er janvier 2010, le
 chiffre d'affaires à retenir pour l'application du I du présent article est égal à la somme des chiffres d'affaires des
 entreprises parties à l'opération lorsque l'entité à laquelle l'activité est transmise est détenue, directement ou
@@ -43,26 +44,22 @@ entreprises issues de la scission réunies, soit par une entreprise détenue, di
 l'entreprise cédante ou apporteuse ou par les associés de l'entreprise scindée réunis, tant que les conditions suivantes sont
 simultanément remplies :
 
-- la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante,
+– la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante,
 apporteuse ou scindée et, d'autre part, par le nouvel exploitant est inférieure, sans application du premier alinéa, d'au
 moins 10 % aux impositions au titre de la cotisation sur la valeur ajoutée des entreprises qui auraient été dues par ces
 mêmes entreprises en l'absence de réalisation de l'opération, minorées des dégrèvements prévus au présent article ;
 
-- l'activité continue d'être exercée par ces dernières ou par une ou plusieurs de leurs filiales ;
+– l'activité continue d'être exercée par ces dernières ou par une ou plusieurs de leurs filiales ;
 
-- les entreprises en cause ont des activités similaires ou complémentaires. 
+– les entreprises en cause ont des activités similaires ou complémentaires.
 
 Les conditions d'exercice de la détention de capital prévues au premier alinéa doivent être remplies à un moment quelconque
-au cours des six mois qui précèdent la date de réalisation de l'opération mentionnée au premier alinéa. 
+au cours des six mois qui précèdent la date de réalisation de l'opération mentionnée au premier alinéa.
 
 Le présent III ne s'applique plus à compter de la huitième année suivant l'opération d'apport, de cession d'activité, de
 scission d'entreprise ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil en cause.
 
 **Nota:**
-
-Loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 art 108 XXII, modifié par l'article 50 IV de la loi n° 2010-1658
-du 29 décembre 2010 de finances rectificative pour 2010 : les dispositions du I bis de l'article 1586 quater s'appliquent à
-compter des impositions établies au titre de 2011.
 
 Conformément à la décision n° 2017-629 QPC du 19 mai 2017 (NOR: CSCX1714790S), Art. 1 : Le premier alinéa du paragraphe I bis
 de l'article 1586 quater du code général des impôts, dans sa rédaction résultant de la loi n° 2010-1657 du 29 décembre 2010
@@ -76,11 +73,7 @@ réserve du respect des délais et conditions prévus par le livre des procédur
 
 _Créé par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
-
-_Modifié par_:
-
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (VD)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
 
 _Cité par_:
 
@@ -91,9 +84,13 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1679 septies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 terdecies (V)
 
+_Modifié par_:
+
+  - Loi n°2014-891 du 8 août 2014 - art. 20
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1586 ter (V)
-  - Code général des impôts, CGI. - art. 219 (V)
-  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 1586 ter
+  - Code général des impôts, CGI. - art. 219
+  - Code général des impôts, CGI. - art. 223 A
   - Code civil - art. 1844-5
