@@ -1,12 +1,12 @@
 # Article 238 octies A
 
-I.-Les plus-values réalisées par les entreprises relevant de l'impôt sur le revenu au titre des bénéfices industriels et
+I. – Les plus-values réalisées par les entreprises relevant de l'impôt sur le revenu au titre des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux, des bénéfices agricoles ou de l'impôt sur les sociétés à l'occasion de la cession
-d'un droit de surélévation effectuée au plus tard le 31 décembre 2014 en vue de la réalisation de locaux destinés à
-l'habitation sont exonérées. 
+d'un droit de surélévation effectuée au plus tard le 31 décembre 2017 en vue de la réalisation de locaux destinés à
+l'habitation sont exonérées.
 
-II.-L'application du I est subordonnée à la condition que la personne cessionnaire s'engage à achever les locaux destinés à
-l'habitation dans un délai de quatre ans à compter de la date de l'acquisition. 
+II. – L'application du I est subordonnée à la condition que la personne cessionnaire s'engage à achever les locaux destinés à
+l'habitation dans un délai de quatre ans à compter de la date de l'acquisition.
 
 Le non-respect par la personne cessionnaire de l'engagement d'achèvement des locaux destinés à l'habitation mentionné au
 premier alinéa entraîne l'application de l'amende prévue au IV de l'article 1764. 
@@ -15,7 +15,7 @@ Par exception au deuxième alinéa, l'amende prévue au IV de l'article 1764 n'e
 respecte pas l'engagement d'achèvement des locaux en raison de circonstances exceptionnelles indépendantes de sa volonté.
 Elle n'est pas due non plus en cas de licenciement, d'invalidité correspondant au classement dans les deuxième ou troisième
 des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de décès du contribuable ou de l'un des époux
-soumis à une imposition commune. 
+soumis à une imposition commune.
 
 En cas de fusion de sociétés, l'engagement souscrit par le cessionnaire n'est pas rompu lorsque la société absorbante
 s'engage, dans l'acte de fusion, à se substituer à la société absorbée pour le respect de l'engagement d'achèvement des
@@ -24,19 +24,14 @@ entraîne l'application de l'amende prévue pour le cessionnaire.
 
 **Nota:**
 
-Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 article 42 II : le présent article s'applique aux
-cessions à titre onéreux réalisées du 1er janvier 2012 au 31 décembre 2014.
+Aux termes du II de l'article 10 de la loi n° 2014-1654 du 29 décembre 2014, ces dispositions s'appliquent aux cessions à
+titre onéreux réalisées entre le 1er janvier 2012 et le 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°92-836 du 27 août 1992
-  - Décret n°97-661 du 28 mai 1997
-
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 1
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 10 (V)
 
 _Cité par_:
 
