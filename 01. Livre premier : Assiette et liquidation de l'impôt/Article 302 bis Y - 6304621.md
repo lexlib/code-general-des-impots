@@ -1,6 +1,6 @@
 # Article 302 bis Y
 
-1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de 9, 15 euros. 
+1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de 11,16 €. 
 
 Sont exonérés de la taxe : 
 
@@ -25,6 +25,13 @@ encaissements, même partiels, des sommes dues au titre d'un acte accompli ont a
 3. Elle est constatée, recouvrée et contrôlée selon les règles, garanties et sanctions prévues en matière de taxe sur la
 valeur ajoutée.
 
+4. Le produit de la taxe est affecté, dans la limite de 11 millions d'euros par an, au Conseil national des barreaux.
+
+**Nota:**
+
+LOI n° 2014-1654 du 29 décembre 2014 de finances pour 2015 article 35 XII : les dispositions du présent article s'appliquent
+aux actes accomplis à compter du 1er janvier 2015.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -47,4 +54,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 16
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 35 (V)

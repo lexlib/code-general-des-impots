@@ -1,9 +1,9 @@
 # Article 1649 quater B quater
 
-I.-Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie électronique. 
+I. – Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie
+électronique. 
 
-Cette obligation s'applique également aux entreprises qui, quel que soit leur chiffre d'affaires, appartiennent à l'une des
-catégories suivantes : 
+Cette obligation s'applique également aux entreprises qui appartiennent à l'une des catégories suivantes : 
 
 1° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait dont, à la clôture de l'exercice, le
 chiffre d'affaires hors taxes ou le total de l'actif brut figurant au bilan est supérieur ou égal à 400 millions d'euros ; 
@@ -18,8 +18,8 @@ vote est détenue à la clôture de leur exercice, directement ou indirectement,
 
 4° (Périmé) 
 
-5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A lorsque celui-ci
-comprend au moins une personne mentionnée aux 1°, 2° et 3°. 
+5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A ou à l'article 223 A
+bis lorsque celui-ci comprend au moins une personne mentionnée aux 1°, 2° et 3°. 
 
 Pour les entreprises mentionnées aux 1° à 3°, cette obligation s'applique aux déclarations qui doivent être souscrites à
 compter du 1er février de la deuxième année suivant celle au cours de laquelle l'une au moins des conditions prévues aux 1° à
@@ -35,18 +35,17 @@ Cette obligation s'applique en outre aux personnes morales ou groupements de per
 le dépôt de leurs déclarations fiscales auprès du service chargé des grandes entreprises dans des conditions fixées par
 décret. 
 
-II.-Les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles ainsi
-que leurs annexes sont souscrites par voie électronique par les entreprises définies aux deuxième à dixième alinéas du I et
-par les entreprises dont le chiffre d'affaires réalisé au titre de l'exercice précédent est supérieur à 80 000 € hors taxes. 
+II. – Les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles ainsi
+que leurs annexes sont souscrites par voie électronique. 
 
-III.-Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette taxe,
-ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par voie
+III. – Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette
+taxe, ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par
+voie électronique. 
+
+IV. – Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie
 électronique. 
 
-IV.-Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie
-électronique. 
-
-V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis
+V. – L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis
 bénéficiant du régime visé à l'article 293 B peuvent le déposer sur support papier. 
 
 VI. ― Les déclarations de résultats des sociétés immobilières non soumises à l'impôt sur les sociétés ainsi que leurs annexes
@@ -64,6 +63,8 @@ _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
   - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2014-891 du 8 août 2014 - art. 20 (V)
 
 _Cité par_:
 
@@ -87,5 +88,6 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 223 A (V)
-  - Code général des impôts, CGI. - art. 289 B
-  - Code général des impôts, CGI. - art. 293 B
+  - Code général des impôts, CGI. - art. 223 A bis (V)
+  - Code général des impôts, CGI. - art. 289 B (V)
+  - Code général des impôts, CGI. - art. 293 B (V)
