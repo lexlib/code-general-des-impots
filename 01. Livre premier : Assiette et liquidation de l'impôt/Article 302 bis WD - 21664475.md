@@ -3,24 +3,39 @@
 La délivrance à un établissement qui prépare, manipule, entrepose ou cède des substances et des produits destinés à
 l'alimentation des animaux, de l'agrément prévu à l'article L. 235-1 du code rural et de la pêche maritime, le renouvellement
 de cet agrément et le contrôle du respect des conditions d'agrément donnent lieu à perception auprès de l'établissement
-concerné d'une redevance sanitaire. Cette redevance doit être acquittée l'année suivant celle de la délivrance, du
-renouvellement ou du contrôle de l'agrément de l'établissement, au plus tard le 31 mars. 
+concerné d'une redevance sanitaire. 
 
-La redevance est due par l'établissement visé au premier alinéa.
+La redevance est déclarée et liquidée par l'établissement principal l'année suivant celle de la délivrance, du renouvellement
+ou du contrôle de l'agrément de l'établissement mentionné au premier alinéa : 
+
+1° Sur l'annexe à la déclaration mentionnée au 1 de l'article 287 déposée au titre du mois de mars ou du premier trimestre de
+l'année civile ; 
+
+2° Pour les redevables de la taxe sur la valeur ajoutée soumis au régime simplifié d'imposition prévu à l'article 302 septies
+A, sur la déclaration annuelle mentionnée au 3 de l'article 287. 
+
+La redevance est acquittée lors du dépôt de la déclaration.
+
+**Nota:**
+
+Conformément à l'article 20 XXIII de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
+dispositions de l'article 302 bis WD, dans leur rédaction issue de la présente loi, s'appliquent aux déclarations souscrites
+à compter du 1er février 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 287 (VD)
+  - Code général des impôts, CGI. - art. 302 septies A (VT)
+  - Code rural - art. L235-1 (V)
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 302 bis WF (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater U (M)
   - Livre des procédures fiscales - art. R102 AA-1 (V)
-
-_Cite_:
-
-  - Code rural - art. L235-1 (V)
