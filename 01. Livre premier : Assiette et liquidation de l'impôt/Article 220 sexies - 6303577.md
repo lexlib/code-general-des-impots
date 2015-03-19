@@ -1,8 +1,8 @@
 # Article 220 sexies
 
-I. - Les entreprises de production cinématographique et les entreprises de production audiovisuelle soumises à l'impôt sur
-les sociétés qui assument les fonctions d'entreprises de production déléguées peuvent bénéficier d'un crédit d'impôt au titre
-des dépenses de production mentionnées au III correspondant à des opérations effectuées en vue de la réalisation d'oeuvres
+I.-Les entreprises de production cinématographique et les entreprises de production audiovisuelle soumises à l'impôt sur les
+sociétés qui assument les fonctions d'entreprises de production déléguées peuvent bénéficier d'un crédit d'impôt au titre des
+dépenses de production mentionnées au III correspondant à des opérations effectuées en vue de la réalisation d'oeuvres
 cinématographiques de longue durée ou d'oeuvres audiovisuelles agréées. 
 
 Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de production déléguées, de la législation
@@ -10,7 +10,7 @@ sociale. Il ne peut notamment être accordé aux entreprises de production dél�
 mentionnés au 3° de l'article L. 1242-2 du code du travail afin de pourvoir à des emplois qui ne sont pas directement liés à
 la production d'une oeuvre déterminée. 
 
-II. - 1. Les oeuvres cinématographiques ou audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du
+II.-1. Les oeuvres cinématographiques ou audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du
 documentaire et de l'animation. Ces oeuvres doivent répondre aux conditions suivantes : 
 
 a) Etre réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France ; 
@@ -37,10 +37,10 @@ d) Tout document ou programme audiovisuel ne comportant qu'accessoirement des é
 3. Les oeuvres audiovisuelles documentaires peuvent bénéficier du crédit d'impôt lorsque le montant des dépenses éligibles
 mentionnées au III est supérieur ou égal à 2 000 € par minute produite. 
 
-III. - 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes
+III.-1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes
 effectuées en France : 
 
-a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle , ainsi que les
+a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle, ainsi que les
 charges sociales afférentes ; 
 
 b) Les rémunérations versées aux artistes-interprètes mentionnés à l'article L. 212-4 du code précité et aux artistes de
@@ -50,15 +50,18 @@ conclus entre les organisations de salariés et d'employeurs de la profession, a
 c) Les salaires versés aux personnels de la réalisation et de la production, ainsi que les charges sociales afférentes ; 
 
 d) Les dépenses liées au recours aux industries techniques et autres prestataires de la création cinématographique et
-audiovisuelle ;
+audiovisuelle ; 
 
 e) Les dépenses de transport, de restauration et d'hébergement occasionnées par la production de l'œuvre sur le territoire
-français. Les dépenses d'hébergement sont retenues dans la limite d'un montant par nuitée fixé par décret ;
+français. Les dépenses d'hébergement sont retenues dans la limite d'un montant par nuitée fixé par décret ; 
 
 f) Pour les œuvres audiovisuelles documentaires, les dépenses relatives à l'acquisition de droits d'exploitation d'images
 d'archives pour une durée minimale de quatre ans effectuées auprès d'une personne morale établie en France, dès lors qu'il
 n'existe pas de lien de dépendance, au sens du 12 de l'article 39, entre cette personne et l'entreprise de production
 bénéficiaire du crédit d'impôt. 
+
+Le taux mentionné au premier alinéa du présent 1 est, en ce qui concerne les œuvres cinématographiques, porté à 30 % lorsque
+le budget de production est inférieur à 4 millions d'euros. 
 
 2. Les auteurs, artistes-interprètes et personnels de la réalisation et de la production mentionnés au 1 doivent être, soit
 de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur
@@ -71,29 +74,29 @@ citoyens français.
 3. Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de production de
 l'oeuvre et, en cas de coproduction internationale, à 80 % de la part gérée par le coproducteur français. 
 
-IV. - Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à compter de la date de réception, par le président du
+IV.-Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à compter de la date de réception, par le président du
 Centre national du cinéma et de l'image animée, d'une demande d'agrément à titre provisoire. 
 
 L'agrément à titre provisoire est délivré par le président du Centre national du cinéma et de l'image animée après sélection
 des oeuvres par un comité d'experts. Cet agrément atteste que les oeuvres remplissent les conditions prévues au II. 
 
-V. - Les subventions publiques non remboursables reçues par les entreprises et directement affectées aux dépenses visées au
-III sont déduites des bases de calcul du crédit d'impôt. 
+V.-Les subventions publiques non remboursables reçues par les entreprises et directement affectées aux dépenses visées au III
+sont déduites des bases de calcul du crédit d'impôt. 
 
-VI. - 1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cinématographique ne peut excéder 4 millions
+VI.-1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cinématographique ne peut excéder 4 millions
 d'euros. 
 
 2. La somme des crédits d'impôt calculés au titre d'une même œuvre audiovisuelle ne peut excéder 1 250 € par minute produite
 et livrée pour une œuvre de fiction, 1 150 € par minute produite et livrée pour une œuvre documentaire et 1 300 € par minute
-produite et livrée pour une œuvre d'animation.
+produite et livrée pour une œuvre d'animation. 
 
 La somme des crédits d'impôt est portée à 5 000 € maximum par minute produite et livrée pour les œuvres audiovisuelles de
-fiction qui répondent aux conditions suivantes :
+fiction qui répondent aux conditions suivantes : 
 
 a) Etre produites dans le cadre d'une coproduction internationale dont le coût de production est couvert au moins à hauteur
-de 30 % par des financements étrangers ;
+de 30 % par des financements étrangers ; 
 
-b) Avoir un coût de production supérieur ou égal à 35 000 € par minute produite.
+b) Avoir un coût de production supérieur ou égal à 35 000 € par minute produite. 
 
 Par dérogation au a du 1 du II, ces œuvres peuvent être réalisées en langue étrangère. Dans ce cas, elles doivent faire
 l'objet d'une version livrée en langue française. 
@@ -106,17 +109,22 @@ artistiques et techniques communs, les dépenses mentionnées au III communes à
 être éligibles qu'au titre d'un seul crédit d'impôt. Les dépenses mentionnées au III qui ne sont pas communes à la production
 de ces deux oeuvres ouvrent droit à un crédit d'impôt dans les conditions prévues au présent article. 
 
-VII. - Les crédits d'impôt obtenus pour la production d'une même oeuvre cinématographique ou audiovisuelle ne peuvent avoir
+VII.-Les crédits d'impôt obtenus pour la production d'une même oeuvre cinématographique ou audiovisuelle ne peuvent avoir
 pour effet de porter à plus de 50 % du budget de production le montant total des aides publiques accordées. Ce seuil est
 porté à 60 % pour les oeuvres cinématographiques ou audiovisuelles difficiles et à petit budget définies par décret. 
 
-VIII. - Un décret fixe les conditions d'application du présent article.
+VIII.-Un décret fixe les conditions d'application du présent article.
 
 **Nota:**
 
-Loi n° 2012-1510 du 29 décembre 2012, article 33 II : Ces dispositions entrent en vigueur à une date fixée par décret et au
-plus tard le 1er janvier 2014. Conformément à l'article 3 du décret n° 2013-1139 du 9 décembre 2013, l'article 33 de la loi
-n° 2012-1510 du 29 décembre 2012 entre en vigueur le 12 décembre 2013.
+Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, article 38 (II) : Ces dispositions s'appliquent aux
+crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2014 et entrent en vigueur à une date, fixée
+par un décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de
+la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de
+l'Union européenne en matière d'aides d'Etat.
+
+Conformément à l'article 1 du décret n° 2015-307 du 17 mars 2015, l'article 38 de la loi du 29 décembre 2013 entre en vigueur
+le lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -148,10 +156,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 33 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 38 (V)
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L113-7
   - Code de la propriété intellectuelle - art. L212-4
+  - Code général des impôts, CGI. - art. 39 (V)
   - Code du travail - art. L1242-2
