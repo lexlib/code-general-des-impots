@@ -1,7 +1,7 @@
 # Article 1636 B sexies A
 
-Les conseils généraux votent chaque année le taux de la taxe foncière sur les propriétés bâties dans la limite prévue par le
-VI de l'article 1636 B septies.
+Les conseils départementaux votent chaque année le taux de la taxe foncière sur les propriétés bâties dans la limite prévue
+par le VI de l'article 1636 B septies.
 
 **Nota:**
 
@@ -11,4 +11,4 @@ VI de l'article 1636 B septies.
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (VT)
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
