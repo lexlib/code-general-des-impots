@@ -1,6 +1,6 @@
 # Article 1609 quatervicies A
 
-I.-Une taxe dénommée taxe sur les nuisances sonores aériennes est perçue, dans la limite du plafond prévu au I de l'article
+I. – Une taxe dénommée taxe sur les nuisances sonores aériennes est perçue, dans la limite du plafond prévu au I de l'article
 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, par lespersonnes publiques ou privées exploitant des
 aérodromes pour lesquels le nombre annuel des mouvements d'aéronefs de masse maximale au décollage supérieure ou égale à 20
 tonnes a dépassé vingt mille lors de l'une des cinq années civiles précédentes. 
@@ -19,7 +19,7 @@ référence au plafond prévu au I du même article 46.
 Ce plafond individuel est obtenu pour chaque bénéficiaire en répartissant le montant prévu au même I au prorata des recettes
 réelles, avant plafonnement, encaissées pour le bénéficiaire l'année de référence. 
 
-II.-La taxe est due par tout exploitant d'aéronefs ou, à défaut, leur propriétaire. Elle ne s'applique pas : 
+II. – La taxe est due par tout exploitant d'aéronefs ou, à défaut, leur propriétaire. Elle ne s'applique pas : 
 
 a) Aux aéronefs de masse maximale au décollage inférieure à 2 tonnes ; 
 
@@ -28,13 +28,13 @@ b) Aux aéronefs d'Etat ou participant à des missions de protection civile ou d
 Le fait générateur de la taxe sur les nuisances sonores aériennes est constitué par le décollage d'aéronefs sur les
 aérodromes concernés. La taxe est exigible à la date du fait générateur. 
 
-III.-La taxe est assise sur le logarithme décimal de la masse maximale au décollage des aéronefs, exprimée en tonnes. Des
+III. – La taxe est assise sur le logarithme décimal de la masse maximale au décollage des aéronefs, exprimée en tonnes. Des
 coefficients de modulation prennent en compte, dans un rapport de 0,5 à 120, l'heure de décollage et les caractéristiques
 acoustiques de l'appareil. 
 
 Un décret précise les conditions d'application du présent III. 
 
-IV.-Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait générateur, au financement des aides versées à
+IV. – Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait générateur, au financement des aides versées à
 des riverains en application des articles L. 571-14 à L. 571-16 du code de l'environnement et, le cas échéant, dans la limite
 des deux tiers du produit annuel de la taxe, au remboursement à des personnes publiques des annuités des emprunts qu'elles
 ont contractés ou des avances qu'elles ont consenties pour financer des travaux de réduction des nuisances sonores prévus par
@@ -44,26 +44,20 @@ l'exploitant est identique pour les deux aérodromes, une partie du produit de l
 aérodromes concernés peut chaque année être affectée par l'exploitant au financement des aides aux riverains de l'autre
 aérodrome. 
 
-Le tarif de la taxe applicable sur chaque aérodrome est compris entre les valeurs inférieure et supérieure du groupe dont il
-relève, en fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à accorder en
-application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des coûts
-d'insonorisation. 
+Le tarif de la taxe applicable sur chaque aérodrome est compris entre la valeur inférieure et la valeur supérieure du groupe
+dont il relève. Il est fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à
+accorder en application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des
+coûts d'insonorisation. 
 
-1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 € à 68 € ; 
+1er groupe : aérodromes de Paris-Charles-de-Gaulle, Paris-Orly et Paris-Le Bourget : de 20 à 40 € ; 
 
-2e groupe : aérodromes de Paris-Charles-de-Gaulle, Paris-Le Bourget et de Nantes-Atlantique : de 10 € à 22 € ; 
+2e groupe : aérodromes de Nantes-Atlantique et Toulouse-Blagnac : de 10 à 20 € ; 
 
-3e groupe : aérodromes de Beauvais-Tillé, Bordeaux-Mérignac, Lyon-Saint-Exupéry, Marseille-Provence, Nice-Côte d'Azur : de 4
-€ à 8 €. 
+3e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0 à 10 €. 
 
-4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 € à 3 €. 
-
-Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de l'environnement, fixe le tarif de la taxe
-applicable pour chaque aérodrome. 
-
-V.-Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre
-est inférieur à 1 000 €, les éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par l'administration de
-l'aviation civile. 
+V. – Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du
+trimestre est inférieur à 1 000 €, les éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par
+l'administration de l'aviation civile. 
 
 Ces déclarations, mensuelles ou trimestrielles, sont adressées aux comptables du budget annexe " Contrôle et exploitation
 aériens ". Concomitamment, les redevables acquittent la taxe, par virement bancaire. 
@@ -71,7 +65,7 @@ aériens ". Concomitamment, les redevables acquittent la taxe, par virement banc
 La date limite de dépôt de la déclaration et de paiement de la taxe est fixée au dernier jour du deuxième mois suivant la
 période mensuelle ou trimestrielle visée par la déclaration. 
 
-VI.-1. La déclaration visée au V est contrôlée dans les mêmes conditions que celles mentionnées au 1 du IV de l'article 302
+VI. – 1. La déclaration visée au V est contrôlée dans les mêmes conditions que celles mentionnées au 1 du IV de l'article 302
 bis K. La taxe est recouvrée par les services de la direction générale de l'aviation civile, selon les mêmes règles,
 conditions, garanties et sanctions que celles prévues pour la taxe de l'article 302 bis K. 
 
@@ -110,8 +104,8 @@ les mêmes conditions que celles prévues à l'article L. 176 du livre des proc�
 interrompue dans les conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions mentionnées
 au 2 du présent VI. 
 
-VII.-Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et
-jugées comme en matière de taxes sur le chiffre d'affaires.
+VII. – Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites
+et jugées comme en matière de taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
@@ -151,15 +145,15 @@ _Cité par_:
   - Code des transports - art. L6362-2 (V)
   - Code des transports - art. L6363-1 (V)
 
-_Modifié par_:
-
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 65
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 47
-
 _Cite_:
 
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 1728
   - Code général des impôts, CGI. - art. 302 bis K
-  - Livre des procédures fiscales - art. L176 (V)
+  - Livre des procédures fiscales - art. L176
   - Code de l'environnement - art. L571-16
+
+_Modifié par_:
+
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 16
