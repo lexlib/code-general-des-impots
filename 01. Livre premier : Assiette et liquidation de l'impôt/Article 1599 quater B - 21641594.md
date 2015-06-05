@@ -17,9 +17,7 @@ a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l
 est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition
 par ligne en service est établi selon le barème suivant : 
 
-(En euros) 
-
-<table width="680" border="1">
+<table border="1" width="680">
     <tbody>
       <tr>
         <td>
@@ -27,30 +25,23 @@ par ligne en service est établi selon le barème suivant :
 NATURE DE L'ÉQUIPEMENT
 
 </td>
-        <td>
+        <td align="center">TARIF 
 
-TARIF 
-
-2014
-
-</td>
-        <td>
-
-TARIF 
+(en euros) 
 
 2015
 
 </td>
-        <td>
+        <td align="center">TARIF 
 
-TARIF 
+(en euros) 
 
 2016
 
 </td>
-        <td>
+        <td align="center">TARIF 
 
-TARIF 
+(en euros) 
 
 à compter de 2017
 
@@ -64,12 +55,7 @@ Ligne en service d'un répartiteur principal
 </td>
         <td align="center">
 
-5,07
-
-</td>
-        <td align="center">
-
-7,59
+7,62
 
 </td>
         <td align="center">
@@ -89,8 +75,6 @@ Ligne en service d'un répartiteur principal
 b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du réseau téléphonique commuté, le montant de
 l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant : 
 
-(En euros) 
-
 <table align="center" width="680" border="1">
   <tbody>
     <tr>
@@ -99,13 +83,22 @@ l'imposition est établi en fonction de la nature de l'équipement selon le bar�
 NATURE DE L'ÉQUIPEMENT 
 
 </td>
-      <td>
+      <td align="center">
 
-TARIF 2014
+TARIF 
+
+(en euros) 
+
+2015
 
 </td>
-      <td align="center">TARIF 2015 </td>
-      <td align="center">TARIF 2016</td>
+      <td align="center">TARIF 
+
+(en euros) 
+
+2016
+
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -115,10 +108,9 @@ Unité de raccordement d'abonnés
 </td>
       <td align="center">
 
-5 026
+3 361
 
 </td>
-      <td align="center">3 346 </td>
       <td align="center">1 673
 
 </td>
@@ -129,17 +121,10 @@ Unité de raccordement d'abonnés
 Carte d'abonné 
 
 </td>
-      <td align="center">
-
-54,83
+      <td align="center">36,66
 
 </td>
-      <td align="center">36,5
-
-</td>
-      <td align="center">18,25
-
-</td>
+      <td align="center">18,25</td>
     </tr>
   </tbody>
 </table>
@@ -162,7 +147,7 @@ Modifications effectuées en conséquence de l'article 112-III de la loi n° 201
 
 _Créé par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
 
 _Cité par_:
 
@@ -176,7 +161,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cite_:
 
