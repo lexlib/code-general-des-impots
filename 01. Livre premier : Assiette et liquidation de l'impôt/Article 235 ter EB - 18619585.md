@@ -1,17 +1,21 @@
 # Article 235 ter EB
 
 L'accroissement de l'effectif salarié est pris en compte, au regard des seuils prévus aux articles 235 ter D et 235 ter KA,
-conformément et dans les conditions prévues aux articles L. 6331-15 à L. 6331-18 du code du travail.
+conformément et dans les conditions prévues aux articles L. 6331-15 et L. 6331-17  du code du travail.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Modifications effectuées en conséquence de l'article 10-I [13° a] et III de la loi n° 2014-288 du 5 mars 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2018-771 du 5 septembre 2018 - art. 37 (V)
 
 _Cite_:
 
@@ -20,4 +24,5 @@ _Cite_:
 
 _Cité par_:
 
+  - Code général des impôts, annexe 2, CGIAN2. - art. 163 undecies B (Dis)
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 undecies C (V)
