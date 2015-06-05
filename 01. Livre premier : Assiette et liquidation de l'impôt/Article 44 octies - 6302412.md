@@ -129,6 +129,10 @@ Pour les contribuables qui exercent ou qui créent des activités dans les zones
 mentionnées au présent VI avant le 1er janvier 2004, le bénéfice de l'exonération est subordonné au respect du règlement (UE)
 n° 1407/2013 de la Commission, du 18 décembre 2013, précité.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 48-III de la loi n° 2014-1655 du 29 décembre 2014.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -138,12 +142,11 @@ _Cite_:
   - Loi n°2006-396 du 31 mars 2006
   - Code général des impôts, CGI. - art. 102 ter
   - Code général des impôts, CGI. - art. 103
-  - Code général des impôts, CGI. - art. 1467
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 223 I
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 35
-  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 sexies (M)
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 92
@@ -184,7 +187,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2014-891 du 8 août 2014 - art. 20
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53 (V)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 48 (V)
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
