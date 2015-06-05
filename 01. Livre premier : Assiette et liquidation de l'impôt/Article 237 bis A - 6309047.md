@@ -102,6 +102,10 @@ provisions constituées en application du 3 dudit II.
 Les provisions mentionnées au premier alinéa du présent IV figurant à l'ouverture du premier exercice clos à compter de cette
 même date sont rapportées aux résultats imposables dans les conditions prévues au 4 du II.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 30-I de la loi n° 2014-856 du 31 juillet 2014.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -120,12 +124,12 @@ _Cite_:
   - Code du travail - art. L3341-3
   - Code du travail - art. L3344-1
 
-_Modifié par_:
-
-  - Loi n°2014-856 du 31 juillet 2014 - art. 30
-
 _Cité par_:
 
   - Décret n°2014-1758 du 31 décembre 2014 (V)
   - Code du travail - art. D3325-5 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 bis (V)
+
+_Modifié par_:
+
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
