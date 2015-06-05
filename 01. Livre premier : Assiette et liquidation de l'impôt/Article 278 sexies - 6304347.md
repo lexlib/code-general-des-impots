@@ -87,10 +87,10 @@ effectués dans les conditions prévues aux articles L. 443-6-2 et suivants du c
 II. - Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié du taux réduit de 5,5 % en application du
 I ; 
 
-III. - 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés aux 2, 5, 6 et 8 du I du présent article,
-lorsque ces travaux consistent en une extension ou rendent l'immeuble à l'état neuf, au sens du 2° du 2 du I de l'article
-257, sous réserve de la prise en compte de ces opérations d'extension ou de remise à neuf dans les conventions mentionnées
-aux 2, 5, 6 et 8 du I du présent article ;
+III. - 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés aux 2, 5, 6 et 8 du I, lorsque ces travaux
+consistent en une extension ou rendent l'immeuble à l'état neuf, au sens du 2° du 2 du I de l'article 257, sous réserve de la
+prise en compte de ces opérations d'extension ou de remise à neuf dans les conventions mentionnées aux 2, 5, 6 et 8 du I du
+présent article ;
 
 2. Les livraisons à soi-même de travaux de rénovation, d'amélioration, de transformation ou d'aménagement réalisés dans le
 cadre de l'une des opérations suivantes, lorsque l'acquéreur bénéficie pour cette opération d'un prêt accordé pour la
@@ -156,12 +156,12 @@ _Cite_:
 
   - Loi n°84-595 du 12 juillet 1984
   - Loi n°2003-710 du 1 août 2003 - art. 10
-  - Code général des impôts, CGI. - art. 244 quater J
+  - Code général des impôts, CGI. - art. 244 quater J (V)
   - Code général des impôts, CGI. - art. 279-0 bis
   - Code de l'action sociale et des familles - art. L312-1
   - Code de la construction et de l'habitation. - art. L301-1
   - Code de la construction et de l'habitation. - art. L313-34
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation. - art. L351-2
   - Code de la construction et de l'habitation. - art. L411-2
   - Code de la construction et de l'habitation. - art. R331-1
   - Code de la construction et de l'habitation. - art. R331-3
@@ -202,5 +202,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 17
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 19
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 17 (V)
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
