@@ -23,7 +23,7 @@ Les dispositions de l'article 1594 E sont applicables.
 
 **Nota:**
 
-
+Modifications effectuées en conséquence des articles 1er-2° et 51 de la loi n° 2013-403 du 17 mai 2013.
 
 **Liens relatifs à cet article**
 
@@ -31,10 +31,9 @@ _Cite_:
 
   - Loi n°75-1351 du 31 décembre 1975 - art. 10
   - Loi n°75-1351 du 31 décembre 1975 - art. 10-1
-  - Loi n°86-1290 du 23 décembre 1986
   - Loi n°89-462 du 6 juillet 1989 - art. 15
   - Code général des impôts, CGI. - art. 1594 E
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
