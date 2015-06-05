@@ -30,7 +30,7 @@ de 2 millions d'euros de valeur ajoutée.
 V. - Pour la détermination de la cotisation sur la valeur ajoutée des entreprises, la valeur ajoutée des établissements
 bénéficiant d'une exonération ou d'un abattement de la base nette d'imposition à la cotisation foncière des entreprises en
 application des I, I sexies ou I septies de l'article 1466 A fait l'objet, à la demande de l'entreprise, d'une exonération ou
-d'un abattement de même taux, dans la limite respectivement pour 2013 de 136 192 € et de 370 119 € de valeur ajoutée par
+d'un abattement de même taux, dans la limite respectivement pour 2014 de 136 192 € et de 370 119 € de valeur ajoutée par
 établissement et actualisé chaque année en fonction de la variation de l'indice des prix. 
 
 VI. - Le bénéfice des exonérations de cotisation sur la valeur ajoutée des entreprises prévues aux I à III et de l'abattement
@@ -57,9 +57,13 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1586 ter (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
 
+_Créé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 49 (M)
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cite_:
 
