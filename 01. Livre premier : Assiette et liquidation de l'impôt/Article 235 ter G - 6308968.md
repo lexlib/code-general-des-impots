@@ -1,18 +1,17 @@
 # Article 235 ter G
 
-Conformément et dans les conditions prévues à l'article L. 6331-28 du code du travail, lorsque les dépenses au titre du
-développement de la formation professionnelle continue sont inférieures au montant prévu à l'article 235 ter D, l'employeur
-effectue au Trésor un versement égal à la différence constatée.
+Les règles relatives à l'absence de versement prévu à l'article L. 6331-11 du code du travail par l'employeur sont définies à
+l'article L. 6331-28 du même code.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Modifications effectuées en conséquence de l'article 10-I [9°] et III de la loi n° 2014-288 du 5 mars 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cité par_:
 
@@ -22,5 +21,5 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 235 ter D
-  - Code du travail - art. L6331-28
+  - Code du travail - art. L6331-11
+  - Code du travail - art. L6331-28 (V)
