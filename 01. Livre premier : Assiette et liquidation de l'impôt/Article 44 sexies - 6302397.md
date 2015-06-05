@@ -24,7 +24,7 @@ de droit commun en proportion du chiffre d'affaires réalisé en dehors des zone
 d'affaires s'apprécie exercice par exercice. 
 
 Ces dispositions ne s'appliquent pas aux entreprises qui exercent une activité bancaire, financière, d'assurances, de gestion
-ou de location d'immeubles, ni aux entreprises exerçant une activité de pêche maritime créées à compter du 1er janvier 1997.
+ou de location d'immeubles, ni aux entreprises exerçant une activité de pêche maritime créées à compter du 1er janvier 1997. 
 
 L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de la
 liste des communes classées en zone d'aide à finalité régionale après la date de sa création. 
@@ -41,8 +41,8 @@ l'activité de celle-ci est similaire à celle de l'entreprise nouvellement cré
 b-un associé détient avec les membres de son foyer fiscal 25 % au moins des droits sociaux dans une autre entreprise dont
 l'activité est similaire à celle de l'entreprise nouvellement créée ou lui est complémentaire. 
 
-III. Les entreprises créées dans le cadre d'une concentration, d'une restructuration, d'une extension d'activités
-préexistantes ou qui reprennent de telles activités ne peuvent pas bénéficier du régime défini au paragraphe I.
+III.-Les entreprises créées dans le cadre d'une concentration, d'une restructuration, d'une extension d'activités
+préexistantes ou qui reprennent de telles activités ne peuvent pas bénéficier du régime défini au I. 
 
 L'existence d'un contrat, quelle qu'en soit la dénomination, ayant pour objet d'organiser un partenariat, caractérise
 l'extension d'une activité préexistante lorsque l'entreprise nouvellement créée bénéficie de l'assistance de ce partenaire,
@@ -50,9 +50,9 @@ notamment en matière d'utilisation d'une enseigne, d'un nom commercial, d'une m
 d'approvisionnement, de modalités de gestion administrative, contentieuse, commerciale ou technique, dans des conditions
 telles que cette entreprise est placée dans une situation de dépendance. 
 
-IV. - Pour les exercices clos du 1er janvier 2007 au 31 décembre 2013, le bénéfice de l'exonération est subordonné au respect
+IV.-Pour les exercices clos du 1er janvier 2007 au 31 décembre 2013, le bénéfice de l'exonération est subordonné au respect
 du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du
-traité aux aides de minimis.
+traité aux aides de minimis. 
 
 Pour les exercices clos à compter du 1er janvier 2014, le bénéfice de l'exonération est subordonné au respect du règlement
 (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le
@@ -82,7 +82,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 150-0 C (V)
   - Code général des impôts, CGI. - art. 154 bis (V)
   - Code général des impôts, CGI. - art. 154 bis-0 A (V)
-  - Code général des impôts, CGI. - art. 1602 A (V)
+  - Code général des impôts, CGI. - art. 1602 A (M)
   - Code général des impôts, CGI. - art. 163 quatervicies (V)
   - Code général des impôts, CGI. - art. 170 (VT)
   - Code général des impôts, CGI. - art. 199 ter B (V)
@@ -125,8 +125,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 47
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 34
+  - Code général des impôts, CGI. - art. 53 A (V)
+  - Code général des impôts, CGI. - art. 92 (V)
