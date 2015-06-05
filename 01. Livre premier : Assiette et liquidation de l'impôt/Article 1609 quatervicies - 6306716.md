@@ -11,7 +11,7 @@ II.-La taxe est due par toute entreprise de transport aérien public et s'ajoute
 
 III.-La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués par l'entreprise sur chaque
 aérodrome, quelles que soient les conditions tarifaires accordées par le transporteur, aux mêmes exceptions et conditions que
-celles énoncées aux 1 et 2 du I l'article 302 bis K. 
+celles énoncées aux 1 et 2 du I de l'article 302 bis K. 
 
 IV.-Le tarif de la taxe par passager applicable sur chaque aérodrome ou groupement d'aérodromes est compris entre les valeurs
 correspondant à la classe dont il relève. 
@@ -22,7 +22,7 @@ concerné.
 
 Les classes d'aérodromes ou de groupements d'aérodromes sont fixées comme suit : 
 
-<table align="center" cellspacing="0" border="1" cellpadding="0" width="605">
+<table cellspacing="0" border="1" width="605" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td width="161">
@@ -78,7 +78,7 @@ De 5 001 à 5 000 000
 Les limites supérieures et inférieures des tarifs correspondant aux classes d'aérodromes ou de groupements d'aérodromes sont
 fixées comme suit : 
 
-<table cellspacing="0" border="1" align="center" width="605" cellpadding="0">
+<table width="605" border="1" cellpadding="0" align="center" cellspacing="0">
   <tbody>
     <tr>
       <td width="161">
@@ -251,10 +251,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 15
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 92
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 bis K (VD)
+  - Code général des impôts, CGI. - art. 302 bis K
   - Code des transports - art. L6323-2

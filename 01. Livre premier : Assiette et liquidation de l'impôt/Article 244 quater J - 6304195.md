@@ -107,8 +107,7 @@ l'article 156.
 
 **Nota:**
 
-Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
-fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
+Modifications effectuées en conséquence de l'article 48-III de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
@@ -173,6 +172,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (M)
-  - Loi n°2014-173 du 21 février 2014 - art. 26
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 48 (V)
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
