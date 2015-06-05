@@ -72,8 +72,8 @@ appréciées à la date de conclusion du bail ne doivent pas excéder des plafon
 localisation du logement et de son type. 
 
 Les plafonds de loyer mentionnés au premier alinéa peuvent être réduits, dans des conditions définies par décret, par le
-représentant de l'Etat dans la région après avis du comité régional de l'habitat mentionné à l'article L. 364-1 du code de la
-construction et de l'habitation, afin d'être adaptés aux particularités des marchés locatifs locaux. 
+représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement  mentionné à l'article
+L. 364-1 du code de la construction et de l'habitation, afin d'être adaptés aux particularités des marchés locatifs locaux. 
 
 IV. ― La réduction d'impôt s'applique exclusivement aux logements situés dans des communes classées, par arrêté des ministres
 chargés du budget et du logement, dans des zones géographiques se caractérisant par un déséquilibre important entre l'offre
@@ -82,8 +82,8 @@ et la demande de logements entraînant des difficultés d'accès au logement sur
 Dans les zones géographiques se caractérisant par un déséquilibre entre l'offre et la demande de logements, autres que celles
 mentionnées au premier alinéa, la réduction d'impôt s'applique aux logements situés dans des communes caractérisées par des
 besoins particuliers en logement locatif qui ont fait l'objet, dans des conditions définies par décret, d'un agrément du
-représentant de l'Etat dans la région après avis du comité régional de l'habitat mentionné à l'article L. 364-1 du code de la
-construction et de l'habitation. 
+représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement  mentionné à l'article
+L. 364-1 du code de la construction et de l'habitation. 
 
 Toutefois, pour les logements que le contribuable acquiert jusqu'au 30 juin 2013 ou fait construire et qui font l'objet d'un
 dépôt de demande de permis de construire jusqu'à cette date, la réduction d'impôt s'applique également aux logements situés
@@ -227,6 +227,8 @@ Conformément au B du II de l'article 5 de la loi n° 2014-1654 du 29 décembre 
 du VIII de l'article 199 novovicies du code général des impôts, ces dispositions ne s'appliquent pas aux souscriptions dont
 la date de clôture est antérieure au 1er septembre 2014.
 
+Modifications effectuées en conséquence de l'article 33-3° de la loi n° 2014-366 du 24 mars 2014.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -236,7 +238,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 199 undecies C
-  - Code général des impôts, CGI. - art. 257
+  - Code général des impôts, CGI. - art. 257 (V)
   - Code de la sécurité sociale. - art. L341-4
   - Code de la construction et de l'habitation. - art. L364-1
   - Code de la construction et de l'habitation. - art. R331-1
@@ -290,4 +292,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 5 (V)
+  - Décret n°2015-608 du 3 juin 2015 - art. 1

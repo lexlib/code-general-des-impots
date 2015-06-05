@@ -10,155 +10,151 @@ précédente sur le réseau ferré national pour des opérations de transport de
 III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son
 utilisation selon le barème suivant : 
 
-(en euros) 
-
-<table align="center" border="1" width="680">
+<table border="1">
   <tbody>
     <tr>
-      <td>
+      <th>CATÉGORIE        
 
-CATÉGORIE DE MATÉRIELS ROULANTS 
+de matériels roulants
 
-</td>
-      <td>
+</th>
+      <th>
 
-TARIFS 
+TARIFS        
 
-</td>
+(en euros)
+
+</th>
     </tr>
     <tr>
       <td align="center">
 
-Engins à moteur thermique 
+Engins à moteur thermique
 
 </td>
-      <td align="center">
-
-</td>
+      <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Automoteur
 
 </td>
       <td align="center">
 
-30 922 
+31 200
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Locomotive Diesel
+
+</td>
+      <td align="center">
+
+31 200
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Locomotive diesel
+Engins à moteur électrique
+
+</td>
+      <td align="center"> </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Automotrice
 
 </td>
       <td align="center">
 
-30 922
+23 920
 
 </td>
     </tr>
     <tr>
-      <td align="center">Engins à moteur électrique 
+      <td align="left">
+
+Locomotive électrique
 
 </td>
       <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Automotrice 
-
-</td>
-      <td align="center">
-
-23 707 
+20 801
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-Locomotive électrique 
-
-</td>
-      <td align="center">
-
-20 615
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="left">
 
 Motrice de matériel à grande vitesse
 
 </td>
       <td align="center">
 
-36 076 
+36 401
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Automotrice tram-train
 
 </td>
       <td align="center">
 
-11 853
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Engins remorqués 
-
-</td>
-      <td align="center">
+11 960
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Remorque pour le transport de passagers 
+Engins remorqués
+
+</td>
+      <td align="center"> </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Remorque pour le transport de passagers
 
 </td>
       <td align="center">
 
-4 947
+4 992
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Remorque pour le transport de passagers à grande vitesse
 
 </td>
       <td align="center">
 
-10 307
+10 400
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Remorque tram-train 
-
-</td>
-      <td align="center">
-
-2 474
+Remorque tram-train
 
 </td>
+      <td align="center">
+
+2 496</td>
     </tr>
   </tbody>
 </table>
@@ -211,7 +207,7 @@ Modifications effectuées en conséquence de l'article 37-VI B [4°] de la loi n
 
 _Créé par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
 
 _Cité par_:
 
@@ -227,7 +223,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cite_:
 

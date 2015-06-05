@@ -64,7 +64,7 @@ d) Les dépenses exposées pour la réalisation d'opérations de même nature co
 6° Des associations régies par la loi du 1er juillet 1901 relative au contrat d'association ayant pour fondateur et membre
 l'un des organismes mentionnés aux 1° ou 2° ou des sociétés de capitaux dont le capital ou les droits de vote sont détenus
 pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées conformément au d bis
-et avoir conclu une convention en application de l'article L. 313-2 du code de la recherche ou de l'article L. 762-3 du code
+et avoir conclu une convention en application de l'article L. 533-3 du code de la recherche ou de l'article L. 762-3 du code
 de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein d'une ou plusieurs unités de
 recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention. 
 
@@ -183,8 +183,7 @@ correspondre à des opérations localisées au sein de l'Union européenne ou da
 économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude
 et l'évasion fiscales. 
 
-Les dépenses visées aux a et 2° du h ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les
-immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies. 
+(Périmé). 
 
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i est subordonné
 au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et
@@ -236,7 +235,9 @@ section 1 du chapitre III du règlement (UE) n° 651/2014 de la Commission, du 1
 entreprises, à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le
 Gouvernement de la réponse de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié
 comme conforme au droit de l'Union européenne en matière d'aides d'Etat. L'article 1er du décret n° 2015-1292 du 15 octobre
-2015 a fixé l'entrée en vigueur de ces dispositions au 18 octobre 2015.
+2015 a fixé l'entrée en vigueur de ces dispositions au 18 octobre 2015. 
+
+Modifications effectuées en conséquence des articles 1er-2° et 3-9° de l'ordonnance n° 2014-135 du 17 février 2014.
 
 **Liens relatifs à cet article**
 
@@ -292,9 +293,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53 (V)
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 66
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 75
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cite_:
 
@@ -306,7 +305,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater B
   - Code général des impôts, CGI. - art. 239 quater C
-  - Code général des impôts, CGI. - art. 39 (VD)
+  - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
   - Code de la recherche - art. L313-2
