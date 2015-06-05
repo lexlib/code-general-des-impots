@@ -51,9 +51,9 @@ déduction a été pratiquée, ils sont rapportés aux résultats du septième e
 
 Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux mentionnés au 2 du présent I, ils sont rapportés au
 résultat de l'exercice au cours duquel cette utilisation a été effectuée et majorés d'un montant égal au produit de ces
-sommes et intérêts par le taux de l'intérêt de retard prévu au même article 1727. 
+sommes et intérêts par le taux de l'intérêt de retard prévu à l'article 1727. 
 
-II.-L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies, à une société civile
+II. - L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies, à une société civile
 agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas
 considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les
 conditions et s'engage à utiliser les sommes déposées sur le compte au cours des sept exercices qui suivent celui au titre
@@ -65,21 +65,25 @@ l'application du I comme une cessation d'activité si le ou les bénéficiaires 
 ouvrant droit à la déduction et s'engagent à utiliser les sommes déposées sur le compte au cours des sept exercices qui
 suivent celui au titre duquel la déduction correspondante a été pratiquée dans les conditions et les limites définies au I. 
 
-III.-Le compte ouvert auprès d'un établissement de crédit est un compte courant qui retrace exclusivement les opérations
+III. - Le compte ouvert auprès d'un établissement de crédit est un compte courant qui retrace exclusivement les opérations
 définies au I.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 69-I de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 69
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 41
-  - Code général des impôts, CGI. - art. 72 D ter (Ab)
+  - Code général des impôts, CGI. - art. 72 D ter
 
 _Cité par_:
 

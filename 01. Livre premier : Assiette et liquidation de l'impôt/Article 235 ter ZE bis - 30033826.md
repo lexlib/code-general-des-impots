@@ -1,12 +1,12 @@
 # Article 235 ter ZE bis
 
-I. - A. - Les personnes mentionnées aux 1° à 4° du A du I de l'article L. 612-2 du code monétaire et financier, soumises au
+I. - 1. - Les personnes mentionnées aux 1° à 4° du A du I de l'article L. 612-2 du code monétaire et financier, soumises au
 contrôle de l'Autorité de contrôle prudentiel et de résolution pour le respect des ratios de couverture et de division des
 risques ou du niveau de fonds propres adéquat prévus au I de l'article L. 511-41 et aux articles L. 522-14 et L. 533-2 du
 même code, sont assujetties à une taxe pour le financement du fonds de soutien créé par l'article 92 de la loi n° 2013-1278
 du 29 décembre 2013 de finances pour 2014, au titre de leur activité exercée au 1er janvier de chaque année.
 
-B. - Toutefois, ne sont pas assujetties à cette taxe :
+2. - Toutefois, ne sont pas assujetties à cette taxe :
 
 1° Les personnes ayant leur siège social dans un autre Etat partie à l'accord sur l'Espace économique européen et exerçant
 leur activité en France exclusivement par une succursale ou par voie de libre prestation de services ;
@@ -36,11 +36,11 @@ III. - Le taux de la taxe est fixé à 0,026 %.
 
 IV. - La taxe est exigible le 30 avril.
 
-V. - A. - La taxe est liquidée par la personne assujettie au vu des exigences minimales en fonds propres mentionnées dans
+V. - 1. - La taxe est liquidée par la personne assujettie au vu des exigences minimales en fonds propres mentionnées dans
 l'appel à contribution mentionné au 1° du V de l'article L. 612-20 du code monétaire et financier. L'Autorité de contrôle
 prudentiel et de résolution communique cet appel au comptable public compétent avant le 30 avril.
 
-B. - La taxe est déclarée et liquidée :
+2. - La taxe est déclarée et liquidée :
 
 1° Pour les redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration mentionnée au 1 de l'article 287 du
 présent code déposée au titre du mois de mai ou du deuxième trimestre de l'année au cours de laquelle la taxe prévue au
@@ -52,21 +52,21 @@ l'année au cours de laquelle la taxe prévue au présent article est due.
 
 La taxe est acquittée lors du dépôt de la déclaration.
 
-C. - La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés.
+3. - La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés.
 
 VI. - Les contestations du montant des exigences minimales en fonds propres sur lequel la taxe est assise suivent le régime
 applicable aux contestations prévues au 3° du V de l'article L. 612-20 du code monétaire et financier.
 
-VII. - A. - Lorsque, en application du VII du même article L. 612-20, l'Autorité de contrôle prudentiel et de résolution
+VII. - 1. - Lorsque, en application du VII du même article L. 612-20, l'Autorité de contrôle prudentiel et de résolution
 révise le montant des exigences en fonds propres de la personne assujettie à la taxe prévue au présent article, elle
 communique au comptable public compétent l'appel à contribution rectificatif, accompagné de l'avis de réception, par la
 personne assujettie.
 
-B. - Lorsque le montant des exigences minimales en fonds propres est révisé à la hausse, le complément de taxe qui en résulte
+2. - Lorsque le montant des exigences minimales en fonds propres est révisé à la hausse, le complément de taxe qui en résulte
 est exigible à la date de réception de l'appel à contribution rectificatif. Le complément de taxe est acquitté auprès du
 comptable public compétent, dans les deux mois de son exigibilité.
 
-C. - Lorsque le montant des exigences minimales en fonds propres est révisé à la baisse, la personne assujettie peut adresser
+3. - Lorsque le montant des exigences minimales en fonds propres est révisé à la baisse, la personne assujettie peut adresser
 au comptable public compétent, dans un délai d'un mois après réception de l'appel à contribution rectificatif, une demande
 écrite de restitution du montant correspondant. Il est procédé à cette restitution dans un délai d'un mois après réception de
 ce courrier.
@@ -81,9 +81,6 @@ année suivant celle au cours de laquelle la personne assujettie a reçu l'avis 
 
 **Nota:**
 
-Aux termes du B du II de l'article 26 de la loi n° 2014-1655 du 29 décembre 2014, ces dispositions s'appliquent à compter du
-1er janvier 2015.  
-
 Aux termes du E du II de l'article 26 de la loi n° 2014-1655 du 29 décembre 2014, les dispositions de l'article 235 ter ZE
 bis sont abrogées à compter du 1er janvier 2029.
 
@@ -91,7 +88,7 @@ bis sont abrogées à compter du 1er janvier 2029.
 
 _Cite_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 92 (M)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 92
   - Code monétaire et financier - art. L522-14
   - Code monétaire et financier - art. L533-2
   - Code monétaire et financier - art. L612-2
@@ -101,9 +98,9 @@ _Abrogé par_:
 
   - Loi n°2014-1655 du 29 décembre 2014 - art. 26 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 26 (V)
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cité par_:
 

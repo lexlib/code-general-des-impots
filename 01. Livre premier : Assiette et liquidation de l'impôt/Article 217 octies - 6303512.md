@@ -56,20 +56,20 @@ innovante ;
 b) Des titres, parts ou actions de la petite ou moyenne entreprise innovante pour lesquels elles n'ont pas pratiqué
 l'amortissement prévu au présent article. 
 
-La condition mentionnée au b du présent 1 ne s'applique pas aux entreprises qui souscrivent des parts d'un fonds mentionné
-aux 2° ou 3° du I si les décisions d'investissement sont prises par le gestionnaire du fonds en toute indépendance vis-à-vis
-des souscripteurs. Toutefois, dans cette situation, les deux pourcentages de l'actif du fonds mentionnés au 2° du même I
-doivent porter sur des titres, parts ou actions de petites ou moyennes entreprises innovantes dans lesquelles le fonds
-investit pour la première fois à l'aide de souscriptions ouvrant droit à l'amortissement prévu audit I.
+La condition mentionnée au b  ne s'applique pas aux entreprises qui souscrivent des parts d'un fonds mentionné aux 2° ou 3°
+du I si les décisions d'investissement sont prises par le gestionnaire du fonds en toute indépendance vis-à-vis des
+souscripteurs. Toutefois, dans cette situation, les deux pourcentages de l'actif du fonds mentionnés au 2° du même I doivent
+porter sur des titres, parts ou actions de petites ou moyennes entreprises innovantes dans lesquelles le fonds investit pour
+la première fois à l'aide de souscriptions ouvrant droit à l'amortissement prévu audit I.
 
 2. ― Lorsque des entreprises mentionnées au premier alinéa du I sont liées, au sens du 12 de l'article 39, elles ne doivent
 pas détenir ensemble, directement ou indirectement, plus de 20 % du capital ou des droits de vote de la petite ou moyenne
 entreprise innovante. 
 
-3. ― Les conditions prévues au a du 1 et au 2 du présent III doivent être respectées de manière continue au cours de la
-période d'amortissement. La condition mentionnée au b du 1 du présent III s'apprécie à la date de la souscription, selon le
-cas, dans une petite ou moyenne entreprise innovante ou dans un fonds ou une société mentionné aux 2° ou 3° du I, au titre de
-laquelle l'entreprise entend pratiquer l'amortissement prévu au premier alinéa du même I. 
+3. ― Les conditions prévues au a du 1 et au 2 doivent être respectées de manière continue au cours de la période
+d'amortissement. La condition mentionnée au b du 1 s'apprécie à la date de la souscription, selon le cas, dans une petite ou
+moyenne entreprise innovante ou dans un fonds ou une société mentionné aux 2° ou 3° du I, au titre de laquelle l'entreprise
+entend pratiquer l'amortissement prévu au premier alinéa du même I. 
 
 IV. ― La valeur des titres, des parts ou des actions détenus par l'entreprise mentionnée au premier alinéa du I qui peuvent
 faire l'objet de l'amortissement prévu au même I ne doit pas dépasser 1 % du total de l'actif de cette entreprise. 
@@ -112,8 +112,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 15 (V)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 76
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cité par_:
 

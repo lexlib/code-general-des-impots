@@ -1,9 +1,9 @@
 # Article 44 octies A
 
 I.-Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2020, créent des activités dans les zones franches
-urbaines - territoires entrepreneurs définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation
+urbaines-territoires entrepreneurs définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation
 pour l'aménagement et le développement du territoire, ainsi que ceux qui, entre le 1er janvier 2006 et le 31 décembre 2011,
-exercent des activités dans les zones franches urbaines - territoires entrepreneurs définies au deuxième alinéa du B du 3 de
+exercent des activités dans les zones franches urbaines-territoires entrepreneurs définies au deuxième alinéa du B du 3 de
 l'article 42 de la même loi sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant
 des activités implantées dans la zone jusqu'au 31 décembre 2010 pour les contribuables qui y exercent déjà une activité au
 1er janvier 2006 ou, dans le cas contraire, jusqu'au terme du cinquante-neuvième mois suivant celui du début de leur activité
@@ -51,10 +51,10 @@ zones de revitalisation rurale définies à l'article 1465 A ou dans les zones d
 l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ou de la prime d'aménagement du territoire, l'exonération ne
 s'applique pas. 
 
-Lorsque l'activité non sédentaire d'un contribuable est implantée dans une zone franche urbaine - territoire entrepreneur
-mais est exercée en tout ou partie en dehors d'une telle zone, l'exonération s'applique si ce contribuable emploie au moins
-un salarié sédentaire à temps plein ou équivalent, exerçant ses fonctions dans les locaux affectés à l'activité, ou si ce
-contribuable réalise au moins 25 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines -
+Lorsque l'activité non sédentaire d'un contribuable est implantée dans une zone franche urbaine-territoire entrepreneur mais
+est exercée en tout ou partie en dehors d'une telle zone, l'exonération s'applique si ce contribuable emploie au moins un
+salarié sédentaire à temps plein ou équivalent, exerçant ses fonctions dans les locaux affectés à l'activité, ou si ce
+contribuable réalise au moins 25 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines-
 territoires entrepreneurs. 
 
 II.-L'exonération s'applique au bénéfice d'un exercice ou d'une année d'imposition, déclaré selon les modalités prévues aux
@@ -62,7 +62,7 @@ articles 50-0,53 A,
 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun : 
 
 a) Produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8,
-lorsqu'ils ne proviennent pas d'une activité exercée dans l'une des zones franches urbaines - territoires entrepreneurs, et
+lorsqu'ils ne proviennent pas d'une activité exercée dans l'une des zones franches urbaines-territoires entrepreneurs, et
 résultats de cession des titres de ces sociétés ; 
 
 b) Produits correspondant aux subventions, libéralités et abandons de créances ; 
@@ -72,46 +72,46 @@ cours du même exercice ou de la même année d'imposition, si le contribuable n
 société de financement visé à l'article L. 511-1 du code monétaire et financier ; 
 
 d) Produits tirés des droits de la propriété industrielle et commerciale, lorsque ces droits n'ont pas leur origine dans
-l'activité exercée dans l'une des zones franches urbaines  - territoires entrepreneurs. 
+l'activité exercée dans l'une des zones franches urbaines-territoires entrepreneurs. 
 
-Lorsque le contribuable n'exerce pas l'ensemble de son activité dans les zones franches urbaines  - territoires
-entrepreneurs, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés, dans les conditions
-de droit commun, en proportion du montant hors taxes du chiffre d'affaires ou de recettes réalisé en dehors de ces zones.
+Lorsque le contribuable n'exerce pas l'ensemble de son activité dans les zones franches urbaines-territoires entrepreneurs,
+les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés, dans les conditions de droit
+commun, en proportion du montant hors taxes du chiffre d'affaires ou de recettes réalisé en dehors de ces zones. 
 
 Par exception aux dispositions du sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré
-qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine  - territoire entrepreneur.
-Cette disposition s'applique quel que soit le lieu d'établissement du bailleur. 
+qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine-territoire entrepreneur. Cette
+disposition s'applique quel que soit le lieu d'établissement du bailleur. 
 
 Le bénéfice exonéré ne peut excéder 50 000 € par contribuable et par période de douze mois, majoré de 5 000 € par nouveau
 salarié embauché à compter du 1er janvier 2015 domicilié dans un quartier prioritaire de la politique de la ville ou dans une
-zone franche urbaine  - territoire entrepreneur et employé à temps plein pendant une période d'au moins six mois. Cette
+zone franche urbaine-territoire entrepreneur et employé à temps plein pendant une période d'au moins six mois. Cette
 condition est appréciée à la clôture de l'exercice ou de la période d'imposition au titre duquel ou de laquelle l'exonération
 s'applique. 
 
-Pour les contribuables qui créent ou implantent des activités dans une zone franche urbaine - territoire entrepreneur à
-compter du 1er janvier 2015, le bénéfice de l'exonération est subordonné à la condition que, à la date de clôture de
-l'exercice ou de la période d'imposition au titre desquels l'exonération s'applique :
+Pour les contribuables qui créent ou implantent des activités dans une zone franche urbaine-territoire entrepreneur à compter
+du 1er janvier 2015, le bénéfice de l'exonération est subordonné à la condition que, à la date de clôture de l'exercice ou de
+la période d'imposition au titre desquels l'exonération s'applique : 
 
 1° Le nombre de salariés dont le contrat de travail est à durée indéterminée ou a été conclu pour une durée déterminée d'au
-moins douze mois et résidant dans l'une des zones franches urbaines - territoires entrepreneurs ou dans l'un des quartiers
-prioritaires de la politique de la ville de l'unité urbaine dans laquelle est située la zone franche urbaine - territoire
+moins douze mois et résidant dans l'une des zones franches urbaines-territoires entrepreneurs ou dans l'un des quartiers
+prioritaires de la politique de la ville de l'unité urbaine dans laquelle est située la zone franche urbaine-territoire
 entrepreneur soit égal au moins à la moitié du total des salariés employés dans les mêmes conditions. Les salariés employés à
-temps partiel sont pris en compte au prorata de la durée du travail prévue à leur contrat ;
+temps partiel sont pris en compte au prorata de la durée du travail prévue à leur contrat ; 
 
 2° Ou le nombre de salariés embauchés à compter de la création ou de l'implantation de l'entreprise et remplissant les
 conditions décrites au 1° soit égal au moins à la moitié du total des salariés embauchés dans les mêmes conditions, au cours
 de la même période. 
 
-Pour les contribuables qui créent des activités dans une zone franche urbaine - territoire entrepreneur à compter du 1er
+Pour les contribuables qui créent des activités dans une zone franche urbaine-territoire entrepreneur à compter du 1er
 janvier 2016, le bénéfice de l'exonération est subordonné à l'existence, au 1er janvier de l'année d'implantation, du contrat
 de ville prévu à l'article 6 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine. 
 
-Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines  - territoires
+Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines-territoires
 entrepreneurs définies au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ainsi que
-pour ceux qui, à compter du 1er janvier 2012, créent des activités dans les zones franches urbaines  - territoires
-entrepreneurs définies au même B, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la
-Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
-européenne aux aides de minimis. 
+pour ceux qui, à compter du 1er janvier 2012, créent des activités dans les zones franches urbaines-territoires entrepreneurs
+définies au même B, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission,
+du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne
+aux aides de minimis. 
 
 III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A ou à
 l'article 223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II du présent
@@ -130,26 +130,24 @@ IV.-Les obligations déclaratives des personnes et organismes auxquels s'appliqu
 
 **Nota:**
 
-Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
-fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
-
-Conformément à l'article 48 II de la loi n° 2014-1655 du 29 décembre 2014, les présentes dispositions s'appliquent aux
-entreprises qui créent des activités dans une zone franche urbaine-territoire entrepreneur à compter du 1er janvier 2015.
+Modifications effectuées en conséquence de l'article 48-III de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°95-115 du 4 février 1995 - art. 42
-  - Loi n°96-987 du 14 novembre 1996 - art. 12
   - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 223 A bis (V)
+  - Code général des impôts, CGI. - art. 44 quindecies (V)
+  - Code général des impôts, CGI. - art. 44 sexies (V)
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 96
   - Code monétaire et financier - art. L511-1
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 48
+  - Décret n°2015-608 du 3 juin 2015 - art. 1
 
 _Cité par_:
 
