@@ -8,19 +8,11 @@ aux régies pour l'émission et la diffusion de leurs messages publicitaires à 
 
 Elle est due par les personnes qui assurent la régie de ces messages publicitaires. 
 
-Elle est déclarée et liquidée : 
+Elle est déclarée et liquidée sur la déclaration mentionnée au 1 de l'article 287, déposée suivant la fin de chaque trimestre
+civil ou à l'issue de l'exercice pour les redevables placés sous le régime simplifié d'imposition prévu à l'article 302
+septies A. 
 
-a-pour les opérations réalisées au cours du premier semestre 2003, sur la déclaration déposée en juillet 2003 en application
-du 1 de l'article 287 ; 
-
-b-pour les opérations suivantes, sur une déclaration mentionnée au 1 de l'article 287. 
-
-Cette déclaration est déposée avant le 25 du mois suivant la fin de chaque trimestre civil ou, pour les redevables placés
-sous le régime simplifié d'imposition prévu à l'article 302 septies A, chaque année, jusqu'à une date fixée par décret et au
-plus tard le deuxième jour ouvré suivant le 1er mai ou, sur option, pour ceux de ces redevables dont l'exercice comptable ne
-coïncide pas avec l'année civile, dans les trois mois de la clôture de l'exercice. 
-
-La taxe est acquittée lors du dépôt de ces déclarations. 
+La taxe est acquittée lors du dépôt de cette déclaration. 
 
 3. Le tarif d'imposition par palier de recettes trimestrielles perçues par les régies assujetties est fixé comme suit à
 compter du premier trimestre 2005 : 
@@ -640,6 +632,11 @@ Au-dessus de 242 086 000
 5. La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que la taxe
 sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
+**Nota:**
+
+Conformément aux dispositions du E du XV de l'article 26 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions sont
+abrogées pour les encaissements intervenant à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -651,9 +648,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 60 (V)
+  - ORDONNANCE n°2015-681 du 18 juin 2015 - art. 2
+
+_Abrogé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 287 (VT)
-  - Code général des impôts, CGI. - art. 302 septies A (VT)
+  - Code général des impôts, CGI. - art. 287
+  - Code général des impôts, CGI. - art. 302 septies A
