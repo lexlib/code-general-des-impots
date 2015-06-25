@@ -70,7 +70,7 @@ président du Centre national du cinéma et de l'image animée d'une demande d'a
 après sélection par un comité d'experts chargé de vérifier que le jeu vidéo remplit les conditions prévues au III. 
 
 Seules ouvrent droit au crédit d'impôt les dépenses exposées dans les trente-six mois qui précèdent la date de délivrance de
-l'agrément définitif mentionnée à l'article 220 X (4). 
+l'agrément définitif mentionnée à l'article 220 X . 
 
 V.-Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au bénéfice du crédit d'impôt
 sont déduites des bases de calcul de ce crédit d'impôt. 
@@ -106,9 +106,6 @@ dispositif législatif lui ayant été notifié comme conforme au droit de l'Uni
 dispositions de l'article 220 terdecies du code des impôts dans sa rédaction résultant du même article 28 de ladite loi.
 
 Le décret n° 2015-722 du 23 juin 2015, article 6, fixe cette entrée en vigueur au 26 juin 2015. 
-
-(4) Loi n°2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 25 III : Ces dispositions s'appliquent aux
-crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2014. 
 
 Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, les références : , 44 decies, 44 undecies sont
 périmées.
@@ -156,7 +153,6 @@ _Modifié par_:
 
   - Loi n°2013-1279 du 29 décembre 2013 - art. 27 (V)
   - Loi n°2013-1279 du 29 décembre 2013 - art. 28 (V)
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
 
 _Cite_:
 
