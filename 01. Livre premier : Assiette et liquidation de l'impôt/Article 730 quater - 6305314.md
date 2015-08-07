@@ -2,8 +2,8 @@
 
 Les cessions de parts de fonds communs de placement à risques, de fonds professionnels spécialisés relevant de l'article L.
 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le
-cadre juridique de la gestion d'actifs et de fonds professionnels de capital investissement n'entraînent l'exigibilité
-d'aucun droit d'enregistrement.
+cadre juridique de la gestion d'actifs, de fonds professionnels de capital investissement et de sociétés de libre partenariat
+n'entraînent l'exigibilité d'aucun droit d'enregistrement.
 
 **Liens relatifs à cet article**
 
@@ -18,4 +18,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2015-990 du 6 août 2015 - art. 145

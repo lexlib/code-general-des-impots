@@ -1,6 +1,6 @@
 # Article 44 octies A
 
-I.-Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2020, créent des activités dans les zones franches
+I. – Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2020, créent des activités dans les zones franches
 urbaines-territoires entrepreneurs définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation
 pour l'aménagement et le développement du territoire, ainsi que ceux qui, entre le 1er janvier 2006 et le 31 décembre 2011,
 exercent des activités dans les zones franches urbaines-territoires entrepreneurs définies au deuxième alinéa du B du 3 de
@@ -23,10 +23,10 @@ dont le chiffre d'affaires annuel hors taxes excède 50 millions d'euros ou dont
 d'euros. Pour la détermination de ce pourcentage, les participations des sociétés de capital-risque, des fonds communs de
 placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans
 sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs,
-des fonds professionnels de capital investissement, des sociétés de développement régional, des sociétés financières
-d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il
-n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces
-fonds ; 
+des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement
+régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises
+en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et
+ces dernières sociétés ou ces fonds ; 
 
 c) Son activité principale, définie selon la nomenclature d'activités française de l'Institut national de la statistique et
 des études économiques, ne doit pas relever des secteurs de la construction automobile, de la construction navale, de la
@@ -57,7 +57,7 @@ salarié sédentaire à temps plein ou équivalent, exerçant ses fonctions dans
 contribuable réalise au moins 25 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines-
 territoires entrepreneurs. 
 
-II.-L'exonération s'applique au bénéfice d'un exercice ou d'une année d'imposition, déclaré selon les modalités prévues aux
+II. – L'exonération s'applique au bénéfice d'un exercice ou d'une année d'imposition, déclaré selon les modalités prévues aux
 articles 50-0,53 A, 
 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun : 
 
@@ -113,7 +113,7 @@ définies au même B, le bénéfice de l'exonération est subordonné au respect
 du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne
 aux aides de minimis. 
 
-III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A ou à
+III. – Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A ou à
 l'article 223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II du présent
 article et au 4 de l'article 223 I. 
 
@@ -126,27 +126,32 @@ qui suivent la publication du décret en Conseil d'Etat procédant à la délimi
 la loi n° 95-115 du 4 février 1995 précitée, s'il y exerce déjà son activité ou, dans le cas contraire, dans les six mois
 suivant celui du début d'activité. L'option est irrévocable. 
 
-IV.-Les obligations déclaratives des personnes et organismes auxquels s'applique l'exonération sont fixées par décret.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 48-III de la loi n° 2014-1655 du 29 décembre 2014.
+IV. – Les obligations déclaratives des personnes et organismes auxquels s'applique l'exonération sont fixées par décret.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995 - art. 42
-  - Code général des impôts, CGI. - art. 223 A
-  - Code général des impôts, CGI. - art. 223 A bis (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
+  - Loi n°2014-173 du 21 février 2014 - art. 6 (V)
+  - Code général des impôts, CGI. - art. 102 ter (VT)
+  - Code général des impôts, CGI. - art. 103 (V)
+  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 223 A bis
+  - Code général des impôts, CGI. - art. 223 I (V)
+  - Code général des impôts, CGI. - art. 35 (V)
+  - Code général des impôts, CGI. - art. 39 (VT)
+  - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 92 (V)
   - Code général des impôts, CGI. - art. 96
+  - Code monétaire et financier - art. L214-37 (V)
   - Code monétaire et financier - art. L511-1
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 _Cité par_:
 
