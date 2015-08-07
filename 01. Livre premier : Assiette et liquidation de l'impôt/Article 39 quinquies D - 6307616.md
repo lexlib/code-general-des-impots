@@ -21,36 +21,36 @@ b) Et dont le capital ou les droits de vote ne sont pas détenus à hauteur de 2
 répondant pas aux conditions prévues au a ou par des entreprises répondant aux conditions prévues au a mais dont le capital
 ou les droits de vote sont détenus à hauteur de 25 % ou plus par une ou plusieurs entreprises. Cette condition doit être
 remplie de manière continue au titre de cet exercice. Pour apprécier le respect de cette condition, le pourcentage de capital
-détenu par des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional,
-des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque dans l'entreprise n'est pas
-pris en compte, à la condition qu'il n'existe pas de lien de dépendance au sens des a et b du 12 de l'article 39 entre cette
-entreprise et ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe, la condition tenant à la
-composition du capital doit être remplie par la société mère du groupe. 
+détenu par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés
+relevant de l'article L. 214-37 du code monétaire et financier, dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25
+juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de libre partenariat, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés
+unipersonnelles d'investissement à risque dans l'entreprise n'est pas pris en compte, à la condition qu'il n'existe pas de
+lien de dépendance au sens des a et b du 12 de l'article 39 entre cette entreprise et ces dernières sociétés ou ces fonds.
+Pour les sociétés membres d'un groupe, la condition tenant à la composition du capital doit être remplie par la société mère
+du groupe. 
 
-Pour les immeubles mentionnés au premier alinéa, le bénéfice de l'amortissement exceptionnel est subordonné au respect de l'
-article 17 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides
-compatibles avec le marché intérieur en application des articles 107 et 108 du traité (1). Pour les travaux mentionnés au
-deuxième alinéa, le bénéfice de l'amortissement exceptionnel est subordonné au respect du  règlement (UE) n° 1407/2013 de la
+Pour les immeubles mentionnés au premier alinéa, le bénéfice de l'amortissement exceptionnel est subordonné au respect de
+l'article 17 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides
+compatibles avec le marché intérieur en application des articles 107 et 108 du traité. Pour les travaux mentionnés au
+deuxième alinéa, le bénéfice de l'amortissement exceptionnel est subordonné au respect du règlement (UE) n° 1407/2013 de la
 Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
-européenne aux aides de minimis (2).
-
-**Nota:**
-
-(1) Ces dispositions s'appliquent aux avantages octroyés à compter du 1er juillet 2014.
-
-(2) Ces dispositions s'appliquent aux avantages octroyés à compter du 1er janvier 2014.
+européenne aux aides de minimis.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2014-891 du 8 août 2014 - art. 20
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 47
-
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 223 A
-  - Code général des impôts, CGI. - art. 39
+  - Ordonnance n°2013-676 du 25 juillet 2013
+  - Code général des impôts, CGI. - art. 1465 A (V)
+  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 223 A bis (V)
+  - Code général des impôts, CGI. - art. 39 (VT)
+  - Code monétaire et financier - art. L214-37
+
+_Modifié par_:
+
+  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 _Cité par_:
 

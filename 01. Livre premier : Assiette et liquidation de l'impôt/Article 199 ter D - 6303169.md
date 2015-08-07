@@ -37,9 +37,9 @@ b) Ou par une société dont le capital est détenu pour 50 % au moins par des p
 c) Ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés
 relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25
 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des
-sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à
-risque à la condition qu'il n'existe pas de lien de dépendance au sens des trois derniers alinéas du 12 de l'article 39 entre
-les entreprises et ces dernières sociétés ou ces fonds. 
+sociétés de libre partenariat, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés
+unipersonnelles d'investissement à risque à la condition qu'il n'existe pas de lien de dépendance au sens des trois derniers
+alinéas du 12 de l'article 39 entre les entreprises et ces dernières sociétés ou ces fonds. 
 
 Ces entreprises peuvent demander le remboursement immédiat de la créance constatée au titre de l'année de création. Il en est
 de même pour les créances constatées au titre des quatre années suivantes ; 
@@ -56,11 +56,6 @@ application des articles 87 et 88 du traité (Règlement général d'exemption p
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 39 (V)
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
-
 _Cite_:
 
   - Ordonnance n°2013-676 du 25 juillet 2013
@@ -70,6 +65,10 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 sexies
   - Code monétaire et financier - art. L214-37
   - Code monétaire et financier - art. L313-23
+
+_Modifié par_:
+
+  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 _Cité par_:
 
