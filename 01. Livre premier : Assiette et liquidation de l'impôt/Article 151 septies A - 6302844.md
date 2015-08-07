@@ -26,10 +26,11 @@ hauteur de 25 % ou plus par une entreprise ou par plusieurs entreprises ne répo
 continue au cours de l'exercice. Pour la détermination de ce pourcentage, les participations de sociétés de capital-risque,
 des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code
 monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
-juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de développement régional,
-des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte
-à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société ou le groupement en
-cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de l'exercice. 
+juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des
+sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à
+risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39
+entre la société ou le groupement en cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière
+continue au cours de l'exercice. 
 
 I bis-L'exonération prévue au I s'applique dans les mêmes conditions aux plus-values en report d'imposition sur le fondement
 du I ter de l'article 93 quater, du a du I de l'article 151 octies, des I et II de l'article 151 octies A et du I de
@@ -121,16 +122,6 @@ d'assurances.
 VI.-L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au I ter de
 l'article 93 quater et aux articles 151 octies et 151 octies A.
 
-**Nota:**
-
-Conformément à la décision n° 2017-663 QPC du 19 octobre 2017, Article 1 : Les mots " par un nouvel agent général
-d'assurances exerçant à titre individuel et " figurant au c du 1 du paragraphe V de l'article 151 septies A du code général
-des impôts, dans sa rédaction résultant de l' ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
-gestion d'actifs, sont contraires à la Constitution. 
-
-Article 2 : La déclaration d'inconstitutionnalité de l'article 1er prend effet dans les conditions fixées au paragraphe 11 de
-cette décision.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -147,15 +138,18 @@ _Cité par_:
 _Cite_:
 
   - Ordonnance n°2013-676 du 25 juillet 2013
-  - Code général des impôts, CGI. - art. 151 nonies
+  - Code général des impôts, CGI. - art. 151 nonies (V)
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 151 octies A
+  - Code général des impôts, CGI. - art. 39 (VT)
   - Code général des impôts, CGI. - art. 39 duodecies
   - Code général des impôts, CGI. - art. 719
+  - Code général des impôts, CGI. - art. 8 (V)
+  - Code général des impôts, CGI. - art. 8 ter (V)
   - Code général des impôts, CGI. - art. 885 O bis
   - Code général des impôts, CGI. - art. 93 quater
   - Code monétaire et financier - art. L214-37
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2015-990 du 6 août 2015 - art. 145
