@@ -19,7 +19,11 @@ de droits détenus dans les bénéfices de la société concernée, lorsqu'ils s
 domiciliés, établis ou constitués hors de France dans un Etat ou territoire non coopératif au sens de l'article 238-0 A. 
 
 Les deux premiers alinéas sont applicables aux distributions mentionnées aux f bis et f ter du I de l'article 164 B
-effectuées au profit des personnes et organismes mentionnés aux mêmes deux premiers alinéas. 
+effectuées au profit des personnes et organismes mentionnés aux mêmes deux premiers alinéas. Le seuil de 25 % est apprécié en
+faisant la somme des droits détenus directement et indirectement par les personnes ou organismes mentionnés à la première
+phrase du présent alinéa, dans la société mentionnée au f du I de l'article 164 B. Les droits détenus indirectement sont
+déterminés en multipliant le pourcentage des droits de ces personnes et organismes dans les entités effectuant les
+distributions par le pourcentage des droits de ces dernières dans la société mentionnée au même f. 
 
 L'impôt est acquitté dans les conditions fixées au IV de l'article 244 bis A. 
 
@@ -31,7 +35,7 @@ sexies.
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 17
+  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 _Cite_:
 
