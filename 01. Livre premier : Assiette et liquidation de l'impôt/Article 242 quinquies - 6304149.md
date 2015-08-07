@@ -1,9 +1,11 @@
 # Article 242 quinquies
 
-I.-La société de gestion d'un fonds commun de placement à risques ou d'un fonds professionnel de capital investissement dont
-le règlement prévoit que les porteurs de parts pourront bénéficier des avantages fiscaux prévus au 2° du 5 de l'article 38 et
-aux articles 163 quinquies B, 150-0 A, 209-0 A et 219 est tenue de souscrire et de faire parvenir au service des impôts
-auprès duquel elle souscrit sa déclaration de résultats une déclaration annuelle détaillée permettant d'apprécier : 
+I.-La société de gestion d'un fonds commun de placement à risques ou d'un fonds professionnel de capital investissement ou le
+gérant d'une société de libre partenariat dont le règlement ou les statuts prévoient que les porteurs de parts ou les
+associés pourront bénéficier des avantages fiscaux prévus au 2° du 5 de l'article 38 et aux articles 163 quinquies B, 150-0
+A, 
+209-0 A et 219 est tenu de souscrire et de faire parvenir au service des impôts auprès duquel elle souscrit sa déclaration de
+résultats une déclaration annuelle détaillée permettant d'apprécier : 
 
 1° A la fin de chaque semestre de l'exercice, le quota d'investissement prévu au 1° du II de l'article 163 quinquies B et la
 limite prévue au III de l'article L. 214-28 du code monétaire et financier, ou le quota d'investissement et la limite prévus
@@ -26,13 +28,13 @@ III.-Un décret en Conseil d'Etat fixe les modalités d'application des obligati
 
 _Cite_:
 
-  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (V)
-  - Code général des impôts, CGI. - art. 150-0 A
-  - Code général des impôts, CGI. - art. 163 quinquies B
-  - Code général des impôts, CGI. - art. 209-0 A
-  - Code général des impôts, CGI. - art. 219
-  - Code général des impôts, CGI. - art. 38
-  - Code général des impôts, CGI. - art. 39 terdecies (V)
+  - Loi n°85-695 du 11 juillet 1985 - art. 1-1
+  - Code général des impôts, CGI. - art. 150-0 A (VT)
+  - Code général des impôts, CGI. - art. 163 quinquies B (V)
+  - Code général des impôts, CGI. - art. 209-0 A (V)
+  - Code général des impôts, CGI. - art. 219 (V)
+  - Code général des impôts, CGI. - art. 38 (V)
+  - Code général des impôts, CGI. - art. 39 terdecies
   - Code monétaire et financier - art. L214-28
   - Code monétaire et financier - art. L214-30
 
@@ -42,10 +44,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 _Cité par_:
 
-  - Code général des impôts, CGI. - art. 1763 B (M)
+  - Code général des impôts, CGI. - art. 1763 B (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 AS bis (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 AW (V)
