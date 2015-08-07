@@ -118,7 +118,7 @@ année suivant celle de la souscription, il est pratiqué au titre de l'année d
 obtenues. Il en est de même si, pendant ces cinq années, la société mentionnée au premier alinéa du 3° du I cède les parts ou
 actions reçues en contrepartie de sa souscription au capital de sociétés vérifiant l'ensemble des conditions prévues au 2° et
 prises en compte pour le bénéfice de la réduction d'impôt sur le revenu. Les mêmes dispositions s'appliquent en cas de
-remboursement des apports aux souscripteurs avant le 31 décembre de la dixième année suivant celle de la souscription, à
+remboursement des apports aux souscripteurs avant le 31 décembre de la septième année suivant celle de la souscription, à
 l'exception des parts investies dans des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail et
 agréées en vertu du même article, ainsi que dans des établissements de crédit ou des sociétés de financement dont 80 % de
 l'ensemble des prêts et des investissements sont effectués en faveur d'entreprises solidaires mentionnées audit article, pour
@@ -131,6 +131,30 @@ même en cas de donation à une personne physique des titres reçus en contrepar
 si le donataire reprend l'obligation de conservation des titres transmis prévue au deuxième alinéa et s'il ne bénéficie pas
 du remboursement des apports avant le terme mentionné à la dernière phrase du même alinéa. A défaut, la reprise de la
 réduction d'impôt sur le revenu obtenue est effectuée au nom du donateur. 
+
+En cas de non-respect de la condition de conservation prévue au deuxième alinéa du présent IV par suite d'une fusion ou d'une
+scission au sens de l'article 817 A, l'avantage fiscal mentionné au 1° du I du présent article accordé au titre de l'année en
+cours et de celles précédant ces opérations n'est pas remis en cause si les titres reçus en contrepartie sont conservés
+jusqu'au même terme. Cet avantage fiscal n'est pas non plus remis en cause lorsque la condition de conservation prévue au
+deuxième alinéa du IV n'est pas respectée par suite d'une annulation des titres pour cause de pertes. 
+
+En cas de non-respect de la condition de conservation prévue au même deuxième alinéa du IV en cas de cession stipulée
+obligatoire par un pacte d'associés ou d'actionnaires, l'avantage fiscal mentionné au 1° du I accordé au titre de l'année en
+cours et de celles précédant ces opérations n'est pas non plus remis en cause si le prix de vente des titres cédés, diminué
+des impôts et taxes générés par cette cession, est intégralement réinvesti par un actionnaire minoritaire, dans un délai
+maximal de douze mois à compter de la cession, en souscription de titres de sociétés satisfaisant aux conditions mentionnées
+au 2° du même I, sous réserve que les titres ainsi souscrits soient conservés jusqu'au même terme. Cette souscription ne peut
+donner lieu au bénéfice de l'avantage fiscal prévu au 1° dudit I. 
+
+En cas de non-respect de la condition de conservation prévue au deuxième alinéa du IV en cas d'offre publique d'échange de
+titres, l'avantage fiscal mentionné au 1° du I accordé au titre de l'année en cours et de celles précédant cette opération
+n'est pas remis en cause si les titres obtenus lors de l'échange sont des titres de sociétés satisfaisant aux conditions
+mentionnées au 2° du même I et si l'éventuelle soulte d'échange, diminuée le cas échéant des impôts et taxes générés par son
+versement, est intégralement réinvestie, dans un délai maximal de douze mois à compter de l'échange, en souscription de
+titres de sociétés satisfaisant aux conditions mentionnées au même 2°, sous réserve que les titres obtenus lors de l'échange
+et, le cas échéant, souscrits en remploi de la soulte soient conservés jusqu'au terme du délai applicable aux titres
+échangés. La souscription de titres au moyen de la soulte d'échange ne peut donner lieu au bénéfice de l'avantage fiscal
+prévu au 1° dudit I. 
 
 V. - Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives incombant aux
 contribuables et aux sociétés. 
@@ -318,17 +342,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 7
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 59 (V)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
+  - Loi n°2015-990 du 6 août 2015 - art. 143
+  - Loi n°2015-990 du 6 août 2015 - art. 144
+  - Loi n°2015-992 du 17 août 2015 - art. 114 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI.
   - Code général des impôts, CGI. - art. 197
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 200-0 A (VT)
-  - Code général des impôts, CGI. - art. 44 sexies-0 A
+  - Code général des impôts, CGI. - art. 200-0 A
+  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
   - Code général des impôts, CGI. - art. 885 O quater
   - Code monétaire et financier - art. L214-30
   - Code monétaire et financier - art. L214-31

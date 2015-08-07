@@ -1,8 +1,8 @@
 # Article 80 quaterdecies
 
-I.-L'avantage correspondant à la valeur, à leur date d'acquisition, des actions attribuées dans les conditions définies aux
-articles L. 225-197-1 à L. 225-197-3 du code de commerce est imposé entre les mains de l'attributaire dans la catégorie des
-traitements et salaires. 
+I.-L'avantage salarial correspondant à la valeur, à leur date d'acquisition, des actions attribuées dans les conditions
+définies aux articles L. 225-197-1 à L. 225-197-6 du code de commerce est imposé entre les mains de l'attributaire, selon les
+modalités prévues au 3 de l'article 200 A du présent code. 
 
 II.-L'impôt est dû au titre de l'année au cours de laquelle le bénéficiaire a disposé de ses actions, les a cédées,
 converties au porteur ou mises en location. 
@@ -24,16 +24,12 @@ activité.
 Les obligations déclaratives incombent alors à la filiale ou à la société mère française. 
 
 V.-Le gain net, égal à la différence entre le prix de cession et la valeur des actions à leur date d'acquisition, est imposé
-dans les conditions prévues à l'article 150-0 A.
+dans les conditions prévues à l'article 150-0 A. 
 
 Si les actions sont cédées pour un prix inférieur à leur valeur à la date d'acquisition, la moins-value est déduite du
 montant de l'avantage mentionné au I, dans la limite de ce montant.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -50,7 +46,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
   - Code monétaire et financier - art. L221-32-5 (V)
 
+_Modifié par_:
+
+  - Loi n°2015-990 du 6 août 2015 - art. 135
+
 _Cite_:
 
-  - Code de commerce - art. L225-197-1
-  - Code général des impôts, CGI. - art. 150-0 A
+  - Code de commerce - art. L225-197-1 (V)
+  - Code général des impôts, CGI. - art. 150-0 A (VT)
