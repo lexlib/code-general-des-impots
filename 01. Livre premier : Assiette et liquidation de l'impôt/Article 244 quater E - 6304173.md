@@ -2,7 +2,7 @@
 
 I.-1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au
 titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant,
-réalisés jusqu'au 31 décembre 2020 (1) et exploités en Corse pour les besoins d'une activité industrielle, commerciale,
+réalisés jusqu'au 31 décembre 2020 et exploités en Corse pour les besoins d'une activité industrielle, commerciale,
 artisanale, libérale ou agricole autre que : 
 
 a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas exclusivement sur des biens situés en Corse,
@@ -24,15 +24,15 @@ détenu de manière continue, pour 75 % au moins, par des personnes physiques ou
 conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-risque, des fonds
 communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et
 financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
-gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de développement régional et des sociétés
-financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens des
-deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Pour les
-sociétés membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis, le chiffre d'affaires et l'effectif à
-prendre en compte s'entendent respectivement de la somme des chiffres d'affaires et de la somme des effectifs de chacune des
-sociétés membres de ce groupe. La condition tenant à la composition du capital doit être remplie par la société mère du
-groupe. 
+gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de
+développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe
+pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces
+dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis,
+le chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement de la somme des chiffres d'affaires et de
+la somme des effectifs de chacune des sociétés membres de ce groupe. La condition tenant à la composition du capital doit
+être remplie par la société mère du groupe. 
 
-2° (abrogé). 
+2° (Abrogé). 
 
 3° Le crédit d'impôt prévu au 1° est égal à 20 % du prix de revient hors taxes : 
 
@@ -91,11 +91,6 @@ V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect 
 Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
 articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
 
-**Nota:**
-
-(1) Loi n° 2011-1978 du 28 décembre 2011, art. 39-III : Ces dispositions s'appliquent aux crédits d'impôt calculés au titre
-des investissements réalisés à compter du 1er janvier 2012.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -119,9 +114,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 39 (V)
-  - Loi n°2014-891 du 8 août 2014 - art. 20 (V)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 78
+  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 _Cité par_:
 
