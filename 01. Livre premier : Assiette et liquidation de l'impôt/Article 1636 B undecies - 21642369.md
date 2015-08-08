@@ -8,7 +8,7 @@ l'article 1639 A.
 d'enlèvement des ordures ménagères sur lesquelles ils votent des taux différents en vue de proportionner le montant de la
 taxe à l'importance du service rendu apprécié en fonction des conditions de réalisation du service et de son coût. Les
 communes ou les établissements publics de coopération intercommunale sur le territoire desquels est située une installation
-de transfert ou d'élimination des déchets prévue par un plan départemental d'élimination des déchets ménagers peuvent
+de transfert ou de traitement des déchets prévue par un plan régional de prévention et de gestion des déchets peuvent
 également définir une zone, d'un rayon d'un kilomètre au maximum, sur laquelle ils votent un taux différent ; dans ce cas, la
 commune ou l'établissement public de coopération intercommunale ne peut définir sur ce périmètre des zones en fonction de
 l'importance du service rendu. 
@@ -49,10 +49,6 @@ prévues à l'article 1639 A.
 6. La première année d'application des dispositions de l'article 1522 bis, le produit de la taxe d'enlèvement des ordures
 ménagères ne peut excéder le produit total de cette taxe tel qu'issu des rôles généraux au titre de l'année précédente.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 53-I et II de la loi n° 2013-1279 du 29 décembre 2013.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -60,10 +56,11 @@ _Cite_:
   - Loi n°99-586 du 12 juillet 1999
   - Code général des impôts, CGI. - art. 1379-0 bis
   - Code général des impôts, CGI. - art. 1520
+  - Code général des impôts, CGI. - art. 1639 A (V)
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2015-991 du 7 août 2015 - art. 8
 
 _Cité par_:
 
