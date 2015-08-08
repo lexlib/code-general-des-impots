@@ -8,6 +8,11 @@ Pour l'application du premier alinéa aux communes situées sur le territoire de
 constaté l'année précédente dans l'ensemble des communes du département s'entend du taux moyen constaté l'année précédente
 sur le territoire de chaque commune. 
 
+Les taux des taxes foncières et de la taxe d'habitation votés par une commune située dans le périmètre de la métropole du
+Grand Paris ne peuvent excéder deux fois et demie la somme des taux moyens constatés l'année précédente au niveau national
+pour la même taxe, respectivement pour l'ensemble des établissements publics de coopération intercommunale soumis à l'article
+1609 nonies C et pour l'ensemble des communes.   
+
 II. et III. (Disjoints) 
 
 IV. Le taux de la cotisation foncière des entreprises voté par une commune ne peut excéder deux fois le taux moyen de cette
@@ -34,6 +39,10 @@ Le taux de la cotisation foncière des entreprises voté par la métropole de Ly
 constaté l'année précédente au niveau national pour l'ensemble des établissements publics de coopération intercommunale
 soumis à l'article 1609 nonies C.
 
+VIII.-Le taux de la cotisation foncière des entreprises voté par la métropole du Grand Paris ne peut excéder deux fois le
+taux moyen constaté l'année précédente au niveau national pour l'ensemble des établissements publics de coopération
+intercommunale soumis à l'article 1609 nonies C.
+
 **Nota:**
 
 Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
@@ -46,11 +55,6 @@ la métropole de Lyon.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (VT)
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 2
-
 _Cité par_:
 
   - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 39 (V)
@@ -61,7 +65,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D6362-1 (V)
   - Code général des collectivités territoriales - art. L2334-14-1 (VT)
   - Code général des collectivités territoriales - art. L5334-12 (Ab)
-  - Code général des collectivités territoriales - art. L5334-4 (V)
+  - Code général des collectivités territoriales - art. L5334-4 (VT)
   - Code général des impôts, CGI. - art. 1407 ter (V)
   - Code général des impôts, CGI. - art. 1636 B decies (V)
   - Code général des impôts, CGI. - art. 1636 B sexies (V)
@@ -69,6 +73,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1656 (V)
   - Code général des impôts, CGI. - art. 1656 bis (VD)
 
+_Modifié par_:
+
+  - Loi n°2015-991 du 7 août 2015 - art. 59 (VD)
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+  - Code général des impôts, CGI. - art. 1609 nonies C
