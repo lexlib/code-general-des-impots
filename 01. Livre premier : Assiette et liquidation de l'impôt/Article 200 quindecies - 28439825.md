@@ -8,7 +8,7 @@ mentionnées au 2.
 
 1° Aux dépenses de travaux forestiers effectués dans une propriété lorsqu'elle constitue une unité de gestion d'au moins 10
 hectares d'un seul tenant ou de 4 hectares d'un seul tenant lorsque la propriété est regroupée au sein d'une organisation de
-producteurs, au sens de l'article L. 551-1 du code rural et de la pêche maritime, et qu'elle présente l'une des garanties de
+producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime, et qu'elle présente l'une des garanties de
 gestion durable prévues à l'article L. 124-1 du code forestier, sous réserve des deux conditions suivantes : 
 
 a) Le contribuable doit prendre l'engagement de conserver cette propriété jusqu'au 31 décembre de la huitième année suivant
@@ -22,7 +22,7 @@ code ;
 2° Aux dépenses de travaux forestiers payées par un groupement forestier ou une société d'épargne forestière dont le
 contribuable est membre, lorsque la propriété du groupement ou de la société sur laquelle sont réalisés les travaux constitue
 une unité de gestion d'au moins 10 hectares d'un seul tenant ou de 4 hectares d'un seul tenant lorsque cette propriété est
-intégrée dans une organisation de producteurs, au sens de l'article L. 551-1 du code rural et de la pêche maritime, et
+intégrée dans une organisation de producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime, et
 qu'elle présente l'une des garanties de gestion durable prévues aux articles L. 124-1 et L. 124-3 du code forestier, sous
 réserve des trois conditions suivantes : 
 
@@ -41,7 +41,7 @@ code ;
 contribuable est membre pour la réalisation d'un contrat conclu pour la gestion de bois et forêts d'une surface inférieure à
 25 hectares, avec un gestionnaire forestier professionnel, au sens de l'article L. 315-1 du code forestier, ou un expert
 forestier, au sens de l'article L. 171-1 du code rural et de la pêche maritime, dans le cadre d'un mandat de gestion, avec
-une coopérative forestière ou une organisation de producteurs, au sens de l'article L. 551-1 du même code, ou avec l'Office
+une coopérative forestière ou une organisation de producteurs, au sens de l'article L. 552-1 du même code, ou avec l'Office
 national des forêts en application de l'article L. 315-2 du code forestier, sous réserve des trois conditions suivantes : 
 
 a) Le contrat de gestion prévoit la réalisation de programmes de travaux et de coupes sur des terrains en nature de bois et
@@ -49,7 +49,7 @@ forêts dans le respect de l'une des garanties de gestion durable prévues aux a
 
 b) Ces coupes sont cédées soit dans le cadre d'un mandat de vente avec un gestionnaire forestier professionnel ou un expert
 forestier, soit en exécution d'un contrat d'apport conclu avec une coopérative ou une organisation de producteurs, au sens de
-l'article L. 551-1 du code rural et de la pêche maritime, soit dans les conditions prescrites à l'article L. 315-2 du code
+l'article L. 552-1 du code rural et de la pêche maritime, soit dans les conditions prescrites à l'article L. 315-2 du code
 forestier ; 
 
 c) Ces coupes sont commercialisées à destination d'unités de transformation du bois ou de leurs filiales d'approvisionnement
@@ -87,7 +87,7 @@ l'administration fiscale, la facture du contrat de gestion ainsi que l'attestati
 cession et la commercialisation des coupes sont réalisées dans les conditions prévues au 3° du 2.
 
 5. Le taux du crédit d'impôt est de 18 % ; il est porté à 25 % pour les bénéficiaires adhérents à une organisation de
-producteurs, au sens de l'article L. 551-1 du code rural et de la pêche maritime. 
+producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime. 
 
 6. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année de paiement des dépenses mentionnées aux 1°
 à 3° du 2. Pour les dépenses mentionnées aux 1° et 2° du même 2, il peut s'appliquer pour le calcul de l'impôt dû au titre
@@ -100,7 +100,7 @@ l'excédent est restitué.
 7. Le crédit d'impôt fait l'objet d'une reprise au titre de l'année où le contribuable, le groupement, la société ou la
 société d'épargne forestière cesse de respecter l'un des engagements mentionnés au 2. Il en est de même en cas de dissolution
 des groupements ou des sociétés concernés ou lorsque ces dernières ne respectent pas les articles L. 214-121 et L. 214-123 à
-L. 214-125du code monétaire et financier. 
+L. 214-125 du code monétaire et financier. 
 
 Toutefois, le crédit d'impôt n'est pas repris dans les cas mentionnés aux a à c du 7 de l'article 199 decies H.
 
@@ -108,7 +108,7 @@ Toutefois, le crédit d'impôt n'est pas repris dans les cas mentionnés aux a �
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - ORDONNANCE n°2015-1248 du 7 octobre 2015 - art. 1
 
 _Cité par_:
 
@@ -120,12 +120,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 199 decies H (M)
-  - Code général des impôts, CGI. - art. 4 B (V)
+  - Code général des impôts, CGI. - art. 199 decies H
+  - Code général des impôts, CGI. - art. 4 B
   - Code rural - art. L171-1
   - Code rural - art. L551-1
-  - Code monétaire et financier - art. L214-121 (V)
-  - Code monétaire et financier - art. L214-123 (V)
+  - Code rural - art. L552-1
+  - Code monétaire et financier - art. L214-121
+  - Code monétaire et financier - art. L214-123
   - Code forestier (nouveau) - art. L124-1
   - Code forestier (nouveau) - art. L124-3
   - Code forestier (nouveau) - art. L315-1
