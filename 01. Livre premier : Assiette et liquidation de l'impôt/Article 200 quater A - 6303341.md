@@ -9,15 +9,15 @@ remplacement d'équipements spécialement conçus pour les personnes âgées ou 
 2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31 décembre 2017 ; 
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er
-janvier 2005 et le 31 décembre 2017. 
+janvier 2005 et le 31 décembre 2017.
 
 1 bis. Les contribuables propriétaires de logements situés en France, achevés avant l'approbation du plan de prévention des
 risques technologiques, qu'ils affectent à leur habitation principale ou qu'ils louent ou s'engagent à louer pendant une
 durée de cinq ans, à titre d'habitation principale, à des personnes autres que leur conjoint ou un membre de leur foyer
 fiscal peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses payées entre le 1er janvier 2015 et le 31
 décembre 2017 pour la réalisation de diagnostics préalables aux travaux et de travaux prescrits aux propriétaires
-d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement, sans qu'en soit déduit le montant des
-participations versées, le cas échéant, en application du I bis de l'article L. 515-19 du même code.
+d'habitation au titre de l'article L. 515-16-2 du code de l'environnement, sans qu'en soit déduit le montant des
+participations versées, le cas échéant, en application de l'article L. 515-19 du même code. 
 
 2. Un arrêté du ministre chargé du budget fixe la liste des équipements pour lesquels les dépenses d'installation ou de
 remplacement ouvrent droit à cet avantage fiscal. 
@@ -40,7 +40,7 @@ propriété du même logement, cette somme est répartie par contribuable au pro
 
 a. 25 % du montant des dépenses mentionnées au 1 ; 
 
-a bis. 40 % du montant des dépenses mentionnées au 1 bis.
+a bis. 40 % du montant des dépenses mentionnées au 1 bis. 
 
 b. Abrogé 
 
@@ -52,7 +52,7 @@ Les dépenses mentionnées aux 1 et 1 bis ouvrent droit au bénéfice du crédit
 mesure de présenter, à la demande de l'administration fiscale, l'attestation mentionnée au premier alinéa du présent 6 ou les
 factures, autres que des factures d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions
 prévues à l'article 289, l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le montant des
-équipements et travaux mentionnés aux 1 et 1 bis.
+équipements et travaux mentionnés aux 1 et 1 bis. 
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles
 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû,
@@ -62,7 +62,7 @@ l'excédent est restitué.
 dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du
 crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée.
 Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses
-ont été payées ou lorsque les sommes remboursées ont été versées en application du I bis de l'article L. 515-19 du code de
+ont été payées ou lorsque les sommes remboursées ont été versées en application de l'article L. 515-19 du code de
 l'environnement. 
 
 9. La durée de l'engagement de location mentionné au 1 bis s'apprécie à compter de la date de réalisation des dépenses ou,
@@ -72,7 +72,7 @@ ou les crédits d'impôt obtenus pour chaque logement concerné font l'objet d'u
 laquelle l'engagement n'est pas respecté. 
 
 10. Pour une même dépense, les dispositions du présent article sont exclusives de celles de l'article 200 quater ou d'une
-déduction de charge pour la détermination des revenus catégoriels .
+déduction de charge pour la détermination des revenus catégoriels.
 
 **Nota:**
 
@@ -84,14 +84,15 @@ l'article 200 quater A, dans leur rédaction issue de la présente loi, s'appliq
 
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 7 (V)
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 73
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 17 (VD)
+  - ORDONNANCE n°2015-1324 du 22 octobre 2015 - art. 5
 
 _Cité par_:
 
   - ORDONNANCE n°2015-1324 du 22 octobre 2015 - art. 2
   - Arrêté du 30 décembre 2017 (V)
   - Arrêté du 30 décembre 2017 - art. 1
+  - Code de l'environnement - art. L515-19-1 (V)
   - Code général des impôts, CGI. - art. 200-0 A (V)
   - Code général des impôts, CGI. - art. 31 (VT)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18 ter (V)
@@ -100,4 +101,7 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 196
   - Code général des impôts, CGI. - art. 199 quater B
+  - Code général des impôts, CGI. - art. 200 quater (V)
   - Code général des impôts, CGI. - art. 289
+  - Code de l'environnement - art. L515-16-2
+  - Code de l'environnement - art. L515-19 (V)
