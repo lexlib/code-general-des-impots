@@ -1,24 +1,16 @@
 # Article 1649 quater B bis
 
-Toute déclaration d'une entreprise destinée à l'administration peut être faite par voie électronique, dans les conditions
-fixées par voie contractuelle.
+Les déclarations d'une entreprise destinées à l'administration et souscrites par voie électronique, à titre obligatoire ou
+facultatif, sont transmises selon des conditions fixées par décret.
 
-Ce contrat précise notamment, pour chaque formalité, les règles relatives à l'identification de l'auteur de l'acte, à
-l'intégrité, à la lisibilité et à la fiabilité de la transmission, à sa date et à son heure, à l'assurance de sa réception
-ainsi qu'à sa conservation.
-
-La réception d'un message transmis conformément aux dispositions du présent article tient lieu de la production d'une
-déclaration écrite ayant le même objet.
+Les déclarations souscrites par voie électronique par un prestataire habilité par l'administration dans les conditions fixées
+par décret sont réputées faites au nom et pour le compte de l'entreprise identifiée dans la déclaration.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°94-126 du 11 février 1994 - art. 4-1 (V) JORF 13 février 1994
-
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°94-899 du 17 octobre 1994
 
 _Cité par_:
 
@@ -31,7 +23,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I ter (V)
   - Code rural - art. D731-18 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 2 septembre 1994
-  - TXT_ASSOCIE: Instruction 2001-09-11 13K-11-01
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 83
