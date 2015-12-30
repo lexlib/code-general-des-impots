@@ -1,6 +1,6 @@
 # Article 1609 quatervicies B
 
-Les chefs d'entreprise exerçant une activité artisanale ayant opté pour le régime prévu à l'article L. 133-6-8 du code de la
+Les chefs d'entreprise exerçant une activité artisanale bénéficiant du régime prévu à l'article L. 133-6-8 du code de la
 sécurité sociale consacrent chaque année au financement de leurs actions de formation, au sens des articles L. 6313-1 à L.
 6313-11 et L. 6353-1 du code du travail, une contribution fixée à 0,3 % du montant annuel de leur chiffre d'affaires. 
 
@@ -26,11 +26,11 @@ organismes chargés du recouvrement de la contribution.
 
 _Cite_:
 
-  - Ordonnance n°2003-1213 du 18 décembre 2003 (V)
-  - Code du travail - art. L6313-1 (V)
-  - Code de la sécurité sociale. - art. L133-6-8 (V)
-  - Code de la sécurité sociale. - art. L213-1 (V)
-  - Code de la sécurité sociale. - art. L752-4 (V)
+  - Ordonnance n°2003-1213 du 18 décembre 2003
+  - Code du travail - art. L6313-1
+  - Code de la sécurité sociale. - art. L133-6-8
+  - Code de la sécurité sociale. - art. L213-1
+  - Code de la sécurité sociale. - art. L752-4
 
 _Cité par_:
 
@@ -42,10 +42,14 @@ _Cité par_:
   - Arrêté du 17 mars 2008 - art. 3 (VT)
   - Arrêté du 17 mars 2008 - art. 4 (VD)
   - Arrêté du 17 mars 2008 - art. 5 (VT)
-  - Code du travail - art. L6331-54 (V)
+  - Code du travail - art. L6331-54 (VT)
   - Code du travail - art. R6331-60 (V)
   - Code du travail - art. R6331-63-6 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 137 (V)
+  - Loi n°2014-626 du 18 juin 2014 - art. 24
+
+_Abrogé par_:
+
+  - Loi n°2016-1088 du 8 août 2016 - art. 41 (M)
