@@ -1,8 +1,8 @@
 # Article 244 bis A
 
-I.-1. Sous réserve des conventions internationales, les plus-values, telles que définies aux e bis et e ter du I de l'article
-164 B, réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou droits mentionnés au 3
-sont soumises à un prélèvement selon les taux fixés au III bis. 
+I. – 1. Sous réserve des conventions internationales, les plus-values, telles que définies aux e bis et e ter du I de
+l'article 164 B, réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou droits
+mentionnés au 3 sont soumises à un prélèvement selon les taux fixés au III bis. 
 
 Cette disposition n'est pas applicable aux cessions d'immeubles réalisées par des personnes physiques ou morales ou des
 organismes mentionnés au premier alinéa, qui exploitent en France une entreprise industrielle, commerciale ou agricole ou y
@@ -60,7 +60,7 @@ cession, principalement constitué directement ou indirectement de biens ou droi
 parts, actions ou droits sont cédés n'a pas encore clos son troisième exercice, la composition de l'actif est appréciée à la
 clôture du ou des seuls exercices clos ou, à défaut, à la date de la cession. 
 
-II.-Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values
+II. – Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values
 sont déterminées selon les modalités définies : 
 
 1° Au I et aux 2° à 9° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ; 
@@ -73,10 +73,11 @@ Lorsque la plus-value est exonérée en application du 6° du II de l'article 15
 au I de l'article 150 VC, aucune déclaration ne doit être déposée, sauf dans le cas où le prélèvement afférent à la plus-
 value en report est dû ; 
 
-3° A l'article 150 UC lorsque les plus-values sont réalisées, directement ou indirectement, par un fonds de placement
-immobilier ou par ses porteurs de parts assujettis à l'impôt sur le revenu. 
+3° A l'article 150 UC, au 6 ter de l'article 39 duodecies ou au f du 1° du II de l'article 239 nonies lorsque les plus-values
+sont réalisées, directement ou indirectement, par un fonds de placement immobilier ou par ses porteurs de parts assujettis à
+l'impôt sur le revenu. 
 
-III.-Lorsque le prélèvement mentionné au I est dû par une personne morale assujettie à l'impôt sur les sociétés, les plus-
+III. – Lorsque le prélèvement mentionné au I est dû par une personne morale assujettie à l'impôt sur les sociétés, les plus-
 values sont déterminées par différence entre, d'une part, le prix de cession du bien et, d'autre part, son prix
 d'acquisition, diminué pour les immeubles bâtis d'une somme égale à 2 % de son montant par année entière de détention. 
 
@@ -87,17 +88,17 @@ coopératif au sens de l'article 238-0 A est déterminé selon les règles d'ass
 les sociétés dans les mêmes conditions que celles applicables à la date de la cession aux personnes morales résidentes de
 France. 
 
-III bis. - 1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou
-droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux fixé au deuxième alinéa du I de l'article 219.
+III bis.-1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou
+droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux fixé au deuxième alinéa du I de l'article 219. 
 
 Toutefois, les personnes physiques, les associés personnes physiques de sociétés, groupements ou organismes dont les
 bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement immobilier
-mentionnés à l'article 239 nonies sont soumis au prélèvement au taux de 19 %.
+mentionnés à l'article 239 nonies sont soumis au prélèvement au taux de 19 %. 
 
 2. [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-708 DC du 29
-décembre 2014].
+décembre 2014]. 
 
-IV.-L'impôt dû en application du présent article est acquitté lors de l'enregistrement de l'acte ou, à défaut
+IV. – L'impôt dû en application du présent article est acquitté lors de l'enregistrement de l'acte ou, à défaut
 d'enregistrement, dans le mois suivant la cession, sous la responsabilité d'un représentant désigné comme en matière de taxes
 sur le chiffre d'affaires. 
 
@@ -118,9 +119,10 @@ avec la France une convention d'assistance administrative en vue de lutter contr
 qu'une convention d'assistance mutuelle en matière de recouvrement de l'impôt. Lorsque le cédant est une société ou un
 groupement mentionnés au c du 2 du I, ou une société ou un groupement dont le régime fiscal est équivalent et dont le siège
 social est situé dans un des Etats mentionnés à la première phrase du présent alinéa, l'obligation de désigner un
-représentant fiscal s'apprécie au regard de la situation de chacun des associés.
+représentant fiscal s'apprécie au regard de la situation de chacun des associés. 
 
-V.-Le prélèvement mentionné au I est libératoire de l'impôt sur le revenu dû en raison des sommes qui ont supporté celui-ci. 
+V. – Le prélèvement mentionné au I est libératoire de l'impôt sur le revenu dû en raison des sommes qui ont supporté celui-
+ci. 
 
 Il s'impute, le cas échéant, sur le montant de l'impôt sur les sociétés dû par le contribuable à raison de cette plus-value
 au titre de l'année de sa réalisation. S'il excède l'impôt dû, l'excédent est restitué aux personnes morales résidentes d'un
@@ -130,8 +132,8 @@ et n'étant pas non coopératif au sens de l'article 238-0 A.
 
 **Nota:**
 
-Loi n° 2014-1655 du 29 décembre 2014 de finances rectificative article 62 II C : ces dispositions s'appliquent aux plus-
-values réalisées au titre des cessions intervenues à compter du 1er janvier 2015.
+Loi n° 2015-1786 du 29 décembre 2016, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des
+revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -142,7 +144,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L136-7 (V)
   - Code général des impôts, CGI. - art. 13 (VD)
   - Code général des impôts, CGI. - art. 150 VF (V)
-  - Code général des impôts, CGI. - art. 1529 (V)
+  - Code général des impôts, CGI. - art. 1529 (VD)
   - Code général des impôts, CGI. - art. 1531 (T)
   - Code général des impôts, CGI. - art. 1605 nonies (VD)
   - Code général des impôts, CGI. - art. 1609 nonies F (Ab)
@@ -158,19 +160,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 60
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 62
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 28
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 131 sexies
   - Code général des impôts, CGI. - art. 150 U
   - Code général des impôts, CGI. - art. 150 UB
-  - Code général des impôts, CGI. - art. 150 UC
+  - Code général des impôts, CGI. - art. 150 UC (V)
   - Code général des impôts, CGI. - art. 150 V
   - Code général des impôts, CGI. - art. 150 VC
-  - Code général des impôts, CGI. - art. 164 B
+  - Code général des impôts, CGI. - art. 164 B (V)
   - Code général des impôts, CGI. - art. 208
   - Code général des impôts, CGI. - art. 208 C
+  - Code général des impôts, CGI. - art. 219 (VT)
+  - Code général des impôts, CGI. - art. 238-0 A (V)
   - Code général des impôts, CGI. - art. 4 B
+  - Code général des impôts, CGI. - art. 8 (V)
   - Code monétaire et financier - art. L214-82

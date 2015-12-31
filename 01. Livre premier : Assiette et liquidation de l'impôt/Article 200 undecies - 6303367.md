@@ -17,6 +17,11 @@ quatorze jours de remplacement pour congé. Pour ce calcul, le coût d'une journ
 fois le taux horaire du minimum garanti mentionné à l'article L. 3231-12 du code du travail. Le crédit d'impôt est accordé au
 titre de l'année au cours de laquelle les dépenses ont été engagées. 
 
+Lorsque l'activité dont les revenus sont imposés dans la catégorie des bénéfices agricoles est exercée dans un groupement
+agricole d'exploitation en commun, le plafond du crédit d'impôt est multiplié par le nombre d'associés que compte le
+groupement, dans la limite de quatre. Le plafond du crédit d'impôt dont bénéficie un associé de groupement agricole
+d'exploitation en commun ne peut toutefois pas excéder le plafond du crédit d'impôt bénéficiant à un exploitant individuel. 
+
 III. - Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux
 articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt
 dû, l'excédent est restitué.
@@ -30,7 +35,9 @@ l'agriculture.
 
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 70
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 37 (V)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 39
 
 _Cité par_:
 

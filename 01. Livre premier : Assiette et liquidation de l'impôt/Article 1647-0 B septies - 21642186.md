@@ -1,80 +1,141 @@
 # Article 1647-0 B septies
 
-I. ― A compter de l'année 2013, une fraction du montant du dégrèvement de la contribution économique territoriale en fonction
-de la valeur ajoutée prévu à l'article 1647 B sexies est mise à la charge des communes et des établissements publics de
-coopération intercommunale à fiscalité propre. Cette participation est calculée la deuxième année suivant celle au titre de
-laquelle le dégrèvement est accordé. 
+I. – Une fraction des dégrèvements accordés en application de l'article 1647 B sexies est mise à la charge des communes et
+des établissements publics de coopération intercommunale à fiscalité propre. 
 
-II. ― La participation globale à répartir entre les communes et établissements publics de coopération intercommunale à
-fiscalité propre est égale à la différence entre : 
+II. – Pour l'application du I du présent article : 
 
-a) D'une part, le montant total du dégrèvement accordé aux entreprises qui ont bénéficié de ce même dégrèvement l'année
-précédente ; 
+A. – La participation due au titre d'une année par chaque commune et établissement public de coopération intercommunale à
+fiscalité propre est égale à la somme des participations calculées pour chacun des établissements situés sur son territoire
+relevant d'une entreprise non soumise à la cotisation minimale sur la valeur ajoutée des entreprises prévue à l'article 1586
+septies et bénéficiaire d'un dégrèvement mentionné au I du présent article à raison d'une imposition établie au cours de la
+même année ; 
 
-b) D'autre part, le montant total du dégrèvement accordé, au titre de l'année 2010, aux entreprises qui ont bénéficié au
-titre de l'année 2009 du dégrèvement prévu par l'article 1647 B sexies dans sa rédaction en vigueur au 31 décembre 2009. 
+B. – Pour chaque établissement, la participation mentionnée au A du présent II est égale à la participation individuelle
+brute définie au 1 du présent B, minorée dans les conditions prévues aux 2 et 3.
 
-III. ― La participation globale des communes et établissements publics de coopération intercommunale est répartie entre les
-établissements publics de coopération intercommunale soumis à l'article 1609 nonies C et les communes qui ne sont pas membres
-d'un tel établissement au prorata du produit : 
+1. La participation individuelle brute est égale au produit de la base nette de cotisation foncière des entreprises de
+l'établissement par l'écart de taux défini au III. 
 
-a) Des bases de cotisation foncière des entreprises bénéficiaires du dégrèvement pour la deuxième année consécutive ; 
+2. Le cas échéant, la participation individuelle brute est minorée d'un montant égal au produit de la somme des réductions et
+dégrèvements dont a fait l'objet la cotisation foncière des entreprises revenant à la commune ou à l'établissement public de
+coopération intercommunale, à l'exception du crédit d'impôt prévu à l'article 1647 C septies, par le rapport entre l'écart de
+taux défini au III du présent article et la somme des taux d'imposition appliqués aux bases de l'établissement. 
 
-b) Par l'écart de taux de cotisation foncière des entreprises défini au IV. 
+Pour l'application du premier alinéa du présent 2, le dégrèvement prévu à l'article 1647 bis est pris en compte au prorata
+des cotisations dues au titre de chaque établissement de l'entreprise. 
 
-IV. ― Pour chaque commune ou établissement public de coopération intercommunale mentionné au III, l'écart de taux est égal à
+3. La participation individuelle minorée est corrigée par un coefficient égal au rapport entre le montant du dégrèvement
+demandé au cours de l'année suivante et accordé au contribuable et la somme des participations individuelles minorées
+afférentes aux établissements de l'entreprise concernée. Cette correction n'est pas applicable lorsque le coefficient est
+supérieur à 1. 
+
+III. – A. – 1. Pour chaque commune isolée, l'écart de taux mentionné au 1 du B du II est égal à la différence positive
+entre : 
+
+a) D'une part, le taux communal de cotisation foncière des entreprises appliqué l'année d'imposition considérée ; 
+
+b) D'autre part, la somme des taux moyens communal et intercommunal de référence appliqués conformément au I de l'article
+1640 C, pondérés par l'importance relative des bases de cotisation foncière des entreprises imposées au titre de 2010 sur le
+territoire de cette commune. 
+
+2. Pour chaque commune membre d'un établissement public de coopération intercommunale à fiscalité additionnelle qui, en 2010,
+était déjà membre d'un tel établissement, l'écart de taux mentionné au 1 du B du II du présent article est égal à la
+différence positive entre : 
+
+a) D'une part, le taux communal de cotisation foncière des entreprises appliqué l'année d'imposition considérée ; 
+
+b) D'autre part, le taux communal de cotisation foncière des entreprises de référence appliqué conformément au I de l'article
+1640 C. 
+
+3. Pour chaque commune membre d'un établissement public de coopération intercommunale à fiscalité additionnelle qui, en 2010,
+n'était pas membre d'un tel établissement, l'écart de taux mentionné au 1 du B du II du présent article est égal à la
+différence positive entre : 
+
+a) D'une part, le taux communal de cotisation foncière des entreprises appliqué l'année d'imposition considérée ; 
+
+b) D'autre part, la somme des taux moyens communal ou intercommunal de cotisation foncière des entreprises de référence
+appliqués conformément au I de l'article 1640 C, pondérés par l'importance relative des bases de cotisation foncière des
+entreprises imposées au titre de 2010, minorée du taux intercommunal appliqué l'année au cours de laquelle le rattachement à
+l'établissement public de coopération intercommunale à fiscalité additionnelle a pris effet. 
+
+B. – 1. Pour chaque établissement public de coopération intercommunale à fiscalité propre dont le périmètre et le régime
+fiscal n'ont pas été modifiés depuis 2010, l'écart de taux mentionné au 1 du B du II est égal à la différence positive
+entre : 
+
+a) D'une part, le taux intercommunal de cotisation foncière des entreprises appliqué l'année d'imposition considérée ; 
+
+b) D'autre part, le taux intercommunal de cotisation foncière des entreprises de référence appliqué conformément au I de
+l'article 1640 C. 
+
+2. Pour chaque établissement public de coopération intercommunale à fiscalité professionnelle unique dont le périmètre ou le
+régime fiscal a été modifié depuis 2010, l'écart de taux mentionné au 1 du B du II est égal à la différence positive entre : 
+
+a) D'une part, le taux intercommunal de cotisation foncière des entreprises appliqué l'année d'imposition considérée ; 
+
+b) D'autre part, la somme des taux moyens communal et intercommunal de cotisation foncière des entreprises de référence
+appliqués conformément au I de l'article 1640 C, pondérés par l'importance relative des bases de cotisation foncière des
+entreprises imposées au titre de 2010 sur le territoire de cet établissement. 
+
+3. Pour chaque établissement public de coopération intercommunale à fiscalité additionnelle issu d'une création ou d'une
+fusion d'établissements publics de coopération intercommunale à fiscalité propre ayant pris effet à compter du 1er janvier
+2011 ou dont le périmètre a été modifié à compter du 1er janvier 2011, l'écart de taux mentionné au 1 du B du II est égal à
 la différence positive entre : 
 
-a) D'une part la moyenne, sur le territoire de cet établissement ou de cette commune, de la somme des taux communal et
-intercommunal de cotisation foncière des entreprises applicables la deuxième année précédant celle pour laquelle la
-répartition est calculée, ainsi que du taux additionnel résultant, le cas échéant, de l'application pour cette même année du
-premier alinéa de l'article 1609 quater, pondérée par les bases communales de cotisation foncière des entreprises ; 
+a) D'une part, le taux intercommunal de cotisation foncière des entreprises appliqué l'année d'imposition considérée, majoré
+du taux moyen communal de cotisation foncière des entreprises appliqué l'année où la création, la fusion ou la modification
+du périmètre a pris fiscalement effet, pondéré par les bases de cotisation foncière des entreprises imposées au titre de
+cette dernière année sur le territoire de cet établissement ; 
 
-b) D'autre part la moyenne, sur ce même territoire, de la somme des taux communal et intercommunal de référence déterminés
-conformément au I de l'article 1640 C, ainsi que du taux additionnel résultant, le cas échéant, de l'application pour cette
-même année du premier alinéa de l'article 1609 quater, pondérée par les bases de cotisation foncière des entreprises imposées
-au titre de 2010. 
+b) D'autre part, la somme des taux moyens communal et intercommunal de cotisation foncière des entreprises de référence
+appliqués conformément au I de l'article 1640 C, pondérés par l'importance relative des bases de cotisation foncière des
+entreprises imposées au titre de 2010 sur le territoire de cet établissement. 
 
-V. ― Pour chaque commune ou établissement public de coopération intercommunale mentionné au III, si la différence entre : 
+4. Pour les établissements publics de coopération intercommunale à fiscalité additionnelle faisant application des I ou II de
+l'article 1609 quinquies C, les règles prévues aux 1 et 2 du présent B sont applicables pour la détermination de la
+participation individuelle brute afférente aux établissements situés dans la zone d'activités économiques ou aux
+installations de production d'électricité utilisant l'énergie mécanique du vent. 
 
-a) D'une part, 1,5 % de l'assiette de la cotisation sur la valeur ajoutée des entreprises imposée au titre de l'année 2010 et
-afférente au territoire de cette commune ou de cet établissement public, déterminée conformément au III de l'article 1586
-octies ; 
+C. – Pour l'application des A et B : 
 
-b) Et d'autre part, 1,5 % de l'assiette de la cotisation sur la valeur ajoutée des entreprises afférente au territoire de
-cette même commune ou de ce même établissement public, déterminée conformément aux mêmes dispositions ; 
+1° Les taux communaux et intercommunaux sont, le cas échéant, majorés des taux additionnels appliqués, conformément au
+premier alinéa de l'article 1609 quater, au profit des syndicats dont la commune ou l'établissement public de coopération
+intercommunale à fiscalité propre concerné est membre ; 
 
-Est positive, la participation mise à la charge de cette commune ou de cet établissement public est réduite d'un montant égal
-à cette différence multipliée par le rapport entre : 
+2° A Mayotte, la référence à l'année 2010 est remplacée par la référence à l'année 2014 et la référence aux taux appliqués
+conformément au I de l'article 1640 C est remplacée par la référence aux taux appliqués en 2014. 
 
-a) D'une part, les bases de la cotisation foncière des entreprises mentionnées au a du III ; 
+IV. – A. – La participation mise à la charge de la commune ou de l'établissement public de coopération intercommunale à
+fiscalité propre au titre d'une année ne peut excéder le produit des bases prévisionnelles de cotisation foncière des
+entreprises notifiées à la commune ou à l'établissement public de coopération intercommunale et afférentes à des entreprises
+autres que celles soumises à la cotisation minimale sur la valeur ajoutée des entreprises prévue à l'article 1586 septies
+ayant bénéficié, au cours de l'avant-dernière année précédant celle de l'imposition, d'un dégrèvement en application de
+l'article 1647 B sexies par l'écart de taux défini au III du présent article. 
 
-b) D'autre part, les bases de cotisation foncière des entreprises imposées au profit de cette commune ou de cet établissement
-public. 
+B. – Le montant de la participation résultant du A du présent IV vient en diminution des douzièmes, prévus à l'article L.
+2332-2 du code général des collectivités territoriales et au II de l'article 46 de la loi n° 2005-1719 du 30 décembre 2005 de
+finances pour 2006, versés à la collectivité concernée l'année suivant celle au titre de laquelle la participation est due. 
 
-VI. ― La participation de chaque commune ou établissement public de coopération intercommunale à fiscalité propre vient en
-diminution de ses attributions mensuelles des taxes et impositions perçues par voie de rôle. Toutefois, si elle est
-inférieure à 50 €, elle n'est pas mise à la charge de cette commune ou de cet établissement. 
+Toutefois, ce montant n'est pas mis à la charge des communes et de leurs établissements publics de coopération intercommunale
+s'il n'excède pas 50 €. 
 
-VII. ― L'établissement public de coopération intercommunale à fiscalité propre autre que ceux visés au premier alinéa du IV
-verse à chacune de ses communes membres une attribution de compensation égale au produit de la participation acquittée par
-cette commune par le rapport entre les produits intercommunaux et communaux de cotisation foncière des entreprises de l'année
-précédant celle pour laquelle la participation est calculée et afférents au territoire de cette même commune. 
-
-La commune et l'établissement public de coopération intercommunale peuvent, par délibérations concordantes, diminuer le
-montant de cette attribution de compensation ou supprimer celle-ci. 
-
-Ces attributions de compensation constituent une dépense obligatoire pour l'établissement public de coopération
-intercommunale. Le conseil de l'établissement public de coopération intercommunale communique aux communes membres, avant le
-15 février de chaque année, le montant prévisionnel de cette attribution. 
-
-VIII. ― Les modalités d'application du présent article sont fixées par décret.
+C. – Lorsque le montant mis à la charge de la commune ou de l'établissement public de coopération intercommunale selon les
+modalités définies au B excède la participation due au titre de l'année, la différence fait l'objet d'un reversement au
+profit de la commune ou de l'établissement public de coopération intercommunale concerné avant le 31 décembre de la deuxième
+année suivant celle au titre de laquelle la participation est due.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (VT)
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 46
+  - Code général des impôts, CGI. - art. 1586 septies
+  - Code général des impôts, CGI. - art. 1609 quinquies C
+  - Code général des impôts, CGI. - art. 1640 C
+  - Code général des impôts, CGI. - art. 1647 B sexies
+  - Code général des impôts, CGI. - art. 1647 C septies
+  - Code général des impôts, CGI. - art. 1647 bis
+  - Code général des collectivités territoriales - art. L2332-2
 
 _Cité par_:
 
@@ -85,8 +146,10 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 sexdecies (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 vicies (P)
 
-_Cite_:
+_Modifié par_:
 
-  - Code général des impôts, CGI. - art. 1609 quater (V)
-  - Code général des impôts, CGI. - art. 1640 C (V)
-  - Code général des impôts, CGI. - art. 1647 B sexies (V)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 52 (V)
+
+_Abrogé par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 32 (V)
