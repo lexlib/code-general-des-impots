@@ -1,12 +1,18 @@
 # Article 1649 quater H
 
-Les associations mentionnées à l'article 1649 quater F s'assurent de la régularité des déclarations de résultats et des
-déclarations de taxes sur le chiffre d'affaires que leur soumettent leurs adhérents.A cet effet, elles leur demandent tous
-renseignements utiles de nature à établir la concordance, la cohérence et la vraisemblance entre :
+Les associations mentionnées à l'article 1649 quater F s'assurent de la régularité des déclarations de résultats, de taxes
+sur le chiffre d'affaires, de cotisation sur la valeur ajoutée des entreprises et, le cas échéant, de revenus encaissés à
+l'étranger que leur soumettent leurs adhérents. A cet effet, elles leur demandent tous renseignements et documents utiles de
+nature à établir, chaque année, la concordance, la cohérence et la vraisemblance entre : 
 
-1° les résultats fiscaux et la comptabilité établie conformément aux plans comptables visés à l'article 1649 quater G ;
+1° les résultats fiscaux et la comptabilité établie conformément aux plans comptables visés à l'article 1649 quater G ; 
 
-2° les déclarations de résultats et les déclarations de taxes sur le chiffre d'affaires. 
+2° Les déclarations de résultats, les déclarations de taxes sur le chiffre d'affaires, les déclarations de cotisation sur la
+valeur ajoutée des entreprises et, le cas échéant, les déclarations de revenus encaissés à l'étranger. 
+
+Elles leur demandent également tous renseignements et documents utiles afin de réaliser un examen périodique de sincérité
+selon des modalités définies par décret en Conseil d'Etat. Cet examen ne constitue pas le début d'une des procédures
+mentionnées aux articles L. 12 et L. 13 du livre des procédures fiscales. 
 
 Elles sont habilitées à élaborer pour le compte de leurs adhérents, placés sous un régime réel d'imposition, les déclarations
 destinées à l'administration fiscale. 
@@ -15,8 +21,9 @@ Les modalités d'assistance et de contrôle des associations agréées par l'adm
 convention visée à l'article 371 O de l'annexe II. 
 
 Les associations ont l'obligation de procéder aux contrôles de concordance, cohérence et vraisemblance des déclarations de
-résultats et de taxes sur le chiffre d'affaires de leurs adhérents dans les six mois à partir de la date de réception des
-déclarations des résultats par l'association. 
+résultats, de taxes sur le chiffre d'affaires, de cotisation sur la valeur ajoutée des entreprises et, le cas échéant, de
+revenus encaissés à l'étranger de leurs adhérents dans les six mois à partir de la date de réception des déclarations des
+résultats par l'association, délai porté à neuf mois pour les adhérents faisant l'objet d'un examen de sincérité. 
 
 Les associations sont tenues d'adresser à leur adhérent un compte rendu de mission dans les deux mois qui suivent la fin des
 opérations de contrôle. Dans le même délai, une copie de ce compte rendu est transmise, par l'association, au service des
@@ -33,10 +40,6 @@ arrêté ministériel.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
-
 _Cité par_:
 
   - Arrêté du 25 novembre 2010 - art. (Ab)
@@ -51,7 +54,12 @@ _Cité par_:
   - Livre des procédures fiscales - art. L169 (VD)
   - Livre des procédures fiscales - art. L176 (VD)
 
+_Modifié par_:
+
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 37
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1649 quater F
+  - Code général des impôts, CGI. - art. 1649 quater F (V)
   - Code général des impôts, CGI. - art. 1649 quater G
+  - Livre des procédures fiscales - art. L12 (V)

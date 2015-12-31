@@ -1,6 +1,6 @@
 # Article 235 ter D
 
-Conformément aux dispositions de l'article L. 6331-9 du code du travail, les employeurs d'au moins dix salariés versent aux
+Conformément aux dispositions de l'article L. 6331-9 du code du travail, les employeurs d'au moins onze salariés versent aux
 organismes mentionnés au même article un pourcentage minimal du montant des rémunérations versées pendant l'année en cours
 s'élevant à 1 %, sous réserve des dispositions de l'article L. 6331-10 du même code.
 
@@ -12,7 +12,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2014-288 du 5 mars 2014 - art. 10 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 15 (V)
+
+_Abrogé par_:
+
+  - Loi n°2018-771 du 5 septembre 2018 - art. 37 (V)
 
 _Cité par_:
 
@@ -20,7 +24,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 235 ter DA (VT)
   - Code général des impôts, CGI. - art. 235 ter E (VT)
   - Code général des impôts, CGI. - art. 235 ter EB (VT)
-  - Code général des impôts, CGI. - art. 235 ter F (M)
+  - Code général des impôts, CGI. - art. 235 ter F (VT)
   - Code général des impôts, CGI. - art. 235 ter GA-0 bis (VT)
   - Code général des impôts, CGI. - art. 235 ter H ter (VT)
   - Code général des impôts, CGI. - art. 44 quaterdecies (V)

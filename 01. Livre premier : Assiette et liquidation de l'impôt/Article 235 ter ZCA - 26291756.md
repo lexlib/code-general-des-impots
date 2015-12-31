@@ -2,10 +2,10 @@
 
 I.-Les sociétés ou organismes français ou étrangers passibles de l'impôt sur les sociétés en France, à l'exclusion des
 organismes de placement collectif mentionnés au II de l'article L. 214-1 du code monétaire et financier ainsi que de ceux qui
-satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la
-Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
-articles 87 et 88 du traité (Règlement général d'exemption par catégorie), sont assujettis à une contribution additionnelle à
-cet impôt au titre des montants qu'ils distribuent au sens des articles 109 à 117 du présent code. 
+satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la
+Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des
+articles 107 et 108 du traité sont assujettis à une contribution additionnelle à cet impôt au titre des montants qu'ils
+distribuent au sens des articles 109 à 117 du présent code. 
 
 La contribution est égale à 3 % des montants distribués. Toutefois, elle n'est pas applicable : 
 
@@ -53,6 +53,17 @@ articles 109 à 117 sont considérées comme mises en paiement à la clôture de
 Conformément au II de l'article 71 de la loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, ces
 dispositions s'appliquent aux exercices clos à compter du 31 décembre 2014.
 
+Conformément à la décision n° 2016-571 QPC du 30 septembre 2016 (NOR: CSCX1627861S), article 1 : Les mots " entre sociétés du
+même groupe au sens de l'article 223 A " figurant au 1° du paragraphe I de l'article 235 ter ZCA du code général des impôts,
+dans sa rédaction résultant de la loi n° 2015-1786 du 29 décembre 2015, sont contraires à la Constitution. La déclaration
+d'inconstitutionnalité de l'article 1er prend effet dans les conditions prévues au paragraphe 12 de cette décision (1er
+janvier 2017).
+
+Conformément à la décision n° 2017-660 QPC du 6 octobre 2017 (NOR: CSCX1728052S), article 1 : Le premier alinéa du paragraphe
+I de l'article 235 ter ZCA du code général des impôts, dans sa rédaction résultant de la loi n° 2015-1786 du 29 décembre 2015
+de finances rectificative pour 2015, est contraire à la Constitution. La déclaration d'inconstitutionnalité de l'article 1er
+prend effet dans les conditions fixées au paragraphe 11 de cette décision. (8 octobre 2017).
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -76,5 +87,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-891 du 8 août 2014 - art. 20 (V)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 63
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
+  - Décision n°2016-571 QPC du 30 septembre 2016 - art. 1, v. init.
