@@ -2,7 +2,8 @@
 
 La taxe sur l'édition des ouvrages de librairie est due par les éditeurs en raison des ventes autres que les exportations et
 les livraisons, exonérées en vertu du I de l'article 262 ter ou les livraisons dans un lieu situé dans un autre Etat membre
-de la Communauté européenne en application de l'article 258 A, des ouvrages de librairie de toute nature qu'ils éditent. 
+de l'Union européenne en application de l'article 258 A, des ouvrages de librairie de toute nature, y compris  des livres
+numériques au sens de l'article 1er de la loi n° 2011-590 du 26 mai 2011 relative au prix unique du livre, qu'ils éditent. 
 
 En sont exonérés les éditeurs dont le chiffre d'affaires de l'année précédente pour cette branche d'activité n'a pas excédé,
 tous droits et taxes compris, 76300 €. 
@@ -14,22 +15,22 @@ conditions fixées à l'article 258 B.
 
 La taxe est perçue au taux de 0,20 %.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1609 decies B
 
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 105 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 96
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 258 A (V)
-  - Code général des impôts, CGI. - art. 258 B (V)
-  - Code général des impôts, CGI. - art. 262 ter (V)
-  - Code des douanes - art. 66 bis (V)
+  - Code général des impôts, CGI. - art. 258 A
+  - Code général des impôts, CGI. - art. 258 B
+  - Code général des impôts, CGI. - art. 262 ter
+  - Code des douanes - art. 66 bis
 
 _Cité par_:
 

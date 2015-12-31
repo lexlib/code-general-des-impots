@@ -26,11 +26,12 @@ résultat de l'exercice au cours duquel l'investissement est mis en service, le 
 dans les conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou de
 construction d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les fondations sont achevées.
 Si l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la somme déduite est
-rapportée au résultat imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. La déduction
-s'applique également aux investissements réalisés par une société soumise au régime d'imposition prévu à l'article 8, à
-l'exclusion des sociétés en participation, ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts
-sont détenues directement par des entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée
-par les associés ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
+rapportée au résultat imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. En cas de
+réhabilitation hôtelière, la déduction est accordée au titre de l'année d'achèvement des travaux. La déduction s'applique
+également aux investissements réalisés par une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion des
+sociétés en participation, ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues
+directement par des entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés
+ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
@@ -39,7 +40,7 @@ apportés par les sociétés de financement définies au g du 2 de l'article 199
 
 La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de
 tourisme et de village de vacances classés, lorsque ces travaux constituent des éléments de l'actif immobilisé. La déduction
-ne s'applique pas à l'acquisition de véhicules soumis à la taxe définie à l'article 1010 qui ne sont pas strictement
+ne s'applique pas à l'acquisition de véhicules définis au premier alinéa du I de l'article 1010 qui ne sont pas strictement
 indispensables à l'activité de l'exploitant. 
 
 La déduction prévue au premier alinéa s'applique à la réalisation d'investissements affectés plus de cinq ans par le
@@ -60,7 +61,7 @@ La déduction prévue au premier alinéa s'applique aux acquisitions ou construc
 dans les départements d'outre-mer si les conditions suivantes sont réunies : 
 
 1° L'entreprise s'engage à louer l'immeuble nu dans les six mois de son achèvement, ou de son acquisition si elle est
-postérieure, et pendant six ans au moins à des personnes qui en font leur résidence principale ; 
+postérieure, et pendant cinq ans (1) au moins à des personnes qui en font leur résidence principale ; 
 
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret. 
 
@@ -291,9 +292,17 @@ de la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le dévelo
 des investissements et des souscriptions pour l'agrément desquels une demande est parvenue à l'administration avant cette
 date. 
 
-Les dispositions du présent article sont applicables aux seuls investissements neufs et travaux de rénovation et de
-réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés réalisés ou aux souscriptions versées
-jusqu'au 31 décembre 2017. 
+Le présent article est applicable aux investissements neufs mis en service jusqu'au 31 décembre 2020, aux travaux de
+rénovation et de réhabilitation d'hôtels, de résidences de tourisme et de villages de vacances classés achevés au plus tard à
+cette date, aux acquisitions d'immeubles à construire et aux constructions d'immeubles dont les fondations sont achevées au
+plus tard à cette date et aux souscriptions versées jusqu'au 31 décembre 2020. 
+
+L'extinction de la déduction d'impôt aux dates d'échéance prévues au deuxième alinéa du présent V est conditionnée par la
+mise en place d'un mécanisme pérenne de préfinancement à taux zéro des investissements productifs neufs mentionnés au présent
+article en complément du maintien du dispositif de crédit d'impôt prévu à l'article 244 quater W ou, à défaut, par la
+création d'un dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs
+investissements productifs mentionnés au présent article sans recourir à un emprunt bancaire et à un prix de revient diminué
+d'un taux d'abattement équivalent aux taux prévus au III du même article 244 quater W.
 
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités de leur application et notamment les obligations
 déclaratives.
@@ -304,11 +313,8 @@ entreprises en difficulté, au sens du même règlement.
 
 **Nota:**
 
-Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
-dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
-1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
-à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
-rédaction résultant du II du présent article .
+(1) Conformément à l'article 110 III C de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
+aux investissements réalisés au titre des exercices ouverts à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -391,5 +397,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 67
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)

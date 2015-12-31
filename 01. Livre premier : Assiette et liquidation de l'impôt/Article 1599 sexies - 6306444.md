@@ -1,45 +1,22 @@
 # Article 1599 sexies
 
-Le conseil régional a la faculté d'instituer une taxe additionnelle à la taxe de publicité foncière ou au droit
-d'enregistrement portant sur les mutations d'immeubles et de droits immobiliers mentionnés au 1° de l'article 1595.
+Il est perçu au profit de la région d'Ile-de-France une taxe additionnelle aux droits d'enregistrement ou à la taxe de
+publicité foncière exigibles sur les mutations à titre onéreux, autres que celles mentionnées au A de l'article 1594 F
+quinquies, de locaux à usage de bureaux, de locaux commerciaux et de locaux de stockage mentionnés à l'article L. 520-1 du
+code de l'urbanisme. 
 
-Cette taxe s'ajoute au droit départemental d'enregistrement ou à la taxe départementale de publicité foncière mentionnés aux
-articles 1594 A, sauf lorsque la mutation est soumise au taux proportionnel de 0,60 p. 100, et 1594 F.
+Le taux de la taxe est fixé à 0,6 %. 
 
-Le taux de la taxe additionnelle est limité à 1,60 p. 100 de la valeur imposable.
-
-Le conseil régional peut, sur délibération, exonérer de la taxe additionnelle prévue au premier alinéa les acquisitions
-d'immeubles ruraux situés sur le territoire de la région qui sont assujetties à la taxe départementale de publicité foncière
-ou au droit départemental d'enregistrement au taux de 0,60 p. 100 prévu à l'article 1594 F.
-
-La délibération prend effet dans les délais et conditions prévus à l'article 1594 E.
-
-**Nota:**
-
-NOTA : Toutefois, l'abrogation de cet article prend effet dès le 1er septembre 1998 en ce qui concerne les mutations à titre
-onéreux d'immeubles ou de fractions d'immeubles mentionnées aux articles 710 et 711, qui sont constatées par acte authentique
-signé à compter de cette date.
+Cette taxe est assise, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
+privilèges que les droits et taxes auxquels elle s'ajoute.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1595, 1594 A, 1594 F, 1594 E
-
-_Anciens textes_:
-
-  - CGI 1635 bis E
-
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995
-  - HISTO: Edition du 31 mars 1999
-  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 39 I 5
-
 _Modifié par_:
 
-  - Loi n°95-95 du 1 février 1995 - art. 38 (V) JORF 2 février 1995
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 50 (V)
 
-_Abrogé par_:
+_Cite_:
 
-  - Loi n°98-1266 1998-12-30 art. 39 I 4 JORF 31 décembre 1998
+  - Code général des impôts, CGI. - art. 1594 F quinquies (VT)
+  - Code de l'urbanisme - art. L520-1 (V)
