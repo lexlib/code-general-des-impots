@@ -1,39 +1,27 @@
 # Article 39 quinquies FB
 
-1. Les entreprises qui créent ou acquièrent des biens d'équipement, entre le 1er janvier 1983 et le 31 décembre 1985, peuvent
-pratiquer un amortissement exceptionnel. Cet amortissement est calculé en appliquant à la première annuité d'amortissement
-dégressif de ces biens, déterminée avant la réduction prévue au 1° de l'article 23 de l'annexe II au code général des impôts,
-un taux égal à 40 % pour les biens d'une durée normale d'utilisation inférieure ou égale à neuf ans et à 42 % pour une durée
-normale d'utilisation égale à dix ans. Ce taux est ensuite majoré de quatre points par année de durée normale d'utilisation
-des biens au-delà de dix ans.
+Les bâtiments affectés aux activités d'élevage et les matériels et installations destinés au stockage des effluents d'élevage
+construits, acquis ou fabriqués à compter du 1er janvier 2016 et jusqu'au 31 décembre 2017 peuvent faire l'objet d'un
+amortissement exceptionnel égal à 40 % de leur prix de revient réparti linéairement sur cinq ans. Il en est de même des
+travaux de rénovation immobilisés des bâtiments affectés aux activités d'élevage réalisés sur la même période.
 
-Cet amortissement exceptionnel est pratiqué à la clôture de l'exercice au cours duquel l'investissement a été réalisé, au
-prorata du temps écoulé entre la date de cette réalisation et la clôture de l'exercice. Le solde est déduit à la clôture de
-l'exercice suivant.
+La première annuité de l'amortissement exceptionnel doit être pratiquée au plus tard au cours du troisième exercice suivant
+celui de la construction, l'acquisition ou la fabrication des biens.
 
-2. Les dispositions du 1 s'appliquent aux biens d'équipement visés à l'article 244 duodecies à l'exclusion de toute autre
-immobilisation et aux entreprises mentionnées aux articles 73 A et 244 terdecies.
+Au terme de la période d'application de l'amortissement exceptionnel, la valeur résiduelle des biens mentionnés au premier
+alinéa est amortie linéairement sur la durée normale d'utilisation résiduelle.
+
+Le bénéfice de l'amortissement exceptionnel est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission du 18
+décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides
+de minimis dans le secteur de l'agriculture.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 244 duodecies
-  - CGI 244 terdecies
-  - CGI 73 A
-  - CGIAN2 23 1°
+  - Décret n°84-875 1984-10-01
+  - Décret n°2001-435 du 21 mai 2001
 
 _Modifié par_:
 
-  - Loi n°83-1179 du 29 décembre 1983 - art. 78 (V) JORF 30 décembre 1983
-
-_Codifié par_:
-
-  - Décret n°2001-435 2001-05-21
-  - Décret n°84-875 1984-10-01
-
-**Liens**:
-
-  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 1 () JORF 23 mai 2001
-  - HISTO: Edition du 20 juillet 1984
-  - HISTO: Edition du 31 mars 2001
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 31

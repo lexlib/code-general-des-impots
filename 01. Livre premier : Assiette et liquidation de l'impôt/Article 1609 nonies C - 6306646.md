@@ -1,8 +1,8 @@
 # Article 1609 nonies C
 
-I.-Les établissements publics de coopération intercommunale mentionnés aux I et I bis de l'article 1379-0 bis sont substitués
-aux communes membres pour l'application des dispositions relatives à la cotisation foncière des entreprises et la cotisation
-sur la valeur ajoutée des entreprises et pour la perception du produit de ces taxes. 
+I. - Les établissements publics de coopération intercommunale mentionnés au I de l'article 1379-0 bis sont substitués aux
+communes membres pour l'application des dispositions relatives à la cotisation foncière des entreprises et la cotisation sur
+la valeur ajoutée des entreprises et pour la perception du produit de ces taxes. 
 
 I bis.-Ils sont également substitués aux communes membres pour la perception : 
 
@@ -41,9 +41,8 @@ intercommunale, le prélèvement sur les ressources calculé selon les condition
 de la loi n° 2009-1673 du 30 décembre 2009 précitée peut être mis à la charge de cet établissement public, à l'exclusion de
 la part calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1. 
 
-II.-Le conseil des établissements publics de coopération intercommunale mentionnés au I, à l'exclusion de l'établissement
-public de coopération intercommunale mentionné au I bis de l'article 1379-0 bis, vote les taux de la taxe d'habitation, de la
-taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties. 
+II. - Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux de la taxe
+d'habitation, de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties. 
 
 La première année d'application du présent article, ainsi que l'année qui suit celle au titre de laquelle l'établissement
 public de coopération intercommunale a voté un taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe
@@ -59,8 +58,8 @@ d'habitation et de taxes foncières votés par lui l'année précédente.
 Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que
 le taux de la taxe d'habitation jusqu'à la date de la prochaine révision. 
 
-III.-1° a) Le taux de la cotisation foncière des entreprises est voté par le conseil mentionné au II dans les limites fixées
-à l'article 1636 B decies. 
+III. - 1° a) Le taux de la cotisation foncière des entreprises est voté par le conseil mentionné au II dans les limites
+fixées à l'article 1636 B decies. 
 
 La première année d'application du présent article, le taux de cotisation foncière des entreprises voté par le conseil de
 l'établissement public de coopération intercommunale ne peut excéder le taux moyen de la cotisation foncière des entreprises
@@ -94,7 +93,11 @@ La délibération doit intervenir dans les conditions prévues à l'article 1639
 du I. 
 
 Cette délibération ne peut être modifiée ultérieurement, sauf en cas de retrait d'une ou plusieurs communes en application
-des articles L. 5211-41-1, L. 5215-40-1 et L. 5216-10 du code général des collectivités territoriales. 
+des articles L. 5211-41-1, L. 5215-40-1 et L. 5216-10 du code général des collectivités territoriales, du neuvième alinéa du
+III, du dernier alinéa du IV et du dixième alinéa du V de l'article 11 de la loi n° 2014-58 du 27 janvier 2014 de
+modernisation de l'action publique territoriale et d'affirmation des métropoles et du huitième alinéa du I et de l'avant-
+dernier alinéa des II et III de l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale
+de la République. 
 
 Pour l'application du présent c, la réduction des écarts de taux s'opère, chaque année, par parts égales ; dans le cas où le
 dispositif de réduction des écarts de taux est déjà en cours, l'écart est réduit chaque année, par parts égales en proportion
@@ -109,12 +112,9 @@ dispositif est applicable dans les mêmes conditions lorsque l'établissement pu
 application du II de l'article 1609 quinquies C. 
 
 2° En cas de rattachement d'une commune à un établissement public de coopération intercommunale faisant application du
-présent article, les I, II, II bis et VI de l'article 1638 quater sont applicables ; 
+présent article, les I, II, II bis et VI de l'article 1638 quater sont applicables.
 
-3° Le taux de la cotisation foncière des entreprises voté par le conseil de la métropole du Grand Paris mentionnée au I bis
-de l'article 1379-0 bis est fixé dans les limites fixées au VII de l'article 1636 B decies. 
-
-IV.-Il est créé entre l'établissement public de coopération intercommunale soumis aux dispositions fiscales du présent
+IV. - Il est créé entre l'établissement public de coopération intercommunale soumis aux dispositions fiscales du présent
 article, à l'exclusion de ceux mentionnés au 5° du I de l'article 1379-0 bis, et les communes membres une commission locale
 chargée d'évaluer les transferts de charges. Cette commission est créée par l'organe délibérant de l'établissement public qui
 en détermine la composition à la majorité des deux tiers. Elle est composée de membres des conseils municipaux des communes
@@ -147,7 +147,7 @@ la commission d'évaluation des transferts de charges doit rendre ses conclusion
 transférées à l'établissement public de coopération intercommunale et celui de la fiscalité ou des contributions des communes
 qui étaient perçues pour les financer. 
 
-V.-1° L'établissement public de coopération intercommunale verse à chaque commune membre une attribution de compensation.
+V. - 1° L'établissement public de coopération intercommunale verse à chaque commune membre une attribution de compensation.
 Elle ne peut être indexée. 
 
 Lorsque l'attribution de compensation est négative, l'établissement public de coopération intercommunale peut demander à la
@@ -167,7 +167,7 @@ les attributions de compensation ;
 
 1° bis Le montant de l'attribution de compensation et les conditions de sa révision peuvent être fixés librement par
 délibérations concordantes du conseil communautaire, statuant à la majorité des deux tiers, et des conseils municipaux des
-communes membres, en tenant compte du rapport de la commission locale d'évaluation des transferts de charges. 
+communes membres intéressées, en tenant compte du rapport de la commission locale d'évaluation des transferts de charges. 
 
 A défaut d'accord, le montant de l'attribution est fixé dans les conditions figurant aux 2°, 4° et 5° ; 
 
@@ -308,7 +308,7 @@ concernées disposent d'un potentiel financier par habitant supérieur de plus d
 moyen de l'ensemble des communes membres. Cette réduction de leurs attributions de compensation ne peut excéder 5 % du
 montant de celles-ci. 
 
-V bis.-1. Pour les établissements publics de coopération intercommunale qui faisaient application au 31 décembre 2010 du
+V bis. - 1. Pour les établissements publics de coopération intercommunale qui faisaient application au 31 décembre 2010 du
 présent article dans sa rédaction en vigueur à cette date, l'attribution de compensation versée chaque année aux communes qui
 en étaient membres à cette même date est égale à celle qui leur était versée en 2010, sans préjudice des dispositions prévues
 au V relatives à l'évolution de leur montant. 
@@ -318,17 +318,18 @@ au V relatives à l'évolution de leur montant.
 perçue en 2010 par la commune, conformément au II de l'article 1640 B, est substitué aux produits mentionnés au premier
 alinéa du 2° du V pour le calcul de l'attribution de compensation. 
 
-VI.-L'établissement public de coopération intercommunale, autre qu'une communauté urbaine, qu'une métropole, que la métropole
-de Lyon ou qu'un établissement public de coopération intercommunale mentionné au 5° du I de l'article 1379-0 bis, soumis aux
-dispositions du I peut instituer au bénéfice de ses communes membres et, le cas échéant, d'établissements publics de
-coopération intercommunale à fiscalité propre limitrophes une dotation de solidarité communautaire, dont le principe et les
-critères de répartition sont fixés par le conseil communautaire statuant à la majorité des deux tiers. Le montant de cette
-dotation est fixé librement par le conseil de l'établissement public de coopération intercommunale. Elle est répartie en
-tenant compte prioritairement de l'importance de la population et du potentiel fiscal ou financier par habitant, les autres
-critères étant fixés librement par le conseil. Lorsqu'une zone d'activités économiques d'intérêt départemental est située en
-tout ou partie sur le territoire de l'établissement public de coopération intercommunale, celui-ci peut étendre le versement
-de la dotation de solidarité communautaire aux établissements publics de coopération intercommunale à fiscalité propre
-constituant un ensemble sans discontinuité territoriale et limitrophe de son territoire. 
+VI. - L'établissement public de coopération intercommunale, autre qu'une communauté urbaine, qu'une métropole, que la
+métropole de Lyon ou qu'un établissement public de coopération intercommunale mentionné au 5° du I de l'article 1379-0 bis,
+soumis aux dispositions du I peut instituer au bénéfice de ses communes membres et, le cas échéant, d'établissements publics
+de coopération intercommunale à fiscalité propre limitrophes une dotation de solidarité communautaire, dont le principe et
+les critères de répartition sont fixés par le conseil communautaire statuant à la majorité des deux tiers des suffrages
+exprimés. Le montant de cette dotation est fixé librement par le conseil de l'établissement public de coopération
+intercommunale. Elle est répartie en tenant compte prioritairement de l'importance de la population et du potentiel fiscal ou
+financier par habitant, les autres critères étant fixés librement par le conseil. Lorsqu'une zone d'activités économiques
+d'intérêt départemental est située en tout ou partie sur le territoire de l'établissement public de coopération
+intercommunale, celui-ci peut étendre le versement de la dotation de solidarité communautaire aux établissements publics de
+coopération intercommunale à fiscalité propre constituant un ensemble sans discontinuité territoriale et limitrophe de son
+territoire. 
 
 Lorsqu'il s'agit d'une communauté urbaine, d'une métropole ou de la métropole de Lyon ou lorsque l'établissement public de
 coopération intercommunale est signataire d'un contrat de ville tel que défini à l'article 6 de la loi n° 2014-173 du 21
@@ -352,7 +353,7 @@ territoriale concernée est tenu d'instituer, au profit des communes concernées
 ville, une dotation de solidarité communautaire, dont le montant est au moins égal à 50 % de la différence entre les produits
 des impositions mentionnées au I et aux 1 et 2 du I bis du présent article au titre de l'année du versement de la dotation et
 le produit de ces mêmes impositions constaté l'année précédente. Cette dotation est répartie selon les critères de
-péréquation définis aux alinéas suivants, afin de réduire les disparités de ressources et de charges entre les communes. 
+péréquation définis aux alinéas suivants, afin de réduire les disparités de ressources et de charges entre les communes.
 
 Ces critères sont déterminés notamment en fonction : 
 
@@ -367,16 +368,16 @@ Des critères complémentaires peuvent être choisis par le conseil.
 La métropole du Grand Paris a la faculté d'instituer une dotation de solidarité communautaire au profit de ses communes
 membres, dans les conditions prévues à l'article L. 5219-11 du code général des collectivités territoriales. 
 
-VII.-Pour les communes membres d'un établissement public de coopération intercommunale soumis aux dispositions du présent
+VII. - Pour les communes membres d'un établissement public de coopération intercommunale soumis aux dispositions du présent
 article, à l'exclusion de ceux mentionnés au 5° du I de l'article 1379-0 bis, le taux à prendre en compte pour le calcul de
 la compensation visée au II de l'article 21 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991) est majoré, le
 cas échéant, du taux voté en 1991 par l'établissement public de coopération intercommunale précité. Lorsque les communes sont
 membres d'un établissement public de coopération intercommunale faisant application du présent article et ayant connu une
 modification de périmètre, quelle qu'en soit la nature, le taux à prendre en compte pour ce même calcul est majoré, le cas
 échéant, du taux voté en 1991 par l'établissement public de coopération intercommunale dont elles étaient membres
-préalablement à la fusion. 
+préalablement à la fusion.
 
-VIII.-1° Les sommes versées aux communes en application du IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du
+VIII. - 1° Les sommes versées aux communes en application du IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du
 30 décembre 1986) leur restent acquises lorsqu'elles deviennent membres d'un établissement public de coopération
 intercommunale soumis aux dispositions du présent article. 
 
@@ -399,7 +400,7 @@ des compensations au titre de la réduction pour création d'établissement vers
 précédant la première année d'application du présent article et de la somme des bases exonérées ou des abattements appliqués
 au titre de l'année précédant cette même première année d'application. 
 
-IX.-Les dispositions des I à VIII sont applicables aux communautés de communes ayant, avant le 31 décembre 2010, opté, en
+IX. - Les dispositions des I à VIII sont applicables aux communautés de communes ayant, avant le 31 décembre 2010, opté, en
 application du III de l'article 1609 quinquies C dans sa rédaction en vigueur jusqu'à cette date, pour l'application du
 présent article.
 
@@ -415,7 +416,7 @@ dispositions législatives applicables à la métropole de Lyon.
 _Cite_:
 
   - Loi n°72-657 du 13 juillet 1972 - art. 3
-  - Loi n°86-1317 du 30 décembre 1986 - art. 6
+  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (M)
   - Loi n°96-987 du 14 novembre 1996 - art. 4
   - Loi n°2002-1575 du 30 décembre 2002 - art. 26
   - Code général des impôts, CGI. - art. 1519 D
@@ -527,6 +528,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 133 (M)
-  - Loi n°2015-991 du 7 août 2015 - art. 57
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (VD)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 53 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 163
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 164
