@@ -1,7 +1,7 @@
 # Article 1649 quater J
 
-Le renouvellement de l'agrément des centres de gestion agréés et des associations agréées intervient, à l'exception du
-premier renouvellement, tous les six ans (1).
+Le renouvellement des agréments des centres de gestion agréés, des associations agréées et des organismes mixtes de gestion
+agréés intervient, à l'exception du premier renouvellement, tous les six ans (1).
 
 **Nota:**
 
@@ -9,14 +9,10 @@ premier renouvellement, tous les six ans (1).
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 17 (V) JORF 28 décembre 1988
-
 _Codifié par_:
 
-  - Décret n°89-801 1989-10-27
+  - Décret n°89-801 du 27 octobre 1989
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 14 juillet 1989
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 37

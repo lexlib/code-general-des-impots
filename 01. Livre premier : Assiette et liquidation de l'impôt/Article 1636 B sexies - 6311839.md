@@ -2,50 +2,50 @@
 
 I. – 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B decies les conseils municipaux et les instances
 délibérantes des organismes de coopération intercommunale dotés d'une fiscalité propre votent chaque année les taux des taxes
-foncières, de la taxe d'habitation et de la cotisation foncière des entreprises . Ils peuvent :
+foncières, de la taxe d'habitation et de la cotisation foncière des entreprises. Ils peuvent : 
 
-a) Soit faire varier dans une même proportion les taux des quatre taxes appliqués l'année précédente ;
+a) Soit faire varier dans une même proportion les taux des quatre taxes appliqués l'année précédente ; 
 
 b) Soit faire varier librement entre eux les taux des quatre taxes. Dans ce cas, le taux de cotisation foncière des
-entreprises :
+entreprises : 
 
 Ne peut, par rapport à l'année précédente, être augmenté dans une proportion supérieure à l'augmentation du taux de la taxe
 d'habitation ou, si elle est moins élevée, à celle du taux moyen de la taxe d'habitation et des taxes foncières, pondéré par
-l'importance relative des bases de ces trois taxes pour l'année d'imposition ;
+l'importance relative des bases de ces trois taxes pour l'année d'imposition ; 
 
 Ou doit être diminué, par rapport à l'année précédente, dans une proportion au moins égale, soit à la diminution du taux de
 la taxe d'habitation ou à celle du taux moyen pondéré de la taxe d'habitation et des taxes foncières, soit à la plus
-importante de ces diminutions lorsque ces deux taux sont en baisse.
+importante de ces diminutions lorsque ces deux taux sont en baisse. 
 
 Jusqu'à la date de la prochaine révision, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou
-diminuer moins que le taux de la taxe d'habitation.
+diminuer moins que le taux de la taxe d'habitation. 
 
 2. Toutefois, le taux de la taxe d'habitation, le taux de la taxe foncière sur les propriétés bâties ou le taux de la taxe
 foncière sur les propriétés non bâties peut, à compter de 1989, être diminué jusqu'au niveau du taux moyen national de la
 taxe constaté l'année précédente pour, selon le cas, les communes et leurs établissements publics de coopération
 intercommunale, ou, s'il est plus élevé, jusqu'au niveau du taux de la cotisation foncière des entreprises de la collectivité
 ou de l'établissement public de coopération intercommunale concerné sans que ces diminutions soient prises en compte pour
-l'application, à la baisse, des dispositions du b du 1.
+l'application, à la baisse, des dispositions du b du 1. 
 
 Lorsque les dispositions du premier alinéa ne sont pas applicables, le taux de la taxe d'habitation peut cependant être
 diminué, à compter de 1997, jusqu'au niveau du taux moyen national constaté l'année précédente pour cette taxe dans
 l'ensemble des collectivités de même nature, si le taux de cotisation foncière des entreprises de l'année précédente est
 inférieur au taux moyen national constaté la même année pour cette taxe dans l'ensemble des collectivités de même nature,
-sans que cette diminution soit prise en compte pour l'application, à la baisse, des dispositions du b du 1.
+sans que cette diminution soit prise en compte pour l'application, à la baisse, des dispositions du b du 1. 
 
 Pour l'application des dispositions des premier et deuxième alinéas aux communes membres des établissements publics de
 coopération intercommunale dotés ou non d'une fiscalité propre, les taux communaux de la taxe d'habitation, des taxes
 foncières et de la cotisation foncière des entreprises sont majorés des taux de ces établissements publics de coopération
-intercommunale pour l'année précédant celle de l'imposition.
+intercommunale pour l'année précédant celle de l'imposition. 
 
 Lorsque au titre d'une année il est fait application des dispositions du premier ou du deuxième alinéa, la variation en
 hausse du taux de la taxe d'habitation ou du taux moyen de la taxe d'habitation et des taxes foncières à prendre en compte,
 pour l'application du 1, pour la détermination du taux de la cotisation foncière des entreprises ou du taux de la taxe
-foncière sur les propriétés non bâties, est réduite de moitié pendant les trois années suivantes.
+foncière sur les propriétés non bâties, est réduite de moitié pendant les trois années suivantes. 
 
 Lorsque au titre d'une année, le taux de la cotisation foncière des entreprises ou le taux de la taxe foncière sur les
 propriétés non bâties a été augmenté dans ces conditions, il ne peut pas être fait application du premier ou du deuxième
-alinéa pendant les trois années suivantes.
+alinéa pendant les trois années suivantes. 
 
 3. Pour les communes, lorsque le taux de la cotisation foncière des entreprises ainsi déterminé est inférieur à la moyenne
 constatée pour cette taxe l'année précédente dans l'ensemble des collectivités de même nature, il peut faire l'objet d'une
@@ -56,7 +56,7 @@ taxe d'habitation perçu l'année précédente par une communauté urbaine provi
 total, des impositions à cette taxe établies sur le territoire d'une seule commune membre, le conseil municipal de cette
 dernière peut, pour l'application de la majoration, additionner les taux des taxes foncières, de la taxe d'habitation et de
 la cotisation foncière des entreprises perçues au profit de la commune et les taux respectifs des mêmes taxes, votés l'année
-précédente par la communauté urbaine.
+précédente par la communauté urbaine. 
 
 Dans les communes, membres d'un établissement public de coopération intercommunale, qui, l'année de l'adhésion à
 l'établissement public de coopération intercommunale et l'année suivante, ont rempli les conditions pour bénéficier des
@@ -68,22 +68,22 @@ au profit de la collectivité concernée est au plus inférieur de 20 % au taux 
 ces trois taxes dans l'ensemble des communes. Ces règles sont applicables pour les communes qui ont adhéré à un établissement
 public de coopération intercommunale à compter de 1995.
 
-4. (Abrogé)
+4. (Abrogé) 
 
-5.L'instance délibérante d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies
-C et dont le taux de cotisation foncière des entreprises est inférieur à 75 % de la moyenne de sa catégorie constatée l'année
-précédente au niveau national peut fixer le taux de cotisation foncière des entreprises dans cette limite, sans que
-l'augmentation du taux soit supérieure à 5 %.
+5. L'instance délibérante d'un établissement public de coopération intercommunale faisant application de l'article 1609
+nonies C et dont le taux de cotisation foncière des entreprises est inférieur à 75 % de la moyenne de sa catégorie constatée
+l'année précédente au niveau national peut fixer le taux de cotisation foncière des entreprises dans cette limite, sans que
+l'augmentation du taux soit supérieure à 5 %. 
 
 Les catégories mentionnées au premier alinéa s'entendent des communautés d'agglomération, des communautés de communes faisant
-application de l'article 1609 nonies C et des communautés urbaines faisant application de ce même article.
+application de l'article 1609 nonies C et des communautés urbaines faisant application de ce même article. 
 
 I bis. – 1. Dans les communes où le taux ou les bases de la cotisation foncière des entreprises étaient nuls l'année
 précédente, le conseil municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux
 moyen constaté pour la cotisation foncière des entreprises l'année précédente dans l'ensemble des communes ne doit pas
 excéder le rapport entre d'une part, le taux moyen de la taxe d'habitation et des taxes foncières, pondéré par l'importance
 relative des bases de ces trois taxes dans la commune pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de
-ces trois taxes constaté l'année précédente dans l'ensemble des communes.
+ces trois taxes constaté l'année précédente dans l'ensemble des communes. 
 
 2. Dans les établissements publics de coopération intercommunale à fiscalité propre additionnelle où le taux de la cotisation
 foncière des entreprises était nul l'année précédente, l'organe délibérant de l'établissement public de coopération
@@ -92,13 +92,13 @@ pour la cotisation foncière des entreprises l'année précédente dans l'ensemb
 de coopération intercommunale ne doit pas excéder le rapport entre, d'une part, le taux moyen de la taxe d'habitation et des
 taxes foncières, pondéré par l'importance relative des bases de ces trois taxes dans l'établissement public de coopération
 intercommunale pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de ces trois taxes constaté l'année
-précédente dans l'ensemble des communes membres de l'établissement public.
+précédente dans l'ensemble des communes membres de l'établissement public. 
 
 I ter. – 1. Dans les communes où le taux ou les bases de la taxe foncière sur les propriétés non bâties étaient nuls l'année
 précédente, le conseil municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux
 moyen constaté pour la taxe foncière sur les propriétés non bâties l'année précédente dans l'ensemble des communes ne doit
 pas excéder le rapport entre le taux de taxe d'habitation de la commune pour l'année d'imposition et le taux moyen constaté
-pour la taxe d'habitation l'année précédente dans l'ensemble des communes.
+pour la taxe d'habitation l'année précédente dans l'ensemble des communes. 
 
 2. Dans les établissements publics de coopération intercommunale à fiscalité propre additionnelle où le taux de la taxe
 foncière sur les propriétés non bâties était nul l'année précédente, l'organe délibérant de l'établissement public de
@@ -106,37 +106,19 @@ coopération intercommunale peut fixer le taux de cette taxe. Toutefois, le rapp
 constaté pour la taxe foncière sur les propriétés non bâties l'année précédente dans l'ensemble des communes membres de
 l'établissement public de coopération intercommunale ne doit pas excéder le rapport entre le taux de taxe d'habitation de
 l'établissement public de coopération intercommunale pour l'année d'imposition et le taux moyen constaté pour la taxe
-d'habitation l'année précédente dans l'ensemble des communes membres de l'établissement public.
+d'habitation l'année précédente dans l'ensemble des communes membres de l'établissement public. 
 
-L'alinéa précédent est applicable aux établissements publics de coopération intercommunale soumis à l'article 1609 nonies C.
+L'alinéa précédent est applicable aux établissements publics de coopération intercommunale soumis à l'article 1609 nonies C. 
 
 II. – En cas de création d'un établissement public de coopération intercommunale doté d'une fiscalité propre, les rapports
 entre les taux des quatre taxes établies par l'établissement public de coopération intercommunale doivent être égaux, la
 première année, aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des
-communes membres.
+communes membres. 
 
 Les dispositions du premier alinéa sont applicables l'année qui suit celle au titre de laquelle l'établissement public de
-coopération intercommunale a voté un taux égal à zéro pour les quatre taxes.
+coopération intercommunale a voté un taux égal à zéro pour les quatre taxes. 
 
-III. – 1. Pour l'application du 1 du I du présent article aux communes situées sur le territoire de la métropole du Grand
-Paris, le taux de référence de la taxe d'habitation relatif à l'année 2016 est égal à la somme :
-
-a) D'une part, du taux communal de l'année 2015 ;
-
-b) Et, d'autre part, du taux intercommunal de l'année 2015.
-
-2. Pour l'application du 1 du I aux communes situées sur le territoire de la métropole du Grand Paris, le taux de référence
-de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties relatif à l'année 2016 est
-égal à la somme :
-
-a) D'une part, du taux communal de l'année 2015 ;
-
-b) Et, d'autre part, du taux intercommunal de l'année 2015.
-
-Pour les communes situées sur le périmètre de la métropole du Grand Paris qui n'étaient pas membres d'un établissement public
-de coopération intercommunale à fiscalité propre au 31 décembre 2015, le taux de référence de la taxe d'habitation, de la
-taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties relatif à l'année 2016 est égal
-à celui voté par ces communes en 2015.
+III. – (Abrogé)
 
 **Liens relatifs à cet article**
 
@@ -151,7 +133,7 @@ _Cité par_:
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 23 (V)
   - Loi n°2015-991 du 7 août 2015 - art. 59
   - Code général des collectivités territoriales - art. L5334-12 (Ab)
-  - Code général des collectivités territoriales - art. L5334-4 (VT)
+  - Code général des collectivités territoriales - art. L5334-4 (V)
   - Code général des impôts, CGI. - art. 1379-0 bis (VD)
   - Code général des impôts, CGI. - art. 1407 ter (V)
   - Code général des impôts, CGI. - art. 1636 B decies (V)
@@ -165,4 +147,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (VD)
+  - Loi n°2015-991 du 7 août 2015 - art. 59 (VT)
+  - Ordonnance n°2015-1630 du 10 décembre 2015 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+  - Code général des impôts, CGI. - art. 1636 B septies (V)
