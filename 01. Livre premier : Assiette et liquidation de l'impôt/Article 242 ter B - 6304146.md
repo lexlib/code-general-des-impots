@@ -3,7 +3,12 @@
 I.-1. Les personnes qui assurent la mise en paiement des revenus distribués par un fonds de placement immobilier, tels que
 mentionnés au a du 1 du II de l'article 239 nonies, sont tenues de déclarer, sur la déclaration mentionnée à l'article 242
 ter, l'identité et l'adresse des bénéficiaires et le détail du montant imposable en application des règles mentionnées aux
-articles 28 à 33 quinquies. 
+articles 28 à 33 quinquies.
+
+Les personnes qui assurent la mise en paiement des revenus distribués par un fonds de placement immobilier, mentionnés au e
+du 1° du II de l'article 239 nonies, sont tenues de déclarer, sur la déclaration mentionnée à l'article 242 ter, l'identité
+et l'adresse des bénéficiaires et le détail du montant imposable en application des articles 36 à 60 et du 2 du II de
+l'article 239 nonies.  
 
 2. Pour l'application des dispositions du 1, la société de gestion du fonds de placement immobilier, mentionnée à l'article
 L. 214-61 du code monétaire et financier, fournit aux personnes mentionnées au 1 les informations nécessaires à
@@ -20,16 +25,21 @@ II.-Les personnes qui assurent la mise en paiement des plus-values distribuées 
 et profits mentionnés au III de l'article 239 nonies sont également tenues de faire figurer l'identité, l'adresse des
 bénéficiaires et le détail du montant imposable sur la déclaration mentionnée au 1 du I.
 
+**Nota:**
+
+Loi n° 2015-1786 du 29 décembre 2016, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des
+revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 28
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 150-0 F (V)
-  - Code général des impôts, CGI. - art. 239 nonies
+  - Code général des impôts, CGI. - art. 150-0 F
+  - Code général des impôts, CGI. - art. 239 nonies (VT)
   - Code monétaire et financier - art. L214-61
 
 _Cité par_:
