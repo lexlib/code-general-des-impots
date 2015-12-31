@@ -28,7 +28,7 @@ a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographiqu
 
 b) Les œuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité. 
 
-III. ― 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes
+III. ― 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes
 correspondant à des opérations ou prestations effectuées en France : 
 
 a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme
@@ -67,7 +67,7 @@ V. ― Les subventions publiques reçues par les entreprises de production exéc
 crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou
 remboursables. 
 
-VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 20 millions d'euros. 
+VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 30 millions d'euros. 
 
 VII. ― Les crédits d'impôts obtenus pour la production d'une même œuvre cinématographique ou audiovisuelle ne peuvent avoir
 pour effet de porter à plus de 50 % du budget de production de l'œuvre le montant total des aides publiques accordées. 
@@ -76,7 +76,11 @@ VIII. ― Un décret précise les conditions d'application du présent article.
 
 **Nota:**
 
+Ces dispositions s'appliquent aux crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2016.
 
+Ces dispositions entrent en vigueur à une date fixée par un décret, qui ne peut être postérieure de plus de six mois à la
+date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif
+législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -121,7 +125,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 91
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 23 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 77 (M)
 
 _Cite_:
 
