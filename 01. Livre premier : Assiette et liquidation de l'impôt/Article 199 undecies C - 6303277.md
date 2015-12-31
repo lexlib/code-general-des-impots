@@ -1,7 +1,7 @@
 # Article 199 undecies C
 
-I. - Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu
-à raison de l'acquisition ou de la construction de logements neufs dans les départements d'outre-mer, à Saint-Pierre-et-
+I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu à
+raison de l'acquisition ou de la construction de logements neufs dans les départements d'outre-mer, à Saint-Pierre-et-
 Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna
 si les conditions suivantes sont réunies : 
 
@@ -48,7 +48,7 @@ prévue au 1° prend fin à la suite d'une cession de l'immeuble au profit du pr
 
 8° Un montant correspondant au moins à 70 % de la réduction acquise est rétrocédé par le contribuable sous la forme d'une
 diminution des loyers versés par l'organisme locataire mentionné au 1° et d'une diminution du prix de cession à l'organisme
-locataire ou, le cas échéant, aux personnes physiques mentionnées au 7° ;
+locataire ou, le cas échéant, aux personnes physiques mentionnées au 7° ; 
 
 9° Les logements sont financés par subvention publique à hauteur d'une fraction minimale de 5 %. 
 
@@ -56,13 +56,19 @@ La condition mentionnée au 5° n'est pas applicable aux logements dont la conve
 personnes physiques à l'issue de la période de location. 
 
 La condition mentionnée au 9° n'est pas applicable aux logements acquis ou construits à Saint-Pierre-et-Miquelon, en
-Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna. 
+Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna. Cette
+condition ne s'applique pas non plus aux logements bénéficiant des prêts conventionnés définis à l'article R. 372-21 du code
+de la construction et de l'habitation. Toutefois, pour ouvrir droit à la réduction d'impôt, la construction ou l'acquisition
+de logements bénéficiant des prêts conventionnés précités doit avoir reçu l'agrément préalable du représentant de l'Etat dans
+le département de situation des logements. Le nombre de logements agréés par le représentant de l'Etat au titre d'une année
+ne peut excéder 15 % du nombre de logements qui satisfont aux conditions prévues aux 2° et 3° du présent I livrés l'année
+précédente dans le département. 
 
-II. - La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient des logements minoré, d'une part, des taxes
-et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la
+II.-La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient des logements minoré, d'une part, des taxes et
+des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la
 limite mentionnée au 5 de l'article 199 undecies A appréciée par mètre carré de surface habitable et, dans le cas des
 logements mentionnés au 4° du I, de surface des parties communes dans lesquelles des prestations de services sont proposées.
-Cette limite est relevée chaque année, à la date et dans les conditions prévues au 5 de l'article 199 undecies A.
+Cette limite est relevée chaque année, à la date et dans les conditions prévues au 5 de l'article 199 undecies A. 
 
 Un décret peut préciser, en tant que de besoin, la nature des sommes retenues pour l'appréciation du prix de revient
 mentionné au premier alinéa. 
@@ -70,14 +76,14 @@ mentionné au premier alinéa.
 Le III de l'article 199 undecies B est applicable aux investissements ouvrant droit à la réduction d'impôt prévue au présent
 article. 
 
-III. - La réduction d'impôt est accordée au titre de l'année d'achèvement du logement ou de son acquisition si elle est
+III.-La réduction d'impôt est accordée au titre de l'année d'achèvement du logement ou de son acquisition si elle est
 postérieure. 
 
 Lorsque le montant de la réduction d'impôt excède l'impôt dû par le contribuable ayant réalisé l'investissement, le solde
 peut être reporté, dans les mêmes conditions, sur l'impôt sur le revenu des années suivantes jusqu'à la cinquième
 inclusivement. 
 
-IV. - La réduction d'impôt est également acquise au titre des investissements réalisés par une société civile de placement
+IV.-La réduction d'impôt est également acquise au titre des investissements réalisés par une société civile de placement
 immobilier régie par les articles L. 214-114 et suivants du code monétaire et financier ou par toute autre société mentionnée
 à l'article 8 du présent code, à l'exclusion des sociétés en participation, dont les parts ou les actions sont détenues,
 directement ou par l'intermédiaire d'une entreprise unipersonnelle à responsabilité limitée, par des contribuables domiciliés
@@ -119,7 +125,7 @@ d'application du présent article sont réunies. L'associé doit s'engager à co
 jusqu'au terme de la location prévue au 1° du I. Le produit de la souscription doit être intégralement investi dans les dix-
 huit mois qui suivent la clôture de celle-ci. 
 
-V. - La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle : 
+V.-La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle : 
 
 1° Les conditions mentionnées au I ou, le cas échéant, au IV ne sont pas respectées ; 
 
@@ -132,39 +138,64 @@ couple soumis à imposition commune et que l'attributaire du bien ou le titulair
 engagements prévus, dans les mêmes conditions et selon les mêmes modalités, pour la période restant à courir à la date du
 décès. 
 
-VI. - La réduction d'impôt prévue au présent article est également ouverte au titre de l'acquisition de logements achevés
-depuis plus de vingt ans faisant l'objet de travaux de réhabilitation définis par décret permettant aux logements d'acquérir
-des performances techniques voisines de celles des logements neufs. Dans ce cas, la réduction d'impôt est assise sur le prix
-de revient des logements majoré du coût des travaux de réhabilitation et minoré, d'une part, des taxes et des commissions
-d'acquisition versées et, d'autre part, des subventions publiques reçues. La limite mentionnée au II est applicable. 
+VI.-La réduction d'impôt prévue au présent article est également ouverte au titre de l'acquisition de logements, qui
+satisfont aux conditions fixées au I, achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation définis
+par décret permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs. Dans ce
+cas, la réduction d'impôt est assise sur le prix de revient des logements majoré du coût des travaux de réhabilitation et
+minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. La
+limite mentionnée au II est applicable. La réduction d'impôt est accordée au titre de l'année d'achèvement des travaux. 
 
-VII. - Lorsque le montant par programme des investissements est supérieur à deux millions d'euros, le bénéfice de la
-réduction d'impôt prévue au présent article est conditionné à l'obtention d'un agrément préalable délivré par le ministre
-chargé du budget dans les conditions prévues au III de l'article 217 undecies. 
+VII.-Lorsque le montant par programme des investissements est supérieur à deux millions d'euros, le bénéfice de la réduction
+d'impôt prévue au présent article est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du
+budget dans les conditions prévues au III de l'article 217 undecies. 
 
-VIII. - Un contribuable ne peut, pour un même logement ou une même souscription de parts ou d'actions, bénéficier à la fois
-de l'une des réductions d'impôt prévues aux articles 199 undecies A, 199 tervicies ou 199 septvicies et des dispositions du
+VIII.-Un contribuable ne peut, pour un même logement ou une même souscription de parts ou d'actions, bénéficier à la fois de
+l'une des réductions d'impôt prévues aux articles 199 undecies A, 199 tervicies ou 199 septvicies et des dispositions du
 présent article. 
 
 Les dépenses de travaux retenues pour le calcul de la réduction d'impôt prévue au présent article ne peuvent faire l'objet
 d'une déduction pour la détermination des revenus fonciers. 
 
-IX. - Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de
-promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.
+IX.-Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de promulgation
+de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017, en Guadeloupe, en
+Guyane, en Martinique, à Mayotte et à La Réunion, et le 31 décembre 2025 à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie,
+en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna, à condition que soit mis en
+place un mécanisme pérenne de préfinancement à taux zéro des investissements mentionnés au présent article en complément du
+maintien des dispositifs de crédit d'impôt prévus à l'article 244 quater X ou, à défaut, par la création d'un dispositif
+pérenne permettant aux entreprises ultramarines d'échelonner sur huit ans le paiement de leurs investissements mentionnés au
+présent article sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux d'abattement équivalent au taux
+prévu au III du même article 244 quater X. Pour l'application du présent IX, les constructions s'entendent des immeubles
+ayant fait l'objet d'une déclaration d'ouverture de chantier. 
 
-X. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
-d'outre-mer et à Saint-Martin, au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à
+Toutefois, le présent article reste applicable, pour les investissements réalisés en Guadeloupe, en Guyane, en Martinique, à
+Mayotte et à La Réunion : 
+
+1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration au plus tard le 31 décembre 2017,
+dans les conditions suivantes : 
+
+a) Lorsqu'ils portent sur l'acquisition de logements faisant l'objet de travaux de réhabilitation, si des acomptes au moins
+égaux à 50 % du prix de ces derniers ont été versés au plus tard le 30 juin 2018 et si les travaux sont achevés au plus tard
+le 31 décembre 2018 ; 
+
+b) Lorsqu'ils portent sur la construction d'immeubles, si l'achèvement des fondations intervient au plus tard le 31 décembre
+2018 ; 
+
+c) Lorsqu'ils portent sur l'acquisition d'immeubles à construire, si l'acquisition intervient au plus tard le 31 décembre
+2018 ; 
+
+2° Aux acquisitions de logements faisant l'objet de travaux de réhabilitation pour lesquels des acomptes au moins égaux à 50
+% de leur prix ont été versés au plus tard le 31 décembre 2017 et qui sont achevés au plus tard le 31 décembre 2018. 
+
+X.-Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
+d'outre-mer et à Saint-Martin, au respect de la décision 2012/21/ UE de la Commission, du 20 décembre 2011, relative à
 l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous
 forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt
 économique général.
 
 **Nota:**
 
-Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
-dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
-1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
-à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
-rédaction résultant du II du présent article .
+Conformément à l'article 109 III de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent aux
+opérations ayant obtenu un agrément du représentant de l'Etat octroyé à compter du 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
@@ -180,6 +211,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L411-2
   - Code de la construction et de l'habitation. - art. L472-1-9
   - Code de la construction et de l'habitation. - art. L481-1
+  - Code de la construction et de l'habitation. - art. R372-21 (V)
 
 _Cité par_:
 
@@ -213,5 +245,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 67
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 109
