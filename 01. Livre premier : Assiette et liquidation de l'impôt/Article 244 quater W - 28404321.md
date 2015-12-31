@@ -6,7 +6,7 @@ industrielle, commerciale ou artisanale relevant de l'article 34, peuvent béné
 investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne
 relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B. L'investissement doit être un
 investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
-certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.  
+certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité. 
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
 résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé. 
@@ -17,7 +17,7 @@ dans des secteurs éligibles.
 
 2. Le crédit d'impôt ne s'applique pas : 
 
-a) A l'acquisition de véhicules soumis à la taxe définie à l'article 1010 qui ne sont pas strictement indispensables à
+a) A l'acquisition de véhicules définis au premier alinéa du I de l'article 1010 qui ne sont pas strictement indispensables à
 l'activité ; 
 
 b) Aux investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil. 
@@ -43,7 +43,7 @@ l'exception des logements neufs répondant aux critères mentionnés aux b et c 
 conditions suivantes sont réunies : 
 
 a) L'entreprise ou l'organisme s'engage à louer l'immeuble nu dans les six mois de son achèvement, ou de son acquisition si
-elle est postérieure, et pendant six ans au moins à des personnes qui en font leur résidence principale ; 
+elle est postérieure, et pendant cinq ans (1) au moins à des personnes qui en font leur résidence principale ; 
 
 b) Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret ; 
 
@@ -122,7 +122,8 @@ titre de l'année au cours de laquelle l'investissement est mis à la dispositio
 ou de l'organisme crédit-preneur. 
 
 V. ― 1. Lorsque l'entreprise ou l'organisme qui exploite l'investissement réalise un chiffre d'affaires, apprécié selon les
-règles définies au premier alinéa du I de l'article 199 undecies B, inférieur à 20 millions d'euros, le bénéfice du crédit
+règles définies au premier alinéa du I de l'article 199 undecies B, inférieur, selon le cas, aux limites prévues à ce même
+alinéa ou à la limite fixée à la première phrase du premier alinéa du I de l'article 217 undecies, le bénéfice du crédit
 d'impôt est subordonné à l'exercice d'une option. 
 
 Cette option est exercée par investissement et s'applique à l'ensemble des autres investissements d'un même programme.
@@ -142,8 +143,8 @@ ou groupements, à condition qu'il s'agisse de redevables de l'impôt sur les so
 l'exploitation au sens du 1° bis du I de l'article 156 ou, pour les investissements mentionnés au 4 du I du présent article,
 d'entreprises ou d'organismes mentionnés au premier alinéa du même 4. 
 
-VII. ― Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater et au III
-de l'article 217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le
+VII. ― Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater et au III de
+l'article 217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le
 ministre chargé du budget dans les conditions prévues au III du même article. 
 
 VIII. ― 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa
@@ -195,7 +196,14 @@ respectent un plan d'apurement des cotisations restant dues et, d'autre part, ac
 normale d'exigibilité. 
 
 IX. ― 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31
-décembre 2017.
+décembre 2020, aux travaux de réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à
+construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date. 
+
+L'extinction du crédit d'impôt aux dates prévues au présent IX n'intervient, conformément aux derniers alinéas du VI de
+l'article 199 undecies B et du V de l'article 217 undecies, que dans le cas où un dispositif pérenne permettant aux
+entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs investissements productifs mentionnés au présent
+article, sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux d'abattement équivalent aux taux
+prévus au III, a été créé à la date de ces échéances.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux
 entreprises et organismes mentionnés au 4 du I.
@@ -206,11 +214,8 @@ sens du même règlement.
 
 **Nota:**
 
-Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
-dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
-1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
-à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
-rédaction résultant du II du présent article .
+(1) Conformément à l'article 110 III C de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
+aux investissements réalisés au titre des exercices ouverts à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -275,10 +280,6 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quater (V)
   - Livre des procédures fiscales - art. L45 F (V)
 
-_Créé par_:
-
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
-
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 67
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)

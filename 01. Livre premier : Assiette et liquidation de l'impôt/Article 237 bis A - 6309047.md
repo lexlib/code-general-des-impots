@@ -63,14 +63,20 @@ production.
 Cette disposition est toutefois applicable aux sociétés coopératives de production issues de la transformation d'autres
 sociétés dans les conditions prévues aux articles 48 à 52 de la même loi et pour lesquelles les associés non coopérateurs
 s'engagent, au moment de la transformation et dans des conditions fixées par décret, à céder un nombre de parts sociales
-suffisant pour permettre aux associés coopérateurs de détenir au moins 50 % du capital de la société au plus tard à la
-clôture du septième exercice qui suit celui de la transformation en société coopérative de production. 
+suffisant pour permettre aux associés coopérateurs de détenir au moins 50 % du capital de la société au plus tard le 31
+décembre de la septième année qui suit celle de la transformation en société coopérative de production. 
+
+Cette disposition est également applicable aux sociétés coopératives de production qui ont constitué entre elles un
+groupement relevant des articles 47 bis à 47 septies de ladite loi et dont la majorité du capital est détenue par une ou
+plusieurs sociétés coopératives membres de ce groupement ou par des salariés employés par les autres sociétés coopératives
+membres de ce groupement. 
 
 En cas de non-respect de l'engagement mentionné au troisième alinéa et par dérogation au premier alinéa du 4, la société
-rapporte au résultat imposable du septième exercice suivant celui de la transformation en société coopérative de production
-une somme correspondant aux excédents de provisions pour investissement admis en déduction en application du présent 3 par
-rapport au montant de provision déductible en application du 2. Les droits correspondants sont majorés de l'intérêt de retard
-prévu à l'article 1727, décompté à partir de l'exercice au cours duquel la provision a été déduite. 
+rapporte au résultat imposable de l'exercice en cours ou clos le 31 décembre de la septième année suivant celle de la
+transformation en société coopérative de production une somme correspondant aux excédents de provisions pour investissement
+admis en déduction en application du présent 3 par rapport au montant de provision déductible en application du 2. Les droits
+correspondants sont majorés de l'intérêt de retard prévu à l'article 1727, décompté à partir de l'exercice au cours duquel la
+provision a été déduite. 
 
 4. La provision visée aux 1 à 3 est rapportée au bénéfice imposable si elle n'est pas utilisée dans le délai de deux ans à
 l'acquisition ou la création d'immobilisations. Ce délai est porté à quatre ans pour les sociétés coopératives de production
@@ -102,19 +108,17 @@ provisions constituées en application du 3 dudit II.
 Les provisions mentionnées au premier alinéa du présent IV figurant à l'ouverture du premier exercice clos à compter de cette
 même date sont rapportées aux résultats imposables dans les conditions prévues au 4 du II.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 30-I de la loi n° 2014-856 du 31 juillet 2014.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°78-763 du 19 juillet 1978 - art. 25
+  - Loi n°78-763 du 19 juillet 1978 - art. 47 bis (V)
   - Loi n°78-763 du 19 juillet 1978 - art. 48
   - Loi n°2001-152 du 19 février 2001
   - Loi n°2006-1770 du 30 décembre 2006
   - Code général des impôts, CGI. - art. 1727
+  - Code général des impôts, CGI. - art. 207 (VT)
   - Code général des impôts, CGI. - art. 223 A
   - Code monétaire et financier - art. L214-164
   - Code du travail - art. L3323-6
@@ -132,4 +136,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 18
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 95
