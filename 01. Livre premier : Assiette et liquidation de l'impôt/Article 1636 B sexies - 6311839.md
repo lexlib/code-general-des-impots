@@ -2,7 +2,7 @@
 
 I. – 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B decies les conseils municipaux et les instances
 délibérantes des organismes de coopération intercommunale dotés d'une fiscalité propre votent chaque année les taux des taxes
-foncières, de la taxe d'habitation et de la cotisation foncière des entreprises . Ils peuvent :
+foncières, de la taxe d'habitation et de la cotisation foncière des entreprises. Ils peuvent :
 
 a) Soit faire varier dans une même proportion les taux des quatre taxes appliqués l'année précédente ;
 
@@ -70,9 +70,9 @@ public de coopération intercommunale à compter de 1995.
 
 4. (Abrogé)
 
-5.L'instance délibérante d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies
-C et dont le taux de cotisation foncière des entreprises est inférieur à 75 % de la moyenne de sa catégorie constatée l'année
-précédente au niveau national peut fixer le taux de cotisation foncière des entreprises dans cette limite, sans que
+5. L'instance délibérante d'un établissement public de coopération intercommunale faisant application de l'article 1609
+nonies C et dont le taux de cotisation foncière des entreprises est inférieur à 75 % de la moyenne de sa catégorie constatée
+l'année précédente au niveau national peut fixer le taux de cotisation foncière des entreprises dans cette limite, sans que
 l'augmentation du taux soit supérieure à 5 %.
 
 Les catégories mentionnées au premier alinéa s'entendent des communautés d'agglomération, des communautés de communes faisant
@@ -118,25 +118,7 @@ communes membres.
 Les dispositions du premier alinéa sont applicables l'année qui suit celle au titre de laquelle l'établissement public de
 coopération intercommunale a voté un taux égal à zéro pour les quatre taxes.
 
-III. – 1. Pour l'application du 1 du I du présent article aux communes situées sur le territoire de la métropole du Grand
-Paris, le taux de référence de la taxe d'habitation relatif à l'année 2016 est égal à la somme :
-
-a) D'une part, du taux communal de l'année 2015 ;
-
-b) Et, d'autre part, du taux intercommunal de l'année 2015.
-
-2. Pour l'application du 1 du I aux communes situées sur le territoire de la métropole du Grand Paris, le taux de référence
-de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties relatif à l'année 2016 est
-égal à la somme :
-
-a) D'une part, du taux communal de l'année 2015 ;
-
-b) Et, d'autre part, du taux intercommunal de l'année 2015.
-
-Pour les communes situées sur le périmètre de la métropole du Grand Paris qui n'étaient pas membres d'un établissement public
-de coopération intercommunale à fiscalité propre au 31 décembre 2015, le taux de référence de la taxe d'habitation, de la
-taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties relatif à l'année 2016 est égal
-à celui voté par ces communes en 2015.
+III. – (Abrogé)
 
 **Liens relatifs à cet article**
 
@@ -151,7 +133,7 @@ _Cité par_:
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 23 (V)
   - Loi n°2015-991 du 7 août 2015 - art. 59
   - Code général des collectivités territoriales - art. L5334-12 (Ab)
-  - Code général des collectivités territoriales - art. L5334-4 (VT)
+  - Code général des collectivités territoriales - art. L5334-4 (V)
   - Code général des impôts, CGI. - art. 1379-0 bis (VD)
   - Code général des impôts, CGI. - art. 1407 ter (VD)
   - Code général des impôts, CGI. - art. 1636 B decies (VD)
@@ -165,4 +147,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (VD)
+  - Loi n°2015-991 du 7 août 2015 - art. 59 (M)
+  - Ordonnance n°2015-1630 du 10 décembre 2015 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+  - Code général des impôts, CGI. - art. 1636 B septies (V)

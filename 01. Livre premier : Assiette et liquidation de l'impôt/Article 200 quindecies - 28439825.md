@@ -1,15 +1,17 @@
 # Article 200 quindecies
 
-1. A compter de l'imposition des revenus de 2014, il est institué un crédit d'impôt sur le revenu pour les contribuables
-domiciliés en France au sens de l'article 4 B qui réalisent, jusqu'au 31 décembre 2017, les opérations forestières
-mentionnées au 2.
+1. A compter de l'imposition des revenus de 2014, et à compter de l'imposition des revenus de 2016 pour les dispositions
+spécifiques relatives aux membres d'un groupement d'intérêt économique et environnemental forestier défini aux articles L.
+332-7 et L. 332-8 du code forestier, il est institué un crédit d'impôt sur le revenu pour les contribuables domiciliés en
+France au sens de l'article 4 B qui réalisent, jusqu'au 31 décembre 2017, les opérations forestières mentionnées au 2.
 
 2. Le crédit d'impôt s'applique : 
 
 1° Aux dépenses de travaux forestiers effectués dans une propriété lorsqu'elle constitue une unité de gestion d'au moins 10
 hectares d'un seul tenant ou de 4 hectares d'un seul tenant lorsque la propriété est regroupée au sein d'une organisation de
-producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime, et qu'elle présente l'une des garanties de
-gestion durable prévues à l'article L. 124-1 du code forestier, sous réserve des deux conditions suivantes : 
+producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime, ou sans seuil plancher de surface lorsque
+la propriété est intégrée dans un groupement d'intérêt économique et environnemental forestier, et qu'elle présente l'une des
+garanties de gestion durable prévues à l'article L. 124-1 du code forestier, sous réserve des deux conditions suivantes : 
 
 a) Le contribuable doit prendre l'engagement de conserver cette propriété jusqu'au 31 décembre de la huitième année suivant
 celle des travaux et d'appliquer, pendant la même durée, l'une des garanties de gestion durable prévues aux articles L. 124-1
@@ -20,18 +22,24 @@ régionaux relatifs aux aides de l'Etat à l'investissement forestier pris confo
 code ; 
 
 2° Aux dépenses de travaux forestiers payées par un groupement forestier ou une société d'épargne forestière dont le
-contribuable est membre, lorsque la propriété du groupement ou de la société sur laquelle sont réalisés les travaux constitue
-une unité de gestion d'au moins 10 hectares d'un seul tenant ou de 4 hectares d'un seul tenant lorsque cette propriété est
-intégrée dans une organisation de producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime, et
-qu'elle présente l'une des garanties de gestion durable prévues aux articles L. 124-1 et L. 124-3 du code forestier, sous
-réserve des trois conditions suivantes : 
+contribuable est membre ou par un groupement d'intérêt économique et environnemental forestier dont le contribuable est
+membre directement ou indirectement par l'intermédiaire d'un groupement forestier ou d'une société d'épargne forestière,
+lorsque la propriété du groupement forestier ou de la société sur laquelle sont réalisés les travaux constitue une unité de
+gestion d'au moins 10 hectares d'un seul tenant ou de 4 hectares d'un seul tenant lorsque cette propriété est intégrée dans
+une organisation de producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime, ou sans seuil plancher
+de surface lorsque la propriété du contribuable, du groupement forestier ou de la société d'épargne forestière est intégrée
+dans un groupement d'intérêt économique et environnemental forestier ou lorsque la propriété est détenue par un tel
+groupement, et qu'elle présente l'une des garanties de gestion durable prévues aux articles L. 124-1 et L. 124-3 du code
+forestier, sous réserve des trois conditions suivantes : 
 
-a) L'associé doit prendre l'engagement de conserver les parts du groupement ou de la société jusqu'au 31 décembre de la
-quatrième année suivant celle des travaux ; 
+a) Le contribuable doit prendre l'engagement de conserver les parts du groupement ou de la société jusqu'au 31 décembre de la
+quatrième année suivant celle des travaux et, le cas échéant, le contribuable, le groupement forestier ou la société
+d'épargne forestière doivent s'engager à rester membres du groupement d'intérêt économique et environnemental forestier
+pendant la même période ; 
 
-b) Le groupement ou la société doit prendre l'engagement de conserver les parcelles qui ont fait l'objet de travaux ouvrant
-droit à crédit d'impôt jusqu'au 31 décembre de la huitième année suivant celle des travaux et d'appliquer, pendant la même
-durée, l'une des garanties de gestion durable prévues au même article L. 124-1 ; 
+b) Le contribuable, le groupement ou la société doit prendre l'engagement de conserver les parcelles qui ont fait l'objet de
+travaux ouvrant droit à crédit d'impôt jusqu'au 31 décembre de la huitième année suivant celle des travaux et d'appliquer,
+pendant la même durée, l'une des garanties de gestion durable prévues au même article L. 124-1 ; 
 
 c) Les travaux de plantation sont effectués avec des graines et des plants forestiers conformes aux prescriptions des arrêtés
 régionaux relatifs aux aides de l'Etat à l'investissement forestier pris conformément à la partie réglementaire du même
@@ -40,9 +48,11 @@ code ;
 3° A la rémunération versée par le contribuable, par un groupement forestier ou une société d'épargne forestière dont le
 contribuable est membre pour la réalisation d'un contrat conclu pour la gestion de bois et forêts d'une surface inférieure à
 25 hectares, avec un gestionnaire forestier professionnel, au sens de l'article L. 315-1 du code forestier, ou un expert
-forestier, au sens de l'article L. 171-1 du code rural et de la pêche maritime, dans le cadre d'un mandat de gestion, avec
-une coopérative forestière ou une organisation de producteurs, au sens de l'article L. 552-1 du même code, ou avec l'Office
-national des forêts en application de l'article L. 315-2 du code forestier, sous réserve des trois conditions suivantes : 
+forestier, au sens de l'article L. 171-1 du code rural et de la pêche maritime, ou une personne morale de droit privé
+reconnue en qualité de groupement d'intérêt économique et environnemental forestier, dans le cadre d'un mandat de gestion,
+avec une coopérative forestière ou une organisation de producteurs, au sens de l'article L. 552-1 du même code, ou avec
+l'Office national des forêts en application de l'article L. 315-2 du code forestier, sous réserve des trois conditions
+suivantes : 
 
 a) Le contrat de gestion prévoit la réalisation de programmes de travaux et de coupes sur des terrains en nature de bois et
 forêts dans le respect de l'une des garanties de gestion durable prévues aux articles L. 124-1 et L. 124-3 du même code ; 
@@ -87,7 +97,9 @@ l'administration fiscale, la facture du contrat de gestion ainsi que l'attestati
 cession et la commercialisation des coupes sont réalisées dans les conditions prévues au 3° du 2.
 
 5. Le taux du crédit d'impôt est de 18 % ; il est porté à 25 % pour les bénéficiaires adhérents à une organisation de
-producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime. 
+producteurs, au sens de l'article L. 552-1 du code rural et de la pêche maritime et pour les bénéficiaires membres d'un
+groupement d'intérêt économique et environnemental forestier directement ou indirectement par l'intermédiaire d'un groupement
+forestier ou d'une société d'épargne forestière. 
 
 6. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année de paiement des dépenses mentionnées aux 1°
 à 3° du 2. Pour les dépenses mentionnées aux 1° et 2° du même 2, il peut s'appliquer pour le calcul de l'impôt dû au titre
@@ -108,7 +120,7 @@ Toutefois, le crédit d'impôt n'est pas repris dans les cas mentionnés aux a �
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1248 du 7 octobre 2015 - art. 1
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 22
 
 _Cité par_:
 
@@ -120,14 +132,16 @@ _Cité par_:
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1398 (V)
   - Code général des impôts, CGI. - art. 199 decies H
   - Code général des impôts, CGI. - art. 4 B
   - Code rural - art. L171-1
-  - Code rural - art. L551-1
   - Code rural - art. L552-1
   - Code monétaire et financier - art. L214-121
   - Code monétaire et financier - art. L214-123
+  - Code forestier (nouveau) -  Chapitre II : Compte d'investissement forestier... (V)
   - Code forestier (nouveau) - art. L124-1
-  - Code forestier (nouveau) - art. L124-3
+  - Code forestier (nouveau) - art. L124-3 (VT)
   - Code forestier (nouveau) - art. L315-1
   - Code forestier (nouveau) - art. L315-2
+  - Code forestier (nouveau) - art. L332-7 (V)

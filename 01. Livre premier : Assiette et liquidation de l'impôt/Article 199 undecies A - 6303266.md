@@ -34,23 +34,25 @@ au moins à compter de leur achèvement ou de leur acquisition si elle est post�
 associés de la société, leur conjoint ou les membres de leur foyer fiscal, qui en font leur habitation principale. Les
 souscripteurs doivent s'engager à conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ; 
 
-e) Au montant des travaux de réhabilitation réalisés par une entreprise, à l'exclusion de ceux qui constituent des charges
-déductibles des revenus fonciers en application de l'article 31, et portant sur des logements achevés depuis plus de vingt
-ans, situés dans les départements ou collectivités visés au 1, que le propriétaire prend l'engagement, pour une durée de cinq
-ans, soit d'affecter dès l'achèvement des travaux à son habitation principale, soit de louer nu dans les six mois qui suivent
-l'achèvement des travaux à des personnes qui en font leur habitation principale et autres que son conjoint ou un membre de
-son foyer fiscal, ainsi qu'au montant des travaux de confortation de logements contre le risque sismique. Un décret détermine
-les conditions d'application de ces dispositions, et notamment la nature des travaux de réhabilitation éligibles ; 
+e) (1) Sauf dans les départements d'outre-mer, au montant des travaux de réhabilitation réalisés par une entreprise, à
+l'exclusion de ceux qui constituent des charges déductibles des revenus fonciers en application de l'article 31, et portant
+sur des logements achevés depuis plus de vingt ans, situés dans les départements ou collectivités visés au 1, que le
+propriétaire prend l'engagement, pour une durée de cinq ans, soit d'affecter dès l'achèvement des travaux à son habitation
+principale, soit de louer nu dans les six mois qui suivent l'achèvement des travaux à des personnes qui en font leur
+habitation principale et autres que son conjoint ou un membre de son foyer fiscal, ainsi qu'au montant des travaux de
+confortation de logements contre le risque sismique. Un décret détermine les conditions d'application de ces dispositions, et
+notamment la nature des travaux de réhabilitation éligibles ; 
 
-f) Aux versements effectués au titre de souscriptions en numéraire au capital des sociétés de développement régional des
-départements ou collectivités visés au 1 ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit
-commun effectuant dans les douze mois de la clôture de la souscription des investissements productifs neufs dans ces
-départements ou collectivités et dont l'activité réelle se situe dans les secteurs éligibles pour l'application des
-dispositions du I de l'article 199 undecies B. Lorsque la société affecte tout ou partie de la souscription à la construction
-d'immeubles destinés à l'exercice d'une activité située dans l'un de ces secteurs, elle doit s'engager à en achever les
-fondations dans les deux ans qui suivent la clôture de la souscription. La société doit s'engager à maintenir l'affectation
-des biens à l'activité dans les secteurs visés ci-dessus pendant les cinq ans qui suivent leur acquisition ou pendant leur
-durée normale d'utilisation si elle est inférieure ; 
+f) Sous réserve du respect du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories
+d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, aux versements effectués au
+titre de souscriptions en numéraire au capital des sociétés de développement régional des départements ou collectivités visés
+au 1 ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant dans les douze mois de
+la clôture de la souscription des investissements productifs neufs dans ces départements ou collectivités et dont l'activité
+réelle se situe dans les secteurs éligibles pour l'application des dispositions du I de l'article 199 undecies B. Lorsque la
+société affecte tout ou partie de la souscription à la construction d'immeubles destinés à l'exercice d'une activité située
+dans l'un de ces secteurs, elle doit s'engager à en achever les fondations dans les deux ans qui suivent la clôture de la
+souscription. La société doit s'engager à maintenir l'affectation des biens à l'activité dans les secteurs visés ci-dessus
+pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est inférieure ; 
 
 g) Aux versements effectués au titre de souscriptions en numéraire, agréées par le ministre chargé du budget, au capital de
 sociétés qui ont pour objet le financement par souscriptions en numéraire au capital ou par prêts participatifs, selon des
@@ -120,7 +122,7 @@ au moins six ans à compter de la date d'achèvement des logements ou de leur ac
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret. 
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer et la collectivité départementale de Mayotte
-mentionnés aux a, b, c, d et e du 2, les taux de 18 % et 30 % prévus aux deuxième et troisième alinéas et le taux de 38 %
+mentionnés aux a, b, c et d du 2 (1), les taux de 18 % et 30 % prévus aux deuxième et troisième alinéas et le taux de 38 %
 prévu au quatrième alinéa sont respectivement portés à 26 %, 38 % et 45 % lorsque le logement est situé dans un quartier
 prioritaire de la politique de la ville.
 
@@ -168,7 +170,7 @@ titre de l'année où interviennent les événements précités. Toutefois, ces 
 investissements productifs sont compris dans un apport partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la
 société qui en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la
 société bénéficiaire de l'apport, ou la société absorbante, selon le cas, réponde aux conditions du 2 et s'engage dans l'acte
-d'apport ou de fusion à respecter les engagements mentionnés au e du 2 pour la fraction du délai restant à courir. 
+d'apport ou de fusion à respecter les engagements mentionnés au f du 2 pour la fraction du délai restant à courir. 
 
 Le décès du contribuable ou de l'un des époux soumis à imposition commune au cours d'une des années suivant celle où le droit
 à réduction d'impôt est né n'a pas pour conséquence la reprise des réductions d'impôt pratiquées. 
@@ -178,10 +180,9 @@ logement à usage d'habitation principale de son personnel ne fait pas obstacle 
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 58-I [1°] de la loi n° 2004-1485 du 30 décembre 2004.
-
-Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
-fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
+(1) Conformément à l'article 110 III A de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
+aux travaux achevés à compter du 1er janvier 2016, à l'exception de ceux pour lesquels des acomptes au moins égaux à 50 % de
+leur prix ont été versés au plus tard le 31 décembre 2015 et si les travaux sont achevés au plus tard le 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
@@ -256,5 +257,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-173 du 21 février 2014 - art. 26
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)

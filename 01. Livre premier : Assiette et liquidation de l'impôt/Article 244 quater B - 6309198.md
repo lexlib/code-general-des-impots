@@ -1,21 +1,21 @@
 # Article 244 quater B
 
-I. - Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en
-application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44
-quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année.
-Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros
-et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 %
-pour les dépenses de recherche exposées à compter du 1er janvier 2015 dans des exploitations situées dans un département
-d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour
-les dépenses mentionnées au même k exposées, à compter du 1er janvier 2015, dans des exploitations situées dans un
-département d'outre-mer.
+I.-Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application
+des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44 quindecies peuvent
+bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit
+d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la
+fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de
+recherche exposées à compter du 1er janvier 2015 dans des exploitations situées dans un département d'outre-mer. Pour les
+dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour les dépenses
+mentionnées au même k exposées, à compter du 1er janvier 2015, dans des exploitations situées dans un département d'outre-
+mer. 
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater,
 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des
 dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs
 droits dans ces sociétés ou ces groupements. 
 
-II. - Les dépenses de recherche ouvrant droit au crédit d'impôt sont : 
+II.-Les dépenses de recherche ouvrant droit au crédit d'impôt sont : 
 
 a) Les dotations aux amortissements des immobilisations, créées ou acquises à l'état neuf et affectées directement à la
 réalisation d'opérations de recherche scientifique et technique, y compris la réalisation d'opérations de conception de
@@ -66,11 +66,16 @@ l'un des organismes mentionnés aux 1° ou 2° ou des sociétés de capitaux don
 pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées conformément au d bis
 et avoir conclu une convention en application de l'article L. 533-3 du code de la recherche ou de l'article L. 762-3 du code
 de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein d'une ou plusieurs unités de
-recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention. 
+recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention ; 
+
+7° Des instituts techniques liés aux professions mentionnées à l'article L. 830-1 du code rural et de la pêche maritime,
+ainsi qu'à leurs structures nationales de coordination ; 
+
+8° Des communautés d'universités et établissements. 
 
 Ces dépenses sont retenues pour le double de leur montant à la condition qu'il n'existe pas de lien de dépendance au sens des
 deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et l'entité mentionnée
-aux 1° à 6° ; 
+aux 1° à 8° ; 
 
 d bis) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés
 agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions.
@@ -139,31 +144,30 @@ j) Les dépenses de veille technologique exposées lors de la réalisation d'op�
 par an. 
 
 k) Les dépenses exposées par les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée
-à l'annexe I au règlement (CE) n° 800/2008 de la Commission, du 6 août 2008, déclarant certaines catégories d'aide
-compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par
-catégorie) et définies comme suit :
+à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides
+compatibles avec le marché intérieur en application des articles 107 et 108 du traité et définies comme suit : 
 
 1° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf et affectées directement à la
 réalisation d'opérations de conception de prototypes ou installations pilotes de nouveaux produits autres que les prototypes
-et installations pilotes mentionnés au a ;
+et installations pilotes mentionnés au a ; 
 
-2° Les dépenses de personnel directement et exclusivement affecté à la réalisation des opérations mentionnées au 1° ;
+2° Les dépenses de personnel directement et exclusivement affecté à la réalisation des opérations mentionnées au 1° ; 
 
 3° Les autres dépenses de fonctionnement exposées à raison des opérations mentionnées au 1° ; ces dépenses sont fixées
 forfaitairement à la somme de 75 % des dotations aux amortissements mentionnées au 1° et de 50 % des dépenses de personnel
-mentionnées au 2° ;
+mentionnées au 2° ; 
 
 4° Les dotations aux amortissements, les frais de prise et de maintenance de brevets et de certificats d'obtention végétale
-ainsi que les frais de dépôt de dessins et modèles relatifs aux opérations mentionnées au 1° ;
+ainsi que les frais de dépôt de dessins et modèles relatifs aux opérations mentionnées au 1° ; 
 
 5° Les frais de défense de brevets, de certificats d'obtention végétale, de dessins et modèles relatifs aux opérations
-mentionnées au 1° ;
+mentionnées au 1° ; 
 
 6° Les dépenses exposées pour la réalisation d'opérations mentionnées au 1° confiées à des entreprises ou des bureaux
-d'études et d'ingénierie agréés selon des modalités prévues par décret.
+d'études et d'ingénierie agréés selon des modalités prévues par décret. 
 
 Les dépenses mentionnées aux 1° à 6° entrent dans la base de calcul du crédit d'impôt recherche dans la limite globale de 400
-000 € par an.
+000 € par an. 
 
 Pour l'application du présent k, est considéré comme nouveau produit un bien corporel ou incorporel qui satisfait aux deux
 conditions cumulatives suivantes :
@@ -171,7 +175,7 @@ conditions cumulatives suivantes :
 - il n'est pas encore mis à disposition sur le marché ;
 
 - il se distingue des produits existants ou précédents par des performances supérieures sur le plan technique, de
-l'écoconception, de l'ergonomie ou de ses fonctionnalités.
+l'écoconception, de l'ergonomie ou de ses fonctionnalités. 
 
 Le prototype ou l'installation pilote d'un nouveau produit est un bien qui n'est pas destiné à être mis sur le marché mais à
 être utilisé comme modèle pour la réalisation d'un nouveau produit. 
@@ -190,9 +194,10 @@ au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 20
 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis. 
 
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses mentionnées au k est subordonné
-au respect des articles 30, 31, 33 et 34 du règlement (CE) n° 800/2008 de la Commission, du 6 août 2008, précité. 
+au respect des articles 2, 25 et 30 et des 1, a du 2 et 3 de l'article 28 du règlement (UE) n° 651/2014 de la Commission du
+17 juin 2014, précité. 
 
-Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L, 239
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8, 238 bis L, 239
 quater, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
 règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, précité. La fraction du crédit d'impôt mentionnée à
 l'alinéa précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement
@@ -200,7 +205,7 @@ l'alinéa précédent peut être utilisée par les associés de ces sociétés o
 réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation
 au sens du 1° bis du I de l'article 156 . 
 
-III. - Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont
+III.-Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont
 déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de
 même des sommes reçues par les entreprises, organismes ou experts mentionnés au d, au d bis ou au 6° du k du II, pour le
 calcul de leur propre crédit d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du
@@ -217,14 +222,14 @@ b) Du montant des dépenses ainsi exposées, autres que celles mentionnées au a
 suivants : soit la somme de 15 000 € hors taxes, soit 5 % du total des dépenses hors taxes mentionnées au II minoré des
 subventions publiques mentionnées au III. 
 
-III bis. - Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à
-leur déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état
+III bis.-Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à leur
+déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état
 d'avancement de leurs programmes, les moyens matériels et humains, directs ou indirects, qui y sont consacrés et la
 localisation de ces moyens. 
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées). 
 
-VI. - Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de
+VI.-Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de
 durée inégale ou ne coïncidant pas avec l'année civile.
 
 **Nota:**
@@ -237,7 +242,10 @@ Gouvernement de la réponse de la Commission européenne permettant de regarder 
 comme conforme au droit de l'Union européenne en matière d'aides d'Etat. L'article 1er du décret n° 2015-1292 du 15 octobre
 2015 a fixé l'entrée en vigueur de ces dispositions au 18 octobre 2015. 
 
-Modifications effectuées en conséquence des articles 1er-2° et 3-9° de l'ordonnance n° 2014-135 du 17 février 2014.
+Modifications effectuées en conséquence des articles 1er-2° et 3-9° de l'ordonnance n° 2014-135 du 17 février 2014. 
+
+Conformément à l'article 20 II de la loi n° 2015-1785 du 29 décembre 2015, les dispositions du 7° du d du II du présent
+article ne s'appliquent qu'aux sommes venant en déduction de l'impôt dû.
 
 **Liens relatifs à cet article**
 
@@ -293,20 +301,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 47
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 20 (M)
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L611-7
   - Code général des impôts, CGI. - art. 151 nonies
   - Code général des impôts, CGI. - art. 156
-  - Code général des impôts, CGI. - art. 220 septies
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater B
   - Code général des impôts, CGI. - art. 239 quater C
-  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 39 (M)
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
-  - Code de la recherche - art. L313-2
   - Code de l'éducation - art. L762-3
+  - Code rural - art. L830-1 (V)
