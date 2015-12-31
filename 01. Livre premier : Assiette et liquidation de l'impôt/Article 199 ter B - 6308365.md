@@ -1,6 +1,6 @@
 # Article 199 ter B
 
-I. - Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quater B est imputé sur l'impôt sur le revenu dû par
+I. – Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quater B est imputé sur l'impôt sur le revenu dû par
 le contribuable au titre de l'année au cours de laquelle les dépenses de recherche prises en compte pour le calcul du crédit
 d'impôt ont été exposées. L'excédent de crédit d'impôt constitue au profit de l'entreprise une créance sur l'Etat d'égal
 montant. Cette créance est utilisée pour le paiement de l'impôt sur le revenu dû au titre des trois années suivant celle au
@@ -17,7 +17,7 @@ bénéficiaire de l'apport.
 La fraction du crédit d'impôt recherche correspondant aux parts des personnes physiques autres que celles mentionnées au I de
 l'article 151 nonies n'est ni imputable ni restituable. 
 
-II. - La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des
+II. – La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des
 entreprises suivantes : 
 
 1° Les entreprises, autres que celles mentionnées au III de l'article 44 sexies, créées à compter du 1er janvier 2004 et dont
@@ -44,16 +44,16 @@ de la décision ou du jugement qui a ouvert ces procédures ;
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ; 
 
 4° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement
-(CE) n° 800/2008 de la Commission, du 6 août 2008, déclarant certaines catégories d'aide compatibles avec le marché commun en
-application des articles 87 et 88 du traité (règlement général d'exemption par catégorie). 
+(UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur
+en application des articles 107 et 108 du traité. 
 
 Les entreprises créées depuis moins de deux ans qui sollicitent le remboursement immédiat de la créance de crédit d'impôt
 pour dépenses de recherche doivent présenter à l'appui de leur demande les pièces justificatives attestant de la réalité des
 dépenses de recherche. 
 
-III. - (Périmé). 
+III. – (Périmé). 
 
-IV. - (Abrogé).
+IV. – (Abrogé).
 
 **Nota:**
 
@@ -75,6 +75,7 @@ _Cite_:
 
   - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 151 nonies
+  - Code général des impôts, CGI. - art. 39 (VT)
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 44 sexies-0 A
   - Code monétaire et financier - art. L214-169
@@ -83,4 +84,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 145
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 78

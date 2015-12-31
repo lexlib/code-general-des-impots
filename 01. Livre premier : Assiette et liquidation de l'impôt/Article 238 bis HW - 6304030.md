@@ -21,10 +21,11 @@ a. La consommation annuelle d'électricité du site en heures creuses, c'est-à-
 semaine, ainsi que le samedi et le dimanche, représente au moins 55 % de la consommation annuelle totale d'électricité ; 
 
 b. Le rapport entre l'énergie consommée au-dessous de la puissance visée au quatrième alinéa du présent article et cette
-puissance ne peut être inférieur à 8 000 heures, hors arrêts exceptionnels et périodes d'entretien ; 
+puissance ne peut être inférieur à 8 000 heures, hors arrêts exceptionnels et périodes d'entretien ;
 
 c. Les consommations d'électricité de cette entreprise donnent lieu au paiement de la contribution aux charges du service
-public de l'électricité prévue aux articles L. 121-10 à L. 121-26 du code de l'énergie. 
+public de l'électricité prévue aux articles L. 121-10 à L. 121-26 du code de l'énergie, dans leur rédaction antérieure à la
+loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015. 
 
 Les actions souscrites doivent revêtir la forme nominative. Le montant du capital agréé est limité à 600 000 €.
 
@@ -36,23 +37,23 @@ Modifications effectuées en conséquence des articles 1er, 2, 4 (21°), 6 (6°)
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
-  - Décret n°2013-463 du 3 juin 2013 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
 
 _Cité par_:
 
-  - Code de l'énergie - art. L523-2 (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies S (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies T (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies U (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies V (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis HX (V)
+  - Code de l'énergie - art. L523-2 (V)
   - Code général des impôts, CGI. - art. 238 bis HY (V)
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1586 ter
+  - Code général des impôts, CGI. - art. 238 bis HV
   - Code de l'énergie - art. L121-10
   - Code de l'énergie - art. L331-2
   - Code de l'énergie - art. L333-1
-  - Code général des impôts, CGI. - art. 1586 ter
-  - Code général des impôts, CGI. - art. 238 bis HV

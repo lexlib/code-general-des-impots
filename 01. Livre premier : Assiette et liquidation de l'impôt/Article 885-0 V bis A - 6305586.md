@@ -1,11 +1,12 @@
 # Article 885-0 V bis A
 
-I.-Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la limite de 50 000 €, 75 % du montant des dons
+I. – Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la limite de 50 000 €, 75 % du montant des dons
 en numéraire et dons en pleine propriété de titres de sociétés admis aux négociations sur un marché réglementé français ou
 étranger effectués au profit : 
 
 1° Des établissements de recherche ou d'enseignement supérieur ou d'enseignement artistique publics ou privés, d'intérêt
-général, à but non lucratif ; 
+général, à but non lucratif et des établissements d'enseignement supérieur consulaire mentionnés à l'article L. 711-17 du
+code de commerce ; 
 
 2° Des fondations reconnues d'utilité publique répondant aux conditions fixées au a du 1 de l'article 200 ; 
 
@@ -48,10 +49,10 @@ organismes dont le siège est situé en France répondant aux conditions fixées
 Un décret fixe les conditions d'application des douzième et treizième alinéas et notamment la durée de validité ainsi que les
 modalités de délivrance, de publicité et de retrait de l'agrément. 
 
-II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la
+II. – Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la
 déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition. 
 
-III.-La fraction du versement ayant donné lieu à l'avantage fiscal mentionné au I ne peut donner lieu à un autre avantage
+III. – La fraction du versement ayant donné lieu à l'avantage fiscal mentionné au I ne peut donner lieu à un autre avantage
 fiscal au titre d'un autre impôt. 
 
 Le redevable peut bénéficier de l'avantage fiscal prévu au présent article et de celui prévu à l'article 885-0 V bis au titre
@@ -61,13 +62,13 @@ n'excède pas 45 000 €.
 Par dérogation à l'alinéa précédent, la fraction des versements pour laquelle le redevable demande le bénéfice de l'avantage
 fiscal prévu au présent article ne peut donner lieu à l'application de l'article 885-0 V bis. 
 
-IV.-Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du
-18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
-aides de minimis et à la condition que soient jointes à la déclaration d'impôt de solidarité sur la fortune prévue au 1 du I
-de l'article 885 W, ou fournies dans les trois mois suivant la date limite de dépôt de ladite déclaration, des pièces
+IV. – Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission,
+du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne
+aux aides de minimis et à la condition que soient jointes à la déclaration d'impôt de solidarité sur la fortune prévue au 1
+du I de l'article 885 W, ou fournies dans les trois mois suivant la date limite de dépôt de ladite déclaration, des pièces
 justificatives attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. 
 
-V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
+V. – Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
 
 **Nota:**
 
@@ -94,18 +95,25 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 299 nonies (Ab)
   - Code général des impôts, annexe 3, CGIAN3. - art. 299 undecies (Ab)
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 Z sexies (M)
-  - Livre des procédures fiscales - art. L102 E (M)
+  - Livre des procédures fiscales - art. L102 E (V)
 
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 38
+
+_Abrogé par_:
+
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
 
 _Cite_:
 
+  - Code de commerce - art. L711-17
   - Code général des impôts, CGI. - art. 1649 nonies
   - Code général des impôts, CGI. - art. 200
-  - Code général des impôts, CGI. - art. 885-0 V bis (M)
+  - Code général des impôts, CGI. - art. 885 W
+  - Code général des impôts, CGI. - art. 885-0 V bis
   - Code de l'éducation - art. L719-12
+  - Code du travail - art. L1253-1
   - Code du travail - art. L5132-15
   - Code du travail - art. L5132-5
   - Code du travail - art. L5132-6

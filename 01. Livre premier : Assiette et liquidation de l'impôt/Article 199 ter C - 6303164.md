@@ -23,8 +23,8 @@ II.-La créance mentionnée au premier alinéa du I est immédiatement remboursa
 entreprises suivantes : 
 
 1° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement
-(CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché commun en
-application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ; 
+(UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur
+en application des articles 107 et 108 du traité ; 
 
 2° Les entreprises nouvelles, autres que celles mentionnées au III de l'article 44 sexies, dont le capital est entièrement
 libéré et détenu de manière continue à 50 % au moins : 
@@ -49,6 +49,11 @@ quatre années suivantes ;
 liquidation judiciaire. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date
 de la décision ou du jugement qui a ouvert ces procédures.
 
+**Nota:**
+
+Conformément au B du V de l'article 86 de la loi n° 2017-1837 du 30 décembre 2017, l'article 199 ter C est abrogé à compter
+du 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -57,7 +62,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 145
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (VD)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
+
+_Abrogé par_:
+
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 86 (V)
 
 _Cité par_:
 
@@ -68,8 +78,8 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 244 quater C
-  - Code général des impôts, CGI. - art. 39 (VT)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
-  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
-  - Code monétaire et financier - art. L214-37 (V)
-  - Code monétaire et financier - art. L313-23 (V)
+  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 sexies-0 A
+  - Code monétaire et financier - art. L214-37
+  - Code monétaire et financier - art. L313-23
