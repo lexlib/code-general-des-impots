@@ -60,8 +60,9 @@ d'archives pour une durée minimale de quatre ans effectuées auprès d'une pers
 n'existe pas de lien de dépendance, au sens du 12 de l'article 39, entre cette personne et l'entreprise de production
 bénéficiaire du crédit d'impôt. 
 
-Le taux mentionné au premier alinéa du présent 1 est, en ce qui concerne les œuvres cinématographiques, porté à 30 % lorsque
-le budget de production est inférieur à 4 millions d'euros. 
+Le taux mentionné au premier alinéa du présent 1 est porté à 25 % en ce qui concerne les œuvres cinématographiques et
+audiovisuelles d'animation. Il est porté à 30 % pour les œuvres cinématographiques dont le budget de production est inférieur
+à 7 millions d'euros. 
 
 2. Les auteurs, artistes-interprètes et personnels de la réalisation et de la production mentionnés au 1 doivent être, soit
 de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur
@@ -87,7 +88,7 @@ VI.-1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cin�
 d'euros. 
 
 2. La somme des crédits d'impôt calculés au titre d'une même œuvre audiovisuelle ne peut excéder 1 250 € par minute produite
-et livrée pour une œuvre de fiction, 1 150 € par minute produite et livrée pour une œuvre documentaire et 1 300 € par minute
+et livrée pour une œuvre de fiction, 1 150 € par minute produite et livrée pour une œuvre documentaire et 3 000 € par minute
 produite et livrée pour une œuvre d'animation. 
 
 La somme des crédits d'impôt est portée à 5 000 € maximum par minute produite et livrée pour les œuvres audiovisuelles de
@@ -117,14 +118,11 @@ VIII.-Un décret fixe les conditions d'application du présent article.
 
 **Nota:**
 
-Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, article 38 (II) : Ces dispositions s'appliquent aux
-crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2014 et entrent en vigueur à une date, fixée
+Conformément à l'article 77 II et III de la loi n° 2014-1655 du 29 décembre 2014, les présentes dispositions s'appliquent aux
+crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2016 et entrent en vigueur à une date fixée
 par un décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de
 la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de
 l'Union européenne en matière d'aides d'Etat.
-
-Conformément à l'article 1 du décret n° 2015-307 du 17 mars 2015, l'article 38 de la loi du 29 décembre 2013 entre en vigueur
-le lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -156,11 +154,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 38 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 77
+  - Décret n°2016-52 du 27 janvier 2016 - art. 1
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L113-7
   - Code de la propriété intellectuelle - art. L212-4
-  - Code général des impôts, CGI. - art. 39 (V)
+  - Code général des impôts, CGI. - art. 39
   - Code du travail - art. L1242-2

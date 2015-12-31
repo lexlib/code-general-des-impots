@@ -7,9 +7,15 @@ raison des dépenses qu'ils supportent en vue de la restauration complète d'un 
 plan de sauvegarde et de mise en valeur de ce secteur est approuvé, soit lorsque la restauration a été déclarée d'utilité
 publique en application de l'article L. 313-4 du même code ; 
 
-2°-jusqu'au 31 décembre 2015, situé dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n°
+2°-jusqu'au 31 décembre 2017, situé dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n°
 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la restauration a été
 déclarée d'utilité publique ; 
+
+2° bis Jusqu'au 31 décembre 2017, situé dans un quartier présentant une concentration élevée d'habitat ancien dégradé et
+faisant l'objet d'une convention pluriannuelle prévue à l'article 10-3 de la loi n° 2003-710 du 1er août 2003 d'orientation
+et de programmation pour la ville et la rénovation urbaine, lorsque la restauration a été déclarée d'utilité publique. Les
+ministres chargés de la ville et de la culture arrêtent la liste des quartiers présentant une concentration élevée d'habitat
+ancien dégradé, sur proposition de l'Agence nationale pour la rénovation urbaine ; 
 
 3°-situé dans une zone de protection du patrimoine architectural, urbain et paysager créée en application des articles L.
 642-1 à L. 642-7 du code du patrimoine dans leur rédaction applicable avant l'entrée en vigueur de la loi n° 2010-788 du 12
@@ -50,7 +56,9 @@ III. ― La réduction d'impôt est égale à 22 % du montant des dépenses ment
 Ce taux est porté à 30 % lorsque les dépenses sont effectuées pour des immeubles situés dans un secteur sauvegardé créé en
 application du I de l'article L. 313-1 du code de l'urbanisme ou dans un quartier ancien dégradé délimité en application de
 l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la
-restauration a été déclarée d'utilité publique. 
+restauration a été déclarée d'utilité publique ou dans un quartier présentant une concentration élevée d'habitat ancien
+dégradé et faisant l'objet d'une convention pluriannuelle prévue à l'article 10-3 de la loi n° 2003-710 du 1er août 2003
+précitée, lorsque la restauration a été déclarée d'utilité publique. 
 
 IV. ― Lorsque les dépenses portent sur un local à usage d'habitation, le propriétaire prend l'engagement de le louer nu, à
 usage de résidence principale du locataire, pendant une durée de neuf ans. Lorsque les dépenses portent sur un local affecté
@@ -110,10 +118,15 @@ VII. ― Un décret précise, en tant que de besoin, les modalités d'applicatio
 VIII. ― Le présent article s'applique aux dépenses portant sur des immeubles pour lesquels une demande de permis de
 construire ou une déclaration de travaux a été déposée à compter du 1er janvier 2009.
 
+**Nota:**
+
+Ces dispositions entrent en vigueur pour les revenus perçus à compter du 1er janvier 2016.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - Loi n°2003-710 du 1 août 2003 - art. 10-3 (V)
   - Loi n°2009-323 du 25 mars 2009 - art. 25
   - Code général des impôts, CGI. - art. 199 decies E
   - Code général des impôts, CGI. - art. 4 B
@@ -123,6 +136,10 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L261-1
   - Code du patrimoine - art. L531-14
   - Code du patrimoine - art. L642-1
+
+_Créé par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 84 (VD)
 
 _Cité par_:
 
@@ -144,4 +161,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 5
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 79

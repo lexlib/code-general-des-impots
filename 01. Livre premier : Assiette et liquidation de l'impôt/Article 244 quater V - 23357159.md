@@ -1,6 +1,6 @@
 # Article 244 quater V
 
-I. ― Les établissements de crédit et les sociétés de financement mentionnés à l'article L. 511-1 du code monétaire et
+I. – Les établissements de crédit et les sociétés de financement mentionnés à l'article L. 511-1 du code monétaire et
 financier passibles de l'impôt sur les sociétés, de l'impôt sur le revenu ou d'un impôt équivalent, ayant leur siège dans un
 Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec
 la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, peuvent
@@ -10,10 +10,10 @@ construction et de l'habitation.
 Les conditions d'attribution et les modalités des prêts ne portant pas intérêt mentionnés au premier alinéa sont fixées
 chaque année par décret dans les conditions prévues aux articles L. 31-10-1 et suivants du code de la construction et de
 l'habitation. Une étude d'impact jointe au décret fait apparaître les mesures prises pour que le montant des crédits d'impôt
-afférents aux prêts ne portant pas intérêt émis sur une même période de douze mois ne dépasse pas un milliard d'euros. Ce
-montant s'entend du montant brut des crédits d'impôt accordés, diminué de l'impôt sur les bénéfices correspondant. (1)
+afférents aux prêts ne portant pas intérêt émis sur une même période de douze mois ne dépasse pas 2,1 milliards d'euros. Ce
+montant s'entend du montant brut des crédits d'impôt accordés, diminué de l'impôt sur les bénéfices correspondant. (1) 
 
-II. ― Le montant du crédit d'impôt est égal à l'écart entre la somme actualisée des mensualités dues au titre du prêt ne
+II. – Le montant du crédit d'impôt est égal à l'écart entre la somme actualisée des mensualités dues au titre du prêt ne
 portant pas intérêt et la somme actualisée des montants perçus au titre d'un prêt de mêmes montant et durée de remboursement,
 consenti à des conditions normales de taux à la date d'émission de l'offre de prêt ne portant pas intérêt. 
 
@@ -32,12 +32,12 @@ partiel d'actif, la créance est transmise à la société bénéficiaire des ap
 portant pas intérêt y afférents et versés à des personnes physiques par la société scindée ou apporteuse soient transférés à
 la société bénéficiaire des apports. 
 
-III. ― La société mentionnée au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation est
+III. – La société mentionnée au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation est
 tenue de fournir à l'administration fiscale, dans les quatre mois de la clôture de l'exercice de chaque établissement de
 crédit ou société de financement, les informations relatives aux prêts ne portant pas intérêt versés par chaque établissement
 de crédit ou société de financement, au montant total des crédits d'impôt correspondants obtenus ainsi qu'à leur suivi. 
 
-IV. ― Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou les groupements mentionnés aux articles
+IV. – Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou les groupements mentionnés aux articles
 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé
 par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à la condition que les associés
 soient redevables de l'impôt sur les sociétés ou soient des personnes physiques participant à l'exploitation au sens du 1°
@@ -45,14 +45,15 @@ bis du I de l'article 156.
 
 **Nota:**
 
-Conformément au IV de l'article 59 de la loi n° 2014-1654 du 29 décembre 2014, ces dispositions s'appliquent aux offres de
-prêts émises à compter du 1er janvier 2015.
+Conformément à l'article 107 III B de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent aux
+offres de prêt émises à compter du 1er janvier 2016, ainsi que, en cas d'accord de l'emprunteur et de l'établissement de
+crédit ou de la société de financement, aux prêts versés depuis le 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (M)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (V)
 
 _Cité par_:
 
@@ -104,7 +105,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 59
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 107 (V)
 
 _Cite_:
 
@@ -115,5 +116,5 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 quater C
   - Code général des impôts, CGI. - art. 8
   - Code monétaire et financier - art. L511-1
-  - Code de la construction et de l'habitation. - art. L31-10-11
+  - Code de la construction et de l'habitation. - art. L31-10-11 (V)
   - Code de la construction et de l'habitation. - art. L312-1
