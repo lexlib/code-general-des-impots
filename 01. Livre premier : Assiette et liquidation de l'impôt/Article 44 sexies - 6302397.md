@@ -50,17 +50,9 @@ notamment en matière d'utilisation d'une enseigne, d'un nom commercial, d'une m
 d'approvisionnement, de modalités de gestion administrative, contentieuse, commerciale ou technique, dans des conditions
 telles que cette entreprise est placée dans une situation de dépendance. 
 
-IV.-Pour les exercices clos du 1er janvier 2007 au 31 décembre 2013, le bénéfice de l'exonération est subordonné au respect
-du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du
-traité aux aides de minimis. 
-
-Pour les exercices clos à compter du 1er janvier 2014, le bénéfice de l'exonération est subordonné au respect du règlement
-(UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le
-fonctionnement de l'Union européenne aux aides de minimis (1).
-
-**Nota:**
-
-(1) Ces dispositions s'appliquent aux avantages octroyés à compter du 1er janvier 2014.
+IV. - Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre
+2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de
+minimis.
 
 **Liens relatifs à cet article**
 
@@ -126,10 +118,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 34
-  - Code général des impôts, CGI. - art. 53 A (V)
-  - Code général des impôts, CGI. - art. 92 (V)
+  - Code général des impôts, CGI. - art. 53 A
+  - Code général des impôts, CGI. - art. 92

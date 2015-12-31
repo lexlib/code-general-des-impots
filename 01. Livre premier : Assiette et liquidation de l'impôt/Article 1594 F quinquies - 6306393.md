@@ -11,7 +11,7 @@ de rénovation. Toutefois, en ce qui concerne la taxe ou le droit afférents aux
 contre-partie de leur créance sur un organisme de rénovation, le bénéfice de la réduction de taux ne peut être invoqué qu'à
 concurrence du montant de la créance sur l'organisme de rénovation ; 
 
-C. Les cessions gratuites aux collectivités publiques de terrains classés, visées à l'article L. 130-2 du code de
+C. Les cessions gratuites aux collectivités publiques de terrains classés, visées à l'article L. 113-3 du code de
 l'urbanisme ; 
 
 D. I. Les acquisitions d'immeubles ruraux à condition : 
@@ -73,7 +73,7 @@ F. Les ventes résultant de l'application des articles L. 181-5 à L. 181-8 du c
 mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la
 Guadeloupe, de la Martinique, de la Réunion et de la Guyane. 
 
-G.(Abrogé).
+G. (Abrogé). 
 
 H. Les acquisitions, par une société de crédit-bail, d'immeubles dont elle concède immédiatement la jouissance au vendeur par
 un contrat de crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si cette formalité est obligatoire
@@ -90,11 +90,6 @@ L.-Les acquisitions en vue de leur revente de lots de copropriétés faisant l'o
 l'article L. 615-1 du code de la construction et de l'habitation, par des sociétés anonymes et des sociétés anonymes
 coopératives de production d'habitations à loyers modérés ainsi que par des sociétés d'économie mixte.
 
-**Nota:**
-
-LOI n° 2009-1673 du 30 décembre 2009 de finances pour 2010 art 77 1.2.1.6 : les présentes dispositions s'appliquent aux actes
-passés et aux conventions conclues à compter du 1er janvier 2011.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -107,7 +102,7 @@ _Cite_:
   - Code rural - art. D343-13
   - Code rural - art. D343-9
   - Code rural - art. L181-5
-  - Code de l'urbanisme - art. L130-2
+  - Code de l'urbanisme - art. L113-3 (VT)
   - Code de la construction et de l'habitation. - art. L615-1
 
 _Cité par_:
@@ -119,4 +114,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-864 du 22 juillet 2011 - art. 5
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9

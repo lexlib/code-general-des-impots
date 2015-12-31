@@ -5,7 +5,7 @@ des dispositions suivantes.
 
 Ne constituent pas une rémunération imposable : 
 
-1° Les indemnités mentionnées aux articles L. 1235-1,  L. 1235-2, L. 1235-3 et L. 1235-11 à L. 1235-13 du code du travail ; 
+1° Les indemnités mentionnées aux articles L. 1235-1, L. 1235-2, L. 1235-3 et L. 1235-11 à L. 1235-13 du code du travail ; 
 
 2° Les indemnités de licenciement ou de départ volontaire versées dans le cadre d'un plan de sauvegarde de l'emploi au sens
 des articles L. 1233-32 et L. 1233-61 à L. 1233-64 du code du travail ; 
@@ -44,14 +44,14 @@ ou interprofessionnel ou, à défaut, par la loi.
 
 2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions,
 aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des
-fonctions, notamment de révocation, seule la fraction des indemnités qui excède les montants définis aux 3 et 4 du 1 est
-imposable.
+fonctions, notamment de révocation, seule la fraction des indemnités qui excède trois fois le plafond mentionné à l'article
+L. 241-3 du code de la sécurité sociale est imposable.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-504 du 14 juin 2013 - art. 21
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 3
 
 _Cité par_:
 
