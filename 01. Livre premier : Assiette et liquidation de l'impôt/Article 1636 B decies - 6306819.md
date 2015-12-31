@@ -1,9 +1,7 @@
 # Article 1636 B decies
 
-I. – Les communes membres d'un établissement public de coopération intercommunale soumis à l'article 1609 nonies C ainsi que
-les communes situées dans le périmètre de l'établissement public de coopération intercommunale mentionné au I bis de
-l'article 1379-0 bis votent le taux des taxes foncières et de la taxe d'habitation, conformément aux dispositions applicables
-aux communes.
+I. – Les communes membres d'un établissement public de coopération intercommunale soumis à l'article 1609 nonies C  votent le
+taux des taxes foncières et de la taxe d'habitation, conformément aux dispositions applicables aux communes.
 
 Toutefois, pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle qui
 devient soumis aux dispositions de l'article 1609 nonies C et pour celles qui, membres d'un établissement public de
@@ -15,10 +13,9 @@ non bâties ou le taux de la taxe d'habitation, voté l'année précédente par 
 taux moyen constaté la même année au niveau national dans l'ensemble des collectivités territoriales de même nature au titre
 de l'une ou l'autre de ces taxes.
 
-II. – Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C, à l'exclusion
-de l'établissement public de coopération intercommunale mentionné au I bis de l'article 1379-0 bis, ou du I ou du II de
-l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises dans les limites définies au b du 1, au
-2, au 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B septies.
+II. – Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C ou du I ou du
+II de l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises dans les limites définies au b du
+1, au 2, au 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B septies.
 
 Toutefois, l'obligation de diminuer le taux de cotisation foncière des entreprises dans une proportion au moins égale soit à
 la diminution du taux de la taxe d'habitation ou à celle du taux moyen pondéré de la taxe d'habitation et des taxes
@@ -90,10 +87,7 @@ moyen pondéré de la taxe d'habitation et des taxes foncières de la métropole
 par la référence au taux moyen pondéré de la taxe d'habitation et des taxes foncières constaté l'année précédente au niveau
 national pour l'ensemble des établissements publics de coopération intercommunale soumis à l'article 1609 nonies C.
 
-VII. – Le conseil de la métropole du Grand Paris vote le taux de la cotisation foncière des entreprises dans les limites
-prévues au b du 1 et aux 2, 3 et 5 du I de l'article 1636 B sexies, sous réserve du VIII de l'article 1636 B septies.
-
-Pour l'application du b du 1 et des 2, 3 et 5 du I de l'article 1636 B sexies :
+VII. – Pour l'application du II à la métropole du Grand Paris :
 
 1° La référence au taux de la taxe d'habitation est remplacée par la référence au taux moyen de cette taxe constaté dans
 l'ensemble des communes situées dans le périmètre de la métropole du Grand Paris ;
@@ -105,13 +99,6 @@ titre de laquelle le conseil de la métropole du Grand Paris vote son taux de co
 pour l'application du 3 du I du même article 1636 B sexies, pour le calcul des taux moyens pondérés constatés pour chacune de
 ces taxes, il n'est pas tenu compte des taux inférieurs aux trois quarts du taux moyen pondéré des communes constaté pour
 chaque taxe l'année précédente.
-
-La variation des taux définis aux 1° et 2° du présent VII est celle constatée l'année précédant celle au titre de laquelle le
-conseil de la métropole du Grand Paris vote son taux de cotisation foncière des entreprises.
-
-Lorsque les taux définis aux mêmes 1° et 2° n'ont pas varié l'année précédant celle au titre de laquelle le conseil de la
-métropole du Grand Paris vote son taux de cotisation foncière des entreprises, la variation prise en compte est celle
-constatée au titre de l'antépénultième année.
 
 **Nota:**
 
@@ -128,7 +115,7 @@ la métropole de Lyon.
 _Cite_:
 
   - Loi n°2010-1563 du 16 décembre 2010 - art. 60
-  - Code général des impôts, CGI. - art. 1636 B septies
+  - Code général des impôts, CGI. - art. 1636 B septies (VD)
   - Code général des impôts, CGI. - art. 1639 A
 
 _Cité par_:
@@ -147,4 +134,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (VD)
+  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+  - Ordonnance n°2015-1630 du 10 décembre 2015 - art. 1

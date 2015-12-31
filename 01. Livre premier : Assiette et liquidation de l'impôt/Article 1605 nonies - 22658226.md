@@ -1,9 +1,9 @@
 # Article 1605 nonies
 
-I. ― Il est perçu une taxe sur la cession à titre onéreux des terrains nus ou des droits relatifs à des terrains nus rendus
+I. – Il est perçu une taxe sur la cession à titre onéreux des terrains nus ou des droits relatifs à des terrains nus rendus
 constructibles du fait de leur classement, postérieurement au 13 janvier 2010, par un plan local d'urbanisme ou par un autre
 document d'urbanisme en tenant lieu, en zone urbaine ou à urbaniser ouverte à l'urbanisation ou par une carte communale dans
-une zone où les constructions sont autorisées ou par application de l'article L. 111-1-2 du code de l'urbanisme. 
+une zone où les constructions sont autorisées ou par application de l'article L. 111-3 du code de l'urbanisme. 
 
 Le produit de cette taxe est affecté, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28
 décembre 2011 de finances pour 2012, à un fonds inscrit au budget de l'Agence de services et de paiement. Ce fonds finance
@@ -15,15 +15,15 @@ Celles de ces mesures qui sont dans le champ de compétences de l'Etablissement 
 la mer mentionné à l'article L. 621-1 du code rural et de la pêche maritime sont mises en œuvre par cet établissement dans le
 cadre d'une convention avec l'Agence de services et de paiement. 
 
-II. ― La taxe est assise sur un montant égal au prix de cession défini à l'article 150 VA, diminué du prix d'acquisition
+II. – La taxe est assise sur un montant égal au prix de cession défini à l'article 150 VA, diminué du prix d'acquisition
 stipulé dans les actes ou, à défaut, de la valeur vénale réelle à la date d'entrée dans le patrimoine du cédant d'après une
 déclaration détaillée et estimative des parties, actualisé en fonction du dernier indice des prix à la consommation hors
-tabac publié par l'Institut national de la statistique et des études économiques.
+tabac publié par l'Institut national de la statistique et des études économiques. 
 
 L'assiette de la taxe est réduite d'un dixième par année écoulée à compter de la date à laquelle le terrain a été rendu
 constructible au-delà de la huitième année. 
 
-III. ― La taxe ne s'applique pas : 
+III. – La taxe ne s'applique pas : 
 
 1° Aux cessions de terrains pour lesquels une déclaration d'utilité publique a été prononcée en vue d'une expropriation, ni
 aux terrains dont le prix de cession défini à l'article 150 VA est inférieur à 15 000 € ; 
@@ -31,14 +31,14 @@ aux terrains dont le prix de cession défini à l'article 150 VA est inférieur 
 2° Lorsque le rapport entre le prix de cession et le prix d'acquisition ou la valeur vénale, définis au II, est inférieur à
 10. 
 
-IV. ― Le taux de la taxe est de 5 % lorsque le rapport entre le prix de cession du terrain et le prix d'acquisition ou la
+IV. – Le taux de la taxe est de 5 % lorsque le rapport entre le prix de cession du terrain et le prix d'acquisition ou la
 valeur vénale définis au II est supérieur à 10 et inférieur à 30. Au-delà de cette limite, la part de la plus-value restant à
 taxer est soumise à un taux de 10 %. 
 
 La taxe est exigible lors de la première cession à titre onéreux intervenue après que le terrain a été rendu constructible.
-Elle est due par le cédant.
+Elle est due par le cédant. 
 
-V. ― Une déclaration, conforme à un modèle établi par l'administration, retrace les éléments servant à la liquidation de la
+V. – Une déclaration, conforme à un modèle établi par l'administration, retrace les éléments servant à la liquidation de la
 taxe. Elle est déposée dans les conditions prévues aux 1° et 4° du I et au II de l'article 150 VG. 
 
 Lorsque la cession est exonérée en application du III ou par l'effet de l'abattement prévu au second alinéa du II du présent
@@ -46,15 +46,21 @@ article, aucune déclaration n'est déposée. L'acte de cession soumis à la for
 précise, sous peine de refus de dépôt ou de la formalité d'enregistrement, la nature et le fondement de cette exonération ou
 de cette absence de taxation. Les deux derniers alinéas du III de l'article 150 VG sont applicables. 
 
-VI. ― La taxe est versée lors du dépôt de la déclaration prévue au V. Les I et II de l'article 150 VF, le second alinéa du I
+VI. – La taxe est versée lors du dépôt de la déclaration prévue au V. Les I et II de l'article 150 VF, le second alinéa du I
 et les II et III de l'article 150 VH et le IV de l'article 244 bis A sont applicables.
 
-**Nota:**
-
-Loi n° 2014-1655 du 29 décembre 2014 de finances rectificative article 62 II C : ces dispositions s'appliquent aux plus-
-values réalisées au titre des cessions intervenues à compter du 1er janvier 2015.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+  - Code général des impôts, CGI. - art. 150 VA
+  - Code général des impôts, CGI. - art. 150 VF
+  - Code général des impôts, CGI. - art. 150 VG
+  - Code général des impôts, CGI. - art. 150 VH
+  - Code général des impôts, CGI. - art. 244 bis A
+  - Code rural - art. L621-1
+  - Code de l'urbanisme - art. L111-3 (VT)
 
 _Cité par_:
 
@@ -66,14 +72,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 62
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 150 VA
-  - Code général des impôts, CGI. - art. 150 VF
-  - Code général des impôts, CGI. - art. 150 VG
-  - Code général des impôts, CGI. - art. 150 VH
-  - Code général des impôts, CGI. - art. 244 bis A
-  - Code rural - art. L621-1
-  - Code de l'urbanisme - art. L111-1-2
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9

@@ -72,8 +72,8 @@ appréciées à la date de conclusion du bail ne doivent pas excéder des plafon
 localisation du logement et de son type. 
 
 Les plafonds de loyer mentionnés au premier alinéa peuvent être réduits, dans des conditions définies par décret, par le
-représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement  mentionné à l'article
-L. 364-1 du code de la construction et de l'habitation, afin d'être adaptés aux particularités des marchés locatifs locaux. 
+représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement mentionné à l'article L.
+364-1 du code de la construction et de l'habitation, afin d'être adaptés aux particularités des marchés locatifs locaux. 
 
 IV. ― La réduction d'impôt s'applique exclusivement aux logements situés dans des communes classées, par arrêté des ministres
 chargés du budget et du logement, dans des zones géographiques se caractérisant par un déséquilibre important entre l'offre
@@ -82,8 +82,8 @@ et la demande de logements entraînant des difficultés d'accès au logement sur
 Dans les zones géographiques se caractérisant par un déséquilibre entre l'offre et la demande de logements, autres que celles
 mentionnées au premier alinéa, la réduction d'impôt s'applique aux logements situés dans des communes caractérisées par des
 besoins particuliers en logement locatif qui ont fait l'objet, dans des conditions définies par décret, d'un agrément du
-représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement  mentionné à l'article
-L. 364-1 du code de la construction et de l'habitation. 
+représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement mentionné à l'article L.
+364-1 du code de la construction et de l'habitation. 
 
 Toutefois, pour les logements que le contribuable acquiert jusqu'au 30 juin 2013 ou fait construire et qui font l'objet d'un
 dépôt de demande de permis de construire jusqu'à cette date, la réduction d'impôt s'applique également aux logements situés
@@ -158,25 +158,7 @@ au titre de l'année de la souscription et imputée sur l'impôt dû au titre de
 de chacune des cinq ou huit années suivantes à raison d'un sixième ou d'un neuvième de son montant total au titre de chacune
 de ces années. 
 
-IX. ― Au sein d'un même immeuble neuf comportant au moins cinq logements, un pourcentage des logements doit être acquis sans
-pouvoir ouvrir droit au bénéfice de la réduction d'impôt prévue au présent article. Un décret fixe ce pourcentage, qui ne
-peut être inférieur à 20 %. Le respect de cette limite s'apprécie à la date de la signature de l'acte authentique
-d'acquisition du dernier logement acquis. 
-
-Le droit mentionné au premier alinéa prend la forme d'une mention figurant dans l'acte authentique d'acquisition des
-logements ouvrant droit à la réduction d'impôt mentionnée au présent article. 
-
-Le premier alinéa ne s'applique pas aux immeubles dont l'ensemble des logements est acquis par une société civile de
-placement immobilier dans les conditions mentionnées au VIII. 
-
-La personne qui commercialise des logements situés dans un immeuble mentionné au premier alinéa de telle sorte que la limite
-mentionnée à ce même alinéa n'est pas respectée est passible d'une amende maximale de 18 000 € par logement excédentaire.
-L'administration notifie à la personne qui commercialise un ou des logements au-delà de la limite mentionnée audit alinéa le
-montant de l'amende dont elle est passible et sollicite ses observations. 
-
-Le décret mentionné au premier alinéa fixe les conditions et les modalités d'application du présent IX et, notamment, les
-modalités de recouvrement de l'amende mentionnée à l'avant-dernier alinéa. Ces dispositions s'appliquent aux immeubles
-faisant l'objet d'un permis de construire accordé à compter de la publication de ce décret. 
+IX. ― (Abrogé).
 
 X. ― Le montant total des dépenses retenu pour l'application du présent article au titre, d'une part, de l'acquisition ou de
 la construction de logements et, d'autre part, de souscriptions de titres ne peut excéder globalement 300 000 € par
@@ -235,10 +217,10 @@ _Cite_:
 
   - Loi n°86-1290 du 23 décembre 1986
   - Loi n°89-462 du 6 juillet 1989 - art. 6
-  - Code général des impôts, CGI. - art. 199 tervicies
+  - Code général des impôts, CGI. - art. 199 tervicies (M)
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 199 undecies C
-  - Code général des impôts, CGI. - art. 257 (V)
+  - Code général des impôts, CGI. - art. 257
   - Code de la sécurité sociale. - art. L341-4
   - Code de la construction et de l'habitation. - art. L364-1
   - Code de la construction et de l'habitation. - art. R331-1
@@ -292,4 +274,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 7

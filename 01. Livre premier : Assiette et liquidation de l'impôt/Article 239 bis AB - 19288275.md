@@ -21,7 +21,7 @@ Pour l'application du 1° du II de l'article 163 quinquies B, du 1 du I de l'art
 l'article L. 214-30 et du premier alinéa du I de l'article L. 214-31 du code monétaire et financier et du troisième alinéa du
 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier,
 les sociétés ayant exercé l'option prévue au I sont réputées soumises à l'impôt sur les sociétés dans les conditions de droit
-commun au taux normal. Il en va de même pour l'application du c du 2° du I de l'article 199 terdecies-0 A. 
+commun au taux normal. 
 
 II.-L'option prévue au I est subordonnée au respect des conditions suivantes : 
 
@@ -35,7 +35,11 @@ l'exclusion de la gestion de son propre patrimoine mobilier ou immobilier ;
 
 Les conditions mentionnées aux 1° et 2° ainsi que la condition de détention du capital mentionnée au I s'apprécient de
 manière continue au cours des exercices couverts par l'option. Lorsque l'une d'entre elles n'est plus respectée au cours de
-l'un de ces exercices, l'article 206 est applicable à la société, à compter de ce même exercice. 
+l'un de ces exercices, l'article 206 est applicable à la société, à compter de ce même exercice. Toutefois, lorsque le seuil
+de cinquante salariés mentionné au 2° du présent II est atteint ou dépassé au cours d'un exercice clos à compter du 31
+décembre 2015 et jusqu'au 31 décembre 2018, le régime défini au présent article continue de s'appliquer au titre de cet
+exercice et des deux exercices suivants, dans la limite de la période de validité de l'option mentionnée au deuxième alinéa
+du III.
 
 La condition mentionnée au 3° s'apprécie à la date d'ouverture du premier exercice d'application de l'option. 
 
@@ -54,7 +58,6 @@ opter à nouveau pour ce régime en application du présent article.
 _Cite_:
 
   - Loi n°85-695 du 11 juillet 1985 - art. 1-1
-  - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 163 quinquies B
   - Code général des impôts, CGI. - art. 206
   - Code général des impôts, CGI. - art. 208 D
@@ -66,8 +69,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 145
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 26
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 15 (M)
 
 _Cité par_:
 

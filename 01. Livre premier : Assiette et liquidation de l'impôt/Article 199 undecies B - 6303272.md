@@ -6,26 +6,28 @@ en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Bart
 Terres australes et antarctiques françaises, dans le cadre d'une entreprise exerçant une activité agricole ou une activité
 industrielle, commerciale ou artisanale relevant de l'article 34. Lorsque l'activité est exercée dans un département d'outre-
 mer, l'entreprise doit avoir réalisé un chiffre d'affaires, au titre de son dernier exercice clos, inférieur à 20 millions
-d'euros. Lorsque l'entreprise n'a clôturé aucun exercice, son chiffre d'affaires est réputé être nul. Si le dernier exercice
-clos est d'une durée de plus ou de moins de douze mois, le montant du chiffre d'affaires est corrigé pour correspondre à une
-période de douze mois. Lorsque la réduction d'impôt s'applique dans les conditions prévues aux vingt-sixième et vingt-
-septième alinéas, le chiffre d'affaires s'apprécie au niveau de l'entreprise locataire ou crédit-preneuse. Celle-ci en
-communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux deuxième et cinquième
-phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du 12 de
-l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble des
-entreprises qui lui sont liées. Lorsque l'activité est exercée dans un département d'outre-mer ou à Saint-Martin,
-l'investissement doit être un investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission,
-du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107
-et 108 du traité, et il ne doit pas être exploité par une entreprise en difficulté, au sens du même règlement. 
+d'euros. Ce seuil de chiffre d'affaires est ramené à 15 millions d'euros, 10 millions d'euros et 5 millions d'euros pour les
+investissements que l'entreprise réalise au cours des exercices ouverts à compter, respectivement, du 1er janvier 2018, du
+1er janvier 2019 et du 1er janvier 2020. Lorsque l'entreprise n'a clôturé aucun exercice, son chiffre d'affaires est réputé
+être nul. Si le dernier exercice clos est d'une durée de plus ou de moins de douze mois, le montant du chiffre d'affaires est
+corrigé pour correspondre à une période de douze mois. Lorsque la réduction d'impôt s'applique dans les conditions prévues
+aux vingt-sixième et vingt-septième alinéas, le chiffre d'affaires s'apprécie au niveau de l'entreprise locataire ou crédit-
+preneuse. Celle-ci en communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux
+deuxième et sixième phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises
+au sens du 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de
+l'ensemble des entreprises qui lui sont liées. Lorsque l'activité est exercée dans un département d'outre-mer ou à Saint-
+Martin, l'investissement doit être un investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la
+Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des
+articles 107 et 108 du traité, et il ne doit pas être exploité par une entreprise en difficulté, au sens du même règlement. 
 
 Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements réalisés, dans les secteurs d'activité suivants : 
 
 a) Commerce ; 
 
 b) Les cafés, débits de tabac et débits de boisson ainsi que la restauration, à l'exception des restaurants dont le dirigeant
-est titulaire du titre de maître-restaurateur mentionné à l'article 244 quater Q et qui ont été contrôlés dans le cadre de la
-délivrance de ce titre ainsi que, le cas échéant, des restaurants de tourisme classés à la date de publication de la loi n°
-2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques ; 
+ou un salarié est titulaire du titre de maître-restaurateur mentionné à l'article 244 quater Q et qui ont été contrôlés dans
+le cadre de la délivrance de ce titre ainsi que, le cas échéant, des restaurants de tourisme classés à la date de publication
+de la loi n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques ; 
 
 c) Conseils ou expertise ; 
 
@@ -54,9 +56,9 @@ l) Les activités postales.
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
 résidence de tourisme et de village de vacances classés, lorsque ces travaux constituent des éléments de l'actif immobilisé.
-La réduction d'impôt ne s'applique pas à l'acquisition de véhicules soumis à la taxe définie à l'article 1010 qui ne sont pas
-strictement indispensables à l'activité de l'exploitant. Les conditions d'application de la phrase précédente sont fixées par
-arrêté du ministre chargé du budget et du ministre chargé de l'outre-mer. 
+La réduction d'impôt ne s'applique pas à l'acquisition de véhicules définis au premier alinéa du I de l'article 1010 qui ne
+sont pas strictement indispensables à l'activité de l'exploitant. Les conditions d'application de la phrase précédente sont
+fixées par arrêté du ministre chargé du budget et du ministre chargé de l'outre-mer. 
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux investissements affectés plus de cinq ans par le
 concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial réalisés, dans
@@ -93,7 +95,9 @@ La réduction d'impôt prévue au premier alinéa est pratiquée au titre de l'a
 en service. Toutefois, en cas d'acquisition d'un immeuble à construire ou de construction d'immeuble, la réduction d'impôt
 prévue au premier alinéa est pratiquée au titre de l'année au cours de laquelle les fondations sont achevées. Si l'immeuble
 n'est pas achevé dans les deux ans suivant la date à laquelle les fondations sont achevées, la réduction d'impôt pratiquée
-fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai. 
+fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai. En cas de rénovation ou
+de réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances classés, la réduction d'impôt est pratiquée
+au titre de l'année d'achèvement des travaux.
 
 Lorsque le montant de la réduction d'impôt excède l'impôt dû par le contribuable ayant réalisé l'investissement, le solde
 peut être reporté, dans les mêmes conditions, sur l'impôt sur le revenu des années suivantes jusqu'à la cinquième
@@ -271,22 +275,28 @@ IV.-Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités
 notamment les obligations déclaratives.
 
 V. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
-d'outre-mer et à Saint-Martin, au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité.
+d'outre-mer et à Saint-Martin, au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité. 
 
-**Nota:**
+VI.-Le présent article est applicable aux investissements mis en service jusqu'au 31 décembre 2020 en Guadeloupe, en Guyane,
+en Martinique, à Mayotte, à La Réunion et à Saint-Martin, et jusqu'au 31 décembre 2025 à Saint-Pierre-et-Miquelon, en
+Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy et dans les îles Wallis et Futuna, aux travaux de
+réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et aux constructions
+d'immeubles dont les fondations sont achevées au plus tard à cette date. 
 
-Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
-dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du
-1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième
-à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur
-rédaction résultant du II du présent article.
-
-Aux termes du II de l'article 71 de la loi n° 2014-1654 du 29 décembre 2014, ces dispositions entrent en vigueur à une date
-fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse
-de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié comme conforme au droit de
-l'Union européenne en matière d'aides d'Etat.
+L'extinction du dispositif de réduction d'impôt, prévue au premier alinéa du présent VI, est conditionnée par la mise en
+place d'un mécanisme pérenne de préfinancement à taux zéro des investissements productifs neufs mentionnés au présent article
+en complément du maintien du dispositif de crédit d'impôt prévu à l'article 244 quater W ou, à défaut, par la création d'un
+dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs investissements
+productifs mentionnés au présent article sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux
+d'abattement équivalent aux taux prévus au III du même article 244 quater W.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2009-594 du 27 mai 2009 - art. 16 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 19 (V)
 
 _Cité par_:
 
@@ -327,7 +337,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 undecies C (M)
   - Code général des impôts, CGI. - art. 199 undecies D (VD)
   - Code général des impôts, CGI. - art. 199 undecies E (V)
-  - Code général des impôts, CGI. - art. 199 undecies F (V)
+  - Code général des impôts, CGI. - art. 199 undecies F (M)
   - Code général des impôts, CGI. - art. 200-0 A (V)
   - Code général des impôts, CGI. - art. 217 duodecies (V)
   - Code général des impôts, CGI. - art. 217 undecies (V)
@@ -358,7 +368,7 @@ _Cite_:
 
   - Loi n°2009-888 du 22 juillet 2009
   - Code de commerce - art. L232-21
-  - Code général des impôts, CGI. - art. 1010
+  - Code général des impôts, CGI. - art. 1010 (V)
   - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 239 quater
@@ -368,8 +378,3 @@ _Cite_:
   - Code général des impôts, CGI. - art. 41
   - Code des postes et des communications électroniques - art. L36-8
   - Code monétaire et financier - art. L313-23
-
-_Modifié par_:
-
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 71

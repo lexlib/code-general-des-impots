@@ -64,9 +64,9 @@ quel que soit le lieu d'établissement du bailleur.
 Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 Toutefois, sur option des entreprises qui procèdent aux opérations mentionnées au I dans une zone d'aide à finalité
-régionale, le bénéfice de l'exonération est subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la
-Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
-articles 87 et 88 du traité (règlement général d'exemption par catégorie). 
+régionale, le bénéfice de l'exonération est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la
+Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des
+articles 107 et 108 du traité. 
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'exonération. Elle doit être exercée dans les six
 mois suivant les opérations mentionnées au I. 
@@ -104,14 +104,10 @@ _Cite_:
   - Code général des impôts, CGI. - art. 96
   - Code monétaire et financier - art. L511-1
 
-_Créé par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (M)
-
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
-  - Loi n°2014-891 du 8 août 2014 - art. 20
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
 
 _Cité par_:
 
