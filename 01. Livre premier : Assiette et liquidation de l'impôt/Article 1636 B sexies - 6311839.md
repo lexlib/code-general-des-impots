@@ -1,8 +1,8 @@
 # Article 1636 B sexies
 
-I. 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B decies les conseils municipaux et les instances
+I. – 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B decies les conseils municipaux et les instances
 délibérantes des organismes de coopération intercommunale dotés d'une fiscalité propre votent chaque année les taux des taxes
-foncières, de la taxe d'habitation et de la cotisation foncière des entreprises . Ils peuvent : 
+foncières, de la taxe d'habitation et de la cotisation foncière des entreprises. Ils peuvent : 
 
 a) Soit faire varier dans une même proportion les taux des quatre taxes appliqués l'année précédente ; 
 
@@ -66,19 +66,19 @@ année, le taux de la cotisation foncière des entreprises déterminé en applic
 pour cette taxe l'année précédente dans l'ensemble des communes et que le taux moyen pondéré des trois autres taxes perçues
 au profit de la collectivité concernée est au plus inférieur de 20 % au taux moyen pondéré constaté l'année précédente pour
 ces trois taxes dans l'ensemble des communes. Ces règles sont applicables pour les communes qui ont adhéré à un établissement
-public de coopération intercommunale à compter de 1995. 
+public de coopération intercommunale à compter de 1995.
 
 4. (Abrogé) 
 
-5.L'instance délibérante d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies
-C et dont le taux de cotisation foncière des entreprises est inférieur à 75 % de la moyenne de sa catégorie constatée l'année
-précédente au niveau national peut fixer le taux de cotisation foncière des entreprises dans cette limite, sans que
+5. L'instance délibérante d'un établissement public de coopération intercommunale faisant application de l'article 1609
+nonies C et dont le taux de cotisation foncière des entreprises est inférieur à 75 % de la moyenne de sa catégorie constatée
+l'année précédente au niveau national peut fixer le taux de cotisation foncière des entreprises dans cette limite, sans que
 l'augmentation du taux soit supérieure à 5 %. 
 
 Les catégories mentionnées au premier alinéa s'entendent des communautés d'agglomération, des communautés de communes faisant
-application de l'article 1609 nonies C et des communautés urbaines faisant application de ce même article.
+application de l'article 1609 nonies C et des communautés urbaines faisant application de ce même article. 
 
-I bis. 1. Dans les communes où le taux ou les bases de la cotisation foncière des entreprises étaient nuls l'année
+I bis. – 1. Dans les communes où le taux ou les bases de la cotisation foncière des entreprises étaient nuls l'année
 précédente, le conseil municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux
 moyen constaté pour la cotisation foncière des entreprises l'année précédente dans l'ensemble des communes ne doit pas
 excéder le rapport entre d'une part, le taux moyen de la taxe d'habitation et des taxes foncières, pondéré par l'importance
@@ -92,13 +92,13 @@ pour la cotisation foncière des entreprises l'année précédente dans l'ensemb
 de coopération intercommunale ne doit pas excéder le rapport entre, d'une part, le taux moyen de la taxe d'habitation et des
 taxes foncières, pondéré par l'importance relative des bases de ces trois taxes dans l'établissement public de coopération
 intercommunale pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de ces trois taxes constaté l'année
-précédente dans l'ensemble des communes membres de l'établissement public.
+précédente dans l'ensemble des communes membres de l'établissement public. 
 
-I ter. - 1. Dans les communes où le taux ou les bases de la taxe foncière sur les propriétés non bâties étaient nuls l'année
+I ter. – 1. Dans les communes où le taux ou les bases de la taxe foncière sur les propriétés non bâties étaient nuls l'année
 précédente, le conseil municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux
 moyen constaté pour la taxe foncière sur les propriétés non bâties l'année précédente dans l'ensemble des communes ne doit
 pas excéder le rapport entre le taux de taxe d'habitation de la commune pour l'année d'imposition et le taux moyen constaté
-pour la taxe d'habitation l'année précédente dans l'ensemble des communes.
+pour la taxe d'habitation l'année précédente dans l'ensemble des communes. 
 
 2. Dans les établissements publics de coopération intercommunale à fiscalité propre additionnelle où le taux de la taxe
 foncière sur les propriétés non bâties était nul l'année précédente, l'organe délibérant de l'établissement public de
@@ -106,37 +106,19 @@ coopération intercommunale peut fixer le taux de cette taxe. Toutefois, le rapp
 constaté pour la taxe foncière sur les propriétés non bâties l'année précédente dans l'ensemble des communes membres de
 l'établissement public de coopération intercommunale ne doit pas excéder le rapport entre le taux de taxe d'habitation de
 l'établissement public de coopération intercommunale pour l'année d'imposition et le taux moyen constaté pour la taxe
-d'habitation l'année précédente dans l'ensemble des communes membres de l'établissement public.
+d'habitation l'année précédente dans l'ensemble des communes membres de l'établissement public. 
 
-L'alinéa précédent est applicable aux établissements publics de coopération intercommunale soumis à l'article 1609 nonies C.
+L'alinéa précédent est applicable aux établissements publics de coopération intercommunale soumis à l'article 1609 nonies C. 
 
-II. En cas de création d'un établissement public de coopération intercommunale doté d'une fiscalité propre, les rapports
+II. – En cas de création d'un établissement public de coopération intercommunale doté d'une fiscalité propre, les rapports
 entre les taux des quatre taxes établies par l'établissement public de coopération intercommunale doivent être égaux, la
 première année, aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des
 communes membres. 
 
 Les dispositions du premier alinéa sont applicables l'année qui suit celle au titre de laquelle l'établissement public de
-coopération intercommunale a voté un taux égal à zéro pour les quatre taxes.
+coopération intercommunale a voté un taux égal à zéro pour les quatre taxes. 
 
-III.-1. Pour l'application du 1 du I du présent article aux communes situées sur le territoire de la métropole du Grand
-Paris, le taux de référence de la taxe d'habitation relatif à l'année 2016 est égal à la somme : 
-
-a) D'une part, du taux communal de l'année 2015 ; 
-
-b) Et, d'autre part, du taux intercommunal de l'année 2015. 
-
-2. Pour l'application du 1 du I aux communes situées sur le territoire de la métropole du Grand Paris, le taux de référence
-de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties relatif à l'année 2016 est
-égal à la somme : 
-
-a) D'une part, du taux communal de l'année 2015 ; 
-
-b) Et, d'autre part, du taux intercommunal de l'année 2015. 
-
-Pour les communes situées sur le périmètre de la métropole du Grand Paris qui n'étaient pas membres d'un établissement public
-de coopération intercommunale à fiscalité propre au 31 décembre 2015, le taux de référence de la taxe d'habitation, de la
-taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties relatif à l'année 2016 est égal
-à celui voté par ces communes en 2015.
+III. – (Abrogé)
 
 **Liens relatifs à cet article**
 
@@ -147,7 +129,7 @@ _Cité par_:
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 23 (V)
   - Loi n°2015-991 du 7 août 2015 - art. 59
   - Code général des collectivités territoriales - art. L5334-12 (Ab)
-  - Code général des collectivités territoriales - art. L5334-4 (VT)
+  - Code général des collectivités territoriales - art. L5334-4 (V)
   - Code général des impôts, CGI. - art. 1379-0 bis (VD)
   - Code général des impôts, CGI. - art. 1407 ter (V)
   - Code général des impôts, CGI. - art. 1636 B decies (V)
@@ -162,3 +144,9 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2015-991 du 7 août 2015 - art. 59 (VD)
+  - Ordonnance n°2015-1630 du 10 décembre 2015 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+  - Code général des impôts, CGI. - art. 1636 B septies (V)

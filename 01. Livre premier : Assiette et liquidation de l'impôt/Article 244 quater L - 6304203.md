@@ -19,7 +19,7 @@ titre de chacune des années mentionnées au même I. Le montant du crédit d'im
 diminué à concurrence du montant de ces aides et mesures de soutien excédant 1 500 €. 
 
 3. Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en commun, les montants mentionnés aux 1 et 2
-sont multipliés par le nombre d'associés, sans que le montant du crédit d'impôt ainsi obtenu puisse excéder trois fois le
+sont multipliés par le nombre d'associés, sans que le montant du crédit d'impôt ainsi obtenu puisse excéder quatre fois le
 crédit d'impôt calculé dans les conditions prévues aux mêmes 1 et 2. 
 
 III. - Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou les groupements
@@ -36,7 +36,7 @@ aux aides de minimis dans le secteur de l'agriculture.
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 12
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 41
 
 _Cite_:
 

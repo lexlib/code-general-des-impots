@@ -1,10 +1,10 @@
 # Article 1649 quater F
 
-Des associations ayant pour objet de développer l'usage de la comptabilité, de fournir une analyse des informations
-économiques, comptables et financières en matière de prévention des difficultés économiques et financières et de faciliter
-l'accomplissement de leurs obligations administratives et fiscales par les membres des professions libérales et les
-titulaires des charges et offices peuvent être agréées dans des conditions fixées par décret en Conseil d'Etat pris après
-avis des organisations professionnelles.
+Des associations ayant pour objet de développer l'usage de la comptabilité, de fournir une assistance en matière de gestion,
+de leur fournir une analyse des informations économiques, comptables et financières en matière de prévention des difficultés
+économiques et financières et de faciliter l'accomplissement de leurs obligations administratives et fiscales par les membres
+des professions libérales et les titulaires des charges et offices peuvent être agréées dans des conditions fixées par décret
+en Conseil d'Etat.
 
 Ces associations ont pour fondateurs soit des ordres ou des organisations professionnelles légalement constituées des membres
 des professions mentionnées au premier alinéa, soit des experts comptables ou des sociétés inscrites à l'ordre des experts
@@ -21,10 +21,6 @@ ministériel.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 5
-
 _Cité par_:
 
   - Arrêté du 26 juin 2009 (V)
@@ -34,7 +30,7 @@ _Cité par_:
   - Décret n°2016-1356 du 11 octobre 2016 - art. 1
   - Arrêté du 22 novembre 2016 - art. (V)
   - Code général des impôts, CGI. - art. 1649 quater G (V)
-  - Code général des impôts, CGI. - art. 1649 quater H (M)
+  - Code général des impôts, CGI. - art. 1649 quater H (V)
   - Code général des impôts, CGI. - art. 1649 quater K ter (V)
   - Code général des impôts, CGI. - art. 1649 quater L (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 M (V)
@@ -42,3 +38,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z quater (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexdecies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quatervicies (V)
+
+_Modifié par_:
+
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 37
