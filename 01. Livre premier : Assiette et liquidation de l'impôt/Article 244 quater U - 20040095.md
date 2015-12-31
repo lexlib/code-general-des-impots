@@ -27,6 +27,9 @@ e) Travaux d'installation d'équipements de chauffage utilisant une source d'én
 
 f) Travaux d'installation d'équipements de production d'eau chaude sanitaire utilisant une source d'énergie renouvelable ; 
 
+1° bis Soit de travaux permettant d'améliorer la performance énergétique du logement et ayant ouvert droit à une aide
+accordée par l'Agence nationale de l'habitat au titre de la lutte contre la précarité énergétique (1) ;
+
 2° Soit de travaux permettant d'atteindre une performance énergétique globale minimale du logement ; 
 
 3° Soit de travaux de réhabilitation de systèmes d'assainissement non collectif par des dispositifs ne consommant pas
@@ -34,8 +37,9 @@ d'énergie ;
 
 4° (alinéa supprimé) 
 
-Les modalités de détermination des travaux mentionnés aux 1°, 2° et 3° sont fixées par décret. Ce décret fixe également les
-critères de qualification de l'entreprise exigés pour les travaux mentionnés aux 1° et 2° (1). 
+Les modalités de détermination des travaux mentionnés aux 1° à 3° (1) sont fixées par décret. Ce décret fixe également les
+critères de qualification de l'entreprise exigés pour les travaux mentionnés aux 1° et 2°. La condition d'ancienneté du
+logement mentionnée au 1 ne s'applique pas en cas de réalisation de travaux prévus au 1° bis du présent 2 (1). 
 
 3. L'avance remboursable sans intérêt peut être consentie aux personnes suivantes : 
 
@@ -50,30 +54,43 @@ physique, qu'elles le donnent en location ou s'engagent à le donner en location
 d'intérêt collectif réalisés sur les parties privatives prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet 1965
 fixant le statut de la copropriété des immeubles bâtis ainsi que des travaux réalisés sur les parties et équipements communs
 de l'immeuble dans lequel elles possèdent leur habitation principale ou des logements qu'elles donnent ou s'engagent à donner
-en location (1) ; 
+en location ; 
 
 4° Aux sociétés civiles non soumises à l'impôt sur les sociétés dont au moins un des associés est une personne physique,
 membres d'un syndicat de copropriétaires, à raison du prorata qui leur revient des travaux d'intérêt collectif réalisés sur
 les parties privatives prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété
 des immeubles bâtis ainsi que des travaux réalisés sur les parties et équipements communs de l'immeuble dans lequel elles
 possèdent un logement qu'elles mettent gratuitement à la disposition de l'un de leurs associés personne physique, donnent en
-location ou s'engagent à donner en location (1). 
+location ou s'engagent à donner en location. 
 
 4. Le montant de l'avance remboursable ne peut excéder la somme de 30 000 € par logement. 
 
 5. L'emprunteur fournit à l'établissement de crédit ou la société de financement mentionné au 1, à l'appui de sa demande
-d'avance remboursable sans intérêt, un descriptif et un devis détaillés des travaux envisagés. Il transmet, dans un délai de
-deux ans à compter de la date d'octroi de l'avance par l'établissement de crédit ou la société de financement mentionné au 1,
-tous les éléments justifiant que les travaux ont été effectivement réalisés conformément au descriptif et au devis détaillés
-et satisfont aux conditions prévues aux 1 et 2. Toutefois, lorsque l'avance est consentie dans les conditions prévues au VI
-bis, ce délai est porté à trois ans (2). Un décret fixe les modalités d'application du présent 5.
+d'avance remboursable sans intérêt, un descriptif et un devis détaillés des travaux envisagés. Par exception, lorsque la
+demande d'avance remboursable sans intérêt intervient concomitamment à une demande de prêt pour l'acquisition du logement
+faisant l'objet des travaux, le descriptif et le devis détaillés des travaux envisagés peuvent être fournis postérieurement,
+au plus tard à la date de versement du prêt (1). Il transmet, dans un délai de trois ans (1) à compter de la date d'octroi de
+l'avance par l'établissement de crédit ou la société de financement mentionné au 1, tous les éléments justifiant que les
+travaux ont été effectivement réalisés conformément au descriptif et au devis détaillés et satisfont aux conditions prévues
+aux 1 et 2. 
+
+Toutefois, lorsque l'avance est consentie pour financer des travaux mentionnés au 1° bis du 2, la demande d'avance s'appuie
+sur un descriptif des travaux envisagés et des éléments fournis à l'emprunteur par l'Agence nationale de l'habitat et la
+justification que les travaux ont été effectivement réalisés est assurée par le versement de l'aide mentionnée au même 1° bis
+(1).
 
 6. Il ne peut être accordé qu'une seule avance remboursable par logement. 
+
+6 bis. Par dérogation au 6, l'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes
+conditions à titre complémentaire aux personnes mentionnées au 3 pour financer d'autres travaux portant sur le même logement
+qui correspondent à au moins l'une des catégories mentionnées au 1° du 2. L'offre d'avance complémentaire est émise dans un
+délai de trois ans à compter de l'émission de l'offre d'avance initiale. La somme des montants de l'avance initiale et de
+l'avance complémentaire ne peut excéder la somme de 30 000 € au titre d'un même logement. (2)
 
 7. Les dépenses de travaux financées par une avance remboursable peuvent ouvrir droit au crédit d'impôt sur le revenu prévu à
 l'article 200 quater lorsque le montant des revenus du foyer fiscal tel que défini au IV de l'article 1417 n'excède pas un
 plafond, de 25 000 € pour une personne célibataire, veuve ou divorcée, 35 000 € pour un couple soumis à imposition commune et
-7 500 € supplémentaires par personne à charge au sens des articles 196 à 196 B (2), l'avant-dernière année précédant celle de
+7 500 € supplémentaires par personne à charge au sens des articles 196 à 196 B, l'avant-dernière année précédant celle de
 l'offre de l'avance. 
 
 8. (alinéa supprimé) 
@@ -117,7 +134,7 @@ les associés proportionnellement à leurs droits dans ces sociétés ou ces gro
 redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156. 
 
-VI bis. (1)-L'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à un
+VI bis. - L'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à un
 syndicat de copropriétaires pour financer les travaux d'intérêt collectif réalisés sur les parties privatives prévus au f de
 l'article 25 de la loi n° 65-557 du 10 juillet 1965 précitée ainsi que les travaux réalisés sur les parties et équipements
 communs de l'immeuble lorsqu'au moins 75 % des quotes-parts de copropriété sont compris dans des lots affectés à l'usage
@@ -127,8 +144,8 @@ d'habitation, détenus par l'une des personnes mentionnées aux 3° et 4° du 3 
 Les travaux mentionnés au premier alinéa du présent VI bis sont constitués des travaux mentionnés aux 1°, 2° et 3° du 2 du I
 ainsi que de travaux qui correspondent à l'une des catégories mentionnées au 1° du même 2. 
 
-Conformément au 6 du I, l'avance prévue au premier alinéa du présent VI bis ne peut être consentie au titre d'un logement
-lorsque celui-ci a déjà bénéficié d'une avance remboursable prévue au présent article pour ce même logement. 
+L'avance prévue au premier alinéa du présent VI bis ne peut être consentie au titre d'un logement lorsque celui-ci a déjà
+bénéficié d'une avance remboursable prévue au présent article pour ce même logement. 
 
 Il ne peut être accordé qu'une seule avance remboursable par syndicat de copropriétaires des logements sur lesquels portent
 les travaux. 
@@ -140,27 +157,29 @@ mentionnées aux 3° et 4° du 3 du même I.
 La condition prévue au 7 dudit I s'applique à chacun des copropriétaires participant à l'avance remboursable prévue au
 présent VI bis. 
 
-VI ter. (1)-Par dérogation au 6 du I, l'avance remboursable sans intérêt prévue au présent article peut être consentie dans
-les mêmes conditions à titre complémentaire aux personnes mentionnées aux 3° et 4° du 3 du même I lorsqu'elles participent à
-une avance remboursable mentionnée au VI bis, pour financer d'autres travaux portant sur le même logement qui correspondent à
-au moins l'une des catégories mentionnées au 1° du 2 du I et sous réserve des adaptations prévues au présent VI ter. 
+VI ter.-L'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à titre
+complémentaire aux personnes mentionnées aux 3° et 4° du 3 du même I lorsqu'elles participent à une avance remboursable
+mentionnée au VI bis, pour financer d'autres travaux portant sur le même logement qui correspondent à au moins l'une des
+catégories mentionnées au 1° du 2 du I et sous réserve des adaptations prévues au présent VI ter. 
 
 L'offre d'avance doit être émise dans un délai d'un an à compter de l'émission de l'offre d'avance prévue au VI bis. 
 
 La somme des montants de l'avance émise au titre du présent VI ter et de l'avance émise au titre du VI bis ne peut excéder la
 somme de 30 000 € au titre d'un même logement 
 
-VII.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article autres que celles dont il est prévu
-qu'elles sont fixées par décret, et notamment les modalités de calcul du crédit d'impôt et de détermination du taux mentionné
-au II, ainsi que les caractéristiques financières et les conditions d'attribution de l'avance remboursable sans intérêt.
+VII.-Un décret fixe les modalités d'application du présent article et notamment les modalités de calcul du crédit d'impôt et
+de détermination du taux mentionné au II, ainsi que les caractéristiques financières et les conditions d'attribution de
+l'avance remboursable sans intérêt.
 
 **Nota:**
 
-(1) : Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 74 V : Ces dispositions s'appliquent aux offres
-d'avance émises à compter de l'entrée en vigueur du décret prévu au même 1° et, au plus tard, au 1er janvier 2015.
+(1) : Conformément à l'article 108 III A de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
+aux offres d'avances émises à compter du 1er janvier 2016.
 
-(2) : Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 74 V : Ces dispositions s'appliquent aux offres
-d'avance émises à compter du 1er janvier 2014.
+(2) : Conformément à l'article 108 III B de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
+aux offres d'avances complémentaires émises à compter du 1er juillet 2016. Aucune offre d'avance complémentaire mentionnée au
+6 bis, ne peut être émise après la date fixée à la fin du VII de l'article 99 de la loi n° 2008-1425 du 27 décembre 2008 de
+finances pour 2009.
 
 **Liens relatifs à cet article**
 
@@ -181,7 +200,7 @@ _Cite_:
 _Cité par_:
 
   - Arrêté du 4 octobre 2001 - art. 3 (V)
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 99 (M)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 99 (V)
   - Arrêté du 30 mars 2009 - art. 3 (V)
   - Arrêté du 30 mars 2009 - art. 4 (V)
   - Arrêté du 30 mars 2009 - art. 5 (V)
@@ -264,4 +283,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 14
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 108 (V)

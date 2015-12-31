@@ -2,21 +2,16 @@
 
 La taxe sur la valeur ajoutée afférente aux achats, importations, acquisitions intracommunautaires, livraisons et services
 effectués à compter du 1er janvier 2006 cesse d'être exclue du droit à déduction en ce qui concerne les véhicules ou engins
-de type tout terrain affectés exclusivement à l'exploitation des remontées mécaniques et des domaines skiables, dès lors
-qu'ils ont été certifiés par le service technique des remontées mécaniques et des transports guidés, selon des conditions
-fixées par décret.
+de type tout terrain affectés exclusivement à l'exploitation des remontées mécaniques et des domaines skiables,
+selon des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 93 () JORF 31 décembre 2005
+  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 4
 
 _Cité par_:
 
   - Décret n°2016-1062 du 3 août 2016 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 84 A (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006

@@ -7,12 +7,12 @@ d'habitation perçue par l'établissement public de coopération intercommunale.
 existant entre les taux de chaque commune membre et le taux moyen sont réduites d'un cinquième chaque année à compter de
 1980.
 
+Les conseils délibérants peuvent également décider d'instituer, par délibération prise à l'unanimité des conseils municipaux,
+une procédure de lissage progressif des taux sur une période maximale de douze ans permettant à terme de supprimer les écarts
+de taux de taxe d'habitation entre l'ensemble des communes membres.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
 
 _Modifié par_:
 
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 7 () JORF 27 mars 2004
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 58
