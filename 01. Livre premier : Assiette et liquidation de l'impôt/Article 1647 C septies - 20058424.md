@@ -6,9 +6,16 @@ C et 1466 D peuvent bénéficier d'un crédit d'impôt, pris en charge par l'Eta
 moins un an au 1er janvier de l'année d'imposition dans l'établissement au titre duquel le crédit d'impôt est demandé,
 lorsque les conditions suivantes sont réunies : 
 
-1° L'établissement relève d'une micro-entreprise au sens de l'article 2 de l'annexe I au règlement (CE) n° 800/2008 de la
-Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
-articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ; 
+1° L'établissement relève d'une entreprise employant au plus onze salariés au 1er janvier de chaque année d'application du
+crédit d'impôt et ayant réalisé soit un chiffre d'affaires inférieur à 2 millions d'euros au cours de la période de référence
+prévue aux articles 1467 A et 1478, éventuellement corrigé pour correspondre à une année pleine, soit un total du bilan
+inférieur à 2 millions d'euros. Pour la société mère d'un groupe mentionné aux articles 223 A ou 223 A bis, le chiffre
+d'affaires est apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe. 
+
+Toutefois, pour les impositions établies au titre des années 2016 à 2018, lorsqu'une entreprise bénéficiant déjà du crédit
+d'impôt prévu au présent article constate, au 1er janvier de l'année d'application du crédit d'impôt, un dépassement du seuil
+d'effectif mentionné au premier alinéa du présent 1°, cette circonstance ne lui fait pas perdre le bénéfice de ce crédit
+d'impôt, pour l'année au cours de laquelle ce dépassement est constaté ainsi que pour l'année suivante ; 
 
 2° L'établissement réalise, à titre principal, une activité commerciale ou artisanale au sens de l'article 34 ; 
 
@@ -40,11 +47,6 @@ VII. ― Le bénéfice du crédit d'impôt est subordonné au respect du règlem
 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
 aides de minimis.
 
-**Nota:**
-
-Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 25 III : Ces dispositions s'appliquent à
-compter des impositions établies au titre de 2015.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -53,18 +55,19 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1464 B
   - Code général des impôts, CGI. - art. 1464 I
   - Code général des impôts, CGI. - art. 1464 L
-  - Code général des impôts, CGI. - art. 1466 A
+  - Code général des impôts, CGI. - art. 1466 A (M)
   - Code général des impôts, CGI. - art. 1466 C
+  - Code général des impôts, CGI. - art. 1467 A (V)
   - Code général des impôts, CGI. - art. 1477
-
-_Créé par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (M)
+  - Code général des impôts, CGI. - art. 1478 (V)
+  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 223 A bis (V)
+  - Code général des impôts, CGI. - art. 34 (V)
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 15
 
 _Cité par_:
 

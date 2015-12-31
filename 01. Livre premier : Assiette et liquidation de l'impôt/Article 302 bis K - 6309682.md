@@ -1,7 +1,7 @@
 # Article 302 bis K
 
 I. - 1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du budget annexe " Contrôle et exploitation
-aériens " et du budget général de l'Etat est due par les entreprises de transport aérien public. 
+aériens " est due par les entreprises de transport aérien public. 
 
 La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués en France, quelles que soient les
 conditions tarifaires accordées par le transporteur, à l'exception : 
@@ -26,8 +26,8 @@ a) Les évacuations sanitaires d'urgence ;
 b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92 du Conseil du 23 juillet 1992 concernant les
 licences des transporteurs aériens. 
 
-3. Lorsque le passager est en correspondance, il bénéficie d'une exonération de 50 %. Est considéré comme passager en
-correspondance celui qui remplit les trois conditions suivantes : 
+3. La taxe n'est pas perçue lorsque le passager est en correspondance. Est considéré comme tel celui qui remplit les trois
+conditions suivantes : 
 
 a) L'arrivée a eu lieu par voie aérienne sur l'aéroport considéré ou sur l'un des aéroports appartenant au même système
 aéroportuaire desservant la même ville ou agglomération ; 
@@ -39,14 +39,14 @@ aéroportuaire tel que mentionné au a.
 
 Pour l'application du a, un décret précise les aéroports faisant partie d'un même système aéroportuaire. 
 
-II. - 1. Le tarif de la taxe est le suivant : 
+II. - 1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant : 
 
 4,40 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
 partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
 
 7,92 € par passager embarqué vers d'autres destinations ;
 
-1,31 € par tonne de courrier ou de fret embarquée.
+Le tarif de la taxe est de 1,31 € par tonne de courrier ou de fret embarquée.
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de
 croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année. 
@@ -73,11 +73,7 @@ dépassement.
 aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par
 virement bancaire. 
 
-III. - Les quotités du produit de la taxe affectées respectivement au budget annexe " Contrôle et exploitation aériens " et
-au budget général sont déterminées par la loi de finances. 
-
-Les sommes encaissées au titre du budget général par les comptables du budget annexe " Contrôle et exploitation aériens "
-sont transférées mensuellement aux comptables publics assignataires. 
+III. - (Abrogé).
 
 IV. - 1.-Les déclarations mentionnées au II sont contrôlées par les services de la direction générale de l'aviation civile. A
 cette fin, les agents assermentés peuvent examiner sur place les documents utiles. 
@@ -172,10 +168,6 @@ chiffre d'affaires.
 4. La taxe de solidarité sur les billets d'avion est recouvrée dans les conditions fixées au V. Elle est reversée
 mensuellement à l'Agence française de développement.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -200,7 +192,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 92
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 42 (V)
 
 _Cite_:
 

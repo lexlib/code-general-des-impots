@@ -15,7 +15,7 @@ montant des amortissements expressément exclus des charges déductibles ainsi q
 contravention aux dispositions de l'article 39 B ; 
 
 c. Aux plus-values réalisées à l'occasion de la cession de titres de sociétés établies dans un Etat ou territoire non
-coopératif au sens de l'article 238-0 A.  (1)
+coopératif au sens de l'article 238-0 A. 
 
 3. Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2.
 
@@ -44,6 +44,15 @@ indépendamment de l'opération d'apport ou de scission.
 
 6 bis. Le régime fiscal des plus et moins-values à long terme prévu par le présent article et les articles suivants n'est pas
 applicable à la quote-part des profits distribués par un fonds de placement immobilier mentionné à l'article 239 nonies. 
+
+6 ter. Le régime fiscal des plus et moins-values prévu au présent article s'applique aux cessions de parts d'un fonds de
+placement immobilier mentionné à l'article 239 nonies lorsque l'actif du fonds est, au moment de la cession des parts,
+constitué, pour plus de 50 % de sa valeur, par des immeubles auxquels sont affectés, en vue de leur location, des meubles
+meublants, biens d'équipement ou biens meubles affectés à ces immeubles et nécessaires au fonctionnement, à l'usage ou à
+l'exploitation de ces derniers par un tiers, mentionnés à l'article L. 214-34 du code monétaire et financier et si le porteur
+de parts est considéré comme exerçant à titre professionnel, au sens du IV de l'article 155 du présent code. Le montant de la
+plus-value est alors majoré des fractions d'amortissement théorique des immeubles déduites dans les conditions mentionnées au
+2 du II de l'article 239 nonies et qui n'ont pas fait l'objet d'une réintégration en application du f du 1 du même II. 
 
 7. 
 
@@ -98,14 +107,14 @@ l'application du b du 2.
 
 **Nota:**
 
-(1) Dans sa décision n° 2014-437 QPC du 20 janvier 2015 (NOR : CSCX1501797S), le Conseil constitutionnel a déclaré le c du 2
-de l'article 39 duodecies du code général des impôts conforme à la Constitution, sous la réserve énoncée au considérant 10.
+Loi n° 2015-1786 du 29 décembre 2016, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des
+revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 2
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 28
 
 _Cité par_:
 
@@ -153,9 +162,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 38 bis-0 A
   - Code général des impôts, CGI. - art. 39 B
   - Code monétaire et financier - art. L211-22
+  - Code monétaire et financier - art. L214-34 (V)
   - Code monétaire et financier - art. L313-7
   - Code des assurances - art. L134-4
-  - Code des assurances - art. L142-4
   - Code des assurances - art. L143-7
   - Code des assurances - art. L144-2
   - Code des assurances - art. L441-8
