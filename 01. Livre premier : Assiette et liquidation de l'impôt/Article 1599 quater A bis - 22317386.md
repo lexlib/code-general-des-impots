@@ -11,26 +11,24 @@ sur les lignes de transport en commun de voyageurs mentionnées au I.
 III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son
 utilisation selon le barème suivant : 
 
-<table border="1">
+<table align="center" border="1">
     <tbody>
       <tr>
-        <th>CATÉGORIE 
-
-de materiels roulants
+        <th>CATÉGORIE DE MATÉRIELS ROULANTS 
 
 </th>
         <th>
 
 TARIFS 
 
-(en euros)
+(en euros) 
 
 </th>
       </tr>
       <tr>
-        <td align="center" valign="middle">
+        <td align="left">
 
-Métro
+Métro 
 
 </td>
         <td align="center">
@@ -38,19 +36,19 @@ Métro
       <tr>
         <td align="left">
 
-Motrice et remorque
+Motrice et remorque 
 
 </td>
         <td align="center">
 
-12 751
+12 879 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left">
 
-Autre matériel
+Autre matériel 
 
 </td>
         <td align="center">
@@ -58,24 +56,26 @@ Autre matériel
       <tr>
         <td align="left">
 
-Automotrice et motrice
+Automotrice et motrice 
 
 </td>
         <td align="center">
 
-23 920
+24 159 
 
 </td>
       </tr>
       <tr>
         <td align="left">
 
-Remorque
+Remorque 
 
 </td>
         <td align="center">
 
-4 992</td>
+5 042 
+
+</td>
       </tr>
     </tbody>
   </table>
@@ -126,5 +126,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+  - Décret n°2016-775 du 10 juin 2016 - art. 1
