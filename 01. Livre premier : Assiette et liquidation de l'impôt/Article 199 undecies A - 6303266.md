@@ -89,7 +89,7 @@ bénéfice de la réduction d'impôt est conditionné à l'obtention d'un agrém
 budget dans les conditions prévues au III de l'article 217 undecies. 
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour
-les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 448 € hors taxes par mètre carré de surface
+les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 449 € hors taxes par mètre carré de surface
 habitable. Cette limite est relevée chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur
 quatre trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique
 et des études économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui
@@ -182,7 +182,9 @@ logement à usage d'habitation principale de son personnel ne fait pas obstacle 
 
 (1) Conformément à l'article 110 III A de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
 aux travaux achevés à compter du 1er janvier 2016, à l'exception de ceux pour lesquels des acomptes au moins égaux à 50 % de
-leur prix ont été versés au plus tard le 31 décembre 2015 et si les travaux sont achevés au plus tard le 31 décembre 2017.
+leur prix ont été versés au plus tard le 31 décembre 2015 et si les travaux sont achevés au plus tard le 31 décembre 2017. 
+
+Modification effectuée en conséquence de l'article 58-I-1° de la loi n° 2004-1485 du 30 décembre 2004
 
 **Liens relatifs à cet article**
 
@@ -257,4 +259,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)
+  - Décret n°2016-775 du 10 juin 2016 - art. 1
