@@ -1,6 +1,6 @@
 # Article 1613 quater
 
-I. ― Il est institué une contribution perçue sur les boissons et préparations liquides pour boissons destinées à la
+I. – Il est institué une contribution perçue sur les boissons et préparations liquides pour boissons destinées à la
 consommation humaine : 
 
 1° Relevant des codes NC 2009 et NC 2202 du tarif des douanes ; 
@@ -15,7 +15,7 @@ professionnel ;
 Sont exclus du périmètre de cette taxe les denrées destinées à des fins médicales spéciales ainsi que les aliments
 hyperprotéinés destinés aux personnes dénutries. 
 
-II. ― Le montant de la contribution est fixé à 7,50 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à
+II. – Le montant de la contribution est fixé à 7,53 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à
 compter du 1er janvier 2013, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors
 tabac de l'avant-dernière année. Ce montant est exprimé avec deux chiffres après la virgule, le deuxième chiffre étant
 augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté du ministre chargé du
@@ -24,7 +24,7 @@ budget, publié au Journal officiel.
 Pour son application à Mayotte, le montant mentionné au premier alinéa est fixé à 3,31 € au 1er janvier 2014, à 4,31 € au 1er
 janvier 2015, à 5,31 € au 1er janvier 2016 et à 7,31 € au 1er janvier 2017. 
 
-III. ― 1. La contribution est due à raison des boissons mentionnées au I par leurs fabricants établis en France, leurs
+III. – 1. La contribution est due à raison des boissons mentionnées au I par leurs fabricants établis en France, leurs
 importateurs et les personnes qui réalisent en France des acquisitions intracommunautaires, sur toutes les quantités livrées
 à titre onéreux ou gratuit. 
 
@@ -32,7 +32,7 @@ importateurs et les personnes qui réalisent en France des acquisitions intracom
 titre onéreux ou gratuit à leurs clients des boissons consommables en l'état mentionnées au I dont elles ont préalablement
 assemblé les différents composants présentés dans des récipients non destinés à la vente au détail. 
 
-IV. ― Les expéditions vers un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+IV. – Les expéditions vers un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
 économique européen ainsi que les exportations vers un pays tiers sont exonérées de la contribution lorsqu'elles sont
 réalisées directement par les personnes mentionnées au 1 du III. 
 
@@ -48,16 +48,16 @@ alinéa. Cette attestation comporte l'engagement d'acquitter la contribution au 
 recevrait pas la destination qui a motivé la franchise. Une copie de l'attestation est conservée à l'appui de la comptabilité
 des intéressés. 
 
-V. ― La contribution mentionnée au I est acquittée auprès de l'administration des douanes. Elle est recouvrée et contrôlée
+V. – La contribution mentionnée au I est acquittée auprès de l'administration des douanes. Elle est recouvrée et contrôlée
 selon les règles, sanctions, garanties et privilèges applicables au droit spécifique mentionné à l'article 520 A. Le droit de
 reprise de l'administration s'exerce dans les mêmes délais. 
 
-VI. ― Le produit de la contribution mentionnée au I est affecté à la branche mentionnée au 2° de l'article L. 722-8 du code
+VI. – Le produit de la contribution mentionnée au I est affecté à la branche mentionnée au 2° de l'article L. 722-8 du code
 rural et de la pêche maritime.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 3 et 5 de l'arrêté du 19 décembre 2014.
+Modifications effectuées en conséquence des articles 3 et 5 de l'arrêté du 18 décembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -70,11 +70,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Décret n°2016-775 du 10 juin 2016 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 520 A
+  - Code général des impôts, CGI. - art. 520 A (V)
+  - Code rural - art. L722-8 (V)
 
 _Anciens textes_:
 
