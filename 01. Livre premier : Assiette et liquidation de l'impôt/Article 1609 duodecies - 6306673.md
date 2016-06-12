@@ -2,8 +2,9 @@
 
 La taxe sur l'édition des ouvrages de librairie est due par les éditeurs en raison des ventes autres que les exportations et
 les livraisons, exonérées en vertu du I de l'article 262 ter ou les livraisons dans un lieu situé dans un autre Etat membre
-de l'Union européenne en application de l'article 258 A, des ouvrages de librairie de toute nature, y compris  des livres
-numériques au sens de l'article 1er de la loi n° 2011-590 du 26 mai 2011 relative au prix unique du livre, qu'ils éditent. 
+de l'Union européenne en application de l'article 258 A, des ouvrages de librairie de toute nature, y compris des livres
+numériques au sens de l'article 1er de la loi n° 2011-590 du 26 mai 2011 relative au prix du livre numérique, qu'ils
+éditent. 
 
 En sont exonérés les éditeurs dont le chiffre d'affaires de l'année précédente pour cette branche d'activité n'a pas excédé,
 tous droits et taxes compris, 76300 €. 
@@ -25,16 +26,21 @@ _Anciens textes_:
 
   - CGI 1609 decies B
 
-_Modifié par_:
-
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 96
-
 _Cite_:
 
+  - Loi n°2011-590 du 26 mai 2011 - art. 1
   - Code général des impôts, CGI. - art. 258 A
   - Code général des impôts, CGI. - art. 258 B
   - Code général des impôts, CGI. - art. 262 ter
   - Code des douanes - art. 66 bis
+
+_Modifié par_:
+
+  - Décret n°2016-775 du 10 juin 2016 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (V)
 
 _Cité par_:
 
