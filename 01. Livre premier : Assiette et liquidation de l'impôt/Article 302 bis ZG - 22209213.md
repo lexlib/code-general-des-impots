@@ -9,9 +9,9 @@ sommes engagées par les parieurs.
 Ce prélèvement est dû par le Pari mutuel urbain ou les sociétés de courses intéressées pour les paris organisés dans les
 conditions fixées par l'article 5 de la loi du 2 juin 1891 précitée et par les personnes devant être soumises, en tant
 qu'opérateur de paris hippiques en ligne, à l'agrément mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010
-précitée. Le produit de ce prélèvement est affecté à concurrence de 15 % et dans la limite de 10 735 495 € aux établissements
+précitée. Le produit de ce prélèvement est affecté à concurrence de 15 % et dans la limite de 10 842 850 € aux établissements
 publics de coopération intercommunale sur le territoire desquels sont ouverts au public un ou plusieurs hippodromes, au
-prorata des enjeux des courses hippiques effectivement organisées par lesdits hippodromes, et dans la limite de 751 485 € par
+prorata des enjeux des courses hippiques effectivement organisées par lesdits hippodromes, et dans la limite de 759 000 € par
 établissement public de coopération intercommunale. Les limites mentionnées dans la phrase précédente sont indexées, chaque
 année, sur la prévision de l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de
 l'année.
@@ -38,4 +38,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Décret n°2016-775 du 10 juin 2016 - art. 1
