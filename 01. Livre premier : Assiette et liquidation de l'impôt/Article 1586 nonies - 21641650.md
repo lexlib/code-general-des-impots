@@ -9,7 +9,7 @@ taxée au profit des collectivités concernées par l'exonération de cotisation
 
 II. - Lorsque des établissements peuvent être exonérés de cotisation foncière des entreprises par délibération d'une commune
 ou d'un établissement public de coopération intercommunale, les départements, les régions et la collectivité territoriale de
-Corse peuvent, par une délibération prise dans les conditions prévues au I de l'article 1639 A bisou à l'article 1464 C
+Corse peuvent, par une délibération prise dans les conditions prévues au I de l'article 1639 A bis ou à l'article 1464 C
 exonérer leur valeur ajoutée de cotisation sur la valeur ajoutée des entreprises pour sa fraction taxée à leur profit.
 L'exonération est applicable à la demande de l'entreprise. Pour les établissements pouvant être exonérés de cotisation
 foncière des entreprises en application des articles 1464 A et 1465 et du I de l'article 1466 A, la délibération détermine la
@@ -30,7 +30,7 @@ de 2 millions d'euros de valeur ajoutée.
 V. - Pour la détermination de la cotisation sur la valeur ajoutée des entreprises, la valeur ajoutée des établissements
 bénéficiant d'une exonération ou d'un abattement de la base nette d'imposition à la cotisation foncière des entreprises en
 application des I, I sexies ou I septies de l'article 1466 A fait l'objet, à la demande de l'entreprise, d'une exonération ou
-d'un abattement de même taux, dans la limite respectivement pour 2014 de 136 192 € et de 370 119 € de valeur ajoutée par
+d'un abattement de même taux, dans la limite respectivement pour 2015 de 136 464 € et de 370 859 € de valeur ajoutée par
 établissement et actualisé chaque année en fonction de la variation de l'indice des prix. 
 
 VI. - Le bénéfice des exonérations de cotisation sur la valeur ajoutée des entreprises prévues aux I à III et de l'abattement
@@ -63,12 +63,12 @@ _Créé par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Décret n°2016-775 du 10 juin 2016 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1464 A
   - Code général des impôts, CGI. - art. 1465
-  - Code général des impôts, CGI. - art. 1466 A
+  - Code général des impôts, CGI. - art. 1466 A (M)
   - Code général des impôts, CGI. - art. 1586 octies
   - Code général des impôts, CGI. - art. 1639 A bis
