@@ -10,154 +10,152 @@ précédente sur le réseau ferré national pour des opérations de transport de
 III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son
 utilisation selon le barème suivant : 
 
-<table border="1">
-  <tbody>
-    <tr>
-      <th>CATÉGORIE        
-
-de matériels roulants
+<table align="center" border="1">
+    <tbody>
+      <tr>
+        <th>CATÉGORIE DE MATÉRIELS ROULANTS 
 
 </th>
-      <th>
+        <th>
 
-TARIFS        
+TARIFS 
 
-(en euros)
+(en euros) 
 
 </th>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-Engins à moteur thermique
-
-</td>
-      <td align="center"> </td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Automoteur
+Engins à moteur thermique 
 
 </td>
-      <td align="center">
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-31 200
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Locomotive Diesel
+Automoteur 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-31 200
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Engins à moteur électrique
+31 512 
 
 </td>
-      <td align="center"> </td>
-    </tr>
-    <tr>
-      <td align="left">
+      </tr>
+      <tr>
+        <td align="left">
 
-Automotrice
-
-</td>
-      <td align="center">
-
-23 920
+Locomotive Diesel 
 
 </td>
-    </tr>
-    <tr>
-      <td align="left">
+        <td align="center">
 
-Locomotive électrique
+31 512 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-20 801
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Motrice de matériel à grande vitesse
+Engins à moteur électrique 
 
 </td>
-      <td align="center">
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-36 401
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Automotrice tram-train
+Automotrice 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-11 960
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Engins remorqués
+24 159 
 
 </td>
-      <td align="center"> </td>
-    </tr>
-    <tr>
-      <td align="left">
+      </tr>
+      <tr>
+        <td align="left">
 
-Remorque pour le transport de passagers
-
-</td>
-      <td align="center">
-
-4 992
+Locomotive électrique 
 
 </td>
-    </tr>
-    <tr>
-      <td align="left">
+        <td align="center">
 
-Remorque pour le transport de passagers à grande vitesse
+21 009 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-10 400
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Remorque tram-train
+Motrice de matériel à grande vitesse 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-2 496</td>
-    </tr>
-  </tbody>
-</table>
+36 765 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Automotrice tram-train 
+
+</td>
+        <td align="center">
+
+12 080 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Engins remorqués 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+Remorque pour le transport de passagers 
+
+</td>
+        <td align="center">
+
+5 042 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Remorque pour le transport de passagers à grande vitesse 
+
+</td>
+        <td align="center">
+
+10 504 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Remorque tram-train 
+
+</td>
+        <td align="center">
+
+2 521 </td>
+      </tr>
+    </tbody>
+  </table>
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en
 fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance. 
@@ -223,7 +221,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Décret n°2016-775 du 10 juin 2016 - art. 1
 
 _Cite_:
 
