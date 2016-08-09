@@ -1,7 +1,7 @@
 # Article 244 quater Q
 
-I.-1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44
-octies, 44 terdecies, 44 quaterdecies ou 44 quindecies, dont le dirigeant ou un salarié est titulaire du titre de maître-
+I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies,
+44 octies, 44 terdecies, 44 quaterdecies ou 44 quindecies, dont le dirigeant ou un salarié est titulaire du titre de maître-
 restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes
 d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur. 
 
@@ -23,10 +23,10 @@ actions.
 Le salarié titulaire du titre de maître-restaurateur doit, au 31 décembre de l'année civile au titre de laquelle le crédit
 d'impôt est calculé, être employé depuis au moins un mois, le cas échéant après une période d'essai, par l'entreprise et
 avoir conclu avec celle-ci un contrat de travail à durée indéterminée ou à durée déterminée pour une période minimale de
-douze mois, pour un temps de travail qui ne peut être inférieur à la durée minimale de travail définie à l'article L.
-3123-14-1 du code du travail. 
+douze mois, pour un temps de travail qui ne peut être inférieur à la durée minimale de travail définie au premier alinéa de
+l'article L. 3123-7 et aux articles L. 3123-19 et L. 3123-27 du code du travail. 
 
-II.-1. Les dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des
+II. – 1. Les dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des
 charges relatif au titre de maître-restaurateur et ouvrant droit au crédit d'impôt mentionné au 1 du I sont : 
 
 1° Les dotations aux amortissements des immobilisations permettant d'adapter les capacités de stockage et de conservation de
@@ -88,10 +88,10 @@ b) ne pas avoir été ou être comprises dans la base de calcul d'un autre créd
 4. Les subventions publiques reçues par les entreprises à raison de dépenses ouvrant droit au crédit d'impôt sont déduites
 des bases de calcul de ce crédit. 
 
-III.-Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt mentionné au I est
+III. – Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt mentionné au I est
 calculé par année civile. 
 
-IV.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission,
+IV. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission,
 du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne
 aux aides de minimis. 
 
@@ -102,18 +102,14 @@ droits dans ces sociétés s'ils satisfont aux conditions d'application de ce m�
 redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156. 
 
-V.-Les I à IV s'appliquent aux entreprises dont le dirigeant ou un salarié a obtenu la délivrance du titre de maître-
+V. – Les I à IV s'appliquent aux entreprises dont le dirigeant ou un salarié a obtenu la délivrance du titre de maître-
 restaurateur entre le 15 novembre 2006 et le 31 décembre 2017. 
 
-VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants
+VI. – Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants
 ou aux salariés et le cahier des charges est établi sont définies par décret en Conseil d'Etat. 
 
 Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux
 entreprises.
-
-**Nota:**
-
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au 1 du I, la référence : , 44 decies  est périmée.
 
 **Liens relatifs à cet article**
 
@@ -132,12 +128,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 19 (V)
+  - Loi n°2016-1088 du 8 août 2016 - art. 8 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 238 bis L
-  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 octies (V)
+  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
+  - Code général des impôts, CGI. - art. 44 quindecies (V)
+  - Code général des impôts, CGI. - art. 44 septies (V)
+  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, CGI. - art. 8
-  - Code du travail - art. L3123-14-1 (V)
+  - Code du travail - art. L3123-19 (V)
+  - Code du travail - art. L3123-27 (V)
+  - Code du travail - art. L3123-7 (V)
