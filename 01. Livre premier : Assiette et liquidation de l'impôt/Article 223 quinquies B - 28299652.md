@@ -1,8 +1,24 @@
 # Article 223 quinquies B
 
-I. - Les personnes morales établies en France et mentionnées à l'article L. 13 AA du livre des procédures fiscales sont
-tenues de souscrire, par voie électronique, dans le délai de six mois qui suit l'échéance prévue au 1 de l'article 223, une
-déclaration comportant les informations suivantes : 
+I. – Les personnes morales établies en France : 
+
+1° Dont le chiffre d'affaires annuel hors taxe ou l'actif brut figurant au bilan est supérieur ou égal à 50 millions
+d'euros ; 
+
+2° Ou détenant à la clôture de l'exercice, directement ou indirectement, plus de la moitié du capital ou des droits de vote
+d'une entité juridique (personne morale, organisme, fiducie ou institution comparable établie ou constituée en France ou hors
+de France) satisfaisant à l'une des conditions mentionnées au 1° ; 
+
+3° Ou dont plus de la moitié du capital ou des droits de vote est détenue à la clôture de l'exercice, directement ou
+indirectement, par une entité juridique satisfaisant à l'une des conditions mentionnées au 1° ; 
+
+4° Ou appartenant à un groupe relevant du régime fiscal prévu à l'article 223 A ou à l'article 223 A bis lorsque ce groupe
+comprend au moins une personne morale satisfaisant à l'une des conditions mentionnées aux 1° à 3° du présent I, 
+
+souscrivent une déclaration, par voie électronique, dans le délai de six mois qui suit l'échéance prévue au 1 de l'article
+223. 
+
+I bis. – La déclaration comporte les informations suivantes : 
 
 1° Des informations générales sur le groupe d'entreprises associées : 
 
@@ -24,18 +40,24 @@ de transactions excède 100 000 €. Cet état indique la nature et le montant d
 territoires d'implantation des entreprises associées ; 
 
 c) Une présentation de la ou des méthodes de détermination des prix de transfert dans le respect du principe de pleine
-concurrence en indiquant la principale méthode utilisée et les changements intervenus au cours de l'exercice.
+concurrence en indiquant la principale méthode utilisée et les changements intervenus au cours de l'exercice. 
 
-II.-La déclaration mentionnée au premier alinéa du I est souscrite, pour le compte des personnes morales appartenant à un
-groupe mentionné à l'article 223 A, par leur société mère.
+II. – La déclaration est souscrite, pour le compte des personnes morales appartenant à un groupe mentionné à l'article 223 A
+ou à l'article 223 A bis, par leur société mère.
+
+**Nota:**
+
+Le présent article, dans sa rédaction issue du I de l'article 138 de la loi n° 2016-1691 du 9 décembre 2016  s'applique,
+conformément au II du même article, aux déclarations devant être déposées au titre des exercices clos à compter du 31
+décembre 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 86 (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 138 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 223
-  - Livre des procédures fiscales - art. L13 AA
+  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 223 A bis (V)
