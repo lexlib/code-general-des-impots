@@ -17,14 +17,14 @@ Ne peuvent être inscrites sur ce registre que les entreprises qui satisfont aux
 
 5° Justifier d'une certification annuelle de leurs comptes par un commissaire aux comptes ; 
 
-6° Avoir signé une charte de déontologie. 
+6° Avoir signé une charte de déontologie et respecter ses dispositions. 
 
 Les opérations réalisées par ces entreprises en application des dispositions mentionnées au premier alinéa sont déclarées
 annuellement à l'administration fiscale, quel que soit le montant de l'investissement ouvrant droit aux avantages fiscaux
 mentionnés au premier alinéa. Pour chaque opération sont précisés la nature et le montant de l'investissement, son lieu de
-situation, les conditions de son exploitation, l'identité de l'exploitant, les noms et adresses des investisseurs,  le
-montant de la base éligible à l'avantage en impôt, la part de l'avantage en impôt rétrocédée, le cas échéant, à l'exploitant
-ainsi que le montant de la commission d'acquisition et de tout honoraire demandés aux clients. 
+situation, les conditions de son exploitation, l'identité de l'exploitant, les noms et adresses des investisseurs, le montant
+de la base éligible à l'avantage en impôt, la part de l'avantage en impôt rétrocédée, le cas échéant, à l'exploitant ainsi
+que le montant de la commission d'acquisition et de tout honoraire demandés aux clients. 
 
 Lorsque l'investissement est exploité dans une collectivité d'outre-mer ou en Nouvelle-Calédonie, l'administration fiscale
 transmet au représentant de l'Etat les informations mentionnées à la seconde phrase de l'alinéa précédent. 
@@ -60,10 +60,12 @@ _Cite_:
 
   - Loi n°2011-1977 du 28 décembre 2011
   - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 217 undecies (V)
+  - Code général des impôts, CGI. - art. 244 quater W (V)
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 78
 
 _Cité par_:
 
