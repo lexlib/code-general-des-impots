@@ -38,13 +38,10 @@ demandes d'achat ou de vente de leur part ;
 c) Soit à la couverture des positions associées à la réalisation des opérations mentionnées aux a et b ; 
 
 4° Aux opérations réalisées pour le compte d'émetteurs en vue de favoriser la liquidité de leurs actions dans le cadre de
-pratiques de marché admises acceptées par l'Autorité des marchés financiers en application de la directive 2003/6/ CE du
-Parlement européen et du Conseil, du 28 janvier 2003, sur les opérations d'initiés et les manipulations de marché (abus de
-marché) et de la directive 2004/72/ CE de la Commission, du 29 avril 2004, portant modalités d'application de la directive
-2003/6/ CE du Parlement européen et du Conseil en ce qui concerne les pratiques de marché admises, la définition de
-l'information privilégiée pour les instruments dérivés sur produits de base, l'établissement de listes d'initiés, la
-déclaration des opérations effectuées par les personnes exerçant des responsabilités dirigeantes et la notification des
-opérations suspectes ; 
+pratiques de marché admises acceptées par l'Autorité des marchés financiers en application du règlement (UE) n° 596/2014 du
+Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant
+la directive 2003/6/ CE du Parlement européen et du Conseil et les directives 2003/124/ CE, 2003/125/ CE et 2004/72/ CE de la
+Commission ;
 
 5° Aux acquisitions de titres entre sociétés membres du même groupe, au sens de l'article L. 233-3 du code de commerce, au
 moment de l'acquisition de titres concernée, aux acquisitions de titres entre sociétés du même groupe, au sens de l'article
@@ -181,7 +178,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-891 du 8 août 2014 - art. 20
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 42
 
 _Cite_:
 
@@ -199,6 +196,6 @@ _Cite_:
   - Code monétaire et financier - art. L422-1
   - Code monétaire et financier - art. L423-1
   - Code monétaire et financier - art. L440-1
-  - Code monétaire et financier - art. L621-9
+  - Code monétaire et financier - art. L621-9 (M)
   - Code du travail - art. L3332-15
   - Code du travail - art. L3344-1
