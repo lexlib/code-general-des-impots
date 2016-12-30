@@ -38,7 +38,8 @@ V. - Lorsque les titres ou droits mentionnés au II et au III ont été reçus, 
 d'une opération d'échange dans les conditions prévues à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en
 vigueur avant la date de promulgation de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) ou au II de
 l'article 150 UB, la prime de remboursement mentionnée au II est calculée à partir du prix ou de la valeur d'acquisition des
-titres ou droits remis à l'échange, diminué de la soulte reçue ou majoré de la soulte versée.
+titres ou droits remis à l'échange, diminué du montant de la soulte reçue, qui n'a pas fait l'objet d'une imposition au titre
+de l'année de l'échange, ou majoré de la soulte versée lors de cet échange.
 
 **Liens relatifs à cet article**
 
@@ -54,19 +55,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 10 (V) JORF 31 décembre 2003
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 32
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 118 (V)
-  - Code général des impôts, CGI. - art. 120 (V)
-  - Code général des impôts, CGI. - art. 124 (V)
-  - Code général des impôts, CGI. - art. 124 B (V)
-  - Code général des impôts, CGI. - art. 150 A bis (V)
+  - Code général des impôts, CGI. - art. 118
+  - Code général des impôts, CGI. - art. 120
+  - Code général des impôts, CGI. - art. 124
+  - Code général des impôts, CGI. - art. 124 B
+  - Code général des impôts, CGI. - art. 150 A bis
   - Code général des impôts, CGI. - art. 150 UB (V)
-  - Code général des impôts, CGI. - art. 150-0 B (V)
-  - Code général des impôts, CGI. - art. 238 septies E (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
+  - Code général des impôts, CGI. - art. 150-0 B
+  - Code général des impôts, CGI. - art. 238 septies E
