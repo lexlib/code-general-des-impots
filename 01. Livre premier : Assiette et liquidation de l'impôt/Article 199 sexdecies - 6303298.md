@@ -1,7 +1,7 @@
 # Article 199 sexdecies
 
-1. Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, ouvrent droit à une aide
-les sommes versées par un contribuable domicilié en France au sens de l'article 4 B pour : 
+1. Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, ouvrent droit à un crédit
+d'impôt sur le revenu les sommes versées par un contribuable domicilié en France au sens de l'article 4 B pour : 
 
 a) L'emploi d'un salarié qui rend des services définis aux articles L. 7231-1 et D. 7231-1 du code du travail ; 
 
@@ -21,8 +21,7 @@ dispositions de l'article 156 relatives aux pensions alimentaires, pour la pensi
 L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du travail, exonérée en application du 37° de
 l'article 81, n'est pas prise en compte pour le bénéfice des dispositions du présent article. 
 
-3. Les dépenses mentionnées au 1 sont retenues, pour leur montant effectivement supporté, dans la limite de 12 000 €, en
-tenant compte prioritairement de celles ouvrant droit au bénéfice du crédit d'impôt mentionné au 4. 
+3. Les dépenses mentionnées au 1 sont retenues, pour leur montant effectivement supporté, dans la limite de 12 000 €. 
 
 La limite de 12 000 € est portée à 15 000 € pour la première année d'imposition pour laquelle le contribuable bénéficie des
 dispositions du présent article au titre du a du 1. 
@@ -39,37 +38,25 @@ alinéa du 2 remplissant la même condition d'âge. Le montant de 1 500 € est 
 Toutefois, lorsque les dispositions du deuxième alinéa sont applicables, la limite de 15 000 € fait l'objet des majorations
 prévues au présent alinéa et le montant total des dépenses ne peut excéder 18 000 €. 
 
-4. L'aide prend la forme d'un crédit d'impôt sur le revenu égal à 50 % des dépenses mentionnées au 3 au titre des services
-définis aux articles L. 7231-1 et D. 7231-1 du code du travail, supportées au titre de l'emploi, à leur résidence, d'un
-salarié ou en cas de recours à une association, une entreprise ou un organisme, mentionné aux b ou c du 1 par : 
-
-a) Le contribuable célibataire, veuf ou divorcé qui exerce une activité professionnelle ou est inscrit sur la liste des
-demandeurs d'emplois prévue à l'article L. 5411-1 du code du travail durant trois mois au moins au cours de l'année du
-paiement des dépenses ; 
-
-b) Les personnes mariées ou ayant conclu un pacte civil de solidarité, soumises à une imposition commune, qui toutes deux
-satisfont à l'une ou l'autre conditions posées au a. 
+4. Le crédit d'impôt est égal à 50 % des dépenses mentionnées au 3 au titre des services définis aux articles L. 7231-1 et D.
+7231-1 du code du travail, supportées par le contribuable au titre de l'emploi d'un salarié, à sa résidence ou à la résidence
+d'un ascendant, ou en cas de recours à une association, une entreprise ou un organisme, mentionné aux b ou c du 1. 
 
 Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199
 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent
 est restitué. 
 
-5. L'aide prend la forme d'une réduction d'impôt sur le revenu égale à 50 % des dépenses mentionnées au 3 supportées par : 
+5. (abrogé) ; 
 
-a) Les personnes autres que celles mentionnées au 4 ; 
-
-b) Les personnes mentionnées au 4 qui ont supporté ces dépenses à la résidence d'un ascendant. 
-
-6. Les sommes mentionnées au 1 ouvrent droit au bénéfice de l'aide, sous réserve que le contribuable soit en mesure de
-présenter, à la demande de l'administration fiscale, les pièces justifiant du paiement des salaires et des cotisations
+6. Les sommes mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt, sous réserve que le contribuable soit en mesure
+de présenter, à la demande de l'administration fiscale, les pièces justifiant du paiement des salaires et des cotisations
 sociales, de l'identité du bénéficiaire, de la nature et du montant des prestations réellement effectuées payées à
 l'association, l'entreprise ou l'organisme définis au 1.
 
 **Nota:**
 
-Conformément à l'article 17 III de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
-dispositions de l'article 199 sexdecies, dans leur rédaction issue de la présente loi, s'appliquent à compter de l'imposition
-des revenus de 2013.
+Conformément au III de l'article 82 de la loi n° 2016-1917 du 29 décembre 2016, les dispositions du présent article
+s'appliquent à compter de l'imposition des revenus de l'année 2017.
 
 **Liens relatifs à cet article**
 
@@ -86,7 +73,7 @@ _Cité par_:
   - Code du travail - art. D7233-5 (V)
   - Code du travail - art. L7232-8 (V)
   - Code du travail - art. L7233-2 (V)
-  - Code du travail - art. L7233-7 (M)
+  - Code du travail - art. L7233-7 (V)
   - Code du travail applicable à Mayotte. - art. D821-27 (Ab)
   - Code du travail applicable à Mayotte. - art. D821-28 (Ab)
   - Code général des impôts, CGI. - art. 156 (VT)
@@ -98,17 +85,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 17
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 17 (VD)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 82 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 196
-  - Code général des impôts, CGI. - art. 199 quater B
+  - Code général des impôts, CGI. - art. 199 quater B (V)
   - Code général des impôts, CGI. - art. 4 B
   - Code général des impôts, CGI. - art. 81
   - Code du travail - art. D7231-1
-  - Code du travail - art. L5411-1
   - Code du travail - art. L7231-1
+  - Code du travail - art. L7232-1-1 (V)
+  - Code du travail - art. L7232-1-2 (V)
   - Code du travail - art. L7233-4
   - Code de la sécurité sociale. - art. L341-4
   - Code de la sécurité sociale. - art. L541-1
