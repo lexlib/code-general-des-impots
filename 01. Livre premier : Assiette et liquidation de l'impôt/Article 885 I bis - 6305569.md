@@ -66,6 +66,11 @@ activité professionnelle principale si celle-ci est une société de personnes 
 fonctions énumérées au 1° de l'article 885 O bis lorsque celle-ci est soumise à l'impôt sur les sociétés, de plein droit ou
 sur option ; 
 
+e bis. Les parts ou actions ne sont pas inscrites sur un compte PME innovation mentionné à l'article L. 221-32-4 du code
+monétaire et financier. Le non-respect de cette condition par l'un des signataires pendant le délai global de conservation de
+six ans mentionné au d entraîne la remise en cause de l'exonération partielle dont il a bénéficié au titre de l'année en
+cours et de celles précédant l'inscription des parts ou actions sur le compte PME innovation ; 
+
 f. La déclaration visée au 1 du I de l'article 885 W doit être appuyée d'une attestation de la société dont les parts ou
 actions font l'objet de l'engagement collectif de conservation certifiant que les conditions prévues aux a et b ont été
 remplies l'année précédant celle au titre de laquelle la déclaration est souscrite ; 
@@ -107,15 +112,21 @@ incombant aux redevables et aux sociétés.
 
 _Modifié par_:
 
-  - Loi n°2011-900 du 29 juillet 2011 - art. 1 (V)
-  - Loi n°2011-900 du 29 juillet 2011 - art. 12
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 31 (V)
+
+_Abrogé par_:
+
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
 
 _Cite_:
 
   - Code de commerce - art. L233-11
+  - Code général des impôts, CGI. - art. 8
+  - Code général des impôts, CGI. - art. 8 ter
   - Code général des impôts, CGI. - art. 817 A
   - Code général des impôts, CGI. - art. 885 O bis
   - Code général des impôts, CGI. - art. 885 W
+  - Code monétaire et financier - art. L221-32-4
 
 _Cité par_:
 
@@ -126,4 +137,4 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 301 K (P)
   - Code général des impôts, annexe 2, CGIAN2. - art. 301 L (P)
   - Code général des impôts, annexe 2, CGIAN2. - art. 301 M (P)
-  - Code monétaire et financier - art. L221-32-5 (M)
+  - Code monétaire et financier - art. L221-32-5 (V)
