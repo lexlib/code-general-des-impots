@@ -9,7 +9,7 @@ d'impôt s'applique :
 
 a. (Abrogé) 
 
-b. Aux dépenses, payées entre le 1er janvier 2005 et le 31 décembre 2016, au titre de : 
+b. Aux dépenses, payées entre le 1er janvier 2005 et le 31 décembre 2017, au titre de : 
 
 1° L'acquisition de chaudières à haute performance énergétique ; 
 
@@ -23,7 +23,7 @@ ou d'eau chaude sanitaire ;
 
 4° L'acquisition d'appareils de régulation de chauffage ; 
 
-c) Aux dépenses, payées entre le 1er janvier 2005 et le 31 décembre 2016, au titre de l'acquisition : 
+c) Aux dépenses, payées entre le 1er janvier 2005 et le 31 décembre 2017, au titre de l'acquisition : 
 
 1° D'équipements de chauffage ou de fourniture d'eau chaude sanitaire utilisant une source d'énergie renouvelable, dans la
 limite d'un plafond de dépenses par mètre carré de capteurs solaires pour les équipements de chauffage ou de fourniture d'eau
@@ -41,15 +41,15 @@ après application à la surface ainsi déterminée d'un plafond de dépenses pa
 3° De pompes à chaleur, autres que air/ air, dont la finalité essentielle est la production de chaleur ou d'eau chaude
 sanitaire, ainsi qu'au coût de la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques ; 
 
-d) Aux dépenses, payées entre le 1er janvier 2006 et le 31 décembre 2016, au titre de l'acquisition d'équipements de
+d) Aux dépenses, payées entre le 1er janvier 2006 et le 31 décembre 2017, au titre de l'acquisition d'équipements de
 raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une installation de
 cogénération, ainsi qu'aux dépenses afférentes à un immeuble situé dans un département d'outre-mer, payées entre le 1er
-septembre 2014 et le 31 décembre 2016, au titre de l'acquisition d'équipements de raccordement à un réseau de froid, alimenté
-majoritairement par du froid d'origine renouvelable ou de récupération ;
+septembre 2014 et le 31 décembre 2017, au titre de l'acquisition d'équipements de raccordement à un réseau de froid, alimenté
+majoritairement par du froid d'origine renouvelable ou de récupération ; 
 
 e) Abrogé 
 
-f) Aux dépenses, payées entre le 1er janvier 2009 et le 31 décembre 2016, au titre de : 
+f) Aux dépenses, payées entre le 1er janvier 2009 et le 31 décembre 2017, au titre de : 
 
 1° (Abrogé) 
 
@@ -57,22 +57,22 @@ f) Aux dépenses, payées entre le 1er janvier 2009 et le 31 décembre 2016, au 
 défini à l'article L. 134-1 du code de la construction et de l'habitation. Pour un même logement, un seul diagnostic de
 performance énergétique ouvre droit au crédit d'impôt par période de cinq ans. 
 
-g) Aux dépenses payées entre le 1er janvier 2012 et le 31 décembre 2016, au titre de chaudières à micro-cogénération gaz
+g) Aux dépenses payées entre le 1er janvier 2012 et le 31 décembre 2017, au titre de chaudières à micro-cogénération gaz
 d'une puissance de production électrique inférieure ou égale à 3 kilovolt-ampères par logement ; 
 
-h) Aux dépenses payées entre le 1er septembre 2014 et le 31 décembre 2016, au titre de l'acquisition d'appareils permettant
+h) Aux dépenses payées entre le 1er septembre 2014 et le 31 décembre 2017, au titre de l'acquisition d'appareils permettant
 d'individualiser les frais de chauffage ou d'eau chaude sanitaire dans un bâtiment équipé d'une installation centrale ou
 alimenté par un réseau de chaleur ; 
 
-i) Aux dépenses payées entre le 1er septembre 2014 et le 31 décembre 2016, au titre de l'acquisition d'un système de charge
+i) Aux dépenses payées entre le 1er septembre 2014 et le 31 décembre 2017, au titre de l'acquisition d'un système de charge
 pour véhicule électrique ; 
 
 j) Aux dépenses afférentes à un immeuble situé à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, payées
-entre le 1er septembre 2014 et le 31 décembre 2016, au titre de l'acquisition d'équipements ou de matériaux de protection des
+entre le 1er septembre 2014 et le 31 décembre 2017, au titre de l'acquisition d'équipements ou de matériaux de protection des
 parois vitrées ou opaques contre les rayonnements solaires ; 
 
 k) Aux dépenses afférentes à un immeuble situé à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, payées
-entre le 1er septembre 2014 et le 31 décembre 2016, au titre de l'acquisition d'équipements ou de matériaux visant à
+entre le 1er septembre 2014 et le 31 décembre 2017, au titre de l'acquisition d'équipements ou de matériaux visant à
 l'optimisation de la ventilation naturelle, notamment les brasseurs d'air. 
 
 1 bis. (Sans objet). 
@@ -84,7 +84,7 @@ a) Qui procède à la fourniture et à l'installation des équipements, des mat�
 
 b) Ou qui, pour l'installation des équipements, des matériaux ou des appareils qu'elle fournit ou pour la fourniture et
 l'installation de ces mêmes équipements, matériaux ou appareils, recourt à une autre entreprise, dans le cadre d'un contrat
-de sous-traitance régi par la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance.
+de sous-traitance régi par la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance. 
 
 2. Un arrêté conjoint des ministres chargés de l'énergie, du logement et du budget fixe la liste des équipements, matériaux
 et appareils qui ouvrent droit au crédit d'impôt. Il précise les caractéristiques techniques et les critères de performances
@@ -97,31 +97,24 @@ du b du même 1 ter.
 
 Lorsque les travaux sont soumis à des critères de qualification, l'application du crédit d'impôt est conditionnée à une
 visite du logement préalable à l'établissement du devis afférent à ces mêmes travaux, au cours de laquelle l'entreprise qui
-installe ou pose ces équipements, matériaux ou appareils valide leur adéquation au logement.
+installe ou pose ces équipements, matériaux ou appareils valide leur adéquation au logement. 
 
 3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le
-contribuable.
+contribuable. 
 
 4. Pour un même logement que le propriétaire, le locataire ou l'occupant à titre gratuit affecte à son habitation principale,
 le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives
-comprises entre le 1er janvier 2005 et le 31 décembre 2016, la somme de 8 000 € pour une personne célibataire, veuve ou
+comprises entre le 1er janvier 2005 et le 31 décembre 2017, la somme de 8 000 € pour une personne célibataire, veuve ou
 divorcée et de 16 000 € pour un couple soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au
 sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de
 l'un et l'autre de ses parents. 
 
 5. Le crédit d'impôt est égal à 30 % du montant des matériaux, équipements, appareils et dépenses de diagnostic de
-performance énergétique mentionnés au 1. 
+performance énergétique mentionnés au 1.
 
 5 bis. Abrogé. 
 
-5 ter. Pour les dépenses payées du 1er janvier au 31 août 2014, le crédit d'impôt s'applique dans les conditions prévues au
-présent article, dans sa rédaction antérieure à la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015. 
-
-Toutefois, au titre de ces mêmes dépenses, lorsque l'application du crédit d'impôt est conditionnée à la réalisation de
-dépenses selon les modalités prévues au 5 bis, dans sa rédaction antérieure à la même loi, le crédit d'impôt s'applique dans
-les conditions prévues au présent article, dans sa rédaction antérieure à ladite loi, sous réserve que des dépenses relevant
-d'au moins deux des catégories prévues au même 5 bis soient réalisées au cours de l'année 2014 ou des années 2014 et 2015.
-Dans ce dernier cas, les deux derniers alinéas dudit 5 bis s'appliquent dans leur rédaction antérieure à la même loi. 
+5 ter. Abrogé. 
 
 6. a. Les équipements, matériaux, appareils et travaux de pose mentionnés au 1 s'entendent de ceux figurant sur la facture de
 l'entreprise mentionnée au 1 ter. Les dépenses de diagnostic de performance énergétique mentionnées au 2° du f du 1
@@ -169,7 +162,7 @@ dépense non justifiée.
 prévue à l'article 199 sexdecies ou d'une déduction de charge pour la détermination de ses revenus catégoriels. 
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles
-199 quater C à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû,
+199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû,
 l'excédent est restitué. 
 
 Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses
@@ -180,20 +173,18 @@ ont été payées.
 
 **Nota:**
 
-Conformément au A de l'article 106 II de la loi n° 2015-1785 du 29 décembre 2015, à l'exception du second alinéa du 1° du c
-du 1 de l'article 200 quater du code général des impôts, dans sa rédaction résultant de la présente loi, le I du présent
-article s'applique aux dépenses payées à compter du 1er janvier 2016. 
 
-Toutefois et sous réserve du B du présent II, l'article 200 quater du code général des impôts, dans sa rédaction antérieure à
-la présente loi, s'applique aux dépenses payées à compter du 1er janvier 2016 pour lesquelles le contribuable justifie de
-l'acceptation d'un devis et du versement d'un acompte avant cette même date. 
-
-Conformément au B du II du même article, le second alinéa du 1° du c du 1 de l'article 200 quater du code général des impôts,
-dans sa rédaction résultant de la présente loi, s'applique aux dépenses payées à compter du 30 septembre 2015, à l'exception
-de celles pour lesquelles le contribuable justifie de l'acceptation d'un devis et du versement d'un acompte avant cette même
-date.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°75-1334 du 31 décembre 1975 (V)
+  - Code général des impôts, CGI. - art. 196 (V)
+  - Code général des impôts, CGI. - art. 199 quater C
+  - Code général des impôts, CGI. - art. 4 B
+  - Code de la construction et de l'habitation. - art. L134-1
+  - Code de la construction et de l'habitation. - art. L271-6
 
 _Cité par_:
 
@@ -257,12 +248,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 70 (Ab)
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 106 (V)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 199 quater C
-  - Code général des impôts, CGI. - art. 4 B
-  - Code de la construction et de l'habitation. - art. L134-1
-  - Code de la construction et de l'habitation. - art. L271-6
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 17 (VD)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 23

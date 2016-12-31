@@ -1,9 +1,9 @@
 # Article 1638 quater
 
-I.-En cas de rattachement volontaire d'une commune à un établissement public de coopération intercommunale soumis à l'article
-1609 nonies C ou à la suite d'une transformation dans les conditions prévues à l'article L. 5211-41-1 du code général des
-collectivités territoriales, le taux de la cotisation foncière des entreprises de la commune rattachée est rapproché du taux
-de cotisation foncière des entreprises de l'établissement public dans les conditions suivantes : 
+I. – En cas de rattachement volontaire d'une commune à un établissement public de coopération intercommunale soumis à
+l'article 1609 nonies C ou à la suite d'une transformation dans les conditions prévues à l'article L. 5211-41-1 du code
+général des collectivités territoriales, le taux de la cotisation foncière des entreprises de la commune rattachée est
+rapproché du taux de cotisation foncière des entreprises de l'établissement public dans les conditions suivantes : 
 
 a) L'écart constaté, l'année au cours de laquelle le rattachement est décidé, entre ces deux taux est réduit chaque année par
 parts égales, jusqu'à application d'un taux unique, dans les proportions définies au second alinéa du b du 1° du III de
@@ -13,12 +13,12 @@ Le c du 1° du III de l'article 1609 nonies C est applicable ;
 
 b) (Abrogé). 
 
-II. Pour l'application des dispositions du I, le taux de cotisation foncière des entreprises de la commune doit, lorsque
+II. – Pour l'application des dispositions du I, le taux de cotisation foncière des entreprises de la commune doit, lorsque
 celle-ci appartient également à une communauté urbaine, ou à une communauté de communes, être majoré du taux de cotisation
 foncière des entreprises voté par ces établissements publics de coopération intercommunale l'année au cours de laquelle le
 rattachement est décidé. 
 
-II bis.-1. Toutefois, par exception aux dispositions du I et pour l'année suivant celle du rattachement de la commune,
+II bis. – 1. Toutefois, par exception aux dispositions du I et pour l'année suivant celle du rattachement de la commune,
 l'établissement public de coopération intercommunale peut, sur délibération du conseil communautaire statuant à la majorité
 simple de ses membres dans les conditions prévues par l'article 1639 A, voter son taux de cotisation foncière des entreprises
 dans la limite du taux moyen de la cotisation foncière des entreprises de l'établissement public de coopération
@@ -48,7 +48,7 @@ intercommunale.
 3. Les dispositions du IV de l'article 1636 B decies ne sont pas applicables au montant reporté au titre de l'année de
 rattachement et des deux années antérieures. 
 
-III. Les dispositions des I et II sont également applicables dans les communes ou parties de communes qui sont incorporées
+III. – Les dispositions des I et II sont également applicables dans les communes ou parties de communes qui sont incorporées
 dans une zone d'activités économiques où il est fait application des dispositions du I de l'article 1609 quinquies C. Ces
 dispositions sont également applicables en cas de rattachement d'une commune sur le territoire de laquelle sont implantées
 des installations de production d'électricité utilisant l'énergie mécanique du vent à un établissement public de coopération
@@ -59,39 +59,38 @@ peuvent décider, par délibérations concordantes, que le taux de cotisation fo
 ou partie de commune incorporée dans la zone ou aux installations de production d'électricité utilisant l'énergie mécanique
 du vent est, dès la première année, celui fixé par l'établissement public de coopération intercommunale. 
 
-IV. En cas de rattachement volontaire ou à la suite d'une transformation dans les conditions prévues à l'article L. 5211-41-1
-du code général des collectivités territoriales d'une commune à un établissement public de coopération intercommunale à
-fiscalité additionnelle, l'organe délibérant vote les taux de taxe d'habitation, de foncier bâti, de foncier non bâti et de
-cotisation foncière des entreprises dans les conditions prévues à l'article 1636 B sexies. 
+IV. – En cas de rattachement volontaire ou à la suite d'une transformation dans les conditions prévues à l'article L.
+5211-41-1 du code général des collectivités territoriales d'une commune à un établissement public de coopération
+intercommunale à fiscalité additionnelle, l'organe délibérant vote les taux de taxe d'habitation, de foncier bâti, de foncier
+non bâti et de cotisation foncière des entreprises dans les conditions prévues à l'article 1636 B sexies. 
 
-IV bis. - Dans les cas prévus aux I et IV, par délibérations concordantes de l'organe délibérant de l'établissement public de
+IV bis. – Dans les cas prévus aux I et IV, par délibérations concordantes de l'organe délibérant de l'établissement public de
 coopération intercommunale et du conseil municipal de la commune concernée, les taux de taxe d'habitation, de taxe foncière
 sur les propriétés bâties, de taxe foncière sur les propriétés non bâties et, le cas échéant, de cotisation foncière des
 entreprises votés par l'organe délibérant de l'établissement public de coopération intercommunale peuvent être appliqués de
-manière progressive, par fractions égales, sur une période maximale de douze années. Le présent IV bis n'est pas applicable
-aux taxes pour lesquelles le rapport entre ces taux et les taux votés par le conseil municipal l'année du rattachement de
-cette commune est inférieur à 10 %. Le cas échéant, sont pris en compte pour le calcul de ce rapport les taux des impositions
-perçues l'année du rattachement au profit des établissements publics auxquels la commune appartenait. 
+manière progressive, par fractions égales, sur une période maximale de douze années. 
 
 Lorsque, l'année du rattachement, la commune était membre d'un établissement public de coopération intercommunale à fiscalité
 propre, la procédure d'intégration fiscale progressive prévue au premier alinéa du présent IV bis ne concerne que la
 différence entre le taux qui aurait été appliqué sur le territoire de la commune l'année du rattachement s'il avait déjà pris
 fiscalement effet et le taux effectivement appliqué sur ce même territoire la même année. 
 
-V.-Les I, II et III sont également applicables aux communes faisant l'objet d'un rattachement à une communauté urbaine ou à
+V. – Les I, II et III sont également applicables aux communes faisant l'objet d'un rattachement à une communauté urbaine ou à
 une communauté d'agglomération dont le périmètre est étendu en application du renouvellement de la procédure prévue aux
 articles L. 5215-40-1 et L. 5216-10 du code général des collectivités territoriales. 
 
-VI.-Lorsqu'il fait application des dispositions des I, II et III à la suite du rattachement volontaire d'une commune à un
+VI. – Lorsqu'il fait application des dispositions des I, II et III à la suite du rattachement volontaire d'une commune à un
 établissement public de coopération intercommunale à fiscalité propre, le produit communiqué à l'établissement public en
 début d'exercice par les services fiscaux et qui découle de l'état de notification des bases tient compte du taux applicable
 dans la commune rattachée. 
 
-VII.-En cas de rattachement dans les conditions mentionnées au I à un établissement public de coopération intercommunale qui
-faisait application en 2011 de l'article 1609 nonies C d'une commune qui n'était pas membre en 2011 d'un tel établissement,
-le taux communal de taxe d'habitation est réduit de la différence entre, d'une part, le taux de référence de taxe
-d'habitation calculé pour la commune conformément à l'article 1640 C, d'autre part, le taux communal de taxe d'habitation
-applicable en 2010 dans la commune.
+VII. – En cas de rattachement dans les conditions mentionnées au I à un établissement public de coopération intercommunale
+qui faisait application en 2011 de l'article 1609 nonies C d'une commune qui n'était pas membre en 2011 d'un tel
+établissement, le taux communal de taxe d'habitation est réduit de la différence entre, d'une part, le taux de référence de
+taxe d'habitation calculé pour la commune conformément à l'article 1640 C, d'autre part, le taux communal de taxe
+d'habitation applicable en 2010 dans la commune. Ces dispositions sont applicables en cas de rattachement à un établissement
+public de coopération intercommunale issu d'une ou plusieurs fusions d'établissements publics de coopération intercommunale
+dont l'un au moins faisait application en 2011 de l'article 1609 nonies C.
 
 **Liens relatifs à cet article**
 
@@ -104,11 +103,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 34 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 75 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 82
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1636 B decies
+  - Code général des impôts, CGI. - art. 1636 B sexies (V)
   - Code général des impôts, CGI. - art. 1639 A
   - Code général des collectivités territoriales - art. L5211-41-1
-  - Code général des collectivités territoriales - art. L5215-40-1
+  - Code général des collectivités territoriales - art. L5215-40-1 (V)
+  - Code général des collectivités territoriales - art. L5216-10 (V)

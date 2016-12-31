@@ -35,7 +35,7 @@ au prix d'acquisition ou de fabrication des biens, y compris par dérogation à 
 biens font partie de réseaux ayant fait l'objet d'une aide versée par une personne publique. Par dérogation au même premier
 alinéa, la déduction s'applique aux biens mentionnés au présent 7° qui sont acquis ou fabriqués par l'entreprise à compter du
 1er janvier 2016 et jusqu'au 14 avril 2017 et aux droits d'usage des biens acquis ou fabriqués au cours de la même période
-qui font l'objet d'une cession avant le 15 avril 2017 ;
+qui font l'objet d'une cession avant le 15 avril 2017 ; 
 
 8° Les logiciels qui contribuent à des opérations industrielles de fabrication et de transformation. Par dérogation au
 premier alinéa du présent I, la déduction s'applique aux biens mentionnés au présent 8°, quelles que soient leurs modalités
@@ -44,7 +44,11 @@ d'amortissement ;
 9° Les appareils informatiques prévus pour une utilisation au sein d'une baie informatique acquis ou fabriqués par
 l'entreprise et les machines destinées au calcul intensif acquises de façon intégrée, à compter du 12 avril 2016 et jusqu'au
 14 avril 2017. Par dérogation au premier alinéa du présent I, la déduction s'applique aux biens mentionnés au présent 9°,
-quelles que soient leurs modalités d'amortissement.
+quelles que soient leurs modalités d'amortissement. 
+
+La déduction s'applique également aux biens mentionnés au présent I ayant fait l'objet, avant le 15 avril 2017, d'une
+commande assortie du versement d'acomptes d'un montant au moins égal à 10 % du montant total de la commande et dont
+l'acquisition intervient dans un délai de vingt-quatre mois à compter de la date de la commande. 
 
 La déduction est répartie linéairement sur la durée normale d'utilisation des biens. En cas de cession du bien avant le terme
 de cette période, elle n'est acquise à l'entreprise qu'à hauteur des montants déjà déduits du résultat à la date de la
@@ -56,7 +60,7 @@ location avec option d'achat peut déduire une somme égale à 40 % de la valeur
 moment de la signature du contrat. Ces contrats sont ceux conclus à compter du 15 avril 2015 et jusqu'au 14 avril 2017 pour
 les biens mentionnés aux 1° à 6° et 8° du présent I, à compter du 1er janvier 2016 et jusqu'au 14 avril 2017 pour les biens
 mentionnés au 7° et à compter du 12 avril 2016 et jusqu'au 14 avril 2017 pour les biens mentionnés au 9°. Cette déduction est
-répartie sur la durée mentionnée au onzième alinéa du présent I. Si l'entreprise crédit-preneuse ou locataire acquiert le
+répartie sur la durée mentionnée au douzième alinéa du présent I. Si l'entreprise crédit-preneuse ou locataire acquiert le
 bien, elle peut continuer à appliquer la déduction. La déduction cesse à compter de la cession ou de la cessation par celle-
 ci du contrat de crédit-bail ou de location avec option d'achat ou du bien et ne peut pas s'appliquer au nouvel exploitant. 
 
@@ -88,19 +92,15 @@ Les coopératives d'utilisation de matériel agricole, les coopératives régies
 du présent code et les associés coopérateurs sont tenus de produire, à toute réquisition de l'administration, les
 informations nécessaires permettant de justifier de la déduction pratiquée.
 
-**Nota:**
-
-Conformément au II de l'article 75 de la loi n° 2016-1321 du 7 octobre 2016, le II du présent article s'applique aux biens
-acquis, fabriqués ou pris en crédit-bail ou en location avec option d'achat par les coopératives à compter du 26 avril 2016.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 75 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 99
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 207 (VT)
   - Code général des impôts, CGI. - art. 39 A
   - Code monétaire et financier - art. L313-7
   - Code du tourisme. - art. L342-7
