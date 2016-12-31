@@ -2,8 +2,9 @@
 
 Le traitement brut mensuel et l'indemnité de résidence que reçoivent le Président de la République, le Premier ministre et
 les autres membres du Gouvernement en application du I de l'article 14 de la loi de finances rectificative pour 2002 (n°
-2002-1050 du 6 août 2002) sont imposables à l'impôt sur le revenu suivant les règles applicables aux traitements et
-salaires. 
+2002-1050 du 6 août 2002) et, par dérogation au 1° de l'article 81 du présent code, l'indemnité de fonction définie à
+l'article 14 de la loi de finances rectificative pour 2002 du 6 août 2002 précitée sont imposables à l'impôt sur le revenu
+suivant les règles applicables aux traitements et salaires. 
 
 Il en est de même de l'indemnité prévue à l'article 5 de l'ordonnance n° 58-1099 du 17 novembre 1958 portant loi organique
 pour l'application de l'article 23 de la Constitution et définie au II de l'article 14 précité, pour la part de cette
@@ -16,7 +17,8 @@ _Cite_:
   - Constitution du 4 octobre 1958 - art. 23
   - Ordonnance n°58-1099 du 17 novembre 1958 - art. 5
   - Loi de finances rectificative pour 2002 - art. 14
+  - Code général des impôts, CGI. - art. 81 (VT)
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 64
