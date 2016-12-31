@@ -15,7 +15,10 @@ montant des amortissements expressément exclus des charges déductibles ainsi q
 contravention aux dispositions de l'article 39 B ; 
 
 c. Aux plus-values réalisées à l'occasion de la cession de titres de sociétés établies dans un Etat ou territoire non
-coopératif au sens de l'article 238-0 A. 
+coopératif au sens de l'article 238-0 A  détenus depuis deux ans au moins, sauf si la société détentrice de ces  titres
+apporte la preuve que les opérations de la société établie hors  de France dans laquelle est prise la participation
+correspondent à des  opérations réelles qui n'ont ni pour objet ni pour effet de permettre,  dans un but de fraude fiscale,
+la localisation de bénéfices dans un tel  Etat ou territoire. 
 
 3. Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2.
 
@@ -105,16 +108,11 @@ apprécié à compter de la date d'ouverture de cet exercice ou de cette périod
 correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour
 l'application du b du 2.
 
-**Nota:**
-
-Loi n° 2015-1786 du 29 décembre 2016, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des
-revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 28
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 91 (V)
 
 _Cité par_:
 
@@ -162,7 +160,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 38 bis-0 A
   - Code général des impôts, CGI. - art. 39 B
   - Code monétaire et financier - art. L211-22
-  - Code monétaire et financier - art. L214-34 (V)
+  - Code monétaire et financier - art. L214-34
   - Code monétaire et financier - art. L313-7
   - Code des assurances - art. L134-4
   - Code des assurances - art. L143-7

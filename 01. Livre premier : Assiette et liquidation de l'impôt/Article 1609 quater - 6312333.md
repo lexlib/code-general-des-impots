@@ -15,8 +15,7 @@ l'article L. 2224-13 du code général des collectivités territoriales et assur
 ménages. Ils votent le taux de cette taxe dans les conditions fixées par l'article 1636 B undecies du présent code.
 
 Sous réserve du 2 du VI de l'article 1379-0 bis, les syndicats mixtes sont, dans les mêmes conditions, substitués aux
-établissements publics de coopération intercommunale à fiscalité propre et aux communautés et syndicats d'agglomération
-nouvelle qui y adhèrent pour l'ensemble de cette compétence.
+établissements publics de coopération intercommunale à fiscalité propre qui y adhèrent pour l'ensemble de cette compétence.
 
 Lorsqu'ils assurent au moins la collecte des déchets des ménages, les syndicats mixtes sont substitués, dans les conditions
 du troisième alinéa, aux établissements publics territoriaux prévus à l'article L. 5219-2 du code général des collectivités
@@ -30,24 +29,25 @@ pas applicable aux pôles métropolitains constitués en application de l'articl
 
 _Modifié par_:
 
+  - Loi n°2015-991 du 7 août 2015 - art. 44
   - Loi n°2015-991 du 7 août 2015 - art. 63 (V)
   - Ordonnance n°2015-1630 du 10 décembre 2015 - art. 1
 
 _Cité par_:
 
   - Code général des collectivités territoriales - art. L2313-1 (V)
-  - Code général des impôts, CGI. - art. 1636 B undecies (M)
+  - Code général des impôts, CGI. - art. 1636 B undecies (V)
   - Code général des impôts, CGI. - art. 1636 C (V)
   - Code général des impôts, CGI. - art. 1647-0 B septies (MMN)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1379
-  - Code général des impôts, CGI. - art. 1379-0 bis (V)
+  - Code général des impôts, CGI. - art. 1379-0 bis
   - Code général des impôts, CGI. - art. 1520
   - Code général des impôts, CGI. - art. 1636 B octies
   - Code général des collectivités territoriales - art. L2224-13
   - Code général des collectivités territoriales - art. L5212-20
   - Code général des collectivités territoriales - art. L5219-2 (V)
-  - Code général des collectivités territoriales - art. L5731-1 (V)
-  - Code général des collectivités territoriales - art. L5731-3 (V)
+  - Code général des collectivités territoriales - art. L5731-1
+  - Code général des collectivités territoriales - art. L5731-3

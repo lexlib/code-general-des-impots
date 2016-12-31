@@ -5,7 +5,8 @@ des dispositions suivantes.
 
 Ne constituent pas une rémunération imposable : 
 
-1° Les indemnités mentionnées aux articles L. 1235-1, L. 1235-2, L. 1235-3 et L. 1235-11 à L. 1235-13 du code du travail ; 
+1° Les indemnités mentionnées aux articles L. 1235-1, L. 1235-2, L. 1235-3, L. 1235-3-1 et L. 1235-11 à L. 1235-13 du code du
+travail ; 
 
 2° Les indemnités de licenciement ou de départ volontaire versées dans le cadre d'un plan de sauvegarde de l'emploi au sens
 des articles L. 1233-32 et L. 1233-61 à L. 1233-64 du code du travail ; 
@@ -51,7 +52,7 @@ L. 241-3 du code de la sécurité sociale est imposable.
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 3
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 116
 
 _Cité par_:
 
