@@ -13,12 +13,12 @@ sur l'ensemble du territoire.
 coopération intercommunale préexistant sont maintenues dans les conditions suivantes :
 
 a. Pour leur durée et leur quotité lorsqu'elles sont prises en application des articles 1383, 1383 A, 1383-0 B, 1383-0 B bis,
-1383 B, 
-1383 C, 1384 B, 1388 ter, 1388 quinquies, 1395 A, 1395 B, 1395 G et 1647-00 bis et que les dispositions prévues par ces
-articles sont en cours d'application ou sont applicables pour la première fois l'année suivant celle de la fusion ;
+1383 B, 1383 C, du premier alinéa de l'article 1384 B et des articles 1388 ter, 1388 quinquies, 1395 A, 1395 B, 1395 G et
+1647-00 bis et que les dispositions prévues par ces articles sont en cours d'application ou sont applicables pour la première
+fois l'année suivant celle de la fusion ;
 
 b. Pour la première année suivant celle de la fusion lorsqu'elle sont prises en application des articles 1382 B, 1382 C, 1382
-C bis, 1383 G, 1395 C, 1396, 1411 et 1518 A.
+C bis, 1383 G, du troisième alinéa de l'article 1384 B et des articles 1395 C, 1396,1411 et 1518 A.
 
 **Nota:**
 
@@ -28,26 +28,28 @@ C bis, 1383 G, 1395 C, 1396, 1411 et 1518 A.
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 92
+  - Loi n°2009-594 du 27 mai 2009 - art. 6 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 94 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1382 B
   - Code général des impôts, CGI. - art. 1382 C
+  - Code général des impôts, CGI. - art. 1382 C bis (V)
   - Code général des impôts, CGI. - art. 1383
   - Code général des impôts, CGI. - art. 1383 A
-  - Code général des impôts, CGI. - art. 1383 B
+  - Code général des impôts, CGI. - art. 1383 B (V)
   - Code général des impôts, CGI. - art. 1383 C
   - Code général des impôts, CGI. - art. 1383 G
   - Code général des impôts, CGI. - art. 1383-0 B
-  - Code général des impôts, CGI. - art. 1384 B (M)
+  - Code général des impôts, CGI. - art. 1384 B (V)
   - Code général des impôts, CGI. - art. 1388 quinquies
-  - Code général des impôts, CGI. - art. 1388 ter
+  - Code général des impôts, CGI. - art. 1388 ter (V)
   - Code général des impôts, CGI. - art. 1395 A
   - Code général des impôts, CGI. - art. 1395 B
   - Code général des impôts, CGI. - art. 1395 C
   - Code général des impôts, CGI. - art. 1395 G
-  - Code général des impôts, CGI. - art. 1411 (V)
+  - Code général des impôts, CGI. - art. 1411
   - Code général des impôts, CGI. - art. 1518 A
   - Code général des impôts, CGI. - art. 1647-00 bis
   - Code général des collectivités territoriales - art. L5211-41-3
