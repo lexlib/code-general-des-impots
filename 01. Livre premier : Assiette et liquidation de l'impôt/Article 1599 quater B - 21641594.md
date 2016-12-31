@@ -17,6 +17,8 @@ a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l
 est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition
 par ligne en service est établi selon le barème suivant : 
 
+(En euros) 
+
 <table border="1" align="center">
     <tbody>
       <tr>
@@ -44,57 +46,19 @@ TARIF (EN EUROS)
 Ligne en service d'un répartiteur principal 
 
 </td>
-        <td align="center" valign="middle">
+        <td valign="middle" align="center">
 
 10,13 
 
 </td>
-        <td valign="middle" align="center">
+        <td align="center" valign="middle">
 
 12,65</td>
       </tr>
     </tbody>
   </table>
 
-b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du réseau téléphonique commuté, le montant de
-l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant : 
-
-<table border="1" align="center">
-      <tbody>
-        <tr>
-          <th>NATURE DE L'ÉQUIPEMENT 
-
-</th>
-          <th>
-
-TARIF (EN EUROS) 2016 
-
-</th>
-        </tr>
-        <tr>
-          <td valign="middle" align="left">
-
-Unité de raccordement d'abonnés 
-
-</td>
-          <td valign="middle" align="center">
-
-1 675 
-
-</td>
-        </tr>
-        <tr>
-          <td valign="middle" align="left">
-
-Carte d'abonné 
-
-</td>
-          <td valign="middle" align="center">
-
-18,28 </td>
-        </tr>
-      </tbody>
-    </table>
+b) Abrogé 
 
 IV. ― Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, par
 région, département et commune : 
@@ -108,7 +72,8 @@ foncière des entreprises.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010.
+Conformément à l'article 71-III de la loi n° 2013-1279 du 29 décembre 2013, le b du III de l'article 1599 quater b est abrogé
+au 1er janvier 2017.
 
 **Liens relatifs à cet article**
 
@@ -128,6 +93,7 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 71 (V)
   - Décret n°2016-775 du 10 juin 2016 - art. 1
 
 _Cite_:
