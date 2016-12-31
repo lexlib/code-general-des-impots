@@ -138,6 +138,9 @@ dénommée taxe de solidarité sur les billets d'avion, perçue, dans la limite 
 n° 2011-1977 de finances pour 2012, par le fonds de solidarité pour le développement créé par l'article 22 de la loi n°
 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005. 
 
+Le produit annuel excédant le plafond prévu au I de l'article 46 de la  loi n° 2011-1977 du 28 décembre 2011 précitée est
+reversé au budget  annexe “ Contrôle et exploitation aériens ”.  
+
 Le tarif de cette taxe, perçue en fonction de la destination finale du passager, est fixé à : 
 
 a) 1,13 €, pour chaque passager embarqué à destination de la France, d'un autre Etat membre de l'Union européenne, d'un autre
@@ -204,7 +207,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 1
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 65
 
 _Cite_:
 

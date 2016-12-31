@@ -15,6 +15,20 @@ Le taux mentionné au premier alinéa est porté à 36 % lorsque la société s'
 investissements dans les conditions prévues au a de l'article 238 bis HG avant le 31 décembre de l'année suivant celle de la
 souscription. 
 
+Le taux mentionné au premier alinéa du présent 3 est porté à 48 % lorsque, d'une part, la réalisation d'investissements dans
+les conditions mentionnées au deuxième alinéa a été respectée et, d'autre part, la société s'engage à consacrer : 
+
+a) Soit au moins 10 % de ses investissements à des dépenses de développement d'œuvres audiovisuelles de fiction, de
+documentaire et d'animation sous forme de séries, effectuées par les sociétés mentionnées au a de l'article 238 bis HG au
+capital desquelles la société a souscrit ; 
+
+b) Soit au moins 10 % de ses investissements à des versements en numéraire réalisés par contrats d'association à la
+production, mentionnés au b du même article 238 bis HG, en contrepartie de l'acquisition de droits portant exclusivement sur
+les recettes d'exploitation des œuvres cinématographiques ou audiovisuelles à l'étranger. 
+
+Les investissements et les dépenses mentionnés aux a et b du présent 3 doivent être réalisés dans un délai d'un an à compter
+de la création de la société.
+
 4. Lorsque tout ou partie des titres ayant donné lieu à réduction d'impôt est cédé avant le 31 décembre de la cinquième année
 suivant celle du versement effectif, la réduction d'impôt obtenue est ajoutée à l'impôt dû au titre de l'année de la cession.
 Toutefois, la réduction d'impôt n'est pas reprise en cas de décès de l'un des époux ou partenaires liés par un pacte civil de
@@ -47,7 +61,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 72
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 8
 
 _Cite_:
 

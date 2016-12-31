@@ -41,6 +41,10 @@ intercommunale, le prélèvement sur les ressources calculé selon les condition
 de la loi n° 2009-1673 du 30 décembre 2009 précitée peut être mis à la charge de cet établissement public, à l'exclusion de
 la part calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1. 
 
+I quater.-Par exception au I de l'article 1639 A bis, l'établissement public de coopération intercommunale soumis au présent
+article et issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15 janvier
+pour prendre les délibérations prévues aux 3 et 4 du I bis et au I ter du présent article. 
+
 II. - Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux de la taxe
 d'habitation, de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties. 
 
@@ -138,9 +142,21 @@ en compte pour une durée normale d'utilisation et ramené à une seule année.
 
 Le coût des dépenses transférées est réduit, le cas échéant, des ressources afférentes à ces charges. 
 
-Cette évaluation est déterminée à la date de leur transfert par délibérations concordantes de la majorité qualifiée des
-conseils municipaux prévue au premier alinéa du II de l'article L. 5211-5 du code général des collectivités territoriales,
-adoptées sur rapport de la commission locale d'évaluation des transferts. 
+La commission locale chargée d'évaluer les charges transférées remet dans un délai de neuf mois à compter de la date du
+transfert un rapport évaluant le coût net des charges transférées. Ce rapport est approuvé par délibérations concordantes de
+la majorité qualifiée des conseils municipaux prévue au premier alinéa du II de l'article L. 5211-5 du code général des
+collectivités territoriales, prises dans un délai de trois mois à compter de la transmission du rapport au conseil municipal
+par le président de la commission. Le rapport est également transmis à l'organe délibérant de l'établissement public de
+coopération intercommunale.
+
+Lorsque le président de la commission n'a pas transmis le rapport précité aux conseils municipaux des communes membres ou à
+défaut d'approbation de celui-ci dans les conditions susmentionnées, le coût net des charges transférées est constaté par
+arrêté du représentant de l'Etat dans le département. Il est égal à la moyenne des dépenses figurant sur les comptes
+administratifs de la collectivité à l'origine du transfert, actualisées en fonction de l'indice des prix hors tabac tel que
+constaté à la date des transferts sur une période de trois ans précédant le transfert pour les dépenses de fonctionnement et
+actualisées en fonction de l'indice des prix de la formation brute de capital fixe des administrations publiques, tel que
+constaté à la date des transferts, sur une période de sept ans précédant le transfert pour les dépenses d'investissement. Il
+est réduit le cas échéant des ressources afférentes à ces charges. 
 
 Lorsqu'il est fait application à un établissement public de coopération intercommunale des dispositions du présent article,
 la commission d'évaluation des transferts de charges doit rendre ses conclusions sur le montant des charges qui étaient déjà
@@ -169,6 +185,10 @@ les attributions de compensation ;
 délibérations concordantes du conseil communautaire, statuant à la majorité des deux tiers, et des conseils municipaux des
 communes membres intéressées, en tenant compte du rapport de la commission locale d'évaluation des transferts de charges. 
 
+Ces délibérations peuvent prévoir d'imputer une partie du montant de l'attribution de compensation en section
+d'investissement en tenant compte du coût des dépenses d'investissement liées au renouvellement des équipements transférés,
+calculé par la commission locale d'évaluation des transferts de charges conformément au cinquième alinéa du IV.
+
 A défaut d'accord, le montant de l'attribution est fixé dans les conditions figurant aux 2°, 4° et 5° ; 
 
 2° L'attribution de compensation est égale à la somme des produits mentionnés au I et aux 1 et 2 du I bis et du produit de la
@@ -179,8 +199,9 @@ application du présent article, diminuée du coût net des charges transférée
 L'attribution de compensation est majorée du montant perçu par la commune la même année, d'une part, au titre de la part de
 la dotation forfaitaire prévue à l'article L. 2334-7 du code général des collectivités territoriales correspondant au montant
 antérieurement versé en application du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
-1998) et, d'autre part, au titre du montant des compensations, hors celui de la compensation prévue au IV bis de l'article 6
-de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), allouées :
+1998) diminué du pourcentage prévu au deuxième alinéa de l'article L. 5211-28-1 du code général des collectivités
+territoriales, et, d'autre part, au titre du montant des compensations, hors celui de la compensation prévue au IV bis de
+l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), allouées :
 
 - en application du B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002) ;
 
@@ -209,17 +230,17 @@ précitée.
 
 L'attribution de compensation est recalculée, dans les conditions prévues au IV, lors de chaque transfert de charge. 
 
+Tous les cinq ans, le président de l'établissement public de coopération intercommunale présente un rapport sur l'évolution
+du montant des attributions de compensation au regard des dépenses liées à l'exercice des compétences par l'établissement
+public de coopération intercommunale. Ce rapport donne lieu à un débat au sein de l'organe délibérant de l'établissement
+public de coopération intercommunale. Il est pris acte de ce débat par une délibération spécifique. Ce rapport est
+obligatoirement transmis aux communes membres de l'établissement public de coopération intercommunale. (1)
+
 2° bis Abrogé 
 
-3° Abrogé. 
+3° Abrogé 
 
-4° Lorsqu'il est fait application des dispositions du présent article à une communauté d'agglomération issue de la
-transformation d'un syndicat d'agglomération nouvelle, l'attribution de compensation versée chaque année aux communes membres
-est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des collectivités territoriales perçue
-l'année précédant celle de la première application de ces dispositions. 
-
-Cette attribution est recalculée dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elle ne peut
-être indexée. 
+4° Abrogé
 
 5° 1.-Lorsqu'à la suite d'une fusion réalisée dans les conditions prévues à l'article L. 5211-41-3 du code général des
 collectivités territoriales, un établissement public de coopération intercommunale fait application du régime prévu au
@@ -229,11 +250,13 @@ l'année où l'opération de fusion produit pour la première fois ses effets au
 a) Pour les communes qui étaient antérieurement membres d'un établissement public de coopération intercommunale soumis au
 présent article : à l'attribution de compensation que versait ou percevait cet établissement public de coopération
 intercommunale l'année précédant celle où cette opération a produit pour la première fois ses effets au plan fiscal, sous
-réserve des dispositions de l'avant-dernier alinéa du 2° du présent V. Il peut être dérogé au présent a, uniquement la
-première année d'existence du nouvel établissement public de coopération intercommunale, en cas de révision librement décidée
-par délibérations concordantes prises à la majorité qualifiée prévue au premier alinéa du II de l'article L. 5211-5 du code
-général des collectivités territoriales. Cette révision ne peut pas avoir pour effet de minorer ou de majorer l'attribution
-de compensation de plus de 15 % de son montant ; 
+réserve des dispositions de l'avant-dernier alinéa du 2° du présent V. Il peut être dérogé au présent a soit par
+délibérations concordantes de l'établissement public de coopération intercommunale et des communes intéressées dans les
+conditions du 1° bis, soit, uniquement les deux premières années d'existence du nouvel établissement public de coopération
+intercommunale par délibération de l'organe délibérant de l'établissement public de coopération intercommunale statuant à la
+majorité des deux tiers. Dans ce dernier cas, la révision ne peut pas avoir pour effet de minorer ou de majorer l'attribution
+de compensation de plus de 30 % de son montant, représentant au plus 5 % des recettes réelles de fonctionnement de la commune
+intéressée l'année précédant la révision ; 
 
 b) Pour les communes qui étaient antérieurement membres d'un établissement public de coopération intercommunale ne faisant
 pas application du présent article : au montant calculé conformément au 2° du présent V. 
@@ -241,10 +264,8 @@ pas application du présent article : au montant calculé conformément au 2° d
 Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de compétences, cette attribution de compensation est
 respectivement diminuée ou majorée du montant net des charges transférées, calculé dans les conditions définies au IV. 
 
-Un protocole financier général définit les modalités de détermination des attributions de compensation et les relations
-financières entre l'établissement public de coopération intercommunale fusionné et les communes, les conditions de reprise
-des dettes des établissements publics à fiscalité propre préexistants, les formules d'amortissement des investissements et
-les procédures comptables. 
+Un protocole financier général définit les modalités de détermination des attributions de compensation entre l'établissement
+public de coopération intercommunale fusionné et les communes.
 
 A titre dérogatoire, les établissements publics de coopération intercommunale issus d'une fusion ou d'une modification de
 périmètre au 1er janvier 2010 et les conseils municipaux de leurs communes membres peuvent, par délibérations concordantes
@@ -260,11 +281,13 @@ première fois leurs effets au plan fiscal est égale à :
 a) Pour les communes qui étaient antérieurement membres d'un établissement public de coopération intercommunale soumis au
 présent article : à l'attribution de compensation que versait ou percevait cet établissement public de coopération
 intercommunale l'année précédant celle où les opérations précitées ont produit pour la première fois leurs effets au plan
-fiscal, sous réserve des dispositions de l'avant-dernier alinéa du 2° du présent V. Il peut être dérogé au présent a,
-uniquement la première année d'existence du nouvel établissement public de coopération intercommunale, en cas de révision
-librement décidée par délibérations concordantes prises à la majorité qualifiée prévue au premier alinéa du II de l'article
-L. 5211-5 du code général des collectivités territoriales. Cette révision ne peut pas avoir pour effet de minorer ou de
-majorer l'attribution de compensation de plus de 15 % de son montant ; 
+fiscal, sous réserve des dispositions de l'avant-dernier alinéa du 2° du présent V. Il peut être dérogé au présent a soit par
+délibérations concordantes de l'établissement public de coopération intercommunale et des communes intéressées dans les
+conditions du 1° bis, soit, uniquement les deux premières années d'existence du nouvel établissement public de coopération
+intercommunale par délibération de l'organe délibérant de l'établissement public de coopération intercommunale statuant à la
+majorité des deux tiers. Dans ce dernier cas, la révision ne peut pas avoir pour effet de minorer ou de majorer l'attribution
+de compensation de plus de 30 % de son montant, représentant au plus 5 % des recettes réelles de fonctionnement de la commune
+intéressée l'année précédant la révision ; 
 
 b) Pour les communes qui étaient antérieurement membres d'un établissement public de coopération intercommunale ne faisant
 pas application du présent article : au montant calculé conformément au 2° du présent V. 
@@ -273,28 +296,12 @@ Lorsque l'adhésion d'une commune s'accompagne d'un transfert ou d'une restituti
 compensation est respectivement diminuée ou majorée du montant net des charges transférées calculé dans les conditions
 définies au IV. 
 
-3.-L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un syndicat
-d'agglomération nouvelle est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des
-collectivités territoriales perçue l'année de la fusion. 
-
-Lorsque l'adhésion à un établissement public de coopération intercommunale s'accompagne d'un transfert ou d'une restitution
-de compétences, l'attribution de compensation est respectivement diminuée ou majorée du montant net des charges transférées
-calculé dans les conditions définies au IV du présent article. 
+3 Abrogé
 
 4.-L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un
 établissement public de coopération intercommunale sans fiscalité propre est calculée dans les conditions prévues au 2° ; 
 
-5.-Les métropoles et la métropole de Lyon peuvent faire application de la révision dérogatoire prévue au a du 1 du présent
-5°, uniquement la première année où leur création produit ses effets au plan fiscal, pour modifier l'attribution de
-compensation que versait ou percevait l'établissement public de coopération intercommunale préexistant l'année précédente.
-Cette révision ne peut pas avoir pour effet de minorer ou de majorer l'attribution de compensation de plus de 15 % de son
-montant. 
-
-A défaut de révision dérogatoire, l'attribution de compensation versée ou perçue à compter de l'année où leur création a
-produit pour la première fois ses effets au plan fiscal est égale à celle que versait ou percevait l'établissement public de
-coopération intercommunale préexistant l'année précédente. 
-
-Un protocole financier général établi au plus tard au 31 décembre 2016 définit les modalités de détermination des
+5.-Un protocole financier général établi au plus tard au 31 décembre 2016 définit les modalités de détermination des
 attributions de compensation entre la métropole de Lyon et les communes situées sur son territoire ; 
 
 6° Les attributions de compensation fixées conformément aux 2°, 4°, 5° ou, le cas échéant, au 1° bis du présent V sont
@@ -406,17 +413,15 @@ présent article.
 
 **Nota:**
 
-Pour l'application au titre de 2015 du dernier alinéa du II de l'article 1609 nonies C à la métropole de Lyon en 2015, il
-convient de se référer à l'article 39 de l'ordonnance n° 2014-1335 du 6 novembre 2014 relative à l'adaptation et à l'entrée
-en vigueur de certaines dispositions du code général des collectivités territoriales, du code général des impôts et d'autres
-dispositions législatives applicables à la métropole de Lyon.
+(1) Conformément au II de l'article 148 de la loi n° 2016-1917 du 29 décembre 2016 les présentes dispositions entrent en
+vigueur le 30 décembre 2016.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°72-657 du 13 juillet 1972 - art. 3
-  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (M)
+  - Loi n°86-1317 du 30 décembre 1986 - art. 6
   - Loi n°96-987 du 14 novembre 1996 - art. 4
   - Loi n°2002-1575 du 30 décembre 2002 - art. 26
   - Code général des impôts, CGI. - art. 1519 D
@@ -529,6 +534,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 53 (V)
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 163
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 164
+  - Loi n°2015-991 du 7 août 2015 - art. 133 (M)
+  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 80
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 81
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 148 (V)
