@@ -2,7 +2,7 @@
 
 La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 % en ce qui concerne : 
 
-I. - Les opérations suivantes réalisées dans le cadre de la politique sociale : 
+I. – Les opérations suivantes réalisées dans le cadre de la politique sociale : 
 
 1. Les livraisons de terrains à bâtir consenties aux organismes d'habitations à loyer modéré visés à l'article L. 411-2 du
 code de la construction et de l'habitation ou aux personnes bénéficiaires, au moment de la livraison, d'un prêt mentionné à
@@ -34,10 +34,11 @@ au II de l'article L. 301-1 du code de la construction et de l'habitation ;
 lorsqu'elle a conclu avec l'Etat une convention en application du 4° de l'article L. 351-2 dudit code ; 
 
 7. Les livraisons de logements à usage locatif à l'association mentionnée à l'article L. 313-34 du même code ou à des
-sociétés civiles immobilières dont cette association détient la majorité des parts, situés dans des quartiers faisant l'objet
-d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville
-et la rénovation urbaine et destinés à être occupés par des ménages dont le total des ressources n'excède pas le montant
-mentionné à l'article R. 391-8 du code de la construction et de l'habitation ; 
+sociétés civiles immobilières dont cette association détient la majorité des parts lorsque ces logements sont destinés à être
+occupés par des ménages dont le total des ressources n'excède pas le montant mentionné à l'article R. 391-8 du même code et
+sont situés soit dans des quartiers faisant l'objet de la convention pluriannuelle prévue aux articles 10 ou 10-3 de la loi
+n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, soit entièrement
+situés à une distance de moins de 300 mètres de la limite de ces quartiers ; 
 
 7 bis. Les livraisons de logements à usage locatif aux organismes réalisant les opérations prévues par une convention
 mentionnée à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la
@@ -66,7 +67,7 @@ les ressources à la date de signature de l'avant-contrat ou du contrat prélimi
 vente ou du contrat ayant pour objet la construction du logement ne dépassent pas les plafonds prévus à la première phrase du
 huitième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés dans des quartiers faisant
 l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 précitée ou entièrement situés à une
-distance de moins de 300 mètres de la limite de ces quartiers ;
+distance de moins de 300 mètres de la limite de ces quartiers ; 
 
 11 bis. Les livraisons d'immeubles et les travaux réalisés en application d'un contrat unique de construction de logements
 dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, destinés à des personnes physiques
@@ -76,7 +77,9 @@ du huitième alinéa de l'article L. 411-2 du code de la construction et de l'ha
 demande de permis de construire, dans les quartiers prioritaires de la politique de la ville définis à l'article 5 de la loi
 n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine qui font l'objet d'un contrat de ville
 prévu à l'article 6 de la même loi ou entièrement situés, à la même date, à une distance de moins de 300 mètres de la limite
-de ces quartiers.
+de ces quartiers ou, à la condition que ces quartiers fassent l'objet d'une convention prévue à l'article 10-3 de la loi n°
+2003-710 du 1er août 2003 précitée, intégrés à un ensemble immobilier entièrement situé, à la même date, à moins de 500
+mètres de la limite de ces quartiers et partiellement à moins de 300 mètres de cette même limite. 
 
 Le prix de vente ou de construction des logements ne peut excéder les plafonds prévus pour les opérations mentionnées au 4 du
 présent I ; 
@@ -84,29 +87,35 @@ présent I ;
 12. Les apports des immeubles sociaux neufs aux sociétés civiles immobilières d'accession progressive à la propriété
 effectués dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation ; 
 
-II. - Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié du taux réduit de 5,5 % en application du
+13. Les livraisons de terrains à bâtir à un organisme de foncier solidaire en vue de la conclusion d'un bail réel solidaire,
+les livraisons de logements neufs à un organisme de foncier solidaire en vue de la conclusion d'un bail réel solidaire conclu
+dans les conditions prévues au premier alinéa de l'article L. 255-2 du code de la construction et de l'habitation ainsi que
+les cessions, prévues à l'article L. 255-3 du même code, des droits réels immobiliers attachés aux logements construits ou
+réhabilités dans le cadre d'un tel bail et destinés à la résidence principale des acquéreurs. 
+
+II. – Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié du taux réduit de 5,5 % en application du
 I ; 
 
-III. - 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés aux 2, 5, 6 et 8 du I, lorsque ces travaux
+III. – 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés aux 2,5,6 et 8 du I, lorsque ces travaux
 consistent en une extension ou rendent l'immeuble à l'état neuf, au sens du 2° du 2 du I de l'article 257, sous réserve de la
-prise en compte de ces opérations d'extension ou de remise à neuf dans les conventions mentionnées aux 2, 5, 6 et 8 du I du
-présent article ;
+prise en compte de ces opérations d'extension ou de remise à neuf dans les conventions mentionnées aux 2,5,6 et 8 du I du
+présent article ; 
 
 2. Les livraisons à soi-même de travaux de rénovation, d'amélioration, de transformation ou d'aménagement réalisés dans le
 cadre de l'une des opérations suivantes, lorsque l'acquéreur bénéficie pour cette opération d'un prêt accordé pour la
 construction, l'acquisition ou l'amélioration de logements locatifs aidés ou d'une subvention de l'Agence nationale pour la
 rénovation urbaine et a conclu avec l'Etat une convention en application des 3° à 5° de l'article L. 351-2 du code de la
-construction et de l'habitation :
+construction et de l'habitation : 
 
-a) Acquisition de logements et d'immeubles destinés à l'habitation, suivie de travaux d'amélioration ;
+a) Acquisition de logements et d'immeubles destinés à l'habitation, suivie de travaux d'amélioration ; 
 
 b) Acquisition de locaux ou d'immeubles non affectés à l'habitation, suivie de leur transformation ou aménagement en
-logements ;
+logements ; 
 
 c) Travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
 collectivités territoriales ou leurs groupements ; 
 
-IV. - 1. - Les livraisons à soi-même de travaux de rénovation portant sur les locaux mentionnés aux 2 à 8 du I et ayant pour
+IV. – 1. – Les livraisons à soi-même de travaux de rénovation portant sur les locaux mentionnés aux 2 à 8 du I et ayant pour
 objet de concourir directement à : 
 
 1° La réalisation d'économies d'énergie et de fluides, concernant : 
@@ -141,32 +150,30 @@ foncière ;
 sécurité des installations de gaz et d'électricité, de prévention des risques naturels, miniers et technologiques ou
 d'installation de dispositifs de retenue des personnes. 
 
-2. - Les livraisons à soi-même de travaux induits et indissociablement liés aux travaux prévus au 1.
-
-**Nota:**
-
-Loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 article 17 II : les présentes dispositions s'appliquent aux
-opérations pour lesquelles la demande de permis de construire est déposée à compter du 1er janvier 2015 et jusqu'au 31
-décembre 2024 pour les opérations situées dans les quartiers faisant l'objet d'une convention prévue à l'article 10-3 de la
-loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine.
+2. – Les livraisons à soi-même de travaux induits et indissociablement liés aux travaux prévus au 1.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°84-595 du 12 juillet 1984
-  - Loi n°2003-710 du 1 août 2003 - art. 10
-  - Code général des impôts, CGI. - art. 244 quater J (V)
-  - Code général des impôts, CGI. - art. 279-0 bis
+  - Loi n°86-1290 du 23 décembre 1986 - art. 25 (V)
+  - Loi n°2003-710 du 1 août 2003 - art. 10 (V)
+  - Loi n°2003-710 du 1 août 2003 - art. 10-3 (V)
+  - Loi n°2014-173 du 21 février 2014 - art. 5 (V)
   - Code de l'action sociale et des familles - art. L312-1
+  - Code de la construction et de l'habitation. - art. L255-2 (V)
+  - Code de la construction et de l'habitation. - art. L255-3 (V)
   - Code de la construction et de l'habitation. - art. L301-1
+  - Code de la construction et de l'habitation. - art. L313-3 (V)
   - Code de la construction et de l'habitation. - art. L313-34
   - Code de la construction et de l'habitation. - art. L351-2
   - Code de la construction et de l'habitation. - art. L411-2
+  - Code de la construction et de l'habitation. - art. L443-6-2 (V)
   - Code de la construction et de l'habitation. - art. R331-1
   - Code de la construction et de l'habitation. - art. R331-3
   - Code de la construction et de l'habitation. - art. R331-6
-  - Code de la construction et de l'habitation. - art. R391-8
+  - Code de la construction et de l'habitation. - art. R391-8 (V)
 
 _Cité par_:
 
@@ -202,5 +209,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 17 (V)
-  - Décret n°2015-608 du 3 juin 2015 - art. 1
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 62
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 30 (V)

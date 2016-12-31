@@ -18,8 +18,9 @@ ne sont plus rattachés à un établissement réunissant les conditions requises
 l'article 1466 F et au plus tard à compter des impositions établies au titre de 2019. 
 
 II.-Le taux de l'abattement est fixé à 50 % de la base d'imposition à la taxe foncière sur les propriétés bâties due au titre
-de chacune des années 2009 à 2015 et respectivement à 40 %, 35 % et 30 % de la base d'imposition à la taxe foncière sur les
-propriétés bâties pour les impositions établies au titre de 2016,2017 et 2018. 
+de chacune des années 2009 à 2015, à 40 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les
+impositions établies au titre des années 2016 et 2017, et à 30 % de la base d'imposition à la taxe foncière sur les
+propriétés bâties pour les impositions établies au titre de l'année 2018. 
 
 III.-Le montant de l'abattement mentionné au II est majoré : 
 
@@ -48,8 +49,9 @@ habitants en 2008 ;
 mentionnée au 4° du III de l'article 44 quaterdecies. 
 
 Le taux de cet abattement est fixé à 80 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les
-impositions dues au titre de chacune des années 2009 à 2015 et respectivement à 70 %, 60 % et 50 % de la base d'imposition à
-la taxe foncière sur les propriétés bâties pour les impositions dues au titre de 2016,2017 et 2018. 
+impositions dues au titre de chacune des années 2009 à 2015, à 70 % de la base d'imposition à la taxe foncière sur les
+propriétés bâties pour les impositions dues au titre des années 2016 et 2017, et à 50 % de la base d'imposition à la taxe
+foncière sur les propriétés bâties pour les impositions dues au titre de l'année 2018. 
 
 IV.-Par dérogation au III, pour les immeubles situés dans les îles des Saintes, à Marie-Galante et à La Désirade, le taux de
 l'abattement mentionné au dernier alinéa du III est porté à 100 % pour les années 2009 à 2011. 
@@ -64,7 +66,7 @@ ou de la partie d'immeuble à un établissement réunissant les conditions requi
 l'article 1466 F. 
 
 VII.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 B, 1383 C,
-1383 C bis, 1383 C ter,  1383 D, 1383 E bis ou 1383 I et de l'abattement prévu au présent article sont réunies, le
+1383 C bis, 1383 C ter, 1383 D, 1383 E bis ou 1383 I et de l'abattement prévu au présent article sont réunies, le
 contribuable peut opter pour l'un ou l'autre de ces régimes. Cette option est irrévocable et vaut pour l'ensemble des
 collectivités territoriales et des établissements publics de coopération intercommunale. 
 
@@ -77,11 +79,11 @@ présent article, le contribuable peut opter pour ce dernier régime au plus tar
 promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer. A défaut d'option, le
 contribuable bénéficie, au terme de l'application de celui de ces régimes dont il bénéficie au 1er janvier 2009, de
 l'abattement prévu par le présent article, pour la période restant à courir et dans les conditions prévues au II ou au III
-pour les années concernées.
+pour les années concernées. 
 
-VIII. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission,
-du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107
-et 108 du traité.
+VIII.-Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du
+17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et
+108 du traité.
 
 **Liens relatifs à cet article**
 
@@ -93,10 +95,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1383 B
   - Code général des impôts, CGI. - art. 1383 C
   - Code général des impôts, CGI. - art. 1383 C bis
-  - Code général des impôts, CGI. - art. 1383 D
+  - Code général des impôts, CGI. - art. 1383 C ter (V)
+  - Code général des impôts, CGI. - art. 1383 D (M)
   - Code général des impôts, CGI. - art. 1383 E bis
   - Code général des impôts, CGI. - art. 1383 I
-  - Code général des impôts, CGI. - art. 1466 F (M)
+  - Code général des impôts, CGI. - art. 1466 F
   - Code général des impôts, CGI. - art. 1639 A bis
   - Code général des impôts, CGI. - art. 44 quaterdecies
   - Code général des collectivités territoriales - art. L2334-2
@@ -113,5 +116,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 49 (M)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 67 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 28
