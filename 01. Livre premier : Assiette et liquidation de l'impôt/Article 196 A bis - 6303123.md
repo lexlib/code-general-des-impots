@@ -1,16 +1,14 @@
 # Article 196 A bis
 
 Tout contribuable peut considérer comme étant à sa charge, au sens de l'article 196, à la condition qu'elles vivent sous son
-toit, les personnes titulaires de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des
-familles.
+toit, les personnes titulaires de la carte “ mobilité inclusion ” portant la mention “ invalidité ” prévue à l'article L.
+241-3 du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Rapport au Président de la République relatif à l' - art. 1 (V) JORF 23 décembre 2000
-  - Rapport au Président de la République relatif à l' - art. 3 (V) JORF 23 décembre 2000
-  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 107 (V)
 
 _Cité par_:
 
@@ -22,14 +20,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 196 (V)
-  - Code de l'action sociale et des familles - art. L241-3 (M)
+  - Code général des impôts, CGI. - art. 196
+  - Code de l'action sociale et des familles - art. L241-3 (V)
 
 _Codifié par_:
 
   - Décret n°2001-435 2001-06-21
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-  - TXT_ASSOCIE: Instruction 2003-03-19 5B-9-03

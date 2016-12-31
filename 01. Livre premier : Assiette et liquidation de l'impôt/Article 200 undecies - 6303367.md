@@ -1,8 +1,8 @@
 # Article 200 undecies
 
-I. - Les contribuables, personnes physiques, qui ont leur domicile fiscal en France au sens de l'article 4 B et qui exercent
+I. – Les contribuables, personnes physiques, qui ont leur domicile fiscal en France au sens de l'article 4 B et qui exercent
 une activité dont les revenus sont imposés dans la catégorie des bénéfices agricoles bénéficient d'un crédit d'impôt au titre
-des dépenses engagées pour assurer leur remplacement pour congé entre le 1er janvier 2006 et le 31 décembre 2016 par l'emploi
+des dépenses engagées pour assurer leur remplacement pour congé entre le 1er janvier 2006 et le 31 décembre 2019 par l'emploi
 direct de salariés ou par le recours à des personnes mises à disposition par un tiers. Le bénéfice du crédit d'impôt est
 subordonné à la condition que l'activité exercée requière la présence du contribuable sur l'exploitation chaque jour de
 l'année et que son remplacement ne fasse pas l'objet d'une prise en charge au titre d'une autre législation. 
@@ -12,7 +12,7 @@ physiques non salariés de sociétés ou de groupements, au sein desquels ils ex
 activité agricole qui requiert leur présence sur l'exploitation chaque jour de l'année et sous réserve que leur remplacement
 ne soit pas assuré par une personne ayant la qualité d'associé de la société ou du groupement. 
 
-II. - Le crédit d'impôt est égal à 50 % des dépenses mentionnées au I et effectivement supportées, dans la limite par an de
+II. – Le crédit d'impôt est égal à 50 % des dépenses mentionnées au I et effectivement supportées, dans la limite par an de
 quatorze jours de remplacement pour congé. Pour ce calcul, le coût d'une journée de remplacement est plafonné à quarante-deux
 fois le taux horaire du minimum garanti mentionné à l'article L. 3231-12 du code du travail. Le crédit d'impôt est accordé au
 titre de l'année au cours de laquelle les dépenses ont été engagées. 
@@ -22,11 +22,11 @@ agricole d'exploitation en commun, le plafond du crédit d'impôt est multiplié
 groupement, dans la limite de quatre. Le plafond du crédit d'impôt dont bénéficie un associé de groupement agricole
 d'exploitation en commun ne peut toutefois pas excéder le plafond du crédit d'impôt bénéficiant à un exploitant individuel. 
 
-III. - Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux
+III. – Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux
 articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt
-dû, l'excédent est restitué.
+dû, l'excédent est restitué. 
 
-IV. - Le bénéfice du crédit d'impôt au titre des dépenses engagées entre le 1er janvier 2011 et le 31 décembre 2016 est
+IV. – Le bénéfice du crédit d'impôt au titre des dépenses engagées entre le 1er janvier 2011 et le 31 décembre 2019 est
 subordonné au respect du règlement (UE) n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
 articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de
 l'agriculture.
@@ -35,9 +35,7 @@ l'agriculture.
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 70
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 37 (V)
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 39
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 77
 
 _Cité par_:
 
@@ -48,6 +46,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 199 quater B
+  - Code général des impôts, CGI. - art. 199 quater B (V)
   - Code général des impôts, CGI. - art. 4 B
   - Code du travail - art. L3231-12

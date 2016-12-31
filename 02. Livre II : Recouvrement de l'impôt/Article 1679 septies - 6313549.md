@@ -1,12 +1,12 @@
 # Article 1679 septies
 
 Les entreprises dont la cotisation sur la valeur ajoutée des entreprises de l'année précédant celle de l'imposition est
-supérieure à 3 000 € doivent verser :
+supérieure à 3 000 € doivent verser : 
 
-- au plus tard le 15 juin de l'année d'imposition, un premier acompte égal à 50 % de la cotisation sur la valeur ajoutée des
-entreprises ;
+– au plus tard le 15 juin de l'année d'imposition, un premier acompte égal à 50 % de la cotisation sur la valeur ajoutée des
+entreprises ; 
 
-- au plus tard le 15 septembre de l'année d'imposition, un second acompte égal à 50 % de la cotisation sur la valeur ajoutée
+– au plus tard le 15 septembre de l'année d'imposition, un second acompte égal à 50 % de la cotisation sur la valeur ajoutée
 des entreprises. 
 
 La cotisation sur la valeur ajoutée des entreprises retenue pour le paiement des premier et second acomptes est calculée
@@ -22,13 +22,13 @@ mentionnées au 1 du II de l'article 1586 ter et du dégrèvement prévu à l'ar
 
 Pour l'application des exonérations ou des abattements de cotisations sur la valeur ajoutée des entreprises prévus à
 l'article 1586 nonies, les entreprises sont autorisées à limiter le paiement des acomptes de leur cotisation sur la valeur
-ajoutée des entreprises dans la proportion entre :
+ajoutée des entreprises dans la proportion entre : 
 
-- d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au
-titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I, de l'article 1464 L et des
-articles 1465 à 1466 F ;
+– d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au
+titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I, de l'article 1464 M et des
+articles 1465 à 1466 F ; 
 
-- et, d'autre part, le montant visé au septième alinéa majoré du montant total des cotisations foncières des entreprises dû
+– et, d'autre part, le montant visé au septième alinéa majoré du montant total des cotisations foncières des entreprises dû
 au titre de l'année précédente. 
 
 Un décret précise les conditions d'application des sixième à huitième alinéas. 
@@ -41,15 +41,16 @@ directs dus par le redevable, est restitué dans les soixante jours suivant le d
 
 **Nota:**
 
-Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 25 III : Ces dispositions s'appliquent à
-compter des impositions établies au titre de 2015.
+Conformément au II de l'article 43 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions s'appliquent à
+compter des impositions établies au titre de 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 25 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 67 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 43 (V)
 
 _Cité par_:
 
@@ -57,17 +58,16 @@ _Cité par_:
   - Décret n°2011-1232 du 3 octobre 2011 - art. 2 (V)
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 21 (V)
   - Code général des impôts, CGI. - art. 1586 octies (V)
-  - Code général des impôts, CGI. - art. 1731 (V)
+  - Code général des impôts, CGI. - art. 1731 (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I-0 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 terdecies (V)
-
-**Liens**:
-
-  - RECTIFICATION: Loi n°2013-1279 du 29 décembre 2013 - art., v. init.
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1459
-  - Code général des impôts, CGI. - art. 1464 (V)
-  - Code général des impôts, CGI. - art. 1464 L (V)
+  - Code général des impôts, CGI. - art. 1464
+  - Code général des impôts, CGI. - art. 1464 M (V)
   - Code général des impôts, CGI. - art. 1465
+  - Code général des impôts, CGI. - art. 1586 quater (VT)
+  - Code général des impôts, CGI. - art. 1586 ter (V)
+  - Code général des impôts, CGI. - art. 53 A (V)
