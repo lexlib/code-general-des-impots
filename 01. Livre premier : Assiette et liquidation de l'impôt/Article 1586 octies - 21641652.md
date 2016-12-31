@@ -1,6 +1,6 @@
 # Article 1586 octies
 
-I. - 1. La cotisation sur la valeur ajoutée des entreprises est due par le redevable qui exerce l'activité au 1er janvier de
+I. – 1. La cotisation sur la valeur ajoutée des entreprises est due par le redevable qui exerce l'activité au 1er janvier de
 l'année d'imposition. 
 
 2. Toutefois, en cas d'apport, de cession d'activité, de scission d'entreprise ou de transmission universelle du patrimoine
@@ -8,7 +8,7 @@ mentionnée à l'article 1844-5 du code civil, la cotisation sur la valeur ajout
 redevable qui n'exerce aucune activité imposable au 1er janvier de l'année et auquel l'activité est transmise lorsque
 l'opération intervient au cours de l'année d'imposition. 
 
-II. - 1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année
+II. – 1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année
 suivant celle au titre de laquelle la cotisation sur la valeur ajoutée des entreprises est due, d'une déclaration par les
 entreprises mentionnées au I de l'article 1586 ter auprès du service des impôts dont relève leur principal établissement. 
 
@@ -19,11 +19,11 @@ ce lieu d'emploi dès lors que le salarié y exerce son activité plus de trois 
 
 Les effectifs affectés aux véhicules sont déclarés par les entreprises de transport au local ou au terrain qui constitue le
 lieu de stationnement habituel des véhicules ou, s'il n'en existe pas, au local où ils sont entretenus ou réparés par le
-redevable ; à défaut, les effectifs sont déclarés au principal établissement de l'entreprise.
+redevable ; à défaut, les effectifs sont déclarés au principal établissement de l'entreprise. 
 
 Par exception aux deuxième et troisième alinéas, la déclaration des entreprises de transport national ferroviaire mentionne
 leurs effectifs par établissement, au prorata de la valeur locative foncière imposée à la cotisation foncière des entreprises
-de ces établissements.
+de ces établissements. 
 
 Un décret précise les conditions d'application du présent 1.
 
@@ -42,9 +42,9 @@ jours décompté au jour de ce jugement. Cette déclaration doit mentionner une 
 valeur ajoutée des entreprises due au titre de l'année au cours de laquelle la procédure collective a été ouverte, déterminée
 en fonction du chiffre d'affaires et de la valeur ajoutée mentionnés dans la dernière déclaration de résultat exigée. Cette
 obligation déclarative anticipée ne se substitue pas aux obligations déclaratives mentionnées au 1 du II du présent article
-et au dernier alinéa de l'article 1679 septies.
+et au dernier alinéa de l'article 1679 septies. 
 
-III. - La valeur ajoutée est imposée dans la commune où le contribuable la produisant dispose de locaux ou emploie des
+III. – La valeur ajoutée est imposée dans la commune où le contribuable la produisant dispose de locaux ou emploie des
 salariés exerçant leur activité plus de trois mois. 
 
 Lorsqu'un contribuable dispose de locaux ou emploie des salariés exerçant leur activité plus de trois mois dans plusieurs
@@ -82,7 +82,7 @@ Lorsque la déclaration par établissement mentionnée au II fait défaut, la va
 les communes à partir des éléments mentionnés dans la déclaration de l'année précédente. A défaut, la valeur ajoutée du
 contribuable est répartie entre les communes où le contribuable dispose d'immobilisations imposables à la cotisation foncière
 des entreprises au prorata de leur valeur locative. Dans ce second cas, la valeur locative des immobilisations industrielles
-évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 5.
+évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 5. 
 
 Pour les contribuables qui n'emploient aucun salarié en France et ne disposent d'aucun établissement en France mais qui y
 exercent une activité de location d'immeubles ou de vente d'immeubles : 
@@ -96,13 +96,25 @@ la valeur locative foncière de chacun de ces immeubles ;
 déposées au lieu de dépôt de la déclaration de résultat. 
 
 Pour l'application du présent III, la valeur locative des immobilisations imposables à la cotisation foncière des entreprises
-s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier alinéa de l'article 1467.
+s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier alinéa de l'article 1467. 
+
+Pour le versement par l'Etat du produit de la cotisation sur la valeur ajoutée des entreprises aux collectivités
+territoriales et aux établissements publics de coopération intercommunale, la valeur ajoutée produite par les entreprises
+membres d'un groupe au sens de l'article 223 A est répartie entre chacune des communes où les entreprises membres du groupe
+disposent de locaux ou emploient des salariés exerçant leur activité plus de trois mois, dans les conditions prévues au
+présent III.
+
+**Nota:**
+
+Conformément au II de l'article 51 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions s'appliquent à la
+cotisation sur la valeur ajoutée des entreprises due par les redevables au titre de 2017 et des années suivantes et versée
+par l'Etat aux collectivités territoriales et aux établissements publics de coopération intercommunale à compter de 2018. 
+
+III.-Chaque année, le Gouvernement remet au Parlement avant le 30 septembre un rapport ayant pour objet l'analyse de la
+variation tant du produit de cotisation sur la valeur ajoutée des entreprises que de sa répartition entre régions et
+départements.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
 
 _Cité par_:
 
@@ -146,7 +158,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2014-326 du 12 mars 2014 - art. 101
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 51 (M)
 
 _Cite_:
 
@@ -160,4 +172,5 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1586 ter
   - Code général des impôts, CGI. - art. 1679 septies
   - Code général des impôts, CGI. - art. 201
+  - Code général des impôts, CGI. - art. 223 A (V)
   - Code civil - art. 1844-5
