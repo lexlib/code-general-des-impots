@@ -1,6 +1,6 @@
 # Article 217 undecies
 
-I. Les entreprises soumises à l'impôt sur les sociétés réalisant, au titre de leur dernier exercice clos, un chiffre
+I. – Les entreprises soumises à l'impôt sur les sociétés réalisant, au titre de leur dernier exercice clos, un chiffre
 d'affaires inférieur à 20 millions d'euros peuvent déduire de leurs résultats imposables une somme égale au montant, hors
 taxes et hors frais de toute nature, notamment les commissions d'acquisition, à l'exception des frais de transport,
 d'installation et de mise en service amortissables, des investissements productifs, diminuée de la fraction de leur prix de
@@ -15,23 +15,21 @@ chiffre d'affaires défini au présent alinéa s'apprécie au niveau de l'entrep
 communique le montant à la société qui réalise l'investissement. Lorsque l'entreprise mentionnée aux première et avant-
 dernière phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du
 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble
-des entreprises qui lui sont liées. L'investissement doit être un investissement initial, au sens de l'article 2 du règlement
-(UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché
-intérieur en application des articles 107 et 108 du traité. Pour les projets d'investissement comportant l'acquisition,
-l'installation ou l'exploitation d'équipements de production d'énergie renouvelable, le montant déductible mentionné à la
-première phrase du présent alinéa est pris en compte dans la limite d'un montant par watt installé fixé par arrêté conjoint
-des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant
-prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements. La déduction est opérée sur le
-résultat de l'exercice au cours duquel l'investissement est mis en service, le déficit éventuel de l'exercice étant reporté
-dans les conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou de
-construction d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les fondations sont achevées.
-Si l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la somme déduite est
-rapportée au résultat imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. En cas de
-réhabilitation hôtelière, la déduction est accordée au titre de l'année d'achèvement des travaux. La déduction s'applique
-également aux investissements réalisés par une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion des
-sociétés en participation, ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues
-directement par des entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés
-ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
+des entreprises qui lui sont liées. Pour les projets d'investissement comportant l'acquisition, l'installation ou
+l'exploitation d'équipements de production d'énergie renouvelable, le montant déductible mentionné à la première phrase du
+présent alinéa est pris en compte dans la limite d'un montant par watt installé fixé par arrêté conjoint des ministres
+chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend en compte
+les coûts d'acquisition et d'installation directement liés à ces équipements. La déduction est opérée sur le résultat de
+l'exercice au cours duquel l'investissement est mis en service, le déficit éventuel de l'exercice étant reporté dans les
+conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou de construction
+d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les fondations sont achevées. Si l'immeuble
+n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la somme déduite est rapportée au résultat
+imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. En cas de réhabilitation hôtelière, la
+déduction est accordée au titre de l'année d'achèvement des travaux. La déduction s'applique également aux investissements
+réalisés par une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion des sociétés en participation, ou
+un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues directement par des entreprises
+soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés ou membres dans une proportion
+correspondant à leurs droits dans la société ou le groupement. 
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
@@ -118,11 +116,11 @@ Pour les investissements dont la durée normale d'utilisation est au moins égal
 sont applicables lorsque l'entreprise locataire prend l'engagement d'utiliser effectivement pendant sept ans au moins ces
 investissements dans le cadre de l'activité pour laquelle ils ont été acquis ou créés. 
 
-I bis.-La déduction prévue au premier alinéa du I s'applique également aux acquisitions ou constructions de logements neufs
-situés en Guadeloupe, en Guyane, en Martinique , à Mayotte ou à La Réunion si les conditions suivantes sont réunies : 
+I bis. – La déduction prévue au premier alinéa du I s'applique également aux acquisitions ou constructions de logements neufs
+situés en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à La Réunion si les conditions suivantes sont réunies : 
 
 1° L'entreprise signe avec une personne physique, dans les six mois de l'achèvement de l'immeuble, ou de son acquisition si
-elle est postérieure, un contrat de location-accession dans les conditions prévues par la  loi n° 84-595 du 12 juillet 1984
+elle est postérieure, un contrat de location-accession dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984
 définissant la location-accession à la propriété immobilière ; 
 
 2° L'acquisition ou la construction de l'immeuble a été financée au moyen d'un prêt mentionné au I de l'article R. 331-76-5-1
@@ -132,7 +130,7 @@ du code de la construction et de l'habitation ;
 l'immeuble sont rétrocédés à la personne physique signataire du contrat mentionné au 1° sous forme de diminution de la
 redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984 précitée et du prix de cession de l'immeuble. 
 
-II. Les entreprises soumises à l'impôt sur les sociétés peuvent, d'autre part, déduire de leurs résultats imposables une
+II. – Les entreprises soumises à l'impôt sur les sociétés peuvent, d'autre part, déduire de leurs résultats imposables une
 somme égale au montant total des souscriptions au capital des sociétés de développement régional des départements d'outre-mer
 ou des sociétés mentionnées au I effectuant dans les douze mois de la clôture de la souscription dans les mêmes départements
 des investissements productifs dans les secteurs d'activité éligibles en application du I de l'article 199 undecies B.
@@ -158,9 +156,9 @@ les départements d'outre-mer des investissements productifs affectés plus de c
 d'une concession de service public local à caractère industriel et commercial, et dont l'activité s'exerce exclusivement dans
 un secteur éligible, dans les départements ou collectivités d'outre-mer. 
 
-II bis (Abrogé).
+II bis (Abrogé). 
 
-II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt
+II ter. – La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt
 sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions
 mentionnées aux septième et huitième alinéas du I. 
@@ -168,17 +166,17 @@ mentionnées aux septième et huitième alinéas du I.
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à l'exception de celle mentionnée à la troisième
 phrase du premier alinéa du même II. 
 
-II quater. - Les programmes d'investissement dont le montant total est supérieur à 1 000 000 € ne peuvent ouvrir droit à la
+II quater. – Les programmes d'investissement dont le montant total est supérieur à 1 000 000 € ne peuvent ouvrir droit à la
 déduction mentionnée aux I, II et II ter que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les
-conditions prévues au III.
+conditions prévues au III. 
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
 par programme est supérieur à 250 000 €, lorsqu'ils sont réalisés par une société ou un groupement mentionnés à l'avant-
 dernière phrase du premier alinéa de ce même I. 
 
-II quinquies. - La déduction prévue au II s'applique si les conditions prévues au dix-neuvième alinéa du I sont réunies. 
+II quinquies. – La déduction prévue au II s'applique si les conditions prévues au dix-neuvième alinéa du I sont réunies. 
 
-III. - 1. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la
+III. – 1. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la
 navigation de plaisance, de l'agriculture, de la pêche maritime et de l'aquaculture, de l'industrie charbonnière et de la
 sidérurgie, de la construction navale, des fibres synthétiques, de l'industrie automobile, ou concernant la rénovation et la
 réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés ou des entreprises en difficultés, ou qui
@@ -227,13 +225,13 @@ Le premier alinéa ne s'applique pas au secteur des transports, à l'exception d
 acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits
 transports lorsque les conditions de transport sont conformes à un tarif réglementaire. 
 
-III bis. (Abrogé).
+III bis. (Abrogé). 
 
-III ter. (Transféré sous le III).
+III ter. (Transféré sous le III). 
 
-III quater. (abrogé).
+III quater. (abrogé). 
 
-IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits par les entreprises avec le
+IV. – En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits par les entreprises avec le
 bénéfice des déductions prévues aux II ou II ter les sommes déduites sont rapportées au résultat imposable de l'année de
 cession, dans la limite, de la totalité du prix de cession. 
 
@@ -251,7 +249,7 @@ cas où les titres souscrits avec le bénéfice de la déduction prévue aux II 
 d'opérations soumises aux dispositions des articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes conditions et
 sanctions, les titres nouveaux qui se sont substitués aux titres d'origine. 
 
-IV bis. Le montant de la déduction prévue par le présent article n'est pas pris en compte pour le calcul de l'abattement
+IV bis. – Le montant de la déduction prévue par le présent article n'est pas pris en compte pour le calcul de l'abattement
 prévu à l'article 44 quaterdecies. 
 
 Si, avant l'expiration du délai visé au premier alinéa l'un de ces investissements est cédé ou cesse d'être affecté à
@@ -268,7 +266,7 @@ transmission doit rapporter à son résultat imposable, au titre de l'exercice a
 cesse d'être respecté, l'avantage et la majoration correspondante mentionnés au deuxième alinéa qui, à défaut d'engagement,
 auraient dû être rapportés au résultat imposable de l'entreprise apporteuse. 
 
-IV ter. - La déduction prévue aux I, II ou II ter est subordonnée au respect par les sociétés réalisant l'investissement ou
+IV ter. – La déduction prévue aux I, II ou II ter est subordonnée au respect par les sociétés réalisant l'investissement ou
 la souscription et, le cas échéant, les entreprises exploitantes, de leurs obligations fiscales et sociales et de
 l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23 du code de
 commerce à la date de réalisation de l'investissement ou de la souscription. 
@@ -280,14 +278,14 @@ normale d'exigibilité.
 Pour l'application du premier alinéa en Nouvelle-Calédonie et en Polynésie française, les références aux dispositions du code
 de commerce sont remplacées par les dispositions prévues par la réglementation applicable localement. 
 
-IV quater. - Le seuil de chiffre d'affaires défini au I ne s'applique pas aux opérations d'acquisition ou de construction de
+IV quater. – Le seuil de chiffre d'affaires défini au I ne s'applique pas aux opérations d'acquisition ou de construction de
 logements neufs répondant aux critères mentionnés aux b et c du 1 du I de l'article 244 quater X. 
 
 Lorsque la déduction d'impôt s'applique dans les conditions prévues aux sixième à huitième alinéas du I, au I bis ou au II
 ter, le montant de la déduction mentionnée au I est égal au montant, hors taxes et hors frais de toute nature, de
 l'opération, diminué de la fraction de son prix de revient financée par une subvention publique. 
 
-V. - Les dispositions du présent article sont applicables aux investissements réalisés ou aux souscriptions versées à compter
+V. – Les dispositions du présent article sont applicables aux investissements réalisés ou aux souscriptions versées à compter
 de la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer, à l'exception
 des investissements et des souscriptions pour l'agrément desquels une demande est parvenue à l'administration avant cette
 date. 
@@ -302,14 +300,15 @@ mise en place d'un mécanisme pérenne de préfinancement à taux zéro des inve
 article en complément du maintien du dispositif de crédit d'impôt prévu à l'article 244 quater W ou, à défaut, par la
 création d'un dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs
 investissements productifs mentionnés au présent article sans recourir à un emprunt bancaire et à un prix de revient diminué
-d'un taux d'abattement équivalent aux taux prévus au III du même article 244 quater W.
+d'un taux d'abattement équivalent aux taux prévus au III du même article 244 quater W. 
 
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités de leur application et notamment les obligations
-déclaratives.
+déclaratives. 
 
-VI. - Le bénéfice de la déduction prévue aux I, I bis, II et II ter est subordonné au respect du règlement (UE) n° 651/2014
-de la Commission, du 17 juin 2014, précité et la déduction ne s'applique pas aux investissements exploités par des
-entreprises en difficulté, au sens du même règlement.
+VI. – Le bénéfice de la déduction prévue aux I, I bis, II et II ter est subordonné au respect du règlement (UE) n° 651/2014
+de la Commission, du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application
+des articles 107 et 108 du traité et la déduction ne s'applique pas aux investissements exploités par des entreprises en
+difficulté, au sens du même règlement.
 
 **Nota:**
 
@@ -324,9 +323,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°84-595 du 12 juillet 1984
+  - Loi n°84-595 du 12 juillet 1984 (V)
+  - Loi n°84-595 du 12 juillet 1984 - art. 5 (V)
   - Loi n°2009-594 du 27 mai 2009
   - Code de commerce - art. L232-21
+  - Code général des impôts, CGI. - art. 1010 (VT)
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 199 undecies
   - Code général des impôts, CGI. - art. 209
@@ -334,7 +335,8 @@ _Cite_:
   - Code général des impôts, CGI. - art. 210 B
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater C
-  - Code de la construction et de l'habitation. - art. R331-76-5-1
+  - Code général des impôts, CGI. - art. 39 (VT)
+  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
 
 _Cité par_:
 
@@ -402,4 +404,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)
+  - Loi n°2017-256 du 28 février 2017 - art. 127
