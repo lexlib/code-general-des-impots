@@ -34,14 +34,13 @@ au moins à compter de leur achèvement ou de leur acquisition si elle est post�
 associés de la société, leur conjoint ou les membres de leur foyer fiscal, qui en font leur habitation principale. Les
 souscripteurs doivent s'engager à conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ; 
 
-e) (1) Sauf dans les départements d'outre-mer, au montant des travaux de réhabilitation réalisés par une entreprise, à
-l'exclusion de ceux qui constituent des charges déductibles des revenus fonciers en application de l'article 31, et portant
-sur des logements achevés depuis plus de vingt ans, situés dans les départements ou collectivités visés au 1, que le
-propriétaire prend l'engagement, pour une durée de cinq ans, soit d'affecter dès l'achèvement des travaux à son habitation
-principale, soit de louer nu dans les six mois qui suivent l'achèvement des travaux à des personnes qui en font leur
-habitation principale et autres que son conjoint ou un membre de son foyer fiscal, ainsi qu'au montant des travaux de
-confortation de logements contre le risque sismique. Un décret détermine les conditions d'application de ces dispositions, et
-notamment la nature des travaux de réhabilitation éligibles ; 
+e) Au montant des travaux de réhabilitation réalisés par une entreprise, à l'exclusion de ceux qui constituent des charges
+déductibles des revenus fonciers en application de l'article 31, et portant sur des logements achevés depuis plus de vingt
+ans, situés dans les départements ou collectivités visés au 1, que le propriétaire prend l'engagement, pour une durée de cinq
+ans, soit d'affecter dès l'achèvement des travaux à son habitation principale, soit de louer nu dans les six mois qui suivent
+l'achèvement des travaux à des personnes qui en font leur habitation principale et autres que son conjoint ou un membre de
+son foyer fiscal, ainsi qu'au montant des travaux de confortation de logements contre le risque sismique. Un décret détermine
+les conditions d'application de ces dispositions, et notamment la nature des travaux de réhabilitation éligibles ; 
 
 f) Sous réserve du respect du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories
 d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, aux versements effectués au
@@ -122,9 +121,9 @@ au moins six ans à compter de la date d'achèvement des logements ou de leur ac
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret. 
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer et la collectivité départementale de Mayotte
-mentionnés aux a, b, c et d du 2 (1), les taux de 18 % et 30 % prévus aux deuxième et troisième alinéas et le taux de 38 %
+mentionnés aux a, b, c, d et e du 2, les taux de 18 % et 30 % prévus aux deuxième et troisième alinéas et le taux de 38 %
 prévu au quatrième alinéa sont respectivement portés à 26 %, 38 % et 45 % lorsque le logement est situé dans un quartier
-prioritaire de la politique de la ville.
+prioritaire de la politique de la ville. 
 
 En outre, lorsque des dépenses d'équipement de production d'énergie utilisant une source d'énergie renouvelable sont
 réalisées dans le logement, les taux de 18 % et 30 % mentionnés aux deuxième et troisième alinéas et le taux de 38 %
@@ -178,19 +177,12 @@ Le décès du contribuable ou de l'un des époux soumis à imposition commune au
 La location d'un logement neuf consentie dans les conditions fixées par décret à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt.
 
-**Nota:**
-
-(1) Conformément à l'article 110 III A de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
-aux travaux achevés à compter du 1er janvier 2016, à l'exception de ceux pour lesquels des acomptes au moins égaux à 50 % de
-leur prix ont été versés au plus tard le 31 décembre 2015 et si les travaux sont achevés au plus tard le 31 décembre 2017. 
-
-Modification effectuée en conséquence de l'article 58-I-1° de la loi n° 2004-1485 du 30 décembre 2004
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2003-660 du 21 juillet 2003
+  - Code général des impôts, CGI. - art. 210 A (V)
   - Code général des impôts, CGI. - art. 210 B
   - Code général des impôts, CGI. - art. 244 quater J
   - Code général des impôts, CGI. - art. 4 B
@@ -258,4 +250,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 1
+  - Loi n°2017-256 du 28 février 2017 - art. 126
