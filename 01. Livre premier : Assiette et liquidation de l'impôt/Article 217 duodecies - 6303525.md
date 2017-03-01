@@ -6,10 +6,6 @@ conditions, bénéficier du régime prévu à l'article 217 undecies. Le seuil d
 premier alinéa du I du même article ne s'applique pas aux investissements réalisés dans les collectivités mentionnées à la
 première phrase du présent alinéa. 
 
-La condition prévue à la sixième phrase du premier alinéa du I de l'article 217 undecies ne s'applique pas aux
-investissements réalisés à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy, dans
-les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.
-
 Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Martin, Saint-Barthélemy et
 Saint-Pierre-et-Miquelon dans le cadre de leur compétence fiscale propre au titre de projets d'investissements sont sans
 incidence pour la détermination du montant des dépenses éligibles retenues pour l'application de l'article 217 undecies. 
@@ -51,8 +47,8 @@ _Cite_:
   - Loi n°84-595 du 12 juillet 1984
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 199 undecies B (M)
-  - Code général des impôts, CGI. - art. 217 undecies
-  - Code général des impôts, CGI. - art. 244 quater Q (M)
+  - Code général des impôts, CGI. - art. 217 undecies (M)
+  - Code général des impôts, CGI. - art. 244 quater Q
 
 _Cité par_:
 
@@ -73,5 +69,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 19 (V)
+  - Loi n°2017-256 du 28 février 2017 - art. 127
