@@ -171,6 +171,9 @@ chiffre d'affaires.
 4. La taxe de solidarité sur les billets d'avion est recouvrée dans les conditions fixées au V. Elle est reversée
 mensuellement à l'Agence française de développement.
 
+5. La taxe de solidarité sur les billets d'avion n'est pas perçue au  départ des collectivités d'outre-mer de Saint-
+Barthélemy et de  Saint-Martin.
+
 **Nota:**
 
 Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009
@@ -206,7 +209,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 65
+  - Loi n°2017-256 du 28 février 2017 - art. 136
 
 _Cite_:
 
