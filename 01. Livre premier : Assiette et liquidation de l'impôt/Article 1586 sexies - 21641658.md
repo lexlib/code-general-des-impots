@@ -1,17 +1,17 @@
 # Article 1586 sexies
 
-I.-Pour la généralité des entreprises, à l'exception des entreprises visées aux II à VI : 
+I. – Pour la généralité des entreprises, à l'exception des entreprises visées aux II à VI : 
 
-1. Le chiffre d'affaires est égal à la somme :
+1. Le chiffre d'affaires est égal à la somme : 
 
-- des ventes de produits fabriqués, prestations de services et marchandises ;
+– des ventes de produits fabriqués, prestations de services et marchandises ; 
 
-- des redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires ;
+– des redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires ; 
 
-- des plus-values de cession d'immobilisations corporelles et incorporelles, lorsqu'elles se rapportent à une activité
-normale et courante ;
+– des plus-values de cession d'immobilisations corporelles et incorporelles, lorsqu'elles se rapportent à une activité
+normale et courante ; 
 
-- des refacturations de frais inscrites au compte de transfert de charges. 
+– des refacturations de frais inscrites au compte de transfert de charges. 
 
 2. Le chiffre d'affaires des titulaires de bénéfices non commerciaux qui n'exercent pas l'option mentionnée à l'article 93 A
 s'entend du montant hors taxes des honoraires ou recettes encaissés en leur nom, diminué des rétrocessions, ainsi que des
@@ -22,53 +22,53 @@ revenus fonciers définie à l'article 14 comprend les recettes brutes hors taxe
 
 4. La valeur ajoutée est égale à la différence entre : 
 
-a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré :
+a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré : 
 
-- des autres produits de gestion courante à l'exception, d'une part, de ceux pris en compte dans le chiffre d'affaires et,
-d'autre part, des quotes-parts de résultat sur opérations faites en commun ;
+– des autres produits de gestion courante à l'exception, d'une part, de ceux pris en compte dans le chiffre d'affaires et,
+d'autre part, des quotes-parts de résultat sur opérations faites en commun ; 
 
-- de la production immobilisée, à hauteur des seules charges qui ont concouru à sa formation et qui figurent parmi les
+– de la production immobilisée, à hauteur des seules charges qui ont concouru à sa formation et qui figurent parmi les
 charges déductibles de la valeur ajoutée ; il n'est pas tenu compte de la production immobilisée, hors part des
 coproducteurs, afférente à des œuvres audiovisuelles ou cinématographiques inscrites à l'actif du bilan d'une entreprise de
 production audiovisuelle ou cinématographique, ou d'une entreprise de distribution cinématographique pour le montant
 correspondant au versement du minimum garanti au profit d'un producteur, à condition que ces œuvres soient susceptibles de
-bénéficier de l'amortissement fiscal pratiqué sur une durée de douze mois ;
+bénéficier de l'amortissement fiscal pratiqué sur une durée de douze mois ; 
 
-- des subventions d'exploitation ;
+– des subventions d'exploitation ; 
 
-- de la variation positive des stocks ;
+– de la variation positive des stocks ; 
 
-- des transferts de charges déductibles de la valeur ajoutée, autres que ceux pris en compte dans le chiffre d'affaires ;
+– des transferts de charges déductibles de la valeur ajoutée, autres que ceux pris en compte dans le chiffre d'affaires ; 
 
-- des rentrées sur créances amorties lorsqu'elles se rapportent au résultat d'exploitation ; 
+– des rentrées sur créances amorties lorsqu'elles se rapportent au résultat d'exploitation ; 
 
-b) Et, d'autre part :
+b) Et, d'autre part : 
 
-- les achats stockés de matières premières et autres approvisionnements, les achats d'études et prestations de services, les
+– les achats stockés de matières premières et autres approvisionnements, les achats d'études et prestations de services, les
 achats de matériel, équipements et travaux, les achats non stockés de matières et fournitures, les achats de marchandises et
-les frais accessoires d'achat ;
+les frais accessoires d'achat ; 
 
-- diminués des rabais, remises et ristournes obtenus sur achats ;
+– diminués des rabais, remises et ristournes obtenus sur achats ; 
 
-- la variation négative des stocks ;
+– la variation négative des stocks ; 
 
-- les services extérieurs diminués des rabais, remises et ristournes obtenus, à l'exception des loyers ou redevances
+– les services extérieurs diminués des rabais, remises et ristournes obtenus, à l'exception des loyers ou redevances
 afférents aux biens corporels pris en location ou en sous-location pour une durée de plus de six mois ou en crédit-bail ainsi
 que les redevances afférentes à ces biens lorsqu'elles résultent d'une convention de location-gérance ; toutefois, lorsque
 les biens pris en location par le redevable sont donnés en sous-location pour une durée de plus de six mois, les loyers sont
-retenus à concurrence du produit de cette sous-location ;
+retenus à concurrence du produit de cette sous-location ; 
 
-- les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les
+– les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les
 produits énergétiques [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n°
-2009-599 DC du 29 décembre 2009] ;
+2009-599 DC du 29 décembre 2009] ; 
 
-- les autres charges de gestion courante, autres que les quotes-parts de résultat sur opérations faites en commun ;
+– les autres charges de gestion courante, autres que les quotes-parts de résultat sur opérations faites en commun ; 
 
-- les dotations aux amortissements pour dépréciation afférentes aux biens corporels donnés en location ou sous-location pour
+– les dotations aux amortissements pour dépréciation afférentes aux biens corporels donnés en location ou sous-location pour
 une durée de plus de six mois, donnés en crédit-bail ou faisant l'objet d'un contrat de location-gérance, en proportion de la
-seule période de location, de sous-location, de crédit-bail ou de location-gérance ;
+seule période de location, de sous-location, de crédit-bail ou de location-gérance ; 
 
-- les moins-values de cession d'éléments d'immobilisations corporelles et incorporelles, lorsqu'elles se rapportent à une
+– les moins-values de cession d'éléments d'immobilisations corporelles et incorporelles, lorsqu'elles se rapportent à une
 activité normale et courante. 
 
 5. La valeur ajoutée des contribuables mentionnés au 2 est constituée par l'excédent du chiffre d'affaires défini au 2 sur
@@ -93,12 +93,12 @@ I bis. ― Pour les mutuelles et unions régies par le livre III du code de la m
 pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014. Ils sont
 pris en compte en totalité à partir de 2015 (1). 
 
-II.-Par exception au I, les produits et les charges mentionnés au même I et se rapportant à une activité de location ou de
+II. – Par exception au I, les produits et les charges mentionnés au même I et se rapportant à une activité de location ou de
 sous-location d'immeubles nus réputée exercée à titre professionnel au sens de l'article 1447 ne sont pris en compte, pour le
 calcul de la valeur ajoutée, qu'à raison de 10 % de leur montant en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en
 2014,60 % en 2015,70 % en 2016,80 % en 2017 et 90 % en 2018. 
 
-III.-Pour les établissements de crédit et les sociétés de financement et, lorsqu'elles sont agréées par l'Autorité de
+III. – Pour les établissements de crédit et les sociétés de financement et, lorsqu'elles sont agréées par l'Autorité de
 contrôle prudentiel et de résolution, les entreprises mentionnées à l'article L. 531-4 du code monétaire et financier : 
 
 1. Le chiffre d'affaires comprend l'ensemble des produits d'exploitation bancaires et des produits divers d'exploitation
@@ -120,49 +120,49 @@ e) Quotes-parts de résultat sur opérations faites en commun.
 a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des reprises de provisions spéciales et des
 récupérations sur créances amorties lorsqu'elles se rapportent aux produits d'exploitation bancaire ; 
 
-b) Et, d'autre part :
+b) Et, d'autre part : 
 
-- les charges d'exploitation bancaires autres que les dotations aux provisions sur immobilisations données en crédit-bail ou
-en location simple ;
+– les charges d'exploitation bancaires autres que les dotations aux provisions sur immobilisations données en crédit-bail ou
+en location simple ; 
 
-- les services extérieurs, à l'exception des loyers ou redevances afférents aux biens corporels pris en location ou en sous-
+– les services extérieurs, à l'exception des loyers ou redevances afférents aux biens corporels pris en location ou en sous-
 location pour une durée de plus de six mois ou en crédit-bail ainsi que les redevances afférentes à ces biens lorsqu'elles
 résultent d'une convention de location-gérance ; toutefois, lorsque les biens pris en location par le redevable sont donnés
 en sous-location pour une durée de plus de six mois, les loyers sont retenus à concurrence du produit de cette sous-
-location ;
+location ; 
 
-- les charges diverses d'exploitation, à l'exception des moins-values de cession sur immobilisations autres que celles
-portant sur les autres titres détenus à long terme et des quotes-parts de résultat sur opérations faites en commun ;
+– les charges diverses d'exploitation, à l'exception des moins-values de cession sur immobilisations autres que celles
+portant sur les autres titres détenus à long terme et des quotes-parts de résultat sur opérations faites en commun ; 
 
-- les pertes sur créances irrécouvrables lorsqu'elles se rapportent aux produits d'exploitation bancaire. 
+– les pertes sur créances irrécouvrables lorsqu'elles se rapportent aux produits d'exploitation bancaire. 
 
-IV.-Pour les entreprises, autres que celles mentionnées aux III et VI, qui ont pour activité principale la gestion
+IV. – Pour les entreprises, autres que celles mentionnées aux III et VI, qui ont pour activité principale la gestion
 d'instruments financiers au sens de l'article L. 211-1 du code monétaire et financier : 
 
-1. Le chiffre d'affaires comprend :
+1. Le chiffre d'affaires comprend : 
 
-- le chiffre d'affaires tel qu'il est déterminé pour la généralité des entreprises au 1 du I ;
+– le chiffre d'affaires tel qu'il est déterminé pour la généralité des entreprises au 1 du I ; 
 
-- les produits financiers, à l'exception des reprises sur provisions et de 95 % des dividendes sur titres de participation ;
+– les produits financiers, à l'exception des reprises sur provisions et de 95 % des dividendes sur titres de participation ; 
 
-- et les plus-values sur cession des titres, à l'exception des plus-values de cession de titres de participation. 
+– et les plus-values sur cession des titres, à l'exception des plus-values de cession de titres de participation. 
 
-2. La valeur ajoutée est égale à la différence entre :
+2. La valeur ajoutée est égale à la différence entre : 
 
-- d'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des rentrées sur créances amorties lorsqu'elles se
-rapportent au chiffre d'affaires défini au 1 ;
+– d'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des rentrées sur créances amorties lorsqu'elles se
+rapportent au chiffre d'affaires défini au 1 ; 
 
-- et, d'autre part, les services extérieurs mentionnés au 4 du I ; les charges financières, à l'exception des dotations aux
+– et, d'autre part, les services extérieurs mentionnés au 4 du I ; les charges financières, à l'exception des dotations aux
 amortissements et aux provisions ; les moins-values de cession de titres autres que les titres de participation ; les pertes
 sur créances irrécouvrables lorsqu'elles se rapportent au chiffre d'affaires défini au 1. 
 
 Les entreprises ayant pour activité principale la gestion d'instruments financiers sont celles qui remplissent au moins une
-des deux conditions suivantes :
+des deux conditions suivantes : 
 
-- les immobilisations financières ainsi que les valeurs mobilières de placement détenues par l'entreprise ont représenté en
-moyenne au moins 75 % de l'actif au cours de la période mentionnée à l'article 1586 quinquies ;
+– les immobilisations financières ainsi que les valeurs mobilières de placement détenues par l'entreprise ont représenté en
+moyenne au moins 75 % de l'actif au cours de la période mentionnée à l'article 1586 quinquies ; 
 
-- le chiffre d'affaires de l'activité de gestion d'instruments financiers correspondant aux produits financiers et aux
+– le chiffre d'affaires de l'activité de gestion d'instruments financiers correspondant aux produits financiers et aux
 produits sur cession de titres réalisé au cours de la période mentionnée à l'article 1586 quinquies est supérieur au total
 des chiffres d'affaires des autres activités. 
 
@@ -172,7 +172,7 @@ mentionnées aux cinquième et sixième alinéas s'apprécient, le cas échéant
 groupe auquel appartient la société au sens de l'article L. 233-16 du code de commerce sur la base des comptes consolidés
 prévus au I du même article. 
 
-V.-Pour les sociétés et groupements créés pour la réalisation d'une opération unique de financement d'immobilisations
+V. – Pour les sociétés et groupements créés pour la réalisation d'une opération unique de financement d'immobilisations
 corporelles : 
 
 a) Qui sont détenus à 95 % au moins par un établissement de crédit ou une société de financement et qui réalisent l'opération
@@ -181,36 +181,38 @@ moins par l'établissement de crédit ou la société de financement ;
 
 b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies ou 217 duodecies : 
 
-1. Le chiffre d'affaires comprend :
+1. Le chiffre d'affaires comprend : 
 
-- le chiffre d'affaires tel qu'il est déterminé pour la généralité des entreprises au 1 du I ;
+– le chiffre d'affaires tel qu'il est déterminé pour la généralité des entreprises au 1 du I ; 
 
-- les produits financiers et les plus-values résultant de la cession au crédit-preneur des immobilisations financées dans le
+– les produits financiers et les plus-values résultant de la cession au crédit-preneur des immobilisations financées dans le
 cadre de l'opération visée au premier alinéa du présent V. 
 
-2. La valeur ajoutée est égale à la différence entre :
+2. La valeur ajoutée est égale à la différence entre : 
 
-- d'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des rentrées sur créances amorties lorsqu'elles se
-rapportent au chiffre d'affaires défini au 1 ;
+– d'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des rentrées sur créances amorties lorsqu'elles se
+rapportent au chiffre d'affaires défini au 1 ; 
 
-- et, d'autre part, les services extérieurs et les dotations aux amortissements mentionnés au 4 du I, les charges financières
+– et, d'autre part, les services extérieurs et les dotations aux amortissements mentionnés au 4 du I, les charges financières
 et les moins-values résultant de la cession au crédit-preneur des immobilisations financées dans le cadre de l'opération
 visée au premier alinéa du présent V et les pertes sur créances irrécouvrables lorsqu'elles se rapportent au chiffre
 d'affaires défini au 1. 
 
-VI.-Pour les mutuelles et unions régies par le livre II du code de la mutualité, les institutions de prévoyance régies par le
-titre III du livre IX du code de la sécurité sociale et les entreprises d'assurance et de réassurance régies par le code des
-assurances : 
+VI. – Pour les mutuelles et unions régies par le livre II du code de la mutualité, les mutuelles et unions de retraite
+professionnelle supplémentaire mentionnées à l'article L. 214-1 du même code, les institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale, les institutions de retraite professionnelle supplémentaire mentionnées
+à l'article L. 942-1 du même code, les entreprises d'assurance et de réassurance régies par le code des assurances et les
+fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1 du même code : 
 
-1. Le chiffre d'affaires comprend :
+1. Le chiffre d'affaires comprend : 
 
-- les primes ou cotisations ;
+– les primes ou cotisations ; 
 
-- les autres produits techniques ;
+– les autres produits techniques ; 
 
-- les commissions reçues des réassureurs ;
+– les commissions reçues des réassureurs ; 
 
-- les produits non techniques, à l'exception de l'utilisation ou de reprises des provisions ; 
+– les produits non techniques, à l'exception de l'utilisation ou de reprises des provisions ; 
 
 et les produits des placements, à l'exception des reprises de provisions pour dépréciation, des plus-values de cession et de
 95 % des dividendes afférents aux placements dans des entreprises liées ou avec lien de participation, des plus-values de
@@ -218,14 +220,14 @@ cession d'immeubles d'exploitation et des quotes-parts de résultat sur opérati
 
 2. La valeur ajoutée est égale à la différence entre : 
 
-a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré :
+a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré : 
 
-- des subventions d'exploitation ;
+– des subventions d'exploitation ; 
 
-- de la production immobilisée, à hauteur des seules charges qui ont concouru à sa formation et qui sont déductibles de la
-valeur ajoutée ;
+– de la production immobilisée, à hauteur des seules charges qui ont concouru à sa formation et qui sont déductibles de la
+valeur ajoutée ; 
 
-- des transferts ; 
+– des transferts ; 
 
 b) Et, d'autre part, sous réserve des précisions mentionnées aux alinéas suivants, les prestations et frais payés, les
 achats, le montant des secours exceptionnels accordés par décision du conseil d'administration ou de la commission des
@@ -236,33 +238,33 @@ l'article 39, la participation aux résultats, les charges des placements à l'e
 placements dans des entreprises liées ou avec lien de participation et des moins-values de cession d'immeubles
 d'exploitation ; 
 
-Ne sont toutefois pas déductibles de la valeur ajoutée :
+Ne sont toutefois pas déductibles de la valeur ajoutée : 
 
-- les loyers ou redevances afférents aux biens corporels pris en location ou en sous-location pour une durée de plus de six
+– les loyers ou redevances afférents aux biens corporels pris en location ou en sous-location pour une durée de plus de six
 mois ou en crédit-bail ainsi que les redevances afférentes à ces immobilisations lorsqu'elles résultent d'une convention de
 location-gérance ; toutefois, lorsque les biens pris en location par le redevable sont donnés en sous-location pour une durée
-de plus de six mois, les loyers sont retenus à concurrence du produit de cette sous-location ;
+de plus de six mois, les loyers sont retenus à concurrence du produit de cette sous-location ; 
 
-- les charges de personnel ;
+– les charges de personnel ; 
 
-- les impôts, taxes et versements assimilés, à l'exception des taxes sur le chiffre d'affaires et assimilées, des
-contributions indirectes, de la taxe intérieure de consommation sur les produits énergétiques ;
+– les impôts, taxes et versements assimilés, à l'exception des taxes sur le chiffre d'affaires et assimilées, des
+contributions indirectes, de la taxe intérieure de consommation sur les produits énergétiques ; 
 
-- les quotes-parts de résultat sur opérations faites en commun ;
+– les quotes-parts de résultat sur opérations faites en commun ; 
 
-- les charges financières afférentes aux immeubles d'exploitation ;
+– les charges financières afférentes aux immeubles d'exploitation ; 
 
-- les dotations aux amortissements d'exploitation ;
+– les dotations aux amortissements d'exploitation ; 
 
-- les dotations aux provisions autres que les provisions techniques. 
+– les dotations aux provisions autres que les provisions techniques. 
 
 c) Pour les mutuelles et les institutions de prévoyance visées au premier alinéa du présent VI, les produits et les charges
 ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014.
 Ils sont pris en compte en totalité à partir de 2015 (1). 
 
-VII.-Lorsque les plus-values de cession d'immobilisations ou de titres de nature à être comprises dans le chiffre d'affaires
-et la valeur ajoutée en application des I et III à VI sont réalisées l'année de création de l'entreprise, elles sont
-comprises dans le chiffre d'affaires et la valeur ajoutée retenus au titre de l'année suivante.
+VII. – Lorsque les plus-values de cession d'immobilisations ou de titres de nature à être comprises dans le chiffre
+d'affaires et la valeur ajoutée en application des I et III à VI sont réalisées l'année de création de l'entreprise, elles
+sont comprises dans le chiffre d'affaires et la valeur ajoutée retenus au titre de l'année suivante.
 
 **Nota:**
 
@@ -300,20 +302,24 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 40 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Décision n°2009-599 DC du 29 décembre 2009, v. init.
+  - Code de commerce - art. L233-16 (V)
+  - Code général des impôts, CGI. - art. 14
+  - Code général des impôts, CGI. - art. 1447
+  - Code général des impôts, CGI. - art. 1586 quinquies (V)
+  - Code général des impôts, CGI. - art. 217 undecies
+  - Code général des impôts, CGI. - art. 29
+  - Code général des impôts, CGI. - art. 31 (VT)
+  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 39 C (V)
+  - Code monétaire et financier - art. L211-1
+  - Code monétaire et financier - art. L531-4
+  - Code de la sécurité sociale. - art. L381-1 (VT)
+  - Code de la sécurité sociale. - art. L942-1 (V)
+  - Code de la mutualité - art. L214-1 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 14 (V)
-  - Code général des impôts, CGI. - art. 1447
-  - Code général des impôts, CGI. - art. 217 undecies
-  - Code général des impôts, CGI. - art. 29
-  - Code général des impôts, CGI. - art. 39 (V)
-  - Code monétaire et financier - art. L211-1
-  - Code monétaire et financier - art. L531-4
+  - Ordonnance n°2017-484 du 6 avril 2017 - art. 17
