@@ -1,7 +1,10 @@
 # Article 202 ter A
 
 Les plus ou moins-values mentionnées au premier alinéa du II de l'article 202 ter, incluses dans l'actif des sociétés civiles
-à objet strictement immobilier, dont les parts sont détenues par une entreprise d'assurance en représentation de provisions
+à objet strictement immobilier, dont les parts sont détenues par une entreprise d'assurance, un fonds de retraite
+professionnelle supplémentaire mentionné à l'article L. 381-1 du code des assurances, une mutuelle ou union de retraite
+professionnelle supplémentaire mentionnée à l'article L. 214-1 du code de la mutualité ou une institution de retraite
+professionnelle supplémentaire mentionnée à l'article L. 942-1 du code de la sécurité sociale en représentation de provisions
 mathématiques relatives aux engagements exprimés en unités de compte de contrats d'assurance sur la vie ou de capitalisation,
 ne sont pas imposées à l'occasion de la transformation de ces sociétés civiles en sociétés de placement à prépondérance
 immobilière à capital variable. Les plus ou moins-values dégagées lors d'une cession ultérieure de ces actifs sont
@@ -14,10 +17,13 @@ l'Autorité des marchés financiers relatives aux organismes de placement collec
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 140 () JORF 31 décembre 2006
+  - Ordonnance n°2017-484 du 6 avril 2017 - art. 17
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 202 ter (V)
+  - Code général des impôts, CGI. - art. 202 ter
+  - Code de la sécurité sociale. - art. L942-1 (V)
+  - Code des assurances - art. L381-1 (V)
+  - Code de la mutualité - art. L214-1 (V)
