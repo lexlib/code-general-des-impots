@@ -1,11 +1,13 @@
 # Article 39 quinquies GC
 
-I.-Les entreprises d'assurances peuvent constituer en franchise d'impôt une provision destinée à faire face à la perte
-globale de gestion afférente à l'ensemble des contrats d'assurance sur la vie, de nuptialité, de natalité et de
-capitalisation. 
+I. – Les entreprises d'assurances, les fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1 du
+code des assurances, les mutuelles ou unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du
+code de la mutualité ou les institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code
+de la sécurité sociale peuvent constituer en franchise d'impôt une provision destinée à faire face à la perte globale de
+gestion afférente à l'ensemble des contrats d'assurance sur la vie, de nuptialité, de natalité et de capitalisation. 
 
-II.-Pour chaque ensemble de contrats stipulant une clause de participation aux bénéfices et un taux garanti identiques et au
-titre de chacun des exercices clos pendant la durée de ceux-ci, il est établi un bilan prévisionnel des produits et des
+II. – Pour chaque ensemble de contrats stipulant une clause de participation aux bénéfices et un taux garanti identiques et
+au titre de chacun des exercices clos pendant la durée de ceux-ci, il est établi un bilan prévisionnel des produits et des
 charges futurs de gestion actualisés afférents à cet ensemble de contrats. Cette durée tient compte des opérations futures de
 rachat et de réduction, dans la limite de 80 % de la moyenne de celles intervenues au cours de l'exercice considéré et des
 deux exercices précédents. 
@@ -30,11 +32,11 @@ au titre de l'exercice considéré et des deux exercices précédents.
 
 Le taux d'actualisation des produits et des charges futurs de gestion est le taux défini au a. 
 
-III.-Le montant de la provision est égal à la somme des soldes débiteurs des bilans prévisionnels visés au II. 
+III. – Le montant de la provision est égal à la somme des soldes débiteurs des bilans prévisionnels visés au II. 
 
-IV.-La dotation pratiquée à la clôture de l'exercice considéré est, à la date de clôture de l'exercice suivant, comparée à la
-dotation qui aurait été pratiquée à la clôture de l'exercice considéré si les produits des placements avaient été calculés en
-retenant le taux de rendement réel de ces placements calculé au titre de ce dernier exercice. Lorsque la dotation
+IV. – La dotation pratiquée à la clôture de l'exercice considéré est, à la date de clôture de l'exercice suivant, comparée à
+la dotation qui aurait été pratiquée à la clôture de l'exercice considéré si les produits des placements avaient été calculés
+en retenant le taux de rendement réel de ces placements calculé au titre de ce dernier exercice. Lorsque la dotation
 effectivement pratiquée est supérieure, une somme égale au produit d'une fraction de l'écart global entre les deux dotations
 par le taux mentionné au premier alinéa du 3 du II de l'article 238 septies E constaté à la clôture de l'exercice considéré
 est alors comprise dans le résultat imposable de cet exercice. Cette fraction est égale à la somme des excédents de
@@ -49,24 +51,16 @@ décembre 1998.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1999-06-14 4E-3-99
-  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 41 B Finances rectificative pour 1998
-
-_Créé par_:
-
-  - Loi - art. 41 (V) JORF 31 décembre 1998
-
 _Codifié par_:
 
-  - Décret n°99-382 1999-05-18
+  - Décret n°99-382 du 18 mai 1999
 
 _Modifié par_:
 
-  - Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+  - Ordonnance n°2017-484 du 6 avril 2017 - art. 17
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 238 septies E (V)
+  - Code général des impôts, CGI. - art. 238 septies E
+  - Code de la sécurité sociale. - art. L942-1 (V)
+  - Code de la mutualité - art. L214-1 (V)
