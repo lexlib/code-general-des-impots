@@ -1,25 +1,28 @@
 # Article 38 bis B bis
 
-I.-Par exception aux dispositions des articles 38, 238 septies B et 238 septies E, lorsque les entreprises d'assurances et de
-capitalisation achètent ou souscrivent des titres de créances négociables sur un marché réglementé, ou des titres
+I. – Par exception aux dispositions des articles 38, 238 septies B et 238 septies E, lorsque les entreprises d'assurances et
+de capitalisation, les fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1 du code des
+assurances, les mutuelles ou unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du code de la
+mutualité ou les institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la
+sécurité sociale achètent ou souscrivent des titres de créances négociables sur un marché réglementé, ou des titres
 obligataires autres que les obligations indexées, les parts de fonds communs de créances et les titres participatifs, pour un
 prix différent de leur prix de remboursement, la perte ou le profit correspondant à cette différence est, pour la
 détermination du résultat imposable de l'entreprise, réparti sur la durée restant à courir jusqu'au remboursement. Lorsque
-plusieurs dates de remboursement sont prévues, la date la plus éloignée est retenue. 
+plusieurs dates de remboursement sont prévues, la date la plus éloignée est retenue.
 
 Cette répartition est effectuée de manière actuarielle de telle sorte qu'à la clôture de chaque exercice, la valeur comptable
 des titres compte tenu de cette répartition soit égale à leur valeur actuelle calculée au taux de rendement actuariel
-déterminé lors de leur acquisition. 
+déterminé lors de leur acquisition.
 
 Pour l'application de ces dispositions, le prix d'achat des titres s'entend hors intérêts courus.
 
 A la clôture de chaque exercice, le prix de revient des titres est augmenté ou diminué, selon le cas, de la fraction du
-profit ou de la perte comprise dans le résultat imposable. 
+profit ou de la perte comprise dans le résultat imposable.
 
-II.-Les titres soumis aux dispositions du I ne peuvent faire l'objet d'une provision pour dépréciation. 
+II. – Les titres soumis aux dispositions du I ne peuvent faire l'objet d'une provision pour dépréciation.
 
-III.-Les dispositions du présent article s'appliquent pour la détermination des résultats des exercices ouverts à compter du
-1er janvier 1992. 
+III. – Les dispositions du présent article s'appliquent pour la détermination des résultats des exercices ouverts à compter
+du 1er janvier 1992.
 
 Les titres acquis au cours d'un exercice antérieur sont réputés, pour le calcul du taux de rendement actuariel mentionné au
 deuxième alinéa du I, avoir été acquis le 1er janvier 1992, leur durée de vie résiduelle s'appréciant également à cette date.
@@ -31,16 +34,19 @@ acquis avant cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi - art. 57 (V) JORF 5 janvier 1993
-
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°93-1127 du 24 septembre 1993
+
+_Modifié par_:
+
+  - Ordonnance n°2017-484 du 6 avril 2017 - art. 17
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 238 septies B (V)
-  - Code général des impôts, CGI. - art. 238 septies E (V)
-  - Code général des impôts, CGI. - art. 38 (V)
+  - Code général des impôts, CGI. - art. 238 septies B
+  - Code général des impôts, CGI. - art. 238 septies E
+  - Code général des impôts, CGI. - art. 38
+  - Code de la sécurité sociale. - art. L942-1 (V)
+  - Code des assurances - art. L381-1 (V)
+  - Code de la mutualité - art. L214-1 (V)
