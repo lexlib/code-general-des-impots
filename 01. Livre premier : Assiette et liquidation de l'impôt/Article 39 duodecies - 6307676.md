@@ -15,10 +15,10 @@ montant des amortissements expressément exclus des charges déductibles ainsi q
 contravention aux dispositions de l'article 39 B ; 
 
 c. Aux plus-values réalisées à l'occasion de la cession de titres de sociétés établies dans un Etat ou territoire non
-coopératif au sens de l'article 238-0 A  détenus depuis deux ans au moins, sauf si la société détentrice de ces  titres
-apporte la preuve que les opérations de la société établie hors  de France dans laquelle est prise la participation
-correspondent à des  opérations réelles qui n'ont ni pour objet ni pour effet de permettre,  dans un but de fraude fiscale,
-la localisation de bénéfices dans un tel  Etat ou territoire. 
+coopératif au sens de l'article 238-0 A détenus depuis deux ans au moins, sauf si la société détentrice de ces titres apporte
+la preuve que les opérations de la société établie hors de France dans laquelle est prise la participation correspondent à
+des opérations réelles qui n'ont ni pour objet ni pour effet de permettre, dans un but de fraude fiscale, la localisation de
+bénéfices dans un tel Etat ou territoire. 
 
 3. Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2.
 
@@ -36,8 +36,8 @@ de ceux qui ont été différés en contravention aux dispositions de l'article 
 priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne. 
 
 Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis
-aux règles de l'article L. 134-4, de l'article L. 143-7, du VII de l'article L. 144-2 ou de l'article L. 441-8 du code des
-assurances, constituent un portefeuille distinct. 
+aux règles de l'article L. 134-4, de l'article L. 143-7, du VII de l'article L. 144-2, de l'article L. 381-2 ou de l'article
+L. 441-8 du code des assurances, constituent un portefeuille distinct. 
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif ou d'une
 scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport
@@ -112,7 +112,7 @@ l'application du b du 2.
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 91 (V)
+  - Ordonnance n°2017-484 du 6 avril 2017 - art. 17
 
 _Cité par_:
 
@@ -155,7 +155,7 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 202 ter
   - Code général des impôts, CGI. - art. 210 B
-  - Code général des impôts, CGI. - art. 238-0 A
+  - Code général des impôts, CGI. - art. 238-0 A (V)
   - Code général des impôts, CGI. - art. 239 nonies
   - Code général des impôts, CGI. - art. 38 bis-0 A
   - Code général des impôts, CGI. - art. 39 B
@@ -165,4 +165,5 @@ _Cite_:
   - Code des assurances - art. L134-4
   - Code des assurances - art. L143-7
   - Code des assurances - art. L144-2
+  - Code des assurances - art. L381-2 (V)
   - Code des assurances - art. L441-8
