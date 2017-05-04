@@ -2,8 +2,8 @@
 
 I. Il est institué par décret en Conseil d'Etat un régime simplifié de liquidation des taxes sur le chiffre d'affaires dues
 par les personnes dont le chiffre d'affaires, ajusté s'il y a lieu au prorata du temps d'exploitation au titre de l'année
-civile précédente, n'excède pas 783 000 €, s'il s'agit d'entreprises dont le commerce principal est de vendre des
-marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 236 000 €,
+civile précédente, n'excède pas 789 000 €, s'il s'agit d'entreprises dont le commerce principal est de vendre des
+marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 238 000 €,
 s'il s'agit d'autres entreprises. Ces limites s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des
 taxes assimilées.
 
@@ -11,9 +11,9 @@ II. Le régime simplifié prévu au I demeure applicable pour l'établissement d
 suivant celle au cours de laquelle les chiffres d'affaires limites prévus pour ce régime sont dépassés. Cette imposition est
 établie compte tenu de ces dépassements.
 
-Ces dispositions ne sont pas applicables si le chiffre d'affaires de l'année en cours excède 863 000 € s'il s'agit
+Ces dispositions ne sont pas applicables si le chiffre d'affaires de l'année en cours excède 869 000 € s'il s'agit
 d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place ou de fournir le logement, et 267 000 € s'il s'agit d'autres entreprises.
+consommer sur place ou de fournir le logement, et 269 000 € s'il s'agit d'autres entreprises.
 
 II bis. - Les seuils mentionnés aux I et II sont actualisés tous les trois ans dans la même proportion que l'évolution
 triennale de la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros le
@@ -24,15 +24,13 @@ suivent la clôture de cet exercice. Un décret en Conseil d'Etat fixe les modal
 paragraphe; il procède aux adaptations nécessaires de la législation en vigueur, notamment pour les entreprises qui n'ont
 clôturé aucun exercice au cours d'une année civile.
 
-Cette obligation s'applique pour la première fois pour les exercices clos à compter du 30 septembre 2011.
+(Sans objet).
 
 **Nota:**
 
-Conformément à l'article 20 XVII B de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
-dispositions de l'article 302 septies A, dans leur rédaction issue de la présente loi, s'appliquent aux chiffres d'affaires
-réalisés à compter du 1er janvier 2015. 
-
-La première révision triennale mentionnée au II bis de l'article 302 septies A prend effet à compter du 1er janvier 2017.
+<font color="#000000" size="1">Modifications effectuées en conséquence de l’article 20-XVII C de la loi n° 2013-1279 du 29
+décembre 2016</font>
+  <font color="#000000" size="1">.</font>
 
 **Liens relatifs à cet article**
 
@@ -57,7 +55,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 302 bis KF (VT)
   - Code général des impôts, CGI. - art. 302 bis WD (VD)
   - Code général des impôts, CGI. - art. 302 bis Z (V)
-  - Code général des impôts, CGI. - art. 302 septies A bis (VD)
+  - Code général des impôts, CGI. - art. 302 septies A bis (V)
   - Code général des impôts, CGI. - art. 302 septies A ter B (V)
   - Code général des impôts, CGI. - art. 302 septies AA (V)
   - Code général des impôts, CGI. - art. 302 septies-0 AA (V)
@@ -72,4 +70,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+  - Décret n°2017-698 du 2 mai 2017 - art. 1

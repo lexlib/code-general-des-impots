@@ -1,13 +1,13 @@
 # Article 1636 B octies
 
-I.-Les produits des taxes spéciales d'équipement perçues au profit des établissements publics fonciers visés aux articles L.
-321-1 et L. 324-1 du code de l'urbanisme, de l'Etablissement public d'aménagement de la Guyane et des agences pour la mise en
-valeur des espaces urbains de la zone dite " des cinquante pas géométriques " en Guadeloupe et en Martinique sont répartis
-entre les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes
-que chacune de ces taxes a procurées l'année précédente à l'ensemble des communes et de leurs établissements publics de
-coopération intercommunale situés dans le ressort de ces établissements. 
+I. – Les produits des taxes spéciales d'équipement perçues au profit des établissements publics fonciers visés aux articles
+L. 321-1 et L. 324-1 du code de l'urbanisme, de l'Etablissement public foncier et d'aménagement de la Guyane et des agences
+pour la mise en valeur des espaces urbains de la zone dite " des cinquante pas géométriques " en Guadeloupe et en Martinique
+sont répartis entre les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement
+aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble des communes et de leurs établissements
+publics de coopération intercommunale situés dans le ressort de ces établissements. 
 
-II.-Pour l'application du I, les recettes s'entendent de celles figurant dans des rôles généraux. Elles sont majorées du
+II. – Pour l'application du I, les recettes s'entendent de celles figurant dans des rôles généraux. Elles sont majorées du
 montant perçu l'année précédente au titre de la part de la dotation forfaitaire prévue à l'article L. 2334-7 du code général
 des collectivités territoriales ou, le cas échéant, au titre de la part de la dotation de compensation prévue à l'article L.
 5211-28-1 du même code, correspondant au montant antérieurement versé en application du I du D de l'article 44 de la loi de
@@ -34,18 +34,18 @@ foncier et, d'autre part, le produit que cette taxe aurait procuré au titre de 
 
 A compter des impositions établies au titre de l'année 2016, les recettes que la taxe foncière sur les propriétés bâties a
 procurées sur le territoire de la métropole de Lyon sont, pour l'application du I, minorées de la part que cette taxe a
-procurée au titre de l'année 2014 au département du Rhône.
+procurée au titre de l'année 2014 au département du Rhône. 
 
 A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du I
 du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
-précédente à l'ensemble des communes situées dans le ressort de l'établissement public foncier.
+précédente à l'ensemble des communes situées dans le ressort de l'établissement public foncier. 
 
-III.-Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre
+III. – Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre
 les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes que
 chacune de ces taxes procurerait à la commune si l'on appliquait les taux de l'année précédente aux bases de l'année
 d'imposition. 
 
-IV.-Pour l'application du III, les recettes afférentes à la cotisation foncière des entreprises sont majorées de la part,
+IV. – Pour l'application du III, les recettes afférentes à la cotisation foncière des entreprises sont majorées de la part,
 calculée à partir du seul taux communal, du montant perçu en 2003, en application du D de l'article 44 de la loi de finances
 pour 1999 (n° 98-1266 du 30 décembre 1998) et du 1 du III de l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30
 décembre 2002), indexé chaque année comme la dotation forfaitaire prévue par l'article L. 2334-7 du code général des
@@ -68,7 +68,7 @@ cette même commune la taxation de ces mêmes locaux si le taux de l'année 2010
 
 A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du
 III du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
-précédente à chaque commune.
+précédente à chaque commune. 
 
 Pour l'application du III, le produit fiscal à recouvrer est minoré de la part, reversée par la commune au syndicat, du
 montant perçu en 2003, en application du D de l'article 44 de la loi de finances pour 1999 précitée et du 1 du III de
@@ -78,26 +78,29 @@ alinéa.
 
 **Nota:**
 
-Conformément à l'article 43 IV de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2016.
+<font color="#000000" size="1">Modification effectuée en conséquence de l’article </font>1er
+  <font color="#000000" size="1"> du d</font>écret n° 2016-1865 du 23 décembre 2016
+  <font size="1" color="#000000">.</font>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi - art. 44
+  - Loi n°2002-1575 du 30 décembre 2002 - art. 26 (V)
+  - Loi n°2002-1575 du 30 décembre 2002 - art. 29 (V)
+  - Code général des impôts, CGI. - art. 1407 ter (V)
   - Code général des impôts, CGI. - art. 1467 (V)
   - Code général des impôts, CGI. - art. 1640 B
-  - Code général des impôts, CGI. - art. 1640 C (V)
-  - Code général des collectivités territoriales - art. L2334-7
+  - Code général des impôts, CGI. - art. 1640 C
+  - Code général des collectivités territoriales - art. L2334-7 (V)
   - Code général des collectivités territoriales - art. L5211-28-1
   - Code de l'urbanisme - art. L321-1
   - Code de l'urbanisme - art. L324-1
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 31 (V)
+  - Décret n°2017-698 du 2 mai 2017 - art. 1
 
 _Cité par_:
 
