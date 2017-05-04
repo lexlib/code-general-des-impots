@@ -1,28 +1,28 @@
 # Article 1599 quater C
 
-I. - Il est institué, au profit de la région d'Ile-de-France, une taxe annuelle sur les surfaces de stationnement. Cette taxe
+I. – Il est institué, au profit de la région d'Ile-de-France, une taxe annuelle sur les surfaces de stationnement. Cette taxe
 est perçue dans les limites territoriales de cette région. Le produit de la taxe est affecté en section d'investissement du
 budget de la région, en vue de financer les dépenses d'investissement en faveur des transports en commun. 
 
-II. - Sont soumises à la taxe les personnes privées et publiques propriétaires de surfaces de stationnement ou titulaires
+II. – Sont soumises à la taxe les personnes privées et publiques propriétaires de surfaces de stationnement ou titulaires
 d'un droit réel portant sur celles-ci. 
 
 La taxe est acquittée par le propriétaire, l'usufruitier, le preneur à bail à construction, l'emphytéote ou le titulaire
 d'une autorisation d'occupation temporaire du domaine public constitutive d'un droit réel qui dispose, au 1er janvier de
 l'année d'imposition, d'une surface taxable. 
 
-III. - Les surfaces de stationnement mentionnées au I s'entendent des locaux ou aires, couvertes ou non couvertes, annexées
+III. – Les surfaces de stationnement mentionnées au I s'entendent des locaux ou aires, couvertes ou non couvertes, annexées
 aux locaux mentionnés aux 1° à 3° du III de l'article 231 ter, destinés au stationnement des véhicules, qui ne sont pas
 intégrés topographiquement à un établissement de production. 
 
-IV. - Sont exclues du champ de la taxe : 
+IV. – Sont exclues du champ de la taxe : 
 
 1° Les surfaces de stationnement exonérées en application des 1° à 2° bis du V de l'article 231 ter ; 
 
 2° Les surfaces de stationnement mentionnées au III du présent article d'une superficie inférieure à cinq cents mètres
 carrés. 
 
-V. - 1. - Un tarif au mètre carré est appliqué par circonscription, définie ci-après : 
+V. – 1. – Un tarif au mètre carré est appliqué par circonscription, définie ci-après : 
 
 1° Première circonscription : Paris et le département des Hauts-de-Seine ; 
 
@@ -32,58 +32,46 @@ Seine ;
 
 3° Troisième circonscription : les autres communes de la région d'Ile-de-France. 
 
-2. - Les tarifs au mètre carré sont fixés, pour l'année 2016, en application du tableau ci-dessous : 
+2. – Les tarifs au mètre carré sont fixés, pour l'année 2017, en application du tableau ci-dessous : 
 
-(En euros) 
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
 
-<table align="center" border="1">
-    <tbody>
-      <tr>
-        <th>1re CIRCONSCRIPTION 
+1RE CIRCONSCRIPTION </th>
+      <th>
 
-</th>
-        <th>
+2E CIRCONSCRIPTION </th>
+      <th>
 
-2e CIRCONSCRIPTION 
+3E CIRCONSCRIPTION </th>
+    </tr>
+    <tr>
+      <td align="center">
 
-</th>
-        <th>
+4,28 € </td>
+      <td align="center">
 
-3e CIRCONSCRIPTION 
+2,46 € </td>
+      <td align="center">
 
-</th>
-      </tr>
-      <tr>
-        <td valign="middle" align="center">
+1,24 € </td>
+    </tr>
+  </tbody>
+</table>
 
-4,18 € 
-
-</td>
-        <td align="center" valign="middle">
-
-2,40 € 
-
-</td>
-        <td align="center" valign="middle">
-
-1,21 € 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
-
-3. - Ces tarifs sont actualisés au 1er janvier de chaque année en fonction du dernier indice du coût de la construction
+3. – Ces tarifs sont actualisés au 1er janvier de chaque année en fonction du dernier indice du coût de la construction
 publié par l'Institut national de la statistique et des études économiques. Les valeurs sont arrondies, s'il y a lieu, au
 centime d'euro supérieur. 
 
-VI. - Pour le calcul des surfaces mentionnées au 2° du IV et au V, il est tenu compte de tous les locaux de même nature, hors
+VI. – Pour le calcul des surfaces mentionnées au 2° du IV et au V, il est tenu compte de tous les locaux de même nature, hors
 parties communes, qu'une personne privée ou publique possède à une même adresse ou, en cas de pluralité d'adresses, dans un
 même groupement topographique. 
 
-VII. - Les redevables déposent une déclaration selon les modalités prévues au VII de l'article 231 ter. 
+VII. – Les redevables déposent une déclaration selon les modalités prévues au VII de l'article 231 ter. 
 
-VIII. - Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les
+VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les
 règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003. 
 
 Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe.
@@ -96,4 +84,9 @@ Modification effectuée en conséquence de l'article 77-I, II et III A de la loi
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 1
+  - Décret n°2017-698 du 2 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1920 (VT)
+  - Code général des impôts, CGI. - art. 231 ter (V)
