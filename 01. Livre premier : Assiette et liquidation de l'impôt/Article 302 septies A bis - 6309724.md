@@ -24,7 +24,7 @@ renoncer au bénéfice du présent article, ainsi que les conditions d'exercice 
 
 VI Il n'est pas exigé de bilan des exploitants individuels et des sociétés visées à l'article 239 quater A soumis à l'impôt
 sur le revenu selon le régime d'imposition prévu au I, lorsque leur chiffre d'affaires de l'année civile précédente n'excède
-pas 157 000 € hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets,
+pas 158 000 € hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets,
 fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 55 000 € hors taxes s'il s'agit
 d'autres entreprises. 
 
@@ -36,19 +36,18 @@ Ces entreprises sont dispensées de présenter leur bilan lors des vérification
 
 **Nota:**
 
-Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013 article 20 XVII C : La première révision triennale
-mentionnée au VI de l'article 302 septies A bis prend effet à compter du 1er janvier 2017. 
-
-Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013 article 20 XVII A : Au b les mots : "de l'année
-civile précédente" ainsi qu'au dernier alinéa les mots : "suivant celle" s'appliquent aux exercices clos et aux périodes
-d'imposition arrêtées à compter du 31 décembre 2015. Au VI les mots "de l'année civile précédente" s'appliquent aux exercices
-clos et aux périodes d'imposition arrêtées à compter du 31 décembre 2015.
+<font color="#000000" size="1">Modification effectuée en conséquence de l’article 20-XVII C de la loi n° 2013-1279 du 29
+décembre 2016</font>
+  <font color="#000000" size="1">.</font>
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Cite_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+  - Loi n°66-879 du 29 novembre 1966 - art. 36 (V)
+  - Code général des impôts, CGI. - art. 239 quater A
+  - Code général des impôts, CGI. - art. 302 septies A (V)
+  - Code général des impôts, CGI. - art. 50-0
 
 _Cité par_:
 
@@ -64,8 +63,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
   - Livre des procédures fiscales - art. L135 D (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code général des impôts, CGI. - art. 239 quater A (V)
-  - Code général des impôts, CGI. - art. 302 septies A (VT)
-  - Code général des impôts, CGI. - art. 50-0 (V)
+  - Décret n°2017-698 du 2 mai 2017 - art. 1

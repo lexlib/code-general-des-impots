@@ -4,10 +4,7 @@ I. – Les communes membres d'un établissement public de coopération intercomm
 taux des taxes foncières et de la taxe d'habitation, conformément aux dispositions applicables aux communes.
 
 Toutefois, pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle qui
-devient soumis aux dispositions de l'article 1609 nonies C et pour celles qui, membres d'un établissement public de
-coopération intercommunale à fiscalité additionnelle, intègrent un établissement public de coopération intercommunale soumis
-aux dispositions de l'article 1609 nonies C dans le cadre du dispositif prévu à l'article 60 de la loi n° 2010-1563 du 16
-décembre 2010 de réforme des collectivités territoriales, et pour la première année d'application de ces dispositions, le
+devient soumis aux dispositions de l'article 1609 nonies C et pour la première année d'application de ces dispositions, le
 dernier alinéa du 1 du I de l'article 1636 B sexies n'est pas applicable lorsque le taux de taxe foncière sur les propriétés
 non bâties ou le taux de la taxe d'habitation, voté l'année précédente par les communes, est inférieur de plus d'un tiers au
 taux moyen constaté la même année au niveau national dans l'ensemble des collectivités territoriales de même nature au titre
@@ -102,22 +99,14 @@ chaque taxe l'année précédente.
 
 **Nota:**
 
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+Au second alinéa du I, les mots : et pour celles qui, membres d'un établissement public de coopération intercommunale à
+fiscalité additionnelle, intègrent un établissement public de coopération intercommunale soumis aux dispositions de l'article
+1609 nonies C dans le cadre du dispositif prévu à l'article 60 de la loi n° 2010-1563 du 16 décembre 2010 de réforme des
+collectivités territoriales, deviennent sans objet.
 
-Pour l'application de ces dispositions à la métropole de Lyon en 2015, il convient de se référer à l'article 39 de
-l'ordonnance n° 2014-1335 du 6 novembre 2014 relative à l'adaptation et à l'entrée en vigueur de certaines dispositions du
-code général des collectivités territoriales, du code général des impôts et d'autres dispositions législatives applicables à
-la métropole de Lyon.
+Modifications effectuées en conséquence de l’article 35-VI de la loi n° 2015-991 du 7 août 215.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2010-1563 du 16 décembre 2010 - art. 60
-  - Code général des impôts, CGI. - art. 1636 B septies (VD)
-  - Code général des impôts, CGI. - art. 1636 B sexies (VD)
-  - Code général des impôts, CGI. - art. 1639 A
 
 _Cité par_:
 
@@ -126,6 +115,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1407 ter (V)
   - Code général des impôts, CGI. - art. 1609 nonies C (V)
   - Code général des impôts, CGI. - art. 1609 quinquies C (V)
+  - Code général des impôts, CGI. - art. 1636 B sexies (V)
   - Code général des impôts, CGI. - art. 1638 quater (V)
   - Code général des impôts, CGI. - art. 1638-0 bis (V)
   - Code général des impôts, CGI. - art. 1640 C (V)
@@ -134,5 +124,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
-  - Ordonnance n°2015-1630 du 10 décembre 2015 - art. 1
+  - Loi n°2015-991 du 7 août 2015 - art. 59 (VT)
+  - Décret n°2017-698 du 2 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1636 B septies
+  - Code général des impôts, CGI. - art. 1639 A
