@@ -1,6 +1,6 @@
 # Article 302 bis K
 
-I.-1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du budget annexe " Contrôle et exploitation
+I. – 1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du budget annexe " Contrôle et exploitation
 aériens " est due par les entreprises de transport aérien public.
 
 La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués en France, quelles que soient les
@@ -42,16 +42,16 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 4. Par dérogation au 1, les entreprises de transport aérien public qui effectuent des vols au départ de la France non soumis,
 en vertu d'un accord international conclu avec un Etat dont le territoire est contigu au territoire national, à
 l'autorisation préalable prévue à l'article L. 6412-3 du code des transports sont exonérées, à raison de ces vols, de la taxe
-de l'aviation civile (1).
+de l'aviation civile.
 
-II.-1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant :
+II. – 1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant :
 
-4,44 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
+4,48 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
 partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
 
-8 € par passager embarqué vers d'autres destinations ;
+8,06 € par passager embarqué vers d'autres destinations ;
 
-Le tarif de la taxe est de 1,32 € par tonne de courrier ou de fret embarquée.
+Le tarif de la taxe est de 1,33 € par tonne de courrier ou de fret embarquée.
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de
 croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année.
@@ -78,10 +78,10 @@ dépassement.
 aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par
 virement bancaire.
 
-III.-(Abrogé).
+III. – (Abrogé).
 
-IV.-1.-Les déclarations mentionnées au II sont contrôlées par les services de la direction générale de l'aviation civile. A
-cette fin, les agents assermentés peuvent examiner sur place les documents utiles.
+IV. – 1. – Les déclarations mentionnées au II sont contrôlées par les services de la direction générale de l'aviation civile.
+A cette fin, les agents assermentés peuvent examiner sur place les documents utiles.
 
 Préalablement, un avis de vérification est adressé à l'entreprise afin qu'elle puisse se faire assister d'un conseil.
 
@@ -100,7 +100,7 @@ suppléments de droits simples et des intérêts de retard au moment du dépôt 
 
 Les insuffisances constatées et les sanctions y afférentes sont notifiées à l'entreprise qui dispose d'un délai de trente
 jours pour présenter ses observations. Sur demande de l'entreprise reçue avant l'expiration du délai précité par les services
-de la direction générale de l'aviation civile, ce délai est prorogé de trente jours. 
+de la direction générale de l'aviation civile, ce délai est prorogé de trente jours.
 
 Après examen des observations éventuelles, le directeur général de l'aviation civile émet, s'il y a lieu, un titre exécutoire
 comprenant les droits supplémentaires maintenus, assortis de l'intérêt de retard prévu à l'article 1727 et, le cas échéant,
@@ -131,14 +131,14 @@ conditions de droit commun et notamment par le dépôt d'une déclaration dans l
 des redevables défaillants déclaratifs que le contrôle des insuffisances déclaratives ou de paiement, s'exerce dans les mêmes
 conditions que celles prévues à l'article L. 176 du livre des procédures fiscales.
 
-V.-Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
+V. – Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
 annexe " contrôle et exploitation aériens " selon les procédures, sûretés, garanties et sanctions applicables en matière de
 taxes sur le chiffre d'affaires.
 
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et
 jugées comme en matière de taxes sur le chiffre d'affaires.
 
-VI.-1. Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet d'une contribution additionnelle,
+VI. – 1. Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet d'une contribution additionnelle,
 dénommée taxe de solidarité sur les billets d'avion, perçue, dans la limite du plafond prévu au I de l'article 46 de la loi
 n° 2011-1977 de finances pour 2012, par le fonds de solidarité pour le développement créé par l'article 22 de la loi n°
 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005.
@@ -179,7 +179,7 @@ mensuellement à l'Agence française de développement.
 5. La taxe de solidarité sur les billets d'avion n'est pas perçue au départ des collectivités d'outre-mer de Saint-Barthélemy
 et de Saint-Martin.
 
-VII.-1. Les entreprises de transport aérien exonérées de la taxe de l'aviation civile en application du 4 du I sont
+VII. – 1. Les entreprises de transport aérien exonérées de la taxe de l'aviation civile en application du 4 du I sont
 assujetties à une contribution destinée à couvrir les coûts des missions d'intérêt général assurées par l'administration
 française de l'aviation civile à l'occasion de l'utilisation de l'aérodrome où ces entreprises effectuent les vols mentionnés
 au même 4.
@@ -206,17 +206,11 @@ tarif de la contribution ainsi que les règles de leur actualisation.
 5. Le produit de la contribution est recouvré par le comptable public territorialement compétent qui le reverse aux
 comptables publics du budget annexe " Contrôle et exploitation aériens ". La contribution est établie, recouvrée et contrôlée
 selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les
-réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes (1).
+réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes.
 
 **Nota:**
 
-(1) Conformément à l'article 49 II de la loi n° 2015-1785 du 29 décembre 2015, les dispositions de l'article 302 bis K
-résultant du I du même article (I. 4, VII), entrent en vigueur à une date fixée par décret qui ne peut être postérieure de
-plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de
-considérer le dispositif législatif comme conforme au droit de l'Union européenne en matière d'aides d'Etat. Le décret n°
-2017-640 du 26 avril 2017 fixe la date d'entrée en vigueur au 29 avril 2017.
-
-Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009.
+Modifications effectuées en conséquence de l’article 110 de la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -249,9 +243,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 49 (V)
-  - Décret n°2016-775 du 10 juin 2016 - art. 1
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 65 I
+  - Décret n°2017-698 du 2 mai 2017 - art. 1
 
 _Cite_:
 
@@ -260,4 +252,4 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1729
   - Code général des impôts, CGI. - art. 1729 A
   - Livre des procédures fiscales - art. L176
-  - Code des transports - art. L6412-3 (V)
+  - Code des transports - art. L6412-3
