@@ -7,12 +7,12 @@ Il s'entend de l'excédent de ces plus-values sur les moins-values de même natu
 même exercice. 
 
 Ces dispositions ne sont pas applicables aux plus-values nettes à court terme réalisées par les entreprises soumises à
-l'impôt sur les sociétés au cours des exercices ouverts à compter du 1er janvier 1987. 
+l'impôt sur les sociétés au cours des exercices ouverts à compter du 1er janvier 1987.
 
 1 bis Par dérogation aux dispositions du 1, la réintégration aux bénéfices imposables du montant net des plus-values à court
-terme réalisées à l'occasion d'opérations de reconversion par les entreprises qui ont obtenu l'agrément prévu aux articles
-1465 et 1466 peut être étalée sur dix ans, sans que la somme rattachée aux bénéfices de chaque année puisse être inférieure
-au dixième de ce montant. 
+terme réalisées à l'occasion d'opérations de reconversion par les entreprises qui ont obtenu l'agrément prévu à l'article
+1465 peut être étalée sur dix ans, sans que la somme rattachée aux bénéfices de chaque année puisse être inférieure au
+dixième de ce montant. 
 
 1 ter Par dérogation aux dispositions du 1, la plus-value nette à court terme afférente à des biens amortissables, réalisée à
 la suite de la perception d'indemnités d'assurances ou de l'expropriation d'immeubles figurant à l'actif, peut être répartie,
@@ -41,7 +41,7 @@ tenant à la nature de l'activité de cette entreprise doit être également rem
 Si le navire mentionné au premier alinéa est acquis d'occasion, sa durée résiduelle d'utilisation doit être d'au moins dix
 ans et sa construction doit être achevée depuis dix ans au plus ; ces deux dernières conditions ne sont pas exigées si
 l'entreprise justifie n'avoir pu y satisfaire, pour un navire de pêche correspondant à ses besoins, malgré ses diligences et
-pour des raisons indépendantes de sa volonté.
+pour des raisons indépendantes de sa volonté. 
 
 L'engagement mentionné au premier alinéa doit être annexé à la déclaration de résultat de l'exercice de la cession. 
 
@@ -54,7 +54,7 @@ dus à la date du rachat, actualisés à un taux égal au taux à échéance con
 durée restant à courir de la date de rachat jusqu'à la date de chaque échéance, et le prix de rachat de la créance, par
 fractions égales, sur les cinq exercices suivant le rachat. La fraction du profit prise en compte dans le résultat imposable
 est majorée d'un montant égal au produit de cette fraction par une fois et demie le taux de l'intérêt de retard prévu à
-l'article 1727.
+l'article 1727. 
 
 Le premier alinéa ne s'applique ni aux établissements de crédit, ni aux sociétés de financement, ni aux rachats dont le
 débiteur et le créancier ont la qualité d'entreprises liées au sens du 12 de l'article 39. Toutefois, dans ce dernier cas,
@@ -88,26 +88,30 @@ comme aurait dû le faire l'entreprise apporteuse.
 2 bis. La moins-value résultant de la cession, moins de deux ans après leur émission, de titres de participation acquis en
 contrepartie d'un apport réalisé et dont la valeur réelle à la date de leur émission est inférieure à leur valeur
 d'inscription en comptabilité n'est pas déductible, dans la limite du montant résultant de la différence entre la valeur
-d'inscription en comptabilité desdits titres et leur valeur réelle à la date de leur émission.
+d'inscription en comptabilité desdits titres et leur valeur réelle à la date de leur émission. 
 
 3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet
 exercice.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l’article 44-I et V-3° de la loi n° 2015-991 du 7 août 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
+  - Décret n°2017-698 du 2 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1465
-  - Code général des impôts, CGI. - art. 151 octies
-  - Code général des impôts, CGI. - art. 1727
-  - Code général des impôts, CGI. - art. 210 A
-  - Code général des impôts, CGI. - art. 223 F
-  - Code général des impôts, CGI. - art. 39
-  - Code général des impôts, CGI. - art. 41
+  - Code général des impôts, CGI. - art. 1465 (V)
+  - Code général des impôts, CGI. - art. 151 octies (V)
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 210 A (V)
+  - Code général des impôts, CGI. - art. 223 F (V)
+  - Code général des impôts, CGI. - art. 39 (VT)
+  - Code général des impôts, CGI. - art. 41 (V)
 
 _Cité par_:
 
