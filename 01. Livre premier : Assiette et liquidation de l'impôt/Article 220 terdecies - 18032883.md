@@ -1,8 +1,8 @@
 # Article 220 terdecies
 
 I. – Les entreprises de création de jeux vidéo soumises à l'impôt sur les sociétés ou exonérées en application des articles
-44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 quindecies peuvent bénéficier d'un crédit
-d'impôt au titre des dépenses mentionnées au IV qu'elles exposent en vue de la création de jeux vidéo agréés.
+44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 quindecies et 44 sexdecies  peuvent bénéficier
+d'un crédit d'impôt au titre des dépenses mentionnées au IV qu'elles exposent en vue de la création de jeux vidéo agréés.
 
 Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de création de jeux vidéo, de la législation
 sociale en vigueur.
@@ -82,16 +82,6 @@ durée de l'exercice.
 VII. – Les conditions d'application du présent article, notamment celles relatives à la délivrance de l'agrément provisoire
 et aux obligations déclaratives incombant aux entreprises, sont fixées par décret.
 
-**Nota:**
-
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, les références : , 44 decies, 44 undecies sont
-périmées.
-
-Loi n° 2016-1917 du 29 décembre 2016, article 79 II : Ces dispositions entrent en vigueur à une date fixée par décret, qui ne
-peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission
-européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union
-européenne en matière d'aides d'Etat.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -134,9 +124,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 79 (M)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 80
-  - Décret n°2017-1281 du 9 août 2017, art. 1 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 79 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
 
 _Cite_:
 
