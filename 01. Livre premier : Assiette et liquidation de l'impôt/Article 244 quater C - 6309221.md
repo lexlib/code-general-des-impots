@@ -1,7 +1,7 @@
 # Article 244 quater C
 
 I. – Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
-septies, 44 octies, 44 octies A et 44 duodecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt ayant pour objet le
+septies, 44 octies, 44 octies A et 44 duodecies à 44 sexdecies peuvent bénéficier d'un crédit d'impôt ayant pour objet le
 financement de l'amélioration de leur compétitivité à travers notamment des efforts en matière d'investissement, de
 recherche, d'innovation, de formation, de recrutement, de prospection de nouveaux marchés, de transition écologique et
 énergétique et de reconstitution de leur fonds de roulement. L'entreprise retrace dans ses comptes annuels l'utilisation du
@@ -9,10 +9,13 @@ crédit d'impôt conformément aux objectifs mentionnés à la première phrase.
 crédit d'impôt pour la compétitivité et l'emploi doivent figurer, sous la forme d'une description littéraire, en annexe du
 bilan ou dans une note jointe aux comptes. Le crédit d'impôt ne peut ni financer une hausse de la part des bénéfices
 distribués, ni augmenter les rémunérations des personnes exerçant des fonctions de direction dans l'entreprise. Les
-organismes mentionnés à l'article 207 peuvent également bénéficier du crédit d'impôt mentionné au présent alinéa au titre des
-rémunérations qu'ils versent à leurs salariés affectés à leurs activités non exonérées d'impôt sur les bénéfices. Ces
-organismes peuvent également en bénéficier à raison des rémunérations versées aux salariés affectés à leurs activités
-exonérées après que la Commission européenne a déclaré cette disposition compatible avec le droit de l'Union européenne.
+établissements publics, les collectivités territoriales et les organismes sans but lucratif peuvent bénéficier du crédit
+d'impôt mentionné au présent I au titre des rémunérations qu'ils versent à leurs salariés affectés à des activités
+lucratives. Les organismes mentionnés à l'article 207 peuvent également bénéficier du crédit d'impôt mentionné au présent
+alinéa au titre des rémunérations qu'ils versent à leurs salariés affectés à leurs activités non exonérées d'impôt sur les
+bénéfices. Ces organismes peuvent également en bénéficier à raison des rémunérations versées aux salariés affectés à leurs
+activités exonérées après que la Commission européenne a déclaré cette disposition compatible avec le droit de l'Union
+européenne.
 
 II. – Le crédit d'impôt mentionné au I est assis sur les rémunérations que les entreprises versent à leurs salariés au cours
 de l'année civile. Sont prises en compte les rémunérations, telles qu'elles sont définies pour le calcul des cotisations de
@@ -27,7 +30,7 @@ Pour être éligibles au crédit d'impôt, les rémunérations versées aux sala
 résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et avoir été
 régulièrement déclarées aux organismes de sécurité sociale.
 
-III. – Le taux du crédit d'impôt est fixé à 7 %.
+III. – Le taux du crédit d'impôt est fixé à 6 %.
 
 Par dérogation au premier alinéa du présent III, lorsque l'assiette du crédit d'impôt est constituée par des rémunérations
 versées à des salariés affectés à des exploitations situées dans les départements d'outre-mer, son taux est fixé à :
@@ -57,7 +60,11 @@ entreprises et aux organismes chargés du recouvrement des cotisations de sécur
 
 **Nota:**
 
+Conformément à l'article 86 V A de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018, les présentes dispositions
+s'appliquent aux rémunérations versées à compter du 1er janvier 2018.
 
+Conformément à l'article 86 V B de la loi n° 2017-1837 du 30 décembre 2017 ces dispositions sont abrogées à compter du 1er
+janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -86,8 +93,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 111
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 72 (V)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (VD)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 20 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 86 (V)
 
 _Cite_:
 
