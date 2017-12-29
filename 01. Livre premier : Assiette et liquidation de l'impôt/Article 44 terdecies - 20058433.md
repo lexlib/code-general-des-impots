@@ -8,7 +8,7 @@ débutant à la date de publication de l'arrêté prévu au dernier alinéa du m
 postérieure, au 1er janvier de l'année précédant celle au titre de laquelle le territoire ou la commune est reconnu comme
 zone de restructuration de la défense par cet arrêté sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison
 des bénéfices provenant des activités implantées dans la zone de restructuration de la défense et réalisés jusqu'au terme du
-cinquante-neuvième mois suivant le début d'activité dans cette zone. (1)
+cinquante-neuvième mois suivant le début d'activité dans cette zone.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
@@ -18,9 +18,9 @@ exerçant une activité professionnelle non commerciale au sens du 1 de l'articl
 
 L'exonération ne s'applique pas aux créations d'activité dans les zones de restructuration de la défense consécutives au
 transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années
-précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44
-quindecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie et les services
-ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
+précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies , 44
+quindecies et 44 sexdecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie
+et les services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les zones de restructuration de la défense ou qui reprennent
@@ -76,19 +76,11 @@ III. – Lorsque le contribuable mentionné au I est une société membre d'un g
 résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
-44 sexies A, 44 septies, 44 octies A, 44 duodecies ou 44 quindecies et du régime prévu au présent article, le contribuable
-peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
+44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 quindecies ou 44 sexdecies et du régime prévu au présent article, le
+contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV. – Les obligations déclaratives des personnes et organismes concernés par l'exonération prévue au présent article sont
 fixées par décret.
-
-**Nota:**
-
-Au troisième alinéa du I, les références : , 44 decies, 44 undecies sont périmées. 
-
-(1) Loi n° 2016-1917 du 29 décembre 2016, art. 76 : ces dispositions s'appliquent dans les zones de restructuration de la
-défense mentionnées au 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développement du territoire et reconnues à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -99,12 +91,12 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 35
-  - Code général des impôts, CGI. - art. 44 duodecies (V)
-  - Code général des impôts, CGI. - art. 44 octies (V)
-  - Code général des impôts, CGI. - art. 44 octies A (V)
-  - Code général des impôts, CGI. - art. 44 septies (V)
+  - Code général des impôts, CGI. - art. 44 duodecies
+  - Code général des impôts, CGI. - art. 44 octies
+  - Code général des impôts, CGI. - art. 44 octies A
+  - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 44 sexies A (V)
+  - Code général des impôts, CGI. - art. 44 sexies A
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 63
@@ -115,12 +107,12 @@ _Cite_:
 
 _Créé par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (V)
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (VD)
 
 _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 76
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
 
 _Cité par_:
 

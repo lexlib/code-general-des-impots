@@ -18,8 +18,8 @@ exerçant une activité professionnelle non commerciale au sens du 1 de l'articl
 
 L'exonération ne s'applique pas aux créations d'activités dans les bassins d'emploi à redynamiser consécutives au transfert
 d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant
-celle du transfert des articles 44 sexies, 44 octies, 44 octies A, 44 quindecies et 44 septies ou de la prime d'aménagement
-du territoire.
+celle du transfert des articles 44 sexies, 44 octies, 44 octies A, 44 quindecies, 44 sexdecies et 44 septies ou de la prime
+d'aménagement du territoire.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les bassins d'emploi à redynamiser ou qui reprennent de
@@ -76,8 +76,8 @@ III. – Lorsque le contribuable mentionné au I est une société membre d'un g
 résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
-44 octies A ou 44 quindecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans
-les six mois suivant celui du début d'activité. L'option est irrévocable.
+44 octies A, 44 quindecies ou 44 sexdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier
+régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV. – Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
@@ -93,11 +93,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1467
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 34
-  - Code général des impôts, CGI. - art. 35 (V)
-  - Code général des impôts, CGI. - art. 44 octies (V)
-  - Code général des impôts, CGI. - art. 44 octies A (V)
-  - Code général des impôts, CGI. - art. 44 septies (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
+  - Code général des impôts, CGI. - art. 35
+  - Code général des impôts, CGI. - art. 44 octies
+  - Code général des impôts, CGI. - art. 44 octies A
+  - Code général des impôts, CGI. - art. 44 septies
+  - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 63
@@ -127,5 +127,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 66
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)

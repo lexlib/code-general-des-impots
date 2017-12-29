@@ -25,7 +25,7 @@ propriété intellectuelle. S'agissant des albums de nouveaux talents, le béné
 l'entreprise redevable de l'impôt sur les sociétés pour l'ensemble des albums qu'elle produit chaque année.
 
 III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes
-engagées entre le 1er juillet 2007 et le 31 décembre 2018, pour des opérations mentionnées au II effectuées en France, dans
+engagées entre le 1er juillet 2007 et le 31 décembre 2019, pour des opérations mentionnées au II effectuées en France, dans
 un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant
 conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès
 lors qu'elles entrent dans la détermination du résultat imposable :
@@ -163,8 +163,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 77
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 19
 
 _Cite_:
 
