@@ -71,7 +71,7 @@ alinéa de l'article 62 ;
 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant
 imposable. 
 
-Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 terdecies à 44 quindecies ou au 9 de l'article 93
+Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 terdecies à 44 sexdecies ou au 9 de l'article 93
 ainsi que l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier
 alinéa. Sont également retenus les revenus imposés dans les conditions prévues à l'article 151-0 pour leur montant diminué,
 selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter.
@@ -81,19 +81,19 @@ Il n'est pas tenu compte des plus-values et moins-values professionnelles à lon
 
 _Cite_:
 
-  - Ordonnance n°2001-350 du 19 avril 2001 - art. 5 (V)
+  - Ordonnance n°2001-350 du 19 avril 2001 - art. 5
   - Code général des impôts, CGI. - art. 102 ter
   - Code général des impôts, CGI. - art. 151-0
-  - Code général des impôts, CGI. - art. 154 bis (V)
-  - Code général des impôts, CGI. - art. 154 bis-0 A (V)
-  - Code général des impôts, CGI. - art. 156 (VT)
+  - Code général des impôts, CGI. - art. 154 bis (M)
+  - Code général des impôts, CGI. - art. 154 bis-0 A (M)
+  - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 50-0 (M)
+  - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 62
   - Code général des impôts, CGI. - art. 73 B
   - Code général des impôts, CGI. - art. 79
-  - Code général des impôts, CGI. - art. 83 (M)
+  - Code général des impôts, CGI. - art. 83
   - Code général des impôts, CGI. - art. 93
   - Code civil - art. 515-1
   - Code du travail - art. L3334-1
@@ -104,7 +104,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
 
 _Cité par_:
 

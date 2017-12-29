@@ -16,7 +16,7 @@ clos à la date d'exigibilité de la taxe afférent aux opérations situées dan
 ajoutée réalisé au titre des prestations de transport ferroviaire de voyageurs, et des prestations commerciales qui leur sont
 directement liées, effectuées entre deux gares du réseau ferré national.
 
-III. – Le taux de la taxe, compris entre 1,5 % et 5 %, est fixé par arrêté conjoint des ministres chargés respectivement des
+III. – Le taux de la taxe, compris entre 0,1 % et 3 %, est fixé par arrêté conjoint des ministres chargés respectivement des
 transports, de l'économie et du budget.
 
 IV. – Lorsqu'une entreprise non établie en France est redevable de la taxe mentionnée au I, elle est tenue de désigner un
@@ -38,18 +38,12 @@ VI. – La taxe est recouvrée et contrôlée selon les mêmes procédures et so
 la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette
 même taxe.
 
-**Nota:**
-
-Conformément à l'article 20 XXIII de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
-dispositions de l'article 302 bis ZC, dans leur rédaction issue de la présente loi, s'appliquent aux déclarations souscrites
-à compter du 1er février 2014.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 65 (M)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 65 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 2 (V)
 
 _Cité par_:
 
@@ -60,7 +54,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 287 (VD)
+  - Code général des impôts, CGI. - art. 287
   - Code des transports - art. L1241-1
   - Code des transports - art. L2121-12
   - Code des transports - art. L2121-3
