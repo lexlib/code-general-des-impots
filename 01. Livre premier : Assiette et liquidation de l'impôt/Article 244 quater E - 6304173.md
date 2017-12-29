@@ -72,7 +72,7 @@ plan de restructuration présenté par l'entreprise n'altère pas les échanges 
 
 II. – Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou
 de l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44
-sexies, 44 sexies A, 44 septies, 44 quindecies et 208 sexies. Elle est irrévocable.
+sexies, 44 sexies A, 44 septies, 44 quindecies, 44 sexdecies et 208 sexies. Elle est irrévocable.
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime d'imposition de l'article 8 ou par les
 groupements mentionnés aux articles 239 quater ou 239 quater C, le crédit d'impôt peut être utilisé par leurs associés,
@@ -131,14 +131,14 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 74
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 199 ter D (V)
   - Code général des impôts, CGI. - art. 220 D (V)
   - Code général des impôts, CGI. - art. 223 O (V)
-  - Code général des impôts, CGI. - art. 44 sexies A (M)
+  - Code général des impôts, CGI. - art. 44 sexies A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WB (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WC (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WE (V)
