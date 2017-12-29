@@ -31,25 +31,21 @@ c. Les produits de créances et d'opérations financières pour le montant qui e
 cours du même exercice ou de la période d'imposition.
 
 III. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44
-sexies, 44 septies, 44 octies, 44 quindecies, 244 quater E ou du régime prévu au présent article, la jeune entreprise
-innovante réalisant des projets de recherche et de développement peut opter pour ce dernier régime, dans les neuf mois
-suivant celui de son début d'activité, ou dans les neuf premiers mois de l'exercice ou de la période au titre duquel ou de
-laquelle l'option est exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre
+sexies, 44 septies, 44 octies, 44 quindecies, 44 sexdecies, 244 quater E ou du régime prévu au présent article, la jeune
+entreprise innovante réalisant des projets de recherche et de développement peut opter pour ce dernier régime, dans les neuf
+mois suivant celui de son début d'activité, ou dans les neuf premiers mois de l'exercice ou de la période au titre duquel ou
+de laquelle l'option est exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre
 duquel ou de laquelle elle a été exercée les conditions fixées à l'article 44 sexies-0 A sont remplies.
 
 IV. – Le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du
 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
 aides de minimis.
 
-**Nota:**
-
-Décret n° 2014-549 du 26 mai 2014 article 1 : A la première phrase du III, la référence : , 44 decies est périmée.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
 
 _Cité par_:
 

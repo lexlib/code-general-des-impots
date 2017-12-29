@@ -1,7 +1,7 @@
 # Article 244 quater G
 
 I. – Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44
-octies ou 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre de la première année du cycle de
+octies ou 44 terdecies à 44 sexdecies peuvent bénéficier d'un crédit d'impôt au titre de la première année du cycle de
 formation d'un apprenti dont le contrat a été conclu dans les conditions prévues au titre II du livre II de la sixième partie
 du code du travail. 
 
@@ -44,11 +44,7 @@ IV. – (Abrogé).
 
 **Nota:**
 
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, la référence : , 44 decies est périmée. 
 
-Aux termes du IV de l'article 46 de la loi n° 2016-1088 du 8 août 2016, les contrats d'insertion dans la vie sociale conclus
-avant le 1er janvier 2017 continuent à produire leurs effets dans les conditions applicables avant cette date, jusqu'à leur
-terme.
 
 **Liens relatifs à cet article**
 
@@ -67,9 +63,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 44 terdecies
   - Code général des impôts, CGI. - art. 8
-  - Code de l'éducation - art. L335-6 (V)
+  - Code de l'éducation - art. L335-6
   - Code du service national - art. L130-1
-  - Code du travail - art. L5131-7 (VD)
+  - Code du travail - art. L5131-7
   - Code du travail - art. L5213-1
 
 _Cité par_:
@@ -86,4 +82,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1088 du 8 août 2016 - art. 46 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (VD)
+
+_Abrogé par_:
+
+  - Loi n°2018-771 du 5 septembre 2018 - art. 27 (V)
