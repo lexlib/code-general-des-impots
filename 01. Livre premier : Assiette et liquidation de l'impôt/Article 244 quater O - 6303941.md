@@ -3,7 +3,7 @@
 I. – Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44
 sexies, 44 sexies A, 
 44 septies, 44 octies, 44 octies A, 44 duodecies, 
-44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme : 
+44 terdecies à 44 sexdecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme : 
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés à la création d'ouvrages réalisés en un seul
 exemplaire ou en petite série. La création d'ouvrages uniques, réalisés en un exemplaire ou en petite série, se définit selon
@@ -29,7 +29,7 @@ style externes.
 
 I bis. – Les entreprises mentionnées aux 1° et 3° du III du présent article et imposées d'après leur bénéfice réel ou
 exonérées en application des mêmes articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44
-terdecies à 44 quindecies et œuvrant dans le domaine de la restauration du patrimoine bénéficient du crédit d'impôt prévu au
+terdecies à 44 sexdecies et œuvrant dans le domaine de la restauration du patrimoine bénéficient du crédit d'impôt prévu au
 premier alinéa du I du présent article au titre : 
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés à l'activité de restauration du patrimoine ; 
@@ -86,11 +86,6 @@ VII. – (Abrogé).
 VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises
 mentionnées au III jusqu'au 31 décembre 2019.
 
-**Nota:**
-
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, les références : , 44 decies, 44 undecies  sont
-périmées
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -102,13 +97,13 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 quater A
   - Code général des impôts, CGI. - art. 239 quater B
   - Code général des impôts, CGI. - art. 239 quater C
-  - Code général des impôts, CGI. - art. 44 duodecies (V)
-  - Code général des impôts, CGI. - art. 44 octies (V)
-  - Code général des impôts, CGI. - art. 44 octies A (V)
-  - Code général des impôts, CGI. - art. 44 septies (V)
-  - Code général des impôts, CGI. - art. 44 sexies (V)
-  - Code général des impôts, CGI. - art. 44 sexies A (V)
-  - Code général des impôts, CGI. - art. 44 terdecies (V)
+  - Code général des impôts, CGI. - art. 44 duodecies
+  - Code général des impôts, CGI. - art. 44 octies
+  - Code général des impôts, CGI. - art. 44 octies A
+  - Code général des impôts, CGI. - art. 44 septies
+  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 44 sexies A
+  - Code général des impôts, CGI. - art. 44 terdecies
   - Code général des impôts, CGI. - art. 8
 
 _Cité par_:
@@ -127,4 +122,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 65
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
