@@ -46,7 +46,8 @@ est placée dans une situation de dépendance.
 III. L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale
 mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre
 d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A, 44
-septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime d'aménagement du territoire.
+septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou 44 sexdecies ou d'une prime d'aménagement du
+territoire.
 
 L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées
 au I consécutives au transfert, à la concentration ou à la restructuration d'activités précédemment exercées dans ces zones,
@@ -55,11 +56,14 @@ présent article.
 
 L'exonération ne s'applique pas non plus dans les situations suivantes :
 
-a) si, à l'issue de l'opération de reprise ou de restructuration, le cédant, son conjoint, le partenaire auquel il est lié
-par un pacte civil de solidarité défini à l'article 515-1 du code civil, leurs ascendants et descendants, leurs frères et
-sœurs détiennent ensemble, directement ou indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices
-sociaux de la société, de la personne morale ou du groupement soit repris, soit bénéficiaire de l'opération de reprise ou de
-restructuration.
+a) Si, lorsque la société, la personne morale ou le groupement a déjà fait l'objet d'une première opération de reprise ou de
+restructuration à l'issue de laquelle le cédant, son conjoint, le partenaire auquel il est lié par un pacte civil de
+solidarité défini à l'article 515-1 du code civil, leurs ascendants et descendants, leurs frères et sœurs détiennent
+ensemble, directement ou indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices sociaux de la
+société, de la personne morale ou du groupement soit repris, soit bénéficiaire de l'opération de reprise ou de
+restructuration, cette société, cette personne morale ou ce groupement fait de nouveau l'objet d'une telle opération à
+l'issue de laquelle une ou plusieurs des personnes physiques précédemment mentionnées détiennent ensemble, directement ou
+indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices sociaux.
 
 Le cédant s'entend de toute personne qui, avant l'opération de reprise ou de restructuration, soit détenait directement ou
 indirectement plus de 50 % des droits de vote ou des droits dans les bénéfices sociaux de la société, de la personne morale
@@ -71,22 +75,16 @@ l'entrepreneur individuel, du partenaire auquel il est lié par un pacte civil d
 civil, de leurs ascendants et descendants ou de leurs frères et sœurs.
 
 IV. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44
-sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies et du régime prévu au présent
-article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est
-irrévocable et emporte renonciation définitive aux autres régimes.
+sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou 44 sexdecies et du régime prévu
+au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option
+est irrévocable et emporte renonciation définitive aux autres régimes.
 
 V. – Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) n° 1407/2013 de la
 Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
-européenne aux aides de minimis (1).
+européenne aux aides de minimis.
 
 VI. – L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de
 la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
-
-**Nota:**
-
-Au premier alinéa du III, les références : ", 44 decies, 44 undecies " sont périmées. 
-
-(1) Ces dispositions s'appliquent aux avantages octroyés à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -112,15 +110,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 45 (M)
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 15 (M)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 18
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1465 A
-  - Code général des impôts, CGI. - art. 34 (V)
+  - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 92
-  - Code civil - art. 515-1 (V)
+  - Code civil - art. 515-1
