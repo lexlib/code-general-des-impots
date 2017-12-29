@@ -131,13 +131,13 @@ réel de l'abattement imputé en application du II ou du III au titre de cet exe
 
 VII. – Lorsqu'elle répond aux conditions requises pour bénéficier du régime prévu aux articles 44 sexies, 44 septies, 44
 octies, 44 octies A, 
-44 nonies, 44 terdecies, 44 quindecies ou 73 B et du régime prévu au présent article, l'entreprise peut opter pour ce dernier
-régime dans les six mois qui suivent la publication de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des
-outre-mer, si elle exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant celui du début d'activité.
-L'option est irrévocable et emporte renonciation définitive aux autres régimes. Lorsque l'entreprise n'exerce pas cette
-option dans ce délai, elle bénéficie de plein droit, au terme de la période d'application de l'un de ces autres régimes dont
-elle bénéficiait, du régime prévu au présent article pour la période restant à courir jusqu'à son terme et selon les
-modalités qui la régissent.
+44 nonies, 44 terdecies, 44 quindecies, 44 sexdecies ou 73 B et du régime prévu au présent article, l'entreprise peut opter
+pour ce dernier régime dans les six mois qui suivent la publication de la loi n° 2009-594 du 27 mai 2009 pour le
+développement économique des outre-mer, si elle exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant
+celui du début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes. Lorsque
+l'entreprise n'exerce pas cette option dans ce délai, elle bénéficie de plein droit, au terme de la période d'application de
+l'un de ces autres régimes dont elle bénéficiait, du régime prévu au présent article pour la période restant à courir jusqu'à
+son terme et selon les modalités qui la régissent.
 
 VIII. – Les obligations déclaratives des entreprises sont fixées par décret.
 
@@ -156,13 +156,14 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 223 I
   - Code général des impôts, CGI. - art. 235 ter D
-  - Code général des impôts, CGI. - art. 244 quater B
-  - Code général des impôts, CGI. - art. 44 nonies (V)
-  - Code général des impôts, CGI. - art. 44 octies (V)
+  - Code général des impôts, CGI. - art. 244 quater B (M)
+  - Code général des impôts, CGI. - art. 244 quater M (V)
+  - Code général des impôts, CGI. - art. 44 nonies
+  - Code général des impôts, CGI. - art. 44 octies
   - Code général des impôts, CGI. - art. 44 octies A (V)
-  - Code général des impôts, CGI. - art. 44 septies (V)
+  - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 44 terdecies (V)
+  - Code général des impôts, CGI. - art. 44 terdecies
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 53 A
   - Code général des impôts, CGI. - art. 72
@@ -181,7 +182,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 154 bis-0 A (V)
   - Code général des impôts, CGI. - art. 217 undecies (V)
   - Code général des impôts, CGI. - art. 220 quinquies (V)
-  - Code général des impôts, CGI. - art. 244 quater M (V)
   - Code général des impôts, CGI. - art. 244 quater Q (V)
   - Code général des impôts, CGI. - art. 44 quindecies (V)
   - Code général des impôts, CGI. - art. 72 D (V)
@@ -193,5 +193,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 124 (V)
-  - Loi n°2017-256 du 28 février 2017 - art. 125 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
