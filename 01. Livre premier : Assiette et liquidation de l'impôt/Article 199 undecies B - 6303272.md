@@ -6,16 +6,16 @@ en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Bart
 Terres australes et antarctiques françaises, dans le cadre d'une entreprise exerçant une activité agricole ou une activité
 industrielle, commerciale ou artisanale relevant de l'article 34. Lorsque l'activité est exercée dans un département d'outre-
 mer, l'entreprise doit avoir réalisé un chiffre d'affaires, au titre de son dernier exercice clos, inférieur à 20 millions
-d'euros. Ce seuil de chiffre d'affaires est ramené à 15 millions d'euros, 10 millions d'euros et 5 millions d'euros pour les
-investissements que l'entreprise réalise au cours des exercices ouverts à compter, respectivement, du 1er janvier 2018, du
-1er janvier 2019 et du 1er janvier 2020. Lorsque l'entreprise n'a clôturé aucun exercice, son chiffre d'affaires est réputé
-être nul. Si le dernier exercice clos est d'une durée de plus ou de moins de douze mois, le montant du chiffre d'affaires est
-corrigé pour correspondre à une période de douze mois. Lorsque la réduction d'impôt s'applique dans les conditions prévues
-aux vingt-sixième et vingt-septième alinéas, le chiffre d'affaires s'apprécie au niveau de l'entreprise locataire ou crédit-
-preneuse. Celle-ci en communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux
-deuxième et sixième phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises
-au sens du 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de
-l'ensemble des entreprises qui lui sont liées.
+d'euros. Ce seuil de chiffre d'affaires est ramené à 15 millions d'euros et à 10 millions d'euros pour les investissements
+que l'entreprise réalise au cours des exercices ouverts à compter, respectivement, du 1er janvier 2019 et du 1er janvier
+2020. Lorsque l'entreprise n'a clôturé aucun exercice, son chiffre d'affaires est réputé être nul. Si le dernier exercice
+clos est d'une durée de plus ou de moins de douze mois, le montant du chiffre d'affaires est corrigé pour correspondre à une
+période de douze mois. Lorsque la réduction d'impôt s'applique dans les conditions prévues aux vingt-sixième et vingt-
+septième alinéas, le chiffre d'affaires s'apprécie au niveau de l'entreprise locataire ou crédit-preneuse. Celle-ci en
+communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux deuxième et sixième
+phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du 12 de
+l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble des
+entreprises qui lui sont liées.
 
 Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements réalisés, dans les secteurs d'activité suivants :
 
@@ -169,9 +169,8 @@ dispositions du trente-troisième alinéa sont applicables ;
 location au profit d'une entreprise située dans les départements ou collectivités d'outre-mer.
 
 Les associés personnes physiques mentionnés au vingt-septième alinéa ne peuvent bénéficier, pour la souscription au capital
-de la société mentionnée au même alinéa, des réductions d'impôt prévues aux articles 199 undecies A, 199 terdecies-0 A et
-885-0 V bis et la société mentionnée au vingt-septième alinéa ne peut bénéficier des dispositions prévues à l'article 217
-undecies.
+de la société mentionnée au même alinéa, des réductions d'impôt prévues aux articles 199 undecies A, ou 199 terdecies-0 A et
+la société mentionnée au vingt-septième alinéa ne peut bénéficier des dispositions prévues à l'article 217 undecies.
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par les contribuables mentionnés au vingt-
 septième alinéa lors de la cession des titres des sociétés mentionnées à ce même alinéa. Le 2° du 3 de l'article 158 ne
@@ -288,6 +287,14 @@ dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur ci
 productifs mentionnés au présent article sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux
 d'abattement équivalent aux taux prévus au III du même article 244 quater W.
 
+**Nota:**
+
+Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les
+dispositions de l'article 199 undecies B résultant des dispositions du 13° du B du I du même article 31 s'appliquent au titre
+de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article
+31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la
+fortune dû jusqu'au titre de l'année 2017 incluse.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -337,7 +344,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 242 sexies (V)
   - Code général des impôts, CGI. - art. 244 quater W (V)
   - Code général des impôts, CGI. - art. 44 quaterdecies (V)
-  - Code général des impôts, CGI. - art. 885-0 V bis (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 140 quater (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 K (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 M (V)
@@ -363,18 +369,20 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1010
   - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 151 octies
-  - Code général des impôts, CGI. - art. 156 (VT)
-  - Code général des impôts, CGI. - art. 158 (V)
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 158
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 244 quater Q
   - Code général des impôts, CGI. - art. 34
-  - Code général des impôts, CGI. - art. 39 (VT)
-  - Code général des impôts, CGI. - art. 39 C (V)
+  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 39 C
   - Code général des impôts, CGI. - art. 4 B
   - Code général des impôts, CGI. - art. 41
+  - Code général des impôts, CGI. - art. 885-0 V bis (MMN)
   - Code des postes et des communications électroniques - art. L36-8
   - Code monétaire et financier - art. L313-23
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 127
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 72

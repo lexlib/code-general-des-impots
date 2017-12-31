@@ -110,8 +110,8 @@ l'article 217 undecies ;
 mentionnés au I.
 
 Les associés personnes physiques mentionnés au deuxième alinéa ne peuvent bénéficier, pour la souscription au capital de la
-société mentionnée au même alinéa, des réductions d'impôt prévues aux articles 199 terdecies-0 A et 885-0 V bis et la société
-mentionnée ne peut bénéficier des dispositions prévues à l'article 217 undecies.
+société mentionnée au même alinéa, de la réduction d'impôt prévue à l'article 199 terdecies-0 A et la société mentionnée ne
+peut bénéficier des dispositions prévues à l'article 217 undecies.
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par les associés lors de la cession des titres
 des sociétés. Le 2° du 3 de l'article 158 ne s'applique pas aux revenus distribués par ces sociétés.
@@ -137,10 +137,11 @@ décès.
 
 VI. – La réduction d'impôt prévue au présent article est également ouverte au titre de l'acquisition de logements, qui
 satisfont aux conditions fixées au I, achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation définis
-par décret permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs. Dans ce
-cas, la réduction d'impôt est assise sur le prix de revient des logements majoré du coût des travaux de réhabilitation et
-minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. La
-limite mentionnée au II est applicable. La réduction d'impôt est accordée au titre de l'année d'achèvement des travaux.
+par décret permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou
+permettant leur confortation contre le risque sismique ou cyclonique. Dans ce cas, la réduction d'impôt est assise sur le
+prix de revient des logements majoré du coût des travaux de réhabilitation et minoré, d'une part, des taxes et des
+commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. La limite mentionnée au II est
+applicable. La réduction d'impôt est accordée au titre de l'année d'achèvement des travaux.
 
 VII. – Lorsque le montant par programme des investissements est supérieur à deux millions d'euros, le bénéfice de la
 réduction d'impôt prévue au présent article est conditionné à l'obtention d'un agrément préalable délivré par le ministre
@@ -197,8 +198,11 @@ forme de compensations de service public octroyées à certaines entreprises cha
 
 **Nota:**
 
-Conformément à l'article 109 III de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent aux
-opérations ayant obtenu un agrément du représentant de l'Etat octroyé à compter du 1er janvier 2016.
+Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les
+dispositions de l'article 199 undecies C résultant des dispositions du 14° du B du I du même article 31 s'appliquent au titre
+de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article
+31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la
+fortune dû jusqu'au titre de l'année 2017 incluse.
 
 **Liens relatifs à cet article**
 
@@ -206,12 +210,12 @@ _Cite_:
 
   - Loi n°2009-594 du 27 mai 2009
   - Code général des impôts, CGI. - art. 150-0 D
-  - Code général des impôts, CGI. - art. 158 (V)
-  - Code général des impôts, CGI. - art. 199 septvicies (V)
-  - Code général des impôts, CGI. - art. 199 terdecies-0 A (V)
-  - Code général des impôts, CGI. - art. 199 tervicies (V)
-  - Code général des impôts, CGI. - art. 199 undecies A (V)
-  - Code général des impôts, CGI. - art. 199 undecies B
+  - Code général des impôts, CGI. - art. 158
+  - Code général des impôts, CGI. - art. 199 septvicies
+  - Code général des impôts, CGI. - art. 199 terdecies-0 A
+  - Code général des impôts, CGI. - art. 199 tervicies
+  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 199 undecies B (M)
   - Code général des impôts, CGI. - art. 217 undecies
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L214-114
@@ -219,7 +223,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L411-2
   - Code de la construction et de l'habitation. - art. L472-1-9
   - Code de la construction et de l'habitation. - art. L481-1
-  - Code de la construction et de l'habitation. - art. R372-21 (V)
+  - Code de la construction et de l'habitation. - art. R372-21
 
 _Cité par_:
 
@@ -254,5 +258,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 128
-  - Loi n°2017-256 du 28 février 2017 - art. 129 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 73
