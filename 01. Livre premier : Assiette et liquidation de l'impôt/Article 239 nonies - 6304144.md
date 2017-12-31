@@ -47,28 +47,27 @@ positive entre la fraction de l'amortissement comptable théorique des immeubles
 le fonds en application du a du 1° du II de l'article L. 214-81 du code monétaire et financier. Ces fractions sont
 déterminées, pour chaque porteur de parts, à proportion de sa quote-part de revenus distribués.
 
-3. Les dispositions prévues aux b ter et h du 1° du I de l'article 31, à l'article 31 bis, au premier alinéa du 3° du I de
-l'article 156 relatives aux immeubles classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant reçu le
-label délivré par la Fondation du patrimoine, aux deuxième et troisième alinéas du 3° du I de l'article 156, aux articles 199
-decies E à 199 decies H, à l'article 199 undecies A, à l'article 199 tervicies et à l'article 199 septvicies ne sont pas
-applicables lorsque les immeubles, droits immobiliers ou parts sont détenus directement ou indirectement par des fonds de
-placement immobilier autres que ceux qui sont issus de la transformation des sociétés civiles mentionnées à l'article 239
-septies et pour lesquelles l'application de ces dispositions a été demandée avant la date limite de dépôt des déclarations
-des revenus de l'année 2006.
+3. Les dispositions prévues au h du 1° du I de l'article 31, à l'article 31 bis, au premier alinéa du 3° du I de l'article
+156 relatives aux immeubles classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant reçu le label
+délivré par la Fondation du patrimoine, aux articles 199 decies E à 199 decies H, à l'article 199 undecies A, à l'article 199
+tervicies et à l'article 199 septvicies ne sont pas applicables lorsque les immeubles, droits immobiliers ou parts sont
+détenus directement ou indirectement par des fonds de placement immobilier autres que ceux qui sont issus de la
+transformation des sociétés civiles mentionnées à l'article 239 septies et pour lesquelles l'application de ces dispositions
+a été demandée avant la date limite de dépôt des déclarations des revenus de l'année 2006.
 
 III. – Pour les autres porteurs de parts, les revenus et profits mentionnés au I de l'article L. 214-81 du code monétaire et
 financier sont imposés à la date de leurs distributions pour la fraction correspondant à leurs droits.
 
 **Nota:**
 
-Loi n° 2015-1786 du 29 décembre 2015, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des
-revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
+Loi n° 2015-1785 du 29 décembre 2015, article 118 III : Ces dispositions s'appliquent aux dépenses payées à compter du 1er
+janvier 2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 28
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 118-I-4° (V)
 
 _Cité par_:
 

@@ -17,17 +17,14 @@ chargé des grandes entreprises au sein de l'administration fiscale dans des con
 
 6. Les paiements mentionnés aux 2 et 3 de l'article 1681 sexies peuvent également être effectués par télérèglement.
 
-**Nota:**
-
-Conformément à l'article 20 II de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
-dispositions de l'article 1681 septies, dans leur rédaction issue de la présente loi, s'appliquent à la taxe due sur les
-rémunérations versées à compter du 1er janvier 2015.
+7. Par dérogation au 1 de l'article 1681 quinquies, les prélèvements  prévus aux VIII, IX et X de l'article 1649 quater B
+quater sont  acquittés par télérèglement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 15 (V)
 
 _Cité par_:
 
@@ -40,4 +37,4 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1649 quater B quater
   - Code général des impôts, CGI. - art. 1668
   - Code général des impôts, CGI. - art. 1681 sexies
-  - Code général des impôts, CGI. - art. 231 (V)
+  - Code général des impôts, CGI. - art. 231 (M)
