@@ -5,7 +5,13 @@ L. 321-1 et L. 324-1 du code de l'urbanisme, de l'Etablissement public foncier e
 pour la mise en valeur des espaces urbains de la zone dite " des cinquante pas géométriques " en Guadeloupe et en Martinique
 sont répartis entre les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement
 aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble des communes et de leurs établissements
-publics de coopération intercommunale situés dans le ressort de ces établissements. 
+publics de coopération intercommunale situés dans le ressort de ces établissements.
+
+Lorsqu'il est fait application des troisième et quatrième alinéas de l'article 1607 bis et des troisième et avant-dernier
+alinéas de l'article 1607 ter, les produits de la taxe spéciale d'équipement perçue au profit de l'établissement public
+foncier sont répartis entre les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises
+proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente, dans chaque partie de son
+territoire, à l'ensemble des communes et de leurs établissements publics de coopération intercommunale.
 
 II. – Pour l'application du I, les recettes s'entendent de celles figurant dans des rôles généraux. Elles sont majorées du
 montant perçu l'année précédente au titre de la part de la dotation forfaitaire prévue à l'article L. 2334-7 du code général
@@ -17,33 +23,33 @@ fraction imposable des recettes visée au 2° de l'article 1467, ainsi qu'à com
 l'année 2011, de la différence entre, d'une part, la somme des compensations relais communale et intercommunale, versées en
 application du II de l'article 1640 B, afférentes aux établissements situés dans le territoire de chaque établissement public
 foncier et, d'autre part, le produit de la cotisation foncière des entreprises au titre de l'année 2010 afférent à ces mêmes
-établissements. 
+établissements.
 
 A compter des impositions établies au titre de l'année 2012, les recettes de la taxe foncière sur les propriétés bâties sont,
 pour l'application du I, minorées de la différence entre, d'une part, le produit que la taxe aurait procuré au titre de
 l'année 2011 à l'ensemble des communes et de leurs établissements publics de coopération intercommunale situés dans le
 ressort de l'établissement public foncier si les taux de référence définis au B du V de l'article 1640 C avaient été
 appliqués et, d'autre part, le produit que cette taxe a procuré au titre de l'année 2010 à ces mêmes communes et
-établissements publics. 
+établissements publics.
 
 A compter des impositions établies au titre de l'année 2012, les recettes de taxe d'habitation sont, pour l'application du I,
 minorées de la différence entre, d'une part, le produit que la taxe a procuré au titre de l'année 2011 à l'ensemble des
 communes et de leurs établissements publics de coopération intercommunale situés dans le ressort de l'établissement public
 foncier et, d'autre part, le produit que cette taxe aurait procuré au titre de l'année 2011 à ces mêmes communes et
-établissements publics si les taux de l'année 2010 avaient été appliqués. 
+établissements publics si les taux de l'année 2010 avaient été appliqués.
 
 A compter des impositions établies au titre de l'année 2016, les recettes que la taxe foncière sur les propriétés bâties a
 procurées sur le territoire de la métropole de Lyon sont, pour l'application du I, minorées de la part que cette taxe a
-procurée au titre de l'année 2014 au département du Rhône. 
+procurée au titre de l'année 2014 au département du Rhône.
 
 A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du I
 du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
-précédente à l'ensemble des communes situées dans le ressort de l'établissement public foncier. 
+précédente à l'ensemble des communes situées dans le ressort de l'établissement public foncier.
 
 III. – Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre
 les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes que
 chacune de ces taxes procurerait à la commune si l'on appliquait les taux de l'année précédente aux bases de l'année
-d'imposition. 
+d'imposition.
 
 IV. – Pour l'application du III, les recettes afférentes à la cotisation foncière des entreprises sont majorées de la part,
 calculée à partir du seul taux communal, du montant perçu en 2003, en application du D de l'article 44 de la loi de finances
@@ -54,21 +60,21 @@ finances pour 2003 précitée en contrepartie de la réduction de la fraction im
 1467, ainsi qu'à compter des impositions établies au titre de l'année 2011, de la différence entre, d'une part, la
 compensation relais communale, versée au titre de l'année 2010 en contrepartie de la suppression de la taxe professionnelle
 en application du II de l'article 1640 B, afférente aux établissements situés sur le territoire de la commune et, d'autre
-part, le produit de la cotisation foncière des entreprises au titre de l'année 2010 afférent à ces mêmes établissements. 
+part, le produit de la cotisation foncière des entreprises au titre de l'année 2010 afférent à ces mêmes établissements.
 
 A compter des impositions établies au titre de l'année 2011, les recettes de la taxe foncière sur les propriétés bâties sont
 majorées de la différence entre, d'une part, le produit qu'a procuré au titre de l'année 2010 à la commune la taxation de
 l'ensemble des locaux situés sur son territoire et, d'autre part, le produit qu'aurait procuré au titre de l'année 2011 à
-cette même commune la taxation de ces mêmes locaux, si les taux de l'année 2010 avaient été appliqués. 
+cette même commune la taxation de ces mêmes locaux, si les taux de l'année 2010 avaient été appliqués.
 
 A compter des impositions établies au titre de l'année 2012, les recettes de taxe d'habitation sont, pour l'application du
 III, minorées de la différence entre, d'une part, le produit qu'a procuré au titre de l'année 2011 à la commune la taxation
 de l'ensemble des locaux situés dans son ressort et, d'autre part, le produit qu'aurait procuré au titre de l'année 2011 à
-cette même commune la taxation de ces mêmes locaux si le taux de l'année 2010 avait été appliqué. 
+cette même commune la taxation de ces mêmes locaux si le taux de l'année 2010 avait été appliqué.
 
 A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du
 III du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
-précédente à chaque commune. 
+précédente à chaque commune.
 
 Pour l'application du III, le produit fiscal à recouvrer est minoré de la part, reversée par la commune au syndicat, du
 montant perçu en 2003, en application du D de l'article 44 de la loi de finances pour 1999 précitée et du 1 du III de
@@ -78,28 +84,26 @@ alinéa.
 
 **Nota:**
 
-<font color="#000000" size="1">Modification effectuée en conséquence de l’article </font>1er
-  <font size="1" color="#000000"> du d</font>écret n° 2016-1865 du 23 décembre 2016
-  <font size="1" color="#000000">.</font>
+Aux termes de l'article 73 II de la loi n° n° 2016-1918 du 29 décembre 2016, ces dispositions s'appliquent à compter des
+impositions dues au titre de 2018.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi - art. 44
-  - Loi n°2002-1575 du 30 décembre 2002 - art. 26 (V)
-  - Loi n°2002-1575 du 30 décembre 2002 - art. 29 (V)
-  - Code général des impôts, CGI. - art. 1407 ter (V)
-  - Code général des impôts, CGI. - art. 1467 (V)
+  - Code général des impôts, CGI. - art. 1467
   - Code général des impôts, CGI. - art. 1640 B
   - Code général des impôts, CGI. - art. 1640 C
-  - Code général des collectivités territoriales - art. L2334-7 (V)
+  - Code général des collectivités territoriales - art. L2334-7
   - Code général des collectivités territoriales - art. L5211-28-1
   - Code de l'urbanisme - art. L321-1
   - Code de l'urbanisme - art. L324-1
 
 _Modifié par_:
 
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 73 (V)
   - Décret n°2017-698 du 2 mai 2017 - art. 1
 
 _Cité par_:
