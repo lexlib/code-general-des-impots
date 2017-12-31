@@ -55,13 +55,14 @@ directement le bien.
 
 3. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition de logements, qui satisfont aux conditions fixées au 1,
 achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation, définis par décret, permettant aux logements
-d'acquérir des performances techniques voisines de celles des logements neufs.
+d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le
+risque sismique ou cyclonique.
 
 4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements
 satisfaisant aux conditions fixées au 1, achevés depuis plus de vingt ans et situés dans les quartiers mentionnés au II de
 l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation
 urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant
-leur confortation contre le risque sismique.
+leur confortation contre le risque sismique ou cyclonique.
 
 II. – 1. Le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions
 d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au
@@ -143,10 +144,8 @@ services d'intérêt économique général.
 
 **Nota:**
 
-Conformément au II de l'article 106 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du d et du e du 1 du I du
-présent article, dans leur rédaction issue du I du même article de la même loi, s'appliquent aux opérations d'acquisition et
-de construction dont le fait générateur, pour l'application du crédit d'impôt mentionné au même I, intervient à compter du 31
-mai 2016 et qui, à cette date, n'ont pas obtenu l'agrément prévu au VI de l'article 244 quater X du code général des impôts.
+Conformément à l'article 82 II de la loi n° 2017-1837 du 30 décembre 2017, les présentes dispositions s'appliquent à compter
+de l'imposition des revenus de l'année 2018.
 
 **Liens relatifs à cet article**
 
@@ -156,7 +155,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code de la construction et de l'habitation. - art. L365-1
   - Code de la construction et de l'habitation. - art. L411-2
-  - Code de la construction et de l'habitation. - art. L633-1 (V)
+  - Code de la construction et de l'habitation. - art. L633-1
   - Code de la construction et de l'habitation. - art. R372-21
 
 _Cité par_:
@@ -190,4 +189,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 134
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 82 (V)
