@@ -1,20 +1,21 @@
 # Article 1678 quater
 
-I. – Le prélèvement sur les produits de placements à revenu fixe visé à l'article 125 A et le prélèvement sur les produits
-attachés aux bons ou contrats de capitalisation ainsi qu'aux placements de même nature mentionné au II de l'article 125-0 A
-sont versés au Trésor dans les quinze premiers jours du mois qui suit le paiement des revenus et sous les mêmes sanctions que
-la retenue à la source prévue au 2 de l'article 119 bis. Ces sanctions sont également applicables au prélèvement dû en
-application du I de l'article 125 D, sauf si le contribuable justifie qu'il a donné mandat à la personne qui assure le
-paiement des revenus pour déclarer les revenus et acquitter le prélèvement dans les conditions prévues au IV du même article
-125 D. Toutefois, ces sanctions ne sont pas applicables au prélèvement dû à raison des produits et gains mentionnés au II de
-l'article 125 D. 
+I. Le prélèvement sur les produits de placements à revenu fixe visé à l'article 125 A, le prélèvement d'office sur les bons
+et titres anonymes mentionné à l'article 990 A, la retenue à la source afférente aux intérêts des bons de caisse mentionnée à
+l'article 1678 bis et le prélèvement sur les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux placements
+de même nature mentionné au II de l'article 125-0 A sont déclarés et versés au Trésor dans les quinze premiers jours du mois
+qui suit le paiement des revenus et sous les mêmes sanctions que la retenue à la source prévue au 2 de l'article 119 bis. Ces
+sanctions sont également applicables au prélèvement dû en application du I de l'article 125 D, sauf si le contribuable
+justifie qu'il a donné mandat à la personne qui assure le paiement des revenus pour déclarer les revenus et acquitter le
+prélèvement dans les conditions prévues au IV du même article 125 D. Toutefois, ces sanctions ne sont pas applicables au
+prélèvement dû à raison des produits et gains mentionnés au II de l'article 125 D. 
 
 Les prélèvements mentionnés à la première phrase du premier alinéa du présent I ne peuvent être pris en charge par le
 débiteur. 
 
 Les modalités et conditions d'application de ces prélèvements sont fixées par décret. 
 
-II. – 1. La retenue à la source prévue au 1 de l'article 119 bis appliquée sur les produits mentionnés à l'article 1678 bis
+II.-1. La retenue à la source prévue au 1 de l'article 119 bis appliquée sur les produits mentionnés à l'article 1678 bis
 ainsi que les prélèvements ou retenues à la source prévus au 2 du même article 119 bis, au II de l'article 125-0 A et aux
 articles 125 A et 990 A font l'objet d'un acompte égal à 90 % du montant de ces prélèvements ou retenues à la source dus au
 titre du mois de décembre de l'année précédente. 
@@ -55,7 +56,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 22
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 15 (V)
 
 _Cite_:
 
