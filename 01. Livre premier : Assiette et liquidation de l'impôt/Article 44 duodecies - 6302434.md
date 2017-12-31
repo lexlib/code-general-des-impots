@@ -1,6 +1,6 @@
 # Article 44 duodecies
 
-I. – Les contribuables qui créent des activités entre le 1er janvier 2007 et le 31 décembre 2017 dans les bassins d'emploi à
+I. – Les contribuables qui créent des activités entre le 1er janvier 2007 et le 31 décembre 2020 dans les bassins d'emploi à
 redynamiser définis au 3 bis de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant
 des activités implantées dans le bassin d'emploi et réalisés jusqu'au terme du quatre-vingt-troisième mois suivant le début
@@ -127,4 +127,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 70
