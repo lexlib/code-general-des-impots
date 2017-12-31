@@ -4,9 +4,9 @@ Il est institué une taxe portant sur les quantités de farines, semoules et gru
 vue de la consommation humaine, ainsi que sur les mêmes produits introduits en provenance d'autres Etats membres de la
 Communauté européenne ou importés de pays tiers. 
 
-Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats membres de la Communauté européenne ou vers les
-départements de Corse, exportés ou destinés à être exportés vers des pays tiers ou vers les départements d'outre-mer, par
-l'acquéreur, ainsi que les farines utilisées pour la fabrication d'amidon, sont exonérés de la taxe. 
+Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats membres de la Communauté européenne ou vers la
+Corse, exportés ou destinés à être exportés vers des pays tiers ou vers les départements d'outre-mer, par l'acquéreur, ainsi
+que les farines utilisées pour la fabrication d'amidon, sont exonérés de la taxe. 
 
 La taxe est perçue en France continentale auprès des meuniers, des opérateurs qui procèdent à l'introduction des produits sur
 ce territoire et des importateurs de produits en provenance de pays tiers. 
@@ -37,4 +37,9 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 1
   - Loi n°2016-1827 du 23 décembre 2016 - art. 34 (V)
+
+_Abrogé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (V)
