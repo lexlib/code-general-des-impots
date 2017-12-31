@@ -24,12 +24,17 @@ Les taux mentionnés aux b, c et d sont exprimés en pourcentages et arrondis au
 
 Pour l'application du présent article, le chiffre d'affaires s'entend de celui mentionné au 1 du II de l'article 1586 ter.
 
-I bis. – Lorsqu'une société est membre d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis, le chiffre
-d'affaires à retenir pour l'application du I s'entend de la somme des chiffres d'affaires de chacune des sociétés membres du
-groupe.
+I bis.-Lorsqu'une entreprise, quels que soient son régime d'imposition des bénéfices, le lieu d'établissement, la composition
+du capital et le régime d'imposition des bénéfices des entreprises qui la détiennent, remplit les conditions de détention
+fixées au I de l'article 223 A pour être membre d'un groupe, le chiffre d'affaires à retenir pour l'application du I du
+présent article s'entend de la somme de son chiffre d'affaires et des chiffres d'affaires des entreprises qui remplissent les
+mêmes conditions pour être membres du même groupe.
 
-Le présent I bis n'est pas applicable aux sociétés membres d'un groupe dont la société mère au sens de l'article 223 A ou de
-l'article 223 A bis bénéficie des dispositions du b du I de l'article 219.
+Le premier alinéa du présent I bis s'applique, y compris lorsque les entreprises mentionnées à ce même premier alinéa ne sont
+pas membres d'un groupe mentionné aux articles 223 A ou 223 A bis.
+
+Ledit premier alinéa n'est pas applicable lorsque la somme des chiffres d'affaires mentionnée au même premier alinéa est
+inférieure à 7 630 000 €.
 
 II. – Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000
 000 €.
@@ -86,7 +91,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-891 du 8 août 2014 - art. 20
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 11 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 15 (V)
 
 _Cite_:
 

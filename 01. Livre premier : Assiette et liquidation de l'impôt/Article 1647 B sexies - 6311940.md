@@ -1,6 +1,6 @@
 # Article 1647 B sexies
 
-I. – Sur demande du redevable effectuée dans le délai légal de réclamation prévu pour la cotisation foncière des entreprises,
+I. ― Sur demande du redevable effectuée dans le délai légal de réclamation prévu pour la cotisation foncière des entreprises,
 la contribution économique territoriale de chaque entreprise est plafonnée en fonction de sa valeur ajoutée. 
 
 Cette valeur ajoutée est : 
@@ -17,12 +17,12 @@ mentionnée au b est corrigé pour correspondre à une année pleine.
 
 Le taux de plafonnement est fixé à 3 % de la valeur ajoutée. 
 
-II. – Le plafonnement prévu au I s'applique sur la cotisation foncière des entreprises et la cotisation sur la valeur ajoutée
+II. ― Le plafonnement prévu au I s'applique sur la cotisation foncière des entreprises et la cotisation sur la valeur ajoutée
 des entreprises diminuées, le cas échéant, de l'ensemble des réductions et dégrèvements dont ces cotisations peuvent faire
 l'objet, à l'exception du crédit d'impôt prévu à l'article 1647 C septies et des dégrèvements prévus aux articles 1647 C
 quinquies B et 1647 C quinquies C. 
 
-Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 B ni aux prélèvements opérés par l'Etat sur ces taxes en
+Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 A ni aux prélèvements opérés par l'Etat sur ces taxes en
 application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D. 
 
 La cotisation foncière des entreprises s'entend de la somme des cotisations de chaque établissement établies au titre de
@@ -30,16 +30,16 @@ l'année d'imposition. La cotisation de chaque établissement est majorée du mo
 additionnelles à la cotisation foncière des entreprises prévues aux articles 1607 bis, 
 1607 ter et 1609 B à 1609 D, calculées dans les mêmes conditions. 
 
-III. – Le dégrèvement s'impute sur la cotisation foncière des entreprises. 
+III. ― Le dégrèvement s'impute sur la cotisation foncière des entreprises. 
 
-IV. – Le dégrèvement ne peut avoir pour effet de ramener la contribution économique territoriale à un montant inférieur à
+IV. ― Le dégrèvement ne peut avoir pour effet de ramener la contribution économique territoriale à un montant inférieur à
 celui résultant de l'application de l'article 1647 D. 
 
-V. – Le reversement des sommes indûment restituées est demandé selon les mêmes règles de procédure et sous les mêmes
+V. ― Le reversement des sommes indûment restituées est demandé selon les mêmes règles de procédure et sous les mêmes
 sanctions qu'en matière de cotisation foncière des entreprises. Les réclamations sont présentées, instruites et jugées selon
 les règles de procédure applicables en matière de cotisation foncière des entreprises. 
 
-VI. – Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du
+VI. ― Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du
 dépôt de la demande.
 
 **Nota:**
@@ -74,7 +74,7 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - DÉCISION n°2014-413 QPC du 19 septembre 2014 - art. 1, v. init.
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 103 (V)
 
 _Cite_:
 
@@ -85,7 +85,6 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1607 bis
   - Code général des impôts, CGI. - art. 1607 ter
   - Code général des impôts, CGI. - art. 1609 B
-  - Code général des impôts, CGI. - art. 1647 C quinquies (Ab)
   - Code général des impôts, CGI. - art. 1647 C septies
   - Code général des impôts, CGI. - art. 1647 D
   - Code général des impôts, CGI. - art. 50-0

@@ -1,6 +1,6 @@
 # Article 208 C bis
 
-I. – Les dispositions des articles 210 A, 210 B et 210 B bis s'appliquent aux opérations auxquelles participent les sociétés
+I. – Les dispositions des articles 210 Aet 210 B s'appliquent aux opérations auxquelles participent les sociétés
 d'investissements immobiliers cotées, ou leurs filiales, et les sociétés mentionnées au III bis de l'article 208 C, qui ont
 opté pour le régime prévu au II du même article.
 
@@ -21,18 +21,19 @@ aux obligations de distribution mentionnées au deuxième alinéa du II de cet a
 
 **Nota:**
 
-Conformément au II de l'article 73 de loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, ces
-dispositions s'appliquent aux exercices clos à compter du 31 décembre 2014.
+Conformément à l'article 23 III A de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les
+présentes dispositions s'appliquent aux opérations de fusion, de scission ou d'apport partiel d'actif réalisées à compter du
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 73
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 23 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 210 A (V)
+  - Code général des impôts, CGI. - art. 210 A
 
 _Cité par_:
 
