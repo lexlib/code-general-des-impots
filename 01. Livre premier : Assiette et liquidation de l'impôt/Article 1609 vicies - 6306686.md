@@ -1,15 +1,15 @@
 # Article 1609 vicies
 
-I. – Il est institué, en France continentale et en Corse, une taxe spéciale sur les huiles végétales, fluides ou concrètes,
+I. – Il est institué en France métropolitaine, une taxe spéciale sur les huiles végétales, fluides ou concrètes,
 effectivement destinées, en l'état ou après incorporation dans tous produits alimentaires, à l'alimentation humaine.
 
 Cette taxe est due :
 
-a) Pour les huiles fabriquées en France continentale et en Corse, sur toutes les ventes ou livraisons à soi-même de ces
-huiles par les producteurs ;
+a) Pour les huiles fabriquées en France métropolitaine, sur toutes les ventes ou livraisons à soi-même de ces huiles par les
+producteurs ;
 
-b) Pour les huiles importées en France continentale et en Corse (y compris les huiles d'animaux marins qui, pour
-l'assujettissement à la taxe spéciale, sont assimilées aux huiles végétales alimentaires), lors de l'importation ;
+b) Pour les huiles importées en France métropolitaine (y compris les huiles d'animaux marins qui, pour l'assujettissement à
+la taxe spéciale, sont assimilées aux huiles végétales alimentaires), lors de l'importation ;
 
 c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de l'acquisition.
 
@@ -26,9 +26,9 @@ par arrêté du ministre du budget sur des bases équivalentes à celles qui son
 nationale.
 
 III. – Les huiles, y compris celles qui sont contenues dans les produits alimentaires visés ci-dessus, exportées de France
-continentale et de Corse, qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou d'une livraison
-dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A, ne sont pas
-soumises à la taxe spéciale.
+métropolitaine, qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou d'une livraison dans un lieu
+situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A, ne sont pas soumises à la taxe
+spéciale.
 
 IV. – La taxe spéciale est établie et recouvrée selon les modalités, ainsi que sous les sûretés, garanties et sanctions
 applicables aux taxes sur le chiffre d'affaires.
@@ -63,12 +63,17 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 1
   - Loi n°2016-1827 du 23 décembre 2016 - art. 34 (V)
 
 _Anciens textes_:
 
   - CGI 1618 quinquies
   - Code général des impôts, CGI. - art. 1618 quinquies (T)
+
+_Abrogé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (V)
 
 _Cite_:
 
