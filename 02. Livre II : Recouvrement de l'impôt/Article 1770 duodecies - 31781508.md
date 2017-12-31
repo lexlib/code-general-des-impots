@@ -1,10 +1,9 @@
 # Article 1770 duodecies
 
 Le fait, pour une personne assujettie à la taxe sur la valeur ajoutée, de ne pas justifier, par la production de
-l'attestation ou du certificat prévus au 3° bis du I de l'article 286, que le ou les logiciels de comptabilité ou de gestion
-ou systèmes de caisse qu'elle détient satisfont aux conditions d'inaltérabilité, de sécurisation, de conservation et
-d'archivage des données prévues par ces mêmes dispositions est sanctionné par une amende de 7 500 € par logiciel de
-comptabilité ou de gestion ou système de caisse concerné. 
+l'attestation ou du certificat prévus au 3° bis du I de l'article 286, que le ou les logiciels ou systèmes de caisse qu'elle
+détient satisfont aux conditions d'inaltérabilité, de sécurisation, de conservation et d'archivage des données prévues par
+ces mêmes dispositions est sanctionné par une amende de 7 500 € par logiciel ou système de caisse concerné. 
 
 Lorsqu'il lui est fait application de l'amende mentionnée au premier alinéa du présent article, l'assujetti dispose d'un
 délai de soixante jours pour se mettre en conformité avec l'obligation prévue au 3° bis du I de l'article 286. Ce délai court
@@ -17,15 +16,16 @@ alinéa du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 88 (V)
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. L80 O (VD)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 105 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L57 (V)
-  - Livre des procédures fiscales - art. L76 (V)
+  - Code général des impôts, CGI. - art. 286 (V)
+  - Livre des procédures fiscales - art. L57
+  - Livre des procédures fiscales - art. L76
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. L80 O (V)
