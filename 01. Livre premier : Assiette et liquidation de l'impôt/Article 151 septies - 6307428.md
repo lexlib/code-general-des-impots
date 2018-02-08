@@ -79,10 +79,6 @@ fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'ar
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 3 (VD)
-
 _Cité par_:
 
   - Loi n°2020-473 du 25 avril 2020 - art. 1 (V)
