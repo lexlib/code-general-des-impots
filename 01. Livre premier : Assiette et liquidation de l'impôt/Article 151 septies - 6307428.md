@@ -79,10 +79,6 @@ fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'ar
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 3 (VD)
-
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
