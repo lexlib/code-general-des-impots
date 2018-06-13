@@ -1,6 +1,6 @@
 # Article 1609 quatervicies B
 
-Les chefs d'entreprise exerçant une activité artisanale bénéficiant du régime prévu à l'article L. 133-6-8 du code de la
+Les chefs d'entreprise exerçant une activité artisanale bénéficiant du régime prévu à l'article      L. 613-7 du code de la
 sécurité sociale consacrent chaque année au financement de leurs actions de formation, au sens des articles L. 6313-1 à L.
 6313-11 et L. 6353-1 du code du travail, une contribution fixée à 0,3 % du montant annuel de leur chiffre d'affaires. 
 
@@ -17,19 +17,19 @@ III du même article.
 
 Cette contribution est recouvrée par les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité
 sociale selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations et contributions de
-sécurité sociale visées à l'article L. 133-6-8 du même code. Un arrêté conjoint du ministre chargé de la sécurité sociale et
-du ministre chargé de la formation professionnelle prévoit les modalités de la rémunération du service rendu par les
+sécurité sociale visées à l'article      L. 613-7 du même code. Un arrêté conjoint du ministre chargé de la sécurité sociale
+et du ministre chargé de la formation professionnelle prévoit les modalités de la rémunération du service rendu par les
 organismes chargés du recouvrement de la contribution.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2003-1213 du 18 décembre 2003 - art. 8 (VT)
-  - Code du travail - art. L6313-1 (V)
-  - Code du travail - art. L6353-1 (V)
-  - Code de la sécurité sociale. - art. L133-6-8 (VT)
-  - Code de la sécurité sociale. - art. L213-1
+  - Ordonnance n°2003-1213 du 18 décembre 2003 - art. 8
+  - Code du travail - art. L6313-1
+  - Code du travail - art. L6353-1
+  - Code de la sécurité sociale. - art. L133-6-8
+  - Code de la sécurité sociale. - art. L213-1 (VT)
   - Code de la sécurité sociale. - art. L752-4
 
 _Cité par_:
@@ -46,10 +46,6 @@ _Cité par_:
   - Code du travail - art. R6331-60 (V)
   - Code du travail - art. R6331-63-6 (V)
 
-_Abrogé par_:
-
-  - Loi n°2016-1088 du 8 août 2016 - art. 41 (V)
-
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 103 (V)
+  - Ordonnance n°2018-470 du 12 juin 2018 - art. 1
