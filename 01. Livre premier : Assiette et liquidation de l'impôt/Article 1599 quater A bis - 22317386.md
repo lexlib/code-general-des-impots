@@ -19,9 +19,7 @@ utilisation selon le barème suivant :
 de matériels roulants</th>
       <th>
 
-TARIFS
-
-(en euros)</th>
+TARIFS (en euros)</th>
     </tr>
     <tr>
       <td align="left">
@@ -35,7 +33,7 @@ Métro</td>
 Motrice et remorque</td>
       <td align="center">
 
-12 982</td>
+13 112</td>
     </tr>
     <tr>
       <td align="left">
@@ -49,7 +47,7 @@ Autre matériel</td>
 Automotrice et motrice</td>
       <td align="center">
 
-24 352</td>
+24 596</td>
     </tr>
     <tr>
       <td align="left">
@@ -57,7 +55,7 @@ Automotrice et motrice</td>
 Remorque</td>
       <td align="center">
 
-5 082</td>
+5 133</td>
     </tr>
   </tbody>
 </table>
@@ -108,5 +106,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
-  - Décret n°2017-698 du 2 mai 2017 - art. 1
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
