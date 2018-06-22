@@ -6,7 +6,7 @@ classés au titre des monuments historiques dont ils sont propriétaires.
 
 II. – La réduction d'impôt s'applique lorsque les conditions suivantes sont remplies :
 
-1° Les travaux sont autorisés et exécutés conformément aux prescriptions de l'article L. 622-7 du code du patrimoine ;
+1° Les travaux sont autorisés et exécutés conformément aux prescriptions de l'article L. 622-12 du code du patrimoine ;
 
 2° L'objet est, dès l'achèvement des travaux et pendant au moins les cinq années suivant celui-ci, exposé au public.
 
@@ -19,6 +19,10 @@ d'une reprise au titre de l'année de réalisation de l'un de ces événements.
 
 V. – Un décret fixe les modalités d'application du présent article.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 6 de l'ordonnance n° 2017-651 du 27 avril 2017.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -28,7 +32,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-547 du 23 avril 2012 - art. 1
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
 
 _Cite_:
 
