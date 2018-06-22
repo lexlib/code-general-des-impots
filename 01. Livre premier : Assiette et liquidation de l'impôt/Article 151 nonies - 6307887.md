@@ -38,13 +38,11 @@ montant des plus-values réalisées lors de la transmission et dont l'imposition
 
 4. L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au 2.
 
-III. – En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au paragraphe I ou de sa transformation en
-société passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou
-d'annulation des parts ou actions de l'associé. Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou
-actions de l'associé à une personne physique si celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de
-la cession, du rachat ou de l'annulation de ces parts ou actions.
-
-Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janvier 1988.
+III. – En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au I ou de sa transformation en société
+passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou d'annulation
+des parts ou actions de l'associé. Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou actions de
+l'associé à une personne physique si celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de la cession,
+du rachat ou de l'annulation de ces parts ou actions.
 
 En cas de transmission à titre gratuit réalisée dans les conditions prévues au premier alinéa, la plus-value en report est
 définitivement exonérée lorsque, de manière continue pendant les cinq années suivant la transmission, les conditions
@@ -59,9 +57,9 @@ libérale ou agricole.
 L'exonération prévue au deuxième alinéa s'applique à la plus-value en report sur les droits ou actions détenus par le ou les
 bénéficiaires de la transmission au terme de la période mentionnée au même alinéa.
 
-IV. – Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activité professionnelle, l'imposition de la
-plus-value constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou
-d'annulation de ces parts.
+IV. – Lorsque le contribuable mentionné au I cesse d'exercer son activité professionnelle, l'imposition de la plus-value
+constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou d'annulation de
+ces parts.
 
 Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou actions de l'associé à une personne physique si
 celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de la cession, du rachat ou de l'annulation de ces
@@ -134,7 +132,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
 
 _Cite_:
 
