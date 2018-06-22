@@ -13,104 +13,100 @@ utilisation selon le barème suivant :
 <table border="1">
   <tbody>
     <tr>
+      <th>CATÉGORIE DE MATÉRIELS ROULANTS</th>
       <th>
 
-CATÉGORIE DE MATÉRIELS ROULANTS</th>
-      <th>
-
-TARIFS
-
-(en euros)</th>
+TARIFS (en euros)</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Engins à moteur thermique</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Automoteur</td>
       <td align="center">
 
-31 764</td>
+32 082</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Locomotive diesel</td>
       <td align="center">
 
-31 764</td>
+32 082</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Engins à moteur électrique</td>
-      <td align="center">
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Automotrice</td>
       <td align="center">
 
-24 352</td>
+24 596</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Locomotive électrique</td>
       <td align="center">
 
-21 177</td>
+21 389</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Motrice de matériel à grande vitesse</td>
       <td align="center">
 
-37 059</td>
+37 430</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Automotrice tram-train</td>
       <td align="center">
 
-12 177</td>
+12 299</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Engins remorqués</td>
-      <td align="center">
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Remorque pour le transport de passagers</td>
       <td align="center">
 
-5 082</td>
+5 133</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Remorque pour le transport de passagers à grande vitesse</td>
       <td align="center">
 
-10 588</td>
+10 694</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Remorque tram-train</td>
       <td align="center">
 
-2 541</td>
+2 566</td>
     </tr>
   </tbody>
 </table>
@@ -161,10 +157,6 @@ Modifications effectuées en conséquence de l'article 37-VI B [4°] de la loi n
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-
 _Cité par_:
 
   - Arrêté du 28 juin 2010 - art. 1 (V)
@@ -179,7 +171,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-698 du 2 mai 2017 - art. 1
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
 
 _Cite_:
 
