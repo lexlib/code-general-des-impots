@@ -110,8 +110,7 @@ financier.
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa durée normale d'utilisation si elle est
 inférieure, l'investissement ayant ouvert droit à réduction d'impôt est cédé ou cesse d'être affecté à l'activité pour
 laquelle il a été acquis ou créé, ou si l'acquéreur cesse son activité, la réduction d'impôt pratiquée fait l'objet d'une
-reprise au titre de l'année au cours de laquelle cet événement est intervenu. Le revenu global de cette même année est alors
-majoré du montant des déficits indûment imputés en application du I bis.
+reprise au titre de l'année au cours de laquelle cet événement est intervenu.
 
 Toutefois, la reprise de la réduction d'impôt n'est pas effectuée lorsque les biens ayant ouvert droit à réduction d'impôt
 sont transmis dans le cadre des opérations mentionnées aux articles 41 et 151 octies, si le bénéficiaire de la transmission
@@ -124,10 +123,9 @@ réduction d'impôt à laquelle les biens transmis ont ouvert droit.
 Lorsque l'investissement est réalisé par une société ou un groupement visés aux dix-neuvième et vingt-septième alinéas, les
 associés ou membres doivent, en outre, conserver les parts ou actions de cette société ou de ce groupement pendant un délai
 de cinq ans à compter de la réalisation de l'investissement. A défaut, la réduction d'impôt qu'ils ont pratiquée fait l'objet
-d'une reprise au titre de l'année de la cession. Le revenu global de cette même année est alors majoré des déficits indûment
-imputés en application du I bis. Les montants de cette reprise et de cette majoration sont diminués, le cas échéant, dans la
-proportion de leurs droits dans la société ou le groupement, des reprises et majorations déjà effectuées en application des
-dispositions du vingt-troisième alinéa.
+d'une reprise au titre de l'année de la cession. Les montants de cette reprise et de cette majoration sont diminués, le cas
+échéant, dans la proportion de leurs droits dans la société ou le groupement, des reprises et majorations déjà effectuées en
+application des dispositions du vingt-troisième alinéa.
 
 La réduction d'impôt prévue au présent I s'applique aux investissements productifs mis à la disposition d'une entreprise dans
 le cadre d'un contrat de location si les conditions mentionnées aux quinzième à dix-huitième alinéas du I de l'article 217
@@ -136,14 +134,13 @@ du loyer et du prix de cession du bien à l'exploitant. Ce taux est ramené à 5
 programme est inférieur à 300 000 € par exploitant. Si, dans le délai de cinq ans de la mise à disposition du bien loué ou
 pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au présent alinéa cesse d'être
 respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours de laquelle cet événement
-se réalise. Le revenu global de cette même année est alors majoré des déficits indûment imputés en application du I bis.
-Lorsque l'entreprise locataire cesse son activité dans le délai mentionné à la troisième phrase, la reprise de la réduction
-d'impôt est limitée aux trois quarts du montant de cette réduction d'impôt. Il n'est pas procédé à la reprise mentionnée à la
-troisième phrase lorsque, en cas de défaillance de l'entreprise locataire, les biens ayant ouvert droit à la réduction
-d'impôt sont donnés en location à une nouvelle entreprise qui s'engage à les maintenir dans l'activité pour laquelle ils ont
-été acquis ou créés pendant la fraction du délai de cinq ans restant à courir dans les conditions prévues au présent alinéa.
-L'octroi de la réduction d'impôt prévue au premier alinéa est subordonné au respect par les entreprises réalisant
-l'investissement et, le cas échéant, les entreprises exploitantes de leurs obligations fiscales et sociales et de
+se réalise. Lorsque l'entreprise locataire cesse son activité dans le délai mentionné à la troisième phrase, la reprise de la
+réduction d'impôt est limitée aux trois quarts du montant de cette réduction d'impôt. Il n'est pas procédé à la reprise
+mentionnée à la troisième phrase lorsque, en cas de défaillance de l'entreprise locataire, les biens ayant ouvert droit à la
+réduction d'impôt sont donnés en location à une nouvelle entreprise qui s'engage à les maintenir dans l'activité pour
+laquelle ils ont été acquis ou créés pendant la fraction du délai de cinq ans restant à courir dans les conditions prévues au
+présent alinéa. L'octroi de la réduction d'impôt prévue au premier alinéa est subordonné au respect par les entreprises
+réalisant l'investissement et, le cas échéant, les entreprises exploitantes de leurs obligations fiscales et sociales et de
 l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23 du code de
 commerce à la date de réalisation de l'investissement. Sont considérés comme à jour de leurs obligations fiscales et sociales
 les employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations restant dues et, d'autre part,
@@ -193,22 +190,7 @@ neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à
 et 53,55 % mentionnés à la cinquième phrase du même alinéa sont, respectivement, portés à 52,95 % et 61,77 %. Dans les mêmes
 conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 61,77 %.
 
-I bis. – 1. En cas de location, dans les conditions mentionnées au vingt-sixième alinéa du I, d'un hôtel, d'une résidence de
-tourisme ou d'un village de vacances classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant droit
-au bénéfice des dispositions du dix-huitième alinéa du I, les dispositions du II de l'article 39 C et, pour la partie de
-déficit provenant des travaux bénéficiant des dispositions du dix-huitième alinéa du I, les dispositions du 1° bis du I de
-l'article 156 ne sont pas applicables.
-
-2. Les dispositions du 1 sont applicables sur agrément préalable du ministre chargé du budget dans les conditions prévues aux
-1 et 2 du III de l'article 217 undecies et si 66 % de l'avantage en impôt procuré par l'imputation des déficits provenant de
-la location d'un hôtel, d'une résidence de tourisme ou d'un village de vacances classés et par la réduction d'impôt visée au
-dix-huitième alinéa du I sont rétrocédés à l'entreprise locataire sous forme de diminution de loyer et du prix de cession du
-bien à l'exploitant.
-
-3. Les dispositions du 1 sont applicables, pour une durée de cinq ans à compter de la date de clôture de l'exercice de
-livraison ou d'achèvement, aux opérations de rénovation ou de réhabilitation d'un hôtel, d'une résidence de tourisme ou d'un
-village de vacances classés réalisées entre la date d'entrée en vigueur de la loi n° 2003-660 du 21 juillet 2003 de programme
-pour l'outre-mer et le 31 décembre 2008.
+I bis. – (Périmé)
 
 I ter. – Le I s'applique aux équipements et opérations de pose de câbles sous-marins de communication desservant pour la
 première fois la Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, la Polynésie française, Saint-Barthélemy, Saint-
@@ -267,8 +249,8 @@ Wallis et Futuna ainsi que la Nouvelle-Calédonie dans le cadre de leur compéte
 d'investissements sont sans incidence sur la détermination du montant des dépenses éligibles retenues pour l'application des
 I et I ter.
 
-IV. – Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I bis, I ter et II et
-notamment les obligations déclaratives.
+IV. – Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I ter et II et notamment
+les obligations déclaratives.
 
 V. – Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
 d'outre-mer et à Saint-Martin, au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014 déclarant certaines
@@ -332,7 +314,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 terdecies-0 A (V)
   - Code général des impôts, CGI. - art. 199 terdecies-0 C (V)
   - Code général des impôts, CGI. - art. 199 undecies A (V)
-  - Code général des impôts, CGI. - art. 199 undecies C (V)
+  - Code général des impôts, CGI. - art. 199 undecies C (M)
   - Code général des impôts, CGI. - art. 199 undecies D (VD)
   - Code général des impôts, CGI. - art. 199 undecies E (V)
   - Code général des impôts, CGI. - art. 199 undecies F (M)
@@ -343,6 +325,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 242 sexies (VD)
   - Code général des impôts, CGI. - art. 244 quater W (V)
   - Code général des impôts, CGI. - art. 44 quaterdecies (V)
+  - Code général des impôts, CGI. - art. 885-0 V bis (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 140 quater (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 K (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 M (V)
@@ -353,6 +336,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 S (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 T (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 U (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 95 V (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG quindecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies Y (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZL (V)
@@ -369,7 +353,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 156
-  - Code général des impôts, CGI. - art. 158
+  - Code général des impôts, CGI. - art. 158 (V)
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 244 quater Q
   - Code général des impôts, CGI. - art. 34
@@ -377,11 +361,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 39 C
   - Code général des impôts, CGI. - art. 4 B
   - Code général des impôts, CGI. - art. 41
-  - Code général des impôts, CGI. - art. 885-0 V bis (MMN)
   - Code des postes et des communications électroniques - art. L36-8
   - Code monétaire et financier - art. L313-23
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 72
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
