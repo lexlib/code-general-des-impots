@@ -1,21 +1,22 @@
 # Article 1378 nonies
 
-Si la commission nationale des comptes de campagne et des financements politiques constate qu'un parti ou groupement
-politique manque aux obligations prévues à l'article 11-7 de la loi n° 88-227 du 11 mars 1988 relative à la transparence
-financière de la vie politique, les dons et cotisations à son profit ne peuvent, à compter de l'année suivante, ouvrir droit
-à la réduction d'impôt prévue au 3 de l'article 200 du présent code.
+Si la Commission nationale des comptes de campagne et des financements politiques instituée à l'article L. 52-14 du code
+électoral constate qu'un parti ou groupement politique manque aux obligations prévues à l'article 11-7 de la loi n° 88-227 du
+11 mars 1988 relative à la transparence financière de la vie politique, elle peut le priver, pour une durée maximale de trois
+ans, du bénéfice de la réduction d'impôt prévue au 3 de l'article 200 du présent code pour les dons et cotisations consentis
+à son profit, à compter de l'année suivante.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 11-7, 2e alinéa de la loi n° 88-227 du 11 mars 1988.
+Modifications effectuées en conséquence de l'article 9 de la loi n° 2017-286 du 6 mars 2017.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°88-227 du 11 mars 1988 - art. 11-7 (V)
-  - Code général des impôts, CGI. - art. 200 (VT)
+  - Loi n°88-227 du 11 mars 1988 - art. 11-7
+  - Code électoral - art. L52-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 1
+  - Décret n°2018-500 du 20 juin 2018 - art. 1

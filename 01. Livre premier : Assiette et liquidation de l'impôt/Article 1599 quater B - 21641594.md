@@ -20,22 +20,18 @@ par ligne en service est établi selon le barème suivant :
 <table border="1">
   <tbody>
     <tr>
+      <th>NATURE DE L'ÉQUIPEMENT</th>
       <th>
 
-NATURE DE L'ÉQUIPEMENT</th>
-      <th>
-
-TARIF
-
-(en euros) à compter de 2017</th>
+TARIF (en euros) à compter de 2018</th>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
 Ligne en service d'un répartiteur principal</td>
       <td align="center">
 
-12,73</td>
+12,87</td>
     </tr>
   </tbody>
 </table>
@@ -61,16 +57,6 @@ Modifications effectuées en conséquence du III de l'article 112 de la loi n° 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-
-_Modifié par_:
-
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 112 (VD)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 71 (VD)
-  - Décret n°2017-698 du 2 mai 2017 - art. 1
-
 _Cité par_:
 
   - Décret n°2011-369 du 4 avril 2011 (V)
@@ -80,6 +66,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1635-0 quinquies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 K (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 Q (V)
+
+_Modifié par_:
+
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
 
 _Cite_:
 
