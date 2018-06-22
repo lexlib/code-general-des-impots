@@ -8,7 +8,7 @@ Ce prélèvement est dû par les personnes devant être soumises, en tant qu'op�
 mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée.
 
 Le produit de ce prélèvement est affecté à concurrence de 15 % et dans la limite indexée, chaque année, sur la prévision de
-l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 10 929 593 € aux
+l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 11 038 889 € aux
 communes dans le ressort territorial desquelles sont ouverts au public un ou plusieurs établissements visés au premier alinéa
 de l'article L. 321-1 du code de la sécurité intérieure, au prorata du produit brut des jeux de ces établissements.
 
@@ -29,8 +29,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
-  - Décret n°2017-698 du 2 mai 2017 - art. 1
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
 
 _Cité par_:
 
