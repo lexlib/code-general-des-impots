@@ -82,7 +82,7 @@ A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies ou 44 quindecies et du r�
 peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable et emporte
 renonciation définitive aux autres régimes.
 
-V. - Dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect des article 13 et 14
+V. - Dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect des articles 13 et 14
 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le
 marché intérieur en application des articles 107 et 108 du traité.
 
@@ -96,10 +96,6 @@ prévue à l'article 44 sexdecies du code général des impôts s'applique à co
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
-
 _Cité par_:
 
   - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (VD)
@@ -107,3 +103,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1463 A (V)
   - Code général des impôts, CGI. - art. 44 octies A (V)
   - Code général des impôts, CGI. - art. 44 quindecies (V)
+
+_Modifié par_:
+
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
