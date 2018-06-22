@@ -176,7 +176,7 @@ mentionnées au b du 1 ter ;
 
 6° Abrogé.
 
-7° Lorsque les travaux sont soumis à des critères de qualification, la date de la visite préalable prévue au avant-dernier
+7° Lorsque les travaux sont soumis à des critères de qualification, la date de la visite préalable prévue à l'avant-dernier
 alinéa du 2, au cours de laquelle l'entreprise qui a installé ou posé les équipements, matériaux ou appareils a validé leur
 adéquation au logement ;
 
@@ -279,7 +279,7 @@ _Cité par_:
   - Code de l'énergie - art. R124-13 (VD)
   - Code de l'énergie - art. R124-4 (VD)
   - Code général des impôts, CGI. - art. 1383-0 B (V)
-  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1727 (M)
   - Code général des impôts, CGI. - art. 193 (VD)
   - Code général des impôts, CGI. - art. 199 decies G bis (V)
   - Code général des impôts, CGI. - art. 200 quater A (V)
@@ -292,4 +292,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 79 (V)
+  - Décret n°2018-500 du 20 juin 2018 - art. 1

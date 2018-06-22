@@ -90,7 +90,7 @@ bénéfice de la réduction d'impôt est conditionné à l'obtention d'un agrém
 budget dans les conditions prévues au III de l'article 217 undecies.
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour
-les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 449 € hors taxes par mètre carré de surface
+les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 498 € hors taxes par mètre carré de surface
 habitable. Cette limite est relevée chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur
 quatre trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique
 et des études économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui
@@ -193,6 +193,8 @@ revenus catégoriels.
 Conformément à l'article 71 II de la loi n° 2017-1837 du 30 décembre 2017, les présentes dispositions s'appliquent aux
 travaux achevés à compter du 1er janvier 2018.
 
+Modification effectuée en conséquence de l'article 58-I-1° de la loi n° 2004-1485 du 30 décembre 2004.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -228,10 +230,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 novovicies (V)
   - Code général des impôts, CGI. - art. 199 septvicies (V)
   - Code général des impôts, CGI. - art. 199 sexvicies (V)
-  - Code général des impôts, CGI. - art. 199 terdecies-0 A (V)
+  - Code général des impôts, CGI. - art. 199 terdecies-0 A (M)
   - Code général des impôts, CGI. - art. 199 terdecies-0 C (V)
   - Code général des impôts, CGI. - art. 199 tervicies (V)
-  - Code général des impôts, CGI. - art. 199 undecies B (M)
+  - Code général des impôts, CGI. - art. 199 undecies B (V)
   - Code général des impôts, CGI. - art. 199 undecies C (V)
   - Code général des impôts, CGI. - art. 199 undecies D (V)
   - Code général des impôts, CGI. - art. 199 undecies E (V)
@@ -266,4 +268,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 71 (V)
+  - Décret n°2018-500 du 20 juin 2018 - art. 1
