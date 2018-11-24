@@ -63,7 +63,7 @@ R. 331-1 du même code et a conclu avec l'Etat une convention en application des
 le cadre d'une opération d'accession à la propriété à usage de résidence principale, destinés à des personnes physiques dont
 les ressources à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de
 vente ou du contrat ayant pour objet la construction du logement ne dépassent pas les plafonds prévus à la première phrase du
-huitième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés dans des quartiers faisant
+dixième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés dans des quartiers faisant
 l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 précitée ou entièrement situés à une
 distance de moins de 300 mètres de la limite de ces quartiers ;
 
@@ -71,7 +71,7 @@ distance de moins de 300 mètres de la limite de ces quartiers ;
 dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, destinés à des personnes physiques
 dont les ressources à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat
 de vente ou du contrat ayant pour objet la construction du logement ne dépassent pas les plafonds prévus à la première phrase
-du huitième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés, à la date du dépôt de la
+du dixième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés, à la date du dépôt de la
 demande de permis de construire, dans les quartiers prioritaires de la politique de la ville définis à l'article 5 de la loi
 n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine qui font l'objet d'un contrat de ville
 prévu à l'article 6 de la même loi ou entièrement situés, à la même date, à une distance de moins de 300 mètres de la limite
@@ -122,8 +122,8 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L255-3
   - Code de la construction et de l'habitation. - art. L301-1
   - Code de la construction et de l'habitation. - art. L313-3
-  - Code de la construction et de l'habitation. - art. L313-34
-  - Code de la construction et de l'habitation. - art. L351-2 (VT)
+  - Code de la construction et de l'habitation. - art. L313-34 (V)
+  - Code de la construction et de l'habitation. - art. L351-2
   - Code de la construction et de l'habitation. - art. L411-2
   - Code de la construction et de l'habitation. - art. L443-6-2
   - Code de la construction et de l'habitation. - art. R331-1
@@ -165,4 +165,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 12 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 13 (VD)
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 88 (V)
