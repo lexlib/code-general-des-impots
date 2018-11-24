@@ -16,9 +16,9 @@ Il en est de même des biens meubles qui ont servi à les commettre ou étaient 
 Lorsqu'il résulte des constatations de fait opérées dans le cadre d'une des procédures prévues aux articles 53, 75 et 79 du
 code de procédure pénale et que l'administration fiscale est informée dans les conditions prévues aux articles L. 82 C, L.
 101 ou L. 135 L du livre des procédures fiscales qu'une personne a eu la libre disposition d'une somme d'argent, produit
-direct d'une des infractions visées au 2, cette personne est présumée, sauf preuve contraire appréciée dans le cadre des
-procédures prévues aux articles L. 10 et L. 12 de ce même livre, avoir perçu un revenu imposable égal au montant de cette
-somme au titre de l'année au cours de laquelle cette disposition a été constatée.
+direct d'une des infractions visées aux 2 ou 3 du présent article, cette personne est présumée, sauf preuve contraire
+appréciée dans le cadre des procédures prévues aux articles L. 10 et L. 12 de ce même livre, avoir perçu un revenu imposable
+égal au montant de cette somme au titre de l'année au cours de laquelle cette disposition a été constatée.
 
 La présomption peut être combattue par tout moyen et procéder notamment de l'absence de libre disposition des sommes
 mentionnées au quatrième alinéa, du caractère non imposable de ces sommes ou du fait qu'elles ont été imposées au titre d'une
@@ -40,6 +40,10 @@ d. délits à la réglementation sur les alcools et le tabac prévus à l'articl
 
 e. délit de contrefaçon prévu à l'article L. 716-9 du code de la propriété intellectuelle.
 
+3. Les trois derniers alinéas du 1 s'appliquent également aux délits en matière d'habitat indigne prévus à l'article L.
+1337-4 du code de la santé publique, aux IV et VI de l'article L. 123-3 du code de la construction et de l'habitation, aux I
+et II de l'article L. 511-6 du même code et au I de l'article L. 521-4 dudit code.
+
 **Nota:**
 
 
@@ -48,24 +52,24 @@ e. délit de contrefaçon prévu à l'article L. 716-9 du code de la propriété
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 1
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 185
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L716-9
-  - Code général des impôts, CGI. - art. 1810 (V)
-  - Livre des procédures fiscales - art. L10 (V)
-  - Livre des procédures fiscales - art. L101 (V)
-  - Livre des procédures fiscales - art. L12 (V)
-  - Livre des procédures fiscales - art. L135 L (V)
-  - Livre des procédures fiscales - art. L82 C (V)
-  - Code pénal - art. 222-34 (V)
-  - Code pénal - art. 442-1 (V)
-  - Code de procédure pénale - art. 53 (V)
-  - Code de procédure pénale - art. 75 (V)
-  - Code de procédure pénale - art. 79 (V)
-  - Code de la défense. - art. L2331-1 (V)
-  - Code de la défense. - art. L2339-2 (V)
+  - Code général des impôts, CGI. - art. 1810
+  - Livre des procédures fiscales - art. L10
+  - Livre des procédures fiscales - art. L101
+  - Livre des procédures fiscales - art. L12
+  - Livre des procédures fiscales - art. L135 L
+  - Livre des procédures fiscales - art. L82 C
+  - Code pénal - art. 222-34
+  - Code pénal - art. 442-1
+  - Code de procédure pénale - art. 53
+  - Code de procédure pénale - art. 75
+  - Code de procédure pénale - art. 79
+  - Code de la défense. - art. L2331-1
+  - Code de la défense. - art. L2339-2
 
 _Cité par_:
 
