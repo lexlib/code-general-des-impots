@@ -7,8 +7,9 @@ loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économi
 nettes de cessions de titres réalisées par la société au cours des exercices clos à compter du 31 décembre 2001 sont imposées
 dans les conditions prévues aux 1 ou 2 de l'article 200 A lorsque l'actionnaire est une personne physique fiscalement
 domiciliée en France au sens de l'article 4 B, ou soumises à la retenue à la source prévue au 2 de l'article 119 bis
-lorsqu'elles sont payées dans un Etat ou territoire non coopératif au sens de l'article 238-0 A, ou soumises à cette même
-retenue à la source au taux de 12,8 % lorsque l'actionnaire est une personne physique fiscalement domiciliée hors de France.
+lorsqu'elles sont payées dans un Etat ou territoire non coopératif au sens de l'article 238-0 A autre que ceux mentionnés au
+2° du 2 bis du même article 238-0 A, ou soumises à cette même retenue à la source au taux de 12,8 % lorsque l'actionnaire est
+une personne physique fiscalement domiciliée hors de France.
 
 Toutefois, lorsque ces distributions sont afférentes à des actions donnant lieu à des droits différents sur l'actif net ou
 les produits de la société et attribuées en fonction de la qualité de la personne et sont versées aux salariés ou dirigeants
@@ -52,7 +53,7 @@ actions de la société de capital-risque.
 Les dispositions du 2 ne s'appliquent pas aux actions de sociétés de capital-risque donnant lieu à des droits différents sur
 l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne, ni aux distributions
 mentionnées au premier alinéa du 1 du présent II payées dans un Etat ou territoire non coopératif au sens de l'article 238-0
-A.
+A autre que ceux mentionnés au 2° du 2 bis du même article 238-0 A.
 
 III. Les sommes qui ont été exonérées d'impôt sur le revenu sont ajoutées au revenu imposable de l'année au cours de laquelle
 la société ou le contribuable cesse de remplir les conditions fixées ci-dessus.
@@ -61,6 +62,12 @@ Toutefois, l'exonération est maintenue en cas de cession des actions par le con
 soumis à une imposition commune se trouve dans l'un des cas suivants : invalidité correspondant au classement dans la
 deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite
 ou licenciement.
+
+**Nota:**
+
+Conformément aux dispositions du IV de l'article 31 de la loi n° 2018-898 du 23 octobre 2018, ces dispositions telles
+qu'elles résultent du I dudit article s'appliquent à compter du premier jour du deuxième mois qui suit la publication de
+ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -76,7 +83,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 28 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 31 (V)
 
 _Cité par_:
 
