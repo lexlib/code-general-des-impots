@@ -3,10 +3,10 @@
 1. L'inexécution des engagements souscrits en vue d'obtenir un agrément administratif ou le non-respect des conditions
 auxquelles l'octroi de ce dernier a été subordonné entraîne le retrait de l'agrément, la déchéance des avantages fiscaux qui
 y sont attachés et l'exigibilité des impositions non acquittées du fait de celui-ci assorties de l'intérêt de retard prévu à
-l'article 1727, décompté de la date à laquelle ces impôts auraient dû être acquittés. 
+l'article 1727, décompté de la date à laquelle ces impôts auraient dû être acquittés.
 
-Par dérogation aux dispositions ci-dessus, le ministre chargé de l'économie et des finances est autorisé à limiter les effets
-de la déchéance à une fraction des avantages obtenus du fait de l'agrément. 
+Par dérogation aux dispositions ci-dessus, le ministre chargé du budget est autorisé à limiter les effets de la déchéance à
+une fraction des avantages obtenus du fait de l'agrément.
 
 2. Lorsque le bénéficiaire d'avantages fiscaux accordés du fait d'un agrément administratif ou d'une convention passée avec
 l'État se rend coupable, postérieurement à la date de l'agrément ou de la signature de la convention, d'une infraction
@@ -16,9 +16,9 @@ préjudice de l'intérêt de retard prévu à l'article 1727 et décompté de la
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 159
 
 _Cité par_:
 
@@ -30,4 +30,4 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 99 (V)
+  - Code général des impôts, CGI. - art. 99

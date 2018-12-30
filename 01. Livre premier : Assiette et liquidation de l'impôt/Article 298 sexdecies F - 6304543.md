@@ -1,20 +1,19 @@
 # Article 298 sexdecies F
 
-1. Tout assujetti non établi dans la Communauté européenne qui fournit des prestations de services mentionnées à l'article
-259 D à une personne non assujettie qui est établie dans un Etat membre de la Communauté européenne, y a son domicile ou sa
-résidence habituelle, peut se prévaloir du régime spécial exposé au présent article. Ce régime spécial est applicable à
-l'ensemble de ces services fournis dans la Communauté européenne.
+1. Tout assujetti non établi dans l'Union européenne qui fournit des prestations de services mentionnées à l'article 259 D à
+une personne non assujettie qui est établie dans un Etat membre de l'Union européenne, y a son domicile ou sa résidence
+habituelle, peut se prévaloir du régime spécial exposé au présent article. Ce régime spécial est applicable à l'ensemble de
+ces services fournis dans l'Union européenne.
 
-Est considéré comme un assujetti non établi dans la Communauté européenne un assujetti qui n'a pas établi le siège de son
-activité économique et ne dispose pas d'établissement stable sur le territoire de la Communauté européenne et qui n'est pas
-tenu d'être identifié à la taxe sur la valeur ajoutée à d'autres fins.
+Est considéré comme un assujetti non établi dans l'Union européenne un assujetti qui n'a pas établi le siège de son activité
+économique et ne dispose pas d'établissement stable sur le territoire de l'Union européenne.
 
-Est considéré comme Etat membre d'identification, l'Etat membre auquel l'assujetti non établi dans la Communauté européenne
-choisit de notifier le moment où commence son activité en qualité d'assujetti sur le territoire de la Communauté européenne
-conformément aux dispositions du présent article.
+Est considéré comme Etat membre d'identification, l'Etat membre auquel l'assujetti non établi dans l'Union européenne choisit
+de notifier le moment où commence son activité en qualité d'assujetti sur le territoire de l'Union européenne conformément
+aux dispositions du présent article.
 
-On entend par Etat membre de consommation, l'Etat membre de la Communauté européenne dans lequel, conformément à l'article 58
-de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, la
+On entend par Etat membre de consommation, l'Etat membre de l'Union européenne dans lequel, conformément à l'article 58 de la
+directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, la
 prestation des services de télécommunication, de radiodiffusion et de télévision ou des services électroniques est réputée
 avoir lieu.
 
@@ -61,18 +60,14 @@ est suffisamment détaillé pour permettre à l'administration de l'Etat membre 
 déclaration de taxe sur la valeur ajoutée mentionnée au 5 du présent article et au 5 de l'article 298 sexdecies G et dans les
 conditions déterminées par arrêté.
 
-10. Les dispositions prévues à l'article 289 A ne s'appliquent pas aux assujettis non établis dans la Communauté européenne
-et relevant de ce régime spécial.
+10. Les dispositions prévues à l'article 289 A ne s'appliquent pas aux assujettis non établis dans l'Union européenne et
+relevant de ce régime spécial.
 
 **Nota:**
 
 
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 102 (V)
 
 _Cité par_:
 
@@ -89,7 +84,11 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies K (V)
   - Livre des procédures fiscales - art. L102 B (VD)
 
+_Modifié par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 72
+
 _Cite_:
 
   - Code général des impôts, CGI. - art. 259 D (V)
-  - Code général des impôts, CGI. - art. 289 A (V)
+  - Code général des impôts, CGI. - art. 289 A

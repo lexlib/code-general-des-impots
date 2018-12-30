@@ -6,7 +6,8 @@ des dispositions suivantes.
 Ne constituent pas une rémunération imposable :
 
 1° Les indemnités mentionnées aux articles L. 1235-1, L. 1235-2, L. 1235-3, L. 1235-3-1, L. 1235-11 à L. 1235-13, au 7° de
-l'article L. 1237-18-2 et au 5° de l'article L. 1237-19-1 du code du travail ;
+l'article L. 1237-18-2 et au 5° de l'article L. 1237-19-1 du code du travail ainsi que celles versées dans le cadre des
+mesures prévues au 7° du même article L. 1237-19-1 ;
 
 2° Les indemnités de licenciement ou de départ volontaire versées dans le cadre d'un plan de sauvegarde de l'emploi au sens
 des articles L. 1233-32 et L. 1233-61 à L. 1233-64 du code du travail ;
@@ -33,15 +34,18 @@ professionnel ou interprofessionnel ou, à défaut, par la loi ;
 5° (Abrogé)
 
 6° La fraction des indemnités prévues à l'article L. 1237-13 du code du travail versées à l'occasion de la rupture
-conventionnelle du contrat de travail d'un salarié lorsqu'il n'est pas en droit de bénéficier d'une pension de retraite d'un
-régime légalement obligatoire, qui n'excède pas :
+conventionnelle du contrat de travail d'un salarié, ainsi que la fraction des indemnités prévues aux articles 3 et 7-2 de
+l'annexe à l'article 33 du Statut du personnel administratif des chambres de commerce et d'industrie versées à l'occasion de
+la cessation d'un commun accord de la relation de travail d'un agent, lorsqu'ils ne sont pas en droit de bénéficier d'une
+pension de retraite d'un régime légalement obligatoire, qui n'excède pas :
 
 a) Soit deux fois le montant de la rémunération annuelle brute perçue par le salarié au cours de l'année civile précédant la
 rupture de son contrat de travail, ou 50 % du montant de l'indemnité si ce seuil est supérieur, dans la limite de six fois le
 plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date de versement des indemnités ;
 
 b) Soit le montant de l'indemnité de licenciement prévue par la convention collective de branche, par l'accord professionnel
-ou interprofessionnel ou, à défaut, par la loi.
+ou interprofessionnel, par le Statut du personnel administratif des chambres de commerce et d'industrie ou, à défaut, par la
+loi.
 
 2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions,
 aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des
@@ -52,7 +56,8 @@ L. 241-3 du code de la sécurité sociale est imposable.
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 3
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 7
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 8
 
 _Cité par_:
 
