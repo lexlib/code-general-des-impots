@@ -5,7 +5,7 @@ I. – Les contribuables domiciliés en France au sens de l'article 4 B peuvent 
 Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna
 si les conditions suivantes sont réunies :
 
-1° Les logements sont donnés en location nue, dans les six mois de leur achèvement ou de leur acquisition si elle est
+1° Les logements sont donnés en location nue, dans les douze mois de leur achèvement ou de leur acquisition si elle est
 postérieure et pour une durée au moins égale à cinq ans, à un organisme d'habitations à loyer modéré mentionné à l'article L.
 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes coopératives d'intérêt collectif
 pour l'accession à la propriété, à une société d'économie mixte exerçant une activité immobilière outre-mer, à un organisme
@@ -41,10 +41,7 @@ propriétaires sont cédés, dans des conditions, notamment de prix, définies p
 et l'organisme locataire au plus tard lors de la conclusion du bail, à l'organisme locataire ou à des personnes physiques
 choisies par lui et dont les ressources, au titre de l'année précédant celle de la première occupation du logement,
 n'excèdent pas des plafonds fixés par décret en fonction du nombre de personnes destinées à occuper à titre principal le
-logement et de la localisation de celui-ci. Pour l'application du présent 7°, et nonobstant le 1°, la cession des logements
-et, le cas échéant, des parts ou actions des sociétés mentionnées au IV peut intervenir à l'expiration d'un délai de cinq ans
-décompté à partir de l'achèvement des fondations. La reprise prévue au 3° du V ne trouve pas à s'appliquer si la location
-prévue au 1° prend fin à la suite d'une cession de l'immeuble au profit du preneur conformément au présent 7° ;
+logement et de la localisation de celui-ci ;
 
 8° Un montant correspondant au moins à 70 % de la réduction acquise est rétrocédé par le contribuable sous la forme d'une
 diminution des loyers versés par l'organisme locataire mentionné au 1° et d'une diminution du prix de cession à l'organisme
@@ -143,6 +140,18 @@ prix de revient des logements majoré du coût des travaux de réhabilitation et
 commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. La limite mentionnée au II est
 applicable. La réduction d'impôt est accordée au titre de l'année d'achèvement des travaux.
 
+VI bis.-La réduction d'impôt prévue au présent article est également ouverte au titre des travaux de rénovation ou de
+réhabilitation des logements satisfaisant aux conditions fixées au I, achevés depuis plus de vingt ans, détenus par les
+organismes mentionnés au 1° du même I et situés sur l'île de Tahiti, dans les communes de Nouméa, Dumbéa, Païta, Le Mont-
+Dore, Voh, Koné et Pouembout et à Saint-Martin, permettant aux logements d'acquérir des performances techniques voisines de
+celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique. La réduction d'impôt est
+assise sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des
+subventions publiques reçues. Ce montant est retenu dans la limite d'un plafond de 50 000 € par logement. La réduction
+d'impôt est accordée au titre de l'année d'achèvement des travaux.
+
+VI ter.-La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle les conditions mentionnées
+aux VI ou VI bis ne sont pas respectées.
+
 VII. – Lorsque le montant par programme des investissements est supérieur à deux millions d'euros, le bénéfice de la
 réduction d'impôt prévue au présent article est conditionné à l'obtention d'un agrément préalable délivré par le ministre
 chargé du budget dans les conditions prévues au III de l'article 217 undecies. Lorsque le projet d'investissement est visé
@@ -161,34 +170,19 @@ Les dépenses de travaux retenues pour le calcul de la réduction d'impôt prév
 d'une déduction pour la détermination des revenus fonciers.
 
 IX. – Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de
-promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017, en
+promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 24 septembre 2018, en
 Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, et le 31 décembre 2025 à Saint-Pierre-et-Miquelon, en
-Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna, à condition
-que soit mis en place un mécanisme pérenne de préfinancement à taux zéro des investissements mentionnés au présent article en
-complément du maintien des dispositifs de crédit d'impôt prévus à l'article 244 quater X ou, à défaut, par la création d'un
-dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur huit ans le paiement de leurs investissements
-mentionnés au présent article sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux d'abattement
-équivalent au taux prévu au III du même article 244 quater X. Pour l'application du présent IX, les constructions s'entendent
-des immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier.
+Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna. Pour
+l'application du présent IX, les constructions s'entendent des immeubles ayant fait l'objet d'une déclaration d'ouverture de
+chantier.
 
 Toutefois, le présent article reste applicable, pour les investissements réalisés en Guadeloupe, en Guyane, en Martinique, à
-Mayotte et à La Réunion :
+Mayotte et à La Réunion, aux investissements pour l'agrément desquels une demande est parvenue à l'administration au plus
+tard le 24 septembre 2018.
 
-1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration au plus tard le 31 décembre 2017,
-dans les conditions suivantes :
+1° (Abrogé)
 
-a) Lorsqu'ils portent sur l'acquisition de logements faisant l'objet de travaux de réhabilitation, si des acomptes au moins
-égaux à 50 % du prix de ces derniers ont été versés au plus tard le 30 juin 2018 et si les travaux sont achevés au plus tard
-le 31 décembre 2018 ;
-
-b) Lorsqu'ils portent sur la construction d'immeubles, si l'achèvement des fondations intervient au plus tard le 31 décembre
-2018 ;
-
-c) Lorsqu'ils portent sur l'acquisition d'immeubles à construire, si l'acquisition intervient au plus tard le 31 décembre
-2018 ;
-
-2° Aux acquisitions de logements faisant l'objet de travaux de réhabilitation pour lesquels des acomptes au moins égaux à 50
-% de leur prix ont été versés au plus tard le 31 décembre 2017 et qui sont achevés au plus tard le 31 décembre 2018.
+2° (Abrogé)
 
 X. – Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
 d'outre-mer et à Saint-Martin, au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à
@@ -198,11 +192,12 @@ forme de compensations de service public octroyées à certaines entreprises cha
 
 **Nota:**
 
-Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les
-dispositions de l'article 199 undecies C résultant des dispositions du 14° du B du I du même article 31 s'appliquent au titre
-de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article
-31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la
-fortune dû jusqu'au titre de l'année 2017 incluse.
+Conformément à l’article 31 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions du 1° du I telles qu'elles
+résultent du I dudit article s'appliquent aux immeubles achevés ou acquis à compter du 1er juillet 2018.
+
+Aux termes du II de l'article 139 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions des VI bis et VI ter dans leur
+rédaction issue du I dudit article sont applicables aux travaux de rénovation ou de réhabilitation achevés à compter du 1er
+janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -210,12 +205,12 @@ _Cite_:
 
   - Loi n°2009-594 du 27 mai 2009
   - Code général des impôts, CGI. - art. 150-0 D
-  - Code général des impôts, CGI. - art. 158
+  - Code général des impôts, CGI. - art. 158 (M)
   - Code général des impôts, CGI. - art. 199 septvicies
   - Code général des impôts, CGI. - art. 199 terdecies-0 A
   - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 199 undecies B (M)
+  - Code général des impôts, CGI. - art. 199 undecies B
   - Code général des impôts, CGI. - art. 217 undecies
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L214-114
@@ -258,5 +253,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 73
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 139 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 30 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 31 (V)

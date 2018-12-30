@@ -105,12 +105,15 @@ l'exploitation au sens des dispositions du 1° bis du I de l'article 156, la fra
 compter de la troisième année, dans la limite d'un montant de 100 000 € par an ou de 300 000 € par période de trois ans.
 Cette fraction non utilisée constitue au profit de l'entreprise une créance sur l'Etat d'égal montant. Cette créance est
 inaliénable et incessible, sauf dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code monétaire et
-financier.
+financier. Ce délai est porté à quinze ans pour les investissements portant sur les navires de croisière neufs d'une capacité
+maximum de 400 passagers.
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa durée normale d'utilisation si elle est
 inférieure, l'investissement ayant ouvert droit à réduction d'impôt est cédé ou cesse d'être affecté à l'activité pour
 laquelle il a été acquis ou créé, ou si l'acquéreur cesse son activité, la réduction d'impôt pratiquée fait l'objet d'une
-reprise au titre de l'année au cours de laquelle cet événement est intervenu.
+reprise au titre de l'année au cours de laquelle cet événement est intervenu. Ce délai est porté à quinze ans pour les
+investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de
+villages de vacances.
 
 Toutefois, la reprise de la réduction d'impôt n'est pas effectuée lorsque les biens ayant ouvert droit à réduction d'impôt
 sont transmis dans le cadre des opérations mentionnées aux articles 41 et 151 octies, si le bénéficiaire de la transmission
@@ -171,12 +174,14 @@ la société mentionnée au vingt-septième alinéa ne peut bénéficier des dis
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par les contribuables mentionnés au vingt-
 septième alinéa lors de la cession des titres des sociétés mentionnées à ce même alinéa. Le 2° du 3 de l'article 158 ne
-s'applique pas aux revenus distribués par ces sociétés.
+s'applique pas aux revenus distribués par ces sociétés. Ce délai est porté à quinze ans pour les investissements portant sur
+les navires de croisière neufs d'une capacité maximum de 400 passagers.
 
 Pour les investissements dont la durée normale d'utilisation est égale ou supérieure à sept ans, et qui sont loués dans les
 conditions prévues au vingt-sixième alinéa, la réduction d'impôt prévue est applicable lorsque l'entreprise locataire prend
 l'engagement d'utiliser effectivement pendant sept ans au moins ces investissements dans le cadre de l'activité pour laquelle
-ils ont été acquis ou créés.
+ils ont été acquis ou créés. Cet engagement est porté à quinze ans pour les investissements consistant en la construction, la
+rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances.
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-
 neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 66 %, les taux de
@@ -201,7 +206,7 @@ choix de cette technologie apparaît le plus pertinent.
 Le bénéfice de ces dispositions est subordonné au respect des conditions suivantes :
 
 a) Les investissements mentionnés au premier alinéa doivent avoir reçu l'agrément préalable du ministre chargé du budget et
-répondre aux conditions prévues aux a à d du 1 du III de l'article 217 undecies ;
+répondre aux conditions prévues aux a à d et au dernier alinéa du 1 du III de l'article 217 undecies ;
 
 b) Les fournisseurs des investissements éligibles ont été choisis au terme d'une procédure de mise en concurrence préalable
 au dépôt de la demande d'agrément et ayant fait l'objet d'une publicité ;
@@ -226,6 +231,33 @@ aux a, b et c. La base éligible de la réduction d'impôt est égale au quart d
 toute nature, notamment les commissions d'acquisition, à l'exception des frais de transport de ces équipements et opérations,
 diminué du montant des subventions publiques accordées pour leur financement.
 
+I quater.-Par dérogation au h du I du présent article, le même I s'applique aux navires de croisière neufs d'une capacité
+maximum de 400 passagers affectés exclusivement à la navigation dans la zone économique exclusive de la Guadeloupe, de la
+Guyane, de la Martinique, de La Réunion, de Mayotte, de la Polynésie française, de Saint-Barthélemy, de Saint-Martin, de
+Saint-Pierre-et-Miquelon, des îles Wallis et Futuna ou de la Nouvelle-Calédonie. Toutefois, une escale ponctuelle au cours du
+circuit dans une île appartenant à un autre Etat ne remet pas en cause cette condition.
+
+Le bénéfice de la réduction d'impôt prévue au premier alinéa du présent I quater est subordonné au respect des conditions
+suivantes :
+
+1° Les investissements mentionnés au même premier alinéa doivent avoir reçu l'agrément préalable du ministre chargé du budget
+et répondre aux conditions prévues aux a à d et au dernier alinéa du 1 du III de l'article 217 undecies ;
+
+2° Les fournisseurs des investissements éligibles ont été choisis au terme d'une procédure de mise en concurrence préalable
+au dépôt de la demande d'agrément et ayant fait l'objet d'une publicité ;
+
+3° Le navire navigue sous le pavillon d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre
+la fraude et l'évasion fiscales ;
+
+4° La société exploitante détient une filiale dans l'un des territoires mentionnés au premier alinéa du présent I quater.
+
+La base éligible de la réduction d'impôt est égale à 20 % du coût de revient, hors taxes et hors frais de toute nature,
+notamment les commissions d'acquisition et les frais de transport de ces navires, diminuée du montant des subventions
+publiques accordées pour leur financement et, lorsque l'investissement a pour objet de remplacer un investissement ayant
+bénéficié de l'un des dispositifs définis au présent article ou aux articles 217 undecies ou 244 quater W, de la valeur
+réelle de l'investissement remplacé. Le taux de la réduction d'impôt est de 35 %.
+
 II. – 1. Les investissements mentionnés au I et dont le montant total par programme est supérieur à 1 000 000 € ne peuvent
 ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au
 III de l'article 217 undecies.
@@ -247,35 +279,38 @@ service public local à caractère industriel et commercial.
 III. – Les aides octroyées par la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles
 Wallis et Futuna ainsi que la Nouvelle-Calédonie dans le cadre de leur compétence fiscale propre au titre de projets
 d'investissements sont sans incidence sur la détermination du montant des dépenses éligibles retenues pour l'application des
-I et I ter.
+I, I ter et I quater.
 
-IV. – Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I ter et II et notamment
-les obligations déclaratives.
+IV. – Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I ter, I quater et II et
+notamment les obligations déclaratives.
 
 V. – Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
 d'outre-mer et à Saint-Martin, au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014 déclarant certaines
 catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
-VI. – Le présent article est applicable aux investissements mis en service jusqu'au 31 décembre 2020 en Guadeloupe, en
+VI. – Le présent article est applicable aux investissements mis en service jusqu'au 31 décembre 2025 en Guadeloupe, en
 Guyane, en Martinique, à Mayotte, à La Réunion et à Saint-Martin, et jusqu'au 31 décembre 2025 à Saint-Pierre-et-Miquelon, en
 Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy et dans les îles Wallis et Futuna, aux travaux de
 réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et aux constructions
 d'immeubles dont les fondations sont achevées au plus tard à cette date.
 
-L'extinction du dispositif de réduction d'impôt, prévue au premier alinéa du présent VI, est conditionnée par la mise en
-place d'un mécanisme pérenne de préfinancement à taux zéro des investissements productifs neufs mentionnés au présent article
-en complément du maintien du dispositif de crédit d'impôt prévu à l'article 244 quater W ou, à défaut, par la création d'un
-dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs investissements
-productifs mentionnés au présent article sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux
-d'abattement équivalent aux taux prévus au III du même article 244 quater W.
-
 **Nota:**
 
-Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les
-dispositions de l'article 199 undecies B résultant des dispositions du 13° du B du I du même article 31 s'appliquent au titre
-de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article
-31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la
-fortune dû jusqu'au titre de l'année 2017 incluse.
+Conformément à l'article 131 III A de la loi n° 2018-1317 du 28 décembre 2018, les présentes dispositions telles qu'elles
+résultent du a du 1° du I dudit article s'appliquent aux travaux achevés à compter du 1er janvier 2019 et aux autres
+investissements dont le fait générateur intervient à compter de cette même date.
+
+Conformément à l’article 138 II de la loi n° 2018-1317 du 28 décembre 2018 :
+
+A.- Ces dispositions s'appliquent aux investissements mis en service en Polynésie française, à Saint-Barthélemy, à Saint-
+Pierre-et-Miquelon, dans les îles Wallis et Futuna ou en Nouvelle-Calédonie au titre des exercices ouverts à compter du 1er
+janvier 2020 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2019.
+
+B.- Ces dispositions s'appliquent aux investissements mis en service en Guadeloupe, en Guyane, en Martinique, à La Réunion, à
+Mayotte et à Saint-Martin pour l'agrément desquels une demande a été déposée à compter d'une date fixée par décret, qui ne
+peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission
+européenne permettant de considérer la disposition lui ayant été notifiée comme conforme au droit de l'Union européenne en
+matière d'aides d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -309,7 +344,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1740 bis (T)
   - Code général des impôts, CGI. - art. 1740-0 A (V)
   - Code général des impôts, CGI. - art. 1740-00 A (M)
-  - Code général des impôts, CGI. - art. 1740-00 AB (VD)
+  - Code général des impôts, CGI. - art. 1740-00 AB (V)
   - Code général des impôts, CGI. - art. 199 decies G bis (V)
   - Code général des impôts, CGI. - art. 199 sexvicies (V)
   - Code général des impôts, CGI. - art. 199 terdecies-0 A (V)
@@ -337,7 +372,6 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 S (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 T (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 U (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 95 V (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG quindecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies Y (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZL (V)
@@ -354,12 +388,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 156
-  - Code général des impôts, CGI. - art. 158 (M)
+  - Code général des impôts, CGI. - art. 158
   - Code général des impôts, CGI. - art. 239 quater
-  - Code général des impôts, CGI. - art. 244 quater Q
+  - Code général des impôts, CGI. - art. 244 quater Q (V)
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 39
-  - Code général des impôts, CGI. - art. 39 C
   - Code général des impôts, CGI. - art. 4 B
   - Code général des impôts, CGI. - art. 41
   - Code des postes et des communications électroniques - art. L36-8
@@ -367,4 +400,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 1
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 131 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 138 (V)

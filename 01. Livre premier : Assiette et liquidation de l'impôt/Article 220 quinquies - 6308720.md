@@ -4,9 +4,9 @@ I. Par dérogation aux dispositions du troisième alinéa du I de l'article 209,
 ouvert à compter du 1er janvier 1984 par une entreprise soumise à l'impôt sur les sociétés peut, sur option, être considéré
 comme une charge déductible du bénéfice de l'exercice précédent, dans la limite de la fraction non distribuée de ce bénéfice
 et à l'exclusion du bénéfice exonéré en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 
-44 terdecies, 44 quaterdecies, 44 quindecies, 44 sexdecies  et 207 à 208 sexies ou qui a bénéficié des dispositions du
-premier alinéa du f du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu aux articles 220 quater et 220 quater
-A ou qui a donné lieu à un impôt payé au moyen de crédits d'impôts. 
+44 terdecies, 44 quaterdecies, 44 quindecies, 44 sexdecies, 44 septdecies  et 207 à 208 sexies ou qui a bénéficié des
+dispositions du premier alinéa du f du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu aux articles 220
+quater et 220 quater A ou qui a donné lieu à un impôt payé au moyen de crédits d'impôts. 
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être reportable sur les résultats des exercices
 suivant celui au titre duquel il a été constaté. 
@@ -62,7 +62,7 @@ _Cité par_:
 
   - Loi n°2008-1443 du 30 décembre 2008 - art. 94 (V)
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 11 (V)
-  - Code général des impôts, CGI. - art. 209 (M)
+  - Code général des impôts, CGI. - art. 209 (V)
   - Code général des impôts, CGI. - art. 210-0 A (V)
   - Code général des impôts, CGI. - art. 223 G (V)
   - Code général des impôts, CGI. - art. 223 K (V)
@@ -77,7 +77,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
 
 _Cite_:
 
