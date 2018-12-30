@@ -5,9 +5,15 @@ spécialisés relevant de l'article L. 214-37 du code monétaire et financier da
 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, de fonds professionnels de capital
 investissement, des actions de sociétés de capital-risque ou des droits représentatifs d'un placement financier dans une
 entité mentionnée au dernier alinéa du 8 du II de l'article 150-0 A, donnant lieu à des droits différents sur l'actif net ou
-les produits du fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne, sont imposables à
-l'impôt sur le revenu suivant les règles applicables aux traitements et salaires lorsque les conditions prévues au même 8 ou
-aux deuxième à huitième alinéas du 1 du II de l'article 163 quinquies C ne sont pas respectées.
+les produits du fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne, ainsi que les
+distributions et gains nets mentionnés au 9 du même II, sont imposables à l'impôt sur le revenu suivant les règles
+applicables aux traitements et salaires lorsque les conditions prévues aux 8 ou 9 ou aux deuxième à huitième alinéas du 1 du
+II de l'article 163 quinquies C ne sont pas respectées.
+
+**Nota:**
+
+Conformément à l’article 42 III de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux gains nets
+réalisés et aux distributions perçues à compter du 11 juillet 2018.
 
 **Liens relatifs à cet article**
 
@@ -20,7 +26,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 42 (V)
 
 _Cité par_:
 

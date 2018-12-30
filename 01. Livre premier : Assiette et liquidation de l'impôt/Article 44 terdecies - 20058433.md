@@ -19,8 +19,9 @@ exerçant une activité professionnelle non commerciale au sens du 1 de l'articl
 L'exonération ne s'applique pas aux créations d'activité dans les zones de restructuration de la défense consécutives au
 transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années
 précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies , 44
-quindecies et 44 sexdecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie
-et les services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
+quindecies, 44 sexdecies et 44 septdecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire
+pour l'industrie et les services ou de la prime d'aménagement du territoire pour la recherche, le développement et
+l'innovation.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration
 ou d'une restructuration d'activités préexistantes exercées dans les zones de restructuration de la défense ou qui reprennent
@@ -76,8 +77,9 @@ III. – Lorsque le contribuable mentionné au I est une société membre d'un g
 résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
-44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 quindecies ou 44 sexdecies et du régime prévu au présent article, le
-contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
+44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 quindecies, 44 sexdecies ou 44 septdecies et du régime prévu au
+présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité.
+L'option est irrévocable.
 
 IV. – Les obligations déclaratives des personnes et organismes concernés par l'exonération prévue au présent article sont
 fixées par décret.
@@ -105,14 +107,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 96
   - Code monétaire et financier - art. L511-1
 
-_Créé par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (VD)
-
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (VD)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (VD)
 
 _Cité par_:
 
@@ -124,7 +123,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 quater H (Ab)
   - Code général des impôts, CGI. - art. 244 quater M (V)
   - Code général des impôts, CGI. - art. 244 quater O (V)
-  - Code général des impôts, CGI. - art. 244 quater Q (M)
+  - Code général des impôts, CGI. - art. 244 quater Q (V)
   - Code général des impôts, CGI. - art. 244 quater T (P)
   - Code général des impôts, CGI. - art. 302 nonies (V)
   - Code général des impôts, CGI. - art. 44 quaterdecies (V)

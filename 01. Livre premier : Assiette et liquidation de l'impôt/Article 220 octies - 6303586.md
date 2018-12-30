@@ -1,10 +1,10 @@
 # Article 220 octies
 
 I. – Les entreprises de production phonographique au sens de l'article L. 213-1 du code de la propriété intellectuelle,
-soumises à l'impôt sur les sociétés et existant depuis au moins une année, peuvent bénéficier d'un crédit d'impôt au titre
-des dépenses de production, de développement et de numérisation d'un enregistrement phonographique ou vidéographique musical
-(vidéomusique ou disque numérique polyvalent musical) mentionnées au III, à condition de ne pas être détenues, directement ou
-indirectement, par un éditeur de service de télévision ou de radiodiffusion.
+soumises à l'impôt sur les sociétés, peuvent bénéficier d'un crédit d'impôt au titre des dépenses de production, de
+développement et de numérisation d'un enregistrement phonographique ou vidéographique musical (vidéomusique ou disque
+numérique polyvalent musical) mentionnées au III, à condition de ne pas être détenues, directement ou indirectement, par un
+éditeur de service de télévision ou de radiodiffusion.
 
 II. – Ouvrent droit au crédit d'impôt les dépenses engagées pour la production, le développement et la numérisation d'un
 enregistrement phonographique ou vidéographique musical (vidéomusique ou disque numérique polyvalent musical) remplissant les
@@ -25,10 +25,10 @@ propriété intellectuelle. S'agissant des albums de nouveaux talents, le béné
 l'entreprise redevable de l'impôt sur les sociétés pour l'ensemble des albums qu'elle produit chaque année.
 
 III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes
-engagées entre le 1er juillet 2007 et le 31 décembre 2019, pour des opérations mentionnées au II effectuées en France, dans
-un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant
-conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès
-lors qu'elles entrent dans la détermination du résultat imposable :
+effectuées avant le 31 décembre 2022, pour des opérations mentionnées au II effectuées en France, dans un autre Etat membre
+de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France
+une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent
+dans la détermination du résultat imposable :
 
 1
   **° **Pour les dépenses correspondant aux frais de production d'un enregistrement phonographique ou vidéographique
@@ -38,7 +38,7 @@ a. – les frais de personnel non permanent de l'entreprise : les salaires et ch
 interprètes, au réalisateur, à l'ingénieur du son et aux techniciens engagés pour la réalisation d'un enregistrement
 phonographique par l'entreprise de production ;
 
-a bis) Les frais de personnel permanent de l'entreprise directement concerné par les oeuvres : les salaires et charges
+a bis) Les frais de personnel permanent de l'entreprise directement concerné par les œuvres : les salaires et charges
 sociales afférents aux assistants label, chefs de produit, coordinateurs label, techniciens son, chargés de production,
 responsables artistiques, directeurs artistiques, directeurs de label, juristes label ;
 
@@ -70,7 +70,7 @@ b. – les dépenses engagées afin de soutenir la production de concerts de l'a
 global est fixé dans le cadre d'un contrat d'artiste ou de licence ;
 
 c. – les dépenses engagées au titre de la participation de l'artiste à des émissions de télévision ou de radio dans le cadre
-de la promotion de l'oeuvre agréée, prévues par le contrat d'artiste ou de licence ;
+de la promotion de l'œuvre agréée, prévues par le contrat d'artiste ou de licence ;
 
 d. – les dépenses liées à la réalisation et à la production d'images permettant le développement de la carrière de
 l'artiste ;
@@ -85,7 +85,7 @@ catégories d'aides compatibles avec le marché intérieur en application des ar
 
 Le montant des dépenses dites de développement éligibles au crédit d'impôt est limité à 350 000 € par enregistrement
 phonographique ou vidéographique musical. Ces dépenses devront être engagées dans les dix-huit mois suivant la fixation de
-l'oeuvre au sens de l'article L. 213-1 du code de la propriété intellectuelle ou de la production d'un disque numérique
+l'œuvre au sens de l'article L. 213-1 du code de la propriété intellectuelle ou de la production d'un disque numérique
 polyvalent musical.
 
 Le montant des dépenses définies aux 1° et 2°, lorsqu'elles sont confiées à des entreprises mentionnées au a du II, est
@@ -160,7 +160,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 19
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 143 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 144
 
 _Cite_:
 
