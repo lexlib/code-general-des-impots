@@ -70,20 +70,17 @@ alinéa de l'article 62 ;
 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant
 imposable.
 
-Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 terdecies à 44 sexdecies ou au 9 de l'article 93
-ainsi que l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier
+Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 terdecies à 44 septdecies ou au 9 de l'article 93
+ainsi que les abattements prévus à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier
 alinéa. Sont également retenus les revenus imposés dans les conditions prévues à l'article 151-0 pour leur montant diminué,
 selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou au 1 de l'article 102 ter. Il n'est pas tenu compte des plus-
 values et moins-values professionnelles à long terme.
 
 **Nota:**
 
-Conformément à l'article 22 III de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent à compter de
-l'imposition des revenus de l'année 2017. Pour les entreprises relevant de plein droit d'un régime réel d'imposition au titre
-de l'imposition des revenus de l'année 2017 conformément aux dispositions applicables avant l'entrée en vigueur des I et II
-du présent article, l'option pour un régime réel d'imposition prévue au 4 de l'article 50-0 du code général des impôts doit
-être exercée avant la date limite de dépôt de la déclaration mentionnée à l'article 53 A du même code pour les impositions
-dues au titre de l'année 2017.
+Conformément au IV de l’article 126 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 163
+quatervicies telles qu'elles résultent du III dudit article s’appliquent au bénéfice des exploitants qui bénéficient de
+dotations d'installation aux jeunes agriculteurs octroyées à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -91,17 +88,17 @@ _Cite_:
 
   - Ordonnance n°2001-350 du 19 avril 2001 - art. 5
   - Code général des impôts, CGI. - art. 102 ter
-  - Code général des impôts, CGI. - art. 151-0 (M)
-  - Code général des impôts, CGI. - art. 154 bis
-  - Code général des impôts, CGI. - art. 154 bis-0 A (M)
-  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 151-0
+  - Code général des impôts, CGI. - art. 154 bis (V)
+  - Code général des impôts, CGI. - art. 154 bis-0 A (V)
+  - Code général des impôts, CGI. - art. 156 (VD)
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 62
   - Code général des impôts, CGI. - art. 73 B
   - Code général des impôts, CGI. - art. 79
-  - Code général des impôts, CGI. - art. 83 (M)
+  - Code général des impôts, CGI. - art. 83
   - Code général des impôts, CGI. - art. 93
   - Code civil - art. 515-1
   - Code du travail - art. L3334-1
@@ -112,7 +109,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 22 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 126
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
 
 _Cité par_:
 

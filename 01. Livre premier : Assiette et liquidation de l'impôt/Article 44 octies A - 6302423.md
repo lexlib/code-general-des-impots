@@ -11,6 +11,9 @@ dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu o
 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la
 troisième période de douze mois suivant cette période d'exonération.
 
+Dans les collectivités de Guadeloupe, de Guyane, de Martinique, de La Réunion et de Mayotte, les dispositions du premier
+alinéa du présent I ne s'appliquent qu'aux activités créées dans ces zones jusqu'au 31 décembre 2018.
+
 Pour bénéficier de l'exonération, l'entreprise doit répondre cumulativement aux conditions suivantes :
 
 a) Elle doit employer au plus cinquante salariés au 1er janvier 2006 ou à la date de sa création ou de son implantation si
@@ -46,10 +49,8 @@ préexistantes et si celles-ci bénéficient ou ont bénéficié des disposition
 octies, l'exonération prévue au présent article s'applique dans les conditions prévues au premier alinéa en déduisant de la
 durée qu'il fixe la durée d'exonération déjà écoulée au titre de ces articles avant le transfert, la reprise, la
 concentration ou la restructuration. Si les activités sont créées par un contribuable ayant bénéficié au titre d'une ou
-plusieurs des cinq années précédant celle du transfert des dispositions des articles 44 sexies, 44 quindecies ou 44 sexdecies
-dans les zones de revitalisation rurale définies à l'article 1465 A ou dans les zones de redynamisation urbaine définies au A
-du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ou de la prime d'aménagement du territoire,
-l'exonération ne s'applique pas.
+plusieurs des cinq années précédant celle du transfert des dispositions des articles 44 sexies, 44 quindecies, 44 sexdecies
+ou 44 septdecies, ou de la prime d'aménagement du territoire, l'exonération ne s'applique pas.
 
 Lorsque l'activité non sédentaire d'un contribuable est implantée dans une zone franche urbaine-territoire entrepreneur mais
 est exercée en tout ou partie en dehors d'une telle zone, l'exonération s'applique si ce contribuable emploie au moins un
@@ -121,10 +122,10 @@ Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération a
 conformément aux dispositions du huitième alinéa du II, dans la limite du résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
-44 quindecies et 44 sexdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans
-les six mois qui suivent la publication du décret en Conseil d'Etat procédant à la délimitation de la zone conformément à
-l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, s'il y exerce déjà son activité ou, dans le cas contraire, dans
-les six mois suivant celui du début d'activité. L'option est irrévocable.
+44 quindecies, 44 sexdecies et 44 septdecies et du régime prévu au présent article, le contribuable peut opter pour ce
+dernier régime dans les six mois qui suivent la publication du décret en Conseil d'Etat procédant à la délimitation de la
+zone conformément à l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, s'il y exerce déjà son activité ou, dans le
+cas contraire, dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV. – Les obligations déclaratives des personnes et organismes auxquels s'applique l'exonération sont fixées par décret.
 
@@ -140,8 +141,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A bis
   - Code général des impôts, CGI. - art. 223 I
   - Code général des impôts, CGI. - art. 35
-  - Code général des impôts, CGI. - art. 39
-  - Code général des impôts, CGI. - art. 44 sexies
+  - Code général des impôts, CGI. - art. 39 (M)
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 92
   - Code général des impôts, CGI. - art. 96
@@ -150,8 +150,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 19 (V)
 
 _Cité par_:
 
@@ -164,7 +164,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 quater O (V)
   - Code général des impôts, CGI. - art. 244 quater W (V)
   - Code général des impôts, CGI. - art. 44 duodecies (V)
-  - Code général des impôts, CGI. - art. 44 quaterdecies (VD)
+  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
   - Code général des impôts, CGI. - art. 44 quindecies (V)
   - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)

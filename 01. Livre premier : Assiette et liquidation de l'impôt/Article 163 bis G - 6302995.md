@@ -38,7 +38,8 @@ l'Union européenne ou dans un Etat ou territoire ayant conclu avec la France un
 d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
 
 3. La société n'a pas été créée dans le cadre d'une concentration, d'une restructuration, d'une extension ou d'une reprise
-d'activités préexistantes, sauf si elle répond aux conditions prévues par le I de l'article 39 quinquies H ;
+d'activités préexistantes, sauf si elle répond aux conditions prévues par le I de l'article 39 quinquies H  dans sa rédaction
+antérieure à l'article 30 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019 ;
 
 4. Pour les sociétés dont les titres sont admis aux négociations sur un marché d'instruments financiers français ou étranger
 dont le fonctionnement est assuré par une entreprise de marché ou un prestataire de services d'investissement autre qu'une
@@ -120,9 +121,9 @@ _Cite_:
   - Ordonnance n°2013-676 du 25 juillet 2013
   - Code de commerce - art. L228-91
   - Code général des impôts, CGI. - art. 39
-  - Code général des impôts, CGI. - art. 39 quinquies H
+  - Code général des impôts, CGI. - art. 39 quinquies H (Ab)
   - Code monétaire et financier - art. L214-37
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 28 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 30 (V)
