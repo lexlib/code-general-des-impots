@@ -4,7 +4,7 @@ I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier 
 à 18 % des versements effectués au titre de souscriptions en numéraire réalisées dans les mêmes conditions que celles prévues
 aux 1 et 2 du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
-Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2018.
+Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2019.
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° du présent I est subordonné au respect, par la société bénéficiaire de la
 souscription, des conditions prévues au 1 bis du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre
@@ -70,7 +70,7 @@ VI. – 1. Les contribuables domiciliés fiscalement en France peuvent bénéfic
 1 du III de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017, sous réserve du respect des conditions
 prévues au même 1.
 
-Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2018.
+Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2019.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 du présent VI sont retenus, après imputation des
 droits ou frais d'entrée et à proportion du quota d'investissement mentionné au premier alinéa du c du 1 du III de l'article
@@ -144,6 +144,11 @@ passible d'une amende dont le montant ne peut excéder dix fois les frais indûm
 
 **Nota:**
 
+Conformément aux II de l'article 118 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 199
+terdecies-0 A s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de
+plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de
+considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne.
+
 Conformément aux dispositions du II de l'article 74 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article
 199 terdecies-0 A résultant des dispositions du I de l'article 74 s'appliquent aux versements effectués à compter d'une date
 fixée par décret, qui ne peut être postérieure de plus de trois mois à la date de réception par le Gouvernement de la réponse
@@ -153,12 +158,6 @@ de l'Union européenne.
 Par dérogation au premier alinéa dudit II, les dispositions résultant du 3° du I du même article 74 s'appliquent aux
 souscriptions au capital de sociétés effectuées à compter du 1er janvier 2018 et aux souscriptions de parts de fonds dont
 l'agrément de constitution par l'autorité compétente dont ils relèvent a été délivré à compter du 1er janvier 2018.
-
-Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les
-dispositions de l'article 199 terdecies-0 A résultant des dispositions du 9° du B du I du même article 31 s'appliquent au
-titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de
-l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité
-sur la fortune dû jusqu'au titre de l'année 2017 incluse.
 
 **Liens relatifs à cet article**
 
@@ -178,7 +177,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 undecies B (M)
   - Code général des impôts, CGI. - art. 199 undecies C (V)
   - Code général des impôts, CGI. - art. 239 bis AB (V)
-  - Code général des impôts, CGI. - art. 83 (M)
+  - Code général des impôts, CGI. - art. 83 (V)
   - Code général des impôts, CGI. - art. 885-0 V bis (VT)
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
@@ -191,18 +190,17 @@ _Cité par_:
   - Code monétaire et financier - art. D214-80 (V)
   - Code monétaire et financier - art. D214-80-2 (V)
   - Code monétaire et financier - art. D214-80-4 (V)
-  - Code monétaire et financier - art. L221-32-5 (V)
+  - Code monétaire et financier - art. L221-32-5 (M)
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 74 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 118 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 197
   - Code général des impôts, CGI. - art. 199 quatervicies
-  - Code général des impôts, CGI. - art. 199 undecies A (M)
+  - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 199 unvicies
   - Code général des impôts, CGI. - art. 200-0 A
   - Code monétaire et financier - art. L214-31

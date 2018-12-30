@@ -8,14 +8,14 @@ limitée dont la personne mentionnée à l'article L. 526-6 du code de commerce 
 est exercée, l'article 151 sexies s'applique aux biens nécessaires à l'exercice de son activité professionnelle. La
 liquidation de l'entreprise individuelle à responsabilité limitée emporte alors les mêmes conséquences fiscales que la
 cessation d'entreprise et l'annulation des droits sociaux d'une entreprise unipersonnelle à responsabilité limitée ou d'une
-exploitation agricole à responsabilité limitée. 
+exploitation agricole à responsabilité limitée.
 
 2. L'option mentionnée au 1, exercée dans des conditions fixées par décret, est irrévocable et vaut option pour l'impôt sur
 les sociétés.
 
-**Nota:**
-
-Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2016.
+L'entreprise peut cependant renoncer à l'option pour l'impôt sur les sociétés dans les conditions mentionnées au troisième
+alinéa du 1 de l'article 239. Sous réserve des dispositions de l'article 221 bis, la révocation de cette option emporte les
+conséquences fiscales prévues au deuxième alinéa du 2 de l'article 221.
 
 **Liens relatifs à cet article**
 
@@ -27,15 +27,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 33
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 50
 
 _Cite_:
 
   - Code de commerce - art. L526-6
   - Code général des impôts, CGI. - art. 102 ter
   - Code général des impôts, CGI. - art. 151 sexies
-  - Code général des impôts, CGI. - art. 206 (M)
+  - Code général des impôts, CGI. - art. 206
   - Code général des impôts, CGI. - art. 50-0
   - Code général des impôts, CGI. - art. 635
   - Code général des impôts, CGI. - art. 638 A
-  - Code général des impôts, CGI. - art. 64 bis (V)
+  - Code général des impôts, CGI. - art. 64 bis

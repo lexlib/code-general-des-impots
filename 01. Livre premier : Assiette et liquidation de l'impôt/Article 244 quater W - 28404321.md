@@ -1,10 +1,11 @@
 # Article 244 quater W
 
 I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A,
-44 septies, 44 octies, 44 octies A et 44 duodecies à 44 sexdecies, exerçant une activité agricole ou une activité
+44 septies, 44 octies, 44 octies A et 44 duodecies à 44 septdecies, exerçant une activité agricole ou une activité
 industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des
 investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne
-relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B.
+relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités
+mentionnées au I quater du même article 199 undecies B.
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
 résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé.
@@ -24,23 +25,27 @@ b) Aux investissements portant sur des installations de production d'électricit
 mis à leur disposition dans le cadre d'un contrat de location avec option d'achat ou d'un contrat de crédit-bail, sous
 réserve du respect des conditions suivantes :
 
-a) Le contrat de location ou de crédit-bail est conclu pour une durée au moins égale à cinq ans ou pour la durée normale
-d'utilisation du bien loué si elle est inférieure ;
+a) Le contrat de location ou de crédit-bail est conclu avec un établissement de crédit ou une société de financement
+mentionnés à l'article L. 511-1 du code monétaire et financier, ou leurs filiales, avec une société dont le capital est
+détenu en partie par un établissement mentionné à l'article L. 518-2 du même code ou avec une société bailleresse appartenant
+au même groupe fiscal au sens de l'article 223 A du présent code que l'entreprise exploitante pour une durée au moins égale à
+cinq ans ou pour la durée normale d'utilisation du bien loué si elle est inférieure ;
 
 b) Le contrat de location ou de crédit-bail revêt un caractère commercial ;
 
 c) L'entreprise locataire ou crédit-preneuse aurait pu bénéficier du crédit d'impôt prévu au 1 si elle avait acquis
 directement le bien.
 
-4. Pour les entreprises soumises à l'impôt sur les sociétés ou pour les organismes mentionnés au 1 du I de l'article 244
-quater X, le crédit d'impôt s'applique également :
+4. Pour les entreprises soumises à l'impôt sur les sociétés qui exercent leur activité dans le département dans lequel
+l'investissement est réalisé ou pour les organismes mentionnés au 1 du I de l'article 244 quater X, le crédit d'impôt
+s'applique également :
 
 1° Aux acquisitions ou constructions de logements neufs à usage locatif situés dans les départements d'outre-mer, à
-l'exception des logements neufs répondant aux critères mentionnés aux b et c du 1 du I de l'article 244 quater X, si les
-conditions suivantes sont réunies :
+l'exception des logements neufs répondant aux critères mentionnés aux b et c du 1 et au 5 du I de l'article 244 quater X, si
+les conditions suivantes sont réunies :
 
-a) L'entreprise ou l'organisme s'engage à louer l'immeuble nu dans les six mois de son achèvement, ou de son acquisition si
-elle est postérieure, et pendant cinq ans (1) au moins à des personnes qui en font leur résidence principale ;
+a) L'entreprise ou l'organisme s'engage à louer l'immeuble nu dans les douze mois de son achèvement, ou de son acquisition si
+elle est postérieure, et pendant cinq ans au moins à des personnes qui en font leur résidence principale ;
 
 b) Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret ;
 
@@ -54,7 +59,7 @@ directement le bien ;
 3° Aux acquisitions ou constructions de logements neufs situés dans les départements d'outre-mer si les conditions suivantes
 sont réunies :
 
-a) L'entreprise signe avec une personne physique, dans les six mois de l'achèvement de l'immeuble, ou de son acquisition si
+a) L'entreprise signe avec une personne physique, dans les douze mois de l'achèvement de l'immeuble, ou de son acquisition si
 elle est postérieure, un contrat de location-accession dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984
 définissant la location-accession à la propriété immobilière ;
 
@@ -74,6 +79,10 @@ Pour les projets d'investissement comportant l'acquisition, l'installation ou l'
 d'énergie renouvelable, ce montant est pris en compte dans la limite d'un montant par watt installé, fixé par arrêté conjoint
 des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant
 prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements.
+
+Pour les investissements mentionnés au I quater de l'article 199 undecies B, l'assiette du crédit d'impôt est égale à 20 % de
+leur coût de revient, hors taxes et hors frais de toute nature, notamment les commissions d'acquisition et les frais de
+transport de ces investissements, diminuée du montant des subventions publiques accordées pour leur financement.
 
 2. Lorsque l'investissement a pour objet de remplacer un investissement ayant bénéficié de l'un des dispositifs définis aux
 articles 199 undecies B et 217 undecies ou du crédit d'impôt défini au présent article, l'assiette du crédit d'impôt telle
@@ -99,7 +108,8 @@ III. – Le taux du crédit d'impôt est fixé à :
 2° 35 % pour les entreprises et les organismes soumis à l'impôt sur les sociétés.
 
 Le taux mentionné au 1° est porté à 45,9 % pour les investissements réalisés en Guyane et à Mayotte, dans les limites
-définies par les règles européennes relatives aux aides d'Etat.
+définies par les règles européennes relatives aux aides d'Etat. Toutefois, cette majoration de taux ne s'applique pas aux
+investissements mentionnés au dernier alinéa du 1 du II.
 
 IV. – 1. Le bénéfice du crédit d'impôt prévu au 1 du I est accordé au titre de l'année au cours de laquelle l'investissement
 est mis en service.
@@ -107,8 +117,8 @@ est mis en service.
 2. Toutefois :
 
 a) Lorsque l'investissement consiste en la seule acquisition d'un immeuble à construire ou en la construction d'un immeuble,
-le crédit d'impôt, calculé sur le montant prévisionnel du prix de revient défini au II, est accordé à hauteur de 50 % au
-titre de l'année au cours de laquelle les fondations sont achevées et de 25 % au titre de l'année de la mise hors d'eau, et
+le crédit d'impôt, calculé sur le montant prévisionnel du prix de revient défini au II, est accordé à hauteur de 70 % au
+titre de l'année au cours de laquelle les fondations sont achevées et de 20 % au titre de l'année de la mise hors d'eau, et
 le solde, calculé sur le prix de revient définitif, est accordé au titre de l'année de livraison de l'immeuble ;
 
 b) En cas de rénovation ou de réhabilitation d'immeuble, le crédit d'impôt est accordé au titre de l'année d'achèvement des
@@ -136,9 +146,10 @@ B et 217 undecies.
 VI. – Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8,238 bis L, 239 ter et 239 quater A
 ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne sont pas
 soumis à l'impôt sur les sociétés peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés
-ou groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à
-l'exploitation au sens du 1° bis du I de l'article 156 ou, pour les investissements mentionnés au 4 du I du présent article,
-d'entreprises ou d'organismes mentionnés au premier alinéa du même 4.
+ou groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés qui exercent leur activité dans un
+secteur éligible au sens du 1 du I dans le département dans lequel l'investissement est réalisé ou de personnes physiques
+participant à l'exploitation au sens du 1° bis du I de l'article 156 ou, pour les investissements mentionnés au 4 du I du
+présent article, d'entreprises ou d'organismes mentionnés au premier alinéa du même 4.
 
 VII. – Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater et au III de
 l'article 217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le
@@ -152,11 +163,13 @@ prévues, respectivement, aux a et c du 1 du III de l'article 217 undecies, sont
 d'investissements porte sur des investissements mentionnés au second alinéa du 1 du II du présent article au titre desquels
 un contrat d'achat d'électricité a été conclu avec un fournisseur d'électricité mentionné au I de l'article R. 121-28 du code
 de 1'énergie, après évaluation par la Commission de régulation de 1'énergie en application du II du même article R. 121-28.
-(2)
 
 VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa
 propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce
-délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans.
+délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans, et porté à
+quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences
+de tourisme ou de villages de vacances. Ce délai est porté à quinze ans pour les investissements portant sur les navires de
+croisière neufs d'une capacité maximum de 400 passagers.
 
 Si, dans le délai ainsi défini, l'investissement ayant ouvert droit au crédit d'impôt est cédé ou cesse d'être affecté à
 l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, le crédit d'impôt fait l'objet d'une
@@ -203,14 +216,8 @@ respectent un plan d'apurement des cotisations restant dues et, d'autre part, ac
 normale d'exigibilité.
 
 IX. – 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31
-décembre 2020, aux travaux de réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à
+décembre 2025, aux travaux de réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à
 construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
-
-L'extinction du crédit d'impôt aux dates prévues au présent IX n'intervient, conformément aux derniers alinéas du VI de
-l'article 199 undecies B et du V de l'article 217 undecies, que dans le cas où un dispositif pérenne permettant aux
-entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs investissements productifs mentionnés au présent
-article, sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux d'abattement équivalent aux taux
-prévus au III, a été créé à la date de ces échéances.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux
 entreprises et organismes mentionnés au 4 du I.
@@ -222,11 +229,33 @@ même règlement.
 
 **Nota:**
 
-(1) Conformément à l'article 110 III C de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
-aux investissements réalisés au titre des exercices ouverts à compter du 1er janvier 2018.
+Conformément à l’article 31 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions des a des 1° et 3° du 4 du I
+telles qu'elles résultent des dispositions dudit article s'appliquent aux immeubles achevés ou acquis à compter du 1er
+juillet 2018.
 
-(2) Conformément à l'article 21 de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions 
-  <font color="black">s'appliquent aux demandes d'agrément déposées à compter du 1er janvier 2018.</font>
+Conformément à l'article 131 III C de la loi n° 2018-1317 du 28 décembre 2018, l'article 244 quater W, dans sa rédaction
+résultant des a à c du 5° du I, s'applique aux investissements dont le fait générateur intervient à compter du 1er janvier
+2019.
+
+Conformément à l’article 138 II de la loi n° 2018-1317 du 28 décembre 2018 :
+
+A.- Ces dispositions s'appliquent aux investissements mis en service en Polynésie française, à Saint-Barthélemy, à Saint-
+Pierre-et-Miquelon, dans les îles Wallis et Futuna ou en Nouvelle-Calédonie au titre des exercices ouverts à compter du 1er
+janvier 2020 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2019.
+
+B.- Ces dispositions s'appliquent aux investissements mis en service en Guadeloupe, en Guyane, en Martinique, à La Réunion, à
+Mayotte et à Saint-Martin pour l'agrément desquels une demande a été déposée à compter d'une date fixée par décret, qui ne
+peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission
+européenne permettant de considérer la disposition lui ayant été notifiée comme conforme au droit de l'Union européenne en
+matière d'aides d'Etat.
+
+Conformément à l’article 153 II B de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 244 quater W
+telles qu'elles résultent des dispositions du 2° du I dudit article s'appliquent aux acquisitions et constructions
+d'immeubles ayant fait l'objet d'une déclaration de chantier à compter du 1er janvier 2019.
+
+Conformément à l’article 154 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 244 quater W telles
+qu'elles résultent des dispositions du I dudit article s'appliquent aux immeubles dont l'achèvement des fondations intervient
+à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -240,7 +269,8 @@ _Cite_:
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 210 A
-  - Code général des impôts, CGI. - art. 210 B (M)
+  - Code général des impôts, CGI. - art. 210 B
+  - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 238 ter
   - Code général des impôts, CGI. - art. 239 quater
@@ -259,6 +289,8 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 44 sexies A
   - Code général des impôts, CGI. - art. 8
+  - Code monétaire et financier - art. L511-1
+  - Code monétaire et financier - art. L518-2
   - Code de la construction et de l'habitation. - art. R331-76-5-1
 
 _Cité par_:
@@ -275,7 +307,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 decies G bis (V)
   - Code général des impôts, CGI. - art. 199 ter U (VD)
   - Code général des impôts, CGI. - art. 199 undecies B (V)
-  - Code général des impôts, CGI. - art. 217 undecies (M)
+  - Code général des impôts, CGI. - art. 217 undecies (V)
   - Code général des impôts, CGI. - art. 220 Z quater (V)
   - Code général des impôts, CGI. - art. 223 O (V)
   - Code général des impôts, CGI. - art. 242 septies (V)
@@ -295,5 +327,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 21 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 131 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 138 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 153 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 154 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 31 (V)
