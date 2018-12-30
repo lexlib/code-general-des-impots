@@ -1,9 +1,10 @@
 # Article 244 quater Q
 
 I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies,
-44 octies, 44 terdecies , 44 quaterdecies , 44 quindecies ou 44 sexdecies, dont le dirigeant ou un salarié est titulaire du
-titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire
-aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur.
+44 octies, 44 terdecies , 44 quaterdecies , 44 quindecies, 44 sexdecies ou 44 septdecies, dont le dirigeant ou un salarié est
+titulaire du titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de
+satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-
+restaurateur.
 
 Lorsque le titulaire du titre de maître-restaurateur est dirigeant d'une entreprise disposant de plusieurs établissements, le
 crédit d'impôt est calculé au titre des dépenses exposées par les établissements contrôlés dans le cadre de la délivrance de
@@ -128,7 +129,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
 
 _Cite_:
 
@@ -139,7 +140,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 quindecies
   - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 44 terdecies
+  - Code général des impôts, CGI. - art. 44 terdecies (V)
   - Code général des impôts, CGI. - art. 8
   - Code du travail - art. L3123-19
   - Code du travail - art. L3123-27
