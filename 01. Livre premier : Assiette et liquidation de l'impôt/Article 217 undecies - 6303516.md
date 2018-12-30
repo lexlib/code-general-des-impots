@@ -29,22 +29,22 @@ déduction est accordée au titre de l'année d'achèvement des travaux. La déd
 réalisés par une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion des sociétés en participation, ou
 un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues directement par des entreprises
 soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés ou membres dans une proportion
-correspondant à leurs droits dans la société ou le groupement. 
+correspondant à leurs droits dans la société ou le groupement.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
 II et aux articles 199 undecies ou 199 undecies A et le montant des financements, apports en capital et prêts participatifs,
-apportés par les sociétés de financement définies au g du 2 de l'article 199 undecies A. 
+apportés par les sociétés de financement définies au g du 2 de l'article 199 undecies A.
 
 La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de
 tourisme et de village de vacances classés, lorsque ces travaux constituent des éléments de l'actif immobilisé. La déduction
 ne s'applique pas à l'acquisition de véhicules définis au premier alinéa du I de l'article 1010 qui ne sont pas strictement
-indispensables à l'activité de l'exploitant. 
+indispensables à l'activité de l'exploitant.
 
 La déduction prévue au premier alinéa s'applique à la réalisation d'investissements affectés plus de cinq ans par le
 concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial et réalisés
 dans des secteurs éligibles définis par ce même alinéa. La déduction prévue au premier alinéa ne s'applique pas aux
-investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil. 
+investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil.
 
 La déduction prévue au premier alinéa s'applique aux investissements mentionnés au premier alinéa du I ter de l'article 199
 undecies B à hauteur de la moitié de leur coût de revient, hors taxes et hors frais de toute nature, notamment les
@@ -53,82 +53,95 @@ leur financement, lorsque les conditions prévues à ce même I ter sont satisfa
 du câble de secours mentionnés au dernier alinéa de ce même I ter, la déduction s'applique aux investissements à hauteur du
 quart de leur coût de revient, sous réserve du respect des conditions prévues à la phrase précédente. Le montant de l'aide
 fiscale peut être réduit de moitié au plus, compte tenu du besoin de financement de la société exploitante pour la
-réalisation de ce projet et de l'impact de l'aide sur les tarifs. 
+réalisation de ce projet et de l'impact de l'aide sur les tarifs. La déduction prévue au premier alinéa du présent I
+s'applique également aux investissements mentionnés au I quater de l'article 199 undecies B, lorsque les conditions prévues
+au même I quater sont satisfaites, à hauteur de 20 % de leur coût de revient, hors taxes et hors frais de toute nature,
+notamment les commissions d'acquisition et les frais de transport de ces navires, diminuée du montant des subventions
+publiques accordées pour leur financement et, lorsque l'investissement a pour objet de remplacer un investissement ayant
+bénéficié de l'un des dispositifs définis au présent article ou aux articles 199 undecies B ou 244 quater W, de la valeur
+réelle de l'investissement remplacé.
 
 La déduction prévue au premier alinéa s'applique aux acquisitions ou constructions de logements neufs à usage locatif situés
-dans les départements d'outre-mer si les conditions suivantes sont réunies : 
+dans les départements d'outre-mer, à l'exclusion des logements neufs répondant aux critères mentionnés aux b et c du 1 du I
+de l'article 244 quater X, si les conditions suivantes sont réunies :
 
-1° L'entreprise s'engage à louer l'immeuble nu dans les six mois de son achèvement, ou de son acquisition si elle est
-postérieure, et pendant cinq ans (1) au moins à des personnes qui en font leur résidence principale ; 
+1° L'entreprise s'engage à louer l'immeuble nu dans les douze mois de son achèvement, ou de son acquisition si elle est
+postérieure, et pendant cinq ans au moins à des personnes qui en font leur résidence principale ;
 
-2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret. 
+2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret.
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant sa durée normale d'utilisation si elle est
 inférieure, l'investissement ayant ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitation de l'entreprise
 utilisatrice ou si l'acquéreur cesse son activité, les sommes déduites sont rapportées au résultat imposable de l'entreprise
-ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise ; ces conséquences sont également
-applicables si les conditions prévues aux septième et huitième alinéas cessent d'être respectées. 
+ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise. Ce délai est porté à quinze ans
+pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de
+tourisme ou de villages de vacances. Ces conséquences sont également applicables si les conditions prévues aux septième et
+huitième alinéas du présent I cessent d'être respectées. Ce délai est porté à quinze ans pour les investissements portant sur
+les navires de croisière neufs d'une capacité maximum de 400 passagers.
 
 Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans
 le cadre des opérations mentionnées aux articles 210 A ou 210 B si le bénéficiaire de la transmission s'engage à maintenir
 l'exploitation des biens outre-mer dans le cadre d'une activité éligible pendant la fraction du délai de conservation restant
-à courir. 
+à courir.
 
 L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous seing privé ayant date certaine,
-établi à cette occasion. 
+établi à cette occasion.
 
 En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter à ses résultats imposables, au
 titre de l'exercice au cours duquel l'engagement cesse d'être respecté, une somme égale au montant de la déduction fiscale à
-laquelle les biens transmis ont ouvert droit. 
+laquelle les biens transmis ont ouvert droit.
 
 Lorsque l'investissement est réalisé par une société ou un groupement visés aux deux dernières phrases du premier alinéa, les
 associés ou membres doivent, en outre, conserver les parts de cette société ou de ce groupement pendant un délai de cinq ans
 à compter de la réalisation de l'investissement. A défaut, ils doivent ajouter à leur résultat imposable de l'exercice de
 cession le montant des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la proportion de leurs droits dans la
-société ou le groupement, des sommes déjà réintégrées en application des dispositions du neuvième alinéa. 
+société ou le groupement, des sommes déjà réintégrées en application des dispositions du neuvième alinéa.
 
 La déduction prévue au premier alinéa s'applique aux investissements productifs mis à la disposition d'une entreprise dans le
-cadre d'un contrat de location si les conditions suivantes sont réunies : 
+cadre d'un contrat de location si les conditions suivantes sont réunies :
 
 1° Le contrat de location est conclu pour une durée au moins égale à cinq ans ou pour la durée normale d'utilisation du bien
-loué si elle est inférieure ; 
+loué si elle est inférieure ;
 
-2° Le contrat de location revêt un caractère commercial ; 
+2° Le contrat de location revêt un caractère commercial ;
 
 3° L'entreprise locataire aurait pu bénéficier de la déduction prévue au premier alinéa si, imposable en France, elle avait
-acquis directement le bien ; 
+acquis directement le bien ;
 
-4° L'entreprise propriétaire de l'investissement a son siège en France métropolitaine ou dans un département d'outre-mer ; 
+4° L'entreprise propriétaire de l'investissement a son siège en France métropolitaine ou dans un département d'outre-mer ;
 
 5° 77 % de l'avantage en impôt procuré par la déduction pratiquée au titre de l'investissement et par l'imputation du déficit
 provenant de la location du bien acquis et de la moins-value réalisée lors de la cession de ce bien ou des titres de la
 société bailleresse sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et du prix de cession du bien
-à l'exploitant. 
+à l'exploitant.
 
 Si l'une des conditions énumérées aux quinzième à dix-neuvième alinéas cesse d'être respectée dans le délai mentionné au
 quinzième alinéa, les sommes déduites sont rapportées au résultat imposable de l'entreprise propriétaire de l'investissement
 au titre de l'exercice au cours duquel cet événement se réalise. Les sommes déduites ne sont pas rapportées lorsque, en cas
 de défaillance de l'entreprise locataire, les biens ayant ouvert droit à déduction sont donnés en location à une nouvelle
 entreprise, qui s'engage à les maintenir dans l'activité pour laquelle ils ont été acquis ou créés pendant la fraction du
-délai de cinq ans restant à courir, sous réserve que la condition mentionnée au dix-neuvième alinéa demeure vérifiée. 
+délai d'exploitation restant à courir, sous réserve que la condition mentionnée au dix-neuvième alinéa demeure vérifiée.
 
 Pour les investissements dont la durée normale d'utilisation est au moins égale à sept ans, les quinzième à vingtième alinéas
 sont applicables lorsque l'entreprise locataire prend l'engagement d'utiliser effectivement pendant sept ans au moins ces
-investissements dans le cadre de l'activité pour laquelle ils ont été acquis ou créés. 
+investissements dans le cadre de l'activité pour laquelle ils ont été acquis ou créés. Cet engagement est porté à quinze ans
+pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de
+tourisme ou de villages de vacances. Ce délai est porté à quinze ans pour les investissements portant sur les navires de
+croisière neufs d'une capacité maximum de 400 passagers.
 
 I bis. – La déduction prévue au premier alinéa du I s'applique également aux acquisitions ou constructions de logements neufs
-situés en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à La Réunion si les conditions suivantes sont réunies : 
+situés en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à La Réunion si les conditions suivantes sont réunies :
 
-1° L'entreprise signe avec une personne physique, dans les six mois de l'achèvement de l'immeuble, ou de son acquisition si
+1° L'entreprise signe avec une personne physique, dans les douze mois de l'achèvement de l'immeuble, ou de son acquisition si
 elle est postérieure, un contrat de location-accession dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984
-définissant la location-accession à la propriété immobilière ; 
+définissant la location-accession à la propriété immobilière ;
 
 2° L'acquisition ou la construction de l'immeuble a été financée au moyen d'un prêt mentionné au I de l'article R. 331-76-5-1
-du code de la construction et de l'habitation ; 
+du code de la construction et de l'habitation ;
 
 3° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au titre de l'acquisition ou la construction de
 l'immeuble sont rétrocédés à la personne physique signataire du contrat mentionné au 1° sous forme de diminution de la
-redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984 précitée et du prix de cession de l'immeuble. 
+redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984 précitée et du prix de cession de l'immeuble.
 
 II. – Les entreprises soumises à l'impôt sur les sociétés peuvent, d'autre part, déduire de leurs résultats imposables une
 somme égale au montant total des souscriptions au capital des sociétés de développement régional des départements d'outre-mer
@@ -138,43 +151,45 @@ Lorsque la société affecte tout ou partie de la souscription à la constructio
 activité éligible, elle doit s'engager à en achever les fondations dans les deux ans qui suivent la clôture de la
 souscription et à achever l'immeuble dans les deux ans qui suivent la date d'achèvement des fondations. La société doit
 s'engager à maintenir l'affectation des biens à l'activité éligible pendant les cinq ans qui suivent leur acquisition ou
-pendant leur durée normale d'utilisation si elle est inférieure. En cas de non-respect de ces engagements, les sommes
-déduites sont rapportées aux résultats imposables de l'entreprise ayant opéré la déduction au titre de l'exercice au cours
-duquel le non-respect de l'engagement est constaté ; ces dispositions ne sont pas applicables si les immobilisations en cause
-sont comprises dans un apport partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui en est
-propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la société bénéficiaire
-de l'apport, ou la société absorbante selon le cas, réponde aux conditions d'activité prévues au présent alinéa et reprenne,
-sous les mêmes conditions et sanctions, les engagements mentionnés au présent alinéa pour la fraction du délai restant à
-courir. 
+pendant leur durée normale d'utilisation si elle est inférieure. Ce délai est porté à quinze ans pour les investissements
+portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers. Ce délai est porté à quinze ans pour les
+investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de
+villages de vacances. En cas de non-respect de ces engagements, les sommes déduites sont rapportées aux résultats imposables
+de l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel le non-respect de l'engagement est constaté ;
+ces dispositions ne sont pas applicables si les immobilisations en cause sont comprises dans un apport partiel d'actif
+réalisé sous le bénéfice de l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le
+régime de l'article 210 A, à la condition que la société bénéficiaire de l'apport, ou la société absorbante selon le cas,
+réponde aux conditions d'activité prévues au présent alinéa et reprenne, sous les mêmes conditions et sanctions, les
+engagements mentionnés au présent alinéa pour la fraction du délai restant à courir.
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de sociétés effectuant dans les départements
 d'outre-mer des travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
-classés exploités par ces sociétés, lorsque ces travaux constituent des éléments de l'actif immobilisé. 
+classés exploités par ces sociétés, lorsque ces travaux constituent des éléments de l'actif immobilisé.
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de sociétés concessionnaires effectuant dans
 les départements d'outre-mer des investissements productifs affectés plus de cinq ans par le concessionnaire à l'exploitation
 d'une concession de service public local à caractère industriel et commercial, et dont l'activité s'exerce exclusivement dans
-un secteur éligible, dans les départements ou collectivités d'outre-mer. 
+un secteur éligible, dans les départements ou collectivités d'outre-mer.
 
-II bis (Abrogé). 
+II bis (Abrogé).
 
 II ter. – La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt
 sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions
-mentionnées aux septième et huitième alinéas du I. 
+mentionnées aux septième et huitième alinéas du I.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à l'exception de celle mentionnée à la troisième
-phrase du premier alinéa du même II. 
+phrase du premier alinéa du même II.
 
 II quater. – Les programmes d'investissement dont le montant total est supérieur à 1 000 000 € ne peuvent ouvrir droit à la
 déduction mentionnée aux I, II et II ter que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les
-conditions prévues au III. 
+conditions prévues au III.
 
 Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total
 par programme est supérieur à 250 000 €, lorsqu'ils sont réalisés par une société ou un groupement mentionnés à l'avant-
-dernière phrase du premier alinéa de ce même I. 
+dernière phrase du premier alinéa de ce même I.
 
-II quinquies. – La déduction prévue au II s'applique si les conditions prévues au dix-neuvième alinéa du I sont réunies. 
+II quinquies. – La déduction prévue au II s'applique si les conditions prévues au dix-neuvième alinéa du I sont réunies.
 
 III. – 1. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la
 navigation de plaisance, de l'agriculture, de la pêche maritime et de l'aquaculture, de l'industrie charbonnière et de la
@@ -183,79 +198,79 @@ réhabilitation d'hôtel, de résidence de tourisme et de village de vacances cl
 sont nécessaires à l'exploitation d'une concession de service public local à caractère industriel et commercial doivent avoir
 reçu l'agrément préalable du ministre chargé du budget, après avis du ministre chargé de l'outre-mer. L'organe exécutif des
 collectivités d'outre-mer compétentes à titre principal en matière de développement économique est tenu informé des
-opérations dont la réalisation le concerne. 
+opérations dont la réalisation le concerne.
 
-L'agrément est délivré lorsque l'investissement : 
+L'agrément est délivré lorsque l'investissement :
 
 a) Présente un intérêt économique pour le département dans lequel il est réalisé ; il ne doit pas porter atteinte aux
 intérêts fondamentaux de la nation ou constituer une menace contre l'ordre public ou laisser présumer l'existence de
-blanchiment d'argent ; 
+blanchiment d'argent ;
 
-b) Poursuit comme l'un de ses buts principaux la création ou le maintien d'emplois dans ce département ; 
+b) Poursuit comme l'un de ses buts principaux la création ou le maintien d'emplois dans ce département ;
 
-c) S'intègre dans la politique d'aménagement du territoire, de l'environnement et de développement durable ; 
+c) S'intègre dans la politique d'aménagement du territoire, de l'environnement et de développement durable ;
 
-d) Garantit la protection des investisseurs et des tiers. 
+d) Garantit la protection des investisseurs et des tiers.
 
 L'octroi de l'agrément est subordonné au respect par les bénéficiaires directs ou indirects de leurs obligations fiscales et
 sociales et à l'engagement pris par ces mêmes bénéficiaires que puissent être vérifiées sur place les modalités de
-réalisation et d'exploitation de l'investissement aidé. 
+réalisation et d'exploitation de l'investissement aidé.
 
 2. L'agrément est tacite à défaut de réponse de l'administration dans un délai de trois mois à compter de la réception de la
 demande d'agrément. Ce délai est ramené à deux mois lorsque la décision est prise et notifiée par l'autorité compétente de
-l'Etat dans les départements d'outre-mer. 
+l'Etat dans les départements d'outre-mer.
 
 Lorsque l'administration envisage une décision de refus d'agrément, elle doit en informer le contribuable par un courrier qui
 interrompt le délai mentionné au premier alinéa et offre la possibilité au contribuable, s'il le sollicite, de saisir, dans
 un délai de quinze jours, une commission consultative dont la composition, les attributions et le fonctionnement sont définis
 par décret. En cas de saisine, un nouveau délai d'une durée identique à celle mentionnée au premier alinéa court à compter de
-l'avis de la commission. La commission dispose, pour rendre cet avis, d'un délai ne pouvant excéder deux mois. 
+l'avis de la commission. La commission dispose, pour rendre cet avis, d'un délai ne pouvant excéder deux mois.
 
 Le délai mentionné au premier alinéa peut être interrompu par une demande de l'administration fiscale de compléments
-d'informations. Il est suspendu en cas de notification du projet pour examen et avis de la Commission européenne. 
+d'informations. Il est suspendu en cas de notification du projet pour examen et avis de la Commission européenne.
 
 3. Toutefois, les investissements mentionnés au I dont le montant total n'excède pas 250 000 € par programme sont dispensés
 de la procédure d'agrément préalable lorsqu'ils sont réalisés par une entreprise qui exerce son activité dans les
 départements visés au I depuis au moins deux ans dans l'un des secteurs mentionnés au premier alinéa du 1. Il en est de même
 lorsque ces investissements sont donnés en location à une telle entreprise. L'entreprise propriétaire des biens ou qui les a
 acquis en crédit-bail joint à sa déclaration de résultat un état récapitulatif des investissements réalisés au cours de
-l'exercice et au titre desquels la déduction fiscale est pratiquée. 
+l'exercice et au titre desquels la déduction fiscale est pratiquée.
 
 Le premier alinéa ne s'applique pas au secteur des transports, à l'exception des véhicules neufs de moins de sept places
 acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits
-transports lorsque les conditions de transport sont conformes à un tarif réglementaire. 
+transports lorsque les conditions de transport sont conformes à un tarif réglementaire.
 
-III bis. (Abrogé). 
+III bis. (Abrogé).
 
-III ter. (Transféré sous le III). 
+III ter. (Transféré sous le III).
 
-III quater. (abrogé). 
+III quater. (abrogé).
 
-IV. – En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits par les entreprises avec le
-bénéfice des déductions prévues aux II ou II ter les sommes déduites sont rapportées au résultat imposable de l'année de
-cession, dans la limite, de la totalité du prix de cession. 
+IV. – En cas de cession dans le délai d'exploitation de tout ou partie des droits sociaux souscrits par les entreprises avec
+le bénéfice des déductions prévues aux II ou II ter les sommes déduites sont rapportées au résultat imposable de l'année de
+cession, dans la limite, de la totalité du prix de cession.
 
-Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le délai de cinq ans, l'entreprise propriétaire des
-titres ayant ouvert droit à la déduction prévue aux II ou II ter fait l'objet d'une transmission dans le cadre des
+Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le délai d'exploitation, l'entreprise propriétaire
+des titres ayant ouvert droit à la déduction prévue aux II ou II ter fait l'objet d'une transmission dans le cadre des
 dispositions prévues aux articles 210 A ou 210 B si l'entreprise qui devient propriétaire des titres remplit les conditions
 nécessaires pour bénéficier de cette déduction et s'engage à conserver les titres pendant la fraction du délai de
 conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par acte sous seing
-privé ayant date certaine, établi à cette occasion. 
+privé ayant date certaine, établi à cette occasion.
 
 En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter à ses résultats imposables, au
 titre de l'exercice au cours duquel l'engagement cesse d'être respecté, une somme égale au montant de la déduction fiscale à
 laquelle les titres transmis ont ouvert droit, dans la limite de la totalité du prix de cession. Il en est de même dans le
 cas où les titres souscrits avec le bénéfice de la déduction prévue aux II ou II ter sont apportés ou échangés dans le cadre
 d'opérations soumises aux dispositions des articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes conditions et
-sanctions, les titres nouveaux qui se sont substitués aux titres d'origine. 
+sanctions, les titres nouveaux qui se sont substitués aux titres d'origine.
 
 IV bis. – Le montant de la déduction prévue par le présent article n'est pas pris en compte pour le calcul de l'abattement
-prévu à l'article 44 quaterdecies. 
+prévu à l'article 44 quaterdecies.
 
 Si, avant l'expiration du délai visé au premier alinéa l'un de ces investissements est cédé ou cesse d'être affecté à
 l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage résultant de l'application du
 premier alinéa est rapporté au résultat imposable de l'exercice au cours duquel cet événement se réalise, majoré d'un montant
-égal au produit de cet avantage par le taux de l'intérêt de retard prévu à l'article 1727. 
+égal au produit de cet avantage par le taux de l'intérêt de retard prévu à l'article 1727.
 
 Toutefois, la reprise de l'avantage n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans
 le cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si le bénéficiaire de la transmission s'engage à
@@ -264,46 +279,36 @@ conservation restant à courir. L'engagement est pris dans l'acte constatant la 
 seing privé ayant date certaine, établi à cette occasion. En cas de non-respect de cet engagement, le bénéficiaire de la
 transmission doit rapporter à son résultat imposable, au titre de l'exercice au cours duquel l'engagement de conservation
 cesse d'être respecté, l'avantage et la majoration correspondante mentionnés au deuxième alinéa qui, à défaut d'engagement,
-auraient dû être rapportés au résultat imposable de l'entreprise apporteuse. 
+auraient dû être rapportés au résultat imposable de l'entreprise apporteuse.
 
 IV ter. – La déduction prévue aux I, II ou II ter est subordonnée au respect par les sociétés réalisant l'investissement ou
 la souscription et, le cas échéant, les entreprises exploitantes, de leurs obligations fiscales et sociales et de
 l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23 du code de
-commerce à la date de réalisation de l'investissement ou de la souscription. 
+commerce à la date de réalisation de l'investissement ou de la souscription.
 
 Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et
 respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date
-normale d'exigibilité. 
+normale d'exigibilité.
 
 Pour l'application du premier alinéa en Nouvelle-Calédonie et en Polynésie française, les références aux dispositions du code
-de commerce sont remplacées par les dispositions prévues par la réglementation applicable localement. 
+de commerce sont remplacées par les dispositions prévues par la réglementation applicable localement.
 
-IV quater. – Le seuil de chiffre d'affaires défini au I ne s'applique pas aux opérations d'acquisition ou de construction de
-logements neufs répondant aux critères mentionnés aux b et c du 1 du I de l'article 244 quater X. 
-
-Lorsque la déduction d'impôt s'applique dans les conditions prévues aux sixième à huitième alinéas du I, au I bis ou au II
-ter, le montant de la déduction mentionnée au I est égal au montant, hors taxes et hors frais de toute nature, de
-l'opération, diminué de la fraction de son prix de revient financée par une subvention publique. 
+IV quater. – Lorsque la déduction d'impôt s'applique dans les conditions prévues aux sixième à huitième alinéas du I, au I
+bis ou au II ter, le montant de la déduction mentionnée au I est égal au montant, hors taxes et hors frais de toute nature,
+de l'opération, diminué de la fraction de son prix de revient financée par une subvention publique.
 
 V. – Les dispositions du présent article sont applicables aux investissements réalisés ou aux souscriptions versées à compter
 de la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer, à l'exception
 des investissements et des souscriptions pour l'agrément desquels une demande est parvenue à l'administration avant cette
-date. 
+date.
 
-Le présent article est applicable aux investissements neufs mis en service jusqu'au 31 décembre 2020, aux travaux de
+Le présent article est applicable aux investissements neufs mis en service jusqu'au 31 décembre 2025, aux travaux de
 rénovation et de réhabilitation d'hôtels, de résidences de tourisme et de villages de vacances classés achevés au plus tard à
 cette date, aux acquisitions d'immeubles à construire et aux constructions d'immeubles dont les fondations sont achevées au
-plus tard à cette date et aux souscriptions versées jusqu'au 31 décembre 2020. 
-
-L'extinction de la déduction d'impôt aux dates d'échéance prévues au deuxième alinéa du présent V est conditionnée par la
-mise en place d'un mécanisme pérenne de préfinancement à taux zéro des investissements productifs neufs mentionnés au présent
-article en complément du maintien du dispositif de crédit d'impôt prévu à l'article 244 quater W ou, à défaut, par la
-création d'un dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs
-investissements productifs mentionnés au présent article sans recourir à un emprunt bancaire et à un prix de revient diminué
-d'un taux d'abattement équivalent aux taux prévus au III du même article 244 quater W. 
+plus tard à cette date et aux souscriptions versées jusqu'au 31 décembre 2025.
 
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités de leur application et notamment les obligations
-déclaratives. 
+déclaratives.
 
 VI. – Le bénéfice de la déduction prévue aux I, I bis, II et II ter est subordonné au respect du règlement (UE) n° 651/2014
 de la Commission, du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application
@@ -312,8 +317,33 @@ difficulté, au sens du même règlement.
 
 **Nota:**
 
-(1) Conformément à l'article 110 III C de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent
-aux investissements réalisés au titre des exercices ouverts à compter du 1er janvier 2018.
+Conformément à l’article 30 V D de la loi n° 2018-1317 du 28 décembre 2018, le sixième alinéa du I dans sa rédaction
+résultant du a du 9° du I de l'article 30 est applicable :
+
+1° Aux acquisitions d'immeubles à construire et aux constructions d'immeubles n'ayant pas fait l'objet d'une déclaration
+d'ouverture de chantier à la date du 24 septembre 2018 ;
+
+2° Aux investissements pour l'agrément desquels une demande n'est pas parvenue à l'administration à la date du 24 septembre
+2018.
+
+Conformément à l’article 31 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions du 1° des I et I bis telles
+qu'elles résultent du I dudit artcile s'appliquent aux immeubles achevés ou acquis à compter du 1er juillet 2018.
+
+Conformément à l'article 131 III A de la loi n° 2018-1317 du 28 décembre 2018, les présentes dispositions telles qu'elles
+résultent des a à c du 2° du I dudit article s'appliquent aux travaux achevés à compter du 1er janvier 2019 et aux autres
+investissements dont le fait générateur intervient à compter de cette même date.
+
+Conformément à l’article 138 II de la loi n° 2018-1317 du 28 décembre 2018 :
+
+A.- Ces dispositions s'appliquent aux investissements mis en service en Polynésie française, à Saint-Barthélemy, à Saint-
+Pierre-et-Miquelon, dans les îles Wallis et Futuna ou en Nouvelle-Calédonie au titre des exercices ouverts à compter du 1er
+janvier 2020 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2019.
+
+B.- Ces dispositions s'appliquent aux investissements mis en service en Guadeloupe, en Guyane, en Martinique, à La Réunion, à
+Mayotte et à Saint-Martin pour l'agrément desquels une demande a été déposée à compter d'une date fixée par décret, qui ne
+peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission
+européenne permettant de considérer la disposition lui ayant été notifiée comme conforme au droit de l'Union européenne en
+matière d'aides d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -323,11 +353,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°84-595 du 12 juillet 1984 (V)
-  - Loi n°84-595 du 12 juillet 1984 - art. 5 (V)
+  - Loi n°84-595 du 12 juillet 1984
+  - Loi n°84-595 du 12 juillet 1984 - art. 5
   - Loi n°2009-594 du 27 mai 2009
   - Code de commerce - art. L232-21
-  - Code général des impôts, CGI. - art. 1010 (VT)
+  - Code général des impôts, CGI. - art. 1010 (V)
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 199 undecies
   - Code général des impôts, CGI. - art. 209
@@ -335,8 +365,8 @@ _Cite_:
   - Code général des impôts, CGI. - art. 210 B
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater C
-  - Code général des impôts, CGI. - art. 39 (VT)
-  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
+  - Code général des impôts, CGI. - art. 39
+  - Code de la construction et de l'habitation. - art. R331-76-5-1
 
 _Cité par_:
 
@@ -404,4 +434,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 127
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 131 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 138 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 30 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 31 (V)
