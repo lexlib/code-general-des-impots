@@ -29,7 +29,7 @@ a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographiqu
 b) Les œuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité.
 
 III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes
-correspondant à des opérations ou prestations effectuées en France :
+correspondant à des opérations ou prestations effectuées en France avant le 31 décembre 2022 :
 
 a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme
 d'avances à valoir sur les recettes d'exploitation des œuvres, ainsi que les charges sociales afférentes ;
@@ -46,6 +46,12 @@ audiovisuelle ;
 
 e) Les dépenses de transport et de restauration , ainsi que les dépenses d'hébergement dans la limite d'un montant par nuitée
 fixé par décret, occasionnées par la production de l'œuvre sur le territoire français.
+
+Le taux mentionné au premier alinéa du présent 1 est porté à 40 % en ce qui concerne les œuvres cinématographiques ou
+audiovisuelles de fiction dans lesquelles au moins 15 % des plans, soit en moyenne un plan et demi par minute, font l'objet
+d'un traitement numérique permettant d'ajouter des personnages, des éléments de décor ou des objets participant à l'action ou
+de modifier le rendu de la scène ou le point de vue de la caméra et pour la part des dépenses éligibles afférentes aux
+travaux de traitement numérique des plans, à condition que ces dernières dépassent 2 millions d'euros pour l'œuvre concernée.
 
 2. Les auteurs, les artistes-interprètes et les personnels de la réalisation et de la production mentionnés au 1 doivent être
 soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord
@@ -76,16 +82,17 @@ VIII. – Un décret précise les conditions d'application du présent article.
 
 **Nota:**
 
-Loi n° 2008-1425 du 27 décembre 2008 article 131 IV modifié par article 72 de la loi n° 2012-1509 du 30 décembre 2012 et
-article 20 de la loi n° 2016-1917 du 30 décembre 2016 : Le I s'applique aux crédits d'impôt calculés au titre des dépenses
-engagées entre le 1er janvier 2009 et le 31 décembre 2019. Ce IV de l'article 131 de la loi n° 2008-1425 du 27 décembre 2008
-a été abrogé à compter du 31 décembre 2018 par l'article 144 de la loi n° 2018-1317 du 28 décembre 2018.
+Conformément à l’article 146 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux crédits d'impôt
+calculés au titre des exercices ouverts à compter du 1er janvier 2019. Elles entrent en vigueur à une date, fixée par décret,
+qui ne peut être postérieure de plus de un mois à la date de réception par le Gouvernement de la réponse de la Commission
+européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union
+européenne en matière d'aides d'Etat.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 131 (M)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 131 (V)
 
 _Cité par_:
 
@@ -128,7 +135,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 81 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 144
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 146 (V)
 
 _Cite_:
 
