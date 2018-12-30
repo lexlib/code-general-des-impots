@@ -31,11 +31,12 @@ c. Les produits de créances et d'opérations financières pour le montant qui e
 cours du même exercice ou de la période d'imposition.
 
 III. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44
-sexies, 44 septies, 44 octies, 44 quindecies, 44 sexdecies, 244 quater E ou du régime prévu au présent article, la jeune
-entreprise innovante réalisant des projets de recherche et de développement peut opter pour ce dernier régime, dans les neuf
-mois suivant celui de son début d'activité, ou dans les neuf premiers mois de l'exercice ou de la période au titre duquel ou
-de laquelle l'option est exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre
-duquel ou de laquelle elle a été exercée les conditions fixées à l'article 44 sexies-0 A sont remplies.
+sexies, 44 septies, 44 octies, 44 quindecies, 44 sexdecies, 44 septdecies, 244 quater E ou du régime prévu au présent
+article, la jeune entreprise innovante réalisant des projets de recherche et de développement peut opter pour ce dernier
+régime, dans les neuf mois suivant celui de son début d'activité, ou dans les neuf premiers mois de l'exercice ou de la
+période au titre duquel ou de laquelle l'option est exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice
+ou de la période au titre duquel ou de laquelle elle a été exercée les conditions fixées à l'article 44 sexies-0 A sont
+remplies.
 
 IV. – Le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du
 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
@@ -45,7 +46,7 @@ aides de minimis.
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
 
 _Cité par_:
 
@@ -57,7 +58,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 quater B (VD)
   - Code général des impôts, CGI. - art. 244 quater C (V)
   - Code général des impôts, CGI. - art. 244 quater E (VD)
-  - Code général des impôts, CGI. - art. 244 quater M (M)
+  - Code général des impôts, CGI. - art. 244 quater M (V)
   - Code général des impôts, CGI. - art. 244 quater O (V)
   - Code général des impôts, CGI. - art. 244 quater T (V)
   - Code général des impôts, CGI. - art. 244 quater W (V)
