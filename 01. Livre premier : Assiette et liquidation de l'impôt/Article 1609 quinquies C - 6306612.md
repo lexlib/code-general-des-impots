@@ -16,8 +16,17 @@ installations de production d'électricité utilisant l'énergie mécanique du v
 énergétique, et perçoivent le produit de cette taxe. 
 
 2. Les établissements publics de coopération intercommunale mentionnés au 1 se substituent également aux communes membres
-pour les dispositions relatives à la taxe annuelle sur les installations de production d'électricité, prévue à l'article 1519
-D, et perçoivent le produit de cette taxe. 
+pour la perception : 
+
+a) Du produit de l'imposition forfaitaire sur les entreprises de réseaux relatives aux installations de production
+d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale et aux
+installations de production d'électricité utilisant l'énergie mécanique du vent installées avant le 1er janvier 2019, prévue
+à l'article 1519 D ; 
+
+b) Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A
+bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de
+réseaux relatives aux installations de production d'électricité utilisant l'énergie mécanique du vent installées à compter du
+1er janvier 2019, prévue au même article 1519 D. 
 
 II bis. – Le II est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la
 deuxième phrase du premier alinéa du même II dans sa rédaction en vigueur jusqu'à cette date, pour l'application des
@@ -110,7 +119,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1478
   - Code général des impôts, CGI. - art. 1519 D
   - Code général des impôts, CGI. - art. 1638 quater
-  - Code général des impôts, CGI. - art. 1639 A bis (V)
+  - Code général des impôts, CGI. - art. 1639 A bis
 
 _Cité par_:
 
@@ -154,5 +163,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 75 (V)
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 80
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 178
