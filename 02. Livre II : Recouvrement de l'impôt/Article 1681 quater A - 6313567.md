@@ -2,7 +2,7 @@
 
 A. La cotisation foncière des entreprises et les taxes additionnelles sont recouvrées, soit dans les conditions prévues à
 l'article 1679 quinquies, soit, sur demande du contribuable, au moyen de prélèvements mensuels opérés conformément à
-l'article 1681 D.
+l'article 1680 A.
 
 B. De janvier à octobre, chaque prélèvement est égal au dixième du montant des taxes mises en recouvrement au titre de
 l'année précédente jusqu'au 31 décembre de cette même année, éventuellement diminuées du montant du dégrèvement attendu au
@@ -35,29 +35,28 @@ suit la constatation du trop-perçu, remboursé au contribuable.
 
 E. (Transféré sous l'article 1762 A).
 
-F. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+F. Un décret fixe les modalités d'application du présent article.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010, article 55 III-C : Ces dispositions s'appliquent aux rôles généraux de cotisation
-foncière des entreprises émis au titre de l'année 2011 et des années suivantes et aux rôles supplémentaires de cotisation
-foncière des entreprises et de taxe professionnelle mis en recouvrement à compter du 30 novembre 2011.
+Conformément à l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions du présent article
+s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (VD)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1647 B sexies
-  - Code général des impôts, CGI. - art. 1663 (V)
-  - Code général des impôts, CGI. - art. 1679 quinquies
-  - Code général des impôts, CGI. - art. 1681 D
-  - Code général des impôts, CGI. - art. 1731 (V)
-  - Code général des impôts, CGI. - art. 1731 A (V)
+  - Code général des impôts, CGI. - art. 1663
+  - Code général des impôts, CGI. - art. 1679 quinquies (VD)
+  - Code général des impôts, CGI. - art. 1681 D (VT)
+  - Code général des impôts, CGI. - art. 1731
+  - Code général des impôts, CGI. - art. 1731 A
   - Code général des impôts, CGI. - art. 1762 A
 
 _Cité par_:
