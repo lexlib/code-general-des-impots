@@ -38,15 +38,17 @@ VIII. – Le taux de la cotisation foncière des entreprises voté par la métro
 taux moyen constaté l'année précédente au niveau national pour l'ensemble des établissements publics de coopération
 intercommunale soumis à l'article 1609 nonies C.
 
+IX. – Les taux de la taxe foncière sur les propriétés non bâties et de la taxe d'habitation votés par la Ville de Paris ne
+peuvent excéder deux fois et demie le taux moyen communal constaté l'année précédente au niveau national.
+
+Le taux de la taxe foncière sur les propriétés bâties voté par la Ville de Paris ne peut excéder deux fois et demie la somme
+des taux moyens constatés l'année précédente au niveau national respectivement pour l'ensemble des communes et des
+départements.
+
 **Nota:**
 
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
-
-Pour l'application de ces dispositions à la métropole de Lyon en 2015, il convient de se référer à l'article 39 de
-l'ordonnance n° 2014-1335 du 6 novembre 2014 relative à l'adaptation et à l'entrée en vigueur de certaines dispositions du
-code général des collectivités territoriales, du code général des impôts et d'autres dispositions législatives applicables à
-la métropole de Lyon.
+Conformément à l'article 18 de l'ordonnance n° 2018-75 du 8 février 2018, les présentes dispositions s'appliquent à compter
+des impositions établies au titre de 2019.
 
 **Liens relatifs à cet article**
 
@@ -71,8 +73,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (VD)
-  - Ordonnance n°2015-1630 du 10 décembre 2015 - art. 1
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 1
 
 _Cite_:
 
