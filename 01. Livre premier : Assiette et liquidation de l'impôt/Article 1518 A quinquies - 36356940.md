@@ -13,7 +13,10 @@ Le coefficient de neutralisation déterminé pour chacune de ces taxes s'appliqu
 annexes.
 
 Les coefficients déterminés pour une commune s'appliquent aux bases imposées au profit des établissements publics de
-coopération intercommunale dont elle est membre ;
+coopération intercommunale dont elle est membre.
+
+Pour la Ville de Paris, le coefficient de neutralisation applicable pour l'établissement de la taxe foncière sur les
+propriétés bâties est égal au coefficient de neutralisation appliqué en 2018 pour la commune de Paris.
 
 2. Par dérogation au 1 du présent I, le coefficient de neutralisation appliqué, pour chaque taxe, à la valeur locative des
 propriétés bâties mentionnées au I de l'article 1498 et prises en compte dans les bases d'imposition de La Poste, dans les
@@ -42,7 +45,7 @@ application des dispositions prévues par le présent code, dans sa rédaction e
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
   - Loi n°2017-1775 du 28 décembre 2017 - art. 30 (V)
 

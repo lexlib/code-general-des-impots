@@ -9,18 +9,14 @@ sommes engagées par les parieurs.
 Ce prélèvement est dû par le Pari mutuel urbain ou les sociétés de courses intéressées pour les paris organisés dans les
 conditions fixées par l'article 5 de la loi du 2 juin 1891 précitée et par les personnes devant être soumises, en tant
 qu'opérateur de paris hippiques en ligne, à l'agrément mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010
-précitée. Le produit de ce prélèvement est affecté à concurrence de 15 % et dans la limite de 11 038 889 € aux établissements
-publics de coopération intercommunale sur le territoire desquels sont ouverts au public un ou plusieurs hippodromes, au
-prorata des enjeux des courses hippiques effectivement organisées par lesdits hippodromes, et dans la limite de 772 723 € par
-établissement public de coopération intercommunale. Les limites mentionnées dans la phrase précédente sont indexées, chaque
-année, sur la prévision de l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de
-l'année.
-
-**Nota:**
-
-<font color="#000000" size="1">Modifications effectuées en conséquence de l’article 47 de la loi n° 2010-476 du 12 mai 2010</
-font>
-  <font color="#000000" size="1">.</font>
+précitée. Le produit de ce prélèvement est affecté, à concurrence de 15 % et dans la limite de 11 038 889 €, pour moitié aux
+établissements publics de coopération intercommunale et pour moitié aux communes sur le territoire desquels sont ouverts au
+public un ou plusieurs hippodromes, au prorata des enjeux des courses hippiques effectivement organisées par lesdits
+hippodromes, et dans la limite de 772 723 € par ensemble intercommunal concerné. L'établissement public de coopération
+intercommunale est substitué aux communes membres pour la perception du produit de ce prélèvement, sur délibération des
+communes membres prise dans les conditions prévues à l'article 1639 A bis du présent code. Les limites mentionnées dans la
+deuxième phrase du présent alinéa sont indexées, chaque année, sur la prévision de l'indice des prix à la consommation hors
+tabac retenue dans le projet de loi de finances de l'année.
 
 **Liens relatifs à cet article**
 
@@ -42,4 +38,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 1
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 168

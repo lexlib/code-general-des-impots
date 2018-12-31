@@ -2,41 +2,46 @@
 
 L'activité professionnelle consistant à obtenir pour autrui les avantages fiscaux prévus aux articles 199 undecies A, 199
 undecies B, 199 undecies C, 217 undecies, 217 duodecies, 244 quater W ou 244 quater X ne peut être exercée que par les
-entreprises inscrites sur un registre tenu par le représentant de l'Etat dans le département ou la collectivité dans lequel
-ces entreprises ont leur siège social. 
+entreprises inscrites sur un registre public tenu par le représentant de l'Etat dans les départements et collectivités
+désignés par arrêté conjoint des ministres chargés du budget et de l'outre-mer.
 
-Ne peuvent être inscrites sur ce registre que les entreprises qui satisfont aux conditions suivantes : 
+Ne peuvent être inscrites sur ce registre que les entreprises qui satisfont aux conditions suivantes :
 
-1° Justifier de l'aptitude professionnelle des dirigeants et associés ; 
+1° Justifier de l'aptitude professionnelle des dirigeants et associés ;
 
-2° Etre à jour de leurs obligations fiscales et sociales ; 
+2° Etre à jour de leurs obligations fiscales et sociales ;
 
-3° Contracter une assurance contre les conséquences pécuniaires de leur responsabilité civile professionnelle ; 
+3° Contracter une assurance contre les conséquences pécuniaires de leur responsabilité civile professionnelle couvrant tous
+les risques afférents au montage des opérations réalisées pour le bénéfice des avantages fiscaux mentionnés au premier alinéa
+du présent article ;
 
-4° Présenter, pour chacun des dirigeants et associés, un bulletin n° 3 du casier judiciaire vierge de toute condamnation ; 
+4° Présenter, pour chacun des dirigeants et associés, un bulletin n° 3 du casier judiciaire vierge de toute condamnation ;
 
-5° Justifier d'une certification annuelle de leurs comptes par un commissaire aux comptes ; 
+5° Justifier d'une certification annuelle de leurs comptes par un commissaire aux comptes ;
 
-6° Avoir signé une charte de déontologie et respecter ses dispositions. 
+6° Avoir signé une charte de déontologie et respecter ses dispositions.
+
+L'inscription sur le registre est valable pour une durée de trois ans. Le renouvellement de l'inscription est subordonné au
+respect des conditions prévues aux 1° à 6°.
 
 Les opérations réalisées par ces entreprises en application des dispositions mentionnées au premier alinéa sont déclarées
 annuellement à l'administration fiscale, quel que soit le montant de l'investissement ouvrant droit aux avantages fiscaux
 mentionnés au premier alinéa. Pour chaque opération sont précisés la nature et le montant de l'investissement, son lieu de
 situation, les conditions de son exploitation, l'identité de l'exploitant, les noms et adresses des investisseurs, le montant
 de la base éligible à l'avantage en impôt, la part de l'avantage en impôt rétrocédée, le cas échéant, à l'exploitant ainsi
-que le montant de la commission d'acquisition et de tout honoraire demandés aux clients. 
+que le montant de la commission d'acquisition et de tout honoraire demandés aux clients.
 
 Lorsque l'investissement est exploité dans une collectivité d'outre-mer ou en Nouvelle-Calédonie, l'administration fiscale
-transmet au représentant de l'Etat les informations mentionnées à la seconde phrase de l'alinéa précédent. 
+transmet au représentant de l'Etat les informations mentionnées à la seconde phrase de l'alinéa précédent.
 
 Lorsque le montant de l'investissement dépasse le seuil au-delà duquel l'avantage fiscal est conditionné à l'agrément
 préalable du ministre chargé du budget, dans les conditions définies aux articles mentionnés au premier alinéa, et qu'il est
 exploité par une société dont plus de 50 % du capital sont détenus par une ou plusieurs personnes publiques, l'intervention
 éventuelle des entreprises mentionnées au premier alinéa est subordonnée à leur mise en concurrence, dans des conditions
 fixées par le décret mentionné à l'avant-dernier alinéa. Cette mise en concurrence conditionne le bénéfice de l'avantage en
-impôt. 
+impôt.
 
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat. 
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 Le présent article n'est pas applicable aux investissements réalisés avant la date de promulgation de la loi n° 2011-1977 du
 28 décembre 2011 de finances pour 2012, ni aux opérations pour lesquelles la délivrance d'un agrément a été sollicitée avant
@@ -45,14 +50,14 @@ au premier alinéa ont été missionnées avant la date de promulgation de la lo
 
 **Nota:**
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
-l'article 242 septies, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à compter
-du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit de
-l'Union européenne. 
+Conformément à l'article 131 III B 1 et 2 de la loi n° 2018-1317 du 28 décembre 2018, l'inscription sur le registre public
+mentionné à l'article 242 septies du code général des impôts, dans sa rédaction résultant du 4° du I du présent article, doit
+être sollicitée à compter du 1er janvier 2019 lorsque l'inscription initiale sur le registre tenu par le représentant de
+l'Etat dans le département ou la collectivité concerné date de trois ans révolus. L'inscription initiale reste acquise tant
+que l'autorité compétente ne s'est pas formellement prononcée sur la demande de renouvellement.
 
-Le III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 a été modifié par l'article 67 de la loi n° 2014-1655 du 29
-décembre 2014. Il en résulte que les dispositions de l'article 242 septies, dans leur rédaction issue de la loi n° 2013-1278,
-sont applicables aux investissements réalisés à compter du 1er janvier 2015.
+L'article 242 septies, dans sa rédaction résultant du 4° du I, s'applique aux premières inscriptions et aux renouvellements
+d'inscription sur le registre public mentionné au même article 242 septies effectués à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -60,12 +65,12 @@ _Cite_:
 
   - Loi n°2011-1977 du 28 décembre 2011
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 217 undecies (V)
-  - Code général des impôts, CGI. - art. 244 quater W (V)
+  - Code général des impôts, CGI. - art. 217 undecies
+  - Code général des impôts, CGI. - art. 244 quater W
 
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 78
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 131 (V)
 
 _Cité par_:
 
@@ -74,4 +79,4 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1740-00 AB (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 BK (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 BL (V)
-  - Livre des procédures fiscales - art. L135 Z (M)
+  - Livre des procédures fiscales - art. L135 Z (V)
