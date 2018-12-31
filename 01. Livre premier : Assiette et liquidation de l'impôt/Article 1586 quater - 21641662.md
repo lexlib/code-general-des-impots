@@ -24,11 +24,11 @@ Les taux mentionnés aux b, c et d sont exprimés en pourcentages et arrondis au
 
 Pour l'application du présent article, le chiffre d'affaires s'entend de celui mentionné au 1 du II de l'article 1586 ter.
 
-I bis.-Lorsqu'une entreprise, quels que soient son régime d'imposition des bénéfices, le lieu d'établissement, la composition
-du capital et le régime d'imposition des bénéfices des entreprises qui la détiennent, remplit les conditions de détention
-fixées au I de l'article 223 A pour être membre d'un groupe, le chiffre d'affaires à retenir pour l'application du I du
-présent article s'entend de la somme de son chiffre d'affaires et des chiffres d'affaires des entreprises qui remplissent les
-mêmes conditions pour être membres du même groupe.
+I bis. – Lorsqu'une entreprise, quels que soient son régime d'imposition des bénéfices, le lieu d'établissement, la
+composition du capital et le régime d'imposition des bénéfices des entreprises qui la détiennent, remplit les conditions de
+détention fixées au I de l'article 223 A pour être membre d'un groupe, le chiffre d'affaires à retenir pour l'application du
+I du présent article s'entend de la somme de son chiffre d'affaires et des chiffres d'affaires des entreprises qui
+remplissent les mêmes conditions pour être membres du même groupe.
 
 Le premier alinéa du présent I bis s'applique, y compris lorsque les entreprises mentionnées à ce même premier alinéa ne sont
 pas membres d'un groupe mentionné aux articles 223 A ou 223 A bis.
@@ -64,21 +64,11 @@ au cours des six mois qui précèdent la date de réalisation de l'opération me
 Le présent III ne s'applique plus à compter de la huitième année suivant l'opération d'apport, de cession d'activité, de
 scission d'entreprise ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil en cause.
 
-**Nota:**
-
-Conformément à la décision n° 2017-629 QPC du 19 mai 2017 (NOR: CSCX1714790S), Art. 1 : Le premier alinéa du paragraphe I bis
-de l'article 1586 quater du code général des impôts, dans sa rédaction résultant de la loi n° 2010-1657 du 29 décembre 2010
-de finances pour 2011, est contraire à la Constitution. Conformément à l'article 2 de ladite décision, la déclaration
-d'inconstitutionnalité prend effet dans les conditions fixées au paragraphe 13 de cette décision (En l'espèce, aucun motif ne
-justifie de reporter les effets de la déclaration d'inconstitutionnalité. Celle-ci intervient donc à compter de la date de
-publication de la présente décision. Elle est applicable à toutes les affaires non jugées définitivement à cette date, sous
-réserve du respect des délais et conditions prévus par le livre des procédures fiscales.).
-
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cité par_:
 
@@ -91,12 +81,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 11 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 11 (M)
   - Loi n°2017-1837 du 30 décembre 2017 - art. 15 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1586 ter
-  - Code général des impôts, CGI. - art. 219
-  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 1586 ter (V)
   - Code civil - art. 1844-5
