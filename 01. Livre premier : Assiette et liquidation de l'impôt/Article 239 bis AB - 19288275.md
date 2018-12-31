@@ -33,15 +33,16 @@ l'exclusion de la gestion de son propre patrimoine mobilier ou immobilier ;
 
 3° La société est créée depuis moins de cinq ans. 
 
-Les conditions mentionnées aux 1° et 2° ainsi que la condition de détention du capital mentionnée au I s'apprécient de
-manière continue au cours des exercices couverts par l'option. Lorsque l'une d'entre elles n'est plus respectée au cours de
-l'un de ces exercices, l'article 206 est applicable à la société, à compter de ce même exercice. Toutefois, lorsque le seuil
-de cinquante salariés mentionné au 2° du présent II est atteint ou dépassé au cours d'un exercice clos à compter du 31
-décembre 2015 et jusqu'au 31 décembre 2018, le régime défini au présent article continue de s'appliquer au titre de cet
-exercice et des deux exercices suivants, dans la limite de la période de validité de l'option mentionnée au deuxième alinéa
-du III.
+La condition relative à l'effectif salarié mentionnée au 2° du présent II est appréciée selon les modalités prévues au I de
+l'article L. 130-1 du code de la sécurité sociale. En cas de dépassement du seuil d'effectif salarié déterminé selon les
+modalités prévues au II du même article L. 130-1, l'article 206 du présent code devient applicable à la société. 
 
-La condition mentionnée au 3° s'apprécie à la date d'ouverture du premier exercice d'application de l'option. 
+Les conditions mentionnées aux 1° et 2° du présent II, autres que celle relative à l'effectif salarié, ainsi que la condition
+de détention du capital mentionnée au I s'apprécient de manière continue au cours des exercices couverts par l'option.
+Lorsque l'une de ces conditions n'est plus respectée au cours de l'un de ces exercices, l'article 206 est applicable à la
+société, à compter de ce même exercice. 
+
+La condition mentionnée au 3° du présent II s'apprécie à la date d'ouverture du premier exercice d'application de l'option. 
 
 III.-L'option ne peut être exercée qu'avec l'accord de tous les associés, à l'exclusion des associés mentionnés au deuxième
 alinéa du I. Elle doit être notifiée au service des impôts auprès duquel est souscrite la déclaration de résultats dans les
@@ -53,23 +54,30 @@ d'ouverture de l'exercice à compter duquel la renonciation s'applique.
 En cas de sortie anticipée du régime fiscal des sociétés de personnes, quel qu'en soit le motif, la société ne peut plus
 opter à nouveau pour ce régime en application du présent article.
 
+**Nota:**
+
+Conformément au III B de l’article 12 de la loi n° 2019-486 du 22 mai 2019, ces dispositions s'appliquent aux exercices
+ouverts à compter du 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°85-695 du 11 juillet 1985 - art. 1-1
+  - Ordonnance n°2013-676 du 25 juillet 2013 (V)
   - Code général des impôts, CGI. - art. 163 quinquies B
-  - Code général des impôts, CGI. - art. 206
+  - Code général des impôts, CGI. - art. 206 (V)
   - Code général des impôts, CGI. - art. 208 D
   - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 6
   - Code monétaire et financier - art. L214-30
-  - Code monétaire et financier - art. L214-31
+  - Code monétaire et financier - art. L214-31 (V)
   - Code monétaire et financier - art. L214-37
+  - Code de la sécurité sociale. - art. L130-1
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 15 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 12 (V)
 
 _Cité par_:
 
