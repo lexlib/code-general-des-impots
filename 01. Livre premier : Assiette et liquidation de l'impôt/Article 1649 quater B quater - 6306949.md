@@ -1,6 +1,6 @@
 # Article 1649 quater B quater
 
-I. – Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie
+I. - Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie
 électronique.
 
 Cette obligation s'applique également aux entreprises qui appartiennent à l'une des catégories suivantes :
@@ -35,31 +35,30 @@ Cette obligation s'applique en outre aux personnes morales ou groupements de per
 le dépôt de leurs déclarations fiscales auprès du service chargé des grandes entreprises dans des conditions fixées par
 décret.
 
-II. – Les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles ainsi
+II. - Les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles ainsi
 que leurs annexes sont souscrites par voie électronique.
 
-III. – Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette
+III. - Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette
 taxe, ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par
 voie électronique.
 
-IV. – Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie
+IV. - Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie
 électronique.
 
-V. – L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis
+V. - L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis
 bénéficiant du régime visé à l'article 293 B peuvent le déposer sur support papier.
 
-VI. – Les déclarations de résultats des sociétés immobilières non soumises à l'impôt sur les sociétés ainsi que leurs annexes
-sont souscrites par voie électronique par les entreprises définies aux deuxième à dernier alinéas du I et par les sociétés
-dont le nombre d'associés est supérieur ou égal à 100.
+VI. - Les déclarations de résultats des sociétés immobilières non soumises à l'impôt sur les sociétés ainsi que leurs annexes
+sont souscrites par voie électronique.
 
-VII. – Les déclarations ou relevés mentionnés aux 1 et 3 du III de l'article 302 D, au deuxième alinéa du I de l'article 302
+VII. - Les déclarations ou relevés mentionnés aux 1 et 3 du III de l'article 302 D, au deuxième alinéa du I de l'article 302
 H ter, au deuxième alinéa du II de l'article 520 A, au deuxième alinéa de l'article 575 C et aux articles 568, 1618 septies
-et 1619 ainsi que les déclarations relatives à l'impôt sur les cercles et maisons de jeux prévu à l'article 1559 sont
-souscrits par voie électronique. Les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils
-sont établis par un ou plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information
-permettant d'accéder à internet, établissent ces déclarations ou relevés sur papier.
+et 1619 ainsi que les déclarations relatives à l'impôt sur les maisons de jeux prévu à l'article 1559 sont souscrits par voie
+électronique. Les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou
+plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information permettant d'accéder à
+internet, établissent ces déclarations ou relevés sur papier.
 
-VIII. – Les redevables mentionnés au II de l'article 117 quater et au I de l'article 125 A souscrivent leurs déclarations par
+VIII. - Les redevables mentionnés au II de l'article 117 quater et au I de l'article 125 A souscrivent leurs déclarations par
 voie électronique lorsqu'ils sont uniquement redevables des prélèvements mentionnés :
 
 1° A l'article 117 quater ;
@@ -72,15 +71,20 @@ spécifique et de titres consignés ;
 3° A l'article L. 138-21 du code de la sécurité sociale, opérés sur les revenus soumis aux prélèvements mentionnés aux 1° et
 2° du présent VIII.
 
-IX. – Les redevables des prélèvements et retenues à la source prévus aux articles 117 quater, 119 bis, 125-0 A, 125 A et 1678
+IX. - Les redevables des prélèvements et retenues à la source prévus aux articles 117 quater, 119 bis, 125-0 A, 125 A et 1678
 bis du présent code et à l'article L. 138-21 du code de la sécurité sociale souscrivent leurs déclarations par voie
 électronique.
 
-X. – Les déclarations relatives à la retenue à la source mentionnée à l'article 1673 bis sont souscrites par voie
+X. - Les déclarations relatives à la retenue à la source mentionnée à l'article 1673 bis sont souscrites par voie
 électronique.
 
-XI. – La déclaration récapitulative de réductions et crédits d'impôts prévue en matière d'impôt sur les sociétés, de
+XI. - La déclaration récapitulative de réductions et crédits d'impôts prévue en matière d'impôt sur les sociétés, de
 bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles est souscrite par voie
+électronique.
+
+XII. - Les déclarations mentionnées aux articles 990 E et 990 F sont souscrites par voie électronique.
+
+XIII. - La déclaration de crédit d'impôt pour dépenses de recherche mentionné à l'article 244 quater B est souscrite par voie
 électronique.
 
 **Nota:**
@@ -95,14 +99,9 @@ général des impôts s'applique à compter d'une date fixée par décret et au 
 Le I de l'article 2 du décret n° 2018-756 du 28 août 2018 fixe la date d'application du IX dudit article aux déclarations
 souscrites au titre des revenus distribués à compter du 1er septembre 2018.
 
+LOI n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017 article 76 II : conditions d'application.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 72 (V)
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 15 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 28 (V)
 
 _Cité par_:
 
@@ -121,3 +120,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1698 D (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 I ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
+
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 34 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 76 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 28 (V)
