@@ -1,7 +1,7 @@
 # Article 1565 septies
 
-L'impôt sur les cercles et maisons de jeux est constaté, recouvré et contrôlé suivant les règles, garanties et sanctions
-propres aux contributions indirectes.
+L'impôt sur les maisons de jeux est constaté, recouvré et contrôlé suivant les règles, garanties et sanctions propres aux
+contributions indirectes.
 
 **Liens relatifs à cet article**
 
@@ -11,7 +11,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 21
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 34 (V)
 
 _Cité par_:
 
