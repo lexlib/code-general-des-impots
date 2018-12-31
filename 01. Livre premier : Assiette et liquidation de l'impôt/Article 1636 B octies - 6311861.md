@@ -46,6 +46,10 @@ A compter des impositions établies au titre de l'année 2016, les recettes de t
 du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
 précédente à l'ensemble des communes situées dans le ressort de l'établissement public foncier.
 
+A compter des impositions établies au titre de l'année 2019, les recettes que la taxe foncière sur les propriétés bâties a
+procurées sur le territoire de la Ville de Paris sont, pour l'application du I, minorées de la part que cette taxe a procurée
+au titre de l'année 2018 au département de Paris.
+
 III. – Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre
 les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes que
 chacune de ces taxes procurerait à la commune si l'on appliquait les taux de l'année précédente aux bases de l'année
@@ -84,8 +88,8 @@ alinéa.
 
 **Nota:**
 
-Aux termes de l'article 73 II de la loi n° n° 2016-1918 du 29 décembre 2016, ces dispositions s'appliquent à compter des
-impositions dues au titre de 2018.
+Conformément à l'article 18 de l'ordonnance n° 2018-75 du 8 février 2018, les présentes dispositions s'appliquent à compter
+des impositions établies au titre de 2019.
 
 **Liens relatifs à cet article**
 
@@ -102,9 +106,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 73 (V)
-  - Décret n°2017-698 du 2 mai 2017 - art. 1
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 1
 
 _Cité par_:
 
