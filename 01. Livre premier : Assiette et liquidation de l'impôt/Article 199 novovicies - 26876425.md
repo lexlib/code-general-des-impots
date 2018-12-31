@@ -1,14 +1,16 @@
 # Article 199 novovicies
 
-I. – A. – Les contribuables domiciliés en France, au sens de l'article 4 B, qui acquièrent, entre le 1er janvier 2013 et le
-31 décembre 2021, un logement neuf ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le revenu à
-condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale fixée, sur option du
-contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration des revenus de l'année
-d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est irrévocable pour le logement considéré.
+I. – A. – Les contribuables qui acquièrent, entre le 1er janvier 2013 et le 31 décembre 2021, alors qu'ils sont domiciliés en
+France au sens de l'article 4 B, un logement neuf ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le
+revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale fixée, sur
+option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration des revenus de
+l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est irrévocable pour le logement considéré.
 
-La réduction d'impôt s'applique, dans les mêmes conditions, lorsque l'immeuble est la propriété d'une société non soumise à
-l'impôt sur les sociétés, autre qu'une société civile de placement immobilier, à la condition que le porteur de parts
-s'engage à conserver la totalité de ses titres jusqu'à l'expiration de l'engagement de location mentionné au premier alinéa.
+La réduction d'impôt s'applique, dans les mêmes conditions, à l'associé d'une société non soumise à l'impôt sur les sociétés,
+autre qu'une société civile de placement immobilier, lorsque l'acquisition du logement est réalisée, alors que l'associé est
+domicilié en France au sens du même article 4 B, par l'intermédiaire d'une telle société et à la condition que le porteur de
+parts s'engage à conserver la totalité de ses titres jusqu'à l'expiration de l'engagement de location mentionné au premier
+alinéa.
 
 B. – La réduction d'impôt s'applique également dans les mêmes conditions :
 
@@ -27,17 +29,23 @@ logement neuf ;
 4° Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2013 et le 31
 décembre 2021 et qui fait ou qui a fait l'objet de travaux de transformation en logement.
 
+5° Au logement que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2021 et qui fait ou qui a fait
+l'objet de travaux de rénovation définis par décret, ainsi qu'au local affecté à un usage autre que l'habitation que le
+contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de
+transformation en logement. Le montant des travaux, facturés par une entreprise, doit représenter au moins 25 % du coût total
+de l'opération.
+
 C. – L'achèvement du logement doit intervenir dans les trente mois qui suivent la date de la signature de l'acte authentique
 d'acquisition, dans le cas d'un logement acquis en l'état futur d'achèvement, ou la date de l'obtention du permis de
 construire, dans le cas d'un logement que le contribuable fait construire.
 
-Pour les logements qui font l'objet des travaux mentionnés aux 2°, 3° et 4° du B après l'acquisition par le contribuable,
+Pour les logements qui font l'objet des travaux mentionnés aux 2° à 5° du B après l'acquisition par le contribuable,
 l'achèvement de ces travaux doit intervenir au plus tard le 31 décembre de la deuxième année qui suit celle de l'acquisition
 du local ou du logement concerné.
 
-Pour les logements qui ont fait l'objet des travaux mentionnés aux mêmes 2°, 3° et 4° avant l'acquisition par le
-contribuable, la réduction d'impôt s'applique aux logements qui n'ont pas été utilisés ou occupés à quelque titre que ce soit
-depuis l'achèvement des travaux.
+Pour les logements qui ont fait l'objet des travaux mentionnés aux mêmes 2° à 5° avant l'acquisition par le contribuable, la
+réduction d'impôt s'applique aux logements qui n'ont pas été utilisés ou occupés à quelque titre que ce soit depuis
+l'achèvement des travaux.
 
 D. – La location ne peut pas être conclue avec un membre du foyer fiscal du contribuable ou, lorsque le logement est la
 propriété d'une société non soumise à l'impôt sur les sociétés, autre qu'une société civile de placement immobilier, avec
@@ -74,16 +82,24 @@ Les plafonds de loyer mentionnés au premier alinéa peuvent être réduits, dan
 représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement mentionné à l'article L.
 364-1 du code de la construction et de l'habitation, afin d'être adaptés aux particularités des marchés locatifs locaux.
 
-IV. – La réduction d'impôt s'applique exclusivement aux logements situés dans des communes classées, par arrêté des ministres
-chargés du budget et du logement, dans des zones géographiques se caractérisant par un déséquilibre important entre l'offre
-et la demande de logements entraînant des difficultés d'accès au logement sur le parc locatif existant et aux logements
-situés dans des communes dont le territoire est couvert par un contrat de redynamisation de site de défense.
+IV. – Sous réserve des dispositions du IV bis, la réduction d'impôt s'applique exclusivement aux logements situés dans des
+communes classées, par arrêté des ministres chargés du budget et du logement, dans des zones géographiques se caractérisant
+par un déséquilibre important entre l'offre et la demande de logements entraînant des difficultés d'accès au logement sur le
+parc locatif existant et aux logements situés dans des communes dont le territoire est couvert par un contrat de
+redynamisation de site de défense ou l'a été dans un délai de huit ans précédant l'investissement.
+
+IV bis.-La réduction d'impôt mentionnée au 5° du B du I s'applique exclusivement aux logements situés dans le centre des
+communes dont le besoin de réhabilitation de l'habitat en centre-ville est particulièrement marqué ou qui ont conclu une
+convention d'opération de revitalisation de territoire prévue à l'article L. 303-2 du code de la construction et de
+l'habitation. Les modalités d'application du présent IV bis, notamment la liste des communes répondant à la condition liée au
+besoin de réhabilitation de l'habitat en centre-ville et la détermination du centre des communes éligibles, sont fixées par
+arrêté des ministres chargés du logement et du budget.
 
 V. – A. – La réduction d'impôt est calculée sur le prix de revient d'au plus deux logements, retenu dans la limite d'un
 plafond par mètre carré de surface habitable fixé par décret et sans pouvoir dépasser la limite de 300 000 € par contribuable
 et pour une même année d'imposition.
 
-Lorsque la réduction d'impôt est acquise au titre des 2° à 4° du B du I, le prix de revient mentionné au premier alinéa du
+Lorsque la réduction d'impôt est acquise au titre des 2° à 5° du B du I, le prix de revient mentionné au premier alinéa du
 présent A s'entend du prix d'acquisition du local ou du logement augmenté du prix des travaux.
 
 B. – Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la réduction d'impôt dans la limite de la
@@ -104,6 +120,10 @@ accordée au titre de l'année d'achèvement du logement, ou de son acquisition 
 dû au titre de cette même année, puis sur l'impôt dû au titre de chacune des cinq ou huit années suivantes à raison d'un
 sixième ou d'un neuvième de son montant total au titre de chacune de ces années.
 
+En cas de transfert du domicile fiscal du contribuable hors de France durant cette période, la réduction d'impôt s'impute,
+dans les conditions prévues au premier alinéa du présent VII, sur l'impôt établi dans les conditions prévues à l'article 197
+A, avant imputation des prélèvements ou retenues non libératoires. Elle ne peut pas donner lieu à remboursement.
+
 VII bis. – A. – A l'issue de la période couverte par l'engagement de location mentionnée au I, lorsque le logement reste loué
 par période triennale dans les conditions prévues au III, le contribuable peut continuer à bénéficier de la réduction d'impôt
 prévue au présent article, à la condition de proroger son engagement initial pour au plus :
@@ -119,9 +139,14 @@ B. – Pour l'application du A du présent VII bis, la réduction d'impôt est i
 de son montant sur l'impôt dû au titre de l'année au cours de laquelle l'engagement de location a été prorogé et des deux
 années suivantes.
 
-VIII. – A. – La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement
-immobilier régie par le paragraphe 4 de la sous-section 2 de la section 2 du chapitre IV du titre Ier du livre II du code
-monétaire et financier dont la quote-part de revenu est, en application de l'article 8 du présent code, soumise en son nom à
+En cas de transfert du domicile fiscal du contribuable hors de France durant cette période, la réduction d'impôt s'impute,
+dans les conditions prévues au premier alinéa du présent B, sur l'impôt établi dans les conditions prévues à l'article 197 A,
+avant imputation des prélèvements ou retenues non libératoires. Elle ne peut pas donner lieu à remboursement.
+
+VIII. – A. – La réduction d'impôt est applicable, dans les mêmes conditions, au titre de la souscription par les
+contribuables, alors qu'ils sont domiciliés en France au sens de l'article 4 B, de parts de sociétés civiles de placement
+immobilier régies par le paragraphe 4 de la sous-section 2 de la section 2 du chapitre IV du titre Ier du livre II du code
+monétaire et financier dont la quote-part de revenu est, en application de l'article 8 du présent code, soumise en leur nom à
 l'impôt sur le revenu dans la catégorie des revenus fonciers.
 
 B. – La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de propriété est démembré, est subordonnée à la
@@ -148,6 +173,10 @@ au titre de l'année de la souscription et imputée sur l'impôt dû au titre de
 de chacune des cinq ou huit années suivantes à raison d'un sixième ou d'un neuvième de son montant total au titre de chacune
 de ces années.
 
+En cas de transfert du domicile fiscal du contribuable hors de France durant cette période, la réduction d'impôt s'impute,
+dans les conditions prévues au premier alinéa du présent F, sur l'impôt établi dans les conditions prévues à l'article 197 A,
+avant imputation des prélèvements ou retenues non libératoires. Elle ne peut pas donner lieu à remboursement.
+
 IX. – (Abrogé).
 
 X. – Le montant total des dépenses retenu pour l'application du présent article au titre, d'une part, de l'acquisition ou de
@@ -162,8 +191,19 @@ L. 550-1 dudit code ou qui se livrent ou prêtent leur concours à l'opération 
 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles
 et les fonds de commerce ne peut excéder un plafond exprimé en pourcentage du prix de revient et fixé par décret.
 
-Tout manquement à ces interdictions est passible d'une amende dont le montant ne peut excéder dix fois les frais indûment
-perçus.
+Pour l'application du présent X bis, les frais et commissions directs et indirects s'entendent des frais et commissions
+versés par le promoteur ou le vendeur aux intermédiaires mentionnés au premier alinéa.
+
+Ces dispositions s'appliquent à toutes les acquisitions de logements mentionnées au A du I, pour lesquelles l'acquéreur
+demande le bénéfice de la réduction d'impôt prévue au présent article.
+
+Une estimation du montant des frais et commissions directs et indirects effectivement imputés ainsi que leur part dans le
+prix de revient sont communiquées à l'acquéreur lors de la signature du contrat prévu à l'article L. 261-15 du code de la
+construction et de l'habitation. Le montant définitif de ces frais et commissions figure dans l'acte authentique
+d'acquisition du logement.
+
+Tout dépassement du plafond prévu au premier alinéa du présent X bis est passible d'une amende administrative due par le
+vendeur cosignataire de l'acte authentique. Son montant ne peut excéder dix fois les frais excédant le plafond.
 
 XI. – A. – La réduction d'impôt obtenue fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient :
 
@@ -201,26 +241,35 @@ qui servent à financer des logements faisant l'objet d'un engagement de locatio
 
 **Nota:**
 
-Conformément aux dispositions du III de l'article 68 de la loi n° 2017-1837 du 30 décembre 2017, l'articles 199 novovicies
-dans sa rédaction résultant des dispositions du c du 1° du I dudit article 68 s'applique aux acquisitions de logements et,
-s'agissant des logements que le contribuable fait construire, aux dépôts de demande de permis de construire postérieurs au 31
-décembre 2017.
+Conformément aux dispositions du III de l'article 68 de la loi n° 2017-1837 du 30 décembre 2017 modifié par l'article 187 de
+la loi n° 2018-1317 du 28 décembre 2018, l'articles 199 novovicies dans sa rédaction résultant des dispositions du c du 1° du
+I dudit article 68 s'applique aux acquisitions de logements et, s'agissant des logements que le contribuable fait construire,
+aux dépôts de demande de permis de construire postérieurs au 31 décembre 2017.
 
 Toutefois, le même c ne s'applique pas aux acquisitions de logements ayant fait l'objet d'un dépôt de demande de permis de
-construire au plus tard le 31 décembre 2017 et à la condition que cette acquisition soit réalisée au plus tard le 31 décembre
-2018..
+construire au plus tard le 31 décembre 2017 et à la condition que cette acquisition soit réalisée au plus tard le 15 mars
+2019.
+
+Conformément au I de l'article 188 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 199 novovicies
+telles qu'elles résultent des dispositions du I dudit article s'appliquent aux investissements réalisés à compter du 1er
+janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - Loi n°70-9 du 2 janvier 1970 - art. 1
   - Loi n°89-462 du 6 juillet 1989 - art. 6
   - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 199 undecies C
+  - Code général des impôts, CGI. - art. 199 undecies C (V)
   - Code général des impôts, CGI. - art. 257
   - Code général des impôts, CGI. - art. 4 B
+  - Code monétaire et financier - art. L321-1
+  - Code monétaire et financier - art. L341-1
+  - Code monétaire et financier - art. L550-1
   - Code de la sécurité sociale. - art. L341-4
+  - Code de la construction et de l'habitation. - art. L261-15
   - Code de la construction et de l'habitation. - art. L364-1
   - Code de la construction et de l'habitation. - art. R331-1
 
@@ -262,5 +311,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 68 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 68 (M)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 68 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 11
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 188
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 189
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 226
