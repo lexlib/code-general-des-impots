@@ -55,10 +55,11 @@ IV. – Pour l'application du présent article, le transfert par le titulaire du
 entraîne les mêmes conséquences qu'une clôture du compte. Dans ce cas, l'article 167 bis est applicable :
 
 1° Aux plus-values réalisées dans les conditions du I du présent article. Ces plus-values sont prises en compte pour
-l'établissement de l'impôt sur le revenu, déterminé conformément au II bis de l'article 167 bis, et des prélèvements sociaux.
-Lorsque les impositions dues à raison de ces plus-values sont placées en sursis de paiement, ce sursis expire dans les
-conditions prévues pour l'imposition desdites plus-values suivant les dispositions du présent article pour un contribuable
-domicilié fiscalement en France ;
+l'établissement de l'impôt sur le revenu, déterminé conformément au II bis de l'article 167 bis, des prélèvements prévus au
+1° du I de l'article 235 ter, à l'article L. 136-6 du code de la sécurité sociale et à l'article 15 de l'ordonnance n° 96-50
+du 24 janvier 1996 relative au remboursement la dette sociale. Lorsque les impositions dues à raison de ces plus-values sont
+placées en sursis de paiement, ce sursis expire dans les conditions prévues pour l'imposition desdites plus-values suivant
+les dispositions du présent article pour un contribuable domicilié fiscalement en France ;
 
 2° Aux plus-values latentes constatées à la date du transfert du domicile fiscal sur les titres ou droits inscrits dans le
 compte. Ces plus-values sont imposables dans les conditions de droit commun prévues au 1 du I de l'article 167 bis.
@@ -68,17 +69,16 @@ compte. Ces plus-values sont imposables dans les conditions de droit commun pré
 _Cité par_:
 
   - Loi n°2016-1918 du 29 décembre 2016 - art. 31 (V)
-  - Code de la sécurité sociale. - art. L136-6 (VT)
+  - Code de la sécurité sociale. - art. L136-6 (M)
   - Code général des impôts, CGI. - art. 150-0 A (V)
   - Code monétaire et financier - art. L221-32-7 (V)
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 28 (V)
+  - Loi n°2018-1203 du 22 décembre 2018 - art. 26 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 150-0 D
   - Code général des impôts, CGI. - art. 150-0 D ter
   - Code général des impôts, CGI. - art. 163 quinquies B
   - Code général des impôts, CGI. - art. 163 quinquies C
