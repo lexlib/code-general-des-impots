@@ -1,10 +1,10 @@
 # Article 1647 C septies
 
 I. – Les redevables de la cotisation foncière des entreprises et les entreprises temporairement exonérées de cet impôt au
-titre de l'un ou plusieurs de leurs établissements en application des articles 1464 B à 1464 D, 1464 I, 1464 M, 1466 A, 1466
-C et 1466 D peuvent bénéficier d'un crédit d'impôt, pris en charge par l'Etat et égal à 750 € par salarié employé depuis au
-moins un an au 1er janvier de l'année d'imposition dans l'établissement au titre duquel le crédit d'impôt est demandé,
-lorsque les conditions suivantes sont réunies :
+titre de l'un ou plusieurs de leurs établissements en application des articles 1464 B à 1464 D, 1464 I, 1464 I bis, 1464 M,
+1466 A, 1466 B, 1466 B bis, 1466 C et 1466 D peuvent bénéficier d'un crédit d'impôt, pris en charge par l'Etat et égal à 750
+€ par salarié employé depuis au moins un an au 1er janvier de l'année d'imposition dans l'établissement au titre duquel le
+crédit d'impôt est demandé, lorsque les conditions suivantes sont réunies :
 
 1° L'établissement relève d'une entreprise employant au plus onze salariés au 1er janvier de chaque année d'application du
 crédit d'impôt et ayant réalisé soit un chiffre d'affaires inférieur à 2 millions d'euros au cours de la période de référence
@@ -47,6 +47,11 @@ VII. – Le bénéfice du crédit d'impôt est subordonné au respect du règlem
 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
 aides de minimis.
 
+**Nota:**
+
+Conformément au II de l'article 174 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent à compter des
+impositions établies au titre de 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -64,14 +69,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A bis
   - Code général des impôts, CGI. - art. 34
 
-_Créé par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (VD)
-
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 67 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 174 (V)
 
 _Cité par_:
 
