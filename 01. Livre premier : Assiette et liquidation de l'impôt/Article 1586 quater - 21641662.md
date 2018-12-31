@@ -1,6 +1,6 @@
 # Article 1586 quater
 
-I. – Les entreprises bénéficient d'un dégrèvement de cotisation sur la valeur ajoutée des entreprises. Il est égal à la
+I.-Les entreprises bénéficient d'un dégrèvement de cotisation sur la valeur ajoutée des entreprises. Il est égal à la
 différence entre le montant de cette cotisation et l'application à la valeur ajoutée mentionnée au 1 du II de l'article 1586
 ter d'un taux calculé de la manière suivante :
 
@@ -36,10 +36,10 @@ pas membres d'un groupe mentionné aux articles 223 A ou 223 A bis.
 Ledit premier alinéa n'est pas applicable lorsque la somme des chiffres d'affaires mentionnée au même premier alinéa est
 inférieure à 7 630 000 €.
 
-II. – Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000
-000 €.
+II.-Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000 000
+€.
 
-III. – En cas d'apport, de cession d'activité ou de scission d'entreprise réalisés à compter du 22 octobre 2009 ou de
+III.-En cas d'apport, de cession d'activité ou de scission d'entreprise réalisés à compter du 22 octobre 2009 ou de
 transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil réalisée à compter du 1er janvier 2010, le
 chiffre d'affaires à retenir pour l'application du I du présent article est égal à la somme des chiffres d'affaires des
 entreprises parties à l'opération lorsque l'entité à laquelle l'activité est transmise est détenue, directement ou
@@ -49,14 +49,14 @@ entreprises issues de la scission réunies, soit par une entreprise détenue, di
 l'entreprise cédante ou apporteuse ou par les associés de l'entreprise scindée réunis, tant que les conditions suivantes sont
 simultanément remplies :
 
-– la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante,
+- la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante,
 apporteuse ou scindée et, d'autre part, par le nouvel exploitant est inférieure, sans application du premier alinéa, d'au
 moins 10 % aux impositions au titre de la cotisation sur la valeur ajoutée des entreprises qui auraient été dues par ces
 mêmes entreprises en l'absence de réalisation de l'opération, minorées des dégrèvements prévus au présent article ;
 
-– l'activité continue d'être exercée par ces dernières ou par une ou plusieurs de leurs filiales ;
+- l'activité continue d'être exercée par ces dernières ou par une ou plusieurs de leurs filiales ;
 
-– les entreprises en cause ont des activités similaires ou complémentaires.
+- les entreprises en cause ont des activités similaires ou complémentaires.
 
 Les conditions d'exercice de la détention de capital prévues au premier alinéa doivent être remplies à un moment quelconque
 au cours des six mois qui précèdent la date de réalisation de l'opération mentionnée au premier alinéa.
@@ -64,21 +64,11 @@ au cours des six mois qui précèdent la date de réalisation de l'opération me
 Le présent III ne s'applique plus à compter de la huitième année suivant l'opération d'apport, de cession d'activité, de
 scission d'entreprise ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil en cause.
 
-**Nota:**
-
-Conformément à la décision n° 2017-629 QPC du 19 mai 2017 (NOR: CSCX1714790S), Art. 1 : Le premier alinéa du paragraphe I bis
-de l'article 1586 quater du code général des impôts, dans sa rédaction résultant de la loi n° 2010-1657 du 29 décembre 2010
-de finances pour 2011, est contraire à la Constitution. Conformément à l'article 2 de ladite décision, la déclaration
-d'inconstitutionnalité prend effet dans les conditions fixées au paragraphe 13 de cette décision (En l'espèce, aucun motif ne
-justifie de reporter les effets de la déclaration d'inconstitutionnalité. Celle-ci intervient donc à compter de la date de
-publication de la présente décision. Elle est applicable à toutes les affaires non jugées définitivement à cette date, sous
-réserve du respect des délais et conditions prévus par le livre des procédures fiscales.).
-
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
 
 _Cité par_:
 
@@ -91,12 +81,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 11 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 11 (M)
   - Loi n°2017-1837 du 30 décembre 2017 - art. 15 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1586 ter
-  - Code général des impôts, CGI. - art. 219
-  - Code général des impôts, CGI. - art. 223 A
+  - Code général des impôts, CGI. - art. 1586 ter (V)
   - Code civil - art. 1844-5
