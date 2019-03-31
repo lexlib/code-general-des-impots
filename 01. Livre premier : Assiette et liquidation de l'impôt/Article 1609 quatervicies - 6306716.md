@@ -22,7 +22,7 @@ concerné.
 
 Les classes d'aérodromes ou de groupements d'aérodromes sont fixées comme suit :
 
-<table border="1" cellpadding="0" cellspacing="0" align="center">
+<table border="1" cellspacing="0" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td>
@@ -78,7 +78,7 @@ De 5 001 à 5 000 000
 Les limites supérieures et inférieures des tarifs correspondant aux classes d'aérodromes ou de groupements d'aérodromes sont
 fixées comme suit :
 
-<table cellspacing="0" align="center" cellpadding="0" border="1">
+<table align="center" border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -110,7 +110,7 @@ Tarifs par passager
 </td>
       <td>
 
-De 4,3 à 11,5 €
+De 4,3 à 10,8 €
 
 </td>
       <td>
@@ -141,12 +141,18 @@ environnementaux. Il contribue, dans une proportion fixée annuellement par arr�
 automatisé aux frontières par identification biométrique installés dans les aéroports. Le tarif de la taxe est fonction du
 besoin de financement sur chaque aérodrome ou groupement d'aérodromes, tel qu'il résulte notamment des prestations assurées
 en application de la réglementation en vigueur, et de l'évolution prévisionnelle des données relatives au trafic, aux coûts
-et aux autres produits de l'exploitant.
+et aux autres produits de l'exploitant. Pour chaque aérodrome et groupement d'aérodromes des classes 1 et 2 dont les coûts
+annuels par passager embarqué éligibles au financement par la taxe sont supérieurs ou égaux à 9 € en moyenne sur les trois
+dernières années civiles connues, le tarif est fixé de manière à couvrir 94 % des coûts éligibles supportés par son
+exploitant, sous réserve des limites fixées au tableau du sixième alinéa du présent IV. Les coûts éligibles complémentaires
+sont à la charge exclusive de cet exploitant. Pour les autres aérodromes et groupements d'aérodromes, le tarif est fixé de
+manière à couvrir l'intégralité des coûts éligibles supportés par leur exploitant, sous réserve des limites fixées au même
+tableau.
 
-Ces données font l'objet d'une déclaration par les exploitants d'aérodromes ou groupements d'aérodromes selon des modalités
-fixées par un arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation civile, qui précise la
-proportion de prise en charge des coûts qui ne sont pas directement ou totalement imputables aux missions définies au présent
-IV.
+Les données relatives au trafic, aux coûts et aux autres produits de l'exploitant font l'objet d'une déclaration par les
+exploitants d'aérodromes ou groupements d'aérodromes selon des modalités fixées par un arrêté conjoint du ministre chargé du
+budget et du ministre chargé de l'aviation civile, qui précise la proportion de prise en charge des coûts qui ne sont pas
+directement ou totalement imputables aux missions définies au présent IV.
 
 Ces données peuvent faire l'objet de contrôles sur l'année en cours et les deux années antérieures, diligentés par les
 services de la direction générale de l'aviation civile. Ces contrôles peuvent également porter sur l'adéquation des moyens
@@ -212,6 +218,11 @@ Nouvelle-Calédonie et à Mayotte, la majoration n'est pas due pour les passager
 
 VIII. ― Pour l'application du présent article, la notion de correspondance est celle définie au VI de l'article 302 bis K.
 
+**Nota:**
+
+Conformément aux dispositions du II de l'article 179 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article 1609 quatervicies telles qu'elles résultent du I dudit article entrent en vigueur le 1er avril 2019.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -262,13 +273,14 @@ _Cité par_:
   - Arrêté du 17 septembre 2018 - art. 1 (V)
   - Arrêté du 17 septembre 2018 - art. 2 (V)
   - Arrêté du 17 septembre 2018 - art. 4 (V)
-  - Code général des impôts, CGI. - art. 1647 (M)
+  - Code général des impôts, CGI. - art. 1647 (VT)
 
 _Modifié par_:
 
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 179 (V)
   - Loi n°2018-1317 du 28 décembre 2018 - art. 180
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 bis K (V)
+  - Code général des impôts, CGI. - art. 302 bis K
   - Code des transports - art. L6323-2
