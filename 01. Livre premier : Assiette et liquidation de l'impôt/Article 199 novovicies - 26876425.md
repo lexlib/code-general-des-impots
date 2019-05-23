@@ -187,7 +187,7 @@ X bis.-Le montant des frais et commissions directs et indirects imputés au titr
 droit à la réduction d'impôt prévue au présent article par les personnes physiques ou morales exerçant, au titre de
 l'acquisition, une activité de conseil ou de gestion au sens de l'article L. 321-1 du code monétaire et financier, un acte de
 démarchage au sens de l'article L. 341-1 du même code ou une activité d'intermédiation en biens divers au sens de l'article
-L. 550-1 dudit code ou qui se livrent ou prêtent leur concours à l'opération au sens de l'article 1er de la loi n° 70-9 du 2
+L. 551-1 dudit code ou qui se livrent ou prêtent leur concours à l'opération au sens de l'article 1er de la loi n° 70-9 du 2
 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles
 et les fonds de commerce ne peut excéder un plafond exprimé en pourcentage du prix de revient et fixé par décret.
 
@@ -262,7 +262,7 @@ _Cite_:
   - Loi n°89-462 du 6 juillet 1989 - art. 6
   - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 199 undecies C (M)
+  - Code général des impôts, CGI. - art. 199 undecies C
   - Code général des impôts, CGI. - art. 257
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L321-1
@@ -319,8 +319,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 68 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 11
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 188
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 189
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 226
+  - Loi n°2019-486 du 22 mai 2019 - art. 85
