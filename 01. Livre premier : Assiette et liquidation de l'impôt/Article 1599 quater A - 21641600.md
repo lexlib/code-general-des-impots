@@ -19,7 +19,7 @@ utilisation selon le barème suivant :
 TARIFS (en euros)</th>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 Engins à moteur thermique</td>
       <td align="left">
@@ -30,7 +30,7 @@ Engins à moteur thermique</td>
 Automoteur</td>
       <td align="center">
 
-32 082</td>
+32 499</td>
     </tr>
     <tr>
       <td align="left">
@@ -38,10 +38,10 @@ Automoteur</td>
 Locomotive diesel</td>
       <td align="center">
 
-32 082</td>
+32 499</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 Engins à moteur électrique</td>
       <td align="left">
@@ -52,7 +52,7 @@ Engins à moteur électrique</td>
 Automotrice</td>
       <td align="center">
 
-24 596</td>
+24 916</td>
     </tr>
     <tr>
       <td align="left">
@@ -60,7 +60,7 @@ Automotrice</td>
 Locomotive électrique</td>
       <td align="center">
 
-21 389</td>
+21 667</td>
     </tr>
     <tr>
       <td align="left">
@@ -68,7 +68,7 @@ Locomotive électrique</td>
 Motrice de matériel à grande vitesse</td>
       <td align="center">
 
-37 430</td>
+37 917</td>
     </tr>
     <tr>
       <td align="left">
@@ -76,10 +76,10 @@ Motrice de matériel à grande vitesse</td>
 Automotrice tram-train</td>
       <td align="center">
 
-12 299</td>
+12 459</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 Engins remorqués</td>
       <td align="left">
@@ -90,7 +90,7 @@ Engins remorqués</td>
 Remorque pour le transport de passagers</td>
       <td align="center">
 
-5 133</td>
+5 200</td>
     </tr>
     <tr>
       <td align="left">
@@ -98,7 +98,7 @@ Remorque pour le transport de passagers</td>
 Remorque pour le transport de passagers à grande vitesse</td>
       <td align="center">
 
-10 694</td>
+10 833</td>
     </tr>
     <tr>
       <td align="left">
@@ -106,7 +106,7 @@ Remorque pour le transport de passagers à grande vitesse</td>
 Remorque tram-train</td>
       <td align="center">
 
-2 566</td>
+2 599</td>
     </tr>
   </tbody>
 </table>
@@ -153,7 +153,7 @@ foncière des entreprises.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 37-VI B [4°] de la loi n° 2012-1510 du 29 décembre 2012.
+Modifications effectuées en conséquence de l'article 37-VI B 4° de la loi n° 2012-1510 du 29 décembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -171,7 +171,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 1
+  - Décret n°2019-559 du 6 juin 2019 - art. 1
 
 _Cite_:
 
