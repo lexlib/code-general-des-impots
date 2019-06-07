@@ -14,7 +14,9 @@ utilisation selon le barème suivant :
 <table border="1">
   <tbody>
     <tr>
-      <th>CATÉGORIE
+      <th>
+
+CATÉGORIE
 
 de matériels roulants</th>
       <th>
@@ -22,40 +24,40 @@ de matériels roulants</th>
 TARIFS (en euros)</th>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 Métro</td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 Motrice et remorque</td>
       <td align="center">
 
-13 112</td>
+13 282</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 Autre matériel</td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 Automotrice et motrice</td>
       <td align="center">
 
-24 596</td>
+24 916</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 Remorque</td>
       <td align="center">
 
-5 133</td>
+5 200</td>
     </tr>
   </tbody>
 </table>
@@ -83,7 +85,7 @@ l'établissement public " Société du Grand Paris " créé par la loi n° 2010-
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 37-VI B (4°) de la loi n° 2012-1510 du 29 décembre 2012.
+Modifications effectuées en conséquence de l'article 37-VI B 4° de la loi n° 2012-1510 du 29 décembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -106,5 +108,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
-  - Décret n°2018-500 du 20 juin 2018 - art. 1
+  - Décret n°2019-559 du 6 juin 2019 - art. 1
