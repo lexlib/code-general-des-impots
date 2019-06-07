@@ -57,14 +57,18 @@ entraîne les mêmes conséquences qu'une clôture du compte. Dans ce cas, l'art
 1° Aux plus-values réalisées dans les conditions du I du présent article. Ces plus-values sont prises en compte pour
 l'établissement de l'impôt sur le revenu, déterminé conformément au II bis de l'article 167 bis, des prélèvements prévus au
 1° du I de l'article 235 ter, à l'article L. 136-6 du code de la sécurité sociale et à l'article 15 de l'ordonnance n° 96-50
-du 24 janvier 1996 relative au remboursement la dette sociale. Lorsque les impositions dues à raison de ces plus-values sont
-placées en sursis de paiement, ce sursis expire dans les conditions prévues pour l'imposition desdites plus-values suivant
-les dispositions du présent article pour un contribuable domicilié fiscalement en France ;
+du 24 janvier 1996 relative au remboursement de la dette sociale. Lorsque les impositions dues à raison de ces plus-values
+sont placées en sursis de paiement, ce sursis expire dans les conditions prévues pour l'imposition desdites plus-values
+suivant les dispositions du présent article pour un contribuable domicilié fiscalement en France ;
 
 2° Aux plus-values latentes constatées à la date du transfert du domicile fiscal sur les titres ou droits inscrits dans le
 compte. Ces plus-values sont imposables dans les conditions de droit commun prévues au 1 du I de l'article 167 bis.
 
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 31 (V)
 
 _Cité par_:
 
@@ -75,7 +79,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1203 du 22 décembre 2018 - art. 26 (M)
+  - Loi n°2018-1203 du 22 décembre 2018 - art. 26 (V)
+  - Décret n°2019-559 du 6 juin 2019 - art. 1
 
 _Cite_:
 

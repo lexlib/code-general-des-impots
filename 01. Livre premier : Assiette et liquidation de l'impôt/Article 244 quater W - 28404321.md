@@ -162,7 +162,7 @@ l'intégration dans la politique d'aménagement du territoire, de l'environnemen
 prévues, respectivement, aux a et c du 1 du III de l'article 217 undecies, sont réputées satisfaites lorsque le programme
 d'investissements porte sur des investissements mentionnés au second alinéa du 1 du II du présent article au titre desquels
 un contrat d'achat d'électricité a été conclu avec un fournisseur d'électricité mentionné au I de l'article R. 121-28 du code
-de 1'énergie, après évaluation par la Commission de régulation de 1'énergie en application du II du même article R. 121-28.
+de l'énergie, après évaluation par la Commission de régulation de l'énergie en application du II du même article R. 121-28.
 
 VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa
 propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce
@@ -327,9 +327,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 131 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 138 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 153 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 154 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 31 (V)
+  - Décret n°2019-559 du 6 juin 2019 - art. 1
