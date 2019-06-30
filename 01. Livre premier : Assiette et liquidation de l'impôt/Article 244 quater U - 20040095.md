@@ -6,9 +6,8 @@ Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur 
 la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, peuvent
 bénéficier d'un crédit d'impôt au titre d'avances remboursables ne portant pas intérêt versées au cours de l'année
 d'imposition ou de l'exercice pour financer des travaux d'amélioration de la performance énergétique globale de logements
-achevés avant le 1er janvier 1990 en métropole, et de logements dont le permis de construire a été déposé avant le 1er mai
-2010 pour les départements de Guadeloupe, de Martinique, de Guyane, de La Réunion et de Mayotte, et utilisés ou destinés à
-être utilisés en tant que résidence principale.
+achevés depuis plus de deux ans à la date de début d'exécution des travaux et utilisés ou destinés à être utilisés en tant
+que résidence principale.
 
 2. Les travaux mentionnés au 1 sont constitués :
 
@@ -26,6 +25,8 @@ de ventilation économiques et performants, ou de production d'eau chaude sanita
 e) Travaux d'installation d'équipements de chauffage utilisant une source d'énergie renouvelable ;
 
 f) Travaux d'installation d'équipements de production d'eau chaude sanitaire utilisant une source d'énergie renouvelable ;
+
+g) Travaux d'isolation des planchers bas ; 
 
 1° bis Soit de travaux permettant d'améliorer la performance énergétique du logement et ayant ouvert droit à une aide
 accordée par l'Agence nationale de l'habitat au titre de la lutte contre la précarité énergétique ;
@@ -84,16 +85,14 @@ bis.
 6 bis. Par dérogation au 6, l'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes
 conditions à titre complémentaire aux personnes mentionnées au 3 pour financer d'autres travaux portant sur le même logement
 qui correspondent à au moins l'une des catégories mentionnées au 1° du 2. L'offre d'avance complémentaire est émise dans un
-délai de trois ans à compter de l'émission de l'offre d'avance initiale. La somme des montants de l'avance initiale et de
+délai de cinq ans à compter de l'émission de l'offre d'avance initiale. La somme des montants de l'avance initiale et de
 l'avance complémentaire ne peut excéder la somme de 30 000 € au titre d'un même logement.
 
 7. (abrogé).
 
 8. (alinéa supprimé)
 
-9. La durée de remboursement de l'avance remboursable sans intérêt ne peut excéder cent vingt mois. Cette durée est portée à
-cent quatre-vingts mois pour les travaux comportant au moins trois des six actions prévues au 1° du 2 du I et pour les
-travaux prévus au 2° du même 2
+9. La durée de remboursement de l'avance remboursable sans intérêt ne peut excéder cent quatre-vingts mois.
 
 II. – Le montant du crédit d'impôt est égal à l'écart entre la somme actualisée des mensualités dues au titre de l'avance
 remboursable sans intérêt et la somme actualisée des montants perçus au titre d'un prêt de mêmes montant et durée de
@@ -133,28 +132,35 @@ l'article 156.
 VI bis.-L'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à un
 syndicat de copropriétaires pour financer les travaux d'intérêt collectif réalisés sur les parties privatives prévus au f de
 l'article 25 de la loi n° 65-557 du 10 juillet 1965 précitée ainsi que les travaux réalisés sur les parties et équipements
-communs de l'immeuble lorsqu'au moins 75 % des quotes-parts de copropriété sont compris dans des lots affectés à l'usage
-d'habitation, détenus par l'une des personnes mentionnées aux 3° et 4° du 3 du I du présent article et utilisés ou destinés à
-être utilisés en tant que résidence principale, et sous réserve des adaptations prévues au présent VI bis.
+communs de l'immeuble, détenus par l'une des personnes mentionnées aux 3° et 4° du 3 du I du présent article et utilisés ou
+destinés à être utilisés en tant que résidence principale, et sous réserve des adaptations prévues au présent VI bis.
 
 Les travaux mentionnés au premier alinéa du présent VI bis sont constitués des travaux mentionnés aux 1°, 2° et 3° du 2 du I.
 
-L'avance prévue au premier alinéa du présent VI bis ne peut être consentie au titre d'un logement lorsque celui-ci a déjà
-bénéficié d'une avance remboursable prévue au présent article pour ce même logement.
+L'avance prévue au premier alinéa du présent VI bis peut être consentie au titre d'un logement ayant déjà fait l'objet d'une
+avance remboursable prévue au I du présent article, à la condition que l'offre relative à la seconde avance soit émise dans
+un délai de cinq ans à compter de l'émission de l'offre d'avance initiale et que la somme des montants des deux avances
+n'excède pas la somme de 30 000 € au titre d'un même logement. 
 
 Il ne peut être accordé qu'une seule avance remboursable par syndicat de copropriétaires des logements sur lesquels portent
 les travaux.
 
-Le montant de l'avance remboursable mentionné au 4 du I ne peut excéder la somme de 30 000 € par logement affecté à l'usage
-d'habitation et utilisé ou destiné à être utilisé en tant que résidence principale et détenu par l'une des personnes
-mentionnées aux 3° et 4° du 3 du même I.
+Le montant de l'avance remboursable mentionné au premier alinéa du présent VI bis ne peut excéder la somme de 30 000 € par
+logement affecté à l'usage d'habitation et utilisé ou destiné à être utilisé en tant que résidence principale et détenu par
+l'une des personnes mentionnées aux 3° et 4° du 3 du I.
 
-VI ter. – L'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à titre
-complémentaire aux personnes mentionnées aux 3° et 4° du 3 du même I lorsqu'elles participent à une avance remboursable
+Par dérogation au quatrième alinéa du présent VI bis, l'avance prévue au premier alinéa peut être consentie aux syndicats de
+copropriétaires au titre de logements ayant déjà fait l'objet d'une avance remboursable accordée en application du même VI
+bis, pour financer d'autres travaux mentionnés au premier alinéa, à la condition que l'offre d'avance complémentaire soit
+émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance initiale et que la somme des montants de l'avance
+initiale et de l'avance complémentaire n'excède pas la somme de 30 000 € au titre d'un même logement. 
+
+VI ter. – L'avance remboursable sans intérêt prévue au I du présent article peut être consentie dans les mêmes conditions à
+titre complémentaire aux personnes mentionnées aux 3° et 4° du 3 du même I lorsqu'elles participent à une avance remboursable
 mentionnée au VI bis, pour financer d'autres travaux portant sur le même logement qui correspondent à au moins l'une des
 catégories mentionnées au 1° du 2 du I et sous réserve des adaptations prévues au présent VI ter.
 
-L'offre d'avance doit être émise dans un délai d'un an à compter de l'émission de l'offre d'avance prévue au VI bis.
+L'offre d'avance doit être émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance prévue au VI bis.
 
 La somme des montants de l'avance émise au titre du présent VI ter et de l'avance émise au titre du VI bis ne peut excéder la
 somme de 30 000 € au titre d'un même logement
@@ -165,16 +171,17 @@ l'avance remboursable sans intérêt.
 
 **Nota:**
 
-Conformément aux dispositions du III de l'article 184 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
-l'article 244 quater U telles qu'elles résultent du deuxième alinéa du b du 1° et du b du 2° du I dudit article s'appliquent
+Conformément au III de l’article 184 de la loi n°2018-1317 du 28 décembre 2018, les dispositions de l’article 244 quater U,
+dans leur rédaction résultant de l’article 184 I, s’appliquent aux offres d'avances émises à compter du 1er juillet 2019.
+Toutefois, l’article 244 quater U, dans sa rédaction résultant du deuxième alinéa du b du 1° et du b du 2° du I, s'applique
 aux offres d'avances émises à compter du 1er mars 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°65-557 du 10 juillet 1965 - art. 25 (V)
-  - Code général des impôts, CGI. - art. 156 (M)
+  - Loi n°65-557 du 10 juillet 1965 - art. 25
+  - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 238 bis L
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater B
