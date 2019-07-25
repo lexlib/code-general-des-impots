@@ -1,34 +1,53 @@
 # Article 1693 quater
 
-Les redevables de la taxe prévue à l'article 1609 sexdecies s'acquittent cette taxe par acomptes mensuels ou trimestriels
-égaux au minimum, respectivement, au douzième ou au quart du montant de la taxe due au titre de l'année civile précédente
-majoré de 5 %. 
+I.-Les redevables de la taxe prévue à l'article 299 autres que ceux soumis au régime réel simplifié d'imposition prévu à
+l'article 302 septies A ou admis à déposer leurs déclarations par trimestre civil conformément au dernier alinéa du 2 de
+l'article 287 acquittent cette taxe au moyen de deux acomptes versés lors de l'année au cours de laquelle elle devient
+exigible et au moins égaux à la moitié du montant dû au titre de l'année précédente.
 
-Le complément de taxe exigible au vu de la déclaration mentionnée à l'article 1609 sexdecies est versé lors du dépôt de
-celle-ci. 
+Le premier acompte est versé lors de la déclaration de la taxe devenue exigible l'année précédente.
 
-Les redevables qui estiment que les acomptes déjà payés au titre de l'année atteignent le montant de la taxe dont ils seront
-en définitive redevables peuvent surseoir aux paiements des acomptes suivants. Si le montant de la taxe est supérieur de plus
-de 20 % au montant des acomptes versés, l'intérêt de retard prévu à l'article 1727 et la majoration prévue à l'article 1731
-sont applicables.
+Le second acompte est versé :
+
+1° Pour les redevables de la taxe sur la valeur ajoutée soumis au régime réel normal d'imposition mentionné au 2 de l'article
+287, lors du dépôt de l'annexe à la déclaration mentionnée au 1 du même article 287 déposée au titre du mois de septembre ;
+
+2° Dans les autres cas, au plus tard le 25 octobre, lors du dépôt de l'annexe à la déclaration prévue au même 1 déposée
+auprès du service de recouvrement dont relève le siège ou le principal établissement du redevable.
+
+II.-Les redevables qui estiment que le paiement d'un acompte conduirait à excéder le montant de la taxe définitivement dû
+peuvent surseoir au paiement de ce dernier ou minorer son montant.
+
+Lorsqu'un redevable fait usage de la faculté prévue au premier alinéa du présent II et que le montant de la taxe finalement
+dû est supérieur de plus de 20 % au montant des acomptes versés, l'intérêt de retard prévu à l'article 1727 et la majoration
+prévue à l'article 1731 sont applicables.
+
+L'intérêt de retard et la majoration mentionnés au deuxième alinéa du présent II sont appliqués à la différence positive
+entre, d'une part, la somme du montant de chacun des deux acomptes qui auraient été versés en l'absence de modulation à la
+baisse et, d'autre part, la somme du montant de chacun des deux acomptes effectivement versés.
+
+III.-Le montant de taxe dû est régularisé lorsqu'elle est déclarée. Le cas échéant, les montants à restituer aux redevables
+sont imputés sur l'acompte acquitté lors de cette déclaration puis, si nécessaire, sur celui acquitté postérieurement la même
+année ou, en cas d'absence ou d'insuffisance des acomptes, remboursés.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 55-III [4°] de la loi n° 2008-1425 du 27 décembre 2008.
+Conformément au III de l'article 1er de la loi n° 2019-759 du 24 juillet 2019 : Par dérogation au I de l'article 1693 quater
+du code général des impôts, la taxe prévue à l'article 299 du même code due au titre de l'année 2019 donne lieu au paiement
+d'un acompte unique, acquitté dans les conditions suivantes :
+
+1° Pour les redevables de la taxe sur la valeur ajoutée soumis au régime réel normal d'imposition mentionné au 2 de l'article
+287 dudit code, lors du dépôt de l'annexe à la déclaration mentionnée au 1 du même article 287 déposée au titre du mois
+d'octobre ;
+
+2° Dans les autres cas, au plus tard le 25 novembre, lors du dépôt de l'annexe à la déclaration prévue au même 1 déposée
+auprès du service de recouvrement dont relève le siège ou le principal établissement du redevable.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-389 du 7 avril 2009 - art. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 9
-
-_Nouveaux textes_:
-
-  - Code du cinéma et de l'image animée - art. L115-10 (VD)
+  - Loi n°2019-759 du 24 juillet 2019 - art. 1 (V)
 
 _Cite_:
 
