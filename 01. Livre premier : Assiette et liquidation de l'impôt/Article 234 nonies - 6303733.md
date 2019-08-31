@@ -43,7 +43,7 @@ sont pas rémunérés ;
 années suivant celle de l'achèvement des travaux. 
 
 12° Des logements qui ont fait l'objet, après une vacance continue de plus de douze mois, d'une mise en location assortie
-d'une convention conclue à compter du 1er juillet 2004 en l'application du 4° de l'article L. 351-2 du code de la
+d'une convention conclue à compter du 1er juillet 2004 en l'application du 4° de l'article    L. 831-1 du code de la
 construction et de l'habitation, le bénéfice de l'exonération s'appliquant jusqu'au 31 décembre de la troisième année suivant
 celle de la conclusion du bail. 
 
@@ -81,4 +81,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 2 (V)
+  - Ordonnance n°2019-770 du 17 juillet 2019 - art. 7
