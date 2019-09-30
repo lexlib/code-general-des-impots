@@ -1,8 +1,8 @@
 # Article 1609 septtricies
 
-I. – Une taxe annuelle pour frais de contrôle est due par les concessionnaires d'autoroutes et perçue au profit de l'Autorité
-de régulation des activités ferroviaires et routières, dans la limite du plafond prévu au I de l'article 46 de la loi n°
-2011-1977 du 28 décembre 2011 de finances pour 2012. 
+I. – Une taxe annuelle pour frais de contrôle est due par les concessionnaires d'autoroutes et perçue au profit de l'
+Autorité de régulation des transports, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28
+décembre 2011 de finances pour 2012. 
 
 II. – La taxe est assise sur la part du chiffre d'affaires afférent à l'activité concédée réalisé au cours de l'exercice,
 après abattement de 200 millions d'euros. 
@@ -26,13 +26,13 @@ applicables à cette même taxe.
 
 _Cite_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
-  - Code général des impôts, CGI. - art. 287 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
+  - Code général des impôts, CGI. - art. 287
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 70 (V)
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cité par_:
 
-  - Code des transports - art. L1261-19 (V)
+  - Code des transports - art. L1261-19 (VD)
