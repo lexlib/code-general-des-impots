@@ -213,11 +213,11 @@ au dépôt de la demande d'agrément et ayant fait l'objet d'une publicité ;
 
 c) A l'occasion de la demande d'agrément mentionnée au a, la société exploitante est tenue d'indiquer à l'administration
 fiscale les conditions techniques et financières dans lesquelles les opérateurs de communications électroniques déclarés
-auprès de l'Autorité de régulation des communications électroniques et des postes peuvent, sur leur demande, accéder aux
-capacités offertes par le câble sous-marin, au départ de la collectivité desservie ou vers cette collectivité. Le caractère
-équitable de ces conditions et leur évolution sont appréciés par l'Autorité de régulation des communications électroniques et
-des postes dans les formes et dans les conditions prévues à l'article L. 36-8 du code des postes et des communications
-électroniques.
+auprès de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse peuvent,
+sur leur demande, accéder aux capacités offertes par le câble sous-marin, au départ de la collectivité desservie ou vers
+cette collectivité. Le caractère équitable de ces conditions et leur évolution sont appréciés par l'Autorité de régulation
+des communications électroniques, des postes et de la distribution de la presse dans les formes et dans les conditions
+prévues à l'article L. 36-8 du code des postes et des communications électroniques.
 
 La base éligible de la réduction d'impôt est égale à la moitié du coût de revient hors taxes et hors frais de toute nature,
 notamment les commissions d'acquisition, à l'exception des frais de transport de ces équipements et opérations, diminuée du
@@ -325,7 +325,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1740 (V)
   - Code général des impôts, CGI. - art. 1740 bis (T)
   - Code général des impôts, CGI. - art. 1740-0 A (V)
-  - Code général des impôts, CGI. - art. 1740-00 A (V)
+  - Code général des impôts, CGI. - art. 1740-00 A (M)
   - Code général des impôts, CGI. - art. 1740-00 AB (VD)
   - Code général des impôts, CGI. - art. 199 decies G bis (V)
   - Code général des impôts, CGI. - art. 199 sexvicies (V)
@@ -382,4 +382,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 1
+  - Loi n°2019-1063 du 18 octobre 2019 - art. 6
