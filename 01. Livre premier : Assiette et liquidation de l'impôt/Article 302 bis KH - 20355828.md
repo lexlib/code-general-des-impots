@@ -2,8 +2,8 @@
 
 I. – Il est institué une taxe due par tout opérateur de communications électroniques, au sens de l'article L. 32 du code des
 postes et des communications électroniques, qui fournit un service en France et qui a fait l'objet d'une déclaration
-préalable auprès de l'Autorité de régulation des communications électroniques et des postes en vertu de l'article L. 33-1 du
-même code.
+préalable auprès de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
+en vertu de l'article L. 33-1 du même code.
 
 II. – La taxe est assise sur le montant, hors taxe sur la valeur ajoutée, des abonnements et autres sommes acquittés par les
 usagers aux opérateurs mentionnés au I en rémunération des services de communications électroniques qu'ils fournissent,
@@ -60,4 +60,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 48 (V)
+  - Loi n°2019-1063 du 18 octobre 2019 - art. 6
