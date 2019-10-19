@@ -21,8 +21,8 @@ son montant ;
 Chaque année, à partir de l'exercice 2011, le taux des abattements mentionnés au premier alinéa du présent 3° est fixé par
 décret, dans la limite de 95 %, de manière à ce que le produit de ces abattements contribue au financement du coût du
 maillage territorial complémentaire de La Poste tel qu'il est évalué par l'Autorité de régulation des communications
-électroniques et des postes, conformément au IV de l'article 6 de la loi n° 90-568 du 2 juillet 1990 relative à
-l'organisation du service public de la poste et à France Télécom ;
+électroniques, des postes et de la distribution de la presse, conformément au IV de l'article 6 de la loi n° 90-568 du 2
+juillet 1990 relative à l'organisation du service public de la poste et à France Télécom ;
 
 4° Le taux applicable aux bases des taxes foncières et de la cotisation foncière des entreprises est le taux moyen pondéré
 national qui résulte des taux appliqués l'année précédente par l'ensemble des collectivités territoriales, des groupements et
@@ -85,5 +85,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 108 (M)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 191 (V)
+  - Loi n°2019-1063 du 18 octobre 2019 - art. 6
