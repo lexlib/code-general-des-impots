@@ -1,130 +1,192 @@
 # Article 278 sexies
 
-Les taux réduits de taxe sur la valeur ajoutée sont ceux mentionnés à l'article 278 sexies-0 A pour les opérations suivantes,
-réalisées dans le cadre de la politique sociale du logement : 
+I.-Pour l'application du présent article :
 
-I. 1. Les livraisons de terrains à bâtir consenties aux organismes d'habitations à loyer modéré visés à l'article L. 411-2 du
-code de la construction et de l'habitation ou aux personnes bénéficiaires, au moment de la livraison, d'un prêt mentionné à
-l'article R. 331-1 du même code pour la construction de logements visés aux 3° et 5° de l'article    L. 831-1 dudit code ; 
+1° Un logement locatif social s'entend d'un logement auquel s'applique l'aide personnalisée au logement conformément aux 3°
+ou 5° de l'article L. 831-1 du code de la construction et de l'habitation ;
 
-2. Les livraisons de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article    L. 831-1 du même code et
-qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à
-compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de cette date, lorsque l'acquéreur
-bénéficie pour cette acquisition d'un prêt prévu à l'article R. 331-1 du même code ou d'une subvention de l'Agence nationale
-pour la rénovation urbaine et a conclu avec l'Etat une convention en application des 3° ou 5° de l'article    L. 831-1 du
-même code ; 
+2° Le prêt réglementé s'entend du prêt octroyé pour financer la construction, l'acquisition ou l'amélioration d'un logement
+locatif social et conditionnant l'application de l'aide personnalisée au logement conformément aux mêmes 3° ou 5° de
+l'article L. 831-1 du même code ;
 
-3. Le premier apport de logements sociaux à usage locatif dont la construction a fait l'objet d'une livraison à soi-même
-mentionnée au II, réalisé dans les cinq ans de l'achèvement de la construction au profit d'un organisme d'habitations à loyer
-modéré visé à l'article L. 411-2 du code de la construction et de l'habitation, à la condition que l'acte d'apport prévoie le
-transfert de la société cédante à la société bénéficiaire de l'apport, du prêt prévu à l'article R. 331-1 du même code et de
-la convention mentionnée aux 3° ou 5° de l'article    L. 831-1 du même code ; 
+3° Le prêt locatif aidé d'intégration s'entend du prêt réglementé octroyé pour financer un logement locatif social adapté aux
+besoins des ménages qui rencontrent des difficultés d'insertion particulières dont la construction, l'acquisition ou
+l'amélioration est éligible aux aides de l'Etat conditionnant l'application de l'aide personnalisée au logement conformément
+auxdits 3° ou 5° de l'article L. 831-1 dudit code ;
 
-4. Les livraisons de logements destinés à être occupés par des titulaires de contrats de location-accession conclus dans les
-conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, qui
-font l'objet, dans des conditions fixées par décret, d'une convention et d'une décision d'agrément prise par le représentant
-de l'Etat dans le département ; 
+4° Le prêt locatif à usage social s'entend du prêt réglementé, autre que le prêt locatif aidé d'intégration, octroyé pour
+financer un logement locatif social dont la construction, l'acquisition ou l'amélioration est éligible aux aides de l'Etat
+conditionnant l'application de l'aide personnalisée au logement conformément aux mêmes 3° ou 5° de l'article L. 831-1 du même
+code ;
 
-5. Les livraisons de logements aux structures d'hébergement temporaire ou d'urgence faisant l'objet d'une convention entre le
-propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département et destinées aux personnes visées
-au II de l'article L. 301-1 du code de la construction et de l'habitation ; 
+5° Le prêt locatif social s'entend du prêt réglementé octroyé à compter du 8 mars 2001 pour financer un logement locatif
+social dont la construction, l'acquisition ou l'amélioration n'est pas éligible aux aides de l'Etat conditionnant
+l'application de l'aide personnalisée au logement conformément aux mêmes 3° ou 5° de l'article L. 831-1 du même code ;
 
-6. Les livraisons de logements sociaux à usage locatif à l'association mentionnée à l'article L. 313-34 du même code,
-lorsqu'elle a conclu avec l'Etat une convention en application du 4° de l'article    L. 831-1 dudit code ; 
+6° L'acquisition-amélioration s'entend de la succession des opérations suivantes portant sur des locaux affectés ou non à
+l'habitation :
 
-7. Les livraisons de logements à usage locatif à l'association mentionnée à l'article L. 313-34 du même code ou à des
-sociétés civiles immobilières dont cette association détient la majorité des parts lorsque ces logements sont destinés à être
-occupés par des ménages dont le total des ressources n'excède pas le montant mentionné à l'article R. 391-8 du même code et
-sont situés soit dans des quartiers faisant l'objet de la convention pluriannuelle prévue aux articles 10 ou 10-3 de la loi
-n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, soit entièrement
-situés à une distance de moins de 300 mètres de la limite de ces quartiers ; 
+a) La livraison financée par un prêt réglementé ou la mise à disposition dans le cadre d'un bail emphytéotique consenti par
+l'Etat, une collectivité territoriale ou un groupement de collectivités territoriales ;
 
-7 bis. Les livraisons de logements à usage locatif aux organismes réalisant les opérations prévues par une convention
-mentionnée à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la
-rénovation urbaine et situées sur des terrains octroyés au titre des contreparties mentionnées au onzième alinéa de l'article
-L. 313-3 du code de la construction et de l'habitation et dont la réalisation était initialement prévue par l'association
-mentionnée à l'article L. 313-34 du même code. Ces logements sont destinés à être occupés par des ménages dont le total des
-ressources n'excède pas le montant mentionné à l'article R. 391-8 dudit code ; 
+b) La réalisation de travaux d'amélioration, de transformation ou d'aménagement financés par un prêt réglementé ;
 
-8. Les livraisons de locaux aux établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de l'action sociale
-et des familles, agissant sans but lucratif et dont la gestion est désintéressée, de même pour la seule partie des locaux
-dédiée à l'hébergement s'agissant des établissements mentionnés au 2° du I du même article, lorsqu'ils hébergent à titre
-permanent ou temporaire des personnes handicapées, ou des personnes âgées remplissant les critères d'éligibilité au prêt
-prévu à l'article R. 331-1 du code de la construction et de l'habitation, et que ces locaux font l'objet d'une convention
-entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département ; 
+7° Le contrat d'accession à la propriété s'entend, dans le cadre d'une opération d'accession à la propriété à usage de
+résidence principale, du contrat unique de vente ou de construction de logements destinés à des personnes physiques dont les
+ressources, à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de vente
+ou du contrat ayant pour objet la construction du logement, ne dépassent pas les plafonds majorés prévus à la première phrase
+du dixième alinéa de l'article L. 411-2 du même code ;
 
-9. (Périmé) ; 
+8° Les quartiers prioritaires de la politique de la ville s'entendent de ceux définis à l'article 5 de la loi n° 2014-173 du
+21 février 2014 de programmation pour la ville et la cohésion urbaine ;
 
-10. Les cessions de droits immobiliers démembrés de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de
-l'article    L. 831-1 du code de la construction et de l'habitation, lorsque l'usufruitier bénéficie d'un prêt prévu à
-l'article R. 331-1 du même code et a conclu avec l'Etat une convention en application des 3° ou 5° de l'article    L. 831-1
-du même code ; 
+9° Les conventions de rénovation urbaine s'entendent des conventions pluriannuelles prévues au deuxième alinéa de l'article
+10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine ;
 
-11. Les livraisons d'immeubles et les travaux réalisés en application d'un contrat unique de construction de logements dans
-le cadre d'une opération d'accession à la propriété à usage de résidence principale, destinés à des personnes physiques dont
-les ressources à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de
-vente ou du contrat ayant pour objet la construction du logement ne dépassent pas les plafonds prévus à la première phrase du
-dixième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés dans des quartiers faisant
-l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 précitée ou entièrement situés à une
-distance de moins de 300 mètres de la limite de ces quartiers ; 
+10° Les conventions de renouvellement urbain s'entendent des conventions pluriannuelles prévues au premier alinéa du I de
+l'article 10-3 de la loi n° 2003-710 du 1er août 2003 précitée et, le cas échéant, de leurs protocoles de préfiguration ;
 
-11 bis. Les livraisons d'immeubles et les travaux réalisés en application d'un contrat unique de construction de logements
-dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, destinés à des personnes physiques
-dont les ressources à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat
-de vente ou du contrat ayant pour objet la construction du logement ne dépassent pas les plafonds prévus à la première phrase
-du dixième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés, à la date du dépôt de la
-demande de permis de construire, dans les quartiers prioritaires de la politique de la ville définis à l'article 5 de la loi
-n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine qui font l'objet d'un contrat de ville
-prévu à l'article 6 de la même loi ou entièrement situés, à la même date, à une distance de moins de 300 mètres de la limite
-de ces quartiers ou, à la condition que ces quartiers fassent l'objet d'une convention prévue à l'article 10-3 de la loi n°
-2003-710 du 1er août 2003 précitée, intégrés à un ensemble immobilier entièrement situé, à la même date, à moins de 500
-mètres de la limite de ces quartiers et partiellement à moins de 300 mètres de cette même limite. 
+11° Les organismes d'habitations à loyer modéré s'entendent de ceux mentionnés à l'article L. 411-2 du code de la
+construction et de l'habitation ;
 
-Le prix de vente ou de construction des logements ne peut excéder les plafonds prévus pour les opérations mentionnées au 4 du
-présent I ; 
+12° L'association foncière logement s'entend de celle mentionnée à l'article L. 313-34 du même code.
 
-12. Les apports des immeubles sociaux neufs aux sociétés civiles immobilières d'accession progressive à la propriété
-effectués dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation ; 
+II.-Dans le secteur du logement locatif social, relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à
+l'article 278 sexies-0 A du présent code :
 
-13. Les livraisons de terrains à bâtir à un organisme de foncier solidaire en vue de la conclusion d'un bail réel solidaire,
-les livraisons de logements neufs à un organisme de foncier solidaire en vue de la conclusion d'un bail réel solidaire conclu
-dans les conditions prévues au premier alinéa de l'article L. 255-2 du code de la construction et de l'habitation ainsi que
-les cessions, prévues à l'article L. 255-3 du même code, des droits réels immobiliers attachés aux logements construits ou
-réhabilités dans le cadre d'un tel bail et destinés à la résidence principale des acquéreurs. 
+A.-Les livraisons et livraisons à soi-même des logements neufs suivants :
 
-II. – Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié du taux réduit en application du I ; 
+1° Les logements locatifs sociaux financés par un prêt locatif aidé d'intégration ;
 
-III. – 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés aux 2,5,6 et 8 du I, lorsque ces travaux
-consistent en une extension ou rendent l'immeuble à l'état neuf, au sens du 2° du 2 du I de l'article 257, sous réserve de la
-prise en compte de ces opérations d'extension ou de remise à neuf dans les conventions mentionnées aux 2,5,6 et 8 du I du
-présent article ; 
+2° Les logements locatifs sociaux financés par un prêt locatif à usage social lorsqu'ils sont situés :
 
-2. (Abrogé) ; 
+a) Dans un quartier prioritaire de politique de la ville, y compris partiellement, lorsque ces logements font l'objet d'une
+convention de renouvellement urbain ;
 
-IV. – (Abrogé).
+b) En dehors de ces quartiers et :
+
+- soit font l'objet d'une convention de renouvellement urbain ;
+
+- soit sont intégrés dans un ensemble immobilier pour lequel la proportion de logements relevant d'une telle convention,
+parmi l'ensemble des logements locatifs sociaux financés par un prêt locatif aidé d'intégration ou à usage social, est au
+moins égale à 50 % ;
+
+3° Les logements locatifs sociaux autres que ceux mentionnés aux 1° et 2°.
+
+Le présent A s'applique lorsque le destinataire de l'opération est bénéficiaire des aides ou prêts ouvrant droit à l'aide
+personnalisée au logement pour le logement livré. Le 3° du présent A s'applique également lorsque le destinataire est
+l'association foncière logement lorsque celle-ci a conclu, pour le logement livré, la convention prévue au 4° de l'article L.
+831-1 du code de la construction et de l'habitation ;
+
+B.-Les opérations suivantes :
+
+1° Les cessions de droits immobiliers démembrés de logements locatifs sociaux lorsque l'usufruitier bénéficie du prêt
+réglementé et a conclu la convention conditionnant l'application de l'aide personnalisée au logement ;
+
+2° Les livraisons de locaux dans le cadre de l'acquisition-amélioration financées par un prêt locatif aidé d'intégration ou
+un prêt locatif à usage social ;
+
+C.-Les livraisons et livraisons à soi-même de logements à usage locatif autres que sociaux destinés à être occupés par des
+ménages dont le total des ressources n'excède pas celui prévu au c de l'article 279-0 bis A lorsque le destinataire est :
+
+1° Pour les logements situés dans un quartier faisant l'objet d'une convention de rénovation urbaine ou d'une convention de
+renouvellement urbain, ou entièrement situés à moins de 300 mètres de la limite de ces quartiers, l'association foncière
+logement ou des sociétés civiles immobilières dont cette association détient la majorité des parts ;
+
+2° Pour les logements situés sur des terrains octroyés au titre des contreparties mentionnées au onzième alinéa de l'article
+L. 313-3 du code de la construction et de l'habitation, un organisme réalisant, en substitution de l'association foncière
+logement, des opérations immobilières qui relèvent d'une convention de rénovation urbaine.
+
+III.-Dans le secteur de l'accession sociale à la propriété, relèvent des taux réduits de la taxe sur la valeur ajoutée
+mentionnés à l'article 278 sexies-0 A :
+
+1° Les livraisons et livraisons à soi-même des logements destinés à être occupés par des titulaires de contrats de location-
+accession conclus dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la
+propriété immobilière lorsqu'ils font l'objet, dans des conditions fixées par décret, d'une convention et d'une décision
+d'agrément prise par le représentant de l'Etat dans le département ;
+
+2° Les livraisons et livraisons à soi-même des logements et travaux faisant l'objet d'un contrat d'accession à la propriété
+pour lequel le prix de vente ou de construction n'excède pas le plafond prévu pour les logements mentionnés au 1° du présent
+III lorsque, à la date du dépôt de la demande de permis de construire, ces logements et travaux :
+
+a) Soit sont situés dans un quartier faisant l'objet d'une convention de rénovation urbaine ou dans un quartier prioritaire
+de la politique de la ville faisant l'objet d'un contrat de ville prévu à l'article 6 de la loi n° 2014-173 du 21 février
+2014 précitée, ou sont entièrement situés à moins de 300 mètres de la limite de ces quartiers ;
+
+b) Soit, dans les situations autres que celles mentionnées au a, sont intégrés à un ensemble immobilier partiellement situé à
+moins de 300 mètres et entièrement situé à moins de 500 mètres de la limite d'un quartier prioritaire de la politique de la
+ville faisant l'objet d'une convention de renouvellement urbain ;
+
+3° Les apports des immeubles sociaux neufs aux sociétés civiles immobilières d'accession progressive à la propriété effectués
+dans les conditions prévues aux articles L. 443-6-2 à L. 443-6-13 du code de la construction et de l'habitation ;
+
+4° Les opérations suivantes réalisées en vue de la conclusion d'un bail réel solidaire dans les conditions prévues au
+chapitre V du titre V du livre II du même code :
+
+a) Les livraisons de terrains à bâtir à un organisme de foncier solidaire ;
+
+b) Lorsque le bail est pris par la personne qui occupe le logement, les livraisons de logements neufs à un organisme de
+foncier solidaire ;
+
+c) Lorsque le bail est pris par une autre personne, les cessions des droits réels immobiliers.
+
+IV.-Dans le secteur social et médico-social, relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à
+l'article 278 sexies-0 A les livraisons et livraisons à soi-même de locaux directement destinés ou mis à la disposition des
+structures suivantes :
+
+1° Les structures d'hébergement temporaire ou d'urgence suivantes :
+
+a) Les centres d'hébergement et de réinsertion sociale relevant du 8° du I de l'article L. 312-1 du code de l'action sociale
+et des familles ;
+
+b) Les structures dénommées “ lits halte soins santé ”, les structures dénommées “ lits d'accueil médicalisés ” et les
+appartements de coordination thérapeutique mentionnés au 9° du même I ;
+
+c) Les centres d'hébergement d'urgence déclarés conformément à l'article L. 322-1 du même code, lorsqu'ils sont destinés aux
+personnes sans domicile ;
+
+2° Les établissements suivants, lorsqu'ils agissent sans but lucratif, que leur gestion est désintéressée et qu'ils assurent
+un accueil temporaire ou permanent :
+
+a) Les établissements mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles qui hébergent
+des mineurs ou de jeunes adultes handicapés, pour la seule partie des locaux dédiée à l'hébergement ;
+
+b) Les établissements mentionnés au 6° du même I qui hébergent des personnes âgées et qui remplissent les critères
+d'éligibilité d'un prêt réglementé ;
+
+c) Les établissements mentionnés au 7° dudit I qui hébergent des personnes handicapées ;
+
+d) Les établissements mentionnés à l'article L. 633-1 du code de la construction et de l'habitation qui hébergent des jeunes
+travailleurs et auxquels s'applique l'aide personnalisée au logement conformément au 5° de l'article L. 831-1 du même code.
+
+Le présent IV s'applique aux seules opérations faisant l'objet d'une convention entre le propriétaire ou le gestionnaire des
+locaux et l'Etat formalisant l'engagement d'héberger les publics concernés dans les conditions prévues au présent article et,
+selon le cas, par le code de l'action sociale et des familles ou le code de la construction et de l'habitation.
+
+V.-Relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à l'article 278 sexies-0 A les livraisons de
+terrains à bâtir destinés à la construction de locaux faisant l'objet d'une opération taxable au taux réduit conformément au
+présent article, autres que celles mentionnées au a du 4° du III, lorsque l'acquéreur atteste de cette destination dans
+l'acte de vente.
+
+**Nota:**
+
+Conformément au III de l'article 30 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux opérations
+intervenant à compter du 1er décembre 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°84-595 du 12 juillet 1984
-  - Loi n°86-1290 du 23 décembre 1986 - art. 25
   - Loi n°2003-710 du 1 août 2003 - art. 10
   - Loi n°2003-710 du 1 août 2003 - art. 10-3
   - Loi n°2014-173 du 21 février 2014 - art. 5
+  - Loi n°2014-173 du 21 février 2014 - art. 6
   - Code de l'action sociale et des familles - art. L312-1
-  - Code de la construction et de l'habitation. - art. L255-2
-  - Code de la construction et de l'habitation. - art. L255-3
-  - Code de la construction et de l'habitation. - art. L301-1
   - Code de la construction et de l'habitation. - art. L313-3
-  - Code de la construction et de l'habitation. - art. L313-34
-  - Code de la construction et de l'habitation. - art. L351-2
   - Code de la construction et de l'habitation. - art. L411-2
-  - Code de la construction et de l'habitation. - art. L443-6-2
-  - Code de la construction et de l'habitation. - art. R331-1
-  - Code de la construction et de l'habitation. - art. R331-3
-  - Code de la construction et de l'habitation. - art. R331-6
-  - Code de la construction et de l'habitation. - art. R391-8
+  - Code de la construction et de l'habitation. - art. L633-1
+  - Code de la construction et de l'habitation. - art. L831-1
 
 _Cité par_:
 
@@ -160,4 +222,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-770 du 17 juillet 2019 - art. 7
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 30 (V)
