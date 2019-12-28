@@ -1,6 +1,6 @@
 # Article 1638 quinquies
 
-I. – En cas de retrait d'une commune dans les conditions prévues aux articles L. 5214-26 et L. 5216-7-2 du code général des
+I. – En cas de retrait d'une commune dans les conditions prévues aux articles L. 5214-26 et L. 5216-11 du code général des
 collectivités territoriales, l'établissement public de coopération intercommunale soumis aux dispositions de l'article 1609
 nonies C peut, sur délibération de l'organe délibérant statuant à la majorité simple de ses membres dans les conditions
 prévues à l'article 1639 A, voter un taux de cotisation foncière des entreprises dans la limite du taux moyen de la
@@ -21,7 +21,7 @@ des impositions établies au titre de 2011.
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (VT)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 25
 
 _Cité par_:
 
@@ -30,7 +30,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1609 nonies C (V)
-  - Code général des impôts, CGI. - art. 1639 A (V)
-  - Code général des collectivités territoriales - art. L5214-26 (V)
-  - Code général des collectivités territoriales - art. L5216-7-2 (V)
+  - Code général des impôts, CGI. - art. 1609 nonies C (M)
+  - Code général des impôts, CGI. - art. 1639 A
+  - Code général des collectivités territoriales - art. L5214-26
+  - Code général des collectivités territoriales - art. L5216-7-2 (Ab)
