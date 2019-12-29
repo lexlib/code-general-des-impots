@@ -109,7 +109,8 @@ les sociétés dans les mêmes conditions que celles applicables à la date de l
 France.
 
 III bis. – 1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou
-droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux fixé au deuxième alinéa du I de l'article 219.
+droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux prévu à la première phrase du deuxième alinéa du
+I de l'article 219.
 
 Toutefois, les personnes physiques, les associés personnes physiques de sociétés, groupements ou organismes dont les
 bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement immobilier
@@ -152,11 +153,8 @@ et n'étant pas non coopératif au sens de l'article 238-0 A.
 
 **Nota:**
 
-Loi n° 2015-1786 du 29 décembre 2016, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des
-revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
-
-Conformément à l’article 43 II A de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux cessions
-réalisées à compter du 1er janvier 2019.
+Conformément au A du X de l'article 39 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux retenues
+et prélèvements à la source dont le fait générateur est intervenu entre le 6 mars 2019 et le 31 décembre 2021.
 
 **Liens relatifs à cet article**
 
@@ -177,14 +175,14 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 200 B (V)
   - Code général des impôts, CGI. - art. 235 quater (V)
   - Code général des impôts, CGI. - art. 239 nonies (VD)
-  - Code général des impôts, CGI. - art. 244 bis B (VD)
+  - Code général des impôts, CGI. - art. 244 bis B (V)
   - Code général des impôts, CGI. - art. 990 F (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 quater (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 317 B (V)
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 43 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 39 (V)
 
 _Cite_:
 

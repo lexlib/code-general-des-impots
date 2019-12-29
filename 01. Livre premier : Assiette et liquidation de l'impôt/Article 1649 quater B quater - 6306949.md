@@ -86,6 +86,9 @@ XIII.-La déclaration de crédit d'impôt pour dépenses de recherche mentionné
 
 XIV.-Les déclarations de taxe sur les salaires sont souscrites par voie électronique.
 
+XVI. - Un décret précise les autres déclarations qui sont souscrites par voie électronique, sous peine de l'application de
+l'article 1738.
+
 **Nota:**
 
 Conformément à l'article 72 II de la loi n° 2015-1786 du 29 décembre 2015, le VII de l'article 1649 quater B quater du code
@@ -119,9 +122,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 34 (M)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 76 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 28 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 198
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 199 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (M)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 34 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 150

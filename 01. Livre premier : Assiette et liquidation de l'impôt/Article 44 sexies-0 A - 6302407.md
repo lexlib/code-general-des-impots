@@ -11,8 +11,9 @@ employés au cours de cet exercice ;
 2° elle est créée depuis moins de huit ans ;
 
 3° a. elle a réalisé des dépenses de recherche, définies aux a à g du II de l'article 244 quater B, représentant au moins 15
-% des charges fiscalement déductibles au titre de cet exercice, à l'exclusion des charges engagées auprès d'autres jeunes
-entreprises innovantes réalisant des projets de recherche et de développement ;
+% des charges, à l'exception des pertes de change et des charges nettes sur cessions de valeurs mobilières de placement,
+fiscalement déductibles au titre de cet exercice. Pour le calcul de ce ratio, il n'est pas tenu compte des charges engagées
+auprès d'autres jeunes entreprises innovantes réalisant des projets de recherche et de développement ;
 
 b. Ou elle est dirigée ou détenue directement à hauteur de 10 % au moins, seuls ou conjointement, par des étudiants, des
 personnes titulaires depuis moins de cinq ans d'un diplôme conférant le grade de master ou d'un doctorat, ou des personnes
@@ -60,7 +61,7 @@ _Cité par_:
   - Code de la recherche - art. L513-1 (V)
   - Code du travail - art. L3142-79 (V)
   - Code général des impôts, CGI. - art. 1383 D (VT)
-  - Code général des impôts, CGI. - art. 1466 D (M)
+  - Code général des impôts, CGI. - art. 1466 D (V)
   - Code général des impôts, CGI. - art. 150-0 A (V)
   - Code général des impôts, CGI. - art. 199 ter B (V)
   - Code général des impôts, CGI. - art. 199 ter C (V)
@@ -69,12 +70,12 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 44 sexies A (V)
   - Code général des impôts, CGI. - art. 885-0 V bis (MMN)
   - Code général des impôts, annexe 2, CGIAN2. - art. 32 C bis (V)
-  - Livre des procédures fiscales - art. L80 B (V)
+  - Livre des procédures fiscales - art. L80 B (M)
   - Livre des procédures fiscales - art. R152-2 (V)
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 37 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 46 (V)
 
 _Cite_:
 
