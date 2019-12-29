@@ -9,14 +9,14 @@ détenus par le cédant ou l'actionnaire ou l'associé, avec son conjoint, leurs
 ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq dernières années. Le prélèvement est libératoire de
 l'impôt sur le revenu dû à raison des sommes qui ont supporté celui-ci.
 
-Le prélèvement mentionné au premier alinéa est fixé au taux prévu au deuxième alinéa du I de l'article 219 lorsqu'il est dû
-par une personne morale ou un organisme quelle qu'en soit la forme et au taux de 12,8 % lorsqu'il est dû par une personne
-physique. Par dérogation, les gains mentionnés au premier alinéa sont imposés au taux forfaitaire de 75 % quel que soit le
-pourcentage de droits détenus dans les bénéfices de la société concernée, lorsqu'ils sont réalisés par des personnes ou
-organismes domiciliés, établis ou constitués hors de France dans un Etat ou territoire non coopératif au sens de l'article
-238-0 A autre que ceux mentionnés au 2° du 2 bis du même article 238-0 A, sauf s'ils apportent la preuve que les opérations
-auxquelles correspondent ces profits ont principalement un objet et un effet autres que de permettre leur localisation dans
-un Etat ou territoire non coopératif.
+Le prélèvement mentionné au premier alinéa est fixé au taux prévu à la première phrase du deuxième alinéa du I de l'article
+219 lorsqu'il est dû par une personne morale ou un organisme quelle qu'en soit la forme et au taux de 12,8 % lorsqu'il est dû
+par une personne physique. Par dérogation, les gains mentionnés au premier alinéa sont imposés au taux forfaitaire de 75 %
+quel que soit le pourcentage de droits détenus dans les bénéfices de la société concernée, lorsqu'ils sont réalisés par des
+personnes ou organismes domiciliés, établis ou constitués hors de France dans un Etat ou territoire non coopératif au sens de
+l'article 238-0 A autre que ceux mentionnés au 2° du 2 bis du même article 238-0 A, sauf s'ils apportent la preuve que les
+opérations auxquelles correspondent ces profits ont principalement un objet et un effet autres que de permettre leur
+localisation dans un Etat ou territoire non coopératif.
 
 Les deux premiers alinéas sont applicables aux distributions mentionnées aux f bis et f ter du I de l'article 164 B
 effectuées au profit des personnes et organismes mentionnés aux mêmes deux premiers alinéas. Le seuil de 25 % est apprécié en
@@ -33,9 +33,8 @@ sexies.
 
 **Nota:**
 
-Conformément aux dispositions du IV de l'article 31 de la loi n° 2018-898 du 23 octobre 2018, ces dispositions telles
-qu'elles résultent du I dudit article s'appliquent à compter du premier jour du deuxième mois qui suit la publication de
-ladite loi.
+Conformément au A du X de l'article 39 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux retenues
+et prélèvements à la source dont le fait générateur est intervenu entre le 6 mars 2019 et le 31 décembre 2021.
 
 **Liens relatifs à cet article**
 
@@ -46,16 +45,16 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 31 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 39 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 131 sexies
   - Code général des impôts, CGI. - art. 150-0 A
   - Code général des impôts, CGI. - art. 164 B
-  - Code général des impôts, CGI. - art. 219
+  - Code général des impôts, CGI. - art. 219 (VT)
   - Code général des impôts, CGI. - art. 238-0 A
-  - Code général des impôts, CGI. - art. 244 bis A
+  - Code général des impôts, CGI. - art. 244 bis A (V)
   - Code général des impôts, CGI. - art. 4 B
 
 _Cité par_:

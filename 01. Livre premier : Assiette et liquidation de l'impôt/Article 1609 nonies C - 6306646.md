@@ -334,54 +334,7 @@ au V relatives à l'évolution de leur montant.
 présent article, le montant de la compensation relais perçue en 2010 par la commune, conformément au II de l'article 1640 B,
 est substitué aux produits mentionnés au premier alinéa du 2° du V pour le calcul de l'attribution de compensation.
 
-VI. – L'établissement public de coopération intercommunale, autre qu'une communauté urbaine, qu'une métropole ou que la
-métropole de Lyon, soumis aux dispositions du I peut instituer au bénéfice de ses communes membres et, le cas échéant,
-d'établissements publics de coopération intercommunale à fiscalité propre limitrophes une dotation de solidarité
-communautaire, dont le principe et les critères de répartition sont fixés par le conseil communautaire statuant à la majorité
-des deux tiers des suffrages exprimés. Le montant de cette dotation est fixé librement par le conseil de l'établissement
-public de coopération intercommunale. Elle est répartie en tenant compte prioritairement de l'importance de la population et
-du potentiel fiscal ou financier par habitant, les autres critères étant fixés librement par le conseil. Lorsqu'une zone
-d'activités économiques d'intérêt départemental est située en tout ou partie sur le territoire de l'établissement public de
-coopération intercommunale, celui-ci peut étendre le versement de la dotation de solidarité communautaire aux établissements
-publics de coopération intercommunale à fiscalité propre constituant un ensemble sans discontinuité territoriale et
-limitrophe de son territoire.
-
-Lorsqu'il s'agit d'une communauté urbaine, d'une métropole ou de la métropole de Lyon ou lorsque l'établissement public de
-coopération intercommunale est signataire d'un contrat de ville tel que défini à l'article 6 de la loi n° 2014-173 du 21
-février 2014 de programmation pour la ville et la cohésion urbaine, il définit les objectifs de péréquation et de
-renforcement des solidarités financière et fiscale entre ses communes membres sur la durée du contrat de ville.
-L'établissement public de coopération intercommunale à fiscalité propre s'engage, lors de la signature du contrat de ville, à
-élaborer, en concertation avec ses communes membres, un pacte financier et fiscal de solidarité visant à réduire les
-disparités de charges et de recettes entre ces dernières. Ce pacte tient compte des efforts de mutualisation des recettes et
-des charges déjà engagés ou envisagés à l'occasion des transferts de compétences, des règles d'évolution des attributions de
-compensation, des politiques communautaires poursuivies au moyen des fonds de concours ou de la dotation de solidarité
-communautaire ainsi que des critères retenus par l'organe délibérant de l'établissement public de coopération intercommunale
-à fiscalité propre pour répartir, le cas échéant, les prélèvements ou reversements au titre du Fonds national de péréquation
-des ressources intercommunales et communales. Lorsque ce pacte financier et fiscal de solidarité est élaboré dans les
-établissements publics de coopération intercommunale à fiscalité propre issus d'une fusion d'établissements publics de
-coopération intercommunale dont les potentiels financiers agrégés par habitant présentent un écart d'au moins 40 % entre le
-potentiel financier agrégé le plus élevé et celui le moins élevé à la date de la fusion, l'établissement public de
-coopération intercommunale issu de cette fusion est tenu d'instituer une dotation de solidarité communautaire selon les
-critères de péréquation définis aux alinéas suivants. A défaut d'avoir élaboré un tel pacte au plus tard un an après l'entrée
-en vigueur du contrat de ville, l'établissement public de coopération intercommunale à fiscalité propre ou la collectivité
-territoriale concernée est tenu d'instituer, au profit des communes concernées par les dispositifs prévus dans ce contrat de
-ville, une dotation de solidarité communautaire, dont le montant est au moins égal à 50 % de la différence entre les produits
-des impositions mentionnées au I et aux 1 et 2 du I bis du présent article au titre de l'année du versement de la dotation et
-le produit de ces mêmes impositions constaté l'année précédente. Cette dotation est répartie selon les critères de
-péréquation définis aux alinéas suivants, afin de réduire les disparités de ressources et de charges entre les communes.
-
-Ces critères sont déterminés notamment en fonction :
-
-a. de l'écart du revenu par habitant de la commune au revenu moyen par habitant de l'établissement public de coopération
-intercommunale ;
-
-b. de l'insuffisance de potentiel fiscal ou financier par habitant de la commune au regard du potentiel fiscal ou financier
-communal moyen par habitant sur le territoire de l'établissement public de coopération intercommunale.
-
-Des critères complémentaires peuvent être choisis par le conseil.
-
-La métropole du Grand Paris a la faculté d'instituer une dotation de solidarité communautaire au profit de ses communes
-membres, dans les conditions prévues à l'article L. 5219-11 du code général des collectivités territoriales.
+VI. (Abrogé)
 
 VII. – Pour les communes membres d'un établissement public de coopération intercommunale soumis aux dispositions du présent
 article le taux à prendre en compte pour le calcul de la compensation visée au II de l'article 21 de la loi de finances pour
@@ -523,7 +476,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1636 B septies (VD)
   - Code général des impôts, CGI. - art. 1636 B sexies (VD)
   - Code général des impôts, CGI. - art. 1638 quater (VD)
-  - Code général des impôts, CGI. - art. 1638 quinquies (V)
+  - Code général des impôts, CGI. - art. 1638 quinquies (M)
   - Code général des impôts, CGI. - art. 1638-0 bis (V)
   - Code général des impôts, CGI. - art. 1639 A quater (V)
   - Code général des impôts, CGI. - art. 1639 A ter (V)
@@ -539,4 +492,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1461 du 27 décembre 2019 - art. 32
+  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 256 (V)

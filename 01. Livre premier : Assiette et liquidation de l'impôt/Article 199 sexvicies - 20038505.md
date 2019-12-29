@@ -10,9 +10,10 @@ produit est imposé dans la catégorie des bénéfices industriels et commerciau
 
 1° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, une
 résidence avec services pour personnes âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L. 7232-1 du
-code du travail ou l'ensemble des logements affectés à l'accueil familial salarié de personnes âgées ou handicapées, prévu
-par les articles L. 444-1 à L. 444-9 du code de l'action sociale et des familles géré par un groupement de coopération
-sociale ou médico-sociale ;
+code du travail ou l'autorisation prévue à l'article L. 313-1 du code de l'action sociale et des familles pour son service
+d'aide et d'accompagnement à domicile relevant des 6° ou 7° du I de l'article L. 312-1 du même code, ou l'ensemble des
+logements affectés à l'accueil familial salarié de personnes âgées ou handicapées, prévu par les articles L. 444-1 à L. 444-9
+du code de l'action sociale et des familles géré par un groupement de coopération sociale ou médico-sociale ;
 
 2° Une résidence avec services pour étudiants ;
 
@@ -80,11 +81,6 @@ restant à courir à la date du décès.
 IV. – Un contribuable ne peut, pour un même logement, bénéficier à la fois des réductions d'impôt mentionnées aux articles
 199 undecies A et 199 undecies B et des dispositions du présent article.
 
-**Nota:**
-
-Conformément à l'article 78 II de la loi n° 2017-1837 du 30 décembre 2017, le Gouvernement transmet au Parlement une
-évaluation du dispositif prévu à l'article 199 sexvicies du code général des impôts avant le 1er septembre 2018.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -99,7 +95,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 186
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 165
 
 _Cite_:
 
