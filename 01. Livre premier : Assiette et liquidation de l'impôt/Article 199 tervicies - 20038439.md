@@ -14,11 +14,11 @@ du patrimoine approuvé ;
 c) Soit, à défaut, lorsque la restauration de l'immeuble a été déclarée d'utilité publique en application de l'article L.
 313-4 du code de l'urbanisme ;
 
-2° – jusqu'au 31 décembre 2019, situé dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n°
+2° – jusqu'au 31 décembre 2022, situé dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n°
 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la restauration a été
 déclarée d'utilité publique ;
 
-2° bis – Jusqu'au 31 décembre 2019, situé dans un quartier présentant une concentration élevée d'habitat ancien dégradé et
+2° bis – Jusqu'au 31 décembre 2022, situé dans un quartier présentant une concentration élevée d'habitat ancien dégradé et
 faisant l'objet d'une convention pluriannuelle prévue à l'article 10-3 de la loi n° 2003-710 du 1er août 2003 d'orientation
 et de programmation pour la ville et la rénovation urbaine, lorsque la restauration a été déclarée d'utilité publique. Les
 ministres chargés de la ville et de la culture arrêtent la liste des quartiers présentant une concentration élevée d'habitat
@@ -144,12 +144,12 @@ _Cite_:
   - Loi n°2003-710 du 1 août 2003 - art. 10-3
   - Loi n°2009-323 du 25 mars 2009 - art. 25
   - Code général des impôts, CGI. - art. 199 decies E
-  - Code général des impôts, CGI. - art. 199 decies I (V)
-  - Code général des impôts, CGI. - art. 199 undecies A (V)
+  - Code général des impôts, CGI. - art. 199 decies I
+  - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L214-114
-  - Code de la sécurité sociale. - art. L341-4 (V)
-  - Code de l'urbanisme - art. L313-4 (V)
+  - Code de la sécurité sociale. - art. L341-4
+  - Code de l'urbanisme - art. L313-4
   - Code de la construction et de l'habitation. - art. L261-1
   - Code du patrimoine - art. L531-14
 
@@ -163,7 +163,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R313-29 (V)
   - Code de la consommation - art. L122-23 (V)
   - Code du patrimoine - art. L633-1 (V)
-  - Code général des impôts, CGI. - art. 199 novovicies (M)
+  - Code général des impôts, CGI. - art. 199 novovicies (VD)
   - Code général des impôts, CGI. - art. 199 septvicies (VD)
   - Code général des impôts, CGI. - art. 199 undecies C (V)
   - Code général des impôts, CGI. - art. 200-0 A (V)
@@ -173,4 +173,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-698 du 2 mai 2017 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 160

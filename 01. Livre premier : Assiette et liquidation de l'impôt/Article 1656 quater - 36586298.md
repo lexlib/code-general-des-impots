@@ -10,8 +10,7 @@ Pour l'application de ces dispositions :
 2° La Ville de Paris est assimilée à une commune membre d'un établissement public de coopération intercommunale à fiscalité
 professionnelle unique.
 
-II. – Les dispositions du présent code applicables aux départements, à l'exception de celles de l'article 1383 et du VI de
-l'article 1636 B septies, s'appliquent à la Ville de Paris.
+II. – Les dispositions du présent code applicables aux départements s'appliquent à la Ville de Paris.
 
 Pour l'application de ces dispositions, la référence au conseil départemental est remplacée par la référence au conseil de
 Paris.
@@ -22,13 +21,15 @@ exonérées de taxe foncière sur les propriétés bâties ou de taxe foncière 
 articles 1382 et 1394, continuent de bénéficier de ces exonérations dans les mêmes conditions lorsqu'elles sont affectées à
 un service public ou d'utilité générale et non productives de revenus.
 
-**Nota:**
+IV.-Les articles 1382-0 et 1388-0 ainsi que le 3 des I et III de l'article 1518 A quinquies ne s'appliquent pas à la Ville de
+Paris.
 
-Conformément à l'article 18 de l'ordonnance n° 2018-75 du 8 février 2018, les présentes dispositions s'appliquent à compter
-des impositions établies au titre de 2019.
+A compter de 2022, l'avant-dernier alinéa du III de l'article 1530 bis, le cinquième alinéa de l'article 1599 quater D,
+l'avant-dernier alinéa de l'article 1609 G ainsi que le dernier alinéa du II et l'avant-dernier alinéa du IV de l'article
+1636 B octies ne s'appliquent pas à la Ville de Paris.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-75 du 8 février 2018 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)

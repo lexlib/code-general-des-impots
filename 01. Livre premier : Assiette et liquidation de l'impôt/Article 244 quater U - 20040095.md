@@ -26,7 +26,7 @@ e) Travaux d'installation d'équipements de chauffage utilisant une source d'én
 
 f) Travaux d'installation d'équipements de production d'eau chaude sanitaire utilisant une source d'énergie renouvelable ;
 
-g) Travaux d'isolation des planchers bas ; 
+g) Travaux d'isolation des planchers bas ;
 
 1° bis Soit de travaux permettant d'améliorer la performance énergétique du logement et ayant ouvert droit à une aide
 accordée par l'Agence nationale de l'habitat au titre de la lutte contre la précarité énergétique ;
@@ -70,10 +70,12 @@ location ou s'engagent à donner en location.
 d'avance remboursable sans intérêt, un descriptif et un devis détaillés des travaux envisagés. Par exception, lorsque la
 demande d'avance remboursable sans intérêt intervient concomitamment à une demande de prêt pour l'acquisition du logement
 faisant l'objet des travaux, le descriptif et le devis détaillés des travaux envisagés peuvent être fournis postérieurement,
-au plus tard à la date de versement du prêt. Il transmet, dans un délai de trois ans à compter de la date d'octroi de
-l'avance par l'établissement de crédit ou la société de financement mentionné au 1, tous les éléments justifiant que les
-travaux ont été effectivement réalisés conformément au descriptif et au devis détaillés et satisfont aux conditions prévues
-aux 1 et 2.
+au plus tard à la date de versement du prêt. Il transmet tous les éléments justifiant que les travaux ont été effectivement
+réalisés conformément au descriptif et au devis détaillés et satisfont aux conditions prévues aux 1 et 2, dans un délai de
+trois ans à compter de la date d'octroi de l'avance par l'établissement de crédit ou la société de financement mentionné au
+1, sauf en cas de décès de l'emprunteur, d'accident de santé de ce dernier entraînant une interruption temporaire de travail
+d'au moins trois mois, d'état de catastrophe naturelle ou technologique, de contestation contentieuse de l'opération ou de
+force majeure, dans des conditions fixées par décret.
 
 Toutefois, lorsque l'avance est consentie pour financer des travaux mentionnés au 1° bis du 2, la demande d'avance s'appuie
 sur un descriptif des travaux envisagés et des éléments fournis à l'emprunteur par l'Agence nationale de l'habitat et la
@@ -137,10 +139,14 @@ destinés à être utilisés en tant que résidence principale, et sous réserve
 
 Les travaux mentionnés au premier alinéa du présent VI bis sont constitués des travaux mentionnés aux 1°, 2° et 3° du 2 du I.
 
+Pour l'appréciation du délai mentionné au 5 du I du présent article lorsque l'avance est accordée en application du premier
+alinéa du présent VI bis, la date d'octroi de l'avance s'entend de la date de signature par l'emprunteur du contrat de prêt
+mentionné à l'article 26-5 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis.
+
 L'avance prévue au premier alinéa du présent VI bis peut être consentie au titre d'un logement ayant déjà fait l'objet d'une
 avance remboursable prévue au I du présent article, à la condition que l'offre relative à la seconde avance soit émise dans
 un délai de cinq ans à compter de l'émission de l'offre d'avance initiale et que la somme des montants des deux avances
-n'excède pas la somme de 30 000 € au titre d'un même logement. 
+n'excède pas la somme de 30 000 € au titre d'un même logement.
 
 Il ne peut être accordé qu'une seule avance remboursable par syndicat de copropriétaires des logements sur lesquels portent
 les travaux.
@@ -149,11 +155,11 @@ Le montant de l'avance remboursable mentionné au premier alinéa du présent VI
 logement affecté à l'usage d'habitation et utilisé ou destiné à être utilisé en tant que résidence principale et détenu par
 l'une des personnes mentionnées aux 3° et 4° du 3 du I.
 
-Par dérogation au quatrième alinéa du présent VI bis, l'avance prévue au premier alinéa peut être consentie aux syndicats de
+Par dérogation au cinquième alinéa du présent VI bis, l'avance prévue au premier alinéa peut être consentie aux syndicats de
 copropriétaires au titre de logements ayant déjà fait l'objet d'une avance remboursable accordée en application du même VI
 bis, pour financer d'autres travaux mentionnés au premier alinéa, à la condition que l'offre d'avance complémentaire soit
 émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance initiale et que la somme des montants de l'avance
-initiale et de l'avance complémentaire n'excède pas la somme de 30 000 € au titre d'un même logement. 
+initiale et de l'avance complémentaire n'excède pas la somme de 30 000 € au titre d'un même logement.
 
 VI ter. – L'avance remboursable sans intérêt prévue au I du présent article peut être consentie dans les mêmes conditions à
 titre complémentaire aux personnes mentionnées aux 3° et 4° du 3 du même I lorsqu'elles participent à une avance remboursable
@@ -171,10 +177,9 @@ l'avance remboursable sans intérêt.
 
 **Nota:**
 
-Conformément au III de l’article 184 de la loi n°2018-1317 du 28 décembre 2018, les dispositions de l’article 244 quater U,
-dans leur rédaction résultant de l’article 184 I, s’appliquent aux offres d'avances émises à compter du 1er juillet 2019.
-Toutefois, l’article 244 quater U, dans sa rédaction résultant du deuxième alinéa du b du 1° et du b du 2° du I, s'applique
-aux offres d'avances émises à compter du 1er mars 2019.
+Conformément au II de l'article 24 de la loi n° 2019-1479 du 28 décembre 2019, l'article 244 quater U, dans sa rédaction
+résultant du 1° du I, s'applique aux demandes de dérogation déposées à compter du 1er juillet 2019. Toutefois, l'article 244
+quater U, dans sa rédaction résultant du 2° du I, s'applique aux avances émises à compter du 1er juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -188,7 +193,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 quater C
   - Code général des impôts, CGI. - art. 8
   - Code monétaire et financier - art. L511-1
-  - Code de la construction et de l'habitation. - art. L312-1
+  - Code de la construction et de l'habitation. - art. L312-1 (V)
 
 _Cité par_:
 
@@ -292,4 +297,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 184
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 24 (V)

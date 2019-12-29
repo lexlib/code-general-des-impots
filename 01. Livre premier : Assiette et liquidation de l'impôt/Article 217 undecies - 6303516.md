@@ -76,7 +76,7 @@ utilisatrice ou si l'acquéreur cesse son activité, les sommes déduites sont r
 ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise. Ce délai est porté à quinze ans
 pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de
 tourisme ou de villages de vacances. Ces conséquences sont également applicables si les conditions prévues aux septième et
-huitième alinéas du présent I cessent d'être respectées. Ce délai est porté à quinze ans pour les investissements portant sur
+huitième alinéas du présent I cessent d'être respectées. Ce délai est porté à dix ans pour les investissements portant sur
 les navires de croisière neufs d'une capacité maximum de 400 passagers.
 
 Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans
@@ -317,33 +317,9 @@ difficulté, au sens du même règlement.
 
 **Nota:**
 
-Conformément à l’article 30 V D de la loi n° 2018-1317 du 28 décembre 2018, le sixième alinéa du I dans sa rédaction
-résultant du a du 9° du I de l'article 30 est applicable :
-
-1° Aux acquisitions d'immeubles à construire et aux constructions d'immeubles n'ayant pas fait l'objet d'une déclaration
-d'ouverture de chantier à la date du 24 septembre 2018 ;
-
-2° Aux investissements pour l'agrément desquels une demande n'est pas parvenue à l'administration à la date du 24 septembre
-2018.
-
-Conformément à l’article 31 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions du 1° des I et I bis telles
-qu'elles résultent du I dudit artcile s'appliquent aux immeubles achevés ou acquis à compter du 1er juillet 2018.
-
-Conformément à l'article 131 III A de la loi n° 2018-1317 du 28 décembre 2018, les présentes dispositions telles qu'elles
-résultent des a à c du 2° du I dudit article s'appliquent aux travaux achevés à compter du 1er janvier 2019 et aux autres
-investissements dont le fait générateur intervient à compter de cette même date.
-
-Conformément à l’article 138 II de la loi n° 2018-1317 du 28 décembre 2018 :
-
-A.- Ces dispositions s'appliquent aux investissements mis en service en Polynésie française, à Saint-Barthélemy, à Saint-
-Pierre-et-Miquelon, dans les îles Wallis et Futuna ou en Nouvelle-Calédonie au titre des exercices ouverts à compter du 1er
-janvier 2020 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2019.
-
-B.- Ces dispositions s'appliquent aux investissements mis en service en Guadeloupe, en Guyane, en Martinique, à La Réunion, à
-Mayotte et à Saint-Martin pour l'agrément desquels une demande a été déposée à compter d'une date fixée par décret, qui ne
-peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission
-européenne permettant de considérer la disposition lui ayant été notifiée comme conforme au droit de l'Union européenne en
-matière d'aides d'Etat.
+Conformément au II de l'article 159 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux
+investissements mis en service au titre des exercices ouverts à compter du 1er janvier 2021 et pour l'agrément desquels une
+demande est déposée à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -357,7 +333,7 @@ _Cite_:
   - Loi n°84-595 du 12 juillet 1984 - art. 5
   - Loi n°2009-594 du 27 mai 2009
   - Code de commerce - art. L232-21
-  - Code général des impôts, CGI. - art. 1010 (V)
+  - Code général des impôts, CGI. - art. 1010
   - Code général des impôts, CGI. - art. 1727
   - Code général des impôts, CGI. - art. 199 undecies
   - Code général des impôts, CGI. - art. 209
@@ -411,7 +387,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 bis HP (V)
   - Code général des impôts, CGI. - art. 242 septies (V)
   - Code général des impôts, CGI. - art. 242 sexies (V)
-  - Code général des impôts, CGI. - art. 244 quater W (M)
+  - Code général des impôts, CGI. - art. 244 quater W (V)
   - Code général des impôts, CGI. - art. 244 quater X (V)
   - Code général des impôts, CGI. - art. 296 ter (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 140 decies (V)
@@ -434,7 +410,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 131 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 138 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 30 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 31 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 159 (V)
