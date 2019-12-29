@@ -21,6 +21,10 @@ taxe fixe dont le montant est égal à une fois et demie le taux unitaire visé 
 
 Pour les vélomoteurs, il est perçu une taxe fixe dont le montant est égal à la moitié dudit taux unitaire.
 
+I bis.-La taxe proportionnelle n'est pas due pour les certificats qui sont relatifs aux véhicules utilisés pour l'exercice
+d'une compétence de l'Etat, des collectivités territoriales, de leurs groupements ou des établissements publics de
+coopération intercommunale et qui sont délivrés à la suite d'un transfert ou du retrait de cette compétence.
+
 II. - Les concessionnaires et les agents de marques de véhicules automobiles sont exonérés des taxes édictées au I pour les
 véhicules neufs affectés à la démonstration et dont le poids total en charge n'excède par 3,5 tonnes.
 
@@ -51,8 +55,13 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 octodecies (VT)
   - Code général des impôts, CGI. - art. 1599 quindecies (V)
   - Code général des impôts, CGI. - art. 1599 septdecies (VT)
+  - Code général des impôts, CGI. - art. 1635 bis M (VD)
   - Code général des impôts, annexe 4, CGIAN4. - art. 155 quater (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 69 (V)
+
+_Abrogé par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 69 (V)
