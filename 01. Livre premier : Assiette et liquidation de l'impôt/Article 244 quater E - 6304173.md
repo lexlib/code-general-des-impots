@@ -17,22 +17,9 @@ certains règlements, la production ou la transformation de houille et lignite, 
 synthétiques, la pêche, le transport, la construction et la réparation de navires d'au moins 100 tonnes de jauge brute, la
 construction automobile. 
 
-Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont
-soit réalisé un chiffre d'affaires inférieur à 40 millions d'euros au cours de l'exercice ou de la période d'imposition,
-ramené le cas échéant à douze mois en cours lors de la réalisation des investissements éligibles, soit un total de bilan
-inférieur à 27 millions d'euros. L'effectif de l'entreprise est apprécié par référence au nombre moyen de salariés employés
-au cours de cet exercice ou de cette période d'imposition. Le capital des sociétés doit être entièrement libéré et être
-détenu de manière continue, pour 75 % au moins, par des personnes physiques ou par une société répondant aux mêmes
-conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-risque, des fonds
-communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et
-financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
-gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de
-développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe
-pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds.
-Pour les sociétés membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis, le chiffre d'affaires et
-l'effectif à prendre en compte s'entendent respectivement de la somme des chiffres d'affaires et de la somme des effectifs de
-chacune des sociétés membres de ce groupe. La condition tenant à la composition du capital doit être remplie par la société
-mère du groupe. 
+Les petites et moyennes entreprises mentionnées au premier alinéa du présent 1° répondent à la définition de l'annexe I au
+règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aide compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité. 
 
 2° (Abrogé). 
 
@@ -58,7 +45,13 @@ d'imposition, ramené le cas échéant à douze mois en cours lors de la réalis
 de bilan n'excédant pas 2 millions d'euros. L'effectif de l'entreprise est apprécié par référence au nombre moyen de salariés
 employés au cours de cet exercice ou de cette période d'imposition. Le capital des sociétés bénéficiaires doit être
 entièrement libéré et être détenu de manière continue, pour 75 % au moins, par des personnes physiques ou par une société
-répondant aux mêmes conditions. Le pourcentage de 75 % est déterminé dans les conditions prévues au dernier alinéa du 1°. 
+répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-
+risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du
+code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
+juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des
+sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il
+n'existe pas de lien de dépendance au sens du 12 de l'article 39 du présent code entre la société en cause et ces dernières
+sociétés ou ces fonds. 
 
 Au titre des exercices clos entre le 31 décembre 2017 et le 31 décembre 2018, lorsqu'une entreprise constate, à la date de la
 clôture de son exercice, un dépassement du seuil d'effectif prévu au premier alinéa du présent 3° bis, cette circonstance ne
@@ -74,7 +67,7 @@ plan de restructuration présenté par l'entreprise n'altère pas les échanges 
 
 II. – Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou
 de l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44
-sexies, 44 sexies A, 44 septies, 44 quindecies, 44 sexdecies, 44 septdecies  et 208 sexies. Elle est irrévocable. 
+sexies, 44 sexies A, 44 septies, 44 quindecies, 44 sexdecies, 44 septdecies et 208 sexies. Elle est irrévocable. 
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime d'imposition de l'article 8 ou par les
 groupements mentionnés aux articles 239 quater ou 239 quater C, le crédit d'impôt peut être utilisé par leurs associés,
@@ -107,35 +100,31 @@ articles 107 et 108 du traité.
 
 **Nota:**
 
-<font color="rgb(51,51,51)">Conformément au II de l'article 22 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour
-2019, ces dispositions s'appliquent</font> aux investissements réalisés à compter du 1er janvier 2019.
+Conformément au II de l'article 152 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, les dispositions des 1°
+et 3° bis telles qu'elles résultent du I dudit article s'appliquent aux exercices clos à compter du 31 décembre 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2002-92 du 22 janvier 2002
-  - Ordonnance n°2013-676 du 25 juillet 2013
+  - Ordonnance n°2013-676 du 25 juillet 2013 (V)
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 1649 nonies
   - Code général des impôts, CGI. - art. 208 sexies
-  - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 239 quater
-  - Code général des impôts, CGI. - art. 39
   - Code général des impôts, CGI. - art. 39 A (V)
   - Code général des impôts, CGI. - art. 41
   - Code général des impôts, CGI. - art. 44 quindecies
   - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
-  - Code monétaire et financier - art. L214-37
+  - Code monétaire et financier - art. L214-37 (V)
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 22 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 37 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 152
 
 _Cité par_:
 
