@@ -42,9 +42,9 @@ s'applique pas aux logements bénéficiant des prêts conventionnés définis à
 de l'habitation. Toutefois, pour ouvrir droit au crédit d'impôt, la construction ou l'acquisition de logements bénéficiant
 des prêts conventionnés précités doit avoir reçu l'agrément préalable du représentant de l'Etat dans le département de
 situation des logements. Le nombre de logements agréés par le représentant de l'Etat au titre d'une année ne peut excéder 25
-% du nombre de logements qui satisfont aux conditions prévues aux b et c du présent 1 livrés l'année précédente dans le
-département. Par dérogation, le nombre annuel de logements agréés par le représentant de l'Etat ne peut excéder cent au titre
-des acquisitions et constructions d'immeubles réalisées à Mayotte jusqu'au 31 décembre 2021.
+% de la moyenne des logements livrés au cours des trois années précédentes dans le département qui satisfont aux conditions
+prévues aux b et c du présent 1. Par dérogation, le nombre annuel de logements agréés par le représentant de l'Etat ne peut
+excéder cent au titre des acquisitions et constructions d'immeubles réalisées à Mayotte jusqu'au 31 décembre 2021.
 
 2. Le crédit d'impôt défini au 1 bénéficie également aux organismes mentionnés au premier alinéa de ce même 1 à la
 disposition desquels sont mis des logements neufs lorsque les conditions suivantes sont respectées :
@@ -61,9 +61,10 @@ risque sismique ou cyclonique.
 
 4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements
 satisfaisant aux conditions fixées au 1, achevés depuis plus de vingt ans et situés dans les quartiers mentionnés au II de
-l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation
-urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant
-leur confortation contre le risque sismique ou cyclonique.
+l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine
+et dans les quartiers prioritaires mentionnés à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la
+ville et la cohésion urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des
+logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique.
 
 5. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition ou la construction de logements neufs situés dans les
 départements d'outre-mer réalisée par les entreprises soumises à l'impôt sur les sociétés y exerçant leur activité lorsque
@@ -78,6 +79,10 @@ postérieure, et pour une durée au moins égale à cinq ans, à des personnes p
 c) Les conditions mentionnées aux b, c, e et f du 1 du présent I sont respectées ;
 
 d) Les conditions mentionnées au 3 du VIII de l'article 244 quater W sont également respectées.
+
+6. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de démolition préalables à la construction de logements
+neufs réalisée dans les conditions prévues au 1 lorsque l'achèvement des fondations de l'immeuble intervient dans un délai de
+deux ans suivant la date de fin des travaux de démolition.
 
 II. – 1. Le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions
 d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au
@@ -96,6 +101,10 @@ subventions publiques reçues. La limite mentionnée au 1 est applicable.
 d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un
 plafond de 50 000 € par logement.
 
+4. Dans le cas mentionné au 6 du I, le crédit d'impôt est assis sur le prix de revient des travaux de démolition minoré,
+d'une part, des taxes versées et, d'autre part, des subventions publiques reçues au titre de ces mêmes travaux. Ce montant
+est retenu dans la limite d'un plafond de 25 000 € par logement démoli.
+
 III. – Le taux du crédit d'impôt est fixé à 40 %.
 
 IV. – 1. Le crédit d'impôt prévu au I est accordé au titre de l'année d'acquisition de l'immeuble.
@@ -107,7 +116,10 @@ II, est accordé à hauteur de 70 % au titre de l'année au cours de laquelle le
 de l'année de la mise hors d'eau ; le solde, calculé sur le prix de revient définitif, est accordé au titre de l'année de
 livraison de l'immeuble ;
 
-b) En cas de réhabilitation d'immeuble, le crédit d'impôt est accordé au titre de l'année d'achèvement des travaux.
+b) En cas de réhabilitation d'immeuble, le crédit d'impôt est accordé au titre de l'année d'achèvement des travaux ;
+
+c) En cas de travaux de démolition, le crédit d'impôt est accordé, pour ces seuls travaux, au titre de l'année de leur
+achèvement.
 
 3. Lorsque l'investissement est réalisé dans les conditions prévues au 2 du I, le crédit d'impôt est accordé au titre de
 l'année au cours de laquelle le bien est mis à la disposition du crédit-preneur.
@@ -143,17 +155,15 @@ services d'intérêt économique général.
 
 **Nota:**
 
-Conformément à l’article 31 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions du a du 1 du I telles qu'elles
-résultent du I dudit article s'appliquent aux immeubles achevés ou acquis à compter du 1er juillet 2018.
+Conformément au II de l'article 141 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter de
+l'année 2020 pour le calcul du nombre de logements agréés par le représentant de l'Etat.
 
-Conformément à l’article 153 II A B de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 244 quater X
-telles qu'elles résultent des a et b du 3° du I dudit article s'appliquent au nombre de logements agréés par le représentant
-de l'Etat à compter de l'année 2019, celles des c et d du 3° du I du même article s'appliquent aux acquisitions et
-constructions d'immeubles ayant fait l'objet d'une déclaration de chantier à compter du 1er janvier 2019.
+Conformément au II de l'article 142 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux travaux
+pour lesquels une demande de permis de construire est déposée à compter du 1er janvier 2020.
 
-Conformément à l’article 154 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 244 quater X telles
-qu'elles résultent du I dudit article s'appliquent aux immeubles dont l'achèvement des fondations intervient à compter du 1er
-janvier 2019.
+Conformément au II de l'article 144 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux travaux de
+rénovation et de réhabilitation pour lesquels une déclaration préalable de travaux ou une demande de permis de construire est
+déposée à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -184,7 +194,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 220 Z quinquies (V)
   - Code général des impôts, CGI. - art. 242 sexies (V)
   - Code général des impôts, CGI. - art. 244 quater W (V)
-  - Code général des impôts, CGI. - art. 296 ter (V)
+  - Code général des impôts, CGI. - art. 296 ter (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies Y (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZT (V)
@@ -198,8 +208,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 131 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 153 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 154 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 30 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 31 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 141 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 142 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 144 (V)
