@@ -5,9 +5,10 @@ jeu ou de pari réalisée au moyen d'un compte joueur ouvert sur un site dédié
 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard
 en ligne.
 
-L'exigibilité des prélèvements mentionnés aux articles 302 bis ZG, 302 bis ZH et 302 bis ZI est constituée par l'encaissement
-des sommes engagées par les joueurs ou les parieurs. L'exigibilité du prélèvement mentionné à l'article 302 bis ZO est
-constituée par le versement des commissions aux sociétés de courses.
+L'exigibilité du prélèvement mentionné à l'article 302 bis ZH est constituée par la réalisation du ou des événements sur
+lesquels repose le jeu. L'exigibilité des prélèvements mentionnés aux articles 302 bis ZG et 302 bis ZI est constituée par
+l'encaissement des sommes engagées par les joueurs ou les parieurs. L'exigibilité du prélèvement mentionné à l'article 302
+bis ZO est constituée par le versement des commissions aux sociétés de courses.
 
 Le produit des prélèvements mentionnés aux articles 302 bis ZG, 302 bis ZH, 302 bis ZI et 302 bis ZO est déclaré et liquidé
 par les opérateurs de jeux ou de paris en ligne mentionnés au deuxième alinéa de ces mêmes articles ou par le Pari mutuel
@@ -29,8 +30,8 @@ tard le 25 du mois qui suit celui au cours duquel l'exigibilité est intervenue.
 
 **Nota:**
 
-Conformément à l'article 3 de l'ordonnance n° 2015-459 du 23 avril 2015, ces dispositions s'appliquent aux déclarations
-portant sur une période d'imposition postérieure au 1er janvier 2016.
+Conformément au A du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZL, dans sa rédaction
+résultant du 1° du D du I du présent article, entre en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -41,7 +42,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-459 du 23 avril 2015 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 28 (V)
 
 _Cité par_:
 

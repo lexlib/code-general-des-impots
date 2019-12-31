@@ -5,10 +5,10 @@ application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octie
 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année.
 Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros
 et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 %
-pour les dépenses de recherche exposées à compter du 1er janvier 2015 dans des exploitations situées dans un département
-d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour
-les dépenses mentionnées au même k exposées, à compter du 1er janvier 2015, dans des exploitations situées dans un
-département d'outre-mer.
+pour les dépenses de recherche exposées dans des exploitations situées dans un département d'outre-mer ou sur le territoire
+de la collectivité de Corse. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est
+porté à 40 % pour les dépenses mentionnées au même k exposées dans des exploitations situées dans un département d'outre-mer
+ou sur le territoire de la collectivité de Corse.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater,
 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des
@@ -37,7 +37,7 @@ b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 
 intellectuelle, au profit des salariés auteurs d'une invention résultant d'opérations de recherche ;
 
 c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à la
-somme de 75 % des dotations aux amortissements mentionnées au a et de 50 % des dépenses de personnel mentionnées à la
+somme de 75 % des dotations aux amortissements mentionnées au a et de 43 % des dépenses de personnel mentionnées à la
 première phrase du b et au b bis ;
 
 Ce pourcentage est fixé à :
@@ -76,8 +76,9 @@ ainsi qu'à leurs structures nationales de coordination ;
 9° Des stations ou fermes expérimentales dans le secteur de la recherche scientifique et technique agricole, ayant pour
 membre une chambre d'agriculture départementale ou régionale.
 
-Ces dépenses sont retenues pour le double de leur montant à la condition qu'il n'existe pas de lien de dépendance au sens du
-12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et l'entité mentionnée aux 1° à 9° ;
+Ces dépenses sont retenues pour le double de leur montant pour la seule part relative aux opérations réalisées par ces
+organismes, à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre l'entreprise qui
+bénéficie du crédit d'impôt et l'entité mentionnée aux 1° à 9° ;
 
 d bis) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés
 agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions.
@@ -90,12 +91,16 @@ recherche, par l'entité compétente pour délivrer l'agrément équivalent à c
 Ces dépenses sont retenues dans la limite de trois fois le montant total des autres dépenses de recherche ouvrant droit au
 crédit d'impôt, avant application des limites prévues au d ter ;
 
-d ter) Les dépenses mentionnées aux d et d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite
-globale de 2 millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche
-correspondant à des opérations confiées aux organismes mentionnés aux d et d bis, à la condition qu'il n'existe pas de lien
-de dépendance au sens du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et ces organismes.
+d ter) Les opérations mentionnées aux d et d bis sont réalisées directement par les organismes auxquels elles ont été
+confiées. Par dérogation, ces organismes peuvent recourir à des organismes mentionnés aux mêmes d et d bis pour la
+réalisation de certains travaux nécessaires à ces opérations.
 
-Le plafond de 10 millions d'euros mentionné au premier alinéa est majoré de 2 millions d'euros à raison des dépenses
+Les dépenses mentionnées aux d et d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite globale de
+2 millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche correspondant à des
+opérations confiées aux organismes mentionnés aux d et d bis, à la condition qu'il n'existe pas de lien de dépendance au sens
+du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et ces organismes.
+
+Le plafond de 10 millions d'euros mentionné au deuxième alinéa est majoré de 2 millions d'euros à raison des dépenses
 correspondant aux opérations confiées aux organismes mentionnés au d ;
 
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ;
@@ -157,7 +162,7 @@ et installations pilotes mentionnés au a ;
 2° Les dépenses de personnel directement et exclusivement affecté à la réalisation des opérations mentionnées au 1° ;
 
 3° Les autres dépenses de fonctionnement exposées à raison des opérations mentionnées au 1° ; ces dépenses sont fixées
-forfaitairement à la somme de 75 % des dotations aux amortissements mentionnées au 1° et de 50 % des dépenses de personnel
+forfaitairement à la somme de 75 % des dotations aux amortissements mentionnées au 1° et de 43 % des dépenses de personnel
 mentionnées au 2° ;
 
 4° Les dotations aux amortissements, les frais de prise et de maintenance de brevets et de certificats d'obtention végétale
@@ -211,8 +216,7 @@ en application des articles 107 et 108 du traité.
 
 3. Le bénéfice des taux majorés mentionnés au I pour le crédit d'impôt qui résulte de la prise en compte des dépenses de
 recherche prévues aux a à k du II exposées dans des exploitations situées dans un département d'outre-mer est subordonné au
-respect de l'article 15 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité, y compris pour les secteurs
-mentionnés au 3 de l'article 1er et au a de l'article 13 du même règlement.
+respect de l'article 15 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
 
 III. – Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont
 déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de
@@ -231,13 +235,21 @@ b) Du montant des dépenses ainsi exposées, autres que celles mentionnées au a
 suivants : soit la somme de 15 000 € hors taxes, soit 5 % du total des dépenses hors taxes mentionnées au II minoré des
 subventions publiques mentionnées au III.
 
-III bis. – Les entreprises qui engagent plus de 2 millions d'euros de dépenses de recherche mentionnées au II joignent à leur
-déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état
+III bis. – Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à
+leur déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état
 d'avancement de leurs programmes, les moyens matériels et humains, directs ou indirects, qui y sont consacrés, la part de
 titulaires d'un doctorat financés par ces dépenses ou recrutés sur leur base, le nombre d'équivalents temps plein
-correspondants et leur rémunération moyenne, ainsi que la localisation de ces moyens. Sur la base de ces informations, le
-ministre chargé de la recherche publie chaque année, au moment du dépôt du projet de loi de finances de l'année au Parlement,
-un rapport synthétique sur l'utilisation du crédit d'impôt recherche par ses bénéficiaires.
+correspondants et leur rémunération moyenne, ainsi que la localisation de ces moyens.
+
+Les entreprises qui engagent un montant de dépenses de recherche mentionnées au II supérieur à 10 millions d'euros et
+n'excédant pas 100 millions d'euros joignent à leur déclaration de crédit d'impôt recherche un état précisant, pour
+l'exercice au titre duquel la déclaration porte, la part de titulaires d'un doctorat financés par ces dépenses ou recrutés
+sur leur base, le nombre d'équivalents temps plein correspondant et leur rémunération moyenne.
+
+Sur la base des informations contenues dans les états mentionnés aux deux premiers alinéas du présent III bis, le ministre
+chargé de la recherche publie chaque année, au moment du dépôt au Parlement du projet de loi de finances de l'année, un
+rapport synthétique présentant l'utilisation du crédit d'impôt recherche par ses bénéficiaires, notamment s'agissant de la
+politique des entreprises en matière de recrutement de personnes titulaires d'un doctorat.
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
@@ -246,15 +258,11 @@ durée inégale ou ne coïncidant pas avec l'année civile.
 
 **Nota:**
 
-Conformément au II et au III de l'article 150 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, ces
-dispositions s'appliquent aux dépenses engagées au titre des exercices clos à compter du 31 décembre 2019.
-
-Elles entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception
-par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été
-notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
-
 Conformément au IV de l'article 130 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 244 quater B
 résultant des dispositions du 1° du I dudit article, s'appliquent aux dépenses exposées à compter du 1er janvier 2020.
+
+Conformément au II de l'article 132 de ladite loi, le II de l'article 244 quater B du code général des impôts, dans sa
+rédaction résultant du I du présent article, s'applique aux dépenses exposées à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -301,7 +309,7 @@ _Cité par_:
   - Code de la recherche - art. L131-1 (Ab)
   - Code de la recherche - art. L511-1 (V)
   - Code de la sécurité sociale. - art. L752-3-2 (VD)
-  - Code général des impôts, CGI. - art. 1518 A quater (VD)
+  - Code général des impôts, CGI. - art. 1518 A quater (V)
   - Code général des impôts, CGI. - art. 1653 F (V)
   - Code général des impôts, CGI. - art. 1727 (V)
   - Code général des impôts, CGI. - art. 1729 B (V)
@@ -332,4 +340,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 29 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 130 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 132 (V)

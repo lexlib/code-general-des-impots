@@ -56,12 +56,21 @@ d) Les dépenses liées au recours aux industries techniques et autres prestatai
 audiovisuelle ;
 
 e) Les dépenses de transport, de restauration et d'hébergement occasionnées par la production de l'œuvre sur le territoire
-français. Les dépenses d'hébergement sont retenues dans la limite d'un montant par nuitée fixé par décret ;
+français. Un décret détermine les conditions et les limites dans lesquelles ces dépenses sont prises en compte ;
 
 f) Pour les œuvres audiovisuelles documentaires, les dépenses relatives à l'acquisition de droits d'exploitation d'images
 d'archives pour une durée minimale de quatre ans effectuées auprès d'une personne morale établie en France, dès lors qu'il
 n'existe pas de lien de dépendance, au sens du 12 de l'article 39, entre cette personne et l'entreprise de production
 bénéficiaire du crédit d'impôt.
+
+Le montant cumulé des rémunérations mentionnées au a et des salaires mentionnés au c versés au réalisateur en qualité de
+technicien est retenu, par personne physique, dans la limite d'un montant cumulé calculé comme suit :
+
+- 15 % de la part du coût de production de l'œuvre inférieure à 4 000 000 € ;
+
+- 8 % de la part du coût de production de l'œuvre supérieure ou égale à 4 000 000 € et inférieure ou égale à 7 000 000 € ;
+
+- 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
 
 Le taux mentionné au premier alinéa du présent 1 est porté à 25 % en ce qui concerne les œuvres audiovisuelles de fiction et
 d'animation. Il est porté à 30 % pour les œuvres cinématographiques d'animation et pour les œuvres cinématographiques autres
@@ -147,11 +156,8 @@ VIII. – Un décret fixe les conditions d'application du présent article.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2016 et
-entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par
-le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été
-notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat. Le décret n° 2016-1191 du 31 août 2016 a
-fixé cette date au lendemain de sa publication, soit au 3 septembre 2016.
+Conformément au II de l'article 138 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux crédits
+d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -183,9 +189,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 77 (V)
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 111
-  - Décret n°2016-1191 du 31 août 2016 - art. 2
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 138 (V)
 
 _Cite_:
 

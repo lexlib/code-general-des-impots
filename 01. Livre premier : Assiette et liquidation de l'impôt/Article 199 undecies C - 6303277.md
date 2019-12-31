@@ -107,8 +107,8 @@ l'article 217 undecies ;
 mentionnés au I.
 
 Les associés personnes physiques mentionnés au deuxième alinéa ne peuvent bénéficier, pour la souscription au capital de la
-société mentionnée au même alinéa, de la réduction d'impôt prévue à l'article 199 terdecies-0 A et la société mentionnée ne
-peut bénéficier des dispositions prévues à l'article 217 undecies.
+société mentionnée au même alinéa, des réductions d'impôt prévues aux articles 199 terdecies-0 A et 199 terdecies-0 AB et la
+société mentionnée ne peut bénéficier des dispositions prévues à l'article 217 undecies.
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par les associés lors de la cession des titres
 des sociétés. Le 2° du 3 de l'article 158 ne s'applique pas aux revenus distribués par ces sociétés.
@@ -192,12 +192,8 @@ forme de compensations de service public octroyées à certaines entreprises cha
 
 **Nota:**
 
-Conformément à l’article 31 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions du 1° du I telles qu'elles
-résultent du I dudit article s'appliquent aux immeubles achevés ou acquis à compter du 1er juillet 2018.
-
-Aux termes du II de l'article 139 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions des VI bis et VI ter dans leur
-rédaction issue du I dudit article sont applicables aux travaux de rénovation ou de réhabilitation achevés à compter du 1er
-janvier 2019.
+Conformément au A du V de l’article 157 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter
+du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -205,12 +201,11 @@ _Cite_:
 
   - Loi n°2009-594 du 27 mai 2009
   - Code général des impôts, CGI. - art. 150-0 D
-  - Code général des impôts, CGI. - art. 158 (M)
+  - Code général des impôts, CGI. - art. 158
   - Code général des impôts, CGI. - art. 199 septvicies
-  - Code général des impôts, CGI. - art. 199 terdecies-0 A
   - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 199 undecies B
+  - Code général des impôts, CGI. - art. 199 undecies B (VT)
   - Code général des impôts, CGI. - art. 217 undecies
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L214-114
@@ -238,7 +233,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1740 (V)
   - Code général des impôts, CGI. - art. 1740-0 A (V)
   - Code général des impôts, CGI. - art. 1740-00 AB (V)
-  - Code général des impôts, CGI. - art. 199 novovicies (M)
+  - Code général des impôts, CGI. - art. 199 novovicies (VD)
   - Code général des impôts, CGI. - art. 199 undecies D (VD)
   - Code général des impôts, CGI. - art. 199 undecies E (V)
   - Code général des impôts, CGI. - art. 199 undecies F (V)
@@ -253,6 +248,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 139 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 30 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 31 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 157 (V)

@@ -13,8 +13,13 @@ les contenus audiovisuels sont secondaires, les services dont l'objet principal 
 services dont l'objet principal est de fournir des informations relatives aux œuvres cinématographiques et audiovisuelles et
 à leur diffusion auprès du public et d'en assurer la promotion, au moyen notamment d'extraits ou de bandes annonces.
 
-Les services sont réputés mis à disposition du public en France lorsqu'ils sont effectués en faveur des personnes non
-assujetties à la taxe sur la valeur ajoutée qui sont établies, ont leur domicile ou leur résidence habituelle en France.
+Les opérations mentionnées au 1° sont réputées être réalisées en France lorsqu'elles le sont pour les besoins de la taxe sur
+la valeur ajoutée en application du I bis de la section I du chapitre Ier du titre II de la première partie du livre Ier du
+code général des impôts.
+
+Les services mentionnés aux 2° et 3° sont réputés mis à disposition du public en France lorsqu'ils sont effectués en faveur
+des personnes non assujetties à la taxe sur la valeur ajoutée qui sont établies, ont leur domicile ou leur résidence
+habituelle en France.
 
 II. – Sont redevables de la taxe, les personnes, qu'elles soient établies en France ou hors de France qui :
 
@@ -51,9 +56,13 @@ code du cinéma et de l'image animée ;
 2° Pour les redevables établis en France, le montant acquitté au titre d'une taxe due à raison des opérations mentionnées au
 I du présent article dans un autre Etat membre de l'Union européenne, autre que la taxe sur la valeur ajoutée.
 
-V. – Le taux de la taxe est fixé à 2 %. Il est porté à 10 % lorsque les opérations concernent des œuvres ou documents
+V. – Le taux de la taxe est fixé à 5,15 %. Il est porté à 15 % lorsque les opérations concernent des œuvres ou documents
 cinématographiques ou audiovisuels à caractère pornographique ou d'incitation à la violence. Les conditions dans lesquelles
 les redevables procèdent à l'identification de ces œuvres et documents sont fixées par décret.
+
+Pour les redevables mentionnés au 1° du II, la taxe est calculée après application d'un abattement de 65 % sur la base
+d'imposition. Cet abattement ne s'applique pas lorsque les opérations mentionnées au 1° du III concernent des œuvres ou
+documents cinématographiques ou audiovisuels à caractère pornographique ou d'incitation à la violence.
 
 Pour les redevables mentionnés aux 3° et 4° du II, la taxe est calculée après application d'un abattement de 100 000 € sur la
 base d'imposition. Cet abattement est réparti entre les personnes mentionnées aux 3° et 4° du I au prorata de l'assiette
@@ -83,15 +92,14 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 612-12 (V)
   - Code du cinéma et de l'image animée - art. 612-4 (V)
   - Code du cinéma et de l'image animée - art. L116-1 (V)
-  - Code général des impôts, CGI. - art. 1647 (M)
+  - Code général des impôts, CGI. - art. 1647 (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 331 M bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 331 M ter (V)
   - Livre des procédures fiscales - art. L163 (VD)
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 36 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 193 (V)
 
 _Anciens textes_:
 
@@ -99,4 +107,4 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L115-6 (M)
+  - Code du cinéma et de l'image animée - art. L115-6 (V)
