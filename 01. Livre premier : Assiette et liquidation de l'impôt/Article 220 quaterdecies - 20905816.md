@@ -44,8 +44,17 @@ c) Les salaires versés aux personnels de la réalisation et de la production, a
 d) Les dépenses liées au recours aux industries techniques et autres prestataires de la création cinématographique ou
 audiovisuelle ;
 
-e) Les dépenses de transport et de restauration , ainsi que les dépenses d'hébergement dans la limite d'un montant par nuitée
-fixé par décret, occasionnées par la production de l'œuvre sur le territoire français.
+e) Les dépenses de transport, de restauration et d'hébergement occasionnées par la production de l'œuvre sur le territoire
+français. Un décret détermine les conditions et les limites dans lesquelles ces dépenses sont prises en compte.
+
+Le montant cumulé des rémunérations mentionnées au a et des salaires mentionnés au c versés au réalisateur en qualité de
+technicien est retenu par personne physique, dans la limite d'un montant cumulé calculé comme suit :
+
+- 15 % de la part du coût de production de l'œuvre inférieure à 4 000 000 € ;
+
+- 8 % de la part du coût de production de l'œuvre supérieure ou égale à 4 000 000 € et inférieure ou égale à 7 000 000 € ;
+
+- 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €. 
 
 2. Les auteurs, les artistes-interprètes et les personnels de la réalisation et de la production mentionnés au 1 doivent être
 soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord
@@ -73,6 +82,11 @@ VII. – Les crédits d'impôts obtenus pour la production d'une même œuvre ci
 pour effet de porter à plus de 50 % du budget de production de l'œuvre le montant total des aides publiques accordées.
 
 VIII. – Un décret précise les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément au II de l'article 138 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux crédits
+d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -117,7 +131,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 144
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 138 (V)
 
 _Cite_:
 

@@ -7,13 +7,13 @@ investissement, des actions de sociétés de capital-risque ou des droits repré
 entité mentionnée au dernier alinéa du 8 du II de l'article 150-0 A, donnant lieu à des droits différents sur l'actif net ou
 les produits du fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne, ainsi que les
 distributions et gains nets mentionnés au 9 du même II, sont imposables à l'impôt sur le revenu suivant les règles
-applicables aux traitements et salaires lorsque les conditions prévues aux 8 ou 9 ou aux deuxième à huitième alinéas du 1 du
+applicables aux traitements et salaires lorsque les conditions prévues aux 8 ou 9 ou aux deuxième à dernier alinéas du 1 du
 II de l'article 163 quinquies C ne sont pas respectées.
 
 **Nota:**
 
-Conformément à l’article 42 III de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux gains nets
-réalisés et aux distributions perçues à compter du 11 juillet 2018.
+Conformément au II de l'article 8 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux gains nets
+réalisés et aux distributions perçues à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -26,10 +26,10 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 42 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 8 (V)
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. L137-18 (V)
   - Code général des impôts, CGI. - art. 204 D (VD)
-  - Code général des impôts, CGI. - art. 242 ter C (M)
+  - Code général des impôts, CGI. - art. 242 ter C (V)

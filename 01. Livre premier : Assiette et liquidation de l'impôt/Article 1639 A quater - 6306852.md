@@ -32,5 +32,4 @@ Conformément au A du VII de l’article 16 de la loi n° 2019-1479 du 28 décem
 
 _Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 6 (VD)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 94 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
