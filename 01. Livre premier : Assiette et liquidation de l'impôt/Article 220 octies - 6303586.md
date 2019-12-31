@@ -17,12 +17,12 @@ fiscales et qui y effectuent les prestations liées à la réalisation d'un enre
 musical ainsi qu'aux opérations de postproduction ;
 
 b) Porter sur des albums de nouveaux talents définis comme des artistes, groupes d'artistes, compositeurs ou artistes-
-interprètes n'ayant pas dépassé le seuil de 100 000 ventes pour deux albums distincts précédant ce nouvel enregistrement.
-S'agissant des albums d'expression, le bénéfice du crédit d'impôt est réservé aux albums de nouveaux talents dont la moitié
-au moins sont d'expression française ou dans une langue régionale en usage en France et aux albums de nouveaux talents,
-composés d'une ou de plusieurs œuvres libres de droit d'auteur au sens des articles L. 123-1 à L. 123-12 du code de la
-propriété intellectuelle. S'agissant des albums de nouveaux talents, le bénéfice du crédit d'impôt s'apprécie au niveau de
-l'entreprise redevable de l'impôt sur les sociétés pour l'ensemble des albums qu'elle produit chaque année.
+interprètes n'ayant pas dépassé un seuil de ventes et d'écoutes défini par décret pour deux albums distincts précédant ce
+nouvel enregistrement. S'agissant des albums d'expression, le bénéfice du crédit d'impôt est réservé aux albums de nouveaux
+talents dont la moitié au moins sont d'expression française ou dans une langue régionale en usage en France et aux albums de
+nouveaux talents, composés d'une ou de plusieurs œuvres libres de droit d'auteur au sens des articles L. 123-1 à L. 123-12 du
+code de la propriété intellectuelle. S'agissant des albums de nouveaux talents, le bénéfice du crédit d'impôt s'apprécie au
+niveau de l'entreprise redevable de l'impôt sur les sociétés pour l'ensemble des albums qu'elle produit chaque année.
 
 III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes
 effectuées avant le 31 décembre 2022, pour des opérations mentionnées au II effectuées en France, dans un autre Etat membre
@@ -130,6 +130,10 @@ par décret, qui ne peut être postérieure de plus de six mois à la date de r�
 Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de
 l'Union européenne en matière d'aides d'Etat.
 
+Conformément à l'article 143 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 220 octies telles
+qu'elles résultent du 2° du I dudit article s'appliquent aux demandes d'agréments provisoires prévues au IV de l'article 220
+octies déposées à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -160,7 +164,6 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2018-1317 du 28 décembre 2018 - art. 143 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 144
 
 _Cite_:
 
