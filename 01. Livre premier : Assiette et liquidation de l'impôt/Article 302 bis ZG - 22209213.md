@@ -12,15 +12,12 @@ qu'opérateur de paris hippiques en ligne, à l'agrément mentionné à l'articl
 précitée. Le produit de ce prélèvement est affecté, à concurrence de 15 % et dans la limite de 11 182 394 €, pour moitié aux
 établissements publics de coopération intercommunale et pour moitié aux communes sur le territoire desquels sont ouverts au
 public un ou plusieurs hippodromes, au prorata des enjeux des courses hippiques effectivement organisées par lesdits
-hippodromes, et dans la limite de 782 768 € par ensemble intercommunal concerné. L'établissement public de coopération
+hippodromes, pour 75 % du montant affecté et au prorata du nombre de réunions de courses organisées par ces hippodromes pour
+les 25 % restants, et dans la limite de 782 768 € par ensemble intercommunal concerné. L'établissement public de coopération
 intercommunale est substitué aux communes membres pour la perception du produit de ce prélèvement, sur délibération des
 communes membres prise dans les conditions prévues à l'article 1639 A bis du présent code. Les limites mentionnées dans la
 deuxième phrase du présent alinéa sont indexées, chaque année, sur la prévision de l'indice des prix à la consommation hors
 tabac retenue dans le projet de loi de finances de l'année.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l’article 47 de la loi n° 2010-476 du 12 mai 2010.
 
 **Liens relatifs à cet article**
 
@@ -42,4 +39,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 116

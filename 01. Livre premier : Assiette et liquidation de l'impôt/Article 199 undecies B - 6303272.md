@@ -112,8 +112,8 @@ inférieure, l'investissement ayant ouvert droit à réduction d'impôt est céd
 laquelle il a été acquis ou créé, ou si l'acquéreur cesse son activité, la réduction d'impôt pratiquée fait l'objet d'une
 reprise au titre de l'année au cours de laquelle cet événement est intervenu. Ce délai est porté à quinze ans pour les
 investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de
-villages de vacances. Ce délai est porté à quinze ans pour les investissements portant sur les navires de croisière neufs
-d'une capacité maximum de 400 passagers.
+villages de vacances. Ce délai est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une
+capacité maximum de 400 passagers.
 
 Toutefois, la reprise de la réduction d'impôt n'est pas effectuée lorsque les biens ayant ouvert droit à réduction d'impôt
 sont transmis dans le cadre des opérations mentionnées aux articles 41 et 151 octies, si le bénéficiaire de la transmission
@@ -169,8 +169,9 @@ dispositions du trente-troisième alinéa sont applicables ;
 location au profit d'une entreprise située dans les départements ou collectivités d'outre-mer.
 
 Les associés personnes physiques mentionnés au vingt-septième alinéa ne peuvent bénéficier, pour la souscription au capital
-de la société mentionnée au même alinéa, des réductions d'impôt prévues aux articles 199 undecies A, ou 199 terdecies-0 A et
-la société mentionnée au vingt-septième alinéa ne peut bénéficier des dispositions prévues à l'article 217 undecies.
+de la société mentionnée au même alinéa, des réductions d'impôt prévues aux articles 199 undecies A, 199 terdecies-0 A ou 199
+terdecies-0 AB et la société mentionnée au vingt-septième alinéa ne peut bénéficier des dispositions prévues à l'article 217
+undecies.
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par les contribuables mentionnés au vingt-
 septième alinéa lors de la cession des titres des sociétés mentionnées à ce même alinéa. Le 2° du 3 de l'article 158 ne
@@ -294,6 +295,15 @@ Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy et dans les 
 réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et aux constructions
 d'immeubles dont les fondations sont achevées au plus tard à cette date.
 
+**Nota:**
+
+Conformément au A du V de l’article 157 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter
+du 1er janvier 2020.
+
+Conformément au II de l'article 159 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 undecies B, dans sa rédaction
+résultant du 1° du I du présent article, s'applique aux investissements mis en service au titre des exercices ouverts à
+compter du 1er janvier 2021 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -383,4 +393,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-1063 du 18 octobre 2019 - art. 6
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 157 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 159 (V)

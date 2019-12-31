@@ -137,17 +137,15 @@ forfaitairement par l'arrêté précité et compris entre 40 % et 65 %, est tout
 
 Le produit de la taxe est affecté sur chaque aérodrome ou groupement d'aérodromes au financement des services de sécurité-
 incendie-sauvetage, de lutte contre le péril animalier, de sûreté et des mesures effectuées dans le cadre des contrôles
-environnementaux. Il contribue, dans une proportion fixée annuellement par arrêté, au financement des matériels de contrôle
-automatisé aux frontières par identification biométrique installés dans les aéroports. Le tarif de la taxe est fonction du
-besoin de financement sur chaque aérodrome ou groupement d'aérodromes, tel qu'il résulte notamment des prestations assurées
-en application de la réglementation en vigueur, et de l'évolution prévisionnelle des données relatives au trafic, aux coûts
-et aux autres produits de l'exploitant. Pour chaque aérodrome et groupement d'aérodromes des classes 1 et 2 dont les coûts
-annuels par passager embarqué éligibles au financement par la taxe sont supérieurs ou égaux à 9 € en moyenne sur les trois
-dernières années civiles connues, le tarif est fixé de manière à couvrir 94 % des coûts éligibles supportés par son
-exploitant, sous réserve des limites fixées au tableau du sixième alinéa du présent IV. Les coûts éligibles complémentaires
-sont à la charge exclusive de cet exploitant. Pour les autres aérodromes et groupements d'aérodromes, le tarif est fixé de
-manière à couvrir l'intégralité des coûts éligibles supportés par leur exploitant, sous réserve des limites fixées au même
-tableau.
+environnementaux. Le tarif de la taxe est fonction du besoin de financement sur chaque aérodrome ou groupement d'aérodromes,
+tel qu'il résulte notamment des prestations assurées en application de la réglementation en vigueur, et de l'évolution
+prévisionnelle des données relatives au trafic, aux coûts et aux autres produits de l'exploitant. Pour chaque aérodrome et
+groupement d'aérodromes des classes 1 et 2 dont les coûts annuels par passager embarqué éligibles au financement par la taxe
+sont supérieurs ou égaux à 9 € en moyenne sur les trois dernières années civiles connues, le tarif est fixé de manière à
+couvrir 94 % des coûts éligibles supportés par son exploitant, sous réserve des limites fixées au tableau du sixième alinéa
+du présent IV. Les coûts éligibles complémentaires sont à la charge exclusive de cet exploitant. Pour les autres aérodromes
+et groupements d'aérodromes, le tarif est fixé de manière à couvrir l'intégralité des coûts éligibles supportés par leur
+exploitant, sous réserve des limites fixées au même tableau.
 
 Les données relatives au trafic, aux coûts et aux autres produits de l'exploitant font l'objet d'une déclaration par les
 exploitants d'aérodromes ou groupements d'aérodromes selon des modalités fixées par un arrêté conjoint du ministre chargé du
@@ -176,9 +174,9 @@ IV.
 Le tarif défini pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois considéré,
 arrondi à la tonne inférieure.
 
-Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fourni par l'administration de l'aviation civile,
-le nombre de passagers et la masse de fret et de courrier embarqués le mois précédent pour les vols effectués au départ de
-chaque aérodrome.
+Les entreprises de transport aérien déclarent chaque mois, conformément au modèle prescrit par l'administration de l'aviation
+civile, le nombre de passagers et la masse de fret et de courrier embarqués le mois précédent pour les vols effectués au
+départ de chaque aérodrome.
 
 Toutefois, les entreprises de transport aérien qui ont déclaré au cours de l'année précédente un montant de taxe égal ou
 inférieur à 12 000 € sont admises à souscrire, à compter du premier trimestre civil de l'année qui suit, des déclarations
@@ -189,8 +187,9 @@ des quatre trimestres civils consécutifs de l'année dépasse le montant de 12 
 déclarations dans les conditions fixées au onzième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui
 suit l'année de dépassement.
 
-Ces déclarations, mensuelles ou trimestrielles, sont adressées aux comptables du budget annexe " Contrôle et exploitation
-aériens ". Concomitamment, les redevables acquittent la taxe et sa majoration prévue au IV bis, par virement bancaire.
+Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe "
+Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe et sa majoration prévue au IV bis, par
+virement bancaire.
 
 IV bis. – A compter du 1er janvier 2010, le tarif par passager de la taxe d'aéroport fait l'objet d'une majoration fixée,
 dans la limite d'un montant de 1,25 €, par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation
@@ -217,11 +216,6 @@ aérodromes ou groupements d'aérodromes de la collectivité intéressée. Pour 
 Nouvelle-Calédonie et à Mayotte, la majoration n'est pas due pour les passagers, le fret ou le courrier en correspondance.
 
 VIII. ― Pour l'application du présent article, la notion de correspondance est celle définie au VI de l'article 302 bis K.
-
-**Nota:**
-
-Conformément aux dispositions du II de l'article 179 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
-l'article 1609 quatervicies telles qu'elles résultent du I dudit article entrent en vigueur le 1er avril 2019.
 
 **Liens relatifs à cet article**
 
@@ -279,13 +273,12 @@ _Cité par_:
   - Arrêté du 25 mars 2019 - art. 1 (V)
   - Décret n°2019-832 du 6 août 2019 - art. (V)
   - Arrêté du 25 septembre 2020 (V)
-  - Code général des impôts, CGI. - art. 1647 (M)
+  - Code général des impôts, CGI. - art. 1647 (VD)
   - Code général des impôts, CGI. - art. 302 bis K bis (VD)
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 179 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 180
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 191
 
 _Cite_:
 

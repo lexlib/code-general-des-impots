@@ -12,8 +12,8 @@ ou d'un établissement public de coopération intercommunale, les départements 
 prise dans les conditions prévues au I de l'article 1639 A bis ou à l'article 1464 C exonérer leur valeur ajoutée de
 cotisation sur la valeur ajoutée des entreprises pour sa fraction taxée à leur profit. L'exonération est applicable à la
 demande de l'entreprise. Pour les établissements pouvant être exonérés de cotisation foncière des entreprises en application
-des articles 1464 A et 1465 et du I de l'article 1466 A, la délibération détermine la proportion exonérée de la valeur
-ajoutée taxée au profit de la collectivité délibérante.
+des articles 1464 A , 1464 F, 1464 G et 1465 et du I de l'article 1466 A, la délibération détermine la proportion exonérée de
+la valeur ajoutée taxée au profit de la collectivité délibérante.
 
 III. – Les établissements pouvant être exonérés de cotisation foncière des entreprises en l'absence de délibération contraire
 d'une commune ou d'un établissement public de coopération intercommunale à fiscalité propre sont, à la demande de
@@ -45,12 +45,17 @@ VII. – Lorsqu'une entreprise dispose de plusieurs établissements dans une mê
 commune est, pour l'application du présent article, répartie entre ces établissements selon les modalités prévues au III de
 l'article 1586 octies.
 
+**Nota:**
+
+Conformément au II de l’article 110 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux impositions
+établies au titre des années 2020 à 2023.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Décret n°2007-94 du 24 janvier 2007 - art. 2 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
   - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 40 (V)
   - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (VD)
   - Code du cinéma et de l'image animée - art. L335-2 (V)
@@ -59,14 +64,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 110 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1464 A
   - Code général des impôts, CGI. - art. 1464 C
   - Code général des impôts, CGI. - art. 1465
-  - Code général des impôts, CGI. - art. 1466 A (M)
+  - Code général des impôts, CGI. - art. 1466 A
   - Code général des impôts, CGI. - art. 1466 F
   - Code général des impôts, CGI. - art. 1586 octies
   - Code général des impôts, CGI. - art. 1639 A bis

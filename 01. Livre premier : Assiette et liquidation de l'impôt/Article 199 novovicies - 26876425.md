@@ -29,9 +29,9 @@ logement neuf ;
 4° Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2013 et le 31
 décembre 2021 et qui fait ou qui a fait l'objet de travaux de transformation en logement.
 
-5° Au logement que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2021 et qui fait ou qui a fait
-l'objet de travaux de rénovation définis par décret, ainsi qu'au local affecté à un usage autre que l'habitation que le
-contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de
+5° Au logement que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2022 et qui fait ou qui a fait
+l'objet de travaux d'amélioration définis par décret, ainsi qu'au local affecté à un usage autre que l'habitation que le
+contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2022 et qui fait ou qui a fait l'objet de travaux de
 transformation en logement. Le montant des travaux, facturés par une entreprise, doit représenter au moins 25 % du coût total
 de l'opération.
 
@@ -88,12 +88,11 @@ par un déséquilibre important entre l'offre et la demande de logements entraî
 parc locatif existant et aux logements situés dans des communes dont le territoire est couvert par un contrat de
 redynamisation de site de défense ou l'a été dans un délai de huit ans précédant l'investissement.
 
-IV bis.-La réduction d'impôt mentionnée au 5° du B du I s'applique exclusivement aux logements situés dans le centre des
-communes dont le besoin de réhabilitation de l'habitat en centre-ville est particulièrement marqué ou qui ont conclu une
-convention d'opération de revitalisation de territoire prévue à l'article L. 303-2 du code de la construction et de
-l'habitation. Les modalités d'application du présent IV bis, notamment la liste des communes répondant à la condition liée au
-besoin de réhabilitation de l'habitat en centre-ville et la détermination du centre des communes éligibles, sont fixées par
-arrêté des ministres chargés du logement et du budget.
+IV bis.-La réduction d'impôt mentionnée au 5° du B du I s'applique exclusivement aux logements situés dans les communes dont
+le besoin de réhabilitation de l'habitat en centre-ville est particulièrement marqué ou qui ont conclu une convention
+d'opération de revitalisation de territoire prévue à l'article L. 303-2 du code de la construction et de l'habitation. Les
+modalités d'application du présent IV bis, notamment la liste des communes répondant à la condition liée au besoin de
+réhabilitation de l'habitat en centre-ville, sont fixées par arrêté des ministres chargés du logement et du budget.
 
 V. – A. – La réduction d'impôt est calculée sur le prix de revient d'au plus deux logements, retenu dans la limite d'un
 plafond par mètre carré de surface habitable fixé par décret et sans pouvoir dépasser la limite de 300 000 € par contribuable
@@ -241,18 +240,12 @@ qui servent à financer des logements faisant l'objet d'un engagement de locatio
 
 **Nota:**
 
-Conformément aux dispositions du III de l'article 68 de la loi n° 2017-1837 du 30 décembre 2017 modifié par l'article 187 de
-la loi n° 2018-1317 du 28 décembre 2018, l'articles 199 novovicies dans sa rédaction résultant des dispositions du c du 1° du
-I dudit article 68 s'applique aux acquisitions de logements et, s'agissant des logements que le contribuable fait construire,
-aux dépôts de demande de permis de construire postérieurs au 31 décembre 2017.
+Conformément au II de l'article 115 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 novovicies, dans sa rédaction
+résultant du 2° du I du présent article, s'applique aux acquisitions et aux souscriptions réalisées à compter du 1er janvier
+2020.
 
-Toutefois, le même c ne s'applique pas aux acquisitions de logements ayant fait l'objet d'un dépôt de demande de permis de
-construire au plus tard le 31 décembre 2017 et à la condition que cette acquisition soit réalisée au plus tard le 15 mars
-2019.
-
-Conformément au I de l'article 188 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 199 novovicies
-telles qu'elles résultent des dispositions du I dudit article s'appliquent aux investissements réalisés à compter du 1er
-janvier 2019.
+Conformément au II de l’article 162 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux
+acquisitions et aux souscriptions réalisées à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -260,9 +253,9 @@ _Cite_:
 
   - Loi n°70-9 du 2 janvier 1970 - art. 1
   - Loi n°89-462 du 6 juillet 1989 - art. 6
-  - Code général des impôts, CGI. - art. 199 tervicies
+  - Code général des impôts, CGI. - art. 199 tervicies (V)
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 199 undecies C
+  - Code général des impôts, CGI. - art. 199 undecies C (M)
   - Code général des impôts, CGI. - art. 257
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L321-1
@@ -302,7 +295,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
   - Code de la construction et de l'habitation. - art. R443-34 (T)
   - Code général des impôts, CGI. - art. 199 undecies F (V)
-  - Code général des impôts, CGI. - art. 200-0 A (M)
+  - Code général des impôts, CGI. - art. 200-0 A (V)
   - Code général des impôts, CGI. - art. 279-0 bis A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
@@ -322,4 +315,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 85
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 115 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 162 (V)

@@ -5,9 +5,8 @@ I.-Les tabacs manufacturés vendus au détail ou importés en Corse sont soumis 
 Ce droit de consommation, par dérogation aux taux mentionnés à l'article 575 A et dans la limite d'un contingent de 1 200
 tonnes par an pour les cigarettes, est déterminé conformément aux deuxième à sixième alinéas de l'article 575.
 
-Pour les différents groupes de produits mentionnés à l'article 575, le taux proportionnel, la part spécifique et le minimum
-de perception sont, pour chacune des périodes au cours de laquelle le droit devient exigible, fixés conformément au tableau
-ci-après :
+Pour les différents groupes de produits mentionnés à l'article 575, le taux proportionnel et la part spécifique sont, pour
+chacune des périodes au cours de laquelle le droit devient exigible, fixés conformément au tableau ci-après :
 
 <table border="1">
   <tbody>
@@ -264,11 +263,6 @@ valeur de la Corse.
 
 VI.-Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration.
 
-**Nota:**
-
-Conformément aux dispositions du A du III de l'article 207 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
-l'article 575 E bis telles qu'elles résultent du 4° du I dudit article entrent en vigueur le 1er mars 2019.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -305,14 +299,14 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 302 B (VT)
   - Code général des impôts, CGI. - art. 302 D bis (VD)
   - Code général des impôts, CGI. - art. 572 (VD)
-  - Code général des impôts, CGI. - art. 575 M (V)
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 207 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 195 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 302 D
   - Code général des impôts, CGI. - art. 575 A (VD)
   - Code général des impôts, CGI. - art. 575 C
+  - Code général des impôts, CGI. - art. 575 M (VD)

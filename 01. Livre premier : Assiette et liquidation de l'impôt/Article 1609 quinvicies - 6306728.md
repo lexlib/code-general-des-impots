@@ -31,7 +31,7 @@ rapport à l'année précédente, que la progression est atteinte dans les propo
 considérée.
 
 II. – Cette contribution est assise sur les rémunérations retenues pour l'assiette de la taxe d'apprentissage en application
-de l'article 1599 ter B 
+des articles 1599 ter B et 1599 ter C.
 
 Elle est calculée aux taux suivants :
 
@@ -63,13 +63,6 @@ les taux prévus au II sont réduits à 52 % de leur montant.
 
 V. – Cette contribution est recouvrée dans les conditions prévues au III de l'article L. 6131-1 du code du travail.
 
-**Nota:**
-
-Conformément au III C de l’article 12 de la loi n° 2019-486 du 22 mai 2019, ces dispositions s'appliquent à compter des
-impositions établies au titre de 2019.
-
-Modification effectuée en conséquence de l'article 8-VII et X de la loi n° 2018-1203 du 22 décembre 2018.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -87,16 +80,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-771 du 5 septembre 2018 - art. 37 (M)
-  - Décret n°2019-559 du 6 juin 2019 - art. 1
+  - Loi n°2018-771 du 5 septembre 2018 - art. 37 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 190 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1599 ter A (M)
+  - Code général des impôts, CGI. - art. 1599 ter A
   - Code général des impôts, CGI. - art. 1599 ter B
   - Code général des impôts, CGI. - art. 1599 ter E
   - Code général des impôts, CGI. - art. 1599 ter J
-  - Code général des impôts, CGI. - art. 1599 ter K (M)
+  - Code général des impôts, CGI. - art. 1599 ter K (V)
   - Code général des impôts, CGI. - art. 1678 quinquies
   - Code du travail - art. L1111-2
   - Code du travail - art. L1251-1

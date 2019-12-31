@@ -24,8 +24,15 @@ produits de la société et attribuées en fonction de la qualité de la personn
 
 a) Elles constituent une seule et même catégorie d'actions ;
 
-b) Elles représentent au moins 1 % du montant total des souscriptions dans la société ou, à titre dérogatoire, un pourcentage
-inférieur fixé par décret, après avis de l'Autorité des marchés financiers ;
+b) Elles représentent :
+
+- au moins 1 % du montant total des souscriptions dans la société pour sa fraction inférieure ou égale à un milliard
+d'euros ;
+
+- et au moins 0,5 % de la fraction du montant total des souscriptions dans la société qui excède un milliard d'euros.
+
+A titre dérogatoire, un pourcentage distinct peut être fixé par décret pour certaines catégories de sociétés, après avis de
+l'Autorité des marchés financiers ;
 
 c) Les distributions auxquelles donnent droit ces actions sont versées au moins cinq ans après la date d'émission de ces
 actions ;
@@ -65,9 +72,8 @@ ou licenciement.
 
 **Nota:**
 
-Conformément aux dispositions du IV de l'article 31 de la loi n° 2018-898 du 23 octobre 2018, ces dispositions telles
-qu'elles résultent du I dudit article s'appliquent à compter du premier jour du deuxième mois qui suit la publication de
-ladite loi.
+Conformément au II de l'article 8 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux gains nets
+réalisés et aux distributions perçues à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -83,7 +89,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 31 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 8 (V)
 
 _Cité par_:
 
@@ -93,7 +99,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 150-0 D (VD)
   - Code général des impôts, CGI. - art. 158 (M)
   - Code général des impôts, CGI. - art. 1600-0 J (VT)
-  - Code général des impôts, CGI. - art. 242 ter C (M)
+  - Code général des impôts, CGI. - art. 242 ter C (V)
   - Code général des impôts, CGI. - art. 80 quindecies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 60 A (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 60 B (V)
