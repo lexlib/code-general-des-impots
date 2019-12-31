@@ -1,31 +1,29 @@
 # Article 1609 novovicies
 
-Un prélèvement de 1,80 % est effectué sur les sommes misées sur les jeux exploités en France métropolitaine et dans les
-départements d'outre-mer par la personne morale chargée de l'exploitation des jeux de loterie dans les conditions fixées par
-l'article 136 de la loi du 31 mai 1933 portant fixation du budget général de l'exercice 1933, à l'exception des paris
-sportifs.
+Un prélèvement de 5,1 % est effectué sur le produit brut des jeux de loterie commercialisés en réseau physique de
+distribution et en ligne mentionnés au I de l'article 137 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la
+transformation des entreprises. Le produit brut des jeux est constitué par la différence entre les sommes misées par les
+joueurs et les sommes versées ou à reverser aux gagnants. Les sommes engagées par les joueurs à compter du 1er janvier 2020
+sont définies comme des sommes misées à compter de la date de réalisation du ou des événements sur lesquels repose le jeu, y
+compris celles apportées par l'opérateur à titre gracieux. Les sommes versées ou à reverser aux gagnants sont constituées de
+l'ensemble des gains en numéraire ou en nature versés ou à reverser aux joueurs à compter de la date de réalisation du ou des
+événements sur lesquels repose le jeu, à l'exclusion des sommes en numéraire ou en nature attribuées à titre gracieux à
+certains joueurs dans le cadre d'actions commerciales. 
 
 Le produit de ce prélèvement est affecté à l'Agence nationale du sport chargée de la haute performance sportive et du
 développement de l'accès à la pratique sportive, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977
 du 28 décembre 2011 de finances pour 2012. 
 
-Un prélèvement complémentaire de 0,3 % est effectué de 2011 à 2024 sur les sommes mentionnées au premier alinéa.
-
-L'exigibilité des prélèvements mentionnés aux premier et troisième alinéas est constituée par l'encaissement des sommes
-misées.
+L'exigibilité du prélèvement est constituée par la réalisation du ou des événements sur lesquels repose le jeu. Pour les jeux
+de loterie pour lesquels l'intervention du hasard est antérieure à la mise à disposition du support de jeu, l'exigibilité du
+prélèvement est constituée par l'affectation au jeu des mises engagées par les joueurs.
 
 **Nota:**
 
-Conformément aux dispositions du XV de l'article 83 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions entrent en
-vigueur à une date fixée par décret, et au plus tard le 1er septembre 2019.
-
-Conformément à l'article 1er du décret n° 2019-347 du 21 avril 2019, ces dispositions entrent en vigueur le 24 avril 2019.
+Conformément aux dispositions du VIII de l'article 138 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en
+vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi du 31 mai 1933 - art. 136
 
 _Cité par_:
 
@@ -37,4 +35,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 83 (M)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 83 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 138 (V)
+
+_Cite_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 137 (V)
