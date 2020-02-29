@@ -16,8 +16,7 @@ dans des secteurs éligibles.
 
 2. Le crédit d'impôt ne s'applique pas :
 
-a) A l'acquisition de véhicules définis au premier alinéa du I de l'article 1010 qui ne sont pas strictement indispensables à
-l'activité ;
+a) A l'acquisition de véhicules définis au 5° de l'article 1007 qui ne sont pas strictement indispensables à l'activité ;
 
 b) Aux investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil.
 
@@ -229,9 +228,10 @@ même règlement.
 
 **Nota:**
 
-Conformément au II de l'article 159 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux
-investissements mis en service au titre des exercices ouverts à compter du 1er janvier 2021 et pour l'agrément desquels une
-demande est déposée à compter du 1er janvier 2020.
+Conformément au B du VI de l'article 69 de la loi n° 2019-1479 du 28 décembre 2019, l'article 244 quater W dans sa rédaction
+résultant du G du I dudit article, entre en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2020.
+
+Conformément à l'article 1er du décret n° 2020-169 du 27 février 2020, ces dispositions entrent en vigueur le 1er mars 2020.
 
 **Liens relatifs à cet article**
 
@@ -282,7 +282,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1743 (V)
   - Code général des impôts, CGI. - art. 199 decies G bis (V)
   - Code général des impôts, CGI. - art. 199 ter U (VD)
-  - Code général des impôts, CGI. - art. 199 undecies B (V)
+  - Code général des impôts, CGI. - art. 199 undecies B (M)
   - Code général des impôts, CGI. - art. 217 undecies (M)
   - Code général des impôts, CGI. - art. 220 Z quater (V)
   - Code général des impôts, CGI. - art. 223 O (VD)
@@ -303,4 +303,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 159 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 69 (V)

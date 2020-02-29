@@ -38,7 +38,7 @@ g) Toutes activités immobilières ;
 
 h) La navigation de croisière, la réparation automobile, les locations sans opérateurs, à l'exception de la location directe
 de navires de plaisance ou au profit des personnes physiques utilisant pour une durée n'excédant pas deux mois des véhicules
-de tourisme au sens de l'article 1010 ;
+de tourisme au sens du 5° de l'article 1007 ;
 
 i) Les services fournis aux entreprises, à l'exception de la maintenance, des activités de nettoyage et de conditionnement à
 façon et des centres d'appel ;
@@ -53,9 +53,9 @@ l) Les activités postales.
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
 résidence de tourisme et de village de vacances classés, lorsque ces travaux constituent des éléments de l'actif immobilisé.
-La réduction d'impôt ne s'applique pas à l'acquisition de véhicules définis au premier alinéa du I de l'article 1010 qui ne
-sont pas strictement indispensables à l'activité de l'exploitant. Les conditions d'application de la phrase précédente sont
-fixées par arrêté du ministre chargé du budget et du ministre chargé de l'outre-mer.
+La réduction d'impôt ne s'applique pas à l'acquisition de véhicules définis au 5° de l'article 1007 qui ne sont pas
+strictement indispensables à l'activité de l'exploitant. Les conditions d'application de la phrase précédente sont fixées par
+arrêté du ministre chargé du budget et du ministre chargé de l'outre-mer.
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux investissements affectés plus de cinq ans par le
 concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial réalisés, dans
@@ -297,12 +297,11 @@ d'immeubles dont les fondations sont achevées au plus tard à cette date.
 
 **Nota:**
 
-Conformément au A du V de l’article 157 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter
-du 1er janvier 2020.
+Conformément au B du VI de l'article 69 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 undecies B, dans sa
+rédaction résultant du E du I dudit article, entre en vigueur à une date fixée par décret, et au plus tard le 1er juillet
+2020.
 
-Conformément au II de l'article 159 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 undecies B, dans sa rédaction
-résultant du 1° du I du présent article, s'applique aux investissements mis en service au titre des exercices ouverts à
-compter du 1er janvier 2021 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2020.
+Conformément à l'article 1er du décret n° 2020-169 du 27 février 2020, ces dispositions entrent en vigueur le 1er mars 2020.
 
 **Liens relatifs à cet article**
 
@@ -393,5 +392,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 157 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 159 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 69 (V)
