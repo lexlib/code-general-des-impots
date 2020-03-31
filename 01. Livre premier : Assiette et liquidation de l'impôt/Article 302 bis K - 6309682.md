@@ -23,8 +23,8 @@ La taxe est exigible pour chaque vol commercial.
 
 a) Les évacuations sanitaires d'urgence ;
 
-b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92 du Conseil du 23 juillet 1992 concernant les
-licences des transporteurs aériens.
+b) Les vols n'impliquant pas de transport de passagers, de courrier ou de fret entre différents aéroports ou autres points
+d'atterrissage agréés.
 
 3. La taxe n'est pas perçue lorsque le passager est en correspondance. Est considéré comme tel celui qui remplit les trois
 conditions suivantes :
@@ -61,9 +61,9 @@ Ces tarifs annuels entrent en vigueur pour les vols effectués à compter du 1er
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois
 considéré, arrondi à la tonne inférieure.
 
-2. Les entreprises de transport aérien déclarent, au plus tard le dernier jour de chaque mois, sur un imprimé fourni par
-l'administration de l'aviation civile, le nombre de passagers et la masse de fret et de courrier embarqués le mois précédent
-pour les vols effectués au départ de la France.
+2. Les entreprises de transport aérien déclarent, au plus tard le dernier jour de chaque mois, conformément au modèle
+prescrit par l'administration de l'aviation civile, le nombre de passagers et la masse de fret et de courrier embarqués le
+mois précédent pour les vols effectués au départ de la France.
 
 Toutefois, les entreprises de transport aérien qui ont déclaré au cours de l'année précédente un montant de taxe égal ou
 inférieur à 12 000 € sont admises à souscrire, à compter du premier trimestre civil de l'année qui suit, des déclarations
@@ -74,9 +74,9 @@ trimestres civils consécutifs de l'année dépasse le montant de 12 000 €, l'
 dans les conditions fixées au huitième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit l'année de
 dépassement.
 
-3. Ces déclarations, mensuelles ou trimestrielles, sont adressées aux comptables du budget annexe " Contrôle et exploitation
-aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par
-virement bancaire.
+3. Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe "
+Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle
+prévue au VI, par virement bancaire.
 
 III. – (Abrogé).
 
@@ -274,11 +274,9 @@ réclamations sont présentées, instruites et jugées selon les règles applica
 
 **Nota:**
 
-Conformément au E du XI de l’article 21 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter
-du 1er janvier 2020, à l'exception 6° du VI de l'article 302 bis k, qui entre en vigueur à une date fixée par arrêté conjoint
-des ministres chargés de l'aviation civile et du budget qui ne peut être postérieure de plus d'un mois à la date de réception
-par le Gouvernement de la réponse de la Commission européenne permettant de considérer ce dispositif législatif comme
-conforme au droit de l'Union européenne.
+Conformément au II de l’article 171 de la loi n° 2019-1479 du 29 décembre 2019, les dispositions du b du 2 du I de l'article
+302 bis K et celles de son paragraphe II résultant des dispositions du I dudit article s'appliquent aux impositions dont le
+fait générateur intervient à compter du 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -305,14 +303,14 @@ _Cité par_:
   - Arrêté du 23 mars 2020 - art. 1
   - Code général des impôts, CGI. - art. 1609 quatervicies (VD)
   - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
-  - Code général des impôts, CGI. - art. 1647 (VD)
+  - Code général des impôts, CGI. - art. 1647 (M)
   - Code général des impôts, CGI. - art. 302 bis K bis (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 99 (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 duodecies B (V)
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 72 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 171 (V)
 
 _Cite_:
 
