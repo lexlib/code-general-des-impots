@@ -33,10 +33,10 @@ PART SPÉCIFIQUE
 Cigarettes</td>
       <td align="center">
 
-45,8</td>
+47,3</td>
       <td align="center">
 
-40,1</td>
+43,9</td>
     </tr>
     <tr>
       <td align="left">
@@ -44,10 +44,10 @@ Cigarettes</td>
 Cigares et cigarillos</td>
       <td align="center">
 
-20,4</td>
+22,9</td>
       <td align="center">
 
-36,4</td>
+40,9</td>
     </tr>
     <tr>
       <td align="left">
@@ -55,10 +55,10 @@ Cigares et cigarillos</td>
 Tabacs fine coupe destinés à rouler les cigarettes</td>
       <td align="center">
 
-28,5</td>
+31;9</td>
       <td align="center">
 
-46,3</td>
+52,3</td>
     </tr>
     <tr>
       <td align="left">
@@ -66,10 +66,10 @@ Tabacs fine coupe destinés à rouler les cigarettes</td>
 Autres tabacs à fumer</td>
       <td align="center">
 
-35,5</td>
+38,1</td>
       <td align="center">
 
-11,6</td>
+14,5</td>
     </tr>
     <tr>
       <td align="left">
@@ -77,7 +77,7 @@ Autres tabacs à fumer</td>
 Tabacs à priser</td>
       <td align="center">
 
-35,2</td>
+39</td>
       <td align="center">
 
 0</td>
@@ -88,7 +88,7 @@ Tabacs à priser</td>
 Tabacs à mâcher</td>
       <td align="center">
 
-25,2</td>
+27,8</td>
       <td align="center">
 
 0</td>
