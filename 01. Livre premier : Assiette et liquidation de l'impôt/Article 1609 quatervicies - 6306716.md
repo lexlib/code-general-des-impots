@@ -217,6 +217,12 @@ Nouvelle-Calédonie et à Mayotte, la majoration n'est pas due pour les passager
 
 VIII. ― Pour l'application du présent article, la notion de correspondance est celle définie au VI de l'article 302 bis K.
 
+**Nota:**
+
+Conformément aux dispositions du A du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de
+l'article 1609 quatervicies telles qu'elles résultent du I dudit article ormis celles issues du b du 2° du C, s'appliquent
+aux impositions dont le fait générateur intervient à compter du 1er avril 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -272,11 +278,11 @@ _Cité par_:
   - Arrêté du 25 mars 2019 (V)
   - Arrêté du 25 mars 2019 - art. 1 (V)
   - Décret n°2019-832 du 6 août 2019 - art. (V)
-  - Code général des impôts, CGI. - art. 1647 (VD)
+  - Code général des impôts, CGI. - art. 1647 (M)
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 191
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 171 (V)
 
 _Cite_:
 
