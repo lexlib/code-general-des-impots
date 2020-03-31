@@ -11,9 +11,10 @@ Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les 
 quarts de leur montant selon qu'ils sont réalisés, respectivement, au cours de la première, de la deuxième ou de la troisième
 période de douze mois suivant cette période d'exonération.
 
-II. - Sont classées dans un bassin urbain à dynamiser les communes qui appartiennent à un ensemble d'établissements publics
-de coopération intercommunale à fiscalité propre contigus rassemblant au moins un million d'habitants et qui satisfont aux
-conditions suivantes :
+II. - Sont classées dans un bassin urbain à dynamiser les communes qui appartiennent à un ensemble de communes mentionnées au
+V de l'article L. 5210-1-1 du code général des collectivités territoriales ou d'établissements publics de coopération
+intercommunale à fiscalité propre contigus rassemblant au moins un million d'habitants et qui satisfont aux conditions
+suivantes :
 
 1° La densité de population de la commune est supérieure à la moyenne nationale ;
 
@@ -99,8 +100,8 @@ règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
 
 **Nota:**
 
-Conformément au II de l'article 21 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, ces dispositions entrent
-en vigueur le 1er janvier 2019.
+Conformément au IV de l'article 4 de la loi n° 2019-809 du 1er août 2019, ces dispositions entrent en vigueur le 1er avril
+2020.
 
 **Liens relatifs à cet article**
 
@@ -112,5 +113,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 21 (V)
+  - Loi n°2019-809 du 1er août 2019 - art. 4 (V)
