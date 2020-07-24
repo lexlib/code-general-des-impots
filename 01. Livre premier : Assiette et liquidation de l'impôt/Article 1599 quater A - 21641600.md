@@ -16,10 +16,12 @@ utilisation selon le barème suivant :
       <th>CATÉGORIE DE MATÉRIELS ROULANTS</th>
       <th>
 
-TARIFS (en euros)</th>
+TARIFS (en euros)
+
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Engins à moteur thermique</td>
       <td align="left">
@@ -30,7 +32,7 @@ Engins à moteur thermique</td>
 Automoteur</td>
       <td align="center">
 
-32 499</td>
+32 824</td>
     </tr>
     <tr>
       <td align="left">
@@ -38,10 +40,10 @@ Automoteur</td>
 Locomotive diesel</td>
       <td align="center">
 
-32 499</td>
+32 824</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Engins à moteur électrique</td>
       <td align="left">
@@ -52,7 +54,7 @@ Engins à moteur électrique</td>
 Automotrice</td>
       <td align="center">
 
-24 916</td>
+25 165</td>
     </tr>
     <tr>
       <td align="left">
@@ -60,7 +62,7 @@ Automotrice</td>
 Locomotive électrique</td>
       <td align="center">
 
-21 667</td>
+21 884</td>
     </tr>
     <tr>
       <td align="left">
@@ -68,7 +70,7 @@ Locomotive électrique</td>
 Motrice de matériel à grande vitesse</td>
       <td align="center">
 
-37 917</td>
+38 296</td>
     </tr>
     <tr>
       <td align="left">
@@ -76,10 +78,10 @@ Motrice de matériel à grande vitesse</td>
 Automotrice tram-train</td>
       <td align="center">
 
-12 459</td>
+12 584</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
 Engins remorqués</td>
       <td align="left">
@@ -87,18 +89,22 @@ Engins remorqués</td>
     <tr>
       <td align="left">
 
-Remorque pour le transport de passagers</td>
+Remorque pour le transport
+
+de passagers</td>
       <td align="center">
 
-5 200</td>
+5 252</td>
     </tr>
     <tr>
       <td align="left">
 
-Remorque pour le transport de passagers à grande vitesse</td>
+Remorque pour le transport
+
+de passagers à grande vitesse</td>
       <td align="center">
 
-10 833</td>
+10 941</td>
     </tr>
     <tr>
       <td align="left">
@@ -106,7 +112,7 @@ Remorque pour le transport de passagers à grande vitesse</td>
 Remorque tram-train</td>
       <td align="center">
 
-2 599</td>
+2 625</td>
     </tr>
   </tbody>
 </table>
@@ -157,10 +163,6 @@ Modifications effectuées en conséquence de l'article 37-VI B 4° de la loi n°
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-
 _Cité par_:
 
   - Arrêté du 28 juin 2010 - art. 1 (V)
@@ -175,7 +177,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
 
 _Cite_:
 

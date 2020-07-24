@@ -42,7 +42,7 @@ La réduction d'impôt n'est pas applicable aux logements dont le droit de propr
 à une société non soumise à l'impôt sur les sociétés dont le droit de propriété des parts est démembré. Elle n'est pas non
 plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le label délivré par la
 Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un
-prêt mentionné à l'article R. 331-1 du code de la construction et de l'habitation ayant fait l'objet d'un dépôt de permis de
+prêt mentionné à l'article D. 331-1 du code de la construction et de l'habitation ayant fait l'objet d'un dépôt de permis de
 construire à compter du 1er janvier 2010.
 
 II. – La réduction d'impôt n'est applicable qu'aux logements dont les caractéristiques thermiques et la performance
@@ -230,19 +230,23 @@ Le dernier alinéa du II n'est pas applicable au présent XI.
 Pour l'application du présent XI, le plafond de loyer mentionné au III ainsi que les conditions mentionnées au deuxième
 alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
 
+**Nota:**
+
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°89-462 du 6 juillet 1989 - art. 6 (V)
+  - Loi n°89-462 du 6 juillet 1989 - art. 6
   - Loi n°2009-594 du 27 mai 2009
-  - Code général des impôts, CGI. - art. 156 (VT)
+  - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 199 decies E
   - Code général des impôts, CGI. - art. 199 decies I
   - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 257 (V)
-  - Code général des impôts, CGI. - art. 31 bis (V)
+  - Code général des impôts, CGI. - art. 257
+  - Code général des impôts, CGI. - art. 31 bis
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L214-114
   - Code de la construction et de l'habitation. - art. L111-9
@@ -284,4 +288,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

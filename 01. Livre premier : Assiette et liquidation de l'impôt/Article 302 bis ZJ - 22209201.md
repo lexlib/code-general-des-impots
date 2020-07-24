@@ -11,7 +11,7 @@ ou en nature versés ou à reverser aux joueurs à compter de la date de réalis
 jeu, y compris les gains résultant de sommes apportées par l'opérateur, à condition que le joueur puisse en demander le
 versement en numéraire ou sur son compte de paiement.
 
-Pour le calcul du prélèvement mentionné au troisième alinéa du présent article, le montant du produit brut des jeux est
+Pour le calcul du prélèvement mentionné au précédent alinéa du présent article, le montant du produit brut des jeux est
 multiplié par le rapport entre, d'une part, le montant des mises effectuées sur le jeu en France métropolitaine et dans les
 départements d'outre-mer et, d'autre part, le montant total des mises effectuées sur le jeu.
 
@@ -24,18 +24,16 @@ S'agissant des autres jeux de cercle, le prélèvement mentionné à l'article 3
 
 **Nota:**
 
-Conformément au A du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZJ, dans sa rédaction
-résultant du 3° du B du I du présent article, entre en vigueur le 1er janvier 2020.
+Modification effectuée en conséquence de l’article 28-I B 3° et VI A de la loi n° 2019-1479 du 28 décembre 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 138 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 28 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 bis ZG
-  - Code général des impôts, CGI. - art. 302 bis ZH (VT)
-  - Code général des impôts, CGI. - art. 302 bis ZI
+  - Code général des impôts, CGI. - art. 302 bis ZG (VT)
+  - Code général des impôts, CGI. - art. 302 bis ZH
+  - Code général des impôts, CGI. - art. 302 bis ZI (V)

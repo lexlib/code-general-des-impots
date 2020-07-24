@@ -8,7 +8,7 @@ Ce prélèvement est dû par les personnes devant être soumises, en tant qu'op�
 mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée.
 
 Le produit de ce prélèvement est affecté à concurrence de 15 % et dans la limite indexée, chaque année, sur la prévision de
-l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 11 182 394 € aux
+l'indice des prix à la consommation hors tabac retenue dans le projet de loi de finances de l'année, de 11 294 218 € aux
 communes dans le ressort territorial desquelles sont ouverts au public un ou plusieurs établissements visés au premier alinéa
 de l'article L. 321-1 du code de la sécurité intérieure, au prorata du produit brut des jeux de ces établissements.
 
@@ -28,10 +28,10 @@ _Cite_:
 _Cité par_:
 
   - Décret n°2015-669 du 15 juin 2015 (V)
-  - Code général des impôts, CGI. - art. 302 bis ZJ (VD)
+  - Code général des impôts, CGI. - art. 302 bis ZJ (VT)
   - Code général des impôts, CGI. - art. 302 bis ZM (V)
   - Code général des impôts, CGI. - art. 302 bis ZN (V)
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

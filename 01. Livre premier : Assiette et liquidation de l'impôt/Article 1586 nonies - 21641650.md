@@ -30,7 +30,7 @@ de 2 millions d'euros de valeur ajoutée.
 V. – Pour la détermination de la cotisation sur la valeur ajoutée des entreprises, la valeur ajoutée des établissements
 bénéficiant d'une exonération ou d'un abattement de la base nette d'imposition à la cotisation foncière des entreprises en
 application des I, I sexies ou I septies de l'article 1466 A fait l'objet, à la demande de l'entreprise, d'une exonération ou
-d'un abattement de même taux, dans la limite respectivement pour 2018 de 140 736 € et de 382 469 € de valeur ajoutée par
+d'un abattement de même taux, dans la limite respectivement pour 2019 de 142 425 € et de 387 059 € de valeur ajoutée par
 établissement et actualisé chaque année en fonction de la variation de l'indice des prix.
 
 VI. – Le bénéfice des exonérations de cotisation sur la valeur ajoutée des entreprises prévues aux I à III et de l'abattement
@@ -55,7 +55,7 @@ Conformément au II de l’article 110 de la loi n° 2019-1479 du 29 décembre 2
 _Cité par_:
 
   - Décret n°2007-94 du 24 janvier 2007 - art. 2 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
   - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 40 (V)
   - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (VD)
   - Code du cinéma et de l'image animée - art. L335-2 (V)
@@ -64,14 +64,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 110 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1464 A
   - Code général des impôts, CGI. - art. 1464 C
   - Code général des impôts, CGI. - art. 1465
-  - Code général des impôts, CGI. - art. 1466 A
+  - Code général des impôts, CGI. - art. 1466 A (V)
   - Code général des impôts, CGI. - art. 1466 F
   - Code général des impôts, CGI. - art. 1586 octies
   - Code général des impôts, CGI. - art. 1639 A bis

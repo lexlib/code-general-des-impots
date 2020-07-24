@@ -136,7 +136,7 @@ situés en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à La Réunion si
 elle est postérieure, un contrat de location-accession dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984
 définissant la location-accession à la propriété immobilière ;
 
-2° L'acquisition ou la construction de l'immeuble a été financée au moyen d'un prêt mentionné au I de l'article R. 331-76-5-1
+2° L'acquisition ou la construction de l'immeuble a été financée au moyen d'un prêt mentionné au I de l'article D. 331-76-5-1
 du code de la construction et de l'habitation ;
 
 3° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au titre de l'acquisition ou la construction de
@@ -317,10 +317,7 @@ difficulté, au sens du même règlement.
 
 **Nota:**
 
-Conformément au B du VI de l'article 69 de la loi n° 2019-1479 du 28 décembre 2019, l'article 217 undecies dans sa rédaction
-résultant du F du I dudit article, entre en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2020.
-
-Conformément à l'article 1er du décret n° 2020-169 du 27 février 2020, ces dispositions entrent en vigueur le 1er mars 2020.
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
 
 **Liens relatifs à cet article**
 
@@ -342,6 +339,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 210 B
   - Code général des impôts, CGI. - art. 239 quater
   - Code général des impôts, CGI. - art. 239 quater C
+  - Code général des impôts, CGI. - art. 244 quater W (V)
   - Code général des impôts, CGI. - art. 39
   - Code de la construction et de l'habitation. - art. R331-76-5-1
 
@@ -388,7 +386,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 bis HP (V)
   - Code général des impôts, CGI. - art. 242 septies (V)
   - Code général des impôts, CGI. - art. 242 sexies (V)
-  - Code général des impôts, CGI. - art. 244 quater W (V)
   - Code général des impôts, CGI. - art. 244 quater X (V)
   - Code général des impôts, CGI. - art. 296 ter (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 140 decies (V)
@@ -411,4 +408,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 69 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

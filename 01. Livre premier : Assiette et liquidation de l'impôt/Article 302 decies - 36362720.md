@@ -31,19 +31,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 199 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (V)
-  - Loi n°2019-759 du 24 juillet 2019 - art. 1 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1582 (V)
+  - Code général des impôts, CGI. - art. 1582
   - Code général des impôts, CGI. - art. 1613 quater (V)
   - Code général des impôts, CGI. - art. 1613 ter (V)
-  - Code général des impôts, CGI. - art. 1671 (V)
-  - Code général des impôts, CGI. - art. 277 A (VD)
+  - Code général des impôts, CGI. - art. 1671
+  - Code général des impôts, CGI. - art. 277 A
   - Code général des impôts, CGI. - art. 289 A
   - Code général des impôts, CGI. - art. 302 bis ZC
   - Code général des impôts, CGI. - art. 302 bis ZN
-  - Code des douanes - art. 266 undecies (VT)
+  - Code des douanes - art. 266 undecies

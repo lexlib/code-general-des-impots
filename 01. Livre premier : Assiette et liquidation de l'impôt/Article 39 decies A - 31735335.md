@@ -26,7 +26,7 @@ vue d'un usage exclusif et irréversible de ce carburant.
 acquis à compter du 1er janvier 2016 et jusqu'au 31 décembre 2021 pour ceux utilisant les énergies mentionnées aux a et b du
 même 1, et à compter du 1er janvier 2019 et jusqu'au 31 décembre 2021 pour ceux utilisant les énergies mentionnées aux c et d
 dudit 1, et à compter du 1er janvier 2020 et jusqu'au 31 décembre 2021 pour ceux utilisant l'énergie mentionnée au e du même
-1 la déduction est de 40 %.
+1, la déduction est de 40 %.
 
 Par dérogation au premier alinéa du présent 2, pour les véhicules mentionnés au 1 du présent I dont le poids autorisé en
 charge est supérieur ou égal à 3,5 tonnes et inférieur ou égal à 16 tonnes, acquis à compter du 1er janvier 2019 et jusqu'au
@@ -70,8 +70,7 @@ mentionnée au I.
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 61
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 62
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
 
 _Cité par_:
 

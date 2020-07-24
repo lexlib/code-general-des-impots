@@ -8,9 +8,9 @@ l'impôt sur les sociétés.
 
 1. bis (Dispositions sans objet).
 
-2. Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de l'article 119
-bis 2 fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le
-montant total de ses distributions effectives.
+2. Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de celles du 2
+de l'article 119 bis fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée
+excèdent le montant total de ses distributions effectives.
 
 L'excédent de perception lui est restitué.
 
@@ -38,7 +38,7 @@ ouverts à compter du 1er janvier 2020.
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 42 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
 
 _Cite_:
 

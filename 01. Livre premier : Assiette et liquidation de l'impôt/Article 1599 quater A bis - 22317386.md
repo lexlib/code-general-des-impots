@@ -35,7 +35,7 @@ Métro</td>
 Motrice et remorque</td>
       <td align="center">
 
-13 282</td>
+13 415</td>
     </tr>
     <tr>
       <td align="center">
@@ -49,7 +49,7 @@ Autre matériel</td>
 Automotrice et motrice</td>
       <td align="center">
 
-24 916</td>
+25 165</td>
     </tr>
     <tr>
       <td align="center">
@@ -57,7 +57,7 @@ Automotrice et motrice</td>
 Remorque</td>
       <td align="center">
 
-5 200</td>
+5 252</td>
     </tr>
   </tbody>
 </table>
@@ -108,4 +108,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

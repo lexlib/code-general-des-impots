@@ -2,8 +2,8 @@
 
 I. - Il est institué par décret en Conseil d'Etat un régime simplifié de liquidation des taxes sur le chiffre d'affaires dues
 par les personnes dont le chiffre d'affaires, ajusté s'il y a lieu au prorata du temps d'exploitation au titre de l'année
-civile précédente, n'excède pas 789 000 €, s'il s'agit d'entreprises dont le commerce principal est de vendre des
-marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 238 000 €,
+civile précédente, n'excède pas 818 000 €, s'il s'agit d'entreprises dont le commerce principal est de vendre des
+marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 247 000 €,
 s'il s'agit d'autres entreprises. Ces limites s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des
 taxes assimilées.
 
@@ -11,9 +11,9 @@ II. - Le régime simplifié prévu au I demeure applicable pour l'établissement
 année suivant celle au cours de laquelle les chiffres d'affaires limites prévus pour ce régime sont dépassés. Cette
 imposition est établie compte tenu de ces dépassements.
 
-Ces dispositions ne sont pas applicables si le chiffre d'affaires de l'année en cours excède 869 000 € s'il s'agit
+Ces dispositions ne sont pas applicables si le chiffre d'affaires de l'année en cours excède 901 000 € s'il s'agit
 d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place ou de fournir le logement, et 269 000 € s'il s'agit d'autres entreprises.
+consommer sur place ou de fournir le logement, et 279 000 € s'il s'agit d'autres entreprises.
 
 II bis. - Les seuils mentionnés aux I et II sont actualisés tous les trois ans dans la même proportion que l'évolution
 triennale de la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros le
@@ -28,9 +28,9 @@ clôturé aucun exercice au cours d'une année civile.
 
 **Nota:**
 
-<font color="#000000" size="1">Modifications effectuées en conséquence de l’article 20-XVII C de la loi n° 2013-1279 du 29
-décembre 2016</font>
-  <font color="#000000" size="1">.</font>
+<font color="#000000">Modifications effectuées en conséquence de l’article 20-XVII C de la loi n° 2013-1279 du 29 décembre
+2013</font>
+  <font color="#000000">.</font>
 
 **Liens relatifs à cet article**
 
@@ -63,7 +63,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 302 bis KF (VT)
   - Code général des impôts, CGI. - art. 302 bis WD (VD)
   - Code général des impôts, CGI. - art. 302 bis Z (P)
-  - Code général des impôts, CGI. - art. 302 septies A bis (M)
+  - Code général des impôts, CGI. - art. 302 septies A bis (V)
   - Code général des impôts, CGI. - art. 302 septies A ter B (V)
   - Code général des impôts, CGI. - art. 302 septies AA (V)
   - Code général des impôts, CGI. - art. 302 septies-0 AA (V)
@@ -78,4 +78,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-698 du 2 mai 2017 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

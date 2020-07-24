@@ -61,7 +61,7 @@ propriété des parts est démembré.
 
 Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le
 label délivré par la " Fondation du patrimoine ", mentionnés au premier alinéa du 3° du I de l'article 156, et aux logements
-financés au moyen d'un prêt mentionné à l'article R. 331-1 du code de la construction et de l'habitation.
+financés au moyen d'un prêt mentionné à l'article D. 331-1 du code de la construction et de l'habitation.
 
 E. – Un contribuable ne peut, pour un même logement, bénéficier à la fois du m du 1° du I de l'article 31, de l'une des
 réductions d'impôt prévues aux articles 199 undecies A, 199 undecies C et 199 tervicies et de la réduction d'impôt prévue au
@@ -240,12 +240,7 @@ qui servent à financer des logements faisant l'objet d'un engagement de locatio
 
 **Nota:**
 
-Conformément au II de l'article 115 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 novovicies, dans sa rédaction
-résultant du 2° du I du présent article, s'applique aux acquisitions et aux souscriptions réalisées à compter du 1er janvier
-2020.
-
-Conformément au II de l’article 162 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux
-acquisitions et aux souscriptions réalisées à compter du 1er janvier 2020.
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
 
 **Liens relatifs à cet article**
 
@@ -253,9 +248,9 @@ _Cite_:
 
   - Loi n°70-9 du 2 janvier 1970 - art. 1
   - Loi n°89-462 du 6 juillet 1989 - art. 6
-  - Code général des impôts, CGI. - art. 199 tervicies (V)
+  - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 199 undecies C (M)
+  - Code général des impôts, CGI. - art. 199 undecies C (V)
   - Code général des impôts, CGI. - art. 257
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L321-1
@@ -295,7 +290,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
   - Code de la construction et de l'habitation. - art. R443-34 (T)
   - Code général des impôts, CGI. - art. 199 undecies F (V)
-  - Code général des impôts, CGI. - art. 200-0 A (V)
+  - Code général des impôts, CGI. - art. 200-0 A (M)
   - Code général des impôts, CGI. - art. 279-0 bis A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
@@ -315,5 +310,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 115 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 162 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

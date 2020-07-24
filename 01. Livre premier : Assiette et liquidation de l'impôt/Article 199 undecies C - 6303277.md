@@ -53,7 +53,7 @@ La condition mentionnée au 5° n'est pas applicable aux logements dont la conve
 personnes physiques à l'issue de la période de location.
 
 Pour ouvrir droit à la réduction d'impôt, la construction ou l'acquisition de logements bénéficiant des prêts conventionnés
-définis à l'article R. 372-21 du code de la construction et de l'habitation doit cependant avoir reçu l'agrément préalable du
+définis à l'article D. 372-21 du code de la construction et de l'habitation doit cependant avoir reçu l'agrément préalable du
 représentant de l'Etat dans la collectivité territoriale d'outre-mer. Le nombre de logements agréés par le représentant de
 l'Etat au titre d'une année ne peut excéder 25 % du nombre de logements qui satisfont aux conditions prévues aux 2° et 3° du
 présent I livrés l'année précédente dans la collectivité territoriale d'outre-mer.
@@ -192,8 +192,7 @@ forme de compensations de service public octroyées à certaines entreprises cha
 
 **Nota:**
 
-Conformément au A du V de l’article 157 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter
-du 1er janvier 2020.
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
 
 **Liens relatifs à cet article**
 
@@ -205,7 +204,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 septvicies
   - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 199 undecies B (VT)
+  - Code général des impôts, CGI. - art. 199 undecies B
   - Code général des impôts, CGI. - art. 217 undecies
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L214-114
@@ -233,7 +232,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1740 (V)
   - Code général des impôts, CGI. - art. 1740-0 A (V)
   - Code général des impôts, CGI. - art. 1740-00 AB (V)
-  - Code général des impôts, CGI. - art. 199 novovicies (VD)
+  - Code général des impôts, CGI. - art. 199 novovicies (VT)
   - Code général des impôts, CGI. - art. 199 undecies D (VD)
   - Code général des impôts, CGI. - art. 199 undecies E (V)
   - Code général des impôts, CGI. - art. 199 undecies F (V)
@@ -249,4 +248,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 157 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

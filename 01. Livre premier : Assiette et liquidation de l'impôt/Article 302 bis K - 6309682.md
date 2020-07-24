@@ -46,12 +46,12 @@ de l'aviation civile.
 
 II. – 1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant :
 
-4,58 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
+4,63 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
 partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
 
-8,24 € par passager embarqué vers d'autres destinations ;
+8,32 € par passager embarqué vers d'autres destinations ;
 
-Le tarif de la taxe est de 1,36 € par tonne de courrier ou de fret embarquée.
+Le tarif de la taxe est de 1,37 € par tonne de courrier ou de fret embarquée.
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de
 croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année.
@@ -274,9 +274,7 @@ réclamations sont présentées, instruites et jugées selon les règles applica
 
 **Nota:**
 
-Conformément au II de l’article 171 de la loi n° 2019-1479 du 29 décembre 2019, les dispositions du b du 2 du I de l'article
-302 bis K et celles de son paragraphe II résultant des dispositions du I dudit article s'appliquent aux impositions dont le
-fait générateur intervient à compter du 1er avril 2020.
+Modifications effectuées en conséquence de l’article 110 de la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -310,7 +308,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 171 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
 
 _Cite_:
 

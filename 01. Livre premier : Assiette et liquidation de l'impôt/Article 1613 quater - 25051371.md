@@ -17,7 +17,7 @@ II.-Le montant de la contribution est fixé à :
 laboratoire filtrées, stérilisées ou pasteurisées, ainsi que pour les boissons autres que les sirops, les jus de fruits ou de
 légumes et les nectars de fruits, lorsque ces produits sont livrés en fûts, bouteilles ou boîtes ;
 
-2° 3,03 € par hectolitre pour les produits contenant des édulcorants de synthèse, relevant des codes 2009 et 2202 de la
+2° 3,08 € par hectolitre pour les produits contenant des édulcorants de synthèse, relevant des codes 2009 et 2202 de la
 nomenclature combinée du tarif des douanes, sans être des denrées destinées à des fins médicales spéciales ou des aliments
 hyperprotéinés destinés aux personnes dénutries, lorsque ces produits sont conditionnés dans des récipients destinés à la
 vente au détail soit directement, soit par l'intermédiaire d'un professionnel, ou sont préalablement assemblés et présentés
@@ -108,12 +108,12 @@ _Cité par_:
   - Arrêté du 22 décembre 2017 - art. 2 (V)
   - Décret n°2018-944 du 31 octobre 2018 - art. 12
   - Arrêté du 19 décembre 2019 (V)
-  - Code général des impôts, CGI. - art. 302 decies (VD)
+  - Code général des impôts, CGI. - art. 302 decies (V)
   - Code rural et de la pêche maritime - art. L731-3 (V)
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
 
 _Cite_:
 

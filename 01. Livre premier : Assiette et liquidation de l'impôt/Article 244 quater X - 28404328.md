@@ -38,7 +38,7 @@ chargés du budget, de l'écologie, de l'énergie, du développement durable et 
 d'équipement concernées ;
 
 f) Les logements sont financés par subvention publique à hauteur d'une fraction minimale de 5 %. Cette condition ne
-s'applique pas aux logements bénéficiant des prêts conventionnés définis à l'article R. 372-21 du code de la construction et
+s'applique pas aux logements bénéficiant des prêts conventionnés définis à l'article D. 372-21 du code de la construction et
 de l'habitation. Toutefois, pour ouvrir droit au crédit d'impôt, la construction ou l'acquisition de logements bénéficiant
 des prêts conventionnés précités doit avoir reçu l'agrément préalable du représentant de l'Etat dans le département de
 situation des logements. Le nombre de logements agréés par le représentant de l'Etat au titre d'une année ne peut excéder 25
@@ -70,7 +70,7 @@ logements neufs ou permettant leur confortation contre le risque sismique ou cyc
 départements d'outre-mer réalisée par les entreprises soumises à l'impôt sur les sociétés y exerçant leur activité lorsque
 les conditions suivantes sont réunies :
 
-a) L'entreprise bénéficie des prêts conventionnés définis à l'article R. 372-21 du code de la construction et de
+a) L'entreprise bénéficie des prêts conventionnés définis à l'article D. 372-21 du code de la construction et de
 l'habitation ;
 
 b) Les logements sont donnés en location nue, dans les douze mois de leur achèvement ou de leur acquisition si elle est
@@ -155,15 +155,7 @@ services d'intérêt économique général.
 
 **Nota:**
 
-Conformément au II de l'article 141 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter de
-l'année 2020 pour le calcul du nombre de logements agréés par le représentant de l'Etat.
-
-Conformément au II de l'article 142 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux travaux
-pour lesquels une demande de permis de construire est déposée à compter du 1er janvier 2020.
-
-Conformément au II de l'article 144 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux travaux de
-rénovation et de réhabilitation pour lesquels une déclaration préalable de travaux ou une demande de permis de construire est
-déposée à compter du 1er janvier 2020.
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
 
 **Liens relatifs à cet article**
 
@@ -190,7 +182,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1740-00 AB (V)
   - Code général des impôts, CGI. - art. 199 undecies C (V)
   - Code général des impôts, CGI. - art. 217 duodecies (V)
-  - Code général des impôts, CGI. - art. 217 undecies (M)
+  - Code général des impôts, CGI. - art. 217 undecies (V)
   - Code général des impôts, CGI. - art. 220 Z quinquies (V)
   - Code général des impôts, CGI. - art. 242 sexies (V)
   - Code général des impôts, CGI. - art. 244 quater W (V)
@@ -208,6 +200,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 141 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 142 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 144 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

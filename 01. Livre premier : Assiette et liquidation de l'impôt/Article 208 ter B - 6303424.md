@@ -14,10 +14,14 @@ dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ;
 3° Les syndicats professionnels et leurs unions mentionnés au titre III du livre Ier de la deuxième partie du code du
 travail ;
 
-4° Les comités d'entreprise.
+4° Les comités sociaux et économiques.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er-I et 9-II de l'ordonnance n° 2017-1386 du 22 septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 146 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

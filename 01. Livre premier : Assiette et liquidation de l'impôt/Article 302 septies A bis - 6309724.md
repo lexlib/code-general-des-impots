@@ -24,8 +24,8 @@ renoncer au bénéfice du présent article, ainsi que les conditions d'exercice 
 
 VI. - Il n'est pas exigé de bilan des exploitants individuels et des sociétés visées à l'article 239 quater A soumis à
 l'impôt sur le revenu selon le régime d'imposition prévu au I, lorsque leur chiffre d'affaires de l'année civile précédente
-n'excède pas 158 000 € hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises,
-objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 55 000 € hors taxes s'il
+n'excède pas 164 000 € hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises,
+objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 57 000 € hors taxes s'il
 s'agit d'autres entreprises.
 
 Ces seuils sont calculés dans les conditions prévues au 1 de l'article 50-0. Ils sont actualisés tous les trois ans dans la
@@ -36,17 +36,17 @@ Ces entreprises sont dispensées de présenter leur bilan lors des vérification
 
 **Nota:**
 
-<font color="#000000" size="1">Modification effectuée en conséquence de l’article 20-XVII C de la loi n° 2013-1279 du 29
-décembre 2016</font>
-  <font color="#000000" size="1">.</font>
+<font color="#000000">Modifications effectuées en conséquence de l’article 20-XV B 1° et 2° de la loi n° 2013-1279 du 29
+décembre 2013</font>
+  <font color="#000000">.</font>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°66-879 du 29 novembre 1966 - art. 36 (V)
+  - Loi n°66-879 du 29 novembre 1966 - art. 36
   - Code général des impôts, CGI. - art. 239 quater A
-  - Code général des impôts, CGI. - art. 302 septies A (M)
+  - Code général des impôts, CGI. - art. 302 septies A (V)
   - Code général des impôts, CGI. - art. 50-0
 
 _Cité par_:
@@ -58,7 +58,7 @@ _Cité par_:
   - Code de commerce - art. R123-208 (V)
   - Code des relations entre le public et l'adminis... - art. D113-14 (V)
   - Code général des impôts, CGI. - art. 1498 bis (V)
-  - Code général des impôts, CGI. - art. 158 (M)
+  - Code général des impôts, CGI. - art. 158 (V)
   - Code général des impôts, CGI. - art. 1649 quater D (V)
   - Code général des impôts, CGI. - art. 302 septies A ter A (V)
   - Code général des impôts, CGI. - art. 53 A (V)
@@ -68,4 +68,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-698 du 2 mai 2017 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

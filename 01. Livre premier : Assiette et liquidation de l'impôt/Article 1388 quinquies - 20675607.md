@@ -52,13 +52,12 @@ ou l'autre de ces régimes. Cette option est irrévocable et vaut pour l'ensembl
 L'option pour le présent régime doit être exercée avant le 1er janvier de l'année au titre de laquelle le présent régime
 prend effet.
 
-Lorsqu'un contribuable bénéficie au 1er janvier 2009 de l'une des exonérations prévues aux articles 1383 A, 1383 B, 1383 C,
-1383 C bis, 1383 D, 1383 E bis ou 1383 I et réunit à cette date les conditions pour bénéficier de l'abattement prévu au
-présent article, le contribuable peut opter pour ce dernier régime au plus tard dans le délai de deux mois à compter de la
-promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer. A défaut d'option, le
-contribuable bénéficie, au terme de l'application de celui de ces régimes dont il bénéficie au 1er janvier 2009, de
-l'abattement prévu par le présent article, pour la période restant à courir et dans les conditions prévues au II ou au III
-pour les années concernées.
+Lorsqu'un contribuable bénéficie au 1er janvier 2009 de l'une des exonérations prévues aux articles 1383 A, 1383 C bis, 1383
+D, 1383 E bis ou 1383 I et réunit à cette date les conditions pour bénéficier de l'abattement prévu au présent article, le
+contribuable peut opter pour ce dernier régime au plus tard dans le délai de deux mois à compter de la promulgation de la loi
+n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer. A défaut d'option, le contribuable bénéficie, au
+terme de l'application de celui de ces régimes dont il bénéficie au 1er janvier 2009, de l'abattement prévu par le présent
+article, pour la période restant à courir et dans les conditions prévues au II ou au III pour les années concernées.
 
 VIII. – Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission,
 du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107
@@ -73,14 +72,11 @@ Se reporter aux conditions spécifiques d'application prévues au C du II de l'a
 
 _Cite_:
 
-  - Loi n°85-30 du 9 janvier 1985
   - Loi n°2009-594 du 27 mai 2009
-  - Code général des impôts, CGI. - art. 1383 A
-  - Code général des impôts, CGI. - art. 1383 B
-  - Code général des impôts, CGI. - art. 1383 C
+  - Code général des impôts, CGI. - art. 1383 A (V)
   - Code général des impôts, CGI. - art. 1383 C bis
   - Code général des impôts, CGI. - art. 1383 C ter
-  - Code général des impôts, CGI. - art. 1383 D
+  - Code général des impôts, CGI. - art. 1383 D (VT)
   - Code général des impôts, CGI. - art. 1383 E bis
   - Code général des impôts, CGI. - art. 1383 I
   - Code général des impôts, CGI. - art. 1466 F
@@ -100,11 +96,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 315 quindecies (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 315 sexdecies (V)
 
-_Créé par_:
-
-  - Loi n°2009-594 du 27 mai 2009 - art. 6 (VD)
-
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 124 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 19 (V)
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1

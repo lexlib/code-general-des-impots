@@ -1,11 +1,11 @@
 # Article 42 octies
 
 Les primes à la construction allouées en vertu de l'article R. 311-1 du code de la construction et de l'habitation ne sont
-pas comprises dans les résultats de l'exercice en cours à la date de leur versement. 
+pas comprises dans les résultats de l'exercice en cours à la date de leur versement.
 
 Le montant des primes perçues au cours d'un exercice doit être rapporté aux bénéfices imposables de cet exercice ou, le cas
 échéant, du ou des exercices suivants à concurrence du montant des amortissements pratiqués, à la clôture de chacun desdits
-exercices, sur le prix de revient des immeubles donnant droit à l'attribution des primes. 
+exercices, sur le prix de revient des immeubles donnant droit à l'attribution des primes.
 
 En cas de cession ou de cessation ou de transfert de propriété de ces immeubles, la fraction non encore rapportée aux bases
 de l'impôt des primes annuelles antérieurement perçues est retranchée de la valeur comptable desdites immobilisations pour la
@@ -15,20 +15,22 @@ l'entreprise ou la société aura opté, conformément aux dispositions précéd
 décret, pour le maintien des primes à son profit, les primes afférentes à la période postérieure à la date du transfert de
 propriété deviendront, en outre, imposables dans les conditions de droit commun.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 4-IV-3° du décret n° 2019-873 du 21 août 2019.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2001-351 2001-04-20 art. 4 JORF 22 avril 2001
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. R*311-1 (V)
+  - Décret n°50-898 du 2 août 1950
+  - Décret n°61-856 du 31 juillet 1961
+  - Code de la construction et de l'habitation. - art. R311-1
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 31 mars 2002
+  - Décret n°2002-923 du 6 juin 2002
+
+_Modifié par_:
+
+  - Décret n°2020-897 du 22 juillet 2020 - art. 1
