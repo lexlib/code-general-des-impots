@@ -2,7 +2,7 @@
 
 I. – 1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au
 titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant,
-réalisés jusqu'au 31 décembre 2020 et exploités en Corse pour les besoins d'une activité industrielle, commerciale,
+réalisés jusqu'au 31 décembre 2023 et exploités en Corse pour les besoins d'une activité industrielle, commerciale,
 artisanale, libérale ou agricole autre que :
 
 a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas exclusivement sur des biens situés en Corse,
@@ -117,27 +117,23 @@ quater E du code général des impôts dès lors que ces investissements sont ac
 _Cite_:
 
   - Loi n°2002-92 du 22 janvier 2002
-  - Ordonnance n°2013-676 du 25 juillet 2013 (V)
+  - Ordonnance n°2013-676 du 25 juillet 2013
   - Code général des impôts, CGI. - art. 151 octies
   - Code général des impôts, CGI. - art. 156
   - Code général des impôts, CGI. - art. 1649 nonies
   - Code général des impôts, CGI. - art. 208 sexies
   - Code général des impôts, CGI. - art. 239 quater
-  - Code général des impôts, CGI. - art. 39 A (V)
+  - Code général des impôts, CGI. - art. 39 A
   - Code général des impôts, CGI. - art. 41
   - Code général des impôts, CGI. - art. 44 quindecies
   - Code général des impôts, CGI. - art. 44 septies
   - Code général des impôts, CGI. - art. 44 sexies
   - Code général des impôts, CGI. - art. 8
-  - Code monétaire et financier - art. L214-37 (V)
+  - Code monétaire et financier - art. L214-37
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (VD)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 152
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (VD)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 22 (V)
-  - Loi n°2019-486 du 22 mai 2019 - art. 12 (V)
+  - Loi n°2020-935 du 30 juillet 2020 - art. 46 (V)
 
 _Cité par_:
 

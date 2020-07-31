@@ -101,10 +101,10 @@ III bis. – Le taux mentionné au premier alinéa du III est porté à 30 % pou
 micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014
 précité (1).
 
-IV. – Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance, par le ministre chargé de la culture, d'un
-agrément à titre provisoire attestant que les productions phonographiques ou vidéographiques musicales remplissent les
-conditions prévues au II. Cet agrément est délivré après avis d'un comité d'experts dont les modalités de fonctionnement sont
-précisées par décret, sur la base de pièces justificatives comprenant notamment :
+IV. – Les dépenses ouvrent droit au crédit d'impôt à compter de la date de réception, par le ministre chargé de la culture,
+d'une demande d'agrément à titre provisoire attestant que les productions phonographiques ou vidéographiques musicales
+remplissent les conditions prévues au II. Cet agrément est délivré après avis d'un comité d'experts dont les modalités de
+fonctionnement sont précisées par décret, sur la base de pièces justificatives comprenant notamment :
 
 a. – par artiste-interprète ou compositeur, la liste des albums antérieurs, par ordre chronologique de première
 commercialisation en France et leurs résultats en nombre d'unités vendues ;
@@ -170,8 +170,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 143 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 192 (V)
+  - Loi n°2020-935 du 30 juillet 2020 - art. 8
 
 _Cite_:
 
