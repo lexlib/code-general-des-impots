@@ -33,14 +33,9 @@ h) Dans des procédés de fabrication pour autant que le produit fini ne contien
 
 i) Dans la fabrication d'un composant qui n'est pas soumis à l'impôt en application des dispositions du présent titre.
 
-III.-Les opérateurs qui veulent bénéficier des exonérations prévues au I et au II ou qui veulent se livrer au commerce des
-alcools totalement dénaturés mentionnés au a du I doivent en faire préalablement déclaration à l'administration selon des
-modalités fixées par décret. Cette déclaration est effectuée par voie électronique. Toutefois, les opérateurs qui ne
-disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès
-aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent leur déclaration
-sur papier.
+III.-(Abrogé)
 
-IV.-Sont exonérés des droits mentionnés aux articles 575 , 575 E et 575 E bis les tabacs manufacturés :
+IV.-Sont exonérés des droits mentionnés aux articles 575, 575 E et 575 E bis les tabacs manufacturés :
 
 a) Dénaturés, utilisés pour des usages industriels ou horticoles ;
 
@@ -53,8 +48,8 @@ du directeur régional des douanes et droits indirects territorialement compéte
 
 **Nota:**
 
-Conformément à l'article 72 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions  s'appliquent à compter
-d'une date fixée par décret, comprise entre le 1er janvier 2018 et le 31 décembre 2019.
+Conformément au II de l’article 185 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -67,7 +62,7 @@ _Cité par_:
   - Arrêté du 16 juillet 2020 (VT)
   - Arrêté du 14 octobre 2020 (V)
   - Code général des impôts annexe 1, CGIAN1. - art. 165 (V)
-  - Code général des impôts, CGI. - art. 1798 bis (V)
+  - Code général des impôts, CGI. - art. 1798 bis (VD)
   - Code général des impôts, CGI. - art. 302 D (V)
   - Code général des impôts, CGI. - art. 302 M (V)
   - Code général des impôts, CGI. - art. 458 (V)
@@ -82,12 +77,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 185 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 185 (M)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 195 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 B
+  - Code général des impôts, CGI. - art. 302 B (VT)
   - Code général des impôts, CGI. - art. 575
-  - Code général des impôts, CGI. - art. 575 E bis
+  - Code général des impôts, CGI. - art. 575 E bis (VT)
   - Code de la santé publique - art. L5111-1

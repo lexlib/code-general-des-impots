@@ -84,8 +84,11 @@ courir à la date du décès.
 3 bis. La réduction d'impôt n'est applicable au titre des investissements mentionnés au a du 2 que lorsque ceux-ci sont
 réalisés par des personnes physiques pour l'acquisition ou la construction d'une résidence principale en accession à la
 première propriété au sens du troisième alinéa du I de l'article 244 quater J ainsi que par des personnes physiques dont la
-résidence principale est visée par un arrêté, une mise en demeure ou une injonction pris en application de l'article L. 511-1
-du code de la construction et de l'habitation ou des articles L. 1331-22 et L. 1331-24 du code de la santé publique.
+résidence principale est visée par un arrêté pris en application du chapitre Ier du titre Ier du livre V du code de la
+construction et de l'habitation pour les situations mentionnées au 1° de l'article L. 511-2 du même code et au 4° du même
+article lorsque l'arrêté de traitement de l'insalubrité porte sur l'usage qui est fait des immeubles, locaux ou
+installations, ou lorsqu'il porte sur des locaux par nature impropres à l'habitation mentionnés à l'article L. 1331-23 du
+code de la santé publique.
 
 4. Lorsque le montant des investissements mentionnés aux b, c, d, f et g du 2 est supérieur à deux millions d'euros, le
 bénéfice de la réduction d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du
@@ -192,7 +195,8 @@ revenus catégoriels.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 58-I-1° de la loi n° 2004-1485 du 30 décembre 2004.
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -223,7 +227,7 @@ _Cité par_:
   - Loi n°2011-1977 du 28 décembre 2011 - art. 84 (V)
   - Décret n°2013-731 du 12 août 2013 (V)
   - Arrêté du 13 octobre 2014 (V)
-  - Code général des impôts, CGI. - art. 156 (V)
+  - Code général des impôts, CGI. - art. 156 (VT)
   - Code général des impôts, CGI. - art. 1740 (V)
   - Code général des impôts, CGI. - art. 1740-0 A (V)
   - Code général des impôts, CGI. - art. 1740-00 AB (V)
@@ -270,4 +274,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2020-897 du 22 juillet 2020 - art. 1
+  - Ordonnance n°2020-1144 du 16 septembre 2020 - art. 7

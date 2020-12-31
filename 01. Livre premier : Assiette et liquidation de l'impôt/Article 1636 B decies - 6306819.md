@@ -56,25 +56,7 @@ majoré dans les conditions prévues audit alinéa.
 
 V. – (Périmé)
 
-VI. – Le conseil de la métropole de Lyon vote le taux de la cotisation foncière des entreprises dans les limites prévues au b
-du 1, au 2, au 3 et au 5 du I de l'article 1636 B sexies, sous réserve des dispositions du VII de l'article 1636 B septies.
-
-Pour l'application des 1, 2, 3 et 5 du I de l'article 1636 B sexies :
-
-1° La référence aux taux moyens nationaux de cotisation foncière des entreprises est remplacée par la référence au taux moyen
-constaté l'année précédente au niveau national pour l'ensemble des établissements publics de coopération intercommunale
-soumis à l'article 1609 nonies C ;
-
-2° La référence au taux moyen national de chacune des autres taxes directes est remplacée par la référence au taux moyen de
-chacune des autres taxes directes constaté l'année précédente au niveau national pour l'ensemble des établissements publics
-de coopération intercommunale soumis à l'article 1609 nonies C ;
-
-3° La référence au taux moyen pondéré des taxes foncières est remplacée par la référence au taux moyen pondéré des taxes
-foncières de la métropole de Lyon ;
-
-4° La référence au taux moyen pondéré des taxes foncières calculé au niveau national est remplacée par la référence au taux
-moyen pondéré des taxes foncières constaté l'année précédente au niveau national pour l'ensemble des établissements publics
-de coopération intercommunale soumis à l'article 1609 nonies C.
+VI. – (Abrogé).
 
 VII. – Pour l'application du II à la métropole du Grand Paris :
 
@@ -90,8 +72,8 @@ compte des taux inférieurs aux trois quarts du taux moyen pondéré des commune
 
 **Nota:**
 
-Conformément au A du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
-à compter des impositions établies au titre de 2020.
+Conformément au D du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
+6° du A du III dudit article s’appliquent à compter des impositions établies au titre de 2021.
 
 **Liens relatifs à cet article**
 
@@ -111,7 +93,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cite_:

@@ -1,10 +1,11 @@
 # Article 199 novovicies
 
 I. – A. – Les contribuables qui acquièrent, entre le 1er janvier 2013 et le 31 décembre 2021, alors qu'ils sont domiciliés en
-France au sens de l'article 4 B, un logement neuf ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le
-revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale fixée, sur
-option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration des revenus de
-l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est irrévocable pour le logement considéré.
+France au sens de l'article 4 B, un logement neuf ou en l'état futur d'achèvement dans un bâtiment d'habitation collectif
+bénéficient d'une réduction d'impôt sur le revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale
+pendant une durée minimale fixée, sur option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du
+dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est
+irrévocable pour le logement considéré.
 
 La réduction d'impôt s'applique, dans les mêmes conditions, à l'associé d'une société non soumise à l'impôt sur les sociétés,
 autre qu'une société civile de placement immobilier, lorsque l'acquisition du logement est réalisée, alors que l'associé est
@@ -240,6 +241,9 @@ qui servent à financer des logements faisant l'objet d'un engagement de locatio
 
 **Nota:**
 
+Conformément au II de l’article 161 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions telles qu'elles résultent du
+I dudit article s'appliquent aux investissements réalisés à compter du 1er janvier 2021.
+
 Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
 
 **Liens relatifs à cet article**
@@ -248,9 +252,9 @@ _Cite_:
 
   - Loi n°70-9 du 2 janvier 1970 - art. 1
   - Loi n°89-462 du 6 juillet 1989 - art. 6
-  - Code général des impôts, CGI. - art. 199 tervicies
+  - Code général des impôts, CGI. - art. 199 tervicies (V)
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 199 undecies C (V)
+  - Code général des impôts, CGI. - art. 199 undecies C (M)
   - Code général des impôts, CGI. - art. 257
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L321-1
@@ -310,4 +314,5 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 161 (V)
   - Décret n°2020-897 du 22 juillet 2020 - art. 1

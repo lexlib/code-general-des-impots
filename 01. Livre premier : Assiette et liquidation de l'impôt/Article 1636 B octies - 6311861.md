@@ -32,11 +32,14 @@ ressort de l'établissement public foncier si les taux de référence définis a
 appliqués et, d'autre part, le produit que cette taxe a procuré au titre de l'année 2010 à ces mêmes communes et
 établissements publics.
 
-A compter des impositions établies au titre de l'année 2012, les recettes de taxe d'habitation sont, pour l'application du I,
-minorées de la différence entre, d'une part, le produit que la taxe a procuré au titre de l'année 2011 à l'ensemble des
-communes et de leurs établissements publics de coopération intercommunale situés dans le ressort de l'établissement public
-foncier et, d'autre part, le produit que cette taxe aurait procuré au titre de l'année 2011 à ces mêmes communes et
-établissements publics si les taux de l'année 2010 avaient été appliqués.
+A compter des impositions établies au titre de l'année 2021, les recettes de taxe d'habitation sont, pour l'application du I,
+minorées du produit de la différence entre, d'une part, le produit que la taxe a procuré au titre de l'année 2011 à
+l'ensemble des communes et de leurs établissements publics de coopération intercommunale situés dans le ressort de
+l'établissement public foncier et, d'autre part, le produit que cette taxe aurait procuré au titre de l'année 2011 à ces
+mêmes communes et établissements publics si les taux de l'année 2010 avaient été appliqués, par le rapport entre, d'une part,
+le produit que la taxe d'habitation afférente aux locaux meublés non affectés à l'habitation principale a procuré à ces mêmes
+communes et établissements au titre de l'année 2020 et, d'autre part, le produit que la taxe d'habitation a procuré à ces
+mêmes communes et établissements au titre de l'année 2020.
 
 A compter des impositions établies au titre de l'année 2016, les recettes que la taxe foncière sur les propriétés bâties a
 procurées sur le territoire de la métropole de Lyon sont, pour l'application du I, minorées de la part que cette taxe a
@@ -71,10 +74,13 @@ majorées de la différence entre, d'une part, le produit qu'a procuré au titre
 l'ensemble des locaux situés sur son territoire et, d'autre part, le produit qu'aurait procuré au titre de l'année 2011 à
 cette même commune la taxation de ces mêmes locaux, si les taux de l'année 2010 avaient été appliqués.
 
-A compter des impositions établies au titre de l'année 2012, les recettes de taxe d'habitation sont, pour l'application du
-III, minorées de la différence entre, d'une part, le produit qu'a procuré au titre de l'année 2011 à la commune la taxation
-de l'ensemble des locaux situés dans son ressort et, d'autre part, le produit qu'aurait procuré au titre de l'année 2011 à
-cette même commune la taxation de ces mêmes locaux si le taux de l'année 2010 avait été appliqué.
+A compter des impositions établies au titre de l'année 2021, les recettes de taxe d'habitation sont, pour l'application du
+III, minorées du produit de la différence entre, d'une part, le produit qu'a procuré au titre de l'année 2011 à la commune la
+taxation de l'ensemble des locaux situés dans son ressort et, d'autre part, le produit qu'aurait procuré au titre de l'année
+2011 à cette même commune la taxation de ces mêmes locaux si le taux de l'année 2010 avait été appliqué, par le rapport
+entre, d'une part, le produit que la taxe d'habitation afférente aux locaux meublés non affectés à l'habitation principale a
+procuré à ces mêmes communes au titre de l'année 2020 et, d'autre part, le produit que la taxe d'habitation a procuré à ces
+mêmes communes au titre de l'année 2020 .
 
 A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du
 III du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
@@ -88,8 +94,8 @@ alinéa.
 
 **Nota:**
 
-Conformément à l'article 18 de l'ordonnance n° 2018-75 du 8 février 2018, les présentes dispositions s'appliquent à compter
-des impositions établies au titre de 2019.
+Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
+6° du D du I dudit article, s’appliquent à compter des impositions établies au titre de 2021.
 
 **Liens relatifs à cet article**
 
@@ -106,8 +112,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Ordonnance n°2018-75 du 8 février 2018 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cité par_:
 

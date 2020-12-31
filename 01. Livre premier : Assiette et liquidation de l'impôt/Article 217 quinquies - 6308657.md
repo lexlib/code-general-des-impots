@@ -2,8 +2,8 @@
 
 I. – Pour la détermination de leurs résultats fiscaux, les sociétés peuvent déduire les charges exposées du fait de la levée
 des options de souscription ou d'achat d'actions consenties à leurs salariés en application des articles L. 225-177 à L.
-225-184 du code de commerce ainsi que du fait de l'attribution gratuite d'actions en application des articles L. 225-197-1 à
-L. 225-197-3 du même code.
+225-184 et L. 22-10-56 du code de commerce ainsi que du fait de l'attribution gratuite d'actions en application des articles
+L. 225-197-1 à L. 225-197-3 et L. 22-10-59 du même code.
 
 Les dispositions de l'article 39 duodecies s'appliquent aux moins-values qui résultent de la différence entre le prix de
 souscription des actions par les salariés et leur valeur d'origine.
@@ -28,13 +28,14 @@ Un décret fixe les modalités d'application de ces dispositions, notamment les 
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 1
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 13
 
 _Cite_:
 

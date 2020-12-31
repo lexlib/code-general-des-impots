@@ -1,9 +1,9 @@
 # Article 1388 octies
 
-Les collectivités territoriales et les établissements publics de coopération intercommunale à fiscalité propre peuvent, par
-délibération prise dans les conditions prévues au I de l'article 1639 A bis, prévoir que la base d'imposition à la taxe
-foncière sur les propriétés bâties des logements faisant l'objet d'un bail réel solidaire conclu dans les conditions prévues
-aux articles L. 255-2 à L. 255-19 du code de la construction et de l'habitation fait l'objet d'un abattement de 30 %.
+Les communes et les établissements publics de coopération intercommunale à fiscalité propre peuvent, par délibération prise
+dans les conditions prévues au I de l'article 1639 A bis, prévoir que la base d'imposition à la taxe foncière sur les
+propriétés bâties des logements faisant l'objet d'un bail réel solidaire conclu dans les conditions prévues aux articles L.
+255-2 à L. 255-19 du code de la construction et de l'habitation fait l'objet d'un abattement de 30 %.
 
 Pour bénéficier de cet abattement, le redevable de la taxe adresse au service des impôts du lieu de situation des biens,
 avant le 1er janvier de l'année suivant celle de la signature du bail réel solidaire, une déclaration conforme au modèle
@@ -13,14 +13,19 @@ réel solidaire.
 Lorsque la déclaration est souscrite hors délai, l'abattement s'applique pour la durée restant à courir après le 31 décembre
 de l'année de la souscription.
 
+**Nota:**
+
+Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2021.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 63
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1639 A bis (V)
+  - Code général des impôts, CGI. - art. 1639 A bis
   - Code de la construction et de l'habitation. - art. L255-19
   - Code de la construction et de l'habitation. - art. L255-2

@@ -24,17 +24,41 @@ conditions prévues à l'article 1635 sexies, est égal au rapport entre, d'une 
 révisées de ces propriétés au 1er janvier 2017 imposables au titre de cette année et, d'autre part, la somme des valeurs
 locatives révisées de ces propriétés à la date de référence du 1er janvier 2013.
 
+3. Pour les communes, chaque coefficient mentionné aux 1 et 2 appliqué aux valeurs locatives communales servant à
+l'établissement de la base d'imposition de la taxe foncière sur les propriétés bâties est égal au rapport entre :
+
+1° D'une part, la somme du produit du taux d'imposition de la taxe foncière sur les propriétés bâties de la commune, appliqué
+en 2020, par le coefficient mentionné aux 1 ou 2 déterminé pour la commune et du produit du taux d'imposition de la taxe
+foncière sur les propriétés bâties du département, appliqué en 2020, par le coefficient mentionné aux 1 ou 2 déterminé pour
+le département ;
+
+2° D'autre part, la somme des taux d'imposition de la taxe foncière sur les propriétés bâties de la commune et du département
+appliqués en 2020.
+
 II. – Le I du présent article cesse de s'appliquer l'année de la prise en compte, pour l'établissement des bases, de la
 révision des valeurs locatives des locaux d'habitation et des locaux servant à l'exercice d'une activité salariée à domicile
 prévue au B du II de l'article 74 de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013.
 
 III. – Pour les impositions dues au titre des années 2017 à 2025 :
 
-1° Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du I est
+1. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du I est
 positive, celle-ci est majorée d'un montant égal à la moitié de cette différence ;
 
-2° Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du même I
-est négative, celle-ci est minorée d'un montant égal à la moitié de cette différence.
+2. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du même I
+est négative, celle-ci est minorée d'un montant égal à la moitié de cette différence ;
+
+3. Pour les communes, chaque majoration ou minoration mentionnée aux 1 et 2 appliquée aux valeurs locatives communales
+servant à l'établissement de la base d'imposition de la taxe foncière sur les propriétés bâties est égale au rapport entre :
+
+1° D'une part, la somme du produit de taux d'imposition de la taxe foncière sur les propriétés bâties de la commune, appliqué
+en 2020, par la majoration ou minoration mentionnée aux 1 ou 2 appliqué à la valeur locative servant à l'établissement de la
+base d'imposition à la taxe foncière sur les propriétés bâties communale et du produit du taux d'imposition de la taxe
+foncière sur les propriétés bâties du département, appliqué en 2020, par la majoration ou minoration mentionnée aux 1 et 2
+appliquée à la valeur locative servant à l'établissement de la base d'imposition à la taxe foncière sur les propriétés bâties
+départementale ;
+
+2° D'autre part, la somme des taux d'imposition de la taxe foncière sur les propriétés bâties de la commune et du département
+appliqués en 2020.
 
 Le présent III n'est applicable ni aux locaux mentionnés au 2 du I du présent article, ni aux locaux concernés par
 l'application du I de l'article 1406 après le 1er janvier 2017, sauf si le changement de consistance concerne moins de 10 %
@@ -43,13 +67,18 @@ de la surface de ces locaux.
 IV. – Pour la détermination des valeurs locatives non révisées au 1er janvier 2017 mentionnées aux I et III, il est fait
 application des dispositions prévues par le présent code, dans sa rédaction en vigueur le 31 décembre 2016.
 
+**Nota:**
+
+Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
+2° du D du II dudit article, s’appliquent à compter des impositions établies au titre de 2021.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 30 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cité par_:
 
-  - Code général des impôts, CGI. - art. 1518 A sexies (V)
+  - Code général des impôts, CGI. - art. 1518 A sexies (VD)
   - Code général des impôts, CGI. - art. 1518 quater (VD)

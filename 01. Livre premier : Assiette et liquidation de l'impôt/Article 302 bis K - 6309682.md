@@ -141,16 +141,18 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 VI. – 1. Une contribution additionnelle, dénommée taxe de solidarité sur les billets d'avion, est perçue par majoration des
 montants par passager de la taxe de l'aviation civile mentionnés aux deuxième et troisième alinéas du 1 du II.
 
-Le tarif de la taxe est fixé en fonction de la destination finale et de la catégorie de chaque passager, selon le tableau
-suivant :
+Le tarif de la taxe est fixé par arrêté conjoint des ministres chargés de l'aviation civile et du budget en fonction de la
+destination finale et de la catégorie de chaque passager dans les limites définies comme suit :
 
-<table border="1">
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
-      <th>
+      <td>
 
-Destination finale du passager</th>
-      <th>
+Destination finale du passager
+
+</td>
+      <td>
 
 Passager pouvant bénéficier,
 
@@ -158,38 +160,51 @@ sans supplément de prix,
 
 de services à bord auxquels l'ensemble
 
-des passagers ne peut accéder gratuitement</th>
-      <th>
+des passagers ne peut accéder gratuitement
+
+</td>
+      <td>
 
 Autre
 
-passager</th>
+passager
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-- la France, un autre État membre de l'Union européenne,
+- la France, un autre État membre de l'Union européenne, un autre État partie à l'accord sur l'Espace économique européen, la
+Confédération suisse
 
-un autre État partie à l'accord sur l'Espace économique européen,
+</td>
+      <td>
 
-la Confédération suisse</td>
-      <td align="center">
+11,27 €-20,27 €
 
-20,27 €</td>
-      <td align="center">
+</td>
+      <td>
 
-2,63 €</td>
+1,13 €-2,63 €
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-- autres États</td>
-      <td align="center">
+- autres États
 
-63,07 €</td>
-      <td align="center">
+</td>
+      <td>
 
-7,51 €</td>
+45,07 €-63,07 €
+
+</td>
+      <td>
+
+4,51 €-7,51 €
+
+</td>
     </tr>
   </tbody>
 </table>
@@ -231,9 +246,9 @@ Le produit annuel excédant les plafonds mentionnés ci-dessus est attribué au 
 5. La taxe de solidarité sur les billets d'avion n'est pas perçue au départ des collectivités d'outre-mer de Saint-Barthélemy
 et de Saint-Martin.
 
-6. Les montants mentionnés à la deuxième ligne du tableau du dernier alinéa du 1 font l'objet d'une réduction de 9 € pour les
-passagers pouvant bénéficier, sans supplément de prix, de services à bord auxquels l'ensemble des passagers ne peut accéder
-gratuitement et d'une réduction de 1,5 € pour les autres passagers. Ces réductions s'appliquent aux vols commerciaux :
+6. Les montants mentionnés à la deuxième ligne du tableau du dernier alinéa du 1 font l'objet d'une réduction égale à la
+différence entre le tarif résultant de l'arrêté mentionné au deuxième alinéa du même 1 et le montant minimum mentionné à la
+deuxième ligne du tableau du dernier alinéa dudit 1. Ces réductions s'appliquent aux vols commerciaux :
 
 a) Effectués entre la Corse et la France continentale ;
 
@@ -274,7 +289,8 @@ réclamations sont présentées, instruites et jugées selon les règles applica
 
 **Nota:**
 
-Modifications effectuées en conséquence de l’article 110 de la loi n° 2009-1673 du 30 décembre 2009.
+Conformément au III l’article 72 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2021,
 
 **Liens relatifs à cet article**
 
@@ -308,7 +324,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2020-897 du 22 juillet 2020 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 72 (V)
 
 _Cite_:
 
