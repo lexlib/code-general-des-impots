@@ -20,19 +20,24 @@ alinéa du I.
 
 III. – L'abattement s'applique le cas échéant après celui prévu à l'article 1388 quinquies.
 
-IV. – L'abattement s'applique sauf délibération contraire du département, de la commune ou de l'établissement public de
-coopération intercommunale à fiscalité propre.
+IV. – L'abattement s'applique sauf délibération contraire de la commune ou de l'établissement public de coopération
+intercommunale à fiscalité propre.
 
 Les délibérations sont prises dans les conditions prévues à l'article 1639 A bis et portent sur la totalité de la part
-revenant à chaque collectivité territoriale ou établissement public de coopération intercommunale.
+revenant à chaque commune ou établissement public de coopération intercommunale.
+
+**Nota:**
+
+Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 64
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1388 quinquies
+  - Code général des impôts, CGI. - art. 1388 quinquies (VD)
   - Code général des impôts, CGI. - art. 1639 A bis

@@ -1,10 +1,11 @@
 # Article 199 novovicies
 
 I. – A. – Les contribuables qui acquièrent, entre le 1er janvier 2013 et le 31 décembre 2021, alors qu'ils sont domiciliés en
-France au sens de l'article 4 B, un logement neuf ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le
-revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale fixée, sur
-option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration des revenus de
-l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est irrévocable pour le logement considéré.
+France au sens de l'article 4 B, un logement neuf ou en l'état futur d'achèvement dans un bâtiment d'habitation collectif
+bénéficient d'une réduction d'impôt sur le revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale
+pendant une durée minimale fixée, sur option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du
+dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est
+irrévocable pour le logement considéré.
 
 La réduction d'impôt s'applique, dans les mêmes conditions, à l'associé d'une société non soumise à l'impôt sur les sociétés,
 autre qu'une société civile de placement immobilier, lorsque l'acquisition du logement est réalisée, alors que l'associé est
@@ -240,12 +241,8 @@ qui servent à financer des logements faisant l'objet d'un engagement de locatio
 
 **Nota:**
 
-Conformément au II de l'article 115 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 novovicies, dans sa rédaction
-résultant du 2° du I du présent article, s'applique aux acquisitions et aux souscriptions réalisées à compter du 1er janvier
-2020.
-
-Conformément au II de l’article 162 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux
-acquisitions et aux souscriptions réalisées à compter du 1er janvier 2020.
+Conformément au II de l’article 161 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions telles qu'elles résultent du
+I dudit article s'appliquent aux investissements réalisés à compter du 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -292,7 +289,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
   - Code de la construction et de l'habitation. - art. R443-34 (T)
   - Code général des impôts, CGI. - art. 199 undecies F (V)
-  - Code général des impôts, CGI. - art. 200-0 A (V)
+  - Code général des impôts, CGI. - art. 200-0 A (M)
   - Code général des impôts, CGI. - art. 279-0 bis A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
@@ -312,5 +309,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 115 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 162 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 161 (V)

@@ -1,13 +1,13 @@
 # Article 1388 quinquies
 
-I. – Sauf délibération contraire de la collectivité territoriale ou de l'établissement public de coopération intercommunale
-doté d'une fiscalité propre prise dans les conditions prévues au I de l'article 1639 A bis, la base d'imposition à la taxe
-foncière sur les propriétés bâties des immeubles ou parties d'immeubles rattachés à compter du 1er janvier 2009 à un
-établissement réunissant les conditions requises pour bénéficier de l'abattement prévu à l'article 1466 F fait l'objet d'un
-abattement lorsqu'ils sont situés en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à La Réunion.
+I. – Sauf délibération contraire de la commune ou de l'établissement public de coopération intercommunale doté d'une
+fiscalité propre prise dans les conditions prévues au I de l'article 1639 A bis, la base d'imposition à la taxe foncière sur
+les propriétés bâties des immeubles ou parties d'immeubles rattachés à compter du 1er janvier 2009 à un établissement
+réunissant les conditions requises pour bénéficier de l'abattement prévu à l'article 1466 F fait l'objet d'un abattement
+lorsqu'ils sont situés en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à La Réunion.
 
-La délibération porte sur la totalité de la part revenant à chaque collectivité territoriale ou établissement public de
-coopération intercommunale.
+La délibération porte sur la totalité de la part revenant à chaque commune ou établissement public de coopération
+intercommunale.
 
 Cet abattement s'applique aux impositions établies à compter du 1er janvier 2009 ou à compter du 1er janvier de l'année qui
 suit celle où est intervenu le rattachement à un établissement satisfaisant aux conditions requises, si elle est postérieure.
@@ -46,8 +46,8 @@ l'article 1466 F.
 
 VII. – Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 C ter,
 1383 D, 1383 E bis ou 1383 I et de l'abattement prévu au présent article sont réunies, le contribuable peut opter pour l'un
-ou l'autre de ces régimes. Cette option est irrévocable et vaut pour l'ensemble des collectivités territoriales et des
-établissements publics de coopération intercommunale.
+ou l'autre de ces régimes. Cette option est irrévocable et vaut pour l'ensemble des communes et des établissements publics de
+coopération intercommunale.
 
 L'option pour le présent régime doit être exercée avant le 1er janvier de l'année au titre de laquelle le présent régime
 prend effet.
@@ -66,8 +66,8 @@ et 108 du traité.
 
 **Nota:**
 
-Se reporter aux conditions spécifiques d'application prévues au C du II de l'article 19 de la loi n° 2018-1317 du 28 décembre
-2018 de finances pour 2019.
+Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2021.
 
 **Liens relatifs à cet article**
 
@@ -77,26 +77,22 @@ _Cite_:
   - Loi n°2009-594 du 27 mai 2009
   - Code général des impôts, CGI. - art. 1383 A
   - Code général des impôts, CGI. - art. 1383 B
-  - Code général des impôts, CGI. - art. 1383 C
-  - Code général des impôts, CGI. - art. 1383 C bis
-  - Code général des impôts, CGI. - art. 1383 C ter
-  - Code général des impôts, CGI. - art. 1383 D
-  - Code général des impôts, CGI. - art. 1383 E bis
-  - Code général des impôts, CGI. - art. 1383 I
+  - Code général des impôts, CGI. - art. 1383 C (VD)
+  - Code général des impôts, CGI. - art. 1383 C bis (VD)
+  - Code général des impôts, CGI. - art. 1383 C ter (VD)
+  - Code général des impôts, CGI. - art. 1383 D (VT)
+  - Code général des impôts, CGI. - art. 1383 E bis (VD)
+  - Code général des impôts, CGI. - art. 1383 I (VD)
   - Code général des impôts, CGI. - art. 1466 F
   - Code général des impôts, CGI. - art. 1639 A bis
   - Code général des impôts, CGI. - art. 44 quaterdecies
   - Code général des collectivités territoriales - art. L2334-2
 
-_Créé par_:
-
-  - Loi n°2009-594 du 27 mai 2009 - art. 6 (VD)
-
 _Cité par_:
 
   - Loi n°2009-594 du 27 mai 2009 - art. 6 (VD)
   - Loi n°2009-594 du 27 mai 2009 - art. 10 (V)
-  - Code général des impôts, CGI. - art. 1388 sexies (V)
+  - Code général des impôts, CGI. - art. 1388 sexies (VD)
   - Code général des impôts, CGI. - art. 1639 A quater (M)
   - Code général des impôts, CGI. - art. 1640 (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 315 quindecies (P)
@@ -104,5 +100,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 124 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 19 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
