@@ -189,7 +189,7 @@ suit l'année de dépassement.
 
 Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe "
 Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe et sa majoration prévue au IV bis, par
-virement bancaire.
+télépaiement.
 
 IV bis. – A compter du 1er janvier 2010, le tarif par passager de la taxe d'aéroport fait l'objet d'une majoration fixée,
 dans la limite d'un montant de 1,25 €, par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation
@@ -219,9 +219,9 @@ VIII. ― Pour l'application du présent article, la notion de correspondance es
 
 **Nota:**
 
-Conformément aux dispositions du A du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de
-l'article 1609 quatervicies telles qu'elles résultent du I dudit article ormis celles issues du b du 2° du C, s'appliquent
-aux impositions dont le fait générateur intervient à compter du 1er avril 2020.
+Conformément aux dispositions du B du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, par dérogation au A
+dudit II, les dispositions de l'article 1609 quatervicies telles qu'elles résultent du b du 2° du C du I s'appliquent aux
+impositions dont le fait générateur intervient à compter du 1er avril 2021.
 
 **Liens relatifs à cet article**
 

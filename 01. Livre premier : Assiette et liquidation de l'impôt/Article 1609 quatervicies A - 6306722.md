@@ -63,7 +63,7 @@ trimestre est inférieur à 1 000 €, les éléments nécessaires à l'établis
 l'administration de l'aviation civile.
 
 Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe "
-Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe, par virement bancaire.
+Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe, par télépaiement.
 
 La date limite de dépôt de la déclaration et de paiement de la taxe est fixée au dernier jour du deuxième mois suivant la
 période mensuelle ou trimestrielle visée par la déclaration.
@@ -112,9 +112,9 @@ et jugées comme en matière de taxes sur le chiffre d'affaires.
 
 **Nota:**
 
-Conformément aux dispositions du A du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de
-l'article 1609 quatervicies A telles qu'elles résultent du I dudit article ormis celles issues du b du 2° du D, s'appliquent
-aux impositions dont le fait générateur intervient à compter du 1er avril 2020.
+Conformément aux dispositions du B du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, par dérogation au A
+dudit II, les dispositions de l'article 1609 quatervicies A telles qu'elles résultent du b du 2° du D du I s'appliquent aux
+impositions dont le fait générateur intervient à compter du 1er avril 2021.
 
 **Liens relatifs à cet article**
 
