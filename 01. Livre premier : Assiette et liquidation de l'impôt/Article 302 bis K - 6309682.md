@@ -76,7 +76,7 @@ dépassement.
 
 3. Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe "
 Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle
-prévue au VI, par virement bancaire.
+prévue au VI, par télépaiement.
 
 III. – (Abrogé).
 
@@ -274,9 +274,10 @@ réclamations sont présentées, instruites et jugées selon les règles applica
 
 **Nota:**
 
-Conformément au II de l’article 171 de la loi n° 2019-1479 du 29 décembre 2019, les dispositions du b du 2 du I de l'article
-302 bis K et celles de son paragraphe II résultant des dispositions du I dudit article s'appliquent aux impositions dont le
-fait générateur intervient à compter du 1er avril 2020.
+Conformément au B du II de l’article 171 de la loi n° 2019-1479 du 29 décembre 2019, les dispositions 
+  <font color="black">de la seconde phrase du 3 du II de l'article 302 bis K telles qu'elles résultent du dernier alinéa du b
+du 2° du A du I dudit article s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2021.</
+font>
 
 **Liens relatifs à cet article**
 
