@@ -46,8 +46,9 @@ prêt mentionné à l'article D. 331-1 du code de la construction et de l'habita
 construire à compter du 1er janvier 2010.
 
 II. – La réduction d'impôt n'est applicable qu'aux logements dont les caractéristiques thermiques et la performance
-énergétique sont conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le respect
-de cette condition est justifié par le contribuable selon des modalités définies par décret.
+énergétique sont  atteignent les résultats minimaux définis en application des articles L. 171-1 et L. 172-1 du code de la
+construction et de l'habitation. Le respect de cette condition est justifié par le contribuable selon des modalités définies
+par décret.
 
 Le premier alinéa s'applique à compter du 1er janvier 2010.
 
@@ -232,6 +233,9 @@ alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
 
 **Nota:**
 
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
+
 Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
 
 **Liens relatifs à cet article**
@@ -246,6 +250,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 tervicies
   - Code général des impôts, CGI. - art. 199 undecies A
   - Code général des impôts, CGI. - art. 257
+  - Code général des impôts, CGI. - art. 31 (VD)
   - Code général des impôts, CGI. - art. 31 bis
   - Code général des impôts, CGI. - art. 4 B
   - Code monétaire et financier - art. L214-114
@@ -269,7 +274,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R441-20-1 (Ab)
   - Code général des impôts, CGI. - art. 199 undecies C (V)
   - Code général des impôts, CGI. - art. 239 nonies (VD)
-  - Code général des impôts, CGI. - art. 31 (VT)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies B (V)
@@ -288,4 +292,5 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
   - Décret n°2020-897 du 22 juillet 2020 - art. 1
