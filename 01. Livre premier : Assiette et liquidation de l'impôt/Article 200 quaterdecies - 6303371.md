@@ -13,8 +13,9 @@ qui sont contractés en vue de financer l'acquisition du terrain et les dépense
 Le logement doit, au jour de l'affectation à usage d'habitation principale du bénéficiaire du crédit d'impôt, satisfaire aux
 normes minimales de surface et d'habitabilité mentionnées à l'article 244 quater J. En outre, le logement acquis neuf, en
 l'état futur d'achèvement ou que le contribuable fait construire doit présenter des caractéristiques thermiques et une
-performance énergétique conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le
-contribuable justifie du respect de cette dernière condition selon des modalités définies par décret. 
+performance énergétique           atteignent les résultats minimaux définis en application des articles L. 171-1 et L. 172-1
+du code de la construction et de l'habitation. Le contribuable justifie du respect de cette dernière condition selon des
+modalités définies par décret. 
 
 II. – Le I ne s'applique pas aux intérêts des prêts affectés : 
 
@@ -103,6 +104,11 @@ l'objet d'une offre de prêt émise avant le 1er janvier 2011, sous réserve que
 futur d'achèvement intervienne au plus tard le 30 septembre 2011 ou, s'agissant d'opérations de construction de logements,
 que la déclaration d'ouverture de chantier intervienne au plus tard à la même date.
 
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -114,19 +120,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (V)
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 70
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 37 (V)
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
   - Code de la consommation - art. L312-2
   - Code général des impôts, CGI. - art. 1729
   - Code général des impôts, CGI. - art. 196
-  - Code général des impôts, CGI. - art. 199 quater B (V)
+  - Code général des impôts, CGI. - art. 199 quater B
   - Code général des impôts, CGI. - art. 199 undecies A
-  - Code général des impôts, CGI. - art. 200 decies A (V)
-  - Code général des impôts, CGI. - art. 200 octies (V)
+  - Code général des impôts, CGI. - art. 200 decies A
+  - Code général des impôts, CGI. - art. 200 octies
   - Code général des impôts, CGI. - art. 244 quater J
   - Code général des impôts, CGI. - art. 4 B
-  - Code de la construction et de l'habitation. - art. L111-9
+  - Code de la construction et de l'habitation. - art. L111-9 (VT)
