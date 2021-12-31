@@ -7,21 +7,23 @@ produit brut des jeux au titre des paris sportifs en ligne ;
 
 1,8 % des sommes engagées au titre des jeux de cercle en ligne.
 
-Le taux du prélèvement mentionné à l'article 302 bis ZG est fixé par décret. Il ne peut être ni inférieur à 4,6 %, ni
-supérieur à 5,7 %.
+Le taux du prélèvement mentionné à l'article 302 bis ZG est fixé à 20,2 % du produit brut des jeux au titre des paris
+hippiques régis par le règlement du Pari Mutuel applicable dans le réseau urbain et sur les hippodromes et à 20,2 % du
+produit brut des jeux au titre des paris hippiques en ligne.
 
 **Nota:**
 
-Conformément aux dispositions du VIII de l'article 138 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en
-vigueur le 1er janvier 2020.
+Conformément au B du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZK, dans sa rédaction
+résultant du C du I du présent article, entre en vigueur à une date fixée par décret qui ne peut être antérieure au 1er
+janvier 2021, et au plus tard le 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 138 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 28 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 302 bis ZG
-  - Code général des impôts, CGI. - art. 302 bis ZH (VD)
+  - Code général des impôts, CGI. - art. 302 bis ZH

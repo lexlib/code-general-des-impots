@@ -10,25 +10,15 @@ suivantes, est inférieur à un seuil :
 de professionnalisation ou d'apprentissage, les salariés embauchés en contrat à durée indéterminée par l'entreprise à l'issue
 dudit contrat ;
 
-2° Les jeunes accomplissant un volontariat international en entreprise régi par la section 1 du chapitre II du titre II du
-livre Ier du code du service national ou bénéficiant d'une convention industrielle de formation par la recherche.
+2° Les personnes bénéficiant d'une convention industrielle de formation par la recherche.
 
 Ce seuil est égal à 4 % de l'effectif salarié au cours de l'année de référence. Le respect du seuil est apprécié en calculant
 un pourcentage exprimant le rapport entre les effectifs des 1° et 2° du présent I et l'effectif salarié annuel. Ce seuil est
 porté à 5 % à compter des rémunérations versées en 2015.
 
-Les entreprises dont l'effectif salarié annuel relevant des catégories définies au 1° est supérieur ou égal à 3 % de
-l'effectif salarié annuel peuvent, à compter de l'année 2012, être exonérées de la contribution supplémentaire à
-l'apprentissage au titre de l'année considérée si elles remplissent l'une des conditions suivantes :
-
-a) L'entreprise justifie d'une progression de l'effectif salarié annuel relevant des catégories définies au 1° d'au moins 10
-% par rapport à l'année précédente ;
-
-b) L'entreprise a connu une progression de l'effectif salarié annuel relevant des catégories définies au même 1° et relève
-d'une branche couverte par un accord prévoyant au titre de l'année une progression d'au moins 10 % du nombre de salariés
-relevant des catégories définies audit 1° dans les entreprises d'au moins deux cent cinquante salariés et justifiant, par
-rapport à l'année précédente, que la progression est atteinte dans les proportions prévues par l'accord au titre de l'année
-considérée.
+Toutefois, l'entreprise qui justifie d'une progression de l'effectif salarié annuel relevant des catégories définies aux 1°
+et 2° d'au moins 10 % par rapport à l'année précédente est exonérée de la contribution supplémentaire à l'apprentissage due
+au titre des rémunérations versées l'année au cours de laquelle cette progression intervient.
 
 II. – Cette contribution est assise sur les rémunérations retenues pour l'assiette de la taxe d'apprentissage en application
 des articles 1599 ter B et 1599 ter C.
@@ -51,8 +41,8 @@ III. – A. – Pour l'application du présent article, l'effectif salarié est 
 l'article L. 130-1 du code de la sécurité sociale.
 
 Toutefois, par dérogation au même I, la période à retenir pour apprécier le nombre de salariés est l'année au titre de
-laquelle la contribution est due. En cas de franchissement du seuil de deux cent cinquante salariés, les dispositions du II
-du même article L. 130-1 sont applicables.
+laquelle la contribution est due. En cas de franchissement du seuil de deux cent cinquante salariés ou du seuil de deux mille
+salariés, les dispositions du II du même article L. 130-1 sont applicables.
 
 B. – Pour les entreprises visées à l'article L. 1251-2 du code du travail, les seuils définis au I s'apprécient sans prendre
 en compte les salariés titulaires d'un contrat de travail mentionné au 2° de l'article L. 1251-1 du même code et la
@@ -62,6 +52,14 @@ IV. – L'article 1599 ter K est applicable à cette contribution. Pour les éta
 les taux prévus au II sont réduits à 52 % de leur montant.
 
 V. – Cette contribution est recouvrée dans les conditions prévues au III de l'article L. 6131-1 du code du travail.
+
+**Nota:**
+
+Conformément au B du V de l’article 190 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1609
+quinvicies résultant des dispositions des a et c du 4° du I s'appliquent à compter de la date d'entrée en vigueur de
+l'ordonnance relative à la collecte des contributions des employeurs au titre du financement de la formation professionnelle
+et de l'apprentissage prévue à l'article 41 de la loi n° 2018-771 du 5 septembre 2018 précitée, et au plus tard à compter du
+1er janvier 2022.
 
 **Liens relatifs à cet article**
 
@@ -78,7 +76,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-771 du 5 septembre 2018 - art. 37 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 190 (V)
 
 _Cite_:
