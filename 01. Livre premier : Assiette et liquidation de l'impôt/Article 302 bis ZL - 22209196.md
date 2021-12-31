@@ -5,8 +5,8 @@ jeu ou de pari réalisée au moyen d'un compte joueur ouvert sur un site dédié
 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard
 en ligne.
 
-L'exigibilité du prélèvement mentionné à l'article 302 bis ZH est constituée par la réalisation du ou des événements sur
-lesquels repose le jeu. L'exigibilité des prélèvements mentionnés aux articles 302 bis ZG et 302 bis ZI est constituée par
+L'exigibilité des prélèvements mentionnés aux articles 302 bis ZG et 302 bis ZH est constituée par la réalisation du ou des
+événements sur lesquels repose le jeu. L'exigibilité du prélèvement mentionné à l'article 302 bis ZI est constituée par
 l'encaissement des sommes engagées par les joueurs ou les parieurs. L'exigibilité du prélèvement mentionné à l'article 302
 bis ZO est constituée par le versement des commissions aux sociétés de courses.
 
@@ -30,8 +30,9 @@ tard le 25 du mois qui suit celui au cours duquel l'exigibilité est intervenue.
 
 **Nota:**
 
-Conformément au A du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZL, dans sa rédaction
-résultant du 1° du D du I du présent article, entre en vigueur le 1er janvier 2020.
+Conformément au B du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZL, dans sa rédaction
+résultant du 2° du D du I du présent article, entre en vigueur à une date fixée par décret qui ne peut être antérieure au 1er
+janvier 2021, et au plus tard le 1er janvier 2022.
 
 **Liens relatifs à cet article**
 

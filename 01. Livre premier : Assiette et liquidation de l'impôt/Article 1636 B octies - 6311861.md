@@ -53,6 +53,10 @@ A compter des impositions établies au titre de l'année 2019, les recettes que 
 procurées sur le territoire de la Ville de Paris sont, pour l'application du I, minorées de la part que cette taxe a procurée
 au titre de l'année 2018 au département de Paris.
 
+A compter des impositions établies au titre de 2022, les recettes de taxe foncière sur les propriétés bâties des communes à
+prendre en compte pour l'application du I sont minorées du produit que cette taxe a procuré au département, sur le territoire
+de chaque commune, au titre de l'année 2020.
+
 III. – Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre
 les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes que
 chacune de ces taxes procurerait à la commune si l'on appliquait les taux de l'année précédente aux bases de l'année
@@ -86,6 +90,10 @@ A compter des impositions établies au titre de l'année 2016, les recettes de t
 III du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
 précédente à chaque commune.
 
+A compter des impositions établies au titre de 2022, les recettes de taxe foncière sur les propriétés bâties des communes à
+prendre en compte pour l'application du III sont minorées du produit que cette taxe a procuré au département, sur le
+territoire de chaque commune, au titre de l'année 2020.
+
 Pour l'application du III, le produit fiscal à recouvrer est minoré de la part, reversée par la commune au syndicat, du
 montant perçu en 2003, en application du D de l'article 44 de la loi de finances pour 1999 précitée et du 1 du III de
 l'article 29 de la loi de finances pour 2003 précitée, indexé chaque année comme la dotation forfaitaire prévue par l'article
@@ -95,7 +103,7 @@ alinéa.
 **Nota:**
 
 Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
-6° du D du I dudit article, s’appliquent à compter des impositions établies au titre de 2021.
+10° du D du II dudit article, s’appliquent à compter des impositions établies au titre de 2022.
 
 **Liens relatifs à cet article**
 
