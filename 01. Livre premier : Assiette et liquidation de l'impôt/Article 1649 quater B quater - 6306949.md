@@ -86,18 +86,19 @@ XIII.-La déclaration de crédit d'impôt pour dépenses de recherche mentionné
 
 XIV.-Les déclarations de taxe sur les salaires sont souscrites par voie électronique.
 
+XV.-Les déclarations de la taxe sur les conventions d'assurance mentionnée à l'article 991, des taxes assimilées prévues aux
+articles 990 İ, 1635 bis A et 1635 bis AD, de la contribution forfaitaire annuelle mentionnée au V de l'article L. 426-1 du
+code des assurances et de la taxe mentionnée au IV de l'article 9 de la loi n° 2013-1279 du 29 décembre 2013 de finances
+rectificative pour 2013 sont souscrites par voie électronique.
+
 XVI. - Un décret précise les autres déclarations qui sont souscrites par voie électronique, sous peine de l'application de
 l'article 1738.
 
 **Nota:**
 
-Conformément à l'article 72 II de la loi n° 2015-1786 du 29 décembre 2015, le VII de l'article 1649 quater B quater du code
-général des impôts s'applique à compter d'une date fixée par décret, comprise entre le 1er janvier 2018 et le 31 décembre
-2019.
-
-Conformément à l’article 199 V C de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 1649 quater B
-quater telles qu'elles résultent du 6° du I dudit article s’appliquent aux impositions dont le fait générateur intervient à
-compter du 1er janvier 2019.
+Conformément au V de l’article 166 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1649 quater B
+quater telles qu'elles résultent du 4° du II dudit article s'appliquent à compter d'une date fixée par décret, et au plus
+tard aux impositions dont le fait générateur intervient à compter du 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
@@ -121,5 +122,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 34 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 150
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 166 (V)

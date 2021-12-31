@@ -16,24 +16,24 @@ chacune des périodes au cours de laquelle le droit devient exigible, fixés con
 Groupe de produits</th>
       <th>
 
-Du 1er mars 2019
+Du 1er janvier 2022
 
-au 31 octobre 2019</th>
+au 31 décembre 2022</th>
       <th>
 
-Du 1er novembre 2019
+Du 1er janvier 2023
 
-au 29 février 2020</th>
+au 31 décembre 2023</th>
       <th>
 
-Du 1er mars 2020
+Du 1er janvier 2024
 
-au 31 octobre 2020</th>
+au 31 décembre 2024</th>
       <th>
 
-A compter
+Du 1er janvier 2025
 
-du 1er novembre 2020</th>
+au 31 décembre 2025</th>
     </tr>
     <tr>
       <td align="center" colspan="5">
@@ -46,16 +46,16 @@ Cigarettes</td>
 Taux proportionnel (en %)</td>
       <td align="center">
 
-44,4</td>
+50,4</td>
       <td align="center">
 
-45,8</td>
+51,5</td>
       <td align="center">
 
-47,3</td>
+52,7</td>
       <td align="center">
 
-48,8</td>
+53,8</td>
     </tr>
     <tr>
       <td align="left">
@@ -63,16 +63,16 @@ Taux proportionnel (en %)</td>
 Part spécifique pour mille unités (en euros)</td>
       <td align="center">
 
-36,3</td>
+50,8</td>
       <td align="center">
 
-40,1</td>
+53,7</td>
       <td align="center">
 
-43,9</td>
+56,8</td>
       <td align="center">
 
-47,6</td>
+58,9</td>
     </tr>
     <tr>
       <td align="center" colspan="5">
@@ -85,16 +85,16 @@ Cigares et cigarillos</td>
 Taux proportionnel (en %)</td>
       <td align="center">
 
-17,8</td>
+28,1</td>
       <td align="center">
 
-20,4</td>
+30,2</td>
       <td align="center">
 
-22,9</td>
+32,4</td>
       <td align="center">
 
-25,5</td>
+34,5</td>
     </tr>
     <tr>
       <td align="left">
@@ -102,16 +102,16 @@ Taux proportionnel (en %)</td>
 Part spécifique pour mille unités (en euros)</td>
       <td align="center">
 
-31,9</td>
+45,8</td>
       <td align="center">
 
-36,4</td>
+45,9</td>
       <td align="center">
 
-40,9</td>
+46,1</td>
       <td align="center">
 
-45,4</td>
+46,2</td>
     </tr>
     <tr>
       <td align="center" colspan="5">
@@ -124,16 +124,16 @@ Tabacs fine coupe destinés à rouler les cigarettes</td>
 Taux proportionnel (en %)</td>
       <td align="center">
 
-25,1</td>
+38,3</td>
       <td align="center">
 
-28,5</td>
+41,0</td>
       <td align="center">
 
-31,9</td>
+43,7</td>
       <td align="center">
 
-35,2</td>
+46,4</td>
     </tr>
     <tr>
       <td align="left">
@@ -141,16 +141,16 @@ Taux proportionnel (en %)</td>
 Part spécifique pour mille grammes (en euros)</td>
       <td align="center">
 
-40,4</td>
+63,3</td>
       <td align="center">
 
-46,3</td>
+68,0</td>
       <td align="center">
 
-52,3</td>
+72,8</td>
       <td align="center">
 
-58,3</td>
+77,5</td>
     </tr>
     <tr>
       <td align="center" colspan="5">
@@ -163,16 +163,16 @@ Autres tabacs à fumer</td>
 Taux proportionnel (en %)</td>
       <td align="center">
 
-32,9</td>
+43,3</td>
       <td align="center">
 
-35,5</td>
+45,4</td>
       <td align="center">
 
-38,1</td>
+47,5</td>
       <td align="center">
 
-40,8</td>
+50,0</td>
     </tr>
     <tr>
       <td align="left">
@@ -180,16 +180,16 @@ Taux proportionnel (en %)</td>
 Part spécifique pour mille grammes (en euros)</td>
       <td align="center">
 
-8,7</td>
+20,0</td>
       <td align="center">
 
-11,6</td>
+22,3</td>
       <td align="center">
 
-14,5</td>
+24,7</td>
       <td align="center">
 
-17,5</td>
+27,0</td>
     </tr>
     <tr>
       <td align="center" colspan="5">
@@ -202,16 +202,16 @@ Tabacs à priser</td>
 Taux proportionnel (en %)</td>
       <td align="center">
 
-31,4</td>
+46,2</td>
       <td align="center">
 
-35,2</td>
+49,3</td>
       <td align="center">
 
-39,0</td>
+52,3</td>
       <td align="center">
 
-42,8</td>
+55,4</td>
     </tr>
     <tr>
       <td align="center" colspan="5">
@@ -224,29 +224,154 @@ Tabacs à mâcher</td>
 Taux proportionnel (en %)</td>
       <td align="center">
 
-22,7</td>
+32,8</td>
       <td align="center">
 
-25,2</td>
+34,9</td>
       <td align="center">
 
-27,8</td>
+36,9</td>
       <td align="center">
 
-30,4</td>
+39,0</td>
     </tr>
   </tbody>
 </table>
 
-II.-Pour les cigarettes, le prix de vente au détail appliqué en Corse est au moins égal à 75 % des prix de vente continentaux
-des mêmes produits.
+II.-Pour les différents produits du tabac, le prix de vente au détail appliqué en Corse est au moins égal à un pourcentage
+des prix de vente continentaux des mêmes produits, fixé conformément au tableau ci-après :
 
-Pour les tabacs fine coupe destinés à rouler les cigarettes, les autres tabacs à fumer, les tabacs à priser et les tabacs à
-mâcher, le prix de vente au détail appliqué en Corse est au moins égal aux deux tiers des prix continentaux des mêmes
-produits.
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
 
-Pour les cigares et les cigarillos, le prix de vente au détail appliqué en Corse est au moins égal à 85 % des prix
-continentaux des mêmes produits.
+Groupe de produits</th>
+      <th>
+
+Du 1er janvier 2022
+
+au 31 décembre 2022</th>
+      <th>
+
+Du 1er janvier 2023
+
+au 31 décembre 2023</th>
+      <th>
+
+Du 1er janvier 2024
+
+au 31 décembre 2024</th>
+      <th>
+
+Du 1er janvier 2025
+
+au 31 décembre 2025</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Cigarettes</td>
+      <td align="center">
+
+80 %</td>
+      <td align="center">
+
+85 %</td>
+      <td align="center">
+
+90 %</td>
+      <td align="center">
+
+95 %</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Cigares et cigarillos</td>
+      <td align="center">
+
+85 %</td>
+      <td align="center">
+
+91 %</td>
+      <td align="center">
+
+94 %</td>
+      <td align="center">
+
+97 %</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Tabacs fine coupe destinés à rouler les cigarettes</td>
+      <td align="center">
+
+80 %</td>
+      <td align="center">
+
+85 %</td>
+      <td align="center">
+
+90 %</td>
+      <td align="center">
+
+95 %</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Autres tabacs à fumer</td>
+      <td align="center">
+
+80 %</td>
+      <td align="center">
+
+85 %</td>
+      <td align="center">
+
+90 %</td>
+      <td align="center">
+
+95 %</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Tabacs à priser</td>
+      <td align="center">
+
+80 %</td>
+      <td align="center">
+
+85 %</td>
+      <td align="center">
+
+90 %</td>
+      <td align="center">
+
+95 %</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Tabacs à mâcher</td>
+      <td align="center">
+
+80 %</td>
+      <td align="center">
+
+85 %</td>
+      <td align="center">
+
+90 %</td>
+      <td align="center">
+
+95 %</td>
+    </tr>
+  </tbody>
+</table>
 
 III.-Outre les cas prévus au 1 du I de l'article 302 D en ce qui concerne les tabacs manufacturés directement introduits en
 Corse en provenance d'un autre Etat membre de la Communauté européenne, le droit de consommation est également exigible soit
@@ -262,6 +387,11 @@ V.-Le produit du droit de consommation est affecté à la collectivité de Corse
 valeur de la Corse.
 
 VI.-Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration.
+
+**Nota:**
+
+version en vigueur à compter du 1er janvier 2022 conformément au II de l'article 195 de la loi n° 2019-1479 du 28 décembre
+2019.
 
 **Liens relatifs à cet article**
 

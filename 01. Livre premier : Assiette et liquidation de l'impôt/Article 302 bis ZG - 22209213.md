@@ -3,8 +3,8 @@
 Il est institué, pour le pari mutuel organisé et exploité par les sociétés de courses dans les conditions fixées par
 l'article 5 de la loi du 2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de
 chevaux et pour les paris hippiques en ligne mentionnés à l'article 11 de la loi n° 2010-476 du 12 mai 2010 relative à
-l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne, un prélèvement sur les
-sommes engagées par les parieurs.
+l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne, un prélèvement sur le
+produit brut des jeux.
 
 Ce prélèvement est dû par le Pari mutuel urbain ou les sociétés de courses intéressées pour les paris organisés dans les
 conditions fixées par l'article 5 de la loi du 2 juin 1891 précitée et par les personnes devant être soumises, en tant
@@ -22,8 +22,9 @@ tabac retenue dans le projet de loi de finances de l'année.
 
 **Nota:**
 
-Conformément au IV de l'article 4 de la loi n° 2019-809 du 1er août 2019, ces dispositions entrent en vigueur le 1er avril
-2020.
+Conformément au B du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZG, dans sa rédaction
+résultant du A du I du présent article, entre en vigueur à une date fixée par décret qui ne peut être antérieure au 1er
+janvier 2021, et au plus tard le 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
@@ -43,4 +44,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-809 du 1er août 2019 - art. 4 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 116
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 28 (V)
