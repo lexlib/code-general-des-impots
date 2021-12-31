@@ -9,8 +9,8 @@ biens expédiés ou transportés à destination de la France.
 
 II.-Lorsqu'il est recouru au présent dispositif, les conditions suivantes sont applicables : 
 
-1° Le destinataire des biens est redevable de la taxe sur la valeur ajoutée conformément à la première phrase du troisième
-alinéa du 1 de l'article 293 A ; 
+1° Par dérogation au 2 de l'article 293 A, le redevable de la taxe sur la valeur ajoutée est le destinataire du bien indiqué
+sur la déclaration d'importation et l'option prévue à l'article 293 A quater ne peut être exercée ; 
 
 2° La personne qui présente les biens en douane prend les mesures appropriées pour percevoir la taxe sur la valeur ajoutée
 auprès du destinataire des biens préalablement à son acquittement auprès du service des douanes conformément aux dispositions
@@ -42,14 +42,15 @@ d'octobre de l'année qui précède. Le montant ainsi converti est arrondi le ca
 
 **Nota:**
 
-Conformément au A du IV de l’article 147 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux
-opérations pour lesquelles le fait générateur de la taxe sur la valeur ajoutée intervient à compter du 1er janvier 2021.
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient
+à compter de cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 147 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
 
 _Cite_:
 

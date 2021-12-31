@@ -17,6 +17,10 @@ A compter des impositions établies au titre de 2019, les recettes que la taxe f
 sur le territoire de la Ville de Paris sont, pour l'application du troisième alinéa, minorées de la part que cette taxe a
 procurée au titre de l'année 2018 au département de Paris.
 
+A compter des impositions établies au titre de 2022, les recettes de taxe foncière sur les propriétés bâties des communes à
+prendre en compte pour réaliser cette répartition sont minorées du produit que cette taxe a procuré au département, sur le
+territoire de chaque commune, au titre de l'année 2020.
+
 La base de la taxe est déterminée dans les mêmes conditions que pour la part communale ou, à défaut de part communale, dans
 les mêmes conditions que la part intercommunale de la taxe principale à laquelle la taxe additionnelle s'ajoute.
 
@@ -25,11 +29,11 @@ directes.
 
 **Nota:**
 
-Conformément à l'article 18 de l'ordonnance n° 2018-75 du 8 février 2018, les présentes dispositions s'appliquent à compter
-des impositions établies au titre de 2019.
+Conformément au D du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2022.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2018-75 du 8 février 2018 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)

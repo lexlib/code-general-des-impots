@@ -24,7 +24,7 @@ III. – Le taux de la taxe est fixé à 0,75 %.
 IV. – Pour les redevables qui acquittent la taxe sur la valeur ajoutée selon les modalités prévues au premier alinéa du 2 de
 l'article 287, la taxe est calculée sur les salaires tels qu'ils sont définis au II, versés au cours du dernier mois échu et
 acquittée sur l'annexe à chaque déclaration mensuelle de taxe sur la valeur ajoutée déposée au cours du mois suivant. Pour
-ceux des redevables mentionnés au troisième alinéa du 2 de l'article 287, la taxe est calculée sur les salaires versés au
+ceux des redevables mentionnés au quatrième alinéa du 2 de l'article 287, la taxe est calculée sur les salaires versés au
 cours du dernier trimestre échu et acquittée sur l'annexe à la déclaration de taxe sur la valeur ajoutée déposée au cours du
 mois suivant la fin de chaque trimestre civil.
 
@@ -47,6 +47,12 @@ avec le ministre chargé de la formation professionnelle.
 Les modalités d'exercice des attributions du membre du corps du contrôle général économique et financier et du commissaire du
 Gouvernement sont fixées par décret.
 
+**Nota:**
+
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient
+à compter de cette date.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -55,13 +61,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
 
 _Cité par_:
 
-  - Code général des impôts, CGI. - art. 1647 (M)
+  - Code général des impôts, CGI. - art. 1647 (VD)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 287 (VD)
-  - Code général des impôts, CGI. - art. 293 B (VT)
+  - Code général des impôts, CGI. - art. 293 B
