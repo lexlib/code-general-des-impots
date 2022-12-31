@@ -3,15 +3,17 @@
 I. – Les produits des taxes spéciales d'équipement perçues au profit des établissements publics fonciers visés aux articles
 L. 321-1 et L. 324-1 du code de l'urbanisme, de l'Etablissement public foncier et d'aménagement de la Guyane et des agences
 pour la mise en valeur des espaces urbains de la zone dite " des cinquante pas géométriques " en Guadeloupe et en Martinique
-sont répartis entre les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement
-aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble des communes et de leurs établissements
-publics de coopération intercommunale situés dans le ressort de ces établissements.
+sont répartis entre les taxes foncières, la taxe d'habitation sur les résidences secondaires et autres locaux meublés non
+affectés à l'habitation principale et la cotisation foncière des entreprises proportionnellement aux recettes que chacune de
+ces taxes a procurées l'année précédente à l'ensemble des communes et de leurs établissements publics de coopération
+intercommunale situés dans le ressort de ces établissements.
 
 Lorsqu'il est fait application des troisième et quatrième alinéas de l'article 1607 bis et des troisième et avant-dernier
 alinéas de l'article 1607 ter, les produits de la taxe spéciale d'équipement perçue au profit de l'établissement public
-foncier sont répartis entre les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises
-proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente, dans chaque partie de son
-territoire, à l'ensemble des communes et de leurs établissements publics de coopération intercommunale.
+foncier sont répartis entre les taxes foncières, la taxe d'habitation sur les résidences secondaires et autres locaux meublés
+non affectés à l'habitation principale et la cotisation foncière des entreprises proportionnellement aux recettes que chacune
+de ces taxes a procurées l'année précédente, dans chaque partie de son territoire, à l'ensemble des communes et de leurs
+établissements publics de coopération intercommunale.
 
 II. – Pour l'application du I, les recettes s'entendent de celles figurant dans des rôles généraux. Elles sont majorées du
 montant perçu l'année précédente au titre de la part de la dotation forfaitaire prévue à l'article L. 2334-7 du code général
@@ -32,22 +34,24 @@ ressort de l'établissement public foncier si les taux de référence définis a
 appliqués et, d'autre part, le produit que cette taxe a procuré au titre de l'année 2010 à ces mêmes communes et
 établissements publics.
 
-A compter des impositions établies au titre de l'année 2021, les recettes de taxe d'habitation sont, pour l'application du I,
-minorées du produit de la différence entre, d'une part, le produit que la taxe a procuré au titre de l'année 2011 à
-l'ensemble des communes et de leurs établissements publics de coopération intercommunale situés dans le ressort de
-l'établissement public foncier et, d'autre part, le produit que cette taxe aurait procuré au titre de l'année 2011 à ces
-mêmes communes et établissements publics si les taux de l'année 2010 avaient été appliqués, par le rapport entre, d'une part,
-le produit que la taxe d'habitation afférente aux locaux meublés non affectés à l'habitation principale a procuré à ces mêmes
-communes et établissements au titre de l'année 2020 et, d'autre part, le produit que la taxe d'habitation a procuré à ces
-mêmes communes et établissements au titre de l'année 2020.
+A compter des impositions établies au titre de l'année 2021, les recettes de taxe d'habitation sur les résidences secondaires
+et autres locaux meublés non affectés à l'habitation principale sont, pour l'application du I, minorées du produit de la
+différence entre, d'une part, le produit que la taxe d'habitation a procuré au titre de l'année 2011 à l'ensemble des
+communes et de leurs établissements publics de coopération intercommunale situés dans le ressort de l'établissement public
+foncier et, d'autre part, le produit que la taxe d'habitation aurait procuré au titre de l'année 2011 à ces mêmes communes et
+établissements publics si les taux de l'année 2010 avaient été appliqués, par le rapport entre, d'une part, le produit que la
+taxe d'habitation afférente aux locaux meublés non affectés à l'habitation principale a procuré à ces mêmes communes et
+établissements au titre de l'année 2020 et, d'autre part, le produit que la taxe d'habitation a procuré à ces mêmes communes
+et établissements au titre de l'année 2020.
 
 A compter des impositions établies au titre de l'année 2016, les recettes que la taxe foncière sur les propriétés bâties a
 procurées sur le territoire de la métropole de Lyon sont, pour l'application du I, minorées de la part que cette taxe a
 procurée au titre de l'année 2014 au département du Rhône.
 
-A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du I
-du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
-précédente à l'ensemble des communes situées dans le ressort de l'établissement public foncier.
+A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sur les résidences secondaires
+et autres locaux meublés non affectés à l'habitation principale sont, pour l'application du I du présent article, minorées du
+produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année précédente à l'ensemble des communes
+situées dans le ressort de l'établissement public foncier.
 
 A compter des impositions établies au titre de l'année 2019, les recettes que la taxe foncière sur les propriétés bâties a
 procurées sur le territoire de la Ville de Paris sont, pour l'application du I, minorées de la part que cette taxe a procurée
@@ -58,9 +62,9 @@ prendre en compte pour l'application du I sont minorées du produit que cette ta
 de chaque commune, au titre de l'année 2020.
 
 III. – Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre
-les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes que
-chacune de ces taxes procurerait à la commune si l'on appliquait les taux de l'année précédente aux bases de l'année
-d'imposition.
+les taxes foncières, la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation
+principale et la cotisation foncière des entreprises proportionnellement aux recettes que chacune de ces taxes procurerait à
+la commune si l'on appliquait les taux de l'année précédente aux bases de l'année d'imposition.
 
 IV. – Pour l'application du III, les recettes afférentes à la cotisation foncière des entreprises sont majorées de la part,
 calculée à partir du seul taux communal, du montant perçu en 2003, en application du D de l'article 44 de la loi de finances
@@ -78,17 +82,18 @@ majorées de la différence entre, d'une part, le produit qu'a procuré au titre
 l'ensemble des locaux situés sur son territoire et, d'autre part, le produit qu'aurait procuré au titre de l'année 2011 à
 cette même commune la taxation de ces mêmes locaux, si les taux de l'année 2010 avaient été appliqués.
 
-A compter des impositions établies au titre de l'année 2021, les recettes de taxe d'habitation sont, pour l'application du
-III, minorées du produit de la différence entre, d'une part, le produit qu'a procuré au titre de l'année 2011 à la commune la
-taxation de l'ensemble des locaux situés dans son ressort et, d'autre part, le produit qu'aurait procuré au titre de l'année
-2011 à cette même commune la taxation de ces mêmes locaux si le taux de l'année 2010 avait été appliqué, par le rapport
-entre, d'une part, le produit que la taxe d'habitation afférente aux locaux meublés non affectés à l'habitation principale a
-procuré à ces mêmes communes au titre de l'année 2020 et, d'autre part, le produit que la taxe d'habitation a procuré à ces
-mêmes communes au titre de l'année 2020 .
+A compter des impositions établies au titre de l'année 2021, les recettes de taxe d'habitation sur les résidences secondaires
+et autres locaux meublés non affectés à l'habitation principale sont, pour l'application du III, minorées du produit de la
+différence entre, d'une part, le produit qu'a procuré au titre de l'année 2011 à la commune la taxation de l'ensemble des
+locaux situés dans son ressort et, d'autre part, le produit qu'aurait procuré au titre de l'année 2011 à cette même commune
+la taxation de ces mêmes locaux si le taux de l'année 2010 avait été appliqué, par le rapport entre, d'une part, le produit
+que la taxe d'habitation afférente aux locaux meublés non affectés à l'habitation principale a procuré à ces mêmes communes
+au titre de l'année 2020 et, d'autre part, le produit que la taxe d'habitation a procuré à ces mêmes communes au titre de
+l'année 2020 .
 
-A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du
-III du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année
-précédente à chaque commune.
+A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sur les résidences secondaires
+et autres locaux meublés non affectés à l'habitation principale sont, pour l'application du III du présent article, minorées
+du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année précédente à chaque commune.
 
 A compter des impositions établies au titre de 2022, les recettes de taxe foncière sur les propriétés bâties des communes à
 prendre en compte pour l'application du III sont minorées du produit que cette taxe a procuré au département, sur le
@@ -102,8 +107,8 @@ alinéa.
 
 **Nota:**
 
-Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
-10° du D du II dudit article, s’appliquent à compter des impositions établies au titre de 2022.
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
+10° du E dudit article s’appliquent à compter des impositions établies au titre de 2023.
 
 **Liens relatifs à cet article**
 
@@ -117,10 +122,6 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-28-1
   - Code de l'urbanisme - art. L321-1
   - Code de l'urbanisme - art. L324-1
-
-_Modifié par_:
-
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cité par_:
 
