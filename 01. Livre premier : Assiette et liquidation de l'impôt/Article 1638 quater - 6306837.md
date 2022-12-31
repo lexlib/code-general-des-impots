@@ -61,14 +61,16 @@ du vent est, dès la première année, celui fixé par l'établissement public d
 
 IV. – En cas de rattachement volontaire ou à la suite d'une transformation dans les conditions prévues à l'article L.
 5211-41-1 du code général des collectivités territoriales d'une commune à un établissement public de coopération
-intercommunale à fiscalité additionnelle, l'organe délibérant vote les taux de taxe d'habitation, de foncier bâti, de foncier
-non bâti et de cotisation foncière des entreprises dans les conditions prévues à l'article 1636 B sexies.
+intercommunale à fiscalité additionnelle, l'organe délibérant vote les taux de taxe d'habitation sur les résidences
+secondaires et autres locaux meublés non affectés à l'habitation principale, de foncier bâti, de foncier non bâti et de
+cotisation foncière des entreprises dans les conditions prévues à l'article 1636 B sexies.
 
 IV bis. – Dans les cas prévus aux I et IV, par délibérations concordantes de l'organe délibérant de l'établissement public de
-coopération intercommunale et du conseil municipal de la commune concernée, les taux de taxe d'habitation, de taxe foncière
-sur les propriétés bâties, de taxe foncière sur les propriétés non bâties et, le cas échéant, de cotisation foncière des
-entreprises votés par l'organe délibérant de l'établissement public de coopération intercommunale peuvent être appliqués de
-manière progressive, par fractions égales, sur une période maximale de douze années.
+coopération intercommunale et du conseil municipal de la commune concernée, les taux de taxe d'habitation sur les résidences
+secondaires et autres locaux meublés non affectés à l'habitation principale, de taxe foncière sur les propriétés bâties, de
+taxe foncière sur les propriétés non bâties et, le cas échéant, de cotisation foncière des entreprises votés par l'organe
+délibérant de l'établissement public de coopération intercommunale peuvent être appliqués de manière progressive, par
+fractions égales, sur une période maximale de douze années.
 
 Lorsque, l'année du rattachement, la commune était membre d'un établissement public de coopération intercommunale à fiscalité
 propre, la procédure d'intégration fiscale progressive prévue au premier alinéa du présent IV bis ne concerne que la
@@ -96,6 +98,11 @@ publics de coopération intercommunale, dont l'un au moins faisait application e
 nouvelles dont les anciennes communes n'étaient pas membres en 2011 d'un établissement public de coopération intercommunale
 faisant application du même article 1609 nonies C.
 
+**Nota:**
+
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2023.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -107,7 +114,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 50
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cite_:
 
