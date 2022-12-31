@@ -1,7 +1,8 @@
 # Article 1636 B decies
 
 I. – Les communes membres d'un établissement public de coopération intercommunale soumis à l'article 1609 nonies C  votent le
-taux des taxes foncières conformément aux dispositions applicables aux communes.
+taux de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale
+et des taxes foncières conformément aux dispositions applicables aux communes.
 
 II. – Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C ou du I ou du
 II de l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises dans les limites définies au b du

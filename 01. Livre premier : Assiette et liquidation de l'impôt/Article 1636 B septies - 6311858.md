@@ -1,8 +1,9 @@
 # Article 1636 B septies
 
-I. – Les taux des taxes foncières et de la taxe d'habitation votés par une commune ne peuvent excéder deux fois et demie le
-taux moyen constaté l'année précédente pour la même taxe dans l'ensemble des communes du département ou deux fois et demie le
-taux moyen constaté au niveau national s'il est plus élevé.
+I. – Les taux des taxes foncières et de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non
+affectés à l'habitation principale votés par une commune ne peuvent excéder deux fois et demie le taux moyen constaté l'année
+précédente pour la même taxe dans l'ensemble des communes du département ou deux fois et demie le taux moyen constaté au
+niveau national s'il est plus élevé.
 
 Pour l'application du premier alinéa aux communes situées sur le territoire de la métropole de Lyon, le taux moyen d'une taxe
 constaté l'année précédente dans l'ensemble des communes du département s'entend du taux moyen constaté l'année précédente
@@ -25,13 +26,13 @@ taux moyen constaté l'année précédente au niveau national pour l'ensemble de
 intercommunale soumis à l'article 1609 nonies C.
 
 IX. – Les taux de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties et de la taxe
-d'habitation votés par la Ville de Paris ne peuvent excéder deux fois et demie le taux moyen communal constaté l'année
-précédente au niveau national.
+d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale votés par la
+Ville de Paris ne peuvent excéder deux fois et demie le taux moyen communal constaté l'année précédente au niveau national.
 
 **Nota:**
 
-Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
-B du III dudit article, s’appliquent à compter des impositions établies au titre de 2021.
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
+24° du E du I dudit article, s’appliquent à compter des impositions établies au titre de 2023.
 
 **Liens relatifs à cet article**
 

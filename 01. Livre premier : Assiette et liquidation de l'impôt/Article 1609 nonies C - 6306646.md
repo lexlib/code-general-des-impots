@@ -51,18 +51,22 @@ I quater. – Par exception au I de l'article 1639 A bis, l'établissement publi
 présent article et issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15
 janvier pour prendre les délibérations prévues aux 3 et 4 du I bis et au I ter du présent article.
 
-II. – Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux, de la taxe foncière
-sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
+II. – Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux de la taxe
+d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale, de la taxe
+foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
 
 La première année d'application du présent article, ainsi que l'année qui suit celle au titre de laquelle l'établissement
-public de coopération intercommunale a voté un taux égal à zéro pour ces deux taxes, les rapports entre les taux des taxes
+public de coopération intercommunale a voté un taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe
+d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et des taxes
 foncières votés par le conseil de l'établissement public de coopération intercommunale sont égaux aux rapports constatés
 l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
 Par dérogation, lorsque l'établissement public de coopération intercommunale percevait une fiscalité additionnelle l'année
-précédant celle de l'application de ces dispositions, les rapports entre les taux des taxes foncières établis par
-l'établissement public de coopération intercommunale peuvent être égaux aux rapports entre les taux de taxes foncières votés
-par lui l'année précédente.
+précédant celle de l'application de ces dispositions, les rapports entre les taux de taxe d'habitation sur les résidences
+secondaires et autres locaux meublés non affectés à l'habitation principale et des taxes foncières établis par
+l'établissement public de coopération intercommunale peuvent être égaux aux rapports entre les taux de taxe d'habitation sur
+les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et de taxes foncières votés par
+lui l'année précédente.
 
 III. – 1° a) Le taux de la cotisation foncière des entreprises est voté par le conseil mentionné au II dans les limites
 fixées à l'article 1636 B decies.
@@ -370,8 +374,8 @@ présent article.
 
 **Nota:**
 
-Aux termes du A du VII de l'article 16 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1609 nonies
-C telles qu'elles résultent du 1° du A du III dudit article s'appliquent à compter des impositions établies au titre de 2020.
+Aux termes du E du VII de l'article 16 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1609 nonies
+C telles qu'elles résultent du 2° du A du III dudit article s'appliquent à compter des impositions établies au titre de 2023.
 
 **Liens relatifs à cet article**
 

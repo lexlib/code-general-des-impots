@@ -2,22 +2,25 @@
 
 I. – 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B decies les conseils municipaux et les instances
 délibérantes des organismes de coopération intercommunale dotés d'une fiscalité propre votent chaque année les taux des taxes
-foncières et de la cotisation foncière des entreprises. Ils peuvent :
+foncières et de la cotisation foncière, de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non
+affectés à l'habitation principale des entreprises. Ils peuvent :
 
-a) Soit faire varier dans une même proportion les taux des trois taxes appliqués l'année précédente ;
+a) Soit faire varier dans une même proportion les taux des quatre taxes appliqués l'année précédente ;
 
-b) Soit faire varier librement entre eux les taux des trois taxes. Dans ce cas, le taux de cotisation foncière des
-entreprises :
+b) Soit faire varier librement entre eux les taux des quatre taxes. Dans ce cas :
 
-Ne peut, par rapport à l'année précédente, être augmenté dans une proportion supérieure à l'augmentation du taux de la taxe
-foncière sur les propriétés bâties ou, si elle est moins élevée, à celle du taux moyen des taxes foncières, pondéré par
+1° Le taux de cotisation foncière des entreprises et le taux de taxe d'habitation sur les résidences secondaires et autres
+locaux meublés non affectés à l'habitation principale :
+
+- ne peuvent, par rapport à l'année précédente, être augmentés dans une proportion supérieure à l'augmentation du taux de la
+taxe foncière sur les propriétés bâties ou, si elle est moins élevée, à celle du taux moyen des taxes foncières, pondéré par
 l'importance relative des bases de ces deux taxes pour l'année d'imposition ;
 
-Ou doit être diminué, par rapport à l'année précédente, dans une proportion au moins égale, soit à la diminution du taux de
-la taxe foncière sur les propriétés bâties ou à celle du taux moyen pondéré des taxes foncières, soit à la plus importante de
-ces diminutions lorsque ces deux taux sont en baisse.
+- ou doivent être diminués, par rapport à l'année précédente, dans une proportion au moins égale, soit à la diminution du
+taux de la taxe foncière sur les propriétés bâties ou à celle du taux moyen pondéré des taxes foncières, soit à la plus
+importante de ces diminutions lorsque ces deux taux sont en baisse ;
 
-Le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que le taux de la taxe
+2° Le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que le taux de la taxe
 foncière sur les propriétés bâties.
 
 2. Toutefois, le taux de la taxe foncière sur les propriétés bâties ou le taux de la taxe foncière sur les propriétés non
@@ -61,6 +64,10 @@ excéder le rapport entre d'une part, le taux moyen des taxes foncières, pondé
 deux taxes dans la commune pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de ces deux taxes constaté
 l'année précédente dans l'ensemble des communes.
 
+Dans les communes où le taux ou les bases de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non
+affectés à l'habitation principale étaient nuls l'année précédente, le conseil municipal peut fixer le taux de cette taxe,
+dans les conditions prévues au premier alinéa du présent 1.
+
 2. Dans les établissements publics de coopération intercommunale à fiscalité propre additionnelle où le taux de la cotisation
 foncière des entreprises était nul l'année précédente, l'organe délibérant de l'établissement public de coopération
 intercommunale peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté
@@ -69,6 +76,11 @@ de coopération intercommunale ne doit pas excéder le rapport entre, d'une part
 par l'importance relative des bases de ces deux taxes dans l'établissement public de coopération intercommunale pour l'année
 d'imposition, et, d'autre part, le taux moyen pondéré de ces deux taxes constaté l'année précédente dans l'ensemble des
 communes membres de l'établissement public.
+
+Dans les établissements publics de coopération intercommunale à fiscalité propre additionnelle où le taux de la taxe
+d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale était nul l'année
+précédente, l'organe délibérant de l'établissement public de coopération intercommunale peut fixer le taux de cette taxe dans
+les conditions prévues au premier alinéa du présent 2.
 
 I ter. – 1. Dans les communes où le taux ou les bases de la taxe foncière sur les propriétés non bâties étaient nuls l'année
 précédente, le conseil municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux
@@ -86,19 +98,19 @@ pour la taxe foncière sur les propriétés bâties l'année précédente dans l
 public.
 
 II. – En cas de création d'un établissement public de coopération intercommunale doté d'une fiscalité propre, les rapports
-entre les taux des trois taxes établies par l'établissement public de coopération intercommunale doivent être égaux, la
+entre les taux des quatre taxes établies par l'établissement public de coopération intercommunale doivent être égaux, la
 première année, aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des
 communes membres.
 
 Les dispositions du premier alinéa sont applicables l'année qui suit celle au titre de laquelle l'établissement public de
-coopération intercommunale a voté un taux égal à zéro pour les trois taxes.
+coopération intercommunale a voté un taux égal à zéro pour les quatre taxes.
 
 III. – (Abrogé)
 
 **Nota:**
 
-Conformément au A du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
-à compter des impositions établies au titre de 2020.
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du
+4° du A du III dudit article s’appliquent à compter des impositions établies au titre de 2023.
 
 **Liens relatifs à cet article**
 
@@ -127,7 +139,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cite_:
