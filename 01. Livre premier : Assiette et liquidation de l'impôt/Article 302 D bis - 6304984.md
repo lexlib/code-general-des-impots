@@ -35,7 +35,7 @@ i) Dans la fabrication d'un composant qui n'est pas soumis à l'impôt en applic
 
 III.-(Abrogé)
 
-IV.-Sont exonérés des droits mentionnés aux articles 575, 575 E et 575 E bis les tabacs manufacturés :
+IV.-Sont exonérés des droits mentionnés aux articles 575 et 575 E  les tabacs manufacturés :
 
 a) Dénaturés, utilisés pour des usages industriels ou horticoles ;
 
@@ -48,8 +48,8 @@ du directeur régional des douanes et droits indirects territorialement compéte
 
 **Nota:**
 
-Conformément au II de l’article 185 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
-janvier 2021.
+Conformément au 2° du III de l’article 195 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le
+1er janvier 2026.
 
 **Liens relatifs à cet article**
 
@@ -60,7 +60,7 @@ _Cité par_:
   - Décret n°2018-206 du 26 mars 2018 - art. 1 (V)
   - Décret n°2018-944 du 31 octobre 2018 - art. 12
   - Code général des impôts annexe 1, CGIAN1. - art. 165 (V)
-  - Code général des impôts, CGI. - art. 1798 bis (VD)
+  - Code général des impôts, CGI. - art. 1798 bis (V)
   - Code général des impôts, CGI. - art. 302 D (V)
   - Code général des impôts, CGI. - art. 302 M (V)
   - Code général des impôts, CGI. - art. 458 (V)
@@ -75,7 +75,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 185 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 195 (V)
 
 _Cite_:
